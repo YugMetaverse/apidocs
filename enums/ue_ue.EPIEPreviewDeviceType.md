@@ -22,19 +22,11 @@
 
 • **Android** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34675)
-
 ___
 
 ### IOS
 
 • **IOS** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34675)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34675)
-
 ___
 
 ### Switch
 
 • **Switch** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34675)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **TVOS** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34675)
-
 ___
 
 ### Unset
 
 • **Unset** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34675)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34675)

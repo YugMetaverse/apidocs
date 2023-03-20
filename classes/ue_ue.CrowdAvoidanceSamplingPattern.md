@@ -27,10 +27,6 @@
 
 • **new CrowdAvoidanceSamplingPattern**()
 
-#### Defined in
-
-[ue/ue.d.ts:28893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28893)
-
 • **new CrowdAvoidanceSamplingPattern**(`Angles`, `Radii`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Angles` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\> |
 | `Radii` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:28894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28894)
-
 ## Properties
 
 ### Angles
 
 • **Angles**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:28895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28895)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Radii**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:28896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28896)
-
 ___
 
 ### \_\_tid\_CrowdAvoidanceSamplingPattern\_\_
 
 • `Private` **\_\_tid\_CrowdAvoidanceSamplingPattern\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:28902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28902)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:28900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28900)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28901)

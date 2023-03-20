@@ -54,10 +54,6 @@
 
 • **new FontImportOptionsData**()
 
-#### Defined in
-
-[ue/ue.d.ts:1809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1809)
-
 • **new FontImportOptionsData**(`FontName`, `Height`, `bEnableAntialiasing`, `bEnableBold`, `bEnableItalic`, `bEnableUnderline`, `bAlphaOnly`, `CharacterSet`, `Chars`, `UnicodeRange`, `CharsFilePath`, `CharsFileWildcard`, `bCreatePrintableOnly`, `bIncludeASCIIRange`, `ForegroundColor`, `bEnableDropShadow`, `TexturePageWidth`, `TexturePageMaxHeight`, `XPadding`, `YPadding`, `ExtendBoxTop`, `ExtendBoxBottom`, `ExtendBoxRight`, `ExtendBoxLeft`, `bEnableLegacyMode`, `Kerning`, `bUseDistanceFieldAlpha`, `DistanceFieldScaleFactor`, `DistanceFieldScanRadiusScale`)
 
 #### Parameters
@@ -94,19 +90,11 @@
 | `DistanceFieldScaleFactor` | `number` |
 | `DistanceFieldScanRadiusScale` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:1810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1810)
-
 ## Properties
 
 ### CharacterSet
 
 • **CharacterSet**: [`EFontImportCharacterSet`](../enums/ue_ue.EFontImportCharacterSet.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1818](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1818)
 
 ___
 
@@ -114,19 +102,11 @@ ___
 
 • **Chars**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:1819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1819)
-
 ___
 
 ### CharsFilePath
 
 • **CharsFilePath**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:1821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1821)
 
 ___
 
@@ -134,19 +114,11 @@ ___
 
 • **CharsFileWildcard**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:1822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1822)
-
 ___
 
 ### DistanceFieldScaleFactor
 
 • **DistanceFieldScaleFactor**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1838)
 
 ___
 
@@ -154,19 +126,11 @@ ___
 
 • **DistanceFieldScanRadiusScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1839)
-
 ___
 
 ### ExtendBoxBottom
 
 • **ExtendBoxBottom**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1832)
 
 ___
 
@@ -174,19 +138,11 @@ ___
 
 • **ExtendBoxLeft**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1834)
-
 ___
 
 ### ExtendBoxRight
 
 • **ExtendBoxRight**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1833)
 
 ___
 
@@ -194,19 +150,11 @@ ___
 
 • **ExtendBoxTop**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1831)
-
 ___
 
 ### FontName
 
 • **FontName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:1811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1811)
 
 ___
 
@@ -214,19 +162,11 @@ ___
 
 • **ForegroundColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1825](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1825)
-
 ___
 
 ### Height
 
 • **Height**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1812](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1812)
 
 ___
 
@@ -234,19 +174,11 @@ ___
 
 • **Kerning**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1836)
-
 ___
 
 ### TexturePageMaxHeight
 
 • **TexturePageMaxHeight**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1828)
 
 ___
 
@@ -254,19 +186,11 @@ ___
 
 • **TexturePageWidth**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1827)
-
 ___
 
 ### UnicodeRange
 
 • **UnicodeRange**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:1820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1820)
 
 ___
 
@@ -274,19 +198,11 @@ ___
 
 • **XPadding**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1829)
-
 ___
 
 ### YPadding
 
 • **YPadding**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1830)
 
 ___
 
@@ -294,19 +210,11 @@ ___
 
 • `Private` **\_\_tid\_FontImportOptionsData\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:1845](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1845)
-
 ___
 
 ### bAlphaOnly
 
 • **bAlphaOnly**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1817)
 
 ___
 
@@ -314,19 +222,11 @@ ___
 
 • **bCreatePrintableOnly**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:1823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1823)
-
 ___
 
 ### bEnableAntialiasing
 
 • **bEnableAntialiasing**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1813](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1813)
 
 ___
 
@@ -334,19 +234,11 @@ ___
 
 • **bEnableBold**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:1814](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1814)
-
 ___
 
 ### bEnableDropShadow
 
 • **bEnableDropShadow**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1826)
 
 ___
 
@@ -354,19 +246,11 @@ ___
 
 • **bEnableItalic**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:1815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1815)
-
 ___
 
 ### bEnableLegacyMode
 
 • **bEnableLegacyMode**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1835](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1835)
 
 ___
 
@@ -374,29 +258,17 @@ ___
 
 • **bEnableUnderline**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:1816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1816)
-
 ___
 
 ### bIncludeASCIIRange
 
 • **bIncludeASCIIRange**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:1824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1824)
-
 ___
 
 ### bUseDistanceFieldAlpha
 
 • **bUseDistanceFieldAlpha**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1837)
 
 ## Methods
 
@@ -412,10 +284,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1843)
-
 ___
 
 ### StaticStruct
@@ -425,7 +293,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1844)

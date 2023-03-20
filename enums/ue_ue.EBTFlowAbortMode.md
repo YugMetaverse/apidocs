@@ -21,19 +21,11 @@
 
 • **Both** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14610)
-
 ___
 
 ### EBTFlowAbortMode\_MAX
 
 • **EBTFlowAbortMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14610)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **LowerPriority** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14610)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14610)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Self** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14610)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14610)

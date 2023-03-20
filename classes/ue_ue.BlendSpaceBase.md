@@ -76,19 +76,11 @@
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[constructor](ue_ue.AnimationAsset.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:15232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15232)
-
 ## Properties
 
 ### AnimLength
 
 • **AnimLength**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15235)
 
 ___
 
@@ -100,10 +92,6 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[AssetMappingTable](ue_ue.AnimationAsset.md#assetmappingtable)
 
-#### Defined in
-
-[ue/ue.d.ts:2766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2766)
-
 ___
 
 ### AssetUserData
@@ -114,19 +102,11 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[AssetUserData](ue_ue.AnimationAsset.md#assetuserdata)
 
-#### Defined in
-
-[ue/ue.d.ts:2767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2767)
-
 ___
 
 ### BlendParameters
 
 • **BlendParameters**: [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<[`BlendParameter`](ue_ue.BlendParameter.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:15243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15243)
 
 ___
 
@@ -138,29 +118,17 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[ChildrenAssets](ue_ue.AnimationAsset.md#childrenassets)
 
-#### Defined in
-
-[ue/ue.d.ts:2765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2765)
-
 ___
 
 ### GridSamples
 
 • **GridSamples**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`EditorElement`](ue_ue.EditorElement.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:15242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15242)
-
 ___
 
 ### InterpolationParam
 
 • **InterpolationParam**: [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<[`InterpolationParameter`](ue_ue.InterpolationParameter.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:15236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15236)
 
 ___
 
@@ -172,19 +140,11 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[MetaData](ue_ue.AnimationAsset.md#metadata)
 
-#### Defined in
-
-[ue/ue.d.ts:2763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2763)
-
 ___
 
 ### NotifyTriggerMode
 
 • **NotifyTriggerMode**: [`ENotifyTriggerMode`](../enums/ue_ue.ENotifyTriggerMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15238)
 
 ___
 
@@ -196,29 +156,17 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[ParentAsset](ue_ue.AnimationAsset.md#parentasset)
 
-#### Defined in
-
-[ue/ue.d.ts:2764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2764)
-
 ___
 
 ### PerBoneBlend
 
 • **PerBoneBlend**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PerBoneInterpolation`](ue_ue.PerBoneInterpolation.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:15239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15239)
-
 ___
 
 ### PreviewBasePose
 
 • **PreviewBasePose**: [`AnimSequence`](ue_ue.AnimSequence.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15234)
 
 ___
 
@@ -230,10 +178,6 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[PreviewPoseAsset](ue_ue.AnimationAsset.md#previewposeasset)
 
-#### Defined in
-
-[ue/ue.d.ts:2769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2769)
-
 ___
 
 ### PreviewSkeletalMesh
@@ -244,29 +188,17 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[PreviewSkeletalMesh](ue_ue.AnimationAsset.md#previewskeletalmesh)
 
-#### Defined in
-
-[ue/ue.d.ts:2770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2770)
-
 ___
 
 ### SampleData
 
 • **SampleData**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BlendSample`](ue_ue.BlendSample.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:15241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15241)
-
 ___
 
 ### SampleIndexWithMarkers
 
 • **SampleIndexWithMarkers**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15240)
 
 ___
 
@@ -278,19 +210,11 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[Skeleton](ue_ue.AnimationAsset.md#skeleton)
 
-#### Defined in
-
-[ue/ue.d.ts:2762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2762)
-
 ___
 
 ### TargetWeightInterpolationSpeedPerSec
 
 • **TargetWeightInterpolationSpeedPerSec**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15237)
 
 ___
 
@@ -302,10 +226,6 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[ThumbnailInfo](ue_ue.AnimationAsset.md#thumbnailinfo)
 
-#### Defined in
-
-[ue/ue.d.ts:2768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2768)
-
 ___
 
 ### \_\_tid\_AnimationAsset\_\_
@@ -316,19 +236,11 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[__tid_AnimationAsset__](ue_ue.AnimationAsset.md#__tid_animationasset__)
 
-#### Defined in
-
-[ue/ue.d.ts:2775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2775)
-
 ___
 
 ### \_\_tid\_BlendSpaceBase\_\_
 
 • **\_\_tid\_BlendSpaceBase\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15248)
 
 ___
 
@@ -340,19 +252,11 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[__tid_Object__](ue_ue.AnimationAsset.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bRotationBlendInMeshSpace
 
 • **bRotationBlendInMeshSpace**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15233)
 
 ## Methods
 
@@ -378,10 +282,6 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[CreateDefaultSubobject](ue_ue.AnimationAsset.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -402,10 +302,6 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[ExecuteUbergraph](ue_ue.AnimationAsset.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -419,10 +315,6 @@ ___
 #### Inherited from
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[GetClass](ue_ue.AnimationAsset.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -438,10 +330,6 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[GetName](ue_ue.AnimationAsset.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -456,10 +344,6 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[GetOuter](ue_ue.AnimationAsset.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -473,10 +357,6 @@ ___
 #### Inherited from
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[GetWorld](ue_ue.AnimationAsset.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -499,10 +379,6 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[Find](ue_ue.AnimationAsset.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:15245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15245)
-
 ___
 
 ### Load
@@ -523,10 +399,6 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[Load](ue_ue.AnimationAsset.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:15246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15246)
-
 ___
 
 ### StaticClass
@@ -540,7 +412,3 @@ ___
 #### Overrides
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[StaticClass](ue_ue.AnimationAsset.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15244)

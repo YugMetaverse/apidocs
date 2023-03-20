@@ -20,19 +20,11 @@
 
 • **EInertializationBoneState\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33904)
-
 ___
 
 ### Excluded
 
 • **Excluded** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33904)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Invalid** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33904)
-
 ___
 
 ### Valid
 
 • **Valid** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33904)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33904)

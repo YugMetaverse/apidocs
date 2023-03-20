@@ -22,19 +22,11 @@
 
 • **EditorMode** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35781)
-
 ___
 
 ### FNavigationSystemRunMode\_MAX
 
 • **FNavigationSystemRunMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35781)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **GameMode** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35781)
-
 ___
 
 ### InvalidMode
 
 • **InvalidMode** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35781)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **PIEMode** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35781)
-
 ___
 
 ### SimulationMode
 
 • **SimulationMode** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35781)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35781)

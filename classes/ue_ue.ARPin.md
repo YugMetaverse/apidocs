@@ -65,19 +65,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:20885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20885)
-
 ## Properties
 
 ### LocalToAlignedTrackingTransform
 
 • **LocalToAlignedTrackingTransform**: [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:20889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20889)
 
 ___
 
@@ -85,19 +77,11 @@ ___
 
 • **LocalToTrackingTransform**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:20888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20888)
-
 ___
 
 ### OnARTrackingStateChanged
 
 • **OnARTrackingStateChanged**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`NewTrackingState`: [`EARTrackingState`](../enums/ue_ue.EARTrackingState.md)) => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:20891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20891)
 
 ___
 
@@ -105,19 +89,11 @@ ___
 
 • **OnARTransformUpdated**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`OldToNewTransform`: [`Transform`](ue_ue_s.Transform.md)) => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:20892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20892)
-
 ___
 
 ### PinnedComponent
 
 • **PinnedComponent**: [`SceneComponent`](ue_ue.SceneComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:20887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20887)
 
 ___
 
@@ -125,29 +101,17 @@ ___
 
 • **TrackedGeometry**: [`ARTrackedGeometry`](ue_ue.ARTrackedGeometry.md)
 
-#### Defined in
-
-[ue/ue.d.ts:20886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20886)
-
 ___
 
 ### TrackingState
 
 • **TrackingState**: [`EARTrackingState`](../enums/ue_ue.EARTrackingState.md)
 
-#### Defined in
-
-[ue/ue.d.ts:20890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20890)
-
 ___
 
 ### \_\_tid\_ARPin\_\_
 
 • **\_\_tid\_ARPin\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:20904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20904)
 
 ___
 
@@ -158,10 +122,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -187,10 +147,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### DebugDraw
@@ -209,10 +165,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:20893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20893)
 
 ___
 
@@ -234,10 +186,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -252,10 +200,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetDebugName
@@ -265,10 +209,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:20894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20894)
 
 ___
 
@@ -280,10 +220,6 @@ ___
 
 [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:20895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20895)
-
 ___
 
 ### GetLocalToWorldTransform
@@ -293,10 +229,6 @@ ___
 #### Returns
 
 [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:20896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20896)
 
 ___
 
@@ -312,10 +244,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -330,10 +258,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetPinnedComponent
@@ -343,10 +267,6 @@ ___
 #### Returns
 
 [`SceneComponent`](ue_ue.SceneComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:20897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20897)
 
 ___
 
@@ -358,10 +278,6 @@ ___
 
 [`ARTrackedGeometry`](ue_ue.ARTrackedGeometry.md)
 
-#### Defined in
-
-[ue/ue.d.ts:20898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20898)
-
 ___
 
 ### GetTrackingState
@@ -371,10 +287,6 @@ ___
 #### Returns
 
 [`EARTrackingState`](../enums/ue_ue.EARTrackingState.md)
-
-#### Defined in
-
-[ue/ue.d.ts:20899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20899)
 
 ___
 
@@ -389,10 +301,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -415,10 +323,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:20901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20901)
-
 ___
 
 ### Load
@@ -439,10 +343,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:20902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20902)
-
 ___
 
 ### StaticClass
@@ -456,7 +356,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:20900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20900)

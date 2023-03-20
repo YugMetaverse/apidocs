@@ -20,19 +20,11 @@
 
 • **EGrassScaling\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33893)
-
 ___
 
 ### Free
 
 • **Free** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33893)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **LockXY** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33893)
-
 ___
 
 ### Uniform
 
 • **Uniform** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33893)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33893)

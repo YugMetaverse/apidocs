@@ -25,19 +25,11 @@
 
 • **new FOutputDevice**()
 
-#### Defined in
-
-[ue/ue_s.d.ts:817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L817)
-
 ## Properties
 
 ### \_\_tid\_FOutputDevice\_\_
 
 • `Private` **\_\_tid\_FOutputDevice\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:825](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L825)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L822)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L823)

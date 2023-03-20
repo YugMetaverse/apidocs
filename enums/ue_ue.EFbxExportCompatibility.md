@@ -23,19 +23,11 @@
 
 • **FBX\_2011** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33850)
-
 ___
 
 ### FBX\_2012
 
 • **FBX\_2012** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33850)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **FBX\_2013** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33850)
-
 ___
 
 ### FBX\_2014
 
 • **FBX\_2014** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33850)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **FBX\_2016** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33850)
-
 ___
 
 ### FBX\_2018
 
 • **FBX\_2018** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33850)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **FBX\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33850)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33850)

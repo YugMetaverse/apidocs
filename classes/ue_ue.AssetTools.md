@@ -67,19 +67,11 @@
 
 [Interface](ue_ue.Interface.md).[constructor](ue_ue.Interface.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:21944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21944)
-
 ## Properties
 
 ### \_\_tid\_AssetTools\_\_
 
 • **\_\_tid\_AssetTools\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21964](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21964)
 
 ___
 
@@ -91,10 +83,6 @@ ___
 
 [Interface](ue_ue.Interface.md).[__tid_Interface__](ue_ue.Interface.md#__tid_interface__)
 
-#### Defined in
-
-[ue/ue.d.ts:8142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8142)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -104,10 +92,6 @@ ___
 #### Inherited from
 
 [Interface](ue_ue.Interface.md).[__tid_Object__](ue_ue.Interface.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -129,10 +113,6 @@ ___
 
 [`Object`](ue_ue.Object.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21945)
-
 ___
 
 ### CreateAssetWithDialog
@@ -152,10 +132,6 @@ ___
 #### Returns
 
 [`Object`](ue_ue.Object.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21946)
 
 ___
 
@@ -181,10 +157,6 @@ ___
 
 [Interface](ue_ue.Interface.md).[CreateDefaultSubobject](ue_ue.Interface.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### CreateUniqueAssetName
@@ -204,10 +176,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:21947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21947)
-
 ___
 
 ### DuplicateAsset
@@ -226,10 +194,6 @@ ___
 
 [`Object`](ue_ue.Object.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21948)
-
 ___
 
 ### DuplicateAssetWithDialog
@@ -247,10 +211,6 @@ ___
 #### Returns
 
 [`Object`](ue_ue.Object.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21949)
 
 ___
 
@@ -272,10 +232,6 @@ ___
 
 [Interface](ue_ue.Interface.md).[ExecuteUbergraph](ue_ue.Interface.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### ExportAssets
@@ -292,10 +248,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:21950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21950)
 
 ___
 
@@ -314,10 +266,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:21951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21951)
-
 ___
 
 ### FindSoftReferencesToObject
@@ -335,10 +283,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:21952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21952)
-
 ___
 
 ### GetClass
@@ -352,10 +296,6 @@ ___
 #### Inherited from
 
 [Interface](ue_ue.Interface.md).[GetClass](ue_ue.Interface.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -371,10 +311,6 @@ ___
 
 [Interface](ue_ue.Interface.md).[GetName](ue_ue.Interface.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -389,10 +325,6 @@ ___
 
 [Interface](ue_ue.Interface.md).[GetOuter](ue_ue.Interface.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -406,10 +338,6 @@ ___
 #### Inherited from
 
 [Interface](ue_ue.Interface.md).[GetWorld](ue_ue.Interface.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -427,10 +355,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:21955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21955)
-
 ___
 
 ### ImportAssetsAutomated
@@ -446,10 +370,6 @@ ___
 #### Returns
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Object`](ue_ue.Object.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:21953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21953)
 
 ___
 
@@ -467,10 +387,6 @@ ___
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Object`](ue_ue.Object.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:21954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21954)
-
 ___
 
 ### OpenEditorForAssets
@@ -487,10 +403,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:21956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21956)
-
 ___
 
 ### RenameAssets
@@ -506,10 +418,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21957)
 
 ___
 
@@ -528,10 +436,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:21958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21958)
-
 ___
 
 ### RenameReferencingSoftObjectPaths
@@ -548,10 +452,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:21959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21959)
 
 ___
 
@@ -574,10 +474,6 @@ ___
 
 [Interface](ue_ue.Interface.md).[Find](ue_ue.Interface.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:21961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21961)
-
 ___
 
 ### Load
@@ -598,10 +494,6 @@ ___
 
 [Interface](ue_ue.Interface.md).[Load](ue_ue.Interface.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:21962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21962)
-
 ___
 
 ### StaticClass
@@ -615,7 +507,3 @@ ___
 #### Overrides
 
 [Interface](ue_ue.Interface.md).[StaticClass](ue_ue.Interface.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:21960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21960)

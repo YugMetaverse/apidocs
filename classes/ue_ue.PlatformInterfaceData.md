@@ -31,10 +31,6 @@
 
 • **new PlatformInterfaceData**()
 
-#### Defined in
-
-[ue/ue.d.ts:28042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28042)
-
 • **new PlatformInterfaceData**(`DataName`, `Type`, `IntValue`, `FloatValue`, `StringValue`, `ObjectValue`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `StringValue` | `string` |
 | `ObjectValue` | [`Object`](ue_ue.Object.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:28043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28043)
-
 ## Properties
 
 ### DataName
 
 • **DataName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:28044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28044)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **FloatValue**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28047)
-
 ___
 
 ### IntValue
 
 • **IntValue**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:28046](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28046)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **ObjectValue**: [`Object`](ue_ue.Object.md)
 
-#### Defined in
-
-[ue/ue.d.ts:28049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28049)
-
 ___
 
 ### StringValue
 
 • **StringValue**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:28048](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28048)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **Type**: [`EPlatformInterfaceDataType`](../enums/ue_ue.EPlatformInterfaceDataType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:28045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28045)
-
 ___
 
 ### \_\_tid\_PlatformInterfaceData\_\_
 
 • `Private` **\_\_tid\_PlatformInterfaceData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:28055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28055)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:28053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28053)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28054)

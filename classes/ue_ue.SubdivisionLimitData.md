@@ -28,10 +28,6 @@
 
 • **new SubdivisionLimitData**()
 
-#### Defined in
-
-[ue/ue.d.ts:31807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31807)
-
 • **new SubdivisionLimitData**(`VertexPositions`, `Sections`, `SubdividedWireEdges`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Sections` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SubdivisionLimitSection`](ue_ue.SubdivisionLimitSection.md)\> |
 | `SubdividedWireEdges` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SubdividedWireEdge`](ue_ue.SubdividedWireEdge.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:31808](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31808)
-
 ## Properties
 
 ### Sections
 
 • **Sections**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SubdivisionLimitSection`](ue_ue.SubdivisionLimitSection.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:31810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31810)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **SubdividedWireEdges**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SubdividedWireEdge`](ue_ue.SubdividedWireEdge.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:31811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31811)
-
 ___
 
 ### VertexPositions
 
 • **VertexPositions**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Vector`](ue_ue_s.Vector.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:31809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31809)
-
 ___
 
 ### \_\_tid\_SubdivisionLimitData\_\_
 
 • `Private` **\_\_tid\_SubdivisionLimitData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31817)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31815)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31816)

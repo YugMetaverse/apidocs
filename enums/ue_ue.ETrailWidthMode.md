@@ -20,19 +20,11 @@
 
 • **ETrailWidthMode\_FromCentre** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7289)
-
 ___
 
 ### ETrailWidthMode\_FromFirst
 
 • **ETrailWidthMode\_FromFirst** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7289)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **ETrailWidthMode\_FromSecond** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7289)
-
 ___
 
 ### ETrailWidthMode\_MAX
 
 • **ETrailWidthMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7289)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7289)

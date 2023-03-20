@@ -30,10 +30,6 @@
 
 • **new RootMotionSourceGroup**()
 
-#### Defined in
-
-[ue/ue.d.ts:5600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5600)
-
 • **new RootMotionSourceGroup**(`bHasAdditiveSources`, `bHasOverrideSources`, `bIsAdditiveVelocityApplied`, `LastAccumulatedSettings`, `LastPreAdditiveVelocity`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `LastAccumulatedSettings` | [`RootMotionSourceSettings`](ue_ue.RootMotionSourceSettings.md) |
 | `LastPreAdditiveVelocity` | [`Vector_NetQuantize10`](ue_ue.Vector_NetQuantize10.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:5601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5601)
-
 ## Properties
 
 ### LastAccumulatedSettings
 
 • **LastAccumulatedSettings**: [`RootMotionSourceSettings`](ue_ue.RootMotionSourceSettings.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5605)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **LastPreAdditiveVelocity**: [`Vector_NetQuantize10`](ue_ue.Vector_NetQuantize10.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5606)
-
 ___
 
 ### \_\_tid\_RootMotionSourceGroup\_\_
 
 • `Private` **\_\_tid\_RootMotionSourceGroup\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5612)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **bHasAdditiveSources**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5602)
-
 ___
 
 ### bHasOverrideSources
 
 • **bHasOverrideSources**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5603)
-
 ___
 
 ### bIsAdditiveVelocityApplied
 
 • **bIsAdditiveVelocityApplied**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5604)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5610)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5611](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5611)

@@ -60,19 +60,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:14507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14507)
-
 ## Properties
 
 ### ViewportWorldInteraction
 
 • **ViewportWorldInteraction**: [`ViewportWorldInteraction`](ue_ue.ViewportWorldInteraction.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14508](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14508)
 
 ___
 
@@ -84,19 +76,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ViewportTransformer\_\_
 
 • **\_\_tid\_ViewportTransformer\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14519](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14519)
 
 ## Methods
 
@@ -107,10 +91,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14509)
 
 ___
 
@@ -136,10 +116,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -160,10 +136,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -177,10 +149,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -196,10 +164,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -214,10 +178,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -231,10 +191,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -252,10 +208,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:14510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14510)
-
 ___
 
 ### OnStartDragging
@@ -271,10 +223,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:14511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14511)
 
 ___
 
@@ -292,10 +240,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:14512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14512)
-
 ___
 
 ### ShouldCenterTransformGizmoPivot
@@ -306,10 +250,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:14513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14513)
-
 ___
 
 ### Shutdown
@@ -319,10 +259,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:14514](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14514)
 
 ___
 
@@ -345,10 +281,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:14516](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14516)
-
 ___
 
 ### Load
@@ -369,10 +301,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:14517](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14517)
-
 ___
 
 ### StaticClass
@@ -386,7 +314,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:14515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14515)

@@ -19,19 +19,11 @@
 
 • **EditConditionTestEnum\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32326)
-
 ___
 
 ### First
 
 • **First** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32326)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Second** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32326)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32326)

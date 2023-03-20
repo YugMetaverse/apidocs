@@ -22,19 +22,11 @@
 
 • **Card** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34041](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34041)
-
 ___
 
 ### EMediaVideoCaptureDeviceFilter\_MAX
 
 • **EMediaVideoCaptureDeviceFilter\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34041](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34041)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34041](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34041)
-
 ___
 
 ### Software
 
 • **Software** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34041](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34041)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **Unknown** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34041](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34041)
-
 ___
 
 ### Webcam
 
 • **Webcam** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34041](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34041)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34041](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34041)

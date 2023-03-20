@@ -66,29 +66,17 @@
 
 [EnvQueryNode](ue_ue.EnvQueryNode.md).[constructor](ue_ue.EnvQueryNode.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:15474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15474)
-
 ## Properties
 
 ### ItemType
 
 • **ItemType**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15476)
-
 ___
 
 ### OptionName
 
 • **OptionName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:15475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15475)
 
 ___
 
@@ -100,19 +88,11 @@ ___
 
 [EnvQueryNode](ue_ue.EnvQueryNode.md).[VerNum](ue_ue.EnvQueryNode.md#vernum)
 
-#### Defined in
-
-[ue/ue.d.ts:15465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15465)
-
 ___
 
 ### \_\_tid\_EnvQueryGenerator\_\_
 
 • **\_\_tid\_EnvQueryGenerator\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15482)
 
 ___
 
@@ -124,10 +104,6 @@ ___
 
 [EnvQueryNode](ue_ue.EnvQueryNode.md).[__tid_EnvQueryNode__](ue_ue.EnvQueryNode.md#__tid_envquerynode__)
 
-#### Defined in
-
-[ue/ue.d.ts:15470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15470)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -138,19 +114,11 @@ ___
 
 [EnvQueryNode](ue_ue.EnvQueryNode.md).[__tid_Object__](ue_ue.EnvQueryNode.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bAutoSortTests
 
 • **bAutoSortTests**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15477)
 
 ## Methods
 
@@ -176,10 +144,6 @@ ___
 
 [EnvQueryNode](ue_ue.EnvQueryNode.md).[CreateDefaultSubobject](ue_ue.EnvQueryNode.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -200,10 +164,6 @@ ___
 
 [EnvQueryNode](ue_ue.EnvQueryNode.md).[ExecuteUbergraph](ue_ue.EnvQueryNode.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -217,10 +177,6 @@ ___
 #### Inherited from
 
 [EnvQueryNode](ue_ue.EnvQueryNode.md).[GetClass](ue_ue.EnvQueryNode.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -236,10 +192,6 @@ ___
 
 [EnvQueryNode](ue_ue.EnvQueryNode.md).[GetName](ue_ue.EnvQueryNode.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -254,10 +206,6 @@ ___
 
 [EnvQueryNode](ue_ue.EnvQueryNode.md).[GetOuter](ue_ue.EnvQueryNode.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -271,10 +219,6 @@ ___
 #### Inherited from
 
 [EnvQueryNode](ue_ue.EnvQueryNode.md).[GetWorld](ue_ue.EnvQueryNode.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -297,10 +241,6 @@ ___
 
 [EnvQueryNode](ue_ue.EnvQueryNode.md).[Find](ue_ue.EnvQueryNode.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:15479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15479)
-
 ___
 
 ### Load
@@ -321,10 +261,6 @@ ___
 
 [EnvQueryNode](ue_ue.EnvQueryNode.md).[Load](ue_ue.EnvQueryNode.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:15480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15480)
-
 ___
 
 ### StaticClass
@@ -338,7 +274,3 @@ ___
 #### Overrides
 
 [EnvQueryNode](ue_ue.EnvQueryNode.md).[StaticClass](ue_ue.EnvQueryNode.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15478)

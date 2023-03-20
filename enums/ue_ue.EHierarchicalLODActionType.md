@@ -24,19 +24,11 @@
 
 • **AddActorToCluster** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33895)
-
 ___
 
 ### ChildCluster
 
 • **ChildCluster** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33895)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **CreateCluster** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33895)
-
 ___
 
 ### InvalidAction
 
 • **InvalidAction** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33895)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33895)
-
 ___
 
 ### MergeClusters
 
 • **MergeClusters** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33895)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **MoveActorToCluster** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33895)
-
 ___
 
 ### RemoveActorFromCluster
 
 • **RemoveActorFromCluster** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33895)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33895)

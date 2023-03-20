@@ -23,19 +23,11 @@
 
 • **Aborted** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14540)
-
 ___
 
 ### Blocked
 
 • **Blocked** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14540)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **EPathFollowingResult\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14540)
-
 ___
 
 ### Invalid
 
 • **Invalid** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14540)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **OffPath** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14540)
-
 ___
 
 ### Skipped\_DEPRECATED
 
 • **Skipped\_DEPRECATED** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14540)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **Success** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14540)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14540)

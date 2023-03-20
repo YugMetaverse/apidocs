@@ -20,19 +20,11 @@
 
 • **EFbxSceneVertexColorImportOption\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33859](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33859)
-
 ___
 
 ### Ignore
 
 • **Ignore** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33859](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33859)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Override** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33859](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33859)
-
 ___
 
 ### Replace
 
 • **Replace** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33859](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33859)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33859](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33859)

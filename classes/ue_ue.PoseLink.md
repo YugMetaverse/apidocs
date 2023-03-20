@@ -37,10 +37,6 @@
 
 [PoseLinkBase](ue_ue.PoseLinkBase.md).[constructor](ue_ue.PoseLinkBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:16811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16811)
-
 ## Properties
 
 ### LinkID
@@ -50,10 +46,6 @@
 #### Inherited from
 
 [PoseLinkBase](ue_ue.PoseLinkBase.md).[LinkID](ue_ue.PoseLinkBase.md#linkid)
-
-#### Defined in
-
-[ue/ue.d.ts:16800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16800)
 
 ___
 
@@ -65,19 +57,11 @@ ___
 
 [PoseLinkBase](ue_ue.PoseLinkBase.md).[SourceLinkID](ue_ue.PoseLinkBase.md#sourcelinkid)
 
-#### Defined in
-
-[ue/ue.d.ts:16801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16801)
-
 ___
 
 ### \_\_tid\_PoseLink\_\_
 
 • `Private` **\_\_tid\_PoseLink\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16817)
 
 ## Methods
 
@@ -97,10 +81,6 @@ use StaticStruct instead.
 
 [PoseLinkBase](ue_ue.PoseLinkBase.md).[StaticClass](ue_ue.PoseLinkBase.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:16815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16815)
-
 ___
 
 ### StaticStruct
@@ -114,7 +94,3 @@ ___
 #### Overrides
 
 [PoseLinkBase](ue_ue.PoseLinkBase.md).[StaticStruct](ue_ue.PoseLinkBase.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:16816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16816)

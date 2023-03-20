@@ -19,19 +19,11 @@
 
 • **ELESM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33976)
-
 ___
 
 ### ELESM\_Random
 
 • **ELESM\_Random** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33976)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **ELESM\_Sequential** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33976)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33976)

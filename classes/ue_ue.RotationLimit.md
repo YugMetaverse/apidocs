@@ -27,10 +27,6 @@
 
 • **new RotationLimit**()
 
-#### Defined in
-
-[ue/ue.d.ts:19838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19838)
-
 • **new RotationLimit**(`LimitMin`, `LimitMax`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `LimitMin` | [`Vector`](ue_ue_s.Vector.md) |
 | `LimitMax` | [`Vector`](ue_ue_s.Vector.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:19839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19839)
-
 ## Properties
 
 ### LimitMax
 
 • **LimitMax**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19841)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **LimitMin**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19840)
-
 ___
 
 ### \_\_tid\_RotationLimit\_\_
 
 • `Private` **\_\_tid\_RotationLimit\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:19847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19847)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19845](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19845)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19846)

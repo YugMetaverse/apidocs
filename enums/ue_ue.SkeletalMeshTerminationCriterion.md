@@ -23,19 +23,11 @@
 
 • **SMTC\_AbsNumOfTriangles** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2653)
-
 ___
 
 ### SMTC\_AbsNumOfVerts
 
 • **SMTC\_AbsNumOfVerts** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2653)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **SMTC\_AbsTriangleOrVert** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2653)
-
 ___
 
 ### SMTC\_MAX
 
 • **SMTC\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2653)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **SMTC\_NumOfTriangles** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2653)
-
 ___
 
 ### SMTC\_NumOfVerts
 
 • **SMTC\_NumOfVerts** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2653)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **SMTC\_TriangleOrVert** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2653)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2653)

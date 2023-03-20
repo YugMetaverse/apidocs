@@ -22,19 +22,11 @@
 
 • **Add** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18996)
-
 ___
 
 ### Blend
 
 • **Blend** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18996)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **EModifyCurveApplyMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18996)
-
 ___
 
 ### RemapCurve
 
 • **RemapCurve** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18996)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **Scale** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18996)
-
 ___
 
 ### WeightedMovingAverage
 
 • **WeightedMovingAverage** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18996)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18996)

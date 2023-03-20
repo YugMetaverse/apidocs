@@ -24,19 +24,11 @@
 
 • **EImportanceLevel\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33899)
-
 ___
 
 ### IL\_High
 
 • **IL\_High** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33899)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **IL\_Highest** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33899)
-
 ___
 
 ### IL\_Low
 
 • **IL\_Low** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33899)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **IL\_Lowest** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33899)
-
 ___
 
 ### IL\_Normal
 
 • **IL\_Normal** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33899)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **IL\_Off** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33899)
-
 ___
 
 ### TEMP\_BROKEN2
 
 • **TEMP\_BROKEN2** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33899)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33899)

@@ -20,19 +20,11 @@
 
 • **BruteForce** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6234)
-
 ___
 
 ### Disabled
 
 • **Disabled** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6234)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **ERayTracingGlobalIlluminationType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6234)
-
 ___
 
 ### FinalGather
 
 • **FinalGather** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6234)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6234)

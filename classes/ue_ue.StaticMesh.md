@@ -123,19 +123,11 @@
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[constructor](ue_ue.StreamableRenderAsset.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:8070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8070)
-
 ## Properties
 
 ### AssetImportData
 
 • **AssetImportData**: [`AssetImportData`](ue_ue.AssetImportData.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8097](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8097)
 
 ___
 
@@ -143,19 +135,11 @@ ___
 
 • **AssetUserData**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AssetUserData`](ue_ue.AssetUserData.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:8109](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8109)
-
 ___
 
 ### BodySetup
 
 • **BodySetup**: [`BodySetup`](ue_ue.BodySetup.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8088)
 
 ___
 
@@ -167,10 +151,6 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[CachedCombinedLODBias](ue_ue.StreamableRenderAsset.md#cachedcombinedlodbias)
 
-#### Defined in
-
-[ue/ue.d.ts:387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L387)
-
 ___
 
 ### CachedNumResidentLODs
@@ -181,19 +161,11 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[CachedNumResidentLODs](ue_ue.StreamableRenderAsset.md#cachednumresidentlods)
 
-#### Defined in
-
-[ue/ue.d.ts:388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L388)
-
 ___
 
 ### ComplexCollisionMesh
 
 • **ComplexCollisionMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8111)
 
 ___
 
@@ -201,19 +173,11 @@ ___
 
 • **DistanceFieldSelfShadowBias**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8087)
-
 ___
 
 ### EditableMesh
 
 • **EditableMesh**: [`Object`](ue_ue.Object.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8110)
 
 ___
 
@@ -221,29 +185,17 @@ ___
 
 • **EditorCameraPosition**: [`AssetEditorOrbitCameraPosition`](ue_ue.AssetEditorOrbitCameraPosition.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8101)
-
 ___
 
 ### ElementToIgnoreForTexFactor
 
 • **ElementToIgnoreForTexFactor**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8108)
-
 ___
 
 ### ExtendedBounds
 
 • **ExtendedBounds**: [`BoxSphereBounds`](ue_ue.BoxSphereBounds.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8107](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8107)
 
 ___
 
@@ -255,19 +207,11 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[ForceMipLevelsToBeResidentTimestamp](ue_ue.StreamableRenderAsset.md#forcemiplevelstoberesidenttimestamp)
 
-#### Defined in
-
-[ue/ue.d.ts:384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L384)
-
 ___
 
 ### ImportVersion
 
 • **ImportVersion**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8076)
 
 ___
 
@@ -275,19 +219,11 @@ ___
 
 • **LODForCollision**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8089](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8089)
-
 ___
 
 ### LODForOccluderMesh
 
 • **LODForOccluderMesh**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8103)
 
 ___
 
@@ -295,19 +231,11 @@ ___
 
 • **LODGroup**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:8074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8074)
-
 ___
 
 ### LightMapCoordinateIndex
 
 • **LightMapCoordinateIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8086](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8086)
 
 ___
 
@@ -315,19 +243,11 @@ ___
 
 • **LightMapResolution**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8085)
-
 ___
 
 ### LightmapUVDensity
 
 • **LightmapUVDensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8084](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8084)
 
 ___
 
@@ -335,19 +255,11 @@ ___
 
 • **LightmapUVVersion**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8078)
-
 ___
 
 ### LpvBiasMultiplier
 
 • **LpvBiasMultiplier**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8082](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8082)
 
 ___
 
@@ -355,19 +267,11 @@ ___
 
 • **MaterialRemapIndexPerImportVersion**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MaterialRemapIndex`](ue_ue.MaterialRemapIndex.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:8077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8077)
-
 ___
 
 ### Materials
 
 • **Materials**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MaterialInterface`](ue_ue.MaterialInterface.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:8080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8080)
 
 ___
 
@@ -375,29 +279,17 @@ ___
 
 • **MinLOD**: [`PerPlatformInt`](ue_ue.PerPlatformInt.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8081)
-
 ___
 
 ### NavCollision
 
 • **NavCollision**: [`NavCollisionBase`](ue_ue.NavCollisionBase.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8112)
-
 ___
 
 ### NegativeBoundsExtension
 
 • **NegativeBoundsExtension**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8106](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8106)
 
 ___
 
@@ -409,10 +301,6 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[NeverStream](ue_ue.StreamableRenderAsset.md#neverstream)
 
-#### Defined in
-
-[ue/ue.d.ts:390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L390)
-
 ___
 
 ### NumCinematicMipLevels
@@ -423,19 +311,11 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[NumCinematicMipLevels](ue_ue.StreamableRenderAsset.md#numcinematicmiplevels)
 
-#### Defined in
-
-[ue/ue.d.ts:385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L385)
-
 ___
 
 ### NumStreamedLODs
 
 • **NumStreamedLODs**: [`PerPlatformInt`](ue_ue.PerPlatformInt.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8075)
 
 ___
 
@@ -443,19 +323,11 @@ ___
 
 • **OriginalSectionInfoMap**: [`MeshSectionInfoMap`](ue_ue.MeshSectionInfoMap.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8073)
-
 ___
 
 ### PositiveBoundsExtension
 
 • **PositiveBoundsExtension**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8105](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8105)
 
 ___
 
@@ -463,19 +335,11 @@ ___
 
 • **SectionInfoMap**: [`MeshSectionInfoMap`](ue_ue.MeshSectionInfoMap.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8072)
-
 ___
 
 ### Sockets
 
 • **Sockets**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`StaticMeshSocket`](ue_ue.StaticMeshSocket.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:8104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8104)
 
 ___
 
@@ -483,19 +347,11 @@ ___
 
 • **SourceFilePath**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:8098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8098)
-
 ___
 
 ### SourceFileTimestamp
 
 • **SourceFileTimestamp**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:8099](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8099)
 
 ___
 
@@ -503,19 +359,11 @@ ___
 
 • **SourceModels**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`StaticMeshSourceModel`](ue_ue.StaticMeshSourceModel.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:8071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8071)
-
 ___
 
 ### StaticMaterials
 
 • **StaticMaterials**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`StaticMaterial`](ue_ue.StaticMaterial.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:8083](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8083)
 
 ___
 
@@ -527,19 +375,11 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[StreamingIndex](ue_ue.StreamableRenderAsset.md#streamingindex)
 
-#### Defined in
-
-[ue/ue.d.ts:386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L386)
-
 ___
 
 ### ThumbnailInfo
 
 • **ThumbnailInfo**: [`ThumbnailInfo`](ue_ue.ThumbnailInfo.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8100](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8100)
 
 ___
 
@@ -551,19 +391,11 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[__tid_Object__](ue_ue.StreamableRenderAsset.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_StaticMesh\_\_
 
 • **\_\_tid\_StaticMesh\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8133)
 
 ___
 
@@ -575,29 +407,17 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[__tid_StreamableRenderAsset__](ue_ue.StreamableRenderAsset.md#__tid_streamablerenderasset__)
 
-#### Defined in
-
-[ue/ue.d.ts:401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L401)
-
 ___
 
 ### bAllowCPUAccess
 
 • **bAllowCPUAccess**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8095](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8095)
-
 ___
 
 ### bAutoComputeLODScreenSize
 
 • **bAutoComputeLODScreenSize**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8079)
 
 ___
 
@@ -609,19 +429,11 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[bCachedReadyForStreaming](ue_ue.StreamableRenderAsset.md#bcachedreadyforstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L389)
-
 ___
 
 ### bCustomizedCollision
 
 • **bCustomizedCollision**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8102)
 
 ___
 
@@ -633,19 +445,11 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[bForceMiplevelsToBeResident](ue_ue.StreamableRenderAsset.md#bforcemiplevelstoberesident)
 
-#### Defined in
-
-[ue/ue.d.ts:394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L394)
-
 ___
 
 ### bGenerateMeshDistanceField
 
 • **bGenerateMeshDistanceField**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8090)
 
 ___
 
@@ -657,19 +461,11 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[bGlobalForceMipLevelsToBeResident](ue_ue.StreamableRenderAsset.md#bglobalforcemiplevelstoberesident)
 
-#### Defined in
-
-[ue/ue.d.ts:391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L391)
-
 ___
 
 ### bHasNavigationData
 
 • **bHasNavigationData**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8092)
 
 ___
 
@@ -681,10 +477,6 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[bHasStreamingUpdatePending](ue_ue.StreamableRenderAsset.md#bhasstreamingupdatepending)
 
-#### Defined in
-
-[ue/ue.d.ts:393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L393)
-
 ___
 
 ### bIgnoreStreamingMipBias
@@ -695,19 +487,11 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[bIgnoreStreamingMipBias](ue_ue.StreamableRenderAsset.md#bignorestreamingmipbias)
 
-#### Defined in
-
-[ue/ue.d.ts:395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L395)
-
 ___
 
 ### bIsBuiltAtRuntime
 
 • **bIsBuiltAtRuntime**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8094](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8094)
 
 ___
 
@@ -719,19 +503,11 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[bIsStreamable](ue_ue.StreamableRenderAsset.md#bisstreamable)
 
-#### Defined in
-
-[ue/ue.d.ts:392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L392)
-
 ___
 
 ### bStripComplexCollisionForConsole
 
 • **bStripComplexCollisionForConsole**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8091)
 
 ___
 
@@ -739,19 +515,11 @@ ___
 
 • **bSupportGpuUniformlyDistributedSampling**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8096](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8096)
-
 ___
 
 ### bSupportUniformlyDistributedSampling
 
 • **bSupportUniformlyDistributedSampling**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8093](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8093)
 
 ___
 
@@ -762,10 +530,6 @@ ___
 #### Inherited from
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[bUseCinematicMipLevels](ue_ue.StreamableRenderAsset.md#busecinematicmiplevels)
-
-#### Defined in
-
-[ue/ue.d.ts:396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L396)
 
 ## Methods
 
@@ -783,10 +547,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:8113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8113)
-
 ___
 
 ### AddSocket
@@ -803,10 +563,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8114](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8114)
-
 ___
 
 ### BuildFromStaticMeshDescriptions
@@ -822,10 +578,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8115)
 
 ___
 
@@ -851,10 +603,6 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[CreateDefaultSubobject](ue_ue.StreamableRenderAsset.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -875,10 +623,6 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[ExecuteUbergraph](ue_ue.StreamableRenderAsset.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### FindSocket
@@ -895,10 +639,6 @@ ___
 
 [`StaticMeshSocket`](ue_ue.StaticMeshSocket.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8116)
-
 ___
 
 ### GetBoundingBox
@@ -909,10 +649,6 @@ ___
 
 [`Box`](ue_ue.Box.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8117)
-
 ___
 
 ### GetBounds
@@ -922,10 +658,6 @@ ___
 #### Returns
 
 [`BoxSphereBounds`](ue_ue.BoxSphereBounds.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8118)
 
 ___
 
@@ -940,10 +672,6 @@ ___
 #### Inherited from
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[GetClass](ue_ue.StreamableRenderAsset.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -961,10 +689,6 @@ ___
 
 [`MaterialInterface`](ue_ue.MaterialInterface.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8119)
-
 ___
 
 ### GetMaterialIndex
@@ -980,10 +704,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8120)
 
 ___
 
@@ -1001,10 +721,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8121)
-
 ___
 
 ### GetMinimumLODForPlatforms
@@ -1021,10 +737,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8122)
-
 ___
 
 ### GetName
@@ -1039,10 +751,6 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[GetName](ue_ue.StreamableRenderAsset.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetNumLODs
@@ -1052,10 +760,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8123)
 
 ___
 
@@ -1073,10 +777,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8124)
-
 ___
 
 ### GetOuter
@@ -1091,10 +791,6 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[GetOuter](ue_ue.StreamableRenderAsset.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -1108,10 +804,6 @@ ___
 #### Inherited from
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[GetWorld](ue_ue.StreamableRenderAsset.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -1128,10 +820,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8125)
 
 ___
 
@@ -1150,10 +838,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8126)
-
 ___
 
 ### SetNumSourceModels
@@ -1170,10 +854,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8127)
-
 ___
 
 ### CreateStaticMeshDescription
@@ -1189,10 +869,6 @@ ___
 #### Returns
 
 [`StaticMeshDescription`](ue_ue.StaticMeshDescription.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8128)
 
 ___
 
@@ -1215,10 +891,6 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[Find](ue_ue.StreamableRenderAsset.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:8130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8130)
-
 ___
 
 ### Load
@@ -1239,10 +911,6 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[Load](ue_ue.StreamableRenderAsset.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:8131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8131)
-
 ___
 
 ### StaticClass
@@ -1256,7 +924,3 @@ ___
 #### Overrides
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[StaticClass](ue_ue.StreamableRenderAsset.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:8129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8129)

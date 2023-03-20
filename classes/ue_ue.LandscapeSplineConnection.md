@@ -27,10 +27,6 @@
 
 • **new LandscapeSplineConnection**()
 
-#### Defined in
-
-[ue/ue.d.ts:43696](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43696)
-
 • **new LandscapeSplineConnection**(`Segment`, `End`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Segment` | [`LandscapeSplineSegment`](ue_ue.LandscapeSplineSegment.md) |
 | `End` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:43697](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43697)
-
 ## Properties
 
 ### End
 
 • **End**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43699](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43699)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Segment**: [`LandscapeSplineSegment`](ue_ue.LandscapeSplineSegment.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43698)
-
 ___
 
 ### \_\_tid\_LandscapeSplineConnection\_\_
 
 • `Private` **\_\_tid\_LandscapeSplineConnection\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43705)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43703)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43704)

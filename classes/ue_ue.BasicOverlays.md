@@ -54,19 +54,11 @@
 
 [Overlays](ue_ue.Overlays.md).[constructor](ue_ue.Overlays.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:23561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23561)
-
 ## Properties
 
 ### AssetImportData
 
 • **AssetImportData**: [`AssetImportData`](ue_ue.AssetImportData.md)
-
-#### Defined in
-
-[ue/ue.d.ts:23563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23563)
 
 ___
 
@@ -74,19 +66,11 @@ ___
 
 • **Overlays**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`OverlayItem`](ue_ue.OverlayItem.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:23562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23562)
-
 ___
 
 ### \_\_tid\_BasicOverlays\_\_
 
 • **\_\_tid\_BasicOverlays\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:23568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23568)
 
 ___
 
@@ -98,10 +82,6 @@ ___
 
 [Overlays](ue_ue.Overlays.md).[__tid_Object__](ue_ue.Overlays.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_Overlays\_\_
@@ -111,10 +91,6 @@ ___
 #### Inherited from
 
 [Overlays](ue_ue.Overlays.md).[__tid_Overlays__](ue_ue.Overlays.md#__tid_overlays__)
-
-#### Defined in
-
-[ue/ue.d.ts:23532](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23532)
 
 ## Methods
 
@@ -140,10 +116,6 @@ ___
 
 [Overlays](ue_ue.Overlays.md).[CreateDefaultSubobject](ue_ue.Overlays.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -164,10 +136,6 @@ ___
 
 [Overlays](ue_ue.Overlays.md).[ExecuteUbergraph](ue_ue.Overlays.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -181,10 +149,6 @@ ___
 #### Inherited from
 
 [Overlays](ue_ue.Overlays.md).[GetClass](ue_ue.Overlays.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -200,10 +164,6 @@ ___
 
 [Overlays](ue_ue.Overlays.md).[GetName](ue_ue.Overlays.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -218,10 +178,6 @@ ___
 
 [Overlays](ue_ue.Overlays.md).[GetOuter](ue_ue.Overlays.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -235,10 +191,6 @@ ___
 #### Inherited from
 
 [Overlays](ue_ue.Overlays.md).[GetWorld](ue_ue.Overlays.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -261,10 +213,6 @@ ___
 
 [Overlays](ue_ue.Overlays.md).[Find](ue_ue.Overlays.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:23565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23565)
-
 ___
 
 ### Load
@@ -285,10 +233,6 @@ ___
 
 [Overlays](ue_ue.Overlays.md).[Load](ue_ue.Overlays.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:23566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23566)
-
 ___
 
 ### StaticClass
@@ -302,7 +246,3 @@ ___
 #### Overrides
 
 [Overlays](ue_ue.Overlays.md).[StaticClass](ue_ue.Overlays.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:23564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23564)

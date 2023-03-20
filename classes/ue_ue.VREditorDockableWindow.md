@@ -300,10 +300,6 @@
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[constructor](ue_ue.VREditorFloatingUI.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:65758](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65758)
-
 ## Properties
 
 ### ActorLabel
@@ -313,10 +309,6 @@
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[ActorLabel](ue_ue.VREditorFloatingUI.md#actorlabel)
-
-#### Defined in
-
-[ue/ue.d.ts:13176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13176)
 
 ___
 
@@ -328,10 +320,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[AttachmentReplication](ue_ue.VREditorFloatingUI.md#attachmentreplication)
 
-#### Defined in
-
-[ue/ue.d.ts:13151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13151)
-
 ___
 
 ### AutoReceiveInput
@@ -341,10 +329,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[AutoReceiveInput](ue_ue.VREditorFloatingUI.md#autoreceiveinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13157)
 
 ___
 
@@ -356,10 +340,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[BlueprintCreatedComponents](ue_ue.VREditorFloatingUI.md#blueprintcreatedcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13206)
-
 ___
 
 ### Children
@@ -370,19 +350,11 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[Children](ue_ue.VREditorFloatingUI.md#children)
 
-#### Defined in
-
-[ue/ue.d.ts:13166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13166)
-
 ___
 
 ### CloseButtonMID
 
 • **CloseButtonMID**: [`MaterialInstanceDynamic`](ue_ue.MaterialInstanceDynamic.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65765)
 
 ___
 
@@ -390,19 +362,11 @@ ___
 
 • **CloseButtonMeshComponent**: [`StaticMeshComponent`](ue_ue.StaticMeshComponent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65761](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65761)
-
 ___
 
 ### CloseButtonTranslucentMID
 
 • **CloseButtonTranslucentMID**: [`MaterialInstanceDynamic`](ue_ue.MaterialInstanceDynamic.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65766)
 
 ___
 
@@ -414,10 +378,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[ControllingMatineeActors](ue_ue.VREditorFloatingUI.md#controllingmatineeactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13169)
-
 ___
 
 ### CreationContext
@@ -427,10 +387,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[CreationContext](ue_ue.VREditorFloatingUI.md#creationcontext)
-
-#### Defined in
-
-[ue/ue.d.ts:65732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65732)
 
 ___
 
@@ -442,10 +398,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[CustomTimeDilation](ue_ue.VREditorFloatingUI.md#customtimedilation)
 
-#### Defined in
-
-[ue/ue.d.ts:13150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13150)
-
 ___
 
 ### DefaultUpdateOverlapsMethodDuringLevelStreaming
@@ -456,19 +408,11 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[DefaultUpdateOverlapsMethodDuringLevelStreaming](ue_ue.VREditorFloatingUI.md#defaultupdateoverlapsmethodduringlevelstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:13146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13146)
-
 ___
 
 ### DockButtonMID
 
 • **DockButtonMID**: [`MaterialInstanceDynamic`](ue_ue.MaterialInstanceDynamic.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65762)
 
 ___
 
@@ -476,19 +420,11 @@ ___
 
 • **DockButtonMeshComponent**: [`StaticMeshComponent`](ue_ue.StaticMeshComponent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65759)
-
 ___
 
 ### DragOperationComponent
 
 • **DragOperationComponent**: [`ViewportDragOperationComponent`](ue_ue.ViewportDragOperationComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65767)
 
 ___
 
@@ -500,10 +436,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[FolderPath](ue_ue.VREditorFloatingUI.md#folderpath)
 
-#### Defined in
-
-[ue/ue.d.ts:13177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13177)
-
 ___
 
 ### GroupActor
@@ -513,10 +445,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GroupActor](ue_ue.VREditorFloatingUI.md#groupactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13173)
 
 ___
 
@@ -528,10 +456,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[HiddenEditorViews](ue_ue.VREditorFloatingUI.md#hiddeneditorviews)
 
-#### Defined in
-
-[ue/ue.d.ts:13175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13175)
-
 ___
 
 ### InitialLifeSpan
@@ -541,10 +465,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[InitialLifeSpan](ue_ue.VREditorFloatingUI.md#initiallifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13149)
 
 ___
 
@@ -556,10 +476,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[InputComponent](ue_ue.VREditorFloatingUI.md#inputcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13159)
-
 ___
 
 ### InputPriority
@@ -569,10 +485,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[InputPriority](ue_ue.VREditorFloatingUI.md#inputpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:13158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13158)
 
 ___
 
@@ -584,10 +496,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[InstanceComponents](ue_ue.VREditorFloatingUI.md#instancecomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13205)
-
 ___
 
 ### Instigator
@@ -597,10 +505,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[Instigator](ue_ue.VREditorFloatingUI.md#instigator)
-
-#### Defined in
-
-[ue/ue.d.ts:13165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13165)
 
 ___
 
@@ -612,10 +516,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[Layers](ue_ue.VREditorFloatingUI.md#layers)
 
-#### Defined in
-
-[ue/ue.d.ts:13170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13170)
-
 ___
 
 ### MinNetUpdateFrequency
@@ -625,10 +525,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[MinNetUpdateFrequency](ue_ue.VREditorFloatingUI.md#minnetupdatefrequency)
-
-#### Defined in
-
-[ue/ue.d.ts:13163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13163)
 
 ___
 
@@ -640,10 +536,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[NetCullDistanceSquared](ue_ue.VREditorFloatingUI.md#netculldistancesquared)
 
-#### Defined in
-
-[ue/ue.d.ts:13160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13160)
-
 ___
 
 ### NetDormancy
@@ -653,10 +545,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[NetDormancy](ue_ue.VREditorFloatingUI.md#netdormancy)
-
-#### Defined in
-
-[ue/ue.d.ts:13155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13155)
 
 ___
 
@@ -668,10 +556,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[NetDriverName](ue_ue.VREditorFloatingUI.md#netdrivername)
 
-#### Defined in
-
-[ue/ue.d.ts:13153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13153)
-
 ___
 
 ### NetPriority
@@ -681,10 +565,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[NetPriority](ue_ue.VREditorFloatingUI.md#netpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:13164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13164)
 
 ___
 
@@ -696,10 +576,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[NetTag](ue_ue.VREditorFloatingUI.md#nettag)
 
-#### Defined in
-
-[ue/ue.d.ts:13161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13161)
-
 ___
 
 ### NetUpdateFrequency
@@ -709,10 +585,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[NetUpdateFrequency](ue_ue.VREditorFloatingUI.md#netupdatefrequency)
-
-#### Defined in
-
-[ue/ue.d.ts:13162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13162)
 
 ___
 
@@ -724,10 +596,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[OnActorBeginOverlap](ue_ue.VREditorFloatingUI.md#onactorbeginoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13192)
-
 ___
 
 ### OnActorEndOverlap
@@ -737,10 +605,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[OnActorEndOverlap](ue_ue.VREditorFloatingUI.md#onactorendoverlap)
-
-#### Defined in
-
-[ue/ue.d.ts:13193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13193)
 
 ___
 
@@ -752,10 +616,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[OnActorHit](ue_ue.VREditorFloatingUI.md#onactorhit)
 
-#### Defined in
-
-[ue/ue.d.ts:13202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13202)
-
 ___
 
 ### OnBeginCursorOver
@@ -765,10 +625,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[OnBeginCursorOver](ue_ue.VREditorFloatingUI.md#onbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13194)
 
 ___
 
@@ -780,10 +636,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[OnClicked](ue_ue.VREditorFloatingUI.md#onclicked)
 
-#### Defined in
-
-[ue/ue.d.ts:13196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13196)
-
 ___
 
 ### OnDestroyed
@@ -793,10 +645,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[OnDestroyed](ue_ue.VREditorFloatingUI.md#ondestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13203)
 
 ___
 
@@ -808,10 +656,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[OnEndCursorOver](ue_ue.VREditorFloatingUI.md#onendcursorover)
 
-#### Defined in
-
-[ue/ue.d.ts:13195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13195)
-
 ___
 
 ### OnEndPlay
@@ -821,10 +665,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[OnEndPlay](ue_ue.VREditorFloatingUI.md#onendplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13204)
 
 ___
 
@@ -836,10 +676,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[OnInputTouchBegin](ue_ue.VREditorFloatingUI.md#oninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:13198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13198)
-
 ___
 
 ### OnInputTouchEnd
@@ -849,10 +685,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[OnInputTouchEnd](ue_ue.VREditorFloatingUI.md#oninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:13199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13199)
 
 ___
 
@@ -864,10 +696,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[OnInputTouchEnter](ue_ue.VREditorFloatingUI.md#oninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:13200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13200)
-
 ___
 
 ### OnInputTouchLeave
@@ -877,10 +705,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[OnInputTouchLeave](ue_ue.VREditorFloatingUI.md#oninputtouchleave)
-
-#### Defined in
-
-[ue/ue.d.ts:13201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13201)
 
 ___
 
@@ -892,10 +716,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[OnReleased](ue_ue.VREditorFloatingUI.md#onreleased)
 
-#### Defined in
-
-[ue/ue.d.ts:13197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13197)
-
 ___
 
 ### OnTakeAnyDamage
@@ -905,10 +725,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[OnTakeAnyDamage](ue_ue.VREditorFloatingUI.md#ontakeanydamage)
-
-#### Defined in
-
-[ue/ue.d.ts:13189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13189)
 
 ___
 
@@ -920,10 +736,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[OnTakePointDamage](ue_ue.VREditorFloatingUI.md#ontakepointdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13190)
-
 ___
 
 ### OnTakeRadialDamage
@@ -933,10 +745,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[OnTakeRadialDamage](ue_ue.VREditorFloatingUI.md#ontakeradialdamage)
-
-#### Defined in
-
-[ue/ue.d.ts:13191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13191)
 
 ___
 
@@ -948,10 +756,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[Owner](ue_ue.VREditorFloatingUI.md#owner)
 
-#### Defined in
-
-[ue/ue.d.ts:13152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13152)
-
 ___
 
 ### ParentComponent
@@ -961,10 +765,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[ParentComponent](ue_ue.VREditorFloatingUI.md#parentcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13172)
 
 ___
 
@@ -976,10 +776,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[ParentComponentActor](ue_ue.VREditorFloatingUI.md#parentcomponentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13171)
-
 ___
 
 ### PivotOffset
@@ -989,10 +785,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[PivotOffset](ue_ue.VREditorFloatingUI.md#pivotoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:13168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13168)
 
 ___
 
@@ -1004,10 +796,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[PrimaryActorTick](ue_ue.VREditorFloatingUI.md#primaryactortick)
 
-#### Defined in
-
-[ue/ue.d.ts:13115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13115)
-
 ___
 
 ### RemoteRole
@@ -1017,10 +805,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[RemoteRole](ue_ue.VREditorFloatingUI.md#remoterole)
-
-#### Defined in
-
-[ue/ue.d.ts:13147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13147)
 
 ___
 
@@ -1032,10 +816,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[ReplicatedMovement](ue_ue.VREditorFloatingUI.md#replicatedmovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13148)
-
 ___
 
 ### Role
@@ -1045,10 +825,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[Role](ue_ue.VREditorFloatingUI.md#role)
-
-#### Defined in
-
-[ue/ue.d.ts:13154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13154)
 
 ___
 
@@ -1060,19 +836,11 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[RootComponent](ue_ue.VREditorFloatingUI.md#rootcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13167)
-
 ___
 
 ### SelectionBarMID
 
 • **SelectionBarMID**: [`MaterialInstanceDynamic`](ue_ue.MaterialInstanceDynamic.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65763)
 
 ___
 
@@ -1080,19 +848,11 @@ ___
 
 • **SelectionBarMeshComponent**: [`StaticMeshComponent`](ue_ue.StaticMeshComponent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65760](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65760)
-
 ___
 
 ### SelectionBarTranslucentMID
 
 • **SelectionBarTranslucentMID**: [`MaterialInstanceDynamic`](ue_ue.MaterialInstanceDynamic.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65764)
 
 ___
 
@@ -1104,10 +864,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[SpawnCollisionHandlingMethod](ue_ue.VREditorFloatingUI.md#spawncollisionhandlingmethod)
 
-#### Defined in
-
-[ue/ue.d.ts:13156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13156)
-
 ___
 
 ### SpriteScale
@@ -1117,10 +873,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[SpriteScale](ue_ue.VREditorFloatingUI.md#spritescale)
-
-#### Defined in
-
-[ue/ue.d.ts:13174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13174)
 
 ___
 
@@ -1132,10 +884,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[Tags](ue_ue.VREditorFloatingUI.md#tags)
 
-#### Defined in
-
-[ue/ue.d.ts:13188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13188)
-
 ___
 
 ### UpdateOverlapsMethodDuringLevelStreaming
@@ -1145,10 +893,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[UpdateOverlapsMethodDuringLevelStreaming](ue_ue.VREditorFloatingUI.md#updateoverlapsmethodduringlevelstreaming)
-
-#### Defined in
-
-[ue/ue.d.ts:13145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13145)
 
 ___
 
@@ -1160,10 +904,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[UserWidget](ue_ue.VREditorFloatingUI.md#userwidget)
 
-#### Defined in
-
-[ue/ue.d.ts:65733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65733)
-
 ___
 
 ### UserWidgetClass
@@ -1173,10 +913,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[UserWidgetClass](ue_ue.VREditorFloatingUI.md#userwidgetclass)
-
-#### Defined in
-
-[ue/ue.d.ts:65736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65736)
 
 ___
 
@@ -1188,10 +924,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[VRMode](ue_ue.VREditorFloatingUI.md#vrmode)
 
-#### Defined in
-
-[ue/ue.d.ts:65609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65609)
-
 ___
 
 ### WidgetComponent
@@ -1201,10 +933,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[WidgetComponent](ue_ue.VREditorFloatingUI.md#widgetcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:65734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65734)
 
 ___
 
@@ -1216,10 +944,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[WindowMeshComponent](ue_ue.VREditorFloatingUI.md#windowmeshcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:65735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65735)
-
 ___
 
 ### \_\_tid\_Actor\_\_
@@ -1229,10 +953,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[__tid_Actor__](ue_ue.VREditorFloatingUI.md#__tid_actor__)
-
-#### Defined in
-
-[ue/ue.d.ts:13348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13348)
 
 ___
 
@@ -1244,10 +964,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[__tid_Object__](ue_ue.VREditorFloatingUI.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_VREditorBaseActor\_\_
@@ -1258,19 +974,11 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[__tid_VREditorBaseActor__](ue_ue.VREditorFloatingUI.md#__tid_vreditorbaseactor__)
 
-#### Defined in
-
-[ue/ue.d.ts:65614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65614)
-
 ___
 
 ### \_\_tid\_VREditorDockableWindow\_\_
 
 • **\_\_tid\_VREditorDockableWindow\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:65772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65772)
 
 ___
 
@@ -1282,10 +990,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[__tid_VREditorFloatingUI__](ue_ue.VREditorFloatingUI.md#__tid_vreditorfloatingui__)
 
-#### Defined in
-
-[ue/ue.d.ts:65741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65741)
-
 ___
 
 ### bActorEnableCollision
@@ -1295,10 +999,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bActorEnableCollision](ue_ue.VREditorFloatingUI.md#bactorenablecollision)
-
-#### Defined in
-
-[ue/ue.d.ts:13143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13143)
 
 ___
 
@@ -1310,10 +1010,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bActorIsBeingDestroyed](ue_ue.VREditorFloatingUI.md#bactorisbeingdestroyed)
 
-#### Defined in
-
-[ue/ue.d.ts:13144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13144)
-
 ___
 
 ### bActorLabelEditable
@@ -1323,10 +1019,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bActorLabelEditable](ue_ue.VREditorFloatingUI.md#bactorlabeleditable)
-
-#### Defined in
-
-[ue/ue.d.ts:13183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13183)
 
 ___
 
@@ -1338,10 +1030,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bActorSeamlessTraveled](ue_ue.VREditorFloatingUI.md#bactorseamlesstraveled)
 
-#### Defined in
-
-[ue/ue.d.ts:13139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13139)
-
 ___
 
 ### bAllowReceiveTickEventOnDedicatedServer
@@ -1351,10 +1039,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bAllowReceiveTickEventOnDedicatedServer](ue_ue.VREditorFloatingUI.md#ballowreceivetickeventondedicatedserver)
-
-#### Defined in
-
-[ue/ue.d.ts:13142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13142)
 
 ___
 
@@ -1366,10 +1050,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bAllowTickBeforeBeginPlay](ue_ue.VREditorFloatingUI.md#ballowtickbeforebeginplay)
 
-#### Defined in
-
-[ue/ue.d.ts:13129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13129)
-
 ___
 
 ### bAlwaysRelevant
@@ -1379,10 +1059,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bAlwaysRelevant](ue_ue.VREditorFloatingUI.md#balwaysrelevant)
-
-#### Defined in
-
-[ue/ue.d.ts:13120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13120)
 
 ___
 
@@ -1394,10 +1070,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bAutoDestroyWhenFinished](ue_ue.VREditorFloatingUI.md#bautodestroywhenfinished)
 
-#### Defined in
-
-[ue/ue.d.ts:13130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13130)
-
 ___
 
 ### bBlockInput
@@ -1407,10 +1079,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bBlockInput](ue_ue.VREditorFloatingUI.md#bblockinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13131)
 
 ___
 
@@ -1422,10 +1090,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bCanBeDamaged](ue_ue.VREditorFloatingUI.md#bcanbedamaged)
 
-#### Defined in
-
-[ue/ue.d.ts:13132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13132)
-
 ___
 
 ### bCanBeInCluster
@@ -1435,10 +1099,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bCanBeInCluster](ue_ue.VREditorFloatingUI.md#bcanbeincluster)
-
-#### Defined in
-
-[ue/ue.d.ts:13141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13141)
 
 ___
 
@@ -1450,10 +1110,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bCollideWhenPlacing](ue_ue.VREditorFloatingUI.md#bcollidewhenplacing)
 
-#### Defined in
-
-[ue/ue.d.ts:13133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13133)
-
 ___
 
 ### bEditable
@@ -1463,10 +1119,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bEditable](ue_ue.VREditorFloatingUI.md#beditable)
-
-#### Defined in
-
-[ue/ue.d.ts:13184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13184)
 
 ___
 
@@ -1478,10 +1130,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bEnableAutoLODGeneration](ue_ue.VREditorFloatingUI.md#benableautolodgeneration)
 
-#### Defined in
-
-[ue/ue.d.ts:13137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13137)
-
 ___
 
 ### bExchangedRoles
@@ -1491,10 +1139,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bExchangedRoles](ue_ue.VREditorFloatingUI.md#bexchangedroles)
-
-#### Defined in
-
-[ue/ue.d.ts:13123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13123)
 
 ___
 
@@ -1506,10 +1150,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bFindCameraComponentWhenViewTarget](ue_ue.VREditorFloatingUI.md#bfindcameracomponentwhenviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13134)
-
 ___
 
 ### bGenerateOverlapEventsDuringLevelStreaming
@@ -1519,10 +1159,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bGenerateOverlapEventsDuringLevelStreaming](ue_ue.VREditorFloatingUI.md#bgenerateoverlapeventsduringlevelstreaming)
-
-#### Defined in
-
-[ue/ue.d.ts:13135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13135)
 
 ___
 
@@ -1534,10 +1170,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bHidden](ue_ue.VREditorFloatingUI.md#bhidden)
 
-#### Defined in
-
-[ue/ue.d.ts:13116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13116)
-
 ___
 
 ### bHiddenEd
@@ -1547,10 +1179,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bHiddenEd](ue_ue.VREditorFloatingUI.md#bhiddened)
-
-#### Defined in
-
-[ue/ue.d.ts:13178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13178)
 
 ___
 
@@ -1562,10 +1190,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bHiddenEdLayer](ue_ue.VREditorFloatingUI.md#bhiddenedlayer)
 
-#### Defined in
-
-[ue/ue.d.ts:13180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13180)
-
 ___
 
 ### bHiddenEdLevel
@@ -1575,10 +1199,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bHiddenEdLevel](ue_ue.VREditorFloatingUI.md#bhiddenedlevel)
-
-#### Defined in
-
-[ue/ue.d.ts:13181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13181)
 
 ___
 
@@ -1590,10 +1210,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bHiddenEdTemporary](ue_ue.VREditorFloatingUI.md#bhiddenedtemporary)
 
-#### Defined in
-
-[ue/ue.d.ts:13187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13187)
-
 ___
 
 ### bIgnoresOriginShifting
@@ -1603,10 +1219,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bIgnoresOriginShifting](ue_ue.VREditorFloatingUI.md#bignoresoriginshifting)
-
-#### Defined in
-
-[ue/ue.d.ts:13136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13136)
 
 ___
 
@@ -1618,10 +1230,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bIsEditorOnlyActor](ue_ue.VREditorFloatingUI.md#biseditoronlyactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13138)
-
 ___
 
 ### bIsEditorPreviewActor
@@ -1631,10 +1239,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bIsEditorPreviewActor](ue_ue.VREditorFloatingUI.md#biseditorpreviewactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13179)
 
 ___
 
@@ -1646,10 +1250,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bListedInSceneOutliner](ue_ue.VREditorFloatingUI.md#blistedinsceneoutliner)
 
-#### Defined in
-
-[ue/ue.d.ts:13185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13185)
-
 ___
 
 ### bLockLocation
@@ -1659,10 +1259,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bLockLocation](ue_ue.VREditorFloatingUI.md#blocklocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13182)
 
 ___
 
@@ -1674,10 +1270,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bNetLoadOnClient](ue_ue.VREditorFloatingUI.md#bnetloadonclient)
 
-#### Defined in
-
-[ue/ue.d.ts:13124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13124)
-
 ___
 
 ### bNetStartup
@@ -1687,10 +1279,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bNetStartup](ue_ue.VREditorFloatingUI.md#bnetstartup)
-
-#### Defined in
-
-[ue/ue.d.ts:13118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13118)
 
 ___
 
@@ -1702,10 +1290,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bNetTemporary](ue_ue.VREditorFloatingUI.md#bnettemporary)
 
-#### Defined in
-
-[ue/ue.d.ts:13117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13117)
-
 ___
 
 ### bNetUseOwnerRelevancy
@@ -1715,10 +1299,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bNetUseOwnerRelevancy](ue_ue.VREditorFloatingUI.md#bnetuseownerrelevancy)
-
-#### Defined in
-
-[ue/ue.d.ts:13125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13125)
 
 ___
 
@@ -1730,10 +1310,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bOnlyRelevantToOwner](ue_ue.VREditorFloatingUI.md#bonlyrelevanttoowner)
 
-#### Defined in
-
-[ue/ue.d.ts:13119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13119)
-
 ___
 
 ### bOptimizeBPComponentData
@@ -1743,10 +1319,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bOptimizeBPComponentData](ue_ue.VREditorFloatingUI.md#boptimizebpcomponentdata)
-
-#### Defined in
-
-[ue/ue.d.ts:13186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13186)
 
 ___
 
@@ -1758,10 +1330,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bRelevantForLevelBounds](ue_ue.VREditorFloatingUI.md#brelevantforlevelbounds)
 
-#### Defined in
-
-[ue/ue.d.ts:13127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13127)
-
 ___
 
 ### bRelevantForNetworkReplays
@@ -1771,10 +1339,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bRelevantForNetworkReplays](ue_ue.VREditorFloatingUI.md#brelevantfornetworkreplays)
-
-#### Defined in
-
-[ue/ue.d.ts:13126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13126)
 
 ___
 
@@ -1786,10 +1350,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bReplayRewindable](ue_ue.VREditorFloatingUI.md#breplayrewindable)
 
-#### Defined in
-
-[ue/ue.d.ts:13128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13128)
-
 ___
 
 ### bReplicateMovement
@@ -1799,10 +1359,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bReplicateMovement](ue_ue.VREditorFloatingUI.md#breplicatemovement)
-
-#### Defined in
-
-[ue/ue.d.ts:13121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13121)
 
 ___
 
@@ -1814,10 +1370,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bReplicates](ue_ue.VREditorFloatingUI.md#breplicates)
 
-#### Defined in
-
-[ue/ue.d.ts:13140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13140)
-
 ___
 
 ### bTearOff
@@ -1827,10 +1379,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[bTearOff](ue_ue.VREditorFloatingUI.md#btearoff)
-
-#### Defined in
-
-[ue/ue.d.ts:13122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13122)
 
 ## Methods
 
@@ -1851,10 +1399,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[ActorHasTag](ue_ue.VREditorFloatingUI.md#actorhastag)
-
-#### Defined in
-
-[ue/ue.d.ts:13207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13207)
 
 ___
 
@@ -1879,10 +1423,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[AddComponent](ue_ue.VREditorFloatingUI.md#addcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13208)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -1903,10 +1443,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[AddTickPrerequisiteActor](ue_ue.VREditorFloatingUI.md#addtickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13209)
-
 ___
 
 ### AddTickPrerequisiteComponent
@@ -1926,10 +1462,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[AddTickPrerequisiteComponent](ue_ue.VREditorFloatingUI.md#addtickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13210)
 
 ___
 
@@ -1955,10 +1487,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[CreateDefaultSubobject](ue_ue.VREditorFloatingUI.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### DetachRootComponentFromParent
@@ -1978,10 +1506,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[DetachRootComponentFromParent](ue_ue.VREditorFloatingUI.md#detachrootcomponentfromparent)
-
-#### Defined in
-
-[ue/ue.d.ts:13211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13211)
 
 ___
 
@@ -2003,10 +1527,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[DisableInput](ue_ue.VREditorFloatingUI.md#disableinput)
 
-#### Defined in
-
-[ue/ue.d.ts:13212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13212)
-
 ___
 
 ### EnableInput
@@ -2026,10 +1546,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[EnableInput](ue_ue.VREditorFloatingUI.md#enableinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13213)
 
 ___
 
@@ -2051,10 +1567,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[ExecuteUbergraph](ue_ue.VREditorFloatingUI.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### FlushNetDormancy
@@ -2069,10 +1581,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[FlushNetDormancy](ue_ue.VREditorFloatingUI.md#flushnetdormancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13214)
-
 ___
 
 ### ForceNetUpdate
@@ -2086,10 +1594,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[ForceNetUpdate](ue_ue.VREditorFloatingUI.md#forcenetupdate)
-
-#### Defined in
-
-[ue/ue.d.ts:13215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13215)
 
 ___
 
@@ -2113,10 +1617,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetActorBounds](ue_ue.VREditorFloatingUI.md#getactorbounds)
 
-#### Defined in
-
-[ue/ue.d.ts:13216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13216)
-
 ___
 
 ### GetActorEnableCollision
@@ -2130,10 +1630,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetActorEnableCollision](ue_ue.VREditorFloatingUI.md#getactorenablecollision)
-
-#### Defined in
-
-[ue/ue.d.ts:13217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13217)
 
 ___
 
@@ -2156,10 +1652,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetActorEyesViewPoint](ue_ue.VREditorFloatingUI.md#getactoreyesviewpoint)
 
-#### Defined in
-
-[ue/ue.d.ts:13218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13218)
-
 ___
 
 ### GetActorForwardVector
@@ -2173,10 +1665,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetActorForwardVector](ue_ue.VREditorFloatingUI.md#getactorforwardvector)
-
-#### Defined in
-
-[ue/ue.d.ts:13219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13219)
 
 ___
 
@@ -2192,10 +1680,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetActorLabel](ue_ue.VREditorFloatingUI.md#getactorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13220)
-
 ___
 
 ### GetActorRelativeScale3D
@@ -2209,10 +1693,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetActorRelativeScale3D](ue_ue.VREditorFloatingUI.md#getactorrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13221)
 
 ___
 
@@ -2228,10 +1708,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetActorRightVector](ue_ue.VREditorFloatingUI.md#getactorrightvector)
 
-#### Defined in
-
-[ue/ue.d.ts:13222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13222)
-
 ___
 
 ### GetActorScale3D
@@ -2245,10 +1721,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetActorScale3D](ue_ue.VREditorFloatingUI.md#getactorscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13223)
 
 ___
 
@@ -2264,10 +1736,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetActorTickInterval](ue_ue.VREditorFloatingUI.md#getactortickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:13224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13224)
-
 ___
 
 ### GetActorTimeDilation
@@ -2282,10 +1750,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetActorTimeDilation](ue_ue.VREditorFloatingUI.md#getactortimedilation)
 
-#### Defined in
-
-[ue/ue.d.ts:13225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13225)
-
 ___
 
 ### GetActorUpVector
@@ -2299,10 +1763,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetActorUpVector](ue_ue.VREditorFloatingUI.md#getactorupvector)
-
-#### Defined in
-
-[ue/ue.d.ts:13226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13226)
 
 ___
 
@@ -2325,10 +1785,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetAllChildActors](ue_ue.VREditorFloatingUI.md#getallchildactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13227)
-
 ___
 
 ### GetAttachParentActor
@@ -2343,10 +1799,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetAttachParentActor](ue_ue.VREditorFloatingUI.md#getattachparentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13229)
-
 ___
 
 ### GetAttachParentSocketName
@@ -2360,10 +1812,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetAttachParentSocketName](ue_ue.VREditorFloatingUI.md#getattachparentsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:13230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13230)
 
 ___
 
@@ -2386,10 +1834,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetAttachedActors](ue_ue.VREditorFloatingUI.md#getattachedactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13228)
-
 ___
 
 ### GetClass
@@ -2403,10 +1847,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetClass](ue_ue.VREditorFloatingUI.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -2428,10 +1868,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetComponentByClass](ue_ue.VREditorFloatingUI.md#getcomponentbyclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13231)
-
 ___
 
 ### GetComponentsByInterface
@@ -2451,10 +1887,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetComponentsByInterface](ue_ue.VREditorFloatingUI.md#getcomponentsbyinterface)
-
-#### Defined in
-
-[ue/ue.d.ts:13232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13232)
 
 ___
 
@@ -2477,10 +1909,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetComponentsByTag](ue_ue.VREditorFloatingUI.md#getcomponentsbytag)
 
-#### Defined in
-
-[ue/ue.d.ts:13233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13233)
-
 ___
 
 ### GetDistanceTo
@@ -2500,10 +1928,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetDistanceTo](ue_ue.VREditorFloatingUI.md#getdistanceto)
-
-#### Defined in
-
-[ue/ue.d.ts:13234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13234)
 
 ___
 
@@ -2525,10 +1949,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetDotProductTo](ue_ue.VREditorFloatingUI.md#getdotproductto)
 
-#### Defined in
-
-[ue/ue.d.ts:13235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13235)
-
 ___
 
 ### GetFolderPath
@@ -2543,10 +1963,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetFolderPath](ue_ue.VREditorFloatingUI.md#getfolderpath)
 
-#### Defined in
-
-[ue/ue.d.ts:13236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13236)
-
 ___
 
 ### GetGameTimeSinceCreation
@@ -2560,10 +1976,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetGameTimeSinceCreation](ue_ue.VREditorFloatingUI.md#getgametimesincecreation)
-
-#### Defined in
-
-[ue/ue.d.ts:13237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13237)
 
 ___
 
@@ -2585,10 +1997,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetHorizontalDistanceTo](ue_ue.VREditorFloatingUI.md#gethorizontaldistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13238)
-
 ___
 
 ### GetHorizontalDotProductTo
@@ -2608,10 +2016,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetHorizontalDotProductTo](ue_ue.VREditorFloatingUI.md#gethorizontaldotproductto)
-
-#### Defined in
-
-[ue/ue.d.ts:13239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13239)
 
 ___
 
@@ -2633,10 +2037,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetInputAxisKeyValue](ue_ue.VREditorFloatingUI.md#getinputaxiskeyvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:13240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13240)
-
 ___
 
 ### GetInputAxisValue
@@ -2656,10 +2056,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetInputAxisValue](ue_ue.VREditorFloatingUI.md#getinputaxisvalue)
-
-#### Defined in
-
-[ue/ue.d.ts:13241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13241)
 
 ___
 
@@ -2681,10 +2077,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetInputVectorAxisValue](ue_ue.VREditorFloatingUI.md#getinputvectoraxisvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:13242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13242)
-
 ___
 
 ### GetInstigator
@@ -2698,10 +2090,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetInstigator](ue_ue.VREditorFloatingUI.md#getinstigator)
-
-#### Defined in
-
-[ue/ue.d.ts:13243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13243)
 
 ___
 
@@ -2717,10 +2105,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetInstigatorController](ue_ue.VREditorFloatingUI.md#getinstigatorcontroller)
 
-#### Defined in
-
-[ue/ue.d.ts:13244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13244)
-
 ___
 
 ### GetLifeSpan
@@ -2734,10 +2118,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetLifeSpan](ue_ue.VREditorFloatingUI.md#getlifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13245)
 
 ___
 
@@ -2753,10 +2133,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetLocalRole](ue_ue.VREditorFloatingUI.md#getlocalrole)
 
-#### Defined in
-
-[ue/ue.d.ts:13246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13246)
-
 ___
 
 ### GetName
@@ -2771,10 +2147,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetName](ue_ue.VREditorFloatingUI.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -2788,10 +2160,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetOuter](ue_ue.VREditorFloatingUI.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -2814,10 +2182,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetOverlappingActors](ue_ue.VREditorFloatingUI.md#getoverlappingactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13247)
-
 ___
 
 ### GetOverlappingComponents
@@ -2838,10 +2202,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetOverlappingComponents](ue_ue.VREditorFloatingUI.md#getoverlappingcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13248)
-
 ___
 
 ### GetOwner
@@ -2855,10 +2215,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetOwner](ue_ue.VREditorFloatingUI.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13249)
 
 ___
 
@@ -2874,10 +2230,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetParentActor](ue_ue.VREditorFloatingUI.md#getparentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13250)
-
 ___
 
 ### GetParentComponent
@@ -2892,10 +2244,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetParentComponent](ue_ue.VREditorFloatingUI.md#getparentcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13251)
-
 ___
 
 ### GetRemoteRole
@@ -2909,10 +2257,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetRemoteRole](ue_ue.VREditorFloatingUI.md#getremoterole)
-
-#### Defined in
-
-[ue/ue.d.ts:13252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13252)
 
 ___
 
@@ -2934,10 +2278,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetSquaredDistanceTo](ue_ue.VREditorFloatingUI.md#getsquareddistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13253)
-
 ___
 
 ### GetTickableWhenPaused
@@ -2951,10 +2291,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetTickableWhenPaused](ue_ue.VREditorFloatingUI.md#gettickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:13254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13254)
 
 ___
 
@@ -2970,10 +2306,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetTransform](ue_ue.VREditorFloatingUI.md#gettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13255)
-
 ___
 
 ### GetVelocity
@@ -2987,10 +2319,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetVelocity](ue_ue.VREditorFloatingUI.md#getvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:13256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13256)
 
 ___
 
@@ -3012,10 +2340,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetVerticalDistanceTo](ue_ue.VREditorFloatingUI.md#getverticaldistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13257)
-
 ___
 
 ### GetWorld
@@ -3029,10 +2353,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[GetWorld](ue_ue.VREditorFloatingUI.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -3048,10 +2368,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[HasAuthority](ue_ue.VREditorFloatingUI.md#hasauthority)
 
-#### Defined in
-
-[ue/ue.d.ts:13258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13258)
-
 ___
 
 ### IsActorBeingDestroyed
@@ -3065,10 +2381,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[IsActorBeingDestroyed](ue_ue.VREditorFloatingUI.md#isactorbeingdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13259)
 
 ___
 
@@ -3084,10 +2396,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[IsActorTickEnabled](ue_ue.VREditorFloatingUI.md#isactortickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:13260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13260)
-
 ___
 
 ### IsChildActor
@@ -3101,10 +2409,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[IsChildActor](ue_ue.VREditorFloatingUI.md#ischildactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13261)
 
 ___
 
@@ -3120,10 +2424,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[IsEditable](ue_ue.VREditorFloatingUI.md#iseditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13262)
-
 ___
 
 ### IsHiddenEd
@@ -3138,10 +2438,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[IsHiddenEd](ue_ue.VREditorFloatingUI.md#ishiddened)
 
-#### Defined in
-
-[ue/ue.d.ts:13263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13263)
-
 ___
 
 ### IsHiddenEdAtStartup
@@ -3155,10 +2451,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[IsHiddenEdAtStartup](ue_ue.VREditorFloatingUI.md#ishiddenedatstartup)
-
-#### Defined in
-
-[ue/ue.d.ts:13264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13264)
 
 ___
 
@@ -3180,10 +2472,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[IsOverlappingActor](ue_ue.VREditorFloatingUI.md#isoverlappingactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13265)
-
 ___
 
 ### IsSelectable
@@ -3197,10 +2485,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[IsSelectable](ue_ue.VREditorFloatingUI.md#isselectable)
-
-#### Defined in
-
-[ue/ue.d.ts:13266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13266)
 
 ___
 
@@ -3221,10 +2505,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[IsTemporarilyHiddenInEditor](ue_ue.VREditorFloatingUI.md#istemporarilyhiddenineditor)
-
-#### Defined in
-
-[ue/ue.d.ts:13267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13267)
 
 ___
 
@@ -3249,10 +2529,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_AddActorLocalOffset](ue_ue.VREditorFloatingUI.md#k2_addactorlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:13268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13268)
-
 ___
 
 ### K2\_AddActorLocalRotation
@@ -3275,10 +2551,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_AddActorLocalRotation](ue_ue.VREditorFloatingUI.md#k2_addactorlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13269)
 
 ___
 
@@ -3303,10 +2575,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_AddActorLocalTransform](ue_ue.VREditorFloatingUI.md#k2_addactorlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13270)
-
 ___
 
 ### K2\_AddActorWorldOffset
@@ -3329,10 +2597,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_AddActorWorldOffset](ue_ue.VREditorFloatingUI.md#k2_addactorworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:13271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13271)
 
 ___
 
@@ -3357,10 +2621,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_AddActorWorldRotation](ue_ue.VREditorFloatingUI.md#k2_addactorworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13272)
-
 ___
 
 ### K2\_AddActorWorldTransform
@@ -3383,10 +2643,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_AddActorWorldTransform](ue_ue.VREditorFloatingUI.md#k2_addactorworldtransform)
-
-#### Defined in
-
-[ue/ue.d.ts:13273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13273)
 
 ___
 
@@ -3411,10 +2667,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_AttachRootComponentTo](ue_ue.VREditorFloatingUI.md#k2_attachrootcomponentto)
 
-#### Defined in
-
-[ue/ue.d.ts:13274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13274)
-
 ___
 
 ### K2\_AttachRootComponentToActor
@@ -3437,10 +2689,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_AttachRootComponentToActor](ue_ue.VREditorFloatingUI.md#k2_attachrootcomponenttoactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13275)
 
 ___
 
@@ -3467,10 +2715,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_AttachToActor](ue_ue.VREditorFloatingUI.md#k2_attachtoactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13276)
-
 ___
 
 ### K2\_AttachToComponent
@@ -3496,10 +2740,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_AttachToComponent](ue_ue.VREditorFloatingUI.md#k2_attachtocomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13277)
-
 ___
 
 ### K2\_DestroyActor
@@ -3513,10 +2753,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_DestroyActor](ue_ue.VREditorFloatingUI.md#k2_destroyactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13278)
 
 ___
 
@@ -3537,10 +2773,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_DestroyComponent](ue_ue.VREditorFloatingUI.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13279)
 
 ___
 
@@ -3564,10 +2796,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_DetachFromActor](ue_ue.VREditorFloatingUI.md#k2_detachfromactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13280)
-
 ___
 
 ### K2\_GetActorLocation
@@ -3582,10 +2810,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_GetActorLocation](ue_ue.VREditorFloatingUI.md#k2_getactorlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:13281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13281)
-
 ___
 
 ### K2\_GetActorRotation
@@ -3599,10 +2823,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_GetActorRotation](ue_ue.VREditorFloatingUI.md#k2_getactorrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13282)
 
 ___
 
@@ -3624,10 +2844,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_GetComponentsByClass](ue_ue.VREditorFloatingUI.md#k2_getcomponentsbyclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13283)
-
 ___
 
 ### K2\_GetRootComponent
@@ -3641,10 +2857,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_GetRootComponent](ue_ue.VREditorFloatingUI.md#k2_getrootcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13284)
 
 ___
 
@@ -3666,10 +2878,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_OnBecomeViewTarget](ue_ue.VREditorFloatingUI.md#k2_onbecomeviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13285)
-
 ___
 
 ### K2\_OnEndViewTarget
@@ -3690,10 +2898,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_OnEndViewTarget](ue_ue.VREditorFloatingUI.md#k2_onendviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13286)
-
 ___
 
 ### K2\_OnReset
@@ -3707,10 +2911,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_OnReset](ue_ue.VREditorFloatingUI.md#k2_onreset)
-
-#### Defined in
-
-[ue/ue.d.ts:13287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13287)
 
 ___
 
@@ -3734,10 +2934,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_SetActorLocation](ue_ue.VREditorFloatingUI.md#k2_setactorlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13288)
 
 ___
 
@@ -3763,10 +2959,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_SetActorLocationAndRotation](ue_ue.VREditorFloatingUI.md#k2_setactorlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13289)
-
 ___
 
 ### K2\_SetActorRelativeLocation
@@ -3789,10 +2981,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_SetActorRelativeLocation](ue_ue.VREditorFloatingUI.md#k2_setactorrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13290)
 
 ___
 
@@ -3817,10 +3005,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_SetActorRelativeRotation](ue_ue.VREditorFloatingUI.md#k2_setactorrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13291)
-
 ___
 
 ### K2\_SetActorRelativeTransform
@@ -3844,10 +3028,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_SetActorRelativeTransform](ue_ue.VREditorFloatingUI.md#k2_setactorrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13292)
-
 ___
 
 ### K2\_SetActorRotation
@@ -3868,10 +3048,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_SetActorRotation](ue_ue.VREditorFloatingUI.md#k2_setactorrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13293)
 
 ___
 
@@ -3896,10 +3072,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_SetActorTransform](ue_ue.VREditorFloatingUI.md#k2_setactortransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13294)
-
 ___
 
 ### K2\_TeleportTo
@@ -3921,10 +3093,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[K2_TeleportTo](ue_ue.VREditorFloatingUI.md#k2_teleportto)
 
-#### Defined in
-
-[ue/ue.d.ts:13295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13295)
-
 ___
 
 ### MakeMIDForMaterial
@@ -3944,10 +3112,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[MakeMIDForMaterial](ue_ue.VREditorFloatingUI.md#makemidformaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:13296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13296)
 
 ___
 
@@ -3973,10 +3137,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[MakeNoise](ue_ue.VREditorFloatingUI.md#makenoise)
 
-#### Defined in
-
-[ue/ue.d.ts:13297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13297)
-
 ___
 
 ### OnRep\_AttachmentReplication
@@ -3990,10 +3150,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[OnRep_AttachmentReplication](ue_ue.VREditorFloatingUI.md#onrep_attachmentreplication)
-
-#### Defined in
-
-[ue/ue.d.ts:13298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13298)
 
 ___
 
@@ -4009,10 +3165,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[OnRep_Instigator](ue_ue.VREditorFloatingUI.md#onrep_instigator)
 
-#### Defined in
-
-[ue/ue.d.ts:13299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13299)
-
 ___
 
 ### OnRep\_Owner
@@ -4026,10 +3178,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[OnRep_Owner](ue_ue.VREditorFloatingUI.md#onrep_owner)
-
-#### Defined in
-
-[ue/ue.d.ts:13300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13300)
 
 ___
 
@@ -4045,10 +3193,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[OnRep_ReplicateMovement](ue_ue.VREditorFloatingUI.md#onrep_replicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13302)
-
 ___
 
 ### OnRep\_ReplicatedMovement
@@ -4062,10 +3206,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[OnRep_ReplicatedMovement](ue_ue.VREditorFloatingUI.md#onrep_replicatedmovement)
-
-#### Defined in
-
-[ue/ue.d.ts:13301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13301)
 
 ___
 
@@ -4089,10 +3229,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[PrestreamTextures](ue_ue.VREditorFloatingUI.md#prestreamtextures)
 
-#### Defined in
-
-[ue/ue.d.ts:13303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13303)
-
 ___
 
 ### ReceiveActorBeginCursorOver
@@ -4106,10 +3242,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[ReceiveActorBeginCursorOver](ue_ue.VREditorFloatingUI.md#receiveactorbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13304)
 
 ___
 
@@ -4131,10 +3263,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[ReceiveActorBeginOverlap](ue_ue.VREditorFloatingUI.md#receiveactorbeginoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13305)
-
 ___
 
 ### ReceiveActorEndCursorOver
@@ -4148,10 +3276,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[ReceiveActorEndCursorOver](ue_ue.VREditorFloatingUI.md#receiveactorendcursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13306)
 
 ___
 
@@ -4173,10 +3297,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[ReceiveActorEndOverlap](ue_ue.VREditorFloatingUI.md#receiveactorendoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13307)
-
 ___
 
 ### ReceiveActorOnClicked
@@ -4196,10 +3316,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[ReceiveActorOnClicked](ue_ue.VREditorFloatingUI.md#receiveactoronclicked)
-
-#### Defined in
-
-[ue/ue.d.ts:13308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13308)
 
 ___
 
@@ -4221,10 +3337,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[ReceiveActorOnInputTouchBegin](ue_ue.VREditorFloatingUI.md#receiveactoroninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:13309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13309)
-
 ___
 
 ### ReceiveActorOnInputTouchEnd
@@ -4244,10 +3356,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[ReceiveActorOnInputTouchEnd](ue_ue.VREditorFloatingUI.md#receiveactoroninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:13310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13310)
 
 ___
 
@@ -4269,10 +3377,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[ReceiveActorOnInputTouchEnter](ue_ue.VREditorFloatingUI.md#receiveactoroninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:13311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13311)
-
 ___
 
 ### ReceiveActorOnInputTouchLeave
@@ -4293,10 +3397,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[ReceiveActorOnInputTouchLeave](ue_ue.VREditorFloatingUI.md#receiveactoroninputtouchleave)
 
-#### Defined in
-
-[ue/ue.d.ts:13312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13312)
-
 ___
 
 ### ReceiveActorOnReleased
@@ -4316,10 +3416,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[ReceiveActorOnReleased](ue_ue.VREditorFloatingUI.md#receiveactoronreleased)
-
-#### Defined in
-
-[ue/ue.d.ts:13313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13313)
 
 ___
 
@@ -4344,10 +3440,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[ReceiveAnyDamage](ue_ue.VREditorFloatingUI.md#receiveanydamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13314)
-
 ___
 
 ### ReceiveBeginPlay
@@ -4362,10 +3454,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[ReceiveBeginPlay](ue_ue.VREditorFloatingUI.md#receivebeginplay)
 
-#### Defined in
-
-[ue/ue.d.ts:13315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13315)
-
 ___
 
 ### ReceiveDestroyed
@@ -4379,10 +3467,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[ReceiveDestroyed](ue_ue.VREditorFloatingUI.md#receivedestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13316)
 
 ___
 
@@ -4403,10 +3487,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[ReceiveEndPlay](ue_ue.VREditorFloatingUI.md#receiveendplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13317)
 
 ___
 
@@ -4434,10 +3514,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[ReceiveHit](ue_ue.VREditorFloatingUI.md#receivehit)
-
-#### Defined in
-
-[ue/ue.d.ts:13318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13318)
 
 ___
 
@@ -4468,10 +3544,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[ReceivePointDamage](ue_ue.VREditorFloatingUI.md#receivepointdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13319)
-
 ___
 
 ### ReceiveRadialDamage
@@ -4497,10 +3569,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[ReceiveRadialDamage](ue_ue.VREditorFloatingUI.md#receiveradialdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13320)
-
 ___
 
 ### ReceiveTick
@@ -4520,10 +3588,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[ReceiveTick](ue_ue.VREditorFloatingUI.md#receivetick)
-
-#### Defined in
-
-[ue/ue.d.ts:13321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13321)
 
 ___
 
@@ -4545,10 +3609,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[RemoveTickPrerequisiteActor](ue_ue.VREditorFloatingUI.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -4568,10 +3628,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[RemoveTickPrerequisiteComponent](ue_ue.VREditorFloatingUI.md#removetickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13323)
 
 ___
 
@@ -4593,10 +3649,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[SetActorEnableCollision](ue_ue.VREditorFloatingUI.md#setactorenablecollision)
 
-#### Defined in
-
-[ue/ue.d.ts:13324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13324)
-
 ___
 
 ### SetActorHiddenInGame
@@ -4616,10 +3668,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[SetActorHiddenInGame](ue_ue.VREditorFloatingUI.md#setactorhiddeningame)
-
-#### Defined in
-
-[ue/ue.d.ts:13325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13325)
 
 ___
 
@@ -4642,10 +3690,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[SetActorLabel](ue_ue.VREditorFloatingUI.md#setactorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13326)
-
 ___
 
 ### SetActorRelativeScale3D
@@ -4665,10 +3709,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[SetActorRelativeScale3D](ue_ue.VREditorFloatingUI.md#setactorrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13327)
 
 ___
 
@@ -4690,10 +3730,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[SetActorScale3D](ue_ue.VREditorFloatingUI.md#setactorscale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:13328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13328)
-
 ___
 
 ### SetActorTickEnabled
@@ -4713,10 +3749,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[SetActorTickEnabled](ue_ue.VREditorFloatingUI.md#setactortickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:13329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13329)
 
 ___
 
@@ -4738,10 +3770,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[SetActorTickInterval](ue_ue.VREditorFloatingUI.md#setactortickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:13330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13330)
-
 ___
 
 ### SetFolderPath
@@ -4761,10 +3789,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[SetFolderPath](ue_ue.VREditorFloatingUI.md#setfolderpath)
-
-#### Defined in
-
-[ue/ue.d.ts:13331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13331)
 
 ___
 
@@ -4786,10 +3810,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[SetIsTemporarilyHiddenInEditor](ue_ue.VREditorFloatingUI.md#setistemporarilyhiddenineditor)
 
-#### Defined in
-
-[ue/ue.d.ts:13332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13332)
-
 ___
 
 ### SetLifeSpan
@@ -4809,10 +3829,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[SetLifeSpan](ue_ue.VREditorFloatingUI.md#setlifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13333)
 
 ___
 
@@ -4834,10 +3850,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[SetNetDormancy](ue_ue.VREditorFloatingUI.md#setnetdormancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13334)
-
 ___
 
 ### SetOwner
@@ -4857,10 +3869,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[SetOwner](ue_ue.VREditorFloatingUI.md#setowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13335)
 
 ___
 
@@ -4882,10 +3890,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[SetReplicateMovement](ue_ue.VREditorFloatingUI.md#setreplicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13336)
-
 ___
 
 ### SetReplicates
@@ -4905,10 +3909,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[SetReplicates](ue_ue.VREditorFloatingUI.md#setreplicates)
-
-#### Defined in
-
-[ue/ue.d.ts:13337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13337)
 
 ___
 
@@ -4930,10 +3930,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[SetTickGroup](ue_ue.VREditorFloatingUI.md#settickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:13339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13339)
-
 ___
 
 ### SetTickableWhenPaused
@@ -4953,10 +3949,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[SetTickableWhenPaused](ue_ue.VREditorFloatingUI.md#settickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:13338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13338)
 
 ___
 
@@ -4979,10 +3971,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[SnapRootComponentTo](ue_ue.VREditorFloatingUI.md#snaprootcomponentto)
 
-#### Defined in
-
-[ue/ue.d.ts:13340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13340)
-
 ___
 
 ### TearOff
@@ -4997,10 +3985,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[TearOff](ue_ue.VREditorFloatingUI.md#tearoff)
 
-#### Defined in
-
-[ue/ue.d.ts:13341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13341)
-
 ___
 
 ### UserConstructionScript
@@ -5014,10 +3998,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[UserConstructionScript](ue_ue.VREditorFloatingUI.md#userconstructionscript)
-
-#### Defined in
-
-[ue/ue.d.ts:13342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13342)
 
 ___
 
@@ -5038,10 +4018,6 @@ ___
 #### Inherited from
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[WasRecentlyRendered](ue_ue.VREditorFloatingUI.md#wasrecentlyrendered)
-
-#### Defined in
-
-[ue/ue.d.ts:13343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13343)
 
 ___
 
@@ -5064,10 +4040,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[Find](ue_ue.VREditorFloatingUI.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:65769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65769)
-
 ___
 
 ### Load
@@ -5088,10 +4060,6 @@ ___
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[Load](ue_ue.VREditorFloatingUI.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:65770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65770)
-
 ___
 
 ### StaticClass
@@ -5105,7 +4073,3 @@ ___
 #### Overrides
 
 [VREditorFloatingUI](ue_ue.VREditorFloatingUI.md).[StaticClass](ue_ue.VREditorFloatingUI.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:65768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65768)

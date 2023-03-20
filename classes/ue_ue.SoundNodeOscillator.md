@@ -64,19 +64,11 @@
 
 [SoundNode](ue_ue.SoundNode.md).[constructor](ue_ue.SoundNode.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:61504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61504)
-
 ## Properties
 
 ### AmplitudeMax
 
 • **AmplitudeMax**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:61508](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61508)
 
 ___
 
@@ -84,29 +76,17 @@ ___
 
 • **AmplitudeMin**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:61507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61507)
-
 ___
 
 ### CenterMax
 
 • **CenterMax**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:61514](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61514)
-
 ___
 
 ### CenterMin
 
 • **CenterMin**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:61513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61513)
 
 ___
 
@@ -118,29 +98,17 @@ ___
 
 [SoundNode](ue_ue.SoundNode.md).[ChildNodes](ue_ue.SoundNode.md#childnodes)
 
-#### Defined in
-
-[ue/ue.d.ts:22398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22398)
-
 ___
 
 ### FrequencyMax
 
 • **FrequencyMax**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:61510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61510)
-
 ___
 
 ### FrequencyMin
 
 • **FrequencyMin**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:61509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61509)
 
 ___
 
@@ -152,29 +120,17 @@ ___
 
 [SoundNode](ue_ue.SoundNode.md).[GraphNode](ue_ue.SoundNode.md#graphnode)
 
-#### Defined in
-
-[ue/ue.d.ts:22399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22399)
-
 ___
 
 ### OffsetMax
 
 • **OffsetMax**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:61512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61512)
-
 ___
 
 ### OffsetMin
 
 • **OffsetMin**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:61511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61511)
 
 ___
 
@@ -186,19 +142,11 @@ ___
 
 [SoundNode](ue_ue.SoundNode.md).[__tid_Object__](ue_ue.SoundNode.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_SoundNodeOscillator\_\_
 
 • **\_\_tid\_SoundNodeOscillator\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:61519](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61519)
 
 ___
 
@@ -210,29 +158,17 @@ ___
 
 [SoundNode](ue_ue.SoundNode.md).[__tid_SoundNode__](ue_ue.SoundNode.md#__tid_soundnode__)
 
-#### Defined in
-
-[ue/ue.d.ts:22404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22404)
-
 ___
 
 ### bModulatePitch
 
 • **bModulatePitch**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:61506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61506)
-
 ___
 
 ### bModulateVolume
 
 • **bModulateVolume**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:61505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61505)
 
 ## Methods
 
@@ -258,10 +194,6 @@ ___
 
 [SoundNode](ue_ue.SoundNode.md).[CreateDefaultSubobject](ue_ue.SoundNode.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -282,10 +214,6 @@ ___
 
 [SoundNode](ue_ue.SoundNode.md).[ExecuteUbergraph](ue_ue.SoundNode.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -299,10 +227,6 @@ ___
 #### Inherited from
 
 [SoundNode](ue_ue.SoundNode.md).[GetClass](ue_ue.SoundNode.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -318,10 +242,6 @@ ___
 
 [SoundNode](ue_ue.SoundNode.md).[GetName](ue_ue.SoundNode.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -336,10 +256,6 @@ ___
 
 [SoundNode](ue_ue.SoundNode.md).[GetOuter](ue_ue.SoundNode.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -353,10 +269,6 @@ ___
 #### Inherited from
 
 [SoundNode](ue_ue.SoundNode.md).[GetWorld](ue_ue.SoundNode.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -379,10 +291,6 @@ ___
 
 [SoundNode](ue_ue.SoundNode.md).[Find](ue_ue.SoundNode.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:61516](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61516)
-
 ___
 
 ### Load
@@ -403,10 +311,6 @@ ___
 
 [SoundNode](ue_ue.SoundNode.md).[Load](ue_ue.SoundNode.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:61517](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61517)
-
 ___
 
 ### StaticClass
@@ -420,7 +324,3 @@ ___
 #### Overrides
 
 [SoundNode](ue_ue.SoundNode.md).[StaticClass](ue_ue.SoundNode.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:61515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61515)

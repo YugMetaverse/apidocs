@@ -22,19 +22,11 @@
 
 • **Count** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16253)
-
 ___
 
 ### EAudioFaderCurve\_MAX
 
 • **EAudioFaderCurve\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16253)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **Linear** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16253)
-
 ___
 
 ### Logarithmic
 
 • **Logarithmic** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16253)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **SCurve** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16253)
-
 ___
 
 ### Sin
 
 • **Sin** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16253)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16253)

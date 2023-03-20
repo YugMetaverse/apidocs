@@ -22,19 +22,11 @@
 
 • **Destroyed** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L286)
-
 ___
 
 ### EEndPlayReason\_MAX
 
 • **EEndPlayReason\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L286)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **EndPlayInEditor** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L286)
-
 ___
 
 ### LevelTransition
 
 • **LevelTransition** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L286)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **Quit** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L286)
-
 ___
 
 ### RemovedFromWorld
 
 • **RemovedFromWorld** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L286)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L286)

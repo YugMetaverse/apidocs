@@ -27,10 +27,6 @@
 
 • **new Axis**()
 
-#### Defined in
-
-[ue/ue.d.ts:18869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18869)
-
 • **new Axis**(`Axis`, `bInLocalSpace`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Axis` | [`Vector`](ue_ue_s.Vector.md) |
 | `bInLocalSpace` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:18870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18870)
-
 ## Properties
 
 ### Axis
 
 • **Axis**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:18871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18871)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • `Private` **\_\_tid\_Axis\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:18878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18878)
-
 ___
 
 ### bInLocalSpace
 
 • **bInLocalSpace**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18872)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18876)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:18877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18877)

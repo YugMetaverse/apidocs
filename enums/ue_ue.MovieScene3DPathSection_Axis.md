@@ -23,19 +23,11 @@
 
 • **MovieScene3DPathSection\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:51080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51080)
-
 ___
 
 ### NEG\_X
 
 • **NEG\_X** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:51080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51080)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **NEG\_Y** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:51080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51080)
-
 ___
 
 ### NEG\_Z
 
 • **NEG\_Z** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:51080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51080)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **X** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:51080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51080)
-
 ___
 
 ### Y
 
 • **Y** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:51080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51080)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **Z** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:51080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51080)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:51080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51080)

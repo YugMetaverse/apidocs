@@ -26,10 +26,6 @@
 
 • **new DebugCameraControllerSettingsViewModeIndex**()
 
-#### Defined in
-
-[ue/ue.d.ts:30245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30245)
-
 • **new DebugCameraControllerSettingsViewModeIndex**(`ViewModeIndex`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `ViewModeIndex` | [`EViewModeIndex`](../enums/ue_ue.EViewModeIndex.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:30246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30246)
-
 ## Properties
 
 ### ViewModeIndex
 
 • **ViewModeIndex**: [`EViewModeIndex`](../enums/ue_ue.EViewModeIndex.md)
 
-#### Defined in
-
-[ue/ue.d.ts:30247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30247)
-
 ___
 
 ### \_\_tid\_DebugCameraControllerSettingsViewModeIndex\_\_
 
 • `Private` **\_\_tid\_DebugCameraControllerSettingsViewModeIndex\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30253)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:30251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30251)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:30252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30252)

@@ -37,10 +37,6 @@
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[constructor](ue_ue.AnimNode_Base.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:20049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20049)
-
 • **new AnimNode_UseCachedPose**(`LinkToCachingNode`, `CachePoseName`)
 
 #### Parameters
@@ -54,19 +50,11 @@
 
 UE.AnimNode\_Base.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:20050](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20050)
-
 ## Properties
 
 ### CachePoseName
 
 • **CachePoseName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:20052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20052)
 
 ___
 
@@ -74,19 +62,11 @@ ___
 
 • **LinkToCachingNode**: [`PoseLink`](ue_ue.PoseLink.md)
 
-#### Defined in
-
-[ue/ue.d.ts:20051](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20051)
-
 ___
 
 ### \_\_tid\_AnimNode\_UseCachedPose\_\_
 
 • `Private` **\_\_tid\_AnimNode\_UseCachedPose\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:20058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20058)
 
 ## Methods
 
@@ -106,10 +86,6 @@ use StaticStruct instead.
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticClass](ue_ue.AnimNode_Base.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:20056](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20056)
-
 ___
 
 ### StaticStruct
@@ -123,7 +99,3 @@ ___
 #### Overrides
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticStruct](ue_ue.AnimNode_Base.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:20057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20057)

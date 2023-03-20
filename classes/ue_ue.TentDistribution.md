@@ -28,10 +28,6 @@
 
 • **new TentDistribution**()
 
-#### Defined in
-
-[ue/ue.d.ts:60805](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60805)
-
 • **new TentDistribution**(`TipAltitude`, `TipValue`, `Width`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `TipValue` | `number` |
 | `Width` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:60806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60806)
-
 ## Properties
 
 ### TipAltitude
 
 • **TipAltitude**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:60807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60807)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **TipValue**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:60808](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60808)
-
 ___
 
 ### Width
 
 • **Width**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:60809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60809)
-
 ___
 
 ### \_\_tid\_TentDistribution\_\_
 
 • `Private` **\_\_tid\_TentDistribution\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:60815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60815)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:60813](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60813)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:60814](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60814)

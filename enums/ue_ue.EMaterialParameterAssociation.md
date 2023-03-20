@@ -20,19 +20,11 @@
 
 • **BlendParameter** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1713)
-
 ___
 
 ### EMaterialParameterAssociation\_MAX
 
 • **EMaterialParameterAssociation\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1713)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **GlobalParameter** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1713)
-
 ___
 
 ### LayerParameter
 
 • **LayerParameter** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1713)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1713)

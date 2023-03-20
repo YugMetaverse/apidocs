@@ -25,19 +25,11 @@
 
 • **Down** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10742)
-
 ___
 
 ### EUINavigation\_MAX
 
 • **EUINavigation\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10742)
 
 ___
 
@@ -45,19 +37,11 @@ ___
 
 • **Invalid** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10742)
-
 ___
 
 ### Left
 
 • **Left** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10742)
 
 ___
 
@@ -65,19 +49,11 @@ ___
 
 • **Next** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10742)
-
 ___
 
 ### Num
 
 • **Num** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10742)
 
 ___
 
@@ -85,19 +61,11 @@ ___
 
 • **Previous** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10742)
-
 ___
 
 ### Right
 
 • **Right** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10742)
 
 ___
 
@@ -105,16 +73,8 @@ ___
 
 • **Up** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10742)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10742)

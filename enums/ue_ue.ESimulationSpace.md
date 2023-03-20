@@ -20,19 +20,11 @@
 
 • **BaseBoneSpace** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19329)
-
 ___
 
 ### ComponentSpace
 
 • **ComponentSpace** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19329)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **ESimulationSpace\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19329)
-
 ___
 
 ### WorldSpace
 
 • **WorldSpace** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19329)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19329)

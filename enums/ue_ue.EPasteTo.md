@@ -20,19 +20,11 @@
 
 • **PT\_Here** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34666)
-
 ___
 
 ### PT\_MAX
 
 • **PT\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34666)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **PT\_OriginalLocation** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34666)
-
 ___
 
 ### PT\_WorldOrigin
 
 • **PT\_WorldOrigin** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34666)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34666)

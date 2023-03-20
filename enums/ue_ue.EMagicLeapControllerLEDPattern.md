@@ -36,19 +36,11 @@
 
 • **Clock01** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33992)
-
 ___
 
 ### Clock01\_07
 
 • **Clock01\_07** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33992)
 
 ___
 
@@ -56,19 +48,11 @@ ___
 
 • **Clock02** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33992)
-
 ___
 
 ### Clock02\_08
 
 • **Clock02\_08** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33992)
 
 ___
 
@@ -76,19 +60,11 @@ ___
 
 • **Clock03** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33992)
-
 ___
 
 ### Clock03\_09
 
 • **Clock03\_09** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33992)
 
 ___
 
@@ -96,19 +72,11 @@ ___
 
 • **Clock04** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33992)
-
 ___
 
 ### Clock04\_10
 
 • **Clock04\_10** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33992)
 
 ___
 
@@ -116,19 +84,11 @@ ___
 
 • **Clock05** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33992)
-
 ___
 
 ### Clock05\_11
 
 • **Clock05\_11** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33992)
 
 ___
 
@@ -136,19 +96,11 @@ ___
 
 • **Clock06** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33992)
-
 ___
 
 ### Clock06\_12
 
 • **Clock06\_12** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33992)
 
 ___
 
@@ -156,19 +108,11 @@ ___
 
 • **Clock07** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33992)
-
 ___
 
 ### Clock08
 
 • **Clock08** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33992)
 
 ___
 
@@ -176,19 +120,11 @@ ___
 
 • **Clock09** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33992)
-
 ___
 
 ### Clock10
 
 • **Clock10** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33992)
 
 ___
 
@@ -196,19 +132,11 @@ ___
 
 • **Clock11** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33992)
-
 ___
 
 ### Clock12
 
 • **Clock12** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33992)
 
 ___
 
@@ -216,26 +144,14 @@ ___
 
 • **EMagicLeapControllerLEDPattern\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33992)
-
 ___
 
 ### None
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33992)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33992)

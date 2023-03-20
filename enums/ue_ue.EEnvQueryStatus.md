@@ -23,19 +23,11 @@
 
 • **Aborted** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15614)
-
 ___
 
 ### EEnvQueryStatus\_MAX
 
 • **EEnvQueryStatus\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15614)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **Failed** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15614)
-
 ___
 
 ### MissingParam
 
 • **MissingParam** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15614)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **OwnerLost** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15614)
-
 ___
 
 ### Processing
 
 • **Processing** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15614)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **Success** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15614)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15614)

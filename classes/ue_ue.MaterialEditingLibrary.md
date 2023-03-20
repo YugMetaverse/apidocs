@@ -92,10 +92,6 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[constructor](ue_ue.BlueprintFunctionLibrary.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:47268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47268)
-
 ## Properties
 
 ### \_\_tid\_BlueprintFunctionLibrary\_\_
@@ -106,19 +102,11 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_BlueprintFunctionLibrary__](ue_ue.BlueprintFunctionLibrary.md#__tid_blueprintfunctionlibrary__)
 
-#### Defined in
-
-[ue/ue.d.ts:13418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13418)
-
 ___
 
 ### \_\_tid\_MaterialEditingLibrary\_\_
 
 • **\_\_tid\_MaterialEditingLibrary\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:47313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47313)
 
 ___
 
@@ -129,10 +117,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_Object__](ue_ue.BlueprintFunctionLibrary.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -158,10 +142,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[CreateDefaultSubobject](ue_ue.BlueprintFunctionLibrary.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -182,10 +162,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[ExecuteUbergraph](ue_ue.BlueprintFunctionLibrary.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -199,10 +175,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetClass](ue_ue.BlueprintFunctionLibrary.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -218,10 +190,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetName](ue_ue.BlueprintFunctionLibrary.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -235,10 +203,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetOuter](ue_ue.BlueprintFunctionLibrary.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -258,10 +222,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:47269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47269)
-
 ___
 
 ### GetStaticSwitchParameterSource
@@ -279,10 +239,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:47270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47270)
 
 ___
 
@@ -302,10 +258,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:47271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47271)
-
 ___
 
 ### GetVectorParameterSource
@@ -324,10 +276,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:47272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47272)
-
 ___
 
 ### GetWorld
@@ -341,10 +289,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetWorld](ue_ue.BlueprintFunctionLibrary.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -361,10 +305,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:47273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47273)
 
 ___
 
@@ -385,10 +325,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:47274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47274)
-
 ___
 
 ### ConnectMaterialProperty
@@ -406,10 +342,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:47275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47275)
 
 ___
 
@@ -430,10 +362,6 @@ ___
 
 [`MaterialExpression`](ue_ue.MaterialExpression.md)
 
-#### Defined in
-
-[ue/ue.d.ts:47276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47276)
-
 ___
 
 ### CreateMaterialExpressionInFunction
@@ -453,10 +381,6 @@ ___
 
 [`MaterialExpression`](ue_ue.MaterialExpression.md)
 
-#### Defined in
-
-[ue/ue.d.ts:47277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47277)
-
 ___
 
 ### DeleteAllMaterialExpressions
@@ -473,10 +397,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:47278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47278)
-
 ___
 
 ### DeleteAllMaterialExpressionsInFunction
@@ -492,10 +412,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:47279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47279)
 
 ___
 
@@ -514,10 +430,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:47280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47280)
-
 ___
 
 ### DeleteMaterialExpressionInFunction
@@ -534,10 +446,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:47281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47281)
 
 ___
 
@@ -560,10 +468,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Find](ue_ue.BlueprintFunctionLibrary.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:47310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47310)
-
 ___
 
 ### GetChildInstances
@@ -580,10 +484,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:47282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47282)
 
 ___
 
@@ -602,10 +502,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:47283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47283)
-
 ___
 
 ### GetMaterialDefaultStaticSwitchParameterValue
@@ -622,10 +518,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:47284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47284)
 
 ___
 
@@ -644,10 +536,6 @@ ___
 
 [`Texture`](ue_ue.Texture.md)
 
-#### Defined in
-
-[ue/ue.d.ts:47285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47285)
-
 ___
 
 ### GetMaterialDefaultVectorParameterValue
@@ -664,10 +552,6 @@ ___
 #### Returns
 
 [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:47286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47286)
 
 ___
 
@@ -686,10 +570,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:47287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47287)
-
 ___
 
 ### GetMaterialInstanceStaticSwitchParameterValue
@@ -706,10 +586,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:47288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47288)
 
 ___
 
@@ -728,10 +604,6 @@ ___
 
 [`Texture`](ue_ue.Texture.md)
 
-#### Defined in
-
-[ue/ue.d.ts:47289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47289)
-
 ___
 
 ### GetMaterialInstanceVectorParameterValue
@@ -749,10 +621,6 @@ ___
 
 [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:47290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47290)
-
 ___
 
 ### GetMaterialSelectedNodes
@@ -768,10 +636,6 @@ ___
 #### Returns
 
 [`TSet`](../interfaces/ue_puerts.TSet.md)<[`Object`](ue_ue.Object.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:47291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47291)
 
 ___
 
@@ -789,10 +653,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:47292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47292)
-
 ___
 
 ### GetNumMaterialExpressionsInFunction
@@ -808,10 +668,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:47293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47293)
 
 ___
 
@@ -830,10 +686,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:47294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47294)
-
 ___
 
 ### GetStaticSwitchParameterNames
@@ -850,10 +702,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:47295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47295)
 
 ___
 
@@ -872,10 +720,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:47296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47296)
-
 ___
 
 ### GetVectorParameterNames
@@ -892,10 +736,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:47297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47297)
 
 ___
 
@@ -914,10 +754,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:47298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47298)
-
 ___
 
 ### LayoutMaterialExpressions
@@ -934,10 +770,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:47299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47299)
-
 ___
 
 ### LayoutMaterialFunctionExpressions
@@ -953,10 +785,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:47300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47300)
 
 ___
 
@@ -978,10 +806,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Load](ue_ue.BlueprintFunctionLibrary.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:47311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47311)
-
 ___
 
 ### RecompileMaterial
@@ -997,10 +821,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:47301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47301)
 
 ___
 
@@ -1018,10 +838,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:47302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47302)
 
 ___
 
@@ -1041,10 +857,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:47303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47303)
-
 ___
 
 ### SetMaterialInstanceTextureParameterValue
@@ -1062,10 +874,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:47304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47304)
 
 ___
 
@@ -1085,10 +893,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:47305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47305)
-
 ___
 
 ### SetMaterialUsage
@@ -1107,10 +911,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:47306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47306)
-
 ___
 
 ### StaticClass
@@ -1124,10 +924,6 @@ ___
 #### Overrides
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[StaticClass](ue_ue.BlueprintFunctionLibrary.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:47309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47309)
 
 ___
 
@@ -1146,10 +942,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:47307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47307)
-
 ___
 
 ### UpdateMaterialInstance
@@ -1165,7 +957,3 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:47308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47308)

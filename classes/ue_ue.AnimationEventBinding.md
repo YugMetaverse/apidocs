@@ -29,10 +29,6 @@
 
 • **new AnimationEventBinding**()
 
-#### Defined in
-
-[ue/ue.d.ts:11948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11948)
-
 • **new AnimationEventBinding**(`Animation`, `Delegate`, `AnimationEvent`, `UserTag`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `AnimationEvent` | [`EWidgetAnimationEvent`](../enums/ue_ue.EWidgetAnimationEvent.md) |
 | `UserTag` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:11949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11949)
-
 ## Properties
 
 ### Animation
 
 • **Animation**: [`WidgetAnimation`](ue_ue.WidgetAnimation.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11950)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **AnimationEvent**: [`EWidgetAnimationEvent`](../enums/ue_ue.EWidgetAnimationEvent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11952)
-
 ___
 
 ### Delegate
 
 • **Delegate**: [`$Delegate`](../interfaces/ue_puerts._Delegate.md)<() => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:11951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11951)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **UserTag**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:11953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11953)
-
 ___
 
 ### \_\_tid\_AnimationEventBinding\_\_
 
 • `Private` **\_\_tid\_AnimationEventBinding\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11959)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11957)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11958)

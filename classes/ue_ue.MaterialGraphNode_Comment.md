@@ -81,10 +81,6 @@
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[constructor](ue_ue.EdGraphNode_Comment.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:49901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49901)
-
 ## Properties
 
 ### AdvancedPinDisplay
@@ -94,10 +90,6 @@
 #### Inherited from
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[AdvancedPinDisplay](ue_ue.EdGraphNode_Comment.md#advancedpindisplay)
-
-#### Defined in
-
-[ue/ue.d.ts:1067](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1067)
 
 ___
 
@@ -109,10 +101,6 @@ ___
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[CommentColor](ue_ue.EdGraphNode_Comment.md#commentcolor)
 
-#### Defined in
-
-[ue/ue.d.ts:31450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31450)
-
 ___
 
 ### CommentDepth
@@ -122,10 +110,6 @@ ___
 #### Inherited from
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[CommentDepth](ue_ue.EdGraphNode_Comment.md#commentdepth)
-
-#### Defined in
-
-[ue/ue.d.ts:31455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31455)
 
 ___
 
@@ -137,10 +121,6 @@ ___
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[DeprecatedPins](ue_ue.EdGraphNode_Comment.md#deprecatedpins)
 
-#### Defined in
-
-[ue/ue.d.ts:1062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1062)
-
 ___
 
 ### EnabledState
@@ -150,10 +130,6 @@ ___
 #### Inherited from
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[EnabledState](ue_ue.EdGraphNode_Comment.md#enabledstate)
-
-#### Defined in
-
-[ue/ue.d.ts:1068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1068)
 
 ___
 
@@ -165,10 +141,6 @@ ___
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[ErrorMsg](ue_ue.EdGraphNode_Comment.md#errormsg)
 
-#### Defined in
-
-[ue/ue.d.ts:1081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1081)
-
 ___
 
 ### ErrorType
@@ -178,10 +150,6 @@ ___
 #### Inherited from
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[ErrorType](ue_ue.EdGraphNode_Comment.md#errortype)
-
-#### Defined in
-
-[ue/ue.d.ts:1080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1080)
 
 ___
 
@@ -193,19 +161,11 @@ ___
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[FontSize](ue_ue.EdGraphNode_Comment.md#fontsize)
 
-#### Defined in
-
-[ue/ue.d.ts:31451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31451)
-
 ___
 
 ### MaterialExpressionComment
 
 • **MaterialExpressionComment**: [`MaterialExpressionComment`](ue_ue.MaterialExpressionComment.md)
-
-#### Defined in
-
-[ue/ue.d.ts:49902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49902)
 
 ___
 
@@ -217,10 +177,6 @@ ___
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[MoveMode](ue_ue.EdGraphNode_Comment.md#movemode)
 
-#### Defined in
-
-[ue/ue.d.ts:31454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31454)
-
 ___
 
 ### NodeComment
@@ -230,10 +186,6 @@ ___
 #### Inherited from
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[NodeComment](ue_ue.EdGraphNode_Comment.md#nodecomment)
-
-#### Defined in
-
-[ue/ue.d.ts:1079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1079)
 
 ___
 
@@ -245,10 +197,6 @@ ___
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[NodeGuid](ue_ue.EdGraphNode_Comment.md#nodeguid)
 
-#### Defined in
-
-[ue/ue.d.ts:1082](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1082)
-
 ___
 
 ### NodeHeight
@@ -258,10 +206,6 @@ ___
 #### Inherited from
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[NodeHeight](ue_ue.EdGraphNode_Comment.md#nodeheight)
-
-#### Defined in
-
-[ue/ue.d.ts:1066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1066)
 
 ___
 
@@ -273,10 +217,6 @@ ___
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[NodePosX](ue_ue.EdGraphNode_Comment.md#nodeposx)
 
-#### Defined in
-
-[ue/ue.d.ts:1063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1063)
-
 ___
 
 ### NodePosY
@@ -286,10 +226,6 @@ ___
 #### Inherited from
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[NodePosY](ue_ue.EdGraphNode_Comment.md#nodeposy)
-
-#### Defined in
-
-[ue/ue.d.ts:1064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1064)
 
 ___
 
@@ -301,10 +237,6 @@ ___
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[NodeUpgradeMessage](ue_ue.EdGraphNode_Comment.md#nodeupgrademessage)
 
-#### Defined in
-
-[ue/ue.d.ts:1078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1078)
-
 ___
 
 ### NodeWidth
@@ -314,10 +246,6 @@ ___
 #### Inherited from
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[NodeWidth](ue_ue.EdGraphNode_Comment.md#nodewidth)
-
-#### Defined in
-
-[ue/ue.d.ts:1065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1065)
 
 ___
 
@@ -329,10 +257,6 @@ ___
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[__tid_EdGraphNode_Comment__](ue_ue.EdGraphNode_Comment.md#__tid_edgraphnode_comment__)
 
-#### Defined in
-
-[ue/ue.d.ts:31460](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31460)
-
 ___
 
 ### \_\_tid\_EdGraphNode\_\_
@@ -343,19 +267,11 @@ ___
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[__tid_EdGraphNode__](ue_ue.EdGraphNode_Comment.md#__tid_edgraphnode__)
 
-#### Defined in
-
-[ue/ue.d.ts:1087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1087)
-
 ___
 
 ### \_\_tid\_MaterialGraphNode\_Comment\_\_
 
 • **\_\_tid\_MaterialGraphNode\_Comment\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:49907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49907)
 
 ___
 
@@ -367,10 +283,6 @@ ___
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[__tid_Object__](ue_ue.EdGraphNode_Comment.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bCanRenameNode
@@ -380,10 +292,6 @@ ___
 #### Inherited from
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[bCanRenameNode](ue_ue.EdGraphNode_Comment.md#bcanrenamenode)
-
-#### Defined in
-
-[ue/ue.d.ts:1077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1077)
 
 ___
 
@@ -395,10 +303,6 @@ ___
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[bCanResizeNode](ue_ue.EdGraphNode_Comment.md#bcanresizenode)
 
-#### Defined in
-
-[ue/ue.d.ts:1072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1072)
-
 ___
 
 ### bColorCommentBubble
@@ -408,10 +312,6 @@ ___
 #### Inherited from
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[bColorCommentBubble](ue_ue.EdGraphNode_Comment.md#bcolorcommentbubble)
-
-#### Defined in
-
-[ue/ue.d.ts:31453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31453)
 
 ___
 
@@ -423,10 +323,6 @@ ___
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[bCommentBubbleMakeVisible](ue_ue.EdGraphNode_Comment.md#bcommentbubblemakevisible)
 
-#### Defined in
-
-[ue/ue.d.ts:1076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1076)
-
 ___
 
 ### bCommentBubblePinned
@@ -436,10 +332,6 @@ ___
 #### Inherited from
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[bCommentBubblePinned](ue_ue.EdGraphNode_Comment.md#bcommentbubblepinned)
-
-#### Defined in
-
-[ue/ue.d.ts:1074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1074)
 
 ___
 
@@ -451,10 +343,6 @@ ___
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[bCommentBubbleVisible](ue_ue.EdGraphNode_Comment.md#bcommentbubblevisible)
 
-#### Defined in
-
-[ue/ue.d.ts:1075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1075)
-
 ___
 
 ### bCommentBubbleVisible\_InDetailsPanel
@@ -464,10 +352,6 @@ ___
 #### Inherited from
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[bCommentBubbleVisible_InDetailsPanel](ue_ue.EdGraphNode_Comment.md#bcommentbubblevisible_indetailspanel)
-
-#### Defined in
-
-[ue/ue.d.ts:31452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31452)
 
 ___
 
@@ -479,10 +363,6 @@ ___
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[bDisplayAsDisabled](ue_ue.EdGraphNode_Comment.md#bdisplayasdisabled)
 
-#### Defined in
-
-[ue/ue.d.ts:1069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1069)
-
 ___
 
 ### bHasCompilerMessage
@@ -492,10 +372,6 @@ ___
 #### Inherited from
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[bHasCompilerMessage](ue_ue.EdGraphNode_Comment.md#bhascompilermessage)
-
-#### Defined in
-
-[ue/ue.d.ts:1073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1073)
 
 ___
 
@@ -507,10 +383,6 @@ ___
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[bIsNodeEnabled](ue_ue.EdGraphNode_Comment.md#bisnodeenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:1071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1071)
-
 ___
 
 ### bUserSetEnabledState
@@ -520,10 +392,6 @@ ___
 #### Inherited from
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[bUserSetEnabledState](ue_ue.EdGraphNode_Comment.md#busersetenabledstate)
-
-#### Defined in
-
-[ue/ue.d.ts:1070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1070)
 
 ## Methods
 
@@ -549,10 +417,6 @@ ___
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[CreateDefaultSubobject](ue_ue.EdGraphNode_Comment.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -573,10 +437,6 @@ ___
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[ExecuteUbergraph](ue_ue.EdGraphNode_Comment.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -590,10 +450,6 @@ ___
 #### Inherited from
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[GetClass](ue_ue.EdGraphNode_Comment.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -609,10 +465,6 @@ ___
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[GetName](ue_ue.EdGraphNode_Comment.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -627,10 +479,6 @@ ___
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[GetOuter](ue_ue.EdGraphNode_Comment.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -644,10 +492,6 @@ ___
 #### Inherited from
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[GetWorld](ue_ue.EdGraphNode_Comment.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -670,10 +514,6 @@ ___
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[Find](ue_ue.EdGraphNode_Comment.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:49904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49904)
-
 ___
 
 ### Load
@@ -694,10 +534,6 @@ ___
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[Load](ue_ue.EdGraphNode_Comment.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:49905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49905)
-
 ___
 
 ### StaticClass
@@ -711,7 +547,3 @@ ___
 #### Overrides
 
 [EdGraphNode_Comment](ue_ue.EdGraphNode_Comment.md).[StaticClass](ue_ue.EdGraphNode_Comment.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:49903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49903)

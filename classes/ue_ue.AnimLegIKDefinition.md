@@ -33,10 +33,6 @@
 
 • **new AnimLegIKDefinition**()
 
-#### Defined in
-
-[ue/ue.d.ts:18664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18664)
-
 • **new AnimLegIKDefinition**(`IKFootBone`, `FKFootBone`, `NumBonesInLimb`, `MinRotationAngle`, `FootBoneForwardAxis`, `HingeRotationAxis`, `bEnableRotationLimit`, `bEnableKneeTwistCorrection`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `bEnableRotationLimit` | `boolean` |
 | `bEnableKneeTwistCorrection` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:18665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18665)
-
 ## Properties
 
 ### FKFootBone
 
 • **FKFootBone**: [`BoneReference`](ue_ue.BoneReference.md)
-
-#### Defined in
-
-[ue/ue.d.ts:18667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18667)
 
 ___
 
@@ -72,19 +60,11 @@ ___
 
 • **FootBoneForwardAxis**: [`EAxis`](../enums/ue_ue.EAxis.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18670)
-
 ___
 
 ### HingeRotationAxis
 
 • **HingeRotationAxis**: [`EAxis`](../enums/ue_ue.EAxis.md)
-
-#### Defined in
-
-[ue/ue.d.ts:18671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18671)
 
 ___
 
@@ -92,19 +72,11 @@ ___
 
 • **IKFootBone**: [`BoneReference`](ue_ue.BoneReference.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18666)
-
 ___
 
 ### MinRotationAngle
 
 • **MinRotationAngle**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18669)
 
 ___
 
@@ -112,19 +84,11 @@ ___
 
 • **NumBonesInLimb**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18668)
-
 ___
 
 ### \_\_tid\_AnimLegIKDefinition\_\_
 
 • `Private` **\_\_tid\_AnimLegIKDefinition\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18679)
 
 ___
 
@@ -132,19 +96,11 @@ ___
 
 • **bEnableKneeTwistCorrection**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:18673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18673)
-
 ___
 
 ### bEnableRotationLimit
 
 • **bEnableRotationLimit**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18672)
 
 ## Methods
 
@@ -160,10 +116,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18677)
-
 ___
 
 ### StaticStruct
@@ -173,7 +125,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:18678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18678)

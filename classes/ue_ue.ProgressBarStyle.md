@@ -38,10 +38,6 @@
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[constructor](ue_ue.SlateWidgetStyle.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:58544](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58544)
-
 • **new ProgressBarStyle**(`BackgroundImage`, `FillImage`, `MarqueeImage`)
 
 #### Parameters
@@ -56,19 +52,11 @@
 
 UE.SlateWidgetStyle.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:58545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58545)
-
 ## Properties
 
 ### BackgroundImage
 
 • **BackgroundImage**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:58546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58546)
 
 ___
 
@@ -76,29 +64,17 @@ ___
 
 • **FillImage**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:58547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58547)
-
 ___
 
 ### MarqueeImage
 
 • **MarqueeImage**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:58548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58548)
-
 ___
 
 ### \_\_tid\_ProgressBarStyle\_\_
 
 • `Private` **\_\_tid\_ProgressBarStyle\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58554)
 
 ## Methods
 
@@ -118,10 +94,6 @@ use StaticStruct instead.
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[StaticClass](ue_ue.SlateWidgetStyle.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:58552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58552)
-
 ___
 
 ### StaticStruct
@@ -135,7 +107,3 @@ ___
 #### Overrides
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[StaticStruct](ue_ue.SlateWidgetStyle.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:58553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58553)

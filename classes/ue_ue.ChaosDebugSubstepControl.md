@@ -28,10 +28,6 @@
 
 • **new ChaosDebugSubstepControl**()
 
-#### Defined in
-
-[ue/ue.d.ts:26415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26415)
-
 • **new ChaosDebugSubstepControl**(`bPause`, `bSubstep`, `bStep`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `bSubstep` | `boolean` |
 | `bStep` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:26416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26416)
-
 ## Properties
 
 ### \_\_tid\_ChaosDebugSubstepControl\_\_
 
 • `Private` **\_\_tid\_ChaosDebugSubstepControl\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26425)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **bPause**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:26417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26417)
-
 ___
 
 ### bStep
 
 • **bStep**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:26419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26419)
-
 ___
 
 ### bSubstep
 
 • **bSubstep**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26418)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26423)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26424](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26424)

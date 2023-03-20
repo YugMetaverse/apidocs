@@ -28,10 +28,6 @@
 
 • **new LevelSequenceBindingReference**()
 
-#### Defined in
-
-[ue/ue.d.ts:13972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13972)
-
 • **new LevelSequenceBindingReference**(`PackageName`, `ExternalObjectPath`, `ObjectPath`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `ExternalObjectPath` | [`SoftObjectPath`](ue_ue.SoftObjectPath.md) |
 | `ObjectPath` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:13973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13973)
-
 ## Properties
 
 ### ExternalObjectPath
 
 • **ExternalObjectPath**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:13975](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13975)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **ObjectPath**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:13976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13976)
-
 ___
 
 ### PackageName
 
 • **PackageName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:13974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13974)
-
 ___
 
 ### \_\_tid\_LevelSequenceBindingReference\_\_
 
 • `Private` **\_\_tid\_LevelSequenceBindingReference\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:13982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13982)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:13980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13980)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:13981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13981)

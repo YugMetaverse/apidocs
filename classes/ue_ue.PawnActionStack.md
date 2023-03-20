@@ -26,10 +26,6 @@
 
 • **new PawnActionStack**()
 
-#### Defined in
-
-[ue/ue.d.ts:14843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14843)
-
 • **new PawnActionStack**(`TopAction`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `TopAction` | [`PawnAction`](ue_ue.PawnAction.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:14844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14844)
-
 ## Properties
 
 ### TopAction
 
 • **TopAction**: [`PawnAction`](ue_ue.PawnAction.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14845](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14845)
-
 ___
 
 ### \_\_tid\_PawnActionStack\_\_
 
 • `Private` **\_\_tid\_PawnActionStack\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14851)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14849)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14850)

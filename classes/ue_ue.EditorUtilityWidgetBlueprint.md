@@ -127,10 +127,6 @@
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[constructor](ue_ue.WidgetBlueprint.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:33681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33681)
-
 ## Properties
 
 ### AnimationData
@@ -140,10 +136,6 @@
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[AnimationData](ue_ue.WidgetBlueprint.md#animationdata)
-
-#### Defined in
-
-[ue/ue.d.ts:33649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33649)
 
 ___
 
@@ -155,10 +147,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[Animations](ue_ue.WidgetBlueprint.md#animations)
 
-#### Defined in
-
-[ue/ue.d.ts:33650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33650)
-
 ___
 
 ### Bindings
@@ -168,10 +156,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[Bindings](ue_ue.WidgetBlueprint.md#bindings)
-
-#### Defined in
-
-[ue/ue.d.ts:33648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33648)
 
 ___
 
@@ -183,10 +167,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[BlueprintCategory](ue_ue.WidgetBlueprint.md#blueprintcategory)
 
-#### Defined in
-
-[ue/ue.d.ts:4482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4482)
-
 ___
 
 ### BlueprintDescription
@@ -196,10 +176,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[BlueprintDescription](ue_ue.WidgetBlueprint.md#blueprintdescription)
-
-#### Defined in
-
-[ue/ue.d.ts:4481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4481)
 
 ___
 
@@ -211,10 +187,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[BlueprintDisplayName](ue_ue.WidgetBlueprint.md#blueprintdisplayname)
 
-#### Defined in
-
-[ue/ue.d.ts:4480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4480)
-
 ___
 
 ### BlueprintGuid
@@ -224,10 +196,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[BlueprintGuid](ue_ue.WidgetBlueprint.md#blueprintguid)
-
-#### Defined in
-
-[ue/ue.d.ts:4077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4077)
 
 ___
 
@@ -239,10 +207,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[BlueprintSystemVersion](ue_ue.WidgetBlueprint.md#blueprintsystemversion)
 
-#### Defined in
-
-[ue/ue.d.ts:4485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4485)
-
 ___
 
 ### BlueprintType
@@ -252,10 +216,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[BlueprintType](ue_ue.WidgetBlueprint.md#blueprinttype)
-
-#### Defined in
-
-[ue/ue.d.ts:4461](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4461)
 
 ___
 
@@ -267,10 +227,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[BookmarkNodes](ue_ue.WidgetBlueprint.md#bookmarknodes)
 
-#### Defined in
-
-[ue/ue.d.ts:4503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4503)
-
 ___
 
 ### Bookmarks
@@ -280,10 +236,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[Bookmarks](ue_ue.WidgetBlueprint.md#bookmarks)
-
-#### Defined in
-
-[ue/ue.d.ts:4502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4502)
 
 ___
 
@@ -295,10 +247,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[Breakpoints](ue_ue.WidgetBlueprint.md#breakpoints)
 
-#### Defined in
-
-[ue/ue.d.ts:4504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4504)
-
 ___
 
 ### CategorySorting
@@ -308,10 +256,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[CategorySorting](ue_ue.WidgetBlueprint.md#categorysorting)
-
-#### Defined in
-
-[ue/ue.d.ts:4499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4499)
 
 ___
 
@@ -323,10 +267,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[CompileMode](ue_ue.WidgetBlueprint.md#compilemode)
 
-#### Defined in
-
-[ue/ue.d.ts:4478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4478)
-
 ___
 
 ### ComponentClassOverrides
@@ -336,10 +276,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[ComponentClassOverrides](ue_ue.WidgetBlueprint.md#componentclassoverrides)
-
-#### Defined in
-
-[ue/ue.d.ts:4496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4496)
 
 ___
 
@@ -351,10 +287,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[ComponentTemplateNameIndex](ue_ue.WidgetBlueprint.md#componenttemplatenameindex)
 
-#### Defined in
-
-[ue/ue.d.ts:4507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4507)
-
 ___
 
 ### ComponentTemplates
@@ -364,10 +296,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[ComponentTemplates](ue_ue.WidgetBlueprint.md#componenttemplates)
-
-#### Defined in
-
-[ue/ue.d.ts:4494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4494)
 
 ___
 
@@ -379,10 +307,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[CrcLastCompiledCDO](ue_ue.WidgetBlueprint.md#crclastcompiledcdo)
 
-#### Defined in
-
-[ue/ue.d.ts:4511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4511)
-
 ___
 
 ### CrcLastCompiledSignature
@@ -393,19 +317,11 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[CrcLastCompiledSignature](ue_ue.WidgetBlueprint.md#crclastcompiledsignature)
 
-#### Defined in
-
-[ue/ue.d.ts:4512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4512)
-
 ___
 
 ### CreatedUMGWidget
 
 • **CreatedUMGWidget**: [`EditorUtilityWidget`](ue_ue.EditorUtilityWidget.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33682)
 
 ___
 
@@ -417,10 +333,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[DelegateSignatureGraphs](ue_ue.WidgetBlueprint.md#delegatesignaturegraphs)
 
-#### Defined in
-
-[ue/ue.d.ts:4489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4489)
-
 ___
 
 ### DeprecatedPinWatches
@@ -430,10 +342,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[DeprecatedPinWatches](ue_ue.WidgetBlueprint.md#deprecatedpinwatches)
-
-#### Defined in
-
-[ue/ue.d.ts:4506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4506)
 
 ___
 
@@ -445,10 +353,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[EstimatedTemplateSize](ue_ue.WidgetBlueprint.md#estimatedtemplatesize)
 
-#### Defined in
-
-[ue/ue.d.ts:33655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33655)
-
 ___
 
 ### EventGraphs
@@ -458,10 +362,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[EventGraphs](ue_ue.WidgetBlueprint.md#eventgraphs)
-
-#### Defined in
-
-[ue/ue.d.ts:4492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4492)
 
 ___
 
@@ -473,10 +373,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[Extensions](ue_ue.WidgetBlueprint.md#extensions)
 
-#### Defined in
-
-[ue/ue.d.ts:4509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4509)
-
 ___
 
 ### FunctionGraphs
@@ -486,10 +382,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[FunctionGraphs](ue_ue.WidgetBlueprint.md#functiongraphs)
-
-#### Defined in
-
-[ue/ue.d.ts:4488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4488)
 
 ___
 
@@ -501,10 +393,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[GeneratedClass](ue_ue.WidgetBlueprint.md#generatedclass)
 
-#### Defined in
-
-[ue/ue.d.ts:4075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4075)
-
 ___
 
 ### HideCategories
@@ -514,10 +402,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[HideCategories](ue_ue.WidgetBlueprint.md#hidecategories)
-
-#### Defined in
-
-[ue/ue.d.ts:4483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4483)
 
 ___
 
@@ -529,10 +413,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[ImplementedInterfaces](ue_ue.WidgetBlueprint.md#implementedinterfaces)
 
-#### Defined in
-
-[ue/ue.d.ts:4500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4500)
-
 ___
 
 ### InclusiveWidgets
@@ -542,10 +422,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[InclusiveWidgets](ue_ue.WidgetBlueprint.md#inclusivewidgets)
-
-#### Defined in
-
-[ue/ue.d.ts:33654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33654)
 
 ___
 
@@ -557,10 +433,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[InheritableComponentHandler](ue_ue.WidgetBlueprint.md#inheritablecomponenthandler)
 
-#### Defined in
-
-[ue/ue.d.ts:4497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4497)
-
 ___
 
 ### IntermediateGeneratedGraphs
@@ -570,10 +442,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[IntermediateGeneratedGraphs](ue_ue.WidgetBlueprint.md#intermediategeneratedgraphs)
-
-#### Defined in
-
-[ue/ue.d.ts:4491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4491)
 
 ___
 
@@ -585,10 +453,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[LastEditedDocuments](ue_ue.WidgetBlueprint.md#lastediteddocuments)
 
-#### Defined in
-
-[ue/ue.d.ts:4501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4501)
-
 ___
 
 ### MacroGraphs
@@ -598,10 +462,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[MacroGraphs](ue_ue.WidgetBlueprint.md#macrographs)
-
-#### Defined in
-
-[ue/ue.d.ts:4490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4490)
 
 ___
 
@@ -613,10 +473,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[NativizationFlag](ue_ue.WidgetBlueprint.md#nativizationflag)
 
-#### Defined in
-
-[ue/ue.d.ts:4477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4477)
-
 ___
 
 ### NewVariables
@@ -626,10 +482,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[NewVariables](ue_ue.WidgetBlueprint.md#newvariables)
-
-#### Defined in
-
-[ue/ue.d.ts:4498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4498)
 
 ___
 
@@ -641,10 +493,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[OldToNewComponentTemplateNames](ue_ue.WidgetBlueprint.md#oldtonewcomponenttemplatenames)
 
-#### Defined in
-
-[ue/ue.d.ts:4508](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4508)
-
 ___
 
 ### OriginalClass
@@ -654,10 +502,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[OriginalClass](ue_ue.WidgetBlueprint.md#originalclass)
-
-#### Defined in
-
-[ue/ue.d.ts:4513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4513)
 
 ___
 
@@ -669,10 +513,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[PRIVATE_CachedMacroInfo](ue_ue.WidgetBlueprint.md#private_cachedmacroinfo)
 
-#### Defined in
-
-[ue/ue.d.ts:4493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4493)
-
 ___
 
 ### PaletteCategory
@@ -682,10 +522,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[PaletteCategory](ue_ue.WidgetBlueprint.md#palettecategory)
-
-#### Defined in
-
-[ue/ue.d.ts:33651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33651)
 
 ___
 
@@ -697,10 +533,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[ParentClass](ue_ue.WidgetBlueprint.md#parentclass)
 
-#### Defined in
-
-[ue/ue.d.ts:4460](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4460)
-
 ___
 
 ### PropertyBindings
@@ -710,10 +542,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[PropertyBindings](ue_ue.WidgetBlueprint.md#propertybindings)
-
-#### Defined in
-
-[ue/ue.d.ts:33659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33659)
 
 ___
 
@@ -725,10 +553,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[SearchGuid](ue_ue.WidgetBlueprint.md#searchguid)
 
-#### Defined in
-
-[ue/ue.d.ts:4484](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4484)
-
 ___
 
 ### SimpleConstructionScript
@@ -738,10 +562,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[SimpleConstructionScript](ue_ue.WidgetBlueprint.md#simpleconstructionscript)
-
-#### Defined in
-
-[ue/ue.d.ts:4486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4486)
 
 ___
 
@@ -753,10 +573,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[SkeletonGeneratedClass](ue_ue.WidgetBlueprint.md#skeletongeneratedclass)
 
-#### Defined in
-
-[ue/ue.d.ts:4074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4074)
-
 ___
 
 ### Status
@@ -766,10 +582,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[Status](ue_ue.WidgetBlueprint.md#status)
-
-#### Defined in
-
-[ue/ue.d.ts:4479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4479)
 
 ___
 
@@ -781,10 +593,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[SupportDynamicCreation](ue_ue.WidgetBlueprint.md#supportdynamiccreation)
 
-#### Defined in
-
-[ue/ue.d.ts:33653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33653)
-
 ___
 
 ### ThumbnailInfo
@@ -794,10 +602,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[ThumbnailInfo](ue_ue.WidgetBlueprint.md#thumbnailinfo)
-
-#### Defined in
-
-[ue/ue.d.ts:4510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4510)
 
 ___
 
@@ -809,10 +613,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[TickFrequency](ue_ue.WidgetBlueprint.md#tickfrequency)
 
-#### Defined in
-
-[ue/ue.d.ts:33656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33656)
-
 ___
 
 ### TickPrediction
@@ -822,10 +622,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[TickPrediction](ue_ue.WidgetBlueprint.md#tickprediction)
-
-#### Defined in
-
-[ue/ue.d.ts:33657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33657)
 
 ___
 
@@ -837,10 +633,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[TickPredictionReason](ue_ue.WidgetBlueprint.md#tickpredictionreason)
 
-#### Defined in
-
-[ue/ue.d.ts:33658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33658)
-
 ___
 
 ### Timelines
@@ -850,10 +642,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[Timelines](ue_ue.WidgetBlueprint.md#timelines)
-
-#### Defined in
-
-[ue/ue.d.ts:4495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4495)
 
 ___
 
@@ -865,10 +653,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[UbergraphPages](ue_ue.WidgetBlueprint.md#ubergraphpages)
 
-#### Defined in
-
-[ue/ue.d.ts:4487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4487)
-
 ___
 
 ### WatchedPins
@@ -878,10 +662,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[WatchedPins](ue_ue.WidgetBlueprint.md#watchedpins)
-
-#### Defined in
-
-[ue/ue.d.ts:4505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4505)
 
 ___
 
@@ -893,10 +673,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[WidgetTree](ue_ue.WidgetBlueprint.md#widgettree)
 
-#### Defined in
-
-[ue/ue.d.ts:23518](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23518)
-
 ___
 
 ### \_\_tid\_BaseWidgetBlueprint\_\_
@@ -906,10 +682,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[__tid_BaseWidgetBlueprint__](ue_ue.WidgetBlueprint.md#__tid_basewidgetblueprint__)
-
-#### Defined in
-
-[ue/ue.d.ts:23523](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23523)
 
 ___
 
@@ -921,10 +693,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[__tid_BlueprintCore__](ue_ue.WidgetBlueprint.md#__tid_blueprintcore__)
 
-#### Defined in
-
-[ue/ue.d.ts:4082](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4082)
-
 ___
 
 ### \_\_tid\_Blueprint\_\_
@@ -935,19 +703,11 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[__tid_Blueprint__](ue_ue.WidgetBlueprint.md#__tid_blueprint__)
 
-#### Defined in
-
-[ue/ue.d.ts:4518](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4518)
-
 ___
 
 ### \_\_tid\_EditorUtilityWidgetBlueprint\_\_
 
 • **\_\_tid\_EditorUtilityWidgetBlueprint\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33687)
 
 ___
 
@@ -959,10 +719,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[__tid_Object__](ue_ue.WidgetBlueprint.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_WidgetBlueprint\_\_
@@ -972,10 +728,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[__tid_WidgetBlueprint__](ue_ue.WidgetBlueprint.md#__tid_widgetblueprint__)
-
-#### Defined in
-
-[ue/ue.d.ts:33664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33664)
 
 ___
 
@@ -987,10 +739,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[bBeingCompiled](ue_ue.WidgetBlueprint.md#bbeingcompiled)
 
-#### Defined in
-
-[ue/ue.d.ts:4465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4465)
-
 ___
 
 ### bDeprecate
@@ -1000,10 +748,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[bDeprecate](ue_ue.WidgetBlueprint.md#bdeprecate)
-
-#### Defined in
-
-[ue/ue.d.ts:4474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4474)
 
 ___
 
@@ -1015,10 +759,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[bDisplayCompilePIEWarning](ue_ue.WidgetBlueprint.md#bdisplaycompilepiewarning)
 
-#### Defined in
-
-[ue/ue.d.ts:4473](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4473)
-
 ___
 
 ### bDuplicatingReadOnly
@@ -1028,10 +768,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[bDuplicatingReadOnly](ue_ue.WidgetBlueprint.md#bduplicatingreadonly)
-
-#### Defined in
-
-[ue/ue.d.ts:4475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4475)
 
 ___
 
@@ -1043,10 +779,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[bForceFullEditor](ue_ue.WidgetBlueprint.md#bforcefulleditor)
 
-#### Defined in
-
-[ue/ue.d.ts:4467](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4467)
-
 ___
 
 ### bForceSlowConstructionPath
@@ -1056,10 +788,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[bForceSlowConstructionPath](ue_ue.WidgetBlueprint.md#bforceslowconstructionpath)
-
-#### Defined in
-
-[ue/ue.d.ts:33652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33652)
 
 ___
 
@@ -1071,10 +799,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[bGenerateAbstractClass](ue_ue.WidgetBlueprint.md#bgenerateabstractclass)
 
-#### Defined in
-
-[ue/ue.d.ts:4472](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4472)
-
 ___
 
 ### bGenerateConstClass
@@ -1084,10 +808,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[bGenerateConstClass](ue_ue.WidgetBlueprint.md#bgenerateconstclass)
-
-#### Defined in
-
-[ue/ue.d.ts:4471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4471)
 
 ___
 
@@ -1099,10 +819,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[bHasBeenRegenerated](ue_ue.WidgetBlueprint.md#bhasbeenregenerated)
 
-#### Defined in
-
-[ue/ue.d.ts:4463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4463)
-
 ___
 
 ### bIsNewlyCreated
@@ -1112,10 +828,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[bIsNewlyCreated](ue_ue.WidgetBlueprint.md#bisnewlycreated)
-
-#### Defined in
-
-[ue/ue.d.ts:4466](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4466)
 
 ___
 
@@ -1127,10 +839,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[bIsRegeneratingOnLoad](ue_ue.WidgetBlueprint.md#bisregeneratingonload)
 
-#### Defined in
-
-[ue/ue.d.ts:4464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4464)
-
 ___
 
 ### bLegacyNeedToPurgeSkelRefs
@@ -1140,10 +848,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[bLegacyNeedToPurgeSkelRefs](ue_ue.WidgetBlueprint.md#blegacyneedtopurgeskelrefs)
-
-#### Defined in
-
-[ue/ue.d.ts:4076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4076)
 
 ___
 
@@ -1155,10 +859,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[bNativize](ue_ue.WidgetBlueprint.md#bnativize)
 
-#### Defined in
-
-[ue/ue.d.ts:4476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4476)
-
 ___
 
 ### bQueuedForCompilation
@@ -1168,10 +868,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[bQueuedForCompilation](ue_ue.WidgetBlueprint.md#bqueuedforcompilation)
-
-#### Defined in
-
-[ue/ue.d.ts:4468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4468)
 
 ___
 
@@ -1183,10 +879,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[bRecompileOnLoad](ue_ue.WidgetBlueprint.md#brecompileonload)
 
-#### Defined in
-
-[ue/ue.d.ts:4462](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4462)
-
 ___
 
 ### bRunConstructionScriptInSequencer
@@ -1197,10 +889,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[bRunConstructionScriptInSequencer](ue_ue.WidgetBlueprint.md#brunconstructionscriptinsequencer)
 
-#### Defined in
-
-[ue/ue.d.ts:4470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4470)
-
 ___
 
 ### bRunConstructionScriptOnDrag
@@ -1210,10 +898,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[bRunConstructionScriptOnDrag](ue_ue.WidgetBlueprint.md#brunconstructionscriptondrag)
-
-#### Defined in
-
-[ue/ue.d.ts:4469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4469)
 
 ## Methods
 
@@ -1239,10 +923,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[CreateDefaultSubobject](ue_ue.WidgetBlueprint.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -1263,10 +943,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[ExecuteUbergraph](ue_ue.WidgetBlueprint.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -1280,10 +956,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[GetClass](ue_ue.WidgetBlueprint.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -1299,10 +971,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[GetName](ue_ue.WidgetBlueprint.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -1317,10 +985,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[GetOuter](ue_ue.WidgetBlueprint.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -1334,10 +998,6 @@ ___
 #### Inherited from
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[GetWorld](ue_ue.WidgetBlueprint.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -1360,10 +1020,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[Find](ue_ue.WidgetBlueprint.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:33684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33684)
-
 ___
 
 ### Load
@@ -1384,10 +1040,6 @@ ___
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[Load](ue_ue.WidgetBlueprint.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:33685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33685)
-
 ___
 
 ### StaticClass
@@ -1401,7 +1053,3 @@ ___
 #### Overrides
 
 [WidgetBlueprint](ue_ue.WidgetBlueprint.md).[StaticClass](ue_ue.WidgetBlueprint.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:33683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33683)

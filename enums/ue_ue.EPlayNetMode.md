@@ -21,19 +21,11 @@
 
 • **PIE\_Client** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34680)
-
 ___
 
 ### PIE\_ListenServer
 
 • **PIE\_ListenServer** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34680)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **PIE\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34680)
-
 ___
 
 ### PIE\_Standalone
 
 • **PIE\_Standalone** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34680)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **PIE\_StandaloneWithServer** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34680)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34680)

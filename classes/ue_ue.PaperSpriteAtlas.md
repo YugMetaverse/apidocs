@@ -67,19 +67,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:54522](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54522)
-
 ## Properties
 
 ### AtlasDescription
 
 • **AtlasDescription**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:54523](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54523)
 
 ___
 
@@ -87,19 +79,11 @@ ___
 
 • **AtlasGUID**: [`Guid`](ue_ue_s.Guid.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54532](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54532)
-
 ___
 
 ### AtlasSlots
 
 • **AtlasSlots**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PaperSpriteAtlasSlot`](ue_ue.PaperSpriteAtlasSlot.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:54534](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54534)
 
 ___
 
@@ -107,19 +91,11 @@ ___
 
 • **BuiltHeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:54537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54537)
-
 ___
 
 ### BuiltPadding
 
 • **BuiltPadding**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:54538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54538)
 
 ___
 
@@ -127,19 +103,11 @@ ___
 
 • **BuiltWidth**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:54536](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54536)
-
 ___
 
 ### CompressionSettings
 
 • **CompressionSettings**: [`TextureCompressionSettings`](../enums/ue_ue.TextureCompressionSettings.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54529)
 
 ___
 
@@ -147,19 +115,11 @@ ___
 
 • **Filter**: [`TextureFilter`](../enums/ue_ue.TextureFilter.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54530)
-
 ___
 
 ### GeneratedTextures
 
 • **GeneratedTextures**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Texture`](ue_ue.Texture.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:54531](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54531)
 
 ___
 
@@ -167,19 +127,11 @@ ___
 
 • **MaxHeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:54525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54525)
-
 ___
 
 ### MaxWidth
 
 • **MaxWidth**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:54524](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54524)
 
 ___
 
@@ -187,19 +139,11 @@ ___
 
 • **MipCount**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:54526](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54526)
-
 ___
 
 ### NumIncrementalBuilds
 
 • **NumIncrementalBuilds**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:54535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54535)
 
 ___
 
@@ -207,19 +151,11 @@ ___
 
 • **Padding**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:54528](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54528)
-
 ___
 
 ### PaddingType
 
 • **PaddingType**: [`EPaperSpriteAtlasPadding`](../enums/ue_ue.EPaperSpriteAtlasPadding.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54527](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54527)
 
 ___
 
@@ -231,29 +167,17 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PaperSpriteAtlas\_\_
 
 • **\_\_tid\_PaperSpriteAtlas\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:54543](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54543)
-
 ___
 
 ### bRebuildAtlas
 
 • **bRebuildAtlas**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54533](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54533)
 
 ## Methods
 
@@ -279,10 +203,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -303,10 +223,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -320,10 +236,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -339,10 +251,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -357,10 +265,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -374,10 +278,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -400,10 +300,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:54540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54540)
-
 ___
 
 ### Load
@@ -424,10 +320,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:54541](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54541)
-
 ___
 
 ### StaticClass
@@ -441,7 +333,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:54539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54539)

@@ -26,10 +26,6 @@
 
 • **new HeightmapData**()
 
-#### Defined in
-
-[ue/ue.d.ts:43898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43898)
-
 • **new HeightmapData**(`Texture`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Texture` | [`Texture2D`](ue_ue.Texture2D.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:43899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43899)
-
 ## Properties
 
 ### Texture
 
 • **Texture**: [`Texture2D`](ue_ue.Texture2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43900)
-
 ___
 
 ### \_\_tid\_HeightmapData\_\_
 
 • `Private` **\_\_tid\_HeightmapData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43906)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43904)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43905)

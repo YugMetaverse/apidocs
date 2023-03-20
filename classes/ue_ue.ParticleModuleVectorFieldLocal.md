@@ -78,19 +78,11 @@
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[constructor](ue_ue.ParticleModuleVectorFieldBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:56657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56657)
-
 ## Properties
 
 ### Intensity
 
 • **Intensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:56662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56662)
 
 ___
 
@@ -102,10 +94,6 @@ ___
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[LODDuplicate](ue_ue.ParticleModuleVectorFieldBase.md#lodduplicate)
 
-#### Defined in
-
-[ue/ue.d.ts:6745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6745)
-
 ___
 
 ### LODValidity
@@ -115,10 +103,6 @@ ___
 #### Inherited from
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[LODValidity](ue_ue.ParticleModuleVectorFieldBase.md#lodvalidity)
-
-#### Defined in
-
-[ue/ue.d.ts:6748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6748)
 
 ___
 
@@ -130,19 +114,11 @@ ___
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[ModuleEditorColor](ue_ue.ParticleModuleVectorFieldBase.md#moduleeditorcolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6749)
-
 ___
 
 ### RelativeRotation
 
 • **RelativeRotation**: [`Rotator`](ue_ue_s.Rotator.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56660)
 
 ___
 
@@ -150,19 +126,11 @@ ___
 
 • **RelativeScale3D**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:56661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56661)
-
 ___
 
 ### RelativeTranslation
 
 • **RelativeTranslation**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56659)
 
 ___
 
@@ -170,19 +138,11 @@ ___
 
 • **Tightness**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:56663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56663)
-
 ___
 
 ### VectorField
 
 • **VectorField**: [`VectorField`](ue_ue.VectorField.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56658)
 
 ___
 
@@ -194,10 +154,6 @@ ___
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[__tid_Object__](ue_ue.ParticleModuleVectorFieldBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ParticleModuleVectorFieldBase\_\_
@@ -208,19 +164,11 @@ ___
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[__tid_ParticleModuleVectorFieldBase__](ue_ue.ParticleModuleVectorFieldBase.md#__tid_particlemodulevectorfieldbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:56641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56641)
-
 ___
 
 ### \_\_tid\_ParticleModuleVectorFieldLocal\_\_
 
 • **\_\_tid\_ParticleModuleVectorFieldLocal\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:56673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56673)
 
 ___
 
@@ -232,10 +180,6 @@ ___
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[__tid_ParticleModule__](ue_ue.ParticleModuleVectorFieldBase.md#__tid_particlemodule__)
 
-#### Defined in
-
-[ue/ue.d.ts:6754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6754)
-
 ___
 
 ### b3DDrawMode
@@ -245,10 +189,6 @@ ___
 #### Inherited from
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[b3DDrawMode](ue_ue.ParticleModuleVectorFieldBase.md#b3ddrawmode)
-
-#### Defined in
-
-[ue/ue.d.ts:6741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6741)
 
 ___
 
@@ -260,10 +200,6 @@ ___
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[bCurvesAsColor](ue_ue.ParticleModuleVectorFieldBase.md#bcurvesascolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6740)
-
 ___
 
 ### bEditable
@@ -273,10 +209,6 @@ ___
 #### Inherited from
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[bEditable](ue_ue.ParticleModuleVectorFieldBase.md#beditable)
-
-#### Defined in
-
-[ue/ue.d.ts:6744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6744)
 
 ___
 
@@ -288,10 +220,6 @@ ___
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[bEnabled](ue_ue.ParticleModuleVectorFieldBase.md#benabled)
 
-#### Defined in
-
-[ue/ue.d.ts:6743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6743)
-
 ___
 
 ### bFinalUpdateModule
@@ -302,19 +230,11 @@ ___
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[bFinalUpdateModule](ue_ue.ParticleModuleVectorFieldBase.md#bfinalupdatemodule)
 
-#### Defined in
-
-[ue/ue.d.ts:6738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6738)
-
 ___
 
 ### bIgnoreComponentTransform
 
 • **bIgnoreComponentTransform**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:56664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56664)
 
 ___
 
@@ -326,10 +246,6 @@ ___
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[bRequiresLoopingNotification](ue_ue.ParticleModuleVectorFieldBase.md#brequiresloopingnotification)
 
-#### Defined in
-
-[ue/ue.d.ts:6747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6747)
-
 ___
 
 ### bSpawnModule
@@ -339,10 +255,6 @@ ___
 #### Inherited from
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[bSpawnModule](ue_ue.ParticleModuleVectorFieldBase.md#bspawnmodule)
-
-#### Defined in
-
-[ue/ue.d.ts:6736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6736)
 
 ___
 
@@ -354,10 +266,6 @@ ___
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[bSupported3DDrawMode](ue_ue.ParticleModuleVectorFieldBase.md#bsupported3ddrawmode)
 
-#### Defined in
-
-[ue/ue.d.ts:6742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6742)
-
 ___
 
 ### bSupportsRandomSeed
@@ -368,19 +276,11 @@ ___
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[bSupportsRandomSeed](ue_ue.ParticleModuleVectorFieldBase.md#bsupportsrandomseed)
 
-#### Defined in
-
-[ue/ue.d.ts:6746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6746)
-
 ___
 
 ### bTileX
 
 • **bTileX**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:56665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56665)
 
 ___
 
@@ -388,19 +288,11 @@ ___
 
 • **bTileY**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:56666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56666)
-
 ___
 
 ### bTileZ
 
 • **bTileZ**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:56667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56667)
 
 ___
 
@@ -412,10 +304,6 @@ ___
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[bUpdateForGPUEmitter](ue_ue.ParticleModuleVectorFieldBase.md#bupdateforgpuemitter)
 
-#### Defined in
-
-[ue/ue.d.ts:6739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6739)
-
 ___
 
 ### bUpdateModule
@@ -426,19 +314,11 @@ ___
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[bUpdateModule](ue_ue.ParticleModuleVectorFieldBase.md#bupdatemodule)
 
-#### Defined in
-
-[ue/ue.d.ts:6737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6737)
-
 ___
 
 ### bUseFixDT
 
 • **bUseFixDT**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:56668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56668)
 
 ## Methods
 
@@ -464,10 +344,6 @@ ___
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[CreateDefaultSubobject](ue_ue.ParticleModuleVectorFieldBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -488,10 +364,6 @@ ___
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[ExecuteUbergraph](ue_ue.ParticleModuleVectorFieldBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -505,10 +377,6 @@ ___
 #### Inherited from
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[GetClass](ue_ue.ParticleModuleVectorFieldBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -524,10 +392,6 @@ ___
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[GetName](ue_ue.ParticleModuleVectorFieldBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -542,10 +406,6 @@ ___
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[GetOuter](ue_ue.ParticleModuleVectorFieldBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -559,10 +419,6 @@ ___
 #### Inherited from
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[GetWorld](ue_ue.ParticleModuleVectorFieldBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -585,10 +441,6 @@ ___
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[Find](ue_ue.ParticleModuleVectorFieldBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:56670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56670)
-
 ___
 
 ### Load
@@ -609,10 +461,6 @@ ___
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[Load](ue_ue.ParticleModuleVectorFieldBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:56671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56671)
-
 ___
 
 ### StaticClass
@@ -626,7 +474,3 @@ ___
 #### Overrides
 
 [ParticleModuleVectorFieldBase](ue_ue.ParticleModuleVectorFieldBase.md).[StaticClass](ue_ue.ParticleModuleVectorFieldBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:56669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56669)

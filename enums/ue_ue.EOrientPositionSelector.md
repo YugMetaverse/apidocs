@@ -20,19 +20,11 @@
 
 • **EOrientPositionSelector\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34650)
-
 ___
 
 ### Orientation
 
 • **Orientation** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34650)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **OrientationAndPosition** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34650)
-
 ___
 
 ### Position
 
 • **Position** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34650)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34650)

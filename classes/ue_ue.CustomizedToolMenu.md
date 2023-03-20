@@ -30,10 +30,6 @@
 
 • **new CustomizedToolMenu**()
 
-#### Defined in
-
-[ue/ue.d.ts:64016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64016)
-
 • **new CustomizedToolMenu**(`Name`, `Entries`, `Sections`, `EntryOrder`, `SectionOrder`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `EntryOrder` | [`TMap`](../interfaces/ue_puerts.TMap.md)<`string`, [`CustomizedToolMenuNameArray`](ue_ue.CustomizedToolMenuNameArray.md)\> |
 | `SectionOrder` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:64017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64017)
-
 ## Properties
 
 ### Entries
 
 • **Entries**: [`TMap`](../interfaces/ue_puerts.TMap.md)<`string`, [`CustomizedToolMenuEntry`](ue_ue.CustomizedToolMenuEntry.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:64019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64019)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **EntryOrder**: [`TMap`](../interfaces/ue_puerts.TMap.md)<`string`, [`CustomizedToolMenuNameArray`](ue_ue.CustomizedToolMenuNameArray.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:64021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64021)
-
 ___
 
 ### Name
 
 • **Name**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:64018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64018)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **SectionOrder**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:64022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64022)
-
 ___
 
 ### Sections
 
 • **Sections**: [`TMap`](../interfaces/ue_puerts.TMap.md)<`string`, [`CustomizedToolMenuSection`](ue_ue.CustomizedToolMenuSection.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:64020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64020)
-
 ___
 
 ### \_\_tid\_CustomizedToolMenu\_\_
 
 • `Private` **\_\_tid\_CustomizedToolMenu\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64028)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64026](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64026)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:64027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64027)

@@ -29,10 +29,6 @@
 
 • **new AnimationSharingScalability**()
 
-#### Defined in
-
-[ue/ue.d.ts:17069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17069)
-
 • **new AnimationSharingScalability**(`UseBlendTransitions`, `BlendSignificanceValue`, `MaximumNumberConcurrentBlends`, `TickSignificanceValue`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `MaximumNumberConcurrentBlends` | [`PerPlatformInt`](ue_ue.PerPlatformInt.md) |
 | `TickSignificanceValue` | [`PerPlatformFloat`](ue_ue.PerPlatformFloat.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:17070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17070)
-
 ## Properties
 
 ### BlendSignificanceValue
 
 • **BlendSignificanceValue**: [`PerPlatformFloat`](ue_ue.PerPlatformFloat.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17072)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **MaximumNumberConcurrentBlends**: [`PerPlatformInt`](ue_ue.PerPlatformInt.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17073)
-
 ___
 
 ### TickSignificanceValue
 
 • **TickSignificanceValue**: [`PerPlatformFloat`](ue_ue.PerPlatformFloat.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17074)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **UseBlendTransitions**: [`PerPlatformBool`](ue_ue.PerPlatformBool.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17071)
-
 ___
 
 ### \_\_tid\_AnimationSharingScalability\_\_
 
 • `Private` **\_\_tid\_AnimationSharingScalability\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17080)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17078)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17079)

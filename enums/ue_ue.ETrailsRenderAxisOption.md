@@ -20,19 +20,11 @@
 
 • **Trails\_CameraUp** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34848)
-
 ___
 
 ### Trails\_MAX
 
 • **Trails\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34848)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Trails\_SourceUp** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34848)
-
 ___
 
 ### Trails\_WorldUp
 
 • **Trails\_WorldUp** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34848)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34848)

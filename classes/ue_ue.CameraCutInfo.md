@@ -27,10 +27,6 @@
 
 • **new CameraCutInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:13036](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13036)
-
 • **new CameraCutInfo**(`Location`, `TimeStamp`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Location` | [`Vector`](ue_ue_s.Vector.md) |
 | `TimeStamp` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:13037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13037)
-
 ## Properties
 
 ### Location
 
 • **Location**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:13038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13038)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **TimeStamp**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:13039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13039)
-
 ___
 
 ### \_\_tid\_CameraCutInfo\_\_
 
 • `Private` **\_\_tid\_CameraCutInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:13045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13045)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:13043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13043)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:13044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13044)

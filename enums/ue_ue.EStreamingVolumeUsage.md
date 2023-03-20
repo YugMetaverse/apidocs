@@ -22,19 +22,11 @@
 
 • **SVB\_BlockingOnLoad** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9762)
-
 ___
 
 ### SVB\_Loading
 
 • **SVB\_Loading** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9762)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **SVB\_LoadingAndVisibility** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9762)
-
 ___
 
 ### SVB\_LoadingNotVisible
 
 • **SVB\_LoadingNotVisible** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9762)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **SVB\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9762)
-
 ___
 
 ### SVB\_VisibilityBlockingOnLoad
 
 • **SVB\_VisibilityBlockingOnLoad** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9762)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9762)

@@ -20,19 +20,11 @@
 
 • **EPathExistanceQueryType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:24980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24980)
-
 ___
 
 ### HierarchicalQuery
 
 • **HierarchicalQuery** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:24980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24980)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **NavmeshRaycast2D** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:24980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24980)
-
 ___
 
 ### RegularPathFinding
 
 • **RegularPathFinding** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:24980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24980)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:24980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24980)

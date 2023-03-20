@@ -22,19 +22,11 @@
 
 • **AutonomousAI** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31362)
-
 ___
 
 ### EAITaskPriority\_MAX
 
 • **EAITaskPriority\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31362)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **High** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31362)
-
 ___
 
 ### Low
 
 • **Low** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31362)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **Lowest** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31362)
-
 ___
 
 ### Ultimate
 
 • **Ultimate** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31362)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31362)

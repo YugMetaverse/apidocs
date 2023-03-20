@@ -24,19 +24,11 @@
 
 • **MOVE\_Custom** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5505)
-
 ___
 
 ### MOVE\_Falling
 
 • **MOVE\_Falling** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5505)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **MOVE\_Flying** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5505)
-
 ___
 
 ### MOVE\_MAX
 
 • **MOVE\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5505)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **MOVE\_NavWalking** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5505)
-
 ___
 
 ### MOVE\_None
 
 • **MOVE\_None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5505)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **MOVE\_Swimming** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5505)
-
 ___
 
 ### MOVE\_Walking
 
 • **MOVE\_Walking** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5505)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5505)

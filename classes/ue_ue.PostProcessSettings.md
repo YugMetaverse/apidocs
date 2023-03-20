@@ -379,10 +379,6 @@
 
 • **new PostProcessSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:6264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6264)
-
 • **new PostProcessSettings**(`bOverride_WhiteTemp`, `bOverride_WhiteTint`, `bOverride_ColorSaturation`, `bOverride_ColorContrast`, `bOverride_ColorGamma`, `bOverride_ColorGain`, `bOverride_ColorOffset`, `bOverride_ColorSaturationShadows`, `bOverride_ColorContrastShadows`, `bOverride_ColorGammaShadows`, `bOverride_ColorGainShadows`, `bOverride_ColorOffsetShadows`, `bOverride_ColorSaturationMidtones`, `bOverride_ColorContrastMidtones`, `bOverride_ColorGammaMidtones`, `bOverride_ColorGainMidtones`, `bOverride_ColorOffsetMidtones`, `bOverride_ColorSaturationHighlights`, `bOverride_ColorContrastHighlights`, `bOverride_ColorGammaHighlights`, `bOverride_ColorGainHighlights`, `bOverride_ColorOffsetHighlights`, `bOverride_ColorCorrectionShadowsMax`, `bOverride_ColorCorrectionHighlightsMin`, `bOverride_BlueCorrection`, `bOverride_ExpandGamut`, `bOverride_FilmWhitePoint`, `bOverride_FilmSaturation`, `bOverride_FilmChannelMixerRed`, `bOverride_FilmChannelMixerGreen`, `bOverride_FilmChannelMixerBlue`, `bOverride_FilmContrast`, `bOverride_FilmDynamicRange`, `bOverride_FilmHealAmount`, `bOverride_FilmToeAmount`, `bOverride_FilmShadowTint`, `bOverride_FilmShadowTintBlend`, `bOverride_FilmShadowTintAmount`, `bOverride_FilmSlope`, `bOverride_FilmToe`, `bOverride_FilmShoulder`, `bOverride_FilmBlackClip`, `bOverride_FilmWhiteClip`, `bOverride_SceneColorTint`, `bOverride_SceneFringeIntensity`, `bOverride_ChromaticAberrationStartOffset`, `bOverride_AmbientCubemapTint`, `bOverride_AmbientCubemapIntensity`, `bOverride_BloomMethod`, `bOverride_BloomIntensity`, `bOverride_BloomThreshold`, `bOverride_Bloom1Tint`, `bOverride_Bloom1Size`, `bOverride_Bloom2Size`, `bOverride_Bloom2Tint`, `bOverride_Bloom3Tint`, `bOverride_Bloom3Size`, `bOverride_Bloom4Tint`, `bOverride_Bloom4Size`, `bOverride_Bloom5Tint`, `bOverride_Bloom5Size`, `bOverride_Bloom6Tint`, `bOverride_Bloom6Size`, `bOverride_BloomSizeScale`, `bOverride_BloomConvolutionTexture`, `bOverride_BloomConvolutionSize`, `bOverride_BloomConvolutionCenterUV`, `bOverride_BloomConvolutionPreFilter`, `bOverride_BloomConvolutionPreFilterMin`, `bOverride_BloomConvolutionPreFilterMax`, `bOverride_BloomConvolutionPreFilterMult`, `bOverride_BloomConvolutionBufferScale`, `bOverride_BloomDirtMaskIntensity`, `bOverride_BloomDirtMaskTint`, `bOverride_BloomDirtMask`, `bOverride_CameraShutterSpeed`, `bOverride_CameraISO`, `bOverride_AutoExposureMethod`, `bOverride_AutoExposureLowPercent`, `bOverride_AutoExposureHighPercent`, `bOverride_AutoExposureMinBrightness`, `bOverride_AutoExposureMaxBrightness`, `bOverride_AutoExposureCalibrationConstant`, `bOverride_AutoExposureSpeedUp`, `bOverride_AutoExposureSpeedDown`, `bOverride_AutoExposureBias`, `bOverride_AutoExposureBiasCurve`, `bOverride_HistogramLogMin`, `bOverride_HistogramLogMax`, `bOverride_LensFlareIntensity`, `bOverride_LensFlareTint`, `bOverride_LensFlareTints`, `bOverride_LensFlareBokehSize`, `bOverride_LensFlareBokehShape`, `bOverride_LensFlareThreshold`, `bOverride_VignetteIntensity`, `bOverride_GrainIntensity`, `bOverride_GrainJitter`, `bOverride_AmbientOcclusionIntensity`, `bOverride_AmbientOcclusionStaticFraction`, `bOverride_AmbientOcclusionRadius`, `bOverride_AmbientOcclusionFadeDistance`, `bOverride_AmbientOcclusionFadeRadius`, `bOverride_AmbientOcclusionDistance`, `bOverride_AmbientOcclusionRadiusInWS`, `bOverride_AmbientOcclusionPower`, `bOverride_AmbientOcclusionBias`, `bOverride_AmbientOcclusionQuality`, `bOverride_AmbientOcclusionMipBlend`, `bOverride_AmbientOcclusionMipScale`, `bOverride_AmbientOcclusionMipThreshold`, `bOverride_RayTracingAO`, `bOverride_RayTracingAOSamplesPerPixel`, `bOverride_LPVIntensity`, `bOverride_LPVDirectionalOcclusionIntensity`, `bOverride_LPVDirectionalOcclusionRadius`, `bOverride_LPVDiffuseOcclusionExponent`, `bOverride_LPVSpecularOcclusionExponent`, `bOverride_LPVDiffuseOcclusionIntensity`, `bOverride_LPVSpecularOcclusionIntensity`, `bOverride_LPVSize`, `bOverride_LPVSecondaryOcclusionIntensity`, `bOverride_LPVSecondaryBounceIntensity`, `bOverride_LPVGeometryVolumeBias`, `bOverride_LPVVplInjectionBias`, `bOverride_LPVEmissiveInjectionIntensity`, `bOverride_LPVFadeRange`, `bOverride_LPVDirectionalOcclusionFadeRange`, `bOverride_IndirectLightingColor`, `bOverride_IndirectLightingIntensity`, `bOverride_ColorGradingIntensity`, `bOverride_ColorGradingLUT`, `bOverride_DepthOfFieldFocalDistance`, `bOverride_DepthOfFieldFstop`, `bOverride_DepthOfFieldMinFstop`, `bOverride_DepthOfFieldBladeCount`, `bOverride_DepthOfFieldSensorWidth`, `bOverride_DepthOfFieldDepthBlurRadius`, `bOverride_DepthOfFieldDepthBlurAmount`, `bOverride_DepthOfFieldFocalRegion`, `bOverride_DepthOfFieldNearTransitionRegion`, `bOverride_DepthOfFieldFarTransitionRegion`, `bOverride_DepthOfFieldScale`, `bOverride_DepthOfFieldNearBlurSize`, `bOverride_DepthOfFieldFarBlurSize`, `bOverride_MobileHQGaussian`, `bOverride_DepthOfFieldOcclusion`, `bOverride_DepthOfFieldSkyFocusDistance`, `bOverride_DepthOfFieldVignetteSize`, `bOverride_MotionBlurAmount`, `bOverride_MotionBlurMax`, `bOverride_MotionBlurTargetFPS`, `bOverride_MotionBlurPerObjectSize`, `bOverride_ScreenPercentage`, `bOverride_ScreenSpaceReflectionIntensity`, `bOverride_ScreenSpaceReflectionQuality`, `bOverride_ScreenSpaceReflectionMaxRoughness`, `bOverride_ScreenSpaceReflectionRoughnessScale`, `bOverride_ReflectionsType`, `bOverride_RayTracingReflectionsMaxRoughness`, `bOverride_RayTracingReflectionsMaxBounces`, `bOverride_RayTracingReflectionsSamplesPerPixel`, `bOverride_RayTracingReflectionsShadows`, `bOverride_RayTracingReflectionsTranslucency`, `bOverride_TranslucencyType`, `bOverride_RayTracingTranslucencyMaxRoughness`, `bOverride_RayTracingTranslucencyRefractionRays`, `bOverride_RayTracingTranslucencySamplesPerPixel`, `bOverride_RayTracingTranslucencyShadows`, `bOverride_RayTracingTranslucencyRefraction`, `bOverride_RayTracingGI`, `bOverride_RayTracingGIMaxBounces`, `bOverride_RayTracingGISamplesPerPixel`, `bOverride_PathTracingMaxBounces`, `bOverride_PathTracingSamplesPerPixel`, `bMobileHQGaussian`, `BloomMethod`, `AutoExposureMethod`, `DepthOfFieldMethod`, `WhiteTemp`, `WhiteTint`, `ColorSaturation`, `ColorContrast`, `ColorGamma`, `ColorGain`, `ColorOffset`, `ColorSaturationShadows`, `ColorContrastShadows`, `ColorGammaShadows`, `ColorGainShadows`, `ColorOffsetShadows`, `ColorSaturationMidtones`, `ColorContrastMidtones`, `ColorGammaMidtones`, `ColorGainMidtones`, `ColorOffsetMidtones`, `ColorSaturationHighlights`, `ColorContrastHighlights`, `ColorGammaHighlights`, `ColorGainHighlights`, `ColorOffsetHighlights`, `ColorCorrectionHighlightsMin`, `ColorCorrectionShadowsMax`, `BlueCorrection`, `ExpandGamut`, `FilmSlope`, `FilmToe`, `FilmShoulder`, `FilmBlackClip`, `FilmWhiteClip`, `FilmWhitePoint`, `FilmShadowTint`, `FilmShadowTintBlend`, `FilmShadowTintAmount`, `FilmSaturation`, `FilmChannelMixerRed`, `FilmChannelMixerGreen`, `FilmChannelMixerBlue`, `FilmContrast`, `FilmToeAmount`, `FilmHealAmount`, `FilmDynamicRange`, `SceneColorTint`, `SceneFringeIntensity`, `ChromaticAberrationStartOffset`, `BloomIntensity`, `BloomThreshold`, `BloomSizeScale`, `Bloom1Size`, `Bloom2Size`, `Bloom3Size`, `Bloom4Size`, `Bloom5Size`, `Bloom6Size`, `Bloom1Tint`, `Bloom2Tint`, `Bloom3Tint`, `Bloom4Tint`, `Bloom5Tint`, `Bloom6Tint`, `BloomConvolutionSize`, `BloomConvolutionTexture`, `BloomConvolutionCenterUV`, `BloomConvolutionPreFilter`, `BloomConvolutionPreFilterMin`, `BloomConvolutionPreFilterMax`, `BloomConvolutionPreFilterMult`, `BloomConvolutionBufferScale`, `BloomDirtMask`, `BloomDirtMaskIntensity`, `BloomDirtMaskTint`, `AmbientCubemapTint`, `AmbientCubemapIntensity`, `AmbientCubemap`, `CameraShutterSpeed`, `CameraISO`, `DepthOfFieldFstop`, `DepthOfFieldMinFstop`, `DepthOfFieldBladeCount`, `AutoExposureBias`, `AutoExposureBiasCurve`, `AutoExposureLowPercent`, `AutoExposureHighPercent`, `AutoExposureMinBrightness`, `AutoExposureMaxBrightness`, `AutoExposureSpeedUp`, `AutoExposureSpeedDown`, `HistogramLogMin`, `HistogramLogMax`, `AutoExposureCalibrationConstant`, `LensFlareIntensity`, `LensFlareTint`, `LensFlareBokehSize`, `LensFlareThreshold`, `LensFlareBokehShape`, `LensFlareTints`, `VignetteIntensity`, `GrainJitter`, `GrainIntensity`, `AmbientOcclusionIntensity`, `AmbientOcclusionStaticFraction`, `AmbientOcclusionRadius`, `AmbientOcclusionRadiusInWS`, `AmbientOcclusionFadeDistance`, `AmbientOcclusionFadeRadius`, `AmbientOcclusionDistance`, `AmbientOcclusionPower`, `AmbientOcclusionBias`, `AmbientOcclusionQuality`, `AmbientOcclusionMipBlend`, `AmbientOcclusionMipScale`, `AmbientOcclusionMipThreshold`, `RayTracingAO`, `RayTracingAOSamplesPerPixel`, `IndirectLightingColor`, `IndirectLightingIntensity`, `RayTracingGI`, `RayTracingGIType`, `RayTracingGIMaxBounces`, `RayTracingGISamplesPerPixel`, `ColorGradingIntensity`, `ColorGradingLUT`, `DepthOfFieldSensorWidth`, `DepthOfFieldFocalDistance`, `DepthOfFieldDepthBlurAmount`, `DepthOfFieldDepthBlurRadius`, `DepthOfFieldFocalRegion`, `DepthOfFieldNearTransitionRegion`, `DepthOfFieldFarTransitionRegion`, `DepthOfFieldScale`, `DepthOfFieldNearBlurSize`, `DepthOfFieldFarBlurSize`, `DepthOfFieldOcclusion`, `DepthOfFieldSkyFocusDistance`, `DepthOfFieldVignetteSize`, `MotionBlurAmount`, `MotionBlurMax`, `MotionBlurTargetFPS`, `MotionBlurPerObjectSize`, `LPVIntensity`, `LPVVplInjectionBias`, `LPVSize`, `LPVSecondaryOcclusionIntensity`, `LPVSecondaryBounceIntensity`, `LPVGeometryVolumeBias`, `LPVEmissiveInjectionIntensity`, `LPVDirectionalOcclusionIntensity`, `LPVDirectionalOcclusionRadius`, `LPVDiffuseOcclusionExponent`, `LPVSpecularOcclusionExponent`, `LPVDiffuseOcclusionIntensity`, `LPVSpecularOcclusionIntensity`, `ReflectionsType`, `ScreenSpaceReflectionIntensity`, `ScreenSpaceReflectionQuality`, `ScreenSpaceReflectionMaxRoughness`, `RayTracingReflectionsMaxRoughness`, `RayTracingReflectionsMaxBounces`, `RayTracingReflectionsSamplesPerPixel`, `RayTracingReflectionsShadows`, `RayTracingReflectionsTranslucency`, `TranslucencyType`, `RayTracingTranslucencyMaxRoughness`, `RayTracingTranslucencyRefractionRays`, `RayTracingTranslucencySamplesPerPixel`, `RayTracingTranslucencyShadows`, `RayTracingTranslucencyRefraction`, `PathTracingMaxBounces`, `PathTracingSamplesPerPixel`, `LPVFadeRange`, `LPVDirectionalOcclusionFadeRange`, `ScreenPercentage`, `WeightedBlendables`, `Blendables`)
 
 #### Parameters
@@ -744,19 +740,11 @@
 | `WeightedBlendables` | [`WeightedBlendables`](ue_ue.WeightedBlendables.md) |
 | `Blendables` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Object`](ue_ue.Object.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:6265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6265)
-
 ## Properties
 
 ### AmbientCubemap
 
 • **AmbientCubemap**: [`TextureCube`](ue_ue.TextureCube.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6519](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6519)
 
 ___
 
@@ -764,19 +752,11 @@ ___
 
 • **AmbientCubemapIntensity**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6518](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6518)
-
 ___
 
 ### AmbientCubemapTint
 
 • **AmbientCubemapTint**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6517](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6517)
 
 ___
 
@@ -784,19 +764,11 @@ ___
 
 • **AmbientOcclusionBias**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6553)
-
 ___
 
 ### AmbientOcclusionDistance
 
 • **AmbientOcclusionDistance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6551](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6551)
 
 ___
 
@@ -804,19 +776,11 @@ ___
 
 • **AmbientOcclusionFadeDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6549](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6549)
-
 ___
 
 ### AmbientOcclusionFadeRadius
 
 • **AmbientOcclusionFadeRadius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6550](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6550)
 
 ___
 
@@ -824,19 +788,11 @@ ___
 
 • **AmbientOcclusionIntensity**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6545)
-
 ___
 
 ### AmbientOcclusionMipBlend
 
 • **AmbientOcclusionMipBlend**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6555)
 
 ___
 
@@ -844,19 +800,11 @@ ___
 
 • **AmbientOcclusionMipScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6556)
-
 ___
 
 ### AmbientOcclusionMipThreshold
 
 • **AmbientOcclusionMipThreshold**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6557)
 
 ___
 
@@ -864,19 +812,11 @@ ___
 
 • **AmbientOcclusionPower**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6552)
-
 ___
 
 ### AmbientOcclusionQuality
 
 • **AmbientOcclusionQuality**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6554)
 
 ___
 
@@ -884,19 +824,11 @@ ___
 
 • **AmbientOcclusionRadius**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6547)
-
 ___
 
 ### AmbientOcclusionRadiusInWS
 
 • **AmbientOcclusionRadiusInWS**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6548)
 
 ___
 
@@ -904,19 +836,11 @@ ___
 
 • **AmbientOcclusionStaticFraction**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6546)
-
 ___
 
 ### AutoExposureBias
 
 • **AutoExposureBias**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6525)
 
 ___
 
@@ -924,19 +848,11 @@ ___
 
 • **AutoExposureBiasCurve**: [`CurveFloat`](ue_ue.CurveFloat.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6526](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6526)
-
 ___
 
 ### AutoExposureCalibrationConstant
 
 • **AutoExposureCalibrationConstant**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6535)
 
 ___
 
@@ -944,19 +860,11 @@ ___
 
 • **AutoExposureHighPercent**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6528](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6528)
-
 ___
 
 ### AutoExposureLowPercent
 
 • **AutoExposureLowPercent**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6527](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6527)
 
 ___
 
@@ -964,19 +872,11 @@ ___
 
 • **AutoExposureMaxBrightness**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6530)
-
 ___
 
 ### AutoExposureMethod
 
 • **AutoExposureMethod**: [`EAutoExposureMethod`](../enums/ue_ue.EAutoExposureMethod.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6443](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6443)
 
 ___
 
@@ -984,19 +884,11 @@ ___
 
 • **AutoExposureMinBrightness**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6529)
-
 ___
 
 ### AutoExposureSpeedDown
 
 • **AutoExposureSpeedDown**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6532](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6532)
 
 ___
 
@@ -1004,19 +896,11 @@ ___
 
 • **AutoExposureSpeedUp**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6531](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6531)
-
 ___
 
 ### Blendables
 
 • **Blendables**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Object`](ue_ue.Object.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:6619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6619)
 
 ___
 
@@ -1024,19 +908,11 @@ ___
 
 • **Bloom1Size**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6494)
-
 ___
 
 ### Bloom1Tint
 
 • **Bloom1Tint**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6500)
 
 ___
 
@@ -1044,19 +920,11 @@ ___
 
 • **Bloom2Size**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6495)
-
 ___
 
 ### Bloom2Tint
 
 • **Bloom2Tint**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6501)
 
 ___
 
@@ -1064,19 +932,11 @@ ___
 
 • **Bloom3Size**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6496)
-
 ___
 
 ### Bloom3Tint
 
 • **Bloom3Tint**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6502)
 
 ___
 
@@ -1084,19 +944,11 @@ ___
 
 • **Bloom4Size**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6497)
-
 ___
 
 ### Bloom4Tint
 
 • **Bloom4Tint**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6503)
 
 ___
 
@@ -1104,19 +956,11 @@ ___
 
 • **Bloom5Size**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6498)
-
 ___
 
 ### Bloom5Tint
 
 • **Bloom5Tint**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6504)
 
 ___
 
@@ -1124,19 +968,11 @@ ___
 
 • **Bloom6Size**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6499)
-
 ___
 
 ### Bloom6Tint
 
 • **Bloom6Tint**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6505)
 
 ___
 
@@ -1144,19 +980,11 @@ ___
 
 • **BloomConvolutionBufferScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6513)
-
 ___
 
 ### BloomConvolutionCenterUV
 
 • **BloomConvolutionCenterUV**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6508](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6508)
 
 ___
 
@@ -1164,19 +992,11 @@ ___
 
 • **BloomConvolutionPreFilter**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6509)
-
 ___
 
 ### BloomConvolutionPreFilterMax
 
 • **BloomConvolutionPreFilterMax**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6511)
 
 ___
 
@@ -1184,19 +1004,11 @@ ___
 
 • **BloomConvolutionPreFilterMin**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6510)
-
 ___
 
 ### BloomConvolutionPreFilterMult
 
 • **BloomConvolutionPreFilterMult**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6512)
 
 ___
 
@@ -1204,19 +1016,11 @@ ___
 
 • **BloomConvolutionSize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6506)
-
 ___
 
 ### BloomConvolutionTexture
 
 • **BloomConvolutionTexture**: [`Texture2D`](ue_ue.Texture2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6507)
 
 ___
 
@@ -1224,19 +1028,11 @@ ___
 
 • **BloomDirtMask**: [`Texture`](ue_ue.Texture.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6514](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6514)
-
 ___
 
 ### BloomDirtMaskIntensity
 
 • **BloomDirtMaskIntensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6515)
 
 ___
 
@@ -1244,19 +1040,11 @@ ___
 
 • **BloomDirtMaskTint**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6516](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6516)
-
 ___
 
 ### BloomIntensity
 
 • **BloomIntensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6491)
 
 ___
 
@@ -1264,19 +1052,11 @@ ___
 
 • **BloomMethod**: [`EBloomMethod`](../enums/ue_ue.EBloomMethod.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6442](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6442)
-
 ___
 
 ### BloomSizeScale
 
 • **BloomSizeScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6493)
 
 ___
 
@@ -1284,19 +1064,11 @@ ___
 
 • **BloomThreshold**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6492)
-
 ___
 
 ### BlueCorrection
 
 • **BlueCorrection**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6469)
 
 ___
 
@@ -1304,19 +1076,11 @@ ___
 
 • **CameraISO**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6521](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6521)
-
 ___
 
 ### CameraShutterSpeed
 
 • **CameraShutterSpeed**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6520](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6520)
 
 ___
 
@@ -1324,19 +1088,11 @@ ___
 
 • **ChromaticAberrationStartOffset**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6490)
-
 ___
 
 ### ColorContrast
 
 • **ColorContrast**: [`Vector4`](ue_ue_s.Vector4.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6448)
 
 ___
 
@@ -1344,19 +1100,11 @@ ___
 
 • **ColorContrastHighlights**: [`Vector4`](ue_ue_s.Vector4.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6463)
-
 ___
 
 ### ColorContrastMidtones
 
 • **ColorContrastMidtones**: [`Vector4`](ue_ue_s.Vector4.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6458](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6458)
 
 ___
 
@@ -1364,19 +1112,11 @@ ___
 
 • **ColorContrastShadows**: [`Vector4`](ue_ue_s.Vector4.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6453)
-
 ___
 
 ### ColorCorrectionHighlightsMin
 
 • **ColorCorrectionHighlightsMin**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6467](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6467)
 
 ___
 
@@ -1384,19 +1124,11 @@ ___
 
 • **ColorCorrectionShadowsMax**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6468)
-
 ___
 
 ### ColorGain
 
 • **ColorGain**: [`Vector4`](ue_ue_s.Vector4.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6450)
 
 ___
 
@@ -1404,19 +1136,11 @@ ___
 
 • **ColorGainHighlights**: [`Vector4`](ue_ue_s.Vector4.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6465)
-
 ___
 
 ### ColorGainMidtones
 
 • **ColorGainMidtones**: [`Vector4`](ue_ue_s.Vector4.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6460](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6460)
 
 ___
 
@@ -1424,19 +1148,11 @@ ___
 
 • **ColorGainShadows**: [`Vector4`](ue_ue_s.Vector4.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6455)
-
 ___
 
 ### ColorGamma
 
 • **ColorGamma**: [`Vector4`](ue_ue_s.Vector4.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6449)
 
 ___
 
@@ -1444,19 +1160,11 @@ ___
 
 • **ColorGammaHighlights**: [`Vector4`](ue_ue_s.Vector4.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6464)
-
 ___
 
 ### ColorGammaMidtones
 
 • **ColorGammaMidtones**: [`Vector4`](ue_ue_s.Vector4.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6459](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6459)
 
 ___
 
@@ -1464,19 +1172,11 @@ ___
 
 • **ColorGammaShadows**: [`Vector4`](ue_ue_s.Vector4.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6454)
-
 ___
 
 ### ColorGradingIntensity
 
 • **ColorGradingIntensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6566)
 
 ___
 
@@ -1484,19 +1184,11 @@ ___
 
 • **ColorGradingLUT**: [`Texture`](ue_ue.Texture.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6567)
-
 ___
 
 ### ColorOffset
 
 • **ColorOffset**: [`Vector4`](ue_ue_s.Vector4.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6451)
 
 ___
 
@@ -1504,19 +1196,11 @@ ___
 
 • **ColorOffsetHighlights**: [`Vector4`](ue_ue_s.Vector4.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6466](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6466)
-
 ___
 
 ### ColorOffsetMidtones
 
 • **ColorOffsetMidtones**: [`Vector4`](ue_ue_s.Vector4.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6461](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6461)
 
 ___
 
@@ -1524,19 +1208,11 @@ ___
 
 • **ColorOffsetShadows**: [`Vector4`](ue_ue_s.Vector4.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6456](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6456)
-
 ___
 
 ### ColorSaturation
 
 • **ColorSaturation**: [`Vector4`](ue_ue_s.Vector4.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6447)
 
 ___
 
@@ -1544,19 +1220,11 @@ ___
 
 • **ColorSaturationHighlights**: [`Vector4`](ue_ue_s.Vector4.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6462](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6462)
-
 ___
 
 ### ColorSaturationMidtones
 
 • **ColorSaturationMidtones**: [`Vector4`](ue_ue_s.Vector4.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6457)
 
 ___
 
@@ -1564,19 +1232,11 @@ ___
 
 • **ColorSaturationShadows**: [`Vector4`](ue_ue_s.Vector4.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6452)
-
 ___
 
 ### DepthOfFieldBladeCount
 
 • **DepthOfFieldBladeCount**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6524](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6524)
 
 ___
 
@@ -1584,19 +1244,11 @@ ___
 
 • **DepthOfFieldDepthBlurAmount**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6570)
-
 ___
 
 ### DepthOfFieldDepthBlurRadius
 
 • **DepthOfFieldDepthBlurRadius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6571)
 
 ___
 
@@ -1604,19 +1256,11 @@ ___
 
 • **DepthOfFieldFarBlurSize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6577)
-
 ___
 
 ### DepthOfFieldFarTransitionRegion
 
 • **DepthOfFieldFarTransitionRegion**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6574)
 
 ___
 
@@ -1624,19 +1268,11 @@ ___
 
 • **DepthOfFieldFocalDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6569)
-
 ___
 
 ### DepthOfFieldFocalRegion
 
 • **DepthOfFieldFocalRegion**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6572)
 
 ___
 
@@ -1644,19 +1280,11 @@ ___
 
 • **DepthOfFieldFstop**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6522](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6522)
-
 ___
 
 ### DepthOfFieldMethod
 
 • **DepthOfFieldMethod**: [`EDepthOfFieldMethod`](../enums/ue_ue.EDepthOfFieldMethod.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6444](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6444)
 
 ___
 
@@ -1664,19 +1292,11 @@ ___
 
 • **DepthOfFieldMinFstop**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6523](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6523)
-
 ___
 
 ### DepthOfFieldNearBlurSize
 
 • **DepthOfFieldNearBlurSize**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6576)
 
 ___
 
@@ -1684,19 +1304,11 @@ ___
 
 • **DepthOfFieldNearTransitionRegion**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6573)
-
 ___
 
 ### DepthOfFieldOcclusion
 
 • **DepthOfFieldOcclusion**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6578)
 
 ___
 
@@ -1704,19 +1316,11 @@ ___
 
 • **DepthOfFieldScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6575)
-
 ___
 
 ### DepthOfFieldSensorWidth
 
 • **DepthOfFieldSensorWidth**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6568)
 
 ___
 
@@ -1724,19 +1328,11 @@ ___
 
 • **DepthOfFieldSkyFocusDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6579](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6579)
-
 ___
 
 ### DepthOfFieldVignetteSize
 
 • **DepthOfFieldVignetteSize**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6580)
 
 ___
 
@@ -1744,19 +1340,11 @@ ___
 
 • **ExpandGamut**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6470)
-
 ___
 
 ### FilmBlackClip
 
 • **FilmBlackClip**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6474)
 
 ___
 
@@ -1764,19 +1352,11 @@ ___
 
 • **FilmChannelMixerBlue**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6483)
-
 ___
 
 ### FilmChannelMixerGreen
 
 • **FilmChannelMixerGreen**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6482)
 
 ___
 
@@ -1784,19 +1364,11 @@ ___
 
 • **FilmChannelMixerRed**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6481)
-
 ___
 
 ### FilmContrast
 
 • **FilmContrast**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6484](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6484)
 
 ___
 
@@ -1804,19 +1376,11 @@ ___
 
 • **FilmDynamicRange**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6487)
-
 ___
 
 ### FilmHealAmount
 
 • **FilmHealAmount**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6486)
 
 ___
 
@@ -1824,19 +1388,11 @@ ___
 
 • **FilmSaturation**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6480)
-
 ___
 
 ### FilmShadowTint
 
 • **FilmShadowTint**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6477)
 
 ___
 
@@ -1844,19 +1400,11 @@ ___
 
 • **FilmShadowTintAmount**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6479)
-
 ___
 
 ### FilmShadowTintBlend
 
 • **FilmShadowTintBlend**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6478)
 
 ___
 
@@ -1864,19 +1412,11 @@ ___
 
 • **FilmShoulder**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6473](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6473)
-
 ___
 
 ### FilmSlope
 
 • **FilmSlope**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6471)
 
 ___
 
@@ -1884,19 +1424,11 @@ ___
 
 • **FilmToe**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6472](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6472)
-
 ___
 
 ### FilmToeAmount
 
 • **FilmToeAmount**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6485)
 
 ___
 
@@ -1904,19 +1436,11 @@ ___
 
 • **FilmWhiteClip**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6475)
-
 ___
 
 ### FilmWhitePoint
 
 • **FilmWhitePoint**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6476)
 
 ___
 
@@ -1924,19 +1448,11 @@ ___
 
 • **GrainIntensity**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6544](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6544)
-
 ___
 
 ### GrainJitter
 
 • **GrainJitter**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6543](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6543)
 
 ___
 
@@ -1944,19 +1460,11 @@ ___
 
 • **HistogramLogMax**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6534](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6534)
-
 ___
 
 ### HistogramLogMin
 
 • **HistogramLogMin**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6533](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6533)
 
 ___
 
@@ -1964,19 +1472,11 @@ ___
 
 • **IndirectLightingColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6560)
-
 ___
 
 ### IndirectLightingIntensity
 
 • **IndirectLightingIntensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6561)
 
 ___
 
@@ -1984,19 +1484,11 @@ ___
 
 • **LPVDiffuseOcclusionExponent**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6594)
-
 ___
 
 ### LPVDiffuseOcclusionIntensity
 
 • **LPVDiffuseOcclusionIntensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6596)
 
 ___
 
@@ -2004,19 +1496,11 @@ ___
 
 • **LPVDirectionalOcclusionFadeRange**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6616)
-
 ___
 
 ### LPVDirectionalOcclusionIntensity
 
 • **LPVDirectionalOcclusionIntensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6592)
 
 ___
 
@@ -2024,19 +1508,11 @@ ___
 
 • **LPVDirectionalOcclusionRadius**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6593)
-
 ___
 
 ### LPVEmissiveInjectionIntensity
 
 • **LPVEmissiveInjectionIntensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6591)
 
 ___
 
@@ -2044,19 +1520,11 @@ ___
 
 • **LPVFadeRange**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6615)
-
 ___
 
 ### LPVGeometryVolumeBias
 
 • **LPVGeometryVolumeBias**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6590)
 
 ___
 
@@ -2064,19 +1532,11 @@ ___
 
 • **LPVIntensity**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6585)
-
 ___
 
 ### LPVSecondaryBounceIntensity
 
 • **LPVSecondaryBounceIntensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6589)
 
 ___
 
@@ -2084,19 +1544,11 @@ ___
 
 • **LPVSecondaryOcclusionIntensity**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6588](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6588)
-
 ___
 
 ### LPVSize
 
 • **LPVSize**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6587)
 
 ___
 
@@ -2104,19 +1556,11 @@ ___
 
 • **LPVSpecularOcclusionExponent**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6595)
-
 ___
 
 ### LPVSpecularOcclusionIntensity
 
 • **LPVSpecularOcclusionIntensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6597)
 
 ___
 
@@ -2124,19 +1568,11 @@ ___
 
 • **LPVVplInjectionBias**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6586)
-
 ___
 
 ### LensFlareBokehShape
 
 • **LensFlareBokehShape**: [`Texture`](ue_ue.Texture.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6540)
 
 ___
 
@@ -2144,19 +1580,11 @@ ___
 
 • **LensFlareBokehSize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6538)
-
 ___
 
 ### LensFlareIntensity
 
 • **LensFlareIntensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6536](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6536)
 
 ___
 
@@ -2164,19 +1592,11 @@ ___
 
 • **LensFlareThreshold**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6539)
-
 ___
 
 ### LensFlareTint
 
 • **LensFlareTint**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6537)
 
 ___
 
@@ -2184,19 +1604,11 @@ ___
 
 • **LensFlareTints**: [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<[`LinearColor`](ue_ue_s.LinearColor.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:6541](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6541)
-
 ___
 
 ### MotionBlurAmount
 
 • **MotionBlurAmount**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6581)
 
 ___
 
@@ -2204,19 +1616,11 @@ ___
 
 • **MotionBlurMax**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6582)
-
 ___
 
 ### MotionBlurPerObjectSize
 
 • **MotionBlurPerObjectSize**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6584)
 
 ___
 
@@ -2224,19 +1628,11 @@ ___
 
 • **MotionBlurTargetFPS**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6583](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6583)
-
 ___
 
 ### PathTracingMaxBounces
 
 • **PathTracingMaxBounces**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6613)
 
 ___
 
@@ -2244,19 +1640,11 @@ ___
 
 • **PathTracingSamplesPerPixel**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6614)
-
 ___
 
 ### RayTracingAO
 
 • **RayTracingAO**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6558](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6558)
 
 ___
 
@@ -2264,19 +1652,11 @@ ___
 
 • **RayTracingAOSamplesPerPixel**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6559](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6559)
-
 ___
 
 ### RayTracingGI
 
 • **RayTracingGI**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6562)
 
 ___
 
@@ -2284,19 +1664,11 @@ ___
 
 • **RayTracingGIMaxBounces**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6564)
-
 ___
 
 ### RayTracingGISamplesPerPixel
 
 • **RayTracingGISamplesPerPixel**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6565)
 
 ___
 
@@ -2304,19 +1676,11 @@ ___
 
 • **RayTracingGIType**: [`ERayTracingGlobalIlluminationType`](../enums/ue_ue.ERayTracingGlobalIlluminationType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6563)
-
 ___
 
 ### RayTracingReflectionsMaxBounces
 
 • **RayTracingReflectionsMaxBounces**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6603)
 
 ___
 
@@ -2324,19 +1688,11 @@ ___
 
 • **RayTracingReflectionsMaxRoughness**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6602)
-
 ___
 
 ### RayTracingReflectionsSamplesPerPixel
 
 • **RayTracingReflectionsSamplesPerPixel**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6604)
 
 ___
 
@@ -2344,19 +1700,11 @@ ___
 
 • **RayTracingReflectionsShadows**: [`EReflectedAndRefractedRayTracedShadows`](../enums/ue_ue.EReflectedAndRefractedRayTracedShadows.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6605)
-
 ___
 
 ### RayTracingReflectionsTranslucency
 
 • **RayTracingReflectionsTranslucency**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6606)
 
 ___
 
@@ -2364,19 +1712,11 @@ ___
 
 • **RayTracingTranslucencyMaxRoughness**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6608)
-
 ___
 
 ### RayTracingTranslucencyRefraction
 
 • **RayTracingTranslucencyRefraction**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6612)
 
 ___
 
@@ -2384,19 +1724,11 @@ ___
 
 • **RayTracingTranslucencyRefractionRays**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6609)
-
 ___
 
 ### RayTracingTranslucencySamplesPerPixel
 
 • **RayTracingTranslucencySamplesPerPixel**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6610)
 
 ___
 
@@ -2404,19 +1736,11 @@ ___
 
 • **RayTracingTranslucencyShadows**: [`EReflectedAndRefractedRayTracedShadows`](../enums/ue_ue.EReflectedAndRefractedRayTracedShadows.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6611](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6611)
-
 ___
 
 ### ReflectionsType
 
 • **ReflectionsType**: [`EReflectionsType`](../enums/ue_ue.EReflectionsType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6598)
 
 ___
 
@@ -2424,19 +1748,11 @@ ___
 
 • **SceneColorTint**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6488)
-
 ___
 
 ### SceneFringeIntensity
 
 • **SceneFringeIntensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6489)
 
 ___
 
@@ -2444,19 +1760,11 @@ ___
 
 • **ScreenPercentage**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6617)
-
 ___
 
 ### ScreenSpaceReflectionIntensity
 
 • **ScreenSpaceReflectionIntensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6599)
 
 ___
 
@@ -2464,19 +1772,11 @@ ___
 
 • **ScreenSpaceReflectionMaxRoughness**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6601)
-
 ___
 
 ### ScreenSpaceReflectionQuality
 
 • **ScreenSpaceReflectionQuality**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6600)
 
 ___
 
@@ -2484,19 +1784,11 @@ ___
 
 • **TranslucencyType**: [`ETranslucencyType`](../enums/ue_ue.ETranslucencyType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6607)
-
 ___
 
 ### VignetteIntensity
 
 • **VignetteIntensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6542](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6542)
 
 ___
 
@@ -2504,19 +1796,11 @@ ___
 
 • **WeightedBlendables**: [`WeightedBlendables`](ue_ue.WeightedBlendables.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6618)
-
 ___
 
 ### WhiteTemp
 
 • **WhiteTemp**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6445](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6445)
 
 ___
 
@@ -2524,19 +1808,11 @@ ___
 
 • **WhiteTint**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6446)
-
 ___
 
 ### \_\_tid\_PostProcessSettings\_\_
 
 • `Private` **\_\_tid\_PostProcessSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6625)
 
 ___
 
@@ -2544,19 +1820,11 @@ ___
 
 • **bMobileHQGaussian**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6441](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6441)
-
 ___
 
 ### bOverride\_AmbientCubemapIntensity
 
 • **bOverride\_AmbientCubemapIntensity**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6313)
 
 ___
 
@@ -2564,19 +1832,11 @@ ___
 
 • **bOverride\_AmbientCubemapTint**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6312)
-
 ___
 
 ### bOverride\_AmbientOcclusionBias
 
 • **bOverride\_AmbientOcclusionBias**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6372)
 
 ___
 
@@ -2584,19 +1844,11 @@ ___
 
 • **bOverride\_AmbientOcclusionDistance**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6369](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6369)
-
 ___
 
 ### bOverride\_AmbientOcclusionFadeDistance
 
 • **bOverride\_AmbientOcclusionFadeDistance**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6367)
 
 ___
 
@@ -2604,19 +1856,11 @@ ___
 
 • **bOverride\_AmbientOcclusionFadeRadius**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6368)
-
 ___
 
 ### bOverride\_AmbientOcclusionIntensity
 
 • **bOverride\_AmbientOcclusionIntensity**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6364)
 
 ___
 
@@ -2624,19 +1868,11 @@ ___
 
 • **bOverride\_AmbientOcclusionMipBlend**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6374](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6374)
-
 ___
 
 ### bOverride\_AmbientOcclusionMipScale
 
 • **bOverride\_AmbientOcclusionMipScale**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6375](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6375)
 
 ___
 
@@ -2644,19 +1880,11 @@ ___
 
 • **bOverride\_AmbientOcclusionMipThreshold**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6376](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6376)
-
 ___
 
 ### bOverride\_AmbientOcclusionPower
 
 • **bOverride\_AmbientOcclusionPower**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6371)
 
 ___
 
@@ -2664,19 +1892,11 @@ ___
 
 • **bOverride\_AmbientOcclusionQuality**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6373](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6373)
-
 ___
 
 ### bOverride\_AmbientOcclusionRadius
 
 • **bOverride\_AmbientOcclusionRadius**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6366)
 
 ___
 
@@ -2684,19 +1904,11 @@ ___
 
 • **bOverride\_AmbientOcclusionRadiusInWS**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6370)
-
 ___
 
 ### bOverride\_AmbientOcclusionStaticFraction
 
 • **bOverride\_AmbientOcclusionStaticFraction**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6365)
 
 ___
 
@@ -2704,19 +1916,11 @@ ___
 
 • **bOverride\_AutoExposureBias**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6351)
-
 ___
 
 ### bOverride\_AutoExposureBiasCurve
 
 • **bOverride\_AutoExposureBiasCurve**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6352)
 
 ___
 
@@ -2724,19 +1928,11 @@ ___
 
 • **bOverride\_AutoExposureCalibrationConstant**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6348)
-
 ___
 
 ### bOverride\_AutoExposureHighPercent
 
 • **bOverride\_AutoExposureHighPercent**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6345)
 
 ___
 
@@ -2744,19 +1940,11 @@ ___
 
 • **bOverride\_AutoExposureLowPercent**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6344](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6344)
-
 ___
 
 ### bOverride\_AutoExposureMaxBrightness
 
 • **bOverride\_AutoExposureMaxBrightness**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6347)
 
 ___
 
@@ -2764,19 +1952,11 @@ ___
 
 • **bOverride\_AutoExposureMethod**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6343)
-
 ___
 
 ### bOverride\_AutoExposureMinBrightness
 
 • **bOverride\_AutoExposureMinBrightness**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6346)
 
 ___
 
@@ -2784,19 +1964,11 @@ ___
 
 • **bOverride\_AutoExposureSpeedDown**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6350)
-
 ___
 
 ### bOverride\_AutoExposureSpeedUp
 
 • **bOverride\_AutoExposureSpeedUp**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6349)
 
 ___
 
@@ -2804,19 +1976,11 @@ ___
 
 • **bOverride\_Bloom1Size**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6318)
-
 ___
 
 ### bOverride\_Bloom1Tint
 
 • **bOverride\_Bloom1Tint**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6317)
 
 ___
 
@@ -2824,19 +1988,11 @@ ___
 
 • **bOverride\_Bloom2Size**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6319)
-
 ___
 
 ### bOverride\_Bloom2Tint
 
 • **bOverride\_Bloom2Tint**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6320)
 
 ___
 
@@ -2844,19 +2000,11 @@ ___
 
 • **bOverride\_Bloom3Size**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6322)
-
 ___
 
 ### bOverride\_Bloom3Tint
 
 • **bOverride\_Bloom3Tint**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6321)
 
 ___
 
@@ -2864,19 +2012,11 @@ ___
 
 • **bOverride\_Bloom4Size**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6324)
-
 ___
 
 ### bOverride\_Bloom4Tint
 
 • **bOverride\_Bloom4Tint**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6323)
 
 ___
 
@@ -2884,19 +2024,11 @@ ___
 
 • **bOverride\_Bloom5Size**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6326)
-
 ___
 
 ### bOverride\_Bloom5Tint
 
 • **bOverride\_Bloom5Tint**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6325)
 
 ___
 
@@ -2904,19 +2036,11 @@ ___
 
 • **bOverride\_Bloom6Size**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6328)
-
 ___
 
 ### bOverride\_Bloom6Tint
 
 • **bOverride\_Bloom6Tint**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6327)
 
 ___
 
@@ -2924,19 +2048,11 @@ ___
 
 • **bOverride\_BloomConvolutionBufferScale**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6337)
-
 ___
 
 ### bOverride\_BloomConvolutionCenterUV
 
 • **bOverride\_BloomConvolutionCenterUV**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6332)
 
 ___
 
@@ -2944,19 +2060,11 @@ ___
 
 • **bOverride\_BloomConvolutionPreFilter**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6333)
-
 ___
 
 ### bOverride\_BloomConvolutionPreFilterMax
 
 • **bOverride\_BloomConvolutionPreFilterMax**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6335)
 
 ___
 
@@ -2964,19 +2072,11 @@ ___
 
 • **bOverride\_BloomConvolutionPreFilterMin**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6334)
-
 ___
 
 ### bOverride\_BloomConvolutionPreFilterMult
 
 • **bOverride\_BloomConvolutionPreFilterMult**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6336)
 
 ___
 
@@ -2984,19 +2084,11 @@ ___
 
 • **bOverride\_BloomConvolutionSize**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6331)
-
 ___
 
 ### bOverride\_BloomConvolutionTexture
 
 • **bOverride\_BloomConvolutionTexture**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6330)
 
 ___
 
@@ -3004,19 +2096,11 @@ ___
 
 • **bOverride\_BloomDirtMask**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6340)
-
 ___
 
 ### bOverride\_BloomDirtMaskIntensity
 
 • **bOverride\_BloomDirtMaskIntensity**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6338)
 
 ___
 
@@ -3024,19 +2108,11 @@ ___
 
 • **bOverride\_BloomDirtMaskTint**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6339)
-
 ___
 
 ### bOverride\_BloomIntensity
 
 • **bOverride\_BloomIntensity**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6315)
 
 ___
 
@@ -3044,19 +2120,11 @@ ___
 
 • **bOverride\_BloomMethod**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6314)
-
 ___
 
 ### bOverride\_BloomSizeScale
 
 • **bOverride\_BloomSizeScale**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6329)
 
 ___
 
@@ -3064,19 +2132,11 @@ ___
 
 • **bOverride\_BloomThreshold**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6316)
-
 ___
 
 ### bOverride\_BlueCorrection
 
 • **bOverride\_BlueCorrection**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6290)
 
 ___
 
@@ -3084,19 +2144,11 @@ ___
 
 • **bOverride\_CameraISO**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6342)
-
 ___
 
 ### bOverride\_CameraShutterSpeed
 
 • **bOverride\_CameraShutterSpeed**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6341)
 
 ___
 
@@ -3104,19 +2156,11 @@ ___
 
 • **bOverride\_ChromaticAberrationStartOffset**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6311)
-
 ___
 
 ### bOverride\_ColorContrast
 
 • **bOverride\_ColorContrast**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6269)
 
 ___
 
@@ -3124,19 +2168,11 @@ ___
 
 • **bOverride\_ColorContrastHighlights**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6284)
-
 ___
 
 ### bOverride\_ColorContrastMidtones
 
 • **bOverride\_ColorContrastMidtones**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6279)
 
 ___
 
@@ -3144,19 +2180,11 @@ ___
 
 • **bOverride\_ColorContrastShadows**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6274)
-
 ___
 
 ### bOverride\_ColorCorrectionHighlightsMin
 
 • **bOverride\_ColorCorrectionHighlightsMin**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6289)
 
 ___
 
@@ -3164,19 +2192,11 @@ ___
 
 • **bOverride\_ColorCorrectionShadowsMax**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6288)
-
 ___
 
 ### bOverride\_ColorGain
 
 • **bOverride\_ColorGain**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6271)
 
 ___
 
@@ -3184,19 +2204,11 @@ ___
 
 • **bOverride\_ColorGainHighlights**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6286)
-
 ___
 
 ### bOverride\_ColorGainMidtones
 
 • **bOverride\_ColorGainMidtones**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6281)
 
 ___
 
@@ -3204,19 +2216,11 @@ ___
 
 • **bOverride\_ColorGainShadows**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6276)
-
 ___
 
 ### bOverride\_ColorGamma
 
 • **bOverride\_ColorGamma**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6270)
 
 ___
 
@@ -3224,19 +2228,11 @@ ___
 
 • **bOverride\_ColorGammaHighlights**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6285)
-
 ___
 
 ### bOverride\_ColorGammaMidtones
 
 • **bOverride\_ColorGammaMidtones**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6280)
 
 ___
 
@@ -3244,19 +2240,11 @@ ___
 
 • **bOverride\_ColorGammaShadows**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6275)
-
 ___
 
 ### bOverride\_ColorGradingIntensity
 
 • **bOverride\_ColorGradingIntensity**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6396)
 
 ___
 
@@ -3264,19 +2252,11 @@ ___
 
 • **bOverride\_ColorGradingLUT**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6397)
-
 ___
 
 ### bOverride\_ColorOffset
 
 • **bOverride\_ColorOffset**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6272)
 
 ___
 
@@ -3284,19 +2264,11 @@ ___
 
 • **bOverride\_ColorOffsetHighlights**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6287)
-
 ___
 
 ### bOverride\_ColorOffsetMidtones
 
 • **bOverride\_ColorOffsetMidtones**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6282)
 
 ___
 
@@ -3304,19 +2276,11 @@ ___
 
 • **bOverride\_ColorOffsetShadows**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6277)
-
 ___
 
 ### bOverride\_ColorSaturation
 
 • **bOverride\_ColorSaturation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6268)
 
 ___
 
@@ -3324,19 +2288,11 @@ ___
 
 • **bOverride\_ColorSaturationHighlights**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6283)
-
 ___
 
 ### bOverride\_ColorSaturationMidtones
 
 • **bOverride\_ColorSaturationMidtones**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6278)
 
 ___
 
@@ -3344,19 +2300,11 @@ ___
 
 • **bOverride\_ColorSaturationShadows**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6273)
-
 ___
 
 ### bOverride\_DepthOfFieldBladeCount
 
 • **bOverride\_DepthOfFieldBladeCount**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6401)
 
 ___
 
@@ -3364,19 +2312,11 @@ ___
 
 • **bOverride\_DepthOfFieldDepthBlurAmount**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6404)
-
 ___
 
 ### bOverride\_DepthOfFieldDepthBlurRadius
 
 • **bOverride\_DepthOfFieldDepthBlurRadius**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6403)
 
 ___
 
@@ -3384,19 +2324,11 @@ ___
 
 • **bOverride\_DepthOfFieldFarBlurSize**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6410)
-
 ___
 
 ### bOverride\_DepthOfFieldFarTransitionRegion
 
 • **bOverride\_DepthOfFieldFarTransitionRegion**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6407)
 
 ___
 
@@ -3404,19 +2336,11 @@ ___
 
 • **bOverride\_DepthOfFieldFocalDistance**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6398)
-
 ___
 
 ### bOverride\_DepthOfFieldFocalRegion
 
 • **bOverride\_DepthOfFieldFocalRegion**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6405)
 
 ___
 
@@ -3424,19 +2348,11 @@ ___
 
 • **bOverride\_DepthOfFieldFstop**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6399)
-
 ___
 
 ### bOverride\_DepthOfFieldMinFstop
 
 • **bOverride\_DepthOfFieldMinFstop**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6400)
 
 ___
 
@@ -3444,19 +2360,11 @@ ___
 
 • **bOverride\_DepthOfFieldNearBlurSize**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6409)
-
 ___
 
 ### bOverride\_DepthOfFieldNearTransitionRegion
 
 • **bOverride\_DepthOfFieldNearTransitionRegion**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6406)
 
 ___
 
@@ -3464,19 +2372,11 @@ ___
 
 • **bOverride\_DepthOfFieldOcclusion**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6412)
-
 ___
 
 ### bOverride\_DepthOfFieldScale
 
 • **bOverride\_DepthOfFieldScale**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6408)
 
 ___
 
@@ -3484,19 +2384,11 @@ ___
 
 • **bOverride\_DepthOfFieldSensorWidth**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6402)
-
 ___
 
 ### bOverride\_DepthOfFieldSkyFocusDistance
 
 • **bOverride\_DepthOfFieldSkyFocusDistance**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6413)
 
 ___
 
@@ -3504,19 +2396,11 @@ ___
 
 • **bOverride\_DepthOfFieldVignetteSize**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6414)
-
 ___
 
 ### bOverride\_ExpandGamut
 
 • **bOverride\_ExpandGamut**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6291)
 
 ___
 
@@ -3524,19 +2408,11 @@ ___
 
 • **bOverride\_FilmBlackClip**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6307)
-
 ___
 
 ### bOverride\_FilmChannelMixerBlue
 
 • **bOverride\_FilmChannelMixerBlue**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6296)
 
 ___
 
@@ -3544,19 +2420,11 @@ ___
 
 • **bOverride\_FilmChannelMixerGreen**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6295)
-
 ___
 
 ### bOverride\_FilmChannelMixerRed
 
 • **bOverride\_FilmChannelMixerRed**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6294)
 
 ___
 
@@ -3564,19 +2432,11 @@ ___
 
 • **bOverride\_FilmContrast**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6297)
-
 ___
 
 ### bOverride\_FilmDynamicRange
 
 • **bOverride\_FilmDynamicRange**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6298)
 
 ___
 
@@ -3584,19 +2444,11 @@ ___
 
 • **bOverride\_FilmHealAmount**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6299)
-
 ___
 
 ### bOverride\_FilmSaturation
 
 • **bOverride\_FilmSaturation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6293)
 
 ___
 
@@ -3604,19 +2456,11 @@ ___
 
 • **bOverride\_FilmShadowTint**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6301)
-
 ___
 
 ### bOverride\_FilmShadowTintAmount
 
 • **bOverride\_FilmShadowTintAmount**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6303)
 
 ___
 
@@ -3624,19 +2468,11 @@ ___
 
 • **bOverride\_FilmShadowTintBlend**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6302)
-
 ___
 
 ### bOverride\_FilmShoulder
 
 • **bOverride\_FilmShoulder**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6306)
 
 ___
 
@@ -3644,19 +2480,11 @@ ___
 
 • **bOverride\_FilmSlope**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6304)
-
 ___
 
 ### bOverride\_FilmToe
 
 • **bOverride\_FilmToe**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6305)
 
 ___
 
@@ -3664,19 +2492,11 @@ ___
 
 • **bOverride\_FilmToeAmount**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6300)
-
 ___
 
 ### bOverride\_FilmWhiteClip
 
 • **bOverride\_FilmWhiteClip**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6308)
 
 ___
 
@@ -3684,19 +2504,11 @@ ___
 
 • **bOverride\_FilmWhitePoint**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6292)
-
 ___
 
 ### bOverride\_GrainIntensity
 
 • **bOverride\_GrainIntensity**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6362)
 
 ___
 
@@ -3704,19 +2516,11 @@ ___
 
 • **bOverride\_GrainJitter**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6363)
-
 ___
 
 ### bOverride\_HistogramLogMax
 
 • **bOverride\_HistogramLogMax**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6354)
 
 ___
 
@@ -3724,19 +2528,11 @@ ___
 
 • **bOverride\_HistogramLogMin**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6353)
-
 ___
 
 ### bOverride\_IndirectLightingColor
 
 • **bOverride\_IndirectLightingColor**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6394)
 
 ___
 
@@ -3744,19 +2540,11 @@ ___
 
 • **bOverride\_IndirectLightingIntensity**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6395)
-
 ___
 
 ### bOverride\_LPVDiffuseOcclusionExponent
 
 • **bOverride\_LPVDiffuseOcclusionExponent**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6382](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6382)
 
 ___
 
@@ -3764,19 +2552,11 @@ ___
 
 • **bOverride\_LPVDiffuseOcclusionIntensity**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6384)
-
 ___
 
 ### bOverride\_LPVDirectionalOcclusionFadeRange
 
 • **bOverride\_LPVDirectionalOcclusionFadeRange**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6393)
 
 ___
 
@@ -3784,19 +2564,11 @@ ___
 
 • **bOverride\_LPVDirectionalOcclusionIntensity**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6380](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6380)
-
 ___
 
 ### bOverride\_LPVDirectionalOcclusionRadius
 
 • **bOverride\_LPVDirectionalOcclusionRadius**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6381)
 
 ___
 
@@ -3804,19 +2576,11 @@ ___
 
 • **bOverride\_LPVEmissiveInjectionIntensity**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6391)
-
 ___
 
 ### bOverride\_LPVFadeRange
 
 • **bOverride\_LPVFadeRange**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6392)
 
 ___
 
@@ -3824,19 +2588,11 @@ ___
 
 • **bOverride\_LPVGeometryVolumeBias**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6389)
-
 ___
 
 ### bOverride\_LPVIntensity
 
 • **bOverride\_LPVIntensity**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6379)
 
 ___
 
@@ -3844,19 +2600,11 @@ ___
 
 • **bOverride\_LPVSecondaryBounceIntensity**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6388)
-
 ___
 
 ### bOverride\_LPVSecondaryOcclusionIntensity
 
 • **bOverride\_LPVSecondaryOcclusionIntensity**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6387)
 
 ___
 
@@ -3864,19 +2612,11 @@ ___
 
 • **bOverride\_LPVSize**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6386)
-
 ___
 
 ### bOverride\_LPVSpecularOcclusionExponent
 
 • **bOverride\_LPVSpecularOcclusionExponent**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6383)
 
 ___
 
@@ -3884,19 +2624,11 @@ ___
 
 • **bOverride\_LPVSpecularOcclusionIntensity**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6385)
-
 ___
 
 ### bOverride\_LPVVplInjectionBias
 
 • **bOverride\_LPVVplInjectionBias**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6390)
 
 ___
 
@@ -3904,19 +2636,11 @@ ___
 
 • **bOverride\_LensFlareBokehShape**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6359)
-
 ___
 
 ### bOverride\_LensFlareBokehSize
 
 • **bOverride\_LensFlareBokehSize**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6358)
 
 ___
 
@@ -3924,19 +2648,11 @@ ___
 
 • **bOverride\_LensFlareIntensity**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6355](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6355)
-
 ___
 
 ### bOverride\_LensFlareThreshold
 
 • **bOverride\_LensFlareThreshold**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6360](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6360)
 
 ___
 
@@ -3944,19 +2660,11 @@ ___
 
 • **bOverride\_LensFlareTint**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6356)
-
 ___
 
 ### bOverride\_LensFlareTints
 
 • **bOverride\_LensFlareTints**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6357](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6357)
 
 ___
 
@@ -3964,19 +2672,11 @@ ___
 
 • **bOverride\_MobileHQGaussian**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6411)
-
 ___
 
 ### bOverride\_MotionBlurAmount
 
 • **bOverride\_MotionBlurAmount**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6415)
 
 ___
 
@@ -3984,19 +2684,11 @@ ___
 
 • **bOverride\_MotionBlurMax**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6416)
-
 ___
 
 ### bOverride\_MotionBlurPerObjectSize
 
 • **bOverride\_MotionBlurPerObjectSize**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6418)
 
 ___
 
@@ -4004,19 +2696,11 @@ ___
 
 • **bOverride\_MotionBlurTargetFPS**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6417)
-
 ___
 
 ### bOverride\_PathTracingMaxBounces
 
 • **bOverride\_PathTracingMaxBounces**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6439)
 
 ___
 
@@ -4024,19 +2708,11 @@ ___
 
 • **bOverride\_PathTracingSamplesPerPixel**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6440)
-
 ___
 
 ### bOverride\_RayTracingAO
 
 • **bOverride\_RayTracingAO**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6377](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6377)
 
 ___
 
@@ -4044,19 +2720,11 @@ ___
 
 • **bOverride\_RayTracingAOSamplesPerPixel**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6378)
-
 ___
 
 ### bOverride\_RayTracingGI
 
 • **bOverride\_RayTracingGI**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6436)
 
 ___
 
@@ -4064,19 +2732,11 @@ ___
 
 • **bOverride\_RayTracingGIMaxBounces**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6437)
-
 ___
 
 ### bOverride\_RayTracingGISamplesPerPixel
 
 • **bOverride\_RayTracingGISamplesPerPixel**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6438)
 
 ___
 
@@ -4084,19 +2744,11 @@ ___
 
 • **bOverride\_RayTracingReflectionsMaxBounces**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6426](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6426)
-
 ___
 
 ### bOverride\_RayTracingReflectionsMaxRoughness
 
 • **bOverride\_RayTracingReflectionsMaxRoughness**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6425)
 
 ___
 
@@ -4104,19 +2756,11 @@ ___
 
 • **bOverride\_RayTracingReflectionsSamplesPerPixel**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6427)
-
 ___
 
 ### bOverride\_RayTracingReflectionsShadows
 
 • **bOverride\_RayTracingReflectionsShadows**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6428)
 
 ___
 
@@ -4124,19 +2768,11 @@ ___
 
 • **bOverride\_RayTracingReflectionsTranslucency**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6429)
-
 ___
 
 ### bOverride\_RayTracingTranslucencyMaxRoughness
 
 • **bOverride\_RayTracingTranslucencyMaxRoughness**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6431](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6431)
 
 ___
 
@@ -4144,19 +2780,11 @@ ___
 
 • **bOverride\_RayTracingTranslucencyRefraction**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6435)
-
 ___
 
 ### bOverride\_RayTracingTranslucencyRefractionRays
 
 • **bOverride\_RayTracingTranslucencyRefractionRays**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6432)
 
 ___
 
@@ -4164,19 +2792,11 @@ ___
 
 • **bOverride\_RayTracingTranslucencySamplesPerPixel**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6433)
-
 ___
 
 ### bOverride\_RayTracingTranslucencyShadows
 
 • **bOverride\_RayTracingTranslucencyShadows**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6434)
 
 ___
 
@@ -4184,19 +2804,11 @@ ___
 
 • **bOverride\_ReflectionsType**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6424](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6424)
-
 ___
 
 ### bOverride\_SceneColorTint
 
 • **bOverride\_SceneColorTint**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6309)
 
 ___
 
@@ -4204,19 +2816,11 @@ ___
 
 • **bOverride\_SceneFringeIntensity**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6310)
-
 ___
 
 ### bOverride\_ScreenPercentage
 
 • **bOverride\_ScreenPercentage**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6419)
 
 ___
 
@@ -4224,19 +2828,11 @@ ___
 
 • **bOverride\_ScreenSpaceReflectionIntensity**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6420)
-
 ___
 
 ### bOverride\_ScreenSpaceReflectionMaxRoughness
 
 • **bOverride\_ScreenSpaceReflectionMaxRoughness**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6422)
 
 ___
 
@@ -4244,19 +2840,11 @@ ___
 
 • **bOverride\_ScreenSpaceReflectionQuality**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6421)
-
 ___
 
 ### bOverride\_ScreenSpaceReflectionRoughnessScale
 
 • **bOverride\_ScreenSpaceReflectionRoughnessScale**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6423)
 
 ___
 
@@ -4264,19 +2852,11 @@ ___
 
 • **bOverride\_TranslucencyType**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6430)
-
 ___
 
 ### bOverride\_VignetteIntensity
 
 • **bOverride\_VignetteIntensity**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6361](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6361)
 
 ___
 
@@ -4284,19 +2864,11 @@ ___
 
 • **bOverride\_WhiteTemp**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6266)
-
 ___
 
 ### bOverride\_WhiteTint
 
 • **bOverride\_WhiteTint**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6267)
 
 ## Methods
 
@@ -4312,10 +2884,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6623)
-
 ___
 
 ### StaticStruct
@@ -4325,7 +2893,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6624)

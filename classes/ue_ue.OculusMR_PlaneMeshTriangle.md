@@ -31,10 +31,6 @@
 
 • **new OculusMR_PlaneMeshTriangle**()
 
-#### Defined in
-
-[ue/ue.d.ts:53920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53920)
-
 • **new OculusMR_PlaneMeshTriangle**(`Vertex0`, `UV0`, `Vertex1`, `UV1`, `Vertex2`, `UV2`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `Vertex2` | [`Vector`](ue_ue_s.Vector.md) |
 | `UV2` | [`Vector2D`](ue_ue_s.Vector2D.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:53921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53921)
-
 ## Properties
 
 ### UV0
 
 • **UV0**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:53923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53923)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **UV1**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:53925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53925)
-
 ___
 
 ### UV2
 
 • **UV2**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:53927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53927)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **Vertex0**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:53922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53922)
-
 ___
 
 ### Vertex1
 
 • **Vertex1**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:53924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53924)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **Vertex2**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:53926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53926)
-
 ___
 
 ### \_\_tid\_OculusMR\_PlaneMeshTriangle\_\_
 
 • `Private` **\_\_tid\_OculusMR\_PlaneMeshTriangle\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:53933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53933)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:53931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53931)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:53932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53932)

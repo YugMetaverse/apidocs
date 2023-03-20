@@ -19,19 +19,11 @@
 
 • **ELuminARAvailability\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33979)
-
 ___
 
 ### SupportedInstalled
 
 • **SupportedInstalled** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33979)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **UnknownError** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33979)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33979)

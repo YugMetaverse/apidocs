@@ -61,10 +61,6 @@
 
 [AISubsystem](ue_ue.AISubsystem.md).[constructor](ue_ue.AISubsystem.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:15637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15637)
-
 ## Properties
 
 ### AISystem
@@ -75,19 +71,11 @@
 
 [AISubsystem](ue_ue.AISubsystem.md).[AISystem](ue_ue.AISubsystem.md#aisystem)
 
-#### Defined in
-
-[ue/ue.d.ts:15700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15700)
-
 ___
 
 ### GCShieldedWrappers
 
 • **GCShieldedWrappers**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`EnvQueryInstanceBlueprintWrapper`](ue_ue.EnvQueryInstanceBlueprintWrapper.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:15640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15640)
 
 ___
 
@@ -95,19 +83,11 @@ ___
 
 • **InstanceCache**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`EnvQueryInstanceCache`](ue_ue.EnvQueryInstanceCache.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:15638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15638)
-
 ___
 
 ### LocalContexts
 
 • **LocalContexts**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`EnvQueryContext`](ue_ue.EnvQueryContext.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:15639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15639)
 
 ___
 
@@ -115,29 +95,17 @@ ___
 
 • **MaxAllowedTestingTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15641)
-
 ___
 
 ### QueryCountWarningInterval
 
 • **QueryCountWarningInterval**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15644)
-
 ___
 
 ### QueryCountWarningThreshold
 
 • **QueryCountWarningThreshold**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15643)
 
 ___
 
@@ -149,19 +117,11 @@ ___
 
 [AISubsystem](ue_ue.AISubsystem.md).[__tid_AISubsystem__](ue_ue.AISubsystem.md#__tid_aisubsystem__)
 
-#### Defined in
-
-[ue/ue.d.ts:15705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15705)
-
 ___
 
 ### \_\_tid\_EnvQueryManager\_\_
 
 • **\_\_tid\_EnvQueryManager\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15650)
 
 ___
 
@@ -173,19 +133,11 @@ ___
 
 [AISubsystem](ue_ue.AISubsystem.md).[__tid_Object__](ue_ue.AISubsystem.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bTestQueriesUsingBreadth
 
 • **bTestQueriesUsingBreadth**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15642)
 
 ## Methods
 
@@ -211,10 +163,6 @@ ___
 
 [AISubsystem](ue_ue.AISubsystem.md).[CreateDefaultSubobject](ue_ue.AISubsystem.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -235,10 +183,6 @@ ___
 
 [AISubsystem](ue_ue.AISubsystem.md).[ExecuteUbergraph](ue_ue.AISubsystem.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -252,10 +196,6 @@ ___
 #### Inherited from
 
 [AISubsystem](ue_ue.AISubsystem.md).[GetClass](ue_ue.AISubsystem.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -271,10 +211,6 @@ ___
 
 [AISubsystem](ue_ue.AISubsystem.md).[GetName](ue_ue.AISubsystem.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -289,10 +225,6 @@ ___
 
 [AISubsystem](ue_ue.AISubsystem.md).[GetOuter](ue_ue.AISubsystem.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -306,10 +238,6 @@ ___
 #### Inherited from
 
 [AISubsystem](ue_ue.AISubsystem.md).[GetWorld](ue_ue.AISubsystem.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -332,10 +260,6 @@ ___
 
 [AISubsystem](ue_ue.AISubsystem.md).[Find](ue_ue.AISubsystem.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:15647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15647)
-
 ___
 
 ### Load
@@ -355,10 +279,6 @@ ___
 #### Overrides
 
 [AISubsystem](ue_ue.AISubsystem.md).[Load](ue_ue.AISubsystem.md#load)
-
-#### Defined in
-
-[ue/ue.d.ts:15648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15648)
 
 ___
 
@@ -380,10 +300,6 @@ ___
 
 [`EnvQueryInstanceBlueprintWrapper`](ue_ue.EnvQueryInstanceBlueprintWrapper.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15645)
-
 ___
 
 ### StaticClass
@@ -397,7 +313,3 @@ ___
 #### Overrides
 
 [AISubsystem](ue_ue.AISubsystem.md).[StaticClass](ue_ue.AISubsystem.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15646)

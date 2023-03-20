@@ -48,10 +48,6 @@
 
 • **new MaterialInput**()
 
-#### Defined in
-
-[ue/ue.d.ts:1185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1185)
-
 • **new MaterialInput**(`Expression`, `OutputIndex`, `InputName`, `Mask`, `MaskR`, `MaskG`, `MaskB`, `MaskA`, `ExpressionName`)
 
 #### Parameters
@@ -68,19 +64,11 @@
 | `MaskA` | `number` |
 | `ExpressionName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:1186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1186)
-
 ## Properties
 
 ### Expression
 
 • **Expression**: [`MaterialExpression`](ue_ue.MaterialExpression.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1187)
 
 ___
 
@@ -88,19 +76,11 @@ ___
 
 • **ExpressionName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:1195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1195)
-
 ___
 
 ### InputName
 
 • **InputName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:1189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1189)
 
 ___
 
@@ -108,19 +88,11 @@ ___
 
 • **Mask**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1190)
-
 ___
 
 ### MaskA
 
 • **MaskA**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1194)
 
 ___
 
@@ -128,19 +100,11 @@ ___
 
 • **MaskB**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1193)
-
 ___
 
 ### MaskG
 
 • **MaskG**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1192)
 
 ___
 
@@ -148,29 +112,17 @@ ___
 
 • **MaskR**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1191)
-
 ___
 
 ### OutputIndex
 
 • **OutputIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1188)
-
 ___
 
 ### \_\_tid\_MaterialInput\_\_
 
 • `Private` **\_\_tid\_MaterialInput\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1201)
 
 ## Methods
 
@@ -186,10 +138,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1199)
-
 ___
 
 ### StaticStruct
@@ -199,7 +147,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1200)

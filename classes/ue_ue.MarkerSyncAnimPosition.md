@@ -28,10 +28,6 @@
 
 • **new MarkerSyncAnimPosition**()
 
-#### Defined in
-
-[ue/ue.d.ts:5075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5075)
-
 • **new MarkerSyncAnimPosition**(`PreviousMarkerName`, `NextMarkerName`, `PositionBetweenMarkers`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `NextMarkerName` | `string` |
 | `PositionBetweenMarkers` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:5076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5076)
-
 ## Properties
 
 ### NextMarkerName
 
 • **NextMarkerName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:5078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5078)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **PositionBetweenMarkers**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5079)
-
 ___
 
 ### PreviousMarkerName
 
 • **PreviousMarkerName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:5077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5077)
-
 ___
 
 ### \_\_tid\_MarkerSyncAnimPosition\_\_
 
 • `Private` **\_\_tid\_MarkerSyncAnimPosition\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5085)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5083](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5083)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5084](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5084)

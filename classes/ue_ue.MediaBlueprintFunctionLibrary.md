@@ -55,10 +55,6 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[constructor](ue_ue.BlueprintFunctionLibrary.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:50111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50111)
-
 ## Properties
 
 ### \_\_tid\_BlueprintFunctionLibrary\_\_
@@ -69,19 +65,11 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_BlueprintFunctionLibrary__](ue_ue.BlueprintFunctionLibrary.md#__tid_blueprintfunctionlibrary__)
 
-#### Defined in
-
-[ue/ue.d.ts:13418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13418)
-
 ___
 
 ### \_\_tid\_MediaBlueprintFunctionLibrary\_\_
 
 • **\_\_tid\_MediaBlueprintFunctionLibrary\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50119)
 
 ___
 
@@ -92,10 +80,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_Object__](ue_ue.BlueprintFunctionLibrary.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -121,10 +105,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[CreateDefaultSubobject](ue_ue.BlueprintFunctionLibrary.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -145,10 +125,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[ExecuteUbergraph](ue_ue.BlueprintFunctionLibrary.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -162,10 +138,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetClass](ue_ue.BlueprintFunctionLibrary.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -181,10 +153,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetName](ue_ue.BlueprintFunctionLibrary.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -199,10 +167,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetOuter](ue_ue.BlueprintFunctionLibrary.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -216,10 +180,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetWorld](ue_ue.BlueprintFunctionLibrary.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -238,10 +198,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:50112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50112)
-
 ___
 
 ### EnumerateVideoCaptureDevices
@@ -259,10 +215,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:50113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50113)
-
 ___
 
 ### EnumerateWebcamCaptureDevices
@@ -279,10 +231,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:50114](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50114)
 
 ___
 
@@ -305,10 +253,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Find](ue_ue.BlueprintFunctionLibrary.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:50116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50116)
-
 ___
 
 ### Load
@@ -329,10 +273,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Load](ue_ue.BlueprintFunctionLibrary.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:50117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50117)
-
 ___
 
 ### StaticClass
@@ -346,7 +286,3 @@ ___
 #### Overrides
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[StaticClass](ue_ue.BlueprintFunctionLibrary.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:50115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50115)

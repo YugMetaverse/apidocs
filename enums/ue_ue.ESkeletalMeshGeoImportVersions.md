@@ -21,19 +21,11 @@
 
 • **Before\_Versionning** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34775)
-
 ___
 
 ### ESkeletalMeshGeoImportVersions\_MAX
 
 • **ESkeletalMeshGeoImportVersions\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34775)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **LatestVersion** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34775)
-
 ___
 
 ### SkeletalMeshBuildRefactor
 
 • **SkeletalMeshBuildRefactor** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34775)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **VersionPlusOne** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34775)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34775)

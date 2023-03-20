@@ -33,10 +33,6 @@
 
 • **new SkeletalMeshLODGroupSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:3336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3336)
-
 • **new SkeletalMeshLODGroupSettings**(`ScreenSize`, `LODHysteresis`, `BoneFilterActionOption`, `BoneList`, `BonesToPrioritize`, `WeightOfPrioritization`, `BakePose`, `ReductionSettings`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `BakePose` | [`AnimSequence`](ue_ue.AnimSequence.md) |
 | `ReductionSettings` | [`SkeletalMeshOptimizationSettings`](ue_ue.SkeletalMeshOptimizationSettings.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:3337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3337)
-
 ## Properties
 
 ### BakePose
 
 • **BakePose**: [`AnimSequence`](ue_ue.AnimSequence.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3344](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3344)
 
 ___
 
@@ -72,19 +60,11 @@ ___
 
 • **BoneFilterActionOption**: [`EBoneFilterActionOption`](../enums/ue_ue.EBoneFilterActionOption.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3340)
-
 ___
 
 ### BoneList
 
 • **BoneList**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BoneFilter`](ue_ue.BoneFilter.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:3341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3341)
 
 ___
 
@@ -92,19 +72,11 @@ ___
 
 • **BonesToPrioritize**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:3342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3342)
-
 ___
 
 ### LODHysteresis
 
 • **LODHysteresis**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3339)
 
 ___
 
@@ -112,19 +84,11 @@ ___
 
 • **ReductionSettings**: [`SkeletalMeshOptimizationSettings`](ue_ue.SkeletalMeshOptimizationSettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3345)
-
 ___
 
 ### ScreenSize
 
 • **ScreenSize**: [`PerPlatformFloat`](ue_ue.PerPlatformFloat.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3338)
 
 ___
 
@@ -132,19 +96,11 @@ ___
 
 • **WeightOfPrioritization**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3343)
-
 ___
 
 ### \_\_tid\_SkeletalMeshLODGroupSettings\_\_
 
 • `Private` **\_\_tid\_SkeletalMeshLODGroupSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3351)
 
 ## Methods
 
@@ -160,10 +116,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3349)
-
 ___
 
 ### StaticStruct
@@ -173,7 +125,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3350)

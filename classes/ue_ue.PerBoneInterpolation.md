@@ -27,10 +27,6 @@
 
 • **new PerBoneInterpolation**()
 
-#### Defined in
-
-[ue/ue.d.ts:15175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15175)
-
 • **new PerBoneInterpolation**(`BoneReference`, `InterpolationSpeedPerSec`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `BoneReference` | [`BoneReference`](ue_ue.BoneReference.md) |
 | `InterpolationSpeedPerSec` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:15176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15176)
-
 ## Properties
 
 ### BoneReference
 
 • **BoneReference**: [`BoneReference`](ue_ue.BoneReference.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15177)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **InterpolationSpeedPerSec**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15178)
-
 ___
 
 ### \_\_tid\_PerBoneInterpolation\_\_
 
 • `Private` **\_\_tid\_PerBoneInterpolation\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15184)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15182)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15183)

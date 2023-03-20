@@ -31,10 +31,6 @@
 
 • **new ProceduralFoliageInstance**()
 
-#### Defined in
-
-[ue/ue.d.ts:58516](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58516)
-
 • **new ProceduralFoliageInstance**(`Location`, `Rotation`, `Normal`, `Age`, `Scale`, `Type`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `Scale` | `number` |
 | `Type` | [`FoliageType`](ue_ue.FoliageType.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:58517](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58517)
-
 ## Properties
 
 ### Age
 
 • **Age**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:58521](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58521)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **Location**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:58518](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58518)
-
 ___
 
 ### Normal
 
 • **Normal**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:58520](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58520)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **Rotation**: [`Quat`](ue_ue_s.Quat.md)
 
-#### Defined in
-
-[ue/ue.d.ts:58519](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58519)
-
 ___
 
 ### Scale
 
 • **Scale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:58522](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58522)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **Type**: [`FoliageType`](ue_ue.FoliageType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:58523](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58523)
-
 ___
 
 ### \_\_tid\_ProceduralFoliageInstance\_\_
 
 • `Private` **\_\_tid\_ProceduralFoliageInstance\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58529)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:58527](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58527)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:58528](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58528)

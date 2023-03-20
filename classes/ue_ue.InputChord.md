@@ -30,10 +30,6 @@
 
 • **new InputChord**()
 
-#### Defined in
-
-[ue/ue.d.ts:39203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39203)
-
 • **new InputChord**(`Key`, `bShift`, `bCtrl`, `bAlt`, `bCmd`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `bAlt` | `boolean` |
 | `bCmd` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:39204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39204)
-
 ## Properties
 
 ### Key
 
 • **Key**: [`Key`](ue_ue.Key.md)
-
-#### Defined in
-
-[ue/ue.d.ts:39205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39205)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • `Private` **\_\_tid\_InputChord\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:39215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39215)
-
 ___
 
 ### bAlt
 
 • **bAlt**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39208)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **bCmd**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:39209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39209)
-
 ___
 
 ### bCtrl
 
 • **bCtrl**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:39207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39207)
-
 ___
 
 ### bShift
 
 • **bShift**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39206)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39213)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:39214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39214)

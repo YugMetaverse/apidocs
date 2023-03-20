@@ -25,19 +25,11 @@
 
 • **new ToolMenuOwner**()
 
-#### Defined in
-
-[ue/ue.d.ts:63751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63751)
-
 ## Properties
 
 ### \_\_tid\_ToolMenuOwner\_\_
 
 • `Private` **\_\_tid\_ToolMenuOwner\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:63757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63757)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63755)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63756)

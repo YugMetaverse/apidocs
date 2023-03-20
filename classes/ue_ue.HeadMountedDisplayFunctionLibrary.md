@@ -84,10 +84,6 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[constructor](ue_ue.BlueprintFunctionLibrary.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:38517](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38517)
-
 ## Properties
 
 ### \_\_tid\_BlueprintFunctionLibrary\_\_
@@ -98,19 +94,11 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_BlueprintFunctionLibrary__](ue_ue.BlueprintFunctionLibrary.md#__tid_blueprintfunctionlibrary__)
 
-#### Defined in
-
-[ue/ue.d.ts:13418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13418)
-
 ___
 
 ### \_\_tid\_HeadMountedDisplayFunctionLibrary\_\_
 
 • **\_\_tid\_HeadMountedDisplayFunctionLibrary\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38554)
 
 ___
 
@@ -121,10 +109,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_Object__](ue_ue.BlueprintFunctionLibrary.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -150,10 +134,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[CreateDefaultSubobject](ue_ue.BlueprintFunctionLibrary.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -174,10 +154,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[ExecuteUbergraph](ue_ue.BlueprintFunctionLibrary.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -191,10 +167,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetClass](ue_ue.BlueprintFunctionLibrary.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -210,10 +182,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetName](ue_ue.BlueprintFunctionLibrary.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -228,10 +196,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetOuter](ue_ue.BlueprintFunctionLibrary.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -245,10 +209,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetWorld](ue_ue.BlueprintFunctionLibrary.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -266,10 +226,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:38518](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38518)
-
 ___
 
 ### EnableHMD
@@ -285,10 +241,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38519](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38519)
 
 ___
 
@@ -306,10 +258,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:38520](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38520)
-
 ___
 
 ### EnumerateTrackedDevices
@@ -326,10 +274,6 @@ ___
 #### Returns
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`XRDeviceId`](ue_ue.XRDeviceId.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:38521](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38521)
 
 ___
 
@@ -352,10 +296,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Find](ue_ue.BlueprintFunctionLibrary.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:38551](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38551)
-
 ___
 
 ### GetDevicePose
@@ -375,10 +315,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:38522](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38522)
 
 ___
 
@@ -401,10 +337,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:38523](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38523)
-
 ___
 
 ### GetHMDDeviceName
@@ -414,10 +346,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:38524](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38524)
 
 ___
 
@@ -429,10 +357,6 @@ ___
 
 [`EHMDWornState`](../enums/ue_ue.EHMDWornState.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38525)
-
 ___
 
 ### GetNumOfTrackingSensors
@@ -442,10 +366,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:38526](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38526)
 
 ___
 
@@ -464,10 +384,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:38527](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38527)
-
 ___
 
 ### GetPixelDensity
@@ -477,10 +393,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:38528](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38528)
 
 ___
 
@@ -504,10 +416,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:38529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38529)
-
 ___
 
 ### GetScreenPercentage
@@ -518,10 +426,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:38530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38530)
-
 ___
 
 ### GetTrackingOrigin
@@ -531,10 +435,6 @@ ___
 #### Returns
 
 [`EHMDTrackingOrigin`](../enums/ue_ue.EHMDTrackingOrigin.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38531](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38531)
 
 ___
 
@@ -562,10 +462,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:38532](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38532)
-
 ___
 
 ### GetTrackingToWorldTransform
@@ -581,10 +477,6 @@ ___
 #### Returns
 
 [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38533](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38533)
 
 ___
 
@@ -603,10 +495,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:38534](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38534)
-
 ___
 
 ### GetWorldToMetersScale
@@ -623,10 +511,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:38535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38535)
-
 ___
 
 ### HasValidTrackingPosition
@@ -636,10 +520,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38536](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38536)
 
 ___
 
@@ -657,10 +537,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:38537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38537)
-
 ___
 
 ### IsHeadMountedDisplayConnected
@@ -670,10 +546,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38538)
 
 ___
 
@@ -685,10 +557,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:38539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38539)
-
 ___
 
 ### IsInLowPersistenceMode
@@ -699,10 +567,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:38540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38540)
-
 ___
 
 ### IsSpectatorScreenModeControllable
@@ -712,10 +576,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38541](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38541)
 
 ___
 
@@ -737,10 +597,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Load](ue_ue.BlueprintFunctionLibrary.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:38552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38552)
-
 ___
 
 ### ResetOrientationAndPosition
@@ -757,10 +613,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:38542](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38542)
 
 ___
 
@@ -779,10 +631,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:38543](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38543)
-
 ___
 
 ### SetSpectatorScreenMode
@@ -798,10 +646,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:38544](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38544)
 
 ___
 
@@ -825,10 +669,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:38545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38545)
-
 ___
 
 ### SetSpectatorScreenTexture
@@ -845,10 +685,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:38546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38546)
-
 ___
 
 ### SetTrackingOrigin
@@ -864,10 +700,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:38547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38547)
 
 ___
 
@@ -886,10 +718,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:38548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38548)
-
 ___
 
 ### StaticClass
@@ -903,10 +731,6 @@ ___
 #### Overrides
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[StaticClass](ue_ue.BlueprintFunctionLibrary.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:38550](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38550)
 
 ___
 
@@ -923,7 +747,3 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:38549](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38549)

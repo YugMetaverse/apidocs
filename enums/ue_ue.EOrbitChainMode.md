@@ -20,19 +20,11 @@
 
 • **EOChainMode\_Add** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6992)
-
 ___
 
 ### EOChainMode\_Link
 
 • **EOChainMode\_Link** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6992)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **EOChainMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6992)
-
 ___
 
 ### EOChainMode\_Scale
 
 • **EOChainMode\_Scale** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6992)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6992)

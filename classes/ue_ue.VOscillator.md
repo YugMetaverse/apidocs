@@ -28,10 +28,6 @@
 
 • **new VOscillator**()
 
-#### Defined in
-
-[ue/ue.d.ts:7438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7438)
-
 • **new VOscillator**(`X`, `Y`, `Z`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Y` | [`FOscillator`](ue_ue.FOscillator.md) |
 | `Z` | [`FOscillator`](ue_ue.FOscillator.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:7439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7439)
-
 ## Properties
 
 ### X
 
 • **X**: [`FOscillator`](ue_ue.FOscillator.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7440)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Y**: [`FOscillator`](ue_ue.FOscillator.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7441](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7441)
-
 ___
 
 ### Z
 
 • **Z**: [`FOscillator`](ue_ue.FOscillator.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7442](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7442)
-
 ___
 
 ### \_\_tid\_VOscillator\_\_
 
 • `Private` **\_\_tid\_VOscillator\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7448)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7446)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7447)

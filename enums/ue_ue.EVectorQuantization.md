@@ -20,19 +20,11 @@
 
 • **EVectorQuantization\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L220)
-
 ___
 
 ### RoundOneDecimal
 
 • **RoundOneDecimal** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L220)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **RoundTwoDecimals** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L220)
-
 ___
 
 ### RoundWholeNumber
 
 • **RoundWholeNumber** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L220)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L220)

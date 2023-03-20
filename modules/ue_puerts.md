@@ -37639,21 +37639,11 @@ Re-exports [uproperty](ue_puerts_decorators.uproperty.md)
 | :------ |
 | `T` |
 
-#### Defined in
-
-[ue/puerts.d.ts:9](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L9)
-
 ___
 
 ### BuiltinBool
 
 Ƭ **BuiltinBool**: ``0``
-
-#### Defined in
-
-[ue/puerts.d.ts:81](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L81)
-
-[ue/puerts.d.ts:90](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L90)
 
 ___
 
@@ -37661,23 +37651,11 @@ ___
 
 Ƭ **BuiltinByte**: ``1``
 
-#### Defined in
-
-[ue/puerts.d.ts:82](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L82)
-
-[ue/puerts.d.ts:91](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L91)
-
 ___
 
 ### BuiltinFloat
 
 Ƭ **BuiltinFloat**: ``3``
-
-#### Defined in
-
-[ue/puerts.d.ts:84](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L84)
-
-[ue/puerts.d.ts:93](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L93)
 
 ___
 
@@ -37685,23 +37663,11 @@ ___
 
 Ƭ **BuiltinInt**: ``2``
 
-#### Defined in
-
-[ue/puerts.d.ts:83](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L83)
-
-[ue/puerts.d.ts:92](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L92)
-
 ___
 
 ### BuiltinInt64
 
 Ƭ **BuiltinInt64**: ``4``
-
-#### Defined in
-
-[ue/puerts.d.ts:85](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L85)
-
-[ue/puerts.d.ts:94](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L94)
 
 ___
 
@@ -37709,35 +37675,17 @@ ___
 
 Ƭ **BuiltinName**: ``7``
 
-#### Defined in
-
-[ue/puerts.d.ts:88](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L88)
-
-[ue/puerts.d.ts:97](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L97)
-
 ___
 
 ### BuiltinString
 
 Ƭ **BuiltinString**: ``5``
 
-#### Defined in
-
-[ue/puerts.d.ts:86](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L86)
-
-[ue/puerts.d.ts:95](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L95)
-
 ___
 
 ### BuiltinText
 
 Ƭ **BuiltinText**: ``6``
-
-#### Defined in
-
-[ue/puerts.d.ts:87](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L87)
-
-[ue/puerts.d.ts:96](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L96)
 
 ___
 
@@ -37751,10 +37699,6 @@ ___
 | :------ |
 | `T` |
 
-#### Defined in
-
-[ue/puerts.d.ts:99](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L99)
-
 ___
 
 ### DataPropertiesOnly
@@ -37766,10 +37710,6 @@ ___
 | Name |
 | :------ |
 | `T` |
-
-#### Defined in
-
-[ue/puerts.d.ts:118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L118)
 
 ___
 
@@ -37783,19 +37723,11 @@ ___
 | :------ |
 | `T` |
 
-#### Defined in
-
-[ue/puerts.d.ts:114](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L114)
-
 ___
 
 ### SupportedContainerKVType
 
 Ƭ **SupportedContainerKVType**: [`BuiltinBool`](ue_puerts.md#builtinbool-1) \| [`BuiltinByte`](ue_puerts.md#builtinbyte-1) \| [`BuiltinInt`](ue_puerts.md#builtinint-1) \| [`BuiltinFloat`](ue_puerts.md#builtinfloat-1) \| [`BuiltinInt64`](ue_puerts.md#builtinint64-1) \| [`BuiltinString`](ue_puerts.md#builtinstring-1) \| [`BuiltinText`](ue_puerts.md#builtintext-1) \| [`BuiltinName`](ue_puerts.md#builtinname-1) \| { `StaticClass`: () => [`Class`](../classes/ue_ue.Class.md)  } \| { `StaticStruct`: () => [`ScriptStruct`](../classes/ue_ue.ScriptStruct.md)  } \| { `__typeKeyDoNoAccess`: `any`  }
-
-#### Defined in
-
-[ue/puerts.d.ts:108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L108)
 
 ___
 
@@ -37808,10 +37740,6 @@ ___
 | Name |
 | :------ |
 | `T` |
-
-#### Defined in
-
-[ue/puerts.d.ts:137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L137)
 
 ___
 
@@ -37832,10 +37760,6 @@ ___
 | `Get` | () => [`Class`](../classes/ue_ue.Class.md) |
 | `LoadSynchronous` | () => [`Class`](../classes/ue_ue.Class.md) |
 
-#### Defined in
-
-[ue/puerts.d.ts:145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L145)
-
 ___
 
 ### TSoftObjectPtr
@@ -37855,10 +37779,6 @@ ___
 | `Get` | () => `T` |
 | `LoadSynchronous` | () => `T` |
 
-#### Defined in
-
-[ue/puerts.d.ts:132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L132)
-
 ___
 
 ### TSubclassOf
@@ -37870,10 +37790,6 @@ ___
 | Name |
 | :------ |
 | `T` |
-
-#### Defined in
-
-[ue/puerts.d.ts:141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L141)
 
 ___
 
@@ -37887,21 +37803,11 @@ ___
 | :------ |
 | `T` |
 
-#### Defined in
-
-[ue/puerts.d.ts:128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L128)
-
 ## Variables
 
 ### BuiltinBool
 
 • **BuiltinBool**: ``0``
-
-#### Defined in
-
-[ue/puerts.d.ts:81](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L81)
-
-[ue/puerts.d.ts:90](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L90)
 
 ___
 
@@ -37909,23 +37815,11 @@ ___
 
 • **BuiltinByte**: ``1``
 
-#### Defined in
-
-[ue/puerts.d.ts:82](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L82)
-
-[ue/puerts.d.ts:91](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L91)
-
 ___
 
 ### BuiltinFloat
 
 • **BuiltinFloat**: ``3``
-
-#### Defined in
-
-[ue/puerts.d.ts:84](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L84)
-
-[ue/puerts.d.ts:93](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L93)
 
 ___
 
@@ -37933,23 +37827,11 @@ ___
 
 • **BuiltinInt**: ``2``
 
-#### Defined in
-
-[ue/puerts.d.ts:83](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L83)
-
-[ue/puerts.d.ts:92](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L92)
-
 ___
 
 ### BuiltinInt64
 
 • **BuiltinInt64**: ``4``
-
-#### Defined in
-
-[ue/puerts.d.ts:85](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L85)
-
-[ue/puerts.d.ts:94](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L94)
 
 ___
 
@@ -37957,35 +37839,17 @@ ___
 
 • **BuiltinName**: ``7``
 
-#### Defined in
-
-[ue/puerts.d.ts:88](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L88)
-
-[ue/puerts.d.ts:97](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L97)
-
 ___
 
 ### BuiltinString
 
 • **BuiltinString**: ``5``
 
-#### Defined in
-
-[ue/puerts.d.ts:86](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L86)
-
-[ue/puerts.d.ts:95](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L95)
-
 ___
 
 ### BuiltinText
 
 • **BuiltinText**: ``6``
-
-#### Defined in
-
-[ue/puerts.d.ts:87](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L87)
-
-[ue/puerts.d.ts:96](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L96)
 
 ## Functions
 
@@ -38002,10 +37866,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/puerts.d.ts:126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L126)
 
 ___
 
@@ -38028,10 +37888,6 @@ ___
 #### Returns
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ContainerKVType`](ue_puerts.md#containerkvtype)<`T`\>\>
-
-#### Defined in
-
-[ue/puerts.d.ts:110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L110)
 
 ___
 
@@ -38057,10 +37913,6 @@ ___
 
 [`TMap`](../interfaces/ue_puerts.TMap.md)<[`ContainerKVType`](ue_puerts.md#containerkvtype)<`TKey`\>, [`ContainerKVType`](ue_puerts.md#containerkvtype)<`TValue`\>\>
 
-#### Defined in
-
-[ue/puerts.d.ts:112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L112)
-
 ___
 
 ### NewObject
@@ -38079,10 +37931,6 @@ ___
 #### Returns
 
 [`Object`](../classes/ue_ue.Object.md)
-
-#### Defined in
-
-[ue/puerts.d.ts:122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L122)
 
 ___
 
@@ -38106,10 +37954,6 @@ ___
 
 [`TSet`](../interfaces/ue_puerts.TSet.md)<[`ContainerKVType`](ue_puerts.md#containerkvtype)<`T`\>\>
 
-#### Defined in
-
-[ue/puerts.d.ts:111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L111)
-
 ___
 
 ### NewStruct
@@ -38125,7 +37969,3 @@ ___
 #### Returns
 
 `object`
-
-#### Defined in
-
-[ue/puerts.d.ts:124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L124)

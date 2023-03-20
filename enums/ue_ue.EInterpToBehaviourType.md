@@ -21,19 +21,11 @@
 
 • **EInterpToBehaviourType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33913)
-
 ___
 
 ### Loop\_Reset
 
 • **Loop\_Reset** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33913)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **OneShot** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33913)
-
 ___
 
 ### OneShot\_Reverse
 
 • **OneShot\_Reverse** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33913)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **PingPong** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33913)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33913)

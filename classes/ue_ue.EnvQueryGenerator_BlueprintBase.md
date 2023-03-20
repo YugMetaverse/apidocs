@@ -64,19 +64,11 @@
 
 [EnvQueryGenerator](ue_ue.EnvQueryGenerator.md).[constructor](ue_ue.EnvQueryGenerator.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:34255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34255)
-
 ## Properties
 
 ### Context
 
 • **Context**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:34257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34257)
 
 ___
 
@@ -84,19 +76,11 @@ ___
 
 • **GeneratedItemType**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:34258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34258)
-
 ___
 
 ### GeneratorsActionDescription
 
 • **GeneratorsActionDescription**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:34256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34256)
 
 ___
 
@@ -108,10 +92,6 @@ ___
 
 [EnvQueryGenerator](ue_ue.EnvQueryGenerator.md).[ItemType](ue_ue.EnvQueryGenerator.md#itemtype)
 
-#### Defined in
-
-[ue/ue.d.ts:15476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15476)
-
 ___
 
 ### OptionName
@@ -121,10 +101,6 @@ ___
 #### Inherited from
 
 [EnvQueryGenerator](ue_ue.EnvQueryGenerator.md).[OptionName](ue_ue.EnvQueryGenerator.md#optionname)
-
-#### Defined in
-
-[ue/ue.d.ts:15475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15475)
 
 ___
 
@@ -136,19 +112,11 @@ ___
 
 [EnvQueryGenerator](ue_ue.EnvQueryGenerator.md).[VerNum](ue_ue.EnvQueryGenerator.md#vernum)
 
-#### Defined in
-
-[ue/ue.d.ts:15465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15465)
-
 ___
 
 ### \_\_tid\_EnvQueryGenerator\_BlueprintBase\_\_
 
 • **\_\_tid\_EnvQueryGenerator\_BlueprintBase\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:34267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34267)
 
 ___
 
@@ -160,10 +128,6 @@ ___
 
 [EnvQueryGenerator](ue_ue.EnvQueryGenerator.md).[__tid_EnvQueryGenerator__](ue_ue.EnvQueryGenerator.md#__tid_envquerygenerator__)
 
-#### Defined in
-
-[ue/ue.d.ts:15482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15482)
-
 ___
 
 ### \_\_tid\_EnvQueryNode\_\_
@@ -173,10 +137,6 @@ ___
 #### Inherited from
 
 [EnvQueryGenerator](ue_ue.EnvQueryGenerator.md).[__tid_EnvQueryNode__](ue_ue.EnvQueryGenerator.md#__tid_envquerynode__)
-
-#### Defined in
-
-[ue/ue.d.ts:15470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15470)
 
 ___
 
@@ -188,10 +148,6 @@ ___
 
 [EnvQueryGenerator](ue_ue.EnvQueryGenerator.md).[__tid_Object__](ue_ue.EnvQueryGenerator.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bAutoSortTests
@@ -201,10 +157,6 @@ ___
 #### Inherited from
 
 [EnvQueryGenerator](ue_ue.EnvQueryGenerator.md).[bAutoSortTests](ue_ue.EnvQueryGenerator.md#bautosorttests)
-
-#### Defined in
-
-[ue/ue.d.ts:15477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15477)
 
 ## Methods
 
@@ -222,10 +174,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:34259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34259)
-
 ___
 
 ### AddGeneratedVector
@@ -241,10 +189,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:34260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34260)
 
 ___
 
@@ -270,10 +214,6 @@ ___
 
 [EnvQueryGenerator](ue_ue.EnvQueryGenerator.md).[CreateDefaultSubobject](ue_ue.EnvQueryGenerator.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### DoItemGeneration
@@ -289,10 +229,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:34261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34261)
 
 ___
 
@@ -314,10 +250,6 @@ ___
 
 [EnvQueryGenerator](ue_ue.EnvQueryGenerator.md).[ExecuteUbergraph](ue_ue.EnvQueryGenerator.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -331,10 +263,6 @@ ___
 #### Inherited from
 
 [EnvQueryGenerator](ue_ue.EnvQueryGenerator.md).[GetClass](ue_ue.EnvQueryGenerator.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -350,10 +278,6 @@ ___
 
 [EnvQueryGenerator](ue_ue.EnvQueryGenerator.md).[GetName](ue_ue.EnvQueryGenerator.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -368,10 +292,6 @@ ___
 
 [EnvQueryGenerator](ue_ue.EnvQueryGenerator.md).[GetOuter](ue_ue.EnvQueryGenerator.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetQuerier
@@ -381,10 +301,6 @@ ___
 #### Returns
 
 [`Object`](ue_ue.Object.md)
-
-#### Defined in
-
-[ue/ue.d.ts:34262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34262)
 
 ___
 
@@ -399,10 +315,6 @@ ___
 #### Inherited from
 
 [EnvQueryGenerator](ue_ue.EnvQueryGenerator.md).[GetWorld](ue_ue.EnvQueryGenerator.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -425,10 +337,6 @@ ___
 
 [EnvQueryGenerator](ue_ue.EnvQueryGenerator.md).[Find](ue_ue.EnvQueryGenerator.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:34264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34264)
-
 ___
 
 ### Load
@@ -449,10 +357,6 @@ ___
 
 [EnvQueryGenerator](ue_ue.EnvQueryGenerator.md).[Load](ue_ue.EnvQueryGenerator.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:34265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34265)
-
 ___
 
 ### StaticClass
@@ -466,7 +370,3 @@ ___
 #### Overrides
 
 [EnvQueryGenerator](ue_ue.EnvQueryGenerator.md).[StaticClass](ue_ue.EnvQueryGenerator.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:34263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34263)

@@ -38,10 +38,6 @@
 
 • **new SubmixEffectReverbSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:62590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62590)
-
 • **new SubmixEffectReverbSettings**(`Density`, `Diffusion`, `Gain`, `GainHF`, `DecayTime`, `DecayHFRatio`, `ReflectionsGain`, `ReflectionsDelay`, `LateGain`, `LateDelay`, `AirAbsorptionGainHF`, `WetLevel`, `DryLevel`)
 
 #### Parameters
@@ -62,19 +58,11 @@
 | `WetLevel` | `number` |
 | `DryLevel` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:62591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62591)
-
 ## Properties
 
 ### AirAbsorptionGainHF
 
 • **AirAbsorptionGainHF**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:62602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62602)
 
 ___
 
@@ -82,19 +70,11 @@ ___
 
 • **DecayHFRatio**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:62597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62597)
-
 ___
 
 ### DecayTime
 
 • **DecayTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:62596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62596)
 
 ___
 
@@ -102,19 +82,11 @@ ___
 
 • **Density**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:62592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62592)
-
 ___
 
 ### Diffusion
 
 • **Diffusion**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:62593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62593)
 
 ___
 
@@ -122,19 +94,11 @@ ___
 
 • **DryLevel**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:62604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62604)
-
 ___
 
 ### Gain
 
 • **Gain**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:62594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62594)
 
 ___
 
@@ -142,19 +106,11 @@ ___
 
 • **GainHF**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:62595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62595)
-
 ___
 
 ### LateDelay
 
 • **LateDelay**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:62601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62601)
 
 ___
 
@@ -162,19 +118,11 @@ ___
 
 • **LateGain**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:62600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62600)
-
 ___
 
 ### ReflectionsDelay
 
 • **ReflectionsDelay**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:62599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62599)
 
 ___
 
@@ -182,29 +130,17 @@ ___
 
 • **ReflectionsGain**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:62598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62598)
-
 ___
 
 ### WetLevel
 
 • **WetLevel**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:62603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62603)
-
 ___
 
 ### \_\_tid\_SubmixEffectReverbSettings\_\_
 
 • `Private` **\_\_tid\_SubmixEffectReverbSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:62610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62610)
 
 ## Methods
 
@@ -220,10 +156,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:62608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62608)
-
 ___
 
 ### StaticStruct
@@ -233,7 +165,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:62609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62609)

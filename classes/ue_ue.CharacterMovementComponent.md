@@ -350,19 +350,11 @@
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[constructor](ue_ue.PawnMovementComponent.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:5630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5630)
-
 ## Properties
 
 ### Acceleration
 
 • **Acceleration**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5702)
 
 ___
 
@@ -370,19 +362,11 @@ ___
 
 • **AirControl**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5656)
-
 ___
 
 ### AirControlBoostMultiplier
 
 • **AirControlBoostMultiplier**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5657)
 
 ___
 
@@ -390,29 +374,17 @@ ___
 
 • **AirControlBoostVelocityThreshold**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5658)
-
 ___
 
 ### AnalogInputModifier
 
 • **AnalogInputModifier**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5711)
-
 ___
 
 ### AnimRootMotionVelocity
 
 • **AnimRootMotionVelocity**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5784)
 
 ___
 
@@ -424,19 +396,11 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[AssetUserData](ue_ue.PawnMovementComponent.md#assetuserdata)
 
-#### Defined in
-
-[ue/ue.d.ts:291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L291)
-
 ___
 
 ### AvoidanceConsiderationRadius
 
 • **AvoidanceConsiderationRadius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5766)
 
 ___
 
@@ -444,19 +408,11 @@ ___
 
 • **AvoidanceGroup**: [`NavAvoidanceMask`](ue_ue.NavAvoidanceMask.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5769)
-
 ___
 
 ### AvoidanceUID
 
 • **AvoidanceUID**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5768)
 
 ___
 
@@ -464,19 +420,11 @@ ___
 
 • **AvoidanceWeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5772)
-
 ___
 
 ### BrakingDecelerationFalling
 
 • **BrakingDecelerationFalling**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5653)
 
 ___
 
@@ -484,19 +432,11 @@ ___
 
 • **BrakingDecelerationFlying**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5655)
-
 ___
 
 ### BrakingDecelerationSwimming
 
 • **BrakingDecelerationSwimming**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5654)
 
 ___
 
@@ -504,19 +444,11 @@ ___
 
 • **BrakingDecelerationWalking**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5652)
-
 ___
 
 ### BrakingFriction
 
 • **BrakingFriction**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5650)
 
 ___
 
@@ -524,19 +456,11 @@ ___
 
 • **BrakingFrictionFactor**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5649)
-
 ___
 
 ### BrakingSubStepTime
 
 • **BrakingSubStepTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5651)
 
 ___
 
@@ -544,19 +468,11 @@ ___
 
 • **Buoyancy**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5661)
-
 ___
 
 ### CharacterOwner
 
 • **CharacterOwner**: [`Character`](ue_ue.Character.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5631](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5631)
 
 ___
 
@@ -568,10 +484,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[ComponentTags](ue_ue.PawnMovementComponent.md#componenttags)
 
-#### Defined in
-
-[ue/ue.d.ts:290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L290)
-
 ___
 
 ### CreationMethod
@@ -582,19 +494,11 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[CreationMethod](ue_ue.PawnMovementComponent.md#creationmethod)
 
-#### Defined in
-
-[ue/ue.d.ts:302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L302)
-
 ___
 
 ### CrouchedHalfHeight
 
 • **CrouchedHalfHeight**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5660)
 
 ___
 
@@ -602,19 +506,11 @@ ___
 
 • **CrouchedSpeedMultiplier**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5700)
-
 ___
 
 ### CurrentFloor
 
 • **CurrentFloor**: [`FindFloorResult`](ue_ue.FindFloorResult.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5733)
 
 ___
 
@@ -622,19 +518,11 @@ ___
 
 • **CurrentRootMotion**: [`RootMotionSourceGroup`](ue_ue.RootMotionSourceGroup.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5782)
-
 ___
 
 ### CustomMovementMode
 
 • **CustomMovementMode**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5639)
 
 ___
 
@@ -642,19 +530,11 @@ ___
 
 • **DefaultLandMovementMode**: [`EMovementMode`](../enums/ue_ue.EMovementMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5734)
-
 ___
 
 ### DefaultWaterMovementMode
 
 • **DefaultWaterMovementMode**: [`EMovementMode`](../enums/ue_ue.EMovementMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5735)
 
 ___
 
@@ -662,19 +542,11 @@ ___
 
 • **DeferredUpdatedMoveComponent**: [`SceneComponent`](ue_ue.SceneComponent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5687)
-
 ___
 
 ### FallingLateralFriction
 
 • **FallingLateralFriction**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5659)
 
 ___
 
@@ -686,19 +558,11 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[FixedPathBrakingDistance](ue_ue.PawnMovementComponent.md#fixedpathbrakingdistance)
 
-#### Defined in
-
-[ue/ue.d.ts:5468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5468)
-
 ___
 
 ### GravityScale
 
 • **GravityScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5632)
 
 ___
 
@@ -706,19 +570,11 @@ ___
 
 • **GroundFriction**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5641)
-
 ___
 
 ### GroundMovementMode
 
 • **GroundMovementMode**: [`EMovementMode`](../enums/ue_ue.EMovementMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5736)
 
 ___
 
@@ -726,19 +582,11 @@ ___
 
 • **GroupsToAvoid**: [`NavAvoidanceMask`](ue_ue.NavAvoidanceMask.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5770)
-
 ___
 
 ### GroupsToIgnore
 
 • **GroupsToIgnore**: [`NavAvoidanceMask`](ue_ue.NavAvoidanceMask.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5771)
 
 ___
 
@@ -746,19 +594,11 @@ ___
 
 • **InitialPushForceFactor**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5692](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5692)
-
 ___
 
 ### JumpOffJumpZFactor
 
 • **JumpOffJumpZFactor**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5635)
 
 ___
 
@@ -766,19 +606,11 @@ ___
 
 • **JumpOutOfWaterPitch**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5732)
-
 ___
 
 ### JumpZVelocity
 
 • **JumpZVelocity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5634)
 
 ___
 
@@ -786,19 +618,11 @@ ___
 
 • **LastUpdateLocation**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5704)
-
 ___
 
 ### LastUpdateRotation
 
 • **LastUpdateRotation**: [`Quat`](ue_ue_s.Quat.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5703)
 
 ___
 
@@ -806,19 +630,11 @@ ___
 
 • **LastUpdateVelocity**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5705)
-
 ___
 
 ### LedgeCheckThreshold
 
 • **LedgeCheckThreshold**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5731)
 
 ___
 
@@ -826,19 +642,11 @@ ___
 
 • **ListenServerNetworkSimulatedSmoothLocationTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5721)
-
 ___
 
 ### ListenServerNetworkSimulatedSmoothRotationTime
 
 • **ListenServerNetworkSimulatedSmoothRotationTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5722)
 
 ___
 
@@ -846,19 +654,11 @@ ___
 
 • **Mass**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5690)
-
 ___
 
 ### MaxAcceleration
 
 • **MaxAcceleration**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5647)
 
 ___
 
@@ -866,19 +666,11 @@ ___
 
 • **MaxCustomMovementSpeed**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5646)
-
 ___
 
 ### MaxDepenetrationWithGeometry
 
 • **MaxDepenetrationWithGeometry**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5715)
 
 ___
 
@@ -886,19 +678,11 @@ ___
 
 • **MaxDepenetrationWithGeometryAsProxy**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5716)
-
 ___
 
 ### MaxDepenetrationWithPawn
 
 • **MaxDepenetrationWithPawn**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5717)
 
 ___
 
@@ -906,19 +690,11 @@ ___
 
 • **MaxDepenetrationWithPawnAsProxy**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5718)
-
 ___
 
 ### MaxFlySpeed
 
 • **MaxFlySpeed**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5645)
 
 ___
 
@@ -926,19 +702,11 @@ ___
 
 • **MaxJumpApexAttemptsPerSimulation**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5714)
-
 ___
 
 ### MaxOutOfWaterStepHeight
 
 • **MaxOutOfWaterStepHeight**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5688)
 
 ___
 
@@ -946,19 +714,11 @@ ___
 
 • **MaxSimulationIterations**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5713)
-
 ___
 
 ### MaxSimulationTimeStep
 
 • **MaxSimulationTimeStep**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5712)
 
 ___
 
@@ -966,19 +726,11 @@ ___
 
 • **MaxStepHeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5633)
-
 ___
 
 ### MaxSwimSpeed
 
 • **MaxSwimSpeed**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5644)
 
 ___
 
@@ -986,19 +738,11 @@ ___
 
 • **MaxTouchForce**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5697](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5697)
-
 ___
 
 ### MaxWalkSpeed
 
 • **MaxWalkSpeed**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5642)
 
 ___
 
@@ -1006,19 +750,11 @@ ___
 
 • **MaxWalkSpeedCrouched**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5643)
-
 ___
 
 ### MinAnalogWalkSpeed
 
 • **MinAnalogWalkSpeed**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5648)
 
 ___
 
@@ -1026,29 +762,17 @@ ___
 
 • **MinTimeBetweenTimeStampResets**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5781)
-
 ___
 
 ### MinTouchForce
 
 • **MinTouchForce**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5696](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5696)
-
 ___
 
 ### MovementMode
 
 • **MovementMode**: [`EMovementMode`](../enums/ue_ue.EMovementMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5638)
 
 ___
 
@@ -1060,10 +784,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[MovementState](ue_ue.PawnMovementComponent.md#movementstate)
 
-#### Defined in
-
-[ue/ue.d.ts:5472](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5472)
-
 ___
 
 ### NavAgentProps
@@ -1074,19 +794,11 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[NavAgentProps](ue_ue.PawnMovementComponent.md#navagentprops)
 
-#### Defined in
-
-[ue/ue.d.ts:5467](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5467)
-
 ___
 
 ### NavMeshProjectionHeightScaleDown
 
 • **NavMeshProjectionHeightScaleDown**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5778](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5778)
 
 ___
 
@@ -1094,19 +806,11 @@ ___
 
 • **NavMeshProjectionHeightScaleUp**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5777](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5777)
-
 ___
 
 ### NavMeshProjectionInterpSpeed
 
 • **NavMeshProjectionInterpSpeed**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5776](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5776)
 
 ___
 
@@ -1114,19 +818,11 @@ ___
 
 • **NavMeshProjectionInterval**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5774)
-
 ___
 
 ### NavMeshProjectionTimer
 
 • **NavMeshProjectionTimer**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5775)
 
 ___
 
@@ -1134,19 +830,11 @@ ___
 
 • **NavWalkingFloorDistTolerance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5779)
-
 ___
 
 ### NetProxyShrinkHalfHeight
 
 • **NetProxyShrinkHalfHeight**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5724)
 
 ___
 
@@ -1154,19 +842,11 @@ ___
 
 • **NetProxyShrinkRadius**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5723)
-
 ___
 
 ### NetworkLargeClientCorrectionDistance
 
 • **NetworkLargeClientCorrectionDistance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5730)
 
 ___
 
@@ -1174,19 +854,11 @@ ___
 
 • **NetworkMaxSmoothUpdateDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5725)
-
 ___
 
 ### NetworkMinTimeBetweenClientAckGoodMoves
 
 • **NetworkMinTimeBetweenClientAckGoodMoves**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5727)
 
 ___
 
@@ -1194,19 +866,11 @@ ___
 
 • **NetworkMinTimeBetweenClientAdjustments**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5728)
-
 ___
 
 ### NetworkMinTimeBetweenClientAdjustmentsLargeCorrection
 
 • **NetworkMinTimeBetweenClientAdjustmentsLargeCorrection**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5729)
 
 ___
 
@@ -1214,19 +878,11 @@ ___
 
 • **NetworkNoSmoothUpdateDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5726)
-
 ___
 
 ### NetworkSimulatedSmoothLocationTime
 
 • **NetworkSimulatedSmoothLocationTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5719)
 
 ___
 
@@ -1234,19 +890,11 @@ ___
 
 • **NetworkSimulatedSmoothRotationTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5720)
-
 ___
 
 ### NetworkSmoothingMode
 
 • **NetworkSmoothingMode**: [`ENetworkSmoothingMode`](../enums/ue_ue.ENetworkSmoothingMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5640)
 
 ___
 
@@ -1258,10 +906,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[OnComponentActivated](ue_ue.PawnMovementComponent.md#oncomponentactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L303)
-
 ___
 
 ### OnComponentDeactivated
@@ -1272,19 +916,11 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[OnComponentDeactivated](ue_ue.PawnMovementComponent.md#oncomponentdeactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L304)
-
 ___
 
 ### OutofWaterZ
 
 • **OutofWaterZ**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5689)
 
 ___
 
@@ -1296,10 +932,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[PathFollowingComp](ue_ue.PawnMovementComponent.md#pathfollowingcomp)
 
-#### Defined in
-
-[ue/ue.d.ts:5473](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5473)
-
 ___
 
 ### PawnOwner
@@ -1310,19 +942,11 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[PawnOwner](ue_ue.PawnMovementComponent.md#pawnowner)
 
-#### Defined in
-
-[ue/ue.d.ts:5490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5490)
-
 ___
 
 ### PendingForceToApply
 
 • **PendingForceToApply**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5710)
 
 ___
 
@@ -1330,19 +954,11 @@ ___
 
 • **PendingImpulseToApply**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5709)
-
 ___
 
 ### PendingLaunchVelocity
 
 • **PendingLaunchVelocity**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5773)
 
 ___
 
@@ -1350,19 +966,11 @@ ___
 
 • **PerchAdditionalHeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5663)
-
 ___
 
 ### PerchRadiusThreshold
 
 • **PerchRadiusThreshold**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5662)
 
 ___
 
@@ -1374,10 +982,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[PlaneConstraintAxisSetting](ue_ue.PawnMovementComponent.md#planeconstraintaxissetting)
 
-#### Defined in
-
-[ue/ue.d.ts:5403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5403)
-
 ___
 
 ### PlaneConstraintNormal
@@ -1387,10 +991,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[PlaneConstraintNormal](ue_ue.PawnMovementComponent.md#planeconstraintnormal)
-
-#### Defined in
-
-[ue/ue.d.ts:5393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5393)
 
 ___
 
@@ -1402,19 +1002,11 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[PlaneConstraintOrigin](ue_ue.PawnMovementComponent.md#planeconstraintorigin)
 
-#### Defined in
-
-[ue/ue.d.ts:5394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5394)
-
 ___
 
 ### PostPhysicsTickFunction
 
 • **PostPhysicsTickFunction**: [`CharacterMovementComponentPostPhysicsTickFunction`](ue_ue.CharacterMovementComponentPostPhysicsTickFunction.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5780)
 
 ___
 
@@ -1426,19 +1018,11 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[PrimaryComponentTick](ue_ue.PawnMovementComponent.md#primarycomponenttick)
 
-#### Defined in
-
-[ue/ue.d.ts:289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L289)
-
 ___
 
 ### PushForceFactor
 
 • **PushForceFactor**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5693)
 
 ___
 
@@ -1446,19 +1030,11 @@ ___
 
 • **PushForcePointZOffsetFactor**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5694](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5694)
-
 ___
 
 ### RepulsionForce
 
 • **RepulsionForce**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5698)
 
 ___
 
@@ -1466,19 +1042,11 @@ ___
 
 • **RequestedVelocity**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5767)
-
 ___
 
 ### RootMotionParams
 
 • **RootMotionParams**: [`RootMotionMovementParams`](ue_ue.RootMotionMovementParams.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5783)
 
 ___
 
@@ -1486,19 +1054,11 @@ ___
 
 • **RotationRate**: [`Rotator`](ue_ue_s.Rotator.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5664)
-
 ___
 
 ### ServerLastClientAdjustmentTime
 
 • **ServerLastClientAdjustmentTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5708)
 
 ___
 
@@ -1506,19 +1066,11 @@ ___
 
 • **ServerLastClientGoodMoveAckTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5707](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5707)
-
 ___
 
 ### ServerLastTransformUpdateTimeStamp
 
 • **ServerLastTransformUpdateTimeStamp**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5706](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5706)
 
 ___
 
@@ -1526,19 +1078,11 @@ ___
 
 • **StandingDownwardForceScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5691)
-
 ___
 
 ### TouchForceFactor
 
 • **TouchForceFactor**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5695)
 
 ___
 
@@ -1550,10 +1094,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[UCSModifiedProperties](ue_ue.PawnMovementComponent.md#ucsmodifiedproperties)
 
-#### Defined in
-
-[ue/ue.d.ts:305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L305)
-
 ___
 
 ### UpdatedComponent
@@ -1563,10 +1103,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[UpdatedComponent](ue_ue.PawnMovementComponent.md#updatedcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:5390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5390)
 
 ___
 
@@ -1578,19 +1114,11 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[UpdatedPrimitive](ue_ue.PawnMovementComponent.md#updatedprimitive)
 
-#### Defined in
-
-[ue/ue.d.ts:5391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5391)
-
 ___
 
 ### UpperImpactNormalScale
 
 • **UpperImpactNormalScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5701)
 
 ___
 
@@ -1602,29 +1130,17 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[Velocity](ue_ue.PawnMovementComponent.md#velocity)
 
-#### Defined in
-
-[ue/ue.d.ts:5392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5392)
-
 ___
 
 ### WalkableFloorAngle
 
 • **WalkableFloorAngle**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5636)
-
 ___
 
 ### WalkableFloorZ
 
 • **WalkableFloorZ**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5637)
 
 ___
 
@@ -1636,19 +1152,11 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[__tid_ActorComponent__](ue_ue.PawnMovementComponent.md#__tid_actorcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L336)
-
 ___
 
 ### \_\_tid\_CharacterMovementComponent\_\_
 
 • **\_\_tid\_CharacterMovementComponent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5827)
 
 ___
 
@@ -1660,10 +1168,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[__tid_MovementComponent__](ue_ue.PawnMovementComponent.md#__tid_movementcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:5430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5430)
-
 ___
 
 ### \_\_tid\_NavMovementComponent\_\_
@@ -1673,10 +1177,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[__tid_NavMovementComponent__](ue_ue.PawnMovementComponent.md#__tid_navmovementcomponent__)
-
-#### Defined in
-
-[ue/ue.d.ts:5485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5485)
 
 ___
 
@@ -1688,10 +1188,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[__tid_Object__](ue_ue.PawnMovementComponent.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PawnMovementComponent\_\_
@@ -1702,19 +1198,11 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[__tid_PawnMovementComponent__](ue_ue.PawnMovementComponent.md#__tid_pawnmovementcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:5502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5502)
-
 ___
 
 ### bAllowPhysicsRotationDuringAnimRootMotion
 
 • **bAllowPhysicsRotationDuringAnimRootMotion**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5760](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5760)
 
 ___
 
@@ -1722,19 +1210,11 @@ ___
 
 • **bAlwaysCheckFloor**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5753)
-
 ___
 
 ### bApplyGravityWhileJumping
 
 • **bApplyGravityWhileJumping**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5666)
 
 ___
 
@@ -1746,10 +1226,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[bAutoActivate](ue_ue.PawnMovementComponent.md#bautoactivate)
 
-#### Defined in
-
-[ue/ue.d.ts:296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L296)
-
 ___
 
 ### bAutoRegisterPhysicsVolumeUpdates
@@ -1759,10 +1235,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[bAutoRegisterPhysicsVolumeUpdates](ue_ue.PawnMovementComponent.md#bautoregisterphysicsvolumeupdates)
-
-#### Defined in
-
-[ue/ue.d.ts:5401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5401)
 
 ___
 
@@ -1774,10 +1246,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[bAutoRegisterUpdatedComponent](ue_ue.PawnMovementComponent.md#bautoregisterupdatedcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:5398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5398)
-
 ___
 
 ### bAutoUpdateTickRegistration
@@ -1787,10 +1255,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[bAutoUpdateTickRegistration](ue_ue.PawnMovementComponent.md#bautoupdatetickregistration)
-
-#### Defined in
-
-[ue/ue.d.ts:5396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5396)
 
 ___
 
@@ -1802,19 +1266,11 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[bCanEverAffectNavigation](ue_ue.PawnMovementComponent.md#bcaneveraffectnavigation)
 
-#### Defined in
-
-[ue/ue.d.ts:299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L299)
-
 ___
 
 ### bCanWalkOffLedges
 
 • **bCanWalkOffLedges**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5677)
 
 ___
 
@@ -1822,19 +1278,11 @@ ___
 
 • **bCanWalkOffLedgesWhenCrouching**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5678)
-
 ___
 
 ### bCheatFlying
 
 • **bCheatFlying**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5748)
 
 ___
 
@@ -1846,10 +1294,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[bComponentShouldUpdatePhysicsVolume](ue_ue.PawnMovementComponent.md#bcomponentshouldupdatephysicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:5402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5402)
-
 ___
 
 ### bConstrainToPlane
@@ -1859,10 +1303,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[bConstrainToPlane](ue_ue.PawnMovementComponent.md#bconstraintoplane)
-
-#### Defined in
-
-[ue/ue.d.ts:5399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5399)
 
 ___
 
@@ -1874,29 +1314,17 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[bCreatedByConstructionScript](ue_ue.PawnMovementComponent.md#bcreatedbyconstructionscript)
 
-#### Defined in
-
-[ue/ue.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L294)
-
 ___
 
 ### bCrouchMaintainsBaseLocation
 
 • **bCrouchMaintainsBaseLocation**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5750)
-
 ___
 
 ### bDeferUpdateMoveComponent
 
 • **bDeferUpdateMoveComponent**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5681)
 
 ___
 
@@ -1908,19 +1336,11 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[bEditableWhenInherited](ue_ue.PawnMovementComponent.md#beditablewheninherited)
 
-#### Defined in
-
-[ue/ue.d.ts:298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L298)
-
 ___
 
 ### bEnablePhysicsInteraction
 
 • **bEnablePhysicsInteraction**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5682)
 
 ___
 
@@ -1928,19 +1348,11 @@ ___
 
 • **bEnableScopedMovementUpdates**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5671)
-
 ___
 
 ### bEnableServerDualMoveScopedMovementUpdates
 
 • **bEnableServerDualMoveScopedMovementUpdates**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5672)
 
 ___
 
@@ -1948,19 +1360,11 @@ ___
 
 • **bFastAttachedMove**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5752](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5752)
-
 ___
 
 ### bForceBraking
 
 • **bForceBraking**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5699](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5699)
 
 ___
 
@@ -1968,19 +1372,11 @@ ___
 
 • **bForceMaxAccel**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5673)
-
 ___
 
 ### bForceNextFloorCheck
 
 • **bForceNextFloorCheck**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5675)
 
 ___
 
@@ -1988,19 +1384,11 @@ ___
 
 • **bHasRequestedVelocity**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5761](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5761)
-
 ___
 
 ### bIgnoreBaseRotation
 
 • **bIgnoreBaseRotation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5751)
 
 ___
 
@@ -2008,19 +1396,11 @@ ___
 
 • **bIgnoreClientMovementErrorChecksAndCorrection**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5745)
-
 ___
 
 ### bImpartBaseAngularVelocity
 
 • **bImpartBaseAngularVelocity**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5741)
 
 ___
 
@@ -2028,29 +1408,17 @@ ___
 
 • **bImpartBaseVelocityX**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5738)
-
 ___
 
 ### bImpartBaseVelocityY
 
 • **bImpartBaseVelocityY**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5739)
-
 ___
 
 ### bImpartBaseVelocityZ
 
 • **bImpartBaseVelocityZ**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5740)
 
 ___
 
@@ -2062,10 +1430,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[bInstanceComponent](ue_ue.PawnMovementComponent.md#binstancecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L295)
-
 ___
 
 ### bIsActive
@@ -2075,10 +1439,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[bIsActive](ue_ue.PawnMovementComponent.md#bisactive)
-
-#### Defined in
-
-[ue/ue.d.ts:297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L297)
 
 ___
 
@@ -2090,10 +1450,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[bIsEditorOnly](ue_ue.PawnMovementComponent.md#biseditoronly)
 
-#### Defined in
-
-[ue/ue.d.ts:300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L300)
-
 ___
 
 ### bIsVisualizationComponent
@@ -2104,19 +1460,11 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[bIsVisualizationComponent](ue_ue.PawnMovementComponent.md#bisvisualizationcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L301)
-
 ___
 
 ### bJustTeleported
 
 • **bJustTeleported**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5742)
 
 ___
 
@@ -2124,19 +1472,11 @@ ___
 
 • **bMaintainHorizontalGroundVelocity**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5737)
-
 ___
 
 ### bMovementInProgress
 
 • **bMovementInProgress**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5670)
 
 ___
 
@@ -2148,19 +1488,11 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[bNetAddressable](ue_ue.PawnMovementComponent.md#bnetaddressable)
 
-#### Defined in
-
-[ue/ue.d.ts:293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L293)
-
 ___
 
 ### bNetworkAlwaysReplicateTransformUpdateTimestamp
 
 • **bNetworkAlwaysReplicateTransformUpdateTimestamp**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5680)
 
 ___
 
@@ -2168,19 +1500,11 @@ ___
 
 • **bNetworkMovementModeChanged**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5744)
-
 ___
 
 ### bNetworkSkipProxyPredictionOnNetUpdate
 
 • **bNetworkSkipProxyPredictionOnNetUpdate**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5679)
 
 ___
 
@@ -2188,19 +1512,11 @@ ___
 
 • **bNetworkUpdateReceived**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5743)
-
 ___
 
 ### bNotifyApex
 
 • **bNotifyApex**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5747)
 
 ___
 
@@ -2208,19 +1524,11 @@ ___
 
 • **bOrientRotationToMovement**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5668)
-
 ___
 
 ### bPerformingJumpOff
 
 • **bPerformingJumpOff**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5755)
 
 ___
 
@@ -2228,19 +1536,11 @@ ___
 
 • **bProjectNavMeshOnBothWorldChannels**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5765)
-
 ___
 
 ### bProjectNavMeshWalking
 
 • **bProjectNavMeshWalking**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5764)
 
 ___
 
@@ -2248,19 +1548,11 @@ ___
 
 • **bPushForceScaledToMass**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5684)
-
 ___
 
 ### bPushForceUsingZOffset
 
 • **bPushForceUsingZOffset**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5685)
 
 ___
 
@@ -2272,19 +1564,11 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[bReplicates](ue_ue.PawnMovementComponent.md#breplicates)
 
-#### Defined in
-
-[ue/ue.d.ts:292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L292)
-
 ___
 
 ### bRequestedMoveUseAcceleration
 
 • **bRequestedMoveUseAcceleration**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5758](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5758)
 
 ___
 
@@ -2292,19 +1576,11 @@ ___
 
 • **bRequestedMoveWithMaxSpeed**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5762)
-
 ___
 
 ### bRunPhysicsWithNoController
 
 • **bRunPhysicsWithNoController**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5674)
 
 ___
 
@@ -2312,29 +1588,17 @@ ___
 
 • **bScalePushForceToVelocity**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5686](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5686)
-
 ___
 
 ### bServerAcceptClientAuthoritativePosition
 
 • **bServerAcceptClientAuthoritativePosition**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5746)
-
 ___
 
 ### bShrinkProxyCapsule
 
 • **bShrinkProxyCapsule**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5676)
 
 ___
 
@@ -2346,19 +1610,11 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[bSnapToPlaneAtStart](ue_ue.PawnMovementComponent.md#bsnaptoplaneatstart)
 
-#### Defined in
-
-[ue/ue.d.ts:5400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5400)
-
 ___
 
 ### bSweepWhileNavWalking
 
 • **bSweepWhileNavWalking**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5669)
 
 ___
 
@@ -2370,19 +1626,11 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[bTickBeforeOwner](ue_ue.PawnMovementComponent.md#btickbeforeowner)
 
-#### Defined in
-
-[ue/ue.d.ts:5397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5397)
-
 ___
 
 ### bTouchForceScaledToMass
 
 • **bTouchForceScaledToMass**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5683)
 
 ___
 
@@ -2394,10 +1642,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[bUpdateNavAgentWithOwnersCollision](ue_ue.PawnMovementComponent.md#bupdatenavagentwithownerscollision)
 
-#### Defined in
-
-[ue/ue.d.ts:5469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5469)
-
 ___
 
 ### bUpdateOnlyIfRendered
@@ -2407,10 +1651,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[bUpdateOnlyIfRendered](ue_ue.PawnMovementComponent.md#bupdateonlyifrendered)
-
-#### Defined in
-
-[ue/ue.d.ts:5395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5395)
 
 ___
 
@@ -2422,19 +1662,11 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[bUseAccelerationForPaths](ue_ue.PawnMovementComponent.md#buseaccelerationforpaths)
 
-#### Defined in
-
-[ue/ue.d.ts:5470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5470)
-
 ___
 
 ### bUseControllerDesiredRotation
 
 • **bUseControllerDesiredRotation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5667)
 
 ___
 
@@ -2446,19 +1678,11 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[bUseFixedBrakingDistanceForPaths](ue_ue.PawnMovementComponent.md#busefixedbrakingdistanceforpaths)
 
-#### Defined in
-
-[ue/ue.d.ts:5471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5471)
-
 ___
 
 ### bUseFlatBaseForFloorChecks
 
 • **bUseFlatBaseForFloorChecks**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5754)
 
 ___
 
@@ -2466,19 +1690,11 @@ ___
 
 • **bUseRVOAvoidance**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5757)
-
 ___
 
 ### bUseSeparateBrakingFriction
 
 • **bUseSeparateBrakingFriction**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5665)
 
 ___
 
@@ -2486,19 +1702,11 @@ ___
 
 • **bWantsToCrouch**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5749)
-
 ___
 
 ### bWantsToLeaveNavWalking
 
 • **bWantsToLeaveNavWalking**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5756)
 
 ___
 
@@ -2506,19 +1714,11 @@ ___
 
 • **bWasAvoidanceUpdated**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5763)
-
 ___
 
 ### bWasSimulatingRootMotion
 
 • **bWasSimulatingRootMotion**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5759)
 
 ## Methods
 
@@ -2540,10 +1740,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[Activate](ue_ue.PawnMovementComponent.md#activate)
 
-#### Defined in
-
-[ue/ue.d.ts:306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L306)
-
 ___
 
 ### AddForce
@@ -2559,10 +1755,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:5785](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5785)
 
 ___
 
@@ -2580,10 +1772,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:5786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5786)
 
 ___
 
@@ -2606,10 +1794,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[AddInputVector](ue_ue.PawnMovementComponent.md#addinputvector)
 
-#### Defined in
-
-[ue/ue.d.ts:5491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5491)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -2629,10 +1813,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[AddTickPrerequisiteActor](ue_ue.PawnMovementComponent.md#addtickprerequisiteactor)
-
-#### Defined in
-
-[ue/ue.d.ts:307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L307)
 
 ___
 
@@ -2654,10 +1834,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[AddTickPrerequisiteComponent](ue_ue.PawnMovementComponent.md#addtickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L308)
-
 ___
 
 ### CalcVelocity
@@ -2676,10 +1852,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:5787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5787)
 
 ___
 
@@ -2702,10 +1874,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:5788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5788)
-
 ___
 
 ### ClearAccumulatedForces
@@ -2715,10 +1883,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:5789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5789)
 
 ___
 
@@ -2740,10 +1904,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[ComponentHasTag](ue_ue.PawnMovementComponent.md#componenthastag)
 
-#### Defined in
-
-[ue/ue.d.ts:309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L309)
-
 ___
 
 ### ConstrainDirectionToPlane
@@ -2763,10 +1923,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[ConstrainDirectionToPlane](ue_ue.PawnMovementComponent.md#constraindirectiontoplane)
-
-#### Defined in
-
-[ue/ue.d.ts:5404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5404)
 
 ___
 
@@ -2788,10 +1944,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[ConstrainLocationToPlane](ue_ue.PawnMovementComponent.md#constrainlocationtoplane)
 
-#### Defined in
-
-[ue/ue.d.ts:5405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5405)
-
 ___
 
 ### ConstrainNormalToPlane
@@ -2812,10 +1964,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[ConstrainNormalToPlane](ue_ue.PawnMovementComponent.md#constrainnormaltoplane)
 
-#### Defined in
-
-[ue/ue.d.ts:5406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5406)
-
 ___
 
 ### ConsumeInputVector
@@ -2829,10 +1977,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[ConsumeInputVector](ue_ue.PawnMovementComponent.md#consumeinputvector)
-
-#### Defined in
-
-[ue/ue.d.ts:5492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5492)
 
 ___
 
@@ -2858,10 +2002,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[CreateDefaultSubobject](ue_ue.PawnMovementComponent.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### Deactivate
@@ -2876,10 +2016,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[Deactivate](ue_ue.PawnMovementComponent.md#deactivate)
 
-#### Defined in
-
-[ue/ue.d.ts:310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L310)
-
 ___
 
 ### DisableMovement
@@ -2889,10 +2025,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:5790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5790)
 
 ___
 
@@ -2914,10 +2046,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[ExecuteUbergraph](ue_ue.PawnMovementComponent.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetAnalogInputModifier
@@ -2928,10 +2056,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5791)
-
 ___
 
 ### GetCharacterOwner
@@ -2941,10 +2065,6 @@ ___
 #### Returns
 
 [`Character`](ue_ue.Character.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5792)
 
 ___
 
@@ -2960,10 +2080,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[GetClass](ue_ue.PawnMovementComponent.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetComponentTickInterval
@@ -2978,10 +2094,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[GetComponentTickInterval](ue_ue.PawnMovementComponent.md#getcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L311)
-
 ___
 
 ### GetCurrentAcceleration
@@ -2991,10 +2103,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5793)
 
 ___
 
@@ -3010,10 +2118,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[GetGravityZ](ue_ue.PawnMovementComponent.md#getgravityz)
 
-#### Defined in
-
-[ue/ue.d.ts:5407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5407)
-
 ___
 
 ### GetImpartedMovementBaseVelocity
@@ -3023,10 +2127,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5794)
 
 ___
 
@@ -3042,10 +2142,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[GetLastInputVector](ue_ue.PawnMovementComponent.md#getlastinputvector)
 
-#### Defined in
-
-[ue/ue.d.ts:5493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5493)
-
 ___
 
 ### GetLastUpdateLocation
@@ -3055,10 +2151,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5795)
 
 ___
 
@@ -3070,10 +2162,6 @@ ___
 
 [`Rotator`](ue_ue_s.Rotator.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5796)
-
 ___
 
 ### GetLastUpdateVelocity
@@ -3083,10 +2171,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5797](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5797)
 
 ___
 
@@ -3098,10 +2182,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5798)
-
 ___
 
 ### GetMaxBrakingDeceleration
@@ -3111,10 +2191,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5799)
 
 ___
 
@@ -3126,10 +2202,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5800)
-
 ___
 
 ### GetMaxJumpHeightWithJumpTime
@@ -3139,10 +2211,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5801)
 
 ___
 
@@ -3158,10 +2226,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[GetMaxSpeed](ue_ue.PawnMovementComponent.md#getmaxspeed)
 
-#### Defined in
-
-[ue/ue.d.ts:5408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5408)
-
 ___
 
 ### GetMinAnalogSpeed
@@ -3172,10 +2236,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5802)
-
 ___
 
 ### GetMovementBase
@@ -3185,10 +2245,6 @@ ___
 #### Returns
 
 [`PrimitiveComponent`](ue_ue.PrimitiveComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5803)
 
 ___
 
@@ -3204,10 +2260,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[GetName](ue_ue.PawnMovementComponent.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -3221,10 +2273,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[GetOuter](ue_ue.PawnMovementComponent.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -3240,10 +2288,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[GetOwner](ue_ue.PawnMovementComponent.md#getowner)
 
-#### Defined in
-
-[ue/ue.d.ts:312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L312)
-
 ___
 
 ### GetPawnOwner
@@ -3257,10 +2301,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[GetPawnOwner](ue_ue.PawnMovementComponent.md#getpawnowner)
-
-#### Defined in
-
-[ue/ue.d.ts:5494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5494)
 
 ___
 
@@ -3276,10 +2316,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[GetPendingInputVector](ue_ue.PawnMovementComponent.md#getpendinginputvector)
 
-#### Defined in
-
-[ue/ue.d.ts:5495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5495)
-
 ___
 
 ### GetPerchRadiusThreshold
@@ -3289,10 +2325,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5804)
 
 ___
 
@@ -3308,10 +2340,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[GetPhysicsVolume](ue_ue.PawnMovementComponent.md#getphysicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:5409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5409)
-
 ___
 
 ### GetPlaneConstraintAxisSetting
@@ -3325,10 +2353,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[GetPlaneConstraintAxisSetting](ue_ue.PawnMovementComponent.md#getplaneconstraintaxissetting)
-
-#### Defined in
-
-[ue/ue.d.ts:5410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5410)
 
 ___
 
@@ -3344,10 +2368,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[GetPlaneConstraintNormal](ue_ue.PawnMovementComponent.md#getplaneconstraintnormal)
 
-#### Defined in
-
-[ue/ue.d.ts:5411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5411)
-
 ___
 
 ### GetPlaneConstraintOrigin
@@ -3362,10 +2382,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[GetPlaneConstraintOrigin](ue_ue.PawnMovementComponent.md#getplaneconstraintorigin)
 
-#### Defined in
-
-[ue/ue.d.ts:5412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5412)
-
 ___
 
 ### GetValidPerchRadius
@@ -3375,10 +2391,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5805](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5805)
 
 ___
 
@@ -3394,10 +2406,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[GetWorld](ue_ue.PawnMovementComponent.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### IsActive
@@ -3411,10 +2419,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[IsActive](ue_ue.PawnMovementComponent.md#isactive)
-
-#### Defined in
-
-[ue/ue.d.ts:313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L313)
 
 ___
 
@@ -3430,10 +2434,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[IsBeingDestroyed](ue_ue.PawnMovementComponent.md#isbeingdestroyed)
 
-#### Defined in
-
-[ue/ue.d.ts:314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L314)
-
 ___
 
 ### IsComponentTickEnabled
@@ -3448,10 +2448,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[IsComponentTickEnabled](ue_ue.PawnMovementComponent.md#iscomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L315)
-
 ___
 
 ### IsCrouching
@@ -3465,10 +2461,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[IsCrouching](ue_ue.PawnMovementComponent.md#iscrouching)
-
-#### Defined in
-
-[ue/ue.d.ts:5474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5474)
 
 ___
 
@@ -3490,10 +2482,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[IsExceedingMaxSpeed](ue_ue.PawnMovementComponent.md#isexceedingmaxspeed)
 
-#### Defined in
-
-[ue/ue.d.ts:5413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5413)
-
 ___
 
 ### IsFalling
@@ -3507,10 +2495,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[IsFalling](ue_ue.PawnMovementComponent.md#isfalling)
-
-#### Defined in
-
-[ue/ue.d.ts:5475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5475)
 
 ___
 
@@ -3526,10 +2510,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[IsFlying](ue_ue.PawnMovementComponent.md#isflying)
 
-#### Defined in
-
-[ue/ue.d.ts:5476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5476)
-
 ___
 
 ### IsMoveInputIgnored
@@ -3543,10 +2523,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[IsMoveInputIgnored](ue_ue.PawnMovementComponent.md#ismoveinputignored)
-
-#### Defined in
-
-[ue/ue.d.ts:5496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5496)
 
 ___
 
@@ -3562,10 +2538,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[IsMovingOnGround](ue_ue.PawnMovementComponent.md#ismovingonground)
 
-#### Defined in
-
-[ue/ue.d.ts:5477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5477)
-
 ___
 
 ### IsSwimming
@@ -3579,10 +2551,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[IsSwimming](ue_ue.PawnMovementComponent.md#isswimming)
-
-#### Defined in
-
-[ue/ue.d.ts:5478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5478)
 
 ___
 
@@ -3600,10 +2568,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5806)
-
 ___
 
 ### IsWalking
@@ -3613,10 +2577,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5807)
 
 ___
 
@@ -3638,10 +2598,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:5808](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5808)
-
 ___
 
 ### K2\_DestroyComponent
@@ -3662,10 +2618,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[K2_DestroyComponent](ue_ue.PawnMovementComponent.md#k2_destroycomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L316)
-
 ___
 
 ### K2\_FindFloor
@@ -3683,10 +2635,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:5809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5809)
-
 ___
 
 ### K2\_GetInputVector
@@ -3700,10 +2648,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[K2_GetInputVector](ue_ue.PawnMovementComponent.md#k2_getinputvector)
-
-#### Defined in
-
-[ue/ue.d.ts:5497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5497)
 
 ___
 
@@ -3719,10 +2663,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[K2_GetMaxSpeedModifier](ue_ue.PawnMovementComponent.md#k2_getmaxspeedmodifier)
 
-#### Defined in
-
-[ue/ue.d.ts:5414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5414)
-
 ___
 
 ### K2\_GetModifiedMaxAcceleration
@@ -3732,10 +2672,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5810)
 
 ___
 
@@ -3751,10 +2687,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[K2_GetModifiedMaxSpeed](ue_ue.PawnMovementComponent.md#k2_getmodifiedmaxspeed)
 
-#### Defined in
-
-[ue/ue.d.ts:5415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5415)
-
 ___
 
 ### K2\_GetWalkableFloorAngle
@@ -3765,10 +2697,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5811)
-
 ___
 
 ### K2\_GetWalkableFloorZ
@@ -3778,10 +2706,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5812](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5812)
 
 ___
 
@@ -3807,10 +2731,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[K2_MoveUpdatedComponent](ue_ue.PawnMovementComponent.md#k2_moveupdatedcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:5416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5416)
-
 ___
 
 ### OnRep\_IsActive
@@ -3824,10 +2744,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[OnRep_IsActive](ue_ue.PawnMovementComponent.md#onrep_isactive)
-
-#### Defined in
-
-[ue/ue.d.ts:317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L317)
 
 ___
 
@@ -3849,10 +2765,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[PhysicsVolumeChanged](ue_ue.PawnMovementComponent.md#physicsvolumechanged)
 
-#### Defined in
-
-[ue/ue.d.ts:5417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5417)
-
 ___
 
 ### ReceiveBeginPlay
@@ -3866,10 +2778,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[ReceiveBeginPlay](ue_ue.PawnMovementComponent.md#receivebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L318)
 
 ___
 
@@ -3891,10 +2799,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[ReceiveEndPlay](ue_ue.PawnMovementComponent.md#receiveendplay)
 
-#### Defined in
-
-[ue/ue.d.ts:319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L319)
-
 ___
 
 ### ReceiveTick
@@ -3915,10 +2819,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[ReceiveTick](ue_ue.PawnMovementComponent.md#receivetick)
 
-#### Defined in
-
-[ue/ue.d.ts:320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L320)
-
 ___
 
 ### RegisterComponent
@@ -3932,10 +2832,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[RegisterComponent](ue_ue.PawnMovementComponent.md#registercomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L321)
 
 ___
 
@@ -3957,10 +2853,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[RemoveTickPrerequisiteActor](ue_ue.PawnMovementComponent.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -3980,10 +2872,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[RemoveTickPrerequisiteComponent](ue_ue.PawnMovementComponent.md#removetickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L323)
 
 ___
 
@@ -4006,10 +2894,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[SetActive](ue_ue.PawnMovementComponent.md#setactive)
 
-#### Defined in
-
-[ue/ue.d.ts:324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L324)
-
 ___
 
 ### SetAutoActivate
@@ -4030,10 +2914,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[SetAutoActivate](ue_ue.PawnMovementComponent.md#setautoactivate)
 
-#### Defined in
-
-[ue/ue.d.ts:325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L325)
-
 ___
 
 ### SetAvoidanceEnabled
@@ -4049,10 +2929,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:5813](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5813)
 
 ___
 
@@ -4070,10 +2946,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:5814](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5814)
-
 ___
 
 ### SetAvoidanceGroupMask
@@ -4089,10 +2961,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:5815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5815)
 
 ___
 
@@ -4114,10 +2982,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[SetComponentTickEnabled](ue_ue.PawnMovementComponent.md#setcomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L326)
-
 ___
 
 ### SetComponentTickInterval
@@ -4138,10 +3002,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[SetComponentTickInterval](ue_ue.PawnMovementComponent.md#setcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L327)
-
 ___
 
 ### SetGroupsToAvoid
@@ -4157,10 +3017,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:5816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5816)
 
 ___
 
@@ -4178,10 +3034,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:5817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5817)
-
 ___
 
 ### SetGroupsToIgnore
@@ -4198,10 +3050,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:5818](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5818)
-
 ___
 
 ### SetGroupsToIgnoreMask
@@ -4217,10 +3065,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:5819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5819)
 
 ___
 
@@ -4242,10 +3086,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[SetIsReplicated](ue_ue.PawnMovementComponent.md#setisreplicated)
 
-#### Defined in
-
-[ue/ue.d.ts:328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L328)
-
 ___
 
 ### SetMovementMode
@@ -4262,10 +3102,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:5820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5820)
 
 ___
 
@@ -4287,10 +3123,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[SetPlaneConstraintAxisSetting](ue_ue.PawnMovementComponent.md#setplaneconstraintaxissetting)
 
-#### Defined in
-
-[ue/ue.d.ts:5418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5418)
-
 ___
 
 ### SetPlaneConstraintEnabled
@@ -4310,10 +3142,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[SetPlaneConstraintEnabled](ue_ue.PawnMovementComponent.md#setplaneconstraintenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:5419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5419)
 
 ___
 
@@ -4336,10 +3164,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[SetPlaneConstraintFromVectors](ue_ue.PawnMovementComponent.md#setplaneconstraintfromvectors)
 
-#### Defined in
-
-[ue/ue.d.ts:5420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5420)
-
 ___
 
 ### SetPlaneConstraintNormal
@@ -4359,10 +3183,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[SetPlaneConstraintNormal](ue_ue.PawnMovementComponent.md#setplaneconstraintnormal)
-
-#### Defined in
-
-[ue/ue.d.ts:5421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5421)
 
 ___
 
@@ -4384,10 +3204,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[SetPlaneConstraintOrigin](ue_ue.PawnMovementComponent.md#setplaneconstraintorigin)
 
-#### Defined in
-
-[ue/ue.d.ts:5422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5422)
-
 ___
 
 ### SetTickGroup
@@ -4407,10 +3223,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[SetTickGroup](ue_ue.PawnMovementComponent.md#settickgroup)
-
-#### Defined in
-
-[ue/ue.d.ts:330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L330)
 
 ___
 
@@ -4432,10 +3244,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[SetTickableWhenPaused](ue_ue.PawnMovementComponent.md#settickablewhenpaused)
 
-#### Defined in
-
-[ue/ue.d.ts:329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L329)
-
 ___
 
 ### SetUpdatedComponent
@@ -4456,10 +3264,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[SetUpdatedComponent](ue_ue.PawnMovementComponent.md#setupdatedcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:5423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5423)
-
 ___
 
 ### SetWalkableFloorAngle
@@ -4475,10 +3279,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:5821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5821)
 
 ___
 
@@ -4496,10 +3296,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:5822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5822)
-
 ___
 
 ### SnapUpdatedComponentToPlane
@@ -4513,10 +3309,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[SnapUpdatedComponentToPlane](ue_ue.PawnMovementComponent.md#snapupdatedcomponenttoplane)
-
-#### Defined in
-
-[ue/ue.d.ts:5424](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5424)
 
 ___
 
@@ -4532,10 +3324,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[StopActiveMovement](ue_ue.PawnMovementComponent.md#stopactivemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:5479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5479)
-
 ___
 
 ### StopMovementImmediately
@@ -4549,10 +3337,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[StopMovementImmediately](ue_ue.PawnMovementComponent.md#stopmovementimmediately)
-
-#### Defined in
-
-[ue/ue.d.ts:5425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5425)
 
 ___
 
@@ -4568,10 +3352,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[StopMovementKeepPathing](ue_ue.PawnMovementComponent.md#stopmovementkeeppathing)
 
-#### Defined in
-
-[ue/ue.d.ts:5480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5480)
-
 ___
 
 ### ToggleActive
@@ -4585,10 +3365,6 @@ ___
 #### Inherited from
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[ToggleActive](ue_ue.PawnMovementComponent.md#toggleactive)
-
-#### Defined in
-
-[ue/ue.d.ts:331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L331)
 
 ___
 
@@ -4611,10 +3387,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[Find](ue_ue.PawnMovementComponent.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:5824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5824)
-
 ___
 
 ### Load
@@ -4635,10 +3407,6 @@ ___
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[Load](ue_ue.PawnMovementComponent.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:5825](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5825)
-
 ___
 
 ### StaticClass
@@ -4652,7 +3420,3 @@ ___
 #### Overrides
 
 [PawnMovementComponent](ue_ue.PawnMovementComponent.md).[StaticClass](ue_ue.PawnMovementComponent.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:5823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5823)

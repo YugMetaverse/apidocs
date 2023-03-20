@@ -28,10 +28,6 @@
 
 • **new SoundAttenuationPluginSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:9390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9390)
-
 • **new SoundAttenuationPluginSettings**(`SpatializationPluginSettingsArray`, `OcclusionPluginSettingsArray`, `ReverbPluginSettingsArray`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `OcclusionPluginSettingsArray` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`OcclusionPluginSourceSettingsBase`](ue_ue.OcclusionPluginSourceSettingsBase.md)\> |
 | `ReverbPluginSettingsArray` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ReverbPluginSourceSettingsBase`](ue_ue.ReverbPluginSourceSettingsBase.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:9391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9391)
-
 ## Properties
 
 ### OcclusionPluginSettingsArray
 
 • **OcclusionPluginSettingsArray**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`OcclusionPluginSourceSettingsBase`](ue_ue.OcclusionPluginSourceSettingsBase.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:9393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9393)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **ReverbPluginSettingsArray**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ReverbPluginSourceSettingsBase`](ue_ue.ReverbPluginSourceSettingsBase.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:9394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9394)
-
 ___
 
 ### SpatializationPluginSettingsArray
 
 • **SpatializationPluginSettingsArray**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SpatializationPluginSourceSettingsBase`](ue_ue.SpatializationPluginSourceSettingsBase.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:9392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9392)
-
 ___
 
 ### \_\_tid\_SoundAttenuationPluginSettings\_\_
 
 • `Private` **\_\_tid\_SoundAttenuationPluginSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9400)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9398)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9399)

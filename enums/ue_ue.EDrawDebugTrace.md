@@ -21,19 +21,11 @@
 
 • **EDrawDebugTrace\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33827)
-
 ___
 
 ### ForDuration
 
 • **ForDuration** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33827)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **ForOneFrame** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33827)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33827)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Persistent** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33827)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33827)

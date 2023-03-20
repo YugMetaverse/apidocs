@@ -20,19 +20,11 @@
 
 • **EDataValidationResult\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31430)
-
 ___
 
 ### Invalid
 
 • **Invalid** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31430)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **NotValidated** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31430)
-
 ___
 
 ### Valid
 
 • **Valid** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31430)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31430)

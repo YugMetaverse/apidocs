@@ -27,10 +27,6 @@
 
 • **new NamedLensPreset**()
 
-#### Defined in
-
-[ue/ue.d.ts:27319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27319)
-
 • **new NamedLensPreset**(`Name`, `LensSettings`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Name` | `string` |
 | `LensSettings` | [`CameraLensSettings`](ue_ue.CameraLensSettings.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:27320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27320)
-
 ## Properties
 
 ### LensSettings
 
 • **LensSettings**: [`CameraLensSettings`](ue_ue.CameraLensSettings.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27322)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:27321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27321)
-
 ___
 
 ### \_\_tid\_NamedLensPreset\_\_
 
 • `Private` **\_\_tid\_NamedLensPreset\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27328)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27326)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27327)

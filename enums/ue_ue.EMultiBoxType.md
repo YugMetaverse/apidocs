@@ -23,19 +23,11 @@
 
 • **ButtonRow** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34071)
-
 ___
 
 ### EMultiBoxType\_MAX
 
 • **EMultiBoxType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34071)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **Menu** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34071)
-
 ___
 
 ### MenuBar
 
 • **MenuBar** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34071)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **ToolBar** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34071)
-
 ___
 
 ### ToolMenuBar
 
 • **ToolMenuBar** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34071)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **VerticalToolBar** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34071)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34071)

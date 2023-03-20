@@ -20,19 +20,11 @@
 
 • **FBXICT\_All** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33851)
-
 ___
 
 ### FBXICT\_Geometry
 
 • **FBXICT\_Geometry** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33851)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **FBXICT\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33851)
-
 ___
 
 ### FBXICT\_SkinningWeights
 
 • **FBXICT\_SkinningWeights** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33851)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33851)

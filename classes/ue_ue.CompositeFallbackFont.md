@@ -33,10 +33,6 @@
 
 • **new CompositeFallbackFont**()
 
-#### Defined in
-
-[ue/ue.d.ts:1903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1903)
-
 • **new CompositeFallbackFont**(`Typeface`, `ScalingFactor`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `Typeface` | [`Typeface`](ue_ue.Typeface.md) |
 | `ScalingFactor` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:1904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1904)
-
 ## Properties
 
 ### ScalingFactor
 
 • **ScalingFactor**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1906)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **Typeface**: [`Typeface`](ue_ue.Typeface.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1905)
-
 ___
 
 ### \_\_tid\_CompositeFallbackFont\_\_
 
 • `Private` **\_\_tid\_CompositeFallbackFont\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1912)
 
 ## Methods
 
@@ -94,10 +74,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1910)
-
 ___
 
 ### StaticStruct
@@ -107,7 +83,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1911)

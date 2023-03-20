@@ -25,19 +25,11 @@
 
 • **new FArchive**()
 
-#### Defined in
-
-[ue/ue_s.d.ts:721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L721)
-
 ## Properties
 
 ### \_\_tid\_FArchive\_\_
 
 • `Private` **\_\_tid\_FArchive\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L729)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L726)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L727)

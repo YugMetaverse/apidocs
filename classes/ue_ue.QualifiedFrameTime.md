@@ -27,10 +27,6 @@
 
 • **new QualifiedFrameTime**()
 
-#### Defined in
-
-[ue/ue.d.ts:14207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14207)
-
 • **new QualifiedFrameTime**(`Time`, `Rate`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Time` | [`FrameTime`](ue_ue.FrameTime.md) |
 | `Rate` | [`FrameRate`](ue_ue.FrameRate.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:14208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14208)
-
 ## Properties
 
 ### Rate
 
 • **Rate**: [`FrameRate`](ue_ue.FrameRate.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14210)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Time**: [`FrameTime`](ue_ue.FrameTime.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14209)
-
 ___
 
 ### \_\_tid\_QualifiedFrameTime\_\_
 
 • `Private` **\_\_tid\_QualifiedFrameTime\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14216)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14214)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14215)

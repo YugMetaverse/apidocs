@@ -26,10 +26,6 @@
 
 • **new InputBlendPose**()
 
-#### Defined in
-
-[ue/ue.d.ts:18605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18605)
-
 • **new InputBlendPose**(`BranchFilters`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `BranchFilters` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BranchFilter`](ue_ue.BranchFilter.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:18606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18606)
-
 ## Properties
 
 ### BranchFilters
 
 • **BranchFilters**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BranchFilter`](ue_ue.BranchFilter.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:18607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18607)
-
 ___
 
 ### \_\_tid\_InputBlendPose\_\_
 
 • `Private` **\_\_tid\_InputBlendPose\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18613)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18611](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18611)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:18612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18612)

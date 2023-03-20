@@ -31,10 +31,6 @@
 
 • **new MaterialSpriteElement**()
 
-#### Defined in
-
-[ue/ue.d.ts:31194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31194)
-
 • **new MaterialSpriteElement**(`Material`, `DistanceToOpacityCurve`, `bSizeIsInScreenSpace`, `BaseSizeX`, `BaseSizeY`, `DistanceToSizeCurve`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `BaseSizeY` | `number` |
 | `DistanceToSizeCurve` | [`CurveFloat`](ue_ue.CurveFloat.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:31195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31195)
-
 ## Properties
 
 ### BaseSizeX
 
 • **BaseSizeX**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31199)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **BaseSizeY**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31200)
-
 ___
 
 ### DistanceToOpacityCurve
 
 • **DistanceToOpacityCurve**: [`CurveFloat`](ue_ue.CurveFloat.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31197)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **DistanceToSizeCurve**: [`CurveFloat`](ue_ue.CurveFloat.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31201)
-
 ___
 
 ### Material
 
 • **Material**: [`MaterialInterface`](ue_ue.MaterialInterface.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31196)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • `Private` **\_\_tid\_MaterialSpriteElement\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:31207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31207)
-
 ___
 
 ### bSizeIsInScreenSpace
 
 • **bSizeIsInScreenSpace**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31198)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31205)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31206)

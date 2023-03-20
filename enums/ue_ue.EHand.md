@@ -19,19 +19,11 @@
 
 • **VR\_LeftHand** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19726)
-
 ___
 
 ### VR\_MAX
 
 • **VR\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19726)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **VR\_RightHand** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19726)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19726)

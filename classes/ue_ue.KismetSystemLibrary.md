@@ -293,10 +293,6 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[constructor](ue_ue.BlueprintFunctionLibrary.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:43264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43264)
-
 ## Properties
 
 ### \_\_tid\_BlueprintFunctionLibrary\_\_
@@ -307,19 +303,11 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_BlueprintFunctionLibrary__](ue_ue.BlueprintFunctionLibrary.md#__tid_blueprintfunctionlibrary__)
 
-#### Defined in
-
-[ue/ue.d.ts:13418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13418)
-
 ___
 
 ### \_\_tid\_KismetSystemLibrary\_\_
 
 • **\_\_tid\_KismetSystemLibrary\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43510)
 
 ___
 
@@ -330,10 +318,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_Object__](ue_ue.BlueprintFunctionLibrary.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -359,10 +343,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[CreateDefaultSubobject](ue_ue.BlueprintFunctionLibrary.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -383,10 +363,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[ExecuteUbergraph](ue_ue.BlueprintFunctionLibrary.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -400,10 +376,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetClass](ue_ue.BlueprintFunctionLibrary.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -419,10 +391,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetName](ue_ue.BlueprintFunctionLibrary.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -437,10 +405,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetOuter](ue_ue.BlueprintFunctionLibrary.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -454,10 +418,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetWorld](ue_ue.BlueprintFunctionLibrary.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -475,10 +435,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43265)
-
 ___
 
 ### OnAssetLoaded\_\_DelegateSignature
@@ -494,10 +450,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43266)
 
 ___
 
@@ -516,10 +468,6 @@ ___
 
 [`DebugFloatHistory`](ue_ue.DebugFloatHistory.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43267)
-
 ___
 
 ### BeginTransaction
@@ -537,10 +485,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:43268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43268)
 
 ___
 
@@ -564,10 +508,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43269)
-
 ___
 
 ### BoxOverlapComponents
@@ -589,10 +529,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43270)
 
 ___
 
@@ -623,10 +559,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43271)
-
 ___
 
 ### BoxTraceMultiByProfile
@@ -655,10 +587,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43272)
 
 ___
 
@@ -689,10 +617,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43273)
-
 ___
 
 ### BoxTraceSingle
@@ -721,10 +645,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43274)
 
 ___
 
@@ -755,10 +675,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43275)
-
 ___
 
 ### BoxTraceSingleForObjects
@@ -788,10 +704,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43276)
-
 ___
 
 ### BreakSoftClassPath
@@ -808,10 +720,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43277)
 
 ___
 
@@ -830,10 +738,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43278)
-
 ___
 
 ### CanLaunchURL
@@ -850,10 +754,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43280)
-
 ___
 
 ### CancelTransaction
@@ -869,10 +769,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43279)
 
 ___
 
@@ -897,10 +793,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43281)
-
 ___
 
 ### CapsuleOverlapComponents
@@ -923,10 +815,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43282)
 
 ___
 
@@ -957,10 +845,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43283)
-
 ___
 
 ### CapsuleTraceMultiByProfile
@@ -989,10 +873,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43284)
 
 ___
 
@@ -1023,10 +903,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43285)
-
 ___
 
 ### CapsuleTraceSingle
@@ -1055,10 +931,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43286)
 
 ___
 
@@ -1089,10 +961,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43287)
-
 ___
 
 ### CapsuleTraceSingleForObjects
@@ -1122,10 +990,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43288)
-
 ___
 
 ### CollectGarbage
@@ -1135,10 +999,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43289)
 
 ___
 
@@ -1161,10 +1021,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43290)
-
 ___
 
 ### ComponentOverlapComponents
@@ -1186,10 +1042,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43291)
-
 ___
 
 ### ControlScreensaver
@@ -1205,10 +1057,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43292)
 
 ___
 
@@ -1226,10 +1074,6 @@ ___
 
 [`TSoftClassPtr`](../modules/ue_puerts.md#tsoftclassptr)<[`Object`](ue_ue.Object.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:43293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43293)
-
 ___
 
 ### Conv\_InterfaceToObject
@@ -1245,10 +1089,6 @@ ___
 #### Returns
 
 [`Object`](ue_ue.Object.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43294)
 
 ___
 
@@ -1266,10 +1106,6 @@ ___
 
 [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`Object`](ue_ue.Object.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:43295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43295)
-
 ___
 
 ### Conv\_PrimaryAssetIdToString
@@ -1285,10 +1121,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43296)
 
 ___
 
@@ -1306,10 +1138,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43297)
-
 ___
 
 ### Conv\_SoftClassPathToSoftClassRef
@@ -1325,10 +1153,6 @@ ___
 #### Returns
 
 [`TSoftClassPtr`](../modules/ue_puerts.md#tsoftclassptr)<[`Object`](ue_ue.Object.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:43298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43298)
 
 ___
 
@@ -1346,10 +1170,6 @@ ___
 
 [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43299)
-
 ___
 
 ### Conv\_SoftClassReferenceToString
@@ -1365,10 +1185,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43300)
 
 ___
 
@@ -1386,10 +1202,6 @@ ___
 
 [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`Object`](ue_ue.Object.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:43303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43303)
-
 ___
 
 ### Conv\_SoftObjectReferenceToObject
@@ -1405,10 +1217,6 @@ ___
 #### Returns
 
 [`Object`](ue_ue.Object.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43301)
 
 ___
 
@@ -1426,10 +1234,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43302)
-
 ___
 
 ### ConvertToAbsolutePath
@@ -1445,10 +1249,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43304)
 
 ___
 
@@ -1466,10 +1266,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43305)
-
 ___
 
 ### CreateCopyForUndoBuffer
@@ -1485,10 +1281,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43306)
 
 ___
 
@@ -1508,10 +1300,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43307)
-
 ___
 
 ### DoesImplementInterface
@@ -1528,10 +1316,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43308)
 
 ___
 
@@ -1555,10 +1339,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43309)
-
 ___
 
 ### DrawDebugBox
@@ -1581,10 +1361,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43310)
-
 ___
 
 ### DrawDebugCamera
@@ -1602,10 +1378,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43311)
 
 ___
 
@@ -1629,10 +1401,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43312)
 
 ___
 
@@ -1659,10 +1427,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43313)
-
 ___
 
 ### DrawDebugCone
@@ -1687,10 +1451,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43314)
 
 ___
 
@@ -1717,10 +1477,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43315)
-
 ___
 
 ### DrawDebugCoordinateSystem
@@ -1741,10 +1497,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43316)
 
 ___
 
@@ -1769,10 +1521,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43317)
-
 ___
 
 ### DrawDebugFloatHistoryLocation
@@ -1793,10 +1541,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43318)
 
 ___
 
@@ -1819,10 +1563,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43319)
-
 ___
 
 ### DrawDebugFrustum
@@ -1842,10 +1582,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43320)
 
 ___
 
@@ -1868,10 +1604,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43321)
-
 ___
 
 ### DrawDebugPlane
@@ -1893,10 +1625,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43322)
-
 ___
 
 ### DrawDebugPoint
@@ -1916,10 +1644,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43323)
 
 ___
 
@@ -1943,10 +1667,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43324)
-
 ___
 
 ### DrawDebugString
@@ -1968,10 +1688,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43325)
-
 ___
 
 ### EndTransaction
@@ -1981,10 +1697,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:43326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43326)
 
 ___
 
@@ -2003,10 +1715,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43327)
-
 ___
 
 ### EqualEqual\_PrimaryAssetType
@@ -2023,10 +1731,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43328)
 
 ___
 
@@ -2045,10 +1749,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43329)
-
 ___
 
 ### EqualEqual\_SoftObjectReference
@@ -2065,10 +1765,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43330)
 
 ___
 
@@ -2087,10 +1783,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43331)
 
 ___
 
@@ -2113,10 +1805,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Find](ue_ue.BlueprintFunctionLibrary.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:43507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43507)
-
 ___
 
 ### FlushDebugStrings
@@ -2132,10 +1820,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43332)
 
 ___
 
@@ -2153,10 +1837,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43333)
-
 ___
 
 ### ForceCloseAdBanner
@@ -2166,10 +1846,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43334)
 
 ___
 
@@ -2189,10 +1865,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43335)
-
 ___
 
 ### GetActorListFromComponentList
@@ -2211,10 +1883,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43336)
-
 ___
 
 ### GetAdIDCount
@@ -2224,10 +1892,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:43337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43337)
 
 ___
 
@@ -2245,10 +1909,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43338)
-
 ___
 
 ### GetClassFromPrimaryAssetId
@@ -2265,10 +1925,6 @@ ___
 
 [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43339)
-
 ___
 
 ### GetCommandLine
@@ -2278,10 +1934,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43340)
 
 ___
 
@@ -2302,10 +1954,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43341)
-
 ___
 
 ### GetConsoleVariableBoolValue
@@ -2321,10 +1969,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43342)
 
 ___
 
@@ -2342,10 +1986,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:43343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43343)
-
 ___
 
 ### GetConsoleVariableIntValue
@@ -2362,10 +2002,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:43344](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43344)
-
 ___
 
 ### GetConvenientWindowedResolutions
@@ -2381,10 +2017,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43345)
 
 ___
 
@@ -2404,10 +2036,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43346)
-
 ___
 
 ### GetDefaultLanguage
@@ -2417,10 +2045,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43347)
 
 ___
 
@@ -2432,10 +2056,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43348)
-
 ___
 
 ### GetDeviceId
@@ -2445,10 +2065,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43349)
 
 ___
 
@@ -2466,10 +2082,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43350)
-
 ___
 
 ### GetEngineVersion
@@ -2479,10 +2091,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43351)
 
 ___
 
@@ -2494,10 +2102,6 @@ ___
 
 `bigint`
 
-#### Defined in
-
-[ue/ue.d.ts:43352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43352)
-
 ___
 
 ### GetGameBundleId
@@ -2508,10 +2112,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43353)
-
 ___
 
 ### GetGameName
@@ -2521,10 +2121,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43354)
 
 ___
 
@@ -2542,10 +2138,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:43356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43356)
-
 ___
 
 ### GetGamepadControllerName
@@ -2562,10 +2154,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43355](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43355)
-
 ___
 
 ### GetLocalCurrencyCode
@@ -2575,10 +2163,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43357](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43357)
 
 ___
 
@@ -2590,10 +2174,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43358)
-
 ___
 
 ### GetMinYResolutionFor3DView
@@ -2604,10 +2184,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:43359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43359)
-
 ___
 
 ### GetMinYResolutionForUI
@@ -2617,10 +2193,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:43360](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43360)
 
 ___
 
@@ -2638,10 +2210,6 @@ ___
 
 [`Object`](ue_ue.Object.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43361](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43361)
-
 ___
 
 ### GetObjectName
@@ -2657,10 +2225,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43362)
 
 ___
 
@@ -2678,10 +2242,6 @@ ___
 
 [`Object`](ue_ue.Object.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43363)
-
 ___
 
 ### GetPathName
@@ -2698,10 +2258,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43364)
-
 ___
 
 ### GetPlatformUserName
@@ -2712,10 +2268,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43365)
-
 ___
 
 ### GetPreferredLanguages
@@ -2725,10 +2277,6 @@ ___
 #### Returns
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:43366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43366)
 
 ___
 
@@ -2746,10 +2294,6 @@ ___
 
 [`PrimaryAssetId`](ue_ue.PrimaryAssetId.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43367)
-
 ___
 
 ### GetPrimaryAssetIdFromObject
@@ -2765,10 +2309,6 @@ ___
 #### Returns
 
 [`PrimaryAssetId`](ue_ue.PrimaryAssetId.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43368)
 
 ___
 
@@ -2786,10 +2326,6 @@ ___
 
 [`PrimaryAssetId`](ue_ue.PrimaryAssetId.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43369](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43369)
-
 ___
 
 ### GetPrimaryAssetIdFromSoftObjectReference
@@ -2805,10 +2341,6 @@ ___
 #### Returns
 
 [`PrimaryAssetId`](ue_ue.PrimaryAssetId.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43370)
 
 ___
 
@@ -2826,10 +2358,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43371)
 
 ___
 
@@ -2851,10 +2379,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43372)
-
 ___
 
 ### GetProjectContentDirectory
@@ -2864,10 +2388,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43373](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43373)
 
 ___
 
@@ -2879,10 +2399,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43374](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43374)
-
 ___
 
 ### GetProjectSavedDirectory
@@ -2892,10 +2408,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43375](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43375)
 
 ___
 
@@ -2907,10 +2419,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:43376](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43376)
-
 ___
 
 ### GetRenderingMaterialQualityLevel
@@ -2920,10 +2428,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:43377](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43377)
 
 ___
 
@@ -2941,10 +2445,6 @@ ___
 
 [`TSoftClassPtr`](../modules/ue_puerts.md#tsoftclassptr)<[`Object`](ue_ue.Object.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:43378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43378)
-
 ___
 
 ### GetSoftObjectReferenceFromPrimaryAssetId
@@ -2960,10 +2460,6 @@ ___
 #### Returns
 
 [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`Object`](ue_ue.Object.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:43379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43379)
 
 ___
 
@@ -2981,10 +2477,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43380](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43380)
-
 ___
 
 ### GetUniqueDeviceId
@@ -2994,10 +2486,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43381)
 
 ___
 
@@ -3009,10 +2497,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43382](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43382)
-
 ___
 
 ### HideAdBanner
@@ -3022,10 +2506,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43383)
 
 ___
 
@@ -3043,10 +2523,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43384)
-
 ___
 
 ### IsDedicatedServer
@@ -3063,10 +2539,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43385)
-
 ___
 
 ### IsInterstitialAdAvailable
@@ -3077,10 +2549,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43386)
-
 ___
 
 ### IsInterstitialAdRequested
@@ -3090,10 +2558,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43387)
 
 ___
 
@@ -3111,10 +2575,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43388)
-
 ___
 
 ### IsPackagedForDistribution
@@ -3125,10 +2585,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43389)
-
 ___
 
 ### IsScreensaverEnabled
@@ -3138,10 +2594,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43390)
 
 ___
 
@@ -3159,10 +2611,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43391)
-
 ___
 
 ### IsStandalone
@@ -3179,10 +2627,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43392)
-
 ___
 
 ### IsUnattended
@@ -3192,10 +2636,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43393)
 
 ___
 
@@ -3213,10 +2653,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43394)
-
 ___
 
 ### IsValidClass
@@ -3232,10 +2668,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43395)
 
 ___
 
@@ -3253,10 +2685,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43396)
-
 ___
 
 ### IsValidPrimaryAssetType
@@ -3272,10 +2700,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43397)
 
 ___
 
@@ -3293,10 +2717,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43398)
-
 ___
 
 ### IsValidSoftObjectReference
@@ -3312,10 +2732,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43399)
 
 ___
 
@@ -3334,10 +2750,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43400)
-
 ___
 
 ### K2\_ClearTimer
@@ -3355,10 +2767,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43401)
-
 ___
 
 ### K2\_ClearTimerDelegate
@@ -3374,10 +2782,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43402)
 
 ___
 
@@ -3396,10 +2800,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43403)
-
 ___
 
 ### K2\_GetTimerElapsedTime
@@ -3417,10 +2817,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:43404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43404)
-
 ___
 
 ### K2\_GetTimerElapsedTimeDelegate
@@ -3436,10 +2832,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:43405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43405)
 
 ___
 
@@ -3458,10 +2850,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:43406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43406)
-
 ___
 
 ### K2\_GetTimerRemainingTime
@@ -3479,10 +2867,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:43407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43407)
-
 ___
 
 ### K2\_GetTimerRemainingTimeDelegate
@@ -3498,10 +2882,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:43408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43408)
 
 ___
 
@@ -3520,10 +2900,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:43409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43409)
-
 ___
 
 ### K2\_InvalidateTimerHandle
@@ -3539,10 +2915,6 @@ ___
 #### Returns
 
 [`TimerHandle`](ue_ue.TimerHandle.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43410)
 
 ___
 
@@ -3561,10 +2933,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43411)
-
 ___
 
 ### K2\_IsTimerActiveDelegate
@@ -3580,10 +2948,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43412)
 
 ___
 
@@ -3602,10 +2966,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43413)
-
 ___
 
 ### K2\_IsTimerPaused
@@ -3623,10 +2983,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43414)
-
 ___
 
 ### K2\_IsTimerPausedDelegate
@@ -3642,10 +2998,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43415)
 
 ___
 
@@ -3664,10 +3016,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43416)
-
 ___
 
 ### K2\_IsValidTimerHandle
@@ -3683,10 +3031,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43417)
 
 ___
 
@@ -3705,10 +3049,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43418)
-
 ___
 
 ### K2\_PauseTimerDelegate
@@ -3724,10 +3064,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43419)
 
 ___
 
@@ -3745,10 +3081,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43420)
 
 ___
 
@@ -3771,10 +3103,6 @@ ___
 
 [`TimerHandle`](ue_ue.TimerHandle.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43421)
-
 ___
 
 ### K2\_SetTimerDelegate
@@ -3795,10 +3123,6 @@ ___
 
 [`TimerHandle`](ue_ue.TimerHandle.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43422)
-
 ___
 
 ### K2\_TimerExists
@@ -3816,10 +3140,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43423)
-
 ___
 
 ### K2\_TimerExistsDelegate
@@ -3835,10 +3155,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43424](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43424)
 
 ___
 
@@ -3857,10 +3173,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43425)
-
 ___
 
 ### K2\_UnPauseTimer
@@ -3878,10 +3190,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43426](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43426)
-
 ___
 
 ### K2\_UnPauseTimerDelegate
@@ -3897,10 +3205,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43427)
 
 ___
 
@@ -3919,10 +3223,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43428)
-
 ___
 
 ### LaunchURL
@@ -3938,10 +3238,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43429)
 
 ___
 
@@ -3970,10 +3266,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43430)
-
 ___
 
 ### LineTraceMultiByProfile
@@ -4000,10 +3292,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43431](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43431)
 
 ___
 
@@ -4032,10 +3320,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43432)
-
 ___
 
 ### LineTraceSingle
@@ -4062,10 +3346,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43433)
 
 ___
 
@@ -4094,10 +3374,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43434)
-
 ___
 
 ### LineTraceSingleForObjects
@@ -4125,10 +3401,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43435)
-
 ___
 
 ### Load
@@ -4149,10 +3421,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Load](ue_ue.BlueprintFunctionLibrary.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:43508](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43508)
-
 ___
 
 ### LoadAsset
@@ -4171,10 +3439,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43436)
 
 ___
 
@@ -4195,10 +3459,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43438)
-
 ___
 
 ### LoadAsset\_Blocking
@@ -4214,10 +3474,6 @@ ___
 #### Returns
 
 [`Object`](ue_ue.Object.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43437)
 
 ___
 
@@ -4235,10 +3491,6 @@ ___
 
 [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43439)
-
 ___
 
 ### LoadInterstitialAd
@@ -4254,10 +3506,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43440)
 
 ___
 
@@ -4275,10 +3523,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43441](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43441)
-
 ___
 
 ### MakeLiteralByte
@@ -4294,10 +3538,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:43442](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43442)
 
 ___
 
@@ -4315,10 +3555,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:43443](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43443)
-
 ___
 
 ### MakeLiteralInt
@@ -4334,10 +3570,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:43444](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43444)
 
 ___
 
@@ -4355,10 +3587,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43445](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43445)
-
 ___
 
 ### MakeLiteralString
@@ -4374,10 +3602,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43446)
 
 ___
 
@@ -4395,10 +3619,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43447)
-
 ___
 
 ### MakeSoftClassPath
@@ -4415,10 +3635,6 @@ ___
 
 [`SoftClassPath`](ue_ue.SoftClassPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43448)
-
 ___
 
 ### MakeSoftObjectPath
@@ -4434,10 +3650,6 @@ ___
 #### Returns
 
 [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43449)
 
 ___
 
@@ -4463,10 +3675,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43450)
-
 ___
 
 ### NormalizeFilename
@@ -4482,10 +3690,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43451)
 
 ___
 
@@ -4504,10 +3708,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43452)
-
 ___
 
 ### NotEqual\_PrimaryAssetType
@@ -4524,10 +3724,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43453)
 
 ___
 
@@ -4546,10 +3742,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43454)
-
 ___
 
 ### NotEqual\_SoftObjectReference
@@ -4566,10 +3758,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43455)
 
 ___
 
@@ -4592,10 +3780,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43456](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43456)
-
 ___
 
 ### PrintText
@@ -4617,10 +3801,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43457)
-
 ___
 
 ### PrintWarning
@@ -4637,10 +3817,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43458](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43458)
-
 ___
 
 ### QuitEditor
@@ -4650,10 +3826,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43459](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43459)
 
 ___
 
@@ -4674,10 +3846,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43460](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43460)
-
 ___
 
 ### RegisterForRemoteNotifications
@@ -4687,10 +3855,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43461](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43461)
 
 ___
 
@@ -4708,10 +3872,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43463)
-
 ___
 
 ### ResetGamepadAssignments
@@ -4721,10 +3881,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43462](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43462)
 
 ___
 
@@ -4744,10 +3900,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43464)
-
 ___
 
 ### SetBoolPropertyByName
@@ -4765,10 +3917,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43465)
 
 ___
 
@@ -4788,10 +3936,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43466](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43466)
-
 ___
 
 ### SetClassPropertyByName
@@ -4809,10 +3953,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43467](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43467)
 
 ___
 
@@ -4832,10 +3972,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43468)
-
 ___
 
 ### SetFloatPropertyByName
@@ -4853,10 +3989,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43469)
 
 ___
 
@@ -4876,10 +4008,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43470)
-
 ___
 
 ### SetIntPropertyByName
@@ -4897,10 +4025,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43472](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43472)
 
 ___
 
@@ -4920,10 +4044,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43471)
-
 ___
 
 ### SetLinearColorPropertyByName
@@ -4941,10 +4061,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43473](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43473)
 
 ___
 
@@ -4964,10 +4080,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43474)
-
 ___
 
 ### SetObjectPropertyByName
@@ -4985,10 +4097,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43475)
 
 ___
 
@@ -5008,10 +4116,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43476)
-
 ___
 
 ### SetSoftClassPropertyByName
@@ -5029,10 +4133,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43477)
 
 ___
 
@@ -5052,10 +4152,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43478)
-
 ___
 
 ### SetStringPropertyByName
@@ -5073,10 +4169,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43479)
 
 ___
 
@@ -5096,10 +4188,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43480)
-
 ___
 
 ### SetSuppressViewportTransitionMessage
@@ -5116,10 +4204,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43481)
 
 ___
 
@@ -5139,10 +4223,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43482)
-
 ___
 
 ### SetTransformPropertyByName
@@ -5161,10 +4241,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43483)
-
 ___
 
 ### SetUserActivity
@@ -5180,10 +4256,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43484](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43484)
 
 ___
 
@@ -5203,10 +4275,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43485)
-
 ___
 
 ### SetVolumeButtonsHandledBySystem
@@ -5223,10 +4291,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43486)
-
 ___
 
 ### SetWindowTitle
@@ -5242,10 +4306,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43487)
 
 ___
 
@@ -5264,10 +4324,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43488)
-
 ___
 
 ### ShowInterstitialAd
@@ -5277,10 +4333,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43489)
 
 ___
 
@@ -5298,10 +4350,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43490)
-
 ___
 
 ### ShowPlatformSpecificLeaderboardScreen
@@ -5318,10 +4366,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43491)
-
 ___
 
 ### SnapshotObject
@@ -5337,10 +4381,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43492)
 
 ___
 
@@ -5364,10 +4404,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43493)
-
 ___
 
 ### SphereOverlapComponents
@@ -5389,10 +4425,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43494)
 
 ___
 
@@ -5422,10 +4454,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43495)
-
 ___
 
 ### SphereTraceMultiByProfile
@@ -5453,10 +4481,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43496)
 
 ___
 
@@ -5486,10 +4510,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43497)
-
 ___
 
 ### SphereTraceSingle
@@ -5517,10 +4537,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43498)
 
 ___
 
@@ -5550,10 +4566,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43499)
-
 ___
 
 ### SphereTraceSingleForObjects
@@ -5582,10 +4594,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43500)
-
 ___
 
 ### StackTrace
@@ -5595,10 +4603,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43501)
 
 ___
 
@@ -5613,10 +4617,6 @@ ___
 #### Overrides
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[StaticClass](ue_ue.BlueprintFunctionLibrary.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:43506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43506)
 
 ___
 
@@ -5634,10 +4634,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43502)
-
 ___
 
 ### UnloadPrimaryAsset
@@ -5653,10 +4649,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43503)
 
 ___
 
@@ -5674,10 +4666,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:43504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43504)
-
 ___
 
 ### UnregisterForRemoteNotifications
@@ -5687,7 +4675,3 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43505)

@@ -28,10 +28,6 @@
 
 • **new PurchaseItemDetails**()
 
-#### Defined in
-
-[ue/ue.d.ts:38989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38989)
-
 • **new PurchaseItemDetails**(`Price`, `Name`, `Type`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Name` | `string` |
 | `Type` | [`PurchaseType`](../enums/ue_ue.PurchaseType.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:38990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38990)
-
 ## Properties
 
 ### Name
 
 • **Name**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:38992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38992)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Price**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:38991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38991)
-
 ___
 
 ### Type
 
 • **Type**: [`PurchaseType`](../enums/ue_ue.PurchaseType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38993)
-
 ___
 
 ### \_\_tid\_PurchaseItemDetails\_\_
 
 • `Private` **\_\_tid\_PurchaseItemDetails\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38999)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38997)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38998)

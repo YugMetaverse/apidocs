@@ -84,10 +84,6 @@
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[constructor](ue_ue.MaterialExpressionVectorParameter.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:47821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47821)
-
 ## Properties
 
 ### ChannelNames
@@ -97,10 +93,6 @@
 #### Inherited from
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[ChannelNames](ue_ue.MaterialExpressionVectorParameter.md#channelnames)
-
-#### Defined in
-
-[ue/ue.d.ts:47812](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47812)
 
 ___
 
@@ -112,10 +104,6 @@ ___
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[DefaultValue](ue_ue.MaterialExpressionVectorParameter.md#defaultvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:47809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47809)
-
 ___
 
 ### Desc
@@ -125,10 +113,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[Desc](ue_ue.MaterialExpressionVectorParameter.md#desc)
-
-#### Defined in
-
-[ue/ue.d.ts:1163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1163)
 
 ___
 
@@ -140,10 +124,6 @@ ___
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[ExpressionGUID](ue_ue.MaterialExpressionVectorParameter.md#expressionguid)
 
-#### Defined in
-
-[ue/ue.d.ts:47797](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47797)
-
 ___
 
 ### Function
@@ -153,10 +133,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[Function](ue_ue.MaterialExpressionVectorParameter.md#function)
-
-#### Defined in
-
-[ue/ue.d.ts:1162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1162)
 
 ___
 
@@ -168,10 +144,6 @@ ___
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[GraphNode](ue_ue.MaterialExpressionVectorParameter.md#graphnode)
 
-#### Defined in
-
-[ue/ue.d.ts:1159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1159)
-
 ___
 
 ### Group
@@ -182,29 +154,17 @@ ___
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[Group](ue_ue.MaterialExpressionVectorParameter.md#group)
 
-#### Defined in
-
-[ue/ue.d.ts:47798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47798)
-
 ___
 
 ### Input
 
 • **Input**: [`ExpressionInput`](ue_ue.ExpressionInput.md)
 
-#### Defined in
-
-[ue/ue.d.ts:47823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47823)
-
 ___
 
 ### MaskChannel
 
 • **MaskChannel**: [`EChannelMaskParameterColor`](../enums/ue_ue.EChannelMaskParameterColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:47822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47822)
 
 ___
 
@@ -216,10 +176,6 @@ ___
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[Material](ue_ue.MaterialExpressionVectorParameter.md#material)
 
-#### Defined in
-
-[ue/ue.d.ts:1161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1161)
-
 ___
 
 ### MaterialExpressionEditorX
@@ -229,10 +185,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[MaterialExpressionEditorX](ue_ue.MaterialExpressionVectorParameter.md#materialexpressioneditorx)
-
-#### Defined in
-
-[ue/ue.d.ts:1157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1157)
 
 ___
 
@@ -244,10 +196,6 @@ ___
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[MaterialExpressionEditorY](ue_ue.MaterialExpressionVectorParameter.md#materialexpressioneditory)
 
-#### Defined in
-
-[ue/ue.d.ts:1158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1158)
-
 ___
 
 ### MaterialExpressionGuid
@@ -257,10 +205,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[MaterialExpressionGuid](ue_ue.MaterialExpressionVectorParameter.md#materialexpressionguid)
-
-#### Defined in
-
-[ue/ue.d.ts:1160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1160)
 
 ___
 
@@ -272,10 +216,6 @@ ___
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[MenuCategories](ue_ue.MaterialExpressionVectorParameter.md#menucategories)
 
-#### Defined in
-
-[ue/ue.d.ts:1175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1175)
-
 ___
 
 ### Outputs
@@ -285,10 +225,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[Outputs](ue_ue.MaterialExpressionVectorParameter.md#outputs)
-
-#### Defined in
-
-[ue/ue.d.ts:1176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1176)
 
 ___
 
@@ -300,10 +236,6 @@ ___
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[ParameterName](ue_ue.MaterialExpressionVectorParameter.md#parametername)
 
-#### Defined in
-
-[ue/ue.d.ts:47796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47796)
-
 ___
 
 ### PrimitiveDataIndex
@@ -313,10 +245,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[PrimitiveDataIndex](ue_ue.MaterialExpressionVectorParameter.md#primitivedataindex)
-
-#### Defined in
-
-[ue/ue.d.ts:47811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47811)
 
 ___
 
@@ -328,19 +256,11 @@ ___
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[SortPriority](ue_ue.MaterialExpressionVectorParameter.md#sortpriority)
 
-#### Defined in
-
-[ue/ue.d.ts:47799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47799)
-
 ___
 
 ### \_\_tid\_MaterialExpressionChannelMaskParameter\_\_
 
 • **\_\_tid\_MaterialExpressionChannelMaskParameter\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:47828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47828)
 
 ___
 
@@ -352,10 +272,6 @@ ___
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[__tid_MaterialExpressionParameter__](ue_ue.MaterialExpressionVectorParameter.md#__tid_materialexpressionparameter__)
 
-#### Defined in
-
-[ue/ue.d.ts:47804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47804)
-
 ___
 
 ### \_\_tid\_MaterialExpressionVectorParameter\_\_
@@ -365,10 +281,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[__tid_MaterialExpressionVectorParameter__](ue_ue.MaterialExpressionVectorParameter.md#__tid_materialexpressionvectorparameter__)
-
-#### Defined in
-
-[ue/ue.d.ts:47817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47817)
 
 ___
 
@@ -380,10 +292,6 @@ ___
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[__tid_MaterialExpression__](ue_ue.MaterialExpressionVectorParameter.md#__tid_materialexpression__)
 
-#### Defined in
-
-[ue/ue.d.ts:1181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1181)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -393,10 +301,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[__tid_Object__](ue_ue.MaterialExpressionVectorParameter.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -408,10 +312,6 @@ ___
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[bCollapsed](ue_ue.MaterialExpressionVectorParameter.md#bcollapsed)
 
-#### Defined in
-
-[ue/ue.d.ts:1171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1171)
-
 ___
 
 ### bCommentBubbleVisible
@@ -421,10 +321,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[bCommentBubbleVisible](ue_ue.MaterialExpressionVectorParameter.md#bcommentbubblevisible)
-
-#### Defined in
-
-[ue/ue.d.ts:1167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1167)
 
 ___
 
@@ -436,10 +332,6 @@ ___
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[bHidePreviewWindow](ue_ue.MaterialExpressionVectorParameter.md#bhidepreviewwindow)
 
-#### Defined in
-
-[ue/ue.d.ts:1170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1170)
-
 ___
 
 ### bIsParameterExpression
@@ -449,10 +341,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[bIsParameterExpression](ue_ue.MaterialExpressionVectorParameter.md#bisparameterexpression)
-
-#### Defined in
-
-[ue/ue.d.ts:1166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1166)
 
 ___
 
@@ -464,10 +352,6 @@ ___
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[bNeedToUpdatePreview](ue_ue.MaterialExpressionVectorParameter.md#bneedtoupdatepreview)
 
-#### Defined in
-
-[ue/ue.d.ts:1165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1165)
-
 ___
 
 ### bRealtimePreview
@@ -477,10 +361,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[bRealtimePreview](ue_ue.MaterialExpressionVectorParameter.md#brealtimepreview)
-
-#### Defined in
-
-[ue/ue.d.ts:1164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1164)
 
 ___
 
@@ -492,10 +372,6 @@ ___
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[bShaderInputData](ue_ue.MaterialExpressionVectorParameter.md#bshaderinputdata)
 
-#### Defined in
-
-[ue/ue.d.ts:1172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1172)
-
 ___
 
 ### bShowInputs
@@ -505,10 +381,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[bShowInputs](ue_ue.MaterialExpressionVectorParameter.md#bshowinputs)
-
-#### Defined in
-
-[ue/ue.d.ts:1173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1173)
 
 ___
 
@@ -520,10 +392,6 @@ ___
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[bShowMaskColorsOnPin](ue_ue.MaterialExpressionVectorParameter.md#bshowmaskcolorsonpin)
 
-#### Defined in
-
-[ue/ue.d.ts:1169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1169)
-
 ___
 
 ### bShowOutputNameOnPin
@@ -533,10 +401,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[bShowOutputNameOnPin](ue_ue.MaterialExpressionVectorParameter.md#bshowoutputnameonpin)
-
-#### Defined in
-
-[ue/ue.d.ts:1168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1168)
 
 ___
 
@@ -548,10 +412,6 @@ ___
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[bShowOutputs](ue_ue.MaterialExpressionVectorParameter.md#bshowoutputs)
 
-#### Defined in
-
-[ue/ue.d.ts:1174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1174)
-
 ___
 
 ### bUseCustomPrimitiveData
@@ -561,10 +421,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[bUseCustomPrimitiveData](ue_ue.MaterialExpressionVectorParameter.md#busecustomprimitivedata)
-
-#### Defined in
-
-[ue/ue.d.ts:47810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47810)
 
 ## Methods
 
@@ -590,10 +446,6 @@ ___
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[CreateDefaultSubobject](ue_ue.MaterialExpressionVectorParameter.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -614,10 +466,6 @@ ___
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[ExecuteUbergraph](ue_ue.MaterialExpressionVectorParameter.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -631,10 +479,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[GetClass](ue_ue.MaterialExpressionVectorParameter.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -650,10 +494,6 @@ ___
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[GetName](ue_ue.MaterialExpressionVectorParameter.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -668,10 +508,6 @@ ___
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[GetOuter](ue_ue.MaterialExpressionVectorParameter.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -685,10 +521,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[GetWorld](ue_ue.MaterialExpressionVectorParameter.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -711,10 +543,6 @@ ___
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[Find](ue_ue.MaterialExpressionVectorParameter.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:47825](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47825)
-
 ___
 
 ### Load
@@ -735,10 +563,6 @@ ___
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[Load](ue_ue.MaterialExpressionVectorParameter.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:47826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47826)
-
 ___
 
 ### StaticClass
@@ -752,7 +576,3 @@ ___
 #### Overrides
 
 [MaterialExpressionVectorParameter](ue_ue.MaterialExpressionVectorParameter.md).[StaticClass](ue_ue.MaterialExpressionVectorParameter.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:47824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47824)

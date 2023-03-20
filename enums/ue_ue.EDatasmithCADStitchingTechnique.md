@@ -20,19 +20,11 @@
 
 • **EDatasmithCADStitchingTechnique\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29474)
-
 ___
 
 ### StitchingHeal
 
 • **StitchingHeal** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29474)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **StitchingNone** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29474)
-
 ___
 
 ### StitchingSew
 
 • **StitchingSew** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29474)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29474)

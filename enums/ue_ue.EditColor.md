@@ -27,19 +27,11 @@
 
 • **Blue** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32324)
-
 ___
 
 ### Cyan
 
 • **Cyan** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32324)
 
 ___
 
@@ -47,19 +39,11 @@ ___
 
 • **EditColor\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32324)
-
 ___
 
 ### Green
 
 • **Green** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32324)
 
 ___
 
@@ -67,19 +51,11 @@ ___
 
 • **Indigo** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32324)
-
 ___
 
 ### Magenta
 
 • **Magenta** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32324)
 
 ___
 
@@ -87,19 +63,11 @@ ___
 
 • **Orange** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32324)
-
 ___
 
 ### Pink
 
 • **Pink** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32324)
 
 ___
 
@@ -107,19 +75,11 @@ ___
 
 • **Red** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32324)
-
 ___
 
 ### Violet
 
 • **Violet** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32324)
 
 ___
 
@@ -127,16 +87,8 @@ ___
 
 • **Yellow** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32324)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32324)

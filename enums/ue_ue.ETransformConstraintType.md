@@ -21,19 +21,11 @@
 
 • **ETransformConstraintType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18281)
-
 ___
 
 ### Parent
 
 • **Parent** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18281)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Rotation** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18281)
-
 ___
 
 ### Scale
 
 • **Scale** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18281)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Translation** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18281)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18281)

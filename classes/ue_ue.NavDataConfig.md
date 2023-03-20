@@ -50,10 +50,6 @@
 
 [NavAgentProperties](ue_ue.NavAgentProperties.md).[constructor](ue_ue.NavAgentProperties.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:13352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13352)
-
 • **new NavDataConfig**(`Name`, `Color`, `DefaultQueryExtent`, `NavigationDataClass`, `NavDataClass`)
 
 #### Parameters
@@ -70,10 +66,6 @@
 
 [NavAgentProperties](ue_ue.NavAgentProperties.md).[constructor](ue_ue.NavAgentProperties.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:13353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13353)
-
 ## Properties
 
 ### AgentHeight
@@ -83,10 +75,6 @@
 #### Inherited from
 
 [NavAgentProperties](ue_ue.NavAgentProperties.md).[AgentHeight](ue_ue.NavAgentProperties.md#agentheight)
-
-#### Defined in
-
-[ue/ue.d.ts:5453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5453)
 
 ___
 
@@ -98,10 +86,6 @@ ___
 
 [NavAgentProperties](ue_ue.NavAgentProperties.md).[AgentRadius](ue_ue.NavAgentProperties.md#agentradius)
 
-#### Defined in
-
-[ue/ue.d.ts:5452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5452)
-
 ___
 
 ### AgentStepHeight
@@ -112,19 +96,11 @@ ___
 
 [NavAgentProperties](ue_ue.NavAgentProperties.md).[AgentStepHeight](ue_ue.NavAgentProperties.md#agentstepheight)
 
-#### Defined in
-
-[ue/ue.d.ts:5454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5454)
-
 ___
 
 ### Color
 
 • **Color**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:13355](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13355)
 
 ___
 
@@ -132,29 +108,17 @@ ___
 
 • **DefaultQueryExtent**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:13356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13356)
-
 ___
 
 ### Name
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:13354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13354)
-
 ___
 
 ### NavDataClass
 
 • **NavDataClass**: [`TSoftClassPtr`](../modules/ue_puerts.md#tsoftclassptr)<[`Actor`](ue_ue.Actor.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:13358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13358)
 
 ___
 
@@ -166,19 +130,11 @@ ___
 
 [NavAgentProperties](ue_ue.NavAgentProperties.md).[NavWalkingSearchHeightScale](ue_ue.NavAgentProperties.md#navwalkingsearchheightscale)
 
-#### Defined in
-
-[ue/ue.d.ts:5455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5455)
-
 ___
 
 ### NavigationDataClass
 
 • **NavigationDataClass**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:13357](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13357)
 
 ___
 
@@ -190,19 +146,11 @@ ___
 
 [NavAgentProperties](ue_ue.NavAgentProperties.md).[PreferredNavData](ue_ue.NavAgentProperties.md#preferrednavdata)
 
-#### Defined in
-
-[ue/ue.d.ts:5456](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5456)
-
 ___
 
 ### \_\_tid\_NavDataConfig\_\_
 
 • `Private` **\_\_tid\_NavDataConfig\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:13364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13364)
 
 ___
 
@@ -214,10 +162,6 @@ ___
 
 [NavAgentProperties](ue_ue.NavAgentProperties.md).[bCanCrouch](ue_ue.NavAgentProperties.md#bcancrouch)
 
-#### Defined in
-
-[ue/ue.d.ts:5436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5436)
-
 ___
 
 ### bCanFly
@@ -227,10 +171,6 @@ ___
 #### Inherited from
 
 [NavAgentProperties](ue_ue.NavAgentProperties.md).[bCanFly](ue_ue.NavAgentProperties.md#bcanfly)
-
-#### Defined in
-
-[ue/ue.d.ts:5440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5440)
 
 ___
 
@@ -242,10 +182,6 @@ ___
 
 [NavAgentProperties](ue_ue.NavAgentProperties.md).[bCanJump](ue_ue.NavAgentProperties.md#bcanjump)
 
-#### Defined in
-
-[ue/ue.d.ts:5437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5437)
-
 ___
 
 ### bCanSwim
@@ -256,10 +192,6 @@ ___
 
 [NavAgentProperties](ue_ue.NavAgentProperties.md).[bCanSwim](ue_ue.NavAgentProperties.md#bcanswim)
 
-#### Defined in
-
-[ue/ue.d.ts:5439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5439)
-
 ___
 
 ### bCanWalk
@@ -269,10 +201,6 @@ ___
 #### Inherited from
 
 [NavAgentProperties](ue_ue.NavAgentProperties.md).[bCanWalk](ue_ue.NavAgentProperties.md#bcanwalk)
-
-#### Defined in
-
-[ue/ue.d.ts:5438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5438)
 
 ## Methods
 
@@ -292,10 +220,6 @@ use StaticStruct instead.
 
 [NavAgentProperties](ue_ue.NavAgentProperties.md).[StaticClass](ue_ue.NavAgentProperties.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13362)
-
 ___
 
 ### StaticStruct
@@ -309,7 +233,3 @@ ___
 #### Overrides
 
 [NavAgentProperties](ue_ue.NavAgentProperties.md).[StaticStruct](ue_ue.NavAgentProperties.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:13363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13363)

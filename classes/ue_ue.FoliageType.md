@@ -163,19 +163,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:35904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35904)
-
 ## Properties
 
 ### AlignMaxAngle
 
 • **AlignMaxAngle**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35921)
 
 ___
 
@@ -183,19 +175,11 @@ ___
 
 • **AlignToNormal**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35920)
-
 ___
 
 ### AverageSpreadDistance
 
 • **AverageSpreadDistance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35961)
 
 ___
 
@@ -203,19 +187,11 @@ ___
 
 • **BodyInstance**: [`BodyInstance`](ue_ue.BodyInstance.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35949)
-
 ___
 
 ### CastShadow
 
 • **CastShadow**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35938)
 
 ___
 
@@ -223,19 +199,11 @@ ___
 
 • **ChangeCount**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35973)
-
 ___
 
 ### CollisionRadius
 
 • **CollisionRadius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35957)
 
 ___
 
@@ -243,19 +211,11 @@ ___
 
 • **CollisionScale**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35932)
-
 ___
 
 ### CollisionWithWorld
 
 • **CollisionWithWorld**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35931)
 
 ___
 
@@ -263,19 +223,11 @@ ___
 
 • **CullDistance**: [`Int32Interval`](ue_ue.Int32Interval.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35936)
-
 ___
 
 ### CustomDepthStencilValue
 
 • **CustomDepthStencilValue**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35953)
 
 ___
 
@@ -283,19 +235,11 @@ ___
 
 • **CustomNavigableGeometry**: [`EHasCustomNavigableGeometry`](../enums/ue_ue.EHasCustomNavigableGeometry.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35950)
-
 ___
 
 ### Density
 
 • **Density**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35906)
 
 ___
 
@@ -303,19 +247,11 @@ ___
 
 • **DensityAdjustmentFactor**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35907)
-
 ___
 
 ### DistributionSeed
 
 • **DistributionSeed**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35964](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35964)
 
 ___
 
@@ -323,19 +259,11 @@ ___
 
 • **EndCullDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:36004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36004)
-
 ___
 
 ### ExclusionLandscapeLayers
 
 • **ExclusionLandscapeLayers**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:35928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35928)
 
 ___
 
@@ -343,19 +271,11 @@ ___
 
 • **GroundSlope**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:36009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36009)
-
 ___
 
 ### GroundSlopeAngle
 
 • **GroundSlopeAngle**: [`FloatInterval`](ue_ue.FloatInterval.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35924)
 
 ___
 
@@ -363,19 +283,11 @@ ___
 
 • **Height**: [`FloatInterval`](ue_ue.FloatInterval.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35925)
-
 ___
 
 ### HeightMax
 
 • **HeightMax**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:36000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36000)
 
 ___
 
@@ -383,19 +295,11 @@ ___
 
 • **HeightMin**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35999)
-
 ___
 
 ### HiddenEditorViews
 
 • **HiddenEditorViews**: `bigint`
-
-#### Defined in
-
-[ue/ue.d.ts:35955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35955)
 
 ___
 
@@ -403,19 +307,11 @@ ___
 
 • **InitialSeedDensity**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35960)
-
 ___
 
 ### IsSelected
 
 • **IsSelected**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35956)
 
 ___
 
@@ -423,19 +319,11 @@ ___
 
 • **LandscapeLayer**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:35930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35930)
-
 ___
 
 ### LandscapeLayers
 
 • **LandscapeLayers**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:35926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35926)
 
 ___
 
@@ -443,19 +331,11 @@ ___
 
 • **LightingChannels**: [`LightingChannels`](ue_ue.LightingChannels.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35951)
-
 ___
 
 ### LightmapType
 
 • **LightmapType**: [`ELightmapType`](../enums/ue_ue.ELightmapType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35947)
 
 ___
 
@@ -463,19 +343,11 @@ ___
 
 • **LockScaleX**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:36006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36006)
-
 ___
 
 ### LockScaleY
 
 • **LockScaleY**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36007)
 
 ___
 
@@ -483,19 +355,11 @@ ___
 
 • **LockScaleZ**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:36008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36008)
-
 ___
 
 ### LowBoundOriginRadius
 
 • **LowBoundOriginRadius**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35934)
 
 ___
 
@@ -503,19 +367,11 @@ ___
 
 • **MaxAge**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35969)
-
 ___
 
 ### MaxInitialAge
 
 • **MaxInitialAge**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35968)
 
 ___
 
@@ -523,19 +379,11 @@ ___
 
 • **MaxInitialSeedOffset**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35965](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35965)
-
 ___
 
 ### MaxScale
 
 • **MaxScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:36012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36012)
 
 ___
 
@@ -543,19 +391,11 @@ ___
 
 • **MeshBounds**: [`BoxSphereBounds`](ue_ue.BoxSphereBounds.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35933)
-
 ___
 
 ### MinGroundSlope
 
 • **MinGroundSlope**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:36010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36010)
 
 ___
 
@@ -563,19 +403,11 @@ ___
 
 • **MinScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:36011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36011)
-
 ___
 
 ### MinimumExclusionLayerWeight
 
 • **MinimumExclusionLayerWeight**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35929)
 
 ___
 
@@ -583,19 +415,11 @@ ___
 
 • **MinimumLayerWeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35927)
-
 ___
 
 ### Mobility
 
 • **Mobility**: [`EComponentMobility`](../enums/ue_ue.EComponentMobility.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35935)
 
 ___
 
@@ -603,19 +427,11 @@ ___
 
 • **NumSteps**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35959)
-
 ___
 
 ### OverlapPriority
 
 • **OverlapPriority**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35970)
 
 ___
 
@@ -623,19 +439,11 @@ ___
 
 • **OverriddenLightMapRes**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35946)
-
 ___
 
 ### ProceduralScale
 
 • **ProceduralScale**: [`FloatInterval`](ue_ue.FloatInterval.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35971)
 
 ___
 
@@ -643,19 +451,11 @@ ___
 
 • **Radius**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35908)
-
 ___
 
 ### RandomPitchAngle
 
 • **RandomPitchAngle**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35923)
 
 ___
 
@@ -663,19 +463,11 @@ ___
 
 • **RandomYaw**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35922)
-
 ___
 
 ### ReapplyAlignToNormal
 
 • **ReapplyAlignToNormal**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35976)
 
 ___
 
@@ -683,19 +475,11 @@ ___
 
 • **ReapplyCollisionWithWorld**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35987)
-
 ___
 
 ### ReapplyDensity
 
 • **ReapplyDensity**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35974)
 
 ___
 
@@ -703,19 +487,11 @@ ___
 
 • **ReapplyGroundSlope**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35983)
-
 ___
 
 ### ReapplyHeight
 
 • **ReapplyHeight**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35984)
 
 ___
 
@@ -723,19 +499,11 @@ ___
 
 • **ReapplyLandscapeLayers**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35985)
-
 ___
 
 ### ReapplyRadius
 
 • **ReapplyRadius**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35975](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35975)
 
 ___
 
@@ -743,19 +511,11 @@ ___
 
 • **ReapplyRandomPitchAngle**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35982)
-
 ___
 
 ### ReapplyRandomYaw
 
 • **ReapplyRandomYaw**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35977)
 
 ___
 
@@ -763,19 +523,11 @@ ___
 
 • **ReapplyScaleX**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35979)
-
 ___
 
 ### ReapplyScaleY
 
 • **ReapplyScaleY**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35980)
 
 ___
 
@@ -783,19 +535,11 @@ ___
 
 • **ReapplyScaleZ**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35981)
-
 ___
 
 ### ReapplyScaling
 
 • **ReapplyScaling**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35978)
 
 ___
 
@@ -803,19 +547,11 @@ ___
 
 • **ReapplyVertexColorMask**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35988)
-
 ___
 
 ### ReapplyZOffset
 
 • **ReapplyZOffset**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35986](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35986)
 
 ___
 
@@ -823,19 +559,11 @@ ___
 
 • **RuntimeVirtualTextures**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`RuntimeVirtualTexture`](ue_ue.RuntimeVirtualTexture.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:35990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35990)
-
 ___
 
 ### ScaleCurve
 
 • **ScaleCurve**: [`RuntimeFloatCurve`](ue_ue.RuntimeFloatCurve.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35972)
 
 ___
 
@@ -843,19 +571,11 @@ ___
 
 • **ScaleMaxX**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35996)
-
 ___
 
 ### ScaleMaxY
 
 • **ScaleMaxY**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35997)
 
 ___
 
@@ -863,19 +583,11 @@ ___
 
 • **ScaleMaxZ**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35998)
-
 ___
 
 ### ScaleMinX
 
 • **ScaleMinX**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35993)
 
 ___
 
@@ -883,19 +595,11 @@ ___
 
 • **ScaleMinY**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35994)
-
 ___
 
 ### ScaleMinZ
 
 • **ScaleMinZ**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35995)
 
 ___
 
@@ -903,19 +607,11 @@ ___
 
 • **ScaleX**: [`FloatInterval`](ue_ue.FloatInterval.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35912)
-
 ___
 
 ### ScaleY
 
 • **ScaleY**: [`FloatInterval`](ue_ue.FloatInterval.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35913)
 
 ___
 
@@ -923,19 +619,11 @@ ___
 
 • **ScaleZ**: [`FloatInterval`](ue_ue.FloatInterval.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35914)
-
 ___
 
 ### Scaling
 
 • **Scaling**: [`EFoliageScaling`](../enums/ue_ue.EFoliageScaling.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35911)
 
 ___
 
@@ -943,19 +631,11 @@ ___
 
 • **SeedsPerStep**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35963)
-
 ___
 
 ### ShadeRadius
 
 • **ShadeRadius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35958)
 
 ___
 
@@ -963,19 +643,11 @@ ___
 
 • **SingleInstanceModeRadius**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35910)
-
 ___
 
 ### SpreadVariance
 
 • **SpreadVariance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35962)
 
 ___
 
@@ -983,19 +655,11 @@ ___
 
 • **StartCullDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:36003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36003)
-
 ___
 
 ### TranslucencySortPriority
 
 • **TranslucencySortPriority**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35954)
 
 ___
 
@@ -1003,19 +667,11 @@ ___
 
 • **UniformScale**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:36005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36005)
-
 ___
 
 ### UpdateGuid
 
 • **UpdateGuid**: [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35905)
 
 ___
 
@@ -1023,19 +679,11 @@ ___
 
 • **VertexColorMask**: [`FoliageVertexColorMask`](../enums/ue_ue.FoliageVertexColorMask.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35916)
-
 ___
 
 ### VertexColorMaskByChannel
 
 • **VertexColorMaskByChannel**: [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<[`FoliageVertexColorChannelMask`](ue_ue.FoliageVertexColorChannelMask.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:35915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35915)
 
 ___
 
@@ -1043,19 +691,11 @@ ___
 
 • **VertexColorMaskInvert**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35918)
-
 ___
 
 ### VertexColorMaskThreshold
 
 • **VertexColorMaskThreshold**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35917)
 
 ___
 
@@ -1063,19 +703,11 @@ ___
 
 • **VirtualTextureCullMips**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35991)
-
 ___
 
 ### VirtualTextureRenderPassType
 
 • **VirtualTextureRenderPassType**: [`ERuntimeVirtualTextureMainPassType`](../enums/ue_ue.ERuntimeVirtualTextureMainPassType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35992)
 
 ___
 
@@ -1083,19 +715,11 @@ ___
 
 • **ZOffset**: [`FloatInterval`](ue_ue.FloatInterval.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35919)
-
 ___
 
 ### ZOffsetMax
 
 • **ZOffsetMax**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:36002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36002)
 
 ___
 
@@ -1103,19 +727,11 @@ ___
 
 • **ZOffsetMin**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:36001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36001)
-
 ___
 
 ### \_\_tid\_FoliageType\_\_
 
 • **\_\_tid\_FoliageType\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36017)
 
 ___
 
@@ -1127,19 +743,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bAffectDistanceFieldLighting
 
 • **bAffectDistanceFieldLighting**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35940)
 
 ___
 
@@ -1147,19 +755,11 @@ ___
 
 • **bAffectDynamicIndirectLighting**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35939)
-
 ___
 
 ### bCanGrowInShade
 
 • **bCanGrowInShade**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35966)
 
 ___
 
@@ -1167,19 +767,11 @@ ___
 
 • **bCastDynamicShadow**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35941)
-
 ___
 
 ### bCastShadowAsTwoSided
 
 • **bCastShadowAsTwoSided**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35943)
 
 ___
 
@@ -1187,19 +779,11 @@ ___
 
 • **bCastStaticShadow**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35942)
-
 ___
 
 ### bEnableDensityScaling
 
 • **bEnableDensityScaling**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35989)
 
 ___
 
@@ -1207,19 +791,11 @@ ___
 
 • **bEnableStaticLighting**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35937)
-
 ___
 
 ### bOverrideLightMapRes
 
 • **bOverrideLightMapRes**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35945)
 
 ___
 
@@ -1227,19 +803,11 @@ ___
 
 • **bReceivesDecals**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35944)
-
 ___
 
 ### bRenderCustomDepth
 
 • **bRenderCustomDepth**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35952)
 
 ___
 
@@ -1247,29 +815,17 @@ ___
 
 • **bSingleInstanceModeOverrideRadius**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35909)
-
 ___
 
 ### bSpawnsInShade
 
 • **bSpawnsInShade**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35967)
-
 ___
 
 ### bUseAsOccluder
 
 • **bUseAsOccluder**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35948)
 
 ## Methods
 
@@ -1295,10 +851,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -1319,10 +871,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -1336,10 +884,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -1355,10 +899,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -1373,10 +913,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -1390,10 +926,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -1416,10 +948,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:36014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36014)
-
 ___
 
 ### Load
@@ -1440,10 +968,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:36015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36015)
-
 ___
 
 ### StaticClass
@@ -1457,7 +981,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:36013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36013)

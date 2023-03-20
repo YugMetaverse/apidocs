@@ -120,19 +120,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:45043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45043)
-
 ## Properties
 
 ### ActiveSnapLayerIndex
 
 • **ActiveSnapLayerIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:45083](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45083)
 
 ___
 
@@ -140,19 +132,11 @@ ___
 
 • **ActorSnapDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:45086](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45086)
-
 ___
 
 ### ActorSnapScale
 
 • **ActorSnapScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:45085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45085)
 
 ___
 
@@ -160,19 +144,11 @@ ___
 
 • **AspectRatioAxisConstraint**: [`EAspectRatioAxisConstraint`](../enums/ue_ue.EAspectRatioAxisConstraint.md)
 
-#### Defined in
-
-[ue/ue.d.ts:45094](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45094)
-
 ___
 
 ### BSPSelectionHighlightIntensity
 
 • **BSPSelectionHighlightIntensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:45102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45102)
 
 ___
 
@@ -180,19 +156,11 @@ ___
 
 • **BackgroundDropDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:45106](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45106)
-
 ___
 
 ### BillboardScale
 
 • **BillboardScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:45108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45108)
 
 ___
 
@@ -200,19 +168,11 @@ ___
 
 • **CameraPreviewSize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:45105](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45105)
-
 ___
 
 ### CameraSpeed
 
 • **CameraSpeed**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:45053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45053)
 
 ___
 
@@ -220,19 +180,11 @@ ___
 
 • **CameraSpeedScalar**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:45054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45054)
-
 ___
 
 ### CommonRotGridSizes
 
 • **CommonRotGridSizes**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:45074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45074)
 
 ___
 
@@ -240,19 +192,11 @@ ___
 
 • **CurrentPosGridSize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:45089](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45089)
-
 ___
 
 ### CurrentRotGridMode
 
 • **CurrentRotGridMode**: [`ERotationGridMode`](../enums/ue_ue.ERotationGridMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:45093](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45093)
 
 ___
 
@@ -260,19 +204,11 @@ ___
 
 • **CurrentRotGridSize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:45090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45090)
-
 ___
 
 ### CurrentScalingGridSize
 
 • **CurrentScalingGridSize**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:45091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45091)
 
 ___
 
@@ -280,19 +216,11 @@ ___
 
 • **DecimalGridIntervals**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:45071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45071)
-
 ___
 
 ### DecimalGridSizes
 
 • **DecimalGridSizes**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:45070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45070)
 
 ___
 
@@ -300,19 +228,11 @@ ___
 
 • **DivisionsOf360RotGridSizes**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:45075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45075)
-
 ___
 
 ### FlightCameraControlType
 
 • **FlightCameraControlType**: [`EWASDType`](../enums/ue_ue.EWASDType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:45044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45044)
 
 ___
 
@@ -320,19 +240,11 @@ ___
 
 • **FoliageEditorControlType**: [`ELandscapeFoliageEditorControlType`](../enums/ue_ue.ELandscapeFoliageEditorControlType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:45046](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45046)
-
 ___
 
 ### GridEnabled
 
 • **GridEnabled**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45077)
 
 ___
 
@@ -340,19 +252,11 @@ ___
 
 • **LandscapeEditorControlType**: [`ELandscapeFoliageEditorControlType`](../enums/ue_ue.ELandscapeFoliageEditorControlType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:45045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45045)
-
 ___
 
 ### MeasuringToolUnits
 
 • **MeasuringToolUnits**: [`EMeasuringToolUnits`](../enums/ue_ue.EMeasuringToolUnits.md)
-
-#### Defined in
-
-[ue/ue.d.ts:45111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45111)
 
 ___
 
@@ -360,19 +264,11 @@ ___
 
 • **MouseScrollCameraSpeed**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:45055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45055)
-
 ___
 
 ### MouseSensitivty
 
 • **MouseSensitivty**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:45056](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45056)
 
 ___
 
@@ -380,19 +276,11 @@ ___
 
 • **PerInstanceSettings**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`LevelEditorViewportInstanceSettingsKeyValuePair`](ue_ue.LevelEditorViewportInstanceSettingsKeyValuePair.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:45112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45112)
-
 ___
 
 ### Pow2GridIntervals
 
 • **Pow2GridIntervals**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:45073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45073)
 
 ___
 
@@ -400,19 +288,11 @@ ___
 
 • **Pow2GridSizes**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:45072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45072)
-
 ___
 
 ### PreserveNonUniformScale
 
 • **PreserveNonUniformScale**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45092)
 
 ___
 
@@ -420,19 +300,11 @@ ___
 
 • **PreviewMeshes**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SoftObjectPath`](ue_ue.SoftObjectPath.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:45107](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45107)
-
 ___
 
 ### RotGridEnabled
 
 • **RotGridEnabled**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45078)
 
 ___
 
@@ -440,19 +312,11 @@ ___
 
 • **ScalingGridSizes**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:45076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45076)
-
 ___
 
 ### ScrollGestureDirectionFor3DViewports
 
 • **ScrollGestureDirectionFor3DViewports**: [`EScrollGestureDirection`](../enums/ue_ue.EScrollGestureDirection.md)
-
-#### Defined in
-
-[ue/ue.d.ts:45064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45064)
 
 ___
 
@@ -460,19 +324,11 @@ ___
 
 • **ScrollGestureDirectionForOrthoViewports**: [`EScrollGestureDirection`](../enums/ue_ue.EScrollGestureDirection.md)
 
-#### Defined in
-
-[ue/ue.d.ts:45065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45065)
-
 ___
 
 ### SelectionHighlightIntensity
 
 • **SelectionHighlightIntensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:45101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45101)
 
 ___
 
@@ -480,19 +336,11 @@ ___
 
 • **SnapDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:45088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45088)
-
 ___
 
 ### SnapScaleEnabled
 
 • **SnapScaleEnabled**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45079)
 
 ___
 
@@ -500,29 +348,17 @@ ___
 
 • **SnapToSurface**: [`SnapToSurfaceSettings`](ue_ue.SnapToSurfaceSettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:45080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45080)
-
 ___
 
 ### TransformWidgetSizeAdjustment
 
 • **TransformWidgetSizeAdjustment**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:45109](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45109)
-
 ___
 
 ### \_\_tid\_LevelEditorViewportSettings\_\_
 
 • **\_\_tid\_LevelEditorViewportSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45117)
 
 ___
 
@@ -534,19 +370,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bAllowArcballRotate
 
 • **bAllowArcballRotate**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45050](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45050)
 
 ___
 
@@ -554,19 +382,11 @@ ___
 
 • **bAllowScreenRotate**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45051](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45051)
-
 ___
 
 ### bAllowTranslateRotateZWidget
 
 • **bAllowTranslateRotateZWidget**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45049)
 
 ___
 
@@ -574,19 +394,11 @@ ___
 
 • **bCenterZoomAroundCursor**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45048](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45048)
-
 ___
 
 ### bClickBSPSelectsBrush
 
 • **bClickBSPSelectsBrush**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45052)
 
 ___
 
@@ -594,19 +406,11 @@ ___
 
 • **bEnableActorSnap**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45084](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45084)
-
 ___
 
 ### bEnableLayerSnap
 
 • **bEnableLayerSnap**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45082](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45082)
 
 ___
 
@@ -614,19 +418,11 @@ ___
 
 • **bEnableViewportCameraToUpdateFromPIV**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45103)
-
 ___
 
 ### bEnableViewportHoverFeedback
 
 • **bEnableViewportHoverFeedback**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45095](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45095)
 
 ___
 
@@ -634,19 +430,11 @@ ___
 
 • **bHighlightWithBrackets**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45096](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45096)
-
 ___
 
 ### bInvertMiddleMousePan
 
 • **bInvertMiddleMousePan**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45059)
 
 ___
 
@@ -654,19 +442,11 @@ ___
 
 • **bInvertMouseLookYAxis**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45057)
-
 ___
 
 ### bInvertOrbitYAxis
 
 • **bInvertOrbitYAxis**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45058)
 
 ___
 
@@ -674,19 +454,11 @@ ___
 
 • **bInvertRightMouseDollyYAxis**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45060)
-
 ___
 
 ### bLevelEditorJoystickControls
 
 • **bLevelEditorJoystickControls**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45066)
 
 ___
 
@@ -694,19 +466,11 @@ ___
 
 • **bLevelStreamingVolumePrevis**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45062)
-
 ___
 
 ### bOrbitCameraAroundSelection
 
 • **bOrbitCameraAroundSelection**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45068)
 
 ___
 
@@ -714,19 +478,11 @@ ___
 
 • **bPanMovesCanvas**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45047)
-
 ___
 
 ### bPreviewSelectedCameras
 
 • **bPreviewSelectedCameras**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45104)
 
 ___
 
@@ -734,19 +490,11 @@ ___
 
 • **bSaveEngineStats**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45110)
-
 ___
 
 ### bSnapVertices
 
 • **bSnapVertices**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45087)
 
 ___
 
@@ -754,19 +502,11 @@ ___
 
 • **bStrictBoxSelection**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45098)
-
 ___
 
 ### bTransparentBoxSelection
 
 • **bTransparentBoxSelection**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45099](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45099)
 
 ___
 
@@ -774,19 +514,11 @@ ___
 
 • **bUseAbsoluteTranslation**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45061)
-
 ___
 
 ### bUseDistanceScaledCameraSpeed
 
 • **bUseDistanceScaledCameraSpeed**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45067](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45067)
 
 ___
 
@@ -794,19 +526,11 @@ ___
 
 • **bUseLinkedOrthographicViewports**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45097](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45097)
-
 ___
 
 ### bUsePercentageBasedScaling
 
 • **bUsePercentageBasedScaling**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45081)
 
 ___
 
@@ -814,29 +538,17 @@ ___
 
 • **bUsePowerOf2SnapSize**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45069)
-
 ___
 
 ### bUseSelectionOutline
 
 • **bUseSelectionOutline**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45100](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45100)
-
 ___
 
 ### bUseUE3OrbitControls
 
 • **bUseUE3OrbitControls**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45063)
 
 ## Methods
 
@@ -862,10 +574,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -886,10 +594,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -903,10 +607,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -922,10 +622,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -940,10 +636,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -957,10 +649,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -983,10 +671,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:45114](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45114)
-
 ___
 
 ### Load
@@ -1007,10 +691,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:45115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45115)
-
 ___
 
 ### StaticClass
@@ -1024,7 +704,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:45113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45113)

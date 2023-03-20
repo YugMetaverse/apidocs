@@ -29,10 +29,6 @@
 
 • **new EditedDocumentInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:4394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4394)
-
 • **new EditedDocumentInfo**(`EditedObjectPath`, `SavedViewOffset`, `SavedZoomAmount`, `EditedObject`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `SavedZoomAmount` | `number` |
 | `EditedObject` | [`Object`](ue_ue.Object.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:4395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4395)
-
 ## Properties
 
 ### EditedObject
 
 • **EditedObject**: [`Object`](ue_ue.Object.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4399)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **EditedObjectPath**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4396)
-
 ___
 
 ### SavedViewOffset
 
 • **SavedViewOffset**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4397)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **SavedZoomAmount**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4398)
-
 ___
 
 ### \_\_tid\_EditedDocumentInfo\_\_
 
 • `Private` **\_\_tid\_EditedDocumentInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4405)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4403)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4404)

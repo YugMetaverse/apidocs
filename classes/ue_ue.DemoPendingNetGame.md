@@ -54,10 +54,6 @@
 
 [PendingNetGame](ue_ue.PendingNetGame.md).[constructor](ue_ue.PendingNetGame.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:30677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30677)
-
 ## Properties
 
 ### DemoNetDriver
@@ -67,10 +63,6 @@
 #### Inherited from
 
 [PendingNetGame](ue_ue.PendingNetGame.md).[DemoNetDriver](ue_ue.PendingNetGame.md#demonetdriver)
-
-#### Defined in
-
-[ue/ue.d.ts:30668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30668)
 
 ___
 
@@ -82,19 +74,11 @@ ___
 
 [PendingNetGame](ue_ue.PendingNetGame.md).[NetDriver](ue_ue.PendingNetGame.md#netdriver)
 
-#### Defined in
-
-[ue/ue.d.ts:30667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30667)
-
 ___
 
 ### \_\_tid\_DemoPendingNetGame\_\_
 
 • **\_\_tid\_DemoPendingNetGame\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30682)
 
 ___
 
@@ -106,10 +90,6 @@ ___
 
 [PendingNetGame](ue_ue.PendingNetGame.md).[__tid_Object__](ue_ue.PendingNetGame.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PendingNetGame\_\_
@@ -119,10 +99,6 @@ ___
 #### Inherited from
 
 [PendingNetGame](ue_ue.PendingNetGame.md).[__tid_PendingNetGame__](ue_ue.PendingNetGame.md#__tid_pendingnetgame__)
-
-#### Defined in
-
-[ue/ue.d.ts:30673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30673)
 
 ## Methods
 
@@ -148,10 +124,6 @@ ___
 
 [PendingNetGame](ue_ue.PendingNetGame.md).[CreateDefaultSubobject](ue_ue.PendingNetGame.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -172,10 +144,6 @@ ___
 
 [PendingNetGame](ue_ue.PendingNetGame.md).[ExecuteUbergraph](ue_ue.PendingNetGame.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -189,10 +157,6 @@ ___
 #### Inherited from
 
 [PendingNetGame](ue_ue.PendingNetGame.md).[GetClass](ue_ue.PendingNetGame.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -208,10 +172,6 @@ ___
 
 [PendingNetGame](ue_ue.PendingNetGame.md).[GetName](ue_ue.PendingNetGame.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -226,10 +186,6 @@ ___
 
 [PendingNetGame](ue_ue.PendingNetGame.md).[GetOuter](ue_ue.PendingNetGame.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -243,10 +199,6 @@ ___
 #### Inherited from
 
 [PendingNetGame](ue_ue.PendingNetGame.md).[GetWorld](ue_ue.PendingNetGame.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -269,10 +221,6 @@ ___
 
 [PendingNetGame](ue_ue.PendingNetGame.md).[Find](ue_ue.PendingNetGame.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:30679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30679)
-
 ___
 
 ### Load
@@ -293,10 +241,6 @@ ___
 
 [PendingNetGame](ue_ue.PendingNetGame.md).[Load](ue_ue.PendingNetGame.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:30680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30680)
-
 ___
 
 ### StaticClass
@@ -310,7 +254,3 @@ ___
 #### Overrides
 
 [PendingNetGame](ue_ue.PendingNetGame.md).[StaticClass](ue_ue.PendingNetGame.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:30678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30678)

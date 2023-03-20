@@ -26,10 +26,6 @@
 
 • **new SequenceRecorderActorFilter**()
 
-#### Defined in
-
-[ue/ue.d.ts:60119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60119)
-
 • **new SequenceRecorderActorFilter**(`ActorClassesToRecord`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `ActorClassesToRecord` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Class`](ue_ue.Class.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:60120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60120)
-
 ## Properties
 
 ### ActorClassesToRecord
 
 • **ActorClassesToRecord**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Class`](ue_ue.Class.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:60121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60121)
-
 ___
 
 ### \_\_tid\_SequenceRecorderActorFilter\_\_
 
 • `Private` **\_\_tid\_SequenceRecorderActorFilter\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:60127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60127)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:60125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60125)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:60126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60126)

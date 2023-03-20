@@ -31,10 +31,6 @@
 
 • **new EyeTrackerStereoGazeData**()
 
-#### Defined in
-
-[ue/ue.d.ts:35053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35053)
-
 • **new EyeTrackerStereoGazeData**(`LeftEyeOrigin`, `LeftEyeDirection`, `RightEyeOrigin`, `RightEyeDirection`, `FixationPoint`, `ConfidenceValue`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `FixationPoint` | [`Vector`](ue_ue_s.Vector.md) |
 | `ConfidenceValue` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:35054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35054)
-
 ## Properties
 
 ### ConfidenceValue
 
 • **ConfidenceValue**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35060)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **FixationPoint**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35059)
-
 ___
 
 ### LeftEyeDirection
 
 • **LeftEyeDirection**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35056](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35056)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **LeftEyeOrigin**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35055)
-
 ___
 
 ### RightEyeDirection
 
 • **RightEyeDirection**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35058)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **RightEyeOrigin**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35057)
-
 ___
 
 ### \_\_tid\_EyeTrackerStereoGazeData\_\_
 
 • `Private` **\_\_tid\_EyeTrackerStereoGazeData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35066)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35064)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35065)

@@ -21,19 +21,11 @@
 
 • **Array** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1006)
-
 ___
 
 ### EPinContainerType\_MAX
 
 • **EPinContainerType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1006)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Map** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1006)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1006)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Set** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1006)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1006)

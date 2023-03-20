@@ -21,19 +21,11 @@
 
 • **EEnvQueryTrace\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33839)
-
 ___
 
 ### Geometry
 
 • **Geometry** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33839)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Navigation** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33839)
-
 ___
 
 ### NavigationOverLedges
 
 • **NavigationOverLedges** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33839)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33839)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33839)

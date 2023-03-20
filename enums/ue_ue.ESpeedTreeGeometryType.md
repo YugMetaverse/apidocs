@@ -22,19 +22,11 @@
 
 • **STG\_Billboard** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34789)
-
 ___
 
 ### STG\_Branch
 
 • **STG\_Branch** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34789)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **STG\_FacingLeaf** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34789)
-
 ___
 
 ### STG\_Frond
 
 • **STG\_Frond** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34789)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **STG\_Leaf** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34789)
-
 ___
 
 ### STG\_MAX
 
 • **STG\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34789)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34789)

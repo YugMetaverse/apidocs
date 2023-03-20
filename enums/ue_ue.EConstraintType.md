@@ -19,19 +19,11 @@
 
 • **Aim** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31413)
-
 ___
 
 ### MAX
 
 • **MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31413)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Transform** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31413)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31413)

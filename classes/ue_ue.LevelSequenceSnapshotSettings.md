@@ -27,10 +27,6 @@
 
 • **new LevelSequenceSnapshotSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:22705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22705)
-
 • **new LevelSequenceSnapshotSettings**(`ZeroPadAmount`, `FrameRate`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `ZeroPadAmount` | `number` |
 | `FrameRate` | [`FrameRate`](ue_ue.FrameRate.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:22706](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22706)
-
 ## Properties
 
 ### FrameRate
 
 • **FrameRate**: [`FrameRate`](ue_ue.FrameRate.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22708)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **ZeroPadAmount**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22707](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22707)
-
 ___
 
 ### \_\_tid\_LevelSequenceSnapshotSettings\_\_
 
 • `Private` **\_\_tid\_LevelSequenceSnapshotSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22714)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22712)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22713)

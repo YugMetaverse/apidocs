@@ -87,19 +87,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:39367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39367)
-
 ## Properties
 
 ### ActionMappings
 
 • **ActionMappings**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`InputActionKeyMapping`](ue_ue.InputActionKeyMapping.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:39387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39387)
 
 ___
 
@@ -107,19 +99,11 @@ ___
 
 • **AxisConfig**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`InputAxisConfigEntry`](ue_ue.InputAxisConfigEntry.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:39368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39368)
-
 ___
 
 ### AxisMappings
 
 • **AxisMappings**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`InputAxisKeyMapping`](ue_ue.InputAxisKeyMapping.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:39388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39388)
 
 ___
 
@@ -127,19 +111,11 @@ ___
 
 • **ConsoleKey**: [`Key`](ue_ue.Key.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39391)
-
 ___
 
 ### ConsoleKeys
 
 • **ConsoleKeys**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Key`](ue_ue.Key.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:39392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39392)
 
 ___
 
@@ -147,19 +123,11 @@ ___
 
 • **DefaultTouchInterface**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39390)
-
 ___
 
 ### DefaultViewportMouseCaptureMode
 
 • **DefaultViewportMouseCaptureMode**: [`EMouseCaptureMode`](../enums/ue_ue.EMouseCaptureMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:39383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39383)
 
 ___
 
@@ -167,19 +135,11 @@ ___
 
 • **DefaultViewportMouseLockMode**: [`EMouseLockMode`](../enums/ue_ue.EMouseLockMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39384)
-
 ___
 
 ### DoubleClickTime
 
 • **DoubleClickTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:39386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39386)
 
 ___
 
@@ -187,19 +147,11 @@ ___
 
 • **ExcludedAutocorrectCultures**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:39381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39381)
-
 ___
 
 ### ExcludedAutocorrectDeviceModels
 
 • **ExcludedAutocorrectDeviceModels**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:39382](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39382)
 
 ___
 
@@ -207,19 +159,11 @@ ___
 
 • **ExcludedAutocorrectOS**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:39380](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39380)
-
 ___
 
 ### FOVScale
 
 • **FOVScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:39385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39385)
 
 ___
 
@@ -227,19 +171,11 @@ ___
 
 • **SpeechMappings**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`InputActionSpeechMapping`](ue_ue.InputActionSpeechMapping.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:39389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39389)
-
 ___
 
 ### \_\_tid\_InputSettings\_\_
 
 • **\_\_tid\_InputSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39408)
 
 ___
 
@@ -251,19 +187,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bAltEnterTogglesFullscreen
 
 • **bAltEnterTogglesFullscreen**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39369](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39369)
 
 ___
 
@@ -271,19 +199,11 @@ ___
 
 • **bAlwaysShowTouchInterface**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:39376](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39376)
-
 ___
 
 ### bCaptureMouseOnLaunch
 
 • **bCaptureMouseOnLaunch**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39374](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39374)
 
 ___
 
@@ -291,19 +211,11 @@ ___
 
 • **bDefaultViewportMouseLock**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:39375](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39375)
-
 ___
 
 ### bEnableFOVScaling
 
 • **bEnableFOVScaling**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39373](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39373)
 
 ___
 
@@ -311,19 +223,11 @@ ___
 
 • **bEnableGestureRecognizer**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:39378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39378)
-
 ___
 
 ### bEnableMouseSmoothing
 
 • **bEnableMouseSmoothing**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39372)
 
 ___
 
@@ -331,19 +235,11 @@ ___
 
 • **bF11TogglesFullscreen**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:39370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39370)
-
 ___
 
 ### bShowConsoleOnFourFingerTap
 
 • **bShowConsoleOnFourFingerTap**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39377](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39377)
 
 ___
 
@@ -351,19 +247,11 @@ ___
 
 • **bUseAutocorrect**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:39379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39379)
-
 ___
 
 ### bUseMouseForTouch
 
 • **bUseMouseForTouch**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39371)
 
 ## Methods
 
@@ -382,10 +270,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:39393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39393)
-
 ___
 
 ### AddAxisMapping
@@ -402,10 +286,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:39394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39394)
 
 ___
 
@@ -431,10 +311,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -455,10 +331,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### ForceRebuildKeymaps
@@ -468,10 +340,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:39395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39395)
 
 ___
 
@@ -490,10 +358,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:39396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39396)
-
 ___
 
 ### GetActionNames
@@ -509,10 +373,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:39397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39397)
 
 ___
 
@@ -531,10 +391,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:39398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39398)
-
 ___
 
 ### GetAxisNames
@@ -551,10 +407,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:39399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39399)
-
 ___
 
 ### GetClass
@@ -568,10 +420,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -587,10 +435,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -605,10 +449,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -622,10 +462,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -644,10 +480,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:39400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39400)
-
 ___
 
 ### RemoveAxisMapping
@@ -665,10 +497,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:39401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39401)
-
 ___
 
 ### SaveKeyMappings
@@ -678,10 +506,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:39402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39402)
 
 ___
 
@@ -704,10 +528,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:39405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39405)
-
 ___
 
 ### GetInputSettings
@@ -717,10 +537,6 @@ ___
 #### Returns
 
 [`InputSettings`](ue_ue.InputSettings.md)
-
-#### Defined in
-
-[ue/ue.d.ts:39403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39403)
 
 ___
 
@@ -742,10 +558,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:39406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39406)
-
 ___
 
 ### StaticClass
@@ -759,7 +571,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:39404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39404)

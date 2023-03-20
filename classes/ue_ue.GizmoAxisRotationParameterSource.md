@@ -59,19 +59,11 @@
 
 [GizmoBaseFloatParameterSource](ue_ue.GizmoBaseFloatParameterSource.md).[constructor](ue_ue.GizmoBaseFloatParameterSource.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:37945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37945)
-
 ## Properties
 
 ### Angle
 
 • **Angle**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:37948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37948)
 
 ___
 
@@ -79,19 +71,11 @@ ___
 
 • **AxisSource**: [`GizmoAxisSource`](ue_ue.GizmoAxisSource.md)
 
-#### Defined in
-
-[ue/ue.d.ts:37946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37946)
-
 ___
 
 ### CurRotationAxis
 
 • **CurRotationAxis**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:37950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37950)
 
 ___
 
@@ -99,19 +83,11 @@ ___
 
 • **CurRotationOrigin**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:37951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37951)
-
 ___
 
 ### InitialTransform
 
 • **InitialTransform**: [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:37952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37952)
 
 ___
 
@@ -119,29 +95,17 @@ ___
 
 • **LastChange**: [`GizmoFloatParameterChange`](ue_ue.GizmoFloatParameterChange.md)
 
-#### Defined in
-
-[ue/ue.d.ts:37949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37949)
-
 ___
 
 ### TransformSource
 
 • **TransformSource**: [`GizmoTransformSource`](ue_ue.GizmoTransformSource.md)
 
-#### Defined in
-
-[ue/ue.d.ts:37947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37947)
-
 ___
 
 ### \_\_tid\_GizmoAxisRotationParameterSource\_\_
 
 • **\_\_tid\_GizmoAxisRotationParameterSource\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:37957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37957)
 
 ___
 
@@ -153,10 +117,6 @@ ___
 
 [GizmoBaseFloatParameterSource](ue_ue.GizmoBaseFloatParameterSource.md).[__tid_GizmoBaseFloatParameterSource__](ue_ue.GizmoBaseFloatParameterSource.md#__tid_gizmobasefloatparametersource__)
 
-#### Defined in
-
-[ue/ue.d.ts:37917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37917)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -166,10 +126,6 @@ ___
 #### Inherited from
 
 [GizmoBaseFloatParameterSource](ue_ue.GizmoBaseFloatParameterSource.md).[__tid_Object__](ue_ue.GizmoBaseFloatParameterSource.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -195,10 +151,6 @@ ___
 
 [GizmoBaseFloatParameterSource](ue_ue.GizmoBaseFloatParameterSource.md).[CreateDefaultSubobject](ue_ue.GizmoBaseFloatParameterSource.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -219,10 +171,6 @@ ___
 
 [GizmoBaseFloatParameterSource](ue_ue.GizmoBaseFloatParameterSource.md).[ExecuteUbergraph](ue_ue.GizmoBaseFloatParameterSource.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -236,10 +184,6 @@ ___
 #### Inherited from
 
 [GizmoBaseFloatParameterSource](ue_ue.GizmoBaseFloatParameterSource.md).[GetClass](ue_ue.GizmoBaseFloatParameterSource.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -255,10 +199,6 @@ ___
 
 [GizmoBaseFloatParameterSource](ue_ue.GizmoBaseFloatParameterSource.md).[GetName](ue_ue.GizmoBaseFloatParameterSource.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -273,10 +213,6 @@ ___
 
 [GizmoBaseFloatParameterSource](ue_ue.GizmoBaseFloatParameterSource.md).[GetOuter](ue_ue.GizmoBaseFloatParameterSource.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -290,10 +226,6 @@ ___
 #### Inherited from
 
 [GizmoBaseFloatParameterSource](ue_ue.GizmoBaseFloatParameterSource.md).[GetWorld](ue_ue.GizmoBaseFloatParameterSource.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -316,10 +248,6 @@ ___
 
 [GizmoBaseFloatParameterSource](ue_ue.GizmoBaseFloatParameterSource.md).[Find](ue_ue.GizmoBaseFloatParameterSource.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:37954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37954)
-
 ___
 
 ### Load
@@ -340,10 +268,6 @@ ___
 
 [GizmoBaseFloatParameterSource](ue_ue.GizmoBaseFloatParameterSource.md).[Load](ue_ue.GizmoBaseFloatParameterSource.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:37955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37955)
-
 ___
 
 ### StaticClass
@@ -357,7 +281,3 @@ ___
 #### Overrides
 
 [GizmoBaseFloatParameterSource](ue_ue.GizmoBaseFloatParameterSource.md).[StaticClass](ue_ue.GizmoBaseFloatParameterSource.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:37953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37953)

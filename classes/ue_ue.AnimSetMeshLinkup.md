@@ -26,10 +26,6 @@
 
 • **new AnimSetMeshLinkup**()
 
-#### Defined in
-
-[ue/ue.d.ts:20389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20389)
-
 • **new AnimSetMeshLinkup**(`BoneToTrackTable`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `BoneToTrackTable` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:20390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20390)
-
 ## Properties
 
 ### BoneToTrackTable
 
 • **BoneToTrackTable**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:20391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20391)
-
 ___
 
 ### \_\_tid\_AnimSetMeshLinkup\_\_
 
 • `Private` **\_\_tid\_AnimSetMeshLinkup\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:20397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20397)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:20395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20395)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:20396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20396)

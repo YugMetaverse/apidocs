@@ -33,10 +33,6 @@
 
 • **new LightmassMaterialInterfaceSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L933)
-
 • **new LightmassMaterialInterfaceSettings**(`EmissiveBoost`, `DiffuseBoost`, `ExportResolutionScale`, `bCastShadowAsMasked`, `bOverrideCastShadowAsMasked`, `bOverrideEmissiveBoost`, `bOverrideDiffuseBoost`, `bOverrideExportResolutionScale`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `bOverrideDiffuseBoost` | `boolean` |
 | `bOverrideExportResolutionScale` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L934)
-
 ## Properties
 
 ### DiffuseBoost
 
 • **DiffuseBoost**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L936)
 
 ___
 
@@ -72,19 +60,11 @@ ___
 
 • **EmissiveBoost**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L935)
-
 ___
 
 ### ExportResolutionScale
 
 • **ExportResolutionScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L937)
 
 ___
 
@@ -92,19 +72,11 @@ ___
 
 • `Private` **\_\_tid\_LightmassMaterialInterfaceSettings\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L948)
-
 ___
 
 ### bCastShadowAsMasked
 
 • **bCastShadowAsMasked**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L938)
 
 ___
 
@@ -112,19 +84,11 @@ ___
 
 • **bOverrideCastShadowAsMasked**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L939)
-
 ___
 
 ### bOverrideDiffuseBoost
 
 • **bOverrideDiffuseBoost**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L941)
 
 ___
 
@@ -132,19 +96,11 @@ ___
 
 • **bOverrideEmissiveBoost**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L940)
-
 ___
 
 ### bOverrideExportResolutionScale
 
 • **bOverrideExportResolutionScale**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L942)
 
 ## Methods
 
@@ -160,10 +116,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L946)
-
 ___
 
 ### StaticStruct
@@ -173,7 +125,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L947)

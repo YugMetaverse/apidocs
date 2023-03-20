@@ -69,10 +69,6 @@
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[constructor](ue_ue.ARTrackedGeometry.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:21018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21018)
-
 ## Properties
 
 ### DebugName
@@ -82,10 +78,6 @@
 #### Inherited from
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[DebugName](ue_ue.ARTrackedGeometry.md#debugname)
-
-#### Defined in
-
-[ue/ue.d.ts:20867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20867)
 
 ___
 
@@ -97,10 +89,6 @@ ___
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[LastUpdateFrameNumber](ue_ue.ARTrackedGeometry.md#lastupdateframenumber)
 
-#### Defined in
-
-[ue/ue.d.ts:20866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20866)
-
 ___
 
 ### LocalToAlignedTrackingTransform
@@ -110,10 +98,6 @@ ___
 #### Inherited from
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[LocalToAlignedTrackingTransform](ue_ue.ARTrackedGeometry.md#localtoalignedtrackingtransform)
-
-#### Defined in
-
-[ue/ue.d.ts:20862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20862)
 
 ___
 
@@ -125,10 +109,6 @@ ___
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[LocalToTrackingTransform](ue_ue.ARTrackedGeometry.md#localtotrackingtransform)
 
-#### Defined in
-
-[ue/ue.d.ts:20861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20861)
-
 ___
 
 ### ObjectClassification
@@ -138,10 +118,6 @@ ___
 #### Inherited from
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[ObjectClassification](ue_ue.ARTrackedGeometry.md#objectclassification)
-
-#### Defined in
-
-[ue/ue.d.ts:20865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20865)
 
 ___
 
@@ -153,10 +129,6 @@ ___
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[TrackingState](ue_ue.ARTrackedGeometry.md#trackingstate)
 
-#### Defined in
-
-[ue/ue.d.ts:20863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20863)
-
 ___
 
 ### UnderlyingMesh
@@ -166,10 +138,6 @@ ___
 #### Inherited from
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[UnderlyingMesh](ue_ue.ARTrackedGeometry.md#underlyingmesh)
-
-#### Defined in
-
-[ue/ue.d.ts:20864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20864)
 
 ___
 
@@ -181,10 +149,6 @@ ___
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[UniqueId](ue_ue.ARTrackedGeometry.md#uniqueid)
 
-#### Defined in
-
-[ue/ue.d.ts:20860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20860)
-
 ___
 
 ### \_\_tid\_ARTrackedGeometry\_\_
@@ -195,19 +159,11 @@ ___
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[__tid_ARTrackedGeometry__](ue_ue.ARTrackedGeometry.md#__tid_artrackedgeometry__)
 
-#### Defined in
-
-[ue/ue.d.ts:20881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20881)
-
 ___
 
 ### \_\_tid\_ARTrackedPoint\_\_
 
 • **\_\_tid\_ARTrackedPoint\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21023)
 
 ___
 
@@ -218,10 +174,6 @@ ___
 #### Inherited from
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[__tid_Object__](ue_ue.ARTrackedGeometry.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -247,10 +199,6 @@ ___
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[CreateDefaultSubobject](ue_ue.ARTrackedGeometry.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -271,10 +219,6 @@ ___
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[ExecuteUbergraph](ue_ue.ARTrackedGeometry.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -288,10 +232,6 @@ ___
 #### Inherited from
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[GetClass](ue_ue.ARTrackedGeometry.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -307,10 +247,6 @@ ___
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[GetDebugName](ue_ue.ARTrackedGeometry.md#getdebugname)
 
-#### Defined in
-
-[ue/ue.d.ts:20868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20868)
-
 ___
 
 ### GetLastUpdateFrameNumber
@@ -324,10 +260,6 @@ ___
 #### Inherited from
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[GetLastUpdateFrameNumber](ue_ue.ARTrackedGeometry.md#getlastupdateframenumber)
-
-#### Defined in
-
-[ue/ue.d.ts:20869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20869)
 
 ___
 
@@ -343,10 +275,6 @@ ___
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[GetLastUpdateTimestamp](ue_ue.ARTrackedGeometry.md#getlastupdatetimestamp)
 
-#### Defined in
-
-[ue/ue.d.ts:20870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20870)
-
 ___
 
 ### GetLocalToTrackingTransform
@@ -360,10 +288,6 @@ ___
 #### Inherited from
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[GetLocalToTrackingTransform](ue_ue.ARTrackedGeometry.md#getlocaltotrackingtransform)
-
-#### Defined in
-
-[ue/ue.d.ts:20871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20871)
 
 ___
 
@@ -379,10 +303,6 @@ ___
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[GetLocalToWorldTransform](ue_ue.ARTrackedGeometry.md#getlocaltoworldtransform)
 
-#### Defined in
-
-[ue/ue.d.ts:20872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20872)
-
 ___
 
 ### GetName
@@ -396,10 +316,6 @@ ___
 #### Inherited from
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[GetName](ue_ue.ARTrackedGeometry.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -415,10 +331,6 @@ ___
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[GetObjectClassification](ue_ue.ARTrackedGeometry.md#getobjectclassification)
 
-#### Defined in
-
-[ue/ue.d.ts:20873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20873)
-
 ___
 
 ### GetOuter
@@ -432,10 +344,6 @@ ___
 #### Inherited from
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[GetOuter](ue_ue.ARTrackedGeometry.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -451,10 +359,6 @@ ___
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[GetTrackingState](ue_ue.ARTrackedGeometry.md#gettrackingstate)
 
-#### Defined in
-
-[ue/ue.d.ts:20874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20874)
-
 ___
 
 ### GetUnderlyingMesh
@@ -468,10 +372,6 @@ ___
 #### Inherited from
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[GetUnderlyingMesh](ue_ue.ARTrackedGeometry.md#getunderlyingmesh)
-
-#### Defined in
-
-[ue/ue.d.ts:20875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20875)
 
 ___
 
@@ -487,10 +387,6 @@ ___
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[GetWorld](ue_ue.ARTrackedGeometry.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### IsTracked
@@ -504,10 +400,6 @@ ___
 #### Inherited from
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[IsTracked](ue_ue.ARTrackedGeometry.md#istracked)
-
-#### Defined in
-
-[ue/ue.d.ts:20876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20876)
 
 ___
 
@@ -530,10 +422,6 @@ ___
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[Find](ue_ue.ARTrackedGeometry.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:21020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21020)
-
 ___
 
 ### Load
@@ -554,10 +442,6 @@ ___
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[Load](ue_ue.ARTrackedGeometry.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:21021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21021)
-
 ___
 
 ### StaticClass
@@ -571,7 +455,3 @@ ___
 #### Overrides
 
 [ARTrackedGeometry](ue_ue.ARTrackedGeometry.md).[StaticClass](ue_ue.ARTrackedGeometry.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:21019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21019)

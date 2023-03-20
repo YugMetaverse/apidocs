@@ -135,10 +135,6 @@
 
 • **new Vector**()
 
-#### Defined in
-
-[ue/ue_s.d.ts:385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L385)
-
 • **new Vector**(`InF`)
 
 #### Parameters
@@ -146,10 +142,6 @@
 | Name | Type |
 | :------ | :------ |
 | `InF` | `number` |
-
-#### Defined in
-
-[ue/ue_s.d.ts:386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L386)
 
 • **new Vector**(`InX`, `InY`, `InZ`)
 
@@ -161,10 +153,6 @@
 | `InY` | `number` |
 | `InZ` | `number` |
 
-#### Defined in
-
-[ue/ue_s.d.ts:387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L387)
-
 • **new Vector**(`V`, `InZ`)
 
 #### Parameters
@@ -174,10 +162,6 @@
 | `V` | [`Vector2D`](ue_ue_s.Vector2D.md) |
 | `InZ` | `number` |
 
-#### Defined in
-
-[ue/ue_s.d.ts:388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L388)
-
 • **new Vector**(`V`)
 
 #### Parameters
@@ -185,10 +169,6 @@
 | Name | Type |
 | :------ | :------ |
 | `V` | [`Vector4`](ue_ue_s.Vector4.md) |
-
-#### Defined in
-
-[ue/ue_s.d.ts:389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L389)
 
 • **new Vector**(`InColor`)
 
@@ -198,10 +178,6 @@
 | :------ | :------ |
 | `InColor` | [`LinearColor`](ue_ue_s.LinearColor.md) |
 
-#### Defined in
-
-[ue/ue_s.d.ts:390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L390)
-
 • **new Vector**(`InVector`)
 
 #### Parameters
@@ -209,10 +185,6 @@
 | Name | Type |
 | :------ | :------ |
 | `InVector` | [`IntVector`](ue_ue_s.IntVector.md) |
-
-#### Defined in
-
-[ue/ue_s.d.ts:391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L391)
 
 • **new Vector**(`A`)
 
@@ -222,10 +194,6 @@
 | :------ | :------ |
 | `A` | [`IntPoint`](ue_ue_s.IntPoint.md) |
 
-#### Defined in
-
-[ue/ue_s.d.ts:392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L392)
-
 • **new Vector**(`Param1`)
 
 #### Parameters
@@ -234,19 +202,11 @@
 | :------ | :------ |
 | `Param1` | `number` |
 
-#### Defined in
-
-[ue/ue_s.d.ts:393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L393)
-
 ## Properties
 
 ### X
 
 • **X**: `number`
-
-#### Defined in
-
-[ue/ue_s.d.ts:394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L394)
 
 ___
 
@@ -254,29 +214,17 @@ ___
 
 • **Y**: `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L395)
-
 ___
 
 ### Z
 
 • **Z**: `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L396)
-
 ___
 
 ### \_\_tid\_Vector\_\_
 
 • `Private` **\_\_tid\_Vector\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L504)
 
 ## Methods
 
@@ -295,10 +243,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L452)
-
 ___
 
 ### AllComponentsEqual
@@ -314,10 +258,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L413)
 
 ___
 
@@ -336,10 +276,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L447)
-
 ___
 
 ### BoundToCube
@@ -355,10 +291,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L446)
 
 ___
 
@@ -376,10 +308,6 @@ ___
 
 [`$Ref`](../interfaces/puerts._Ref.md)<`number`\>
 
-#### Defined in
-
-[ue/ue_s.d.ts:417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L417)
-
 ▸ **Component**(`Index`): `number`
 
 #### Parameters
@@ -391,10 +319,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue_s.d.ts:418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L418)
 
 ___
 
@@ -412,10 +336,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L427)
-
 ___
 
 ### ComponentMin
@@ -432,10 +352,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:426](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L426)
-
 ___
 
 ### ContainsNaN
@@ -445,10 +361,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:466](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L466)
 
 ___
 
@@ -466,10 +378,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:458](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L458)
-
 ___
 
 ### DiagnosticCheckNaN
@@ -479,10 +387,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue_s.d.ts:397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L397)
 
 ___
 
@@ -501,10 +405,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L412)
-
 ___
 
 ### FindBestAxisVectors
@@ -522,10 +422,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L464)
-
 ___
 
 ### GetAbs
@@ -535,10 +431,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L428)
 
 ___
 
@@ -550,10 +442,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L423)
-
 ___
 
 ### GetAbsMin
@@ -563,10 +451,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue_s.d.ts:425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L425)
 
 ___
 
@@ -584,10 +468,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L450)
-
 ___
 
 ### GetClampedToMaxSize2D
@@ -603,10 +483,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L451)
 
 ___
 
@@ -625,10 +501,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L448)
-
 ___
 
 ### GetClampedToSize2D
@@ -646,10 +518,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L449)
-
 ___
 
 ### GetComponentForAxis
@@ -666,10 +534,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L419)
-
 ___
 
 ### GetMax
@@ -680,10 +544,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L422)
-
 ___
 
 ### GetMin
@@ -693,10 +553,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue_s.d.ts:424](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L424)
 
 ___
 
@@ -714,10 +570,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L439)
-
 ___
 
 ### GetSafeNormal2D
@@ -734,10 +586,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L440)
-
 ___
 
 ### GetSignVector
@@ -747,10 +595,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:442](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L442)
 
 ___
 
@@ -762,10 +606,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L438)
-
 ___
 
 ### GetUnsafeNormal2D
@@ -775,10 +615,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:444](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L444)
 
 ___
 
@@ -796,10 +632,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:445](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L445)
-
 ___
 
 ### HeadingAngle
@@ -809,10 +641,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue_s.d.ts:473](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L473)
 
 ___
 
@@ -830,10 +658,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L471)
-
 ___
 
 ### IsNearlyZero
@@ -850,10 +674,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L433)
-
 ___
 
 ### IsNormalized
@@ -863,10 +683,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L436)
 
 ___
 
@@ -884,10 +700,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L454)
-
 ___
 
 ### IsUnit
@@ -904,10 +716,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L435)
-
 ___
 
 ### IsZero
@@ -917,10 +725,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L434)
 
 ___
 
@@ -938,10 +742,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:456](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L456)
-
 ___
 
 ### MirrorByVector
@@ -957,10 +757,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L455)
 
 ___
 
@@ -978,10 +774,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L437)
-
 ___
 
 ### ProjectOnTo
@@ -997,10 +789,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:459](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L459)
 
 ___
 
@@ -1018,10 +806,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:460](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L460)
-
 ___
 
 ### Projection
@@ -1032,10 +816,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:443](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L443)
-
 ___
 
 ### Reciprocal
@@ -1045,10 +825,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L453)
 
 ___
 
@@ -1067,10 +843,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L457)
-
 ___
 
 ### Rotation
@@ -1080,10 +852,6 @@ ___
 #### Returns
 
 [`Rotator`](ue_ue_s.Rotator.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L463)
 
 ___
 
@@ -1103,10 +871,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L421)
-
 ___
 
 ### SetComponentForAxis
@@ -1124,10 +888,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L420)
-
 ___
 
 ### Size
@@ -1137,10 +897,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue_s.d.ts:429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L429)
 
 ___
 
@@ -1152,10 +908,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:431](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L431)
-
 ___
 
 ### SizeSquared
@@ -1165,10 +917,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue_s.d.ts:430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L430)
 
 ___
 
@@ -1180,10 +928,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L432)
-
 ___
 
 ### ToCompactString
@@ -1194,10 +938,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue_s.d.ts:469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L469)
-
 ___
 
 ### ToCompactText
@@ -1207,10 +947,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue_s.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L470)
 
 ___
 
@@ -1229,10 +965,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:441](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L441)
-
 ___
 
 ### ToOrientationQuat
@@ -1242,10 +974,6 @@ ___
 #### Returns
 
 [`Quat`](ue_ue_s.Quat.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:462](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L462)
 
 ___
 
@@ -1257,10 +985,6 @@ ___
 
 [`Rotator`](ue_ue_s.Rotator.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:461](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L461)
-
 ___
 
 ### ToString
@@ -1270,10 +994,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue_s.d.ts:467](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L467)
 
 ___
 
@@ -1285,10 +1005,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue_s.d.ts:468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L468)
-
 ___
 
 ### UnitCartesianToSpherical
@@ -1299,10 +1015,6 @@ ___
 
 [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:472](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L472)
-
 ___
 
 ### UnwindEuler
@@ -1312,10 +1024,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue_s.d.ts:465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L465)
 
 ___
 
@@ -1333,10 +1041,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L416)
-
 ___
 
 ### op\_Addition
@@ -1353,10 +1057,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L402)
-
 ▸ **op_Addition**(`Bias`): [`Vector`](ue_ue_s.Vector.md)
 
 #### Parameters
@@ -1368,10 +1068,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L403)
 
 ___
 
@@ -1389,10 +1085,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L400)
-
 ___
 
 ### op\_Division
@@ -1409,10 +1101,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L408)
-
 ▸ **op_Division**(`V`): [`Vector`](ue_ue_s.Vector.md)
 
 #### Parameters
@@ -1424,10 +1112,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L409)
 
 ___
 
@@ -1445,10 +1129,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L410)
-
 ___
 
 ### op\_ExclusiveOr
@@ -1464,10 +1144,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L398)
 
 ___
 
@@ -1485,10 +1161,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L411)
-
 ___
 
 ### op\_Multiply
@@ -1505,10 +1177,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L406)
-
 ▸ **op_Multiply**(`V`): [`Vector`](ue_ue_s.Vector.md)
 
 #### Parameters
@@ -1520,10 +1188,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L407)
 
 ___
 
@@ -1541,10 +1205,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L404)
-
 ▸ **op_Subtraction**(`Bias`): [`Vector`](ue_ue_s.Vector.md)
 
 #### Parameters
@@ -1557,10 +1217,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L405)
-
 ___
 
 ### op\_UnaryNegation
@@ -1570,10 +1226,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L414)
 
 ___
 
@@ -1590,10 +1242,6 @@ ___
 #### Returns
 
 [`$Ref`](../interfaces/puerts._Ref.md)<`number`\>
-
-#### Defined in
-
-[ue/ue_s.d.ts:415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L415)
 
 ___
 
@@ -1612,10 +1260,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L489)
-
 ___
 
 ### Coincident
@@ -1633,10 +1277,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L491)
 
 ___
 
@@ -1658,10 +1298,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L493)
-
 ___
 
 ### CreateOrthonormalBasis
@@ -1680,10 +1316,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L474)
-
 ___
 
 ### CrossProduct
@@ -1701,10 +1333,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L399)
-
 ___
 
 ### DegreesToRadians
@@ -1720,10 +1348,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L496)
 
 ___
 
@@ -1742,10 +1366,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L482)
-
 ___
 
 ### Dist2D
@@ -1762,10 +1382,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue_s.d.ts:485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L485)
 
 ___
 
@@ -1784,10 +1400,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L486)
-
 ___
 
 ### DistSquared2D
@@ -1804,10 +1416,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue_s.d.ts:488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L488)
 
 ___
 
@@ -1826,10 +1434,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L487)
-
 ___
 
 ### DistXY
@@ -1846,10 +1450,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue_s.d.ts:484](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L484)
 
 ___
 
@@ -1868,10 +1468,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L483)
-
 ___
 
 ### DotProduct
@@ -1888,10 +1484,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue_s.d.ts:401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L401)
 
 ___
 
@@ -1911,10 +1503,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L492)
-
 ___
 
 ### Parallel
@@ -1932,10 +1520,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L490)
 
 ___
 
@@ -1955,10 +1539,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L477)
-
 ___
 
 ### PointPlaneProject
@@ -1976,10 +1556,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L478)
-
 ▸ `Static` **PointPlaneProject**(`Point`, `A`, `B`, `C`): [`Vector`](ue_ue_s.Vector.md)
 
 #### Parameters
@@ -1995,10 +1571,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L479)
-
 ▸ `Static` **PointPlaneProject**(`Point`, `PlaneBase`, `PlaneNormal`): [`Vector`](ue_ue_s.Vector.md)
 
 #### Parameters
@@ -2012,10 +1584,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L480)
 
 ___
 
@@ -2035,10 +1603,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L476)
-
 ___
 
 ### PointsAreSame
@@ -2056,10 +1620,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L475)
-
 ___
 
 ### RadiansToDegrees
@@ -2076,10 +1636,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L495)
-
 ___
 
 ### StaticClass
@@ -2094,10 +1650,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L501)
-
 ___
 
 ### StaticStruct
@@ -2107,10 +1659,6 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L502)
 
 ___
 
@@ -2130,10 +1678,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L494)
-
 ___
 
 ### VectorPlaneProject
@@ -2150,7 +1694,3 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L481)

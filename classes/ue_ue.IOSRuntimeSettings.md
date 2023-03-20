@@ -137,19 +137,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:40465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40465)
-
 ## Properties
 
 ### AdditionalLinkerFlags
 
 • **AdditionalLinkerFlags**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:40489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40489)
 
 ___
 
@@ -157,19 +149,11 @@ ___
 
 • **AdditionalPlistData**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:40517](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40517)
-
 ___
 
 ### AdditionalShippingLinkerFlags
 
 • **AdditionalShippingLinkerFlags**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:40490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40490)
 
 ___
 
@@ -177,19 +161,11 @@ ___
 
 • **AudioCallbackBufferFrameSize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:40532](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40532)
-
 ___
 
 ### AudioMaxChannels
 
 • **AudioMaxChannels**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:40534](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40534)
 
 ___
 
@@ -197,19 +173,11 @@ ___
 
 • **AudioNumBuffersToEnqueue**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:40533](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40533)
-
 ___
 
 ### AudioNumSourceWorkers
 
 • **AudioNumSourceWorkers**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:40535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40535)
 
 ___
 
@@ -217,19 +185,11 @@ ___
 
 • **AudioSampleRate**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:40531](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40531)
-
 ___
 
 ### AutoStreamingThreshold
 
 • **AutoStreamingThreshold**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:40551](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40551)
 
 ___
 
@@ -237,19 +197,11 @@ ___
 
 • **BundleDisplayName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:40509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40509)
-
 ___
 
 ### BundleIdentifier
 
 • **BundleIdentifier**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:40511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40511)
 
 ___
 
@@ -257,19 +209,11 @@ ___
 
 • **BundleName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:40510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40510)
-
 ___
 
 ### CacheSizeKB
 
 • **CacheSizeKB**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:40542](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40542)
 
 ___
 
@@ -277,19 +221,11 @@ ___
 
 • **ChunkSizeKB**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:40540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40540)
-
 ___
 
 ### CompressionOverrides
 
 • **CompressionOverrides**: [`PlatformRuntimeAudioCompressionOverrides`](ue_ue.PlatformRuntimeAudioCompressionOverrides.md)
-
-#### Defined in
-
-[ue/ue.d.ts:40539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40539)
 
 ___
 
@@ -297,19 +233,11 @@ ___
 
 • **CompressionQualityModifier**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:40550](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40550)
-
 ___
 
 ### DeltaCopyInstallPath
 
 • **DeltaCopyInstallPath**: [`IOSBuildResourceDirectory`](ue_ue.IOSBuildResourceDirectory.md)
-
-#### Defined in
-
-[ue/ue.d.ts:40494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40494)
 
 ___
 
@@ -317,19 +245,11 @@ ___
 
 • **EnableMathOptimisations**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:40528](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40528)
-
 ___
 
 ### EnableRemoteShaderCompile
 
 • **EnableRemoteShaderCompile**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40476)
 
 ___
 
@@ -337,19 +257,11 @@ ___
 
 • **FacebookAppID**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:40519](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40519)
-
 ___
 
 ### ForceFloats
 
 • **ForceFloats**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40527](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40527)
 
 ___
 
@@ -357,19 +269,11 @@ ___
 
 • **FrameRateLock**: [`EPowerUsageFrameRateLock`](../enums/ue_ue.EPowerUsageFrameRateLock.md)
 
-#### Defined in
-
-[ue/ue.d.ts:40513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40513)
-
 ___
 
 ### HighSampleRate
 
 • **HighSampleRate**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:40546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40546)
 
 ___
 
@@ -377,19 +281,11 @@ ___
 
 • **IOSCloudKitSyncStrategy**: [`EIOSCloudKitSyncStrategy`](../enums/ue_ue.EIOSCloudKitSyncStrategy.md)
 
-#### Defined in
-
-[ue/ue.d.ts:40468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40468)
-
 ___
 
 ### IOSTeamID
 
 • **IOSTeamID**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:40523](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40523)
 
 ___
 
@@ -397,19 +293,11 @@ ___
 
 • **IndirectArgumentTier**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:40529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40529)
-
 ___
 
 ### LowSampleRate
 
 • **LowSampleRate**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:40548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40548)
 
 ___
 
@@ -417,19 +305,11 @@ ___
 
 • **MaxSampleRate**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:40545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40545)
-
 ___
 
 ### MaxShaderLanguageVersion
 
 • **MaxShaderLanguageVersion**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:40525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40525)
 
 ___
 
@@ -437,19 +317,11 @@ ___
 
 • **MedSampleRate**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:40547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40547)
-
 ___
 
 ### MinSampleRate
 
 • **MinSampleRate**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:40549](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40549)
 
 ___
 
@@ -457,19 +329,11 @@ ___
 
 • **MinimumiOSVersion**: [`EIOSVersion`](../enums/ue_ue.EIOSVersion.md)
 
-#### Defined in
-
-[ue/ue.d.ts:40514](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40514)
-
 ___
 
 ### MobileProvision
 
 • **MobileProvision**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:40520](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40520)
 
 ___
 
@@ -477,19 +341,11 @@ ___
 
 • **OcclusionPlugin**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:40538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40538)
-
 ___
 
 ### PreferredLandscapeOrientation
 
 • **PreferredLandscapeOrientation**: [`EIOSLandscapeOrientation`](../enums/ue_ue.EIOSLandscapeOrientation.md)
-
-#### Defined in
-
-[ue/ue.d.ts:40508](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40508)
 
 ___
 
@@ -497,19 +353,11 @@ ___
 
 • **RSyncUsername**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:40493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40493)
-
 ___
 
 ### RemoteServerName
 
 • **RemoteServerName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:40491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40491)
 
 ___
 
@@ -517,19 +365,11 @@ ___
 
 • **ReverbPlugin**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:40537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40537)
-
 ___
 
 ### SSHPrivateKeyLocation
 
 • **SSHPrivateKeyLocation**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:40495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40495)
 
 ___
 
@@ -537,19 +377,11 @@ ___
 
 • **SSHPrivateKeyOverridePath**: [`IOSBuildResourceFilePath`](ue_ue.IOSBuildResourceFilePath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:40496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40496)
-
 ___
 
 ### SigningCertificate
 
 • **SigningCertificate**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:40521](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40521)
 
 ___
 
@@ -557,19 +389,11 @@ ___
 
 • **SoundCueCookQualityIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:40544](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40544)
-
 ___
 
 ### SpatializationPlugin
 
 • **SpatializationPlugin**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:40536](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40536)
 
 ___
 
@@ -577,29 +401,17 @@ ___
 
 • **UseFastIntrinsics**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:40526](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40526)
-
 ___
 
 ### VersionInfo
 
 • **VersionInfo**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:40512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40512)
-
 ___
 
 ### \_\_tid\_IOSRuntimeSettings\_\_
 
 • **\_\_tid\_IOSRuntimeSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40556)
 
 ___
 
@@ -611,19 +423,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bAllowControllers
 
 • **bAllowControllers**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40501)
 
 ___
 
@@ -631,19 +435,11 @@ ___
 
 • **bAllowRemoteRotation**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:40498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40498)
-
 ___
 
 ### bAutomaticSigning
 
 • **bAutomaticSigning**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40522](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40522)
 
 ___
 
@@ -651,19 +447,11 @@ ___
 
 • **bBuildAsFramework**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:40475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40475)
-
 ___
 
 ### bCookASTCTextures
 
 • **bCookASTCTextures**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40474)
 
 ___
 
@@ -671,19 +459,11 @@ ___
 
 • **bCookPVRTCTextures**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:40473](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40473)
-
 ___
 
 ### bDevForArm64
 
 • **bDevForArm64**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40482)
 
 ___
 
@@ -691,19 +471,11 @@ ___
 
 • **bDevForArmV7**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:40481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40481)
-
 ___
 
 ### bDevForArmV7S
 
 • **bDevForArmV7S**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40483)
 
 ___
 
@@ -711,19 +483,11 @@ ___
 
 • **bDisableHTTPS**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:40524](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40524)
-
 ___
 
 ### bDisableMotionData
 
 • **bDisableMotionData**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40502)
 
 ___
 
@@ -731,19 +495,11 @@ ___
 
 • **bEnableAdvertisingIdentifier**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:40488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40488)
-
 ___
 
 ### bEnableBackgroundFetch
 
 • **bEnableBackgroundFetch**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40470)
 
 ___
 
@@ -751,19 +507,11 @@ ___
 
 • **bEnableCloudKitSupport**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:40467](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40467)
-
 ___
 
 ### bEnableFacebookSupport
 
 • **bEnableFacebookSupport**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40518](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40518)
 
 ___
 
@@ -771,19 +519,11 @@ ___
 
 • **bEnableGameCenterSupport**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:40466](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40466)
-
 ___
 
 ### bEnableRemoteNotificationsSupport
 
 • **bEnableRemoteNotificationsSupport**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40469)
 
 ___
 
@@ -791,19 +531,11 @@ ___
 
 • **bGenerateCrashReportSymbols**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:40479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40479)
-
 ___
 
 ### bGenerateXCArchive
 
 • **bGenerateXCArchive**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40480)
 
 ___
 
@@ -811,19 +543,11 @@ ___
 
 • **bGeneratedSYMBundle**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:40478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40478)
-
 ___
 
 ### bGeneratedSYMFile
 
 • **bGeneratedSYMFile**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40477)
 
 ___
 
@@ -831,19 +555,11 @@ ___
 
 • **bResampleForDevice**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:40543](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40543)
-
 ___
 
 ### bShipForArm64
 
 • **bShipForArm64**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40485)
 
 ___
 
@@ -851,19 +567,11 @@ ___
 
 • **bShipForArmV7**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:40484](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40484)
-
 ___
 
 ### bShipForArmV7S
 
 • **bShipForArmV7S**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40486)
 
 ___
 
@@ -871,19 +579,11 @@ ___
 
 • **bShipForBitcode**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:40487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40487)
-
 ___
 
 ### bSupportsIPad
 
 • **bSupportsIPad**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40515)
 
 ___
 
@@ -891,19 +591,11 @@ ___
 
 • **bSupportsIPhone**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:40516](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40516)
-
 ___
 
 ### bSupportsITunesFileSharing
 
 • **bSupportsITunesFileSharing**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40507)
 
 ___
 
@@ -911,19 +603,11 @@ ___
 
 • **bSupportsLandscapeLeftOrientation**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:40505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40505)
-
 ___
 
 ### bSupportsLandscapeRightOrientation
 
 • **bSupportsLandscapeRightOrientation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40506)
 
 ___
 
@@ -931,19 +615,11 @@ ___
 
 • **bSupportsMetal**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:40471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40471)
-
 ___
 
 ### bSupportsMetalMRT
 
 • **bSupportsMetalMRT**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40472](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40472)
 
 ___
 
@@ -951,19 +627,11 @@ ___
 
 • **bSupportsPortraitOrientation**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:40503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40503)
-
 ___
 
 ### bSupportsUpsideDownOrientation
 
 • **bSupportsUpsideDownOrientation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40504)
 
 ___
 
@@ -971,19 +639,11 @@ ___
 
 • **bTreatRemoteAsSeparateController**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:40497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40497)
-
 ___
 
 ### bUseAudioStreamCaching
 
 • **bUseAudioStreamCaching**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40541](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40541)
 
 ___
 
@@ -991,19 +651,11 @@ ___
 
 • **bUseIntegratedKeyboard**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:40530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40530)
-
 ___
 
 ### bUseRSync
 
 • **bUseRSync**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40492)
 
 ___
 
@@ -1011,19 +663,11 @@ ___
 
 • **bUseRemoteAbsoluteDpadValues**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:40500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40500)
-
 ___
 
 ### bUseRemoteAsVirtualJoystick
 
 • **bUseRemoteAsVirtualJoystick**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40499)
 
 ## Methods
 
@@ -1049,10 +693,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -1073,10 +713,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -1090,10 +726,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -1109,10 +741,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -1127,10 +755,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -1144,10 +768,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -1170,10 +790,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:40553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40553)
-
 ___
 
 ### Load
@@ -1194,10 +810,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:40554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40554)
-
 ___
 
 ### StaticClass
@@ -1211,7 +823,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:40552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40552)

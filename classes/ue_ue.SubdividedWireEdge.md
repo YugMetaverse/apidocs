@@ -27,10 +27,6 @@
 
 • **new SubdividedWireEdge**()
 
-#### Defined in
-
-[ue/ue.d.ts:31794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31794)
-
 • **new SubdividedWireEdge**(`EdgeVertex0PositionIndex`, `EdgeVertex1PositionIndex`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `EdgeVertex0PositionIndex` | `number` |
 | `EdgeVertex1PositionIndex` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:31795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31795)
-
 ## Properties
 
 ### EdgeVertex0PositionIndex
 
 • **EdgeVertex0PositionIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31796)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **EdgeVertex1PositionIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31797](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31797)
-
 ___
 
 ### \_\_tid\_SubdividedWireEdge\_\_
 
 • `Private` **\_\_tid\_SubdividedWireEdge\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31803)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31801)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31802)

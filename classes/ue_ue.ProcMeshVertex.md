@@ -33,10 +33,6 @@
 
 • **new ProcMeshVertex**()
 
-#### Defined in
-
-[ue/ue.d.ts:42989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42989)
-
 • **new ProcMeshVertex**(`Position`, `Normal`, `Tangent`, `Color`, `UV0`, `UV1`, `UV2`, `UV3`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `UV2` | [`Vector2D`](ue_ue_s.Vector2D.md) |
 | `UV3` | [`Vector2D`](ue_ue_s.Vector2D.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:42990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42990)
-
 ## Properties
 
 ### Color
 
 • **Color**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:42994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42994)
 
 ___
 
@@ -72,19 +60,11 @@ ___
 
 • **Normal**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:42992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42992)
-
 ___
 
 ### Position
 
 • **Position**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:42991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42991)
 
 ___
 
@@ -92,19 +72,11 @@ ___
 
 • **Tangent**: [`ProcMeshTangent`](ue_ue.ProcMeshTangent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:42993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42993)
-
 ___
 
 ### UV0
 
 • **UV0**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:42995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42995)
 
 ___
 
@@ -112,19 +84,11 @@ ___
 
 • **UV1**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:42996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42996)
-
 ___
 
 ### UV2
 
 • **UV2**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:42997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42997)
 
 ___
 
@@ -132,19 +96,11 @@ ___
 
 • **UV3**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:42998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42998)
-
 ___
 
 ### \_\_tid\_ProcMeshVertex\_\_
 
 • `Private` **\_\_tid\_ProcMeshVertex\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43004)
 
 ## Methods
 
@@ -160,10 +116,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43002)
-
 ___
 
 ### StaticStruct
@@ -173,7 +125,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43003)

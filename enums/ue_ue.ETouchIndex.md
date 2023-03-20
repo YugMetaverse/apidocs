@@ -29,19 +29,11 @@
 
 • **CursorPointerIndex** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L893)
-
 ___
 
 ### ETouchIndex\_MAX
 
 • **ETouchIndex\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L893)
 
 ___
 
@@ -49,19 +41,11 @@ ___
 
 • **MAX\_TOUCHES** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L893)
-
 ___
 
 ### Touch1
 
 • **Touch1** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L893)
 
 ___
 
@@ -69,19 +53,11 @@ ___
 
 • **Touch10** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L893)
-
 ___
 
 ### Touch2
 
 • **Touch2** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L893)
 
 ___
 
@@ -89,19 +65,11 @@ ___
 
 • **Touch3** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L893)
-
 ___
 
 ### Touch4
 
 • **Touch4** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L893)
 
 ___
 
@@ -109,19 +77,11 @@ ___
 
 • **Touch5** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L893)
-
 ___
 
 ### Touch6
 
 • **Touch6** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L893)
 
 ___
 
@@ -129,19 +89,11 @@ ___
 
 • **Touch7** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L893)
-
 ___
 
 ### Touch8
 
 • **Touch8** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L893)
 
 ___
 
@@ -149,16 +101,8 @@ ___
 
 • **Touch9** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L893)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L893)

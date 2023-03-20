@@ -31,10 +31,6 @@
 
 [`Closure`](../classes/ffi.Closure-1.md)
 
-#### Defined in
-
-[ffi/index.d.ts:45](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L45)
-
 ▸ **alloc**(`func`, `returnType`, `parameterTypes`): [`Closure`](../classes/ffi.Closure-1.md)
 
 #### Parameters
@@ -48,10 +44,6 @@
 #### Returns
 
 [`Closure`](../classes/ffi.Closure-1.md)
-
-#### Defined in
-
-[ffi/index.d.ts:46](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L46)
 
 ___
 
@@ -69,10 +61,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ffi/index.d.ts:48](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L48)
-
 ___
 
 ### func
@@ -88,7 +76,3 @@ ___
 #### Returns
 
 [`CFunctionPointer`](../classes/ffi.CFunctionPointer.md)
-
-#### Defined in
-
-[ffi/index.d.ts:47](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L47)

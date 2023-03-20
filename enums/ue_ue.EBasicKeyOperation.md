@@ -19,19 +19,11 @@
 
 • **EBasicKeyOperation\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:24870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24870)
-
 ___
 
 ### NotSet
 
 • **NotSet** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:24870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24870)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Set** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:24870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24870)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:24870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24870)

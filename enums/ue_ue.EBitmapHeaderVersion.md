@@ -22,19 +22,11 @@
 
 • **BHV\_BITMAPINFOHEADER** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31384)
-
 ___
 
 ### BHV\_BITMAPV2INFOHEADER
 
 • **BHV\_BITMAPV2INFOHEADER** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31384)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **BHV\_BITMAPV3INFOHEADER** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31384)
-
 ___
 
 ### BHV\_BITMAPV4HEADER
 
 • **BHV\_BITMAPV4HEADER** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31384)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **BHV\_BITMAPV5HEADER** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31384)
-
 ___
 
 ### BHV\_MAX
 
 • **BHV\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31384)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31384)

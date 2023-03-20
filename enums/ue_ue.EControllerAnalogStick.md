@@ -19,19 +19,11 @@
 
 • **CAS\_LeftStick** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10470)
-
 ___
 
 ### CAS\_MAX
 
 • **CAS\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10470)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **CAS\_RightStick** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10470)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10470)

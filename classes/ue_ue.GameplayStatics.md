@@ -168,10 +168,6 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[constructor](ue_ue.BlueprintFunctionLibrary.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:36855](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36855)
-
 ## Properties
 
 ### \_\_tid\_BlueprintFunctionLibrary\_\_
@@ -182,19 +178,11 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_BlueprintFunctionLibrary__](ue_ue.BlueprintFunctionLibrary.md#__tid_blueprintfunctionlibrary__)
 
-#### Defined in
-
-[ue/ue.d.ts:13418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13418)
-
 ___
 
 ### \_\_tid\_GameplayStatics\_\_
 
 • **\_\_tid\_GameplayStatics\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36976)
 
 ___
 
@@ -205,10 +193,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_Object__](ue_ue.BlueprintFunctionLibrary.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -234,10 +218,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[CreateDefaultSubobject](ue_ue.BlueprintFunctionLibrary.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -258,10 +238,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[ExecuteUbergraph](ue_ue.BlueprintFunctionLibrary.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -275,10 +251,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetClass](ue_ue.BlueprintFunctionLibrary.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -294,10 +266,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetName](ue_ue.BlueprintFunctionLibrary.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -312,10 +280,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetOuter](ue_ue.BlueprintFunctionLibrary.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -329,10 +293,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetWorld](ue_ue.BlueprintFunctionLibrary.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -355,10 +315,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:36856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36856)
-
 ___
 
 ### ApplyDamage
@@ -378,10 +334,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:36857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36857)
 
 ___
 
@@ -404,10 +356,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:36858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36858)
 
 ___
 
@@ -433,10 +381,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36859](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36859)
 
 ___
 
@@ -465,10 +409,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:36860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36860)
-
 ___
 
 ### AreAnyListenersWithinRange
@@ -487,10 +427,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:36861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36861)
-
 ___
 
 ### AreSubtitlesEnabled
@@ -500,10 +436,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36862)
 
 ___
 
@@ -525,10 +457,6 @@ ___
 
 [`Actor`](ue_ue.Actor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36863)
-
 ___
 
 ### BeginSpawningActorFromBlueprint
@@ -547,10 +475,6 @@ ___
 #### Returns
 
 [`Actor`](ue_ue.Actor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36864)
 
 ___
 
@@ -571,10 +495,6 @@ ___
 #### Returns
 
 [`Actor`](ue_ue.Actor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36865)
 
 ___
 
@@ -601,10 +521,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:36869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36869)
-
 ___
 
 ### Blueprint\_PredictProjectilePath\_Advanced
@@ -622,10 +538,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36866)
 
 ___
 
@@ -658,10 +570,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:36867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36867)
-
 ___
 
 ### Blueprint\_PredictProjectilePath\_ByTraceChannel
@@ -692,10 +600,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36868)
 
 ___
 
@@ -729,10 +633,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:36870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36870)
-
 ___
 
 ### CancelAsyncLoading
@@ -742,10 +642,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:36871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36871)
 
 ___
 
@@ -766,10 +662,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:36872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36872)
-
 ___
 
 ### ClearSoundMixModifiers
@@ -785,10 +677,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:36873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36873)
 
 ___
 
@@ -808,10 +696,6 @@ ___
 
 [`PlayerController`](ue_ue.PlayerController.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36874)
-
 ___
 
 ### CreateSaveGameObject
@@ -827,10 +711,6 @@ ___
 #### Returns
 
 [`SaveGame`](ue_ue.SaveGame.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36875)
 
 ___
 
@@ -855,10 +735,6 @@ ___
 
 [`AudioComponent`](ue_ue.AudioComponent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36876)
-
 ___
 
 ### DeactivateReverbEffect
@@ -876,10 +752,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:36877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36877)
-
 ___
 
 ### DeleteGameInSlot
@@ -896,10 +768,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36878)
 
 ___
 
@@ -920,10 +788,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:36879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36879)
-
 ___
 
 ### DoesSaveGameExist
@@ -941,10 +805,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:36880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36880)
-
 ___
 
 ### EnableLiveStreaming
@@ -960,10 +820,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:36881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36881)
 
 ___
 
@@ -986,10 +842,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Find](ue_ue.BlueprintFunctionLibrary.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:36973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36973)
-
 ___
 
 ### FindCollisionUV
@@ -1008,10 +860,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:36882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36882)
-
 ___
 
 ### FinishSpawningActor
@@ -1029,10 +877,6 @@ ___
 
 [`Actor`](ue_ue.Actor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36883)
-
 ___
 
 ### FlushLevelStreaming
@@ -1048,10 +892,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:36884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36884)
 
 ___
 
@@ -1071,10 +911,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:36885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36885)
-
 ___
 
 ### GetActorArrayAverageLocation
@@ -1090,10 +926,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36886)
 
 ___
 
@@ -1114,10 +946,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:36887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36887)
-
 ___
 
 ### GetActorOfClass
@@ -1134,10 +962,6 @@ ___
 #### Returns
 
 [`Actor`](ue_ue.Actor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36888)
 
 ___
 
@@ -1156,10 +980,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:36889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36889)
 
 ___
 
@@ -1180,10 +1000,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:36890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36890)
-
 ___
 
 ### GetAllActorsWithInterface
@@ -1201,10 +1017,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:36891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36891)
 
 ___
 
@@ -1224,10 +1036,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:36892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36892)
-
 ___
 
 ### GetAudioTimeSeconds
@@ -1243,10 +1051,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:36893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36893)
 
 ___
 
@@ -1265,10 +1069,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:36894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36894)
-
 ___
 
 ### GetCurrentReverbEffect
@@ -1284,10 +1084,6 @@ ___
 #### Returns
 
 [`ReverbEffect`](ue_ue.ReverbEffect.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36895)
 
 ___
 
@@ -1305,10 +1101,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:36896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36896)
-
 ___
 
 ### GetGameInstance
@@ -1324,10 +1116,6 @@ ___
 #### Returns
 
 [`GameInstance`](ue_ue.GameInstance.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36897)
 
 ___
 
@@ -1345,10 +1133,6 @@ ___
 
 [`GameModeBase`](ue_ue.GameModeBase.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36898)
-
 ___
 
 ### GetGameState
@@ -1365,10 +1149,6 @@ ___
 
 [`GameStateBase`](ue_ue.GameStateBase.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36899)
-
 ___
 
 ### GetGlobalTimeDilation
@@ -1384,10 +1164,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:36900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36900)
 
 ___
 
@@ -1407,10 +1183,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:36901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36901)
-
 ___
 
 ### GetKeyValue
@@ -1429,10 +1201,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:36902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36902)
-
 ___
 
 ### GetMaxAudioChannelCount
@@ -1448,10 +1216,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:36903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36903)
 
 ___
 
@@ -1469,10 +1233,6 @@ ___
 
 [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36904)
-
 ___
 
 ### GetPlatformName
@@ -1482,10 +1242,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:36905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36905)
 
 ___
 
@@ -1504,10 +1260,6 @@ ___
 
 [`PlayerCameraManager`](ue_ue.PlayerCameraManager.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36906)
-
 ___
 
 ### GetPlayerCharacter
@@ -1524,10 +1276,6 @@ ___
 #### Returns
 
 [`Character`](ue_ue.Character.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36907)
 
 ___
 
@@ -1546,10 +1294,6 @@ ___
 
 [`PlayerController`](ue_ue.PlayerController.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36908)
-
 ___
 
 ### GetPlayerControllerFromID
@@ -1567,10 +1311,6 @@ ___
 
 [`PlayerController`](ue_ue.PlayerController.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36909)
-
 ___
 
 ### GetPlayerControllerID
@@ -1586,10 +1326,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:36910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36910)
 
 ___
 
@@ -1608,10 +1344,6 @@ ___
 
 [`Pawn`](ue_ue.Pawn.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36911)
-
 ___
 
 ### GetRealTimeSeconds
@@ -1627,10 +1359,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:36912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36912)
 
 ___
 
@@ -1649,10 +1377,6 @@ ___
 
 [`LevelStreaming`](ue_ue.LevelStreaming.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36913)
-
 ___
 
 ### GetSurfaceType
@@ -1668,10 +1392,6 @@ ___
 #### Returns
 
 [`EPhysicalSurface`](../enums/ue_ue.EPhysicalSurface.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36914)
 
 ___
 
@@ -1689,10 +1409,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:36915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36915)
-
 ___
 
 ### GetUnpausedTimeSeconds
@@ -1708,10 +1424,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:36916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36916)
 
 ___
 
@@ -1732,10 +1444,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:36918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36918)
-
 ___
 
 ### GetViewportMouseCaptureMode
@@ -1751,10 +1459,6 @@ ___
 #### Returns
 
 [`EMouseCaptureMode`](../enums/ue_ue.EMouseCaptureMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36917)
 
 ___
 
@@ -1772,10 +1476,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:36919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36919)
-
 ___
 
 ### GetWorldOriginLocation
@@ -1791,10 +1491,6 @@ ___
 #### Returns
 
 [`IntVector`](ue_ue_s.IntVector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36920)
 
 ___
 
@@ -1815,10 +1511,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:36921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36921)
-
 ___
 
 ### HasLaunchOption
@@ -1834,10 +1526,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36922)
 
 ___
 
@@ -1856,10 +1544,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:36923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36923)
-
 ___
 
 ### IsGamePaused
@@ -1876,10 +1560,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:36924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36924)
-
 ___
 
 ### IsSplitscreenForceDisabled
@@ -1895,10 +1575,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36925)
 
 ___
 
@@ -1920,10 +1596,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Load](ue_ue.BlueprintFunctionLibrary.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:36974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36974)
-
 ___
 
 ### LoadGameFromSlot
@@ -1940,10 +1612,6 @@ ___
 #### Returns
 
 [`SaveGame`](ue_ue.SaveGame.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36926)
 
 ___
 
@@ -1964,10 +1632,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:36927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36927)
 
 ___
 
@@ -2000,10 +1664,6 @@ ___
 
 [`HitResult`](ue_ue.HitResult.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36928)
-
 ___
 
 ### OpenLevel
@@ -2023,10 +1683,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:36929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36929)
-
 ___
 
 ### ParseOption
@@ -2043,10 +1699,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:36930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36930)
 
 ___
 
@@ -2068,10 +1720,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:36931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36931)
 
 ___
 
@@ -2097,10 +1745,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:36932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36932)
-
 ___
 
 ### PlaySound2D
@@ -2122,10 +1766,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:36933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36933)
 
 ___
 
@@ -2152,10 +1792,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:36934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36934)
-
 ___
 
 ### PlayWorldCameraShake
@@ -2178,10 +1814,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:36935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36935)
-
 ___
 
 ### PopSoundMixModifier
@@ -2199,10 +1831,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:36936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36936)
-
 ___
 
 ### PrimeSound
@@ -2218,10 +1846,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:36937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36937)
 
 ___
 
@@ -2242,10 +1866,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:36938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36938)
-
 ___
 
 ### PushSoundMixModifier
@@ -2262,10 +1882,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:36939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36939)
 
 ___
 
@@ -2284,10 +1900,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36940)
-
 ___
 
 ### RebaseZeroOriginOntoLocal
@@ -2305,10 +1917,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36941)
-
 ___
 
 ### RemovePlayer
@@ -2325,10 +1933,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:36942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36942)
 
 ___
 
@@ -2348,10 +1952,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:36943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36943)
-
 ___
 
 ### SetBaseSoundMix
@@ -2368,10 +1968,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:36944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36944)
 
 ___
 
@@ -2390,10 +1986,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:36945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36945)
-
 ___
 
 ### SetForceDisableSplitscreen
@@ -2411,10 +2003,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:36946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36946)
-
 ___
 
 ### SetGamePaused
@@ -2431,10 +2019,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36947)
 
 ___
 
@@ -2460,10 +2044,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:36948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36948)
-
 ___
 
 ### SetGlobalPitchModulation
@@ -2482,10 +2062,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:36949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36949)
-
 ___
 
 ### SetGlobalTimeDilation
@@ -2502,10 +2078,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:36950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36950)
 
 ___
 
@@ -2524,10 +2096,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:36951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36951)
-
 ___
 
 ### SetPlayerControllerID
@@ -2544,10 +2112,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:36952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36952)
 
 ___
 
@@ -2571,10 +2135,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:36953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36953)
-
 ___
 
 ### SetSubtitlesEnabled
@@ -2590,10 +2150,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:36954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36954)
 
 ___
 
@@ -2612,10 +2168,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:36955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36955)
-
 ___
 
 ### SetWorldOriginLocation
@@ -2632,10 +2184,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:36956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36956)
 
 ___
 
@@ -2657,10 +2205,6 @@ ___
 #### Returns
 
 [`DecalComponent`](ue_ue.DecalComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36957)
 
 ___
 
@@ -2685,10 +2229,6 @@ ___
 
 [`DecalComponent`](ue_ue.DecalComponent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36958)
-
 ___
 
 ### SpawnDialogue2D
@@ -2710,10 +2250,6 @@ ___
 #### Returns
 
 [`AudioComponent`](ue_ue.AudioComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36959)
 
 ___
 
@@ -2739,10 +2275,6 @@ ___
 #### Returns
 
 [`AudioComponent`](ue_ue.AudioComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36960)
 
 ___
 
@@ -2772,10 +2304,6 @@ ___
 
 [`AudioComponent`](ue_ue.AudioComponent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36961)
-
 ___
 
 ### SpawnEmitterAtLocation
@@ -2798,10 +2326,6 @@ ___
 #### Returns
 
 [`ParticleSystemComponent`](ue_ue.ParticleSystemComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36962)
 
 ___
 
@@ -2828,10 +2352,6 @@ ___
 
 [`ParticleSystemComponent`](ue_ue.ParticleSystemComponent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36963)
-
 ___
 
 ### SpawnForceFeedbackAtLocation
@@ -2855,10 +2375,6 @@ ___
 #### Returns
 
 [`ForceFeedbackComponent`](ue_ue.ForceFeedbackComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36964](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36964)
 
 ___
 
@@ -2887,10 +2403,6 @@ ___
 
 [`ForceFeedbackComponent`](ue_ue.ForceFeedbackComponent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36965](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36965)
-
 ___
 
 ### SpawnObject
@@ -2907,10 +2419,6 @@ ___
 #### Returns
 
 [`Object`](ue_ue.Object.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36966)
 
 ___
 
@@ -2934,10 +2442,6 @@ ___
 #### Returns
 
 [`AudioComponent`](ue_ue.AudioComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36967)
 
 ___
 
@@ -2963,10 +2467,6 @@ ___
 #### Returns
 
 [`AudioComponent`](ue_ue.AudioComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36968)
 
 ___
 
@@ -2996,10 +2496,6 @@ ___
 
 [`AudioComponent`](ue_ue.AudioComponent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36969)
-
 ___
 
 ### StaticClass
@@ -3013,10 +2509,6 @@ ___
 #### Overrides
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[StaticClass](ue_ue.BlueprintFunctionLibrary.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:36972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36972)
 
 ___
 
@@ -3039,10 +2531,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:36970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36970)
-
 ___
 
 ### UnloadStreamLevel
@@ -3061,7 +2549,3 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:36971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36971)

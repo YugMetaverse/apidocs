@@ -21,19 +21,11 @@
 
 • **EARWorldMappingState\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20923)
-
 ___
 
 ### Mapped
 
 • **Mapped** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20923)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **NotAvailable** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20923)
-
 ___
 
 ### StillMappingNotRelocalizable
 
 • **StillMappingNotRelocalizable** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20923)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **StillMappingRelocalizable** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20923)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20923)

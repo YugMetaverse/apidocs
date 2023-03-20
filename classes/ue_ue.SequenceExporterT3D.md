@@ -65,10 +65,6 @@
 
 [Exporter](ue_ue.Exporter.md).[constructor](ue_ue.Exporter.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:60071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60071)
-
 ## Properties
 
 ### ExportRootScope
@@ -78,10 +74,6 @@
 #### Inherited from
 
 [Exporter](ue_ue.Exporter.md).[ExportRootScope](ue_ue.Exporter.md#exportrootscope)
-
-#### Defined in
-
-[ue/ue.d.ts:20322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20322)
 
 ___
 
@@ -93,10 +85,6 @@ ___
 
 [Exporter](ue_ue.Exporter.md).[ExportTask](ue_ue.Exporter.md#exporttask)
 
-#### Defined in
-
-[ue/ue.d.ts:20330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20330)
-
 ___
 
 ### FormatDescription
@@ -106,10 +94,6 @@ ___
 #### Inherited from
 
 [Exporter](ue_ue.Exporter.md).[FormatDescription](ue_ue.Exporter.md#formatdescription)
-
-#### Defined in
-
-[ue/ue.d.ts:20324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20324)
 
 ___
 
@@ -121,10 +105,6 @@ ___
 
 [Exporter](ue_ue.Exporter.md).[FormatExtension](ue_ue.Exporter.md#formatextension)
 
-#### Defined in
-
-[ue/ue.d.ts:20323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20323)
-
 ___
 
 ### PreferredFormatIndex
@@ -134,10 +114,6 @@ ___
 #### Inherited from
 
 [Exporter](ue_ue.Exporter.md).[PreferredFormatIndex](ue_ue.Exporter.md#preferredformatindex)
-
-#### Defined in
-
-[ue/ue.d.ts:20325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20325)
 
 ___
 
@@ -149,10 +125,6 @@ ___
 
 [Exporter](ue_ue.Exporter.md).[SupportedClass](ue_ue.Exporter.md#supportedclass)
 
-#### Defined in
-
-[ue/ue.d.ts:20321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20321)
-
 ___
 
 ### TextIndent
@@ -162,10 +134,6 @@ ___
 #### Inherited from
 
 [Exporter](ue_ue.Exporter.md).[TextIndent](ue_ue.Exporter.md#textindent)
-
-#### Defined in
-
-[ue/ue.d.ts:20326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20326)
 
 ___
 
@@ -177,10 +145,6 @@ ___
 
 [Exporter](ue_ue.Exporter.md).[__tid_Exporter__](ue_ue.Exporter.md#__tid_exporter__)
 
-#### Defined in
-
-[ue/ue.d.ts:20338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20338)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -191,19 +155,11 @@ ___
 
 [Exporter](ue_ue.Exporter.md).[__tid_Object__](ue_ue.Exporter.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_SequenceExporterT3D\_\_
 
 • **\_\_tid\_SequenceExporterT3D\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:60076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60076)
 
 ___
 
@@ -215,10 +171,6 @@ ___
 
 [Exporter](ue_ue.Exporter.md).[bForceFileOperations](ue_ue.Exporter.md#bforcefileoperations)
 
-#### Defined in
-
-[ue/ue.d.ts:20329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20329)
-
 ___
 
 ### bSelectedOnly
@@ -229,10 +181,6 @@ ___
 
 [Exporter](ue_ue.Exporter.md).[bSelectedOnly](ue_ue.Exporter.md#bselectedonly)
 
-#### Defined in
-
-[ue/ue.d.ts:20328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20328)
-
 ___
 
 ### bText
@@ -242,10 +190,6 @@ ___
 #### Inherited from
 
 [Exporter](ue_ue.Exporter.md).[bText](ue_ue.Exporter.md#btext)
-
-#### Defined in
-
-[ue/ue.d.ts:20327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20327)
 
 ## Methods
 
@@ -271,10 +215,6 @@ ___
 
 [Exporter](ue_ue.Exporter.md).[CreateDefaultSubobject](ue_ue.Exporter.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -295,10 +235,6 @@ ___
 
 [Exporter](ue_ue.Exporter.md).[ExecuteUbergraph](ue_ue.Exporter.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -312,10 +248,6 @@ ___
 #### Inherited from
 
 [Exporter](ue_ue.Exporter.md).[GetClass](ue_ue.Exporter.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -331,10 +263,6 @@ ___
 
 [Exporter](ue_ue.Exporter.md).[GetName](ue_ue.Exporter.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -349,10 +277,6 @@ ___
 
 [Exporter](ue_ue.Exporter.md).[GetOuter](ue_ue.Exporter.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -366,10 +290,6 @@ ___
 #### Inherited from
 
 [Exporter](ue_ue.Exporter.md).[GetWorld](ue_ue.Exporter.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -390,10 +310,6 @@ ___
 #### Inherited from
 
 [Exporter](ue_ue.Exporter.md).[ScriptRunAssetExportTask](ue_ue.Exporter.md#scriptrunassetexporttask)
-
-#### Defined in
-
-[ue/ue.d.ts:20331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20331)
 
 ___
 
@@ -416,10 +332,6 @@ ___
 
 [Exporter](ue_ue.Exporter.md).[Find](ue_ue.Exporter.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:60073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60073)
-
 ___
 
 ### Load
@@ -439,10 +351,6 @@ ___
 #### Overrides
 
 [Exporter](ue_ue.Exporter.md).[Load](ue_ue.Exporter.md#load)
-
-#### Defined in
-
-[ue/ue.d.ts:60074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60074)
 
 ___
 
@@ -464,10 +372,6 @@ ___
 
 [Exporter](ue_ue.Exporter.md).[RunAssetExportTask](ue_ue.Exporter.md#runassetexporttask)
 
-#### Defined in
-
-[ue/ue.d.ts:20332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20332)
-
 ___
 
 ### RunAssetExportTasks
@@ -488,10 +392,6 @@ ___
 
 [Exporter](ue_ue.Exporter.md).[RunAssetExportTasks](ue_ue.Exporter.md#runassetexporttasks)
 
-#### Defined in
-
-[ue/ue.d.ts:20333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20333)
-
 ___
 
 ### StaticClass
@@ -505,7 +405,3 @@ ___
 #### Overrides
 
 [Exporter](ue_ue.Exporter.md).[StaticClass](ue_ue.Exporter.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:60072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60072)

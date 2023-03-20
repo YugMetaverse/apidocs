@@ -20,19 +20,11 @@
 
 • **DM\_High** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6733)
-
 ___
 
 ### DM\_Low
 
 • **DM\_Low** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6733)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **DM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6733)
-
 ___
 
 ### DM\_Medium
 
 • **DM\_Medium** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6733)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6733)

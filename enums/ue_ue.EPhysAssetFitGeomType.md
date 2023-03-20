@@ -23,19 +23,11 @@
 
 • **EFG\_Box** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34671)
-
 ___
 
 ### EFG\_MAX
 
 • **EFG\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34671)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **EFG\_MultiConvexHull** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34671)
-
 ___
 
 ### EFG\_SingleConvexHull
 
 • **EFG\_SingleConvexHull** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34671)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **EFG\_Sphere** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34671)
-
 ___
 
 ### EFG\_Sphyl
 
 • **EFG\_Sphyl** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34671)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **EFG\_TaperedCapsule** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34671)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34671)

@@ -26,19 +26,11 @@
 
 • **PlayMode\_Count** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34679)
-
 ___
 
 ### PlayMode\_InEditorFloating
 
 • **PlayMode\_InEditorFloating** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34679)
 
 ___
 
@@ -46,19 +38,11 @@ ___
 
 • **PlayMode\_InMobilePreview** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34679)
-
 ___
 
 ### PlayMode\_InNewProcess
 
 • **PlayMode\_InNewProcess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34679)
 
 ___
 
@@ -66,19 +50,11 @@ ___
 
 • **PlayMode\_InTargetedMobilePreview** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34679)
-
 ___
 
 ### PlayMode\_InVR
 
 • **PlayMode\_InVR** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34679)
 
 ___
 
@@ -86,19 +62,11 @@ ___
 
 • **PlayMode\_InViewPort** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34679)
-
 ___
 
 ### PlayMode\_InVulkanPreview
 
 • **PlayMode\_InVulkanPreview** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34679)
 
 ___
 
@@ -106,26 +74,14 @@ ___
 
 • **PlayMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34679)
-
 ___
 
 ### PlayMode\_Simulate
 
 • **PlayMode\_Simulate** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34679)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34679)

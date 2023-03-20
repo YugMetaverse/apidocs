@@ -21,19 +21,11 @@
 
 • **CookByTheBook** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31421)
-
 ___
 
 ### CookByTheBookFromTheEditor
 
 • **CookByTheBookFromTheEditor** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31421)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **CookOnTheFly** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31421)
-
 ___
 
 ### CookOnTheFlyFromTheEditor
 
 • **CookOnTheFlyFromTheEditor** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31421)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **ECookMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31421)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31421)

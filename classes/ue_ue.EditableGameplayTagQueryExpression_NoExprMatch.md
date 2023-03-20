@@ -53,29 +53,17 @@
 
 [EditableGameplayTagQueryExpression](ue_ue.EditableGameplayTagQueryExpression.md).[constructor](ue_ue.EditableGameplayTagQueryExpression.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:31564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31564)
-
 ## Properties
 
 ### Expressions
 
 • **Expressions**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`EditableGameplayTagQueryExpression`](ue_ue.EditableGameplayTagQueryExpression.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:31565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31565)
-
 ___
 
 ### \_\_tid\_EditableGameplayTagQueryExpression\_NoExprMatch\_\_
 
 • **\_\_tid\_EditableGameplayTagQueryExpression\_NoExprMatch\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31570)
 
 ___
 
@@ -87,10 +75,6 @@ ___
 
 [EditableGameplayTagQueryExpression](ue_ue.EditableGameplayTagQueryExpression.md).[__tid_EditableGameplayTagQueryExpression__](ue_ue.EditableGameplayTagQueryExpression.md#__tid_editablegameplaytagqueryexpression__)
 
-#### Defined in
-
-[ue/ue.d.ts:31508](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31508)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -100,10 +84,6 @@ ___
 #### Inherited from
 
 [EditableGameplayTagQueryExpression](ue_ue.EditableGameplayTagQueryExpression.md).[__tid_Object__](ue_ue.EditableGameplayTagQueryExpression.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -129,10 +109,6 @@ ___
 
 [EditableGameplayTagQueryExpression](ue_ue.EditableGameplayTagQueryExpression.md).[CreateDefaultSubobject](ue_ue.EditableGameplayTagQueryExpression.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -153,10 +129,6 @@ ___
 
 [EditableGameplayTagQueryExpression](ue_ue.EditableGameplayTagQueryExpression.md).[ExecuteUbergraph](ue_ue.EditableGameplayTagQueryExpression.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -170,10 +142,6 @@ ___
 #### Inherited from
 
 [EditableGameplayTagQueryExpression](ue_ue.EditableGameplayTagQueryExpression.md).[GetClass](ue_ue.EditableGameplayTagQueryExpression.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -189,10 +157,6 @@ ___
 
 [EditableGameplayTagQueryExpression](ue_ue.EditableGameplayTagQueryExpression.md).[GetName](ue_ue.EditableGameplayTagQueryExpression.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -207,10 +171,6 @@ ___
 
 [EditableGameplayTagQueryExpression](ue_ue.EditableGameplayTagQueryExpression.md).[GetOuter](ue_ue.EditableGameplayTagQueryExpression.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -224,10 +184,6 @@ ___
 #### Inherited from
 
 [EditableGameplayTagQueryExpression](ue_ue.EditableGameplayTagQueryExpression.md).[GetWorld](ue_ue.EditableGameplayTagQueryExpression.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -250,10 +206,6 @@ ___
 
 [EditableGameplayTagQueryExpression](ue_ue.EditableGameplayTagQueryExpression.md).[Find](ue_ue.EditableGameplayTagQueryExpression.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:31567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31567)
-
 ___
 
 ### Load
@@ -274,10 +226,6 @@ ___
 
 [EditableGameplayTagQueryExpression](ue_ue.EditableGameplayTagQueryExpression.md).[Load](ue_ue.EditableGameplayTagQueryExpression.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:31568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31568)
-
 ___
 
 ### StaticClass
@@ -291,7 +239,3 @@ ___
 #### Overrides
 
 [EditableGameplayTagQueryExpression](ue_ue.EditableGameplayTagQueryExpression.md).[StaticClass](ue_ue.EditableGameplayTagQueryExpression.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:31566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31566)

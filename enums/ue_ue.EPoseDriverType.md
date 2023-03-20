@@ -20,19 +20,11 @@
 
 • **EPoseDriverType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19202)
-
 ___
 
 ### SwingAndTwist
 
 • **SwingAndTwist** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19202)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **SwingOnly** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19202)
-
 ___
 
 ### Translation
 
 • **Translation** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19202)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19202)

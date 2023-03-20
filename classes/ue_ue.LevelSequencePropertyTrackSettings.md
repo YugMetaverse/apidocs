@@ -27,10 +27,6 @@
 
 • **new LevelSequencePropertyTrackSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:45205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45205)
-
 • **new LevelSequencePropertyTrackSettings**(`ComponentPath`, `PropertyPath`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `ComponentPath` | `string` |
 | `PropertyPath` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:45206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45206)
-
 ## Properties
 
 ### ComponentPath
 
 • **ComponentPath**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:45207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45207)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **PropertyPath**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:45208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45208)
-
 ___
 
 ### \_\_tid\_LevelSequencePropertyTrackSettings\_\_
 
 • `Private` **\_\_tid\_LevelSequencePropertyTrackSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45214)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:45212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45212)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:45213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45213)

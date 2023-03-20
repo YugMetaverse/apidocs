@@ -22,19 +22,11 @@
 
 • **Animation** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2312)
-
 ___
 
 ### AnimationRelative
 
 • **AnimationRelative** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2312)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **AnimationScaled** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2312)
-
 ___
 
 ### EBoneTranslationRetargetingMode\_MAX
 
 • **EBoneTranslationRetargetingMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2312)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **OrientAndScale** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2312)
-
 ___
 
 ### Skeleton
 
 • **Skeleton** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2312)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2312)

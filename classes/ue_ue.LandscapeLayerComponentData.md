@@ -27,10 +27,6 @@
 
 • **new LandscapeLayerComponentData**()
 
-#### Defined in
-
-[ue/ue.d.ts:43949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43949)
-
 • **new LandscapeLayerComponentData**(`HeightmapData`, `WeightmapData`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `HeightmapData` | [`HeightmapData`](ue_ue.HeightmapData.md) |
 | `WeightmapData` | [`WeightmapData`](ue_ue.WeightmapData.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:43950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43950)
-
 ## Properties
 
 ### HeightmapData
 
 • **HeightmapData**: [`HeightmapData`](ue_ue.HeightmapData.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43951)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **WeightmapData**: [`WeightmapData`](ue_ue.WeightmapData.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43952)
-
 ___
 
 ### \_\_tid\_LandscapeLayerComponentData\_\_
 
 • `Private` **\_\_tid\_LandscapeLayerComponentData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43958)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43956)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43957)

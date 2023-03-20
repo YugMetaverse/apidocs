@@ -29,10 +29,6 @@
 
 • **new VirtualTextureBuildSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L545)
-
 • **new VirtualTextureBuildSettings**(`TileSize`, `TileBorderSize`, `bEnableCompressCrunch`, `bEnableCompressZlib`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `bEnableCompressCrunch` | `boolean` |
 | `bEnableCompressZlib` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L546)
-
 ## Properties
 
 ### TileBorderSize
 
 • **TileBorderSize**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L548)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **TileSize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L547)
-
 ___
 
 ### \_\_tid\_VirtualTextureBuildSettings\_\_
 
 • `Private` **\_\_tid\_VirtualTextureBuildSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L556)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **bEnableCompressCrunch**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:549](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L549)
-
 ___
 
 ### bEnableCompressZlib
 
 • **bEnableCompressZlib**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:550](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L550)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L554)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L555)

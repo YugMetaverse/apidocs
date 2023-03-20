@@ -20,19 +20,11 @@
 
 • **ESlateBrushImageType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10897)
-
 ___
 
 ### FullColor
 
 • **FullColor** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10897)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Linear** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10897)
-
 ___
 
 ### NoImage
 
 • **NoImage** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10897)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10897)

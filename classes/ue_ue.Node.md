@@ -30,10 +30,6 @@
 
 • **new Node**()
 
-#### Defined in
-
-[ue/ue.d.ts:2458](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2458)
-
 • **new Node**(`Name`, `ParentName`, `Transform`, `DisplayName`, `bAdvanced`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `DisplayName` | `string` |
 | `bAdvanced` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:2459](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2459)
-
 ## Properties
 
 ### DisplayName
 
 • **DisplayName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:2463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2463)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:2460](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2460)
-
 ___
 
 ### ParentName
 
 • **ParentName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:2461](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2461)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **Transform**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2462](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2462)
-
 ___
 
 ### \_\_tid\_Node\_\_
 
 • `Private` **\_\_tid\_Node\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:2470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2470)
-
 ___
 
 ### bAdvanced
 
 • **bAdvanced**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2464)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2468)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2469)

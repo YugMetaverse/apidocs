@@ -20,19 +20,11 @@
 
 • **Checked** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10922)
-
 ___
 
 ### ECheckBoxState\_MAX
 
 • **ECheckBoxState\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10922)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Unchecked** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10922)
-
 ___
 
 ### Undetermined
 
 • **Undetermined** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10922)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10922)

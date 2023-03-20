@@ -22,19 +22,11 @@
 
 • **Aborted** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14820)
-
 ___
 
 ### EPawnActionResult\_MAX
 
 • **EPawnActionResult\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14820)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **Failed** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14820)
-
 ___
 
 ### InProgress
 
 • **InProgress** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14820)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **NotStarted** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14820)
-
 ___
 
 ### Success
 
 • **Success** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14820)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14820)

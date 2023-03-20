@@ -19,19 +19,11 @@
 
 • **EWidgetTestAppearLocation\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34884)
-
 ___
 
 ### PlayerScreen
 
 • **PlayerScreen** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34884)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Viewport** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34884)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34884)

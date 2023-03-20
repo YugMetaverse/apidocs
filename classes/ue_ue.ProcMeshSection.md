@@ -30,10 +30,6 @@
 
 • **new ProcMeshSection**()
 
-#### Defined in
-
-[ue/ue.d.ts:43008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43008)
-
 • **new ProcMeshSection**(`ProcVertexBuffer`, `ProcIndexBuffer`, `SectionLocalBox`, `bEnableCollision`, `bSectionVisible`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `bEnableCollision` | `boolean` |
 | `bSectionVisible` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:43009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43009)
-
 ## Properties
 
 ### ProcIndexBuffer
 
 • **ProcIndexBuffer**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:43011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43011)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **ProcVertexBuffer**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ProcMeshVertex`](ue_ue.ProcMeshVertex.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:43010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43010)
-
 ___
 
 ### SectionLocalBox
 
 • **SectionLocalBox**: [`Box`](ue_ue.Box.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43012)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • `Private` **\_\_tid\_ProcMeshSection\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43020)
-
 ___
 
 ### bEnableCollision
 
 • **bEnableCollision**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43013)
-
 ___
 
 ### bSectionVisible
 
 • **bSectionVisible**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43014)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43018)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43019)

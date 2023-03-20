@@ -26,10 +26,6 @@
 
 • **new LiveLinkCurveConversionSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:45860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45860)
-
 • **new LiveLinkCurveConversionSettings**(`CurveConversionAssetMap`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `CurveConversionAssetMap` | [`TMap`](../interfaces/ue_puerts.TMap.md)<`string`, [`SoftObjectPath`](ue_ue.SoftObjectPath.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:45861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45861)
-
 ## Properties
 
 ### CurveConversionAssetMap
 
 • **CurveConversionAssetMap**: [`TMap`](../interfaces/ue_puerts.TMap.md)<`string`, [`SoftObjectPath`](ue_ue.SoftObjectPath.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:45862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45862)
-
 ___
 
 ### \_\_tid\_LiveLinkCurveConversionSettings\_\_
 
 • `Private` **\_\_tid\_LiveLinkCurveConversionSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45868)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:45866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45866)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:45867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45867)

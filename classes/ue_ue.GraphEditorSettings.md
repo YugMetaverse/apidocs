@@ -116,19 +116,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:38260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38260)
-
 ## Properties
 
 ### BackwardSplineHorizontalDeltaRange
 
 • **BackwardSplineHorizontalDeltaRange**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:38274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38274)
 
 ___
 
@@ -136,19 +128,11 @@ ___
 
 • **BackwardSplineTangentFromHorizontalDelta**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38276)
-
 ___
 
 ### BackwardSplineTangentFromVerticalDelta
 
 • **BackwardSplineTangentFromVerticalDelta**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38277)
 
 ___
 
@@ -156,19 +140,11 @@ ___
 
 • **BackwardSplineVerticalDeltaRange**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:38275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38275)
-
 ___
 
 ### BooleanPinTypeColor
 
 • **BooleanPinTypeColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38280)
 
 ___
 
@@ -176,19 +152,11 @@ ___
 
 • **BytePinTypeColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38281)
-
 ___
 
 ### ClassPinTypeColor
 
 • **ClassPinTypeColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38282)
 
 ___
 
@@ -196,19 +164,11 @@ ___
 
 • **DataPinStyle**: [`EBlueprintPinStyleType`](../enums/ue_ue.EBlueprintPinStyleType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38261)
-
 ___
 
 ### DefaultCommentNodeTitleColor
 
 • **DefaultCommentNodeTitleColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38308)
 
 ___
 
@@ -216,19 +176,11 @@ ___
 
 • **DefaultDataWireThickness**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:38310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38310)
-
 ___
 
 ### DefaultExecutionWireThickness
 
 • **DefaultExecutionWireThickness**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:38311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38311)
 
 ___
 
@@ -236,19 +188,11 @@ ___
 
 • **DefaultPinTypeColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38278)
-
 ___
 
 ### DelegatePinTypeColor
 
 • **DelegatePinTypeColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38289)
 
 ___
 
@@ -256,19 +200,11 @@ ___
 
 • **EventNodeTitleColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38300)
-
 ___
 
 ### ExecBranchNodeTitleColor
 
 • **ExecBranchNodeTitleColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38305)
 
 ___
 
@@ -276,19 +212,11 @@ ___
 
 • **ExecSequenceNodeTitleColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38306)
-
 ___
 
 ### ExecutionPinTypeColor
 
 • **ExecutionPinTypeColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38279)
 
 ___
 
@@ -296,19 +224,11 @@ ___
 
 • **FloatPinTypeColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38285)
-
 ___
 
 ### ForwardSplineHorizontalDeltaRange
 
 • **ForwardSplineHorizontalDeltaRange**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:38270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38270)
 
 ___
 
@@ -316,19 +236,11 @@ ___
 
 • **ForwardSplineTangentFromHorizontalDelta**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38272)
-
 ___
 
 ### ForwardSplineTangentFromVerticalDelta
 
 • **ForwardSplineTangentFromVerticalDelta**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38273)
 
 ___
 
@@ -336,19 +248,11 @@ ___
 
 • **ForwardSplineVerticalDeltaRange**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:38271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38271)
-
 ___
 
 ### FunctionCallNodeTitleColor
 
 • **FunctionCallNodeTitleColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38301)
 
 ___
 
@@ -356,19 +260,11 @@ ___
 
 • **FunctionTerminatorNodeTitleColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38304)
-
 ___
 
 ### IndexPinTypeColor
 
 • **IndexPinTypeColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38299)
 
 ___
 
@@ -376,19 +272,11 @@ ___
 
 • **Int64PinTypeColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38284)
-
 ___
 
 ### IntPinTypeColor
 
 • **IntPinTypeColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38283)
 
 ___
 
@@ -396,19 +284,11 @@ ___
 
 • **InterfacePinTypeColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38291)
-
 ___
 
 ### NamePinTypeColor
 
 • **NamePinTypeColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38286)
 
 ___
 
@@ -416,19 +296,11 @@ ___
 
 • **ObjectPinTypeColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38290)
-
 ___
 
 ### PaddingAbovePin
 
 • **PaddingAbovePin**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:38263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38263)
 
 ___
 
@@ -436,19 +308,11 @@ ___
 
 • **PaddingBelowPin**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:38264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38264)
-
 ___
 
 ### PaddingLeftOfOutput
 
 • **PaddingLeftOfOutput**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:38266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38266)
 
 ___
 
@@ -456,19 +320,11 @@ ___
 
 • **PaddingRightOfInput**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:38265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38265)
-
 ___
 
 ### PaddingTowardsNodeEdge
 
 • **PaddingTowardsNodeEdge**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:38267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38267)
 
 ___
 
@@ -476,19 +332,11 @@ ___
 
 • **PanningMouseButton**: [`EGraphPanningMouseButton`](../enums/ue_ue.EGraphPanningMouseButton.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38262)
-
 ___
 
 ### ParentFunctionCallNodeTitleColor
 
 • **ParentFunctionCallNodeTitleColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38303)
 
 ___
 
@@ -496,19 +344,11 @@ ___
 
 • **PreviewNodeTitleColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38309)
-
 ___
 
 ### PureFunctionCallNodeTitleColor
 
 • **PureFunctionCallNodeTitleColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38302)
 
 ___
 
@@ -516,19 +356,11 @@ ___
 
 • **ResultNodeTitleColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38307)
-
 ___
 
 ### RotatorPinTypeColor
 
 • **RotatorPinTypeColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38297)
 
 ___
 
@@ -536,19 +368,11 @@ ___
 
 • **SoftClassPinTypeColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38288)
-
 ___
 
 ### SoftObjectPinTypeColor
 
 • **SoftObjectPinTypeColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38287)
 
 ___
 
@@ -556,19 +380,11 @@ ___
 
 • **SplineHoverTolerance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:38269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38269)
-
 ___
 
 ### StringPinTypeColor
 
 • **StringPinTypeColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38292)
 
 ___
 
@@ -576,19 +392,11 @@ ___
 
 • **StructPinTypeColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38294)
-
 ___
 
 ### TextPinTypeColor
 
 • **TextPinTypeColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38293)
 
 ___
 
@@ -596,19 +404,11 @@ ___
 
 • **TraceAttackColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38312)
-
 ___
 
 ### TraceAttackHoldPeriod
 
 • **TraceAttackHoldPeriod**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:38314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38314)
 
 ___
 
@@ -616,19 +416,11 @@ ___
 
 • **TraceAttackWireThickness**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:38313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38313)
-
 ___
 
 ### TraceDecayExponent
 
 • **TraceDecayExponent**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:38316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38316)
 
 ___
 
@@ -636,19 +428,11 @@ ___
 
 • **TraceDecayPeriod**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:38315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38315)
-
 ___
 
 ### TracePositionBonusPeriod
 
 • **TracePositionBonusPeriod**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:38324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38324)
 
 ___
 
@@ -656,19 +440,11 @@ ___
 
 • **TracePositionExponent**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:38325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38325)
-
 ___
 
 ### TraceReleaseColor
 
 • **TraceReleaseColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38320)
 
 ___
 
@@ -676,19 +452,11 @@ ___
 
 • **TraceReleaseExponent**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:38323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38323)
-
 ___
 
 ### TraceReleasePeriod
 
 • **TraceReleasePeriod**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:38322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38322)
 
 ___
 
@@ -696,19 +464,11 @@ ___
 
 • **TraceReleaseWireThickness**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:38321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38321)
-
 ___
 
 ### TraceSustainColor
 
 • **TraceSustainColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38317)
 
 ___
 
@@ -716,19 +476,11 @@ ___
 
 • **TraceSustainHoldPeriod**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:38319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38319)
-
 ___
 
 ### TraceSustainWireThickness
 
 • **TraceSustainWireThickness**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:38318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38318)
 
 ___
 
@@ -736,19 +488,11 @@ ___
 
 • **TransformPinTypeColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38298)
-
 ___
 
 ### VectorPinTypeColor
 
 • **VectorPinTypeColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38296)
 
 ___
 
@@ -756,19 +500,11 @@ ___
 
 • **WildcardPinTypeColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38295)
-
 ___
 
 ### \_\_tid\_GraphEditorSettings\_\_
 
 • **\_\_tid\_GraphEditorSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38330)
 
 ___
 
@@ -780,19 +516,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bTreatSplinesLikePins
 
 • **bTreatSplinesLikePins**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38268)
 
 ## Methods
 
@@ -818,10 +546,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -842,10 +566,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -859,10 +579,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -878,10 +594,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -896,10 +608,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -913,10 +621,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -939,10 +643,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:38327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38327)
-
 ___
 
 ### Load
@@ -963,10 +663,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:38328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38328)
-
 ___
 
 ### StaticClass
@@ -980,7 +676,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:38326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38326)

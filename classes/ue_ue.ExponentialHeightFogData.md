@@ -28,10 +28,6 @@
 
 • **new ExponentialHeightFogData**()
 
-#### Defined in
-
-[ue/ue.d.ts:34928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34928)
-
 • **new ExponentialHeightFogData**(`FogDensity`, `FogHeightFalloff`, `FogHeightOffset`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `FogHeightFalloff` | `number` |
 | `FogHeightOffset` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:34929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34929)
-
 ## Properties
 
 ### FogDensity
 
 • **FogDensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34930)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **FogHeightFalloff**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34931)
-
 ___
 
 ### FogHeightOffset
 
 • **FogHeightOffset**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34932)
-
 ___
 
 ### \_\_tid\_ExponentialHeightFogData\_\_
 
 • `Private` **\_\_tid\_ExponentialHeightFogData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:34938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34938)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:34936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34936)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:34937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34937)

@@ -68,19 +68,11 @@
 
 [AnimNotifyState](ue_ue.AnimNotifyState.md).[constructor](ue_ue.AnimNotifyState.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:20234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20234)
-
 ## Properties
 
 ### FirstSocketName
 
 • **FirstSocketName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:20236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20236)
 
 ___
 
@@ -92,19 +84,11 @@ ___
 
 [AnimNotifyState](ue_ue.AnimNotifyState.md).[NotifyColor](ue_ue.AnimNotifyState.md#notifycolor)
 
-#### Defined in
-
-[ue/ue.d.ts:3020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3020)
-
 ___
 
 ### PSTemplate
 
 • **PSTemplate**: [`ParticleSystem`](ue_ue.ParticleSystem.md)
-
-#### Defined in
-
-[ue/ue.d.ts:20235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20235)
 
 ___
 
@@ -112,19 +96,11 @@ ___
 
 • **SecondSocketName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:20237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20237)
-
 ___
 
 ### WidthScaleCurve
 
 • **WidthScaleCurve**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:20239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20239)
 
 ___
 
@@ -132,19 +108,11 @@ ___
 
 • **WidthScaleMode**: [`ETrailWidthMode`](../enums/ue_ue.ETrailWidthMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:20238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20238)
-
 ___
 
 ### \_\_tid\_AnimNotifyState\_Trail\_\_
 
 • **\_\_tid\_AnimNotifyState\_Trail\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:20250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20250)
 
 ___
 
@@ -156,10 +124,6 @@ ___
 
 [AnimNotifyState](ue_ue.AnimNotifyState.md).[__tid_AnimNotifyState__](ue_ue.AnimNotifyState.md#__tid_animnotifystate__)
 
-#### Defined in
-
-[ue/ue.d.ts:3029](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3029)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -170,19 +134,11 @@ ___
 
 [AnimNotifyState](ue_ue.AnimNotifyState.md).[__tid_Object__](ue_ue.AnimNotifyState.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bRecycleSpawnedSystems
 
 • **bRecycleSpawnedSystems**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:20240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20240)
 
 ___
 
@@ -190,19 +146,11 @@ ___
 
 • **bRenderGeometry**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:20241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20241)
-
 ___
 
 ### bRenderSpawnPoints
 
 • **bRenderSpawnPoints**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:20242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20242)
 
 ___
 
@@ -210,19 +158,11 @@ ___
 
 • **bRenderTangents**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:20243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20243)
-
 ___
 
 ### bRenderTessellation
 
 • **bRenderTessellation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:20244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20244)
 
 ## Methods
 
@@ -248,10 +188,6 @@ ___
 
 [AnimNotifyState](ue_ue.AnimNotifyState.md).[CreateDefaultSubobject](ue_ue.AnimNotifyState.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -272,10 +208,6 @@ ___
 
 [AnimNotifyState](ue_ue.AnimNotifyState.md).[ExecuteUbergraph](ue_ue.AnimNotifyState.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -289,10 +221,6 @@ ___
 #### Inherited from
 
 [AnimNotifyState](ue_ue.AnimNotifyState.md).[GetClass](ue_ue.AnimNotifyState.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -308,10 +236,6 @@ ___
 
 [AnimNotifyState](ue_ue.AnimNotifyState.md).[GetName](ue_ue.AnimNotifyState.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetNotifyName
@@ -325,10 +249,6 @@ ___
 #### Inherited from
 
 [AnimNotifyState](ue_ue.AnimNotifyState.md).[GetNotifyName](ue_ue.AnimNotifyState.md#getnotifyname)
-
-#### Defined in
-
-[ue/ue.d.ts:3021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3021)
 
 ___
 
@@ -344,10 +264,6 @@ ___
 
 [AnimNotifyState](ue_ue.AnimNotifyState.md).[GetOuter](ue_ue.AnimNotifyState.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -361,10 +277,6 @@ ___
 #### Inherited from
 
 [AnimNotifyState](ue_ue.AnimNotifyState.md).[GetWorld](ue_ue.AnimNotifyState.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -382,10 +294,6 @@ ___
 #### Returns
 
 [`ParticleSystem`](ue_ue.ParticleSystem.md)
-
-#### Defined in
-
-[ue/ue.d.ts:20245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20245)
 
 ___
 
@@ -409,10 +317,6 @@ ___
 
 [AnimNotifyState](ue_ue.AnimNotifyState.md).[Received_NotifyBegin](ue_ue.AnimNotifyState.md#received_notifybegin)
 
-#### Defined in
-
-[ue/ue.d.ts:3022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3022)
-
 ___
 
 ### Received\_NotifyEnd
@@ -433,10 +337,6 @@ ___
 #### Inherited from
 
 [AnimNotifyState](ue_ue.AnimNotifyState.md).[Received_NotifyEnd](ue_ue.AnimNotifyState.md#received_notifyend)
-
-#### Defined in
-
-[ue/ue.d.ts:3023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3023)
 
 ___
 
@@ -460,10 +360,6 @@ ___
 
 [AnimNotifyState](ue_ue.AnimNotifyState.md).[Received_NotifyTick](ue_ue.AnimNotifyState.md#received_notifytick)
 
-#### Defined in
-
-[ue/ue.d.ts:3024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3024)
-
 ___
 
 ### Find
@@ -485,10 +381,6 @@ ___
 
 [AnimNotifyState](ue_ue.AnimNotifyState.md).[Find](ue_ue.AnimNotifyState.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:20247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20247)
-
 ___
 
 ### Load
@@ -509,10 +401,6 @@ ___
 
 [AnimNotifyState](ue_ue.AnimNotifyState.md).[Load](ue_ue.AnimNotifyState.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:20248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20248)
-
 ___
 
 ### StaticClass
@@ -526,7 +414,3 @@ ___
 #### Overrides
 
 [AnimNotifyState](ue_ue.AnimNotifyState.md).[StaticClass](ue_ue.AnimNotifyState.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:20246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20246)

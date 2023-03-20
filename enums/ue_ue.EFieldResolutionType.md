@@ -21,19 +21,11 @@
 
 • **Field\_Resolution\_DisabledParents** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33863)
-
 ___
 
 ### Field\_Resolution\_MAX
 
 • **Field\_Resolution\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33863)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Field\_Resolution\_Max** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33863)
-
 ___
 
 ### Field\_Resolution\_Maximum
 
 • **Field\_Resolution\_Maximum** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33863)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Field\_Resolution\_Minimal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33863)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33863)

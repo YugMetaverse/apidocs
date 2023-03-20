@@ -26,19 +26,11 @@
 
 • **Corrupt** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31435)
-
 ___
 
 ### DemoNotFound
 
 • **DemoNotFound** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31435)
 
 ___
 
@@ -46,19 +38,11 @@ ___
 
 • **EDemoPlayFailure\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31435)
-
 ___
 
 ### GameSpecificHeader
 
 • **GameSpecificHeader** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31435)
 
 ___
 
@@ -66,19 +50,11 @@ ___
 
 • **Generic** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31435)
-
 ___
 
 ### InitBase
 
 • **InitBase** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31435)
 
 ___
 
@@ -86,19 +62,11 @@ ___
 
 • **InvalidVersion** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31435)
-
 ___
 
 ### LoadMap
 
 • **LoadMap** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31435)
 
 ___
 
@@ -106,26 +74,14 @@ ___
 
 • **ReplayStreamerInternal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31435)
-
 ___
 
 ### Serialization
 
 • **Serialization** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31435)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31435)

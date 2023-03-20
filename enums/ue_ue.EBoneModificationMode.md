@@ -20,19 +20,11 @@
 
 • **BMM\_Additive** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18964](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18964)
-
 ___
 
 ### BMM\_Ignore
 
 • **BMM\_Ignore** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18964](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18964)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **BMM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18964](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18964)
-
 ___
 
 ### BMM\_Replace
 
 • **BMM\_Replace** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18964](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18964)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18964](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18964)

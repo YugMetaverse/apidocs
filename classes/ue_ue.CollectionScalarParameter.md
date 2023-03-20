@@ -38,10 +38,6 @@
 
 [CollectionParameterBase](ue_ue.CollectionParameterBase.md).[constructor](ue_ue.CollectionParameterBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:1358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1358)
-
 • **new CollectionScalarParameter**(`DefaultValue`)
 
 #### Parameters
@@ -54,19 +50,11 @@
 
 [CollectionParameterBase](ue_ue.CollectionParameterBase.md).[constructor](ue_ue.CollectionParameterBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:1359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1359)
-
 ## Properties
 
 ### DefaultValue
 
 • **DefaultValue**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1360](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1360)
 
 ___
 
@@ -78,10 +66,6 @@ ___
 
 [CollectionParameterBase](ue_ue.CollectionParameterBase.md).[Id](ue_ue.CollectionParameterBase.md#id)
 
-#### Defined in
-
-[ue/ue.d.ts:1348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1348)
-
 ___
 
 ### ParameterName
@@ -92,19 +76,11 @@ ___
 
 [CollectionParameterBase](ue_ue.CollectionParameterBase.md).[ParameterName](ue_ue.CollectionParameterBase.md#parametername)
 
-#### Defined in
-
-[ue/ue.d.ts:1347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1347)
-
 ___
 
 ### \_\_tid\_CollectionScalarParameter\_\_
 
 • `Private` **\_\_tid\_CollectionScalarParameter\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1366)
 
 ## Methods
 
@@ -124,10 +100,6 @@ use StaticStruct instead.
 
 [CollectionParameterBase](ue_ue.CollectionParameterBase.md).[StaticClass](ue_ue.CollectionParameterBase.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:1364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1364)
-
 ___
 
 ### StaticStruct
@@ -141,7 +113,3 @@ ___
 #### Overrides
 
 [CollectionParameterBase](ue_ue.CollectionParameterBase.md).[StaticStruct](ue_ue.CollectionParameterBase.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:1365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1365)

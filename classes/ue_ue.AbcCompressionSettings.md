@@ -31,10 +31,6 @@
 
 • **new AbcCompressionSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L108)
-
 • **new AbcCompressionSettings**(`bMergeMeshes`, `bBakeMatrixAnimation`, `BaseCalculationType`, `PercentageOfTotalBases`, `MaxNumberOfBases`, `MinimumNumberOfVertexInfluencePercentage`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `MaxNumberOfBases` | `number` |
 | `MinimumNumberOfVertexInfluencePercentage` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:109](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L109)
-
 ## Properties
 
 ### BaseCalculationType
 
 • **BaseCalculationType**: [`EBaseCalculationType`](../enums/ue_ue.EBaseCalculationType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L112)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **MaxNumberOfBases**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:114](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L114)
-
 ___
 
 ### MinimumNumberOfVertexInfluencePercentage
 
 • **MinimumNumberOfVertexInfluencePercentage**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L115)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **PercentageOfTotalBases**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L113)
-
 ___
 
 ### \_\_tid\_AbcCompressionSettings\_\_
 
 • `Private` **\_\_tid\_AbcCompressionSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L121)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **bBakeMatrixAnimation**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L111)
-
 ___
 
 ### bMergeMeshes
 
 • **bMergeMeshes**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L110)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L119)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L120)

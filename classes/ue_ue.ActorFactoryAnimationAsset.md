@@ -60,10 +60,6 @@
 
 [ActorFactorySkeletalMesh](ue_ue.ActorFactorySkeletalMesh.md).[constructor](ue_ue.ActorFactorySkeletalMesh.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:13533](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13533)
-
 ## Properties
 
 ### DisplayName
@@ -73,10 +69,6 @@
 #### Inherited from
 
 [ActorFactorySkeletalMesh](ue_ue.ActorFactorySkeletalMesh.md).[DisplayName](ue_ue.ActorFactorySkeletalMesh.md#displayname)
-
-#### Defined in
-
-[ue/ue.d.ts:13500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13500)
 
 ___
 
@@ -88,10 +80,6 @@ ___
 
 [ActorFactorySkeletalMesh](ue_ue.ActorFactorySkeletalMesh.md).[MenuPriority](ue_ue.ActorFactorySkeletalMesh.md#menupriority)
 
-#### Defined in
-
-[ue/ue.d.ts:13501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13501)
-
 ___
 
 ### NewActorClass
@@ -101,10 +89,6 @@ ___
 #### Inherited from
 
 [ActorFactorySkeletalMesh](ue_ue.ActorFactorySkeletalMesh.md).[NewActorClass](ue_ue.ActorFactorySkeletalMesh.md#newactorclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13503)
 
 ___
 
@@ -116,10 +100,6 @@ ___
 
 [ActorFactorySkeletalMesh](ue_ue.ActorFactorySkeletalMesh.md).[NewActorClassName](ue_ue.ActorFactorySkeletalMesh.md#newactorclassname)
 
-#### Defined in
-
-[ue/ue.d.ts:13502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13502)
-
 ___
 
 ### SpawnPositionOffset
@@ -130,19 +110,11 @@ ___
 
 [ActorFactorySkeletalMesh](ue_ue.ActorFactorySkeletalMesh.md).[SpawnPositionOffset](ue_ue.ActorFactorySkeletalMesh.md#spawnpositionoffset)
 
-#### Defined in
-
-[ue/ue.d.ts:13506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13506)
-
 ___
 
 ### \_\_tid\_ActorFactoryAnimationAsset\_\_
 
 • **\_\_tid\_ActorFactoryAnimationAsset\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:13538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13538)
 
 ___
 
@@ -154,10 +126,6 @@ ___
 
 [ActorFactorySkeletalMesh](ue_ue.ActorFactorySkeletalMesh.md).[__tid_ActorFactorySkeletalMesh__](ue_ue.ActorFactorySkeletalMesh.md#__tid_actorfactoryskeletalmesh__)
 
-#### Defined in
-
-[ue/ue.d.ts:13529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13529)
-
 ___
 
 ### \_\_tid\_ActorFactory\_\_
@@ -167,10 +135,6 @@ ___
 #### Inherited from
 
 [ActorFactorySkeletalMesh](ue_ue.ActorFactorySkeletalMesh.md).[__tid_ActorFactory__](ue_ue.ActorFactorySkeletalMesh.md#__tid_actorfactory__)
-
-#### Defined in
-
-[ue/ue.d.ts:13511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13511)
 
 ___
 
@@ -182,10 +146,6 @@ ___
 
 [ActorFactorySkeletalMesh](ue_ue.ActorFactorySkeletalMesh.md).[__tid_Object__](ue_ue.ActorFactorySkeletalMesh.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bShowInEditorQuickMenu
@@ -196,10 +156,6 @@ ___
 
 [ActorFactorySkeletalMesh](ue_ue.ActorFactorySkeletalMesh.md).[bShowInEditorQuickMenu](ue_ue.ActorFactorySkeletalMesh.md#bshowineditorquickmenu)
 
-#### Defined in
-
-[ue/ue.d.ts:13504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13504)
-
 ___
 
 ### bUseSurfaceOrientation
@@ -209,10 +165,6 @@ ___
 #### Inherited from
 
 [ActorFactorySkeletalMesh](ue_ue.ActorFactorySkeletalMesh.md).[bUseSurfaceOrientation](ue_ue.ActorFactorySkeletalMesh.md#busesurfaceorientation)
-
-#### Defined in
-
-[ue/ue.d.ts:13505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13505)
 
 ## Methods
 
@@ -238,10 +190,6 @@ ___
 
 [ActorFactorySkeletalMesh](ue_ue.ActorFactorySkeletalMesh.md).[CreateDefaultSubobject](ue_ue.ActorFactorySkeletalMesh.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -262,10 +210,6 @@ ___
 
 [ActorFactorySkeletalMesh](ue_ue.ActorFactorySkeletalMesh.md).[ExecuteUbergraph](ue_ue.ActorFactorySkeletalMesh.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -279,10 +223,6 @@ ___
 #### Inherited from
 
 [ActorFactorySkeletalMesh](ue_ue.ActorFactorySkeletalMesh.md).[GetClass](ue_ue.ActorFactorySkeletalMesh.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -298,10 +238,6 @@ ___
 
 [ActorFactorySkeletalMesh](ue_ue.ActorFactorySkeletalMesh.md).[GetName](ue_ue.ActorFactorySkeletalMesh.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -316,10 +252,6 @@ ___
 
 [ActorFactorySkeletalMesh](ue_ue.ActorFactorySkeletalMesh.md).[GetOuter](ue_ue.ActorFactorySkeletalMesh.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -333,10 +265,6 @@ ___
 #### Inherited from
 
 [ActorFactorySkeletalMesh](ue_ue.ActorFactorySkeletalMesh.md).[GetWorld](ue_ue.ActorFactorySkeletalMesh.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -359,10 +287,6 @@ ___
 
 [ActorFactorySkeletalMesh](ue_ue.ActorFactorySkeletalMesh.md).[Find](ue_ue.ActorFactorySkeletalMesh.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:13535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13535)
-
 ___
 
 ### Load
@@ -383,10 +307,6 @@ ___
 
 [ActorFactorySkeletalMesh](ue_ue.ActorFactorySkeletalMesh.md).[Load](ue_ue.ActorFactorySkeletalMesh.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:13536](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13536)
-
 ___
 
 ### StaticClass
@@ -400,7 +320,3 @@ ___
 #### Overrides
 
 [ActorFactorySkeletalMesh](ue_ue.ActorFactorySkeletalMesh.md).[StaticClass](ue_ue.ActorFactorySkeletalMesh.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13534](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13534)

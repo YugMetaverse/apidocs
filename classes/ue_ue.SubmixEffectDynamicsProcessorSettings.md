@@ -37,10 +37,6 @@
 
 • **new SubmixEffectDynamicsProcessorSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:62520](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62520)
-
 • **new SubmixEffectDynamicsProcessorSettings**(`DynamicsProcessorType`, `PeakMode`, `LookAheadMsec`, `AttackTimeMsec`, `ReleaseTimeMsec`, `ThresholdDb`, `Ratio`, `KneeBandwidthDb`, `InputGainDb`, `OutputGainDb`, `bChannelLinked`, `bAnalogMode`)
 
 #### Parameters
@@ -60,19 +56,11 @@
 | `bChannelLinked` | `boolean` |
 | `bAnalogMode` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:62521](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62521)
-
 ## Properties
 
 ### AttackTimeMsec
 
 • **AttackTimeMsec**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:62525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62525)
 
 ___
 
@@ -80,19 +68,11 @@ ___
 
 • **DynamicsProcessorType**: [`ESubmixEffectDynamicsProcessorType`](../enums/ue_ue.ESubmixEffectDynamicsProcessorType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:62522](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62522)
-
 ___
 
 ### InputGainDb
 
 • **InputGainDb**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:62530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62530)
 
 ___
 
@@ -100,19 +80,11 @@ ___
 
 • **KneeBandwidthDb**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:62529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62529)
-
 ___
 
 ### LookAheadMsec
 
 • **LookAheadMsec**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:62524](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62524)
 
 ___
 
@@ -120,19 +92,11 @@ ___
 
 • **OutputGainDb**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:62531](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62531)
-
 ___
 
 ### PeakMode
 
 • **PeakMode**: [`ESubmixEffectDynamicsPeakMode`](../enums/ue_ue.ESubmixEffectDynamicsPeakMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:62523](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62523)
 
 ___
 
@@ -140,19 +104,11 @@ ___
 
 • **Ratio**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:62528](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62528)
-
 ___
 
 ### ReleaseTimeMsec
 
 • **ReleaseTimeMsec**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:62526](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62526)
 
 ___
 
@@ -160,19 +116,11 @@ ___
 
 • **ThresholdDb**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:62527](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62527)
-
 ___
 
 ### \_\_tid\_SubmixEffectDynamicsProcessorSettings\_\_
 
 • `Private` **\_\_tid\_SubmixEffectDynamicsProcessorSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:62539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62539)
 
 ___
 
@@ -180,19 +128,11 @@ ___
 
 • **bAnalogMode**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:62533](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62533)
-
 ___
 
 ### bChannelLinked
 
 • **bChannelLinked**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:62532](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62532)
 
 ## Methods
 
@@ -208,10 +148,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:62537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62537)
-
 ___
 
 ### StaticStruct
@@ -221,7 +157,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:62538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62538)

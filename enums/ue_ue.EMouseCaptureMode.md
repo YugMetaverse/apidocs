@@ -22,19 +22,11 @@
 
 • **CaptureDuringMouseDown** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34063)
-
 ___
 
 ### CaptureDuringRightMouseDown
 
 • **CaptureDuringRightMouseDown** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34063)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **CapturePermanently** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34063)
-
 ___
 
 ### CapturePermanently\_IncludingInitialMouseDown
 
 • **CapturePermanently\_IncludingInitialMouseDown** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34063)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **EMouseCaptureMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34063)
-
 ___
 
 ### NoCapture
 
 • **NoCapture** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34063)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34063)

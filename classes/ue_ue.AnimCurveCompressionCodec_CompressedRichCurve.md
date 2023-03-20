@@ -55,19 +55,11 @@
 
 [AnimCurveCompressionCodec](ue_ue.AnimCurveCompressionCodec.md).[constructor](ue_ue.AnimCurveCompressionCodec.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:17481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17481)
-
 ## Properties
 
 ### ErrorSampleRate
 
 • **ErrorSampleRate**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17484](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17484)
 
 ___
 
@@ -75,29 +67,17 @@ ___
 
 • **MaxCurveError**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17482)
-
 ___
 
 ### UseAnimSequenceSampleRate
 
 • **UseAnimSequenceSampleRate**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:17483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17483)
-
 ___
 
 ### \_\_tid\_AnimCurveCompressionCodec\_CompressedRichCurve\_\_
 
 • **\_\_tid\_AnimCurveCompressionCodec\_CompressedRichCurve\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17489)
 
 ___
 
@@ -109,10 +89,6 @@ ___
 
 [AnimCurveCompressionCodec](ue_ue.AnimCurveCompressionCodec.md).[__tid_AnimCurveCompressionCodec__](ue_ue.AnimCurveCompressionCodec.md#__tid_animcurvecompressioncodec__)
 
-#### Defined in
-
-[ue/ue.d.ts:3180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3180)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -122,10 +98,6 @@ ___
 #### Inherited from
 
 [AnimCurveCompressionCodec](ue_ue.AnimCurveCompressionCodec.md).[__tid_Object__](ue_ue.AnimCurveCompressionCodec.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -151,10 +123,6 @@ ___
 
 [AnimCurveCompressionCodec](ue_ue.AnimCurveCompressionCodec.md).[CreateDefaultSubobject](ue_ue.AnimCurveCompressionCodec.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -175,10 +143,6 @@ ___
 
 [AnimCurveCompressionCodec](ue_ue.AnimCurveCompressionCodec.md).[ExecuteUbergraph](ue_ue.AnimCurveCompressionCodec.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -192,10 +156,6 @@ ___
 #### Inherited from
 
 [AnimCurveCompressionCodec](ue_ue.AnimCurveCompressionCodec.md).[GetClass](ue_ue.AnimCurveCompressionCodec.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -211,10 +171,6 @@ ___
 
 [AnimCurveCompressionCodec](ue_ue.AnimCurveCompressionCodec.md).[GetName](ue_ue.AnimCurveCompressionCodec.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -229,10 +185,6 @@ ___
 
 [AnimCurveCompressionCodec](ue_ue.AnimCurveCompressionCodec.md).[GetOuter](ue_ue.AnimCurveCompressionCodec.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -246,10 +198,6 @@ ___
 #### Inherited from
 
 [AnimCurveCompressionCodec](ue_ue.AnimCurveCompressionCodec.md).[GetWorld](ue_ue.AnimCurveCompressionCodec.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -272,10 +220,6 @@ ___
 
 [AnimCurveCompressionCodec](ue_ue.AnimCurveCompressionCodec.md).[Find](ue_ue.AnimCurveCompressionCodec.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:17486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17486)
-
 ___
 
 ### Load
@@ -296,10 +240,6 @@ ___
 
 [AnimCurveCompressionCodec](ue_ue.AnimCurveCompressionCodec.md).[Load](ue_ue.AnimCurveCompressionCodec.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:17487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17487)
-
 ___
 
 ### StaticClass
@@ -313,7 +253,3 @@ ___
 #### Overrides
 
 [AnimCurveCompressionCodec](ue_ue.AnimCurveCompressionCodec.md).[StaticClass](ue_ue.AnimCurveCompressionCodec.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:17485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17485)

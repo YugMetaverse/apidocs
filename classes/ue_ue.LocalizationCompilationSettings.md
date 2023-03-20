@@ -28,10 +28,6 @@
 
 • **new LocalizationCompilationSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:46132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46132)
-
 • **new LocalizationCompilationSettings**(`SkipSourceCheck`, `ValidateFormatPatterns`, `ValidateSafeWhitespace`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `ValidateFormatPatterns` | `boolean` |
 | `ValidateSafeWhitespace` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:46133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46133)
-
 ## Properties
 
 ### SkipSourceCheck
 
 • **SkipSourceCheck**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46134)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **ValidateFormatPatterns**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46135)
-
 ___
 
 ### ValidateSafeWhitespace
 
 • **ValidateSafeWhitespace**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46136)
-
 ___
 
 ### \_\_tid\_LocalizationCompilationSettings\_\_
 
 • `Private` **\_\_tid\_LocalizationCompilationSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46142)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46140)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46141)

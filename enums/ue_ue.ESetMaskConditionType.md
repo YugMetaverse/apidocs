@@ -20,19 +20,11 @@
 
 • **Field\_MaskCondition\_Max** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34767)
-
 ___
 
 ### Field\_Set\_Always
 
 • **Field\_Set\_Always** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34767)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Field\_Set\_IFF\_NOT\_Exterior** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34767)
-
 ___
 
 ### Field\_Set\_IFF\_NOT\_Interior
 
 • **Field\_Set\_IFF\_NOT\_Interior** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34767)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34767)

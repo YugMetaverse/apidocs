@@ -27,10 +27,6 @@
 
 • **new BranchFilter**()
 
-#### Defined in
-
-[ue/ue.d.ts:18592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18592)
-
 • **new BranchFilter**(`BoneName`, `BlendDepth`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `BoneName` | `string` |
 | `BlendDepth` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:18593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18593)
-
 ## Properties
 
 ### BlendDepth
 
 • **BlendDepth**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18595)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **BoneName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:18594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18594)
-
 ___
 
 ### \_\_tid\_BranchFilter\_\_
 
 • `Private` **\_\_tid\_BranchFilter\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18601)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18599)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:18600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18600)

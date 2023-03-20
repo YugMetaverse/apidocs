@@ -27,10 +27,6 @@
 
 • **new GizmoFloatParameterChange**()
 
-#### Defined in
-
-[ue/ue.d.ts:37932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37932)
-
 • **new GizmoFloatParameterChange**(`InitialValue`, `CurrentValue`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `InitialValue` | `number` |
 | `CurrentValue` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:37933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37933)
-
 ## Properties
 
 ### CurrentValue
 
 • **CurrentValue**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:37935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37935)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **InitialValue**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:37934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37934)
-
 ___
 
 ### \_\_tid\_GizmoFloatParameterChange\_\_
 
 • `Private` **\_\_tid\_GizmoFloatParameterChange\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:37941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37941)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:37939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37939)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:37940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37940)

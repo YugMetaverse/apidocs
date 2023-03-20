@@ -19,19 +19,11 @@
 
 • **ENetworkLagState\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34117)
-
 ___
 
 ### Lagging
 
 • **Lagging** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34117)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **NotLagging** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34117)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34117)

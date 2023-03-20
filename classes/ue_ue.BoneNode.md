@@ -28,10 +28,6 @@
 
 • **new BoneNode**()
 
-#### Defined in
-
-[ue/ue.d.ts:2314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2314)
-
 • **new BoneNode**(`Name`, `ParentIndex`, `TranslationRetargetingMode`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `ParentIndex` | `number` |
 | `TranslationRetargetingMode` | [`EBoneTranslationRetargetingMode`](../enums/ue_ue.EBoneTranslationRetargetingMode.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:2315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2315)
-
 ## Properties
 
 ### Name
 
 • **Name**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:2316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2316)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **ParentIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2317)
-
 ___
 
 ### TranslationRetargetingMode
 
 • **TranslationRetargetingMode**: [`EBoneTranslationRetargetingMode`](../enums/ue_ue.EBoneTranslationRetargetingMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2318)
-
 ___
 
 ### \_\_tid\_BoneNode\_\_
 
 • `Private` **\_\_tid\_BoneNode\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2324)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2322)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2323)

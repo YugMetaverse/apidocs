@@ -27,10 +27,6 @@
 
 • **new Mode2DLayer**()
 
-#### Defined in
-
-[ue/ue.d.ts:44771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44771)
-
 • **new Mode2DLayer**(`Name`, `Depth`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Name` | `string` |
 | `Depth` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:44772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44772)
-
 ## Properties
 
 ### Depth
 
 • **Depth**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44774)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:44773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44773)
-
 ___
 
 ### \_\_tid\_Mode2DLayer\_\_
 
 • `Private` **\_\_tid\_Mode2DLayer\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44780)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44778](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44778)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44779)

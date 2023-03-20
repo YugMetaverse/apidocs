@@ -22,19 +22,11 @@
 
 • **Actor** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17792)
-
 ___
 
 ### AnimPhysSimSpaceType\_MAX
 
 • **AnimPhysSimSpaceType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17792)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **BoneRelative** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17792)
-
 ___
 
 ### Component
 
 • **Component** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17792)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **RootRelative** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17792)
-
 ___
 
 ### World
 
 • **World** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17792)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17792)

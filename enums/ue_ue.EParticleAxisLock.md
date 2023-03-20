@@ -27,19 +27,11 @@
 
 • **EPAL\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34657)
-
 ___
 
 ### EPAL\_NEGATIVE\_X
 
 • **EPAL\_NEGATIVE\_X** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34657)
 
 ___
 
@@ -47,19 +39,11 @@ ___
 
 • **EPAL\_NEGATIVE\_Y** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34657)
-
 ___
 
 ### EPAL\_NEGATIVE\_Z
 
 • **EPAL\_NEGATIVE\_Z** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34657)
 
 ___
 
@@ -67,19 +51,11 @@ ___
 
 • **EPAL\_NONE** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34657)
-
 ___
 
 ### EPAL\_ROTATE\_X
 
 • **EPAL\_ROTATE\_X** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34657)
 
 ___
 
@@ -87,19 +63,11 @@ ___
 
 • **EPAL\_ROTATE\_Y** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34657)
-
 ___
 
 ### EPAL\_ROTATE\_Z
 
 • **EPAL\_ROTATE\_Z** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34657)
 
 ___
 
@@ -107,19 +75,11 @@ ___
 
 • **EPAL\_X** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34657)
-
 ___
 
 ### EPAL\_Y
 
 • **EPAL\_Y** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34657)
 
 ___
 
@@ -127,16 +87,8 @@ ___
 
 • **EPAL\_Z** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34657)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34657)

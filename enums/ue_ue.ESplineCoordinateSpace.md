@@ -19,19 +19,11 @@
 
 • **ESplineCoordinateSpace\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25892)
-
 ___
 
 ### Local
 
 • **Local** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:25892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25892)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **World** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25892)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:25892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25892)

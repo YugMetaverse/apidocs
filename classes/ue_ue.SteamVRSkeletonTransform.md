@@ -56,10 +56,6 @@
 
 • **new SteamVRSkeletonTransform**()
 
-#### Defined in
-
-[ue/ue.d.ts:19729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19729)
-
 • **new SteamVRSkeletonTransform**(`Root`, `Wrist`, `Thumb_0`, `Thumb_1`, `Thumb_2`, `Thumb_3`, `Index_0`, `Index_1`, `Index_2`, `Index_3`, `Index_4`, `Middle_0`, `Middle_1`, `Middle_2`, `Middle_3`, `Middle_4`, `Ring_0`, `Ring_1`, `Ring_2`, `Ring_3`, `Ring_4`, `Pinky_0`, `Pinky_1`, `Pinky_2`, `Pinky_3`, `Pinky_4`, `Aux_Thumb`, `Aux_Index`, `Aux_Middle`, `Aux_Ring`, `Aux_Pinky`)
 
 #### Parameters
@@ -98,19 +94,11 @@
 | `Aux_Ring` | [`Transform`](ue_ue_s.Transform.md) |
 | `Aux_Pinky` | [`Transform`](ue_ue_s.Transform.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:19730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19730)
-
 ## Properties
 
 ### Aux\_Index
 
 • **Aux\_Index**: [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19758](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19758)
 
 ___
 
@@ -118,19 +106,11 @@ ___
 
 • **Aux\_Middle**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19759)
-
 ___
 
 ### Aux\_Pinky
 
 • **Aux\_Pinky**: [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19761](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19761)
 
 ___
 
@@ -138,19 +118,11 @@ ___
 
 • **Aux\_Ring**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19760](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19760)
-
 ___
 
 ### Aux\_Thumb
 
 • **Aux\_Thumb**: [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19757)
 
 ___
 
@@ -158,19 +130,11 @@ ___
 
 • **Index\_0**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19737)
-
 ___
 
 ### Index\_1
 
 • **Index\_1**: [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19738)
 
 ___
 
@@ -178,19 +142,11 @@ ___
 
 • **Index\_2**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19739)
-
 ___
 
 ### Index\_3
 
 • **Index\_3**: [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19740)
 
 ___
 
@@ -198,19 +154,11 @@ ___
 
 • **Index\_4**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19741)
-
 ___
 
 ### Middle\_0
 
 • **Middle\_0**: [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19742)
 
 ___
 
@@ -218,19 +166,11 @@ ___
 
 • **Middle\_1**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19743)
-
 ___
 
 ### Middle\_2
 
 • **Middle\_2**: [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19744)
 
 ___
 
@@ -238,19 +178,11 @@ ___
 
 • **Middle\_3**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19745)
-
 ___
 
 ### Middle\_4
 
 • **Middle\_4**: [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19746)
 
 ___
 
@@ -258,19 +190,11 @@ ___
 
 • **Pinky\_0**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19752](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19752)
-
 ___
 
 ### Pinky\_1
 
 • **Pinky\_1**: [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19753)
 
 ___
 
@@ -278,19 +202,11 @@ ___
 
 • **Pinky\_2**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19754)
-
 ___
 
 ### Pinky\_3
 
 • **Pinky\_3**: [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19755)
 
 ___
 
@@ -298,19 +214,11 @@ ___
 
 • **Pinky\_4**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19756)
-
 ___
 
 ### Ring\_0
 
 • **Ring\_0**: [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19747)
 
 ___
 
@@ -318,19 +226,11 @@ ___
 
 • **Ring\_1**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19748)
-
 ___
 
 ### Ring\_2
 
 • **Ring\_2**: [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19749)
 
 ___
 
@@ -338,19 +238,11 @@ ___
 
 • **Ring\_3**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19750)
-
 ___
 
 ### Ring\_4
 
 • **Ring\_4**: [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19751)
 
 ___
 
@@ -358,19 +250,11 @@ ___
 
 • **Root**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19731)
-
 ___
 
 ### Thumb\_0
 
 • **Thumb\_0**: [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19733)
 
 ___
 
@@ -378,19 +262,11 @@ ___
 
 • **Thumb\_1**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19734)
-
 ___
 
 ### Thumb\_2
 
 • **Thumb\_2**: [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19735)
 
 ___
 
@@ -398,29 +274,17 @@ ___
 
 • **Thumb\_3**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19736)
-
 ___
 
 ### Wrist
 
 • **Wrist**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19732)
-
 ___
 
 ### \_\_tid\_SteamVRSkeletonTransform\_\_
 
 • `Private` **\_\_tid\_SteamVRSkeletonTransform\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:19767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19767)
 
 ## Methods
 
@@ -436,10 +300,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19765)
-
 ___
 
 ### StaticStruct
@@ -449,7 +309,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19766)

@@ -35,10 +35,6 @@
 
 • **new VREditorFloatingUICreationContext**()
 
-#### Defined in
-
-[ue/ue.d.ts:65618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65618)
-
 • **new VREditorFloatingUICreationContext**(`WidgetClass`, `PanelID`, `ParentActor`, `PanelSpawnOffset`, `PanelSize`, `PanelMesh`, `EditorUISize`, `bHideWindowHandles`, `bMaskOutWidgetBackground`, `bNoCloseButton`)
 
 #### Parameters
@@ -56,19 +52,11 @@
 | `bMaskOutWidgetBackground` | `boolean` |
 | `bNoCloseButton` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:65619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65619)
-
 ## Properties
 
 ### EditorUISize
 
 • **EditorUISize**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:65626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65626)
 
 ___
 
@@ -76,19 +64,11 @@ ___
 
 • **PanelID**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:65621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65621)
-
 ___
 
 ### PanelMesh
 
 • **PanelMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65625)
 
 ___
 
@@ -96,19 +76,11 @@ ___
 
 • **PanelSize**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65624)
-
 ___
 
 ### PanelSpawnOffset
 
 • **PanelSpawnOffset**: [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65623)
 
 ___
 
@@ -116,19 +88,11 @@ ___
 
 • **ParentActor**: [`Actor`](ue_ue.Actor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65622)
-
 ___
 
 ### WidgetClass
 
 • **WidgetClass**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65620)
 
 ___
 
@@ -136,19 +100,11 @@ ___
 
 • `Private` **\_\_tid\_VREditorFloatingUICreationContext\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:65635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65635)
-
 ___
 
 ### bHideWindowHandles
 
 • **bHideWindowHandles**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:65627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65627)
 
 ___
 
@@ -156,19 +112,11 @@ ___
 
 • **bMaskOutWidgetBackground**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:65628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65628)
-
 ___
 
 ### bNoCloseButton
 
 • **bNoCloseButton**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:65629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65629)
 
 ## Methods
 
@@ -184,10 +132,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65633)
-
 ___
 
 ### StaticStruct
@@ -197,7 +141,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65634)

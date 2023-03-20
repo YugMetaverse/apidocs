@@ -27,10 +27,6 @@
 
 • **new PaperTileInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:55074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55074)
-
 • **new PaperTileInfo**(`TileSet`, `PackedTileIndex`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `TileSet` | [`PaperTileSet`](ue_ue.PaperTileSet.md) |
 | `PackedTileIndex` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:55075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55075)
-
 ## Properties
 
 ### PackedTileIndex
 
 • **PackedTileIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:55077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55077)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **TileSet**: [`PaperTileSet`](ue_ue.PaperTileSet.md)
 
-#### Defined in
-
-[ue/ue.d.ts:55076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55076)
-
 ___
 
 ### \_\_tid\_PaperTileInfo\_\_
 
 • `Private` **\_\_tid\_PaperTileInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55083](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55083)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:55081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55081)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:55082](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55082)

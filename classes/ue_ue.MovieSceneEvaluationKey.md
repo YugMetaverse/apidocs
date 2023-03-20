@@ -28,10 +28,6 @@
 
 • **new MovieSceneEvaluationKey**()
 
-#### Defined in
-
-[ue/ue.d.ts:11261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11261)
-
 • **new MovieSceneEvaluationKey**(`SequenceID`, `TrackIdentifier`, `SectionIndex`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `TrackIdentifier` | [`MovieSceneTrackIdentifier`](ue_ue.MovieSceneTrackIdentifier.md) |
 | `SectionIndex` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:11262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11262)
-
 ## Properties
 
 ### SectionIndex
 
 • **SectionIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11265)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **SequenceID**: [`MovieSceneSequenceID`](ue_ue.MovieSceneSequenceID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11263)
-
 ___
 
 ### TrackIdentifier
 
 • **TrackIdentifier**: [`MovieSceneTrackIdentifier`](ue_ue.MovieSceneTrackIdentifier.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11264)
-
 ___
 
 ### \_\_tid\_MovieSceneEvaluationKey\_\_
 
 • `Private` **\_\_tid\_MovieSceneEvaluationKey\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11271)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11269)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11270)

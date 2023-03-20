@@ -19,19 +19,11 @@
 
 • **VR\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19725)
-
 ___
 
 ### VR\_WithController
 
 • **VR\_WithController** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19725)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **VR\_WithoutController** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19725)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19725)

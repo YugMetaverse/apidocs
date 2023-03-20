@@ -91,10 +91,6 @@
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[constructor](ue_ue.MovieSceneFloatSection.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:51854](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51854)
-
 ## Properties
 
 ### BlendType
@@ -104,10 +100,6 @@
 #### Inherited from
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[BlendType](ue_ue.MovieSceneFloatSection.md#blendtype)
-
-#### Defined in
-
-[ue/ue.d.ts:11796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11796)
 
 ___
 
@@ -119,10 +111,6 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[Easing](ue_ue.MovieSceneFloatSection.md#easing)
 
-#### Defined in
-
-[ue/ue.d.ts:11781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11781)
-
 ___
 
 ### EndTime
@@ -132,10 +120,6 @@ ___
 #### Inherited from
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[EndTime](ue_ue.MovieSceneFloatSection.md#endtime)
-
-#### Defined in
-
-[ue/ue.d.ts:11791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11791)
 
 ___
 
@@ -147,19 +131,11 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[EvalOptions](ue_ue.MovieSceneFloatSection.md#evaloptions)
 
-#### Defined in
-
-[ue/ue.d.ts:11780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11780)
-
 ___
 
 ### FadeColor
 
 • **FadeColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:51855](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51855)
 
 ___
 
@@ -171,10 +147,6 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[FloatCurve](ue_ue.MovieSceneFloatSection.md#floatcurve)
 
-#### Defined in
-
-[ue/ue.d.ts:51845](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51845)
-
 ___
 
 ### OverlapPriority
@@ -184,10 +156,6 @@ ___
 #### Inherited from
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[OverlapPriority](ue_ue.MovieSceneFloatSection.md#overlappriority)
-
-#### Defined in
-
-[ue/ue.d.ts:11787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11787)
 
 ___
 
@@ -199,10 +167,6 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[PostRollFrames](ue_ue.MovieSceneFloatSection.md#postrollframes)
 
-#### Defined in
-
-[ue/ue.d.ts:11785](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11785)
-
 ___
 
 ### PostRollTime
@@ -212,10 +176,6 @@ ___
 #### Inherited from
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[PostRollTime](ue_ue.MovieSceneFloatSection.md#postrolltime)
-
-#### Defined in
-
-[ue/ue.d.ts:11793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11793)
 
 ___
 
@@ -227,10 +187,6 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[PreRollFrames](ue_ue.MovieSceneFloatSection.md#prerollframes)
 
-#### Defined in
-
-[ue/ue.d.ts:11784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11784)
-
 ___
 
 ### PreRollTime
@@ -240,10 +196,6 @@ ___
 #### Inherited from
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[PreRollTime](ue_ue.MovieSceneFloatSection.md#prerolltime)
-
-#### Defined in
-
-[ue/ue.d.ts:11792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11792)
 
 ___
 
@@ -255,10 +207,6 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[RowIndex](ue_ue.MovieSceneFloatSection.md#rowindex)
 
-#### Defined in
-
-[ue/ue.d.ts:11786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11786)
-
 ___
 
 ### SectionRange
@@ -268,10 +216,6 @@ ___
 #### Inherited from
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[SectionRange](ue_ue.MovieSceneFloatSection.md#sectionrange)
-
-#### Defined in
-
-[ue/ue.d.ts:11782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11782)
 
 ___
 
@@ -283,10 +227,6 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[Signature](ue_ue.MovieSceneFloatSection.md#signature)
 
-#### Defined in
-
-[ue/ue.d.ts:11034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11034)
-
 ___
 
 ### StartTime
@@ -296,10 +236,6 @@ ___
 #### Inherited from
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[StartTime](ue_ue.MovieSceneFloatSection.md#starttime)
-
-#### Defined in
-
-[ue/ue.d.ts:11790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11790)
 
 ___
 
@@ -311,19 +247,11 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[TimecodeSource](ue_ue.MovieSceneFloatSection.md#timecodesource)
 
-#### Defined in
-
-[ue/ue.d.ts:11783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11783)
-
 ___
 
 ### \_\_tid\_MovieSceneFadeSection\_\_
 
 • **\_\_tid\_MovieSceneFadeSection\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:51861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51861)
 
 ___
 
@@ -335,10 +263,6 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[__tid_MovieSceneFloatSection__](ue_ue.MovieSceneFloatSection.md#__tid_moviescenefloatsection__)
 
-#### Defined in
-
-[ue/ue.d.ts:51850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51850)
-
 ___
 
 ### \_\_tid\_MovieSceneSection\_\_
@@ -348,10 +272,6 @@ ___
 #### Inherited from
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[__tid_MovieSceneSection__](ue_ue.MovieSceneFloatSection.md#__tid_moviescenesection__)
-
-#### Defined in
-
-[ue/ue.d.ts:11817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11817)
 
 ___
 
@@ -363,10 +283,6 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[__tid_MovieSceneSignedObject__](ue_ue.MovieSceneFloatSection.md#__tid_moviescenesignedobject__)
 
-#### Defined in
-
-[ue/ue.d.ts:11039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11039)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -377,19 +293,11 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[__tid_Object__](ue_ue.MovieSceneFloatSection.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bFadeAudio
 
 • **bFadeAudio**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:51856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51856)
 
 ___
 
@@ -401,10 +309,6 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[bIsActive](ue_ue.MovieSceneFloatSection.md#bisactive)
 
-#### Defined in
-
-[ue/ue.d.ts:11788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11788)
-
 ___
 
 ### bIsInfinite
@@ -414,10 +318,6 @@ ___
 #### Inherited from
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[bIsInfinite](ue_ue.MovieSceneFloatSection.md#bisinfinite)
-
-#### Defined in
-
-[ue/ue.d.ts:11794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11794)
 
 ___
 
@@ -429,10 +329,6 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[bIsLocked](ue_ue.MovieSceneFloatSection.md#bislocked)
 
-#### Defined in
-
-[ue/ue.d.ts:11789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11789)
-
 ___
 
 ### bSupportsInfiniteRange
@@ -442,10 +338,6 @@ ___
 #### Inherited from
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[bSupportsInfiniteRange](ue_ue.MovieSceneFloatSection.md#bsupportsinfiniterange)
-
-#### Defined in
-
-[ue/ue.d.ts:11795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11795)
 
 ## Methods
 
@@ -471,10 +363,6 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[CreateDefaultSubobject](ue_ue.MovieSceneFloatSection.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -495,10 +383,6 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[ExecuteUbergraph](ue_ue.MovieSceneFloatSection.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetBlendType
@@ -512,10 +396,6 @@ ___
 #### Inherited from
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[GetBlendType](ue_ue.MovieSceneFloatSection.md#getblendtype)
-
-#### Defined in
-
-[ue/ue.d.ts:11797](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11797)
 
 ___
 
@@ -531,10 +411,6 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[GetClass](ue_ue.MovieSceneFloatSection.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetCompletionMode
@@ -548,10 +424,6 @@ ___
 #### Inherited from
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[GetCompletionMode](ue_ue.MovieSceneFloatSection.md#getcompletionmode)
-
-#### Defined in
-
-[ue/ue.d.ts:11798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11798)
 
 ___
 
@@ -567,10 +439,6 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[GetName](ue_ue.MovieSceneFloatSection.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -584,10 +452,6 @@ ___
 #### Inherited from
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[GetOuter](ue_ue.MovieSceneFloatSection.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -603,10 +467,6 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[GetOverlapPriority](ue_ue.MovieSceneFloatSection.md#getoverlappriority)
 
-#### Defined in
-
-[ue/ue.d.ts:11799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11799)
-
 ___
 
 ### GetPostRollFrames
@@ -620,10 +480,6 @@ ___
 #### Inherited from
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[GetPostRollFrames](ue_ue.MovieSceneFloatSection.md#getpostrollframes)
-
-#### Defined in
-
-[ue/ue.d.ts:11800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11800)
 
 ___
 
@@ -639,10 +495,6 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[GetPreRollFrames](ue_ue.MovieSceneFloatSection.md#getprerollframes)
 
-#### Defined in
-
-[ue/ue.d.ts:11801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11801)
-
 ___
 
 ### GetRowIndex
@@ -656,10 +508,6 @@ ___
 #### Inherited from
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[GetRowIndex](ue_ue.MovieSceneFloatSection.md#getrowindex)
-
-#### Defined in
-
-[ue/ue.d.ts:11802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11802)
 
 ___
 
@@ -675,10 +523,6 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[GetWorld](ue_ue.MovieSceneFloatSection.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### IsActive
@@ -693,10 +537,6 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[IsActive](ue_ue.MovieSceneFloatSection.md#isactive)
 
-#### Defined in
-
-[ue/ue.d.ts:11803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11803)
-
 ___
 
 ### IsLocked
@@ -710,10 +550,6 @@ ___
 #### Inherited from
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[IsLocked](ue_ue.MovieSceneFloatSection.md#islocked)
-
-#### Defined in
-
-[ue/ue.d.ts:11804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11804)
 
 ___
 
@@ -735,10 +571,6 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[SetBlendType](ue_ue.MovieSceneFloatSection.md#setblendtype)
 
-#### Defined in
-
-[ue/ue.d.ts:11805](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11805)
-
 ___
 
 ### SetCompletionMode
@@ -758,10 +590,6 @@ ___
 #### Inherited from
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[SetCompletionMode](ue_ue.MovieSceneFloatSection.md#setcompletionmode)
-
-#### Defined in
-
-[ue/ue.d.ts:11806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11806)
 
 ___
 
@@ -783,10 +611,6 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[SetIsActive](ue_ue.MovieSceneFloatSection.md#setisactive)
 
-#### Defined in
-
-[ue/ue.d.ts:11807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11807)
-
 ___
 
 ### SetIsLocked
@@ -806,10 +630,6 @@ ___
 #### Inherited from
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[SetIsLocked](ue_ue.MovieSceneFloatSection.md#setislocked)
-
-#### Defined in
-
-[ue/ue.d.ts:11808](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11808)
 
 ___
 
@@ -831,10 +651,6 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[SetOverlapPriority](ue_ue.MovieSceneFloatSection.md#setoverlappriority)
 
-#### Defined in
-
-[ue/ue.d.ts:11809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11809)
-
 ___
 
 ### SetPostRollFrames
@@ -854,10 +670,6 @@ ___
 #### Inherited from
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[SetPostRollFrames](ue_ue.MovieSceneFloatSection.md#setpostrollframes)
-
-#### Defined in
-
-[ue/ue.d.ts:11810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11810)
 
 ___
 
@@ -879,10 +691,6 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[SetPreRollFrames](ue_ue.MovieSceneFloatSection.md#setprerollframes)
 
-#### Defined in
-
-[ue/ue.d.ts:11811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11811)
-
 ___
 
 ### SetRowIndex
@@ -902,10 +710,6 @@ ___
 #### Inherited from
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[SetRowIndex](ue_ue.MovieSceneFloatSection.md#setrowindex)
-
-#### Defined in
-
-[ue/ue.d.ts:11812](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11812)
 
 ___
 
@@ -928,10 +732,6 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[Find](ue_ue.MovieSceneFloatSection.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:51858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51858)
-
 ___
 
 ### Load
@@ -952,10 +752,6 @@ ___
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[Load](ue_ue.MovieSceneFloatSection.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:51859](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51859)
-
 ___
 
 ### StaticClass
@@ -969,7 +765,3 @@ ___
 #### Overrides
 
 [MovieSceneFloatSection](ue_ue.MovieSceneFloatSection.md).[StaticClass](ue_ue.MovieSceneFloatSection.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:51857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51857)

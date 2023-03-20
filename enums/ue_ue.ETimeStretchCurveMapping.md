@@ -20,19 +20,11 @@
 
 • **MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34833)
-
 ___
 
 ### T\_Original
 
 • **T\_Original** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34833)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **T\_TargetMax** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34833)
-
 ___
 
 ### T\_TargetMin
 
 • **T\_TargetMin** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34833)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34833)

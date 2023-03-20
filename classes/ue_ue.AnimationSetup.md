@@ -29,10 +29,6 @@
 
 • **new AnimationSetup**()
 
-#### Defined in
-
-[ue/ue.d.ts:17015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17015)
-
 • **new AnimationSetup**(`AnimSequence`, `AnimBlueprint`, `NumRandomizedInstances`, `Enabled`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `NumRandomizedInstances` | [`PerPlatformInt`](ue_ue.PerPlatformInt.md) |
 | `Enabled` | [`PerPlatformBool`](ue_ue.PerPlatformBool.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:17016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17016)
-
 ## Properties
 
 ### AnimBlueprint
 
 • **AnimBlueprint**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17018)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **AnimSequence**: [`AnimSequence`](ue_ue.AnimSequence.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17017)
-
 ___
 
 ### Enabled
 
 • **Enabled**: [`PerPlatformBool`](ue_ue.PerPlatformBool.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17020)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **NumRandomizedInstances**: [`PerPlatformInt`](ue_ue.PerPlatformInt.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17019)
-
 ___
 
 ### \_\_tid\_AnimationSetup\_\_
 
 • `Private` **\_\_tid\_AnimationSetup\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17026](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17026)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17024)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17025)

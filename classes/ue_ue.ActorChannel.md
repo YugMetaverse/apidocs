@@ -57,19 +57,11 @@
 
 [Channel](ue_ue.Channel.md).[constructor](ue_ue.Channel.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:13488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13488)
-
 ## Properties
 
 ### Actor
 
 • **Actor**: [`Actor`](ue_ue.Actor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:13489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13489)
 
 ___
 
@@ -81,29 +73,17 @@ ___
 
 [Channel](ue_ue.Channel.md).[Connection](ue_ue.Channel.md#connection)
 
-#### Defined in
-
-[ue/ue.d.ts:10368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10368)
-
 ___
 
 ### CreateSubObjects
 
 • **CreateSubObjects**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Object`](ue_ue.Object.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:13490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13490)
-
 ___
 
 ### \_\_tid\_ActorChannel\_\_
 
 • **\_\_tid\_ActorChannel\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:13495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13495)
 
 ___
 
@@ -115,10 +95,6 @@ ___
 
 [Channel](ue_ue.Channel.md).[__tid_Channel__](ue_ue.Channel.md#__tid_channel__)
 
-#### Defined in
-
-[ue/ue.d.ts:10373](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10373)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -128,10 +104,6 @@ ___
 #### Inherited from
 
 [Channel](ue_ue.Channel.md).[__tid_Object__](ue_ue.Channel.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -157,10 +129,6 @@ ___
 
 [Channel](ue_ue.Channel.md).[CreateDefaultSubobject](ue_ue.Channel.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -181,10 +149,6 @@ ___
 
 [Channel](ue_ue.Channel.md).[ExecuteUbergraph](ue_ue.Channel.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -198,10 +162,6 @@ ___
 #### Inherited from
 
 [Channel](ue_ue.Channel.md).[GetClass](ue_ue.Channel.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -217,10 +177,6 @@ ___
 
 [Channel](ue_ue.Channel.md).[GetName](ue_ue.Channel.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -235,10 +191,6 @@ ___
 
 [Channel](ue_ue.Channel.md).[GetOuter](ue_ue.Channel.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -252,10 +204,6 @@ ___
 #### Inherited from
 
 [Channel](ue_ue.Channel.md).[GetWorld](ue_ue.Channel.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -278,10 +226,6 @@ ___
 
 [Channel](ue_ue.Channel.md).[Find](ue_ue.Channel.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:13492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13492)
-
 ___
 
 ### Load
@@ -302,10 +246,6 @@ ___
 
 [Channel](ue_ue.Channel.md).[Load](ue_ue.Channel.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:13493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13493)
-
 ___
 
 ### StaticClass
@@ -319,7 +259,3 @@ ___
 #### Overrides
 
 [Channel](ue_ue.Channel.md).[StaticClass](ue_ue.Channel.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13491)

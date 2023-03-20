@@ -30,19 +30,11 @@
 
 • `Optional` **Column**: `number`
 
-#### Defined in
-
-[react-umg/index.d.ts:49](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L49)
-
 ___
 
 ### ColumnSpan
 
 • `Optional` **ColumnSpan**: `number`
-
-#### Defined in
-
-[react-umg/index.d.ts:50](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L50)
 
 ___
 
@@ -50,19 +42,11 @@ ___
 
 • `Optional` **HorizontalAlignment**: [`EHorizontalAlignment`](../enums/ue_ue.EHorizontalAlignment.md)
 
-#### Defined in
-
-[react-umg/index.d.ts:45](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L45)
-
 ___
 
 ### Layer
 
 • `Optional` **Layer**: `number`
-
-#### Defined in
-
-[react-umg/index.d.ts:51](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L51)
 
 ___
 
@@ -70,19 +54,11 @@ ___
 
 • `Optional` **Nudge**: [`RecursivePartial`](../modules/react_umg.md#recursivepartial)<[`Vector2D`](../classes/ue_ue_s.Vector2D.md)\>
 
-#### Defined in
-
-[react-umg/index.d.ts:52](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L52)
-
 ___
 
 ### Padding
 
 • `Optional` **Padding**: [`RecursivePartial`](../modules/react_umg.md#recursivepartial)<[`Margin`](../classes/ue_ue.Margin.md)\>
-
-#### Defined in
-
-[react-umg/index.d.ts:44](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L44)
 
 ___
 
@@ -90,26 +66,14 @@ ___
 
 • `Optional` **Row**: `number`
 
-#### Defined in
-
-[react-umg/index.d.ts:47](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L47)
-
 ___
 
 ### RowSpan
 
 • `Optional` **RowSpan**: `number`
 
-#### Defined in
-
-[react-umg/index.d.ts:48](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L48)
-
 ___
 
 ### VerticalAlignment
 
 • `Optional` **VerticalAlignment**: [`EVerticalAlignment`](../enums/ue_ue.EVerticalAlignment.md)
-
-#### Defined in
-
-[react-umg/index.d.ts:46](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L46)

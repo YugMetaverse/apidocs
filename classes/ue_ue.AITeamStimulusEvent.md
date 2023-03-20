@@ -27,10 +27,6 @@
 
 • **new AITeamStimulusEvent**()
 
-#### Defined in
-
-[ue/ue.d.ts:15902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15902)
-
 • **new AITeamStimulusEvent**(`Broadcaster`, `Enemy`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Broadcaster` | [`Actor`](ue_ue.Actor.md) |
 | `Enemy` | [`Actor`](ue_ue.Actor.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:15903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15903)
-
 ## Properties
 
 ### Broadcaster
 
 • **Broadcaster**: [`Actor`](ue_ue.Actor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15904)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Enemy**: [`Actor`](ue_ue.Actor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15905)
-
 ___
 
 ### \_\_tid\_AITeamStimulusEvent\_\_
 
 • `Private` **\_\_tid\_AITeamStimulusEvent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15911)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15909)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15910)

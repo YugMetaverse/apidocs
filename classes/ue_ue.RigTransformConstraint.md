@@ -28,10 +28,6 @@
 
 • **new RigTransformConstraint**()
 
-#### Defined in
-
-[ue/ue.d.ts:2419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2419)
-
 • **new RigTransformConstraint**(`TranformType`, `ParentSpace`, `Weight`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `ParentSpace` | `string` |
 | `Weight` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:2420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2420)
-
 ## Properties
 
 ### ParentSpace
 
 • **ParentSpace**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:2422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2422)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **TranformType**: [`EConstraintTransform`](../enums/ue_ue.EConstraintTransform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2421)
-
 ___
 
 ### Weight
 
 • **Weight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2423)
-
 ___
 
 ### \_\_tid\_RigTransformConstraint\_\_
 
 • `Private` **\_\_tid\_RigTransformConstraint\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2429)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2427)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2428)

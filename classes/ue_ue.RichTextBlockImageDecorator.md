@@ -53,19 +53,11 @@
 
 [RichTextBlockDecorator](ue_ue.RichTextBlockDecorator.md).[constructor](ue_ue.RichTextBlockDecorator.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:59676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59676)
-
 ## Properties
 
 ### ImageSet
 
 • **ImageSet**: [`DataTable`](ue_ue.DataTable.md)
-
-#### Defined in
-
-[ue/ue.d.ts:59677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59677)
 
 ___
 
@@ -77,10 +69,6 @@ ___
 
 [RichTextBlockDecorator](ue_ue.RichTextBlockDecorator.md).[__tid_Object__](ue_ue.RichTextBlockDecorator.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_RichTextBlockDecorator\_\_
@@ -91,19 +79,11 @@ ___
 
 [RichTextBlockDecorator](ue_ue.RichTextBlockDecorator.md).[__tid_RichTextBlockDecorator__](ue_ue.RichTextBlockDecorator.md#__tid_richtextblockdecorator__)
 
-#### Defined in
-
-[ue/ue.d.ts:59643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59643)
-
 ___
 
 ### \_\_tid\_RichTextBlockImageDecorator\_\_
 
 • **\_\_tid\_RichTextBlockImageDecorator\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59682)
 
 ## Methods
 
@@ -129,10 +109,6 @@ ___
 
 [RichTextBlockDecorator](ue_ue.RichTextBlockDecorator.md).[CreateDefaultSubobject](ue_ue.RichTextBlockDecorator.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -153,10 +129,6 @@ ___
 
 [RichTextBlockDecorator](ue_ue.RichTextBlockDecorator.md).[ExecuteUbergraph](ue_ue.RichTextBlockDecorator.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -170,10 +142,6 @@ ___
 #### Inherited from
 
 [RichTextBlockDecorator](ue_ue.RichTextBlockDecorator.md).[GetClass](ue_ue.RichTextBlockDecorator.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -189,10 +157,6 @@ ___
 
 [RichTextBlockDecorator](ue_ue.RichTextBlockDecorator.md).[GetName](ue_ue.RichTextBlockDecorator.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -207,10 +171,6 @@ ___
 
 [RichTextBlockDecorator](ue_ue.RichTextBlockDecorator.md).[GetOuter](ue_ue.RichTextBlockDecorator.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -224,10 +184,6 @@ ___
 #### Inherited from
 
 [RichTextBlockDecorator](ue_ue.RichTextBlockDecorator.md).[GetWorld](ue_ue.RichTextBlockDecorator.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -250,10 +206,6 @@ ___
 
 [RichTextBlockDecorator](ue_ue.RichTextBlockDecorator.md).[Find](ue_ue.RichTextBlockDecorator.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:59679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59679)
-
 ___
 
 ### Load
@@ -274,10 +226,6 @@ ___
 
 [RichTextBlockDecorator](ue_ue.RichTextBlockDecorator.md).[Load](ue_ue.RichTextBlockDecorator.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:59680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59680)
-
 ___
 
 ### StaticClass
@@ -291,7 +239,3 @@ ___
 #### Overrides
 
 [RichTextBlockDecorator](ue_ue.RichTextBlockDecorator.md).[StaticClass](ue_ue.RichTextBlockDecorator.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:59678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59678)

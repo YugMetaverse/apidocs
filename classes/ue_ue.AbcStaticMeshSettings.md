@@ -28,10 +28,6 @@
 
 • **new AbcStaticMeshSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L125)
-
 • **new AbcStaticMeshSettings**(`bMergeMeshes`, `bPropagateMatrixTransformations`, `bGenerateLightmapUVs`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `bPropagateMatrixTransformations` | `boolean` |
 | `bGenerateLightmapUVs` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L126)
-
 ## Properties
 
 ### \_\_tid\_AbcStaticMeshSettings\_\_
 
 • `Private` **\_\_tid\_AbcStaticMeshSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L135)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **bGenerateLightmapUVs**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L129)
-
 ___
 
 ### bMergeMeshes
 
 • **bMergeMeshes**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L127)
-
 ___
 
 ### bPropagateMatrixTransformations
 
 • **bPropagateMatrixTransformations**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L128)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L133)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L134)

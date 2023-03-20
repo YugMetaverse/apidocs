@@ -20,19 +20,11 @@
 
 • **ETranslucentSortPolicy\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34851)
-
 ___
 
 ### SortAlongAxis
 
 • **SortAlongAxis** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34851)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **SortByDistance** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34851)
-
 ___
 
 ### SortByProjectedZ
 
 • **SortByProjectedZ** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34851)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34851)

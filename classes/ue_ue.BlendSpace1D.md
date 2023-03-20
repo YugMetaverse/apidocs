@@ -77,10 +77,6 @@
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[constructor](ue_ue.BlendSpaceBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:15272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15272)
-
 ## Properties
 
 ### AnimLength
@@ -90,10 +86,6 @@
 #### Inherited from
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[AnimLength](ue_ue.BlendSpaceBase.md#animlength)
-
-#### Defined in
-
-[ue/ue.d.ts:15235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15235)
 
 ___
 
@@ -105,10 +97,6 @@ ___
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[AssetMappingTable](ue_ue.BlendSpaceBase.md#assetmappingtable)
 
-#### Defined in
-
-[ue/ue.d.ts:2766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2766)
-
 ___
 
 ### AssetUserData
@@ -118,10 +106,6 @@ ___
 #### Inherited from
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[AssetUserData](ue_ue.BlendSpaceBase.md#assetuserdata)
-
-#### Defined in
-
-[ue/ue.d.ts:2767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2767)
 
 ___
 
@@ -133,10 +117,6 @@ ___
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[BlendParameters](ue_ue.BlendSpaceBase.md#blendparameters)
 
-#### Defined in
-
-[ue/ue.d.ts:15243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15243)
-
 ___
 
 ### ChildrenAssets
@@ -146,10 +126,6 @@ ___
 #### Inherited from
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[ChildrenAssets](ue_ue.BlendSpaceBase.md#childrenassets)
-
-#### Defined in
-
-[ue/ue.d.ts:2765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2765)
 
 ___
 
@@ -161,10 +137,6 @@ ___
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[GridSamples](ue_ue.BlendSpaceBase.md#gridsamples)
 
-#### Defined in
-
-[ue/ue.d.ts:15242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15242)
-
 ___
 
 ### InterpolationParam
@@ -174,10 +146,6 @@ ___
 #### Inherited from
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[InterpolationParam](ue_ue.BlendSpaceBase.md#interpolationparam)
-
-#### Defined in
-
-[ue/ue.d.ts:15236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15236)
 
 ___
 
@@ -189,10 +157,6 @@ ___
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[MetaData](ue_ue.BlendSpaceBase.md#metadata)
 
-#### Defined in
-
-[ue/ue.d.ts:2763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2763)
-
 ___
 
 ### NotifyTriggerMode
@@ -202,10 +166,6 @@ ___
 #### Inherited from
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[NotifyTriggerMode](ue_ue.BlendSpaceBase.md#notifytriggermode)
-
-#### Defined in
-
-[ue/ue.d.ts:15238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15238)
 
 ___
 
@@ -217,10 +177,6 @@ ___
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[ParentAsset](ue_ue.BlendSpaceBase.md#parentasset)
 
-#### Defined in
-
-[ue/ue.d.ts:2764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2764)
-
 ___
 
 ### PerBoneBlend
@@ -230,10 +186,6 @@ ___
 #### Inherited from
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[PerBoneBlend](ue_ue.BlendSpaceBase.md#perboneblend)
-
-#### Defined in
-
-[ue/ue.d.ts:15239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15239)
 
 ___
 
@@ -245,10 +197,6 @@ ___
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[PreviewBasePose](ue_ue.BlendSpaceBase.md#previewbasepose)
 
-#### Defined in
-
-[ue/ue.d.ts:15234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15234)
-
 ___
 
 ### PreviewPoseAsset
@@ -258,10 +206,6 @@ ___
 #### Inherited from
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[PreviewPoseAsset](ue_ue.BlendSpaceBase.md#previewposeasset)
-
-#### Defined in
-
-[ue/ue.d.ts:2769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2769)
 
 ___
 
@@ -273,10 +217,6 @@ ___
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[PreviewSkeletalMesh](ue_ue.BlendSpaceBase.md#previewskeletalmesh)
 
-#### Defined in
-
-[ue/ue.d.ts:2770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2770)
-
 ___
 
 ### SampleData
@@ -286,10 +226,6 @@ ___
 #### Inherited from
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[SampleData](ue_ue.BlendSpaceBase.md#sampledata)
-
-#### Defined in
-
-[ue/ue.d.ts:15241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15241)
 
 ___
 
@@ -301,10 +237,6 @@ ___
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[SampleIndexWithMarkers](ue_ue.BlendSpaceBase.md#sampleindexwithmarkers)
 
-#### Defined in
-
-[ue/ue.d.ts:15240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15240)
-
 ___
 
 ### Skeleton
@@ -314,10 +246,6 @@ ___
 #### Inherited from
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[Skeleton](ue_ue.BlendSpaceBase.md#skeleton)
-
-#### Defined in
-
-[ue/ue.d.ts:2762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2762)
 
 ___
 
@@ -329,10 +257,6 @@ ___
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[TargetWeightInterpolationSpeedPerSec](ue_ue.BlendSpaceBase.md#targetweightinterpolationspeedpersec)
 
-#### Defined in
-
-[ue/ue.d.ts:15237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15237)
-
 ___
 
 ### ThumbnailInfo
@@ -342,10 +266,6 @@ ___
 #### Inherited from
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[ThumbnailInfo](ue_ue.BlendSpaceBase.md#thumbnailinfo)
-
-#### Defined in
-
-[ue/ue.d.ts:2768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2768)
 
 ___
 
@@ -357,19 +277,11 @@ ___
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[__tid_AnimationAsset__](ue_ue.BlendSpaceBase.md#__tid_animationasset__)
 
-#### Defined in
-
-[ue/ue.d.ts:2775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2775)
-
 ___
 
 ### \_\_tid\_BlendSpace1D\_\_
 
 • **\_\_tid\_BlendSpace1D\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15279)
 
 ___
 
@@ -381,10 +293,6 @@ ___
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[__tid_BlendSpaceBase__](ue_ue.BlendSpaceBase.md#__tid_blendspacebase__)
 
-#### Defined in
-
-[ue/ue.d.ts:15248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15248)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -395,19 +303,11 @@ ___
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[__tid_Object__](ue_ue.BlendSpaceBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bDisplayEditorVertically
 
 • **bDisplayEditorVertically**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15273)
 
 ___
 
@@ -419,19 +319,11 @@ ___
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[bRotationBlendInMeshSpace](ue_ue.BlendSpaceBase.md#brotationblendinmeshspace)
 
-#### Defined in
-
-[ue/ue.d.ts:15233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15233)
-
 ___
 
 ### bScaleAnimation
 
 • **bScaleAnimation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15274)
 
 ## Methods
 
@@ -457,10 +349,6 @@ ___
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[CreateDefaultSubobject](ue_ue.BlendSpaceBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -481,10 +369,6 @@ ___
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[ExecuteUbergraph](ue_ue.BlendSpaceBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -498,10 +382,6 @@ ___
 #### Inherited from
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[GetClass](ue_ue.BlendSpaceBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -517,10 +397,6 @@ ___
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[GetName](ue_ue.BlendSpaceBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -535,10 +411,6 @@ ___
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[GetOuter](ue_ue.BlendSpaceBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -552,10 +424,6 @@ ___
 #### Inherited from
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[GetWorld](ue_ue.BlendSpaceBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -578,10 +446,6 @@ ___
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[Find](ue_ue.BlendSpaceBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:15276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15276)
-
 ___
 
 ### Load
@@ -602,10 +466,6 @@ ___
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[Load](ue_ue.BlendSpaceBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:15277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15277)
-
 ___
 
 ### StaticClass
@@ -619,7 +479,3 @@ ___
 #### Overrides
 
 [BlendSpaceBase](ue_ue.BlendSpaceBase.md).[StaticClass](ue_ue.BlendSpaceBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15275)

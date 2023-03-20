@@ -21,19 +21,11 @@
 
 • **HAlign\_Center** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:23415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23415)
-
 ___
 
 ### HAlign\_Fill
 
 • **HAlign\_Fill** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:23415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23415)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **HAlign\_Left** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:23415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23415)
-
 ___
 
 ### HAlign\_MAX
 
 • **HAlign\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:23415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23415)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **HAlign\_Right** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:23415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23415)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:23415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23415)

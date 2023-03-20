@@ -29,10 +29,6 @@
 
 • **new PIELoginSettingsInternal**()
 
-#### Defined in
-
-[ue/ue.d.ts:54238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54238)
-
 • **new PIELoginSettingsInternal**(`Id`, `Token`, `Type`, `TokenBytes`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `Type` | `string` |
 | `TokenBytes` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:54239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54239)
-
 ## Properties
 
 ### Id
 
 • **Id**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:54240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54240)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **Token**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:54241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54241)
-
 ___
 
 ### TokenBytes
 
 • **TokenBytes**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:54243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54243)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **Type**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:54242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54242)
-
 ___
 
 ### \_\_tid\_PIELoginSettingsInternal\_\_
 
 • `Private` **\_\_tid\_PIELoginSettingsInternal\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54249)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54247)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54248)

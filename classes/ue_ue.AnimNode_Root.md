@@ -40,10 +40,6 @@
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[constructor](ue_ue.AnimNode_Base.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:16821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16821)
-
 • **new AnimNode_Root**(`Result`, `Name`, `Group`)
 
 #### Parameters
@@ -58,19 +54,11 @@
 
 UE.AnimNode\_Base.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:16822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16822)
-
 ## Properties
 
 ### Group
 
 • **Group**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:16825](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16825)
 
 ___
 
@@ -78,29 +66,17 @@ ___
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:16824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16824)
-
 ___
 
 ### Result
 
 • **Result**: [`PoseLink`](ue_ue.PoseLink.md)
 
-#### Defined in
-
-[ue/ue.d.ts:16823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16823)
-
 ___
 
 ### \_\_tid\_AnimNode\_Root\_\_
 
 • `Private` **\_\_tid\_AnimNode\_Root\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16831)
 
 ## Methods
 
@@ -120,10 +96,6 @@ use StaticStruct instead.
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticClass](ue_ue.AnimNode_Base.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:16829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16829)
-
 ___
 
 ### StaticStruct
@@ -137,7 +109,3 @@ ___
 #### Overrides
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticStruct](ue_ue.AnimNode_Base.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:16830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16830)

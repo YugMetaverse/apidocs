@@ -26,10 +26,6 @@
 
 • **new BandwidthTestItem**()
 
-#### Defined in
-
-[ue/ue.d.ts:23457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23457)
-
 • **new BandwidthTestItem**(`Kilobyte`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Kilobyte` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:23458](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23458)
-
 ## Properties
 
 ### Kilobyte
 
 • **Kilobyte**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:23459](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23459)
-
 ___
 
 ### \_\_tid\_BandwidthTestItem\_\_
 
 • `Private` **\_\_tid\_BandwidthTestItem\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:23465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23465)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23463)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:23464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23464)

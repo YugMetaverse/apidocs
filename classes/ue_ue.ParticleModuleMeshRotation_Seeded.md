@@ -71,10 +71,6 @@
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[constructor](ue_ue.ParticleModuleMeshRotation.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:56023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56023)
-
 ## Properties
 
 ### LODDuplicate
@@ -84,10 +80,6 @@
 #### Inherited from
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[LODDuplicate](ue_ue.ParticleModuleMeshRotation.md#lodduplicate)
-
-#### Defined in
-
-[ue/ue.d.ts:6745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6745)
 
 ___
 
@@ -99,10 +91,6 @@ ___
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[LODValidity](ue_ue.ParticleModuleMeshRotation.md#lodvalidity)
 
-#### Defined in
-
-[ue/ue.d.ts:6748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6748)
-
 ___
 
 ### ModuleEditorColor
@@ -113,19 +101,11 @@ ___
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[ModuleEditorColor](ue_ue.ParticleModuleMeshRotation.md#moduleeditorcolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6749)
-
 ___
 
 ### RandomSeedInfo
 
 • **RandomSeedInfo**: [`ParticleRandomSeedInfo`](ue_ue.ParticleRandomSeedInfo.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56024)
 
 ___
 
@@ -137,10 +117,6 @@ ___
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[StartRotation](ue_ue.ParticleModuleMeshRotation.md#startrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:56013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56013)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -151,19 +127,11 @@ ___
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[__tid_Object__](ue_ue.ParticleModuleMeshRotation.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ParticleModuleMeshRotation\_Seeded\_\_
 
 • **\_\_tid\_ParticleModuleMeshRotation\_Seeded\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:56029](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56029)
 
 ___
 
@@ -175,10 +143,6 @@ ___
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[__tid_ParticleModuleMeshRotation__](ue_ue.ParticleModuleMeshRotation.md#__tid_particlemodulemeshrotation__)
 
-#### Defined in
-
-[ue/ue.d.ts:56019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56019)
-
 ___
 
 ### \_\_tid\_ParticleModuleRotationBase\_\_
@@ -188,10 +152,6 @@ ___
 #### Inherited from
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[__tid_ParticleModuleRotationBase__](ue_ue.ParticleModuleMeshRotation.md#__tid_particlemodulerotationbase__)
-
-#### Defined in
-
-[ue/ue.d.ts:56008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56008)
 
 ___
 
@@ -203,10 +163,6 @@ ___
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[__tid_ParticleModule__](ue_ue.ParticleModuleMeshRotation.md#__tid_particlemodule__)
 
-#### Defined in
-
-[ue/ue.d.ts:6754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6754)
-
 ___
 
 ### b3DDrawMode
@@ -216,10 +172,6 @@ ___
 #### Inherited from
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[b3DDrawMode](ue_ue.ParticleModuleMeshRotation.md#b3ddrawmode)
-
-#### Defined in
-
-[ue/ue.d.ts:6741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6741)
 
 ___
 
@@ -231,10 +183,6 @@ ___
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[bCurvesAsColor](ue_ue.ParticleModuleMeshRotation.md#bcurvesascolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6740)
-
 ___
 
 ### bEditable
@@ -244,10 +192,6 @@ ___
 #### Inherited from
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[bEditable](ue_ue.ParticleModuleMeshRotation.md#beditable)
-
-#### Defined in
-
-[ue/ue.d.ts:6744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6744)
 
 ___
 
@@ -259,10 +203,6 @@ ___
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[bEnabled](ue_ue.ParticleModuleMeshRotation.md#benabled)
 
-#### Defined in
-
-[ue/ue.d.ts:6743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6743)
-
 ___
 
 ### bFinalUpdateModule
@@ -272,10 +212,6 @@ ___
 #### Inherited from
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[bFinalUpdateModule](ue_ue.ParticleModuleMeshRotation.md#bfinalupdatemodule)
-
-#### Defined in
-
-[ue/ue.d.ts:6738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6738)
 
 ___
 
@@ -287,10 +223,6 @@ ___
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[bInheritParent](ue_ue.ParticleModuleMeshRotation.md#binheritparent)
 
-#### Defined in
-
-[ue/ue.d.ts:56014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56014)
-
 ___
 
 ### bRequiresLoopingNotification
@@ -300,10 +232,6 @@ ___
 #### Inherited from
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[bRequiresLoopingNotification](ue_ue.ParticleModuleMeshRotation.md#brequiresloopingnotification)
-
-#### Defined in
-
-[ue/ue.d.ts:6747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6747)
 
 ___
 
@@ -315,10 +243,6 @@ ___
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[bSpawnModule](ue_ue.ParticleModuleMeshRotation.md#bspawnmodule)
 
-#### Defined in
-
-[ue/ue.d.ts:6736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6736)
-
 ___
 
 ### bSupported3DDrawMode
@@ -328,10 +252,6 @@ ___
 #### Inherited from
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[bSupported3DDrawMode](ue_ue.ParticleModuleMeshRotation.md#bsupported3ddrawmode)
-
-#### Defined in
-
-[ue/ue.d.ts:6742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6742)
 
 ___
 
@@ -343,10 +263,6 @@ ___
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[bSupportsRandomSeed](ue_ue.ParticleModuleMeshRotation.md#bsupportsrandomseed)
 
-#### Defined in
-
-[ue/ue.d.ts:6746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6746)
-
 ___
 
 ### bUpdateForGPUEmitter
@@ -357,10 +273,6 @@ ___
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[bUpdateForGPUEmitter](ue_ue.ParticleModuleMeshRotation.md#bupdateforgpuemitter)
 
-#### Defined in
-
-[ue/ue.d.ts:6739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6739)
-
 ___
 
 ### bUpdateModule
@@ -370,10 +282,6 @@ ___
 #### Inherited from
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[bUpdateModule](ue_ue.ParticleModuleMeshRotation.md#bupdatemodule)
-
-#### Defined in
-
-[ue/ue.d.ts:6737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6737)
 
 ## Methods
 
@@ -399,10 +307,6 @@ ___
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[CreateDefaultSubobject](ue_ue.ParticleModuleMeshRotation.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -423,10 +327,6 @@ ___
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[ExecuteUbergraph](ue_ue.ParticleModuleMeshRotation.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -440,10 +340,6 @@ ___
 #### Inherited from
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[GetClass](ue_ue.ParticleModuleMeshRotation.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -459,10 +355,6 @@ ___
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[GetName](ue_ue.ParticleModuleMeshRotation.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -477,10 +369,6 @@ ___
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[GetOuter](ue_ue.ParticleModuleMeshRotation.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -494,10 +382,6 @@ ___
 #### Inherited from
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[GetWorld](ue_ue.ParticleModuleMeshRotation.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -520,10 +404,6 @@ ___
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[Find](ue_ue.ParticleModuleMeshRotation.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:56026](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56026)
-
 ___
 
 ### Load
@@ -544,10 +424,6 @@ ___
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[Load](ue_ue.ParticleModuleMeshRotation.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:56027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56027)
-
 ___
 
 ### StaticClass
@@ -561,7 +437,3 @@ ___
 #### Overrides
 
 [ParticleModuleMeshRotation](ue_ue.ParticleModuleMeshRotation.md).[StaticClass](ue_ue.ParticleModuleMeshRotation.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:56025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56025)

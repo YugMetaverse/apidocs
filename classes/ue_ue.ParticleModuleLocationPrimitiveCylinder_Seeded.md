@@ -84,10 +84,6 @@
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[constructor](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:55896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55896)
-
 ## Properties
 
 ### HeightAxis
@@ -97,10 +93,6 @@
 #### Inherited from
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[HeightAxis](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#heightaxis)
-
-#### Defined in
-
-[ue/ue.d.ts:55887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55887)
 
 ___
 
@@ -112,10 +104,6 @@ ___
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[LODDuplicate](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#lodduplicate)
 
-#### Defined in
-
-[ue/ue.d.ts:6745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6745)
-
 ___
 
 ### LODValidity
@@ -125,10 +113,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[LODValidity](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#lodvalidity)
-
-#### Defined in
-
-[ue/ue.d.ts:6748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6748)
 
 ___
 
@@ -140,10 +124,6 @@ ___
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[ModuleEditorColor](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#moduleeditorcolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6749)
-
 ___
 
 ### Negative\_X
@@ -153,10 +133,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[Negative_X](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#negative_x)
-
-#### Defined in
-
-[ue/ue.d.ts:55868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55868)
 
 ___
 
@@ -168,10 +144,6 @@ ___
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[Negative_Y](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#negative_y)
 
-#### Defined in
-
-[ue/ue.d.ts:55869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55869)
-
 ___
 
 ### Negative\_Z
@@ -181,10 +153,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[Negative_Z](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#negative_z)
-
-#### Defined in
-
-[ue/ue.d.ts:55870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55870)
 
 ___
 
@@ -196,10 +164,6 @@ ___
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[Positive_X](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#positive_x)
 
-#### Defined in
-
-[ue/ue.d.ts:55865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55865)
-
 ___
 
 ### Positive\_Y
@@ -209,10 +173,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[Positive_Y](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#positive_y)
-
-#### Defined in
-
-[ue/ue.d.ts:55866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55866)
 
 ___
 
@@ -224,10 +184,6 @@ ___
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[Positive_Z](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#positive_z)
 
-#### Defined in
-
-[ue/ue.d.ts:55867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55867)
-
 ___
 
 ### RadialVelocity
@@ -238,19 +194,11 @@ ___
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[RadialVelocity](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#radialvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:55884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55884)
-
 ___
 
 ### RandomSeedInfo
 
 • **RandomSeedInfo**: [`ParticleRandomSeedInfo`](ue_ue.ParticleRandomSeedInfo.md)
-
-#### Defined in
-
-[ue/ue.d.ts:55897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55897)
 
 ___
 
@@ -262,10 +210,6 @@ ___
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[StartHeight](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#startheight)
 
-#### Defined in
-
-[ue/ue.d.ts:55886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55886)
-
 ___
 
 ### StartLocation
@@ -275,10 +219,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[StartLocation](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#startlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:55874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55874)
 
 ___
 
@@ -290,10 +230,6 @@ ___
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[StartRadius](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#startradius)
 
-#### Defined in
-
-[ue/ue.d.ts:55885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55885)
-
 ___
 
 ### SurfaceOnly
@@ -303,10 +239,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[SurfaceOnly](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#surfaceonly)
-
-#### Defined in
-
-[ue/ue.d.ts:55871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55871)
 
 ___
 
@@ -318,10 +250,6 @@ ___
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[Velocity](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#velocity)
 
-#### Defined in
-
-[ue/ue.d.ts:55872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55872)
-
 ___
 
 ### VelocityScale
@@ -331,10 +259,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[VelocityScale](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#velocityscale)
-
-#### Defined in
-
-[ue/ue.d.ts:55873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55873)
 
 ___
 
@@ -346,10 +270,6 @@ ___
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[__tid_Object__](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ParticleModuleLocationBase\_\_
@@ -359,10 +279,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[__tid_ParticleModuleLocationBase__](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#__tid_particlemodulelocationbase__)
-
-#### Defined in
-
-[ue/ue.d.ts:55767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55767)
 
 ___
 
@@ -374,19 +290,11 @@ ___
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[__tid_ParticleModuleLocationPrimitiveBase__](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#__tid_particlemodulelocationprimitivebase__)
 
-#### Defined in
-
-[ue/ue.d.ts:55879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55879)
-
 ___
 
 ### \_\_tid\_ParticleModuleLocationPrimitiveCylinder\_Seeded\_\_
 
 • **\_\_tid\_ParticleModuleLocationPrimitiveCylinder\_Seeded\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55902)
 
 ___
 
@@ -398,10 +306,6 @@ ___
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[__tid_ParticleModuleLocationPrimitiveCylinder__](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#__tid_particlemodulelocationprimitivecylinder__)
 
-#### Defined in
-
-[ue/ue.d.ts:55892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55892)
-
 ___
 
 ### \_\_tid\_ParticleModule\_\_
@@ -411,10 +315,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[__tid_ParticleModule__](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#__tid_particlemodule__)
-
-#### Defined in
-
-[ue/ue.d.ts:6754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6754)
 
 ___
 
@@ -426,10 +326,6 @@ ___
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[b3DDrawMode](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#b3ddrawmode)
 
-#### Defined in
-
-[ue/ue.d.ts:6741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6741)
-
 ___
 
 ### bCurvesAsColor
@@ -439,10 +335,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[bCurvesAsColor](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#bcurvesascolor)
-
-#### Defined in
-
-[ue/ue.d.ts:6740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6740)
 
 ___
 
@@ -454,10 +346,6 @@ ___
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[bEditable](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#beditable)
 
-#### Defined in
-
-[ue/ue.d.ts:6744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6744)
-
 ___
 
 ### bEnabled
@@ -467,10 +355,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[bEnabled](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#benabled)
-
-#### Defined in
-
-[ue/ue.d.ts:6743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6743)
 
 ___
 
@@ -482,10 +366,6 @@ ___
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[bFinalUpdateModule](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#bfinalupdatemodule)
 
-#### Defined in
-
-[ue/ue.d.ts:6738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6738)
-
 ___
 
 ### bRequiresLoopingNotification
@@ -495,10 +375,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[bRequiresLoopingNotification](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#brequiresloopingnotification)
-
-#### Defined in
-
-[ue/ue.d.ts:6747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6747)
 
 ___
 
@@ -510,10 +386,6 @@ ___
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[bSpawnModule](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#bspawnmodule)
 
-#### Defined in
-
-[ue/ue.d.ts:6736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6736)
-
 ___
 
 ### bSupported3DDrawMode
@@ -523,10 +395,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[bSupported3DDrawMode](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#bsupported3ddrawmode)
-
-#### Defined in
-
-[ue/ue.d.ts:6742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6742)
 
 ___
 
@@ -538,10 +406,6 @@ ___
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[bSupportsRandomSeed](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#bsupportsrandomseed)
 
-#### Defined in
-
-[ue/ue.d.ts:6746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6746)
-
 ___
 
 ### bUpdateForGPUEmitter
@@ -552,10 +416,6 @@ ___
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[bUpdateForGPUEmitter](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#bupdateforgpuemitter)
 
-#### Defined in
-
-[ue/ue.d.ts:6739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6739)
-
 ___
 
 ### bUpdateModule
@@ -565,10 +425,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[bUpdateModule](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#bupdatemodule)
-
-#### Defined in
-
-[ue/ue.d.ts:6737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6737)
 
 ## Methods
 
@@ -594,10 +450,6 @@ ___
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[CreateDefaultSubobject](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -618,10 +470,6 @@ ___
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[ExecuteUbergraph](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -635,10 +483,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[GetClass](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -654,10 +498,6 @@ ___
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[GetName](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -672,10 +512,6 @@ ___
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[GetOuter](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -689,10 +525,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[GetWorld](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -715,10 +547,6 @@ ___
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[Find](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:55899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55899)
-
 ___
 
 ### Load
@@ -739,10 +567,6 @@ ___
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[Load](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:55900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55900)
-
 ___
 
 ### StaticClass
@@ -756,7 +580,3 @@ ___
 #### Overrides
 
 [ParticleModuleLocationPrimitiveCylinder](ue_ue.ParticleModuleLocationPrimitiveCylinder.md).[StaticClass](ue_ue.ParticleModuleLocationPrimitiveCylinder.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:55898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55898)

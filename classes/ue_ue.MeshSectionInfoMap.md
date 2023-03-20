@@ -26,10 +26,6 @@
 
 • **new MeshSectionInfoMap**()
 
-#### Defined in
-
-[ue/ue.d.ts:7810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7810)
-
 • **new MeshSectionInfoMap**(`Map`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Map` | [`TMap`](../interfaces/ue_puerts.TMap.md)<`number`, [`MeshSectionInfo`](ue_ue.MeshSectionInfo.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:7811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7811)
-
 ## Properties
 
 ### Map
 
 • **Map**: [`TMap`](../interfaces/ue_puerts.TMap.md)<`number`, [`MeshSectionInfo`](ue_ue.MeshSectionInfo.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:7812](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7812)
-
 ___
 
 ### \_\_tid\_MeshSectionInfoMap\_\_
 
 • `Private` **\_\_tid\_MeshSectionInfoMap\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7818](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7818)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7816)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7817)

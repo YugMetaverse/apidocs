@@ -27,10 +27,6 @@
 
 • **new TireConfigMaterialFriction**()
 
-#### Defined in
-
-[ue/ue.d.ts:60409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60409)
-
 • **new TireConfigMaterialFriction**(`PhysicalMaterial`, `FrictionScale`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `PhysicalMaterial` | [`PhysicalMaterial`](ue_ue.PhysicalMaterial.md) |
 | `FrictionScale` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:60410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60410)
-
 ## Properties
 
 ### FrictionScale
 
 • **FrictionScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:60412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60412)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **PhysicalMaterial**: [`PhysicalMaterial`](ue_ue.PhysicalMaterial.md)
 
-#### Defined in
-
-[ue/ue.d.ts:60411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60411)
-
 ___
 
 ### \_\_tid\_TireConfigMaterialFriction\_\_
 
 • `Private` **\_\_tid\_TireConfigMaterialFriction\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:60418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60418)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:60416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60416)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:60417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60417)

@@ -20,19 +20,11 @@
 
 • **EMagicLeapHandTrackingGestureFilterLevel\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34000)
-
 ___
 
 ### MoreRobustnessToFlicker
 
 • **MoreRobustnessToFlicker** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34000)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **NoFilter** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34000)
-
 ___
 
 ### SlightRobustnessToFlicker
 
 • **SlightRobustnessToFlicker** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34000)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34000)

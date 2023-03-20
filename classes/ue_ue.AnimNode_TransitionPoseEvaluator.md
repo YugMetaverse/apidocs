@@ -38,10 +38,6 @@
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[constructor](ue_ue.AnimNode_Base.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:19901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19901)
-
 • **new AnimNode_TransitionPoseEvaluator**(`FramesToCachePose`, `DataSource`, `EvaluatorMode`)
 
 #### Parameters
@@ -56,19 +52,11 @@
 
 UE.AnimNode\_Base.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:19902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19902)
-
 ## Properties
 
 ### DataSource
 
 • **DataSource**: [`EEvaluatorDataSource`](../enums/ue_ue.EEvaluatorDataSource.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19904)
 
 ___
 
@@ -76,29 +64,17 @@ ___
 
 • **EvaluatorMode**: [`EEvaluatorMode`](../enums/ue_ue.EEvaluatorMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19905)
-
 ___
 
 ### FramesToCachePose
 
 • **FramesToCachePose**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19903)
-
 ___
 
 ### \_\_tid\_AnimNode\_TransitionPoseEvaluator\_\_
 
 • `Private` **\_\_tid\_AnimNode\_TransitionPoseEvaluator\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:19911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19911)
 
 ## Methods
 
@@ -118,10 +94,6 @@ use StaticStruct instead.
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticClass](ue_ue.AnimNode_Base.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:19909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19909)
-
 ___
 
 ### StaticStruct
@@ -135,7 +107,3 @@ ___
 #### Overrides
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticStruct](ue_ue.AnimNode_Base.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:19910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19910)

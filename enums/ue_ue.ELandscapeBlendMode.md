@@ -19,19 +19,11 @@
 
 • **LSBM\_AdditiveBlend** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33920)
-
 ___
 
 ### LSBM\_AlphaBlend
 
 • **LSBM\_AlphaBlend** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33920)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **LSBM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33920)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33920)

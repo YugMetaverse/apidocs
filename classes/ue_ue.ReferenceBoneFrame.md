@@ -27,10 +27,6 @@
 
 • **new ReferenceBoneFrame**()
 
-#### Defined in
-
-[ue/ue.d.ts:19925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19925)
-
 • **new ReferenceBoneFrame**(`Bone`, `Axis`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Bone` | [`BoneReference`](ue_ue.BoneReference.md) |
 | `Axis` | [`Axis`](ue_ue.Axis.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:19926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19926)
-
 ## Properties
 
 ### Axis
 
 • **Axis**: [`Axis`](ue_ue.Axis.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19928)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Bone**: [`BoneReference`](ue_ue.BoneReference.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19927)
-
 ___
 
 ### \_\_tid\_ReferenceBoneFrame\_\_
 
 • `Private` **\_\_tid\_ReferenceBoneFrame\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:19934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19934)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19932)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19933)

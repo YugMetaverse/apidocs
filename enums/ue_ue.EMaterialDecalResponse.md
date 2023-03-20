@@ -25,19 +25,11 @@
 
 • **MDR\_Color** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1246)
-
 ___
 
 ### MDR\_ColorNormal
 
 • **MDR\_ColorNormal** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1246)
 
 ___
 
@@ -45,19 +37,11 @@ ___
 
 • **MDR\_ColorNormalRoughness** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1246)
-
 ___
 
 ### MDR\_ColorRoughness
 
 • **MDR\_ColorRoughness** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1246)
 
 ___
 
@@ -65,19 +49,11 @@ ___
 
 • **MDR\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1246)
-
 ___
 
 ### MDR\_None
 
 • **MDR\_None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1246)
 
 ___
 
@@ -85,19 +61,11 @@ ___
 
 • **MDR\_Normal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1246)
-
 ___
 
 ### MDR\_NormalRoughness
 
 • **MDR\_NormalRoughness** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1246)
 
 ___
 
@@ -105,16 +73,8 @@ ___
 
 • **MDR\_Roughness** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1246)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1246)

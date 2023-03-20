@@ -52,19 +52,11 @@
 
 • **Camera** = ``1``
 
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
-
 ___
 
 ### ETraceTypeQuery\_MAX
 
 • **ETraceTypeQuery\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
 
 ___
 
@@ -72,19 +64,11 @@ ___
 
 • **TraceTypeQuery1** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
-
 ___
 
 ### TraceTypeQuery10
 
 • **TraceTypeQuery10** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
 
 ___
 
@@ -92,19 +76,11 @@ ___
 
 • **TraceTypeQuery11** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
-
 ___
 
 ### TraceTypeQuery12
 
 • **TraceTypeQuery12** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
 
 ___
 
@@ -112,19 +88,11 @@ ___
 
 • **TraceTypeQuery13** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
-
 ___
 
 ### TraceTypeQuery14
 
 • **TraceTypeQuery14** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
 
 ___
 
@@ -132,19 +100,11 @@ ___
 
 • **TraceTypeQuery15** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
-
 ___
 
 ### TraceTypeQuery16
 
 • **TraceTypeQuery16** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
 
 ___
 
@@ -152,19 +112,11 @@ ___
 
 • **TraceTypeQuery17** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
-
 ___
 
 ### TraceTypeQuery18
 
 • **TraceTypeQuery18** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
 
 ___
 
@@ -172,19 +124,11 @@ ___
 
 • **TraceTypeQuery19** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
-
 ___
 
 ### TraceTypeQuery2
 
 • **TraceTypeQuery2** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
 
 ___
 
@@ -192,19 +136,11 @@ ___
 
 • **TraceTypeQuery20** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
-
 ___
 
 ### TraceTypeQuery21
 
 • **TraceTypeQuery21** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
 
 ___
 
@@ -212,19 +148,11 @@ ___
 
 • **TraceTypeQuery22** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
-
 ___
 
 ### TraceTypeQuery23
 
 • **TraceTypeQuery23** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
 
 ___
 
@@ -232,19 +160,11 @@ ___
 
 • **TraceTypeQuery24** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
-
 ___
 
 ### TraceTypeQuery25
 
 • **TraceTypeQuery25** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
 
 ___
 
@@ -252,19 +172,11 @@ ___
 
 • **TraceTypeQuery26** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
-
 ___
 
 ### TraceTypeQuery27
 
 • **TraceTypeQuery27** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
 
 ___
 
@@ -272,19 +184,11 @@ ___
 
 • **TraceTypeQuery28** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
-
 ___
 
 ### TraceTypeQuery29
 
 • **TraceTypeQuery29** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
 
 ___
 
@@ -292,19 +196,11 @@ ___
 
 • **TraceTypeQuery3** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
-
 ___
 
 ### TraceTypeQuery30
 
 • **TraceTypeQuery30** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
 
 ___
 
@@ -312,19 +208,11 @@ ___
 
 • **TraceTypeQuery31** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
-
 ___
 
 ### TraceTypeQuery32
 
 • **TraceTypeQuery32** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
 
 ___
 
@@ -332,19 +220,11 @@ ___
 
 • **TraceTypeQuery4** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
-
 ___
 
 ### TraceTypeQuery5
 
 • **TraceTypeQuery5** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
 
 ___
 
@@ -352,19 +232,11 @@ ___
 
 • **TraceTypeQuery6** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
-
 ___
 
 ### TraceTypeQuery7
 
 • **TraceTypeQuery7** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
 
 ___
 
@@ -372,19 +244,11 @@ ___
 
 • **TraceTypeQuery8** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
-
 ___
 
 ### TraceTypeQuery9
 
 • **TraceTypeQuery9** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
 
 ___
 
@@ -392,26 +256,14 @@ ___
 
 • **TraceTypeQuery\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
-
 ___
 
 ### Visibility
 
 • **Visibility** = ``0``
 
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12233)

@@ -28,10 +28,6 @@
 
 • **new MeshSectionInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:7796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7796)
-
 • **new MeshSectionInfo**(`MaterialIndex`, `bEnableCollision`, `bCastShadow`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `bEnableCollision` | `boolean` |
 | `bCastShadow` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:7797](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7797)
-
 ## Properties
 
 ### MaterialIndex
 
 • **MaterialIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7798)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • `Private` **\_\_tid\_MeshSectionInfo\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:7806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7806)
-
 ___
 
 ### bCastShadow
 
 • **bCastShadow**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:7800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7800)
-
 ___
 
 ### bEnableCollision
 
 • **bEnableCollision**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7799)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7804)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7805](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7805)

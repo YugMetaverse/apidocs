@@ -26,10 +26,6 @@
 
 • **new EnvQueryInstanceCache**()
 
-#### Defined in
-
-[ue/ue.d.ts:15594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15594)
-
 • **new EnvQueryInstanceCache**(`Template`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Template` | [`EnvQuery`](ue_ue.EnvQuery.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:15595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15595)
-
 ## Properties
 
 ### Template
 
 • **Template**: [`EnvQuery`](ue_ue.EnvQuery.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15596)
-
 ___
 
 ### \_\_tid\_EnvQueryInstanceCache\_\_
 
 • `Private` **\_\_tid\_EnvQueryInstanceCache\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15602)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15600)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15601)

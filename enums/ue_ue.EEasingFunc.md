@@ -31,19 +31,11 @@
 
 • **CircularIn** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33829)
-
 ___
 
 ### CircularInOut
 
 • **CircularInOut** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33829)
 
 ___
 
@@ -51,19 +43,11 @@ ___
 
 • **CircularOut** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33829)
-
 ___
 
 ### EEasingFunc\_MAX
 
 • **EEasingFunc\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33829)
 
 ___
 
@@ -71,19 +55,11 @@ ___
 
 • **EaseIn** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33829)
-
 ___
 
 ### EaseInOut
 
 • **EaseInOut** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33829)
 
 ___
 
@@ -91,19 +67,11 @@ ___
 
 • **EaseOut** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33829)
-
 ___
 
 ### ExpoIn
 
 • **ExpoIn** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33829)
 
 ___
 
@@ -111,19 +79,11 @@ ___
 
 • **ExpoInOut** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33829)
-
 ___
 
 ### ExpoOut
 
 • **ExpoOut** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33829)
 
 ___
 
@@ -131,19 +91,11 @@ ___
 
 • **Linear** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33829)
-
 ___
 
 ### SinusoidalIn
 
 • **SinusoidalIn** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33829)
 
 ___
 
@@ -151,19 +103,11 @@ ___
 
 • **SinusoidalInOut** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33829)
-
 ___
 
 ### SinusoidalOut
 
 • **SinusoidalOut** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33829)
 
 ___
 
@@ -171,16 +115,8 @@ ___
 
 • **Step** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33829)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33829)

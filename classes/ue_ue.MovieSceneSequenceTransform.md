@@ -27,10 +27,6 @@
 
 • **new MovieSceneSequenceTransform**()
 
-#### Defined in
-
-[ue/ue.d.ts:11343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11343)
-
 • **new MovieSceneSequenceTransform**(`TimeScale`, `Offset`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `TimeScale` | `number` |
 | `Offset` | [`FrameTime`](ue_ue.FrameTime.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:11344](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11344)
-
 ## Properties
 
 ### Offset
 
 • **Offset**: [`FrameTime`](ue_ue.FrameTime.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11346)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **TimeScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11345)
-
 ___
 
 ### \_\_tid\_MovieSceneSequenceTransform\_\_
 
 • `Private` **\_\_tid\_MovieSceneSequenceTransform\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11352)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11350)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11351)

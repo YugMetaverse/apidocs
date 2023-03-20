@@ -24,19 +24,11 @@
 
 • **MD\_DeferredDecal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1243)
-
 ___
 
 ### MD\_LightFunction
 
 • **MD\_LightFunction** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1243)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **MD\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1243)
-
 ___
 
 ### MD\_PostProcess
 
 • **MD\_PostProcess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1243)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **MD\_RuntimeVirtualTexture** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1243)
-
 ___
 
 ### MD\_Surface
 
 • **MD\_Surface** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1243)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **MD\_UI** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1243)
-
 ___
 
 ### MD\_Volume
 
 • **MD\_Volume** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1243)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1243)

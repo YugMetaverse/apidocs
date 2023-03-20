@@ -57,10 +57,6 @@
 
 • **new NavAvoidanceMask**()
 
-#### Defined in
-
-[ue/ue.d.ts:5525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5525)
-
 • **new NavAvoidanceMask**(`bGroup0`, `bGroup1`, `bGroup2`, `bGroup3`, `bGroup4`, `bGroup5`, `bGroup6`, `bGroup7`, `bGroup8`, `bGroup9`, `bGroup10`, `bGroup11`, `bGroup12`, `bGroup13`, `bGroup14`, `bGroup15`, `bGroup16`, `bGroup17`, `bGroup18`, `bGroup19`, `bGroup20`, `bGroup21`, `bGroup22`, `bGroup23`, `bGroup24`, `bGroup25`, `bGroup26`, `bGroup27`, `bGroup28`, `bGroup29`, `bGroup30`, `bGroup31`)
 
 #### Parameters
@@ -100,19 +96,11 @@
 | `bGroup30` | `boolean` |
 | `bGroup31` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:5526](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5526)
-
 ## Properties
 
 ### \_\_tid\_NavAvoidanceMask\_\_
 
 • `Private` **\_\_tid\_NavAvoidanceMask\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5564)
 
 ___
 
@@ -120,19 +108,11 @@ ___
 
 • **bGroup0**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5527](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5527)
-
 ___
 
 ### bGroup1
 
 • **bGroup1**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5528](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5528)
 
 ___
 
@@ -140,19 +120,11 @@ ___
 
 • **bGroup10**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5537)
-
 ___
 
 ### bGroup11
 
 • **bGroup11**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5538)
 
 ___
 
@@ -160,19 +132,11 @@ ___
 
 • **bGroup12**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5539)
-
 ___
 
 ### bGroup13
 
 • **bGroup13**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5540)
 
 ___
 
@@ -180,19 +144,11 @@ ___
 
 • **bGroup14**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5541](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5541)
-
 ___
 
 ### bGroup15
 
 • **bGroup15**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5542](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5542)
 
 ___
 
@@ -200,19 +156,11 @@ ___
 
 • **bGroup16**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5543](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5543)
-
 ___
 
 ### bGroup17
 
 • **bGroup17**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5544](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5544)
 
 ___
 
@@ -220,19 +168,11 @@ ___
 
 • **bGroup18**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5545)
-
 ___
 
 ### bGroup19
 
 • **bGroup19**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5546)
 
 ___
 
@@ -240,19 +180,11 @@ ___
 
 • **bGroup2**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5529)
-
 ___
 
 ### bGroup20
 
 • **bGroup20**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5547)
 
 ___
 
@@ -260,19 +192,11 @@ ___
 
 • **bGroup21**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5548)
-
 ___
 
 ### bGroup22
 
 • **bGroup22**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5549](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5549)
 
 ___
 
@@ -280,19 +204,11 @@ ___
 
 • **bGroup23**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5550](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5550)
-
 ___
 
 ### bGroup24
 
 • **bGroup24**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5551](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5551)
 
 ___
 
@@ -300,19 +216,11 @@ ___
 
 • **bGroup25**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5552)
-
 ___
 
 ### bGroup26
 
 • **bGroup26**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5553)
 
 ___
 
@@ -320,19 +228,11 @@ ___
 
 • **bGroup27**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5554)
-
 ___
 
 ### bGroup28
 
 • **bGroup28**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5555)
 
 ___
 
@@ -340,19 +240,11 @@ ___
 
 • **bGroup29**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5556)
-
 ___
 
 ### bGroup3
 
 • **bGroup3**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5530)
 
 ___
 
@@ -360,19 +252,11 @@ ___
 
 • **bGroup30**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5557)
-
 ___
 
 ### bGroup31
 
 • **bGroup31**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5558](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5558)
 
 ___
 
@@ -380,19 +264,11 @@ ___
 
 • **bGroup4**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5531](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5531)
-
 ___
 
 ### bGroup5
 
 • **bGroup5**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5532](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5532)
 
 ___
 
@@ -400,19 +276,11 @@ ___
 
 • **bGroup6**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5533](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5533)
-
 ___
 
 ### bGroup7
 
 • **bGroup7**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5534](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5534)
 
 ___
 
@@ -420,19 +288,11 @@ ___
 
 • **bGroup8**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5535)
-
 ___
 
 ### bGroup9
 
 • **bGroup9**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5536](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5536)
 
 ## Methods
 
@@ -448,10 +308,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5562)
-
 ___
 
 ### StaticStruct
@@ -461,7 +317,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5563)

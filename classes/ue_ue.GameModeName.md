@@ -27,10 +27,6 @@
 
 • **new GameModeName**()
 
-#### Defined in
-
-[ue/ue.d.ts:36563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36563)
-
 • **new GameModeName**(`Name`, `GameMode`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Name` | `string` |
 | `GameMode` | [`SoftClassPath`](ue_ue.SoftClassPath.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:36564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36564)
-
 ## Properties
 
 ### GameMode
 
 • **GameMode**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36566)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:36565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36565)
-
 ___
 
 ### \_\_tid\_GameModeName\_\_
 
 • `Private` **\_\_tid\_GameModeName\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36572)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36570)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36571)

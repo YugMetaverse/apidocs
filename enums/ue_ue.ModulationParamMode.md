@@ -20,19 +20,11 @@
 
 • **MPM\_Abs** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:50832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50832)
-
 ___
 
 ### MPM\_Direct
 
 • **MPM\_Direct** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:50832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50832)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **MPM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:50832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50832)
-
 ___
 
 ### MPM\_Normal
 
 • **MPM\_Normal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:50832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50832)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:50832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50832)

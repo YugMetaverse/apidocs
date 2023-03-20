@@ -20,19 +20,11 @@
 
 • **EMoveComponentAction\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34065)
-
 ___
 
 ### Move
 
 • **Move** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34065)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Return** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34065)
-
 ___
 
 ### Stop
 
 • **Stop** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34065)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34065)

@@ -38,10 +38,6 @@
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[constructor](ue_ue.AnimNode_Base.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:18394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18394)
-
 • **new AnimNode_CopyPoseFromMesh**(`SourceMeshComponent`, `bUseAttachedParent`, `bCopyCurves`)
 
 #### Parameters
@@ -56,19 +52,11 @@
 
 UE.AnimNode\_Base.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:18395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18395)
-
 ## Properties
 
 ### SourceMeshComponent
 
 • **SourceMeshComponent**: [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`SkeletalMeshComponent`](ue_ue.SkeletalMeshComponent.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:18396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18396)
 
 ___
 
@@ -76,29 +64,17 @@ ___
 
 • `Private` **\_\_tid\_AnimNode\_CopyPoseFromMesh\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:18404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18404)
-
 ___
 
 ### bCopyCurves
 
 • **bCopyCurves**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:18398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18398)
-
 ___
 
 ### bUseAttachedParent
 
 • **bUseAttachedParent**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18397)
 
 ## Methods
 
@@ -118,10 +94,6 @@ use StaticStruct instead.
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticClass](ue_ue.AnimNode_Base.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:18402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18402)
-
 ___
 
 ### StaticStruct
@@ -135,7 +107,3 @@ ___
 #### Overrides
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticStruct](ue_ue.AnimNode_Base.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:18403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18403)

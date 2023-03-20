@@ -53,19 +53,11 @@
 
 [EngineCustomTimeStep](ue_ue.EngineCustomTimeStep.md).[constructor](ue_ue.EngineCustomTimeStep.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:35614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35614)
-
 ## Properties
 
 ### FixedFrameRate
 
 • **FixedFrameRate**: [`FrameRate`](ue_ue.FrameRate.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35615)
 
 ___
 
@@ -77,19 +69,11 @@ ___
 
 [EngineCustomTimeStep](ue_ue.EngineCustomTimeStep.md).[__tid_EngineCustomTimeStep__](ue_ue.EngineCustomTimeStep.md#__tid_enginecustomtimestep__)
 
-#### Defined in
-
-[ue/ue.d.ts:32602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32602)
-
 ___
 
 ### \_\_tid\_FixedFrameRateCustomTimeStep\_\_
 
 • **\_\_tid\_FixedFrameRateCustomTimeStep\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35620)
 
 ___
 
@@ -100,10 +84,6 @@ ___
 #### Inherited from
 
 [EngineCustomTimeStep](ue_ue.EngineCustomTimeStep.md).[__tid_Object__](ue_ue.EngineCustomTimeStep.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -129,10 +109,6 @@ ___
 
 [EngineCustomTimeStep](ue_ue.EngineCustomTimeStep.md).[CreateDefaultSubobject](ue_ue.EngineCustomTimeStep.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -153,10 +129,6 @@ ___
 
 [EngineCustomTimeStep](ue_ue.EngineCustomTimeStep.md).[ExecuteUbergraph](ue_ue.EngineCustomTimeStep.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -170,10 +142,6 @@ ___
 #### Inherited from
 
 [EngineCustomTimeStep](ue_ue.EngineCustomTimeStep.md).[GetClass](ue_ue.EngineCustomTimeStep.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -189,10 +157,6 @@ ___
 
 [EngineCustomTimeStep](ue_ue.EngineCustomTimeStep.md).[GetName](ue_ue.EngineCustomTimeStep.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -207,10 +171,6 @@ ___
 
 [EngineCustomTimeStep](ue_ue.EngineCustomTimeStep.md).[GetOuter](ue_ue.EngineCustomTimeStep.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -224,10 +184,6 @@ ___
 #### Inherited from
 
 [EngineCustomTimeStep](ue_ue.EngineCustomTimeStep.md).[GetWorld](ue_ue.EngineCustomTimeStep.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -250,10 +206,6 @@ ___
 
 [EngineCustomTimeStep](ue_ue.EngineCustomTimeStep.md).[Find](ue_ue.EngineCustomTimeStep.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:35617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35617)
-
 ___
 
 ### Load
@@ -274,10 +226,6 @@ ___
 
 [EngineCustomTimeStep](ue_ue.EngineCustomTimeStep.md).[Load](ue_ue.EngineCustomTimeStep.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:35618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35618)
-
 ___
 
 ### StaticClass
@@ -291,7 +239,3 @@ ___
 #### Overrides
 
 [EngineCustomTimeStep](ue_ue.EngineCustomTimeStep.md).[StaticClass](ue_ue.EngineCustomTimeStep.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:35616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35616)

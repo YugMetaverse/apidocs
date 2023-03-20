@@ -21,19 +21,11 @@
 
 • **EVRTA\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34872)
-
 ___
 
 ### EVRTA\_QuadTop
 
 • **EVRTA\_QuadTop** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34872)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **EVRTA\_TextBottom** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34872)
-
 ___
 
 ### EVRTA\_TextCenter
 
 • **EVRTA\_TextCenter** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34872)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **EVRTA\_TextTop** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34872)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34872)

@@ -43,10 +43,6 @@
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[constructor](ue_ue.AnimNode_Base.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:19525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19525)
-
 • **new AnimNode_ScaleChainLength**(`InputPose`, `DefaultChainLength`, `ChainStartBone`, `ChainEndBone`, `TargetLocation`, `Alpha`, `AlphaScaleBias`, `ChainInitialLength`)
 
 #### Parameters
@@ -66,19 +62,11 @@
 
 UE.AnimNode\_Base.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:19526](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19526)
-
 ## Properties
 
 ### Alpha
 
 • **Alpha**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19532](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19532)
 
 ___
 
@@ -86,19 +74,11 @@ ___
 
 • **AlphaScaleBias**: [`InputScaleBias`](ue_ue.InputScaleBias.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19533](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19533)
-
 ___
 
 ### ChainEndBone
 
 • **ChainEndBone**: [`BoneReference`](ue_ue.BoneReference.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19530)
 
 ___
 
@@ -106,19 +86,11 @@ ___
 
 • **ChainInitialLength**: [`EScaleChainInitialLength`](../enums/ue_ue.EScaleChainInitialLength.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19534](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19534)
-
 ___
 
 ### ChainStartBone
 
 • **ChainStartBone**: [`BoneReference`](ue_ue.BoneReference.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19529)
 
 ___
 
@@ -126,19 +98,11 @@ ___
 
 • **DefaultChainLength**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19528](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19528)
-
 ___
 
 ### InputPose
 
 • **InputPose**: [`PoseLink`](ue_ue.PoseLink.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19527](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19527)
 
 ___
 
@@ -146,19 +110,11 @@ ___
 
 • **TargetLocation**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19531](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19531)
-
 ___
 
 ### \_\_tid\_AnimNode\_ScaleChainLength\_\_
 
 • `Private` **\_\_tid\_AnimNode\_ScaleChainLength\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:19540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19540)
 
 ## Methods
 
@@ -178,10 +134,6 @@ use StaticStruct instead.
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticClass](ue_ue.AnimNode_Base.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:19538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19538)
-
 ___
 
 ### StaticStruct
@@ -195,7 +147,3 @@ ___
 #### Overrides
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticStruct](ue_ue.AnimNode_Base.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:19539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19539)

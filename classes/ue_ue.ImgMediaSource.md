@@ -67,19 +67,11 @@
 
 [BaseMediaSource](ue_ue.BaseMediaSource.md).[constructor](ue_ue.BaseMediaSource.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:38817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38817)
-
 ## Properties
 
 ### FrameRateOverride
 
 • **FrameRateOverride**: [`FrameRate`](ue_ue.FrameRate.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38818](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38818)
 
 ___
 
@@ -91,10 +83,6 @@ ___
 
 [BaseMediaSource](ue_ue.BaseMediaSource.md).[PlatformPlayerNames](ue_ue.BaseMediaSource.md#platformplayernames)
 
-#### Defined in
-
-[ue/ue.d.ts:23507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23507)
-
 ___
 
 ### PlayerName
@@ -105,29 +93,17 @@ ___
 
 [BaseMediaSource](ue_ue.BaseMediaSource.md).[PlayerName](ue_ue.BaseMediaSource.md#playername)
 
-#### Defined in
-
-[ue/ue.d.ts:23508](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23508)
-
 ___
 
 ### ProxyOverride
 
 • **ProxyOverride**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:38819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38819)
-
 ___
 
 ### SequencePath
 
 • **SequencePath**: [`DirectoryPath`](ue_ue.DirectoryPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38820)
 
 ___
 
@@ -139,19 +115,11 @@ ___
 
 [BaseMediaSource](ue_ue.BaseMediaSource.md).[__tid_BaseMediaSource__](ue_ue.BaseMediaSource.md#__tid_basemediasource__)
 
-#### Defined in
-
-[ue/ue.d.ts:23513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23513)
-
 ___
 
 ### \_\_tid\_ImgMediaSource\_\_
 
 • **\_\_tid\_ImgMediaSource\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38828)
 
 ___
 
@@ -163,10 +131,6 @@ ___
 
 [BaseMediaSource](ue_ue.BaseMediaSource.md).[__tid_MediaSource__](ue_ue.BaseMediaSource.md#__tid_mediasource__)
 
-#### Defined in
-
-[ue/ue.d.ts:23502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23502)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -176,10 +140,6 @@ ___
 #### Inherited from
 
 [BaseMediaSource](ue_ue.BaseMediaSource.md).[__tid_Object__](ue_ue.BaseMediaSource.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -205,10 +165,6 @@ ___
 
 [BaseMediaSource](ue_ue.BaseMediaSource.md).[CreateDefaultSubobject](ue_ue.BaseMediaSource.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -229,10 +185,6 @@ ___
 
 [BaseMediaSource](ue_ue.BaseMediaSource.md).[ExecuteUbergraph](ue_ue.BaseMediaSource.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -246,10 +198,6 @@ ___
 #### Inherited from
 
 [BaseMediaSource](ue_ue.BaseMediaSource.md).[GetClass](ue_ue.BaseMediaSource.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -265,10 +213,6 @@ ___
 
 [BaseMediaSource](ue_ue.BaseMediaSource.md).[GetName](ue_ue.BaseMediaSource.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -282,10 +226,6 @@ ___
 #### Inherited from
 
 [BaseMediaSource](ue_ue.BaseMediaSource.md).[GetOuter](ue_ue.BaseMediaSource.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -303,10 +243,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:38821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38821)
-
 ___
 
 ### GetSequencePath
@@ -316,10 +252,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:38822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38822)
 
 ___
 
@@ -335,10 +267,6 @@ ___
 
 [BaseMediaSource](ue_ue.BaseMediaSource.md).[GetUrl](ue_ue.BaseMediaSource.md#geturl)
 
-#### Defined in
-
-[ue/ue.d.ts:23492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23492)
-
 ___
 
 ### GetWorld
@@ -352,10 +280,6 @@ ___
 #### Inherited from
 
 [BaseMediaSource](ue_ue.BaseMediaSource.md).[GetWorld](ue_ue.BaseMediaSource.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -378,10 +302,6 @@ ___
 
 [BaseMediaSource](ue_ue.BaseMediaSource.md).[SetMediaOptionBool](ue_ue.BaseMediaSource.md#setmediaoptionbool)
 
-#### Defined in
-
-[ue/ue.d.ts:23493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23493)
-
 ___
 
 ### SetMediaOptionFloat
@@ -402,10 +322,6 @@ ___
 #### Inherited from
 
 [BaseMediaSource](ue_ue.BaseMediaSource.md).[SetMediaOptionFloat](ue_ue.BaseMediaSource.md#setmediaoptionfloat)
-
-#### Defined in
-
-[ue/ue.d.ts:23494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23494)
 
 ___
 
@@ -428,10 +344,6 @@ ___
 
 [BaseMediaSource](ue_ue.BaseMediaSource.md).[SetMediaOptionInt64](ue_ue.BaseMediaSource.md#setmediaoptionint64)
 
-#### Defined in
-
-[ue/ue.d.ts:23495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23495)
-
 ___
 
 ### SetMediaOptionString
@@ -453,10 +365,6 @@ ___
 
 [BaseMediaSource](ue_ue.BaseMediaSource.md).[SetMediaOptionString](ue_ue.BaseMediaSource.md#setmediaoptionstring)
 
-#### Defined in
-
-[ue/ue.d.ts:23496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23496)
-
 ___
 
 ### SetSequencePath
@@ -473,10 +381,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:38823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38823)
-
 ___
 
 ### Validate
@@ -490,10 +394,6 @@ ___
 #### Inherited from
 
 [BaseMediaSource](ue_ue.BaseMediaSource.md).[Validate](ue_ue.BaseMediaSource.md#validate)
-
-#### Defined in
-
-[ue/ue.d.ts:23497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23497)
 
 ___
 
@@ -516,10 +416,6 @@ ___
 
 [BaseMediaSource](ue_ue.BaseMediaSource.md).[Find](ue_ue.BaseMediaSource.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:38825](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38825)
-
 ___
 
 ### Load
@@ -540,10 +436,6 @@ ___
 
 [BaseMediaSource](ue_ue.BaseMediaSource.md).[Load](ue_ue.BaseMediaSource.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:38826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38826)
-
 ___
 
 ### StaticClass
@@ -557,7 +449,3 @@ ___
 #### Overrides
 
 [BaseMediaSource](ue_ue.BaseMediaSource.md).[StaticClass](ue_ue.BaseMediaSource.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:38824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38824)

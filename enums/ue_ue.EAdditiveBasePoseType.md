@@ -21,19 +21,11 @@
 
 • **ABPT\_AnimFrame** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3194)
-
 ___
 
 ### ABPT\_AnimScaled
 
 • **ABPT\_AnimScaled** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3194)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **ABPT\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3194)
-
 ___
 
 ### ABPT\_None
 
 • **ABPT\_None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3194)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **ABPT\_RefPose** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3194)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3194)

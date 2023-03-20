@@ -90,19 +90,11 @@
 
 [Factory](ue_ue.Factory.md).[constructor](ue_ue.Factory.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:59375](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59375)
-
 ## Properties
 
 ### AlphaCoverageThresholds
 
 • **AlphaCoverageThresholds**: [`Vector4`](ue_ue_s.Vector4.md)
-
-#### Defined in
-
-[ue/ue.d.ts:59393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59393)
 
 ___
 
@@ -114,10 +106,6 @@ ___
 
 [Factory](ue_ue.Factory.md).[AssetImportTask](ue_ue.Factory.md#assetimporttask)
 
-#### Defined in
-
-[ue/ue.d.ts:15338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15338)
-
 ___
 
 ### AutomatedImportData
@@ -128,29 +116,17 @@ ___
 
 [Factory](ue_ue.Factory.md).[AutomatedImportData](ue_ue.Factory.md#automatedimportdata)
 
-#### Defined in
-
-[ue/ue.d.ts:15337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15337)
-
 ___
 
 ### Blending
 
 • **Blending**: [`EBlendMode`](../enums/ue_ue.EBlendMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:59388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59388)
-
 ___
 
 ### CompressionSettings
 
 • **CompressionSettings**: [`TextureCompressionSettings`](../enums/ue_ue.TextureCompressionSettings.md)
-
-#### Defined in
-
-[ue/ue.d.ts:59379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59379)
 
 ___
 
@@ -162,10 +138,6 @@ ___
 
 [Factory](ue_ue.Factory.md).[ContextClass](ue_ue.Factory.md#contextclass)
 
-#### Defined in
-
-[ue/ue.d.ts:15331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15331)
-
 ___
 
 ### Formats
@@ -175,10 +147,6 @@ ___
 #### Inherited from
 
 [Factory](ue_ue.Factory.md).[Formats](ue_ue.Factory.md#formats)
-
-#### Defined in
-
-[ue/ue.d.ts:15332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15332)
 
 ___
 
@@ -190,19 +158,11 @@ ___
 
 [Factory](ue_ue.Factory.md).[ImportPriority](ue_ue.Factory.md#importpriority)
 
-#### Defined in
-
-[ue/ue.d.ts:15336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15336)
-
 ___
 
 ### LODGroup
 
 • **LODGroup**: [`TextureGroup`](../enums/ue_ue.TextureGroup.md)
-
-#### Defined in
-
-[ue/ue.d.ts:59391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59391)
 
 ___
 
@@ -210,29 +170,17 @@ ___
 
 • **MipGenSettings**: [`TextureMipGenSettings`](../enums/ue_ue.TextureMipGenSettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:59390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59390)
-
 ___
 
 ### NoAlpha
 
 • **NoAlpha**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:59377](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59377)
-
 ___
 
 ### NoCompression
 
 • **NoCompression**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59376](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59376)
 
 ___
 
@@ -244,19 +192,11 @@ ___
 
 [Factory](ue_ue.Factory.md).[OverwriteYesOrNoToAllState](ue_ue.Factory.md#overwriteyesornotoallstate)
 
-#### Defined in
-
-[ue/ue.d.ts:15339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15339)
-
 ___
 
 ### ShadingModel
 
 • **ShadingModel**: [`EMaterialShadingModel`](../enums/ue_ue.EMaterialShadingModel.md)
-
-#### Defined in
-
-[ue/ue.d.ts:59389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59389)
 
 ___
 
@@ -268,10 +208,6 @@ ___
 
 [Factory](ue_ue.Factory.md).[SupportedClass](ue_ue.Factory.md#supportedclass)
 
-#### Defined in
-
-[ue/ue.d.ts:15330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15330)
-
 ___
 
 ### \_\_tid\_Factory\_\_
@@ -281,10 +217,6 @@ ___
 #### Inherited from
 
 [Factory](ue_ue.Factory.md).[__tid_Factory__](ue_ue.Factory.md#__tid_factory__)
-
-#### Defined in
-
-[ue/ue.d.ts:15346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15346)
 
 ___
 
@@ -296,19 +228,11 @@ ___
 
 [Factory](ue_ue.Factory.md).[__tid_Object__](ue_ue.Factory.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_TextureFactory\_\_
 
 • **\_\_tid\_TextureFactory\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59401)
 
 ___
 
@@ -316,19 +240,11 @@ ___
 
 • **bAlphaToEmissive**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:59384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59384)
-
 ___
 
 ### bAlphaToOpacity
 
 • **bAlphaToOpacity**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59385)
 
 ___
 
@@ -336,29 +252,17 @@ ___
 
 • **bAlphaToOpacityMask**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:59386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59386)
-
 ___
 
 ### bAlphaToRoughness
 
 • **bAlphaToRoughness**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:59383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59383)
-
 ___
 
 ### bCreateMaterial
 
 • **bCreateMaterial**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59380](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59380)
 
 ___
 
@@ -370,29 +274,17 @@ ___
 
 [Factory](ue_ue.Factory.md).[bCreateNew](ue_ue.Factory.md#bcreatenew)
 
-#### Defined in
-
-[ue/ue.d.ts:15329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15329)
-
 ___
 
 ### bDeferCompression
 
 • **bDeferCompression**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:59378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59378)
-
 ___
 
 ### bDitherMipMapAlpha
 
 • **bDitherMipMapAlpha**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59392)
 
 ___
 
@@ -404,10 +296,6 @@ ___
 
 [Factory](ue_ue.Factory.md).[bEditAfterNew](ue_ue.Factory.md#beditafternew)
 
-#### Defined in
-
-[ue/ue.d.ts:15333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15333)
-
 ___
 
 ### bEditorImport
@@ -418,19 +306,11 @@ ___
 
 [Factory](ue_ue.Factory.md).[bEditorImport](ue_ue.Factory.md#beditorimport)
 
-#### Defined in
-
-[ue/ue.d.ts:15334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15334)
-
 ___
 
 ### bFlipNormalMapGreenChannel
 
 • **bFlipNormalMapGreenChannel**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59395)
 
 ___
 
@@ -438,29 +318,17 @@ ___
 
 • **bPreserveBorder**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:59394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59394)
-
 ___
 
 ### bRGBToBaseColor
 
 • **bRGBToBaseColor**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:59381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59381)
-
 ___
 
 ### bRGBToEmissive
 
 • **bRGBToEmissive**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59382](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59382)
 
 ___
 
@@ -472,29 +340,17 @@ ___
 
 [Factory](ue_ue.Factory.md).[bText](ue_ue.Factory.md#btext)
 
-#### Defined in
-
-[ue/ue.d.ts:15335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15335)
-
 ___
 
 ### bTwoSided
 
 • **bTwoSided**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:59387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59387)
-
 ___
 
 ### bUsingExistingSettings
 
 • **bUsingExistingSettings**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59396)
 
 ## Methods
 
@@ -520,10 +376,6 @@ ___
 
 [Factory](ue_ue.Factory.md).[CreateDefaultSubobject](ue_ue.Factory.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -544,10 +396,6 @@ ___
 
 [Factory](ue_ue.Factory.md).[ExecuteUbergraph](ue_ue.Factory.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -561,10 +409,6 @@ ___
 #### Inherited from
 
 [Factory](ue_ue.Factory.md).[GetClass](ue_ue.Factory.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -580,10 +424,6 @@ ___
 
 [Factory](ue_ue.Factory.md).[GetName](ue_ue.Factory.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -598,10 +438,6 @@ ___
 
 [Factory](ue_ue.Factory.md).[GetOuter](ue_ue.Factory.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -615,10 +451,6 @@ ___
 #### Inherited from
 
 [Factory](ue_ue.Factory.md).[GetWorld](ue_ue.Factory.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -640,10 +472,6 @@ ___
 
 [Factory](ue_ue.Factory.md).[ScriptFactoryCanImport](ue_ue.Factory.md#scriptfactorycanimport)
 
-#### Defined in
-
-[ue/ue.d.ts:15340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15340)
-
 ___
 
 ### ScriptFactoryCreateFile
@@ -663,10 +491,6 @@ ___
 #### Inherited from
 
 [Factory](ue_ue.Factory.md).[ScriptFactoryCreateFile](ue_ue.Factory.md#scriptfactorycreatefile)
-
-#### Defined in
-
-[ue/ue.d.ts:15341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15341)
 
 ___
 
@@ -689,10 +513,6 @@ ___
 
 [Factory](ue_ue.Factory.md).[Find](ue_ue.Factory.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:59398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59398)
-
 ___
 
 ### Load
@@ -713,10 +533,6 @@ ___
 
 [Factory](ue_ue.Factory.md).[Load](ue_ue.Factory.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:59399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59399)
-
 ___
 
 ### StaticClass
@@ -730,7 +546,3 @@ ___
 #### Overrides
 
 [Factory](ue_ue.Factory.md).[StaticClass](ue_ue.Factory.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:59397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59397)

@@ -19,19 +19,11 @@
 
 • **Automatic** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31298)
-
 ___
 
 ### ESlateSizeRule\_MAX
 
 • **ESlateSizeRule\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31298)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Fill** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31298)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31298)

@@ -26,10 +26,6 @@
 
 • **new ConstrainComponentPropName**()
 
-#### Defined in
-
-[ue/ue.d.ts:57447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57447)
-
 • **new ConstrainComponentPropName**(`ComponentName`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `ComponentName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:57448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57448)
-
 ## Properties
 
 ### ComponentName
 
 • **ComponentName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:57449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57449)
-
 ___
 
 ### \_\_tid\_ConstrainComponentPropName\_\_
 
 • `Private` **\_\_tid\_ConstrainComponentPropName\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57455)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57453)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57454)

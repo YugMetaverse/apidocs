@@ -27,10 +27,6 @@
 
 • **new PerPlatformBool**()
 
-#### Defined in
-
-[ue/ue.d.ts:3309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3309)
-
 • **new PerPlatformBool**(`Default`, `PerPlatform`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Default` | `boolean` |
 | `PerPlatform` | [`TMap`](../interfaces/ue_puerts.TMap.md)<`string`, `boolean`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:3310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3310)
-
 ## Properties
 
 ### Default
 
 • **Default**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3311)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **PerPlatform**: [`TMap`](../interfaces/ue_puerts.TMap.md)<`string`, `boolean`\>
 
-#### Defined in
-
-[ue/ue.d.ts:3312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3312)
-
 ___
 
 ### \_\_tid\_PerPlatformBool\_\_
 
 • `Private` **\_\_tid\_PerPlatformBool\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3318)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3316)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3317)

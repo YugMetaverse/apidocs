@@ -19,19 +19,11 @@
 
 • **CR\_Head** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34641)
-
 ___
 
 ### CR\_MAX
 
 • **CR\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34641)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **CR\_TrackingReference** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34641)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34641)

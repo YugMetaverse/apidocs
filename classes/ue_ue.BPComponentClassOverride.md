@@ -27,10 +27,6 @@
 
 • **new BPComponentClassOverride**()
 
-#### Defined in
-
-[ue/ue.d.ts:4306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4306)
-
 • **new BPComponentClassOverride**(`ComponentName`, `ComponentClass`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `ComponentName` | `string` |
 | `ComponentClass` | [`Class`](ue_ue.Class.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:4307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4307)
-
 ## Properties
 
 ### ComponentClass
 
 • **ComponentClass**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4309)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **ComponentName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:4308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4308)
-
 ___
 
 ### \_\_tid\_BPComponentClassOverride\_\_
 
 • `Private` **\_\_tid\_BPComponentClassOverride\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4315)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4313)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4314)

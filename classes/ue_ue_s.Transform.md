@@ -101,10 +101,6 @@
 
 • **new Transform**()
 
-#### Defined in
-
-[ue/ue_s.d.ts:287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L287)
-
 • **new Transform**(`InTranslation`)
 
 #### Parameters
@@ -113,10 +109,6 @@
 | :------ | :------ |
 | `InTranslation` | [`Vector`](ue_ue_s.Vector.md) |
 
-#### Defined in
-
-[ue/ue_s.d.ts:288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L288)
-
 • **new Transform**(`InRotation`)
 
 #### Parameters
@@ -125,10 +117,6 @@
 | :------ | :------ |
 | `InRotation` | [`Quat`](ue_ue_s.Quat.md) |
 
-#### Defined in
-
-[ue/ue_s.d.ts:289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L289)
-
 • **new Transform**(`InRotation`)
 
 #### Parameters
@@ -136,10 +124,6 @@
 | Name | Type |
 | :------ | :------ |
 | `InRotation` | [`Rotator`](ue_ue_s.Rotator.md) |
-
-#### Defined in
-
-[ue/ue_s.d.ts:290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L290)
 
 • **new Transform**(`InRotation`, `InTranslation`, `InScale3D`)
 
@@ -151,10 +135,6 @@
 | `InTranslation` | [`Vector`](ue_ue_s.Vector.md) |
 | `InScale3D` | [`Vector`](ue_ue_s.Vector.md) |
 
-#### Defined in
-
-[ue/ue_s.d.ts:291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L291)
-
 • **new Transform**(`InRotation`, `InTranslation`, `InScale3D`)
 
 #### Parameters
@@ -164,10 +144,6 @@
 | `InRotation` | [`Rotator`](ue_ue_s.Rotator.md) |
 | `InTranslation` | [`Vector`](ue_ue_s.Vector.md) |
 | `InScale3D` | [`Vector`](ue_ue_s.Vector.md) |
-
-#### Defined in
-
-[ue/ue_s.d.ts:292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L292)
 
 • **new Transform**(`Param1`)
 
@@ -176,10 +152,6 @@
 | Name | Type |
 | :------ | :------ |
 | `Param1` | `number` |
-
-#### Defined in
-
-[ue/ue_s.d.ts:293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L293)
 
 • **new Transform**(`InX`, `InY`, `InZ`, `InTranslation`)
 
@@ -192,19 +164,11 @@
 | `InZ` | [`Vector`](ue_ue_s.Vector.md) |
 | `InTranslation` | [`Vector`](ue_ue_s.Vector.md) |
 
-#### Defined in
-
-[ue/ue_s.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L294)
-
 ## Properties
 
 ### \_\_tid\_Transform\_\_
 
 • `Private` **\_\_tid\_Transform\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L381)
 
 ## Methods
 
@@ -222,10 +186,6 @@
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L366)
-
 ___
 
 ### AddToTranslation
@@ -241,10 +201,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue_s.d.ts:358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L358)
 
 ___
 
@@ -264,10 +220,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L305)
-
 ___
 
 ### BlendWith
@@ -285,10 +237,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L306)
-
 ___
 
 ### ConcatenateRotation
@@ -305,10 +253,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:357](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L357)
-
 ___
 
 ### ContainsNaN
@@ -318,10 +262,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L341)
 
 ___
 
@@ -339,10 +279,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L362)
-
 ___
 
 ### CopyRotationPart
@@ -358,10 +294,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue_s.d.ts:372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L372)
 
 ___
 
@@ -379,10 +311,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L364)
-
 ___
 
 ### CopyTranslation
@@ -398,10 +326,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue_s.d.ts:356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L356)
 
 ___
 
@@ -419,10 +343,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:373](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L373)
-
 ___
 
 ### DebugPrint
@@ -432,10 +352,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue_s.d.ts:300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L300)
 
 ___
 
@@ -447,10 +363,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L298)
-
 ___
 
 ### DiagnosticCheckNaN\_Rotate
@@ -460,10 +372,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue_s.d.ts:296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L296)
 
 ___
 
@@ -475,10 +383,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L297)
-
 ___
 
 ### DiagnosticCheckNaN\_Translate
@@ -489,10 +393,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L295)
-
 ___
 
 ### DiagnosticCheck\_IsValid
@@ -502,10 +402,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue_s.d.ts:299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L299)
 
 ___
 
@@ -524,10 +420,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L349)
-
 ___
 
 ### EqualsNoScale
@@ -545,10 +437,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L350)
-
 ___
 
 ### GetDeterminant
@@ -558,10 +446,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue_s.d.ts:339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L339)
 
 ___
 
@@ -573,10 +457,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L337)
-
 ___
 
 ### GetMaximumAxisScale
@@ -587,10 +467,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L314)
-
 ___
 
 ### GetMinimumAxisScale
@@ -600,10 +476,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue_s.d.ts:315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L315)
 
 ___
 
@@ -621,10 +493,6 @@ ___
 
 [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L316)
-
 ___
 
 ### GetRelativeTransformReverse
@@ -641,10 +509,6 @@ ___
 
 [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L317)
-
 ___
 
 ### GetRotation
@@ -655,10 +519,6 @@ ___
 
 [`Quat`](ue_ue_s.Quat.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:369](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L369)
-
 ___
 
 ### GetScale3D
@@ -668,10 +528,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L371)
 
 ___
 
@@ -689,10 +545,6 @@ ___
 
 [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L331)
-
 ▸ **GetScaled**(`Scale`): [`Transform`](ue_ue_s.Transform.md)
 
 #### Parameters
@@ -704,10 +556,6 @@ ___
 #### Returns
 
 [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L332)
 
 ___
 
@@ -725,10 +573,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L333)
-
 ___
 
 ### GetTranslation
@@ -738,10 +582,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L370)
 
 ___
 
@@ -759,10 +599,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L334)
-
 ___
 
 ### InitFromString
@@ -779,10 +615,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L303)
-
 ___
 
 ### Inverse
@@ -792,10 +624,6 @@ ___
 #### Returns
 
 [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L304)
 
 ___
 
@@ -813,10 +641,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L323)
-
 ___
 
 ### InverseTransformPositionNoScale
@@ -832,10 +656,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L324)
 
 ___
 
@@ -853,10 +673,6 @@ ___
 
 [`Quat`](ue_ue_s.Quat.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L330)
-
 ___
 
 ### InverseTransformVector
@@ -872,10 +688,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L327)
 
 ___
 
@@ -893,10 +705,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L328)
-
 ___
 
 ### IsRotationNormalized
@@ -907,10 +715,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L368)
-
 ___
 
 ### IsValid
@@ -920,10 +724,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L342)
 
 ___
 
@@ -942,10 +742,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L335)
-
 ___
 
 ### MultiplyScale3D
@@ -962,10 +758,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L354)
-
 ___
 
 ### NormalizeRotation
@@ -975,10 +767,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue_s.d.ts:367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L367)
 
 ___
 
@@ -995,10 +783,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue_s.d.ts:313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L313)
 
 ___
 
@@ -1017,10 +801,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L346)
-
 ___
 
 ### Rotator
@@ -1030,10 +810,6 @@ ___
 #### Returns
 
 [`Rotator`](ue_ue_s.Rotator.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L338)
 
 ___
 
@@ -1052,10 +828,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L348)
-
 ___
 
 ### ScaleTranslation
@@ -1072,10 +844,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L311)
-
 ▸ **ScaleTranslation**(`Scale`): `void`
 
 #### Parameters
@@ -1087,10 +855,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue_s.d.ts:312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L312)
 
 ___
 
@@ -1110,10 +874,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L352)
-
 ___
 
 ### SetIdentity
@@ -1123,10 +883,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue_s.d.ts:353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L353)
 
 ___
 
@@ -1144,10 +900,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L340)
-
 ___
 
 ### SetRotation
@@ -1163,10 +915,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue_s.d.ts:361](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L361)
 
 ___
 
@@ -1184,10 +932,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L363)
-
 ___
 
 ### SetToRelativeTransform
@@ -1204,10 +948,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L318)
-
 ___
 
 ### SetTranslation
@@ -1223,10 +963,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue_s.d.ts:355](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L355)
 
 ___
 
@@ -1245,10 +981,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L365)
-
 ___
 
 ### ToHumanReadableString
@@ -1259,10 +991,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue_s.d.ts:301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L301)
-
 ___
 
 ### ToString
@@ -1272,10 +1000,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue_s.d.ts:302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L302)
 
 ___
 
@@ -1293,10 +1017,6 @@ ___
 
 [`Vector4`](ue_ue_s.Vector4.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L319)
-
 ___
 
 ### TransformFVector4NoScale
@@ -1312,10 +1032,6 @@ ___
 #### Returns
 
 [`Vector4`](ue_ue_s.Vector4.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L320)
 
 ___
 
@@ -1333,10 +1049,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L321)
-
 ___
 
 ### TransformPositionNoScale
@@ -1352,10 +1064,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L322)
 
 ___
 
@@ -1373,10 +1081,6 @@ ___
 
 [`Quat`](ue_ue_s.Quat.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L329)
-
 ___
 
 ### TransformVector
@@ -1393,10 +1097,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L325)
-
 ___
 
 ### TransformVectorNoScale
@@ -1412,10 +1112,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L326)
 
 ___
 
@@ -1434,10 +1130,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L347)
-
 ___
 
 ### op\_Addition
@@ -1453,10 +1145,6 @@ ___
 #### Returns
 
 [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L307)
 
 ___
 
@@ -1474,10 +1162,6 @@ ___
 
 [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L308)
-
 ▸ **op_Multiply**(`Other`): [`Transform`](ue_ue_s.Transform.md)
 
 #### Parameters
@@ -1489,10 +1173,6 @@ ___
 #### Returns
 
 [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L309)
 
 ___
 
@@ -1511,10 +1191,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L359)
-
 ___
 
 ### AnyHasNegativeScale
@@ -1531,10 +1207,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L310)
 
 ___
 
@@ -1554,10 +1226,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L343)
-
 ___
 
 ### AreScale3DsEqual
@@ -1575,10 +1243,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L345)
 
 ___
 
@@ -1598,10 +1262,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:344](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L344)
-
 ___
 
 ### GetSafeScaleReciprocal
@@ -1618,10 +1278,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L336)
 
 ___
 
@@ -1641,10 +1297,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L351)
-
 ___
 
 ### StaticClass
@@ -1659,10 +1311,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L378)
-
 ___
 
 ### StaticStruct
@@ -1672,10 +1320,6 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L379)
 
 ___
 
@@ -1693,7 +1337,3 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:360](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L360)

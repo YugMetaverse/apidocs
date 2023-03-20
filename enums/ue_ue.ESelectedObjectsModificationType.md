@@ -21,19 +21,11 @@
 
 • **Add** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34760](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34760)
-
 ___
 
 ### Clear
 
 • **Clear** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34760](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34760)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **ESelectedObjectsModificationType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34760](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34760)
-
 ___
 
 ### Remove
 
 • **Remove** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34760](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34760)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Replace** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34760](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34760)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34760](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34760)

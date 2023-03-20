@@ -26,10 +26,6 @@
 
 • **new PrimaryAssetType**()
 
-#### Defined in
-
-[ue/ue.d.ts:21666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21666)
-
 • **new PrimaryAssetType**(`Name`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Name` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:21667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21667)
-
 ## Properties
 
 ### Name
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:21668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21668)
-
 ___
 
 ### \_\_tid\_PrimaryAssetType\_\_
 
 • `Private` **\_\_tid\_PrimaryAssetType\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21674)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21672)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21673)

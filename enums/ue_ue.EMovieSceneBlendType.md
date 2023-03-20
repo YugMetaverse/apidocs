@@ -21,19 +21,11 @@
 
 • **Absolute** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11764)
-
 ___
 
 ### Additive
 
 • **Additive** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11764)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **EMovieSceneBlendType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11764)
-
 ___
 
 ### Invalid
 
 • **Invalid** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11764)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Relative** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11764)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11764)

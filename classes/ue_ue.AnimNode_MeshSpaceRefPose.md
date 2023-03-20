@@ -35,19 +35,11 @@
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[constructor](ue_ue.AnimNode_Base.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:18945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18945)
-
 ## Properties
 
 ### \_\_tid\_AnimNode\_MeshSpaceRefPose\_\_
 
 • `Private` **\_\_tid\_AnimNode\_MeshSpaceRefPose\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18951)
 
 ## Methods
 
@@ -67,10 +59,6 @@ use StaticStruct instead.
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticClass](ue_ue.AnimNode_Base.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:18949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18949)
-
 ___
 
 ### StaticStruct
@@ -84,7 +72,3 @@ ___
 #### Overrides
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticStruct](ue_ue.AnimNode_Base.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:18950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18950)

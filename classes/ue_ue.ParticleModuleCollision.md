@@ -84,19 +84,11 @@
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[constructor](ue_ue.ParticleModuleCollisionBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:55515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55515)
-
 ## Properties
 
 ### CollisionCompletionOption
 
 • **CollisionCompletionOption**: [`EParticleCollisionComplete`](../enums/ue_ue.EParticleCollisionComplete.md)
-
-#### Defined in
-
-[ue/ue.d.ts:55519](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55519)
 
 ___
 
@@ -104,19 +96,11 @@ ___
 
 • **CollisionTypes**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`EObjectTypeQuery`](../enums/ue_ue.EObjectTypeQuery.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:55520](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55520)
-
 ___
 
 ### DampingFactor
 
 • **DampingFactor**: [`RawDistributionVector`](ue_ue.RawDistributionVector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:55516](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55516)
 
 ___
 
@@ -124,29 +108,17 @@ ___
 
 • **DampingFactorRotation**: [`RawDistributionVector`](ue_ue.RawDistributionVector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:55517](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55517)
-
 ___
 
 ### DelayAmount
 
 • **DelayAmount**: [`RawDistributionFloat`](ue_ue.RawDistributionFloat.md)
 
-#### Defined in
-
-[ue/ue.d.ts:55528](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55528)
-
 ___
 
 ### DirScalar
 
 • **DirScalar**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:55524](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55524)
 
 ___
 
@@ -158,10 +130,6 @@ ___
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[LODDuplicate](ue_ue.ParticleModuleCollisionBase.md#lodduplicate)
 
-#### Defined in
-
-[ue/ue.d.ts:6745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6745)
-
 ___
 
 ### LODValidity
@@ -172,29 +140,17 @@ ___
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[LODValidity](ue_ue.ParticleModuleCollisionBase.md#lodvalidity)
 
-#### Defined in
-
-[ue/ue.d.ts:6748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6748)
-
 ___
 
 ### MaxCollisionDistance
 
 • **MaxCollisionDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:55532](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55532)
-
 ___
 
 ### MaxCollisions
 
 • **MaxCollisions**: [`RawDistributionFloat`](ue_ue.RawDistributionFloat.md)
-
-#### Defined in
-
-[ue/ue.d.ts:55518](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55518)
 
 ___
 
@@ -206,29 +162,17 @@ ___
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[ModuleEditorColor](ue_ue.ParticleModuleCollisionBase.md#moduleeditorcolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6749)
-
 ___
 
 ### ParticleMass
 
 • **ParticleMass**: [`RawDistributionFloat`](ue_ue.RawDistributionFloat.md)
 
-#### Defined in
-
-[ue/ue.d.ts:55523](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55523)
-
 ___
 
 ### VerticalFudgeFactor
 
 • **VerticalFudgeFactor**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:55527](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55527)
 
 ___
 
@@ -240,10 +184,6 @@ ___
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[__tid_Object__](ue_ue.ParticleModuleCollisionBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ParticleModuleCollisionBase\_\_
@@ -254,19 +194,11 @@ ___
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[__tid_ParticleModuleCollisionBase__](ue_ue.ParticleModuleCollisionBase.md#__tid_particlemodulecollisionbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:55511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55511)
-
 ___
 
 ### \_\_tid\_ParticleModuleCollision\_\_
 
 • **\_\_tid\_ParticleModuleCollision\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55537)
 
 ___
 
@@ -278,10 +210,6 @@ ___
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[__tid_ParticleModule__](ue_ue.ParticleModuleCollisionBase.md#__tid_particlemodule__)
 
-#### Defined in
-
-[ue/ue.d.ts:6754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6754)
-
 ___
 
 ### b3DDrawMode
@@ -292,29 +220,17 @@ ___
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[b3DDrawMode](ue_ue.ParticleModuleCollisionBase.md#b3ddrawmode)
 
-#### Defined in
-
-[ue/ue.d.ts:6741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6741)
-
 ___
 
 ### bApplyPhysics
 
 • **bApplyPhysics**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:55521](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55521)
-
 ___
 
 ### bCollideOnlyIfVisible
 
 • **bCollideOnlyIfVisible**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55530)
 
 ___
 
@@ -326,19 +242,11 @@ ___
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[bCurvesAsColor](ue_ue.ParticleModuleCollisionBase.md#bcurvesascolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6740)
-
 ___
 
 ### bDropDetail
 
 • **bDropDetail**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55529)
 
 ___
 
@@ -350,10 +258,6 @@ ___
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[bEditable](ue_ue.ParticleModuleCollisionBase.md#beditable)
 
-#### Defined in
-
-[ue/ue.d.ts:6744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6744)
-
 ___
 
 ### bEnabled
@@ -363,10 +267,6 @@ ___
 #### Inherited from
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[bEnabled](ue_ue.ParticleModuleCollisionBase.md#benabled)
-
-#### Defined in
-
-[ue/ue.d.ts:6743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6743)
 
 ___
 
@@ -378,19 +278,11 @@ ___
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[bFinalUpdateModule](ue_ue.ParticleModuleCollisionBase.md#bfinalupdatemodule)
 
-#### Defined in
-
-[ue/ue.d.ts:6738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6738)
-
 ___
 
 ### bIgnoreSourceActor
 
 • **bIgnoreSourceActor**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55531](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55531)
 
 ___
 
@@ -398,29 +290,17 @@ ___
 
 • **bIgnoreTriggerVolumes**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:55522](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55522)
-
 ___
 
 ### bOnlyVerticalNormalsDecrementCount
 
 • **bOnlyVerticalNormalsDecrementCount**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:55526](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55526)
-
 ___
 
 ### bPawnsDoNotDecrementCount
 
 • **bPawnsDoNotDecrementCount**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55525)
 
 ___
 
@@ -432,10 +312,6 @@ ___
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[bRequiresLoopingNotification](ue_ue.ParticleModuleCollisionBase.md#brequiresloopingnotification)
 
-#### Defined in
-
-[ue/ue.d.ts:6747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6747)
-
 ___
 
 ### bSpawnModule
@@ -445,10 +321,6 @@ ___
 #### Inherited from
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[bSpawnModule](ue_ue.ParticleModuleCollisionBase.md#bspawnmodule)
-
-#### Defined in
-
-[ue/ue.d.ts:6736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6736)
 
 ___
 
@@ -460,10 +332,6 @@ ___
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[bSupported3DDrawMode](ue_ue.ParticleModuleCollisionBase.md#bsupported3ddrawmode)
 
-#### Defined in
-
-[ue/ue.d.ts:6742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6742)
-
 ___
 
 ### bSupportsRandomSeed
@@ -473,10 +341,6 @@ ___
 #### Inherited from
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[bSupportsRandomSeed](ue_ue.ParticleModuleCollisionBase.md#bsupportsrandomseed)
-
-#### Defined in
-
-[ue/ue.d.ts:6746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6746)
 
 ___
 
@@ -488,10 +352,6 @@ ___
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[bUpdateForGPUEmitter](ue_ue.ParticleModuleCollisionBase.md#bupdateforgpuemitter)
 
-#### Defined in
-
-[ue/ue.d.ts:6739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6739)
-
 ___
 
 ### bUpdateModule
@@ -501,10 +361,6 @@ ___
 #### Inherited from
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[bUpdateModule](ue_ue.ParticleModuleCollisionBase.md#bupdatemodule)
-
-#### Defined in
-
-[ue/ue.d.ts:6737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6737)
 
 ## Methods
 
@@ -530,10 +386,6 @@ ___
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[CreateDefaultSubobject](ue_ue.ParticleModuleCollisionBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -554,10 +406,6 @@ ___
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[ExecuteUbergraph](ue_ue.ParticleModuleCollisionBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -571,10 +419,6 @@ ___
 #### Inherited from
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[GetClass](ue_ue.ParticleModuleCollisionBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -590,10 +434,6 @@ ___
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[GetName](ue_ue.ParticleModuleCollisionBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -608,10 +448,6 @@ ___
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[GetOuter](ue_ue.ParticleModuleCollisionBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -625,10 +461,6 @@ ___
 #### Inherited from
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[GetWorld](ue_ue.ParticleModuleCollisionBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -651,10 +483,6 @@ ___
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[Find](ue_ue.ParticleModuleCollisionBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:55534](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55534)
-
 ___
 
 ### Load
@@ -675,10 +503,6 @@ ___
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[Load](ue_ue.ParticleModuleCollisionBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:55535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55535)
-
 ___
 
 ### StaticClass
@@ -692,7 +516,3 @@ ___
 #### Overrides
 
 [ParticleModuleCollisionBase](ue_ue.ParticleModuleCollisionBase.md).[StaticClass](ue_ue.ParticleModuleCollisionBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:55533](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55533)

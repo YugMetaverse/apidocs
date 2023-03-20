@@ -26,10 +26,6 @@
 
 • **new AssetConfigArray**()
 
-#### Defined in
-
-[ue/ue.d.ts:54123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54123)
-
 • **new AssetConfigArray**(`ConfigArray`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `ConfigArray` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AssetConfig`](ue_ue.AssetConfig.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:54124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54124)
-
 ## Properties
 
 ### ConfigArray
 
 • **ConfigArray**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AssetConfig`](ue_ue.AssetConfig.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:54125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54125)
-
 ___
 
 ### \_\_tid\_AssetConfigArray\_\_
 
 • `Private` **\_\_tid\_AssetConfigArray\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54131)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54129)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54130)

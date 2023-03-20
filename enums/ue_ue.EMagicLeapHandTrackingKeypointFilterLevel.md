@@ -20,19 +20,11 @@
 
 • **EMagicLeapHandTrackingKeypointFilterLevel\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34002)
-
 ___
 
 ### NoFilter
 
 • **NoFilter** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34002)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **PredictiveSmoothing** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34002)
-
 ___
 
 ### SimpleSmoothing
 
 • **SimpleSmoothing** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34002)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34002)

@@ -69,10 +69,6 @@
 
 [PawnAction](ue_ue.PawnAction.md).[constructor](ue_ue.PawnAction.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:56930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56930)
-
 ## Properties
 
 ### BrainComp
@@ -82,10 +78,6 @@
 #### Inherited from
 
 [PawnAction](ue_ue.PawnAction.md).[BrainComp](ue_ue.PawnAction.md#braincomp)
-
-#### Defined in
-
-[ue/ue.d.ts:14827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14827)
 
 ___
 
@@ -97,10 +89,6 @@ ___
 
 [PawnAction](ue_ue.PawnAction.md).[ChildAction](ue_ue.PawnAction.md#childaction)
 
-#### Defined in
-
-[ue/ue.d.ts:14823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14823)
-
 ___
 
 ### Instigator
@@ -110,10 +98,6 @@ ___
 #### Inherited from
 
 [PawnAction](ue_ue.PawnAction.md).[Instigator](ue_ue.PawnAction.md#instigator)
-
-#### Defined in
-
-[ue/ue.d.ts:14826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14826)
 
 ___
 
@@ -125,10 +109,6 @@ ___
 
 [PawnAction](ue_ue.PawnAction.md).[OwnerComponent](ue_ue.PawnAction.md#ownercomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:14825](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14825)
-
 ___
 
 ### ParentAction
@@ -138,10 +118,6 @@ ___
 #### Inherited from
 
 [PawnAction](ue_ue.PawnAction.md).[ParentAction](ue_ue.PawnAction.md#parentaction)
-
-#### Defined in
-
-[ue/ue.d.ts:14824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14824)
 
 ___
 
@@ -153,19 +129,11 @@ ___
 
 [PawnAction](ue_ue.PawnAction.md).[__tid_Object__](ue_ue.PawnAction.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PawnAction\_BlueprintBase\_\_
 
 • **\_\_tid\_PawnAction\_BlueprintBase\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:56940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56940)
 
 ___
 
@@ -177,10 +145,6 @@ ___
 
 [PawnAction](ue_ue.PawnAction.md).[__tid_PawnAction__](ue_ue.PawnAction.md#__tid_pawnaction__)
 
-#### Defined in
-
-[ue/ue.d.ts:14839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14839)
-
 ___
 
 ### bAllowNewSameClassInstance
@@ -190,10 +154,6 @@ ___
 #### Inherited from
 
 [PawnAction](ue_ue.PawnAction.md).[bAllowNewSameClassInstance](ue_ue.PawnAction.md#ballownewsameclassinstance)
-
-#### Defined in
-
-[ue/ue.d.ts:14828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14828)
 
 ___
 
@@ -205,10 +165,6 @@ ___
 
 [PawnAction](ue_ue.PawnAction.md).[bAlwaysNotifyOnFinished](ue_ue.PawnAction.md#balwaysnotifyonfinished)
 
-#### Defined in
-
-[ue/ue.d.ts:14831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14831)
-
 ___
 
 ### bReplaceActiveSameClassInstance
@@ -219,10 +175,6 @@ ___
 
 [PawnAction](ue_ue.PawnAction.md).[bReplaceActiveSameClassInstance](ue_ue.PawnAction.md#breplaceactivesameclassinstance)
 
-#### Defined in
-
-[ue/ue.d.ts:14829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14829)
-
 ___
 
 ### bShouldPauseMovement
@@ -232,10 +184,6 @@ ___
 #### Inherited from
 
 [PawnAction](ue_ue.PawnAction.md).[bShouldPauseMovement](ue_ue.PawnAction.md#bshouldpausemovement)
-
-#### Defined in
-
-[ue/ue.d.ts:14830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14830)
 
 ## Methods
 
@@ -254,10 +202,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:56931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56931)
-
 ___
 
 ### ActionPause
@@ -273,10 +217,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:56932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56932)
 
 ___
 
@@ -294,10 +234,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:56933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56933)
-
 ___
 
 ### ActionStart
@@ -313,10 +249,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:56934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56934)
 
 ___
 
@@ -334,10 +266,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:56935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56935)
 
 ___
 
@@ -363,10 +291,6 @@ ___
 
 [PawnAction](ue_ue.PawnAction.md).[CreateDefaultSubobject](ue_ue.PawnAction.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -386,10 +310,6 @@ ___
 #### Inherited from
 
 [PawnAction](ue_ue.PawnAction.md).[ExecuteUbergraph](ue_ue.PawnAction.md#executeubergraph)
-
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
 
 ___
 
@@ -411,10 +331,6 @@ ___
 
 [PawnAction](ue_ue.PawnAction.md).[Finish](ue_ue.PawnAction.md#finish)
 
-#### Defined in
-
-[ue/ue.d.ts:14832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14832)
-
 ___
 
 ### GetActionPriority
@@ -428,10 +344,6 @@ ___
 #### Inherited from
 
 [PawnAction](ue_ue.PawnAction.md).[GetActionPriority](ue_ue.PawnAction.md#getactionpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:14833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14833)
 
 ___
 
@@ -447,10 +359,6 @@ ___
 
 [PawnAction](ue_ue.PawnAction.md).[GetClass](ue_ue.PawnAction.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetName
@@ -464,10 +372,6 @@ ___
 #### Inherited from
 
 [PawnAction](ue_ue.PawnAction.md).[GetName](ue_ue.PawnAction.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -483,10 +387,6 @@ ___
 
 [PawnAction](ue_ue.PawnAction.md).[GetOuter](ue_ue.PawnAction.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -500,10 +400,6 @@ ___
 #### Inherited from
 
 [PawnAction](ue_ue.PawnAction.md).[GetWorld](ue_ue.PawnAction.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -526,10 +422,6 @@ ___
 
 [PawnAction](ue_ue.PawnAction.md).[CreateActionInstance](ue_ue.PawnAction.md#createactioninstance)
 
-#### Defined in
-
-[ue/ue.d.ts:14834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14834)
-
 ___
 
 ### Find
@@ -551,10 +443,6 @@ ___
 
 [PawnAction](ue_ue.PawnAction.md).[Find](ue_ue.PawnAction.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:56937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56937)
-
 ___
 
 ### Load
@@ -575,10 +463,6 @@ ___
 
 [PawnAction](ue_ue.PawnAction.md).[Load](ue_ue.PawnAction.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:56938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56938)
-
 ___
 
 ### StaticClass
@@ -592,7 +476,3 @@ ___
 #### Overrides
 
 [PawnAction](ue_ue.PawnAction.md).[StaticClass](ue_ue.PawnAction.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:56936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56936)

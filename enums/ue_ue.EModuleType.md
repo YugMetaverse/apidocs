@@ -26,19 +26,11 @@
 
 • **EPMT\_Beam** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34061)
-
 ___
 
 ### EPMT\_Event
 
 • **EPMT\_Event** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34061)
 
 ___
 
@@ -46,19 +38,11 @@ ___
 
 • **EPMT\_General** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34061)
-
 ___
 
 ### EPMT\_Light
 
 • **EPMT\_Light** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34061)
 
 ___
 
@@ -66,19 +50,11 @@ ___
 
 • **EPMT\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34061)
-
 ___
 
 ### EPMT\_Required
 
 • **EPMT\_Required** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34061)
 
 ___
 
@@ -86,19 +62,11 @@ ___
 
 • **EPMT\_Spawn** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34061)
-
 ___
 
 ### EPMT\_SubUV
 
 • **EPMT\_SubUV** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34061)
 
 ___
 
@@ -106,26 +74,14 @@ ___
 
 • **EPMT\_Trail** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34061)
-
 ___
 
 ### EPMT\_TypeData
 
 • **EPMT\_TypeData** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34061)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34061)

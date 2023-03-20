@@ -54,19 +54,11 @@
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[constructor](ue_ue.DeveloperSettings.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:54253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54253)
-
 ## Properties
 
 ### Logins
 
 • **Logins**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PIELoginSettingsInternal`](ue_ue.PIELoginSettingsInternal.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:54255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54255)
 
 ___
 
@@ -78,10 +70,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[__tid_DeveloperSettings__](ue_ue.DeveloperSettings.md#__tid_developersettings__)
 
-#### Defined in
-
-[ue/ue.d.ts:16950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16950)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -92,29 +80,17 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[__tid_Object__](ue_ue.DeveloperSettings.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_OnlinePIESettings\_\_
 
 • **\_\_tid\_OnlinePIESettings\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:54260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54260)
-
 ___
 
 ### bOnlinePIEEnabled
 
 • **bOnlinePIEEnabled**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54254)
 
 ## Methods
 
@@ -140,10 +116,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[CreateDefaultSubobject](ue_ue.DeveloperSettings.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -164,10 +136,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[ExecuteUbergraph](ue_ue.DeveloperSettings.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -181,10 +149,6 @@ ___
 #### Inherited from
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetClass](ue_ue.DeveloperSettings.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -200,10 +164,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetName](ue_ue.DeveloperSettings.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -218,10 +178,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetOuter](ue_ue.DeveloperSettings.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -235,10 +191,6 @@ ___
 #### Inherited from
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetWorld](ue_ue.DeveloperSettings.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -261,10 +213,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[Find](ue_ue.DeveloperSettings.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:54257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54257)
-
 ___
 
 ### Load
@@ -285,10 +233,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[Load](ue_ue.DeveloperSettings.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:54258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54258)
-
 ___
 
 ### StaticClass
@@ -302,7 +246,3 @@ ___
 #### Overrides
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[StaticClass](ue_ue.DeveloperSettings.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:54256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54256)

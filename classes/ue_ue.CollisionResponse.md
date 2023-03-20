@@ -27,10 +27,6 @@
 
 • **new CollisionResponse**()
 
-#### Defined in
-
-[ue/ue.d.ts:657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L657)
-
 • **new CollisionResponse**(`ResponseToChannels`, `ResponseArray`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `ResponseToChannels` | [`CollisionResponseContainer`](ue_ue.CollisionResponseContainer.md) |
 | `ResponseArray` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ResponseChannel`](ue_ue.ResponseChannel.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L658)
-
 ## Properties
 
 ### ResponseArray
 
 • **ResponseArray**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ResponseChannel`](ue_ue.ResponseChannel.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L660)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **ResponseToChannels**: [`CollisionResponseContainer`](ue_ue.CollisionResponseContainer.md)
 
-#### Defined in
-
-[ue/ue.d.ts:659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L659)
-
 ___
 
 ### \_\_tid\_CollisionResponse\_\_
 
 • `Private` **\_\_tid\_CollisionResponse\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L666)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L664)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L665)

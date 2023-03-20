@@ -19,19 +19,11 @@
 
 • **EMovieSceneEvaluationType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11617)
-
 ___
 
 ### FrameLocked
 
 • **FrameLocked** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11617)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **WithSubFrames** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11617)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11617)

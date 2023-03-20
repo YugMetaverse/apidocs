@@ -31,10 +31,6 @@
 
 • **new ExpressionOutput**()
 
-#### Defined in
-
-[ue/ue.d.ts:1139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1139)
-
 • **new ExpressionOutput**(`OutputName`, `Mask`, `MaskR`, `MaskG`, `MaskB`, `MaskA`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `MaskB` | `number` |
 | `MaskA` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:1140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1140)
-
 ## Properties
 
 ### Mask
 
 • **Mask**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1142)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **MaskA**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1146)
-
 ___
 
 ### MaskB
 
 • **MaskB**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1145)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **MaskG**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1144)
-
 ___
 
 ### MaskR
 
 • **MaskR**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1143)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **OutputName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:1141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1141)
-
 ___
 
 ### \_\_tid\_ExpressionOutput\_\_
 
 • `Private` **\_\_tid\_ExpressionOutput\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1152)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1150)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1151)

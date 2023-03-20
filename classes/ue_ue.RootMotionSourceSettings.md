@@ -26,10 +26,6 @@
 
 • **new RootMotionSourceSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:5578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5578)
-
 • **new RootMotionSourceSettings**(`Flags`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Flags` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:5579](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5579)
-
 ## Properties
 
 ### Flags
 
 • **Flags**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5580)
-
 ___
 
 ### \_\_tid\_RootMotionSourceSettings\_\_
 
 • `Private` **\_\_tid\_RootMotionSourceSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5586)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5584)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5585)

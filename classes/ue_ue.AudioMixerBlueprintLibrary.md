@@ -70,19 +70,11 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[constructor](ue_ue.BlueprintFunctionLibrary.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:22428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22428)
-
 ## Properties
 
 ### \_\_tid\_AudioMixerBlueprintLibrary\_\_
 
 • **\_\_tid\_AudioMixerBlueprintLibrary\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22451)
 
 ___
 
@@ -94,10 +86,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_BlueprintFunctionLibrary__](ue_ue.BlueprintFunctionLibrary.md#__tid_blueprintfunctionlibrary__)
 
-#### Defined in
-
-[ue/ue.d.ts:13418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13418)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -107,10 +95,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_Object__](ue_ue.BlueprintFunctionLibrary.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -136,10 +120,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[CreateDefaultSubobject](ue_ue.BlueprintFunctionLibrary.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -160,10 +140,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[ExecuteUbergraph](ue_ue.BlueprintFunctionLibrary.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -177,10 +153,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetClass](ue_ue.BlueprintFunctionLibrary.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -196,10 +168,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetName](ue_ue.BlueprintFunctionLibrary.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -214,10 +182,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetOuter](ue_ue.BlueprintFunctionLibrary.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -231,10 +195,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetWorld](ue_ue.BlueprintFunctionLibrary.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -252,10 +212,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:22429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22429)
 
 ___
 
@@ -275,10 +231,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:22430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22430)
-
 ___
 
 ### ClearMasterSubmixEffects
@@ -294,10 +246,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:22431](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22431)
 
 ___
 
@@ -320,10 +268,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Find](ue_ue.BlueprintFunctionLibrary.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:22448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22448)
-
 ___
 
 ### GetMagnitudeForFrequencies
@@ -343,10 +287,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:22432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22432)
-
 ___
 
 ### GetNumberOfEntriesInSourceEffectChain
@@ -363,10 +303,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22433)
 
 ___
 
@@ -386,10 +322,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:22434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22434)
 
 ___
 
@@ -411,10 +343,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Load](ue_ue.BlueprintFunctionLibrary.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:22449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22449)
-
 ___
 
 ### PauseRecordingOutput
@@ -432,10 +360,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:22435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22435)
-
 ___
 
 ### PrimeSoundCueForPlayback
@@ -451,10 +375,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:22436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22436)
 
 ___
 
@@ -473,10 +393,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:22437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22437)
-
 ___
 
 ### RemoveMasterSubmixEffect
@@ -493,10 +409,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:22438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22438)
 
 ___
 
@@ -516,10 +428,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:22439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22439)
-
 ___
 
 ### ResumeRecordingOutput
@@ -536,10 +444,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:22440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22440)
 
 ___
 
@@ -559,10 +463,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:22441](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22441)
 
 ___
 
@@ -585,10 +485,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:22442](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22442)
-
 ___
 
 ### StartRecordingOutput
@@ -607,10 +503,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:22443](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22443)
-
 ___
 
 ### StaticClass
@@ -624,10 +516,6 @@ ___
 #### Overrides
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[StaticClass](ue_ue.BlueprintFunctionLibrary.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:22447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22447)
 
 ___
 
@@ -645,10 +533,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:22444](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22444)
 
 ___
 
@@ -671,10 +555,6 @@ ___
 
 [`SoundWave`](ue_ue.SoundWave.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22445](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22445)
-
 ___
 
 ### TrimAudioCache
@@ -690,7 +570,3 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22446)

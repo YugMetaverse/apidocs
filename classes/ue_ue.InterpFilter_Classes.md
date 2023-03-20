@@ -55,10 +55,6 @@
 
 [InterpFilter](ue_ue.InterpFilter.md).[constructor](ue_ue.InterpFilter.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:39647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39647)
-
 ## Properties
 
 ### Caption
@@ -69,19 +65,11 @@
 
 [InterpFilter](ue_ue.InterpFilter.md).[Caption](ue_ue.InterpFilter.md#caption)
 
-#### Defined in
-
-[ue/ue.d.ts:12984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12984)
-
 ___
 
 ### ClassToFilterBy
 
 • **ClassToFilterBy**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:39648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39648)
 
 ___
 
@@ -89,19 +77,11 @@ ___
 
 • **TrackClasses**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Class`](ue_ue.Class.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:39649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39649)
-
 ___
 
 ### \_\_tid\_InterpFilter\_Classes\_\_
 
 • **\_\_tid\_InterpFilter\_Classes\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39654)
 
 ___
 
@@ -113,10 +93,6 @@ ___
 
 [InterpFilter](ue_ue.InterpFilter.md).[__tid_InterpFilter__](ue_ue.InterpFilter.md#__tid_interpfilter__)
 
-#### Defined in
-
-[ue/ue.d.ts:12989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12989)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -126,10 +102,6 @@ ___
 #### Inherited from
 
 [InterpFilter](ue_ue.InterpFilter.md).[__tid_Object__](ue_ue.InterpFilter.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -155,10 +127,6 @@ ___
 
 [InterpFilter](ue_ue.InterpFilter.md).[CreateDefaultSubobject](ue_ue.InterpFilter.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -179,10 +147,6 @@ ___
 
 [InterpFilter](ue_ue.InterpFilter.md).[ExecuteUbergraph](ue_ue.InterpFilter.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -196,10 +160,6 @@ ___
 #### Inherited from
 
 [InterpFilter](ue_ue.InterpFilter.md).[GetClass](ue_ue.InterpFilter.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -215,10 +175,6 @@ ___
 
 [InterpFilter](ue_ue.InterpFilter.md).[GetName](ue_ue.InterpFilter.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -233,10 +189,6 @@ ___
 
 [InterpFilter](ue_ue.InterpFilter.md).[GetOuter](ue_ue.InterpFilter.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -250,10 +202,6 @@ ___
 #### Inherited from
 
 [InterpFilter](ue_ue.InterpFilter.md).[GetWorld](ue_ue.InterpFilter.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -276,10 +224,6 @@ ___
 
 [InterpFilter](ue_ue.InterpFilter.md).[Find](ue_ue.InterpFilter.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:39651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39651)
-
 ___
 
 ### Load
@@ -300,10 +244,6 @@ ___
 
 [InterpFilter](ue_ue.InterpFilter.md).[Load](ue_ue.InterpFilter.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:39652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39652)
-
 ___
 
 ### StaticClass
@@ -317,7 +257,3 @@ ___
 #### Overrides
 
 [InterpFilter](ue_ue.InterpFilter.md).[StaticClass](ue_ue.InterpFilter.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:39650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39650)

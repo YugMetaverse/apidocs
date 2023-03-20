@@ -28,10 +28,6 @@
 
 • **new ScriptSlateIcon**()
 
-#### Defined in
-
-[ue/ue.d.ts:63786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63786)
-
 • **new ScriptSlateIcon**(`StyleSetName`, `StyleName`, `SmallStyleName`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `StyleName` | `string` |
 | `SmallStyleName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:63787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63787)
-
 ## Properties
 
 ### SmallStyleName
 
 • **SmallStyleName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:63790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63790)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **StyleName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:63789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63789)
-
 ___
 
 ### StyleSetName
 
 • **StyleSetName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:63788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63788)
-
 ___
 
 ### \_\_tid\_ScriptSlateIcon\_\_
 
 • `Private` **\_\_tid\_ScriptSlateIcon\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:63796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63796)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63794)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63795)

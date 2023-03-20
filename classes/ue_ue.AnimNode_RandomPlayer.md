@@ -37,10 +37,6 @@
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[constructor](ue_ue.AnimNode_Base.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:19287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19287)
-
 • **new AnimNode_RandomPlayer**(`Entries`, `bShuffleMode`)
 
 #### Parameters
@@ -54,19 +50,11 @@
 
 UE.AnimNode\_Base.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:19288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19288)
-
 ## Properties
 
 ### Entries
 
 • **Entries**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`RandomPlayerSequenceEntry`](ue_ue.RandomPlayerSequenceEntry.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:19289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19289)
 
 ___
 
@@ -74,19 +62,11 @@ ___
 
 • `Private` **\_\_tid\_AnimNode\_RandomPlayer\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:19296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19296)
-
 ___
 
 ### bShuffleMode
 
 • **bShuffleMode**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:19290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19290)
 
 ## Methods
 
@@ -106,10 +86,6 @@ use StaticStruct instead.
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticClass](ue_ue.AnimNode_Base.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:19294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19294)
-
 ___
 
 ### StaticStruct
@@ -123,7 +99,3 @@ ___
 #### Overrides
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticStruct](ue_ue.AnimNode_Base.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:19295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19295)

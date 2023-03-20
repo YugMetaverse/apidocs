@@ -20,19 +20,11 @@
 
 • **Activate** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34663)
-
 ___
 
 ### Deactivate
 
 • **Deactivate** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34663)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **EParticleKey\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34663)
-
 ___
 
 ### Trigger
 
 • **Trigger** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34663)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34663)

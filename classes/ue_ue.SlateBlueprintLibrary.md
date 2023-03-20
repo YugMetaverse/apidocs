@@ -68,10 +68,6 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[constructor](ue_ue.BlueprintFunctionLibrary.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:60875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60875)
-
 ## Properties
 
 ### \_\_tid\_BlueprintFunctionLibrary\_\_
@@ -81,10 +77,6 @@
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_BlueprintFunctionLibrary__](ue_ue.BlueprintFunctionLibrary.md#__tid_blueprintfunctionlibrary__)
-
-#### Defined in
-
-[ue/ue.d.ts:13418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13418)
 
 ___
 
@@ -96,19 +88,11 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_Object__](ue_ue.BlueprintFunctionLibrary.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_SlateBlueprintLibrary\_\_
 
 • **\_\_tid\_SlateBlueprintLibrary\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:60896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60896)
 
 ## Methods
 
@@ -134,10 +118,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[CreateDefaultSubobject](ue_ue.BlueprintFunctionLibrary.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -158,10 +138,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[ExecuteUbergraph](ue_ue.BlueprintFunctionLibrary.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -175,10 +151,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetClass](ue_ue.BlueprintFunctionLibrary.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -194,10 +166,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetName](ue_ue.BlueprintFunctionLibrary.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -212,10 +180,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetOuter](ue_ue.BlueprintFunctionLibrary.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -229,10 +193,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetWorld](ue_ue.BlueprintFunctionLibrary.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -250,10 +210,6 @@ ___
 #### Returns
 
 [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:60876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60876)
 
 ___
 
@@ -274,10 +230,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:60877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60877)
-
 ___
 
 ### EqualEqual\_SlateBrush
@@ -294,10 +246,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:60878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60878)
 
 ___
 
@@ -320,10 +268,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Find](ue_ue.BlueprintFunctionLibrary.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:60893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60893)
-
 ___
 
 ### GetAbsoluteSize
@@ -339,10 +283,6 @@ ___
 #### Returns
 
 [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:60879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60879)
 
 ___
 
@@ -360,10 +300,6 @@ ___
 
 [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:60880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60880)
-
 ___
 
 ### GetLocalTopLeft
@@ -379,10 +315,6 @@ ___
 #### Returns
 
 [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:60881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60881)
 
 ___
 
@@ -400,10 +332,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:60882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60882)
 
 ___
 
@@ -425,10 +353,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Load](ue_ue.BlueprintFunctionLibrary.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:60894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60894)
-
 ___
 
 ### LocalToAbsolute
@@ -445,10 +369,6 @@ ___
 #### Returns
 
 [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:60883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60883)
 
 ___
 
@@ -470,10 +390,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:60884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60884)
-
 ___
 
 ### ScreenToViewport
@@ -492,10 +408,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:60885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60885)
-
 ___
 
 ### ScreenToWidgetAbsolute
@@ -513,10 +425,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:60886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60886)
 
 ___
 
@@ -537,10 +445,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:60887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60887)
-
 ___
 
 ### StaticClass
@@ -554,10 +458,6 @@ ___
 #### Overrides
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[StaticClass](ue_ue.BlueprintFunctionLibrary.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:60892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60892)
 
 ___
 
@@ -576,10 +476,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:60888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60888)
-
 ___
 
 ### TransformScalarLocalToAbsolute
@@ -596,10 +492,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:60889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60889)
 
 ___
 
@@ -618,10 +510,6 @@ ___
 
 [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:60890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60890)
-
 ___
 
 ### TransformVectorLocalToAbsolute
@@ -638,7 +526,3 @@ ___
 #### Returns
 
 [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:60891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60891)

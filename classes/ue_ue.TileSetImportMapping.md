@@ -28,10 +28,6 @@
 
 • **new TileSetImportMapping**()
 
-#### Defined in
-
-[ue/ue.d.ts:63443](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63443)
-
 • **new TileSetImportMapping**(`SourceName`, `ImportedTileSet`, `ImportedTexture`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `ImportedTileSet` | [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`PaperTileSet`](ue_ue.PaperTileSet.md)\> |
 | `ImportedTexture` | [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`Texture`](ue_ue.Texture.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:63444](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63444)
-
 ## Properties
 
 ### ImportedTexture
 
 • **ImportedTexture**: [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`Texture`](ue_ue.Texture.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:63447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63447)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **ImportedTileSet**: [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`PaperTileSet`](ue_ue.PaperTileSet.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:63446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63446)
-
 ___
 
 ### SourceName
 
 • **SourceName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:63445](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63445)
-
 ___
 
 ### \_\_tid\_TileSetImportMapping\_\_
 
 • `Private` **\_\_tid\_TileSetImportMapping\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:63453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63453)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63451)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63452)

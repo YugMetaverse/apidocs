@@ -27,10 +27,6 @@
 
 • **new FunctionCaller**()
 
-#### Defined in
-
-[ue/ue.d.ts:29877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29877)
-
 • **new FunctionCaller**(`FunctionName`, `FunctionEntry`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `FunctionName` | `string` |
 | `FunctionEntry` | [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`Object`](ue_ue.Object.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:29878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29878)
-
 ## Properties
 
 ### FunctionEntry
 
 • **FunctionEntry**: [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`Object`](ue_ue.Object.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:29880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29880)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **FunctionName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:29879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29879)
-
 ___
 
 ### \_\_tid\_FunctionCaller\_\_
 
 • `Private` **\_\_tid\_FunctionCaller\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29886)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29884)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29885)

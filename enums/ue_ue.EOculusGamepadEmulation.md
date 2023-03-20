@@ -22,19 +22,11 @@
 
 • **EOculusGamepadEmulation\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34638)
-
 ___
 
 ### LeftDPad
 
 • **LeftDPad** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34638)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **Length** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34638)
-
 ___
 
 ### Off
 
 • **Off** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34638)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **RightDPad** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34638)
-
 ___
 
 ### Twinstick
 
 • **Twinstick** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34638)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34638)

@@ -19,19 +19,11 @@
 
 • **Absolute** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15541](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15541)
-
 ___
 
 ### EEQSNormalizationType\_MAX
 
 • **EEQSNormalizationType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15541](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15541)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **RelativeToScores** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15541](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15541)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15541](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15541)

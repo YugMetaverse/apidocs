@@ -19,19 +19,11 @@
 
 • **EGameplayTagMatchType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33879)
-
 ___
 
 ### Explicit
 
 • **Explicit** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33879)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **IncludeParentTags** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33879)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33879)

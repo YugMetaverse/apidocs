@@ -134,10 +134,6 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[constructor](ue_ue.BlueprintFunctionLibrary.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:24218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24218)
-
 ## Properties
 
 ### \_\_tid\_BlueprintFunctionLibrary\_\_
@@ -148,19 +144,11 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_BlueprintFunctionLibrary__](ue_ue.BlueprintFunctionLibrary.md#__tid_blueprintfunctionlibrary__)
 
-#### Defined in
-
-[ue/ue.d.ts:13418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13418)
-
 ___
 
 ### \_\_tid\_BlueprintPathsLibrary\_\_
 
 • **\_\_tid\_BlueprintPathsLibrary\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:24305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24305)
 
 ___
 
@@ -171,10 +159,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_Object__](ue_ue.BlueprintFunctionLibrary.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -200,10 +184,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[CreateDefaultSubobject](ue_ue.BlueprintFunctionLibrary.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -224,10 +204,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[ExecuteUbergraph](ue_ue.BlueprintFunctionLibrary.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -241,10 +217,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetClass](ue_ue.BlueprintFunctionLibrary.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -260,10 +232,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetName](ue_ue.BlueprintFunctionLibrary.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -277,10 +245,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetOuter](ue_ue.BlueprintFunctionLibrary.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -296,10 +260,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetWorld](ue_ue.BlueprintFunctionLibrary.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### AutomationDir
@@ -309,10 +269,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24219)
 
 ___
 
@@ -324,10 +280,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24220)
-
 ___
 
 ### AutomationTransientDir
@@ -338,10 +290,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24221)
-
 ___
 
 ### BugItDir
@@ -351,10 +299,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24222)
 
 ___
 
@@ -373,10 +317,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24223)
-
 ___
 
 ### CloudDir
@@ -386,10 +326,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24224)
 
 ___
 
@@ -408,10 +344,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:24225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24225)
-
 ___
 
 ### Combine
@@ -427,10 +359,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24226)
 
 ___
 
@@ -449,10 +377,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24227)
-
 ___
 
 ### ConvertRelativePathToFull
@@ -470,10 +394,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24228)
-
 ___
 
 ### ConvertToSandboxPath
@@ -490,10 +410,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24229)
 
 ___
 
@@ -513,10 +429,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24230)
-
 ___
 
 ### DiffDir
@@ -526,10 +438,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24231)
 
 ___
 
@@ -547,10 +455,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:24232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24232)
-
 ___
 
 ### EngineConfigDir
@@ -560,10 +464,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24233)
 
 ___
 
@@ -575,10 +475,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24234)
-
 ___
 
 ### EngineDir
@@ -588,10 +484,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24235)
 
 ___
 
@@ -603,10 +495,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24236)
-
 ___
 
 ### EnginePluginsDir
@@ -616,10 +504,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24237)
 
 ___
 
@@ -631,10 +515,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24238)
-
 ___
 
 ### EngineSourceDir
@@ -644,10 +524,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24239)
 
 ___
 
@@ -659,10 +535,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24240)
-
 ___
 
 ### EngineVersionAgnosticUserDir
@@ -672,10 +544,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24241)
 
 ___
 
@@ -687,10 +555,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24242)
-
 ___
 
 ### EnterpriseFeaturePackDir
@@ -700,10 +564,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24243)
 
 ___
 
@@ -715,10 +575,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24244)
-
 ___
 
 ### FeaturePackDir
@@ -728,10 +584,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24245)
 
 ___
 
@@ -748,10 +600,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:24246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24246)
 
 ___
 
@@ -774,10 +622,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Find](ue_ue.BlueprintFunctionLibrary.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:24302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24302)
-
 ___
 
 ### GameAgnosticSavedDir
@@ -787,10 +631,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24247)
 
 ___
 
@@ -802,10 +642,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24248)
-
 ___
 
 ### GameSourceDir
@@ -815,10 +651,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24249)
 
 ___
 
@@ -830,10 +662,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24250)
-
 ___
 
 ### GeneratedConfigDir
@@ -843,10 +671,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24251)
 
 ___
 
@@ -865,10 +689,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24252)
-
 ___
 
 ### GetCleanFilename
@@ -885,10 +705,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24253)
-
 ___
 
 ### GetEditorLocalizationPaths
@@ -899,10 +715,6 @@ ___
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:24254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24254)
-
 ___
 
 ### GetEngineLocalizationPaths
@@ -912,10 +724,6 @@ ___
 #### Returns
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:24255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24255)
 
 ___
 
@@ -934,10 +742,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24256)
-
 ___
 
 ### GetGameLocalizationPaths
@@ -948,10 +752,6 @@ ___
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:24257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24257)
-
 ___
 
 ### GetInvalidFileSystemChars
@@ -961,10 +761,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24258)
 
 ___
 
@@ -982,10 +778,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24259)
-
 ___
 
 ### GetProjectFilePath
@@ -995,10 +787,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24260)
 
 ___
 
@@ -1010,10 +798,6 @@ ___
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:24261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24261)
-
 ___
 
 ### GetRelativePathToRoot
@@ -1023,10 +807,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24262)
 
 ___
 
@@ -1038,10 +818,6 @@ ___
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:24263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24263)
-
 ___
 
 ### GetToolTipLocalizationPaths
@@ -1052,10 +828,6 @@ ___
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:24264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24264)
-
 ___
 
 ### HasProjectPersistentDownloadDir
@@ -1065,10 +837,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:24265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24265)
 
 ___
 
@@ -1086,10 +854,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:24266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24266)
-
 ___
 
 ### IsProjectFilePathSet
@@ -1099,10 +863,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:24267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24267)
 
 ___
 
@@ -1120,10 +880,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:24268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24268)
-
 ___
 
 ### IsRestrictedPath
@@ -1139,10 +895,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:24269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24269)
 
 ___
 
@@ -1161,10 +913,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:24270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24270)
-
 ___
 
 ### LaunchDir
@@ -1174,10 +922,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24271)
 
 ___
 
@@ -1199,10 +943,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Load](ue_ue.BlueprintFunctionLibrary.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:24303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24303)
-
 ___
 
 ### MakePathRelativeTo
@@ -1221,10 +961,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:24272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24272)
-
 ___
 
 ### MakePlatformFilename
@@ -1241,10 +977,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:24273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24273)
 
 ___
 
@@ -1263,10 +995,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:24274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24274)
-
 ___
 
 ### MakeValidFileName
@@ -1283,10 +1011,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24275)
 
 ___
 
@@ -1305,10 +1029,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:24276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24276)
-
 ___
 
 ### NormalizeFilename
@@ -1326,10 +1046,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:24277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24277)
-
 ___
 
 ### ProfilingDir
@@ -1339,10 +1055,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24278)
 
 ___
 
@@ -1354,10 +1066,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24279)
-
 ___
 
 ### ProjectContentDir
@@ -1367,10 +1075,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24280)
 
 ___
 
@@ -1382,10 +1086,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24281)
-
 ___
 
 ### ProjectIntermediateDir
@@ -1395,10 +1095,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24282)
 
 ___
 
@@ -1410,10 +1106,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24283)
-
 ___
 
 ### ProjectModsDir
@@ -1423,10 +1115,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24284)
 
 ___
 
@@ -1438,10 +1126,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24285)
-
 ___
 
 ### ProjectPluginsDir
@@ -1451,10 +1135,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24286)
 
 ___
 
@@ -1466,10 +1146,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24287)
-
 ___
 
 ### ProjectUserDir
@@ -1479,10 +1155,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24288)
 
 ___
 
@@ -1501,10 +1173,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:24289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24289)
-
 ___
 
 ### RootDir
@@ -1514,10 +1182,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24290)
 
 ___
 
@@ -1529,10 +1193,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24291)
-
 ___
 
 ### ScreenShotDir
@@ -1542,10 +1202,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24292)
 
 ___
 
@@ -1564,10 +1220,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24293)
-
 ___
 
 ### SetProjectFilePath
@@ -1584,10 +1236,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:24294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24294)
-
 ___
 
 ### ShaderWorkingDir
@@ -1597,10 +1245,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24295)
 
 ___
 
@@ -1612,10 +1256,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:24296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24296)
-
 ___
 
 ### SourceConfigDir
@@ -1625,10 +1265,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24297)
 
 ___
 
@@ -1649,10 +1285,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:24298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24298)
-
 ___
 
 ### StaticClass
@@ -1666,10 +1298,6 @@ ___
 #### Overrides
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[StaticClass](ue_ue.BlueprintFunctionLibrary.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:24301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24301)
 
 ___
 
@@ -1689,10 +1317,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:24299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24299)
-
 ___
 
 ### VideoCaptureDir
@@ -1702,7 +1326,3 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24300)

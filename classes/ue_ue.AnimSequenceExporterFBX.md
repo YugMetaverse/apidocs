@@ -66,10 +66,6 @@
 
 [ExporterFBX](ue_ue.ExporterFBX.md).[constructor](ue_ue.ExporterFBX.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:20351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20351)
-
 ## Properties
 
 ### ExportRootScope
@@ -79,10 +75,6 @@
 #### Inherited from
 
 [ExporterFBX](ue_ue.ExporterFBX.md).[ExportRootScope](ue_ue.ExporterFBX.md#exportrootscope)
-
-#### Defined in
-
-[ue/ue.d.ts:20322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20322)
 
 ___
 
@@ -94,10 +86,6 @@ ___
 
 [ExporterFBX](ue_ue.ExporterFBX.md).[ExportTask](ue_ue.ExporterFBX.md#exporttask)
 
-#### Defined in
-
-[ue/ue.d.ts:20330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20330)
-
 ___
 
 ### FormatDescription
@@ -107,10 +95,6 @@ ___
 #### Inherited from
 
 [ExporterFBX](ue_ue.ExporterFBX.md).[FormatDescription](ue_ue.ExporterFBX.md#formatdescription)
-
-#### Defined in
-
-[ue/ue.d.ts:20324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20324)
 
 ___
 
@@ -122,10 +106,6 @@ ___
 
 [ExporterFBX](ue_ue.ExporterFBX.md).[FormatExtension](ue_ue.ExporterFBX.md#formatextension)
 
-#### Defined in
-
-[ue/ue.d.ts:20323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20323)
-
 ___
 
 ### PreferredFormatIndex
@@ -135,10 +115,6 @@ ___
 #### Inherited from
 
 [ExporterFBX](ue_ue.ExporterFBX.md).[PreferredFormatIndex](ue_ue.ExporterFBX.md#preferredformatindex)
-
-#### Defined in
-
-[ue/ue.d.ts:20325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20325)
 
 ___
 
@@ -150,10 +126,6 @@ ___
 
 [ExporterFBX](ue_ue.ExporterFBX.md).[SupportedClass](ue_ue.ExporterFBX.md#supportedclass)
 
-#### Defined in
-
-[ue/ue.d.ts:20321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20321)
-
 ___
 
 ### TextIndent
@@ -164,19 +136,11 @@ ___
 
 [ExporterFBX](ue_ue.ExporterFBX.md).[TextIndent](ue_ue.ExporterFBX.md#textindent)
 
-#### Defined in
-
-[ue/ue.d.ts:20326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20326)
-
 ___
 
 ### \_\_tid\_AnimSequenceExporterFBX\_\_
 
 • **\_\_tid\_AnimSequenceExporterFBX\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:20356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20356)
 
 ___
 
@@ -188,10 +152,6 @@ ___
 
 [ExporterFBX](ue_ue.ExporterFBX.md).[__tid_ExporterFBX__](ue_ue.ExporterFBX.md#__tid_exporterfbx__)
 
-#### Defined in
-
-[ue/ue.d.ts:20347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20347)
-
 ___
 
 ### \_\_tid\_Exporter\_\_
@@ -201,10 +161,6 @@ ___
 #### Inherited from
 
 [ExporterFBX](ue_ue.ExporterFBX.md).[__tid_Exporter__](ue_ue.ExporterFBX.md#__tid_exporter__)
-
-#### Defined in
-
-[ue/ue.d.ts:20338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20338)
 
 ___
 
@@ -216,10 +172,6 @@ ___
 
 [ExporterFBX](ue_ue.ExporterFBX.md).[__tid_Object__](ue_ue.ExporterFBX.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bForceFileOperations
@@ -229,10 +181,6 @@ ___
 #### Inherited from
 
 [ExporterFBX](ue_ue.ExporterFBX.md).[bForceFileOperations](ue_ue.ExporterFBX.md#bforcefileoperations)
-
-#### Defined in
-
-[ue/ue.d.ts:20329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20329)
 
 ___
 
@@ -244,10 +192,6 @@ ___
 
 [ExporterFBX](ue_ue.ExporterFBX.md).[bSelectedOnly](ue_ue.ExporterFBX.md#bselectedonly)
 
-#### Defined in
-
-[ue/ue.d.ts:20328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20328)
-
 ___
 
 ### bText
@@ -257,10 +201,6 @@ ___
 #### Inherited from
 
 [ExporterFBX](ue_ue.ExporterFBX.md).[bText](ue_ue.ExporterFBX.md#btext)
-
-#### Defined in
-
-[ue/ue.d.ts:20327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20327)
 
 ## Methods
 
@@ -286,10 +226,6 @@ ___
 
 [ExporterFBX](ue_ue.ExporterFBX.md).[CreateDefaultSubobject](ue_ue.ExporterFBX.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -310,10 +246,6 @@ ___
 
 [ExporterFBX](ue_ue.ExporterFBX.md).[ExecuteUbergraph](ue_ue.ExporterFBX.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -327,10 +259,6 @@ ___
 #### Inherited from
 
 [ExporterFBX](ue_ue.ExporterFBX.md).[GetClass](ue_ue.ExporterFBX.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -346,10 +274,6 @@ ___
 
 [ExporterFBX](ue_ue.ExporterFBX.md).[GetName](ue_ue.ExporterFBX.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -364,10 +288,6 @@ ___
 
 [ExporterFBX](ue_ue.ExporterFBX.md).[GetOuter](ue_ue.ExporterFBX.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -381,10 +301,6 @@ ___
 #### Inherited from
 
 [ExporterFBX](ue_ue.ExporterFBX.md).[GetWorld](ue_ue.ExporterFBX.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -405,10 +321,6 @@ ___
 #### Inherited from
 
 [ExporterFBX](ue_ue.ExporterFBX.md).[ScriptRunAssetExportTask](ue_ue.ExporterFBX.md#scriptrunassetexporttask)
-
-#### Defined in
-
-[ue/ue.d.ts:20331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20331)
 
 ___
 
@@ -431,10 +343,6 @@ ___
 
 [ExporterFBX](ue_ue.ExporterFBX.md).[Find](ue_ue.ExporterFBX.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:20353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20353)
-
 ___
 
 ### Load
@@ -454,10 +362,6 @@ ___
 #### Overrides
 
 [ExporterFBX](ue_ue.ExporterFBX.md).[Load](ue_ue.ExporterFBX.md#load)
-
-#### Defined in
-
-[ue/ue.d.ts:20354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20354)
 
 ___
 
@@ -479,10 +383,6 @@ ___
 
 [ExporterFBX](ue_ue.ExporterFBX.md).[RunAssetExportTask](ue_ue.ExporterFBX.md#runassetexporttask)
 
-#### Defined in
-
-[ue/ue.d.ts:20332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20332)
-
 ___
 
 ### RunAssetExportTasks
@@ -503,10 +403,6 @@ ___
 
 [ExporterFBX](ue_ue.ExporterFBX.md).[RunAssetExportTasks](ue_ue.ExporterFBX.md#runassetexporttasks)
 
-#### Defined in
-
-[ue/ue.d.ts:20333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20333)
-
 ___
 
 ### StaticClass
@@ -520,7 +416,3 @@ ___
 #### Overrides
 
 [ExporterFBX](ue_ue.ExporterFBX.md).[StaticClass](ue_ue.ExporterFBX.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:20352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20352)

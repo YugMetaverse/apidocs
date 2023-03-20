@@ -75,10 +75,6 @@
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[constructor](ue_ue.K2Node_ConstructObjectFromClass.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:41157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41157)
-
 ## Properties
 
 ### AdvancedPinDisplay
@@ -88,10 +84,6 @@
 #### Inherited from
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[AdvancedPinDisplay](ue_ue.K2Node_ConstructObjectFromClass.md#advancedpindisplay)
-
-#### Defined in
-
-[ue/ue.d.ts:1067](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1067)
 
 ___
 
@@ -103,10 +95,6 @@ ___
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[DeprecatedPins](ue_ue.K2Node_ConstructObjectFromClass.md#deprecatedpins)
 
-#### Defined in
-
-[ue/ue.d.ts:1062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1062)
-
 ___
 
 ### EnabledState
@@ -116,10 +104,6 @@ ___
 #### Inherited from
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[EnabledState](ue_ue.K2Node_ConstructObjectFromClass.md#enabledstate)
-
-#### Defined in
-
-[ue/ue.d.ts:1068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1068)
 
 ___
 
@@ -131,10 +115,6 @@ ___
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[ErrorMsg](ue_ue.K2Node_ConstructObjectFromClass.md#errormsg)
 
-#### Defined in
-
-[ue/ue.d.ts:1081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1081)
-
 ___
 
 ### ErrorType
@@ -144,10 +124,6 @@ ___
 #### Inherited from
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[ErrorType](ue_ue.K2Node_ConstructObjectFromClass.md#errortype)
-
-#### Defined in
-
-[ue/ue.d.ts:1080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1080)
 
 ___
 
@@ -159,10 +135,6 @@ ___
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[NodeComment](ue_ue.K2Node_ConstructObjectFromClass.md#nodecomment)
 
-#### Defined in
-
-[ue/ue.d.ts:1079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1079)
-
 ___
 
 ### NodeGuid
@@ -172,10 +144,6 @@ ___
 #### Inherited from
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[NodeGuid](ue_ue.K2Node_ConstructObjectFromClass.md#nodeguid)
-
-#### Defined in
-
-[ue/ue.d.ts:1082](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1082)
 
 ___
 
@@ -187,10 +155,6 @@ ___
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[NodeHeight](ue_ue.K2Node_ConstructObjectFromClass.md#nodeheight)
 
-#### Defined in
-
-[ue/ue.d.ts:1066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1066)
-
 ___
 
 ### NodePosX
@@ -200,10 +164,6 @@ ___
 #### Inherited from
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[NodePosX](ue_ue.K2Node_ConstructObjectFromClass.md#nodeposx)
-
-#### Defined in
-
-[ue/ue.d.ts:1063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1063)
 
 ___
 
@@ -215,10 +175,6 @@ ___
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[NodePosY](ue_ue.K2Node_ConstructObjectFromClass.md#nodeposy)
 
-#### Defined in
-
-[ue/ue.d.ts:1064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1064)
-
 ___
 
 ### NodeUpgradeMessage
@@ -228,10 +184,6 @@ ___
 #### Inherited from
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[NodeUpgradeMessage](ue_ue.K2Node_ConstructObjectFromClass.md#nodeupgrademessage)
-
-#### Defined in
-
-[ue/ue.d.ts:1078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1078)
 
 ___
 
@@ -243,10 +195,6 @@ ___
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[NodeWidth](ue_ue.K2Node_ConstructObjectFromClass.md#nodewidth)
 
-#### Defined in
-
-[ue/ue.d.ts:1065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1065)
-
 ___
 
 ### \_\_tid\_EdGraphNode\_\_
@@ -256,10 +204,6 @@ ___
 #### Inherited from
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[__tid_EdGraphNode__](ue_ue.K2Node_ConstructObjectFromClass.md#__tid_edgraphnode__)
-
-#### Defined in
-
-[ue/ue.d.ts:1087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1087)
 
 ___
 
@@ -271,19 +215,11 @@ ___
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[__tid_K2Node_ConstructObjectFromClass__](ue_ue.K2Node_ConstructObjectFromClass.md#__tid_k2node_constructobjectfromclass__)
 
-#### Defined in
-
-[ue/ue.d.ts:41088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41088)
-
 ___
 
 ### \_\_tid\_K2Node\_CreateDragDropOperation\_\_
 
 • **\_\_tid\_K2Node\_CreateDragDropOperation\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:41162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41162)
 
 ___
 
@@ -295,10 +231,6 @@ ___
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[__tid_K2Node__](ue_ue.K2Node_ConstructObjectFromClass.md#__tid_k2node__)
 
-#### Defined in
-
-[ue/ue.d.ts:16749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16749)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -308,10 +240,6 @@ ___
 #### Inherited from
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[__tid_Object__](ue_ue.K2Node_ConstructObjectFromClass.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -323,10 +251,6 @@ ___
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[bCanRenameNode](ue_ue.K2Node_ConstructObjectFromClass.md#bcanrenamenode)
 
-#### Defined in
-
-[ue/ue.d.ts:1077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1077)
-
 ___
 
 ### bCanResizeNode
@@ -336,10 +260,6 @@ ___
 #### Inherited from
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[bCanResizeNode](ue_ue.K2Node_ConstructObjectFromClass.md#bcanresizenode)
-
-#### Defined in
-
-[ue/ue.d.ts:1072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1072)
 
 ___
 
@@ -351,10 +271,6 @@ ___
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[bCommentBubbleMakeVisible](ue_ue.K2Node_ConstructObjectFromClass.md#bcommentbubblemakevisible)
 
-#### Defined in
-
-[ue/ue.d.ts:1076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1076)
-
 ___
 
 ### bCommentBubblePinned
@@ -364,10 +280,6 @@ ___
 #### Inherited from
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[bCommentBubblePinned](ue_ue.K2Node_ConstructObjectFromClass.md#bcommentbubblepinned)
-
-#### Defined in
-
-[ue/ue.d.ts:1074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1074)
 
 ___
 
@@ -379,10 +291,6 @@ ___
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[bCommentBubbleVisible](ue_ue.K2Node_ConstructObjectFromClass.md#bcommentbubblevisible)
 
-#### Defined in
-
-[ue/ue.d.ts:1075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1075)
-
 ___
 
 ### bDisplayAsDisabled
@@ -392,10 +300,6 @@ ___
 #### Inherited from
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[bDisplayAsDisabled](ue_ue.K2Node_ConstructObjectFromClass.md#bdisplayasdisabled)
-
-#### Defined in
-
-[ue/ue.d.ts:1069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1069)
 
 ___
 
@@ -407,10 +311,6 @@ ___
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[bHasCompilerMessage](ue_ue.K2Node_ConstructObjectFromClass.md#bhascompilermessage)
 
-#### Defined in
-
-[ue/ue.d.ts:1073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1073)
-
 ___
 
 ### bIsNodeEnabled
@@ -421,10 +321,6 @@ ___
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[bIsNodeEnabled](ue_ue.K2Node_ConstructObjectFromClass.md#bisnodeenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:1071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1071)
-
 ___
 
 ### bUserSetEnabledState
@@ -434,10 +330,6 @@ ___
 #### Inherited from
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[bUserSetEnabledState](ue_ue.K2Node_ConstructObjectFromClass.md#busersetenabledstate)
-
-#### Defined in
-
-[ue/ue.d.ts:1070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1070)
 
 ## Methods
 
@@ -463,10 +355,6 @@ ___
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[CreateDefaultSubobject](ue_ue.K2Node_ConstructObjectFromClass.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -487,10 +375,6 @@ ___
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[ExecuteUbergraph](ue_ue.K2Node_ConstructObjectFromClass.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -504,10 +388,6 @@ ___
 #### Inherited from
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[GetClass](ue_ue.K2Node_ConstructObjectFromClass.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -523,10 +403,6 @@ ___
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[GetName](ue_ue.K2Node_ConstructObjectFromClass.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -541,10 +417,6 @@ ___
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[GetOuter](ue_ue.K2Node_ConstructObjectFromClass.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -558,10 +430,6 @@ ___
 #### Inherited from
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[GetWorld](ue_ue.K2Node_ConstructObjectFromClass.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -584,10 +452,6 @@ ___
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[Find](ue_ue.K2Node_ConstructObjectFromClass.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:41159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41159)
-
 ___
 
 ### Load
@@ -608,10 +472,6 @@ ___
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[Load](ue_ue.K2Node_ConstructObjectFromClass.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:41160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41160)
-
 ___
 
 ### StaticClass
@@ -625,7 +485,3 @@ ___
 #### Overrides
 
 [K2Node_ConstructObjectFromClass](ue_ue.K2Node_ConstructObjectFromClass.md).[StaticClass](ue_ue.K2Node_ConstructObjectFromClass.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:41158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41158)

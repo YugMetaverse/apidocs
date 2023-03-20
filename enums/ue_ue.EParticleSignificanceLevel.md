@@ -22,19 +22,11 @@
 
 • **Critical** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6732)
-
 ___
 
 ### EParticleSignificanceLevel\_MAX
 
 • **EParticleSignificanceLevel\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6732)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **High** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6732)
-
 ___
 
 ### Low
 
 • **Low** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6732)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **Medium** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6732)
-
 ___
 
 ### Num
 
 • **Num** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6732)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6732)

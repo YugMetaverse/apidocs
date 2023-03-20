@@ -29,10 +29,6 @@
 
 • **new EnvDirection**()
 
-#### Defined in
-
-[ue/ue.d.ts:34360](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34360)
-
 • **new EnvDirection**(`LineFrom`, `LineTo`, `Rotation`, `DirMode`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `Rotation` | [`Class`](ue_ue.Class.md) |
 | `DirMode` | [`EEnvDirection`](../enums/ue_ue.EEnvDirection.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:34361](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34361)
-
 ## Properties
 
 ### DirMode
 
 • **DirMode**: [`EEnvDirection`](../enums/ue_ue.EEnvDirection.md)
-
-#### Defined in
-
-[ue/ue.d.ts:34365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34365)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **LineFrom**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:34362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34362)
-
 ___
 
 ### LineTo
 
 • **LineTo**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:34363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34363)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **Rotation**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:34364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34364)
-
 ___
 
 ### \_\_tid\_EnvDirection\_\_
 
 • `Private` **\_\_tid\_EnvDirection\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:34371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34371)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:34369](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34369)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:34370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34370)

@@ -42,10 +42,6 @@
 
 [StaticParameterBase](ue_ue.StaticParameterBase.md).[constructor](ue_ue.StaticParameterBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:2061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2061)
-
 • **new StaticComponentMaskParameter**(`R`, `G`, `B`, `A`)
 
 #### Parameters
@@ -61,29 +57,17 @@
 
 [StaticParameterBase](ue_ue.StaticParameterBase.md).[constructor](ue_ue.StaticParameterBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:2062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2062)
-
 ## Properties
 
 ### A
 
 • **A**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:2066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2066)
-
 ___
 
 ### B
 
 • **B**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2065)
 
 ___
 
@@ -95,19 +79,11 @@ ___
 
 [StaticParameterBase](ue_ue.StaticParameterBase.md).[ExpressionGUID](ue_ue.StaticParameterBase.md#expressionguid)
 
-#### Defined in
-
-[ue/ue.d.ts:2039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2039)
-
 ___
 
 ### G
 
 • **G**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2064)
 
 ___
 
@@ -119,29 +95,17 @@ ___
 
 [StaticParameterBase](ue_ue.StaticParameterBase.md).[ParameterInfo](ue_ue.StaticParameterBase.md#parameterinfo)
 
-#### Defined in
-
-[ue/ue.d.ts:2037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2037)
-
 ___
 
 ### R
 
 • **R**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:2063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2063)
-
 ___
 
 ### \_\_tid\_StaticComponentMaskParameter\_\_
 
 • `Private` **\_\_tid\_StaticComponentMaskParameter\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2072)
 
 ___
 
@@ -152,10 +116,6 @@ ___
 #### Inherited from
 
 [StaticParameterBase](ue_ue.StaticParameterBase.md).[bOverride](ue_ue.StaticParameterBase.md#boverride)
-
-#### Defined in
-
-[ue/ue.d.ts:2038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2038)
 
 ## Methods
 
@@ -175,10 +135,6 @@ use StaticStruct instead.
 
 [StaticParameterBase](ue_ue.StaticParameterBase.md).[StaticClass](ue_ue.StaticParameterBase.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:2070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2070)
-
 ___
 
 ### StaticStruct
@@ -192,7 +148,3 @@ ___
 #### Overrides
 
 [StaticParameterBase](ue_ue.StaticParameterBase.md).[StaticStruct](ue_ue.StaticParameterBase.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:2071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2071)

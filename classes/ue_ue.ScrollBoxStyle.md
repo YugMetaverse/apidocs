@@ -39,10 +39,6 @@
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[constructor](ue_ue.SlateWidgetStyle.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:59978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59978)
-
 • **new ScrollBoxStyle**(`TopShadowBrush`, `BottomShadowBrush`, `LeftShadowBrush`, `RightShadowBrush`)
 
 #### Parameters
@@ -58,19 +54,11 @@
 
 UE.SlateWidgetStyle.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:59979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59979)
-
 ## Properties
 
 ### BottomShadowBrush
 
 • **BottomShadowBrush**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:59981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59981)
 
 ___
 
@@ -78,19 +66,11 @@ ___
 
 • **LeftShadowBrush**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:59982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59982)
-
 ___
 
 ### RightShadowBrush
 
 • **RightShadowBrush**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:59983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59983)
 
 ___
 
@@ -98,19 +78,11 @@ ___
 
 • **TopShadowBrush**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:59980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59980)
-
 ___
 
 ### \_\_tid\_ScrollBoxStyle\_\_
 
 • `Private` **\_\_tid\_ScrollBoxStyle\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59989)
 
 ## Methods
 
@@ -130,10 +102,6 @@ use StaticStruct instead.
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[StaticClass](ue_ue.SlateWidgetStyle.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:59987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59987)
-
 ___
 
 ### StaticStruct
@@ -147,7 +115,3 @@ ___
 #### Overrides
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[StaticStruct](ue_ue.SlateWidgetStyle.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:59988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59988)

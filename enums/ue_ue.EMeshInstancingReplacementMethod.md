@@ -19,19 +19,11 @@
 
 • **EMeshInstancingReplacementMethod\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34048](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34048)
-
 ___
 
 ### KeepOriginalActorsAsEditorOnly
 
 • **KeepOriginalActorsAsEditorOnly** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34048](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34048)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **RemoveOriginalActors** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34048](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34048)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34048](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34048)

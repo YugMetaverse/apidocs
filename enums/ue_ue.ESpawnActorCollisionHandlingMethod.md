@@ -22,19 +22,11 @@
 
 • **AdjustIfPossibleButAlwaysSpawn** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10284)
-
 ___
 
 ### AdjustIfPossibleButDontSpawnIfColliding
 
 • **AdjustIfPossibleButDontSpawnIfColliding** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10284)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **AlwaysSpawn** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10284)
-
 ___
 
 ### DontSpawnIfColliding
 
 • **DontSpawnIfColliding** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10284)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **ESpawnActorCollisionHandlingMethod\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10284)
-
 ___
 
 ### Undefined
 
 • **Undefined** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10284)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10284)

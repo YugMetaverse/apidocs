@@ -75,19 +75,11 @@
 
 [DataAsset](ue_ue.DataAsset.md).[constructor](ue_ue.DataAsset.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:14446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14446)
-
 ## Properties
 
 ### ActorSnapSound
 
 • **ActorSnapSound**: [`SoundBase`](ue_ue.SoundBase.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14453)
 
 ___
 
@@ -95,19 +87,11 @@ ___
 
 • **CurrentRotationIndicatorMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14464)
-
 ___
 
 ### FreeRotationHandleMesh
 
 • **FreeRotationHandleMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14465)
 
 ___
 
@@ -115,19 +99,11 @@ ___
 
 • **GizmoHandleDropSound**: [`SoundBase`](ue_ue.SoundBase.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14448)
-
 ___
 
 ### GizmoHandleSelectedSound
 
 • **GizmoHandleSelectedSound**: [`SoundBase`](ue_ue.SoundBase.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14447)
 
 ___
 
@@ -135,29 +111,17 @@ ___
 
 • **GridMaterial**: [`MaterialInterface`](ue_ue.MaterialInterface.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14466](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14466)
-
 ___
 
 ### GridMesh
 
 • **GridMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14456](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14456)
-
 ___
 
 ### GridSnapSound
 
 • **GridSnapSound**: [`SoundBase`](ue_ue.SoundBase.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14452)
 
 ___
 
@@ -169,19 +133,11 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[NativeClass](ue_ue.DataAsset.md#nativeclass)
 
-#### Defined in
-
-[ue/ue.d.ts:724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L724)
-
 ___
 
 ### PlaneTranslationHandleMesh
 
 • **PlaneTranslationHandleMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14460](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14460)
 
 ___
 
@@ -189,19 +145,11 @@ ___
 
 • **RedoSound**: [`SoundBase`](ue_ue.SoundBase.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14455)
-
 ___
 
 ### RotationHandleMesh
 
 • **RotationHandleMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14461](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14461)
 
 ___
 
@@ -209,19 +157,11 @@ ___
 
 • **RotationHandleSelectedMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14462](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14462)
-
 ___
 
 ### ScaleHandleMesh
 
 • **ScaleHandleMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14459](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14459)
 
 ___
 
@@ -229,19 +169,11 @@ ___
 
 • **SelectionChangeSound**: [`SoundBase`](ue_ue.SoundBase.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14449)
-
 ___
 
 ### SelectionDropSound
 
 • **SelectionDropSound**: [`SoundBase`](ue_ue.SoundBase.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14450)
 
 ___
 
@@ -249,19 +181,11 @@ ___
 
 • **SelectionStartDragSound**: [`SoundBase`](ue_ue.SoundBase.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14451)
-
 ___
 
 ### StartRotationIndicatorMesh
 
 • **StartRotationIndicatorMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14463)
 
 ___
 
@@ -269,19 +193,11 @@ ___
 
 • **TransformGizmoMaterial**: [`MaterialInterface`](ue_ue.MaterialInterface.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14467](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14467)
-
 ___
 
 ### TranslationHandleMesh
 
 • **TranslationHandleMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14457)
 
 ___
 
@@ -289,29 +205,17 @@ ___
 
 • **TranslucentTransformGizmoMaterial**: [`MaterialInterface`](ue_ue.MaterialInterface.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14468)
-
 ___
 
 ### UndoSound
 
 • **UndoSound**: [`SoundBase`](ue_ue.SoundBase.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14454)
-
 ___
 
 ### UniformScaleHandleMesh
 
 • **UniformScaleHandleMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14458](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14458)
 
 ___
 
@@ -323,10 +227,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[__tid_DataAsset__](ue_ue.DataAsset.md#__tid_dataasset__)
 
-#### Defined in
-
-[ue/ue.d.ts:729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L729)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -337,19 +237,11 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[__tid_Object__](ue_ue.DataAsset.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ViewportInteractionAssetContainer\_\_
 
 • **\_\_tid\_ViewportInteractionAssetContainer\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14473](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14473)
 
 ## Methods
 
@@ -375,10 +267,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[CreateDefaultSubobject](ue_ue.DataAsset.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -399,10 +287,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[ExecuteUbergraph](ue_ue.DataAsset.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -416,10 +300,6 @@ ___
 #### Inherited from
 
 [DataAsset](ue_ue.DataAsset.md).[GetClass](ue_ue.DataAsset.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -435,10 +315,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[GetName](ue_ue.DataAsset.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -453,10 +329,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[GetOuter](ue_ue.DataAsset.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -470,10 +342,6 @@ ___
 #### Inherited from
 
 [DataAsset](ue_ue.DataAsset.md).[GetWorld](ue_ue.DataAsset.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -496,10 +364,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[Find](ue_ue.DataAsset.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:14470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14470)
-
 ___
 
 ### Load
@@ -520,10 +384,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[Load](ue_ue.DataAsset.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:14471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14471)
-
 ___
 
 ### StaticClass
@@ -537,7 +397,3 @@ ___
 #### Overrides
 
 [DataAsset](ue_ue.DataAsset.md).[StaticClass](ue_ue.DataAsset.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:14469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14469)

@@ -71,19 +71,11 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[constructor](ue_ue.BlueprintFunctionLibrary.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:22889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22889)
-
 ## Properties
 
 ### \_\_tid\_AutomationBlueprintFunctionLibrary\_\_
 
 • **\_\_tid\_AutomationBlueprintFunctionLibrary\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22913)
 
 ___
 
@@ -95,10 +87,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_BlueprintFunctionLibrary__](ue_ue.BlueprintFunctionLibrary.md#__tid_blueprintfunctionlibrary__)
 
-#### Defined in
-
-[ue/ue.d.ts:13418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13418)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -108,10 +96,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_Object__](ue_ue.BlueprintFunctionLibrary.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -137,10 +121,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[CreateDefaultSubobject](ue_ue.BlueprintFunctionLibrary.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -161,10 +141,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[ExecuteUbergraph](ue_ue.BlueprintFunctionLibrary.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -178,10 +154,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetClass](ue_ue.BlueprintFunctionLibrary.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -197,10 +169,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetName](ue_ue.BlueprintFunctionLibrary.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -215,10 +183,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetOuter](ue_ue.BlueprintFunctionLibrary.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -232,10 +196,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetWorld](ue_ue.BlueprintFunctionLibrary.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -255,10 +215,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:22890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22890)
-
 ___
 
 ### AreAutomatedTestsRunning
@@ -268,10 +224,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22891)
 
 ___
 
@@ -290,10 +242,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:22892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22892)
-
 ___
 
 ### DisableStatGroup
@@ -311,10 +259,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:22893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22893)
-
 ___
 
 ### EnableStatGroup
@@ -331,10 +275,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:22894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22894)
 
 ___
 
@@ -357,10 +297,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Find](ue_ue.BlueprintFunctionLibrary.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:22910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22910)
-
 ___
 
 ### GetDefaultScreenshotOptionsForGameplay
@@ -377,10 +313,6 @@ ___
 #### Returns
 
 [`AutomationScreenshotOptions`](ue_ue.AutomationScreenshotOptions.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22895)
 
 ___
 
@@ -399,10 +331,6 @@ ___
 
 [`AutomationScreenshotOptions`](ue_ue.AutomationScreenshotOptions.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22896)
-
 ___
 
 ### GetStatCallCount
@@ -418,10 +346,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22897)
 
 ___
 
@@ -439,10 +363,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22898)
-
 ___
 
 ### GetStatExcMax
@@ -458,10 +378,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22899)
 
 ___
 
@@ -479,10 +395,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22900)
-
 ___
 
 ### GetStatIncMax
@@ -498,10 +410,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22901)
 
 ___
 
@@ -523,10 +431,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Load](ue_ue.BlueprintFunctionLibrary.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:22911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22911)
-
 ___
 
 ### SetScalabilityQualityLevelRelativeToMax
@@ -544,10 +448,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:22902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22902)
-
 ___
 
 ### SetScalabilityQualityToEpic
@@ -563,10 +463,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:22903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22903)
 
 ___
 
@@ -584,10 +480,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:22904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22904)
-
 ___
 
 ### StaticClass
@@ -601,10 +493,6 @@ ___
 #### Overrides
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[StaticClass](ue_ue.BlueprintFunctionLibrary.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:22909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22909)
 
 ___
 
@@ -625,10 +513,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:22905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22905)
 
 ___
 
@@ -651,10 +535,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:22906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22906)
-
 ___
 
 ### TakeAutomationScreenshotOfUI
@@ -673,10 +553,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:22907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22907)
 
 ___
 
@@ -700,7 +576,3 @@ ___
 #### Returns
 
 [`AutomationEditorTask`](ue_ue.AutomationEditorTask.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22908)

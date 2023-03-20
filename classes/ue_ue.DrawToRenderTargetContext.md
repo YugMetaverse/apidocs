@@ -26,10 +26,6 @@
 
 • **new DrawToRenderTargetContext**()
 
-#### Defined in
-
-[ue/ue.d.ts:43070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43070)
-
 • **new DrawToRenderTargetContext**(`RenderTarget`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `RenderTarget` | [`TextureRenderTarget2D`](ue_ue.TextureRenderTarget2D.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:43071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43071)
-
 ## Properties
 
 ### RenderTarget
 
 • **RenderTarget**: [`TextureRenderTarget2D`](ue_ue.TextureRenderTarget2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43072)
-
 ___
 
 ### \_\_tid\_DrawToRenderTargetContext\_\_
 
 • `Private` **\_\_tid\_DrawToRenderTargetContext\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43078)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43076)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43077)

@@ -28,10 +28,6 @@
 
 • **new ComponentKey**()
 
-#### Defined in
-
-[ue/ue.d.ts:4319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4319)
-
 • **new ComponentKey**(`OwnerClass`, `SCSVariableName`, `AssociatedGuid`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `SCSVariableName` | `string` |
 | `AssociatedGuid` | [`Guid`](ue_ue_s.Guid.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:4320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4320)
-
 ## Properties
 
 ### AssociatedGuid
 
 • **AssociatedGuid**: [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4323)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **OwnerClass**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4321)
-
 ___
 
 ### SCSVariableName
 
 • **SCSVariableName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:4322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4322)
-
 ___
 
 ### \_\_tid\_ComponentKey\_\_
 
 • `Private` **\_\_tid\_ComponentKey\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4329)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4327)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4328)

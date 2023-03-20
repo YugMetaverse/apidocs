@@ -25,19 +25,11 @@
 
 • **new StaticMeshComponentLODInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:10542](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10542)
-
 ## Properties
 
 ### \_\_tid\_StaticMeshComponentLODInfo\_\_
 
 • `Private` **\_\_tid\_StaticMeshComponentLODInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10548)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10546)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10547)

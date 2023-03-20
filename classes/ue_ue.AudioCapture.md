@@ -56,19 +56,11 @@
 
 [AudioGenerator](ue_ue.AudioGenerator.md).[constructor](ue_ue.AudioGenerator.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:22294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22294)
-
 ## Properties
 
 ### \_\_tid\_AudioCapture\_\_
 
 • **\_\_tid\_AudioCapture\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22303)
 
 ___
 
@@ -80,10 +72,6 @@ ___
 
 [AudioGenerator](ue_ue.AudioGenerator.md).[__tid_AudioGenerator__](ue_ue.AudioGenerator.md#__tid_audiogenerator__)
 
-#### Defined in
-
-[ue/ue.d.ts:22276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22276)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -93,10 +81,6 @@ ___
 #### Inherited from
 
 [AudioGenerator](ue_ue.AudioGenerator.md).[__tid_Object__](ue_ue.AudioGenerator.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -122,10 +106,6 @@ ___
 
 [AudioGenerator](ue_ue.AudioGenerator.md).[CreateDefaultSubobject](ue_ue.AudioGenerator.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -146,10 +126,6 @@ ___
 
 [AudioGenerator](ue_ue.AudioGenerator.md).[ExecuteUbergraph](ue_ue.AudioGenerator.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetAudioCaptureDeviceInfo
@@ -166,10 +142,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:22295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22295)
-
 ___
 
 ### GetClass
@@ -183,10 +155,6 @@ ___
 #### Inherited from
 
 [AudioGenerator](ue_ue.AudioGenerator.md).[GetClass](ue_ue.AudioGenerator.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -202,10 +170,6 @@ ___
 
 [AudioGenerator](ue_ue.AudioGenerator.md).[GetName](ue_ue.AudioGenerator.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -219,10 +183,6 @@ ___
 #### Inherited from
 
 [AudioGenerator](ue_ue.AudioGenerator.md).[GetOuter](ue_ue.AudioGenerator.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -238,10 +198,6 @@ ___
 
 [AudioGenerator](ue_ue.AudioGenerator.md).[GetWorld](ue_ue.AudioGenerator.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### IsCapturingAudio
@@ -251,10 +207,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22296)
 
 ___
 
@@ -266,10 +218,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:22297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22297)
-
 ___
 
 ### StopCapturingAudio
@@ -279,10 +227,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:22298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22298)
 
 ___
 
@@ -305,10 +249,6 @@ ___
 
 [AudioGenerator](ue_ue.AudioGenerator.md).[Find](ue_ue.AudioGenerator.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:22300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22300)
-
 ___
 
 ### Load
@@ -329,10 +269,6 @@ ___
 
 [AudioGenerator](ue_ue.AudioGenerator.md).[Load](ue_ue.AudioGenerator.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:22301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22301)
-
 ___
 
 ### StaticClass
@@ -346,7 +282,3 @@ ___
 #### Overrides
 
 [AudioGenerator](ue_ue.AudioGenerator.md).[StaticClass](ue_ue.AudioGenerator.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:22299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22299)

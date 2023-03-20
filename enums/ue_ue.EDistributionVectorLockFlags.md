@@ -22,19 +22,11 @@
 
 • **EDVLF\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31049)
-
 ___
 
 ### EDVLF\_None
 
 • **EDVLF\_None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31049)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **EDVLF\_XY** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31049)
-
 ___
 
 ### EDVLF\_XYZ
 
 • **EDVLF\_XYZ** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31049)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **EDVLF\_XZ** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31049)
-
 ___
 
 ### EDVLF\_YZ
 
 • **EDVLF\_YZ** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31049)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31049)

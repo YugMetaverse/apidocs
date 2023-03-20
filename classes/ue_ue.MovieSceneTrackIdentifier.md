@@ -26,10 +26,6 @@
 
 • **new MovieSceneTrackIdentifier**()
 
-#### Defined in
-
-[ue/ue.d.ts:11043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11043)
-
 • **new MovieSceneTrackIdentifier**(`Value`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Value` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:11044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11044)
-
 ## Properties
 
 ### Value
 
 • **Value**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11045)
-
 ___
 
 ### \_\_tid\_MovieSceneTrackIdentifier\_\_
 
 • `Private` **\_\_tid\_MovieSceneTrackIdentifier\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11051](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11051)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11049)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11050](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11050)

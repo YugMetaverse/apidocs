@@ -20,19 +20,11 @@
 
 • **AspectRatio\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10162)
-
 ___
 
 ### AspectRatio\_MaintainXFOV
 
 • **AspectRatio\_MaintainXFOV** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10162)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **AspectRatio\_MaintainYFOV** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10162)
-
 ___
 
 ### AspectRatio\_MajorAxisFOV
 
 • **AspectRatio\_MajorAxisFOV** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10162)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10162)

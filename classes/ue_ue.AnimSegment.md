@@ -31,10 +31,6 @@
 
 • **new AnimSegment**()
 
-#### Defined in
-
-[ue/ue.d.ts:2856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2856)
-
 • **new AnimSegment**(`AnimReference`, `StartPos`, `AnimStartTime`, `AnimEndTime`, `AnimPlayRate`, `LoopingCount`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `AnimPlayRate` | `number` |
 | `LoopingCount` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:2857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2857)
-
 ## Properties
 
 ### AnimEndTime
 
 • **AnimEndTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2861)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **AnimPlayRate**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2862)
-
 ___
 
 ### AnimReference
 
 • **AnimReference**: [`AnimSequenceBase`](ue_ue.AnimSequenceBase.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2858)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **AnimStartTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2860)
-
 ___
 
 ### LoopingCount
 
 • **LoopingCount**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2863)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **StartPos**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2859](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2859)
-
 ___
 
 ### \_\_tid\_AnimSegment\_\_
 
 • `Private` **\_\_tid\_AnimSegment\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2869)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2867)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2868)

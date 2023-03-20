@@ -20,19 +20,11 @@
 
 • **All** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31747)
-
 ___
 
 ### CenterPolygonOnly
 
 • **CenterPolygonOnly** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31747)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **EInsetPolygonsMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31747)
-
 ___
 
 ### SidePolygonsOnly
 
 • **SidePolygonsOnly** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31747)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31747)

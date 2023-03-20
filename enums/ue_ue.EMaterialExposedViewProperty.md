@@ -30,19 +30,11 @@
 
 • **MEVP\_BufferSize** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34022)
-
 ___
 
 ### MEVP\_FieldOfView
 
 • **MEVP\_FieldOfView** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34022)
 
 ___
 
@@ -50,19 +42,11 @@ ___
 
 • **MEVP\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34022)
-
 ___
 
 ### MEVP\_PreExposure
 
 • **MEVP\_PreExposure** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34022)
 
 ___
 
@@ -70,19 +54,11 @@ ___
 
 • **MEVP\_RuntimeVirtualTextureOutputDerivative** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34022)
-
 ___
 
 ### MEVP\_RuntimeVirtualTextureOutputLevel
 
 • **MEVP\_RuntimeVirtualTextureOutputLevel** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34022)
 
 ___
 
@@ -90,19 +66,11 @@ ___
 
 • **MEVP\_TanHalfFieldOfView** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34022)
-
 ___
 
 ### MEVP\_TemporalSampleCount
 
 • **MEVP\_TemporalSampleCount** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34022)
 
 ___
 
@@ -110,19 +78,11 @@ ___
 
 • **MEVP\_TemporalSampleIndex** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34022)
-
 ___
 
 ### MEVP\_TemporalSampleOffset
 
 • **MEVP\_TemporalSampleOffset** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34022)
 
 ___
 
@@ -130,19 +90,11 @@ ___
 
 • **MEVP\_ViewSize** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34022)
-
 ___
 
 ### MEVP\_ViewportOffset
 
 • **MEVP\_ViewportOffset** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34022)
 
 ___
 
@@ -150,26 +102,14 @@ ___
 
 • **MEVP\_WorldSpaceCameraPosition** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34022)
-
 ___
 
 ### MEVP\_WorldSpaceViewPosition
 
 • **MEVP\_WorldSpaceViewPosition** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34022)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34022)

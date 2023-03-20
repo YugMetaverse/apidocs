@@ -27,10 +27,6 @@
 
 • **new TagAndValue**()
 
-#### Defined in
-
-[ue/ue.d.ts:21832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21832)
-
 • **new TagAndValue**(`Tag`, `Value`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Tag` | `string` |
 | `Value` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:21833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21833)
-
 ## Properties
 
 ### Tag
 
 • **Tag**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:21834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21834)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Value**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:21835](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21835)
-
 ___
 
 ### \_\_tid\_TagAndValue\_\_
 
 • `Private` **\_\_tid\_TagAndValue\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21841)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21839)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21840)

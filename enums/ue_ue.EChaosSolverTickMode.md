@@ -21,19 +21,11 @@
 
 • **EChaosSolverTickMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31394)
-
 ___
 
 ### Fixed
 
 • **Fixed** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31394)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Variable** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31394)
-
 ___
 
 ### VariableCapped
 
 • **VariableCapped** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31394)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **VariableCappedWithTarget** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31394)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31394)

@@ -27,10 +27,6 @@
 
 • **new BoneMirrorInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:2606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2606)
-
 • **new BoneMirrorInfo**(`SourceIndex`, `BoneFlipAxis`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `SourceIndex` | `number` |
 | `BoneFlipAxis` | [`EAxis`](../enums/ue_ue.EAxis.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:2607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2607)
-
 ## Properties
 
 ### BoneFlipAxis
 
 • **BoneFlipAxis**: [`EAxis`](../enums/ue_ue.EAxis.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2609)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **SourceIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2608)
-
 ___
 
 ### \_\_tid\_BoneMirrorInfo\_\_
 
 • `Private` **\_\_tid\_BoneMirrorInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2615)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2613)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2614)

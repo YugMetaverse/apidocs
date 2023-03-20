@@ -21,19 +21,11 @@
 
 • **ELogTimes\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33287)
-
 ___
 
 ### Local
 
 • **Local** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33287)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33287)
-
 ___
 
 ### SinceGStartTime
 
 • **SinceGStartTime** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33287)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **UTC** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33287)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33287)

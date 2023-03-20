@@ -41,10 +41,6 @@
 
 [KShapeElem](ue_ue.KShapeElem.md).[constructor](ue_ue.KShapeElem.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:3411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3411)
-
 • **new KSphereElem**(`TM`, `Center`, `Radius`)
 
 #### Parameters
@@ -59,19 +55,11 @@
 
 [KShapeElem](ue_ue.KShapeElem.md).[constructor](ue_ue.KShapeElem.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:3412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3412)
-
 ## Properties
 
 ### Center
 
 • **Center**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3414)
 
 ___
 
@@ -83,19 +71,11 @@ ___
 
 [KShapeElem](ue_ue.KShapeElem.md).[Name](ue_ue.KShapeElem.md#name)
 
-#### Defined in
-
-[ue/ue.d.ts:3373](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3373)
-
 ___
 
 ### Radius
 
 • **Radius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3415)
 
 ___
 
@@ -107,29 +87,17 @@ ___
 
 [KShapeElem](ue_ue.KShapeElem.md).[RestOffset](ue_ue.KShapeElem.md#restoffset)
 
-#### Defined in
-
-[ue/ue.d.ts:3372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3372)
-
 ___
 
 ### TM
 
 • **TM**: [`Matrix`](ue_ue.Matrix.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3413)
-
 ___
 
 ### \_\_tid\_KSphereElem\_\_
 
 • `Private` **\_\_tid\_KSphereElem\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3421)
 
 ___
 
@@ -140,10 +108,6 @@ ___
 #### Inherited from
 
 [KShapeElem](ue_ue.KShapeElem.md).[bContributeToMass](ue_ue.KShapeElem.md#bcontributetomass)
-
-#### Defined in
-
-[ue/ue.d.ts:3374](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3374)
 
 ## Methods
 
@@ -163,10 +127,6 @@ use StaticStruct instead.
 
 [KShapeElem](ue_ue.KShapeElem.md).[StaticClass](ue_ue.KShapeElem.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:3419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3419)
-
 ___
 
 ### StaticStruct
@@ -180,7 +140,3 @@ ___
 #### Overrides
 
 [KShapeElem](ue_ue.KShapeElem.md).[StaticStruct](ue_ue.KShapeElem.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:3420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3420)

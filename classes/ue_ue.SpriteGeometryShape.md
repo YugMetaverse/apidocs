@@ -31,10 +31,6 @@
 
 • **new SpriteGeometryShape**()
 
-#### Defined in
-
-[ue/ue.d.ts:54469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54469)
-
 • **new SpriteGeometryShape**(`ShapeType`, `Vertices`, `BoxSize`, `BoxPosition`, `Rotation`, `bNegativeWinding`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `Rotation` | `number` |
 | `bNegativeWinding` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:54470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54470)
-
 ## Properties
 
 ### BoxPosition
 
 • **BoxPosition**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54474)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **BoxSize**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54473](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54473)
-
 ___
 
 ### Rotation
 
 • **Rotation**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:54475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54475)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **ShapeType**: [`ESpriteShapeType`](../enums/ue_ue.ESpriteShapeType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54471)
-
 ___
 
 ### Vertices
 
 • **Vertices**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Vector2D`](ue_ue_s.Vector2D.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:54472](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54472)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • `Private` **\_\_tid\_SpriteGeometryShape\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:54482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54482)
-
 ___
 
 ### bNegativeWinding
 
 • **bNegativeWinding**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54476)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54480)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54481)

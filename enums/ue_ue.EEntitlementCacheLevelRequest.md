@@ -19,19 +19,11 @@
 
 • **Disk** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33833)
-
 ___
 
 ### EEntitlementCacheLevelRequest\_MAX
 
 • **EEntitlementCacheLevelRequest\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33833)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Memory** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33833)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33833)

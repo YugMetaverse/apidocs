@@ -21,19 +21,11 @@
 
 • **ECollisionEnabled\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L596)
-
 ___
 
 ### NoCollision
 
 • **NoCollision** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L596)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **PhysicsOnly** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L596)
-
 ___
 
 ### QueryAndPhysics
 
 • **QueryAndPhysics** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L596)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **QueryOnly** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L596)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L596)

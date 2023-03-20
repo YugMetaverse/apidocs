@@ -61,10 +61,6 @@
 
 [UserDefinedStruct](ue_ue.UserDefinedStruct.md).[constructor](ue_ue.UserDefinedStruct.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:15972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15972)
-
 ## Properties
 
 ### EditorData
@@ -74,10 +70,6 @@
 #### Inherited from
 
 [UserDefinedStruct](ue_ue.UserDefinedStruct.md).[EditorData](ue_ue.UserDefinedStruct.md#editordata)
-
-#### Defined in
-
-[ue/ue.d.ts:15961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15961)
 
 ___
 
@@ -89,10 +81,6 @@ ___
 
 [UserDefinedStruct](ue_ue.UserDefinedStruct.md).[ErrorMessage](ue_ue.UserDefinedStruct.md#errormessage)
 
-#### Defined in
-
-[ue/ue.d.ts:15960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15960)
-
 ___
 
 ### Guid
@@ -102,10 +90,6 @@ ___
 #### Inherited from
 
 [UserDefinedStruct](ue_ue.UserDefinedStruct.md).[Guid](ue_ue.UserDefinedStruct.md#guid)
-
-#### Defined in
-
-[ue/ue.d.ts:15963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15963)
 
 ___
 
@@ -117,10 +101,6 @@ ___
 
 [UserDefinedStruct](ue_ue.UserDefinedStruct.md).[PrimaryStruct](ue_ue.UserDefinedStruct.md#primarystruct)
 
-#### Defined in
-
-[ue/ue.d.ts:15959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15959)
-
 ___
 
 ### Status
@@ -131,19 +111,11 @@ ___
 
 [UserDefinedStruct](ue_ue.UserDefinedStruct.md).[Status](ue_ue.UserDefinedStruct.md#status)
 
-#### Defined in
-
-[ue/ue.d.ts:15962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15962)
-
 ___
 
 ### \_\_tid\_AISenseBlueprintListener\_\_
 
 • **\_\_tid\_AISenseBlueprintListener\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15977)
 
 ___
 
@@ -155,10 +127,6 @@ ___
 
 [UserDefinedStruct](ue_ue.UserDefinedStruct.md).[__tid_Field__](ue_ue.UserDefinedStruct.md#__tid_field__)
 
-#### Defined in
-
-[ue/ue.d.ts:700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L700)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -168,10 +136,6 @@ ___
 #### Inherited from
 
 [UserDefinedStruct](ue_ue.UserDefinedStruct.md).[__tid_Object__](ue_ue.UserDefinedStruct.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -183,10 +147,6 @@ ___
 
 [UserDefinedStruct](ue_ue.UserDefinedStruct.md).[__tid_ScriptStruct__](ue_ue.UserDefinedStruct.md#__tid_scriptstruct__)
 
-#### Defined in
-
-[ue/ue.d.ts:15953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15953)
-
 ___
 
 ### \_\_tid\_Struct\_\_
@@ -197,10 +157,6 @@ ___
 
 [UserDefinedStruct](ue_ue.UserDefinedStruct.md).[__tid_Struct__](ue_ue.UserDefinedStruct.md#__tid_struct__)
 
-#### Defined in
-
-[ue/ue.d.ts:710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L710)
-
 ___
 
 ### \_\_tid\_UserDefinedStruct\_\_
@@ -210,10 +166,6 @@ ___
 #### Inherited from
 
 [UserDefinedStruct](ue_ue.UserDefinedStruct.md).[__tid_UserDefinedStruct__](ue_ue.UserDefinedStruct.md#__tid_userdefinedstruct__)
-
-#### Defined in
-
-[ue/ue.d.ts:15968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15968)
 
 ## Methods
 
@@ -239,10 +191,6 @@ ___
 
 [UserDefinedStruct](ue_ue.UserDefinedStruct.md).[CreateDefaultSubobject](ue_ue.UserDefinedStruct.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -263,10 +211,6 @@ ___
 
 [UserDefinedStruct](ue_ue.UserDefinedStruct.md).[ExecuteUbergraph](ue_ue.UserDefinedStruct.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -280,10 +224,6 @@ ___
 #### Inherited from
 
 [UserDefinedStruct](ue_ue.UserDefinedStruct.md).[GetClass](ue_ue.UserDefinedStruct.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -299,10 +239,6 @@ ___
 
 [UserDefinedStruct](ue_ue.UserDefinedStruct.md).[GetName](ue_ue.UserDefinedStruct.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -317,10 +253,6 @@ ___
 
 [UserDefinedStruct](ue_ue.UserDefinedStruct.md).[GetOuter](ue_ue.UserDefinedStruct.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -334,10 +266,6 @@ ___
 #### Inherited from
 
 [UserDefinedStruct](ue_ue.UserDefinedStruct.md).[GetWorld](ue_ue.UserDefinedStruct.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -358,10 +286,6 @@ ___
 #### Inherited from
 
 [UserDefinedStruct](ue_ue.UserDefinedStruct.md).[IsChildOf](ue_ue.UserDefinedStruct.md#ischildof)
-
-#### Defined in
-
-[ue/ue.d.ts:705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L705)
 
 ___
 
@@ -384,10 +308,6 @@ ___
 
 [UserDefinedStruct](ue_ue.UserDefinedStruct.md).[Find](ue_ue.UserDefinedStruct.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:15974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15974)
-
 ___
 
 ### Load
@@ -408,10 +328,6 @@ ___
 
 [UserDefinedStruct](ue_ue.UserDefinedStruct.md).[Load](ue_ue.UserDefinedStruct.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:15975](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15975)
-
 ___
 
 ### StaticClass
@@ -425,7 +341,3 @@ ___
 #### Overrides
 
 [UserDefinedStruct](ue_ue.UserDefinedStruct.md).[StaticClass](ue_ue.UserDefinedStruct.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15973)

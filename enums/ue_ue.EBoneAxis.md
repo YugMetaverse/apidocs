@@ -20,19 +20,11 @@
 
 • **BA\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19179)
-
 ___
 
 ### BA\_X
 
 • **BA\_X** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19179)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **BA\_Y** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19179)
-
 ___
 
 ### BA\_Z
 
 • **BA\_Z** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19179)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19179)

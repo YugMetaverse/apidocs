@@ -51,19 +51,11 @@
 
 • **AddressBookRead** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
-
 ___
 
 ### AddressBookWrite
 
 • **AddressBookWrite** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
 
 ___
 
@@ -71,19 +63,11 @@ ___
 
 • **AudioCaptureMic** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
-
 ___
 
 ### BackgroundDownload
 
 • **BackgroundDownload** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
 
 ___
 
@@ -91,19 +75,11 @@ ___
 
 • **BackgroundUpload** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
-
 ___
 
 ### BatteryInfo
 
 • **BatteryInfo** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
 
 ___
 
@@ -111,19 +87,11 @@ ___
 
 • **CameraCapture** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
-
 ___
 
 ### CoarseLocation
 
 • **CoarseLocation** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
 
 ___
 
@@ -131,19 +99,11 @@ ___
 
 • **ConnectBackgroundMusicService** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
-
 ___
 
 ### ControllerPose
 
 • **ControllerPose** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
 
 ___
 
@@ -151,19 +111,11 @@ ___
 
 • **Documents** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
-
 ___
 
 ### DrmCertificates
 
 • **DrmCertificates** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
 
 ___
 
@@ -171,19 +123,11 @@ ___
 
 • **EMagicLeapPrivilege\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
-
 ___
 
 ### GesturesConfig
 
 • **GesturesConfig** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
 
 ___
 
@@ -191,19 +135,11 @@ ___
 
 • **GesturesSubscribe** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
-
 ___
 
 ### HandMesh
 
 • **HandMesh** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
 
 ___
 
@@ -211,19 +147,11 @@ ___
 
 • **IdentityRead** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
-
 ___
 
 ### InAppPurchase
 
 • **InAppPurchase** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
 
 ___
 
@@ -231,19 +159,11 @@ ___
 
 • **Internet** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
-
 ___
 
 ### Invalid
 
 • **Invalid** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
 
 ___
 
@@ -251,19 +171,11 @@ ___
 
 • **LocalAreaNetwork** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
-
 ___
 
 ### LowLatencyLightwear
 
 • **LowLatencyLightwear** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
 
 ___
 
@@ -271,19 +183,11 @@ ___
 
 • **Media** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
-
 ___
 
 ### MediaDrm
 
 • **MediaDrm** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
 
 ___
 
@@ -291,19 +195,11 @@ ___
 
 • **MediaMetadata** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
-
 ___
 
 ### MusicService
 
 • **MusicService** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
 
 ___
 
@@ -311,19 +207,11 @@ ___
 
 • **NormalNotificationsUsage** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
-
 ___
 
 ### Occlusion
 
 • **Occlusion** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
 
 ___
 
@@ -331,19 +219,11 @@ ___
 
 • **PowerInfo** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
-
 ___
 
 ### PwFoundObjRead
 
 • **PwFoundObjRead** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
 
 ___
 
@@ -351,19 +231,11 @@ ___
 
 • **RegisterBackgroundMusicService** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
-
 ___
 
 ### ScreensProvider
 
 • **ScreensProvider** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
 
 ___
 
@@ -371,19 +243,11 @@ ___
 
 • **VoiceInput** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
-
 ___
 
 ### WifiStatusRead
 
 • **WifiStatusRead** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
 
 ___
 
@@ -391,16 +255,8 @@ ___
 
 • **WorldReconstruction** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34014)

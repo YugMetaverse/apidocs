@@ -39,10 +39,6 @@
 
 • **new AITestSpawnInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:36408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36408)
-
 • **new AITestSpawnInfo**(`PawnClass`, `ControllerClass`, `TeamID`, `BehaviorTree`, `SpawnLocation`, `NumberToSpawn`, `SpawnDelay`, `PreSpawnDelay`)
 
 #### Parameters
@@ -58,19 +54,11 @@
 | `SpawnDelay` | `number` |
 | `PreSpawnDelay` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:36409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36409)
-
 ## Properties
 
 ### BehaviorTree
 
 • **BehaviorTree**: [`BehaviorTree`](ue_ue.BehaviorTree.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36413)
 
 ___
 
@@ -78,19 +66,11 @@ ___
 
 • **ControllerClass**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36411)
-
 ___
 
 ### NumberToSpawn
 
 • **NumberToSpawn**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:36415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36415)
 
 ___
 
@@ -98,19 +78,11 @@ ___
 
 • **PawnClass**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36410)
-
 ___
 
 ### PreSpawnDelay
 
 • **PreSpawnDelay**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:36417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36417)
 
 ___
 
@@ -118,19 +90,11 @@ ___
 
 • **SpawnDelay**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:36416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36416)
-
 ___
 
 ### SpawnLocation
 
 • **SpawnLocation**: [`Actor`](ue_ue.Actor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36414)
 
 ___
 
@@ -138,19 +102,11 @@ ___
 
 • **TeamID**: [`GenericTeamId`](ue_ue.GenericTeamId.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36412)
-
 ___
 
 ### \_\_tid\_AITestSpawnInfo\_\_
 
 • `Private` **\_\_tid\_AITestSpawnInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36423)
 
 ## Methods
 
@@ -166,10 +122,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36421)
-
 ___
 
 ### StaticStruct
@@ -179,7 +131,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36422)

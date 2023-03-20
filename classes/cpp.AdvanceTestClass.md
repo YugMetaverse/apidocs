@@ -28,10 +28,6 @@
 | :------ | :------ |
 | `p0` | `number` |
 
-#### Defined in
-
-[cpp/index.d.ts:7](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L7)
-
 ## Methods
 
 ### CallJsObjectTest
@@ -47,10 +43,6 @@
 #### Returns
 
 `void`
-
-#### Defined in
-
-[cpp/index.d.ts:9](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L9)
 
 ___
 
@@ -68,10 +60,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[cpp/index.d.ts:8](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L8)
-
 ___
 
 ### StdFunctionTest
@@ -87,7 +75,3 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[cpp/index.d.ts:10](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L10)

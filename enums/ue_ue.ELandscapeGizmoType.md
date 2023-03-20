@@ -20,19 +20,11 @@
 
 • **LGT\_Height** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33925)
-
 ___
 
 ### LGT\_MAX
 
 • **LGT\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33925)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **LGT\_None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33925)
-
 ___
 
 ### LGT\_Weight
 
 • **LGT\_Weight** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33925)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33925)

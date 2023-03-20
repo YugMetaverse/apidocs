@@ -20,19 +20,11 @@
 
 • **TMC\_AllMips** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34819)
-
 ___
 
 ### TMC\_AllMipsBiased
 
 • **TMC\_AllMipsBiased** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34819)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **TMC\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34819)
-
 ___
 
 ### TMC\_ResidentMips
 
 • **TMC\_ResidentMips** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34819)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34819)

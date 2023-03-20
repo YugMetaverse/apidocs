@@ -22,19 +22,11 @@
 
 • **VTBlend\_Cubic** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10666)
-
 ___
 
 ### VTBlend\_EaseIn
 
 • **VTBlend\_EaseIn** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10666)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **VTBlend\_EaseInOut** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10666)
-
 ___
 
 ### VTBlend\_EaseOut
 
 • **VTBlend\_EaseOut** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10666)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **VTBlend\_Linear** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10666)
-
 ___
 
 ### VTBlend\_MAX
 
 • **VTBlend\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10666)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10666)

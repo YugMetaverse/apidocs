@@ -27,10 +27,6 @@
 
 • **new AutomatedTestFilter**()
 
-#### Defined in
-
-[ue/ue.d.ts:22917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22917)
-
 • **new AutomatedTestFilter**(`Contains`, `MatchFromStart`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Contains` | `string` |
 | `MatchFromStart` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:22918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22918)
-
 ## Properties
 
 ### Contains
 
 • **Contains**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:22919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22919)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **MatchFromStart**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:22920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22920)
-
 ___
 
 ### \_\_tid\_AutomatedTestFilter\_\_
 
 • `Private` **\_\_tid\_AutomatedTestFilter\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22926)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22924)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22925)

@@ -40,10 +40,6 @@
 
 [StaticParameterBase](ue_ue.StaticParameterBase.md).[constructor](ue_ue.StaticParameterBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:2076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2076)
-
 • **new StaticTerrainLayerWeightParameter**(`WeightmapIndex`, `bWeightBasedBlend`)
 
 #### Parameters
@@ -57,10 +53,6 @@
 
 [StaticParameterBase](ue_ue.StaticParameterBase.md).[constructor](ue_ue.StaticParameterBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:2077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2077)
-
 ## Properties
 
 ### ExpressionGUID
@@ -70,10 +62,6 @@
 #### Inherited from
 
 [StaticParameterBase](ue_ue.StaticParameterBase.md).[ExpressionGUID](ue_ue.StaticParameterBase.md#expressionguid)
-
-#### Defined in
-
-[ue/ue.d.ts:2039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2039)
 
 ___
 
@@ -85,29 +73,17 @@ ___
 
 [StaticParameterBase](ue_ue.StaticParameterBase.md).[ParameterInfo](ue_ue.StaticParameterBase.md#parameterinfo)
 
-#### Defined in
-
-[ue/ue.d.ts:2037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2037)
-
 ___
 
 ### WeightmapIndex
 
 • **WeightmapIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2078)
-
 ___
 
 ### \_\_tid\_StaticTerrainLayerWeightParameter\_\_
 
 • `Private` **\_\_tid\_StaticTerrainLayerWeightParameter\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2085)
 
 ___
 
@@ -119,19 +95,11 @@ ___
 
 [StaticParameterBase](ue_ue.StaticParameterBase.md).[bOverride](ue_ue.StaticParameterBase.md#boverride)
 
-#### Defined in
-
-[ue/ue.d.ts:2038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2038)
-
 ___
 
 ### bWeightBasedBlend
 
 • **bWeightBasedBlend**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2079)
 
 ## Methods
 
@@ -151,10 +119,6 @@ use StaticStruct instead.
 
 [StaticParameterBase](ue_ue.StaticParameterBase.md).[StaticClass](ue_ue.StaticParameterBase.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:2083](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2083)
-
 ___
 
 ### StaticStruct
@@ -168,7 +132,3 @@ ___
 #### Overrides
 
 [StaticParameterBase](ue_ue.StaticParameterBase.md).[StaticStruct](ue_ue.StaticParameterBase.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:2084](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2084)

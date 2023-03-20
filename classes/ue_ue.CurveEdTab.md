@@ -31,10 +31,6 @@
 
 • **new CurveEdTab**()
 
-#### Defined in
-
-[ue/ue.d.ts:7134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7134)
-
 • **new CurveEdTab**(`TabName`, `Curves`, `ViewStartInput`, `ViewEndInput`, `ViewStartOutput`, `ViewEndOutput`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `ViewStartOutput` | `number` |
 | `ViewEndOutput` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:7135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7135)
-
 ## Properties
 
 ### Curves
 
 • **Curves**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`CurveEdEntry`](ue_ue.CurveEdEntry.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:7137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7137)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **TabName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:7136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7136)
-
 ___
 
 ### ViewEndInput
 
 • **ViewEndInput**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7139)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **ViewEndOutput**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7141)
-
 ___
 
 ### ViewStartInput
 
 • **ViewStartInput**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7138)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **ViewStartOutput**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7140)
-
 ___
 
 ### \_\_tid\_CurveEdTab\_\_
 
 • `Private` **\_\_tid\_CurveEdTab\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7147)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7145)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7146)

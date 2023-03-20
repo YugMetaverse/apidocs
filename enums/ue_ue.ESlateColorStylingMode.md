@@ -21,19 +21,11 @@
 
 • **UseColor\_Foreground** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10865)
-
 ___
 
 ### UseColor\_Foreground\_Subdued
 
 • **UseColor\_Foreground\_Subdued** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10865)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **UseColor\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10865)
-
 ___
 
 ### UseColor\_Specified
 
 • **UseColor\_Specified** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10865)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **UseColor\_Specified\_Link** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10865)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10865)

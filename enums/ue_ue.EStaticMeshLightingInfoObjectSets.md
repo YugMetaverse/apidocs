@@ -20,19 +20,11 @@
 
 • **StaticMeshLightingInfoObjectSets\_AllLevels** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34800)
-
 ___
 
 ### StaticMeshLightingInfoObjectSets\_CurrentLevel
 
 • **StaticMeshLightingInfoObjectSets\_CurrentLevel** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34800)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **StaticMeshLightingInfoObjectSets\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34800)
-
 ___
 
 ### StaticMeshLightingInfoObjectSets\_SelectedLevels
 
 • **StaticMeshLightingInfoObjectSets\_SelectedLevels** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34800)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34800)

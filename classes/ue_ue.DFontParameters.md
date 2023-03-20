@@ -27,10 +27,6 @@
 
 • **new DFontParameters**()
 
-#### Defined in
-
-[ue/ue.d.ts:30386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30386)
-
 • **new DFontParameters**(`FontValue`, `FontPage`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `FontValue` | [`Font`](ue_ue.Font.md) |
 | `FontPage` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:30387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30387)
-
 ## Properties
 
 ### FontPage
 
 • **FontPage**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30389)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **FontValue**: [`Font`](ue_ue.Font.md)
 
-#### Defined in
-
-[ue/ue.d.ts:30388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30388)
-
 ___
 
 ### \_\_tid\_DFontParameters\_\_
 
 • `Private` **\_\_tid\_DFontParameters\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30395)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:30393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30393)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:30394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30394)

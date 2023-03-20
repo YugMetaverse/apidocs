@@ -25,19 +25,11 @@
 
 • **new MovieSceneEventParameters**()
 
-#### Defined in
-
-[ue/ue.d.ts:51759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51759)
-
 ## Properties
 
 ### \_\_tid\_MovieSceneEventParameters\_\_
 
 • `Private` **\_\_tid\_MovieSceneEventParameters\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:51765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51765)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:51763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51763)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:51764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51764)

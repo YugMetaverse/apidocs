@@ -22,19 +22,11 @@
 
 • **Count** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26350)
-
 ___
 
 ### EChaosTrailingSortMethod\_MAX
 
 • **EChaosTrailingSortMethod\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26350)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **SortByHighestMass** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26350)
-
 ___
 
 ### SortByHighestSpeed
 
 • **SortByHighestSpeed** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26350)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **SortByNearestFirst** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26350)
-
 ___
 
 ### SortNone
 
 • **SortNone** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26350)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26350)

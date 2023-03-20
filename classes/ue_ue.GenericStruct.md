@@ -26,10 +26,6 @@
 
 • **new GenericStruct**()
 
-#### Defined in
-
-[ue/ue.d.ts:43212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43212)
-
 • **new GenericStruct**(`Data`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Data` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:43213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43213)
-
 ## Properties
 
 ### Data
 
 • **Data**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:43214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43214)
-
 ___
 
 ### \_\_tid\_GenericStruct\_\_
 
 • `Private` **\_\_tid\_GenericStruct\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43220)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43218)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43219)

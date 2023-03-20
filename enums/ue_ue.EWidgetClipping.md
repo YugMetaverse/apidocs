@@ -22,19 +22,11 @@
 
 • **ClipToBounds** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10741)
-
 ___
 
 ### ClipToBoundsAlways
 
 • **ClipToBoundsAlways** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10741)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **ClipToBoundsWithoutIntersecting** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10741)
-
 ___
 
 ### EWidgetClipping\_MAX
 
 • **EWidgetClipping\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10741)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **Inherit** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10741)
-
 ___
 
 ### OnDemand
 
 • **OnDemand** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10741)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10741)

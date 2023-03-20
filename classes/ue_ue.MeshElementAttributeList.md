@@ -26,10 +26,6 @@
 
 • **new MeshElementAttributeList**()
 
-#### Defined in
-
-[ue/ue.d.ts:31658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31658)
-
 • **new MeshElementAttributeList**(`Attributes`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Attributes` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MeshElementAttributeData`](ue_ue.MeshElementAttributeData.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:31659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31659)
-
 ## Properties
 
 ### Attributes
 
 • **Attributes**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MeshElementAttributeData`](ue_ue.MeshElementAttributeData.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:31660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31660)
-
 ___
 
 ### \_\_tid\_MeshElementAttributeList\_\_
 
 • `Private` **\_\_tid\_MeshElementAttributeList\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31666)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31664)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31665)

@@ -30,10 +30,6 @@
 
 • **new BlendBoneByChannelEntry**()
 
-#### Defined in
-
-[ue/ue.d.ts:17982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17982)
-
 • **new BlendBoneByChannelEntry**(`SourceBone`, `TargetBone`, `bBlendTranslation`, `bBlendRotation`, `bBlendScale`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `bBlendRotation` | `boolean` |
 | `bBlendScale` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:17983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17983)
-
 ## Properties
 
 ### SourceBone
 
 • **SourceBone**: [`BoneReference`](ue_ue.BoneReference.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17984)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **TargetBone**: [`BoneReference`](ue_ue.BoneReference.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17985)
-
 ___
 
 ### \_\_tid\_BlendBoneByChannelEntry\_\_
 
 • `Private` **\_\_tid\_BlendBoneByChannelEntry\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17994)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **bBlendRotation**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:17987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17987)
-
 ___
 
 ### bBlendScale
 
 • **bBlendScale**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:17988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17988)
-
 ___
 
 ### bBlendTranslation
 
 • **bBlendTranslation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17986](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17986)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17992)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17993)

@@ -34,10 +34,6 @@
 
 • **new TouchInputControl**()
 
-#### Defined in
-
-[ue/ue.d.ts:10491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10491)
-
 • **new TouchInputControl**(`Image1`, `Image2`, `Center`, `VisualSize`, `ThumbSize`, `InteractionSize`, `InputScale`, `MainInputKey`, `AltInputKey`)
 
 #### Parameters
@@ -54,19 +50,11 @@
 | `MainInputKey` | [`Key`](ue_ue.Key.md) |
 | `AltInputKey` | [`Key`](ue_ue.Key.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:10492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10492)
-
 ## Properties
 
 ### AltInputKey
 
 • **AltInputKey**: [`Key`](ue_ue.Key.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10501)
 
 ___
 
@@ -74,19 +62,11 @@ ___
 
 • **Center**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10495)
-
 ___
 
 ### Image1
 
 • **Image1**: [`Texture2D`](ue_ue.Texture2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10493)
 
 ___
 
@@ -94,19 +74,11 @@ ___
 
 • **Image2**: [`Texture2D`](ue_ue.Texture2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10494)
-
 ___
 
 ### InputScale
 
 • **InputScale**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10499)
 
 ___
 
@@ -114,19 +86,11 @@ ___
 
 • **InteractionSize**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10498)
-
 ___
 
 ### MainInputKey
 
 • **MainInputKey**: [`Key`](ue_ue.Key.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10500)
 
 ___
 
@@ -134,29 +98,17 @@ ___
 
 • **ThumbSize**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10497)
-
 ___
 
 ### VisualSize
 
 • **VisualSize**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10496)
-
 ___
 
 ### \_\_tid\_TouchInputControl\_\_
 
 • `Private` **\_\_tid\_TouchInputControl\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10507)
 
 ## Methods
 
@@ -172,10 +124,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10505)
-
 ___
 
 ### StaticStruct
@@ -185,7 +133,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10506)

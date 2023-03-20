@@ -56,10 +56,6 @@
 
 [PlatformInterfaceBase](ue_ue.PlatformInterfaceBase.md).[constructor](ue_ue.PlatformInterfaceBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:39080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39080)
-
 ## Properties
 
 ### AllDelegates
@@ -70,19 +66,11 @@
 
 [PlatformInterfaceBase](ue_ue.PlatformInterfaceBase.md).[AllDelegates](ue_ue.PlatformInterfaceBase.md#alldelegates)
 
-#### Defined in
-
-[ue/ue.d.ts:28085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28085)
-
 ___
 
 ### ClickedBannerDelegates
 
 • **ClickedBannerDelegates**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`$Delegate`](../interfaces/ue_puerts._Delegate.md)<() => `void`\>\>
-
-#### Defined in
-
-[ue/ue.d.ts:39082](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39082)
 
 ___
 
@@ -90,19 +78,11 @@ ___
 
 • **ClosedAdDelegates**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`$Delegate`](../interfaces/ue_puerts._Delegate.md)<() => `void`\>\>
 
-#### Defined in
-
-[ue/ue.d.ts:39083](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39083)
-
 ___
 
 ### \_\_tid\_InGameAdManager\_\_
 
 • **\_\_tid\_InGameAdManager\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39088)
 
 ___
 
@@ -114,10 +94,6 @@ ___
 
 [PlatformInterfaceBase](ue_ue.PlatformInterfaceBase.md).[__tid_Object__](ue_ue.PlatformInterfaceBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PlatformInterfaceBase\_\_
@@ -128,19 +104,11 @@ ___
 
 [PlatformInterfaceBase](ue_ue.PlatformInterfaceBase.md).[__tid_PlatformInterfaceBase__](ue_ue.PlatformInterfaceBase.md#__tid_platforminterfacebase__)
 
-#### Defined in
-
-[ue/ue.d.ts:28090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28090)
-
 ___
 
 ### bShouldPauseWhileAdOpen
 
 • **bShouldPauseWhileAdOpen**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39081)
 
 ## Methods
 
@@ -166,10 +134,6 @@ ___
 
 [PlatformInterfaceBase](ue_ue.PlatformInterfaceBase.md).[CreateDefaultSubobject](ue_ue.PlatformInterfaceBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -190,10 +154,6 @@ ___
 
 [PlatformInterfaceBase](ue_ue.PlatformInterfaceBase.md).[ExecuteUbergraph](ue_ue.PlatformInterfaceBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -207,10 +167,6 @@ ___
 #### Inherited from
 
 [PlatformInterfaceBase](ue_ue.PlatformInterfaceBase.md).[GetClass](ue_ue.PlatformInterfaceBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -226,10 +182,6 @@ ___
 
 [PlatformInterfaceBase](ue_ue.PlatformInterfaceBase.md).[GetName](ue_ue.PlatformInterfaceBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -244,10 +196,6 @@ ___
 
 [PlatformInterfaceBase](ue_ue.PlatformInterfaceBase.md).[GetOuter](ue_ue.PlatformInterfaceBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -261,10 +209,6 @@ ___
 #### Inherited from
 
 [PlatformInterfaceBase](ue_ue.PlatformInterfaceBase.md).[GetWorld](ue_ue.PlatformInterfaceBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -287,10 +231,6 @@ ___
 
 [PlatformInterfaceBase](ue_ue.PlatformInterfaceBase.md).[Find](ue_ue.PlatformInterfaceBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:39085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39085)
-
 ___
 
 ### Load
@@ -311,10 +251,6 @@ ___
 
 [PlatformInterfaceBase](ue_ue.PlatformInterfaceBase.md).[Load](ue_ue.PlatformInterfaceBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:39086](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39086)
-
 ___
 
 ### StaticClass
@@ -328,7 +264,3 @@ ___
 #### Overrides
 
 [PlatformInterfaceBase](ue_ue.PlatformInterfaceBase.md).[StaticClass](ue_ue.PlatformInterfaceBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:39084](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39084)

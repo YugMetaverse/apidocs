@@ -19,19 +19,11 @@
 
 • **EIT\_Additive** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18537)
-
 ___
 
 ### EIT\_LocalSpace
 
 • **EIT\_LocalSpace** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18537)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **EIT\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18537)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18537)

@@ -59,10 +59,6 @@
 
 [TimecodeProvider](ue_ue.TimecodeProvider.md).[constructor](ue_ue.TimecodeProvider.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:62737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62737)
-
 ## Properties
 
 ### FrameDelay
@@ -73,19 +69,11 @@
 
 [TimecodeProvider](ue_ue.TimecodeProvider.md).[FrameDelay](ue_ue.TimecodeProvider.md#framedelay)
 
-#### Defined in
-
-[ue/ue.d.ts:32608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32608)
-
 ___
 
 ### FrameRate
 
 • **FrameRate**: [`FrameRate`](ue_ue.FrameRate.md)
-
-#### Defined in
-
-[ue/ue.d.ts:62738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62738)
 
 ___
 
@@ -97,19 +85,11 @@ ___
 
 [TimecodeProvider](ue_ue.TimecodeProvider.md).[__tid_Object__](ue_ue.TimecodeProvider.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_SystemTimeTimecodeProvider\_\_
 
 • **\_\_tid\_SystemTimeTimecodeProvider\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:62744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62744)
 
 ___
 
@@ -120,10 +100,6 @@ ___
 #### Inherited from
 
 [TimecodeProvider](ue_ue.TimecodeProvider.md).[__tid_TimecodeProvider__](ue_ue.TimecodeProvider.md#__tid_timecodeprovider__)
-
-#### Defined in
-
-[ue/ue.d.ts:32617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32617)
 
 ## Methods
 
@@ -149,10 +125,6 @@ ___
 
 [TimecodeProvider](ue_ue.TimecodeProvider.md).[CreateDefaultSubobject](ue_ue.TimecodeProvider.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -173,10 +145,6 @@ ___
 
 [TimecodeProvider](ue_ue.TimecodeProvider.md).[ExecuteUbergraph](ue_ue.TimecodeProvider.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -190,10 +158,6 @@ ___
 #### Inherited from
 
 [TimecodeProvider](ue_ue.TimecodeProvider.md).[GetClass](ue_ue.TimecodeProvider.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -209,10 +173,6 @@ ___
 
 [TimecodeProvider](ue_ue.TimecodeProvider.md).[GetDelayedTimecode](ue_ue.TimecodeProvider.md#getdelayedtimecode)
 
-#### Defined in
-
-[ue/ue.d.ts:32609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32609)
-
 ___
 
 ### GetFrameRate
@@ -226,10 +186,6 @@ ___
 #### Inherited from
 
 [TimecodeProvider](ue_ue.TimecodeProvider.md).[GetFrameRate](ue_ue.TimecodeProvider.md#getframerate)
-
-#### Defined in
-
-[ue/ue.d.ts:32610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32610)
 
 ___
 
@@ -245,10 +201,6 @@ ___
 
 [TimecodeProvider](ue_ue.TimecodeProvider.md).[GetName](ue_ue.TimecodeProvider.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -262,10 +214,6 @@ ___
 #### Inherited from
 
 [TimecodeProvider](ue_ue.TimecodeProvider.md).[GetOuter](ue_ue.TimecodeProvider.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -281,10 +229,6 @@ ___
 
 [TimecodeProvider](ue_ue.TimecodeProvider.md).[GetSynchronizationState](ue_ue.TimecodeProvider.md#getsynchronizationstate)
 
-#### Defined in
-
-[ue/ue.d.ts:32611](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32611)
-
 ___
 
 ### GetTimecode
@@ -299,10 +243,6 @@ ___
 
 [TimecodeProvider](ue_ue.TimecodeProvider.md).[GetTimecode](ue_ue.TimecodeProvider.md#gettimecode)
 
-#### Defined in
-
-[ue/ue.d.ts:32612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32612)
-
 ___
 
 ### GetWorld
@@ -316,10 +256,6 @@ ___
 #### Inherited from
 
 [TimecodeProvider](ue_ue.TimecodeProvider.md).[GetWorld](ue_ue.TimecodeProvider.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -336,10 +272,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:62739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62739)
 
 ___
 
@@ -362,10 +294,6 @@ ___
 
 [TimecodeProvider](ue_ue.TimecodeProvider.md).[Find](ue_ue.TimecodeProvider.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:62741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62741)
-
 ___
 
 ### Load
@@ -386,10 +314,6 @@ ___
 
 [TimecodeProvider](ue_ue.TimecodeProvider.md).[Load](ue_ue.TimecodeProvider.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:62742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62742)
-
 ___
 
 ### StaticClass
@@ -403,7 +327,3 @@ ___
 #### Overrides
 
 [TimecodeProvider](ue_ue.TimecodeProvider.md).[StaticClass](ue_ue.TimecodeProvider.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:62740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62740)

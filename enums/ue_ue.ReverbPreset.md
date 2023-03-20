@@ -40,19 +40,11 @@
 
 • **REVERB\_Alley** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8746)
-
 ___
 
 ### REVERB\_Auditorium
 
 • **REVERB\_Auditorium** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8746)
 
 ___
 
@@ -60,19 +52,11 @@ ___
 
 • **REVERB\_Bathroom** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8746)
-
 ___
 
 ### REVERB\_Cave
 
 • **REVERB\_Cave** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8746)
 
 ___
 
@@ -80,19 +64,11 @@ ___
 
 • **REVERB\_City** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8746)
-
 ___
 
 ### REVERB\_ConcertHall
 
 • **REVERB\_ConcertHall** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8746)
 
 ___
 
@@ -100,19 +76,11 @@ ___
 
 • **REVERB\_Default** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8746)
-
 ___
 
 ### REVERB\_Forest
 
 • **REVERB\_Forest** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8746)
 
 ___
 
@@ -120,19 +88,11 @@ ___
 
 • **REVERB\_Hallway** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8746)
-
 ___
 
 ### REVERB\_LargeHall
 
 • **REVERB\_LargeHall** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8746)
 
 ___
 
@@ -140,19 +100,11 @@ ___
 
 • **REVERB\_LargeRoom** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8746)
-
 ___
 
 ### REVERB\_MAX
 
 • **REVERB\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8746)
 
 ___
 
@@ -160,19 +112,11 @@ ___
 
 • **REVERB\_MediumHall** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8746)
-
 ___
 
 ### REVERB\_MediumRoom
 
 • **REVERB\_MediumRoom** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8746)
 
 ___
 
@@ -180,19 +124,11 @@ ___
 
 • **REVERB\_Mountains** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8746)
-
 ___
 
 ### REVERB\_ParkingLot
 
 • **REVERB\_ParkingLot** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8746)
 
 ___
 
@@ -200,19 +136,11 @@ ___
 
 • **REVERB\_Plain** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8746)
-
 ___
 
 ### REVERB\_Plate
 
 • **REVERB\_Plate** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8746)
 
 ___
 
@@ -220,19 +148,11 @@ ___
 
 • **REVERB\_Quarry** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8746)
-
 ___
 
 ### REVERB\_SewerPipe
 
 • **REVERB\_SewerPipe** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8746)
 
 ___
 
@@ -240,19 +160,11 @@ ___
 
 • **REVERB\_SmallRoom** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8746)
-
 ___
 
 ### REVERB\_StoneCorridor
 
 • **REVERB\_StoneCorridor** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8746)
 
 ___
 
@@ -260,26 +172,14 @@ ___
 
 • **REVERB\_StoneRoom** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8746)
-
 ___
 
 ### REVERB\_Underwater
 
 • **REVERB\_Underwater** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8746)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8746)

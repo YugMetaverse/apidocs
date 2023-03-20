@@ -41,10 +41,6 @@
 
 [BlueprintInputDelegateBinding](ue_ue.BlueprintInputDelegateBinding.md).[constructor](ue_ue.BlueprintInputDelegateBinding.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:39115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39115)
-
 • **new BlueprintInputActionDelegateBinding**(`InputActionName`, `InputKeyEvent`, `FunctionNameToBind`)
 
 #### Parameters
@@ -59,19 +55,11 @@
 
 [BlueprintInputDelegateBinding](ue_ue.BlueprintInputDelegateBinding.md).[constructor](ue_ue.BlueprintInputDelegateBinding.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:39116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39116)
-
 ## Properties
 
 ### FunctionNameToBind
 
 • **FunctionNameToBind**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:39119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39119)
 
 ___
 
@@ -79,29 +67,17 @@ ___
 
 • **InputActionName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:39117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39117)
-
 ___
 
 ### InputKeyEvent
 
 • **InputKeyEvent**: [`EInputEvent`](../enums/ue_ue.EInputEvent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39118)
-
 ___
 
 ### \_\_tid\_BlueprintInputActionDelegateBinding\_\_
 
 • `Private` **\_\_tid\_BlueprintInputActionDelegateBinding\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39125)
 
 ___
 
@@ -113,10 +89,6 @@ ___
 
 [BlueprintInputDelegateBinding](ue_ue.BlueprintInputDelegateBinding.md).[bConsumeInput](ue_ue.BlueprintInputDelegateBinding.md#bconsumeinput)
 
-#### Defined in
-
-[ue/ue.d.ts:39103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39103)
-
 ___
 
 ### bExecuteWhenPaused
@@ -127,10 +99,6 @@ ___
 
 [BlueprintInputDelegateBinding](ue_ue.BlueprintInputDelegateBinding.md).[bExecuteWhenPaused](ue_ue.BlueprintInputDelegateBinding.md#bexecutewhenpaused)
 
-#### Defined in
-
-[ue/ue.d.ts:39104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39104)
-
 ___
 
 ### bOverrideParentBinding
@@ -140,10 +108,6 @@ ___
 #### Inherited from
 
 [BlueprintInputDelegateBinding](ue_ue.BlueprintInputDelegateBinding.md).[bOverrideParentBinding](ue_ue.BlueprintInputDelegateBinding.md#boverrideparentbinding)
-
-#### Defined in
-
-[ue/ue.d.ts:39105](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39105)
 
 ## Methods
 
@@ -163,10 +127,6 @@ use StaticStruct instead.
 
 [BlueprintInputDelegateBinding](ue_ue.BlueprintInputDelegateBinding.md).[StaticClass](ue_ue.BlueprintInputDelegateBinding.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:39123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39123)
-
 ___
 
 ### StaticStruct
@@ -180,7 +140,3 @@ ___
 #### Overrides
 
 [BlueprintInputDelegateBinding](ue_ue.BlueprintInputDelegateBinding.md).[StaticStruct](ue_ue.BlueprintInputDelegateBinding.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:39124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39124)

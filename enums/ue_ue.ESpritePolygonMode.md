@@ -22,19 +22,11 @@
 
 • **Diced** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34796)
-
 ___
 
 ### ESpritePolygonMode\_MAX
 
 • **ESpritePolygonMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34796)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **FullyCustom** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34796)
-
 ___
 
 ### ShrinkWrapped
 
 • **ShrinkWrapped** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34796)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **SourceBoundingBox** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34796)
-
 ___
 
 ### TightBoundingBox
 
 • **TightBoundingBox** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34796)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34796)

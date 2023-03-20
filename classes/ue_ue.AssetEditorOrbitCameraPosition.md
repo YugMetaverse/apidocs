@@ -29,10 +29,6 @@
 
 • **new AssetEditorOrbitCameraPosition**()
 
-#### Defined in
-
-[ue/ue.d.ts:7850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7850)
-
 • **new AssetEditorOrbitCameraPosition**(`bIsSet`, `CamOrbitPoint`, `CamOrbitZoom`, `CamOrbitRotation`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `CamOrbitZoom` | [`Vector`](ue_ue_s.Vector.md) |
 | `CamOrbitRotation` | [`Rotator`](ue_ue_s.Rotator.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:7851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7851)
-
 ## Properties
 
 ### CamOrbitPoint
 
 • **CamOrbitPoint**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7853)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **CamOrbitRotation**: [`Rotator`](ue_ue_s.Rotator.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7855](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7855)
-
 ___
 
 ### CamOrbitZoom
 
 • **CamOrbitZoom**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7854](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7854)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • `Private` **\_\_tid\_AssetEditorOrbitCameraPosition\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:7861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7861)
-
 ___
 
 ### bIsSet
 
 • **bIsSet**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7852)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7859](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7859)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7860)

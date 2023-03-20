@@ -30,10 +30,6 @@
 
 • **new GuardianTestResult**()
 
-#### Defined in
-
-[ue/ue.d.ts:53718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53718)
-
 • **new GuardianTestResult**(`IsTriggering`, `DeviceType`, `ClosestDistance`, `ClosestPoint`, `ClosestPointNormal`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `ClosestPoint` | [`Vector`](ue_ue_s.Vector.md) |
 | `ClosestPointNormal` | [`Vector`](ue_ue_s.Vector.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:53719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53719)
-
 ## Properties
 
 ### ClosestDistance
 
 • **ClosestDistance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:53722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53722)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **ClosestPoint**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:53723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53723)
-
 ___
 
 ### ClosestPointNormal
 
 • **ClosestPointNormal**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:53724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53724)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **DeviceType**: [`ETrackedDeviceType`](../enums/ue_ue.ETrackedDeviceType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:53721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53721)
-
 ___
 
 ### IsTriggering
 
 • **IsTriggering**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:53720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53720)
-
 ___
 
 ### \_\_tid\_GuardianTestResult\_\_
 
 • `Private` **\_\_tid\_GuardianTestResult\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:53730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53730)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:53728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53728)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:53729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53729)

@@ -20,19 +20,11 @@
 
 • **ELiveLinkSourceMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33952)
-
 ___
 
 ### EngineTime
 
 • **EngineTime** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33952)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Latest** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33952)
-
 ___
 
 ### Timecode
 
 • **Timecode** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33952)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33952)

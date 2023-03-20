@@ -54,10 +54,6 @@
 
 • **new MaterialProxySettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:8603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8603)
-
 • **new MaterialProxySettings**(`TextureSize`, `GutterSpace`, `MetallicConstant`, `RoughnessConstant`, `SpecularConstant`, `OpacityConstant`, `OpacityMaskConstant`, `AmbientOcclusionConstant`, `TextureSizingType`, `MaterialMergeType`, `BlendMode`, `bAllowTwoSidedMaterial`, `bNormalMap`, `bMetallicMap`, `bRoughnessMap`, `bSpecularMap`, `bEmissiveMap`, `bOpacityMap`, `bOpacityMaskMap`, `bAmbientOcclusionMap`, `DiffuseTextureSize`, `NormalTextureSize`, `MetallicTextureSize`, `RoughnessTextureSize`, `SpecularTextureSize`, `EmissiveTextureSize`, `OpacityTextureSize`, `OpacityMaskTextureSize`, `AmbientOcclusionTextureSize`)
 
 #### Parameters
@@ -94,19 +90,11 @@
 | `OpacityMaskTextureSize` | [`IntPoint`](ue_ue_s.IntPoint.md) |
 | `AmbientOcclusionTextureSize` | [`IntPoint`](ue_ue_s.IntPoint.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:8604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8604)
-
 ## Properties
 
 ### AmbientOcclusionConstant
 
 • **AmbientOcclusionConstant**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8612)
 
 ___
 
@@ -114,19 +102,11 @@ ___
 
 • **AmbientOcclusionTextureSize**: [`IntPoint`](ue_ue_s.IntPoint.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8633)
-
 ___
 
 ### BlendMode
 
 • **BlendMode**: [`EBlendMode`](../enums/ue_ue.EBlendMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8615)
 
 ___
 
@@ -134,19 +114,11 @@ ___
 
 • **DiffuseTextureSize**: [`IntPoint`](ue_ue_s.IntPoint.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8625)
-
 ___
 
 ### EmissiveTextureSize
 
 • **EmissiveTextureSize**: [`IntPoint`](ue_ue_s.IntPoint.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8630)
 
 ___
 
@@ -154,19 +126,11 @@ ___
 
 • **GutterSpace**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8606)
-
 ___
 
 ### MaterialMergeType
 
 • **MaterialMergeType**: [`EMaterialMergeType`](../enums/ue_ue.EMaterialMergeType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8614)
 
 ___
 
@@ -174,19 +138,11 @@ ___
 
 • **MetallicConstant**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8607)
-
 ___
 
 ### MetallicTextureSize
 
 • **MetallicTextureSize**: [`IntPoint`](ue_ue_s.IntPoint.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8627)
 
 ___
 
@@ -194,19 +150,11 @@ ___
 
 • **NormalTextureSize**: [`IntPoint`](ue_ue_s.IntPoint.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8626)
-
 ___
 
 ### OpacityConstant
 
 • **OpacityConstant**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8610)
 
 ___
 
@@ -214,19 +162,11 @@ ___
 
 • **OpacityMaskConstant**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8611](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8611)
-
 ___
 
 ### OpacityMaskTextureSize
 
 • **OpacityMaskTextureSize**: [`IntPoint`](ue_ue_s.IntPoint.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8632)
 
 ___
 
@@ -234,19 +174,11 @@ ___
 
 • **OpacityTextureSize**: [`IntPoint`](ue_ue_s.IntPoint.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8631](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8631)
-
 ___
 
 ### RoughnessConstant
 
 • **RoughnessConstant**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8608)
 
 ___
 
@@ -254,19 +186,11 @@ ___
 
 • **RoughnessTextureSize**: [`IntPoint`](ue_ue_s.IntPoint.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8628)
-
 ___
 
 ### SpecularConstant
 
 • **SpecularConstant**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8609)
 
 ___
 
@@ -274,19 +198,11 @@ ___
 
 • **SpecularTextureSize**: [`IntPoint`](ue_ue_s.IntPoint.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8629)
-
 ___
 
 ### TextureSize
 
 • **TextureSize**: [`IntPoint`](ue_ue_s.IntPoint.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8605)
 
 ___
 
@@ -294,19 +210,11 @@ ___
 
 • **TextureSizingType**: [`ETextureSizingType`](../enums/ue_ue.ETextureSizingType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8613)
-
 ___
 
 ### \_\_tid\_MaterialProxySettings\_\_
 
 • `Private` **\_\_tid\_MaterialProxySettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8639)
 
 ___
 
@@ -314,19 +222,11 @@ ___
 
 • **bAllowTwoSidedMaterial**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8616)
-
 ___
 
 ### bAmbientOcclusionMap
 
 • **bAmbientOcclusionMap**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8624)
 
 ___
 
@@ -334,19 +234,11 @@ ___
 
 • **bEmissiveMap**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8621)
-
 ___
 
 ### bMetallicMap
 
 • **bMetallicMap**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8618)
 
 ___
 
@@ -354,19 +246,11 @@ ___
 
 • **bNormalMap**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8617)
-
 ___
 
 ### bOpacityMap
 
 • **bOpacityMap**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8622)
 
 ___
 
@@ -374,29 +258,17 @@ ___
 
 • **bOpacityMaskMap**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8623)
-
 ___
 
 ### bRoughnessMap
 
 • **bRoughnessMap**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8619)
-
 ___
 
 ### bSpecularMap
 
 • **bSpecularMap**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8620)
 
 ## Methods
 
@@ -412,10 +284,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8637)
-
 ___
 
 ### StaticStruct
@@ -425,7 +293,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8638)

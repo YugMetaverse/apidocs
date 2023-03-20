@@ -20,19 +20,11 @@
 
 • **PET2SRCM\_Actor** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34847)
-
 ___
 
 ### PET2SRCM\_Default
 
 • **PET2SRCM\_Default** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34847)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **PET2SRCM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34847)
-
 ___
 
 ### PET2SRCM\_Particle
 
 • **PET2SRCM\_Particle** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34847)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34847)

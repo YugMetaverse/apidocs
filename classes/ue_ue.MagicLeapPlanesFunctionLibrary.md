@@ -59,10 +59,6 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[constructor](ue_ue.BlueprintFunctionLibrary.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:47005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47005)
-
 ## Properties
 
 ### \_\_tid\_BlueprintFunctionLibrary\_\_
@@ -73,19 +69,11 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_BlueprintFunctionLibrary__](ue_ue.BlueprintFunctionLibrary.md#__tid_blueprintfunctionlibrary__)
 
-#### Defined in
-
-[ue/ue.d.ts:13418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13418)
-
 ___
 
 ### \_\_tid\_MagicLeapPlanesFunctionLibrary\_\_
 
 • **\_\_tid\_MagicLeapPlanesFunctionLibrary\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:47017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47017)
 
 ___
 
@@ -96,10 +84,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_Object__](ue_ue.BlueprintFunctionLibrary.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -125,10 +109,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[CreateDefaultSubobject](ue_ue.BlueprintFunctionLibrary.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -149,10 +129,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[ExecuteUbergraph](ue_ue.BlueprintFunctionLibrary.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -166,10 +142,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetClass](ue_ue.BlueprintFunctionLibrary.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -185,10 +157,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetName](ue_ue.BlueprintFunctionLibrary.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -202,10 +170,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetOuter](ue_ue.BlueprintFunctionLibrary.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -221,10 +185,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetWorld](ue_ue.BlueprintFunctionLibrary.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### CreateTracker
@@ -235,10 +195,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:47006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47006)
-
 ___
 
 ### DestroyTracker
@@ -248,10 +204,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:47007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47007)
 
 ___
 
@@ -274,10 +226,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Find](ue_ue.BlueprintFunctionLibrary.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:47014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47014)
-
 ___
 
 ### GetContentScale
@@ -295,10 +243,6 @@ ___
 
 [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:47008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47008)
-
 ___
 
 ### IsTrackerValid
@@ -308,10 +252,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:47009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47009)
 
 ___
 
@@ -333,10 +273,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Load](ue_ue.BlueprintFunctionLibrary.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:47015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47015)
-
 ___
 
 ### PlanesQueryBeginAsync
@@ -353,10 +289,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:47010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47010)
 
 ___
 
@@ -376,10 +308,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:47011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47011)
-
 ___
 
 ### ReorderPlaneFlags
@@ -398,10 +326,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:47012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47012)
-
 ___
 
 ### StaticClass
@@ -415,7 +339,3 @@ ___
 #### Overrides
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[StaticClass](ue_ue.BlueprintFunctionLibrary.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:47013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47013)

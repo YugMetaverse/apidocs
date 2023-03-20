@@ -23,19 +23,11 @@
 
 • **AXIS\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33912)
-
 ___
 
 ### AXIS\_RotationX
 
 • **AXIS\_RotationX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33912)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **AXIS\_RotationY** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33912)
-
 ___
 
 ### AXIS\_RotationZ
 
 • **AXIS\_RotationZ** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33912)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **AXIS\_TranslationX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33912)
-
 ___
 
 ### AXIS\_TranslationY
 
 • **AXIS\_TranslationY** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33912)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **AXIS\_TranslationZ** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33912)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33912)

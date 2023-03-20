@@ -31,10 +31,6 @@
 
 • **new FontCharacter**()
 
-#### Defined in
-
-[ue/ue.d.ts:1791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1791)
-
 • **new FontCharacter**(`StartU`, `StartV`, `USize`, `VSize`, `TextureIndex`, `VerticalOffset`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `TextureIndex` | `number` |
 | `VerticalOffset` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:1792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1792)
-
 ## Properties
 
 ### StartU
 
 • **StartU**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1793)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **StartV**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1794)
-
 ___
 
 ### TextureIndex
 
 • **TextureIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1797](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1797)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **USize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1795)
-
 ___
 
 ### VSize
 
 • **VSize**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1796)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **VerticalOffset**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1798)
-
 ___
 
 ### \_\_tid\_FontCharacter\_\_
 
 • `Private` **\_\_tid\_FontCharacter\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1804)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1802)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1803)

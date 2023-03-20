@@ -19,19 +19,11 @@
 
 • **TMTM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34021)
-
 ___
 
 ### TMTM\_TexelSize
 
 • **TMTM\_TexelSize** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34021)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **TMTM\_TextureSize** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34021)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34021)

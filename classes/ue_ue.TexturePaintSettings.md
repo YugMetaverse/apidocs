@@ -34,10 +34,6 @@
 
 • **new TexturePaintSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:54424](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54424)
-
 • **new TexturePaintSettings**(`PaintColor`, `EraseColor`, `bWriteRed`, `bWriteGreen`, `bWriteBlue`, `bWriteAlpha`, `UVChannel`, `bEnableSeamPainting`, `PaintTexture`)
 
 #### Parameters
@@ -54,19 +50,11 @@
 | `bEnableSeamPainting` | `boolean` |
 | `PaintTexture` | [`Texture2D`](ue_ue.Texture2D.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:54425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54425)
-
 ## Properties
 
 ### EraseColor
 
 • **EraseColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54427)
 
 ___
 
@@ -74,19 +62,11 @@ ___
 
 • **PaintColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54426](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54426)
-
 ___
 
 ### PaintTexture
 
 • **PaintTexture**: [`Texture2D`](ue_ue.Texture2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54434)
 
 ___
 
@@ -94,19 +74,11 @@ ___
 
 • **UVChannel**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:54432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54432)
-
 ___
 
 ### \_\_tid\_TexturePaintSettings\_\_
 
 • `Private` **\_\_tid\_TexturePaintSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54440)
 
 ___
 
@@ -114,19 +86,11 @@ ___
 
 • **bEnableSeamPainting**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:54433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54433)
-
 ___
 
 ### bWriteAlpha
 
 • **bWriteAlpha**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54431](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54431)
 
 ___
 
@@ -134,29 +98,17 @@ ___
 
 • **bWriteBlue**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:54430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54430)
-
 ___
 
 ### bWriteGreen
 
 • **bWriteGreen**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:54429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54429)
-
 ___
 
 ### bWriteRed
 
 • **bWriteRed**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54428)
 
 ## Methods
 
@@ -172,10 +124,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54438)
-
 ___
 
 ### StaticStruct
@@ -185,7 +133,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54439)

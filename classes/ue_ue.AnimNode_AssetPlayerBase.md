@@ -48,10 +48,6 @@
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[constructor](ue_ue.AnimNode_Base.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:17564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17564)
-
 • **new AnimNode_AssetPlayerBase**(`GroupIndex`, `GroupRole`, `bIgnoreForRelevancyTest`, `BlendWeight`, `InternalTimeAccumulator`)
 
 #### Parameters
@@ -68,19 +64,11 @@
 
 UE.AnimNode\_Base.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:17565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17565)
-
 ## Properties
 
 ### BlendWeight
 
 • **BlendWeight**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17569)
 
 ___
 
@@ -88,19 +76,11 @@ ___
 
 • **GroupIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17566)
-
 ___
 
 ### GroupRole
 
 • **GroupRole**: [`EAnimGroupRole`](../enums/ue_ue.EAnimGroupRole.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17567)
 
 ___
 
@@ -108,29 +88,17 @@ ___
 
 • **InternalTimeAccumulator**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17570)
-
 ___
 
 ### \_\_tid\_AnimNode\_AssetPlayerBase\_\_
 
 • `Private` **\_\_tid\_AnimNode\_AssetPlayerBase\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:17576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17576)
-
 ___
 
 ### bIgnoreForRelevancyTest
 
 • **bIgnoreForRelevancyTest**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17568)
 
 ## Methods
 
@@ -150,10 +118,6 @@ use StaticStruct instead.
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticClass](ue_ue.AnimNode_Base.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:17574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17574)
-
 ___
 
 ### StaticStruct
@@ -167,7 +131,3 @@ ___
 #### Overrides
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticStruct](ue_ue.AnimNode_Base.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:17575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17575)

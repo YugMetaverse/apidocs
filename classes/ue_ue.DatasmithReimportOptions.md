@@ -27,10 +27,6 @@
 
 • **new DatasmithReimportOptions**()
 
-#### Defined in
-
-[ue/ue.d.ts:29717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29717)
-
 • **new DatasmithReimportOptions**(`bUpdateActors`, `bRespawnDeletedActors`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `bUpdateActors` | `boolean` |
 | `bRespawnDeletedActors` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:29718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29718)
-
 ## Properties
 
 ### \_\_tid\_DatasmithReimportOptions\_\_
 
 • `Private` **\_\_tid\_DatasmithReimportOptions\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29726)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **bRespawnDeletedActors**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:29720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29720)
-
 ___
 
 ### bUpdateActors
 
 • **bUpdateActors**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29719)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29724)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29725)

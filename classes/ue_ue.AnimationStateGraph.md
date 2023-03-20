@@ -63,10 +63,6 @@
 
 [AnimationGraph](ue_ue.AnimationGraph.md).[constructor](ue_ue.AnimationGraph.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:17119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17119)
-
 ## Properties
 
 ### BlendOptions
@@ -76,10 +72,6 @@
 #### Inherited from
 
 [AnimationGraph](ue_ue.AnimationGraph.md).[BlendOptions](ue_ue.AnimationGraph.md#blendoptions)
-
-#### Defined in
-
-[ue/ue.d.ts:16735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16735)
 
 ___
 
@@ -91,10 +83,6 @@ ___
 
 [AnimationGraph](ue_ue.AnimationGraph.md).[GraphGuid](ue_ue.AnimationGraph.md#graphguid)
 
-#### Defined in
-
-[ue/ue.d.ts:4175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4175)
-
 ___
 
 ### InterfaceGuid
@@ -105,19 +93,11 @@ ___
 
 [AnimationGraph](ue_ue.AnimationGraph.md).[InterfaceGuid](ue_ue.AnimationGraph.md#interfaceguid)
 
-#### Defined in
-
-[ue/ue.d.ts:4176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4176)
-
 ___
 
 ### MyResultNode
 
 • **MyResultNode**: [`AnimGraphNode_StateResult`](ue_ue.AnimGraphNode_StateResult.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17120)
 
 ___
 
@@ -129,10 +109,6 @@ ___
 
 [AnimationGraph](ue_ue.AnimationGraph.md).[Nodes](ue_ue.AnimationGraph.md#nodes)
 
-#### Defined in
-
-[ue/ue.d.ts:4170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4170)
-
 ___
 
 ### Schema
@@ -142,10 +118,6 @@ ___
 #### Inherited from
 
 [AnimationGraph](ue_ue.AnimationGraph.md).[Schema](ue_ue.AnimationGraph.md#schema)
-
-#### Defined in
-
-[ue/ue.d.ts:4169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4169)
 
 ___
 
@@ -157,10 +129,6 @@ ___
 
 [AnimationGraph](ue_ue.AnimationGraph.md).[SubGraphs](ue_ue.AnimationGraph.md#subgraphs)
 
-#### Defined in
-
-[ue/ue.d.ts:4174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4174)
-
 ___
 
 ### \_\_tid\_AnimationGraph\_\_
@@ -171,19 +139,11 @@ ___
 
 [AnimationGraph](ue_ue.AnimationGraph.md).[__tid_AnimationGraph__](ue_ue.AnimationGraph.md#__tid_animationgraph__)
 
-#### Defined in
-
-[ue/ue.d.ts:16740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16740)
-
 ___
 
 ### \_\_tid\_AnimationStateGraph\_\_
 
 • **\_\_tid\_AnimationStateGraph\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17125)
 
 ___
 
@@ -195,10 +155,6 @@ ___
 
 [AnimationGraph](ue_ue.AnimationGraph.md).[__tid_EdGraph__](ue_ue.AnimationGraph.md#__tid_edgraph__)
 
-#### Defined in
-
-[ue/ue.d.ts:4181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4181)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -208,10 +164,6 @@ ___
 #### Inherited from
 
 [AnimationGraph](ue_ue.AnimationGraph.md).[__tid_Object__](ue_ue.AnimationGraph.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -223,10 +175,6 @@ ___
 
 [AnimationGraph](ue_ue.AnimationGraph.md).[bAllowDeletion](ue_ue.AnimationGraph.md#ballowdeletion)
 
-#### Defined in
-
-[ue/ue.d.ts:4172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4172)
-
 ___
 
 ### bAllowRenaming
@@ -237,10 +185,6 @@ ___
 
 [AnimationGraph](ue_ue.AnimationGraph.md).[bAllowRenaming](ue_ue.AnimationGraph.md#ballowrenaming)
 
-#### Defined in
-
-[ue/ue.d.ts:4173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4173)
-
 ___
 
 ### bEditable
@@ -250,10 +194,6 @@ ___
 #### Inherited from
 
 [AnimationGraph](ue_ue.AnimationGraph.md).[bEditable](ue_ue.AnimationGraph.md#beditable)
-
-#### Defined in
-
-[ue/ue.d.ts:4171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4171)
 
 ## Methods
 
@@ -279,10 +219,6 @@ ___
 
 [AnimationGraph](ue_ue.AnimationGraph.md).[CreateDefaultSubobject](ue_ue.AnimationGraph.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -303,10 +239,6 @@ ___
 
 [AnimationGraph](ue_ue.AnimationGraph.md).[ExecuteUbergraph](ue_ue.AnimationGraph.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -320,10 +252,6 @@ ___
 #### Inherited from
 
 [AnimationGraph](ue_ue.AnimationGraph.md).[GetClass](ue_ue.AnimationGraph.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -339,10 +267,6 @@ ___
 
 [AnimationGraph](ue_ue.AnimationGraph.md).[GetName](ue_ue.AnimationGraph.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -357,10 +281,6 @@ ___
 
 [AnimationGraph](ue_ue.AnimationGraph.md).[GetOuter](ue_ue.AnimationGraph.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -374,10 +294,6 @@ ___
 #### Inherited from
 
 [AnimationGraph](ue_ue.AnimationGraph.md).[GetWorld](ue_ue.AnimationGraph.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -400,10 +316,6 @@ ___
 
 [AnimationGraph](ue_ue.AnimationGraph.md).[Find](ue_ue.AnimationGraph.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:17122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17122)
-
 ___
 
 ### Load
@@ -424,10 +336,6 @@ ___
 
 [AnimationGraph](ue_ue.AnimationGraph.md).[Load](ue_ue.AnimationGraph.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:17123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17123)
-
 ___
 
 ### StaticClass
@@ -441,7 +349,3 @@ ___
 #### Overrides
 
 [AnimationGraph](ue_ue.AnimationGraph.md).[StaticClass](ue_ue.AnimationGraph.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:17121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17121)

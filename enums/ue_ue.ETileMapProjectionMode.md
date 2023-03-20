@@ -21,19 +21,11 @@
 
 • **ETileMapProjectionMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34830)
-
 ___
 
 ### HexagonalStaggered
 
 • **HexagonalStaggered** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34830)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **IsometricDiamond** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34830)
-
 ___
 
 ### IsometricStaggered
 
 • **IsometricStaggered** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34830)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Orthogonal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34830)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34830)

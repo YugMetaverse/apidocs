@@ -58,10 +58,6 @@
 
 [ImageSequenceProtocol](ue_ue.ImageSequenceProtocol.md).[constructor](ue_ue.ImageSequenceProtocol.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:38734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38734)
-
 ## Properties
 
 ### State
@@ -71,10 +67,6 @@
 #### Inherited from
 
 [ImageSequenceProtocol](ue_ue.ImageSequenceProtocol.md).[State](ue_ue.ImageSequenceProtocol.md#state)
-
-#### Defined in
-
-[ue/ue.d.ts:22538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22538)
 
 ___
 
@@ -86,19 +78,11 @@ ___
 
 [ImageSequenceProtocol](ue_ue.ImageSequenceProtocol.md).[__tid_FrameGrabberProtocol__](ue_ue.ImageSequenceProtocol.md#__tid_framegrabberprotocol__)
 
-#### Defined in
-
-[ue/ue.d.ts:28507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28507)
-
 ___
 
 ### \_\_tid\_ImageSequenceProtocol\_BMP\_\_
 
 • **\_\_tid\_ImageSequenceProtocol\_BMP\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38739)
 
 ___
 
@@ -110,10 +94,6 @@ ___
 
 [ImageSequenceProtocol](ue_ue.ImageSequenceProtocol.md).[__tid_ImageSequenceProtocol__](ue_ue.ImageSequenceProtocol.md#__tid_imagesequenceprotocol__)
 
-#### Defined in
-
-[ue/ue.d.ts:28516](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28516)
-
 ___
 
 ### \_\_tid\_MovieSceneCaptureProtocolBase\_\_
@@ -123,10 +103,6 @@ ___
 #### Inherited from
 
 [ImageSequenceProtocol](ue_ue.ImageSequenceProtocol.md).[__tid_MovieSceneCaptureProtocolBase__](ue_ue.ImageSequenceProtocol.md#__tid_moviescenecaptureprotocolbase__)
-
-#### Defined in
-
-[ue/ue.d.ts:22545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22545)
 
 ___
 
@@ -138,10 +114,6 @@ ___
 
 [ImageSequenceProtocol](ue_ue.ImageSequenceProtocol.md).[__tid_MovieSceneImageCaptureProtocolBase__](ue_ue.ImageSequenceProtocol.md#__tid_moviesceneimagecaptureprotocolbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:22554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22554)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -151,10 +123,6 @@ ___
 #### Inherited from
 
 [ImageSequenceProtocol](ue_ue.ImageSequenceProtocol.md).[__tid_Object__](ue_ue.ImageSequenceProtocol.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -180,10 +148,6 @@ ___
 
 [ImageSequenceProtocol](ue_ue.ImageSequenceProtocol.md).[CreateDefaultSubobject](ue_ue.ImageSequenceProtocol.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -204,10 +168,6 @@ ___
 
 [ImageSequenceProtocol](ue_ue.ImageSequenceProtocol.md).[ExecuteUbergraph](ue_ue.ImageSequenceProtocol.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -221,10 +181,6 @@ ___
 #### Inherited from
 
 [ImageSequenceProtocol](ue_ue.ImageSequenceProtocol.md).[GetClass](ue_ue.ImageSequenceProtocol.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -240,10 +196,6 @@ ___
 
 [ImageSequenceProtocol](ue_ue.ImageSequenceProtocol.md).[GetName](ue_ue.ImageSequenceProtocol.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -257,10 +209,6 @@ ___
 #### Inherited from
 
 [ImageSequenceProtocol](ue_ue.ImageSequenceProtocol.md).[GetOuter](ue_ue.ImageSequenceProtocol.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -276,10 +224,6 @@ ___
 
 [ImageSequenceProtocol](ue_ue.ImageSequenceProtocol.md).[GetState](ue_ue.ImageSequenceProtocol.md#getstate)
 
-#### Defined in
-
-[ue/ue.d.ts:22539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22539)
-
 ___
 
 ### GetWorld
@@ -294,10 +238,6 @@ ___
 
 [ImageSequenceProtocol](ue_ue.ImageSequenceProtocol.md).[GetWorld](ue_ue.ImageSequenceProtocol.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### IsCapturing
@@ -311,10 +251,6 @@ ___
 #### Inherited from
 
 [ImageSequenceProtocol](ue_ue.ImageSequenceProtocol.md).[IsCapturing](ue_ue.ImageSequenceProtocol.md#iscapturing)
-
-#### Defined in
-
-[ue/ue.d.ts:22540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22540)
 
 ___
 
@@ -337,10 +273,6 @@ ___
 
 [ImageSequenceProtocol](ue_ue.ImageSequenceProtocol.md).[Find](ue_ue.ImageSequenceProtocol.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:38736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38736)
-
 ___
 
 ### Load
@@ -361,10 +293,6 @@ ___
 
 [ImageSequenceProtocol](ue_ue.ImageSequenceProtocol.md).[Load](ue_ue.ImageSequenceProtocol.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:38737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38737)
-
 ___
 
 ### StaticClass
@@ -378,7 +306,3 @@ ___
 #### Overrides
 
 [ImageSequenceProtocol](ue_ue.ImageSequenceProtocol.md).[StaticClass](ue_ue.ImageSequenceProtocol.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:38735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38735)

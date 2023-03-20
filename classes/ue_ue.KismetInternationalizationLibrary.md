@@ -66,10 +66,6 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[constructor](ue_ue.BlueprintFunctionLibrary.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:42238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42238)
-
 ## Properties
 
 ### \_\_tid\_BlueprintFunctionLibrary\_\_
@@ -80,19 +76,11 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_BlueprintFunctionLibrary__](ue_ue.BlueprintFunctionLibrary.md#__tid_blueprintfunctionlibrary__)
 
-#### Defined in
-
-[ue/ue.d.ts:13418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13418)
-
 ___
 
 ### \_\_tid\_KismetInternationalizationLibrary\_\_
 
 • **\_\_tid\_KismetInternationalizationLibrary\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:42257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42257)
 
 ___
 
@@ -103,10 +91,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_Object__](ue_ue.BlueprintFunctionLibrary.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -132,10 +116,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[CreateDefaultSubobject](ue_ue.BlueprintFunctionLibrary.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -156,10 +136,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[ExecuteUbergraph](ue_ue.BlueprintFunctionLibrary.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -173,10 +149,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetClass](ue_ue.BlueprintFunctionLibrary.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -192,10 +164,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetName](ue_ue.BlueprintFunctionLibrary.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -210,10 +178,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetOuter](ue_ue.BlueprintFunctionLibrary.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -227,10 +191,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetWorld](ue_ue.BlueprintFunctionLibrary.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -248,10 +208,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:42239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42239)
 
 ___
 
@@ -274,10 +230,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Find](ue_ue.BlueprintFunctionLibrary.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:42254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42254)
-
 ___
 
 ### GetCultureDisplayName
@@ -295,10 +247,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:42240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42240)
-
 ___
 
 ### GetCurrentAssetGroupCulture
@@ -315,10 +263,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:42241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42241)
-
 ___
 
 ### GetCurrentCulture
@@ -328,10 +272,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:42242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42242)
 
 ___
 
@@ -343,10 +283,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:42243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42243)
-
 ___
 
 ### GetCurrentLocale
@@ -356,10 +292,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:42244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42244)
 
 ___
 
@@ -380,10 +312,6 @@ ___
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:42245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42245)
-
 ___
 
 ### GetNativeCulture
@@ -399,10 +327,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:42246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42246)
 
 ___
 
@@ -421,10 +345,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:42247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42247)
 
 ___
 
@@ -446,10 +366,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Load](ue_ue.BlueprintFunctionLibrary.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:42255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42255)
-
 ___
 
 ### SetCurrentAssetGroupCulture
@@ -468,10 +384,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:42248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42248)
-
 ___
 
 ### SetCurrentCulture
@@ -488,10 +400,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:42249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42249)
 
 ___
 
@@ -510,10 +418,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:42250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42250)
-
 ___
 
 ### SetCurrentLanguageAndLocale
@@ -530,10 +434,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:42251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42251)
 
 ___
 
@@ -552,10 +452,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:42252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42252)
-
 ___
 
 ### StaticClass
@@ -569,7 +465,3 @@ ___
 #### Overrides
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[StaticClass](ue_ue.BlueprintFunctionLibrary.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:42253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42253)

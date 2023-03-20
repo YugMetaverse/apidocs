@@ -37,10 +37,6 @@
 
 • **new MovieSceneEasingSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:11742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11742)
-
 • **new MovieSceneEasingSettings**(`AutoEaseInDuration`, `AutoEaseOutDuration`, `EaseIn`, `bManualEaseIn`, `ManualEaseInDuration`, `EaseOut`, `bManualEaseOut`, `ManualEaseOutDuration`, `AutoEaseInTime`, `AutoEaseOutTime`, `ManualEaseInTime`, `ManualEaseOutTime`)
 
 #### Parameters
@@ -60,19 +56,11 @@
 | `ManualEaseInTime` | `number` |
 | `ManualEaseOutTime` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:11743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11743)
-
 ## Properties
 
 ### AutoEaseInDuration
 
 • **AutoEaseInDuration**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11744)
 
 ___
 
@@ -80,19 +68,11 @@ ___
 
 • **AutoEaseInTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11752](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11752)
-
 ___
 
 ### AutoEaseOutDuration
 
 • **AutoEaseOutDuration**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11745)
 
 ___
 
@@ -100,19 +80,11 @@ ___
 
 • **AutoEaseOutTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11753)
-
 ___
 
 ### EaseIn
 
 • **EaseIn**: [`MovieSceneEasingFunction`](ue_ue.MovieSceneEasingFunction.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11746)
 
 ___
 
@@ -120,19 +92,11 @@ ___
 
 • **EaseOut**: [`MovieSceneEasingFunction`](ue_ue.MovieSceneEasingFunction.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11749)
-
 ___
 
 ### ManualEaseInDuration
 
 • **ManualEaseInDuration**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11748)
 
 ___
 
@@ -140,19 +104,11 @@ ___
 
 • **ManualEaseInTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11754)
-
 ___
 
 ### ManualEaseOutDuration
 
 • **ManualEaseOutDuration**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11751)
 
 ___
 
@@ -160,19 +116,11 @@ ___
 
 • **ManualEaseOutTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11755)
-
 ___
 
 ### \_\_tid\_MovieSceneEasingSettings\_\_
 
 • `Private` **\_\_tid\_MovieSceneEasingSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11761](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11761)
 
 ___
 
@@ -180,19 +128,11 @@ ___
 
 • **bManualEaseIn**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:11747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11747)
-
 ___
 
 ### bManualEaseOut
 
 • **bManualEaseOut**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11750)
 
 ## Methods
 
@@ -208,10 +148,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11759)
-
 ___
 
 ### StaticStruct
@@ -221,7 +157,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11760](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11760)

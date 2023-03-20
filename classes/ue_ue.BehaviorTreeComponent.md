@@ -106,10 +106,6 @@
 
 [BrainComponent](ue_ue.BrainComponent.md).[constructor](ue_ue.BrainComponent.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:15439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15439)
-
 ## Properties
 
 ### AIOwner
@@ -119,10 +115,6 @@
 #### Inherited from
 
 [BrainComponent](ue_ue.BrainComponent.md).[AIOwner](ue_ue.BrainComponent.md#aiowner)
-
-#### Defined in
-
-[ue/ue.d.ts:14986](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14986)
 
 ___
 
@@ -134,10 +126,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[AssetUserData](ue_ue.BrainComponent.md#assetuserdata)
 
-#### Defined in
-
-[ue/ue.d.ts:291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L291)
-
 ___
 
 ### BlackboardComp
@@ -147,10 +135,6 @@ ___
 #### Inherited from
 
 [BrainComponent](ue_ue.BrainComponent.md).[BlackboardComp](ue_ue.BrainComponent.md#blackboardcomp)
-
-#### Defined in
-
-[ue/ue.d.ts:14985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14985)
 
 ___
 
@@ -162,10 +146,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[ComponentTags](ue_ue.BrainComponent.md#componenttags)
 
-#### Defined in
-
-[ue/ue.d.ts:290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L290)
-
 ___
 
 ### CreationMethod
@@ -176,19 +156,11 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[CreationMethod](ue_ue.BrainComponent.md#creationmethod)
 
-#### Defined in
-
-[ue/ue.d.ts:302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L302)
-
 ___
 
 ### NodeInstances
 
 • **NodeInstances**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BTNode`](ue_ue.BTNode.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:15440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15440)
 
 ___
 
@@ -200,10 +172,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[OnComponentActivated](ue_ue.BrainComponent.md#oncomponentactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L303)
-
 ___
 
 ### OnComponentDeactivated
@@ -213,10 +181,6 @@ ___
 #### Inherited from
 
 [BrainComponent](ue_ue.BrainComponent.md).[OnComponentDeactivated](ue_ue.BrainComponent.md#oncomponentdeactivated)
-
-#### Defined in
-
-[ue/ue.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L304)
 
 ___
 
@@ -228,10 +192,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[PrimaryComponentTick](ue_ue.BrainComponent.md#primarycomponenttick)
 
-#### Defined in
-
-[ue/ue.d.ts:289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L289)
-
 ___
 
 ### UCSModifiedProperties
@@ -241,10 +201,6 @@ ___
 #### Inherited from
 
 [BrainComponent](ue_ue.BrainComponent.md).[UCSModifiedProperties](ue_ue.BrainComponent.md#ucsmodifiedproperties)
-
-#### Defined in
-
-[ue/ue.d.ts:305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L305)
 
 ___
 
@@ -256,19 +212,11 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[__tid_ActorComponent__](ue_ue.BrainComponent.md#__tid_actorcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L336)
-
 ___
 
 ### \_\_tid\_BehaviorTreeComponent\_\_
 
 • **\_\_tid\_BehaviorTreeComponent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15448)
 
 ___
 
@@ -280,10 +228,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[__tid_BrainComponent__](ue_ue.BrainComponent.md#__tid_braincomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:14995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14995)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -293,10 +237,6 @@ ___
 #### Inherited from
 
 [BrainComponent](ue_ue.BrainComponent.md).[__tid_Object__](ue_ue.BrainComponent.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -308,10 +248,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[bAutoActivate](ue_ue.BrainComponent.md#bautoactivate)
 
-#### Defined in
-
-[ue/ue.d.ts:296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L296)
-
 ___
 
 ### bCanEverAffectNavigation
@@ -321,10 +257,6 @@ ___
 #### Inherited from
 
 [BrainComponent](ue_ue.BrainComponent.md).[bCanEverAffectNavigation](ue_ue.BrainComponent.md#bcaneveraffectnavigation)
-
-#### Defined in
-
-[ue/ue.d.ts:299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L299)
 
 ___
 
@@ -336,10 +268,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[bCreatedByConstructionScript](ue_ue.BrainComponent.md#bcreatedbyconstructionscript)
 
-#### Defined in
-
-[ue/ue.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L294)
-
 ___
 
 ### bEditableWhenInherited
@@ -349,10 +277,6 @@ ___
 #### Inherited from
 
 [BrainComponent](ue_ue.BrainComponent.md).[bEditableWhenInherited](ue_ue.BrainComponent.md#beditablewheninherited)
-
-#### Defined in
-
-[ue/ue.d.ts:298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L298)
 
 ___
 
@@ -364,10 +288,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[bInstanceComponent](ue_ue.BrainComponent.md#binstancecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L295)
-
 ___
 
 ### bIsActive
@@ -377,10 +297,6 @@ ___
 #### Inherited from
 
 [BrainComponent](ue_ue.BrainComponent.md).[bIsActive](ue_ue.BrainComponent.md#bisactive)
-
-#### Defined in
-
-[ue/ue.d.ts:297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L297)
 
 ___
 
@@ -392,10 +308,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[bIsEditorOnly](ue_ue.BrainComponent.md#biseditoronly)
 
-#### Defined in
-
-[ue/ue.d.ts:300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L300)
-
 ___
 
 ### bIsVisualizationComponent
@@ -405,10 +317,6 @@ ___
 #### Inherited from
 
 [BrainComponent](ue_ue.BrainComponent.md).[bIsVisualizationComponent](ue_ue.BrainComponent.md#bisvisualizationcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L301)
 
 ___
 
@@ -420,10 +328,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[bNetAddressable](ue_ue.BrainComponent.md#bnetaddressable)
 
-#### Defined in
-
-[ue/ue.d.ts:293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L293)
-
 ___
 
 ### bReplicates
@@ -433,10 +337,6 @@ ___
 #### Inherited from
 
 [BrainComponent](ue_ue.BrainComponent.md).[bReplicates](ue_ue.BrainComponent.md#breplicates)
-
-#### Defined in
-
-[ue/ue.d.ts:292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L292)
 
 ## Methods
 
@@ -458,10 +358,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[Activate](ue_ue.BrainComponent.md#activate)
 
-#### Defined in
-
-[ue/ue.d.ts:306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L306)
-
 ___
 
 ### AddCooldownTagDuration
@@ -479,10 +375,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:15441](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15441)
 
 ___
 
@@ -504,10 +396,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[AddTickPrerequisiteActor](ue_ue.BrainComponent.md#addtickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L307)
-
 ___
 
 ### AddTickPrerequisiteComponent
@@ -528,10 +416,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[AddTickPrerequisiteComponent](ue_ue.BrainComponent.md#addtickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L308)
-
 ___
 
 ### ComponentHasTag
@@ -551,10 +435,6 @@ ___
 #### Inherited from
 
 [BrainComponent](ue_ue.BrainComponent.md).[ComponentHasTag](ue_ue.BrainComponent.md#componenthastag)
-
-#### Defined in
-
-[ue/ue.d.ts:309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L309)
 
 ___
 
@@ -580,10 +460,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[CreateDefaultSubobject](ue_ue.BrainComponent.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### Deactivate
@@ -597,10 +473,6 @@ ___
 #### Inherited from
 
 [BrainComponent](ue_ue.BrainComponent.md).[Deactivate](ue_ue.BrainComponent.md#deactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L310)
 
 ___
 
@@ -622,10 +494,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[ExecuteUbergraph](ue_ue.BrainComponent.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -639,10 +507,6 @@ ___
 #### Inherited from
 
 [BrainComponent](ue_ue.BrainComponent.md).[GetClass](ue_ue.BrainComponent.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -658,10 +522,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[GetComponentTickInterval](ue_ue.BrainComponent.md#getcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L311)
-
 ___
 
 ### GetName
@@ -675,10 +535,6 @@ ___
 #### Inherited from
 
 [BrainComponent](ue_ue.BrainComponent.md).[GetName](ue_ue.BrainComponent.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -694,10 +550,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[GetOuter](ue_ue.BrainComponent.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetOwner
@@ -711,10 +563,6 @@ ___
 #### Inherited from
 
 [BrainComponent](ue_ue.BrainComponent.md).[GetOwner](ue_ue.BrainComponent.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L312)
 
 ___
 
@@ -732,10 +580,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15442](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15442)
-
 ___
 
 ### GetWorld
@@ -749,10 +593,6 @@ ___
 #### Inherited from
 
 [BrainComponent](ue_ue.BrainComponent.md).[GetWorld](ue_ue.BrainComponent.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -768,10 +608,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[IsActive](ue_ue.BrainComponent.md#isactive)
 
-#### Defined in
-
-[ue/ue.d.ts:313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L313)
-
 ___
 
 ### IsBeingDestroyed
@@ -785,10 +621,6 @@ ___
 #### Inherited from
 
 [BrainComponent](ue_ue.BrainComponent.md).[IsBeingDestroyed](ue_ue.BrainComponent.md#isbeingdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L314)
 
 ___
 
@@ -804,10 +636,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[IsComponentTickEnabled](ue_ue.BrainComponent.md#iscomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L315)
-
 ___
 
 ### IsPaused
@@ -822,10 +650,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[IsPaused](ue_ue.BrainComponent.md#ispaused)
 
-#### Defined in
-
-[ue/ue.d.ts:14987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14987)
-
 ___
 
 ### IsRunning
@@ -839,10 +663,6 @@ ___
 #### Inherited from
 
 [BrainComponent](ue_ue.BrainComponent.md).[IsRunning](ue_ue.BrainComponent.md#isrunning)
-
-#### Defined in
-
-[ue/ue.d.ts:14988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14988)
 
 ___
 
@@ -864,10 +684,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[K2_DestroyComponent](ue_ue.BrainComponent.md#k2_destroycomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L316)
-
 ___
 
 ### OnRep\_IsActive
@@ -882,10 +698,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[OnRep_IsActive](ue_ue.BrainComponent.md#onrep_isactive)
 
-#### Defined in
-
-[ue/ue.d.ts:317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L317)
-
 ___
 
 ### ReceiveBeginPlay
@@ -899,10 +711,6 @@ ___
 #### Inherited from
 
 [BrainComponent](ue_ue.BrainComponent.md).[ReceiveBeginPlay](ue_ue.BrainComponent.md#receivebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L318)
 
 ___
 
@@ -924,10 +732,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[ReceiveEndPlay](ue_ue.BrainComponent.md#receiveendplay)
 
-#### Defined in
-
-[ue/ue.d.ts:319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L319)
-
 ___
 
 ### ReceiveTick
@@ -948,10 +752,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[ReceiveTick](ue_ue.BrainComponent.md#receivetick)
 
-#### Defined in
-
-[ue/ue.d.ts:320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L320)
-
 ___
 
 ### RegisterComponent
@@ -965,10 +765,6 @@ ___
 #### Inherited from
 
 [BrainComponent](ue_ue.BrainComponent.md).[RegisterComponent](ue_ue.BrainComponent.md#registercomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L321)
 
 ___
 
@@ -990,10 +786,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[RemoveTickPrerequisiteActor](ue_ue.BrainComponent.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -1014,10 +806,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[RemoveTickPrerequisiteComponent](ue_ue.BrainComponent.md#removetickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L323)
-
 ___
 
 ### RestartLogic
@@ -1031,10 +819,6 @@ ___
 #### Inherited from
 
 [BrainComponent](ue_ue.BrainComponent.md).[RestartLogic](ue_ue.BrainComponent.md#restartlogic)
-
-#### Defined in
-
-[ue/ue.d.ts:14989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14989)
 
 ___
 
@@ -1057,10 +841,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[SetActive](ue_ue.BrainComponent.md#setactive)
 
-#### Defined in
-
-[ue/ue.d.ts:324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L324)
-
 ___
 
 ### SetAutoActivate
@@ -1080,10 +860,6 @@ ___
 #### Inherited from
 
 [BrainComponent](ue_ue.BrainComponent.md).[SetAutoActivate](ue_ue.BrainComponent.md#setautoactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L325)
 
 ___
 
@@ -1105,10 +881,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[SetComponentTickEnabled](ue_ue.BrainComponent.md#setcomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L326)
-
 ___
 
 ### SetComponentTickInterval
@@ -1129,10 +901,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[SetComponentTickInterval](ue_ue.BrainComponent.md#setcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L327)
-
 ___
 
 ### SetDynamicSubtree
@@ -1149,10 +917,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:15443](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15443)
 
 ___
 
@@ -1174,10 +938,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[SetIsReplicated](ue_ue.BrainComponent.md#setisreplicated)
 
-#### Defined in
-
-[ue/ue.d.ts:328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L328)
-
 ___
 
 ### SetTickGroup
@@ -1197,10 +957,6 @@ ___
 #### Inherited from
 
 [BrainComponent](ue_ue.BrainComponent.md).[SetTickGroup](ue_ue.BrainComponent.md#settickgroup)
-
-#### Defined in
-
-[ue/ue.d.ts:330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L330)
 
 ___
 
@@ -1222,10 +978,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[SetTickableWhenPaused](ue_ue.BrainComponent.md#settickablewhenpaused)
 
-#### Defined in
-
-[ue/ue.d.ts:329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L329)
-
 ___
 
 ### StopLogic
@@ -1246,10 +998,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[StopLogic](ue_ue.BrainComponent.md#stoplogic)
 
-#### Defined in
-
-[ue/ue.d.ts:14990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14990)
-
 ___
 
 ### ToggleActive
@@ -1263,10 +1011,6 @@ ___
 #### Inherited from
 
 [BrainComponent](ue_ue.BrainComponent.md).[ToggleActive](ue_ue.BrainComponent.md#toggleactive)
-
-#### Defined in
-
-[ue/ue.d.ts:331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L331)
 
 ___
 
@@ -1289,10 +1033,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[Find](ue_ue.BrainComponent.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:15445](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15445)
-
 ___
 
 ### Load
@@ -1313,10 +1053,6 @@ ___
 
 [BrainComponent](ue_ue.BrainComponent.md).[Load](ue_ue.BrainComponent.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:15446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15446)
-
 ___
 
 ### StaticClass
@@ -1330,7 +1066,3 @@ ___
 #### Overrides
 
 [BrainComponent](ue_ue.BrainComponent.md).[StaticClass](ue_ue.BrainComponent.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15444](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15444)

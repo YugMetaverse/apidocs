@@ -20,19 +20,11 @@
 
 • **EVertexColorImportOption\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34869)
-
 ___
 
 ### Ignore
 
 • **Ignore** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34869)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Override** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34869)
-
 ___
 
 ### Replace
 
 • **Replace** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34869)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34869)

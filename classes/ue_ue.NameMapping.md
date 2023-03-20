@@ -27,10 +27,6 @@
 
 • **new NameMapping**()
 
-#### Defined in
-
-[ue/ue.d.ts:2485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2485)
-
 • **new NameMapping**(`NodeName`, `BoneName`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `NodeName` | `string` |
 | `BoneName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:2486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2486)
-
 ## Properties
 
 ### BoneName
 
 • **BoneName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:2488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2488)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **NodeName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:2487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2487)
-
 ___
 
 ### \_\_tid\_NameMapping\_\_
 
 • `Private` **\_\_tid\_NameMapping\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2494)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2492)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2493)

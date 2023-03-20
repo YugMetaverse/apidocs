@@ -28,10 +28,6 @@
 
 • **new ForeignControlPointData**()
 
-#### Defined in
-
-[ue/ue.d.ts:43756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43756)
-
 • **new ForeignControlPointData**(`ModificationKey`, `MeshComponent`, `Identifier`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `MeshComponent` | [`ControlPointMeshComponent`](ue_ue.ControlPointMeshComponent.md) |
 | `Identifier` | [`TLazyObjectPtr`](../modules/ue_puerts.md#tlazyobjectptr)<[`LandscapeSplineControlPoint`](ue_ue.LandscapeSplineControlPoint.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:43757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43757)
-
 ## Properties
 
 ### Identifier
 
 • **Identifier**: [`TLazyObjectPtr`](../modules/ue_puerts.md#tlazyobjectptr)<[`LandscapeSplineControlPoint`](ue_ue.LandscapeSplineControlPoint.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:43760](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43760)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **MeshComponent**: [`ControlPointMeshComponent`](ue_ue.ControlPointMeshComponent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43759)
-
 ___
 
 ### ModificationKey
 
 • **ModificationKey**: [`Guid`](ue_ue_s.Guid.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43758](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43758)
-
 ___
 
 ### \_\_tid\_ForeignControlPointData\_\_
 
 • `Private` **\_\_tid\_ForeignControlPointData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43766)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43764)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43765)

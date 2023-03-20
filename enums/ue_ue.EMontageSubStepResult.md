@@ -21,19 +21,11 @@
 
 • **EMontageSubStepResult\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34062)
-
 ___
 
 ### InvalidMontage
 
 • **InvalidMontage** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34062)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **InvalidSection** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34062)
-
 ___
 
 ### Moved
 
 • **Moved** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34062)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **NotMoved** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34062)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34062)

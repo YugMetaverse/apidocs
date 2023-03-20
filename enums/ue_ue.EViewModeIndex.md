@@ -45,19 +45,11 @@
 
 • **VMI\_BrushWireframe** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
-
 ___
 
 ### VMI\_CollisionPawn
 
 • **VMI\_CollisionPawn** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
 
 ___
 
@@ -65,19 +57,11 @@ ___
 
 • **VMI\_CollisionVisibility** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
-
 ___
 
 ### VMI\_GroupLODColoration
 
 • **VMI\_GroupLODColoration** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
 
 ___
 
@@ -85,19 +69,11 @@ ___
 
 • **VMI\_HLODColoration** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
-
 ___
 
 ### VMI\_LODColoration
 
 • **VMI\_LODColoration** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
 
 ___
 
@@ -105,19 +81,11 @@ ___
 
 • **VMI\_LightComplexity** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
-
 ___
 
 ### VMI\_LightingOnly
 
 • **VMI\_LightingOnly** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
 
 ___
 
@@ -125,19 +93,11 @@ ___
 
 • **VMI\_LightmapDensity** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
-
 ___
 
 ### VMI\_Lit
 
 • **VMI\_Lit** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
 
 ___
 
@@ -145,19 +105,11 @@ ___
 
 • **VMI\_LitLightmapDensity** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
-
 ___
 
 ### VMI\_Lit\_DetailLighting
 
 • **VMI\_Lit\_DetailLighting** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
 
 ___
 
@@ -165,19 +117,11 @@ ___
 
 • **VMI\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
-
 ___
 
 ### VMI\_MaterialTextureScaleAccuracy
 
 • **VMI\_MaterialTextureScaleAccuracy** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
 
 ___
 
@@ -185,19 +129,11 @@ ___
 
 • **VMI\_Max** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
-
 ___
 
 ### VMI\_MeshUVDensityAccuracy
 
 • **VMI\_MeshUVDensityAccuracy** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
 
 ___
 
@@ -205,19 +141,11 @@ ___
 
 • **VMI\_PathTracing** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
-
 ___
 
 ### VMI\_PrimitiveDistanceAccuracy
 
 • **VMI\_PrimitiveDistanceAccuracy** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
 
 ___
 
@@ -225,19 +153,11 @@ ___
 
 • **VMI\_QuadOverdraw** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
-
 ___
 
 ### VMI\_RayTracingDebug
 
 • **VMI\_RayTracingDebug** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
 
 ___
 
@@ -245,19 +165,11 @@ ___
 
 • **VMI\_ReflectionOverride** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
-
 ___
 
 ### VMI\_RequiredTextureResolution
 
 • **VMI\_RequiredTextureResolution** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
 
 ___
 
@@ -265,19 +177,11 @@ ___
 
 • **VMI\_ShaderComplexity** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
-
 ___
 
 ### VMI\_ShaderComplexityWithQuadOverdraw
 
 • **VMI\_ShaderComplexityWithQuadOverdraw** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
 
 ___
 
@@ -285,19 +189,11 @@ ___
 
 • **VMI\_StationaryLightOverlap** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
-
 ___
 
 ### VMI\_Unknown
 
 • **VMI\_Unknown** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
 
 ___
 
@@ -305,19 +201,11 @@ ___
 
 • **VMI\_Unlit** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
-
 ___
 
 ### VMI\_VisualizeBuffer
 
 • **VMI\_VisualizeBuffer** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
 
 ___
 
@@ -325,16 +213,8 @@ ___
 
 • **VMI\_Wireframe** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30243)

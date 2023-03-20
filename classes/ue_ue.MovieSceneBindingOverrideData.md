@@ -28,10 +28,6 @@
 
 • **new MovieSceneBindingOverrideData**()
 
-#### Defined in
-
-[ue/ue.d.ts:22681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22681)
-
 • **new MovieSceneBindingOverrideData**(`ObjectBindingId`, `Object`, `bOverridesDefault`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Object` | [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`Object`](ue_ue.Object.md)\> |
 | `bOverridesDefault` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:22682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22682)
-
 ## Properties
 
 ### Object
 
 • **Object**: [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`Object`](ue_ue.Object.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:22684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22684)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **ObjectBindingId**: [`MovieSceneObjectBindingID`](ue_ue.MovieSceneObjectBindingID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22683)
-
 ___
 
 ### \_\_tid\_MovieSceneBindingOverrideData\_\_
 
 • `Private` **\_\_tid\_MovieSceneBindingOverrideData\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:22691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22691)
-
 ___
 
 ### bOverridesDefault
 
 • **bOverridesDefault**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22685)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22689)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22690)

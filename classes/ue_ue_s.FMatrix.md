@@ -25,19 +25,11 @@
 
 • **new FMatrix**()
 
-#### Defined in
-
-[ue/ue_s.d.ts:695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L695)
-
 ## Properties
 
 ### \_\_tid\_FMatrix\_\_
 
 • `Private` **\_\_tid\_FMatrix\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L703)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L700)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L701)

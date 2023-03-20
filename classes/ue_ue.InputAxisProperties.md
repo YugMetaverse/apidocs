@@ -29,10 +29,6 @@
 
 • **new InputAxisProperties**()
 
-#### Defined in
-
-[ue/ue.d.ts:39295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39295)
-
 • **new InputAxisProperties**(`DeadZone`, `Sensitivity`, `Exponent`, `bInvert`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `Exponent` | `number` |
 | `bInvert` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:39296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39296)
-
 ## Properties
 
 ### DeadZone
 
 • **DeadZone**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:39297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39297)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **Exponent**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:39299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39299)
-
 ___
 
 ### Sensitivity
 
 • **Sensitivity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:39298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39298)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • `Private` **\_\_tid\_InputAxisProperties\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:39306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39306)
-
 ___
 
 ### bInvert
 
 • **bInvert**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39300)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39304)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:39305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39305)

@@ -27,10 +27,6 @@
 
 • **new NavCollisionBox**()
 
-#### Defined in
-
-[ue/ue.d.ts:52874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52874)
-
 • **new NavCollisionBox**(`Offset`, `Extent`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Offset` | [`Vector`](ue_ue_s.Vector.md) |
 | `Extent` | [`Vector`](ue_ue_s.Vector.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:52875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52875)
-
 ## Properties
 
 ### Extent
 
 • **Extent**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:52877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52877)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Offset**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:52876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52876)
-
 ___
 
 ### \_\_tid\_NavCollisionBox\_\_
 
 • `Private` **\_\_tid\_NavCollisionBox\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52883)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:52881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52881)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:52882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52882)

@@ -28,10 +28,6 @@
 
 • **new CategoryFilter**()
 
-#### Defined in
-
-[ue/ue.d.ts:46346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46346)
-
 • **new CategoryFilter**(`CategoryName`, `LogVerbosity`, `Enabled`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `LogVerbosity` | `number` |
 | `Enabled` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:46347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46347)
-
 ## Properties
 
 ### CategoryName
 
 • **CategoryName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:46348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46348)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Enabled**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46350)
-
 ___
 
 ### LogVerbosity
 
 • **LogVerbosity**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:46349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46349)
-
 ___
 
 ### \_\_tid\_CategoryFilter\_\_
 
 • `Private` **\_\_tid\_CategoryFilter\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46356)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46354)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46355](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46355)

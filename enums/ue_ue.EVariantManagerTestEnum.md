@@ -21,19 +21,11 @@
 
 • **EVariantManagerTestEnum\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34862)
-
 ___
 
 ### FirstOption
 
 • **FirstOption** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34862)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34862)
-
 ___
 
 ### SecondOption
 
 • **SecondOption** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34862)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **ThirdOption** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34862)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34862)

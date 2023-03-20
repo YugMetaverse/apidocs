@@ -25,19 +25,11 @@
 
 • **new GeometryCacheMeshData**()
 
-#### Defined in
-
-[ue/ue.d.ts:37657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37657)
-
 ## Properties
 
 ### \_\_tid\_GeometryCacheMeshData\_\_
 
 • `Private` **\_\_tid\_GeometryCacheMeshData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:37663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37663)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:37661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37661)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:37662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37662)

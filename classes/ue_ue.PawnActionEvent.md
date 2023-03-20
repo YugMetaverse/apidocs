@@ -26,10 +26,6 @@
 
 • **new PawnActionEvent**()
 
-#### Defined in
-
-[ue/ue.d.ts:14855](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14855)
-
 • **new PawnActionEvent**(`Action`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Action` | [`PawnAction`](ue_ue.PawnAction.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:14856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14856)
-
 ## Properties
 
 ### Action
 
 • **Action**: [`PawnAction`](ue_ue.PawnAction.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14857)
-
 ___
 
 ### \_\_tid\_PawnActionEvent\_\_
 
 • `Private` **\_\_tid\_PawnActionEvent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14863)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14861)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14862)

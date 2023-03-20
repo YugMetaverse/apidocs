@@ -21,19 +21,11 @@
 
 • **PlayOnBuild\_Always** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34681)
-
 ___
 
 ### PlayOnBuild\_Default
 
 • **PlayOnBuild\_Default** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34681)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **PlayOnBuild\_IfEditorBuiltLocally** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34681)
-
 ___
 
 ### PlayOnBuild\_MAX
 
 • **PlayOnBuild\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34681)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **PlayOnBuild\_Never** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34681)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34681)

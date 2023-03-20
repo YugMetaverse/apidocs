@@ -26,10 +26,6 @@
 
 • **new CapturedPixelsID**()
 
-#### Defined in
-
-[ue/ue.d.ts:64793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64793)
-
 • **new CapturedPixelsID**(`Identifiers`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Identifiers` | [`TMap`](../interfaces/ue_puerts.TMap.md)<`string`, `string`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:64794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64794)
-
 ## Properties
 
 ### Identifiers
 
 • **Identifiers**: [`TMap`](../interfaces/ue_puerts.TMap.md)<`string`, `string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:64795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64795)
-
 ___
 
 ### \_\_tid\_CapturedPixelsID\_\_
 
 • `Private` **\_\_tid\_CapturedPixelsID\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64801)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64799)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:64800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64800)

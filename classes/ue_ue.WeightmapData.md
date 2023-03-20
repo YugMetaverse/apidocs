@@ -28,10 +28,6 @@
 
 • **new WeightmapData**()
 
-#### Defined in
-
-[ue/ue.d.ts:43935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43935)
-
 • **new WeightmapData**(`Textures`, `LayerAllocations`, `TextureUsages`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `LayerAllocations` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`WeightmapLayerAllocationInfo`](ue_ue.WeightmapLayerAllocationInfo.md)\> |
 | `TextureUsages` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`LandscapeWeightmapUsage`](ue_ue.LandscapeWeightmapUsage.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:43936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43936)
-
 ## Properties
 
 ### LayerAllocations
 
 • **LayerAllocations**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`WeightmapLayerAllocationInfo`](ue_ue.WeightmapLayerAllocationInfo.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:43938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43938)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **TextureUsages**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`LandscapeWeightmapUsage`](ue_ue.LandscapeWeightmapUsage.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:43939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43939)
-
 ___
 
 ### Textures
 
 • **Textures**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Texture2D`](ue_ue.Texture2D.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:43937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43937)
-
 ___
 
 ### \_\_tid\_WeightmapData\_\_
 
 • `Private` **\_\_tid\_WeightmapData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43945)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43943)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43944)

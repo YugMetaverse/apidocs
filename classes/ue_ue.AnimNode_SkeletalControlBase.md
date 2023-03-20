@@ -91,10 +91,6 @@
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[constructor](ue_ue.AnimNode_Base.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:17713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17713)
-
 • **new AnimNode_SkeletalControlBase**(`ComponentPose`, `LODThreshold`, `ActualAlpha`, `AlphaInputType`, `bAlphaBoolEnabled`, `Alpha`, `AlphaScaleBias`, `AlphaBoolBlend`, `AlphaCurveName`, `AlphaScaleBiasClamp`)
 
 #### Parameters
@@ -116,19 +112,11 @@
 
 UE.AnimNode\_Base.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:17714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17714)
-
 ## Properties
 
 ### ActualAlpha
 
 • **ActualAlpha**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17717)
 
 ___
 
@@ -136,19 +124,11 @@ ___
 
 • **Alpha**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17720)
-
 ___
 
 ### AlphaBoolBlend
 
 • **AlphaBoolBlend**: [`InputAlphaBoolBlend`](ue_ue.InputAlphaBoolBlend.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17722)
 
 ___
 
@@ -156,19 +136,11 @@ ___
 
 • **AlphaCurveName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:17723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17723)
-
 ___
 
 ### AlphaInputType
 
 • **AlphaInputType**: [`EAnimAlphaInputType`](../enums/ue_ue.EAnimAlphaInputType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17718)
 
 ___
 
@@ -176,19 +148,11 @@ ___
 
 • **AlphaScaleBias**: [`InputScaleBias`](ue_ue.InputScaleBias.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17721)
-
 ___
 
 ### AlphaScaleBiasClamp
 
 • **AlphaScaleBiasClamp**: [`InputScaleBiasClamp`](ue_ue.InputScaleBiasClamp.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17724)
 
 ___
 
@@ -196,19 +160,11 @@ ___
 
 • **ComponentPose**: [`ComponentSpacePoseLink`](ue_ue.ComponentSpacePoseLink.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17715)
-
 ___
 
 ### LODThreshold
 
 • **LODThreshold**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17716)
 
 ___
 
@@ -216,19 +172,11 @@ ___
 
 • `Private` **\_\_tid\_AnimNode\_SkeletalControlBase\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:17730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17730)
-
 ___
 
 ### bAlphaBoolEnabled
 
 • **bAlphaBoolEnabled**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17719)
 
 ## Methods
 
@@ -248,10 +196,6 @@ use StaticStruct instead.
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticClass](ue_ue.AnimNode_Base.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:17728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17728)
-
 ___
 
 ### StaticStruct
@@ -265,7 +209,3 @@ ___
 #### Overrides
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticStruct](ue_ue.AnimNode_Base.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:17729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17729)

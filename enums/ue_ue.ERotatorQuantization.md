@@ -19,19 +19,11 @@
 
 • **ByteComponents** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L221)
-
 ___
 
 ### ERotatorQuantization\_MAX
 
 • **ERotatorQuantization\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L221)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **ShortComponents** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L221)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L221)

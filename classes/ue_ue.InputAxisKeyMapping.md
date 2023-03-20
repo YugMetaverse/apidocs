@@ -28,10 +28,6 @@
 
 • **new InputAxisKeyMapping**()
 
-#### Defined in
-
-[ue/ue.d.ts:39340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39340)
-
 • **new InputAxisKeyMapping**(`AxisName`, `Scale`, `Key`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Scale` | `number` |
 | `Key` | [`Key`](ue_ue.Key.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:39341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39341)
-
 ## Properties
 
 ### AxisName
 
 • **AxisName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:39342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39342)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Key**: [`Key`](ue_ue.Key.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39344](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39344)
-
 ___
 
 ### Scale
 
 • **Scale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:39343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39343)
-
 ___
 
 ### \_\_tid\_InputAxisKeyMapping\_\_
 
 • `Private` **\_\_tid\_InputAxisKeyMapping\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39350)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39348)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:39349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39349)

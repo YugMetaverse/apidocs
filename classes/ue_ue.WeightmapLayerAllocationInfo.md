@@ -28,10 +28,6 @@
 
 • **new WeightmapLayerAllocationInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:43910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43910)
-
 • **new WeightmapLayerAllocationInfo**(`LayerInfo`, `WeightmapTextureIndex`, `WeightmapTextureChannel`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `WeightmapTextureIndex` | `number` |
 | `WeightmapTextureChannel` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:43911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43911)
-
 ## Properties
 
 ### LayerInfo
 
 • **LayerInfo**: [`LandscapeLayerInfoObject`](ue_ue.LandscapeLayerInfoObject.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43912)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **WeightmapTextureChannel**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:43914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43914)
-
 ___
 
 ### WeightmapTextureIndex
 
 • **WeightmapTextureIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:43913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43913)
-
 ___
 
 ### \_\_tid\_WeightmapLayerAllocationInfo\_\_
 
 • `Private` **\_\_tid\_WeightmapLayerAllocationInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43920)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43918)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43919)

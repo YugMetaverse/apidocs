@@ -26,10 +26,6 @@
 
 • **new MetaDataTextKeyPattern**()
 
-#### Defined in
-
-[ue/ue.d.ts:46076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46076)
-
 • **new MetaDataTextKeyPattern**(`Pattern`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Pattern` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:46077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46077)
-
 ## Properties
 
 ### Pattern
 
 • **Pattern**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:46078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46078)
-
 ___
 
 ### \_\_tid\_MetaDataTextKeyPattern\_\_
 
 • `Private` **\_\_tid\_MetaDataTextKeyPattern\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46084](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46084)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46082](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46082)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46083](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46083)

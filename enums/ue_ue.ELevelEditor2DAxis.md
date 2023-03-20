@@ -20,19 +20,11 @@
 
 • **ELevelEditor2DAxis\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33944)
-
 ___
 
 ### X
 
 • **X** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33944)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Y** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33944)
-
 ___
 
 ### Z
 
 • **Z** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33944)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33944)

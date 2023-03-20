@@ -23,19 +23,11 @@
 
 • **Double** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33871)
-
 ___
 
 ### EFormatArgumentType\_MAX
 
 • **EFormatArgumentType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33871)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **Float** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33871)
-
 ___
 
 ### Gender
 
 • **Gender** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33871)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **Int** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33871)
-
 ___
 
 ### Text
 
 • **Text** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33871)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **UInt** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33871)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33871)

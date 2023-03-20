@@ -52,10 +52,6 @@
 
 [ViewportDragOperation](ue_ue.ViewportDragOperation.md).[constructor](ue_ue.ViewportDragOperation.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:62453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62453)
-
 ## Properties
 
 ### \_\_tid\_Object\_\_
@@ -66,19 +62,11 @@
 
 [ViewportDragOperation](ue_ue.ViewportDragOperation.md).[__tid_Object__](ue_ue.ViewportDragOperation.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_StretchGizmoHandleDragOperation\_\_
 
 • **\_\_tid\_StretchGizmoHandleDragOperation\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:62458](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62458)
 
 ___
 
@@ -89,10 +77,6 @@ ___
 #### Inherited from
 
 [ViewportDragOperation](ue_ue.ViewportDragOperation.md).[__tid_ViewportDragOperation__](ue_ue.ViewportDragOperation.md#__tid_viewportdragoperation__)
-
-#### Defined in
-
-[ue/ue.d.ts:14396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14396)
 
 ## Methods
 
@@ -118,10 +102,6 @@ ___
 
 [ViewportDragOperation](ue_ue.ViewportDragOperation.md).[CreateDefaultSubobject](ue_ue.ViewportDragOperation.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -142,10 +122,6 @@ ___
 
 [ViewportDragOperation](ue_ue.ViewportDragOperation.md).[ExecuteUbergraph](ue_ue.ViewportDragOperation.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -159,10 +135,6 @@ ___
 #### Inherited from
 
 [ViewportDragOperation](ue_ue.ViewportDragOperation.md).[GetClass](ue_ue.ViewportDragOperation.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -178,10 +150,6 @@ ___
 
 [ViewportDragOperation](ue_ue.ViewportDragOperation.md).[GetName](ue_ue.ViewportDragOperation.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -196,10 +164,6 @@ ___
 
 [ViewportDragOperation](ue_ue.ViewportDragOperation.md).[GetOuter](ue_ue.ViewportDragOperation.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -213,10 +177,6 @@ ___
 #### Inherited from
 
 [ViewportDragOperation](ue_ue.ViewportDragOperation.md).[GetWorld](ue_ue.ViewportDragOperation.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -239,10 +199,6 @@ ___
 
 [ViewportDragOperation](ue_ue.ViewportDragOperation.md).[Find](ue_ue.ViewportDragOperation.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:62455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62455)
-
 ___
 
 ### Load
@@ -263,10 +219,6 @@ ___
 
 [ViewportDragOperation](ue_ue.ViewportDragOperation.md).[Load](ue_ue.ViewportDragOperation.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:62456](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62456)
-
 ___
 
 ### StaticClass
@@ -280,7 +232,3 @@ ___
 #### Overrides
 
 [ViewportDragOperation](ue_ue.ViewportDragOperation.md).[StaticClass](ue_ue.ViewportDragOperation.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:62454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62454)

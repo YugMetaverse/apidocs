@@ -20,19 +20,11 @@
 
 • **Adreno** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16449)
-
 ___
 
 ### EAndroidGraphicsDebugger\_MAX
 
 • **EAndroidGraphicsDebugger\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16449)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Mali** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16449)
-
 ___
 
 ### None
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16449)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16449)

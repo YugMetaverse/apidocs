@@ -28,10 +28,6 @@
 
 • **new FunctionExpressionInput**()
 
-#### Defined in
-
-[ue/ue.d.ts:48583](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48583)
-
 • **new FunctionExpressionInput**(`ExpressionInput`, `ExpressionInputId`, `Input`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `ExpressionInputId` | [`Guid`](ue_ue_s.Guid.md) |
 | `Input` | [`ExpressionInput`](ue_ue.ExpressionInput.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:48584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48584)
-
 ## Properties
 
 ### ExpressionInput
 
 • **ExpressionInput**: [`MaterialExpressionFunctionInput`](ue_ue.MaterialExpressionFunctionInput.md)
-
-#### Defined in
-
-[ue/ue.d.ts:48585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48585)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **ExpressionInputId**: [`Guid`](ue_ue_s.Guid.md)
 
-#### Defined in
-
-[ue/ue.d.ts:48586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48586)
-
 ___
 
 ### Input
 
 • **Input**: [`ExpressionInput`](ue_ue.ExpressionInput.md)
 
-#### Defined in
-
-[ue/ue.d.ts:48587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48587)
-
 ___
 
 ### \_\_tid\_FunctionExpressionInput\_\_
 
 • `Private` **\_\_tid\_FunctionExpressionInput\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:48593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48593)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:48591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48591)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:48592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48592)

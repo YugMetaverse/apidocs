@@ -27,10 +27,6 @@
 
 • **new MagicLeapPlaneBoundaries**()
 
-#### Defined in
-
-[ue/ue.d.ts:46957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46957)
-
 • **new MagicLeapPlaneBoundaries**(`ID`, `Boundaries`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `ID` | [`Guid`](ue_ue_s.Guid.md) |
 | `Boundaries` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MagicLeapPlaneBoundary`](ue_ue.MagicLeapPlaneBoundary.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:46958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46958)
-
 ## Properties
 
 ### Boundaries
 
 • **Boundaries**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MagicLeapPlaneBoundary`](ue_ue.MagicLeapPlaneBoundary.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:46960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46960)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **ID**: [`Guid`](ue_ue_s.Guid.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46959)
-
 ___
 
 ### \_\_tid\_MagicLeapPlaneBoundaries\_\_
 
 • `Private` **\_\_tid\_MagicLeapPlaneBoundaries\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46966)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46964](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46964)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46965](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46965)

@@ -28,10 +28,6 @@
 
 • **new SpriteCategoryInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:2178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2178)
-
 • **new SpriteCategoryInfo**(`Category`, `DisplayName`, `Description`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `DisplayName` | `string` |
 | `Description` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:2179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2179)
-
 ## Properties
 
 ### Category
 
 • **Category**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:2180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2180)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Description**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:2182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2182)
-
 ___
 
 ### DisplayName
 
 • **DisplayName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:2181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2181)
-
 ___
 
 ### \_\_tid\_SpriteCategoryInfo\_\_
 
 • `Private` **\_\_tid\_SpriteCategoryInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2188)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2186)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2187)

@@ -27,10 +27,6 @@
 
 • **new InAppPurchaseProductRequest**()
 
-#### Defined in
-
-[ue/ue.d.ts:38963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38963)
-
 • **new InAppPurchaseProductRequest**(`ProductIdentifier`, `bIsConsumable`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `ProductIdentifier` | `string` |
 | `bIsConsumable` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:38964](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38964)
-
 ## Properties
 
 ### ProductIdentifier
 
 • **ProductIdentifier**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:38965](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38965)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • `Private` **\_\_tid\_InAppPurchaseProductRequest\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:38972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38972)
-
 ___
 
 ### bIsConsumable
 
 • **bIsConsumable**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38966)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38970)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38971)

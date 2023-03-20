@@ -19,19 +19,11 @@
 
 • **EDS\_DestinationPose** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19898)
-
 ___
 
 ### EDS\_MAX
 
 • **EDS\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19898)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **EDS\_SourcePose** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19898)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19898)

@@ -31,10 +31,6 @@
 
 • **new MeshInstancingSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:50479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50479)
-
 • **new MeshInstancingSettings**(`ActorClassToUse`, `InstanceReplacementThreshold`, `MeshReplacementMethod`, `bSkipMeshesWithVertexColors`, `bUseHLODVolumes`, `ISMComponentToUse`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `bUseHLODVolumes` | `boolean` |
 | `ISMComponentToUse` | [`Class`](ue_ue.Class.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:50480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50480)
-
 ## Properties
 
 ### ActorClassToUse
 
 • **ActorClassToUse**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:50481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50481)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **ISMComponentToUse**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:50486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50486)
-
 ___
 
 ### InstanceReplacementThreshold
 
 • **InstanceReplacementThreshold**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:50482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50482)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **MeshReplacementMethod**: [`EMeshInstancingReplacementMethod`](../enums/ue_ue.EMeshInstancingReplacementMethod.md)
 
-#### Defined in
-
-[ue/ue.d.ts:50483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50483)
-
 ___
 
 ### \_\_tid\_MeshInstancingSettings\_\_
 
 • `Private` **\_\_tid\_MeshInstancingSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50492)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **bSkipMeshesWithVertexColors**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:50484](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50484)
-
 ___
 
 ### bUseHLODVolumes
 
 • **bUseHLODVolumes**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50485)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:50490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50490)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:50491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50491)

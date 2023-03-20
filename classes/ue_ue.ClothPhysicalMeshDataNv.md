@@ -65,19 +65,11 @@
 
 [ClothPhysicalMeshDataBase](ue_ue.ClothPhysicalMeshDataBase.md).[constructor](ue_ue.ClothPhysicalMeshDataBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:28027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28027)
-
 ## Properties
 
 ### AnimDriveMultipliers
 
 • **AnimDriveMultipliers**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:28031](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28031)
 
 ___
 
@@ -85,19 +77,11 @@ ___
 
 • **BackstopDistances**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:28029](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28029)
-
 ___
 
 ### BackstopRadiuses
 
 • **BackstopRadiuses**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:28030](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28030)
 
 ___
 
@@ -109,10 +93,6 @@ ___
 
 [ClothPhysicalMeshDataBase](ue_ue.ClothPhysicalMeshDataBase.md).[BoneData](ue_ue.ClothPhysicalMeshDataBase.md#bonedata)
 
-#### Defined in
-
-[ue/ue.d.ts:27660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27660)
-
 ___
 
 ### Indices
@@ -122,10 +102,6 @@ ___
 #### Inherited from
 
 [ClothPhysicalMeshDataBase](ue_ue.ClothPhysicalMeshDataBase.md).[Indices](ue_ue.ClothPhysicalMeshDataBase.md#indices)
-
-#### Defined in
-
-[ue/ue.d.ts:27658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27658)
 
 ___
 
@@ -137,10 +113,6 @@ ___
 
 [ClothPhysicalMeshDataBase](ue_ue.ClothPhysicalMeshDataBase.md).[InverseMasses](ue_ue.ClothPhysicalMeshDataBase.md#inversemasses)
 
-#### Defined in
-
-[ue/ue.d.ts:27659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27659)
-
 ___
 
 ### MaxBoneWeights
@@ -151,19 +123,11 @@ ___
 
 [ClothPhysicalMeshDataBase](ue_ue.ClothPhysicalMeshDataBase.md).[MaxBoneWeights](ue_ue.ClothPhysicalMeshDataBase.md#maxboneweights)
 
-#### Defined in
-
-[ue/ue.d.ts:27662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27662)
-
 ___
 
 ### MaxDistances
 
 • **MaxDistances**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:28028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28028)
 
 ___
 
@@ -175,10 +139,6 @@ ___
 
 [ClothPhysicalMeshDataBase](ue_ue.ClothPhysicalMeshDataBase.md).[Normals](ue_ue.ClothPhysicalMeshDataBase.md#normals)
 
-#### Defined in
-
-[ue/ue.d.ts:27656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27656)
-
 ___
 
 ### NumFixedVerts
@@ -188,10 +148,6 @@ ___
 #### Inherited from
 
 [ClothPhysicalMeshDataBase](ue_ue.ClothPhysicalMeshDataBase.md).[NumFixedVerts](ue_ue.ClothPhysicalMeshDataBase.md#numfixedverts)
-
-#### Defined in
-
-[ue/ue.d.ts:27661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27661)
 
 ___
 
@@ -203,10 +159,6 @@ ___
 
 [ClothPhysicalMeshDataBase](ue_ue.ClothPhysicalMeshDataBase.md).[SelfCollisionIndices](ue_ue.ClothPhysicalMeshDataBase.md#selfcollisionindices)
 
-#### Defined in
-
-[ue/ue.d.ts:27663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27663)
-
 ___
 
 ### VertexColors
@@ -216,10 +168,6 @@ ___
 #### Inherited from
 
 [ClothPhysicalMeshDataBase](ue_ue.ClothPhysicalMeshDataBase.md).[VertexColors](ue_ue.ClothPhysicalMeshDataBase.md#vertexcolors)
-
-#### Defined in
-
-[ue/ue.d.ts:27657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27657)
 
 ___
 
@@ -231,10 +179,6 @@ ___
 
 [ClothPhysicalMeshDataBase](ue_ue.ClothPhysicalMeshDataBase.md).[Vertices](ue_ue.ClothPhysicalMeshDataBase.md#vertices)
 
-#### Defined in
-
-[ue/ue.d.ts:27655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27655)
-
 ___
 
 ### \_\_tid\_ClothPhysicalMeshDataBase\_\_
@@ -245,19 +189,11 @@ ___
 
 [ClothPhysicalMeshDataBase](ue_ue.ClothPhysicalMeshDataBase.md).[__tid_ClothPhysicalMeshDataBase__](ue_ue.ClothPhysicalMeshDataBase.md#__tid_clothphysicalmeshdatabase__)
 
-#### Defined in
-
-[ue/ue.d.ts:27668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27668)
-
 ___
 
 ### \_\_tid\_ClothPhysicalMeshDataNv\_\_
 
 • **\_\_tid\_ClothPhysicalMeshDataNv\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:28036](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28036)
 
 ___
 
@@ -268,10 +204,6 @@ ___
 #### Inherited from
 
 [ClothPhysicalMeshDataBase](ue_ue.ClothPhysicalMeshDataBase.md).[__tid_Object__](ue_ue.ClothPhysicalMeshDataBase.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -297,10 +229,6 @@ ___
 
 [ClothPhysicalMeshDataBase](ue_ue.ClothPhysicalMeshDataBase.md).[CreateDefaultSubobject](ue_ue.ClothPhysicalMeshDataBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -321,10 +249,6 @@ ___
 
 [ClothPhysicalMeshDataBase](ue_ue.ClothPhysicalMeshDataBase.md).[ExecuteUbergraph](ue_ue.ClothPhysicalMeshDataBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -338,10 +262,6 @@ ___
 #### Inherited from
 
 [ClothPhysicalMeshDataBase](ue_ue.ClothPhysicalMeshDataBase.md).[GetClass](ue_ue.ClothPhysicalMeshDataBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -357,10 +277,6 @@ ___
 
 [ClothPhysicalMeshDataBase](ue_ue.ClothPhysicalMeshDataBase.md).[GetName](ue_ue.ClothPhysicalMeshDataBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -375,10 +291,6 @@ ___
 
 [ClothPhysicalMeshDataBase](ue_ue.ClothPhysicalMeshDataBase.md).[GetOuter](ue_ue.ClothPhysicalMeshDataBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -392,10 +304,6 @@ ___
 #### Inherited from
 
 [ClothPhysicalMeshDataBase](ue_ue.ClothPhysicalMeshDataBase.md).[GetWorld](ue_ue.ClothPhysicalMeshDataBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -418,10 +326,6 @@ ___
 
 [ClothPhysicalMeshDataBase](ue_ue.ClothPhysicalMeshDataBase.md).[Find](ue_ue.ClothPhysicalMeshDataBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:28033](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28033)
-
 ___
 
 ### Load
@@ -442,10 +346,6 @@ ___
 
 [ClothPhysicalMeshDataBase](ue_ue.ClothPhysicalMeshDataBase.md).[Load](ue_ue.ClothPhysicalMeshDataBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:28034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28034)
-
 ___
 
 ### StaticClass
@@ -459,7 +359,3 @@ ___
 #### Overrides
 
 [ClothPhysicalMeshDataBase](ue_ue.ClothPhysicalMeshDataBase.md).[StaticClass](ue_ue.ClothPhysicalMeshDataBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:28032](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28032)

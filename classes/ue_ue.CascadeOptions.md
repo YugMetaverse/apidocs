@@ -100,19 +100,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:26248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26248)
-
 ## Properties
 
 ### BackgroundColor
 
 • **BackgroundColor**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26250)
 
 ___
 
@@ -120,19 +112,11 @@ ___
 
 • **Cascade\_MouseMoveThreshold**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26296)
-
 ___
 
 ### Emitter\_Background
 
 • **Emitter\_Background**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26255)
 
 ___
 
@@ -140,19 +124,11 @@ ___
 
 • **Emitter\_Selected**: [`Color`](ue_ue_s.Color.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26257)
-
 ___
 
 ### Emitter\_Unselected
 
 • **Emitter\_Unselected**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26256)
 
 ___
 
@@ -160,19 +136,11 @@ ___
 
 • **Empty\_Background**: [`Color`](ue_ue_s.Color.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26254)
-
 ___
 
 ### FloorMesh
 
 • **FloorMesh**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:26287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26287)
 
 ___
 
@@ -180,19 +148,11 @@ ___
 
 • **FloorPosition**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26288)
-
 ___
 
 ### FloorRotation
 
 • **FloorRotation**: [`Rotator`](ue_ue_s.Rotator.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26289)
 
 ___
 
@@ -200,19 +160,11 @@ ___
 
 • **FloorScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26290)
-
 ___
 
 ### FloorScale3D
 
 • **FloorScale3D**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26291)
 
 ___
 
@@ -220,19 +172,11 @@ ___
 
 • **GridColor\_Hi**: [`Color`](ue_ue_s.Color.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26277)
-
 ___
 
 ### GridColor\_Low
 
 • **GridColor\_Low**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26278)
 
 ___
 
@@ -240,19 +184,11 @@ ___
 
 • **GridPerspectiveSize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26279)
-
 ___
 
 ### ModuleColor\_Beam\_Selected
 
 • **ModuleColor\_Beam\_Selected**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26263)
 
 ___
 
@@ -260,19 +196,11 @@ ___
 
 • **ModuleColor\_Beam\_Unselected**: [`Color`](ue_ue_s.Color.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26262)
-
 ___
 
 ### ModuleColor\_Event\_Selected
 
 • **ModuleColor\_Event\_Selected**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26275)
 
 ___
 
@@ -280,19 +208,11 @@ ___
 
 • **ModuleColor\_Event\_Unselected**: [`Color`](ue_ue_s.Color.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26274)
-
 ___
 
 ### ModuleColor\_General\_Selected
 
 • **ModuleColor\_General\_Selected**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26259)
 
 ___
 
@@ -300,19 +220,11 @@ ___
 
 • **ModuleColor\_General\_Unselected**: [`Color`](ue_ue_s.Color.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26258)
-
 ___
 
 ### ModuleColor\_Light\_Selected
 
 • **ModuleColor\_Light\_Selected**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26269)
 
 ___
 
@@ -320,19 +232,11 @@ ___
 
 • **ModuleColor\_Light\_Unselected**: [`Color`](ue_ue_s.Color.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26268)
-
 ___
 
 ### ModuleColor\_Required\_Selected
 
 • **ModuleColor\_Required\_Selected**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26273)
 
 ___
 
@@ -340,19 +244,11 @@ ___
 
 • **ModuleColor\_Required\_Unselected**: [`Color`](ue_ue_s.Color.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26272)
-
 ___
 
 ### ModuleColor\_Spawn\_Selected
 
 • **ModuleColor\_Spawn\_Selected**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26267)
 
 ___
 
@@ -360,19 +256,11 @@ ___
 
 • **ModuleColor\_Spawn\_Unselected**: [`Color`](ue_ue_s.Color.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26266)
-
 ___
 
 ### ModuleColor\_SubUV\_Selected
 
 • **ModuleColor\_SubUV\_Selected**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26271)
 
 ___
 
@@ -380,19 +268,11 @@ ___
 
 • **ModuleColor\_SubUV\_Unselected**: [`Color`](ue_ue_s.Color.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26270)
-
 ___
 
 ### ModuleColor\_Trail\_Selected
 
 • **ModuleColor\_Trail\_Selected**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26265)
 
 ___
 
@@ -400,19 +280,11 @@ ___
 
 • **ModuleColor\_Trail\_Unselected**: [`Color`](ue_ue_s.Color.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26264)
-
 ___
 
 ### ModuleColor\_TypeData\_Selected
 
 • **ModuleColor\_TypeData\_Selected**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26261)
 
 ___
 
@@ -420,19 +292,11 @@ ___
 
 • **ModuleColor\_TypeData\_Unselected**: [`Color`](ue_ue_s.Color.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26260)
-
 ___
 
 ### MotionModeRadius
 
 • **MotionModeRadius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26297)
 
 ___
 
@@ -440,19 +304,11 @@ ___
 
 • **ParticleMemoryUpdateTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26285)
-
 ___
 
 ### ShowPPFlags
 
 • **ShowPPFlags**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26292)
 
 ___
 
@@ -460,19 +316,11 @@ ___
 
 • **SlimCascadeDrawHeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26294)
-
 ___
 
 ### \_\_tid\_CascadeOptions\_\_
 
 • **\_\_tid\_CascadeOptions\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26302)
 
 ___
 
@@ -484,19 +332,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bCenterCascadeModuleText
 
 • **bCenterCascadeModuleText**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26295)
 
 ___
 
@@ -504,19 +344,11 @@ ___
 
 • **bShowFloor**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:26286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26286)
-
 ___
 
 ### bShowGrid
 
 • **bShowGrid**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26276)
 
 ___
 
@@ -524,19 +356,11 @@ ___
 
 • **bShowModuleDump**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:26249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26249)
-
 ___
 
 ### bShowParticleCounts
 
 • **bShowParticleCounts**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26280)
 
 ___
 
@@ -544,19 +368,11 @@ ___
 
 • **bShowParticleDistance**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:26283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26283)
-
 ___
 
 ### bShowParticleEvents
 
 • **bShowParticleEvents**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26281)
 
 ___
 
@@ -564,19 +380,11 @@ ___
 
 • **bShowParticleMemory**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:26284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26284)
-
 ___
 
 ### bShowParticleTimes
 
 • **bShowParticleTimes**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26282)
 
 ___
 
@@ -584,19 +392,11 @@ ___
 
 • **bUseSlimCascadeDraw**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:26293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26293)
-
 ___
 
 ### bUseSpaceBarReset
 
 • **bUseSpaceBarReset**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26252)
 
 ___
 
@@ -604,19 +404,11 @@ ___
 
 • **bUseSpaceBarResetInLevel**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:26253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26253)
-
 ___
 
 ### bUseSubMenus
 
 • **bUseSubMenus**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26251)
 
 ## Methods
 
@@ -642,10 +434,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -666,10 +454,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -683,10 +467,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -702,10 +482,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -720,10 +496,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -737,10 +509,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -763,10 +531,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:26299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26299)
-
 ___
 
 ### Load
@@ -787,10 +551,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:26300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26300)
-
 ___
 
 ### StaticClass
@@ -804,7 +564,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:26298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26298)

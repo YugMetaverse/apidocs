@@ -23,19 +23,11 @@
 
 • **Both** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33937)
-
 ___
 
 ### ELandscapeToolFlattenMode\_MAX
 
 • **ELandscapeToolFlattenMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33937)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **Interval** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33937)
-
 ___
 
 ### Invalid
 
 • **Invalid** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33937)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **Lower** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33937)
-
 ___
 
 ### Raise
 
 • **Raise** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33937)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **Terrace** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33937)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33937)

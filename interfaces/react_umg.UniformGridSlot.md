@@ -25,19 +25,11 @@
 
 • `Optional` **Column**: `number`
 
-#### Defined in
-
-[react-umg/index.d.ts:98](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L98)
-
 ___
 
 ### HorizontalAlignment
 
 • `Optional` **HorizontalAlignment**: [`EHorizontalAlignment`](../enums/ue_ue.EHorizontalAlignment.md)
-
-#### Defined in
-
-[react-umg/index.d.ts:95](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L95)
 
 ___
 
@@ -45,16 +37,8 @@ ___
 
 • `Optional` **Row**: `number`
 
-#### Defined in
-
-[react-umg/index.d.ts:97](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L97)
-
 ___
 
 ### VerticalAlignment
 
 • `Optional` **VerticalAlignment**: [`EVerticalAlignment`](../enums/ue_ue.EVerticalAlignment.md)
-
-#### Defined in
-
-[react-umg/index.d.ts:96](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L96)

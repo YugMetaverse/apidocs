@@ -27,10 +27,6 @@
 
 • **new BlendProfileBoneEntry**()
 
-#### Defined in
-
-[ue/ue.d.ts:2381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2381)
-
 • **new BlendProfileBoneEntry**(`BoneReference`, `BlendScale`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `BoneReference` | [`BoneReference`](ue_ue.BoneReference.md) |
 | `BlendScale` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:2382](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2382)
-
 ## Properties
 
 ### BlendScale
 
 • **BlendScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2384)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **BoneReference**: [`BoneReference`](ue_ue.BoneReference.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2383)
-
 ___
 
 ### \_\_tid\_BlendProfileBoneEntry\_\_
 
 • `Private` **\_\_tid\_BlendProfileBoneEntry\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2390)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2388)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2389)

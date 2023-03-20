@@ -19,19 +19,11 @@
 
 • **MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31417)
-
 ___
 
 ### Orientation
 
 • **Orientation** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31417)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Translation** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31417)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31417)

@@ -20,19 +20,11 @@
 
 • **Disable** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33878)
-
 ___
 
 ### EGameplayDebuggerOverrideMode\_MAX
 
 • **EGameplayDebuggerOverrideMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33878)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Enable** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33878)
-
 ___
 
 ### UseDefault
 
 • **UseDefault** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33878)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33878)

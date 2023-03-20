@@ -27,10 +27,6 @@
 
 • **new PropertiesToRecordForActorClass**()
 
-#### Defined in
-
-[ue/ue.d.ts:60144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60144)
-
 • **new PropertiesToRecordForActorClass**(`Class`, `Properties`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Class` | [`Class`](ue_ue.Class.md) |
 | `Properties` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:60145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60145)
-
 ## Properties
 
 ### Class
 
 • **Class**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:60146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60146)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Properties**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:60147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60147)
-
 ___
 
 ### \_\_tid\_PropertiesToRecordForActorClass\_\_
 
 • `Private` **\_\_tid\_PropertiesToRecordForActorClass\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:60153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60153)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:60151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60151)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:60152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60152)

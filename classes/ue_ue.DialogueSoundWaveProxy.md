@@ -77,10 +77,6 @@
 
 [SoundBase](ue_ue.SoundBase.md).[constructor](ue_ue.SoundBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:30821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30821)
-
 ## Properties
 
 ### AttenuationSettings
@@ -90,10 +86,6 @@
 #### Inherited from
 
 [SoundBase](ue_ue.SoundBase.md).[AttenuationSettings](ue_ue.SoundBase.md#attenuationsettings)
-
-#### Defined in
-
-[ue/ue.d.ts:9735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9735)
 
 ___
 
@@ -105,10 +97,6 @@ ___
 
 [SoundBase](ue_ue.SoundBase.md).[BusSends](ue_ue.SoundBase.md#bussends)
 
-#### Defined in
-
-[ue/ue.d.ts:9740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9740)
-
 ___
 
 ### ConcurrencyOverrides
@@ -118,10 +106,6 @@ ___
 #### Inherited from
 
 [SoundBase](ue_ue.SoundBase.md).[ConcurrencyOverrides](ue_ue.SoundBase.md#concurrencyoverrides)
-
-#### Defined in
-
-[ue/ue.d.ts:9729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9729)
 
 ___
 
@@ -133,10 +117,6 @@ ___
 
 [SoundBase](ue_ue.SoundBase.md).[ConcurrencySet](ue_ue.SoundBase.md#concurrencyset)
 
-#### Defined in
-
-[ue/ue.d.ts:9728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9728)
-
 ___
 
 ### Duration
@@ -146,10 +126,6 @@ ___
 #### Inherited from
 
 [SoundBase](ue_ue.SoundBase.md).[Duration](ue_ue.SoundBase.md#duration)
-
-#### Defined in
-
-[ue/ue.d.ts:9731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9731)
 
 ___
 
@@ -161,10 +137,6 @@ ___
 
 [SoundBase](ue_ue.SoundBase.md).[MaxConcurrentPlayCount](ue_ue.SoundBase.md#maxconcurrentplaycount)
 
-#### Defined in
-
-[ue/ue.d.ts:9730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9730)
-
 ___
 
 ### MaxConcurrentResolutionRule
@@ -174,10 +146,6 @@ ___
 #### Inherited from
 
 [SoundBase](ue_ue.SoundBase.md).[MaxConcurrentResolutionRule](ue_ue.SoundBase.md#maxconcurrentresolutionrule)
-
-#### Defined in
-
-[ue/ue.d.ts:9726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9726)
 
 ___
 
@@ -189,10 +157,6 @@ ___
 
 [SoundBase](ue_ue.SoundBase.md).[MaxDistance](ue_ue.SoundBase.md#maxdistance)
 
-#### Defined in
-
-[ue/ue.d.ts:9732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9732)
-
 ___
 
 ### Modulation
@@ -202,10 +166,6 @@ ___
 #### Inherited from
 
 [SoundBase](ue_ue.SoundBase.md).[Modulation](ue_ue.SoundBase.md#modulation)
-
-#### Defined in
-
-[ue/ue.d.ts:9736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9736)
 
 ___
 
@@ -217,10 +177,6 @@ ___
 
 [SoundBase](ue_ue.SoundBase.md).[PreEffectBusSends](ue_ue.SoundBase.md#preeffectbussends)
 
-#### Defined in
-
-[ue/ue.d.ts:9741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9741)
-
 ___
 
 ### Priority
@@ -230,10 +186,6 @@ ___
 #### Inherited from
 
 [SoundBase](ue_ue.SoundBase.md).[Priority](ue_ue.SoundBase.md#priority)
-
-#### Defined in
-
-[ue/ue.d.ts:9734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9734)
 
 ___
 
@@ -245,10 +197,6 @@ ___
 
 [SoundBase](ue_ue.SoundBase.md).[SoundClassObject](ue_ue.SoundBase.md#soundclassobject)
 
-#### Defined in
-
-[ue/ue.d.ts:9717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9717)
-
 ___
 
 ### SoundConcurrencySettings
@@ -258,10 +206,6 @@ ___
 #### Inherited from
 
 [SoundBase](ue_ue.SoundBase.md).[SoundConcurrencySettings](ue_ue.SoundBase.md#soundconcurrencysettings)
-
-#### Defined in
-
-[ue/ue.d.ts:9727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9727)
 
 ___
 
@@ -273,10 +217,6 @@ ___
 
 [SoundBase](ue_ue.SoundBase.md).[SoundSubmixObject](ue_ue.SoundBase.md#soundsubmixobject)
 
-#### Defined in
-
-[ue/ue.d.ts:9737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9737)
-
 ___
 
 ### SoundSubmixSends
@@ -286,10 +226,6 @@ ___
 #### Inherited from
 
 [SoundBase](ue_ue.SoundBase.md).[SoundSubmixSends](ue_ue.SoundBase.md#soundsubmixsends)
-
-#### Defined in
-
-[ue/ue.d.ts:9738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9738)
 
 ___
 
@@ -301,10 +237,6 @@ ___
 
 [SoundBase](ue_ue.SoundBase.md).[SourceEffectChain](ue_ue.SoundBase.md#sourceeffectchain)
 
-#### Defined in
-
-[ue/ue.d.ts:9739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9739)
-
 ___
 
 ### TotalSamples
@@ -314,10 +246,6 @@ ___
 #### Inherited from
 
 [SoundBase](ue_ue.SoundBase.md).[TotalSamples](ue_ue.SoundBase.md#totalsamples)
-
-#### Defined in
-
-[ue/ue.d.ts:9733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9733)
 
 ___
 
@@ -329,19 +257,11 @@ ___
 
 [SoundBase](ue_ue.SoundBase.md).[VirtualizationMode](ue_ue.SoundBase.md#virtualizationmode)
 
-#### Defined in
-
-[ue/ue.d.ts:9725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9725)
-
 ___
 
 ### \_\_tid\_DialogueSoundWaveProxy\_\_
 
 • **\_\_tid\_DialogueSoundWaveProxy\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30826)
 
 ___
 
@@ -353,10 +273,6 @@ ___
 
 [SoundBase](ue_ue.SoundBase.md).[__tid_Object__](ue_ue.SoundBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_SoundBase\_\_
@@ -366,10 +282,6 @@ ___
 #### Inherited from
 
 [SoundBase](ue_ue.SoundBase.md).[__tid_SoundBase__](ue_ue.SoundBase.md#__tid_soundbase__)
-
-#### Defined in
-
-[ue/ue.d.ts:9746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9746)
 
 ___
 
@@ -381,10 +293,6 @@ ___
 
 [SoundBase](ue_ue.SoundBase.md).[bBypassVolumeScaleForPriority](ue_ue.SoundBase.md#bbypassvolumescaleforpriority)
 
-#### Defined in
-
-[ue/ue.d.ts:9724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9724)
-
 ___
 
 ### bDebug
@@ -394,10 +302,6 @@ ___
 #### Inherited from
 
 [SoundBase](ue_ue.SoundBase.md).[bDebug](ue_ue.SoundBase.md#bdebug)
-
-#### Defined in
-
-[ue/ue.d.ts:9718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9718)
 
 ___
 
@@ -409,10 +313,6 @@ ___
 
 [SoundBase](ue_ue.SoundBase.md).[bHasConcatenatorNode](ue_ue.SoundBase.md#bhasconcatenatornode)
 
-#### Defined in
-
-[ue/ue.d.ts:9722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9722)
-
 ___
 
 ### bHasDelayNode
@@ -422,10 +322,6 @@ ___
 #### Inherited from
 
 [SoundBase](ue_ue.SoundBase.md).[bHasDelayNode](ue_ue.SoundBase.md#bhasdelaynode)
-
-#### Defined in
-
-[ue/ue.d.ts:9721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9721)
 
 ___
 
@@ -437,10 +333,6 @@ ___
 
 [SoundBase](ue_ue.SoundBase.md).[bHasVirtualizeWhenSilent](ue_ue.SoundBase.md#bhasvirtualizewhensilent)
 
-#### Defined in
-
-[ue/ue.d.ts:9723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9723)
-
 ___
 
 ### bOutputToBusOnly
@@ -451,10 +343,6 @@ ___
 
 [SoundBase](ue_ue.SoundBase.md).[bOutputToBusOnly](ue_ue.SoundBase.md#boutputtobusonly)
 
-#### Defined in
-
-[ue/ue.d.ts:9720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9720)
-
 ___
 
 ### bOverrideConcurrency
@@ -464,10 +352,6 @@ ___
 #### Inherited from
 
 [SoundBase](ue_ue.SoundBase.md).[bOverrideConcurrency](ue_ue.SoundBase.md#boverrideconcurrency)
-
-#### Defined in
-
-[ue/ue.d.ts:9719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9719)
 
 ## Methods
 
@@ -493,10 +377,6 @@ ___
 
 [SoundBase](ue_ue.SoundBase.md).[CreateDefaultSubobject](ue_ue.SoundBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -517,10 +397,6 @@ ___
 
 [SoundBase](ue_ue.SoundBase.md).[ExecuteUbergraph](ue_ue.SoundBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -534,10 +410,6 @@ ___
 #### Inherited from
 
 [SoundBase](ue_ue.SoundBase.md).[GetClass](ue_ue.SoundBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -553,10 +425,6 @@ ___
 
 [SoundBase](ue_ue.SoundBase.md).[GetName](ue_ue.SoundBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -571,10 +439,6 @@ ___
 
 [SoundBase](ue_ue.SoundBase.md).[GetOuter](ue_ue.SoundBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -588,10 +452,6 @@ ___
 #### Inherited from
 
 [SoundBase](ue_ue.SoundBase.md).[GetWorld](ue_ue.SoundBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -614,10 +474,6 @@ ___
 
 [SoundBase](ue_ue.SoundBase.md).[Find](ue_ue.SoundBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:30823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30823)
-
 ___
 
 ### Load
@@ -638,10 +494,6 @@ ___
 
 [SoundBase](ue_ue.SoundBase.md).[Load](ue_ue.SoundBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:30824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30824)
-
 ___
 
 ### StaticClass
@@ -655,7 +507,3 @@ ___
 #### Overrides
 
 [SoundBase](ue_ue.SoundBase.md).[StaticClass](ue_ue.SoundBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:30822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30822)

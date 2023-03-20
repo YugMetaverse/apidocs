@@ -72,10 +72,6 @@
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[constructor](ue_ue.InterpTrackVectorBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:39844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39844)
-
 ## Properties
 
 ### ActiveCondition
@@ -85,10 +81,6 @@
 #### Inherited from
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[ActiveCondition](ue_ue.InterpTrackVectorBase.md#activecondition)
-
-#### Defined in
-
-[ue/ue.d.ts:7487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7487)
 
 ___
 
@@ -100,19 +92,11 @@ ___
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[CurveTension](ue_ue.InterpTrackVectorBase.md#curvetension)
 
-#### Defined in
-
-[ue/ue.d.ts:39802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39802)
-
 ___
 
 ### PropertyName
 
 • **PropertyName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:39845](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39845)
 
 ___
 
@@ -124,10 +108,6 @@ ___
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[SubTrackGroups](ue_ue.InterpTrackVectorBase.md#subtrackgroups)
 
-#### Defined in
-
-[ue/ue.d.ts:7484](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7484)
-
 ___
 
 ### SubTracks
@@ -137,10 +117,6 @@ ___
 #### Inherited from
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[SubTracks](ue_ue.InterpTrackVectorBase.md#subtracks)
-
-#### Defined in
-
-[ue/ue.d.ts:7483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7483)
 
 ___
 
@@ -152,10 +128,6 @@ ___
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[SupportedSubTracks](ue_ue.InterpTrackVectorBase.md#supportedsubtracks)
 
-#### Defined in
-
-[ue/ue.d.ts:7485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7485)
-
 ___
 
 ### TrackIcon
@@ -165,10 +137,6 @@ ___
 #### Inherited from
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[TrackIcon](ue_ue.InterpTrackVectorBase.md#trackicon)
-
-#### Defined in
-
-[ue/ue.d.ts:7493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7493)
 
 ___
 
@@ -180,10 +148,6 @@ ___
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[TrackInstClass](ue_ue.InterpTrackVectorBase.md#trackinstclass)
 
-#### Defined in
-
-[ue/ue.d.ts:7486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7486)
-
 ___
 
 ### TrackTitle
@@ -193,10 +157,6 @@ ___
 #### Inherited from
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[TrackTitle](ue_ue.InterpTrackVectorBase.md#tracktitle)
-
-#### Defined in
-
-[ue/ue.d.ts:7488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7488)
 
 ___
 
@@ -208,19 +168,11 @@ ___
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[VectorTrack](ue_ue.InterpTrackVectorBase.md#vectortrack)
 
-#### Defined in
-
-[ue/ue.d.ts:39801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39801)
-
 ___
 
 ### \_\_tid\_InterpTrackColorProp\_\_
 
 • **\_\_tid\_InterpTrackColorProp\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39850)
 
 ___
 
@@ -232,10 +184,6 @@ ___
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[__tid_InterpTrackVectorBase__](ue_ue.InterpTrackVectorBase.md#__tid_interptrackvectorbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:39807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39807)
-
 ___
 
 ### \_\_tid\_InterpTrack\_\_
@@ -245,10 +193,6 @@ ___
 #### Inherited from
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[__tid_InterpTrack__](ue_ue.InterpTrackVectorBase.md#__tid_interptrack__)
-
-#### Defined in
-
-[ue/ue.d.ts:7503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7503)
 
 ___
 
@@ -260,10 +204,6 @@ ___
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[__tid_Object__](ue_ue.InterpTrackVectorBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bDirGroupOnly
@@ -273,10 +213,6 @@ ___
 #### Inherited from
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[bDirGroupOnly](ue_ue.InterpTrackVectorBase.md#bdirgrouponly)
-
-#### Defined in
-
-[ue/ue.d.ts:7490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7490)
 
 ___
 
@@ -288,10 +224,6 @@ ___
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[bDisableTrack](ue_ue.InterpTrackVectorBase.md#bdisabletrack)
 
-#### Defined in
-
-[ue/ue.d.ts:7491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7491)
-
 ___
 
 ### bIsAnimControlTrack
@@ -301,10 +233,6 @@ ___
 #### Inherited from
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[bIsAnimControlTrack](ue_ue.InterpTrackVectorBase.md#bisanimcontroltrack)
-
-#### Defined in
-
-[ue/ue.d.ts:7494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7494)
 
 ___
 
@@ -316,10 +244,6 @@ ___
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[bIsCollapsed](ue_ue.InterpTrackVectorBase.md#biscollapsed)
 
-#### Defined in
-
-[ue/ue.d.ts:7498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7498)
-
 ___
 
 ### bIsRecording
@@ -329,10 +253,6 @@ ___
 #### Inherited from
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[bIsRecording](ue_ue.InterpTrackVectorBase.md#bisrecording)
-
-#### Defined in
-
-[ue/ue.d.ts:7497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7497)
 
 ___
 
@@ -344,10 +264,6 @@ ___
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[bIsSelected](ue_ue.InterpTrackVectorBase.md#bisselected)
 
-#### Defined in
-
-[ue/ue.d.ts:7492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7492)
-
 ___
 
 ### bOnePerGroup
@@ -357,10 +273,6 @@ ___
 #### Inherited from
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[bOnePerGroup](ue_ue.InterpTrackVectorBase.md#bonepergroup)
-
-#### Defined in
-
-[ue/ue.d.ts:7489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7489)
 
 ___
 
@@ -372,10 +284,6 @@ ___
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[bSubTrackOnly](ue_ue.InterpTrackVectorBase.md#bsubtrackonly)
 
-#### Defined in
-
-[ue/ue.d.ts:7495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7495)
-
 ___
 
 ### bVisible
@@ -385,10 +293,6 @@ ___
 #### Inherited from
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[bVisible](ue_ue.InterpTrackVectorBase.md#bvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:7496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7496)
 
 ## Methods
 
@@ -414,10 +318,6 @@ ___
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[CreateDefaultSubobject](ue_ue.InterpTrackVectorBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -438,10 +338,6 @@ ___
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[ExecuteUbergraph](ue_ue.InterpTrackVectorBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -455,10 +351,6 @@ ___
 #### Inherited from
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[GetClass](ue_ue.InterpTrackVectorBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -474,10 +366,6 @@ ___
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[GetName](ue_ue.InterpTrackVectorBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -492,10 +380,6 @@ ___
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[GetOuter](ue_ue.InterpTrackVectorBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -509,10 +393,6 @@ ___
 #### Inherited from
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[GetWorld](ue_ue.InterpTrackVectorBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -535,10 +415,6 @@ ___
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[Find](ue_ue.InterpTrackVectorBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:39847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39847)
-
 ___
 
 ### Load
@@ -559,10 +435,6 @@ ___
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[Load](ue_ue.InterpTrackVectorBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:39848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39848)
-
 ___
 
 ### StaticClass
@@ -576,7 +448,3 @@ ___
 #### Overrides
 
 [InterpTrackVectorBase](ue_ue.InterpTrackVectorBase.md).[StaticClass](ue_ue.InterpTrackVectorBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:39846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39846)

@@ -28,10 +28,6 @@
 
 • **new MagicLeapFixationComfort**()
 
-#### Defined in
-
-[ue/ue.d.ts:46627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46627)
-
 • **new MagicLeapFixationComfort**(`FixationDepthIsUncomfortable`, `FixationDepthViolationHasOccurred`, `RemainingTimeAtUncomfortableDepth`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `FixationDepthViolationHasOccurred` | `boolean` |
 | `RemainingTimeAtUncomfortableDepth` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:46628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46628)
-
 ## Properties
 
 ### FixationDepthIsUncomfortable
 
 • **FixationDepthIsUncomfortable**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46629)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **FixationDepthViolationHasOccurred**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46630)
-
 ___
 
 ### RemainingTimeAtUncomfortableDepth
 
 • **RemainingTimeAtUncomfortableDepth**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:46631](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46631)
-
 ___
 
 ### \_\_tid\_MagicLeapFixationComfort\_\_
 
 • `Private` **\_\_tid\_MagicLeapFixationComfort\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46637)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46635)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46636)

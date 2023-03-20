@@ -20,19 +20,11 @@
 
 • **BackstopDistances** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34654)
-
 ___
 
 ### BackstopRadius
 
 • **BackstopRadius** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34654)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **EPaintableClothProperty\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34654)
-
 ___
 
 ### MaxDistances
 
 • **MaxDistances** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34654)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34654)

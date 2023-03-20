@@ -21,19 +21,11 @@
 
 • **Bits16** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16404)
-
 ___
 
 ### Bits24
 
 • **Bits24** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16404)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Bits32** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16404)
-
 ___
 
 ### Default
 
 • **Default** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16404)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **EAndroidDepthBufferPreference\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16404)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16404)

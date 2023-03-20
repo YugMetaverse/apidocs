@@ -24,19 +24,11 @@
 
 • **CustomPlane** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L598)
-
 ___
 
 ### Default
 
 • **Default** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L598)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **EDOFMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L598)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L598)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **SixDOF** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L598)
-
 ___
 
 ### XYPlane
 
 • **XYPlane** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L598)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **XZPlane** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L598)
-
 ___
 
 ### YZPlane
 
 • **YZPlane** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L598)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L598)

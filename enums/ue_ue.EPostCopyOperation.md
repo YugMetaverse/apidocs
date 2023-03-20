@@ -19,19 +19,11 @@
 
 • **EPostCopyOperation\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4926)
-
 ___
 
 ### LogicalNegateBool
 
 • **LogicalNegateBool** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4926)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4926)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4926)

@@ -43,10 +43,6 @@
 
 • **new PreviewSceneProfile**()
 
-#### Defined in
-
-[ue/ue.d.ts:22010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22010)
-
 • **new PreviewSceneProfile**(`ProfileName`, `bSharedProfile`, `bUseSkyLighting`, `DirectionalLightIntensity`, `DirectionalLightColor`, `SkyLightIntensity`, `bRotateLightingRig`, `bShowEnvironment`, `bShowFloor`, `EnvironmentColor`, `EnvironmentIntensity`, `EnvironmentCubeMap`, `EnvironmentCubeMapPath`, `bPostProcessingEnabled`, `PostProcessingSettings`, `LightingRigRotation`, `RotationSpeed`, `DirectionalLightRotation`)
 
 #### Parameters
@@ -72,19 +68,11 @@
 | `RotationSpeed` | `number` |
 | `DirectionalLightRotation` | [`Rotator`](ue_ue_s.Rotator.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:22011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22011)
-
 ## Properties
 
 ### DirectionalLightColor
 
 • **DirectionalLightColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22016)
 
 ___
 
@@ -92,19 +80,11 @@ ___
 
 • **DirectionalLightIntensity**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22015)
-
 ___
 
 ### DirectionalLightRotation
 
 • **DirectionalLightRotation**: [`Rotator`](ue_ue_s.Rotator.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22029](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22029)
 
 ___
 
@@ -112,19 +92,11 @@ ___
 
 • **EnvironmentColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22021)
-
 ___
 
 ### EnvironmentCubeMap
 
 • **EnvironmentCubeMap**: [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`TextureCube`](ue_ue.TextureCube.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:22023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22023)
 
 ___
 
@@ -132,19 +104,11 @@ ___
 
 • **EnvironmentCubeMapPath**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:22024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22024)
-
 ___
 
 ### EnvironmentIntensity
 
 • **EnvironmentIntensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22022)
 
 ___
 
@@ -152,19 +116,11 @@ ___
 
 • **LightingRigRotation**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22027)
-
 ___
 
 ### PostProcessingSettings
 
 • **PostProcessingSettings**: [`PostProcessSettings`](ue_ue.PostProcessSettings.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22026](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22026)
 
 ___
 
@@ -172,19 +128,11 @@ ___
 
 • **ProfileName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:22012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22012)
-
 ___
 
 ### RotationSpeed
 
 • **RotationSpeed**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22028)
 
 ___
 
@@ -192,19 +140,11 @@ ___
 
 • **SkyLightIntensity**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22017)
-
 ___
 
 ### \_\_tid\_PreviewSceneProfile\_\_
 
 • `Private` **\_\_tid\_PreviewSceneProfile\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22035](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22035)
 
 ___
 
@@ -212,19 +152,11 @@ ___
 
 • **bPostProcessingEnabled**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:22025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22025)
-
 ___
 
 ### bRotateLightingRig
 
 • **bRotateLightingRig**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22018)
 
 ___
 
@@ -232,19 +164,11 @@ ___
 
 • **bSharedProfile**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:22013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22013)
-
 ___
 
 ### bShowEnvironment
 
 • **bShowEnvironment**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22019)
 
 ___
 
@@ -252,19 +176,11 @@ ___
 
 • **bShowFloor**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:22020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22020)
-
 ___
 
 ### bUseSkyLighting
 
 • **bUseSkyLighting**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22014)
 
 ## Methods
 
@@ -280,10 +196,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22033](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22033)
-
 ___
 
 ### StaticStruct
@@ -293,7 +205,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22034)

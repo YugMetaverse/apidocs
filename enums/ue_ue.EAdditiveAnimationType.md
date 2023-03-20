@@ -20,19 +20,11 @@
 
 • **AAT\_LocalSpaceBase** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3193)
-
 ___
 
 ### AAT\_MAX
 
 • **AAT\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3193)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **AAT\_None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3193)
-
 ___
 
 ### AAT\_RotationOffsetMeshSpace
 
 • **AAT\_RotationOffsetMeshSpace** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3193)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3193)

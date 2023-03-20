@@ -481,10 +481,6 @@
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[constructor](ue_ue.StaticMeshComponent.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:26060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26060)
-
 ## Properties
 
 ### AlwaysLoadOnClient
@@ -494,10 +490,6 @@
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[AlwaysLoadOnClient](ue_ue.StaticMeshComponent.md#alwaysloadonclient)
-
-#### Defined in
-
-[ue/ue.d.ts:12608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12608)
 
 ___
 
@@ -509,10 +501,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[AlwaysLoadOnServer](ue_ue.StaticMeshComponent.md#alwaysloadonserver)
 
-#### Defined in
-
-[ue/ue.d.ts:12609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12609)
-
 ___
 
 ### AssetUserData
@@ -522,10 +510,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[AssetUserData](ue_ue.StaticMeshComponent.md#assetuserdata)
-
-#### Defined in
-
-[ue/ue.d.ts:291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L291)
 
 ___
 
@@ -537,10 +521,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[AttachChildren](ue_ue.StaticMeshComponent.md#attachchildren)
 
-#### Defined in
-
-[ue/ue.d.ts:12873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12873)
-
 ___
 
 ### AttachParent
@@ -550,10 +530,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[AttachParent](ue_ue.StaticMeshComponent.md#attachparent)
-
-#### Defined in
-
-[ue/ue.d.ts:12871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12871)
 
 ___
 
@@ -565,10 +541,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[AttachSocketName](ue_ue.StaticMeshComponent.md#attachsocketname)
 
-#### Defined in
-
-[ue/ue.d.ts:12872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12872)
-
 ___
 
 ### BodyInstance
@@ -579,19 +551,11 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[BodyInstance](ue_ue.StaticMeshComponent.md#bodyinstance)
 
-#### Defined in
-
-[ue/ue.d.ts:12630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12630)
-
 ___
 
 ### BodySetup
 
 • **BodySetup**: [`BodySetup`](ue_ue.BodySetup.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26065)
 
 ___
 
@@ -603,10 +567,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[BoundsScale](ue_ue.StaticMeshComponent.md#boundsscale)
 
-#### Defined in
-
-[ue/ue.d.ts:12627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12627)
-
 ___
 
 ### CachedMaxDrawDistance
@@ -617,19 +577,11 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[CachedMaxDrawDistance](ue_ue.StaticMeshComponent.md#cachedmaxdrawdistance)
 
-#### Defined in
-
-[ue/ue.d.ts:12557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12557)
-
 ___
 
 ### CachedMeshBodySetupGuid
 
 • **CachedMeshBodySetupGuid**: [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26064)
 
 ___
 
@@ -641,10 +593,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[CanBeCharacterBase](ue_ue.StaticMeshComponent.md#canbecharacterbase)
 
-#### Defined in
-
-[ue/ue.d.ts:12613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12613)
-
 ___
 
 ### CanCharacterStepUpOn
@@ -654,10 +602,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[CanCharacterStepUpOn](ue_ue.StaticMeshComponent.md#cancharacterstepupon)
-
-#### Defined in
-
-[ue/ue.d.ts:12614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12614)
 
 ___
 
@@ -669,10 +613,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[CastShadow](ue_ue.StaticMeshComponent.md#castshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12587)
-
 ___
 
 ### ClientAttachedChildren
@@ -682,10 +622,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[ClientAttachedChildren](ue_ue.StaticMeshComponent.md#clientattachedchildren)
-
-#### Defined in
-
-[ue/ue.d.ts:12874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12874)
 
 ___
 
@@ -697,10 +633,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[ComponentTags](ue_ue.StaticMeshComponent.md#componenttags)
 
-#### Defined in
-
-[ue/ue.d.ts:290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L290)
-
 ___
 
 ### ComponentVelocity
@@ -710,10 +642,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[ComponentVelocity](ue_ue.StaticMeshComponent.md#componentvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12878)
 
 ___
 
@@ -725,10 +653,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[CreationMethod](ue_ue.StaticMeshComponent.md#creationmethod)
 
-#### Defined in
-
-[ue/ue.d.ts:302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L302)
-
 ___
 
 ### CustomDepthStencilValue
@@ -738,10 +662,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[CustomDepthStencilValue](ue_ue.StaticMeshComponent.md#customdepthstencilvalue)
-
-#### Defined in
-
-[ue/ue.d.ts:12617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12617)
 
 ___
 
@@ -753,10 +673,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[CustomDepthStencilWriteMask](ue_ue.StaticMeshComponent.md#customdepthstencilwritemask)
 
-#### Defined in
-
-[ue/ue.d.ts:12616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12616)
-
 ___
 
 ### CustomPrimitiveData
@@ -766,10 +682,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[CustomPrimitiveData](ue_ue.StaticMeshComponent.md#customprimitivedata)
-
-#### Defined in
-
-[ue/ue.d.ts:12618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12618)
 
 ___
 
@@ -781,10 +693,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[DepthPriorityGroup](ue_ue.StaticMeshComponent.md#depthprioritygroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12558](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12558)
-
 ___
 
 ### DetailMode
@@ -794,10 +702,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[DetailMode](ue_ue.StaticMeshComponent.md#detailmode)
-
-#### Defined in
-
-[ue/ue.d.ts:12893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12893)
 
 ___
 
@@ -809,10 +713,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[DistanceFieldIndirectShadowMinVisibility](ue_ue.StaticMeshComponent.md#distancefieldindirectshadowminvisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:10614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10614)
-
 ___
 
 ### DistanceFieldSelfShadowBias
@@ -822,10 +722,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[DistanceFieldSelfShadowBias](ue_ue.StaticMeshComponent.md#distancefieldselfshadowbias)
-
-#### Defined in
-
-[ue/ue.d.ts:10615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10615)
 
 ___
 
@@ -837,10 +733,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[ExcludeForSpecificHLODLevels](ue_ue.StaticMeshComponent.md#excludeforspecifichlodlevels)
 
-#### Defined in
-
-[ue/ue.d.ts:12562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12562)
-
 ___
 
 ### ForcedLodModel
@@ -851,19 +743,11 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[ForcedLodModel](ue_ue.StaticMeshComponent.md#forcedlodmodel)
 
-#### Defined in
-
-[ue/ue.d.ts:10587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10587)
-
 ___
 
 ### ForwardAxis
 
 • **ForwardAxis**: [`ESplineMeshAxis`](../enums/ue_ue.ESplineMeshAxis.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26070)
 
 ___
 
@@ -875,10 +759,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[IndirectLightingCacheQuality](ue_ue.StaticMeshComponent.md#indirectlightingcachequality)
 
-#### Defined in
-
-[ue/ue.d.ts:12560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12560)
-
 ___
 
 ### IrrelevantLights
@@ -888,10 +768,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[IrrelevantLights](ue_ue.StaticMeshComponent.md#irrelevantlights)
-
-#### Defined in
-
-[ue/ue.d.ts:10617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10617)
 
 ___
 
@@ -903,10 +779,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[LDMaxDrawDistance](ue_ue.StaticMeshComponent.md#ldmaxdrawdistance)
 
-#### Defined in
-
-[ue/ue.d.ts:12556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12556)
-
 ___
 
 ### LODData
@@ -916,10 +788,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[LODData](ue_ue.StaticMeshComponent.md#loddata)
-
-#### Defined in
-
-[ue/ue.d.ts:10618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10618)
 
 ___
 
@@ -931,10 +799,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[LODParentPrimitive](ue_ue.StaticMeshComponent.md#lodparentprimitive)
 
-#### Defined in
-
-[ue/ue.d.ts:12644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12644)
-
 ___
 
 ### LightingChannels
@@ -944,10 +808,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[LightingChannels](ue_ue.StaticMeshComponent.md#lightingchannels)
-
-#### Defined in
-
-[ue/ue.d.ts:12615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12615)
 
 ___
 
@@ -959,10 +819,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[LightmapType](ue_ue.StaticMeshComponent.md#lightmaptype)
 
-#### Defined in
-
-[ue/ue.d.ts:12561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12561)
-
 ___
 
 ### LightmassSettings
@@ -972,10 +828,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[LightmassSettings](ue_ue.StaticMeshComponent.md#lightmasssettings)
-
-#### Defined in
-
-[ue/ue.d.ts:10622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10622)
 
 ___
 
@@ -987,10 +839,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[LpvBiasMultiplier](ue_ue.StaticMeshComponent.md#lpvbiasmultiplier)
 
-#### Defined in
-
-[ue/ue.d.ts:12626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12626)
-
 ___
 
 ### MaterialIndexPreview
@@ -1000,10 +848,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[MaterialIndexPreview](ue_ue.StaticMeshComponent.md#materialindexpreview)
-
-#### Defined in
-
-[ue/ue.d.ts:10597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10597)
 
 ___
 
@@ -1015,10 +859,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[MaterialStreamingRelativeBoxes](ue_ue.StaticMeshComponent.md#materialstreamingrelativeboxes)
 
-#### Defined in
-
-[ue/ue.d.ts:10621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10621)
-
 ___
 
 ### MinDrawDistance
@@ -1028,10 +868,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[MinDrawDistance](ue_ue.StaticMeshComponent.md#mindrawdistance)
-
-#### Defined in
-
-[ue/ue.d.ts:12555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12555)
 
 ___
 
@@ -1043,10 +879,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[MinLOD](ue_ue.StaticMeshComponent.md#minlod)
 
-#### Defined in
-
-[ue/ue.d.ts:10589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10589)
-
 ___
 
 ### Mobility
@@ -1056,10 +888,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[Mobility](ue_ue.StaticMeshComponent.md#mobility)
-
-#### Defined in
-
-[ue/ue.d.ts:12892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12892)
 
 ___
 
@@ -1071,10 +899,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[MoveIgnoreActors](ue_ue.StaticMeshComponent.md#moveignoreactors)
 
-#### Defined in
-
-[ue/ue.d.ts:12628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12628)
-
 ___
 
 ### MoveIgnoreComponents
@@ -1084,10 +908,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[MoveIgnoreComponents](ue_ue.StaticMeshComponent.md#moveignorecomponents)
-
-#### Defined in
-
-[ue/ue.d.ts:12629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12629)
 
 ___
 
@@ -1099,10 +919,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[OnBeginCursorOver](ue_ue.StaticMeshComponent.md#onbegincursorover)
 
-#### Defined in
-
-[ue/ue.d.ts:12636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12636)
-
 ___
 
 ### OnClicked
@@ -1112,10 +928,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[OnClicked](ue_ue.StaticMeshComponent.md#onclicked)
-
-#### Defined in
-
-[ue/ue.d.ts:12638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12638)
 
 ___
 
@@ -1127,10 +939,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[OnComponentActivated](ue_ue.StaticMeshComponent.md#oncomponentactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L303)
-
 ___
 
 ### OnComponentBeginOverlap
@@ -1140,10 +948,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[OnComponentBeginOverlap](ue_ue.StaticMeshComponent.md#oncomponentbeginoverlap)
-
-#### Defined in
-
-[ue/ue.d.ts:12632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12632)
 
 ___
 
@@ -1155,10 +959,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[OnComponentDeactivated](ue_ue.StaticMeshComponent.md#oncomponentdeactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L304)
-
 ___
 
 ### OnComponentEndOverlap
@@ -1168,10 +968,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[OnComponentEndOverlap](ue_ue.StaticMeshComponent.md#oncomponentendoverlap)
-
-#### Defined in
-
-[ue/ue.d.ts:12633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12633)
 
 ___
 
@@ -1183,10 +979,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[OnComponentHit](ue_ue.StaticMeshComponent.md#oncomponenthit)
 
-#### Defined in
-
-[ue/ue.d.ts:12631](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12631)
-
 ___
 
 ### OnComponentSleep
@@ -1196,10 +988,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[OnComponentSleep](ue_ue.StaticMeshComponent.md#oncomponentsleep)
-
-#### Defined in
-
-[ue/ue.d.ts:12635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12635)
 
 ___
 
@@ -1211,10 +999,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[OnComponentWake](ue_ue.StaticMeshComponent.md#oncomponentwake)
 
-#### Defined in
-
-[ue/ue.d.ts:12634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12634)
-
 ___
 
 ### OnEndCursorOver
@@ -1224,10 +1008,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[OnEndCursorOver](ue_ue.StaticMeshComponent.md#onendcursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:12637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12637)
 
 ___
 
@@ -1239,10 +1019,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[OnInputTouchBegin](ue_ue.StaticMeshComponent.md#oninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:12640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12640)
-
 ___
 
 ### OnInputTouchEnd
@@ -1252,10 +1028,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[OnInputTouchEnd](ue_ue.StaticMeshComponent.md#oninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:12641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12641)
 
 ___
 
@@ -1267,10 +1039,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[OnInputTouchEnter](ue_ue.StaticMeshComponent.md#oninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:12642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12642)
-
 ___
 
 ### OnInputTouchLeave
@@ -1280,10 +1048,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[OnInputTouchLeave](ue_ue.StaticMeshComponent.md#oninputtouchleave)
-
-#### Defined in
-
-[ue/ue.d.ts:12643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12643)
 
 ___
 
@@ -1295,10 +1059,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[OnReleased](ue_ue.StaticMeshComponent.md#onreleased)
 
-#### Defined in
-
-[ue/ue.d.ts:12639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12639)
-
 ___
 
 ### OverriddenLightMapRes
@@ -1308,10 +1068,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[OverriddenLightMapRes](ue_ue.StaticMeshComponent.md#overriddenlightmapres)
-
-#### Defined in
-
-[ue/ue.d.ts:10613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10613)
 
 ___
 
@@ -1323,10 +1079,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[OverrideMaterials](ue_ue.StaticMeshComponent.md#overridematerials)
 
-#### Defined in
-
-[ue/ue.d.ts:2296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2296)
-
 ___
 
 ### PhysicsVolume
@@ -1336,10 +1088,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[PhysicsVolume](ue_ue.StaticMeshComponent.md#physicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12870)
 
 ___
 
@@ -1351,10 +1099,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[PhysicsVolumeChangedDelegate](ue_ue.StaticMeshComponent.md#physicsvolumechangeddelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:12894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12894)
-
 ___
 
 ### PreviousLODLevel
@@ -1364,10 +1108,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[PreviousLODLevel](ue_ue.StaticMeshComponent.md#previouslodlevel)
-
-#### Defined in
-
-[ue/ue.d.ts:10588](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10588)
 
 ___
 
@@ -1379,10 +1119,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[PrimaryComponentTick](ue_ue.StaticMeshComponent.md#primarycomponenttick)
 
-#### Defined in
-
-[ue/ue.d.ts:289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L289)
-
 ___
 
 ### RelativeLocation
@@ -1392,10 +1128,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[RelativeLocation](ue_ue.StaticMeshComponent.md#relativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12875)
 
 ___
 
@@ -1407,10 +1139,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[RelativeRotation](ue_ue.StaticMeshComponent.md#relativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12876)
-
 ___
 
 ### RelativeScale3D
@@ -1420,10 +1148,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[RelativeScale3D](ue_ue.StaticMeshComponent.md#relativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:12877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12877)
 
 ___
 
@@ -1435,10 +1159,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[RuntimeVirtualTextures](ue_ue.StaticMeshComponent.md#runtimevirtualtextures)
 
-#### Defined in
-
-[ue/ue.d.ts:12621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12621)
-
 ___
 
 ### SectionIndexPreview
@@ -1448,10 +1168,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SectionIndexPreview](ue_ue.StaticMeshComponent.md#sectionindexpreview)
-
-#### Defined in
-
-[ue/ue.d.ts:10596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10596)
 
 ___
 
@@ -1463,10 +1179,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SelectedEditorMaterial](ue_ue.StaticMeshComponent.md#selectededitormaterial)
 
-#### Defined in
-
-[ue/ue.d.ts:10595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10595)
-
 ___
 
 ### SelectedEditorSection
@@ -1477,19 +1189,11 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SelectedEditorSection](ue_ue.StaticMeshComponent.md#selectededitorsection)
 
-#### Defined in
-
-[ue/ue.d.ts:10594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10594)
-
 ___
 
 ### SplineBoundaryMax
 
 • **SplineBoundaryMax**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26066)
 
 ___
 
@@ -1497,29 +1201,17 @@ ___
 
 • **SplineBoundaryMin**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26063)
-
 ___
 
 ### SplineParams
 
 • **SplineParams**: [`SplineMeshParams`](ue_ue.SplineMeshParams.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26061)
-
 ___
 
 ### SplineUpDir
 
 • **SplineUpDir**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26062)
 
 ___
 
@@ -1531,10 +1223,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[StaticMesh](ue_ue.StaticMeshComponent.md#staticmesh)
 
-#### Defined in
-
-[ue/ue.d.ts:10591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10591)
-
 ___
 
 ### StaticMeshDerivedDataKey
@@ -1544,10 +1232,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[StaticMeshDerivedDataKey](ue_ue.StaticMeshComponent.md#staticmeshderiveddatakey)
-
-#### Defined in
-
-[ue/ue.d.ts:10620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10620)
 
 ___
 
@@ -1559,10 +1243,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[StaticMeshImportVersion](ue_ue.StaticMeshComponent.md#staticmeshimportversion)
 
-#### Defined in
-
-[ue/ue.d.ts:10598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10598)
-
 ___
 
 ### StreamingDistanceMultiplier
@@ -1572,10 +1252,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[StreamingDistanceMultiplier](ue_ue.StaticMeshComponent.md#streamingdistancemultiplier)
-
-#### Defined in
-
-[ue/ue.d.ts:10616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10616)
 
 ___
 
@@ -1587,10 +1263,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[StreamingTextureData](ue_ue.StaticMeshComponent.md#streamingtexturedata)
 
-#### Defined in
-
-[ue/ue.d.ts:10619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10619)
-
 ___
 
 ### SubDivisionStepSize
@@ -1600,10 +1272,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SubDivisionStepSize](ue_ue.StaticMeshComponent.md#subdivisionstepsize)
-
-#### Defined in
-
-[ue/ue.d.ts:10590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10590)
 
 ___
 
@@ -1615,10 +1283,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[TranslucencySortPriority](ue_ue.StaticMeshComponent.md#translucencysortpriority)
 
-#### Defined in
-
-[ue/ue.d.ts:12619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12619)
-
 ___
 
 ### UCSModifiedProperties
@@ -1628,10 +1292,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[UCSModifiedProperties](ue_ue.StaticMeshComponent.md#ucsmodifiedproperties)
-
-#### Defined in
-
-[ue/ue.d.ts:305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L305)
 
 ___
 
@@ -1643,10 +1303,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[ViewOwnerDepthPriorityGroup](ue_ue.StaticMeshComponent.md#viewownerdepthprioritygroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12559](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12559)
-
 ___
 
 ### VirtualTextureCullMips
@@ -1656,10 +1312,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[VirtualTextureCullMips](ue_ue.StaticMeshComponent.md#virtualtexturecullmips)
-
-#### Defined in
-
-[ue/ue.d.ts:12623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12623)
 
 ___
 
@@ -1671,19 +1323,11 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[VirtualTextureLodBias](ue_ue.StaticMeshComponent.md#virtualtexturelodbias)
 
-#### Defined in
-
-[ue/ue.d.ts:12622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12622)
-
 ___
 
 ### VirtualTextureMainPassMaxDrawDistance
 
 • **VirtualTextureMainPassMaxDrawDistance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26071)
 
 ___
 
@@ -1695,10 +1339,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[VirtualTextureMinCoverage](ue_ue.StaticMeshComponent.md#virtualtexturemincoverage)
 
-#### Defined in
-
-[ue/ue.d.ts:12624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12624)
-
 ___
 
 ### VirtualTextureRenderPassType
@@ -1708,10 +1348,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[VirtualTextureRenderPassType](ue_ue.StaticMeshComponent.md#virtualtexturerenderpasstype)
-
-#### Defined in
-
-[ue/ue.d.ts:12625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12625)
 
 ___
 
@@ -1723,10 +1359,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[VisibilityId](ue_ue.StaticMeshComponent.md#visibilityid)
 
-#### Defined in
-
-[ue/ue.d.ts:12620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12620)
-
 ___
 
 ### WireframeColorOverride
@@ -1736,10 +1368,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[WireframeColorOverride](ue_ue.StaticMeshComponent.md#wireframecoloroverride)
-
-#### Defined in
-
-[ue/ue.d.ts:10592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10592)
 
 ___
 
@@ -1751,10 +1379,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[__tid_ActorComponent__](ue_ue.StaticMeshComponent.md#__tid_actorcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L336)
-
 ___
 
 ### \_\_tid\_MeshComponent\_\_
@@ -1764,10 +1388,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[__tid_MeshComponent__](ue_ue.StaticMeshComponent.md#__tid_meshcomponent__)
-
-#### Defined in
-
-[ue/ue.d.ts:2309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2309)
 
 ___
 
@@ -1779,10 +1399,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[__tid_Object__](ue_ue.StaticMeshComponent.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PrimitiveComponent\_\_
@@ -1792,10 +1408,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[__tid_PrimitiveComponent__](ue_ue.StaticMeshComponent.md#__tid_primitivecomponent__)
-
-#### Defined in
-
-[ue/ue.d.ts:12761](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12761)
 
 ___
 
@@ -1807,19 +1419,11 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[__tid_SceneComponent__](ue_ue.StaticMeshComponent.md#__tid_scenecomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:12961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12961)
-
 ___
 
 ### \_\_tid\_SplineMeshComponent\_\_
 
 • **\_\_tid\_SplineMeshComponent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26107](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26107)
 
 ___
 
@@ -1831,10 +1435,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[__tid_StaticMeshComponent__](ue_ue.StaticMeshComponent.md#__tid_staticmeshcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:10633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10633)
-
 ___
 
 ### bAbsoluteLocation
@@ -1844,10 +1444,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bAbsoluteLocation](ue_ue.StaticMeshComponent.md#babsolutelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12880)
 
 ___
 
@@ -1859,10 +1455,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bAbsoluteRotation](ue_ue.StaticMeshComponent.md#babsoluterotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12881)
-
 ___
 
 ### bAbsoluteScale
@@ -1872,10 +1464,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bAbsoluteScale](ue_ue.StaticMeshComponent.md#babsolutescale)
-
-#### Defined in
-
-[ue/ue.d.ts:12882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12882)
 
 ___
 
@@ -1887,10 +1475,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bAffectDistanceFieldLighting](ue_ue.StaticMeshComponent.md#baffectdistancefieldlighting)
 
-#### Defined in
-
-[ue/ue.d.ts:12589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12589)
-
 ___
 
 ### bAffectDynamicIndirectLighting
@@ -1900,10 +1484,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bAffectDynamicIndirectLighting](ue_ue.StaticMeshComponent.md#baffectdynamicindirectlighting)
-
-#### Defined in
-
-[ue/ue.d.ts:12588](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12588)
 
 ___
 
@@ -1915,19 +1495,11 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bAllowCullDistanceVolume](ue_ue.StaticMeshComponent.md#ballowculldistancevolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12573)
-
 ___
 
 ### bAllowSplineEditingPerInstance
 
 • **bAllowSplineEditingPerInstance**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26067](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26067)
 
 ___
 
@@ -1939,10 +1511,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bAlwaysCreatePhysicsState](ue_ue.StaticMeshComponent.md#balwayscreatephysicsstate)
 
-#### Defined in
-
-[ue/ue.d.ts:12567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12567)
-
 ___
 
 ### bApplyImpulseOnDamage
@@ -1952,10 +1520,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bApplyImpulseOnDamage](ue_ue.StaticMeshComponent.md#bapplyimpulseondamage)
-
-#### Defined in
-
-[ue/ue.d.ts:12606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12606)
 
 ___
 
@@ -1967,10 +1531,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bAutoActivate](ue_ue.StaticMeshComponent.md#bautoactivate)
 
-#### Defined in
-
-[ue/ue.d.ts:296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L296)
-
 ___
 
 ### bBatchImpostersAsInstances
@@ -1980,10 +1540,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bBatchImpostersAsInstances](ue_ue.StaticMeshComponent.md#bbatchimpostersasinstances)
-
-#### Defined in
-
-[ue/ue.d.ts:12565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12565)
 
 ___
 
@@ -1995,10 +1551,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bBoundsChangeTriggersStreamingDataRebuild](ue_ue.StaticMeshComponent.md#bboundschangetriggersstreamingdatarebuild)
 
-#### Defined in
-
-[ue/ue.d.ts:12889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12889)
-
 ___
 
 ### bCanEverAffectNavigation
@@ -2008,10 +1560,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bCanEverAffectNavigation](ue_ue.StaticMeshComponent.md#bcaneveraffectnavigation)
-
-#### Defined in
-
-[ue/ue.d.ts:299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L299)
 
 ___
 
@@ -2023,10 +1571,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bCastCinematicShadow](ue_ue.StaticMeshComponent.md#bcastcinematicshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12596)
-
 ___
 
 ### bCastDistanceFieldIndirectShadow
@@ -2036,10 +1580,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bCastDistanceFieldIndirectShadow](ue_ue.StaticMeshComponent.md#bcastdistancefieldindirectshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:10606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10606)
 
 ___
 
@@ -2051,10 +1591,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bCastDynamicShadow](ue_ue.StaticMeshComponent.md#bcastdynamicshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12590)
-
 ___
 
 ### bCastFarShadow
@@ -2064,10 +1600,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bCastFarShadow](ue_ue.StaticMeshComponent.md#bcastfarshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12594)
 
 ___
 
@@ -2079,10 +1611,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bCastHiddenShadow](ue_ue.StaticMeshComponent.md#bcasthiddenshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12597)
-
 ___
 
 ### bCastInsetShadow
@@ -2092,10 +1620,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bCastInsetShadow](ue_ue.StaticMeshComponent.md#bcastinsetshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12595)
 
 ___
 
@@ -2107,10 +1631,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bCastShadowAsTwoSided](ue_ue.StaticMeshComponent.md#bcastshadowastwosided)
 
-#### Defined in
-
-[ue/ue.d.ts:12598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12598)
-
 ___
 
 ### bCastStaticShadow
@@ -2120,10 +1640,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bCastStaticShadow](ue_ue.StaticMeshComponent.md#bcaststaticshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12591)
 
 ___
 
@@ -2135,10 +1651,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bCastVolumetricTranslucentShadow](ue_ue.StaticMeshComponent.md#bcastvolumetrictranslucentshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12592)
-
 ___
 
 ### bComponentToWorldUpdated
@@ -2148,10 +1660,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bComponentToWorldUpdated](ue_ue.StaticMeshComponent.md#bcomponenttoworldupdated)
-
-#### Defined in
-
-[ue/ue.d.ts:12879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12879)
 
 ___
 
@@ -2163,10 +1671,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bCreatedByConstructionScript](ue_ue.StaticMeshComponent.md#bcreatedbyconstructionscript)
 
-#### Defined in
-
-[ue/ue.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L294)
-
 ___
 
 ### bCustomOverrideVertexColorPerLOD
@@ -2176,10 +1680,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bCustomOverrideVertexColorPerLOD](ue_ue.StaticMeshComponent.md#bcustomoverridevertexcolorperlod)
-
-#### Defined in
-
-[ue/ue.d.ts:10610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10610)
 
 ___
 
@@ -2191,10 +1691,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bDisallowMeshPaintPerInstance](ue_ue.StaticMeshComponent.md#bdisallowmeshpaintperinstance)
 
-#### Defined in
-
-[ue/ue.d.ts:10603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10603)
-
 ___
 
 ### bDisplayVertexColors
@@ -2204,10 +1700,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bDisplayVertexColors](ue_ue.StaticMeshComponent.md#bdisplayvertexcolors)
-
-#### Defined in
-
-[ue/ue.d.ts:10611](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10611)
 
 ___
 
@@ -2219,10 +1711,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bEditableWhenInherited](ue_ue.StaticMeshComponent.md#beditablewheninherited)
 
-#### Defined in
-
-[ue/ue.d.ts:298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L298)
-
 ___
 
 ### bEnableAutoLODGeneration
@@ -2232,10 +1720,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bEnableAutoLODGeneration](ue_ue.StaticMeshComponent.md#benableautolodgeneration)
-
-#### Defined in
-
-[ue/ue.d.ts:12563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12563)
 
 ___
 
@@ -2247,10 +1731,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bEnableMaterialParameterCaching](ue_ue.StaticMeshComponent.md#benablematerialparametercaching)
 
-#### Defined in
-
-[ue/ue.d.ts:2297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2297)
-
 ___
 
 ### bEvaluateWorldPositionOffset
@@ -2260,10 +1740,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bEvaluateWorldPositionOffset](ue_ue.StaticMeshComponent.md#bevaluateworldpositionoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:10593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10593)
 
 ___
 
@@ -2275,10 +1751,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bExcludeFromLightAttachmentGroup](ue_ue.StaticMeshComponent.md#bexcludefromlightattachmentgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12601)
-
 ___
 
 ### bForceMipStreaming
@@ -2288,10 +1760,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bForceMipStreaming](ue_ue.StaticMeshComponent.md#bforcemipstreaming)
-
-#### Defined in
-
-[ue/ue.d.ts:12585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12585)
 
 ___
 
@@ -2303,10 +1771,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bForceNavigationObstacle](ue_ue.StaticMeshComponent.md#bforcenavigationobstacle)
 
-#### Defined in
-
-[ue/ue.d.ts:10602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10602)
-
 ___
 
 ### bGenerateOverlapEvents
@@ -2316,10 +1780,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bGenerateOverlapEvents](ue_ue.StaticMeshComponent.md#bgenerateoverlapevents)
-
-#### Defined in
-
-[ue/ue.d.ts:12568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12568)
 
 ___
 
@@ -2331,10 +1791,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bHasCustomNavigableGeometry](ue_ue.StaticMeshComponent.md#bhascustomnavigablegeometry)
 
-#### Defined in
-
-[ue/ue.d.ts:12612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12612)
-
 ___
 
 ### bHasMotionBlurVelocityMeshes
@@ -2344,10 +1800,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bHasMotionBlurVelocityMeshes](ue_ue.StaticMeshComponent.md#bhasmotionblurvelocitymeshes)
-
-#### Defined in
-
-[ue/ue.d.ts:12574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12574)
 
 ___
 
@@ -2359,10 +1811,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bHasPerInstanceHitProxies](ue_ue.StaticMeshComponent.md#bhasperinstancehitproxies)
 
-#### Defined in
-
-[ue/ue.d.ts:12586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12586)
-
 ___
 
 ### bHiddenInGame
@@ -2372,10 +1820,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bHiddenInGame](ue_ue.StaticMeshComponent.md#bhiddeningame)
-
-#### Defined in
-
-[ue/ue.d.ts:12884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12884)
 
 ___
 
@@ -2387,10 +1831,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bIgnoreInstanceForTextureStreaming](ue_ue.StaticMeshComponent.md#bignoreinstancefortexturestreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:10604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10604)
-
 ___
 
 ### bIgnoreRadialForce
@@ -2400,10 +1840,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bIgnoreRadialForce](ue_ue.StaticMeshComponent.md#bignoreradialforce)
-
-#### Defined in
-
-[ue/ue.d.ts:12605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12605)
 
 ___
 
@@ -2415,10 +1851,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bIgnoreRadialImpulse](ue_ue.StaticMeshComponent.md#bignoreradialimpulse)
 
-#### Defined in
-
-[ue/ue.d.ts:12604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12604)
-
 ___
 
 ### bInstanceComponent
@@ -2428,10 +1860,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bInstanceComponent](ue_ue.StaticMeshComponent.md#binstancecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L295)
 
 ___
 
@@ -2443,10 +1871,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bIsActive](ue_ue.StaticMeshComponent.md#bisactive)
 
-#### Defined in
-
-[ue/ue.d.ts:297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L297)
-
 ___
 
 ### bIsEditorOnly
@@ -2456,10 +1880,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bIsEditorOnly](ue_ue.StaticMeshComponent.md#biseditoronly)
-
-#### Defined in
-
-[ue/ue.d.ts:300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L300)
 
 ___
 
@@ -2471,10 +1891,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bIsVisualizationComponent](ue_ue.StaticMeshComponent.md#bisvisualizationcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L301)
-
 ___
 
 ### bLightAsIfStatic
@@ -2484,10 +1900,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bLightAsIfStatic](ue_ue.StaticMeshComponent.md#blightasifstatic)
-
-#### Defined in
-
-[ue/ue.d.ts:12599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12599)
 
 ___
 
@@ -2499,19 +1911,11 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bLightAttachmentsAsGroup](ue_ue.StaticMeshComponent.md#blightattachmentsasgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12600)
-
 ___
 
 ### bMeshDirty
 
 • **bMeshDirty**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26069)
 
 ___
 
@@ -2523,10 +1927,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bMultiBodyOverlap](ue_ue.StaticMeshComponent.md#bmultibodyoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:12569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12569)
-
 ___
 
 ### bNetAddressable
@@ -2536,10 +1936,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bNetAddressable](ue_ue.StaticMeshComponent.md#bnetaddressable)
-
-#### Defined in
-
-[ue/ue.d.ts:293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L293)
 
 ___
 
@@ -2551,10 +1947,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bNeverDistanceCull](ue_ue.StaticMeshComponent.md#bneverdistancecull)
 
-#### Defined in
-
-[ue/ue.d.ts:12566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12566)
-
 ___
 
 ### bOnlyOwnerSee
@@ -2564,10 +1956,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bOnlyOwnerSee](ue_ue.StaticMeshComponent.md#bonlyownersee)
-
-#### Defined in
-
-[ue/ue.d.ts:12581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12581)
 
 ___
 
@@ -2579,10 +1967,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bOverrideDistanceFieldSelfShadowBias](ue_ue.StaticMeshComponent.md#boverridedistancefieldselfshadowbias)
 
-#### Defined in
-
-[ue/ue.d.ts:10607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10607)
-
 ___
 
 ### bOverrideLightMapRes
@@ -2592,10 +1976,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bOverrideLightMapRes](ue_ue.StaticMeshComponent.md#boverridelightmapres)
-
-#### Defined in
-
-[ue/ue.d.ts:10605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10605)
 
 ___
 
@@ -2607,10 +1987,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bOverrideMinLOD](ue_ue.StaticMeshComponent.md#boverrideminlod)
 
-#### Defined in
-
-[ue/ue.d.ts:10600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10600)
-
 ___
 
 ### bOverrideNavigationExport
@@ -2620,10 +1996,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bOverrideNavigationExport](ue_ue.StaticMeshComponent.md#boverridenavigationexport)
-
-#### Defined in
-
-[ue/ue.d.ts:10601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10601)
 
 ___
 
@@ -2635,10 +2007,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bOverrideWireframeColor](ue_ue.StaticMeshComponent.md#boverridewireframecolor)
 
-#### Defined in
-
-[ue/ue.d.ts:10599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10599)
-
 ___
 
 ### bOwnerNoSee
@@ -2648,10 +2016,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bOwnerNoSee](ue_ue.StaticMeshComponent.md#bownernosee)
-
-#### Defined in
-
-[ue/ue.d.ts:12580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12580)
 
 ___
 
@@ -2663,10 +2027,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bReceiveMobileCSMShadows](ue_ue.StaticMeshComponent.md#breceivemobilecsmshadows)
 
-#### Defined in
-
-[ue/ue.d.ts:12602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12602)
-
 ___
 
 ### bReceivesDecals
@@ -2676,10 +2036,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bReceivesDecals](ue_ue.StaticMeshComponent.md#breceivesdecals)
-
-#### Defined in
-
-[ue/ue.d.ts:12579](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12579)
 
 ___
 
@@ -2691,10 +2047,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bRenderCustomDepth](ue_ue.StaticMeshComponent.md#brendercustomdepth)
 
-#### Defined in
-
-[ue/ue.d.ts:12611](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12611)
-
 ___
 
 ### bRenderInDepthPass
@@ -2704,10 +2056,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bRenderInDepthPass](ue_ue.StaticMeshComponent.md#brenderindepthpass)
-
-#### Defined in
-
-[ue/ue.d.ts:12578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12578)
 
 ___
 
@@ -2719,10 +2067,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bRenderInMainPass](ue_ue.StaticMeshComponent.md#brenderinmainpass)
 
-#### Defined in
-
-[ue/ue.d.ts:12577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12577)
-
 ___
 
 ### bReplicatePhysicsToAutonomousProxy
@@ -2732,10 +2076,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bReplicatePhysicsToAutonomousProxy](ue_ue.StaticMeshComponent.md#breplicatephysicstoautonomousproxy)
-
-#### Defined in
-
-[ue/ue.d.ts:12607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12607)
 
 ___
 
@@ -2747,10 +2087,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bReplicates](ue_ue.StaticMeshComponent.md#breplicates)
 
-#### Defined in
-
-[ue/ue.d.ts:292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L292)
-
 ___
 
 ### bReturnMaterialOnMove
@@ -2760,10 +2096,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bReturnMaterialOnMove](ue_ue.StaticMeshComponent.md#breturnmaterialonmove)
-
-#### Defined in
-
-[ue/ue.d.ts:12571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12571)
 
 ___
 
@@ -2775,10 +2107,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bReverseCulling](ue_ue.StaticMeshComponent.md#breverseculling)
 
-#### Defined in
-
-[ue/ue.d.ts:10612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10612)
-
 ___
 
 ### bSelectable
@@ -2789,19 +2117,11 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bSelectable](ue_ue.StaticMeshComponent.md#bselectable)
 
-#### Defined in
-
-[ue/ue.d.ts:12584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12584)
-
 ___
 
 ### bSelected
 
 • **bSelected**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26072)
 
 ___
 
@@ -2813,10 +2133,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bSelfShadowOnly](ue_ue.StaticMeshComponent.md#bselfshadowonly)
 
-#### Defined in
-
-[ue/ue.d.ts:12593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12593)
-
 ___
 
 ### bShouldBeAttached
@@ -2826,10 +2142,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bShouldBeAttached](ue_ue.StaticMeshComponent.md#bshouldbeattached)
-
-#### Defined in
-
-[ue/ue.d.ts:12885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12885)
 
 ___
 
@@ -2841,10 +2153,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bShouldSnapLocationWhenAttached](ue_ue.StaticMeshComponent.md#bshouldsnaplocationwhenattached)
 
-#### Defined in
-
-[ue/ue.d.ts:12886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12886)
-
 ___
 
 ### bShouldSnapRotationWhenAttached
@@ -2854,10 +2162,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bShouldSnapRotationWhenAttached](ue_ue.StaticMeshComponent.md#bshouldsnaprotationwhenattached)
-
-#### Defined in
-
-[ue/ue.d.ts:12887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12887)
 
 ___
 
@@ -2869,10 +2173,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bShouldUpdatePhysicsVolume](ue_ue.StaticMeshComponent.md#bshouldupdatephysicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12888)
-
 ___
 
 ### bSingleSampleShadowFromStationaryLights
@@ -2883,19 +2183,11 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bSingleSampleShadowFromStationaryLights](ue_ue.StaticMeshComponent.md#bsinglesampleshadowfromstationarylights)
 
-#### Defined in
-
-[ue/ue.d.ts:12603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12603)
-
 ___
 
 ### bSmoothInterpRollScale
 
 • **bSmoothInterpRollScale**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26068)
 
 ___
 
@@ -2907,10 +2199,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bTraceComplexOnMove](ue_ue.StaticMeshComponent.md#btracecomplexonmove)
 
-#### Defined in
-
-[ue/ue.d.ts:12570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12570)
-
 ___
 
 ### bTreatAsBackgroundForOcclusion
@@ -2920,10 +2208,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bTreatAsBackgroundForOcclusion](ue_ue.StaticMeshComponent.md#btreatasbackgroundforocclusion)
-
-#### Defined in
-
-[ue/ue.d.ts:12582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12582)
 
 ___
 
@@ -2935,10 +2219,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bUseAsOccluder](ue_ue.StaticMeshComponent.md#buseasoccluder)
 
-#### Defined in
-
-[ue/ue.d.ts:12583](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12583)
-
 ___
 
 ### bUseAttachParentBound
@@ -2948,10 +2228,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bUseAttachParentBound](ue_ue.StaticMeshComponent.md#buseattachparentbound)
-
-#### Defined in
-
-[ue/ue.d.ts:12890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12890)
 
 ___
 
@@ -2963,10 +2239,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bUseDefaultCollision](ue_ue.StaticMeshComponent.md#busedefaultcollision)
 
-#### Defined in
-
-[ue/ue.d.ts:10609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10609)
-
 ___
 
 ### bUseEditorCompositing
@@ -2976,10 +2248,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bUseEditorCompositing](ue_ue.StaticMeshComponent.md#buseeditorcompositing)
-
-#### Defined in
-
-[ue/ue.d.ts:12610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12610)
 
 ___
 
@@ -2991,10 +2259,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bUseMaxLODAsImposter](ue_ue.StaticMeshComponent.md#busemaxlodasimposter)
 
-#### Defined in
-
-[ue/ue.d.ts:12564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12564)
-
 ___
 
 ### bUseSubDivisions
@@ -3004,10 +2268,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bUseSubDivisions](ue_ue.StaticMeshComponent.md#busesubdivisions)
-
-#### Defined in
-
-[ue/ue.d.ts:10608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10608)
 
 ___
 
@@ -3019,10 +2279,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bUseViewOwnerDepthPriorityGroup](ue_ue.StaticMeshComponent.md#buseviewownerdepthprioritygroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12572)
-
 ___
 
 ### bVisible
@@ -3032,10 +2288,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bVisible](ue_ue.StaticMeshComponent.md#bvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:12883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12883)
 
 ___
 
@@ -3047,10 +2299,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bVisibleInRayTracing](ue_ue.StaticMeshComponent.md#bvisibleinraytracing)
 
-#### Defined in
-
-[ue/ue.d.ts:12576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12576)
-
 ___
 
 ### bVisibleInReflectionCaptures
@@ -3061,10 +2309,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bVisibleInReflectionCaptures](ue_ue.StaticMeshComponent.md#bvisibleinreflectioncaptures)
 
-#### Defined in
-
-[ue/ue.d.ts:12575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12575)
-
 ___
 
 ### bVisualizeComponent
@@ -3074,10 +2318,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[bVisualizeComponent](ue_ue.StaticMeshComponent.md#bvisualizecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12891)
 
 ## Methods
 
@@ -3098,10 +2338,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[Activate](ue_ue.StaticMeshComponent.md#activate)
-
-#### Defined in
-
-[ue/ue.d.ts:306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L306)
 
 ___
 
@@ -3125,10 +2361,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[AddAngularImpulse](ue_ue.StaticMeshComponent.md#addangularimpulse)
 
-#### Defined in
-
-[ue/ue.d.ts:12645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12645)
-
 ___
 
 ### AddAngularImpulseInDegrees
@@ -3150,10 +2382,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[AddAngularImpulseInDegrees](ue_ue.StaticMeshComponent.md#addangularimpulseindegrees)
-
-#### Defined in
-
-[ue/ue.d.ts:12646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12646)
 
 ___
 
@@ -3177,10 +2405,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[AddAngularImpulseInRadians](ue_ue.StaticMeshComponent.md#addangularimpulseinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12647)
-
 ___
 
 ### AddForce
@@ -3202,10 +2426,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[AddForce](ue_ue.StaticMeshComponent.md#addforce)
-
-#### Defined in
-
-[ue/ue.d.ts:12648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12648)
 
 ___
 
@@ -3229,10 +2449,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[AddForceAtLocation](ue_ue.StaticMeshComponent.md#addforceatlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12649)
-
 ___
 
 ### AddForceAtLocationLocal
@@ -3254,10 +2470,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[AddForceAtLocationLocal](ue_ue.StaticMeshComponent.md#addforceatlocationlocal)
-
-#### Defined in
-
-[ue/ue.d.ts:12650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12650)
 
 ___
 
@@ -3281,10 +2493,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[AddImpulse](ue_ue.StaticMeshComponent.md#addimpulse)
 
-#### Defined in
-
-[ue/ue.d.ts:12651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12651)
-
 ___
 
 ### AddImpulseAtLocation
@@ -3306,10 +2514,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[AddImpulseAtLocation](ue_ue.StaticMeshComponent.md#addimpulseatlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12652)
 
 ___
 
@@ -3335,10 +2539,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[AddRadialForce](ue_ue.StaticMeshComponent.md#addradialforce)
 
-#### Defined in
-
-[ue/ue.d.ts:12653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12653)
-
 ___
 
 ### AddRadialImpulse
@@ -3363,10 +2563,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[AddRadialImpulse](ue_ue.StaticMeshComponent.md#addradialimpulse)
 
-#### Defined in
-
-[ue/ue.d.ts:12654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12654)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -3387,10 +2583,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[AddTickPrerequisiteActor](ue_ue.StaticMeshComponent.md#addtickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L307)
-
 ___
 
 ### AddTickPrerequisiteComponent
@@ -3410,10 +2602,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[AddTickPrerequisiteComponent](ue_ue.StaticMeshComponent.md#addtickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L308)
 
 ___
 
@@ -3437,10 +2625,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[AddTorque](ue_ue.StaticMeshComponent.md#addtorque)
 
-#### Defined in
-
-[ue/ue.d.ts:12655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12655)
-
 ___
 
 ### AddTorqueInDegrees
@@ -3462,10 +2646,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[AddTorqueInDegrees](ue_ue.StaticMeshComponent.md#addtorqueindegrees)
-
-#### Defined in
-
-[ue/ue.d.ts:12656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12656)
 
 ___
 
@@ -3489,10 +2669,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[AddTorqueInRadians](ue_ue.StaticMeshComponent.md#addtorqueinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12657)
-
 ___
 
 ### CanCharacterStepUp
@@ -3513,10 +2689,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[CanCharacterStepUp](ue_ue.StaticMeshComponent.md#cancharacterstepup)
 
-#### Defined in
-
-[ue/ue.d.ts:12658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12658)
-
 ___
 
 ### ClearMoveIgnoreActors
@@ -3531,10 +2703,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[ClearMoveIgnoreActors](ue_ue.StaticMeshComponent.md#clearmoveignoreactors)
 
-#### Defined in
-
-[ue/ue.d.ts:12659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12659)
-
 ___
 
 ### ClearMoveIgnoreComponents
@@ -3548,10 +2716,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[ClearMoveIgnoreComponents](ue_ue.StaticMeshComponent.md#clearmoveignorecomponents)
-
-#### Defined in
-
-[ue/ue.d.ts:12660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12660)
 
 ___
 
@@ -3573,10 +2737,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[ComponentHasTag](ue_ue.StaticMeshComponent.md#componenthastag)
 
-#### Defined in
-
-[ue/ue.d.ts:309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L309)
-
 ___
 
 ### CopyArrayOfMoveIgnoreActors
@@ -3591,10 +2751,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[CopyArrayOfMoveIgnoreActors](ue_ue.StaticMeshComponent.md#copyarrayofmoveignoreactors)
 
-#### Defined in
-
-[ue/ue.d.ts:12661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12661)
-
 ___
 
 ### CopyArrayOfMoveIgnoreComponents
@@ -3608,10 +2764,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[CopyArrayOfMoveIgnoreComponents](ue_ue.StaticMeshComponent.md#copyarrayofmoveignorecomponents)
-
-#### Defined in
-
-[ue/ue.d.ts:12662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12662)
 
 ___
 
@@ -3633,10 +2785,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[CreateAndSetMaterialInstanceDynamic](ue_ue.StaticMeshComponent.md#createandsetmaterialinstancedynamic)
 
-#### Defined in
-
-[ue/ue.d.ts:12663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12663)
-
 ___
 
 ### CreateAndSetMaterialInstanceDynamicFromMaterial
@@ -3657,10 +2805,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[CreateAndSetMaterialInstanceDynamicFromMaterial](ue_ue.StaticMeshComponent.md#createandsetmaterialinstancedynamicfrommaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:12664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12664)
 
 ___
 
@@ -3686,10 +2830,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[CreateDefaultSubobject](ue_ue.StaticMeshComponent.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### CreateDynamicMaterialInstance
@@ -3712,10 +2852,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[CreateDynamicMaterialInstance](ue_ue.StaticMeshComponent.md#createdynamicmaterialinstance)
 
-#### Defined in
-
-[ue/ue.d.ts:12665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12665)
-
 ___
 
 ### Deactivate
@@ -3729,10 +2865,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[Deactivate](ue_ue.StaticMeshComponent.md#deactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L310)
 
 ___
 
@@ -3755,10 +2887,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[DetachFromParent](ue_ue.StaticMeshComponent.md#detachfromparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12895)
-
 ___
 
 ### DoesSocketExist
@@ -3778,10 +2906,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[DoesSocketExist](ue_ue.StaticMeshComponent.md#doessocketexist)
-
-#### Defined in
-
-[ue/ue.d.ts:12896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12896)
 
 ___
 
@@ -3803,10 +2927,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[ExecuteUbergraph](ue_ue.StaticMeshComponent.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetAllSocketNames
@@ -3820,10 +2940,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetAllSocketNames](ue_ue.StaticMeshComponent.md#getallsocketnames)
-
-#### Defined in
-
-[ue/ue.d.ts:12897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12897)
 
 ___
 
@@ -3839,10 +2955,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetAngularDamping](ue_ue.StaticMeshComponent.md#getangulardamping)
 
-#### Defined in
-
-[ue/ue.d.ts:12666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12666)
-
 ___
 
 ### GetAttachParent
@@ -3856,10 +2968,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetAttachParent](ue_ue.StaticMeshComponent.md#getattachparent)
-
-#### Defined in
-
-[ue/ue.d.ts:12898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12898)
 
 ___
 
@@ -3875,10 +2983,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetAttachSocketName](ue_ue.StaticMeshComponent.md#getattachsocketname)
 
-#### Defined in
-
-[ue/ue.d.ts:12899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12899)
-
 ___
 
 ### GetBoundaryMax
@@ -3889,10 +2993,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26073)
-
 ___
 
 ### GetBoundaryMin
@@ -3902,10 +3002,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26074)
 
 ___
 
@@ -3927,10 +3023,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetCenterOfMass](ue_ue.StaticMeshComponent.md#getcenterofmass)
 
-#### Defined in
-
-[ue/ue.d.ts:12667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12667)
-
 ___
 
 ### GetChildComponent
@@ -3950,10 +3042,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetChildComponent](ue_ue.StaticMeshComponent.md#getchildcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12900)
 
 ___
 
@@ -3976,10 +3064,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetChildrenComponents](ue_ue.StaticMeshComponent.md#getchildrencomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12901)
-
 ___
 
 ### GetClass
@@ -3993,10 +3077,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetClass](ue_ue.StaticMeshComponent.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -4020,10 +3100,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetClosestPointOnCollision](ue_ue.StaticMeshComponent.md#getclosestpointoncollision)
 
-#### Defined in
-
-[ue/ue.d.ts:12668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12668)
-
 ___
 
 ### GetCollisionEnabled
@@ -4037,10 +3113,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetCollisionEnabled](ue_ue.StaticMeshComponent.md#getcollisionenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12669)
 
 ___
 
@@ -4056,10 +3128,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetCollisionObjectType](ue_ue.StaticMeshComponent.md#getcollisionobjecttype)
 
-#### Defined in
-
-[ue/ue.d.ts:12670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12670)
-
 ___
 
 ### GetCollisionProfileName
@@ -4073,10 +3141,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetCollisionProfileName](ue_ue.StaticMeshComponent.md#getcollisionprofilename)
-
-#### Defined in
-
-[ue/ue.d.ts:12671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12671)
 
 ___
 
@@ -4098,10 +3162,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetCollisionResponseToChannel](ue_ue.StaticMeshComponent.md#getcollisionresponsetochannel)
 
-#### Defined in
-
-[ue/ue.d.ts:12672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12672)
-
 ___
 
 ### GetComponentTickInterval
@@ -4115,10 +3175,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetComponentTickInterval](ue_ue.StaticMeshComponent.md#getcomponenttickinterval)
-
-#### Defined in
-
-[ue/ue.d.ts:311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L311)
 
 ___
 
@@ -4134,10 +3190,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetComponentVelocity](ue_ue.StaticMeshComponent.md#getcomponentvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12902)
-
 ___
 
 ### GetEndOffset
@@ -4147,10 +3199,6 @@ ___
 #### Returns
 
 [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26075)
 
 ___
 
@@ -4162,10 +3210,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26076)
-
 ___
 
 ### GetEndRoll
@@ -4175,10 +3219,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26077)
 
 ___
 
@@ -4190,10 +3230,6 @@ ___
 
 [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26078)
-
 ___
 
 ### GetEndTangent
@@ -4204,10 +3240,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26079)
-
 ___
 
 ### GetForwardAxis
@@ -4217,10 +3249,6 @@ ___
 #### Returns
 
 [`ESplineMeshAxis`](../enums/ue_ue.ESplineMeshAxis.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26080)
 
 ___
 
@@ -4236,10 +3264,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetForwardVector](ue_ue.StaticMeshComponent.md#getforwardvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12903)
-
 ___
 
 ### GetGenerateOverlapEvents
@@ -4253,10 +3277,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetGenerateOverlapEvents](ue_ue.StaticMeshComponent.md#getgenerateoverlapevents)
-
-#### Defined in
-
-[ue/ue.d.ts:12673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12673)
 
 ___
 
@@ -4278,10 +3298,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetInertiaTensor](ue_ue.StaticMeshComponent.md#getinertiatensor)
 
-#### Defined in
-
-[ue/ue.d.ts:12674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12674)
-
 ___
 
 ### GetLinearDamping
@@ -4295,10 +3311,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetLinearDamping](ue_ue.StaticMeshComponent.md#getlineardamping)
-
-#### Defined in
-
-[ue/ue.d.ts:12675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12675)
 
 ___
 
@@ -4321,10 +3333,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetLocalBounds](ue_ue.StaticMeshComponent.md#getlocalbounds)
 
-#### Defined in
-
-[ue/ue.d.ts:10623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10623)
-
 ___
 
 ### GetMass
@@ -4338,10 +3346,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetMass](ue_ue.StaticMeshComponent.md#getmass)
-
-#### Defined in
-
-[ue/ue.d.ts:12676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12676)
 
 ___
 
@@ -4363,10 +3367,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetMassScale](ue_ue.StaticMeshComponent.md#getmassscale)
 
-#### Defined in
-
-[ue/ue.d.ts:12677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12677)
-
 ___
 
 ### GetMaterial
@@ -4386,10 +3386,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetMaterial](ue_ue.StaticMeshComponent.md#getmaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:12678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12678)
 
 ___
 
@@ -4412,10 +3408,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetMaterialFromCollisionFaceIndex](ue_ue.StaticMeshComponent.md#getmaterialfromcollisionfaceindex)
 
-#### Defined in
-
-[ue/ue.d.ts:12679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12679)
-
 ___
 
 ### GetMaterialIndex
@@ -4436,10 +3428,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetMaterialIndex](ue_ue.StaticMeshComponent.md#getmaterialindex)
 
-#### Defined in
-
-[ue/ue.d.ts:2298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2298)
-
 ___
 
 ### GetMaterialSlotNames
@@ -4453,10 +3441,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetMaterialSlotNames](ue_ue.StaticMeshComponent.md#getmaterialslotnames)
-
-#### Defined in
-
-[ue/ue.d.ts:2300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2300)
 
 ___
 
@@ -4472,10 +3456,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetMaterials](ue_ue.StaticMeshComponent.md#getmaterials)
 
-#### Defined in
-
-[ue/ue.d.ts:2299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2299)
-
 ___
 
 ### GetName
@@ -4489,10 +3469,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetName](ue_ue.StaticMeshComponent.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -4508,10 +3484,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetNumChildrenComponents](ue_ue.StaticMeshComponent.md#getnumchildrencomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12904)
-
 ___
 
 ### GetNumMaterials
@@ -4526,10 +3498,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetNumMaterials](ue_ue.StaticMeshComponent.md#getnummaterials)
 
-#### Defined in
-
-[ue/ue.d.ts:12680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12680)
-
 ___
 
 ### GetOuter
@@ -4543,10 +3511,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetOuter](ue_ue.StaticMeshComponent.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -4569,10 +3533,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetOverlappingActors](ue_ue.StaticMeshComponent.md#getoverlappingactors)
 
-#### Defined in
-
-[ue/ue.d.ts:12681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12681)
-
 ___
 
 ### GetOverlappingComponents
@@ -4593,10 +3553,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetOverlappingComponents](ue_ue.StaticMeshComponent.md#getoverlappingcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12682)
-
 ___
 
 ### GetOwner
@@ -4610,10 +3566,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetOwner](ue_ue.StaticMeshComponent.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L312)
 
 ___
 
@@ -4635,10 +3587,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetParentComponents](ue_ue.StaticMeshComponent.md#getparentcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12905)
-
 ___
 
 ### GetPhysicsAngularVelocity
@@ -4658,10 +3606,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetPhysicsAngularVelocity](ue_ue.StaticMeshComponent.md#getphysicsangularvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12683)
 
 ___
 
@@ -4683,10 +3627,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetPhysicsAngularVelocityInDegrees](ue_ue.StaticMeshComponent.md#getphysicsangularvelocityindegrees)
 
-#### Defined in
-
-[ue/ue.d.ts:12684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12684)
-
 ___
 
 ### GetPhysicsAngularVelocityInRadians
@@ -4707,10 +3647,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetPhysicsAngularVelocityInRadians](ue_ue.StaticMeshComponent.md#getphysicsangularvelocityinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12685)
-
 ___
 
 ### GetPhysicsLinearVelocity
@@ -4730,10 +3666,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetPhysicsLinearVelocity](ue_ue.StaticMeshComponent.md#getphysicslinearvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12686](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12686)
 
 ___
 
@@ -4756,10 +3688,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetPhysicsLinearVelocityAtPoint](ue_ue.StaticMeshComponent.md#getphysicslinearvelocityatpoint)
 
-#### Defined in
-
-[ue/ue.d.ts:12687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12687)
-
 ___
 
 ### GetPhysicsVolume
@@ -4773,10 +3701,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetPhysicsVolume](ue_ue.StaticMeshComponent.md#getphysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12906)
 
 ___
 
@@ -4792,10 +3716,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetRelativeTransform](ue_ue.StaticMeshComponent.md#getrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12907)
-
 ___
 
 ### GetRightVector
@@ -4810,10 +3730,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetRightVector](ue_ue.StaticMeshComponent.md#getrightvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12908)
-
 ___
 
 ### GetShouldUpdatePhysicsVolume
@@ -4827,10 +3743,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetShouldUpdatePhysicsVolume](ue_ue.StaticMeshComponent.md#getshouldupdatephysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12909)
 
 ___
 
@@ -4852,10 +3764,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetSocketLocation](ue_ue.StaticMeshComponent.md#getsocketlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12910)
-
 ___
 
 ### GetSocketQuaternion
@@ -4876,10 +3784,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetSocketQuaternion](ue_ue.StaticMeshComponent.md#getsocketquaternion)
 
-#### Defined in
-
-[ue/ue.d.ts:12911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12911)
-
 ___
 
 ### GetSocketRotation
@@ -4899,10 +3803,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetSocketRotation](ue_ue.StaticMeshComponent.md#getsocketrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12912)
 
 ___
 
@@ -4925,10 +3825,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetSocketTransform](ue_ue.StaticMeshComponent.md#getsockettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12913)
-
 ___
 
 ### GetSplineUpDir
@@ -4938,10 +3834,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26081)
 
 ___
 
@@ -4953,10 +3845,6 @@ ___
 
 [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26082](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26082)
-
 ___
 
 ### GetStartPosition
@@ -4966,10 +3854,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26083](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26083)
 
 ___
 
@@ -4981,10 +3865,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26084](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26084)
-
 ___
 
 ### GetStartScale
@@ -4995,10 +3875,6 @@ ___
 
 [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26085)
-
 ___
 
 ### GetStartTangent
@@ -5008,10 +3884,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26086](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26086)
 
 ___
 
@@ -5027,10 +3899,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetUpVector](ue_ue.StaticMeshComponent.md#getupvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12914)
-
 ___
 
 ### GetWalkableSlopeOverride
@@ -5045,10 +3913,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetWalkableSlopeOverride](ue_ue.StaticMeshComponent.md#getwalkableslopeoverride)
 
-#### Defined in
-
-[ue/ue.d.ts:12688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12688)
-
 ___
 
 ### GetWorld
@@ -5062,10 +3926,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[GetWorld](ue_ue.StaticMeshComponent.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -5088,10 +3948,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[IgnoreActorWhenMoving](ue_ue.StaticMeshComponent.md#ignoreactorwhenmoving)
 
-#### Defined in
-
-[ue/ue.d.ts:12689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12689)
-
 ___
 
 ### IgnoreComponentWhenMoving
@@ -5113,10 +3969,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[IgnoreComponentWhenMoving](ue_ue.StaticMeshComponent.md#ignorecomponentwhenmoving)
 
-#### Defined in
-
-[ue/ue.d.ts:12690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12690)
-
 ___
 
 ### IsActive
@@ -5130,10 +3982,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[IsActive](ue_ue.StaticMeshComponent.md#isactive)
-
-#### Defined in
-
-[ue/ue.d.ts:313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L313)
 
 ___
 
@@ -5149,10 +3997,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[IsAnyRigidBodyAwake](ue_ue.StaticMeshComponent.md#isanyrigidbodyawake)
 
-#### Defined in
-
-[ue/ue.d.ts:12691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12691)
-
 ___
 
 ### IsAnySimulatingPhysics
@@ -5166,10 +4010,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[IsAnySimulatingPhysics](ue_ue.StaticMeshComponent.md#isanysimulatingphysics)
-
-#### Defined in
-
-[ue/ue.d.ts:12915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12915)
 
 ___
 
@@ -5185,10 +4025,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[IsBeingDestroyed](ue_ue.StaticMeshComponent.md#isbeingdestroyed)
 
-#### Defined in
-
-[ue/ue.d.ts:314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L314)
-
 ___
 
 ### IsComponentTickEnabled
@@ -5203,10 +4039,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[IsComponentTickEnabled](ue_ue.StaticMeshComponent.md#iscomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L315)
-
 ___
 
 ### IsGravityEnabled
@@ -5220,10 +4052,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[IsGravityEnabled](ue_ue.StaticMeshComponent.md#isgravityenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12692](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12692)
 
 ___
 
@@ -5245,10 +4073,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[IsMaterialSlotNameValid](ue_ue.StaticMeshComponent.md#ismaterialslotnamevalid)
 
-#### Defined in
-
-[ue/ue.d.ts:2301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2301)
-
 ___
 
 ### IsOverlappingActor
@@ -5268,10 +4092,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[IsOverlappingActor](ue_ue.StaticMeshComponent.md#isoverlappingactor)
-
-#### Defined in
-
-[ue/ue.d.ts:12693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12693)
 
 ___
 
@@ -5293,10 +4113,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[IsOverlappingComponent](ue_ue.StaticMeshComponent.md#isoverlappingcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12694](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12694)
-
 ___
 
 ### IsSimulatingPhysics
@@ -5317,10 +4133,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[IsSimulatingPhysics](ue_ue.StaticMeshComponent.md#issimulatingphysics)
 
-#### Defined in
-
-[ue/ue.d.ts:12916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12916)
-
 ___
 
 ### IsVisible
@@ -5334,10 +4146,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[IsVisible](ue_ue.StaticMeshComponent.md#isvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:12917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12917)
 
 ___
 
@@ -5362,10 +4170,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_AddLocalOffset](ue_ue.StaticMeshComponent.md#k2_addlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:12918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12918)
-
 ___
 
 ### K2\_AddLocalRotation
@@ -5388,10 +4192,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_AddLocalRotation](ue_ue.StaticMeshComponent.md#k2_addlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12919)
 
 ___
 
@@ -5416,10 +4216,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_AddLocalTransform](ue_ue.StaticMeshComponent.md#k2_addlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12920)
-
 ___
 
 ### K2\_AddRelativeLocation
@@ -5442,10 +4238,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_AddRelativeLocation](ue_ue.StaticMeshComponent.md#k2_addrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12921)
 
 ___
 
@@ -5470,10 +4262,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_AddRelativeRotation](ue_ue.StaticMeshComponent.md#k2_addrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12922)
-
 ___
 
 ### K2\_AddWorldOffset
@@ -5496,10 +4284,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_AddWorldOffset](ue_ue.StaticMeshComponent.md#k2_addworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:12923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12923)
 
 ___
 
@@ -5524,10 +4308,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_AddWorldRotation](ue_ue.StaticMeshComponent.md#k2_addworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12924)
-
 ___
 
 ### K2\_AddWorldTransform
@@ -5551,10 +4331,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_AddWorldTransform](ue_ue.StaticMeshComponent.md#k2_addworldtransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12925)
-
 ___
 
 ### K2\_AttachTo
@@ -5577,10 +4353,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_AttachTo](ue_ue.StaticMeshComponent.md#k2_attachto)
-
-#### Defined in
-
-[ue/ue.d.ts:12926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12926)
 
 ___
 
@@ -5606,10 +4378,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_AttachToComponent](ue_ue.StaticMeshComponent.md#k2_attachtocomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12927)
 
 ___
 
@@ -5639,10 +4407,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_BoxOverlapComponent](ue_ue.StaticMeshComponent.md#k2_boxoverlapcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12695)
-
 ___
 
 ### K2\_DestroyComponent
@@ -5662,10 +4426,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_DestroyComponent](ue_ue.StaticMeshComponent.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L316)
 
 ___
 
@@ -5690,10 +4450,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_DetachFromComponent](ue_ue.StaticMeshComponent.md#k2_detachfromcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12928)
-
 ___
 
 ### K2\_GetComponentLocation
@@ -5707,10 +4463,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_GetComponentLocation](ue_ue.StaticMeshComponent.md#k2_getcomponentlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12929)
 
 ___
 
@@ -5726,10 +4478,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_GetComponentRotation](ue_ue.StaticMeshComponent.md#k2_getcomponentrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12930)
-
 ___
 
 ### K2\_GetComponentScale
@@ -5743,10 +4491,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_GetComponentScale](ue_ue.StaticMeshComponent.md#k2_getcomponentscale)
-
-#### Defined in
-
-[ue/ue.d.ts:12931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12931)
 
 ___
 
@@ -5762,10 +4506,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_GetComponentToWorld](ue_ue.StaticMeshComponent.md#k2_getcomponenttoworld)
 
-#### Defined in
-
-[ue/ue.d.ts:12932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12932)
-
 ___
 
 ### K2\_IsCollisionEnabled
@@ -5779,10 +4519,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_IsCollisionEnabled](ue_ue.StaticMeshComponent.md#k2_iscollisionenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12696](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12696)
 
 ___
 
@@ -5798,10 +4534,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_IsPhysicsCollisionEnabled](ue_ue.StaticMeshComponent.md#k2_isphysicscollisionenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:12697](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12697)
-
 ___
 
 ### K2\_IsQueryCollisionEnabled
@@ -5815,10 +4547,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_IsQueryCollisionEnabled](ue_ue.StaticMeshComponent.md#k2_isquerycollisionenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12698)
 
 ___
 
@@ -5848,10 +4576,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_LineTraceComponent](ue_ue.StaticMeshComponent.md#k2_linetracecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12699](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12699)
-
 ___
 
 ### K2\_SetRelativeLocation
@@ -5874,10 +4598,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_SetRelativeLocation](ue_ue.StaticMeshComponent.md#k2_setrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12933)
 
 ___
 
@@ -5903,10 +4623,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_SetRelativeLocationAndRotation](ue_ue.StaticMeshComponent.md#k2_setrelativelocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12934)
-
 ___
 
 ### K2\_SetRelativeRotation
@@ -5929,10 +4645,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_SetRelativeRotation](ue_ue.StaticMeshComponent.md#k2_setrelativerotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12935)
 
 ___
 
@@ -5957,10 +4669,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_SetRelativeTransform](ue_ue.StaticMeshComponent.md#k2_setrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12936)
-
 ___
 
 ### K2\_SetWorldLocation
@@ -5983,10 +4691,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_SetWorldLocation](ue_ue.StaticMeshComponent.md#k2_setworldlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12937)
 
 ___
 
@@ -6012,10 +4716,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_SetWorldLocationAndRotation](ue_ue.StaticMeshComponent.md#k2_setworldlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12938)
-
 ___
 
 ### K2\_SetWorldRotation
@@ -6039,10 +4739,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_SetWorldRotation](ue_ue.StaticMeshComponent.md#k2_setworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12939)
-
 ___
 
 ### K2\_SetWorldTransform
@@ -6065,10 +4761,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_SetWorldTransform](ue_ue.StaticMeshComponent.md#k2_setworldtransform)
-
-#### Defined in
-
-[ue/ue.d.ts:12940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12940)
 
 ___
 
@@ -6097,10 +4789,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_SphereOverlapComponent](ue_ue.StaticMeshComponent.md#k2_sphereoverlapcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12700)
 
 ___
 
@@ -6131,10 +4819,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[K2_SphereTraceComponent](ue_ue.StaticMeshComponent.md#k2_spheretracecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12701)
-
 ___
 
 ### OnRep\_AttachChildren
@@ -6148,10 +4832,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[OnRep_AttachChildren](ue_ue.StaticMeshComponent.md#onrep_attachchildren)
-
-#### Defined in
-
-[ue/ue.d.ts:12941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12941)
 
 ___
 
@@ -6167,10 +4847,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[OnRep_AttachParent](ue_ue.StaticMeshComponent.md#onrep_attachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12942)
-
 ___
 
 ### OnRep\_AttachSocketName
@@ -6185,10 +4861,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[OnRep_AttachSocketName](ue_ue.StaticMeshComponent.md#onrep_attachsocketname)
 
-#### Defined in
-
-[ue/ue.d.ts:12943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12943)
-
 ___
 
 ### OnRep\_IsActive
@@ -6202,10 +4874,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[OnRep_IsActive](ue_ue.StaticMeshComponent.md#onrep_isactive)
-
-#### Defined in
-
-[ue/ue.d.ts:317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L317)
 
 ___
 
@@ -6227,10 +4895,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[OnRep_StaticMesh](ue_ue.StaticMeshComponent.md#onrep_staticmesh)
 
-#### Defined in
-
-[ue/ue.d.ts:10624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10624)
-
 ___
 
 ### OnRep\_Transform
@@ -6244,10 +4908,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[OnRep_Transform](ue_ue.StaticMeshComponent.md#onrep_transform)
-
-#### Defined in
-
-[ue/ue.d.ts:12944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12944)
 
 ___
 
@@ -6268,10 +4928,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[OnRep_Visibility](ue_ue.StaticMeshComponent.md#onrep_visibility)
-
-#### Defined in
-
-[ue/ue.d.ts:12945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12945)
 
 ___
 
@@ -6295,10 +4951,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[PrestreamTextures](ue_ue.StaticMeshComponent.md#prestreamtextures)
 
-#### Defined in
-
-[ue/ue.d.ts:2302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2302)
-
 ___
 
 ### PutRigidBodyToSleep
@@ -6319,10 +4971,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[PutRigidBodyToSleep](ue_ue.StaticMeshComponent.md#putrigidbodytosleep)
 
-#### Defined in
-
-[ue/ue.d.ts:12702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12702)
-
 ___
 
 ### ReceiveBeginPlay
@@ -6336,10 +4984,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[ReceiveBeginPlay](ue_ue.StaticMeshComponent.md#receivebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L318)
 
 ___
 
@@ -6361,10 +5005,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[ReceiveEndPlay](ue_ue.StaticMeshComponent.md#receiveendplay)
 
-#### Defined in
-
-[ue/ue.d.ts:319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L319)
-
 ___
 
 ### ReceiveTick
@@ -6385,10 +5025,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[ReceiveTick](ue_ue.StaticMeshComponent.md#receivetick)
 
-#### Defined in
-
-[ue/ue.d.ts:320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L320)
-
 ___
 
 ### RegisterComponent
@@ -6402,10 +5038,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[RegisterComponent](ue_ue.StaticMeshComponent.md#registercomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L321)
 
 ___
 
@@ -6427,10 +5059,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[RemoveTickPrerequisiteActor](ue_ue.StaticMeshComponent.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -6451,10 +5079,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[RemoveTickPrerequisiteComponent](ue_ue.StaticMeshComponent.md#removetickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L323)
-
 ___
 
 ### ResetRelativeTransform
@@ -6468,10 +5092,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[ResetRelativeTransform](ue_ue.StaticMeshComponent.md#resetrelativetransform)
-
-#### Defined in
-
-[ue/ue.d.ts:12946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12946)
 
 ___
 
@@ -6493,10 +5113,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[ScaleByMomentOfInertia](ue_ue.StaticMeshComponent.md#scalebymomentofinertia)
-
-#### Defined in
-
-[ue/ue.d.ts:12703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12703)
 
 ___
 
@@ -6520,10 +5136,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetAbsolute](ue_ue.StaticMeshComponent.md#setabsolute)
 
-#### Defined in
-
-[ue/ue.d.ts:12947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12947)
-
 ___
 
 ### SetActive
@@ -6545,10 +5157,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetActive](ue_ue.StaticMeshComponent.md#setactive)
 
-#### Defined in
-
-[ue/ue.d.ts:324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L324)
-
 ___
 
 ### SetAllMassScale
@@ -6568,10 +5176,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetAllMassScale](ue_ue.StaticMeshComponent.md#setallmassscale)
-
-#### Defined in
-
-[ue/ue.d.ts:12704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12704)
 
 ___
 
@@ -6594,10 +5198,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetAllPhysicsAngularVelocityInDegrees](ue_ue.StaticMeshComponent.md#setallphysicsangularvelocityindegrees)
 
-#### Defined in
-
-[ue/ue.d.ts:12705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12705)
-
 ___
 
 ### SetAllPhysicsAngularVelocityInRadians
@@ -6618,10 +5218,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetAllPhysicsAngularVelocityInRadians](ue_ue.StaticMeshComponent.md#setallphysicsangularvelocityinradians)
-
-#### Defined in
-
-[ue/ue.d.ts:12706](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12706)
 
 ___
 
@@ -6644,10 +5240,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetAllPhysicsLinearVelocity](ue_ue.StaticMeshComponent.md#setallphysicslinearvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12707](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12707)
-
 ___
 
 ### SetAllUseCCD
@@ -6667,10 +5259,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetAllUseCCD](ue_ue.StaticMeshComponent.md#setalluseccd)
-
-#### Defined in
-
-[ue/ue.d.ts:12708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12708)
 
 ___
 
@@ -6692,10 +5280,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetAngularDamping](ue_ue.StaticMeshComponent.md#setangulardamping)
 
-#### Defined in
-
-[ue/ue.d.ts:12709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12709)
-
 ___
 
 ### SetAutoActivate
@@ -6716,10 +5300,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetAutoActivate](ue_ue.StaticMeshComponent.md#setautoactivate)
 
-#### Defined in
-
-[ue/ue.d.ts:325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L325)
-
 ___
 
 ### SetBoundaryMax
@@ -6737,10 +5317,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:26087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26087)
-
 ___
 
 ### SetBoundaryMin
@@ -6757,10 +5333,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:26088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26088)
 
 ___
 
@@ -6782,10 +5354,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetBoundsScale](ue_ue.StaticMeshComponent.md#setboundsscale)
 
-#### Defined in
-
-[ue/ue.d.ts:12710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12710)
-
 ___
 
 ### SetCastInsetShadow
@@ -6806,10 +5374,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetCastInsetShadow](ue_ue.StaticMeshComponent.md#setcastinsetshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12711)
-
 ___
 
 ### SetCastShadow
@@ -6829,10 +5393,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetCastShadow](ue_ue.StaticMeshComponent.md#setcastshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12712)
 
 ___
 
@@ -6855,10 +5415,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetCenterOfMass](ue_ue.StaticMeshComponent.md#setcenterofmass)
 
-#### Defined in
-
-[ue/ue.d.ts:12713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12713)
-
 ___
 
 ### SetCollisionEnabled
@@ -6878,10 +5434,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetCollisionEnabled](ue_ue.StaticMeshComponent.md#setcollisionenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12714)
 
 ___
 
@@ -6903,10 +5455,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetCollisionObjectType](ue_ue.StaticMeshComponent.md#setcollisionobjecttype)
 
-#### Defined in
-
-[ue/ue.d.ts:12715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12715)
-
 ___
 
 ### SetCollisionProfileName
@@ -6927,10 +5475,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetCollisionProfileName](ue_ue.StaticMeshComponent.md#setcollisionprofilename)
 
-#### Defined in
-
-[ue/ue.d.ts:12716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12716)
-
 ___
 
 ### SetCollisionResponseToAllChannels
@@ -6950,10 +5494,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetCollisionResponseToAllChannels](ue_ue.StaticMeshComponent.md#setcollisionresponsetoallchannels)
-
-#### Defined in
-
-[ue/ue.d.ts:12717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12717)
 
 ___
 
@@ -6976,10 +5516,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetCollisionResponseToChannel](ue_ue.StaticMeshComponent.md#setcollisionresponsetochannel)
 
-#### Defined in
-
-[ue/ue.d.ts:12718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12718)
-
 ___
 
 ### SetComponentTickEnabled
@@ -6999,10 +5535,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetComponentTickEnabled](ue_ue.StaticMeshComponent.md#setcomponenttickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L326)
 
 ___
 
@@ -7024,10 +5556,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetComponentTickInterval](ue_ue.StaticMeshComponent.md#setcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L327)
-
 ___
 
 ### SetConstraintMode
@@ -7047,10 +5575,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetConstraintMode](ue_ue.StaticMeshComponent.md#setconstraintmode)
-
-#### Defined in
-
-[ue/ue.d.ts:12719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12719)
 
 ___
 
@@ -7072,10 +5596,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetCullDistance](ue_ue.StaticMeshComponent.md#setculldistance)
 
-#### Defined in
-
-[ue/ue.d.ts:12720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12720)
-
 ___
 
 ### SetCustomDepthStencilValue
@@ -7096,10 +5616,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetCustomDepthStencilValue](ue_ue.StaticMeshComponent.md#setcustomdepthstencilvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:12721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12721)
-
 ___
 
 ### SetCustomDepthStencilWriteMask
@@ -7119,10 +5635,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetCustomDepthStencilWriteMask](ue_ue.StaticMeshComponent.md#setcustomdepthstencilwritemask)
-
-#### Defined in
-
-[ue/ue.d.ts:12722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12722)
 
 ___
 
@@ -7145,10 +5657,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetCustomPrimitiveDataFloat](ue_ue.StaticMeshComponent.md#setcustomprimitivedatafloat)
 
-#### Defined in
-
-[ue/ue.d.ts:12723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12723)
-
 ___
 
 ### SetCustomPrimitiveDataVector2
@@ -7169,10 +5677,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetCustomPrimitiveDataVector2](ue_ue.StaticMeshComponent.md#setcustomprimitivedatavector2)
-
-#### Defined in
-
-[ue/ue.d.ts:12724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12724)
 
 ___
 
@@ -7195,10 +5699,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetCustomPrimitiveDataVector3](ue_ue.StaticMeshComponent.md#setcustomprimitivedatavector3)
 
-#### Defined in
-
-[ue/ue.d.ts:12725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12725)
-
 ___
 
 ### SetCustomPrimitiveDataVector4
@@ -7220,10 +5720,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetCustomPrimitiveDataVector4](ue_ue.StaticMeshComponent.md#setcustomprimitivedatavector4)
 
-#### Defined in
-
-[ue/ue.d.ts:12726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12726)
-
 ___
 
 ### SetDistanceFieldSelfShadowBias
@@ -7243,10 +5739,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetDistanceFieldSelfShadowBias](ue_ue.StaticMeshComponent.md#setdistancefieldselfshadowbias)
-
-#### Defined in
-
-[ue/ue.d.ts:10625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10625)
 
 ___
 
@@ -7268,10 +5760,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetEnableGravity](ue_ue.StaticMeshComponent.md#setenablegravity)
 
-#### Defined in
-
-[ue/ue.d.ts:12727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12727)
-
 ___
 
 ### SetEndOffset
@@ -7288,10 +5776,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:26089](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26089)
 
 ___
 
@@ -7310,10 +5794,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:26090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26090)
-
 ___
 
 ### SetEndRoll
@@ -7330,10 +5810,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:26091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26091)
 
 ___
 
@@ -7352,10 +5828,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:26092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26092)
-
 ___
 
 ### SetEndTangent
@@ -7372,10 +5844,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:26093](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26093)
 
 ___
 
@@ -7397,10 +5865,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetExcludeFromLightAttachmentGroup](ue_ue.StaticMeshComponent.md#setexcludefromlightattachmentgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12728)
-
 ___
 
 ### SetForcedLodModel
@@ -7421,10 +5885,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetForcedLodModel](ue_ue.StaticMeshComponent.md#setforcedlodmodel)
 
-#### Defined in
-
-[ue/ue.d.ts:10626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10626)
-
 ___
 
 ### SetForwardAxis
@@ -7441,10 +5901,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:26094](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26094)
 
 ___
 
@@ -7465,10 +5921,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetGenerateOverlapEvents](ue_ue.StaticMeshComponent.md#setgenerateoverlapevents)
-
-#### Defined in
-
-[ue/ue.d.ts:12729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12729)
 
 ___
 
@@ -7491,10 +5943,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetHiddenInGame](ue_ue.StaticMeshComponent.md#sethiddeningame)
 
-#### Defined in
-
-[ue/ue.d.ts:12948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12948)
-
 ___
 
 ### SetIsReplicated
@@ -7514,10 +5962,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetIsReplicated](ue_ue.StaticMeshComponent.md#setisreplicated)
-
-#### Defined in
-
-[ue/ue.d.ts:328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L328)
 
 ___
 
@@ -7539,10 +5983,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetLightAttachmentsAsGroup](ue_ue.StaticMeshComponent.md#setlightattachmentsasgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12730)
-
 ___
 
 ### SetLinearDamping
@@ -7562,10 +6002,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetLinearDamping](ue_ue.StaticMeshComponent.md#setlineardamping)
-
-#### Defined in
-
-[ue/ue.d.ts:12731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12731)
 
 ___
 
@@ -7589,10 +6025,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetMassOverrideInKg](ue_ue.StaticMeshComponent.md#setmassoverrideinkg)
 
-#### Defined in
-
-[ue/ue.d.ts:12732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12732)
-
 ___
 
 ### SetMassScale
@@ -7613,10 +6045,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetMassScale](ue_ue.StaticMeshComponent.md#setmassscale)
-
-#### Defined in
-
-[ue/ue.d.ts:12733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12733)
 
 ___
 
@@ -7639,10 +6067,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetMaterial](ue_ue.StaticMeshComponent.md#setmaterial)
 
-#### Defined in
-
-[ue/ue.d.ts:12734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12734)
-
 ___
 
 ### SetMaterialByName
@@ -7664,10 +6088,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetMaterialByName](ue_ue.StaticMeshComponent.md#setmaterialbyname)
 
-#### Defined in
-
-[ue/ue.d.ts:12735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12735)
-
 ___
 
 ### SetMobility
@@ -7687,10 +6107,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetMobility](ue_ue.StaticMeshComponent.md#setmobility)
-
-#### Defined in
-
-[ue/ue.d.ts:12949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12949)
 
 ___
 
@@ -7712,10 +6128,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetNotifyRigidBodyCollision](ue_ue.StaticMeshComponent.md#setnotifyrigidbodycollision)
 
-#### Defined in
-
-[ue/ue.d.ts:12736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12736)
-
 ___
 
 ### SetOnlyOwnerSee
@@ -7735,10 +6147,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetOnlyOwnerSee](ue_ue.StaticMeshComponent.md#setonlyownersee)
-
-#### Defined in
-
-[ue/ue.d.ts:12737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12737)
 
 ___
 
@@ -7760,10 +6168,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetOwnerNoSee](ue_ue.StaticMeshComponent.md#setownernosee)
 
-#### Defined in
-
-[ue/ue.d.ts:12738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12738)
-
 ___
 
 ### SetPhysMaterialOverride
@@ -7783,10 +6187,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetPhysMaterialOverride](ue_ue.StaticMeshComponent.md#setphysmaterialoverride)
-
-#### Defined in
-
-[ue/ue.d.ts:12746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12746)
 
 ___
 
@@ -7810,10 +6210,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetPhysicsAngularVelocity](ue_ue.StaticMeshComponent.md#setphysicsangularvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12739)
-
 ___
 
 ### SetPhysicsAngularVelocityInDegrees
@@ -7835,10 +6231,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetPhysicsAngularVelocityInDegrees](ue_ue.StaticMeshComponent.md#setphysicsangularvelocityindegrees)
-
-#### Defined in
-
-[ue/ue.d.ts:12740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12740)
 
 ___
 
@@ -7862,10 +6254,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetPhysicsAngularVelocityInRadians](ue_ue.StaticMeshComponent.md#setphysicsangularvelocityinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12741)
-
 ___
 
 ### SetPhysicsLinearVelocity
@@ -7887,10 +6275,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetPhysicsLinearVelocity](ue_ue.StaticMeshComponent.md#setphysicslinearvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12742)
 
 ___
 
@@ -7914,10 +6298,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetPhysicsMaxAngularVelocity](ue_ue.StaticMeshComponent.md#setphysicsmaxangularvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12743)
-
 ___
 
 ### SetPhysicsMaxAngularVelocityInDegrees
@@ -7939,10 +6319,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetPhysicsMaxAngularVelocityInDegrees](ue_ue.StaticMeshComponent.md#setphysicsmaxangularvelocityindegrees)
-
-#### Defined in
-
-[ue/ue.d.ts:12744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12744)
 
 ___
 
@@ -7966,10 +6342,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetPhysicsMaxAngularVelocityInRadians](ue_ue.StaticMeshComponent.md#setphysicsmaxangularvelocityinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12745)
-
 ___
 
 ### SetReceivesDecals
@@ -7989,10 +6361,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetReceivesDecals](ue_ue.StaticMeshComponent.md#setreceivesdecals)
-
-#### Defined in
-
-[ue/ue.d.ts:12747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12747)
 
 ___
 
@@ -8014,10 +6382,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetRelativeScale3D](ue_ue.StaticMeshComponent.md#setrelativescale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:12950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12950)
-
 ___
 
 ### SetRenderCustomDepth
@@ -8037,10 +6401,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetRenderCustomDepth](ue_ue.StaticMeshComponent.md#setrendercustomdepth)
-
-#### Defined in
-
-[ue/ue.d.ts:12748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12748)
 
 ___
 
@@ -8062,10 +6422,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetRenderInMainPass](ue_ue.StaticMeshComponent.md#setrenderinmainpass)
 
-#### Defined in
-
-[ue/ue.d.ts:12749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12749)
-
 ___
 
 ### SetReverseCulling
@@ -8085,10 +6441,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetReverseCulling](ue_ue.StaticMeshComponent.md#setreverseculling)
-
-#### Defined in
-
-[ue/ue.d.ts:10627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10627)
 
 ___
 
@@ -8111,10 +6463,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetScalarParameterValueOnMaterials](ue_ue.StaticMeshComponent.md#setscalarparametervalueonmaterials)
 
-#### Defined in
-
-[ue/ue.d.ts:2303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2303)
-
 ___
 
 ### SetShouldUpdatePhysicsVolume
@@ -8134,10 +6482,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetShouldUpdatePhysicsVolume](ue_ue.StaticMeshComponent.md#setshouldupdatephysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12951)
 
 ___
 
@@ -8159,10 +6503,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetSimulatePhysics](ue_ue.StaticMeshComponent.md#setsimulatephysics)
 
-#### Defined in
-
-[ue/ue.d.ts:12750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12750)
-
 ___
 
 ### SetSingleSampleShadowFromStationaryLights
@@ -8183,10 +6523,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetSingleSampleShadowFromStationaryLights](ue_ue.StaticMeshComponent.md#setsinglesampleshadowfromstationarylights)
 
-#### Defined in
-
-[ue/ue.d.ts:12751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12751)
-
 ___
 
 ### SetSplineUpDir
@@ -8203,10 +6539,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:26095](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26095)
 
 ___
 
@@ -8228,10 +6560,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:26096](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26096)
-
 ___
 
 ### SetStartOffset
@@ -8248,10 +6576,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:26097](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26097)
 
 ___
 
@@ -8270,10 +6594,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:26098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26098)
-
 ___
 
 ### SetStartRoll
@@ -8290,10 +6610,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:26099](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26099)
 
 ___
 
@@ -8312,10 +6628,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:26100](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26100)
-
 ___
 
 ### SetStartTangent
@@ -8332,10 +6644,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:26101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26101)
 
 ___
 
@@ -8357,10 +6665,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetStaticMesh](ue_ue.StaticMeshComponent.md#setstaticmesh)
 
-#### Defined in
-
-[ue/ue.d.ts:10628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10628)
-
 ___
 
 ### SetTickGroup
@@ -8380,10 +6684,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetTickGroup](ue_ue.StaticMeshComponent.md#settickgroup)
-
-#### Defined in
-
-[ue/ue.d.ts:330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L330)
 
 ___
 
@@ -8405,10 +6705,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetTickableWhenPaused](ue_ue.StaticMeshComponent.md#settickablewhenpaused)
 
-#### Defined in
-
-[ue/ue.d.ts:329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L329)
-
 ___
 
 ### SetTranslucentSortPriority
@@ -8428,10 +6724,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetTranslucentSortPriority](ue_ue.StaticMeshComponent.md#settranslucentsortpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:12752](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12752)
 
 ___
 
@@ -8454,10 +6746,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetUseCCD](ue_ue.StaticMeshComponent.md#setuseccd)
 
-#### Defined in
-
-[ue/ue.d.ts:12753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12753)
-
 ___
 
 ### SetVectorParameterValueOnMaterials
@@ -8478,10 +6766,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetVectorParameterValueOnMaterials](ue_ue.StaticMeshComponent.md#setvectorparametervalueonmaterials)
-
-#### Defined in
-
-[ue/ue.d.ts:2304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2304)
 
 ___
 
@@ -8504,10 +6788,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetVisibility](ue_ue.StaticMeshComponent.md#setvisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12953)
-
 ___
 
 ### SetWalkableSlopeOverride
@@ -8528,10 +6808,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetWalkableSlopeOverride](ue_ue.StaticMeshComponent.md#setwalkableslopeoverride)
 
-#### Defined in
-
-[ue/ue.d.ts:12754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12754)
-
 ___
 
 ### SetWorldScale3D
@@ -8551,10 +6827,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetWorldScale3D](ue_ue.StaticMeshComponent.md#setworldscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:12954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12954)
 
 ___
 
@@ -8577,10 +6849,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SetupAttachment](ue_ue.StaticMeshComponent.md#setupattachment)
 
-#### Defined in
-
-[ue/ue.d.ts:12952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12952)
-
 ___
 
 ### SnapTo
@@ -8602,10 +6870,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[SnapTo](ue_ue.StaticMeshComponent.md#snapto)
 
-#### Defined in
-
-[ue/ue.d.ts:12955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12955)
-
 ___
 
 ### ToggleActive
@@ -8619,10 +6883,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[ToggleActive](ue_ue.StaticMeshComponent.md#toggleactive)
-
-#### Defined in
-
-[ue/ue.d.ts:331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L331)
 
 ___
 
@@ -8644,10 +6904,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[ToggleVisibility](ue_ue.StaticMeshComponent.md#togglevisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12956)
-
 ___
 
 ### UpdateMesh
@@ -8657,10 +6913,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:26102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26102)
 
 ___
 
@@ -8675,10 +6927,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[WakeAllRigidBodies](ue_ue.StaticMeshComponent.md#wakeallrigidbodies)
-
-#### Defined in
-
-[ue/ue.d.ts:12755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12755)
 
 ___
 
@@ -8699,10 +6947,6 @@ ___
 #### Inherited from
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[WakeRigidBody](ue_ue.StaticMeshComponent.md#wakerigidbody)
-
-#### Defined in
-
-[ue/ue.d.ts:12756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12756)
 
 ___
 
@@ -8725,10 +6969,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[Find](ue_ue.StaticMeshComponent.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:26104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26104)
-
 ___
 
 ### Load
@@ -8749,10 +6989,6 @@ ___
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[Load](ue_ue.StaticMeshComponent.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:26105](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26105)
-
 ___
 
 ### StaticClass
@@ -8766,7 +7002,3 @@ ___
 #### Overrides
 
 [StaticMeshComponent](ue_ue.StaticMeshComponent.md).[StaticClass](ue_ue.StaticMeshComponent.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:26103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26103)

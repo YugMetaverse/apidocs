@@ -29,10 +29,6 @@
 
 • **new SkinWeightProfileInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:4058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4058)
-
 • **new SkinWeightProfileInfo**(`Name`, `DefaultProfile`, `DefaultProfileFromLODIndex`, `PerLODSourceFiles`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `DefaultProfileFromLODIndex` | [`PerPlatformInt`](ue_ue.PerPlatformInt.md) |
 | `PerLODSourceFiles` | [`TMap`](../interfaces/ue_puerts.TMap.md)<`number`, `string`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:4059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4059)
-
 ## Properties
 
 ### DefaultProfile
 
 • **DefaultProfile**: [`PerPlatformBool`](ue_ue.PerPlatformBool.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4061)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **DefaultProfileFromLODIndex**: [`PerPlatformInt`](ue_ue.PerPlatformInt.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4062)
-
 ___
 
 ### Name
 
 • **Name**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:4060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4060)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **PerLODSourceFiles**: [`TMap`](../interfaces/ue_puerts.TMap.md)<`number`, `string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:4063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4063)
-
 ___
 
 ### \_\_tid\_SkinWeightProfileInfo\_\_
 
 • `Private` **\_\_tid\_SkinWeightProfileInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4069)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4067](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4067)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4068)

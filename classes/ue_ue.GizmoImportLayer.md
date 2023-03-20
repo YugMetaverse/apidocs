@@ -28,10 +28,6 @@
 
 • **new GizmoImportLayer**()
 
-#### Defined in
-
-[ue/ue.d.ts:44226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44226)
-
 • **new GizmoImportLayer**(`LayerFilename`, `LayerName`, `bNoImport`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `LayerName` | `string` |
 | `bNoImport` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:44227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44227)
-
 ## Properties
 
 ### LayerFilename
 
 • **LayerFilename**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:44228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44228)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **LayerName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:44229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44229)
-
 ___
 
 ### \_\_tid\_GizmoImportLayer\_\_
 
 • `Private` **\_\_tid\_GizmoImportLayer\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44236)
-
 ___
 
 ### bNoImport
 
 • **bNoImport**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44230)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44234)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44235)

@@ -23,19 +23,11 @@
 
 • **Button** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34861)
-
 ___
 
 ### Check
 
 • **Check** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34861)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **CollapsedButton** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34861)
-
 ___
 
 ### EUserInterfaceActionType\_MAX
 
 • **EUserInterfaceActionType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34861)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34861)
-
 ___
 
 ### RadioButton
 
 • **RadioButton** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34861)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **ToggleButton** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34861)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34861)

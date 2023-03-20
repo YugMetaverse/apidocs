@@ -29,10 +29,6 @@
 
 • **new SolverCollisionFilterSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:26370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26370)
-
 • **new SolverCollisionFilterSettings**(`FilterEnabled`, `MinMass`, `MinSpeed`, `MinImpulse`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `MinSpeed` | `number` |
 | `MinImpulse` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:26371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26371)
-
 ## Properties
 
 ### FilterEnabled
 
 • **FilterEnabled**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26372)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **MinImpulse**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26375](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26375)
-
 ___
 
 ### MinMass
 
 • **MinMass**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26373](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26373)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **MinSpeed**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26374](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26374)
-
 ___
 
 ### \_\_tid\_SolverCollisionFilterSettings\_\_
 
 • `Private` **\_\_tid\_SolverCollisionFilterSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26381)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26379)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26380](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26380)

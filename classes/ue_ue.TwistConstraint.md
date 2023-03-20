@@ -42,10 +42,6 @@
 
 [ConstraintBaseParams](ue_ue.ConstraintBaseParams.md).[constructor](ue_ue.ConstraintBaseParams.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:3627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3627)
-
 • **new TwistConstraint**(`TwistLimitDegrees`, `TwistMotion`)
 
 #### Parameters
@@ -59,10 +55,6 @@
 
 [ConstraintBaseParams](ue_ue.ConstraintBaseParams.md).[constructor](ue_ue.ConstraintBaseParams.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:3628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3628)
-
 ## Properties
 
 ### ContactDistance
@@ -72,10 +64,6 @@
 #### Inherited from
 
 [ConstraintBaseParams](ue_ue.ConstraintBaseParams.md).[ContactDistance](ue_ue.ConstraintBaseParams.md#contactdistance)
-
-#### Defined in
-
-[ue/ue.d.ts:3584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3584)
 
 ___
 
@@ -87,10 +75,6 @@ ___
 
 [ConstraintBaseParams](ue_ue.ConstraintBaseParams.md).[Damping](ue_ue.ConstraintBaseParams.md#damping)
 
-#### Defined in
-
-[ue/ue.d.ts:3582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3582)
-
 ___
 
 ### Restitution
@@ -100,10 +84,6 @@ ___
 #### Inherited from
 
 [ConstraintBaseParams](ue_ue.ConstraintBaseParams.md).[Restitution](ue_ue.ConstraintBaseParams.md#restitution)
-
-#### Defined in
-
-[ue/ue.d.ts:3583](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3583)
 
 ___
 
@@ -115,19 +95,11 @@ ___
 
 [ConstraintBaseParams](ue_ue.ConstraintBaseParams.md).[Stiffness](ue_ue.ConstraintBaseParams.md#stiffness)
 
-#### Defined in
-
-[ue/ue.d.ts:3581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3581)
-
 ___
 
 ### TwistLimitDegrees
 
 • **TwistLimitDegrees**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3629)
 
 ___
 
@@ -135,19 +107,11 @@ ___
 
 • **TwistMotion**: [`EAngularConstraintMotion`](../enums/ue_ue.EAngularConstraintMotion.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3630)
-
 ___
 
 ### \_\_tid\_TwistConstraint\_\_
 
 • `Private` **\_\_tid\_TwistConstraint\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3636)
 
 ___
 
@@ -158,10 +122,6 @@ ___
 #### Inherited from
 
 [ConstraintBaseParams](ue_ue.ConstraintBaseParams.md).[bSoftConstraint](ue_ue.ConstraintBaseParams.md#bsoftconstraint)
-
-#### Defined in
-
-[ue/ue.d.ts:3585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3585)
 
 ## Methods
 
@@ -181,10 +141,6 @@ use StaticStruct instead.
 
 [ConstraintBaseParams](ue_ue.ConstraintBaseParams.md).[StaticClass](ue_ue.ConstraintBaseParams.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:3634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3634)
-
 ___
 
 ### StaticStruct
@@ -198,7 +154,3 @@ ___
 #### Overrides
 
 [ConstraintBaseParams](ue_ue.ConstraintBaseParams.md).[StaticStruct](ue_ue.ConstraintBaseParams.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:3635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3635)

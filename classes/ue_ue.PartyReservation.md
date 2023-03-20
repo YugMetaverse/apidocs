@@ -29,10 +29,6 @@
 
 • **new PartyReservation**()
 
-#### Defined in
-
-[ue/ue.d.ts:56842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56842)
-
 • **new PartyReservation**(`TeamNum`, `PartyLeader`, `PartyMembers`, `RemovedPartyMembers`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `PartyMembers` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PlayerReservation`](ue_ue.PlayerReservation.md)\> |
 | `RemovedPartyMembers` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PlayerReservation`](ue_ue.PlayerReservation.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:56843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56843)
-
 ## Properties
 
 ### PartyLeader
 
 • **PartyLeader**: [`UniqueNetIdRepl`](ue_ue.UniqueNetIdRepl.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56845](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56845)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **PartyMembers**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PlayerReservation`](ue_ue.PlayerReservation.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:56846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56846)
-
 ___
 
 ### RemovedPartyMembers
 
 • **RemovedPartyMembers**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PlayerReservation`](ue_ue.PlayerReservation.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:56847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56847)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **TeamNum**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:56844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56844)
-
 ___
 
 ### \_\_tid\_PartyReservation\_\_
 
 • `Private` **\_\_tid\_PartyReservation\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:56853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56853)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:56851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56851)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56852)

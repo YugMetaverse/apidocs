@@ -92,10 +92,6 @@
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[constructor](ue_ue.LevelStreaming.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:45280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45280)
-
 ## Properties
 
 ### DrawColor
@@ -105,10 +101,6 @@
 #### Inherited from
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[DrawColor](ue_ue.LevelStreaming.md#drawcolor)
-
-#### Defined in
-
-[ue/ue.d.ts:9794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9794)
 
 ___
 
@@ -120,10 +112,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[EditorStreamingVolumes](ue_ue.LevelStreaming.md#editorstreamingvolumes)
 
-#### Defined in
-
-[ue/ue.d.ts:9796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9796)
-
 ___
 
 ### FolderPath
@@ -133,10 +121,6 @@ ___
 #### Inherited from
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[FolderPath](ue_ue.LevelStreaming.md#folderpath)
-
-#### Defined in
-
-[ue/ue.d.ts:9805](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9805)
 
 ___
 
@@ -148,10 +132,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[Keywords](ue_ue.LevelStreaming.md#keywords)
 
-#### Defined in
-
-[ue/ue.d.ts:9798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9798)
-
 ___
 
 ### LODPackageNames
@@ -161,10 +141,6 @@ ___
 #### Inherited from
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[LODPackageNames](ue_ue.LevelStreaming.md#lodpackagenames)
-
-#### Defined in
-
-[ue/ue.d.ts:9781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9781)
 
 ___
 
@@ -176,10 +152,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[LevelColor](ue_ue.LevelStreaming.md#levelcolor)
 
-#### Defined in
-
-[ue/ue.d.ts:9795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9795)
-
 ___
 
 ### LevelLODIndex
@@ -189,10 +161,6 @@ ___
 #### Inherited from
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[LevelLODIndex](ue_ue.LevelStreaming.md#levellodindex)
-
-#### Defined in
-
-[ue/ue.d.ts:9783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9783)
 
 ___
 
@@ -204,10 +172,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[LevelTransform](ue_ue.LevelStreaming.md#leveltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:9782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9782)
-
 ___
 
 ### LoadedLevel
@@ -217,10 +181,6 @@ ___
 #### Inherited from
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[LoadedLevel](ue_ue.LevelStreaming.md#loadedlevel)
-
-#### Defined in
-
-[ue/ue.d.ts:9803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9803)
 
 ___
 
@@ -232,10 +192,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[MinTimeBetweenVolumeUnloadRequests](ue_ue.LevelStreaming.md#mintimebetweenvolumeunloadrequests)
 
-#### Defined in
-
-[ue/ue.d.ts:9797](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9797)
-
 ___
 
 ### OnLevelHidden
@@ -245,10 +201,6 @@ ___
 #### Inherited from
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[OnLevelHidden](ue_ue.LevelStreaming.md#onlevelhidden)
-
-#### Defined in
-
-[ue/ue.d.ts:9802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9802)
 
 ___
 
@@ -260,10 +212,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[OnLevelLoaded](ue_ue.LevelStreaming.md#onlevelloaded)
 
-#### Defined in
-
-[ue/ue.d.ts:9799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9799)
-
 ___
 
 ### OnLevelShown
@@ -273,10 +221,6 @@ ___
 #### Inherited from
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[OnLevelShown](ue_ue.LevelStreaming.md#onlevelshown)
-
-#### Defined in
-
-[ue/ue.d.ts:9801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9801)
 
 ___
 
@@ -288,10 +232,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[OnLevelUnloaded](ue_ue.LevelStreaming.md#onlevelunloaded)
 
-#### Defined in
-
-[ue/ue.d.ts:9800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9800)
-
 ___
 
 ### PackageName
@@ -301,10 +241,6 @@ ___
 #### Inherited from
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[PackageName](ue_ue.LevelStreaming.md#packagename)
-
-#### Defined in
-
-[ue/ue.d.ts:9778](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9778)
 
 ___
 
@@ -316,10 +252,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[PackageNameToLoad](ue_ue.LevelStreaming.md#packagenametoload)
 
-#### Defined in
-
-[ue/ue.d.ts:9780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9780)
-
 ___
 
 ### PendingUnloadLevel
@@ -329,10 +261,6 @@ ___
 #### Inherited from
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[PendingUnloadLevel](ue_ue.LevelStreaming.md#pendingunloadlevel)
-
-#### Defined in
-
-[ue/ue.d.ts:9804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9804)
 
 ___
 
@@ -344,10 +272,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[StreamingPriority](ue_ue.LevelStreaming.md#streamingpriority)
 
-#### Defined in
-
-[ue/ue.d.ts:9784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9784)
-
 ___
 
 ### WorldAsset
@@ -358,19 +282,11 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[WorldAsset](ue_ue.LevelStreaming.md#worldasset)
 
-#### Defined in
-
-[ue/ue.d.ts:9779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9779)
-
 ___
 
 ### \_\_tid\_LevelStreamingAlwaysLoaded\_\_
 
 • **\_\_tid\_LevelStreamingAlwaysLoaded\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45285)
 
 ___
 
@@ -382,10 +298,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[__tid_LevelStreaming__](ue_ue.LevelStreaming.md#__tid_levelstreaming__)
 
-#### Defined in
-
-[ue/ue.d.ts:9822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9822)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -395,10 +307,6 @@ ___
 #### Inherited from
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[__tid_Object__](ue_ue.LevelStreaming.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -410,10 +318,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[bDisableDistanceStreaming](ue_ue.LevelStreaming.md#bdisabledistancestreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:9792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9792)
-
 ___
 
 ### bDrawOnLevelStatusMap
@@ -423,10 +327,6 @@ ___
 #### Inherited from
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[bDrawOnLevelStatusMap](ue_ue.LevelStreaming.md#bdrawonlevelstatusmap)
-
-#### Defined in
-
-[ue/ue.d.ts:9793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9793)
 
 ___
 
@@ -438,10 +338,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[bIsStatic](ue_ue.LevelStreaming.md#bisstatic)
 
-#### Defined in
-
-[ue/ue.d.ts:9789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9789)
-
 ___
 
 ### bLocked
@@ -451,10 +347,6 @@ ___
 #### Inherited from
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[bLocked](ue_ue.LevelStreaming.md#blocked)
-
-#### Defined in
-
-[ue/ue.d.ts:9788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9788)
 
 ___
 
@@ -466,10 +358,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[bShouldBeLoaded](ue_ue.LevelStreaming.md#bshouldbeloaded)
 
-#### Defined in
-
-[ue/ue.d.ts:9787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9787)
-
 ___
 
 ### bShouldBeVisible
@@ -479,10 +367,6 @@ ___
 #### Inherited from
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[bShouldBeVisible](ue_ue.LevelStreaming.md#bshouldbevisible)
-
-#### Defined in
-
-[ue/ue.d.ts:9786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9786)
 
 ___
 
@@ -494,10 +378,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[bShouldBeVisibleInEditor](ue_ue.LevelStreaming.md#bshouldbevisibleineditor)
 
-#### Defined in
-
-[ue/ue.d.ts:9785](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9785)
-
 ___
 
 ### bShouldBlockOnLoad
@@ -508,10 +388,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[bShouldBlockOnLoad](ue_ue.LevelStreaming.md#bshouldblockonload)
 
-#### Defined in
-
-[ue/ue.d.ts:9790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9790)
-
 ___
 
 ### bShouldBlockOnUnload
@@ -521,10 +397,6 @@ ___
 #### Inherited from
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[bShouldBlockOnUnload](ue_ue.LevelStreaming.md#bshouldblockonunload)
-
-#### Defined in
-
-[ue/ue.d.ts:9791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9791)
 
 ## Methods
 
@@ -550,10 +422,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[CreateDefaultSubobject](ue_ue.LevelStreaming.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### CreateInstance
@@ -573,10 +441,6 @@ ___
 #### Inherited from
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[CreateInstance](ue_ue.LevelStreaming.md#createinstance)
-
-#### Defined in
-
-[ue/ue.d.ts:9806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9806)
 
 ___
 
@@ -598,10 +462,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[ExecuteUbergraph](ue_ue.LevelStreaming.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -615,10 +475,6 @@ ___
 #### Inherited from
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[GetClass](ue_ue.LevelStreaming.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -634,10 +490,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[GetLevelScriptActor](ue_ue.LevelStreaming.md#getlevelscriptactor)
 
-#### Defined in
-
-[ue/ue.d.ts:9807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9807)
-
 ___
 
 ### GetLoadedLevel
@@ -651,10 +503,6 @@ ___
 #### Inherited from
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[GetLoadedLevel](ue_ue.LevelStreaming.md#getloadedlevel)
-
-#### Defined in
-
-[ue/ue.d.ts:9808](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9808)
 
 ___
 
@@ -670,10 +518,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[GetName](ue_ue.LevelStreaming.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -687,10 +531,6 @@ ___
 #### Inherited from
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[GetOuter](ue_ue.LevelStreaming.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -706,10 +546,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[GetWorld](ue_ue.LevelStreaming.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### GetWorldAssetPackageFName
@@ -723,10 +559,6 @@ ___
 #### Inherited from
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[GetWorldAssetPackageFName](ue_ue.LevelStreaming.md#getworldassetpackagefname)
-
-#### Defined in
-
-[ue/ue.d.ts:9809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9809)
 
 ___
 
@@ -742,10 +574,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[IsLevelLoaded](ue_ue.LevelStreaming.md#islevelloaded)
 
-#### Defined in
-
-[ue/ue.d.ts:9810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9810)
-
 ___
 
 ### IsLevelVisible
@@ -760,10 +588,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[IsLevelVisible](ue_ue.LevelStreaming.md#islevelvisible)
 
-#### Defined in
-
-[ue/ue.d.ts:9811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9811)
-
 ___
 
 ### IsStreamingStatePending
@@ -777,10 +601,6 @@ ___
 #### Inherited from
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[IsStreamingStatePending](ue_ue.LevelStreaming.md#isstreamingstatepending)
-
-#### Defined in
-
-[ue/ue.d.ts:9812](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9812)
 
 ___
 
@@ -802,10 +622,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[SetLevelLODIndex](ue_ue.LevelStreaming.md#setlevellodindex)
 
-#### Defined in
-
-[ue/ue.d.ts:9813](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9813)
-
 ___
 
 ### SetPriority
@@ -825,10 +641,6 @@ ___
 #### Inherited from
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[SetPriority](ue_ue.LevelStreaming.md#setpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:9814](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9814)
 
 ___
 
@@ -850,10 +662,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[SetShouldBeLoaded](ue_ue.LevelStreaming.md#setshouldbeloaded)
 
-#### Defined in
-
-[ue/ue.d.ts:9815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9815)
-
 ___
 
 ### SetShouldBeVisible
@@ -874,10 +682,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[SetShouldBeVisible](ue_ue.LevelStreaming.md#setshouldbevisible)
 
-#### Defined in
-
-[ue/ue.d.ts:9816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9816)
-
 ___
 
 ### ShouldBeLoaded
@@ -891,10 +695,6 @@ ___
 #### Inherited from
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[ShouldBeLoaded](ue_ue.LevelStreaming.md#shouldbeloaded)
-
-#### Defined in
-
-[ue/ue.d.ts:9817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9817)
 
 ___
 
@@ -917,10 +717,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[Find](ue_ue.LevelStreaming.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:45282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45282)
-
 ___
 
 ### Load
@@ -941,10 +737,6 @@ ___
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[Load](ue_ue.LevelStreaming.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:45283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45283)
-
 ___
 
 ### StaticClass
@@ -958,7 +750,3 @@ ___
 #### Overrides
 
 [LevelStreaming](ue_ue.LevelStreaming.md).[StaticClass](ue_ue.LevelStreaming.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:45281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45281)

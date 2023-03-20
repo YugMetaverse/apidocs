@@ -67,10 +67,6 @@
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[constructor](ue_ue.DistributionVectorParameterBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:31090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31090)
-
 ## Properties
 
 ### Constant
@@ -80,10 +76,6 @@
 #### Inherited from
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[Constant](ue_ue.DistributionVectorParameterBase.md#constant)
-
-#### Defined in
-
-[ue/ue.d.ts:31052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31052)
 
 ___
 
@@ -95,10 +87,6 @@ ___
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[LockedAxes](ue_ue.DistributionVectorParameterBase.md#lockedaxes)
 
-#### Defined in
-
-[ue/ue.d.ts:31054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31054)
-
 ___
 
 ### MaxInput
@@ -108,10 +96,6 @@ ___
 #### Inherited from
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[MaxInput](ue_ue.DistributionVectorParameterBase.md#maxinput)
-
-#### Defined in
-
-[ue/ue.d.ts:31078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31078)
 
 ___
 
@@ -123,10 +107,6 @@ ___
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[MaxOutput](ue_ue.DistributionVectorParameterBase.md#maxoutput)
 
-#### Defined in
-
-[ue/ue.d.ts:31080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31080)
-
 ___
 
 ### MinInput
@@ -136,10 +116,6 @@ ___
 #### Inherited from
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[MinInput](ue_ue.DistributionVectorParameterBase.md#mininput)
-
-#### Defined in
-
-[ue/ue.d.ts:31077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31077)
 
 ___
 
@@ -151,10 +127,6 @@ ___
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[MinOutput](ue_ue.DistributionVectorParameterBase.md#minoutput)
 
-#### Defined in
-
-[ue/ue.d.ts:31079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31079)
-
 ___
 
 ### ParamModes
@@ -164,10 +136,6 @@ ___
 #### Inherited from
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[ParamModes](ue_ue.DistributionVectorParameterBase.md#parammodes)
-
-#### Defined in
-
-[ue/ue.d.ts:31081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31081)
 
 ___
 
@@ -179,10 +147,6 @@ ___
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[ParameterName](ue_ue.DistributionVectorParameterBase.md#parametername)
 
-#### Defined in
-
-[ue/ue.d.ts:31076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31076)
-
 ___
 
 ### \_\_tid\_DistributionVectorConstant\_\_
@@ -192,10 +156,6 @@ ___
 #### Inherited from
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[__tid_DistributionVectorConstant__](ue_ue.DistributionVectorParameterBase.md#__tid_distributionvectorconstant__)
-
-#### Defined in
-
-[ue/ue.d.ts:31059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31059)
 
 ___
 
@@ -207,19 +167,11 @@ ___
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[__tid_DistributionVectorParameterBase__](ue_ue.DistributionVectorParameterBase.md#__tid_distributionvectorparameterbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:31086](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31086)
-
 ___
 
 ### \_\_tid\_DistributionVectorParticleParameter\_\_
 
 • **\_\_tid\_DistributionVectorParticleParameter\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31095](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31095)
 
 ___
 
@@ -231,10 +183,6 @@ ___
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[__tid_DistributionVector__](ue_ue.DistributionVectorParameterBase.md#__tid_distributionvector__)
 
-#### Defined in
-
-[ue/ue.d.ts:7002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7002)
-
 ___
 
 ### \_\_tid\_Distribution\_\_
@@ -244,10 +192,6 @@ ___
 #### Inherited from
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[__tid_Distribution__](ue_ue.DistributionVectorParameterBase.md#__tid_distribution__)
-
-#### Defined in
-
-[ue/ue.d.ts:6796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6796)
 
 ___
 
@@ -259,10 +203,6 @@ ___
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[__tid_Object__](ue_ue.DistributionVectorParameterBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bBakedDataSuccesfully
@@ -272,10 +212,6 @@ ___
 #### Inherited from
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[bBakedDataSuccesfully](ue_ue.DistributionVectorParameterBase.md#bbakeddatasuccesfully)
-
-#### Defined in
-
-[ue/ue.d.ts:6997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6997)
 
 ___
 
@@ -287,10 +223,6 @@ ___
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[bCanBeBaked](ue_ue.DistributionVectorParameterBase.md#bcanbebaked)
 
-#### Defined in
-
-[ue/ue.d.ts:6995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6995)
-
 ___
 
 ### bIsDirty
@@ -301,10 +233,6 @@ ___
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[bIsDirty](ue_ue.DistributionVectorParameterBase.md#bisdirty)
 
-#### Defined in
-
-[ue/ue.d.ts:6996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6996)
-
 ___
 
 ### bLockAxes
@@ -314,10 +242,6 @@ ___
 #### Inherited from
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[bLockAxes](ue_ue.DistributionVectorParameterBase.md#blockaxes)
-
-#### Defined in
-
-[ue/ue.d.ts:31053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31053)
 
 ## Methods
 
@@ -343,10 +267,6 @@ ___
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[CreateDefaultSubobject](ue_ue.DistributionVectorParameterBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -367,10 +287,6 @@ ___
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[ExecuteUbergraph](ue_ue.DistributionVectorParameterBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -384,10 +300,6 @@ ___
 #### Inherited from
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[GetClass](ue_ue.DistributionVectorParameterBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -403,10 +315,6 @@ ___
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[GetName](ue_ue.DistributionVectorParameterBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -421,10 +329,6 @@ ___
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[GetOuter](ue_ue.DistributionVectorParameterBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -438,10 +342,6 @@ ___
 #### Inherited from
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[GetWorld](ue_ue.DistributionVectorParameterBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -464,10 +364,6 @@ ___
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[Find](ue_ue.DistributionVectorParameterBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:31092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31092)
-
 ___
 
 ### Load
@@ -488,10 +384,6 @@ ___
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[Load](ue_ue.DistributionVectorParameterBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:31093](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31093)
-
 ___
 
 ### StaticClass
@@ -505,7 +397,3 @@ ___
 #### Overrides
 
 [DistributionVectorParameterBase](ue_ue.DistributionVectorParameterBase.md).[StaticClass](ue_ue.DistributionVectorParameterBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:31091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31091)

@@ -22,19 +22,11 @@
 
 • **Auto** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7173)
-
 ___
 
 ### Complete
 
 • **Complete** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7173)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **DisableTick** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7173)
-
 ___
 
 ### DisableTickAndKill
 
 • **DisableTickAndKill** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7173)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **EParticleSystemInsignificanceReaction\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7173)
-
 ___
 
 ### Num
 
 • **Num** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7173)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7173)

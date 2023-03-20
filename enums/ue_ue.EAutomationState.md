@@ -22,19 +22,11 @@
 
 • **EAutomationState\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31378)
-
 ___
 
 ### Fail
 
 • **Fail** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31378)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **InProcess** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31378)
-
 ___
 
 ### NotEnoughParticipants
 
 • **NotEnoughParticipants** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31378)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **NotRun** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31378)
-
 ___
 
 ### Success
 
 • **Success** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31378)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31378)

@@ -21,19 +21,11 @@
 
 • **Both** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10895)
-
 ___
 
 ### ESlateBrushTileType\_MAX
 
 • **ESlateBrushTileType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10895)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Horizontal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10895)
-
 ___
 
 ### NoTile
 
 • **NoTile** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10895)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Vertical** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10895)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10895)

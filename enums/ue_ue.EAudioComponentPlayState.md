@@ -23,19 +23,11 @@
 
 • **Count** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16210)
-
 ___
 
 ### EAudioComponentPlayState\_MAX
 
 • **EAudioComponentPlayState\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16210)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **FadingIn** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16210)
-
 ___
 
 ### FadingOut
 
 • **FadingOut** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16210)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **Paused** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16210)
-
 ___
 
 ### Playing
 
 • **Playing** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16210)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **Stopped** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16210)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16210)

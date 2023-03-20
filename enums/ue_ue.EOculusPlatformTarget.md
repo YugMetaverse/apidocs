@@ -21,19 +21,11 @@
 
 • **EOculusPlatformTarget\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34647)
-
 ___
 
 ### Length
 
 • **Length** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34647)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Mobile** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34647)
-
 ___
 
 ### Quest
 
 • **Quest** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34647)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Rift** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34647)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34647)

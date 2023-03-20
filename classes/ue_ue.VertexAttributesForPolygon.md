@@ -28,10 +28,6 @@
 
 • **new VertexAttributesForPolygon**()
 
-#### Defined in
-
-[ue/ue.d.ts:31708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31708)
-
 • **new VertexAttributesForPolygon**(`PolygonID`, `PerimeterVertexAttributeLists`, `VertexAttributeListsForEachHole`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `PerimeterVertexAttributeLists` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MeshElementAttributeList`](ue_ue.MeshElementAttributeList.md)\> |
 | `VertexAttributeListsForEachHole` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`VertexAttributesForPolygonHole`](ue_ue.VertexAttributesForPolygonHole.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:31709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31709)
-
 ## Properties
 
 ### PerimeterVertexAttributeLists
 
 • **PerimeterVertexAttributeLists**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MeshElementAttributeList`](ue_ue.MeshElementAttributeList.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:31711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31711)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **PolygonID**: [`PolygonID`](ue_ue.PolygonID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31710)
-
 ___
 
 ### VertexAttributeListsForEachHole
 
 • **VertexAttributeListsForEachHole**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`VertexAttributesForPolygonHole`](ue_ue.VertexAttributesForPolygonHole.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:31712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31712)
-
 ___
 
 ### \_\_tid\_VertexAttributesForPolygon\_\_
 
 • `Private` **\_\_tid\_VertexAttributesForPolygon\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31718)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31716)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31717)

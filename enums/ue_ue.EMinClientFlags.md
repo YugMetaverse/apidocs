@@ -29,19 +29,11 @@
 
 • **AcceptActors** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34057)
-
 ___
 
 ### AcceptRPCs
 
 • **AcceptRPCs** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34057)
 
 ___
 
@@ -49,19 +41,11 @@ ___
 
 • **BeaconConnect** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34057)
-
 ___
 
 ### DumpReceivedRPC
 
 • **DumpReceivedRPC** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34057)
 
 ___
 
@@ -69,19 +53,11 @@ ___
 
 • **DumpReceivedRaw** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34057)
-
 ___
 
 ### DumpSendRPC
 
 • **DumpSendRPC** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34057)
 
 ___
 
@@ -89,19 +65,11 @@ ___
 
 • **DumpSendRaw** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34057)
-
 ___
 
 ### EMinClientFlags\_MAX
 
 • **EMinClientFlags\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34057)
 
 ___
 
@@ -109,19 +77,11 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34057)
-
 ___
 
 ### NotifyNetActors
 
 • **NotifyNetActors** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34057)
 
 ___
 
@@ -129,19 +89,11 @@ ___
 
 • **NotifyProcessNetEvent** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34057)
-
 ___
 
 ### SendRPCs
 
 • **SendRPCs** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34057)
 
 ___
 
@@ -149,16 +101,8 @@ ___
 
 • **SkipControlJoin** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34057)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34057)

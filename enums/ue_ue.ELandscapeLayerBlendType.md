@@ -20,19 +20,11 @@
 
 • **LB\_AlphaBlend** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33930)
-
 ___
 
 ### LB\_HeightBlend
 
 • **LB\_HeightBlend** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33930)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **LB\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33930)
-
 ___
 
 ### LB\_WeightBlend
 
 • **LB\_WeightBlend** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33930)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33930)

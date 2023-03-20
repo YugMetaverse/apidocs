@@ -46,10 +46,6 @@
 
 • **new MovieSceneCaptureSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:22580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22580)
-
 • **new MovieSceneCaptureSettings**(`OutputDirectory`, `GameModeOverride`, `OutputFormat`, `bOverwriteExisting`, `bUseRelativeFrameNumbers`, `HandleFrames`, `MovieExtension`, `ZeroPadFrameNumbers`, `FrameRate`, `bUseCustomFrameRate`, `CustomFrameRate`, `Resolution`, `bEnableTextureStreaming`, `bCinematicEngineScalability`, `bCinematicMode`, `bAllowMovement`, `bAllowTurning`, `bShowPlayer`, `bShowHUD`, `bUsePathTracer`, `PathTracerSamplePerPixel`)
 
 #### Parameters
@@ -78,19 +74,11 @@
 | `bUsePathTracer` | `boolean` |
 | `PathTracerSamplePerPixel` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:22581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22581)
-
 ## Properties
 
 ### CustomFrameRate
 
 • **CustomFrameRate**: [`FrameRate`](ue_ue.FrameRate.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22592)
 
 ___
 
@@ -98,19 +86,11 @@ ___
 
 • **FrameRate**: [`FrameRate`](ue_ue.FrameRate.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22590)
-
 ___
 
 ### GameModeOverride
 
 • **GameModeOverride**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22583](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22583)
 
 ___
 
@@ -118,19 +98,11 @@ ___
 
 • **HandleFrames**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22587)
-
 ___
 
 ### MovieExtension
 
 • **MovieExtension**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:22588](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22588)
 
 ___
 
@@ -138,19 +110,11 @@ ___
 
 • **OutputDirectory**: [`DirectoryPath`](ue_ue.DirectoryPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22582)
-
 ___
 
 ### OutputFormat
 
 • **OutputFormat**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:22584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22584)
 
 ___
 
@@ -158,19 +122,11 @@ ___
 
 • **PathTracerSamplePerPixel**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22602)
-
 ___
 
 ### Resolution
 
 • **Resolution**: [`CaptureResolution`](ue_ue.CaptureResolution.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22593)
 
 ___
 
@@ -178,19 +134,11 @@ ___
 
 • **ZeroPadFrameNumbers**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22589)
-
 ___
 
 ### \_\_tid\_MovieSceneCaptureSettings\_\_
 
 • `Private` **\_\_tid\_MovieSceneCaptureSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22608)
 
 ___
 
@@ -198,19 +146,11 @@ ___
 
 • **bAllowMovement**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:22597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22597)
-
 ___
 
 ### bAllowTurning
 
 • **bAllowTurning**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22598)
 
 ___
 
@@ -218,19 +158,11 @@ ___
 
 • **bCinematicEngineScalability**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:22595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22595)
-
 ___
 
 ### bCinematicMode
 
 • **bCinematicMode**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22596)
 
 ___
 
@@ -238,19 +170,11 @@ ___
 
 • **bEnableTextureStreaming**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:22594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22594)
-
 ___
 
 ### bOverwriteExisting
 
 • **bOverwriteExisting**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22585)
 
 ___
 
@@ -258,19 +182,11 @@ ___
 
 • **bShowHUD**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:22600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22600)
-
 ___
 
 ### bShowPlayer
 
 • **bShowPlayer**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22599)
 
 ___
 
@@ -278,29 +194,17 @@ ___
 
 • **bUseCustomFrameRate**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:22591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22591)
-
 ___
 
 ### bUsePathTracer
 
 • **bUsePathTracer**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:22601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22601)
-
 ___
 
 ### bUseRelativeFrameNumbers
 
 • **bUseRelativeFrameNumbers**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22586)
 
 ## Methods
 
@@ -316,10 +220,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22606)
-
 ___
 
 ### StaticStruct
@@ -329,7 +229,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22607)

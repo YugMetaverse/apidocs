@@ -30,10 +30,6 @@
 
 • **new ImageWriteOptions**()
 
-#### Defined in
-
-[ue/ue.d.ts:38772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38772)
-
 • **new ImageWriteOptions**(`Format`, `OnComplete`, `CompressionQuality`, `bOverwriteFile`, `bAsync`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `bOverwriteFile` | `boolean` |
 | `bAsync` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:38773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38773)
-
 ## Properties
 
 ### CompressionQuality
 
 • **CompressionQuality**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:38776](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38776)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **Format**: [`EDesiredImageFormat`](../enums/ue_ue.EDesiredImageFormat.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38774)
-
 ___
 
 ### OnComplete
 
 • **OnComplete**: [`$Delegate`](../interfaces/ue_puerts._Delegate.md)<(`bSuccess`: `boolean`) => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:38775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38775)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • `Private` **\_\_tid\_ImageWriteOptions\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:38784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38784)
-
 ___
 
 ### bAsync
 
 • **bAsync**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:38778](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38778)
-
 ___
 
 ### bOverwriteFile
 
 • **bOverwriteFile**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38777](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38777)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38782)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38783)

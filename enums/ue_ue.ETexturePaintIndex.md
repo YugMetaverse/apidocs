@@ -22,19 +22,11 @@
 
 • **ETexturePaintIndex\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34822)
-
 ___
 
 ### TextureFive
 
 • **TextureFive** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34822)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **TextureFour** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34822)
-
 ___
 
 ### TextureOne
 
 • **TextureOne** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34822)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **TextureThree** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34822)
-
 ___
 
 ### TextureTwo
 
 • **TextureTwo** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34822)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34822)

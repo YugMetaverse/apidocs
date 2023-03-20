@@ -20,19 +20,11 @@
 
 • **EAttachmentRule\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6702)
-
 ___
 
 ### KeepRelative
 
 • **KeepRelative** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6702)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **KeepWorld** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6702)
-
 ___
 
 ### SnapToTarget
 
 • **SnapToTarget** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6702)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6702)

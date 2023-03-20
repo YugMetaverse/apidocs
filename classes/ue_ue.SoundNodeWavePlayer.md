@@ -58,10 +58,6 @@
 
 [SoundNodeAssetReferencer](ue_ue.SoundNodeAssetReferencer.md).[constructor](ue_ue.SoundNodeAssetReferencer.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:61589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61589)
-
 ## Properties
 
 ### ChildNodes
@@ -71,10 +67,6 @@
 #### Inherited from
 
 [SoundNodeAssetReferencer](ue_ue.SoundNodeAssetReferencer.md).[ChildNodes](ue_ue.SoundNodeAssetReferencer.md#childnodes)
-
-#### Defined in
-
-[ue/ue.d.ts:22398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22398)
 
 ___
 
@@ -86,29 +78,17 @@ ___
 
 [SoundNodeAssetReferencer](ue_ue.SoundNodeAssetReferencer.md).[GraphNode](ue_ue.SoundNodeAssetReferencer.md#graphnode)
 
-#### Defined in
-
-[ue/ue.d.ts:22399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22399)
-
 ___
 
 ### SoundWave
 
 • **SoundWave**: [`SoundWave`](ue_ue.SoundWave.md)
 
-#### Defined in
-
-[ue/ue.d.ts:61591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61591)
-
 ___
 
 ### SoundWaveAssetPtr
 
 • **SoundWaveAssetPtr**: [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`SoundWave`](ue_ue.SoundWave.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:61590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61590)
 
 ___
 
@@ -120,10 +100,6 @@ ___
 
 [SoundNodeAssetReferencer](ue_ue.SoundNodeAssetReferencer.md).[__tid_Object__](ue_ue.SoundNodeAssetReferencer.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_SoundNodeAssetReferencer\_\_
@@ -134,19 +110,11 @@ ___
 
 [SoundNodeAssetReferencer](ue_ue.SoundNodeAssetReferencer.md).[__tid_SoundNodeAssetReferencer__](ue_ue.SoundNodeAssetReferencer.md#__tid_soundnodeassetreferencer__)
 
-#### Defined in
-
-[ue/ue.d.ts:61290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61290)
-
 ___
 
 ### \_\_tid\_SoundNodeWavePlayer\_\_
 
 • **\_\_tid\_SoundNodeWavePlayer\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:61597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61597)
 
 ___
 
@@ -158,19 +126,11 @@ ___
 
 [SoundNodeAssetReferencer](ue_ue.SoundNodeAssetReferencer.md).[__tid_SoundNode__](ue_ue.SoundNodeAssetReferencer.md#__tid_soundnode__)
 
-#### Defined in
-
-[ue/ue.d.ts:22404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22404)
-
 ___
 
 ### bLooping
 
 • **bLooping**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:61592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61592)
 
 ## Methods
 
@@ -196,10 +156,6 @@ ___
 
 [SoundNodeAssetReferencer](ue_ue.SoundNodeAssetReferencer.md).[CreateDefaultSubobject](ue_ue.SoundNodeAssetReferencer.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -220,10 +176,6 @@ ___
 
 [SoundNodeAssetReferencer](ue_ue.SoundNodeAssetReferencer.md).[ExecuteUbergraph](ue_ue.SoundNodeAssetReferencer.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -237,10 +189,6 @@ ___
 #### Inherited from
 
 [SoundNodeAssetReferencer](ue_ue.SoundNodeAssetReferencer.md).[GetClass](ue_ue.SoundNodeAssetReferencer.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -256,10 +204,6 @@ ___
 
 [SoundNodeAssetReferencer](ue_ue.SoundNodeAssetReferencer.md).[GetName](ue_ue.SoundNodeAssetReferencer.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -274,10 +218,6 @@ ___
 
 [SoundNodeAssetReferencer](ue_ue.SoundNodeAssetReferencer.md).[GetOuter](ue_ue.SoundNodeAssetReferencer.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -291,10 +231,6 @@ ___
 #### Inherited from
 
 [SoundNodeAssetReferencer](ue_ue.SoundNodeAssetReferencer.md).[GetWorld](ue_ue.SoundNodeAssetReferencer.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -317,10 +253,6 @@ ___
 
 [SoundNodeAssetReferencer](ue_ue.SoundNodeAssetReferencer.md).[Find](ue_ue.SoundNodeAssetReferencer.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:61594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61594)
-
 ___
 
 ### Load
@@ -341,10 +273,6 @@ ___
 
 [SoundNodeAssetReferencer](ue_ue.SoundNodeAssetReferencer.md).[Load](ue_ue.SoundNodeAssetReferencer.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:61595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61595)
-
 ___
 
 ### StaticClass
@@ -358,7 +286,3 @@ ___
 #### Overrides
 
 [SoundNodeAssetReferencer](ue_ue.SoundNodeAssetReferencer.md).[StaticClass](ue_ue.SoundNodeAssetReferencer.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:61593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61593)

@@ -69,10 +69,6 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[constructor](ue_ue.BlueprintFunctionLibrary.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:46601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46601)
-
 ## Properties
 
 ### \_\_tid\_BlueprintFunctionLibrary\_\_
@@ -83,19 +79,11 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_BlueprintFunctionLibrary__](ue_ue.BlueprintFunctionLibrary.md#__tid_blueprintfunctionlibrary__)
 
-#### Defined in
-
-[ue/ue.d.ts:13418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13418)
-
 ___
 
 ### \_\_tid\_MagicLeapControllerFunctionLibrary\_\_
 
 • **\_\_tid\_MagicLeapControllerFunctionLibrary\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46623)
 
 ___
 
@@ -106,10 +94,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_Object__](ue_ue.BlueprintFunctionLibrary.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -135,10 +119,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[CreateDefaultSubobject](ue_ue.BlueprintFunctionLibrary.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -159,10 +139,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[ExecuteUbergraph](ue_ue.BlueprintFunctionLibrary.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -176,10 +152,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetClass](ue_ue.BlueprintFunctionLibrary.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -195,10 +167,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetName](ue_ue.BlueprintFunctionLibrary.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -213,10 +181,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetOuter](ue_ue.BlueprintFunctionLibrary.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -230,10 +194,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetWorld](ue_ue.BlueprintFunctionLibrary.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -256,10 +216,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Find](ue_ue.BlueprintFunctionLibrary.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:46620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46620)
-
 ___
 
 ### GetControllerMapping
@@ -277,10 +233,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46602)
-
 ___
 
 ### GetControllerTrackingMode
@@ -290,10 +242,6 @@ ___
 #### Returns
 
 [`EMagicLeapControllerTrackingMode`](../enums/ue_ue.EMagicLeapControllerTrackingMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46603)
 
 ___
 
@@ -311,10 +259,6 @@ ___
 
 [`EMagicLeapControllerType`](../enums/ue_ue.EMagicLeapControllerType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46604)
-
 ___
 
 ### GetHandForMotionSource
@@ -330,10 +274,6 @@ ___
 #### Returns
 
 [`EControllerHand`](../enums/ue_ue.EControllerHand.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46605)
 
 ___
 
@@ -351,10 +291,6 @@ ___
 
 [`EMagicLeapControllerType`](../enums/ue_ue.EMagicLeapControllerType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46606)
-
 ___
 
 ### GetMotionSourceForHand
@@ -371,10 +307,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:46607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46607)
-
 ___
 
 ### InvertControllerMapping
@@ -384,10 +316,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:46608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46608)
 
 ___
 
@@ -404,10 +332,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46609)
 
 ___
 
@@ -429,10 +353,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Load](ue_ue.BlueprintFunctionLibrary.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:46621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46621)
-
 ___
 
 ### MaxSupportedMagicLeapControllers
@@ -442,10 +362,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:46610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46610)
 
 ___
 
@@ -465,10 +381,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46611](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46611)
-
 ___
 
 ### PlayControllerLED
@@ -487,10 +399,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46612)
 
 ___
 
@@ -513,10 +421,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46613)
-
 ___
 
 ### PlayHapticPattern
@@ -534,10 +438,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46614)
 
 ___
 
@@ -560,10 +460,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46615)
-
 ___
 
 ### PlayLEDPattern
@@ -583,10 +479,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46616)
-
 ___
 
 ### SetControllerTrackingMode
@@ -602,10 +494,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46617)
 
 ___
 
@@ -624,10 +512,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46618)
-
 ___
 
 ### StaticClass
@@ -641,7 +525,3 @@ ___
 #### Overrides
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[StaticClass](ue_ue.BlueprintFunctionLibrary.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:46619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46619)

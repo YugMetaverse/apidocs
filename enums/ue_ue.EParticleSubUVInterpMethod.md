@@ -22,19 +22,11 @@
 
 • **PSUVIM\_Linear** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6838)
-
 ___
 
 ### PSUVIM\_Linear\_Blend
 
 • **PSUVIM\_Linear\_Blend** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6838)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **PSUVIM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6838)
-
 ___
 
 ### PSUVIM\_None
 
 • **PSUVIM\_None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6838)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **PSUVIM\_Random** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6838)
-
 ___
 
 ### PSUVIM\_Random\_Blend
 
 • **PSUVIM\_Random\_Blend** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6838)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6838)

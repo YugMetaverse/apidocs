@@ -20,19 +20,11 @@
 
 • **EWidgetCompileTimeTickPrediction\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33645)
-
 ___
 
 ### OnDemand
 
 • **OnDemand** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33645)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **WillTick** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33645)
-
 ___
 
 ### WontTick
 
 • **WontTick** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33645)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33645)

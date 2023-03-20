@@ -21,19 +21,11 @@
 
 • **Block** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34011)
-
 ___
 
 ### Confidence
 
 • **Confidence** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34011)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **EMagicLeapMeshVertexColorMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34011)
-
 ___
 
 ### LOD
 
 • **LOD** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34011)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34011)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34011)

@@ -46,10 +46,6 @@
 
 `void`
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:43](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L43)
-
 ___
 
 ### flags
@@ -65,7 +61,3 @@ ___
 #### Returns
 
 `any`
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:41](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L41)

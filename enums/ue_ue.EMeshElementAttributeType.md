@@ -25,19 +25,11 @@
 
 • **Bool** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34047)
-
 ___
 
 ### EMeshElementAttributeType\_MAX
 
 • **EMeshElementAttributeType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34047)
 
 ___
 
@@ -45,19 +37,11 @@ ___
 
 • **FName** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34047)
-
 ___
 
 ### FVector
 
 • **FVector** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34047)
 
 ___
 
@@ -65,19 +49,11 @@ ___
 
 • **FVector2D** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34047)
-
 ___
 
 ### FVector4
 
 • **FVector4** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34047)
 
 ___
 
@@ -85,19 +61,11 @@ ___
 
 • **Float** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34047)
-
 ___
 
 ### Int
 
 • **Int** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34047)
 
 ___
 
@@ -105,16 +73,8 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34047)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34047)

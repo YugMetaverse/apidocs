@@ -26,10 +26,6 @@
 
 • **new SocketReference**()
 
-#### Defined in
-
-[ue/ue.d.ts:18202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18202)
-
 • **new SocketReference**(`SocketName`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `SocketName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:18203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18203)
-
 ## Properties
 
 ### SocketName
 
 • **SocketName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:18204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18204)
-
 ___
 
 ### \_\_tid\_SocketReference\_\_
 
 • `Private` **\_\_tid\_SocketReference\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18210)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18208)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:18209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18209)

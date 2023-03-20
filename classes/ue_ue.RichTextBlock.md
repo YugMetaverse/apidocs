@@ -182,10 +182,6 @@
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[constructor](ue_ue.TextLayoutWidget.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:59647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59647)
-
 ## Properties
 
 ### AccessibleBehavior
@@ -195,10 +191,6 @@
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[AccessibleBehavior](ue_ue.TextLayoutWidget.md#accessiblebehavior)
-
-#### Defined in
-
-[ue/ue.d.ts:10940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10940)
 
 ___
 
@@ -210,10 +202,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[AccessibleSummaryBehavior](ue_ue.TextLayoutWidget.md#accessiblesummarybehavior)
 
-#### Defined in
-
-[ue/ue.d.ts:10941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10941)
-
 ___
 
 ### AccessibleSummaryText
@@ -223,10 +211,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[AccessibleSummaryText](ue_ue.TextLayoutWidget.md#accessiblesummarytext)
-
-#### Defined in
-
-[ue/ue.d.ts:10944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10944)
 
 ___
 
@@ -238,10 +222,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[AccessibleSummaryTextDelegate](ue_ue.TextLayoutWidget.md#accessiblesummarytextdelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10945)
-
 ___
 
 ### AccessibleText
@@ -251,10 +231,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[AccessibleText](ue_ue.TextLayoutWidget.md#accessibletext)
-
-#### Defined in
-
-[ue/ue.d.ts:10942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10942)
 
 ___
 
@@ -266,10 +242,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[AccessibleTextDelegate](ue_ue.TextLayoutWidget.md#accessibletextdelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10943)
-
 ___
 
 ### AccessibleWidgetData
@@ -279,10 +251,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[AccessibleWidgetData](ue_ue.TextLayoutWidget.md#accessiblewidgetdata)
-
-#### Defined in
-
-[ue/ue.d.ts:10946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10946)
 
 ___
 
@@ -294,10 +262,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[AutoWrapText](ue_ue.TextLayoutWidget.md#autowraptext)
 
-#### Defined in
-
-[ue/ue.d.ts:52551](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52551)
-
 ___
 
 ### CategoryName
@@ -307,10 +271,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[CategoryName](ue_ue.TextLayoutWidget.md#categoryname)
-
-#### Defined in
-
-[ue/ue.d.ts:10960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10960)
 
 ___
 
@@ -322,10 +282,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[Clipping](ue_ue.TextLayoutWidget.md#clipping)
 
-#### Defined in
-
-[ue/ue.d.ts:10952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10952)
-
 ___
 
 ### Cursor
@@ -336,29 +292,17 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[Cursor](ue_ue.TextLayoutWidget.md#cursor)
 
-#### Defined in
-
-[ue/ue.d.ts:10951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10951)
-
 ___
 
 ### DecoratorClasses
 
 • **DecoratorClasses**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Class`](ue_ue.Class.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:59650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59650)
-
 ___
 
 ### DefaultTextStyleOverride
 
 • **DefaultTextStyleOverride**: [`TextBlockStyle`](ue_ue.TextBlockStyle.md)
-
-#### Defined in
-
-[ue/ue.d.ts:59652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59652)
 
 ___
 
@@ -370,10 +314,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[DesignerFlags](ue_ue.TextLayoutWidget.md#designerflags)
 
-#### Defined in
-
-[ue/ue.d.ts:10958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10958)
-
 ___
 
 ### DisplayLabel
@@ -383,10 +323,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[DisplayLabel](ue_ue.TextLayoutWidget.md#displaylabel)
-
-#### Defined in
-
-[ue/ue.d.ts:10959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10959)
 
 ___
 
@@ -398,19 +334,11 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[FlowDirectionPreference](ue_ue.TextLayoutWidget.md#flowdirectionpreference)
 
-#### Defined in
-
-[ue/ue.d.ts:10956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10956)
-
 ___
 
 ### InstanceDecorators
 
 • **InstanceDecorators**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`RichTextBlockDecorator`](ue_ue.RichTextBlockDecorator.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:59654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59654)
 
 ___
 
@@ -422,10 +350,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[Justification](ue_ue.TextLayoutWidget.md#justification)
 
-#### Defined in
-
-[ue/ue.d.ts:52549](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52549)
-
 ___
 
 ### LineHeightPercentage
@@ -435,10 +359,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[LineHeightPercentage](ue_ue.TextLayoutWidget.md#lineheightpercentage)
-
-#### Defined in
-
-[ue/ue.d.ts:52554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52554)
 
 ___
 
@@ -450,19 +370,11 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[Margin](ue_ue.TextLayoutWidget.md#margin)
 
-#### Defined in
-
-[ue/ue.d.ts:52553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52553)
-
 ___
 
 ### MinDesiredWidth
 
 • **MinDesiredWidth**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:59653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59653)
 
 ___
 
@@ -474,10 +386,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[NativeBindings](ue_ue.TextLayoutWidget.md#nativebindings)
 
-#### Defined in
-
-[ue/ue.d.ts:10957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10957)
-
 ___
 
 ### Navigation
@@ -487,10 +395,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[Navigation](ue_ue.TextLayoutWidget.md#navigation)
-
-#### Defined in
-
-[ue/ue.d.ts:10955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10955)
 
 ___
 
@@ -502,10 +406,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[RenderOpacity](ue_ue.TextLayoutWidget.md#renderopacity)
 
-#### Defined in
-
-[ue/ue.d.ts:10954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10954)
-
 ___
 
 ### RenderTransform
@@ -515,10 +415,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[RenderTransform](ue_ue.TextLayoutWidget.md#rendertransform)
-
-#### Defined in
-
-[ue/ue.d.ts:10932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10932)
 
 ___
 
@@ -530,10 +426,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[RenderTransformPivot](ue_ue.TextLayoutWidget.md#rendertransformpivot)
 
-#### Defined in
-
-[ue/ue.d.ts:10933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10933)
-
 ___
 
 ### ShapedTextOptions
@@ -543,10 +435,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[ShapedTextOptions](ue_ue.TextLayoutWidget.md#shapedtextoptions)
-
-#### Defined in
-
-[ue/ue.d.ts:52548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52548)
 
 ___
 
@@ -558,29 +446,17 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[Slot](ue_ue.TextLayoutWidget.md#slot)
 
-#### Defined in
-
-[ue/ue.d.ts:10925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10925)
-
 ___
 
 ### Text
 
 • **Text**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:59648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59648)
-
 ___
 
 ### TextStyleSet
 
 • **TextStyleSet**: [`DataTable`](ue_ue.DataTable.md)
-
-#### Defined in
-
-[ue/ue.d.ts:59649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59649)
 
 ___
 
@@ -592,10 +468,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[ToolTipText](ue_ue.TextLayoutWidget.md#tooltiptext)
 
-#### Defined in
-
-[ue/ue.d.ts:10927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10927)
-
 ___
 
 ### ToolTipTextDelegate
@@ -605,10 +477,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[ToolTipTextDelegate](ue_ue.TextLayoutWidget.md#tooltiptextdelegate)
-
-#### Defined in
-
-[ue/ue.d.ts:10928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10928)
 
 ___
 
@@ -620,10 +488,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[ToolTipWidget](ue_ue.TextLayoutWidget.md#tooltipwidget)
 
-#### Defined in
-
-[ue/ue.d.ts:10929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10929)
-
 ___
 
 ### ToolTipWidgetDelegate
@@ -633,10 +497,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[ToolTipWidgetDelegate](ue_ue.TextLayoutWidget.md#tooltipwidgetdelegate)
-
-#### Defined in
-
-[ue/ue.d.ts:10930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10930)
 
 ___
 
@@ -648,10 +508,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[Visibility](ue_ue.TextLayoutWidget.md#visibility)
 
-#### Defined in
-
-[ue/ue.d.ts:10953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10953)
-
 ___
 
 ### VisibilityDelegate
@@ -661,10 +517,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[VisibilityDelegate](ue_ue.TextLayoutWidget.md#visibilitydelegate)
-
-#### Defined in
-
-[ue/ue.d.ts:10931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10931)
 
 ___
 
@@ -676,10 +528,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[WrapTextAt](ue_ue.TextLayoutWidget.md#wraptextat)
 
-#### Defined in
-
-[ue/ue.d.ts:52552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52552)
-
 ___
 
 ### WrappingPolicy
@@ -689,10 +537,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[WrappingPolicy](ue_ue.TextLayoutWidget.md#wrappingpolicy)
-
-#### Defined in
-
-[ue/ue.d.ts:52550](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52550)
 
 ___
 
@@ -704,19 +548,11 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[__tid_Object__](ue_ue.TextLayoutWidget.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_RichTextBlock\_\_
 
 • **\_\_tid\_RichTextBlock\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59672)
 
 ___
 
@@ -728,10 +564,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[__tid_TextLayoutWidget__](ue_ue.TextLayoutWidget.md#__tid_textlayoutwidget__)
 
-#### Defined in
-
-[ue/ue.d.ts:52560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52560)
-
 ___
 
 ### \_\_tid\_Visual\_\_
@@ -741,10 +573,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[__tid_Visual__](ue_ue.TextLayoutWidget.md#__tid_visual__)
-
-#### Defined in
-
-[ue/ue.d.ts:10673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10673)
 
 ___
 
@@ -756,10 +584,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[__tid_Widget__](ue_ue.TextLayoutWidget.md#__tid_widget__)
 
-#### Defined in
-
-[ue/ue.d.ts:11029](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11029)
-
 ___
 
 ### bCanChildrenBeAccessible
@@ -769,10 +593,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[bCanChildrenBeAccessible](ue_ue.TextLayoutWidget.md#bcanchildrenbeaccessible)
-
-#### Defined in
-
-[ue/ue.d.ts:10939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10939)
 
 ___
 
@@ -784,10 +604,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[bCreatedByConstructionScript](ue_ue.TextLayoutWidget.md#bcreatedbyconstructionscript)
 
-#### Defined in
-
-[ue/ue.d.ts:10935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10935)
-
 ___
 
 ### bExpandedInDesigner
@@ -797,10 +613,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[bExpandedInDesigner](ue_ue.TextLayoutWidget.md#bexpandedindesigner)
-
-#### Defined in
-
-[ue/ue.d.ts:10949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10949)
 
 ___
 
@@ -812,10 +624,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[bHiddenInDesigner](ue_ue.TextLayoutWidget.md#bhiddenindesigner)
 
-#### Defined in
-
-[ue/ue.d.ts:10948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10948)
-
 ___
 
 ### bIsEnabled
@@ -825,10 +633,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[bIsEnabled](ue_ue.TextLayoutWidget.md#bisenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:10936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10936)
 
 ___
 
@@ -840,10 +644,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[bIsEnabledDelegate](ue_ue.TextLayoutWidget.md#bisenableddelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10926)
-
 ___
 
 ### bIsVariable
@@ -853,10 +653,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[bIsVariable](ue_ue.TextLayoutWidget.md#bisvariable)
-
-#### Defined in
-
-[ue/ue.d.ts:10934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10934)
 
 ___
 
@@ -868,10 +664,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[bIsVolatile](ue_ue.TextLayoutWidget.md#bisvolatile)
 
-#### Defined in
-
-[ue/ue.d.ts:10947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10947)
-
 ___
 
 ### bLockedInDesigner
@@ -881,10 +673,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[bLockedInDesigner](ue_ue.TextLayoutWidget.md#blockedindesigner)
-
-#### Defined in
-
-[ue/ue.d.ts:10950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10950)
 
 ___
 
@@ -896,19 +684,11 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[bOverrideAccessibleDefaults](ue_ue.TextLayoutWidget.md#boverrideaccessibledefaults)
 
-#### Defined in
-
-[ue/ue.d.ts:10938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10938)
-
 ___
 
 ### bOverrideDefaultStyle
 
 • **bOverrideDefaultStyle**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59651)
 
 ___
 
@@ -920,10 +700,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[bOverride_Cursor](ue_ue.TextLayoutWidget.md#boverride_cursor)
 
-#### Defined in
-
-[ue/ue.d.ts:10937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10937)
-
 ## Methods
 
 ### ClearAllDefaultStyleOverrides
@@ -933,10 +709,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:59655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59655)
 
 ___
 
@@ -962,10 +734,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[CreateDefaultSubobject](ue_ue.TextLayoutWidget.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -986,10 +754,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[ExecuteUbergraph](ue_ue.TextLayoutWidget.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### ForceLayoutPrepass
@@ -1003,10 +767,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[ForceLayoutPrepass](ue_ue.TextLayoutWidget.md#forcelayoutprepass)
-
-#### Defined in
-
-[ue/ue.d.ts:10961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10961)
 
 ___
 
@@ -1028,10 +788,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[ForceVolatile](ue_ue.TextLayoutWidget.md#forcevolatile)
 
-#### Defined in
-
-[ue/ue.d.ts:10962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10962)
-
 ___
 
 ### GenerateWidgetForObject\_\_DelegateSignature
@@ -1051,10 +807,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GenerateWidgetForObject__DelegateSignature](ue_ue.TextLayoutWidget.md#generatewidgetforobject__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10963)
 
 ___
 
@@ -1076,10 +828,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GenerateWidgetForString__DelegateSignature](ue_ue.TextLayoutWidget.md#generatewidgetforstring__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10964](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10964)
-
 ___
 
 ### GetBool\_\_DelegateSignature
@@ -1093,10 +841,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetBool__DelegateSignature](ue_ue.TextLayoutWidget.md#getbool__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10965](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10965)
 
 ___
 
@@ -1112,10 +856,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetCachedGeometry](ue_ue.TextLayoutWidget.md#getcachedgeometry)
 
-#### Defined in
-
-[ue/ue.d.ts:10966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10966)
-
 ___
 
 ### GetCheckBoxState\_\_DelegateSignature
@@ -1129,10 +869,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetCheckBoxState__DelegateSignature](ue_ue.TextLayoutWidget.md#getcheckboxstate__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10967)
 
 ___
 
@@ -1148,10 +884,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetClass](ue_ue.TextLayoutWidget.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetClipping
@@ -1165,10 +897,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetClipping](ue_ue.TextLayoutWidget.md#getclipping)
-
-#### Defined in
-
-[ue/ue.d.ts:10968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10968)
 
 ___
 
@@ -1186,10 +914,6 @@ ___
 
 [`RichTextBlockDecorator`](ue_ue.RichTextBlockDecorator.md)
 
-#### Defined in
-
-[ue/ue.d.ts:59656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59656)
-
 ___
 
 ### GetDesiredSize
@@ -1203,10 +927,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetDesiredSize](ue_ue.TextLayoutWidget.md#getdesiredsize)
-
-#### Defined in
-
-[ue/ue.d.ts:10969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10969)
 
 ___
 
@@ -1222,10 +942,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetFloat__DelegateSignature](ue_ue.TextLayoutWidget.md#getfloat__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10970)
-
 ___
 
 ### GetGameInstance
@@ -1239,10 +955,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetGameInstance](ue_ue.TextLayoutWidget.md#getgameinstance)
-
-#### Defined in
-
-[ue/ue.d.ts:10971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10971)
 
 ___
 
@@ -1258,10 +970,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetInt32__DelegateSignature](ue_ue.TextLayoutWidget.md#getint32__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10972)
-
 ___
 
 ### GetIsEnabled
@@ -1275,10 +983,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetIsEnabled](ue_ue.TextLayoutWidget.md#getisenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:10973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10973)
 
 ___
 
@@ -1294,10 +998,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetLinearColor__DelegateSignature](ue_ue.TextLayoutWidget.md#getlinearcolor__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10974)
-
 ___
 
 ### GetMouseCursor\_\_DelegateSignature
@@ -1311,10 +1011,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetMouseCursor__DelegateSignature](ue_ue.TextLayoutWidget.md#getmousecursor__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10975](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10975)
 
 ___
 
@@ -1330,10 +1026,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetName](ue_ue.TextLayoutWidget.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -1347,10 +1039,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetOuter](ue_ue.TextLayoutWidget.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -1366,10 +1054,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetOwningLocalPlayer](ue_ue.TextLayoutWidget.md#getowninglocalplayer)
 
-#### Defined in
-
-[ue/ue.d.ts:10976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10976)
-
 ___
 
 ### GetOwningPlayer
@@ -1383,10 +1067,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetOwningPlayer](ue_ue.TextLayoutWidget.md#getowningplayer)
-
-#### Defined in
-
-[ue/ue.d.ts:10977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10977)
 
 ___
 
@@ -1402,10 +1082,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetPaintSpaceGeometry](ue_ue.TextLayoutWidget.md#getpaintspacegeometry)
 
-#### Defined in
-
-[ue/ue.d.ts:10978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10978)
-
 ___
 
 ### GetParent
@@ -1419,10 +1095,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetParent](ue_ue.TextLayoutWidget.md#getparent)
-
-#### Defined in
-
-[ue/ue.d.ts:10979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10979)
 
 ___
 
@@ -1438,10 +1110,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetRenderOpacity](ue_ue.TextLayoutWidget.md#getrenderopacity)
 
-#### Defined in
-
-[ue/ue.d.ts:10980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10980)
-
 ___
 
 ### GetRenderTransformAngle
@@ -1455,10 +1123,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetRenderTransformAngle](ue_ue.TextLayoutWidget.md#getrendertransformangle)
-
-#### Defined in
-
-[ue/ue.d.ts:10981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10981)
 
 ___
 
@@ -1474,10 +1138,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetSlateBrush__DelegateSignature](ue_ue.TextLayoutWidget.md#getslatebrush__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10982)
-
 ___
 
 ### GetSlateColor\_\_DelegateSignature
@@ -1491,10 +1151,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetSlateColor__DelegateSignature](ue_ue.TextLayoutWidget.md#getslatecolor__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10983)
 
 ___
 
@@ -1510,10 +1166,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetSlateVisibility__DelegateSignature](ue_ue.TextLayoutWidget.md#getslatevisibility__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10984)
-
 ___
 
 ### GetText
@@ -1523,10 +1175,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:59657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59657)
 
 ___
 
@@ -1542,10 +1190,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetText__DelegateSignature](ue_ue.TextLayoutWidget.md#gettext__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10985)
-
 ___
 
 ### GetTickSpaceGeometry
@@ -1559,10 +1203,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetTickSpaceGeometry](ue_ue.TextLayoutWidget.md#gettickspacegeometry)
-
-#### Defined in
-
-[ue/ue.d.ts:10986](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10986)
 
 ___
 
@@ -1578,10 +1218,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetVisibility](ue_ue.TextLayoutWidget.md#getvisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:10987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10987)
-
 ___
 
 ### GetWidget\_\_DelegateSignature
@@ -1595,10 +1231,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetWidget__DelegateSignature](ue_ue.TextLayoutWidget.md#getwidget__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10988)
 
 ___
 
@@ -1614,10 +1246,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[GetWorld](ue_ue.TextLayoutWidget.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### HasAnyUserFocus
@@ -1631,10 +1259,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[HasAnyUserFocus](ue_ue.TextLayoutWidget.md#hasanyuserfocus)
-
-#### Defined in
-
-[ue/ue.d.ts:10989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10989)
 
 ___
 
@@ -1650,10 +1274,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[HasFocusedDescendants](ue_ue.TextLayoutWidget.md#hasfocuseddescendants)
 
-#### Defined in
-
-[ue/ue.d.ts:10990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10990)
-
 ___
 
 ### HasKeyboardFocus
@@ -1668,10 +1288,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[HasKeyboardFocus](ue_ue.TextLayoutWidget.md#haskeyboardfocus)
 
-#### Defined in
-
-[ue/ue.d.ts:10991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10991)
-
 ___
 
 ### HasMouseCapture
@@ -1685,10 +1301,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[HasMouseCapture](ue_ue.TextLayoutWidget.md#hasmousecapture)
-
-#### Defined in
-
-[ue/ue.d.ts:10992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10992)
 
 ___
 
@@ -1711,10 +1323,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[HasMouseCaptureByUser](ue_ue.TextLayoutWidget.md#hasmousecapturebyuser)
 
-#### Defined in
-
-[ue/ue.d.ts:10993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10993)
-
 ___
 
 ### HasUserFocus
@@ -1734,10 +1342,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[HasUserFocus](ue_ue.TextLayoutWidget.md#hasuserfocus)
-
-#### Defined in
-
-[ue/ue.d.ts:10994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10994)
 
 ___
 
@@ -1759,10 +1363,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[HasUserFocusedDescendants](ue_ue.TextLayoutWidget.md#hasuserfocuseddescendants)
 
-#### Defined in
-
-[ue/ue.d.ts:10995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10995)
-
 ___
 
 ### InvalidateLayoutAndVolatility
@@ -1776,10 +1376,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[InvalidateLayoutAndVolatility](ue_ue.TextLayoutWidget.md#invalidatelayoutandvolatility)
-
-#### Defined in
-
-[ue/ue.d.ts:10996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10996)
 
 ___
 
@@ -1795,10 +1391,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[IsHovered](ue_ue.TextLayoutWidget.md#ishovered)
 
-#### Defined in
-
-[ue/ue.d.ts:10997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10997)
-
 ___
 
 ### IsVisible
@@ -1812,10 +1404,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[IsVisible](ue_ue.TextLayoutWidget.md#isvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:10998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10998)
 
 ___
 
@@ -1838,10 +1426,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[OnPointerEvent__DelegateSignature](ue_ue.TextLayoutWidget.md#onpointerevent__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10999)
-
 ___
 
 ### OnReply\_\_DelegateSignature
@@ -1855,10 +1439,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[OnReply__DelegateSignature](ue_ue.TextLayoutWidget.md#onreply__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:11000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11000)
 
 ___
 
@@ -1874,10 +1454,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[RemoveFromParent](ue_ue.TextLayoutWidget.md#removefromparent)
 
-#### Defined in
-
-[ue/ue.d.ts:11001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11001)
-
 ___
 
 ### ResetCursor
@@ -1891,10 +1467,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[ResetCursor](ue_ue.TextLayoutWidget.md#resetcursor)
-
-#### Defined in
-
-[ue/ue.d.ts:11002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11002)
 
 ___
 
@@ -1917,10 +1489,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[SetAllNavigationRules](ue_ue.TextLayoutWidget.md#setallnavigationrules)
 
-#### Defined in
-
-[ue/ue.d.ts:11003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11003)
-
 ___
 
 ### SetAutoWrapText
@@ -1936,10 +1504,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:59658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59658)
 
 ___
 
@@ -1961,10 +1525,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[SetClipping](ue_ue.TextLayoutWidget.md#setclipping)
 
-#### Defined in
-
-[ue/ue.d.ts:11004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11004)
-
 ___
 
 ### SetCursor
@@ -1985,10 +1545,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[SetCursor](ue_ue.TextLayoutWidget.md#setcursor)
 
-#### Defined in
-
-[ue/ue.d.ts:11005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11005)
-
 ___
 
 ### SetDefaultColorAndOpacity
@@ -2004,10 +1560,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:59659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59659)
 
 ___
 
@@ -2025,10 +1577,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:59660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59660)
-
 ___
 
 ### SetDefaultShadowColorAndOpacity
@@ -2044,10 +1592,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:59661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59661)
 
 ___
 
@@ -2065,10 +1609,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:59662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59662)
-
 ___
 
 ### SetDefaultStrikeBrush
@@ -2084,10 +1624,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:59663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59663)
 
 ___
 
@@ -2105,10 +1641,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:59664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59664)
-
 ___
 
 ### SetFocus
@@ -2122,10 +1654,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[SetFocus](ue_ue.TextLayoutWidget.md#setfocus)
-
-#### Defined in
-
-[ue/ue.d.ts:11006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11006)
 
 ___
 
@@ -2147,10 +1675,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[SetIsEnabled](ue_ue.TextLayoutWidget.md#setisenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:11007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11007)
-
 ___
 
 ### SetJustification
@@ -2171,10 +1695,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[SetJustification](ue_ue.TextLayoutWidget.md#setjustification)
 
-#### Defined in
-
-[ue/ue.d.ts:52555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52555)
-
 ___
 
 ### SetKeyboardFocus
@@ -2188,10 +1708,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[SetKeyboardFocus](ue_ue.TextLayoutWidget.md#setkeyboardfocus)
-
-#### Defined in
-
-[ue/ue.d.ts:11008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11008)
 
 ___
 
@@ -2208,10 +1724,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:59665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59665)
 
 ___
 
@@ -2235,10 +1747,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[SetNavigationRule](ue_ue.TextLayoutWidget.md#setnavigationrule)
 
-#### Defined in
-
-[ue/ue.d.ts:11009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11009)
-
 ___
 
 ### SetNavigationRuleBase
@@ -2259,10 +1767,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[SetNavigationRuleBase](ue_ue.TextLayoutWidget.md#setnavigationrulebase)
-
-#### Defined in
-
-[ue/ue.d.ts:11010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11010)
 
 ___
 
@@ -2285,10 +1789,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[SetNavigationRuleCustom](ue_ue.TextLayoutWidget.md#setnavigationrulecustom)
 
-#### Defined in
-
-[ue/ue.d.ts:11011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11011)
-
 ___
 
 ### SetNavigationRuleCustomBoundary
@@ -2309,10 +1809,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[SetNavigationRuleCustomBoundary](ue_ue.TextLayoutWidget.md#setnavigationrulecustomboundary)
-
-#### Defined in
-
-[ue/ue.d.ts:11012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11012)
 
 ___
 
@@ -2335,10 +1831,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[SetNavigationRuleExplicit](ue_ue.TextLayoutWidget.md#setnavigationruleexplicit)
 
-#### Defined in
-
-[ue/ue.d.ts:11013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11013)
-
 ___
 
 ### SetRenderOpacity
@@ -2358,10 +1850,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[SetRenderOpacity](ue_ue.TextLayoutWidget.md#setrenderopacity)
-
-#### Defined in
-
-[ue/ue.d.ts:11014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11014)
 
 ___
 
@@ -2383,10 +1871,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[SetRenderScale](ue_ue.TextLayoutWidget.md#setrenderscale)
 
-#### Defined in
-
-[ue/ue.d.ts:11015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11015)
-
 ___
 
 ### SetRenderShear
@@ -2406,10 +1890,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[SetRenderShear](ue_ue.TextLayoutWidget.md#setrendershear)
-
-#### Defined in
-
-[ue/ue.d.ts:11016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11016)
 
 ___
 
@@ -2431,10 +1911,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[SetRenderTransform](ue_ue.TextLayoutWidget.md#setrendertransform)
 
-#### Defined in
-
-[ue/ue.d.ts:11017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11017)
-
 ___
 
 ### SetRenderTransformAngle
@@ -2454,10 +1930,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[SetRenderTransformAngle](ue_ue.TextLayoutWidget.md#setrendertransformangle)
-
-#### Defined in
-
-[ue/ue.d.ts:11018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11018)
 
 ___
 
@@ -2479,10 +1951,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[SetRenderTransformPivot](ue_ue.TextLayoutWidget.md#setrendertransformpivot)
 
-#### Defined in
-
-[ue/ue.d.ts:11019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11019)
-
 ___
 
 ### SetRenderTranslation
@@ -2503,10 +1971,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[SetRenderTranslation](ue_ue.TextLayoutWidget.md#setrendertranslation)
 
-#### Defined in
-
-[ue/ue.d.ts:11020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11020)
-
 ___
 
 ### SetText
@@ -2523,10 +1987,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:59666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59666)
-
 ___
 
 ### SetTextStyleSet
@@ -2542,10 +2002,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:59667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59667)
 
 ___
 
@@ -2567,10 +2023,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[SetToolTip](ue_ue.TextLayoutWidget.md#settooltip)
 
-#### Defined in
-
-[ue/ue.d.ts:11021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11021)
-
 ___
 
 ### SetToolTipText
@@ -2590,10 +2042,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[SetToolTipText](ue_ue.TextLayoutWidget.md#settooltiptext)
-
-#### Defined in
-
-[ue/ue.d.ts:11022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11022)
 
 ___
 
@@ -2615,10 +2063,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[SetUserFocus](ue_ue.TextLayoutWidget.md#setuserfocus)
 
-#### Defined in
-
-[ue/ue.d.ts:11023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11023)
-
 ___
 
 ### SetVisibility
@@ -2638,10 +2082,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[SetVisibility](ue_ue.TextLayoutWidget.md#setvisibility)
-
-#### Defined in
-
-[ue/ue.d.ts:11024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11024)
 
 ___
 
@@ -2664,10 +2104,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[Find](ue_ue.TextLayoutWidget.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:59669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59669)
-
 ___
 
 ### Load
@@ -2688,10 +2124,6 @@ ___
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[Load](ue_ue.TextLayoutWidget.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:59670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59670)
-
 ___
 
 ### StaticClass
@@ -2705,7 +2137,3 @@ ___
 #### Overrides
 
 [TextLayoutWidget](ue_ue.TextLayoutWidget.md).[StaticClass](ue_ue.TextLayoutWidget.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:59668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59668)

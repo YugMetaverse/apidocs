@@ -66,10 +66,6 @@
 
 [BasicOverlaysFactory](ue_ue.BasicOverlaysFactory.md).[constructor](ue_ue.BasicOverlaysFactory.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:59241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59241)
-
 ## Properties
 
 ### AssetImportTask
@@ -79,10 +75,6 @@
 #### Inherited from
 
 [BasicOverlaysFactory](ue_ue.BasicOverlaysFactory.md).[AssetImportTask](ue_ue.BasicOverlaysFactory.md#assetimporttask)
-
-#### Defined in
-
-[ue/ue.d.ts:15338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15338)
 
 ___
 
@@ -94,10 +86,6 @@ ___
 
 [BasicOverlaysFactory](ue_ue.BasicOverlaysFactory.md).[AutomatedImportData](ue_ue.BasicOverlaysFactory.md#automatedimportdata)
 
-#### Defined in
-
-[ue/ue.d.ts:15337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15337)
-
 ___
 
 ### ContextClass
@@ -107,10 +95,6 @@ ___
 #### Inherited from
 
 [BasicOverlaysFactory](ue_ue.BasicOverlaysFactory.md).[ContextClass](ue_ue.BasicOverlaysFactory.md#contextclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15331)
 
 ___
 
@@ -122,10 +106,6 @@ ___
 
 [BasicOverlaysFactory](ue_ue.BasicOverlaysFactory.md).[Formats](ue_ue.BasicOverlaysFactory.md#formats)
 
-#### Defined in
-
-[ue/ue.d.ts:15332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15332)
-
 ___
 
 ### ImportPriority
@@ -135,10 +115,6 @@ ___
 #### Inherited from
 
 [BasicOverlaysFactory](ue_ue.BasicOverlaysFactory.md).[ImportPriority](ue_ue.BasicOverlaysFactory.md#importpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:15336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15336)
 
 ___
 
@@ -150,10 +126,6 @@ ___
 
 [BasicOverlaysFactory](ue_ue.BasicOverlaysFactory.md).[OverwriteYesOrNoToAllState](ue_ue.BasicOverlaysFactory.md#overwriteyesornotoallstate)
 
-#### Defined in
-
-[ue/ue.d.ts:15339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15339)
-
 ___
 
 ### SupportedClass
@@ -163,10 +135,6 @@ ___
 #### Inherited from
 
 [BasicOverlaysFactory](ue_ue.BasicOverlaysFactory.md).[SupportedClass](ue_ue.BasicOverlaysFactory.md#supportedclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15330)
 
 ___
 
@@ -178,10 +146,6 @@ ___
 
 [BasicOverlaysFactory](ue_ue.BasicOverlaysFactory.md).[__tid_BasicOverlaysFactory__](ue_ue.BasicOverlaysFactory.md#__tid_basicoverlaysfactory__)
 
-#### Defined in
-
-[ue/ue.d.ts:23577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23577)
-
 ___
 
 ### \_\_tid\_Factory\_\_
@@ -191,10 +155,6 @@ ___
 #### Inherited from
 
 [BasicOverlaysFactory](ue_ue.BasicOverlaysFactory.md).[__tid_Factory__](ue_ue.BasicOverlaysFactory.md#__tid_factory__)
-
-#### Defined in
-
-[ue/ue.d.ts:15346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15346)
 
 ___
 
@@ -206,19 +166,11 @@ ___
 
 [BasicOverlaysFactory](ue_ue.BasicOverlaysFactory.md).[__tid_Object__](ue_ue.BasicOverlaysFactory.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ReimportBasicOverlaysFactory\_\_
 
 • **\_\_tid\_ReimportBasicOverlaysFactory\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59246)
 
 ___
 
@@ -230,10 +182,6 @@ ___
 
 [BasicOverlaysFactory](ue_ue.BasicOverlaysFactory.md).[bCreateNew](ue_ue.BasicOverlaysFactory.md#bcreatenew)
 
-#### Defined in
-
-[ue/ue.d.ts:15329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15329)
-
 ___
 
 ### bEditAfterNew
@@ -243,10 +191,6 @@ ___
 #### Inherited from
 
 [BasicOverlaysFactory](ue_ue.BasicOverlaysFactory.md).[bEditAfterNew](ue_ue.BasicOverlaysFactory.md#beditafternew)
-
-#### Defined in
-
-[ue/ue.d.ts:15333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15333)
 
 ___
 
@@ -258,10 +202,6 @@ ___
 
 [BasicOverlaysFactory](ue_ue.BasicOverlaysFactory.md).[bEditorImport](ue_ue.BasicOverlaysFactory.md#beditorimport)
 
-#### Defined in
-
-[ue/ue.d.ts:15334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15334)
-
 ___
 
 ### bText
@@ -271,10 +211,6 @@ ___
 #### Inherited from
 
 [BasicOverlaysFactory](ue_ue.BasicOverlaysFactory.md).[bText](ue_ue.BasicOverlaysFactory.md#btext)
-
-#### Defined in
-
-[ue/ue.d.ts:15335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15335)
 
 ## Methods
 
@@ -300,10 +236,6 @@ ___
 
 [BasicOverlaysFactory](ue_ue.BasicOverlaysFactory.md).[CreateDefaultSubobject](ue_ue.BasicOverlaysFactory.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -324,10 +256,6 @@ ___
 
 [BasicOverlaysFactory](ue_ue.BasicOverlaysFactory.md).[ExecuteUbergraph](ue_ue.BasicOverlaysFactory.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -341,10 +269,6 @@ ___
 #### Inherited from
 
 [BasicOverlaysFactory](ue_ue.BasicOverlaysFactory.md).[GetClass](ue_ue.BasicOverlaysFactory.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -360,10 +284,6 @@ ___
 
 [BasicOverlaysFactory](ue_ue.BasicOverlaysFactory.md).[GetName](ue_ue.BasicOverlaysFactory.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -378,10 +298,6 @@ ___
 
 [BasicOverlaysFactory](ue_ue.BasicOverlaysFactory.md).[GetOuter](ue_ue.BasicOverlaysFactory.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -395,10 +311,6 @@ ___
 #### Inherited from
 
 [BasicOverlaysFactory](ue_ue.BasicOverlaysFactory.md).[GetWorld](ue_ue.BasicOverlaysFactory.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -420,10 +332,6 @@ ___
 
 [BasicOverlaysFactory](ue_ue.BasicOverlaysFactory.md).[ScriptFactoryCanImport](ue_ue.BasicOverlaysFactory.md#scriptfactorycanimport)
 
-#### Defined in
-
-[ue/ue.d.ts:15340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15340)
-
 ___
 
 ### ScriptFactoryCreateFile
@@ -443,10 +351,6 @@ ___
 #### Inherited from
 
 [BasicOverlaysFactory](ue_ue.BasicOverlaysFactory.md).[ScriptFactoryCreateFile](ue_ue.BasicOverlaysFactory.md#scriptfactorycreatefile)
-
-#### Defined in
-
-[ue/ue.d.ts:15341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15341)
 
 ___
 
@@ -469,10 +373,6 @@ ___
 
 [BasicOverlaysFactory](ue_ue.BasicOverlaysFactory.md).[Find](ue_ue.BasicOverlaysFactory.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:59243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59243)
-
 ___
 
 ### Load
@@ -493,10 +393,6 @@ ___
 
 [BasicOverlaysFactory](ue_ue.BasicOverlaysFactory.md).[Load](ue_ue.BasicOverlaysFactory.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:59244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59244)
-
 ___
 
 ### StaticClass
@@ -510,7 +406,3 @@ ___
 #### Overrides
 
 [BasicOverlaysFactory](ue_ue.BasicOverlaysFactory.md).[StaticClass](ue_ue.BasicOverlaysFactory.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:59242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59242)

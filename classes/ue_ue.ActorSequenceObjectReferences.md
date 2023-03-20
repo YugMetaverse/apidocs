@@ -26,10 +26,6 @@
 
 • **new ActorSequenceObjectReferences**()
 
-#### Defined in
-
-[ue/ue.d.ts:14098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14098)
-
 • **new ActorSequenceObjectReferences**(`Array`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Array` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ActorSequenceObjectReference`](ue_ue.ActorSequenceObjectReference.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:14099](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14099)
-
 ## Properties
 
 ### Array
 
 • **Array**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ActorSequenceObjectReference`](ue_ue.ActorSequenceObjectReference.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:14100](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14100)
-
 ___
 
 ### \_\_tid\_ActorSequenceObjectReferences\_\_
 
 • `Private` **\_\_tid\_ActorSequenceObjectReferences\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14106](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14106)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14104)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14105](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14105)

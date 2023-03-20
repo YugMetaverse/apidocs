@@ -22,19 +22,11 @@
 
 • **IE\_Axis** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11962)
-
 ___
 
 ### IE\_DoubleClick
 
 • **IE\_DoubleClick** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11962)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **IE\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11962)
-
 ___
 
 ### IE\_Pressed
 
 • **IE\_Pressed** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11962)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **IE\_Released** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11962)
-
 ___
 
 ### IE\_Repeat
 
 • **IE\_Repeat** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11962)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11962)

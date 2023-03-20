@@ -20,19 +20,11 @@
 
 • **IOSMetalSLStandard\_1\_2** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33916)
-
 ___
 
 ### IOSMetalSLStandard\_2\_0
 
 • **IOSMetalSLStandard\_2\_0** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33916)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **IOSMetalSLStandard\_2\_1** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33916)
-
 ___
 
 ### IOSMetalSLStandard\_MAX
 
 • **IOSMetalSLStandard\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33916)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33916)

@@ -20,19 +20,11 @@
 
 • **PrimitiveObjectSets\_AllObjects** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34684)
-
 ___
 
 ### PrimitiveObjectSets\_CurrentLevel
 
 • **PrimitiveObjectSets\_CurrentLevel** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34684)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **PrimitiveObjectSets\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34684)
-
 ___
 
 ### PrimitiveObjectSets\_SelectedObjects
 
 • **PrimitiveObjectSets\_SelectedObjects** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34684)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34684)

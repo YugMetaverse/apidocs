@@ -212,10 +212,6 @@
 
 [ListViewBase](ue_ue.ListViewBase.md).[constructor](ue_ue.ListViewBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:45674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45674)
-
 ## Properties
 
 ### AccessibleBehavior
@@ -225,10 +221,6 @@
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[AccessibleBehavior](ue_ue.ListViewBase.md#accessiblebehavior)
-
-#### Defined in
-
-[ue/ue.d.ts:10940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10940)
 
 ___
 
@@ -240,10 +232,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[AccessibleSummaryBehavior](ue_ue.ListViewBase.md#accessiblesummarybehavior)
 
-#### Defined in
-
-[ue/ue.d.ts:10941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10941)
-
 ___
 
 ### AccessibleSummaryText
@@ -253,10 +241,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[AccessibleSummaryText](ue_ue.ListViewBase.md#accessiblesummarytext)
-
-#### Defined in
-
-[ue/ue.d.ts:10944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10944)
 
 ___
 
@@ -268,10 +252,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[AccessibleSummaryTextDelegate](ue_ue.ListViewBase.md#accessiblesummarytextdelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10945)
-
 ___
 
 ### AccessibleText
@@ -281,10 +261,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[AccessibleText](ue_ue.ListViewBase.md#accessibletext)
-
-#### Defined in
-
-[ue/ue.d.ts:10942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10942)
 
 ___
 
@@ -296,10 +272,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[AccessibleTextDelegate](ue_ue.ListViewBase.md#accessibletextdelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10943)
-
 ___
 
 ### AccessibleWidgetData
@@ -309,10 +281,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[AccessibleWidgetData](ue_ue.ListViewBase.md#accessiblewidgetdata)
-
-#### Defined in
-
-[ue/ue.d.ts:10946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10946)
 
 ___
 
@@ -324,19 +292,11 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[BP_OnEntryGenerated](ue_ue.ListViewBase.md#bp_onentrygenerated)
 
-#### Defined in
-
-[ue/ue.d.ts:45654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45654)
-
 ___
 
 ### BP\_OnEntryInitialized
 
 • **BP\_OnEntryInitialized**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`Item`: [`$Nullable`](../modules/puerts.md#$nullable)<[`Object`](ue_ue.Object.md)\>, `Widget`: [`$Nullable`](../modules/puerts.md#$nullable)<[`UserWidget`](ue_ue.UserWidget.md)\>) => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:45683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45683)
 
 ___
 
@@ -348,19 +308,11 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[BP_OnEntryReleased](ue_ue.ListViewBase.md#bp_onentryreleased)
 
-#### Defined in
-
-[ue/ue.d.ts:45655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45655)
-
 ___
 
 ### BP\_OnItemClicked
 
 • **BP\_OnItemClicked**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`Item`: [`$Nullable`](../modules/puerts.md#$nullable)<[`Object`](ue_ue.Object.md)\>) => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:45684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45684)
 
 ___
 
@@ -368,19 +320,11 @@ ___
 
 • **BP\_OnItemDoubleClicked**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`Item`: [`$Nullable`](../modules/puerts.md#$nullable)<[`Object`](ue_ue.Object.md)\>) => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:45685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45685)
-
 ___
 
 ### BP\_OnItemIsHoveredChanged
 
 • **BP\_OnItemIsHoveredChanged**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`Item`: [`$Nullable`](../modules/puerts.md#$nullable)<[`Object`](ue_ue.Object.md)\>, `bIsHovered`: `boolean`) => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:45686](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45686)
 
 ___
 
@@ -388,19 +332,11 @@ ___
 
 • **BP\_OnItemScrolledIntoView**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`Item`: [`$Nullable`](../modules/puerts.md#$nullable)<[`Object`](ue_ue.Object.md)\>, `Widget`: [`$Nullable`](../modules/puerts.md#$nullable)<[`UserWidget`](ue_ue.UserWidget.md)\>) => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:45688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45688)
-
 ___
 
 ### BP\_OnItemSelectionChanged
 
 • **BP\_OnItemSelectionChanged**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`Item`: [`$Nullable`](../modules/puerts.md#$nullable)<[`Object`](ue_ue.Object.md)\>, `bIsSelected`: `boolean`) => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:45687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45687)
 
 ___
 
@@ -412,10 +348,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[CategoryName](ue_ue.ListViewBase.md#categoryname)
 
-#### Defined in
-
-[ue/ue.d.ts:10960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10960)
-
 ___
 
 ### Clipping
@@ -426,19 +358,11 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[Clipping](ue_ue.ListViewBase.md#clipping)
 
-#### Defined in
-
-[ue/ue.d.ts:10952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10952)
-
 ___
 
 ### ConsumeMouseWheel
 
 • **ConsumeMouseWheel**: [`EConsumeMouseWheel`](../enums/ue_ue.EConsumeMouseWheel.md)
-
-#### Defined in
-
-[ue/ue.d.ts:45677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45677)
 
 ___
 
@@ -450,10 +374,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[Cursor](ue_ue.ListViewBase.md#cursor)
 
-#### Defined in
-
-[ue/ue.d.ts:10951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10951)
-
 ___
 
 ### DesignerFlags
@@ -463,10 +383,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[DesignerFlags](ue_ue.ListViewBase.md#designerflags)
-
-#### Defined in
-
-[ue/ue.d.ts:10958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10958)
 
 ___
 
@@ -478,19 +394,11 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[DisplayLabel](ue_ue.ListViewBase.md#displaylabel)
 
-#### Defined in
-
-[ue/ue.d.ts:10959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10959)
-
 ___
 
 ### EntrySpacing
 
 • **EntrySpacing**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:45680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45680)
 
 ___
 
@@ -502,10 +410,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[EntryWidgetClass](ue_ue.ListViewBase.md#entrywidgetclass)
 
-#### Defined in
-
-[ue/ue.d.ts:45649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45649)
-
 ___
 
 ### EntryWidgetPool
@@ -515,10 +419,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[EntryWidgetPool](ue_ue.ListViewBase.md#entrywidgetpool)
-
-#### Defined in
-
-[ue/ue.d.ts:45657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45657)
 
 ___
 
@@ -530,10 +430,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[FixedLineScrollOffset](ue_ue.ListViewBase.md#fixedlinescrolloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:45653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45653)
-
 ___
 
 ### FlowDirectionPreference
@@ -544,19 +440,11 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[FlowDirectionPreference](ue_ue.ListViewBase.md#flowdirectionpreference)
 
-#### Defined in
-
-[ue/ue.d.ts:10956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10956)
-
 ___
 
 ### ListItems
 
 • **ListItems**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Object`](ue_ue.Object.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:45682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45682)
 
 ___
 
@@ -568,10 +456,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[NativeBindings](ue_ue.ListViewBase.md#nativebindings)
 
-#### Defined in
-
-[ue/ue.d.ts:10957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10957)
-
 ___
 
 ### Navigation
@@ -581,10 +465,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[Navigation](ue_ue.ListViewBase.md#navigation)
-
-#### Defined in
-
-[ue/ue.d.ts:10955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10955)
 
 ___
 
@@ -596,19 +476,11 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[NumDesignerPreviewEntries](ue_ue.ListViewBase.md#numdesignerpreviewentries)
 
-#### Defined in
-
-[ue/ue.d.ts:45656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45656)
-
 ___
 
 ### Orientation
 
 • **Orientation**: [`EOrientation`](../enums/ue_ue.EOrientation.md)
-
-#### Defined in
-
-[ue/ue.d.ts:45675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45675)
 
 ___
 
@@ -620,10 +492,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[RenderOpacity](ue_ue.ListViewBase.md#renderopacity)
 
-#### Defined in
-
-[ue/ue.d.ts:10954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10954)
-
 ___
 
 ### RenderTransform
@@ -633,10 +501,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[RenderTransform](ue_ue.ListViewBase.md#rendertransform)
-
-#### Defined in
-
-[ue/ue.d.ts:10932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10932)
 
 ___
 
@@ -648,19 +512,11 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[RenderTransformPivot](ue_ue.ListViewBase.md#rendertransformpivot)
 
-#### Defined in
-
-[ue/ue.d.ts:10933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10933)
-
 ___
 
 ### SelectionMode
 
 • **SelectionMode**: [`ESelectionMode`](../enums/ue_ue.ESelectionMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:45676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45676)
 
 ___
 
@@ -672,10 +528,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[Slot](ue_ue.ListViewBase.md#slot)
 
-#### Defined in
-
-[ue/ue.d.ts:10925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10925)
-
 ___
 
 ### ToolTipText
@@ -685,10 +537,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[ToolTipText](ue_ue.ListViewBase.md#tooltiptext)
-
-#### Defined in
-
-[ue/ue.d.ts:10927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10927)
 
 ___
 
@@ -700,10 +548,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[ToolTipTextDelegate](ue_ue.ListViewBase.md#tooltiptextdelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10928)
-
 ___
 
 ### ToolTipWidget
@@ -713,10 +557,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[ToolTipWidget](ue_ue.ListViewBase.md#tooltipwidget)
-
-#### Defined in
-
-[ue/ue.d.ts:10929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10929)
 
 ___
 
@@ -728,10 +568,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[ToolTipWidgetDelegate](ue_ue.ListViewBase.md#tooltipwidgetdelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10930)
-
 ___
 
 ### Visibility
@@ -741,10 +577,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[Visibility](ue_ue.ListViewBase.md#visibility)
-
-#### Defined in
-
-[ue/ue.d.ts:10953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10953)
 
 ___
 
@@ -756,10 +588,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[VisibilityDelegate](ue_ue.ListViewBase.md#visibilitydelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10931)
-
 ___
 
 ### WheelScrollMultiplier
@@ -769,10 +597,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[WheelScrollMultiplier](ue_ue.ListViewBase.md#wheelscrollmultiplier)
-
-#### Defined in
-
-[ue/ue.d.ts:45650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45650)
 
 ___
 
@@ -784,19 +608,11 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[__tid_ListViewBase__](ue_ue.ListViewBase.md#__tid_listviewbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:45670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45670)
-
 ___
 
 ### \_\_tid\_ListView\_\_
 
 • **\_\_tid\_ListView\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45716)
 
 ___
 
@@ -808,10 +624,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[__tid_Object__](ue_ue.ListViewBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_Visual\_\_
@@ -821,10 +633,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[__tid_Visual__](ue_ue.ListViewBase.md#__tid_visual__)
-
-#### Defined in
-
-[ue/ue.d.ts:10673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10673)
 
 ___
 
@@ -836,10 +644,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[__tid_Widget__](ue_ue.ListViewBase.md#__tid_widget__)
 
-#### Defined in
-
-[ue/ue.d.ts:11029](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11029)
-
 ___
 
 ### bCanChildrenBeAccessible
@@ -850,19 +654,11 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[bCanChildrenBeAccessible](ue_ue.ListViewBase.md#bcanchildrenbeaccessible)
 
-#### Defined in
-
-[ue/ue.d.ts:10939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10939)
-
 ___
 
 ### bClearSelectionOnClick
 
 • **bClearSelectionOnClick**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45678)
 
 ___
 
@@ -874,10 +670,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[bCreatedByConstructionScript](ue_ue.ListViewBase.md#bcreatedbyconstructionscript)
 
-#### Defined in
-
-[ue/ue.d.ts:10935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10935)
-
 ___
 
 ### bEnableFixedLineOffset
@@ -887,10 +679,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[bEnableFixedLineOffset](ue_ue.ListViewBase.md#benablefixedlineoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:45652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45652)
 
 ___
 
@@ -902,10 +690,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[bEnableScrollAnimation](ue_ue.ListViewBase.md#benablescrollanimation)
 
-#### Defined in
-
-[ue/ue.d.ts:45651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45651)
-
 ___
 
 ### bExpandedInDesigner
@@ -915,10 +699,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[bExpandedInDesigner](ue_ue.ListViewBase.md#bexpandedindesigner)
-
-#### Defined in
-
-[ue/ue.d.ts:10949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10949)
 
 ___
 
@@ -930,10 +710,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[bHiddenInDesigner](ue_ue.ListViewBase.md#bhiddenindesigner)
 
-#### Defined in
-
-[ue/ue.d.ts:10948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10948)
-
 ___
 
 ### bIsEnabled
@@ -943,10 +719,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[bIsEnabled](ue_ue.ListViewBase.md#bisenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:10936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10936)
 
 ___
 
@@ -958,19 +730,11 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[bIsEnabledDelegate](ue_ue.ListViewBase.md#bisenableddelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10926)
-
 ___
 
 ### bIsFocusable
 
 • **bIsFocusable**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45679)
 
 ___
 
@@ -982,10 +746,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[bIsVariable](ue_ue.ListViewBase.md#bisvariable)
 
-#### Defined in
-
-[ue/ue.d.ts:10934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10934)
-
 ___
 
 ### bIsVolatile
@@ -995,10 +755,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[bIsVolatile](ue_ue.ListViewBase.md#bisvolatile)
-
-#### Defined in
-
-[ue/ue.d.ts:10947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10947)
 
 ___
 
@@ -1010,10 +766,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[bLockedInDesigner](ue_ue.ListViewBase.md#blockedindesigner)
 
-#### Defined in
-
-[ue/ue.d.ts:10950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10950)
-
 ___
 
 ### bOverrideAccessibleDefaults
@@ -1023,10 +775,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[bOverrideAccessibleDefaults](ue_ue.ListViewBase.md#boverrideaccessibledefaults)
-
-#### Defined in
-
-[ue/ue.d.ts:10938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10938)
 
 ___
 
@@ -1038,19 +786,11 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[bOverride_Cursor](ue_ue.ListViewBase.md#boverride_cursor)
 
-#### Defined in
-
-[ue/ue.d.ts:10937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10937)
-
 ___
 
 ### bReturnFocusToSelection
 
 • **bReturnFocusToSelection**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45681)
 
 ## Methods
 
@@ -1068,10 +808,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:45689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45689)
-
 ___
 
 ### BP\_CancelScrollIntoView
@@ -1081,10 +817,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:45690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45690)
 
 ___
 
@@ -1096,10 +828,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:45691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45691)
-
 ___
 
 ### BP\_GetNumItemsSelected
@@ -1110,10 +838,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:45692](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45692)
-
 ___
 
 ### BP\_GetSelectedItem
@@ -1123,10 +847,6 @@ ___
 #### Returns
 
 [`Object`](ue_ue.Object.md)
-
-#### Defined in
-
-[ue/ue.d.ts:45693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45693)
 
 ___
 
@@ -1144,10 +864,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45694](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45694)
-
 ___
 
 ### BP\_IsItemVisible
@@ -1163,10 +879,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45695)
 
 ___
 
@@ -1184,10 +896,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:45696](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45696)
-
 ___
 
 ### BP\_ScrollItemIntoView
@@ -1203,10 +911,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:45697](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45697)
 
 ___
 
@@ -1225,10 +929,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:45698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45698)
-
 ___
 
 ### BP\_SetListItems
@@ -1244,10 +944,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:45699](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45699)
 
 ___
 
@@ -1265,10 +961,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:45700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45700)
-
 ___
 
 ### ClearListItems
@@ -1278,10 +970,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:45701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45701)
 
 ___
 
@@ -1307,10 +995,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[CreateDefaultSubobject](ue_ue.ListViewBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -1331,10 +1015,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[ExecuteUbergraph](ue_ue.ListViewBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### ForceLayoutPrepass
@@ -1348,10 +1028,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[ForceLayoutPrepass](ue_ue.ListViewBase.md#forcelayoutprepass)
-
-#### Defined in
-
-[ue/ue.d.ts:10961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10961)
 
 ___
 
@@ -1373,10 +1049,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[ForceVolatile](ue_ue.ListViewBase.md#forcevolatile)
 
-#### Defined in
-
-[ue/ue.d.ts:10962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10962)
-
 ___
 
 ### GenerateWidgetForObject\_\_DelegateSignature
@@ -1396,10 +1068,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[GenerateWidgetForObject__DelegateSignature](ue_ue.ListViewBase.md#generatewidgetforobject__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10963)
 
 ___
 
@@ -1421,10 +1089,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[GenerateWidgetForString__DelegateSignature](ue_ue.ListViewBase.md#generatewidgetforstring__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10964](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10964)
-
 ___
 
 ### GetBool\_\_DelegateSignature
@@ -1438,10 +1102,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetBool__DelegateSignature](ue_ue.ListViewBase.md#getbool__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10965](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10965)
 
 ___
 
@@ -1457,10 +1117,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetCachedGeometry](ue_ue.ListViewBase.md#getcachedgeometry)
 
-#### Defined in
-
-[ue/ue.d.ts:10966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10966)
-
 ___
 
 ### GetCheckBoxState\_\_DelegateSignature
@@ -1474,10 +1130,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetCheckBoxState__DelegateSignature](ue_ue.ListViewBase.md#getcheckboxstate__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10967)
 
 ___
 
@@ -1493,10 +1145,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetClass](ue_ue.ListViewBase.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetClipping
@@ -1510,10 +1158,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetClipping](ue_ue.ListViewBase.md#getclipping)
-
-#### Defined in
-
-[ue/ue.d.ts:10968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10968)
 
 ___
 
@@ -1529,10 +1173,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetDesiredSize](ue_ue.ListViewBase.md#getdesiredsize)
 
-#### Defined in
-
-[ue/ue.d.ts:10969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10969)
-
 ___
 
 ### GetDisplayedEntryWidgets
@@ -1546,10 +1186,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetDisplayedEntryWidgets](ue_ue.ListViewBase.md#getdisplayedentrywidgets)
-
-#### Defined in
-
-[ue/ue.d.ts:45658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45658)
 
 ___
 
@@ -1565,10 +1201,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetFloat__DelegateSignature](ue_ue.ListViewBase.md#getfloat__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10970)
-
 ___
 
 ### GetGameInstance
@@ -1582,10 +1214,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetGameInstance](ue_ue.ListViewBase.md#getgameinstance)
-
-#### Defined in
-
-[ue/ue.d.ts:10971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10971)
 
 ___
 
@@ -1603,10 +1231,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:45702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45702)
-
 ___
 
 ### GetInt32\_\_DelegateSignature
@@ -1621,10 +1245,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetInt32__DelegateSignature](ue_ue.ListViewBase.md#getint32__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10972)
-
 ___
 
 ### GetIsEnabled
@@ -1638,10 +1258,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetIsEnabled](ue_ue.ListViewBase.md#getisenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:10973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10973)
 
 ___
 
@@ -1659,10 +1275,6 @@ ___
 
 [`Object`](ue_ue.Object.md)
 
-#### Defined in
-
-[ue/ue.d.ts:45703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45703)
-
 ___
 
 ### GetLinearColor\_\_DelegateSignature
@@ -1677,10 +1289,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetLinearColor__DelegateSignature](ue_ue.ListViewBase.md#getlinearcolor__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10974)
-
 ___
 
 ### GetListItems
@@ -1690,10 +1298,6 @@ ___
 #### Returns
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Object`](ue_ue.Object.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:45704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45704)
 
 ___
 
@@ -1709,10 +1313,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetMouseCursor__DelegateSignature](ue_ue.ListViewBase.md#getmousecursor__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10975](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10975)
-
 ___
 
 ### GetName
@@ -1727,10 +1327,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetName](ue_ue.ListViewBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetNumItems
@@ -1740,10 +1336,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:45705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45705)
 
 ___
 
@@ -1759,10 +1351,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetOuter](ue_ue.ListViewBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetOwningLocalPlayer
@@ -1776,10 +1364,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetOwningLocalPlayer](ue_ue.ListViewBase.md#getowninglocalplayer)
-
-#### Defined in
-
-[ue/ue.d.ts:10976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10976)
 
 ___
 
@@ -1795,10 +1379,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetOwningPlayer](ue_ue.ListViewBase.md#getowningplayer)
 
-#### Defined in
-
-[ue/ue.d.ts:10977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10977)
-
 ___
 
 ### GetPaintSpaceGeometry
@@ -1812,10 +1392,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetPaintSpaceGeometry](ue_ue.ListViewBase.md#getpaintspacegeometry)
-
-#### Defined in
-
-[ue/ue.d.ts:10978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10978)
 
 ___
 
@@ -1831,10 +1407,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetParent](ue_ue.ListViewBase.md#getparent)
 
-#### Defined in
-
-[ue/ue.d.ts:10979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10979)
-
 ___
 
 ### GetRenderOpacity
@@ -1848,10 +1420,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetRenderOpacity](ue_ue.ListViewBase.md#getrenderopacity)
-
-#### Defined in
-
-[ue/ue.d.ts:10980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10980)
 
 ___
 
@@ -1867,10 +1435,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetRenderTransformAngle](ue_ue.ListViewBase.md#getrendertransformangle)
 
-#### Defined in
-
-[ue/ue.d.ts:10981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10981)
-
 ___
 
 ### GetSlateBrush\_\_DelegateSignature
@@ -1884,10 +1448,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetSlateBrush__DelegateSignature](ue_ue.ListViewBase.md#getslatebrush__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10982)
 
 ___
 
@@ -1903,10 +1463,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetSlateColor__DelegateSignature](ue_ue.ListViewBase.md#getslatecolor__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10983)
-
 ___
 
 ### GetSlateVisibility\_\_DelegateSignature
@@ -1920,10 +1476,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetSlateVisibility__DelegateSignature](ue_ue.ListViewBase.md#getslatevisibility__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10984)
 
 ___
 
@@ -1939,10 +1491,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetText__DelegateSignature](ue_ue.ListViewBase.md#gettext__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10985)
-
 ___
 
 ### GetTickSpaceGeometry
@@ -1956,10 +1504,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetTickSpaceGeometry](ue_ue.ListViewBase.md#gettickspacegeometry)
-
-#### Defined in
-
-[ue/ue.d.ts:10986](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10986)
 
 ___
 
@@ -1975,10 +1519,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetVisibility](ue_ue.ListViewBase.md#getvisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:10987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10987)
-
 ___
 
 ### GetWidget\_\_DelegateSignature
@@ -1992,10 +1532,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetWidget__DelegateSignature](ue_ue.ListViewBase.md#getwidget__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10988)
 
 ___
 
@@ -2011,10 +1547,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[GetWorld](ue_ue.ListViewBase.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### HasAnyUserFocus
@@ -2028,10 +1560,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[HasAnyUserFocus](ue_ue.ListViewBase.md#hasanyuserfocus)
-
-#### Defined in
-
-[ue/ue.d.ts:10989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10989)
 
 ___
 
@@ -2047,10 +1575,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[HasFocusedDescendants](ue_ue.ListViewBase.md#hasfocuseddescendants)
 
-#### Defined in
-
-[ue/ue.d.ts:10990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10990)
-
 ___
 
 ### HasKeyboardFocus
@@ -2065,10 +1589,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[HasKeyboardFocus](ue_ue.ListViewBase.md#haskeyboardfocus)
 
-#### Defined in
-
-[ue/ue.d.ts:10991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10991)
-
 ___
 
 ### HasMouseCapture
@@ -2082,10 +1602,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[HasMouseCapture](ue_ue.ListViewBase.md#hasmousecapture)
-
-#### Defined in
-
-[ue/ue.d.ts:10992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10992)
 
 ___
 
@@ -2108,10 +1624,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[HasMouseCaptureByUser](ue_ue.ListViewBase.md#hasmousecapturebyuser)
 
-#### Defined in
-
-[ue/ue.d.ts:10993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10993)
-
 ___
 
 ### HasUserFocus
@@ -2131,10 +1643,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[HasUserFocus](ue_ue.ListViewBase.md#hasuserfocus)
-
-#### Defined in
-
-[ue/ue.d.ts:10994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10994)
 
 ___
 
@@ -2156,10 +1664,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[HasUserFocusedDescendants](ue_ue.ListViewBase.md#hasuserfocuseddescendants)
 
-#### Defined in
-
-[ue/ue.d.ts:10995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10995)
-
 ___
 
 ### InvalidateLayoutAndVolatility
@@ -2173,10 +1677,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[InvalidateLayoutAndVolatility](ue_ue.ListViewBase.md#invalidatelayoutandvolatility)
-
-#### Defined in
-
-[ue/ue.d.ts:10996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10996)
 
 ___
 
@@ -2192,10 +1692,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[IsHovered](ue_ue.ListViewBase.md#ishovered)
 
-#### Defined in
-
-[ue/ue.d.ts:10997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10997)
-
 ___
 
 ### IsRefreshPending
@@ -2205,10 +1701,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45706](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45706)
 
 ___
 
@@ -2223,10 +1715,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[IsVisible](ue_ue.ListViewBase.md#isvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:10998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10998)
 
 ___
 
@@ -2243,10 +1731,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:45707](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45707)
 
 ___
 
@@ -2269,10 +1753,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[OnPointerEvent__DelegateSignature](ue_ue.ListViewBase.md#onpointerevent__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10999)
-
 ___
 
 ### OnReply\_\_DelegateSignature
@@ -2286,10 +1766,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[OnReply__DelegateSignature](ue_ue.ListViewBase.md#onreply__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:11000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11000)
 
 ___
 
@@ -2305,10 +1781,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[RegenerateAllEntries](ue_ue.ListViewBase.md#regenerateallentries)
 
-#### Defined in
-
-[ue/ue.d.ts:45659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45659)
-
 ___
 
 ### RemoveFromParent
@@ -2322,10 +1794,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[RemoveFromParent](ue_ue.ListViewBase.md#removefromparent)
-
-#### Defined in
-
-[ue/ue.d.ts:11001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11001)
 
 ___
 
@@ -2343,10 +1811,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:45708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45708)
-
 ___
 
 ### RequestRefresh
@@ -2361,10 +1825,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[RequestRefresh](ue_ue.ListViewBase.md#requestrefresh)
 
-#### Defined in
-
-[ue/ue.d.ts:45660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45660)
-
 ___
 
 ### ResetCursor
@@ -2378,10 +1838,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[ResetCursor](ue_ue.ListViewBase.md#resetcursor)
-
-#### Defined in
-
-[ue/ue.d.ts:11002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11002)
 
 ___
 
@@ -2399,10 +1855,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:45709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45709)
-
 ___
 
 ### ScrollToBottom
@@ -2417,10 +1869,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[ScrollToBottom](ue_ue.ListViewBase.md#scrolltobottom)
 
-#### Defined in
-
-[ue/ue.d.ts:45661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45661)
-
 ___
 
 ### ScrollToTop
@@ -2434,10 +1882,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[ScrollToTop](ue_ue.ListViewBase.md#scrolltotop)
-
-#### Defined in
-
-[ue/ue.d.ts:45662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45662)
 
 ___
 
@@ -2460,10 +1904,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[SetAllNavigationRules](ue_ue.ListViewBase.md#setallnavigationrules)
 
-#### Defined in
-
-[ue/ue.d.ts:11003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11003)
-
 ___
 
 ### SetClipping
@@ -2483,10 +1923,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[SetClipping](ue_ue.ListViewBase.md#setclipping)
-
-#### Defined in
-
-[ue/ue.d.ts:11004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11004)
 
 ___
 
@@ -2508,10 +1944,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[SetCursor](ue_ue.ListViewBase.md#setcursor)
 
-#### Defined in
-
-[ue/ue.d.ts:11005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11005)
-
 ___
 
 ### SetFocus
@@ -2525,10 +1957,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[SetFocus](ue_ue.ListViewBase.md#setfocus)
-
-#### Defined in
-
-[ue/ue.d.ts:11006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11006)
 
 ___
 
@@ -2550,10 +1978,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[SetIsEnabled](ue_ue.ListViewBase.md#setisenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:11007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11007)
-
 ___
 
 ### SetKeyboardFocus
@@ -2567,10 +1991,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[SetKeyboardFocus](ue_ue.ListViewBase.md#setkeyboardfocus)
-
-#### Defined in
-
-[ue/ue.d.ts:11008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11008)
 
 ___
 
@@ -2594,10 +2014,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[SetNavigationRule](ue_ue.ListViewBase.md#setnavigationrule)
 
-#### Defined in
-
-[ue/ue.d.ts:11009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11009)
-
 ___
 
 ### SetNavigationRuleBase
@@ -2618,10 +2034,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[SetNavigationRuleBase](ue_ue.ListViewBase.md#setnavigationrulebase)
-
-#### Defined in
-
-[ue/ue.d.ts:11010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11010)
 
 ___
 
@@ -2644,10 +2056,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[SetNavigationRuleCustom](ue_ue.ListViewBase.md#setnavigationrulecustom)
 
-#### Defined in
-
-[ue/ue.d.ts:11011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11011)
-
 ___
 
 ### SetNavigationRuleCustomBoundary
@@ -2668,10 +2076,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[SetNavigationRuleCustomBoundary](ue_ue.ListViewBase.md#setnavigationrulecustomboundary)
-
-#### Defined in
-
-[ue/ue.d.ts:11012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11012)
 
 ___
 
@@ -2694,10 +2098,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[SetNavigationRuleExplicit](ue_ue.ListViewBase.md#setnavigationruleexplicit)
 
-#### Defined in
-
-[ue/ue.d.ts:11013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11013)
-
 ___
 
 ### SetRenderOpacity
@@ -2717,10 +2117,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[SetRenderOpacity](ue_ue.ListViewBase.md#setrenderopacity)
-
-#### Defined in
-
-[ue/ue.d.ts:11014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11014)
 
 ___
 
@@ -2742,10 +2138,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[SetRenderScale](ue_ue.ListViewBase.md#setrenderscale)
 
-#### Defined in
-
-[ue/ue.d.ts:11015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11015)
-
 ___
 
 ### SetRenderShear
@@ -2765,10 +2157,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[SetRenderShear](ue_ue.ListViewBase.md#setrendershear)
-
-#### Defined in
-
-[ue/ue.d.ts:11016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11016)
 
 ___
 
@@ -2790,10 +2178,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[SetRenderTransform](ue_ue.ListViewBase.md#setrendertransform)
 
-#### Defined in
-
-[ue/ue.d.ts:11017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11017)
-
 ___
 
 ### SetRenderTransformAngle
@@ -2813,10 +2197,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[SetRenderTransformAngle](ue_ue.ListViewBase.md#setrendertransformangle)
-
-#### Defined in
-
-[ue/ue.d.ts:11018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11018)
 
 ___
 
@@ -2838,10 +2218,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[SetRenderTransformPivot](ue_ue.ListViewBase.md#setrendertransformpivot)
 
-#### Defined in
-
-[ue/ue.d.ts:11019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11019)
-
 ___
 
 ### SetRenderTranslation
@@ -2861,10 +2237,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[SetRenderTranslation](ue_ue.ListViewBase.md#setrendertranslation)
-
-#### Defined in
-
-[ue/ue.d.ts:11020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11020)
 
 ___
 
@@ -2886,10 +2258,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[SetScrollOffset](ue_ue.ListViewBase.md#setscrolloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:45664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45664)
-
 ___
 
 ### SetScrollbarVisibility
@@ -2910,10 +2278,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[SetScrollbarVisibility](ue_ue.ListViewBase.md#setscrollbarvisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:45663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45663)
-
 ___
 
 ### SetSelectedIndex
@@ -2930,10 +2294,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:45710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45710)
-
 ___
 
 ### SetSelectionMode
@@ -2949,10 +2309,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:45711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45711)
 
 ___
 
@@ -2974,10 +2330,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[SetToolTip](ue_ue.ListViewBase.md#settooltip)
 
-#### Defined in
-
-[ue/ue.d.ts:11021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11021)
-
 ___
 
 ### SetToolTipText
@@ -2997,10 +2349,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[SetToolTipText](ue_ue.ListViewBase.md#settooltiptext)
-
-#### Defined in
-
-[ue/ue.d.ts:11022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11022)
 
 ___
 
@@ -3022,10 +2370,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[SetUserFocus](ue_ue.ListViewBase.md#setuserfocus)
 
-#### Defined in
-
-[ue/ue.d.ts:11023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11023)
-
 ___
 
 ### SetVisibility
@@ -3046,10 +2390,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[SetVisibility](ue_ue.ListViewBase.md#setvisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:11024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11024)
-
 ___
 
 ### SetWheelScrollMultiplier
@@ -3069,10 +2409,6 @@ ___
 #### Inherited from
 
 [ListViewBase](ue_ue.ListViewBase.md).[SetWheelScrollMultiplier](ue_ue.ListViewBase.md#setwheelscrollmultiplier)
-
-#### Defined in
-
-[ue/ue.d.ts:45665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45665)
 
 ___
 
@@ -3095,10 +2431,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[Find](ue_ue.ListViewBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:45713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45713)
-
 ___
 
 ### Load
@@ -3119,10 +2451,6 @@ ___
 
 [ListViewBase](ue_ue.ListViewBase.md).[Load](ue_ue.ListViewBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:45714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45714)
-
 ___
 
 ### StaticClass
@@ -3136,7 +2464,3 @@ ___
 #### Overrides
 
 [ListViewBase](ue_ue.ListViewBase.md).[StaticClass](ue_ue.ListViewBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:45712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45712)

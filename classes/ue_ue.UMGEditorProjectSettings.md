@@ -64,19 +64,11 @@
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[constructor](ue_ue.DeveloperSettings.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:64475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64475)
-
 ## Properties
 
 ### CategoriesToHide
 
 • **CategoriesToHide**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:64480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64480)
 
 ___
 
@@ -84,19 +76,11 @@ ___
 
 • **DebugResolutions**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`DebugResolution`](ue_ue.DebugResolution.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:64484](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64484)
-
 ___
 
 ### DefaultCompilerOptions
 
 • **DefaultCompilerOptions**: [`WidgetCompilerOptions`](ue_ue.WidgetCompilerOptions.md)
-
-#### Defined in
-
-[ue/ue.d.ts:64476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64476)
 
 ___
 
@@ -104,19 +88,11 @@ ___
 
 • **DefaultRootWidget**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64483)
-
 ___
 
 ### DirectoryCompilerOptions
 
 • **DirectoryCompilerOptions**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`DirectoryWidgetCompilerOptions`](ue_ue.DirectoryWidgetCompilerOptions.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:64477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64477)
 
 ___
 
@@ -124,19 +100,11 @@ ___
 
 • **Version**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:64485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64485)
-
 ___
 
 ### WidgetClassesToHide
 
 • **WidgetClassesToHide**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SoftClassPath`](ue_ue.SoftClassPath.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:64481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64481)
 
 ___
 
@@ -148,10 +116,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[__tid_DeveloperSettings__](ue_ue.DeveloperSettings.md#__tid_developersettings__)
 
-#### Defined in
-
-[ue/ue.d.ts:16950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16950)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -162,19 +126,11 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[__tid_Object__](ue_ue.DeveloperSettings.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_UMGEditorProjectSettings\_\_
 
 • **\_\_tid\_UMGEditorProjectSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64492)
 
 ___
 
@@ -182,19 +138,11 @@ ___
 
 • **bCookSlowConstructionWidgetTree**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:64486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64486)
-
 ___
 
 ### bShowWidgetsFromDeveloperContent
 
 • **bShowWidgetsFromDeveloperContent**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64479)
 
 ___
 
@@ -202,29 +150,17 @@ ___
 
 • **bShowWidgetsFromEngineContent**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:64478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64478)
-
 ___
 
 ### bUseWidgetTemplateSelector
 
 • **bUseWidgetTemplateSelector**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:64482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64482)
-
 ___
 
 ### bWidgetSupportsDynamicCreation
 
 • **bWidgetSupportsDynamicCreation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64487)
 
 ## Methods
 
@@ -250,10 +186,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[CreateDefaultSubobject](ue_ue.DeveloperSettings.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -274,10 +206,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[ExecuteUbergraph](ue_ue.DeveloperSettings.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -291,10 +219,6 @@ ___
 #### Inherited from
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetClass](ue_ue.DeveloperSettings.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -310,10 +234,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetName](ue_ue.DeveloperSettings.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -328,10 +248,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetOuter](ue_ue.DeveloperSettings.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -345,10 +261,6 @@ ___
 #### Inherited from
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetWorld](ue_ue.DeveloperSettings.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -371,10 +283,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[Find](ue_ue.DeveloperSettings.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:64489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64489)
-
 ___
 
 ### Load
@@ -395,10 +303,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[Load](ue_ue.DeveloperSettings.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:64490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64490)
-
 ___
 
 ### StaticClass
@@ -412,7 +316,3 @@ ___
 #### Overrides
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[StaticClass](ue_ue.DeveloperSettings.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:64488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64488)

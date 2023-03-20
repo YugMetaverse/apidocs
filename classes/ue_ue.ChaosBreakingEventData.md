@@ -29,10 +29,6 @@
 
 • **new ChaosBreakingEventData**()
 
-#### Defined in
-
-[ue/ue.d.ts:26996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26996)
-
 • **new ChaosBreakingEventData**(`Location`, `Velocity`, `Mass`, `ParticleIndex`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `Mass` | `number` |
 | `ParticleIndex` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:26997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26997)
-
 ## Properties
 
 ### Location
 
 • **Location**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26998)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **Mass**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27000)
-
 ___
 
 ### ParticleIndex
 
 • **ParticleIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27001)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **Velocity**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26999)
-
 ___
 
 ### \_\_tid\_ChaosBreakingEventData\_\_
 
 • `Private` **\_\_tid\_ChaosBreakingEventData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27007)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27005)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27006)

@@ -20,19 +20,11 @@
 
 • **PRM\_LegacySceneCapture** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34750)
-
 ___
 
 ### PRM\_MAX
 
 • **PRM\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34750)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **PRM\_RenderScenePrimitives** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34750)
-
 ___
 
 ### PRM\_UseShowOnlyList
 
 • **PRM\_UseShowOnlyList** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34750)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34750)

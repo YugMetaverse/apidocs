@@ -27,10 +27,6 @@
 
 • **new OptionalMovieSceneBlendType**()
 
-#### Defined in
-
-[ue/ue.d.ts:11766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11766)
-
 • **new OptionalMovieSceneBlendType**(`BlendType`, `bIsValid`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `BlendType` | [`EMovieSceneBlendType`](../enums/ue_ue.EMovieSceneBlendType.md) |
 | `bIsValid` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:11767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11767)
-
 ## Properties
 
 ### BlendType
 
 • **BlendType**: [`EMovieSceneBlendType`](../enums/ue_ue.EMovieSceneBlendType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11768)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • `Private` **\_\_tid\_OptionalMovieSceneBlendType\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:11775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11775)
-
 ___
 
 ### bIsValid
 
 • **bIsValid**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11769)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11773)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11774)

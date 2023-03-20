@@ -39,10 +39,6 @@
 
 [RawDistribution](ue_ue.RawDistribution.md).[constructor](ue_ue.RawDistribution.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:6811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6811)
-
 • **new RawDistributionFloat**(`MinValue`, `MaxValue`, `Distribution`)
 
 #### Parameters
@@ -57,19 +53,11 @@
 
 [RawDistribution](ue_ue.RawDistribution.md).[constructor](ue_ue.RawDistribution.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:6812](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6812)
-
 ## Properties
 
 ### Distribution
 
 • **Distribution**: [`DistributionFloat`](ue_ue.DistributionFloat.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6815)
 
 ___
 
@@ -77,19 +65,11 @@ ___
 
 • **MaxValue**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6814](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6814)
-
 ___
 
 ### MinValue
 
 • **MinValue**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6813](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6813)
 
 ___
 
@@ -101,19 +81,11 @@ ___
 
 [RawDistribution](ue_ue.RawDistribution.md).[Table](ue_ue.RawDistribution.md#table)
 
-#### Defined in
-
-[ue/ue.d.ts:6781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6781)
-
 ___
 
 ### \_\_tid\_RawDistributionFloat\_\_
 
 • `Private` **\_\_tid\_RawDistributionFloat\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6821)
 
 ## Methods
 
@@ -133,10 +105,6 @@ use StaticStruct instead.
 
 [RawDistribution](ue_ue.RawDistribution.md).[StaticClass](ue_ue.RawDistribution.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:6819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6819)
-
 ___
 
 ### StaticStruct
@@ -150,7 +118,3 @@ ___
 #### Overrides
 
 [RawDistribution](ue_ue.RawDistribution.md).[StaticStruct](ue_ue.RawDistribution.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:6820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6820)

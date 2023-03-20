@@ -21,19 +21,11 @@
 
 • **EDynamicBoxType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31297)
-
 ___
 
 ### Horizontal
 
 • **Horizontal** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31297)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Overlay** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31297)
-
 ___
 
 ### Vertical
 
 • **Vertical** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31297)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Wrap** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31297)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31297)

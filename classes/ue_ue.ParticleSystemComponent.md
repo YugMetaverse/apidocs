@@ -454,10 +454,6 @@
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[constructor](ue_ue.FXSystemComponent.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:7291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7291)
-
 ## Properties
 
 ### AlwaysLoadOnClient
@@ -467,10 +463,6 @@
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[AlwaysLoadOnClient](ue_ue.FXSystemComponent.md#alwaysloadonclient)
-
-#### Defined in
-
-[ue/ue.d.ts:12608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12608)
 
 ___
 
@@ -482,10 +474,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[AlwaysLoadOnServer](ue_ue.FXSystemComponent.md#alwaysloadonserver)
 
-#### Defined in
-
-[ue/ue.d.ts:12609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12609)
-
 ___
 
 ### AssetUserData
@@ -495,10 +483,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[AssetUserData](ue_ue.FXSystemComponent.md#assetuserdata)
-
-#### Defined in
-
-[ue/ue.d.ts:291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L291)
 
 ___
 
@@ -510,10 +494,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[AttachChildren](ue_ue.FXSystemComponent.md#attachchildren)
 
-#### Defined in
-
-[ue/ue.d.ts:12873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12873)
-
 ___
 
 ### AttachParent
@@ -523,10 +503,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[AttachParent](ue_ue.FXSystemComponent.md#attachparent)
-
-#### Defined in
-
-[ue/ue.d.ts:12871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12871)
 
 ___
 
@@ -538,19 +514,11 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[AttachSocketName](ue_ue.FXSystemComponent.md#attachsocketname)
 
-#### Defined in
-
-[ue/ue.d.ts:12872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12872)
-
 ___
 
 ### AutoAttachLocationRule
 
 • **AutoAttachLocationRule**: [`EAttachmentRule`](../enums/ue_ue.EAttachmentRule.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7322)
 
 ___
 
@@ -558,19 +526,11 @@ ___
 
 • **AutoAttachLocationType**: [`EAttachLocation`](../enums/ue_ue.EAttachLocation.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7321)
-
 ___
 
 ### AutoAttachParent
 
 • **AutoAttachParent**: [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`SceneComponent`](ue_ue.SceneComponent.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:7319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7319)
 
 ___
 
@@ -578,29 +538,17 @@ ___
 
 • **AutoAttachRotationRule**: [`EAttachmentRule`](../enums/ue_ue.EAttachmentRule.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7323)
-
 ___
 
 ### AutoAttachScaleRule
 
 • **AutoAttachScaleRule**: [`EAttachmentRule`](../enums/ue_ue.EAttachmentRule.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7324)
-
 ___
 
 ### AutoAttachSocketName
 
 • **AutoAttachSocketName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:7320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7320)
 
 ___
 
@@ -612,10 +560,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[BodyInstance](ue_ue.FXSystemComponent.md#bodyinstance)
 
-#### Defined in
-
-[ue/ue.d.ts:12630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12630)
-
 ___
 
 ### BoundsScale
@@ -625,10 +569,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[BoundsScale](ue_ue.FXSystemComponent.md#boundsscale)
-
-#### Defined in
-
-[ue/ue.d.ts:12627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12627)
 
 ___
 
@@ -640,10 +580,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[CachedMaxDrawDistance](ue_ue.FXSystemComponent.md#cachedmaxdrawdistance)
 
-#### Defined in
-
-[ue/ue.d.ts:12557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12557)
-
 ___
 
 ### CanBeCharacterBase
@@ -653,10 +589,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[CanBeCharacterBase](ue_ue.FXSystemComponent.md#canbecharacterbase)
-
-#### Defined in
-
-[ue/ue.d.ts:12613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12613)
 
 ___
 
@@ -668,10 +600,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[CanCharacterStepUpOn](ue_ue.FXSystemComponent.md#cancharacterstepupon)
 
-#### Defined in
-
-[ue/ue.d.ts:12614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12614)
-
 ___
 
 ### CastShadow
@@ -681,10 +609,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[CastShadow](ue_ue.FXSystemComponent.md#castshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12587)
 
 ___
 
@@ -696,10 +620,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[ClientAttachedChildren](ue_ue.FXSystemComponent.md#clientattachedchildren)
 
-#### Defined in
-
-[ue/ue.d.ts:12874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12874)
-
 ___
 
 ### ComponentTags
@@ -709,10 +629,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[ComponentTags](ue_ue.FXSystemComponent.md#componenttags)
-
-#### Defined in
-
-[ue/ue.d.ts:290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L290)
 
 ___
 
@@ -724,10 +640,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[ComponentVelocity](ue_ue.FXSystemComponent.md#componentvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12878)
-
 ___
 
 ### CreationMethod
@@ -737,10 +649,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[CreationMethod](ue_ue.FXSystemComponent.md#creationmethod)
-
-#### Defined in
-
-[ue/ue.d.ts:302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L302)
 
 ___
 
@@ -752,10 +660,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[CustomDepthStencilValue](ue_ue.FXSystemComponent.md#customdepthstencilvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:12617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12617)
-
 ___
 
 ### CustomDepthStencilWriteMask
@@ -765,10 +669,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[CustomDepthStencilWriteMask](ue_ue.FXSystemComponent.md#customdepthstencilwritemask)
-
-#### Defined in
-
-[ue/ue.d.ts:12616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12616)
 
 ___
 
@@ -780,19 +680,11 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[CustomPrimitiveData](ue_ue.FXSystemComponent.md#customprimitivedata)
 
-#### Defined in
-
-[ue/ue.d.ts:12618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12618)
-
 ___
 
 ### CustomTimeDilation
 
 • **CustomTimeDilation**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7318)
 
 ___
 
@@ -804,10 +696,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[DepthPriorityGroup](ue_ue.FXSystemComponent.md#depthprioritygroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12558](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12558)
-
 ___
 
 ### DetailMode
@@ -818,19 +706,11 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[DetailMode](ue_ue.FXSystemComponent.md#detailmode)
 
-#### Defined in
-
-[ue/ue.d.ts:12893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12893)
-
 ___
 
 ### EditorDetailMode
 
 • **EditorDetailMode**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7316)
 
 ___
 
@@ -838,19 +718,11 @@ ___
 
 • **EditorLODLevel**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7315)
-
 ___
 
 ### EmitterMaterials
 
 • **EmitterMaterials**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MaterialInterface`](ue_ue.MaterialInterface.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:7293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7293)
 
 ___
 
@@ -862,10 +734,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[ExcludeForSpecificHLODLevels](ue_ue.FXSystemComponent.md#excludeforspecifichlodlevels)
 
-#### Defined in
-
-[ue/ue.d.ts:12562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12562)
-
 ___
 
 ### IndirectLightingCacheQuality
@@ -876,19 +744,11 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[IndirectLightingCacheQuality](ue_ue.FXSystemComponent.md#indirectlightingcachequality)
 
-#### Defined in
-
-[ue/ue.d.ts:12560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12560)
-
 ___
 
 ### InstanceParameters
 
 • **InstanceParameters**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ParticleSysParam`](ue_ue.ParticleSysParam.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:7304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7304)
 
 ___
 
@@ -900,19 +760,11 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[LDMaxDrawDistance](ue_ue.FXSystemComponent.md#ldmaxdrawdistance)
 
-#### Defined in
-
-[ue/ue.d.ts:12556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12556)
-
 ___
 
 ### LODMethod
 
 • **LODMethod**: [`ParticleSystemLODMethod`](../enums/ue_ue.ParticleSystemLODMethod.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7302)
 
 ___
 
@@ -924,10 +776,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[LODParentPrimitive](ue_ue.FXSystemComponent.md#lodparentprimitive)
 
-#### Defined in
-
-[ue/ue.d.ts:12644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12644)
-
 ___
 
 ### LightingChannels
@@ -937,10 +785,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[LightingChannels](ue_ue.FXSystemComponent.md#lightingchannels)
-
-#### Defined in
-
-[ue/ue.d.ts:12615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12615)
 
 ___
 
@@ -952,10 +796,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[LightmapType](ue_ue.FXSystemComponent.md#lightmaptype)
 
-#### Defined in
-
-[ue/ue.d.ts:12561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12561)
-
 ___
 
 ### LpvBiasMultiplier
@@ -966,19 +806,11 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[LpvBiasMultiplier](ue_ue.FXSystemComponent.md#lpvbiasmultiplier)
 
-#### Defined in
-
-[ue/ue.d.ts:12626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12626)
-
 ___
 
 ### MaxTimeBeforeForceUpdateTransform
 
 • **MaxTimeBeforeForceUpdateTransform**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7314)
 
 ___
 
@@ -990,10 +822,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[MinDrawDistance](ue_ue.FXSystemComponent.md#mindrawdistance)
 
-#### Defined in
-
-[ue/ue.d.ts:12555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12555)
-
 ___
 
 ### Mobility
@@ -1003,10 +831,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[Mobility](ue_ue.FXSystemComponent.md#mobility)
-
-#### Defined in
-
-[ue/ue.d.ts:12892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12892)
 
 ___
 
@@ -1018,10 +842,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[MoveIgnoreActors](ue_ue.FXSystemComponent.md#moveignoreactors)
 
-#### Defined in
-
-[ue/ue.d.ts:12628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12628)
-
 ___
 
 ### MoveIgnoreComponents
@@ -1032,19 +852,11 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[MoveIgnoreComponents](ue_ue.FXSystemComponent.md#moveignorecomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12629)
-
 ___
 
 ### OldPosition
 
 • **OldPosition**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7309)
 
 ___
 
@@ -1056,10 +868,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[OnBeginCursorOver](ue_ue.FXSystemComponent.md#onbegincursorover)
 
-#### Defined in
-
-[ue/ue.d.ts:12636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12636)
-
 ___
 
 ### OnClicked
@@ -1069,10 +877,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[OnClicked](ue_ue.FXSystemComponent.md#onclicked)
-
-#### Defined in
-
-[ue/ue.d.ts:12638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12638)
 
 ___
 
@@ -1084,10 +888,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[OnComponentActivated](ue_ue.FXSystemComponent.md#oncomponentactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L303)
-
 ___
 
 ### OnComponentBeginOverlap
@@ -1097,10 +897,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[OnComponentBeginOverlap](ue_ue.FXSystemComponent.md#oncomponentbeginoverlap)
-
-#### Defined in
-
-[ue/ue.d.ts:12632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12632)
 
 ___
 
@@ -1112,10 +908,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[OnComponentDeactivated](ue_ue.FXSystemComponent.md#oncomponentdeactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L304)
-
 ___
 
 ### OnComponentEndOverlap
@@ -1125,10 +917,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[OnComponentEndOverlap](ue_ue.FXSystemComponent.md#oncomponentendoverlap)
-
-#### Defined in
-
-[ue/ue.d.ts:12633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12633)
 
 ___
 
@@ -1140,10 +928,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[OnComponentHit](ue_ue.FXSystemComponent.md#oncomponenthit)
 
-#### Defined in
-
-[ue/ue.d.ts:12631](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12631)
-
 ___
 
 ### OnComponentSleep
@@ -1153,10 +937,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[OnComponentSleep](ue_ue.FXSystemComponent.md#oncomponentsleep)
-
-#### Defined in
-
-[ue/ue.d.ts:12635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12635)
 
 ___
 
@@ -1168,10 +948,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[OnComponentWake](ue_ue.FXSystemComponent.md#oncomponentwake)
 
-#### Defined in
-
-[ue/ue.d.ts:12634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12634)
-
 ___
 
 ### OnEndCursorOver
@@ -1181,10 +957,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[OnEndCursorOver](ue_ue.FXSystemComponent.md#onendcursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:12637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12637)
 
 ___
 
@@ -1196,10 +968,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[OnInputTouchBegin](ue_ue.FXSystemComponent.md#oninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:12640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12640)
-
 ___
 
 ### OnInputTouchEnd
@@ -1209,10 +977,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[OnInputTouchEnd](ue_ue.FXSystemComponent.md#oninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:12641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12641)
 
 ___
 
@@ -1224,10 +988,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[OnInputTouchEnter](ue_ue.FXSystemComponent.md#oninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:12642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12642)
-
 ___
 
 ### OnInputTouchLeave
@@ -1238,19 +998,11 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[OnInputTouchLeave](ue_ue.FXSystemComponent.md#oninputtouchleave)
 
-#### Defined in
-
-[ue/ue.d.ts:12643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12643)
-
 ___
 
 ### OnParticleBurst
 
 • **OnParticleBurst**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`EventName`: `string`, `EmitterTime`: `number`, `ParticleCount`: `number`) => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:7306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7306)
 
 ___
 
@@ -1258,29 +1010,17 @@ ___
 
 • **OnParticleCollide**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`EventName`: `string`, `EmitterTime`: `number`, `ParticleTime`: `number`, `Location`: [`Vector`](ue_ue_s.Vector.md), `Velocity`: [`Vector`](ue_ue_s.Vector.md), `Direction`: [`Vector`](ue_ue_s.Vector.md), `Normal`: [`Vector`](ue_ue_s.Vector.md), `BoneName`: `string`, `PhysMat`: [`$Nullable`](../modules/puerts.md#$nullable)<[`PhysicalMaterial`](ue_ue.PhysicalMaterial.md)\>) => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:7308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7308)
-
 ___
 
 ### OnParticleDeath
 
 • **OnParticleDeath**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`EventName`: `string`, `EmitterTime`: `number`, `ParticleTime`: `number`, `Location`: [`Vector`](ue_ue_s.Vector.md), `Velocity`: [`Vector`](ue_ue_s.Vector.md), `Direction`: [`Vector`](ue_ue_s.Vector.md)) => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:7307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7307)
-
 ___
 
 ### OnParticleSpawn
 
 • **OnParticleSpawn**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`EventName`: `string`, `EmitterTime`: `number`, `Location`: [`Vector`](ue_ue_s.Vector.md), `Velocity`: [`Vector`](ue_ue_s.Vector.md)) => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:7305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7305)
 
 ___
 
@@ -1292,29 +1032,17 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[OnReleased](ue_ue.FXSystemComponent.md#onreleased)
 
-#### Defined in
-
-[ue/ue.d.ts:12639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12639)
-
 ___
 
 ### OnSystemFinished
 
 • **OnSystemFinished**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`PSystem`: [`$Nullable`](../modules/puerts.md#$nullable)<[`ParticleSystemComponent`](ue_ue.ParticleSystemComponent.md)\>) => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:7325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7325)
-
 ___
 
 ### PartSysVelocity
 
 • **PartSysVelocity**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7310)
 
 ___
 
@@ -1326,10 +1054,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[PhysicsVolume](ue_ue.FXSystemComponent.md#physicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12870)
-
 ___
 
 ### PhysicsVolumeChangedDelegate
@@ -1339,10 +1063,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[PhysicsVolumeChangedDelegate](ue_ue.FXSystemComponent.md#physicsvolumechangeddelegate)
-
-#### Defined in
-
-[ue/ue.d.ts:12894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12894)
 
 ___
 
@@ -1354,10 +1074,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[PrimaryComponentTick](ue_ue.FXSystemComponent.md#primarycomponenttick)
 
-#### Defined in
-
-[ue/ue.d.ts:289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L289)
-
 ___
 
 ### RelativeLocation
@@ -1367,10 +1083,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[RelativeLocation](ue_ue.FXSystemComponent.md#relativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12875)
 
 ___
 
@@ -1382,10 +1094,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[RelativeRotation](ue_ue.FXSystemComponent.md#relativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12876)
-
 ___
 
 ### RelativeScale3D
@@ -1396,29 +1104,17 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[RelativeScale3D](ue_ue.FXSystemComponent.md#relativescale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:12877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12877)
-
 ___
 
 ### ReplayClips
 
 • **ReplayClips**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ParticleSystemReplay`](ue_ue.ParticleSystemReplay.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:7317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7317)
-
 ___
 
 ### RequiredSignificance
 
 • **RequiredSignificance**: [`EParticleSignificanceLevel`](../enums/ue_ue.EParticleSignificanceLevel.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7303)
 
 ___
 
@@ -1430,19 +1126,11 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[RuntimeVirtualTextures](ue_ue.FXSystemComponent.md#runtimevirtualtextures)
 
-#### Defined in
-
-[ue/ue.d.ts:12621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12621)
-
 ___
 
 ### SecondsBeforeInactive
 
 • **SecondsBeforeInactive**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7313)
 
 ___
 
@@ -1450,19 +1138,11 @@ ___
 
 • **SkelMeshComponents**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SkeletalMeshComponent`](ue_ue.SkeletalMeshComponent.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:7294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7294)
-
 ___
 
 ### Template
 
 • **Template**: [`ParticleSystem`](ue_ue.ParticleSystem.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7292)
 
 ___
 
@@ -1474,10 +1154,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[TranslucencySortPriority](ue_ue.FXSystemComponent.md#translucencysortpriority)
 
-#### Defined in
-
-[ue/ue.d.ts:12619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12619)
-
 ___
 
 ### UCSModifiedProperties
@@ -1487,10 +1163,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[UCSModifiedProperties](ue_ue.FXSystemComponent.md#ucsmodifiedproperties)
-
-#### Defined in
-
-[ue/ue.d.ts:305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L305)
 
 ___
 
@@ -1502,10 +1174,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[ViewOwnerDepthPriorityGroup](ue_ue.FXSystemComponent.md#viewownerdepthprioritygroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12559](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12559)
-
 ___
 
 ### VirtualTextureCullMips
@@ -1515,10 +1183,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[VirtualTextureCullMips](ue_ue.FXSystemComponent.md#virtualtexturecullmips)
-
-#### Defined in
-
-[ue/ue.d.ts:12623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12623)
 
 ___
 
@@ -1530,10 +1194,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[VirtualTextureLodBias](ue_ue.FXSystemComponent.md#virtualtexturelodbias)
 
-#### Defined in
-
-[ue/ue.d.ts:12622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12622)
-
 ___
 
 ### VirtualTextureMinCoverage
@@ -1543,10 +1203,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[VirtualTextureMinCoverage](ue_ue.FXSystemComponent.md#virtualtexturemincoverage)
-
-#### Defined in
-
-[ue/ue.d.ts:12624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12624)
 
 ___
 
@@ -1558,10 +1214,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[VirtualTextureRenderPassType](ue_ue.FXSystemComponent.md#virtualtexturerenderpasstype)
 
-#### Defined in
-
-[ue/ue.d.ts:12625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12625)
-
 ___
 
 ### VisibilityId
@@ -1572,29 +1224,17 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[VisibilityId](ue_ue.FXSystemComponent.md#visibilityid)
 
-#### Defined in
-
-[ue/ue.d.ts:12620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12620)
-
 ___
 
 ### WarmupTickRate
 
 • **WarmupTickRate**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7312)
-
 ___
 
 ### WarmupTime
 
 • **WarmupTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7311)
 
 ___
 
@@ -1606,10 +1246,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[__tid_ActorComponent__](ue_ue.FXSystemComponent.md#__tid_actorcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L336)
-
 ___
 
 ### \_\_tid\_FXSystemComponent\_\_
@@ -1619,10 +1255,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[__tid_FXSystemComponent__](ue_ue.FXSystemComponent.md#__tid_fxsystemcomponent__)
-
-#### Defined in
-
-[ue/ue.d.ts:6728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6728)
 
 ___
 
@@ -1634,19 +1266,11 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[__tid_Object__](ue_ue.FXSystemComponent.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ParticleSystemComponent\_\_
 
 • **\_\_tid\_ParticleSystemComponent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7354)
 
 ___
 
@@ -1658,10 +1282,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[__tid_PrimitiveComponent__](ue_ue.FXSystemComponent.md#__tid_primitivecomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:12761](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12761)
-
 ___
 
 ### \_\_tid\_SceneComponent\_\_
@@ -1671,10 +1291,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[__tid_SceneComponent__](ue_ue.FXSystemComponent.md#__tid_scenecomponent__)
-
-#### Defined in
-
-[ue/ue.d.ts:12961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12961)
 
 ___
 
@@ -1686,10 +1302,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bAbsoluteLocation](ue_ue.FXSystemComponent.md#babsolutelocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12880)
-
 ___
 
 ### bAbsoluteRotation
@@ -1699,10 +1311,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bAbsoluteRotation](ue_ue.FXSystemComponent.md#babsoluterotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12881)
 
 ___
 
@@ -1714,10 +1322,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bAbsoluteScale](ue_ue.FXSystemComponent.md#babsolutescale)
 
-#### Defined in
-
-[ue/ue.d.ts:12882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12882)
-
 ___
 
 ### bAffectDistanceFieldLighting
@@ -1727,10 +1331,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bAffectDistanceFieldLighting](ue_ue.FXSystemComponent.md#baffectdistancefieldlighting)
-
-#### Defined in
-
-[ue/ue.d.ts:12589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12589)
 
 ___
 
@@ -1742,10 +1342,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bAffectDynamicIndirectLighting](ue_ue.FXSystemComponent.md#baffectdynamicindirectlighting)
 
-#### Defined in
-
-[ue/ue.d.ts:12588](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12588)
-
 ___
 
 ### bAllowCullDistanceVolume
@@ -1756,19 +1352,11 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bAllowCullDistanceVolume](ue_ue.FXSystemComponent.md#ballowculldistancevolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12573)
-
 ___
 
 ### bAllowRecycling
 
 • **bAllowRecycling**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7297)
 
 ___
 
@@ -1780,10 +1368,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bAlwaysCreatePhysicsState](ue_ue.FXSystemComponent.md#balwayscreatephysicsstate)
 
-#### Defined in
-
-[ue/ue.d.ts:12567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12567)
-
 ___
 
 ### bApplyImpulseOnDamage
@@ -1793,10 +1377,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bApplyImpulseOnDamage](ue_ue.FXSystemComponent.md#bapplyimpulseondamage)
-
-#### Defined in
-
-[ue/ue.d.ts:12606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12606)
 
 ___
 
@@ -1808,19 +1388,11 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bAutoActivate](ue_ue.FXSystemComponent.md#bautoactivate)
 
-#### Defined in
-
-[ue/ue.d.ts:296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L296)
-
 ___
 
 ### bAutoManageAttachment
 
 • **bAutoManageAttachment**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7298)
 
 ___
 
@@ -1832,10 +1404,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bBatchImpostersAsInstances](ue_ue.FXSystemComponent.md#bbatchimpostersasinstances)
 
-#### Defined in
-
-[ue/ue.d.ts:12565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12565)
-
 ___
 
 ### bBoundsChangeTriggersStreamingDataRebuild
@@ -1845,10 +1413,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bBoundsChangeTriggersStreamingDataRebuild](ue_ue.FXSystemComponent.md#bboundschangetriggersstreamingdatarebuild)
-
-#### Defined in
-
-[ue/ue.d.ts:12889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12889)
 
 ___
 
@@ -1860,10 +1424,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bCanEverAffectNavigation](ue_ue.FXSystemComponent.md#bcaneveraffectnavigation)
 
-#### Defined in
-
-[ue/ue.d.ts:299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L299)
-
 ___
 
 ### bCastCinematicShadow
@@ -1873,10 +1433,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bCastCinematicShadow](ue_ue.FXSystemComponent.md#bcastcinematicshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12596)
 
 ___
 
@@ -1888,10 +1444,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bCastDynamicShadow](ue_ue.FXSystemComponent.md#bcastdynamicshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12590)
-
 ___
 
 ### bCastFarShadow
@@ -1901,10 +1453,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bCastFarShadow](ue_ue.FXSystemComponent.md#bcastfarshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12594)
 
 ___
 
@@ -1916,10 +1464,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bCastHiddenShadow](ue_ue.FXSystemComponent.md#bcasthiddenshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12597)
-
 ___
 
 ### bCastInsetShadow
@@ -1929,10 +1473,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bCastInsetShadow](ue_ue.FXSystemComponent.md#bcastinsetshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12595)
 
 ___
 
@@ -1944,10 +1484,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bCastShadowAsTwoSided](ue_ue.FXSystemComponent.md#bcastshadowastwosided)
 
-#### Defined in
-
-[ue/ue.d.ts:12598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12598)
-
 ___
 
 ### bCastStaticShadow
@@ -1957,10 +1493,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bCastStaticShadow](ue_ue.FXSystemComponent.md#bcaststaticshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12591)
 
 ___
 
@@ -1972,10 +1504,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bCastVolumetricTranslucentShadow](ue_ue.FXSystemComponent.md#bcastvolumetrictranslucentshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12592)
-
 ___
 
 ### bComponentToWorldUpdated
@@ -1985,10 +1513,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bComponentToWorldUpdated](ue_ue.FXSystemComponent.md#bcomponenttoworldupdated)
-
-#### Defined in
-
-[ue/ue.d.ts:12879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12879)
 
 ___
 
@@ -2000,10 +1524,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bCreatedByConstructionScript](ue_ue.FXSystemComponent.md#bcreatedbyconstructionscript)
 
-#### Defined in
-
-[ue/ue.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L294)
-
 ___
 
 ### bEditableWhenInherited
@@ -2013,10 +1533,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bEditableWhenInherited](ue_ue.FXSystemComponent.md#beditablewheninherited)
-
-#### Defined in
-
-[ue/ue.d.ts:298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L298)
 
 ___
 
@@ -2028,10 +1544,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bEnableAutoLODGeneration](ue_ue.FXSystemComponent.md#benableautolodgeneration)
 
-#### Defined in
-
-[ue/ue.d.ts:12563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12563)
-
 ___
 
 ### bExcludeFromLightAttachmentGroup
@@ -2041,10 +1553,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bExcludeFromLightAttachmentGroup](ue_ue.FXSystemComponent.md#bexcludefromlightattachmentgroup)
-
-#### Defined in
-
-[ue/ue.d.ts:12601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12601)
 
 ___
 
@@ -2056,10 +1564,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bForceMipStreaming](ue_ue.FXSystemComponent.md#bforcemipstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:12585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12585)
-
 ___
 
 ### bGenerateOverlapEvents
@@ -2069,10 +1573,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bGenerateOverlapEvents](ue_ue.FXSystemComponent.md#bgenerateoverlapevents)
-
-#### Defined in
-
-[ue/ue.d.ts:12568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12568)
 
 ___
 
@@ -2084,10 +1584,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bHasCustomNavigableGeometry](ue_ue.FXSystemComponent.md#bhascustomnavigablegeometry)
 
-#### Defined in
-
-[ue/ue.d.ts:12612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12612)
-
 ___
 
 ### bHasMotionBlurVelocityMeshes
@@ -2097,10 +1593,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bHasMotionBlurVelocityMeshes](ue_ue.FXSystemComponent.md#bhasmotionblurvelocitymeshes)
-
-#### Defined in
-
-[ue/ue.d.ts:12574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12574)
 
 ___
 
@@ -2112,10 +1604,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bHasPerInstanceHitProxies](ue_ue.FXSystemComponent.md#bhasperinstancehitproxies)
 
-#### Defined in
-
-[ue/ue.d.ts:12586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12586)
-
 ___
 
 ### bHiddenInGame
@@ -2125,10 +1613,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bHiddenInGame](ue_ue.FXSystemComponent.md#bhiddeningame)
-
-#### Defined in
-
-[ue/ue.d.ts:12884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12884)
 
 ___
 
@@ -2140,10 +1624,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bIgnoreRadialForce](ue_ue.FXSystemComponent.md#bignoreradialforce)
 
-#### Defined in
-
-[ue/ue.d.ts:12605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12605)
-
 ___
 
 ### bIgnoreRadialImpulse
@@ -2153,10 +1633,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bIgnoreRadialImpulse](ue_ue.FXSystemComponent.md#bignoreradialimpulse)
-
-#### Defined in
-
-[ue/ue.d.ts:12604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12604)
 
 ___
 
@@ -2168,10 +1644,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bInstanceComponent](ue_ue.FXSystemComponent.md#binstancecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L295)
-
 ___
 
 ### bIsActive
@@ -2181,10 +1653,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bIsActive](ue_ue.FXSystemComponent.md#bisactive)
-
-#### Defined in
-
-[ue/ue.d.ts:297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L297)
 
 ___
 
@@ -2196,10 +1664,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bIsEditorOnly](ue_ue.FXSystemComponent.md#biseditoronly)
 
-#### Defined in
-
-[ue/ue.d.ts:300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L300)
-
 ___
 
 ### bIsVisualizationComponent
@@ -2209,10 +1673,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bIsVisualizationComponent](ue_ue.FXSystemComponent.md#bisvisualizationcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L301)
 
 ___
 
@@ -2224,10 +1684,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bLightAsIfStatic](ue_ue.FXSystemComponent.md#blightasifstatic)
 
-#### Defined in
-
-[ue/ue.d.ts:12599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12599)
-
 ___
 
 ### bLightAttachmentsAsGroup
@@ -2237,10 +1693,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bLightAttachmentsAsGroup](ue_ue.FXSystemComponent.md#blightattachmentsasgroup)
-
-#### Defined in
-
-[ue/ue.d.ts:12600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12600)
 
 ___
 
@@ -2252,10 +1704,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bMultiBodyOverlap](ue_ue.FXSystemComponent.md#bmultibodyoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:12569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12569)
-
 ___
 
 ### bNetAddressable
@@ -2265,10 +1713,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bNetAddressable](ue_ue.FXSystemComponent.md#bnetaddressable)
-
-#### Defined in
-
-[ue/ue.d.ts:293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L293)
 
 ___
 
@@ -2280,10 +1724,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bNeverDistanceCull](ue_ue.FXSystemComponent.md#bneverdistancecull)
 
-#### Defined in
-
-[ue/ue.d.ts:12566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12566)
-
 ___
 
 ### bOnlyOwnerSee
@@ -2294,19 +1734,11 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bOnlyOwnerSee](ue_ue.FXSystemComponent.md#bonlyownersee)
 
-#### Defined in
-
-[ue/ue.d.ts:12581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12581)
-
 ___
 
 ### bOverrideLODMethod
 
 • **bOverrideLODMethod**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7300)
 
 ___
 
@@ -2318,10 +1750,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bOwnerNoSee](ue_ue.FXSystemComponent.md#bownernosee)
 
-#### Defined in
-
-[ue/ue.d.ts:12580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12580)
-
 ___
 
 ### bReceiveMobileCSMShadows
@@ -2331,10 +1759,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bReceiveMobileCSMShadows](ue_ue.FXSystemComponent.md#breceivemobilecsmshadows)
-
-#### Defined in
-
-[ue/ue.d.ts:12602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12602)
 
 ___
 
@@ -2346,10 +1770,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bReceivesDecals](ue_ue.FXSystemComponent.md#breceivesdecals)
 
-#### Defined in
-
-[ue/ue.d.ts:12579](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12579)
-
 ___
 
 ### bRenderCustomDepth
@@ -2359,10 +1779,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bRenderCustomDepth](ue_ue.FXSystemComponent.md#brendercustomdepth)
-
-#### Defined in
-
-[ue/ue.d.ts:12611](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12611)
 
 ___
 
@@ -2374,10 +1790,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bRenderInDepthPass](ue_ue.FXSystemComponent.md#brenderindepthpass)
 
-#### Defined in
-
-[ue/ue.d.ts:12578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12578)
-
 ___
 
 ### bRenderInMainPass
@@ -2387,10 +1799,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bRenderInMainPass](ue_ue.FXSystemComponent.md#brenderinmainpass)
-
-#### Defined in
-
-[ue/ue.d.ts:12577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12577)
 
 ___
 
@@ -2402,10 +1810,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bReplicatePhysicsToAutonomousProxy](ue_ue.FXSystemComponent.md#breplicatephysicstoautonomousproxy)
 
-#### Defined in
-
-[ue/ue.d.ts:12607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12607)
-
 ___
 
 ### bReplicates
@@ -2416,19 +1820,11 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bReplicates](ue_ue.FXSystemComponent.md#breplicates)
 
-#### Defined in
-
-[ue/ue.d.ts:292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L292)
-
 ___
 
 ### bResetOnDetach
 
 • **bResetOnDetach**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7295)
 
 ___
 
@@ -2440,10 +1836,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bReturnMaterialOnMove](ue_ue.FXSystemComponent.md#breturnmaterialonmove)
 
-#### Defined in
-
-[ue/ue.d.ts:12571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12571)
-
 ___
 
 ### bSelectable
@@ -2453,10 +1845,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bSelectable](ue_ue.FXSystemComponent.md#bselectable)
-
-#### Defined in
-
-[ue/ue.d.ts:12584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12584)
 
 ___
 
@@ -2468,10 +1856,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bSelfShadowOnly](ue_ue.FXSystemComponent.md#bselfshadowonly)
 
-#### Defined in
-
-[ue/ue.d.ts:12593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12593)
-
 ___
 
 ### bShouldBeAttached
@@ -2481,10 +1865,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bShouldBeAttached](ue_ue.FXSystemComponent.md#bshouldbeattached)
-
-#### Defined in
-
-[ue/ue.d.ts:12885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12885)
 
 ___
 
@@ -2496,10 +1876,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bShouldSnapLocationWhenAttached](ue_ue.FXSystemComponent.md#bshouldsnaplocationwhenattached)
 
-#### Defined in
-
-[ue/ue.d.ts:12886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12886)
-
 ___
 
 ### bShouldSnapRotationWhenAttached
@@ -2509,10 +1885,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bShouldSnapRotationWhenAttached](ue_ue.FXSystemComponent.md#bshouldsnaprotationwhenattached)
-
-#### Defined in
-
-[ue/ue.d.ts:12887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12887)
 
 ___
 
@@ -2524,10 +1896,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bShouldUpdatePhysicsVolume](ue_ue.FXSystemComponent.md#bshouldupdatephysicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12888)
-
 ___
 
 ### bSingleSampleShadowFromStationaryLights
@@ -2538,19 +1906,11 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bSingleSampleShadowFromStationaryLights](ue_ue.FXSystemComponent.md#bsinglesampleshadowfromstationarylights)
 
-#### Defined in
-
-[ue/ue.d.ts:12603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12603)
-
 ___
 
 ### bSkipUpdateDynamicDataDuringTick
 
 • **bSkipUpdateDynamicDataDuringTick**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7301)
 
 ___
 
@@ -2562,10 +1922,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bTraceComplexOnMove](ue_ue.FXSystemComponent.md#btracecomplexonmove)
 
-#### Defined in
-
-[ue/ue.d.ts:12570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12570)
-
 ___
 
 ### bTreatAsBackgroundForOcclusion
@@ -2576,19 +1932,11 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bTreatAsBackgroundForOcclusion](ue_ue.FXSystemComponent.md#btreatasbackgroundforocclusion)
 
-#### Defined in
-
-[ue/ue.d.ts:12582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12582)
-
 ___
 
 ### bUpdateOnDedicatedServer
 
 • **bUpdateOnDedicatedServer**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7296)
 
 ___
 
@@ -2600,10 +1948,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bUseAsOccluder](ue_ue.FXSystemComponent.md#buseasoccluder)
 
-#### Defined in
-
-[ue/ue.d.ts:12583](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12583)
-
 ___
 
 ### bUseAttachParentBound
@@ -2613,10 +1957,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bUseAttachParentBound](ue_ue.FXSystemComponent.md#buseattachparentbound)
-
-#### Defined in
-
-[ue/ue.d.ts:12890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12890)
 
 ___
 
@@ -2628,10 +1968,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bUseEditorCompositing](ue_ue.FXSystemComponent.md#buseeditorcompositing)
 
-#### Defined in
-
-[ue/ue.d.ts:12610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12610)
-
 ___
 
 ### bUseMaxLODAsImposter
@@ -2641,10 +1977,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bUseMaxLODAsImposter](ue_ue.FXSystemComponent.md#busemaxlodasimposter)
-
-#### Defined in
-
-[ue/ue.d.ts:12564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12564)
 
 ___
 
@@ -2656,10 +1988,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bUseViewOwnerDepthPriorityGroup](ue_ue.FXSystemComponent.md#buseviewownerdepthprioritygroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12572)
-
 ___
 
 ### bVisible
@@ -2669,10 +1997,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bVisible](ue_ue.FXSystemComponent.md#bvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:12883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12883)
 
 ___
 
@@ -2684,10 +2008,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bVisibleInRayTracing](ue_ue.FXSystemComponent.md#bvisibleinraytracing)
 
-#### Defined in
-
-[ue/ue.d.ts:12576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12576)
-
 ___
 
 ### bVisibleInReflectionCaptures
@@ -2697,10 +2017,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bVisibleInReflectionCaptures](ue_ue.FXSystemComponent.md#bvisibleinreflectioncaptures)
-
-#### Defined in
-
-[ue/ue.d.ts:12575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12575)
 
 ___
 
@@ -2712,19 +2028,11 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[bVisualizeComponent](ue_ue.FXSystemComponent.md#bvisualizecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12891)
-
 ___
 
 ### bWarmingUp
 
 • **bWarmingUp**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7299)
 
 ## Methods
 
@@ -2745,10 +2053,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[Activate](ue_ue.FXSystemComponent.md#activate)
-
-#### Defined in
-
-[ue/ue.d.ts:306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L306)
 
 ___
 
@@ -2772,10 +2076,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[AddAngularImpulse](ue_ue.FXSystemComponent.md#addangularimpulse)
 
-#### Defined in
-
-[ue/ue.d.ts:12645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12645)
-
 ___
 
 ### AddAngularImpulseInDegrees
@@ -2797,10 +2097,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[AddAngularImpulseInDegrees](ue_ue.FXSystemComponent.md#addangularimpulseindegrees)
-
-#### Defined in
-
-[ue/ue.d.ts:12646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12646)
 
 ___
 
@@ -2824,10 +2120,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[AddAngularImpulseInRadians](ue_ue.FXSystemComponent.md#addangularimpulseinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12647)
-
 ___
 
 ### AddForce
@@ -2849,10 +2141,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[AddForce](ue_ue.FXSystemComponent.md#addforce)
-
-#### Defined in
-
-[ue/ue.d.ts:12648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12648)
 
 ___
 
@@ -2876,10 +2164,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[AddForceAtLocation](ue_ue.FXSystemComponent.md#addforceatlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12649)
-
 ___
 
 ### AddForceAtLocationLocal
@@ -2901,10 +2185,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[AddForceAtLocationLocal](ue_ue.FXSystemComponent.md#addforceatlocationlocal)
-
-#### Defined in
-
-[ue/ue.d.ts:12650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12650)
 
 ___
 
@@ -2928,10 +2208,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[AddImpulse](ue_ue.FXSystemComponent.md#addimpulse)
 
-#### Defined in
-
-[ue/ue.d.ts:12651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12651)
-
 ___
 
 ### AddImpulseAtLocation
@@ -2953,10 +2229,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[AddImpulseAtLocation](ue_ue.FXSystemComponent.md#addimpulseatlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12652)
 
 ___
 
@@ -2982,10 +2254,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[AddRadialForce](ue_ue.FXSystemComponent.md#addradialforce)
 
-#### Defined in
-
-[ue/ue.d.ts:12653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12653)
-
 ___
 
 ### AddRadialImpulse
@@ -3010,10 +2278,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[AddRadialImpulse](ue_ue.FXSystemComponent.md#addradialimpulse)
 
-#### Defined in
-
-[ue/ue.d.ts:12654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12654)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -3034,10 +2298,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[AddTickPrerequisiteActor](ue_ue.FXSystemComponent.md#addtickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L307)
-
 ___
 
 ### AddTickPrerequisiteComponent
@@ -3057,10 +2317,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[AddTickPrerequisiteComponent](ue_ue.FXSystemComponent.md#addtickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L308)
 
 ___
 
@@ -3084,10 +2340,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[AddTorque](ue_ue.FXSystemComponent.md#addtorque)
 
-#### Defined in
-
-[ue/ue.d.ts:12655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12655)
-
 ___
 
 ### AddTorqueInDegrees
@@ -3109,10 +2361,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[AddTorqueInDegrees](ue_ue.FXSystemComponent.md#addtorqueindegrees)
-
-#### Defined in
-
-[ue/ue.d.ts:12656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12656)
 
 ___
 
@@ -3136,10 +2384,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[AddTorqueInRadians](ue_ue.FXSystemComponent.md#addtorqueinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12657)
-
 ___
 
 ### BeginTrails
@@ -3158,10 +2402,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:7326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7326)
 
 ___
 
@@ -3183,10 +2423,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[CanCharacterStepUp](ue_ue.FXSystemComponent.md#cancharacterstepup)
 
-#### Defined in
-
-[ue/ue.d.ts:12658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12658)
-
 ___
 
 ### ClearMoveIgnoreActors
@@ -3201,10 +2437,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[ClearMoveIgnoreActors](ue_ue.FXSystemComponent.md#clearmoveignoreactors)
 
-#### Defined in
-
-[ue/ue.d.ts:12659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12659)
-
 ___
 
 ### ClearMoveIgnoreComponents
@@ -3218,10 +2450,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[ClearMoveIgnoreComponents](ue_ue.FXSystemComponent.md#clearmoveignorecomponents)
-
-#### Defined in
-
-[ue/ue.d.ts:12660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12660)
 
 ___
 
@@ -3243,10 +2471,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[ComponentHasTag](ue_ue.FXSystemComponent.md#componenthastag)
 
-#### Defined in
-
-[ue/ue.d.ts:309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L309)
-
 ___
 
 ### CopyArrayOfMoveIgnoreActors
@@ -3261,10 +2485,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[CopyArrayOfMoveIgnoreActors](ue_ue.FXSystemComponent.md#copyarrayofmoveignoreactors)
 
-#### Defined in
-
-[ue/ue.d.ts:12661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12661)
-
 ___
 
 ### CopyArrayOfMoveIgnoreComponents
@@ -3278,10 +2498,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[CopyArrayOfMoveIgnoreComponents](ue_ue.FXSystemComponent.md#copyarrayofmoveignorecomponents)
-
-#### Defined in
-
-[ue/ue.d.ts:12662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12662)
 
 ___
 
@@ -3303,10 +2519,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[CreateAndSetMaterialInstanceDynamic](ue_ue.FXSystemComponent.md#createandsetmaterialinstancedynamic)
 
-#### Defined in
-
-[ue/ue.d.ts:12663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12663)
-
 ___
 
 ### CreateAndSetMaterialInstanceDynamicFromMaterial
@@ -3327,10 +2539,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[CreateAndSetMaterialInstanceDynamicFromMaterial](ue_ue.FXSystemComponent.md#createandsetmaterialinstancedynamicfrommaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:12664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12664)
 
 ___
 
@@ -3356,10 +2564,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[CreateDefaultSubobject](ue_ue.FXSystemComponent.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### CreateDynamicMaterialInstance
@@ -3382,10 +2586,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[CreateDynamicMaterialInstance](ue_ue.FXSystemComponent.md#createdynamicmaterialinstance)
 
-#### Defined in
-
-[ue/ue.d.ts:12665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12665)
-
 ___
 
 ### CreateNamedDynamicMaterialInstance
@@ -3403,10 +2603,6 @@ ___
 
 [`MaterialInstanceDynamic`](ue_ue.MaterialInstanceDynamic.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7327)
-
 ___
 
 ### Deactivate
@@ -3420,10 +2616,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[Deactivate](ue_ue.FXSystemComponent.md#deactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L310)
 
 ___
 
@@ -3446,10 +2638,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[DetachFromParent](ue_ue.FXSystemComponent.md#detachfromparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12895)
-
 ___
 
 ### DoesSocketExist
@@ -3470,10 +2658,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[DoesSocketExist](ue_ue.FXSystemComponent.md#doessocketexist)
 
-#### Defined in
-
-[ue/ue.d.ts:12896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12896)
-
 ___
 
 ### EndTrails
@@ -3483,10 +2667,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:7328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7328)
 
 ___
 
@@ -3508,10 +2688,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[ExecuteUbergraph](ue_ue.FXSystemComponent.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GenerateParticleEvent
@@ -3532,10 +2708,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:7329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7329)
-
 ___
 
 ### GetAllSocketNames
@@ -3549,10 +2721,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetAllSocketNames](ue_ue.FXSystemComponent.md#getallsocketnames)
-
-#### Defined in
-
-[ue/ue.d.ts:12897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12897)
 
 ___
 
@@ -3568,10 +2736,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetAngularDamping](ue_ue.FXSystemComponent.md#getangulardamping)
 
-#### Defined in
-
-[ue/ue.d.ts:12666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12666)
-
 ___
 
 ### GetAttachParent
@@ -3586,10 +2750,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetAttachParent](ue_ue.FXSystemComponent.md#getattachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12898)
-
 ___
 
 ### GetAttachSocketName
@@ -3603,10 +2763,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetAttachSocketName](ue_ue.FXSystemComponent.md#getattachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12899)
 
 ___
 
@@ -3624,10 +2780,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7330)
 
 ___
 
@@ -3647,10 +2799,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:7331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7331)
-
 ___
 
 ### GetBeamSourceStrength
@@ -3668,10 +2816,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7332)
 
 ___
 
@@ -3691,10 +2835,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:7333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7333)
-
 ___
 
 ### GetBeamTargetPoint
@@ -3712,10 +2852,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7334)
 
 ___
 
@@ -3735,10 +2871,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:7335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7335)
-
 ___
 
 ### GetBeamTargetTangent
@@ -3756,10 +2888,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7336)
 
 ___
 
@@ -3781,10 +2909,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetCenterOfMass](ue_ue.FXSystemComponent.md#getcenterofmass)
 
-#### Defined in
-
-[ue/ue.d.ts:12667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12667)
-
 ___
 
 ### GetChildComponent
@@ -3804,10 +2928,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetChildComponent](ue_ue.FXSystemComponent.md#getchildcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12900)
 
 ___
 
@@ -3830,10 +2950,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetChildrenComponents](ue_ue.FXSystemComponent.md#getchildrencomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12901)
-
 ___
 
 ### GetClass
@@ -3847,10 +2963,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetClass](ue_ue.FXSystemComponent.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -3874,10 +2986,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetClosestPointOnCollision](ue_ue.FXSystemComponent.md#getclosestpointoncollision)
 
-#### Defined in
-
-[ue/ue.d.ts:12668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12668)
-
 ___
 
 ### GetCollisionEnabled
@@ -3891,10 +2999,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetCollisionEnabled](ue_ue.FXSystemComponent.md#getcollisionenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12669)
 
 ___
 
@@ -3910,10 +3014,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetCollisionObjectType](ue_ue.FXSystemComponent.md#getcollisionobjecttype)
 
-#### Defined in
-
-[ue/ue.d.ts:12670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12670)
-
 ___
 
 ### GetCollisionProfileName
@@ -3927,10 +3027,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetCollisionProfileName](ue_ue.FXSystemComponent.md#getcollisionprofilename)
-
-#### Defined in
-
-[ue/ue.d.ts:12671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12671)
 
 ___
 
@@ -3952,10 +3048,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetCollisionResponseToChannel](ue_ue.FXSystemComponent.md#getcollisionresponsetochannel)
 
-#### Defined in
-
-[ue/ue.d.ts:12672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12672)
-
 ___
 
 ### GetComponentTickInterval
@@ -3969,10 +3061,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetComponentTickInterval](ue_ue.FXSystemComponent.md#getcomponenttickinterval)
-
-#### Defined in
-
-[ue/ue.d.ts:311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L311)
 
 ___
 
@@ -3988,10 +3076,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetComponentVelocity](ue_ue.FXSystemComponent.md#getcomponentvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12902)
-
 ___
 
 ### GetFXSystemAsset
@@ -4005,10 +3089,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetFXSystemAsset](ue_ue.FXSystemComponent.md#getfxsystemasset)
-
-#### Defined in
-
-[ue/ue.d.ts:6715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6715)
 
 ___
 
@@ -4024,10 +3104,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetForwardVector](ue_ue.FXSystemComponent.md#getforwardvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12903)
-
 ___
 
 ### GetGenerateOverlapEvents
@@ -4041,10 +3117,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetGenerateOverlapEvents](ue_ue.FXSystemComponent.md#getgenerateoverlapevents)
-
-#### Defined in
-
-[ue/ue.d.ts:12673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12673)
 
 ___
 
@@ -4066,10 +3138,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetInertiaTensor](ue_ue.FXSystemComponent.md#getinertiatensor)
 
-#### Defined in
-
-[ue/ue.d.ts:12674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12674)
-
 ___
 
 ### GetLinearDamping
@@ -4084,10 +3152,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetLinearDamping](ue_ue.FXSystemComponent.md#getlineardamping)
 
-#### Defined in
-
-[ue/ue.d.ts:12675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12675)
-
 ___
 
 ### GetMass
@@ -4101,10 +3165,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetMass](ue_ue.FXSystemComponent.md#getmass)
-
-#### Defined in
-
-[ue/ue.d.ts:12676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12676)
 
 ___
 
@@ -4126,10 +3186,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetMassScale](ue_ue.FXSystemComponent.md#getmassscale)
 
-#### Defined in
-
-[ue/ue.d.ts:12677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12677)
-
 ___
 
 ### GetMaterial
@@ -4149,10 +3205,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetMaterial](ue_ue.FXSystemComponent.md#getmaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:12678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12678)
 
 ___
 
@@ -4175,10 +3227,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetMaterialFromCollisionFaceIndex](ue_ue.FXSystemComponent.md#getmaterialfromcollisionfaceindex)
 
-#### Defined in
-
-[ue/ue.d.ts:12679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12679)
-
 ___
 
 ### GetName
@@ -4192,10 +3240,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetName](ue_ue.FXSystemComponent.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -4213,10 +3257,6 @@ ___
 
 [`MaterialInterface`](ue_ue.MaterialInterface.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7337)
-
 ___
 
 ### GetNumActiveParticles
@@ -4226,10 +3266,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7338)
 
 ___
 
@@ -4245,10 +3281,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetNumChildrenComponents](ue_ue.FXSystemComponent.md#getnumchildrencomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12904)
-
 ___
 
 ### GetNumMaterials
@@ -4263,10 +3295,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetNumMaterials](ue_ue.FXSystemComponent.md#getnummaterials)
 
-#### Defined in
-
-[ue/ue.d.ts:12680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12680)
-
 ___
 
 ### GetOuter
@@ -4280,10 +3308,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetOuter](ue_ue.FXSystemComponent.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -4306,10 +3330,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetOverlappingActors](ue_ue.FXSystemComponent.md#getoverlappingactors)
 
-#### Defined in
-
-[ue/ue.d.ts:12681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12681)
-
 ___
 
 ### GetOverlappingComponents
@@ -4330,10 +3350,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetOverlappingComponents](ue_ue.FXSystemComponent.md#getoverlappingcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12682)
-
 ___
 
 ### GetOwner
@@ -4347,10 +3363,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetOwner](ue_ue.FXSystemComponent.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L312)
 
 ___
 
@@ -4372,10 +3384,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetParentComponents](ue_ue.FXSystemComponent.md#getparentcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12905)
-
 ___
 
 ### GetPhysicsAngularVelocity
@@ -4395,10 +3403,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetPhysicsAngularVelocity](ue_ue.FXSystemComponent.md#getphysicsangularvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12683)
 
 ___
 
@@ -4420,10 +3424,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetPhysicsAngularVelocityInDegrees](ue_ue.FXSystemComponent.md#getphysicsangularvelocityindegrees)
 
-#### Defined in
-
-[ue/ue.d.ts:12684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12684)
-
 ___
 
 ### GetPhysicsAngularVelocityInRadians
@@ -4444,10 +3444,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetPhysicsAngularVelocityInRadians](ue_ue.FXSystemComponent.md#getphysicsangularvelocityinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12685)
-
 ___
 
 ### GetPhysicsLinearVelocity
@@ -4467,10 +3463,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetPhysicsLinearVelocity](ue_ue.FXSystemComponent.md#getphysicslinearvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12686](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12686)
 
 ___
 
@@ -4493,10 +3485,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetPhysicsLinearVelocityAtPoint](ue_ue.FXSystemComponent.md#getphysicslinearvelocityatpoint)
 
-#### Defined in
-
-[ue/ue.d.ts:12687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12687)
-
 ___
 
 ### GetPhysicsVolume
@@ -4510,10 +3498,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetPhysicsVolume](ue_ue.FXSystemComponent.md#getphysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12906)
 
 ___
 
@@ -4529,10 +3513,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetRelativeTransform](ue_ue.FXSystemComponent.md#getrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12907)
-
 ___
 
 ### GetRightVector
@@ -4547,10 +3527,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetRightVector](ue_ue.FXSystemComponent.md#getrightvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12908)
-
 ___
 
 ### GetShouldUpdatePhysicsVolume
@@ -4564,10 +3540,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetShouldUpdatePhysicsVolume](ue_ue.FXSystemComponent.md#getshouldupdatephysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12909)
 
 ___
 
@@ -4589,10 +3561,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetSocketLocation](ue_ue.FXSystemComponent.md#getsocketlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12910)
-
 ___
 
 ### GetSocketQuaternion
@@ -4613,10 +3581,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetSocketQuaternion](ue_ue.FXSystemComponent.md#getsocketquaternion)
 
-#### Defined in
-
-[ue/ue.d.ts:12911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12911)
-
 ___
 
 ### GetSocketRotation
@@ -4636,10 +3600,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetSocketRotation](ue_ue.FXSystemComponent.md#getsocketrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12912)
 
 ___
 
@@ -4662,10 +3622,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetSocketTransform](ue_ue.FXSystemComponent.md#getsockettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12913)
-
 ___
 
 ### GetUpVector
@@ -4679,10 +3635,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetUpVector](ue_ue.FXSystemComponent.md#getupvector)
-
-#### Defined in
-
-[ue/ue.d.ts:12914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12914)
 
 ___
 
@@ -4698,10 +3650,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetWalkableSlopeOverride](ue_ue.FXSystemComponent.md#getwalkableslopeoverride)
 
-#### Defined in
-
-[ue/ue.d.ts:12688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12688)
-
 ___
 
 ### GetWorld
@@ -4715,10 +3663,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[GetWorld](ue_ue.FXSystemComponent.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -4741,10 +3685,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[IgnoreActorWhenMoving](ue_ue.FXSystemComponent.md#ignoreactorwhenmoving)
 
-#### Defined in
-
-[ue/ue.d.ts:12689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12689)
-
 ___
 
 ### IgnoreComponentWhenMoving
@@ -4766,10 +3706,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[IgnoreComponentWhenMoving](ue_ue.FXSystemComponent.md#ignorecomponentwhenmoving)
 
-#### Defined in
-
-[ue/ue.d.ts:12690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12690)
-
 ___
 
 ### IsActive
@@ -4783,10 +3719,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[IsActive](ue_ue.FXSystemComponent.md#isactive)
-
-#### Defined in
-
-[ue/ue.d.ts:313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L313)
 
 ___
 
@@ -4802,10 +3734,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[IsAnyRigidBodyAwake](ue_ue.FXSystemComponent.md#isanyrigidbodyawake)
 
-#### Defined in
-
-[ue/ue.d.ts:12691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12691)
-
 ___
 
 ### IsAnySimulatingPhysics
@@ -4819,10 +3747,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[IsAnySimulatingPhysics](ue_ue.FXSystemComponent.md#isanysimulatingphysics)
-
-#### Defined in
-
-[ue/ue.d.ts:12915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12915)
 
 ___
 
@@ -4838,10 +3762,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[IsBeingDestroyed](ue_ue.FXSystemComponent.md#isbeingdestroyed)
 
-#### Defined in
-
-[ue/ue.d.ts:314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L314)
-
 ___
 
 ### IsComponentTickEnabled
@@ -4856,10 +3776,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[IsComponentTickEnabled](ue_ue.FXSystemComponent.md#iscomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L315)
-
 ___
 
 ### IsGravityEnabled
@@ -4873,10 +3789,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[IsGravityEnabled](ue_ue.FXSystemComponent.md#isgravityenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12692](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12692)
 
 ___
 
@@ -4898,10 +3810,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[IsOverlappingActor](ue_ue.FXSystemComponent.md#isoverlappingactor)
 
-#### Defined in
-
-[ue/ue.d.ts:12693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12693)
-
 ___
 
 ### IsOverlappingComponent
@@ -4921,10 +3829,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[IsOverlappingComponent](ue_ue.FXSystemComponent.md#isoverlappingcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12694](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12694)
 
 ___
 
@@ -4946,10 +3850,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[IsSimulatingPhysics](ue_ue.FXSystemComponent.md#issimulatingphysics)
 
-#### Defined in
-
-[ue/ue.d.ts:12916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12916)
-
 ___
 
 ### IsVisible
@@ -4963,10 +3863,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[IsVisible](ue_ue.FXSystemComponent.md#isvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:12917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12917)
 
 ___
 
@@ -4991,10 +3887,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_AddLocalOffset](ue_ue.FXSystemComponent.md#k2_addlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:12918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12918)
-
 ___
 
 ### K2\_AddLocalRotation
@@ -5017,10 +3909,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_AddLocalRotation](ue_ue.FXSystemComponent.md#k2_addlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12919)
 
 ___
 
@@ -5045,10 +3933,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_AddLocalTransform](ue_ue.FXSystemComponent.md#k2_addlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12920)
-
 ___
 
 ### K2\_AddRelativeLocation
@@ -5071,10 +3955,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_AddRelativeLocation](ue_ue.FXSystemComponent.md#k2_addrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12921)
 
 ___
 
@@ -5099,10 +3979,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_AddRelativeRotation](ue_ue.FXSystemComponent.md#k2_addrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12922)
-
 ___
 
 ### K2\_AddWorldOffset
@@ -5125,10 +4001,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_AddWorldOffset](ue_ue.FXSystemComponent.md#k2_addworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:12923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12923)
 
 ___
 
@@ -5153,10 +4025,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_AddWorldRotation](ue_ue.FXSystemComponent.md#k2_addworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12924)
-
 ___
 
 ### K2\_AddWorldTransform
@@ -5180,10 +4048,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_AddWorldTransform](ue_ue.FXSystemComponent.md#k2_addworldtransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12925)
-
 ___
 
 ### K2\_AttachTo
@@ -5206,10 +4070,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_AttachTo](ue_ue.FXSystemComponent.md#k2_attachto)
-
-#### Defined in
-
-[ue/ue.d.ts:12926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12926)
 
 ___
 
@@ -5235,10 +4095,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_AttachToComponent](ue_ue.FXSystemComponent.md#k2_attachtocomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12927)
 
 ___
 
@@ -5268,10 +4124,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_BoxOverlapComponent](ue_ue.FXSystemComponent.md#k2_boxoverlapcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12695)
-
 ___
 
 ### K2\_DestroyComponent
@@ -5291,10 +4143,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_DestroyComponent](ue_ue.FXSystemComponent.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L316)
 
 ___
 
@@ -5319,10 +4167,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_DetachFromComponent](ue_ue.FXSystemComponent.md#k2_detachfromcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12928)
-
 ___
 
 ### K2\_GetComponentLocation
@@ -5336,10 +4180,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_GetComponentLocation](ue_ue.FXSystemComponent.md#k2_getcomponentlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12929)
 
 ___
 
@@ -5355,10 +4195,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_GetComponentRotation](ue_ue.FXSystemComponent.md#k2_getcomponentrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12930)
-
 ___
 
 ### K2\_GetComponentScale
@@ -5372,10 +4208,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_GetComponentScale](ue_ue.FXSystemComponent.md#k2_getcomponentscale)
-
-#### Defined in
-
-[ue/ue.d.ts:12931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12931)
 
 ___
 
@@ -5391,10 +4223,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_GetComponentToWorld](ue_ue.FXSystemComponent.md#k2_getcomponenttoworld)
 
-#### Defined in
-
-[ue/ue.d.ts:12932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12932)
-
 ___
 
 ### K2\_IsCollisionEnabled
@@ -5408,10 +4236,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_IsCollisionEnabled](ue_ue.FXSystemComponent.md#k2_iscollisionenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12696](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12696)
 
 ___
 
@@ -5427,10 +4251,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_IsPhysicsCollisionEnabled](ue_ue.FXSystemComponent.md#k2_isphysicscollisionenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:12697](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12697)
-
 ___
 
 ### K2\_IsQueryCollisionEnabled
@@ -5444,10 +4264,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_IsQueryCollisionEnabled](ue_ue.FXSystemComponent.md#k2_isquerycollisionenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12698)
 
 ___
 
@@ -5477,10 +4293,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_LineTraceComponent](ue_ue.FXSystemComponent.md#k2_linetracecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12699](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12699)
-
 ___
 
 ### K2\_SetRelativeLocation
@@ -5503,10 +4315,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_SetRelativeLocation](ue_ue.FXSystemComponent.md#k2_setrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12933)
 
 ___
 
@@ -5532,10 +4340,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_SetRelativeLocationAndRotation](ue_ue.FXSystemComponent.md#k2_setrelativelocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12934)
-
 ___
 
 ### K2\_SetRelativeRotation
@@ -5558,10 +4362,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_SetRelativeRotation](ue_ue.FXSystemComponent.md#k2_setrelativerotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12935)
 
 ___
 
@@ -5586,10 +4386,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_SetRelativeTransform](ue_ue.FXSystemComponent.md#k2_setrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12936)
-
 ___
 
 ### K2\_SetWorldLocation
@@ -5612,10 +4408,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_SetWorldLocation](ue_ue.FXSystemComponent.md#k2_setworldlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12937)
 
 ___
 
@@ -5641,10 +4433,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_SetWorldLocationAndRotation](ue_ue.FXSystemComponent.md#k2_setworldlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12938)
-
 ___
 
 ### K2\_SetWorldRotation
@@ -5668,10 +4456,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_SetWorldRotation](ue_ue.FXSystemComponent.md#k2_setworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12939)
-
 ___
 
 ### K2\_SetWorldTransform
@@ -5694,10 +4478,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_SetWorldTransform](ue_ue.FXSystemComponent.md#k2_setworldtransform)
-
-#### Defined in
-
-[ue/ue.d.ts:12940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12940)
 
 ___
 
@@ -5726,10 +4506,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_SphereOverlapComponent](ue_ue.FXSystemComponent.md#k2_sphereoverlapcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12700)
 
 ___
 
@@ -5760,10 +4536,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[K2_SphereTraceComponent](ue_ue.FXSystemComponent.md#k2_spheretracecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12701)
-
 ___
 
 ### OnRep\_AttachChildren
@@ -5777,10 +4549,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[OnRep_AttachChildren](ue_ue.FXSystemComponent.md#onrep_attachchildren)
-
-#### Defined in
-
-[ue/ue.d.ts:12941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12941)
 
 ___
 
@@ -5796,10 +4564,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[OnRep_AttachParent](ue_ue.FXSystemComponent.md#onrep_attachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12942)
-
 ___
 
 ### OnRep\_AttachSocketName
@@ -5813,10 +4577,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[OnRep_AttachSocketName](ue_ue.FXSystemComponent.md#onrep_attachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12943)
 
 ___
 
@@ -5832,10 +4592,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[OnRep_IsActive](ue_ue.FXSystemComponent.md#onrep_isactive)
 
-#### Defined in
-
-[ue/ue.d.ts:317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L317)
-
 ___
 
 ### OnRep\_Transform
@@ -5849,10 +4605,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[OnRep_Transform](ue_ue.FXSystemComponent.md#onrep_transform)
-
-#### Defined in
-
-[ue/ue.d.ts:12944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12944)
 
 ___
 
@@ -5874,10 +4626,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[OnRep_Visibility](ue_ue.FXSystemComponent.md#onrep_visibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12945)
-
 ___
 
 ### PutRigidBodyToSleep
@@ -5898,10 +4646,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[PutRigidBodyToSleep](ue_ue.FXSystemComponent.md#putrigidbodytosleep)
 
-#### Defined in
-
-[ue/ue.d.ts:12702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12702)
-
 ___
 
 ### ReceiveBeginPlay
@@ -5915,10 +4659,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[ReceiveBeginPlay](ue_ue.FXSystemComponent.md#receivebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L318)
 
 ___
 
@@ -5940,10 +4680,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[ReceiveEndPlay](ue_ue.FXSystemComponent.md#receiveendplay)
 
-#### Defined in
-
-[ue/ue.d.ts:319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L319)
-
 ___
 
 ### ReceiveTick
@@ -5964,10 +4700,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[ReceiveTick](ue_ue.FXSystemComponent.md#receivetick)
 
-#### Defined in
-
-[ue/ue.d.ts:320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L320)
-
 ___
 
 ### RegisterComponent
@@ -5982,10 +4714,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[RegisterComponent](ue_ue.FXSystemComponent.md#registercomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L321)
-
 ___
 
 ### ReleaseToPool
@@ -5999,10 +4727,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[ReleaseToPool](ue_ue.FXSystemComponent.md#releasetopool)
-
-#### Defined in
-
-[ue/ue.d.ts:6716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6716)
 
 ___
 
@@ -6024,10 +4748,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[RemoveTickPrerequisiteActor](ue_ue.FXSystemComponent.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -6048,10 +4768,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[RemoveTickPrerequisiteComponent](ue_ue.FXSystemComponent.md#removetickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L323)
-
 ___
 
 ### ResetRelativeTransform
@@ -6065,10 +4781,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[ResetRelativeTransform](ue_ue.FXSystemComponent.md#resetrelativetransform)
-
-#### Defined in
-
-[ue/ue.d.ts:12946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12946)
 
 ___
 
@@ -6090,10 +4802,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[ScaleByMomentOfInertia](ue_ue.FXSystemComponent.md#scalebymomentofinertia)
-
-#### Defined in
-
-[ue/ue.d.ts:12703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12703)
 
 ___
 
@@ -6117,10 +4825,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetAbsolute](ue_ue.FXSystemComponent.md#setabsolute)
 
-#### Defined in
-
-[ue/ue.d.ts:12947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12947)
-
 ___
 
 ### SetActive
@@ -6141,10 +4845,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetActive](ue_ue.FXSystemComponent.md#setactive)
-
-#### Defined in
-
-[ue/ue.d.ts:324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L324)
 
 ___
 
@@ -6167,10 +4867,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetActorParameter](ue_ue.FXSystemComponent.md#setactorparameter)
 
-#### Defined in
-
-[ue/ue.d.ts:6717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6717)
-
 ___
 
 ### SetAllMassScale
@@ -6190,10 +4886,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetAllMassScale](ue_ue.FXSystemComponent.md#setallmassscale)
-
-#### Defined in
-
-[ue/ue.d.ts:12704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12704)
 
 ___
 
@@ -6216,10 +4908,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetAllPhysicsAngularVelocityInDegrees](ue_ue.FXSystemComponent.md#setallphysicsangularvelocityindegrees)
 
-#### Defined in
-
-[ue/ue.d.ts:12705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12705)
-
 ___
 
 ### SetAllPhysicsAngularVelocityInRadians
@@ -6240,10 +4928,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetAllPhysicsAngularVelocityInRadians](ue_ue.FXSystemComponent.md#setallphysicsangularvelocityinradians)
-
-#### Defined in
-
-[ue/ue.d.ts:12706](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12706)
 
 ___
 
@@ -6266,10 +4950,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetAllPhysicsLinearVelocity](ue_ue.FXSystemComponent.md#setallphysicslinearvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12707](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12707)
-
 ___
 
 ### SetAllUseCCD
@@ -6289,10 +4969,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetAllUseCCD](ue_ue.FXSystemComponent.md#setalluseccd)
-
-#### Defined in
-
-[ue/ue.d.ts:12708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12708)
 
 ___
 
@@ -6314,10 +4990,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetAngularDamping](ue_ue.FXSystemComponent.md#setangulardamping)
 
-#### Defined in
-
-[ue/ue.d.ts:12709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12709)
-
 ___
 
 ### SetAutoActivate
@@ -6338,10 +5010,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetAutoActivate](ue_ue.FXSystemComponent.md#setautoactivate)
 
-#### Defined in
-
-[ue/ue.d.ts:325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L325)
-
 ___
 
 ### SetAutoAttachParams
@@ -6359,10 +5027,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:7339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7339)
 
 ___
 
@@ -6388,10 +5052,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetAutoAttachmentParameters](ue_ue.FXSystemComponent.md#setautoattachmentparameters)
 
-#### Defined in
-
-[ue/ue.d.ts:6718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6718)
-
 ___
 
 ### SetBeamEndPoint
@@ -6408,10 +5068,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:7340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7340)
 
 ___
 
@@ -6431,10 +5087,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:7341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7341)
-
 ___
 
 ### SetBeamSourceStrength
@@ -6452,10 +5104,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:7342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7342)
 
 ___
 
@@ -6475,10 +5123,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:7343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7343)
-
 ___
 
 ### SetBeamTargetPoint
@@ -6496,10 +5140,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:7344](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7344)
 
 ___
 
@@ -6519,10 +5159,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:7345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7345)
-
 ___
 
 ### SetBeamTargetTangent
@@ -6540,10 +5176,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:7346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7346)
 
 ___
 
@@ -6565,10 +5197,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetBoundsScale](ue_ue.FXSystemComponent.md#setboundsscale)
 
-#### Defined in
-
-[ue/ue.d.ts:12710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12710)
-
 ___
 
 ### SetCastInsetShadow
@@ -6589,10 +5217,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetCastInsetShadow](ue_ue.FXSystemComponent.md#setcastinsetshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12711)
-
 ___
 
 ### SetCastShadow
@@ -6612,10 +5236,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetCastShadow](ue_ue.FXSystemComponent.md#setcastshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12712)
 
 ___
 
@@ -6638,10 +5258,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetCenterOfMass](ue_ue.FXSystemComponent.md#setcenterofmass)
 
-#### Defined in
-
-[ue/ue.d.ts:12713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12713)
-
 ___
 
 ### SetCollisionEnabled
@@ -6661,10 +5277,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetCollisionEnabled](ue_ue.FXSystemComponent.md#setcollisionenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12714)
 
 ___
 
@@ -6686,10 +5298,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetCollisionObjectType](ue_ue.FXSystemComponent.md#setcollisionobjecttype)
 
-#### Defined in
-
-[ue/ue.d.ts:12715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12715)
-
 ___
 
 ### SetCollisionProfileName
@@ -6710,10 +5318,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetCollisionProfileName](ue_ue.FXSystemComponent.md#setcollisionprofilename)
 
-#### Defined in
-
-[ue/ue.d.ts:12716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12716)
-
 ___
 
 ### SetCollisionResponseToAllChannels
@@ -6733,10 +5337,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetCollisionResponseToAllChannels](ue_ue.FXSystemComponent.md#setcollisionresponsetoallchannels)
-
-#### Defined in
-
-[ue/ue.d.ts:12717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12717)
 
 ___
 
@@ -6759,10 +5359,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetCollisionResponseToChannel](ue_ue.FXSystemComponent.md#setcollisionresponsetochannel)
 
-#### Defined in
-
-[ue/ue.d.ts:12718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12718)
-
 ___
 
 ### SetColorParameter
@@ -6784,10 +5380,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetColorParameter](ue_ue.FXSystemComponent.md#setcolorparameter)
 
-#### Defined in
-
-[ue/ue.d.ts:6719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6719)
-
 ___
 
 ### SetComponentTickEnabled
@@ -6807,10 +5399,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetComponentTickEnabled](ue_ue.FXSystemComponent.md#setcomponenttickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L326)
 
 ___
 
@@ -6832,10 +5420,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetComponentTickInterval](ue_ue.FXSystemComponent.md#setcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L327)
-
 ___
 
 ### SetConstraintMode
@@ -6855,10 +5439,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetConstraintMode](ue_ue.FXSystemComponent.md#setconstraintmode)
-
-#### Defined in
-
-[ue/ue.d.ts:12719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12719)
 
 ___
 
@@ -6880,10 +5460,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetCullDistance](ue_ue.FXSystemComponent.md#setculldistance)
 
-#### Defined in
-
-[ue/ue.d.ts:12720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12720)
-
 ___
 
 ### SetCustomDepthStencilValue
@@ -6904,10 +5480,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetCustomDepthStencilValue](ue_ue.FXSystemComponent.md#setcustomdepthstencilvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:12721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12721)
-
 ___
 
 ### SetCustomDepthStencilWriteMask
@@ -6927,10 +5499,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetCustomDepthStencilWriteMask](ue_ue.FXSystemComponent.md#setcustomdepthstencilwritemask)
-
-#### Defined in
-
-[ue/ue.d.ts:12722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12722)
 
 ___
 
@@ -6953,10 +5521,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetCustomPrimitiveDataFloat](ue_ue.FXSystemComponent.md#setcustomprimitivedatafloat)
 
-#### Defined in
-
-[ue/ue.d.ts:12723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12723)
-
 ___
 
 ### SetCustomPrimitiveDataVector2
@@ -6977,10 +5541,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetCustomPrimitiveDataVector2](ue_ue.FXSystemComponent.md#setcustomprimitivedatavector2)
-
-#### Defined in
-
-[ue/ue.d.ts:12724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12724)
 
 ___
 
@@ -7003,10 +5563,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetCustomPrimitiveDataVector3](ue_ue.FXSystemComponent.md#setcustomprimitivedatavector3)
 
-#### Defined in
-
-[ue/ue.d.ts:12725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12725)
-
 ___
 
 ### SetCustomPrimitiveDataVector4
@@ -7027,10 +5583,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetCustomPrimitiveDataVector4](ue_ue.FXSystemComponent.md#setcustomprimitivedatavector4)
-
-#### Defined in
-
-[ue/ue.d.ts:12726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12726)
 
 ___
 
@@ -7053,10 +5605,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetEmitterEnable](ue_ue.FXSystemComponent.md#setemitterenable)
 
-#### Defined in
-
-[ue/ue.d.ts:6720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6720)
-
 ___
 
 ### SetEnableGravity
@@ -7077,10 +5625,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetEnableGravity](ue_ue.FXSystemComponent.md#setenablegravity)
 
-#### Defined in
-
-[ue/ue.d.ts:12727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12727)
-
 ___
 
 ### SetExcludeFromLightAttachmentGroup
@@ -7100,10 +5644,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetExcludeFromLightAttachmentGroup](ue_ue.FXSystemComponent.md#setexcludefromlightattachmentgroup)
-
-#### Defined in
-
-[ue/ue.d.ts:12728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12728)
 
 ___
 
@@ -7126,10 +5666,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetFloatParameter](ue_ue.FXSystemComponent.md#setfloatparameter)
 
-#### Defined in
-
-[ue/ue.d.ts:6721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6721)
-
 ___
 
 ### SetGenerateOverlapEvents
@@ -7149,10 +5685,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetGenerateOverlapEvents](ue_ue.FXSystemComponent.md#setgenerateoverlapevents)
-
-#### Defined in
-
-[ue/ue.d.ts:12729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12729)
 
 ___
 
@@ -7175,10 +5707,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetHiddenInGame](ue_ue.FXSystemComponent.md#sethiddeningame)
 
-#### Defined in
-
-[ue/ue.d.ts:12948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12948)
-
 ___
 
 ### SetIsReplicated
@@ -7198,10 +5726,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetIsReplicated](ue_ue.FXSystemComponent.md#setisreplicated)
-
-#### Defined in
-
-[ue/ue.d.ts:328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L328)
 
 ___
 
@@ -7223,10 +5747,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetLightAttachmentsAsGroup](ue_ue.FXSystemComponent.md#setlightattachmentsasgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12730)
-
 ___
 
 ### SetLinearDamping
@@ -7246,10 +5766,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetLinearDamping](ue_ue.FXSystemComponent.md#setlineardamping)
-
-#### Defined in
-
-[ue/ue.d.ts:12731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12731)
 
 ___
 
@@ -7273,10 +5789,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetMassOverrideInKg](ue_ue.FXSystemComponent.md#setmassoverrideinkg)
 
-#### Defined in
-
-[ue/ue.d.ts:12732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12732)
-
 ___
 
 ### SetMassScale
@@ -7297,10 +5809,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetMassScale](ue_ue.FXSystemComponent.md#setmassscale)
-
-#### Defined in
-
-[ue/ue.d.ts:12733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12733)
 
 ___
 
@@ -7323,10 +5831,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetMaterial](ue_ue.FXSystemComponent.md#setmaterial)
 
-#### Defined in
-
-[ue/ue.d.ts:12734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12734)
-
 ___
 
 ### SetMaterialByName
@@ -7348,10 +5852,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetMaterialByName](ue_ue.FXSystemComponent.md#setmaterialbyname)
 
-#### Defined in
-
-[ue/ue.d.ts:12735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12735)
-
 ___
 
 ### SetMaterialParameter
@@ -7368,10 +5868,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:7347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7347)
 
 ___
 
@@ -7393,10 +5889,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetMobility](ue_ue.FXSystemComponent.md#setmobility)
 
-#### Defined in
-
-[ue/ue.d.ts:12949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12949)
-
 ___
 
 ### SetNotifyRigidBodyCollision
@@ -7416,10 +5908,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetNotifyRigidBodyCollision](ue_ue.FXSystemComponent.md#setnotifyrigidbodycollision)
-
-#### Defined in
-
-[ue/ue.d.ts:12736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12736)
 
 ___
 
@@ -7441,10 +5929,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetOnlyOwnerSee](ue_ue.FXSystemComponent.md#setonlyownersee)
 
-#### Defined in
-
-[ue/ue.d.ts:12737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12737)
-
 ___
 
 ### SetOwnerNoSee
@@ -7465,10 +5949,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetOwnerNoSee](ue_ue.FXSystemComponent.md#setownernosee)
 
-#### Defined in
-
-[ue/ue.d.ts:12738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12738)
-
 ___
 
 ### SetPhysMaterialOverride
@@ -7488,10 +5968,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetPhysMaterialOverride](ue_ue.FXSystemComponent.md#setphysmaterialoverride)
-
-#### Defined in
-
-[ue/ue.d.ts:12746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12746)
 
 ___
 
@@ -7515,10 +5991,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetPhysicsAngularVelocity](ue_ue.FXSystemComponent.md#setphysicsangularvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12739)
-
 ___
 
 ### SetPhysicsAngularVelocityInDegrees
@@ -7540,10 +6012,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetPhysicsAngularVelocityInDegrees](ue_ue.FXSystemComponent.md#setphysicsangularvelocityindegrees)
-
-#### Defined in
-
-[ue/ue.d.ts:12740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12740)
 
 ___
 
@@ -7567,10 +6035,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetPhysicsAngularVelocityInRadians](ue_ue.FXSystemComponent.md#setphysicsangularvelocityinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12741)
-
 ___
 
 ### SetPhysicsLinearVelocity
@@ -7592,10 +6056,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetPhysicsLinearVelocity](ue_ue.FXSystemComponent.md#setphysicslinearvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12742)
 
 ___
 
@@ -7619,10 +6079,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetPhysicsMaxAngularVelocity](ue_ue.FXSystemComponent.md#setphysicsmaxangularvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12743)
-
 ___
 
 ### SetPhysicsMaxAngularVelocityInDegrees
@@ -7644,10 +6100,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetPhysicsMaxAngularVelocityInDegrees](ue_ue.FXSystemComponent.md#setphysicsmaxangularvelocityindegrees)
-
-#### Defined in
-
-[ue/ue.d.ts:12744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12744)
 
 ___
 
@@ -7671,10 +6123,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetPhysicsMaxAngularVelocityInRadians](ue_ue.FXSystemComponent.md#setphysicsmaxangularvelocityinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12745)
-
 ___
 
 ### SetReceivesDecals
@@ -7694,10 +6142,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetReceivesDecals](ue_ue.FXSystemComponent.md#setreceivesdecals)
-
-#### Defined in
-
-[ue/ue.d.ts:12747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12747)
 
 ___
 
@@ -7719,10 +6163,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetRelativeScale3D](ue_ue.FXSystemComponent.md#setrelativescale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:12950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12950)
-
 ___
 
 ### SetRenderCustomDepth
@@ -7742,10 +6182,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetRenderCustomDepth](ue_ue.FXSystemComponent.md#setrendercustomdepth)
-
-#### Defined in
-
-[ue/ue.d.ts:12748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12748)
 
 ___
 
@@ -7767,10 +6203,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetRenderInMainPass](ue_ue.FXSystemComponent.md#setrenderinmainpass)
 
-#### Defined in
-
-[ue/ue.d.ts:12749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12749)
-
 ___
 
 ### SetShouldUpdatePhysicsVolume
@@ -7790,10 +6222,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetShouldUpdatePhysicsVolume](ue_ue.FXSystemComponent.md#setshouldupdatephysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12951)
 
 ___
 
@@ -7815,10 +6243,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetSimulatePhysics](ue_ue.FXSystemComponent.md#setsimulatephysics)
 
-#### Defined in
-
-[ue/ue.d.ts:12750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12750)
-
 ___
 
 ### SetSingleSampleShadowFromStationaryLights
@@ -7839,10 +6263,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetSingleSampleShadowFromStationaryLights](ue_ue.FXSystemComponent.md#setsinglesampleshadowfromstationarylights)
 
-#### Defined in
-
-[ue/ue.d.ts:12751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12751)
-
 ___
 
 ### SetTemplate
@@ -7858,10 +6278,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:7348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7348)
 
 ___
 
@@ -7883,10 +6299,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetTickGroup](ue_ue.FXSystemComponent.md#settickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L330)
-
 ___
 
 ### SetTickableWhenPaused
@@ -7907,10 +6319,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetTickableWhenPaused](ue_ue.FXSystemComponent.md#settickablewhenpaused)
 
-#### Defined in
-
-[ue/ue.d.ts:329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L329)
-
 ___
 
 ### SetTrailSourceData
@@ -7929,10 +6337,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:7349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7349)
 
 ___
 
@@ -7954,10 +6358,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetTranslucentSortPriority](ue_ue.FXSystemComponent.md#settranslucentsortpriority)
 
-#### Defined in
-
-[ue/ue.d.ts:12752](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12752)
-
 ___
 
 ### SetUseAutoManageAttachment
@@ -7977,10 +6377,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetUseAutoManageAttachment](ue_ue.FXSystemComponent.md#setuseautomanageattachment)
-
-#### Defined in
-
-[ue/ue.d.ts:6722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6722)
 
 ___
 
@@ -8003,10 +6399,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetUseCCD](ue_ue.FXSystemComponent.md#setuseccd)
 
-#### Defined in
-
-[ue/ue.d.ts:12753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12753)
-
 ___
 
 ### SetVectorParameter
@@ -8027,10 +6419,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetVectorParameter](ue_ue.FXSystemComponent.md#setvectorparameter)
-
-#### Defined in
-
-[ue/ue.d.ts:6723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6723)
 
 ___
 
@@ -8053,10 +6441,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetVisibility](ue_ue.FXSystemComponent.md#setvisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12953)
-
 ___
 
 ### SetWalkableSlopeOverride
@@ -8077,10 +6461,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetWalkableSlopeOverride](ue_ue.FXSystemComponent.md#setwalkableslopeoverride)
 
-#### Defined in
-
-[ue/ue.d.ts:12754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12754)
-
 ___
 
 ### SetWorldScale3D
@@ -8100,10 +6480,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetWorldScale3D](ue_ue.FXSystemComponent.md#setworldscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:12954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12954)
 
 ___
 
@@ -8126,10 +6502,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SetupAttachment](ue_ue.FXSystemComponent.md#setupattachment)
 
-#### Defined in
-
-[ue/ue.d.ts:12952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12952)
-
 ___
 
 ### SnapTo
@@ -8151,10 +6523,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[SnapTo](ue_ue.FXSystemComponent.md#snapto)
 
-#### Defined in
-
-[ue/ue.d.ts:12955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12955)
-
 ___
 
 ### ToggleActive
@@ -8168,10 +6536,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[ToggleActive](ue_ue.FXSystemComponent.md#toggleactive)
-
-#### Defined in
-
-[ue/ue.d.ts:331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L331)
 
 ___
 
@@ -8193,10 +6557,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[ToggleVisibility](ue_ue.FXSystemComponent.md#togglevisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12956)
-
 ___
 
 ### WakeAllRigidBodies
@@ -8210,10 +6570,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[WakeAllRigidBodies](ue_ue.FXSystemComponent.md#wakeallrigidbodies)
-
-#### Defined in
-
-[ue/ue.d.ts:12755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12755)
 
 ___
 
@@ -8234,10 +6590,6 @@ ___
 #### Inherited from
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[WakeRigidBody](ue_ue.FXSystemComponent.md#wakerigidbody)
-
-#### Defined in
-
-[ue/ue.d.ts:12756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12756)
 
 ___
 
@@ -8260,10 +6612,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[Find](ue_ue.FXSystemComponent.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:7351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7351)
-
 ___
 
 ### Load
@@ -8284,10 +6632,6 @@ ___
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[Load](ue_ue.FXSystemComponent.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:7352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7352)
-
 ___
 
 ### StaticClass
@@ -8301,7 +6645,3 @@ ___
 #### Overrides
 
 [FXSystemComponent](ue_ue.FXSystemComponent.md).[StaticClass](ue_ue.FXSystemComponent.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:7350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7350)

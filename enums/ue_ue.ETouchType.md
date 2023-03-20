@@ -24,19 +24,11 @@
 
 • **Began** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34843)
-
 ___
 
 ### ETouchType\_MAX
 
 • **ETouchType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34843)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **Ended** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34843)
-
 ___
 
 ### FirstMove
 
 • **FirstMove** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34843)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **ForceChanged** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34843)
-
 ___
 
 ### Moved
 
 • **Moved** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34843)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **NumTypes** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34843)
-
 ___
 
 ### Stationary
 
 • **Stationary** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34843)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34843)

@@ -25,19 +25,11 @@
 
 • **TG\_DuringPhysics** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L189)
-
 ___
 
 ### TG\_EndPhysics
 
 • **TG\_EndPhysics** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L189)
 
 ___
 
@@ -45,19 +37,11 @@ ___
 
 • **TG\_LastDemotable** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L189)
-
 ___
 
 ### TG\_MAX
 
 • **TG\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L189)
 
 ___
 
@@ -65,19 +49,11 @@ ___
 
 • **TG\_NewlySpawned** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L189)
-
 ___
 
 ### TG\_PostPhysics
 
 • **TG\_PostPhysics** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L189)
 
 ___
 
@@ -85,19 +61,11 @@ ___
 
 • **TG\_PostUpdateWork** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L189)
-
 ___
 
 ### TG\_PrePhysics
 
 • **TG\_PrePhysics** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L189)
 
 ___
 
@@ -105,16 +73,8 @@ ___
 
 • **TG\_StartPhysics** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L189)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L189)

@@ -19,19 +19,11 @@
 
 • **VERTSURFACESOURCE\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33977)
-
 ___
 
 ### VERTSURFACESOURCE\_Surface
 
 • **VERTSURFACESOURCE\_Surface** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33977)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **VERTSURFACESOURCE\_Vert** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33977)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33977)

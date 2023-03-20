@@ -29,10 +29,6 @@
 
 • **new AITestSpawnSet**()
 
-#### Defined in
-
-[ue/ue.d.ts:36427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36427)
-
 • **new AITestSpawnSet**(`SpawnInfoContainer`, `Name`, `bEnabled`, `FallbackSpawnLocation`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `bEnabled` | `boolean` |
 | `FallbackSpawnLocation` | [`Actor`](ue_ue.Actor.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:36428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36428)
-
 ## Properties
 
 ### FallbackSpawnLocation
 
 • **FallbackSpawnLocation**: [`Actor`](ue_ue.Actor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36432)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:36430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36430)
-
 ___
 
 ### SpawnInfoContainer
 
 • **SpawnInfoContainer**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AITestSpawnInfo`](ue_ue.AITestSpawnInfo.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:36429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36429)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • `Private` **\_\_tid\_AITestSpawnSet\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:36438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36438)
-
 ___
 
 ### bEnabled
 
 • **bEnabled**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36431](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36431)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36436)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36437)

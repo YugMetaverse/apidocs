@@ -19,19 +19,11 @@
 
 • **BranchingPoint** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3032](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3032)
-
 ___
 
 ### EMontageNotifyTickType\_MAX
 
 • **EMontageNotifyTickType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3032](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3032)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Queued** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3032](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3032)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3032](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3032)

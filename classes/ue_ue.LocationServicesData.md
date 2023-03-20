@@ -31,10 +31,6 @@
 
 • **new LocationServicesData**()
 
-#### Defined in
-
-[ue/ue.d.ts:46271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46271)
-
 • **new LocationServicesData**(`Timestamp`, `Longitude`, `Latitude`, `HorizontalAccuracy`, `VerticalAccuracy`, `Altitude`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `VerticalAccuracy` | `number` |
 | `Altitude` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:46272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46272)
-
 ## Properties
 
 ### Altitude
 
 • **Altitude**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:46278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46278)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **HorizontalAccuracy**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:46276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46276)
-
 ___
 
 ### Latitude
 
 • **Latitude**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:46275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46275)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **Longitude**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:46274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46274)
-
 ___
 
 ### Timestamp
 
 • **Timestamp**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:46273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46273)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **VerticalAccuracy**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:46277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46277)
-
 ___
 
 ### \_\_tid\_LocationServicesData\_\_
 
 • `Private` **\_\_tid\_LocationServicesData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46284)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46282)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46283)

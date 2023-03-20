@@ -21,19 +21,11 @@
 
 • **Field\_Add** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33861)
-
 ___
 
 ### Field\_Divide
 
 • **Field\_Divide** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33861)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Field\_Multiply** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33861)
-
 ___
 
 ### Field\_Operation\_Max
 
 • **Field\_Operation\_Max** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33861)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Field\_Substract** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33861)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33861)

@@ -29,10 +29,6 @@
 
 • **new Matrix**()
 
-#### Defined in
-
-[ue/ue.d.ts:3396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3396)
-
 • **new Matrix**(`XPlane`, `YPlane`, `ZPlane`, `WPlane`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `ZPlane` | [`Plane`](ue_ue.Plane.md) |
 | `WPlane` | [`Plane`](ue_ue.Plane.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:3397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3397)
-
 ## Properties
 
 ### WPlane
 
 • **WPlane**: [`Plane`](ue_ue.Plane.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3401)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **XPlane**: [`Plane`](ue_ue.Plane.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3398)
-
 ___
 
 ### YPlane
 
 • **YPlane**: [`Plane`](ue_ue.Plane.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3399)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **ZPlane**: [`Plane`](ue_ue.Plane.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3400)
-
 ___
 
 ### \_\_tid\_Matrix\_\_
 
 • `Private` **\_\_tid\_Matrix\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3407)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3405)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3406)

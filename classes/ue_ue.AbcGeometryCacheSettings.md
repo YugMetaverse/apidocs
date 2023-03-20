@@ -31,10 +31,6 @@
 
 • **new AbcGeometryCacheSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L139)
-
 • **new AbcGeometryCacheSettings**(`bFlattenTracks`, `bApplyConstantTopologyOptimizations`, `bCalculateMotionVectorsDuringImport`, `bOptimizeIndexBuffers`, `CompressedPositionPrecision`, `CompressedTextureCoordinatesNumberOfBits`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `CompressedPositionPrecision` | `number` |
 | `CompressedTextureCoordinatesNumberOfBits` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L140)
-
 ## Properties
 
 ### CompressedPositionPrecision
 
 • **CompressedPositionPrecision**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L145)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **CompressedTextureCoordinatesNumberOfBits**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L146)
-
 ___
 
 ### \_\_tid\_AbcGeometryCacheSettings\_\_
 
 • `Private` **\_\_tid\_AbcGeometryCacheSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L152)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **bApplyConstantTopologyOptimizations**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L142)
-
 ___
 
 ### bCalculateMotionVectorsDuringImport
 
 • **bCalculateMotionVectorsDuringImport**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L143)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **bFlattenTracks**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L141)
-
 ___
 
 ### bOptimizeIndexBuffers
 
 • **bOptimizeIndexBuffers**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L144)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L150)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L151)

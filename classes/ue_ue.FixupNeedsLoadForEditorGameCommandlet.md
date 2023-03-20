@@ -64,10 +64,6 @@
 
 [ResavePackagesCommandlet](ue_ue.ResavePackagesCommandlet.md).[constructor](ue_ue.ResavePackagesCommandlet.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:35633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35633)
-
 ## Properties
 
 ### HelpDescription
@@ -77,10 +73,6 @@
 #### Inherited from
 
 [ResavePackagesCommandlet](ue_ue.ResavePackagesCommandlet.md).[HelpDescription](ue_ue.ResavePackagesCommandlet.md#helpdescription)
-
-#### Defined in
-
-[ue/ue.d.ts:16167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16167)
 
 ___
 
@@ -92,10 +84,6 @@ ___
 
 [ResavePackagesCommandlet](ue_ue.ResavePackagesCommandlet.md).[HelpParamDescriptions](ue_ue.ResavePackagesCommandlet.md#helpparamdescriptions)
 
-#### Defined in
-
-[ue/ue.d.ts:16171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16171)
-
 ___
 
 ### HelpParamNames
@@ -105,10 +93,6 @@ ___
 #### Inherited from
 
 [ResavePackagesCommandlet](ue_ue.ResavePackagesCommandlet.md).[HelpParamNames](ue_ue.ResavePackagesCommandlet.md#helpparamnames)
-
-#### Defined in
-
-[ue/ue.d.ts:16170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16170)
 
 ___
 
@@ -120,10 +104,6 @@ ___
 
 [ResavePackagesCommandlet](ue_ue.ResavePackagesCommandlet.md).[HelpUsage](ue_ue.ResavePackagesCommandlet.md#helpusage)
 
-#### Defined in
-
-[ue/ue.d.ts:16168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16168)
-
 ___
 
 ### HelpWebLink
@@ -133,10 +113,6 @@ ___
 #### Inherited from
 
 [ResavePackagesCommandlet](ue_ue.ResavePackagesCommandlet.md).[HelpWebLink](ue_ue.ResavePackagesCommandlet.md#helpweblink)
-
-#### Defined in
-
-[ue/ue.d.ts:16169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16169)
 
 ___
 
@@ -148,10 +124,6 @@ ___
 
 [ResavePackagesCommandlet](ue_ue.ResavePackagesCommandlet.md).[IsClient](ue_ue.ResavePackagesCommandlet.md#isclient)
 
-#### Defined in
-
-[ue/ue.d.ts:16173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16173)
-
 ___
 
 ### IsEditor
@@ -161,10 +133,6 @@ ___
 #### Inherited from
 
 [ResavePackagesCommandlet](ue_ue.ResavePackagesCommandlet.md).[IsEditor](ue_ue.ResavePackagesCommandlet.md#iseditor)
-
-#### Defined in
-
-[ue/ue.d.ts:16174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16174)
 
 ___
 
@@ -176,10 +144,6 @@ ___
 
 [ResavePackagesCommandlet](ue_ue.ResavePackagesCommandlet.md).[IsServer](ue_ue.ResavePackagesCommandlet.md#isserver)
 
-#### Defined in
-
-[ue/ue.d.ts:16172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16172)
-
 ___
 
 ### LogToConsole
@@ -189,10 +153,6 @@ ___
 #### Inherited from
 
 [ResavePackagesCommandlet](ue_ue.ResavePackagesCommandlet.md).[LogToConsole](ue_ue.ResavePackagesCommandlet.md#logtoconsole)
-
-#### Defined in
-
-[ue/ue.d.ts:16175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16175)
 
 ___
 
@@ -204,10 +164,6 @@ ___
 
 [ResavePackagesCommandlet](ue_ue.ResavePackagesCommandlet.md).[ShowErrorCount](ue_ue.ResavePackagesCommandlet.md#showerrorcount)
 
-#### Defined in
-
-[ue/ue.d.ts:16176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16176)
-
 ___
 
 ### ShowProgress
@@ -217,10 +173,6 @@ ___
 #### Inherited from
 
 [ResavePackagesCommandlet](ue_ue.ResavePackagesCommandlet.md).[ShowProgress](ue_ue.ResavePackagesCommandlet.md#showprogress)
-
-#### Defined in
-
-[ue/ue.d.ts:16177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16177)
 
 ___
 
@@ -232,19 +184,11 @@ ___
 
 [ResavePackagesCommandlet](ue_ue.ResavePackagesCommandlet.md).[__tid_Commandlet__](ue_ue.ResavePackagesCommandlet.md#__tid_commandlet__)
 
-#### Defined in
-
-[ue/ue.d.ts:16182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16182)
-
 ___
 
 ### \_\_tid\_FixupNeedsLoadForEditorGameCommandlet\_\_
 
 • **\_\_tid\_FixupNeedsLoadForEditorGameCommandlet\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35638)
 
 ___
 
@@ -256,10 +200,6 @@ ___
 
 [ResavePackagesCommandlet](ue_ue.ResavePackagesCommandlet.md).[__tid_Object__](ue_ue.ResavePackagesCommandlet.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ResavePackagesCommandlet\_\_
@@ -269,10 +209,6 @@ ___
 #### Inherited from
 
 [ResavePackagesCommandlet](ue_ue.ResavePackagesCommandlet.md).[__tid_ResavePackagesCommandlet__](ue_ue.ResavePackagesCommandlet.md#__tid_resavepackagescommandlet__)
-
-#### Defined in
-
-[ue/ue.d.ts:35629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35629)
 
 ## Methods
 
@@ -298,10 +234,6 @@ ___
 
 [ResavePackagesCommandlet](ue_ue.ResavePackagesCommandlet.md).[CreateDefaultSubobject](ue_ue.ResavePackagesCommandlet.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -322,10 +254,6 @@ ___
 
 [ResavePackagesCommandlet](ue_ue.ResavePackagesCommandlet.md).[ExecuteUbergraph](ue_ue.ResavePackagesCommandlet.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -339,10 +267,6 @@ ___
 #### Inherited from
 
 [ResavePackagesCommandlet](ue_ue.ResavePackagesCommandlet.md).[GetClass](ue_ue.ResavePackagesCommandlet.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -358,10 +282,6 @@ ___
 
 [ResavePackagesCommandlet](ue_ue.ResavePackagesCommandlet.md).[GetName](ue_ue.ResavePackagesCommandlet.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -376,10 +296,6 @@ ___
 
 [ResavePackagesCommandlet](ue_ue.ResavePackagesCommandlet.md).[GetOuter](ue_ue.ResavePackagesCommandlet.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -393,10 +309,6 @@ ___
 #### Inherited from
 
 [ResavePackagesCommandlet](ue_ue.ResavePackagesCommandlet.md).[GetWorld](ue_ue.ResavePackagesCommandlet.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -419,10 +331,6 @@ ___
 
 [ResavePackagesCommandlet](ue_ue.ResavePackagesCommandlet.md).[Find](ue_ue.ResavePackagesCommandlet.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:35635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35635)
-
 ___
 
 ### Load
@@ -443,10 +351,6 @@ ___
 
 [ResavePackagesCommandlet](ue_ue.ResavePackagesCommandlet.md).[Load](ue_ue.ResavePackagesCommandlet.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:35636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35636)
-
 ___
 
 ### StaticClass
@@ -460,7 +364,3 @@ ___
 #### Overrides
 
 [ResavePackagesCommandlet](ue_ue.ResavePackagesCommandlet.md).[StaticClass](ue_ue.ResavePackagesCommandlet.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:35634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35634)

@@ -20,19 +20,11 @@
 
 • **ButtonPress** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25629)
-
 ___
 
 ### ButtonRelease
 
 • **ButtonRelease** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:25629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25629)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **DownAndUp** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25629)
-
 ___
 
 ### EButtonPressMethod\_MAX
 
 • **EButtonPressMethod\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25629)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:25629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25629)

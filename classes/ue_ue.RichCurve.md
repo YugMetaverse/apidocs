@@ -40,10 +40,6 @@
 
 [RealCurve](ue_ue.RealCurve.md).[constructor](ue_ue.RealCurve.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:1656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1656)
-
 • **new RichCurve**(`Keys`)
 
 #### Parameters
@@ -56,10 +52,6 @@
 
 [RealCurve](ue_ue.RealCurve.md).[constructor](ue_ue.RealCurve.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:1657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1657)
-
 ## Properties
 
 ### DefaultValue
@@ -69,10 +61,6 @@
 #### Inherited from
 
 [RealCurve](ue_ue.RealCurve.md).[DefaultValue](ue_ue.RealCurve.md#defaultvalue)
-
-#### Defined in
-
-[ue/ue.d.ts:1621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1621)
 
 ___
 
@@ -84,19 +72,11 @@ ___
 
 [RealCurve](ue_ue.RealCurve.md).[KeyHandlesToIndices](ue_ue.RealCurve.md#keyhandlestoindices)
 
-#### Defined in
-
-[ue/ue.d.ts:1608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1608)
-
 ___
 
 ### Keys
 
 • **Keys**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`RichCurveKey`](ue_ue.RichCurveKey.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:1658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1658)
 
 ___
 
@@ -108,10 +88,6 @@ ___
 
 [RealCurve](ue_ue.RealCurve.md).[PostInfinityExtrap](ue_ue.RealCurve.md#postinfinityextrap)
 
-#### Defined in
-
-[ue/ue.d.ts:1623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1623)
-
 ___
 
 ### PreInfinityExtrap
@@ -122,19 +98,11 @@ ___
 
 [RealCurve](ue_ue.RealCurve.md).[PreInfinityExtrap](ue_ue.RealCurve.md#preinfinityextrap)
 
-#### Defined in
-
-[ue/ue.d.ts:1622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1622)
-
 ___
 
 ### \_\_tid\_RichCurve\_\_
 
 • `Private` **\_\_tid\_RichCurve\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1664)
 
 ## Methods
 
@@ -154,10 +122,6 @@ use StaticStruct instead.
 
 [RealCurve](ue_ue.RealCurve.md).[StaticClass](ue_ue.RealCurve.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:1662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1662)
-
 ___
 
 ### StaticStruct
@@ -171,7 +135,3 @@ ___
 #### Overrides
 
 [RealCurve](ue_ue.RealCurve.md).[StaticStruct](ue_ue.RealCurve.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:1663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1663)

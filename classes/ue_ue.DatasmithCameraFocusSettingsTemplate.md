@@ -27,10 +27,6 @@
 
 • **new DatasmithCameraFocusSettingsTemplate**()
 
-#### Defined in
-
-[ue/ue.d.ts:29550](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29550)
-
 • **new DatasmithCameraFocusSettingsTemplate**(`FocusMethod`, `ManualFocusDistance`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `FocusMethod` | [`ECameraFocusMethod`](../enums/ue_ue.ECameraFocusMethod.md) |
 | `ManualFocusDistance` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:29551](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29551)
-
 ## Properties
 
 ### FocusMethod
 
 • **FocusMethod**: [`ECameraFocusMethod`](../enums/ue_ue.ECameraFocusMethod.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29552)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **ManualFocusDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29553)
-
 ___
 
 ### \_\_tid\_DatasmithCameraFocusSettingsTemplate\_\_
 
 • `Private` **\_\_tid\_DatasmithCameraFocusSettingsTemplate\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29559](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29559)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29557)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29558](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29558)

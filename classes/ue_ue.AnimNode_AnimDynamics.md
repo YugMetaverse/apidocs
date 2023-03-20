@@ -83,10 +83,6 @@
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[constructor](ue_ue.AnimNode_SkeletalControlBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:17822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17822)
-
 • **new AnimNode_AnimDynamics**(`LinearDampingOverride`, `AngularDampingOverride`, `RelativeSpaceBone`, `BoundBone`, `ChainEnd`, `BoxExtents`, `LocalJointOffset`, `GravityScale`, `GravityOverride`, `LinearSpringConstant`, `AngularSpringConstant`, `WindScale`, `ComponentLinearAccScale`, `ComponentLinearVelScale`, `ComponentAppliedLinearAccClamp`, `AngularBiasOverride`, `NumSolverIterationsPreUpdate`, `NumSolverIterationsPostUpdate`, `ConstraintSetup`, `SphericalLimits`, `SphereCollisionRadius`, `ExternalForce`, `PlanarLimits`, `CollisionType`, `SimulationSpace`, `bUseSphericalLimits`, `bUsePlanarLimit`, `bDoUpdate`, `bDoEval`, `bOverrideLinearDamping`, `bOverrideAngularBias`, `bOverrideAngularDamping`, `bEnableWind`, `bUseGravityOverride`, `bLinearSpring`, `bAngularSpring`, `bChain`, `RetargetingSettings`)
 
 #### Parameters
@@ -136,10 +132,6 @@
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[constructor](ue_ue.AnimNode_SkeletalControlBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:17823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17823)
-
 ## Properties
 
 ### ActualAlpha
@@ -149,10 +141,6 @@
 #### Inherited from
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[ActualAlpha](ue_ue.AnimNode_SkeletalControlBase.md#actualalpha)
-
-#### Defined in
-
-[ue/ue.d.ts:17717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17717)
 
 ___
 
@@ -164,10 +152,6 @@ ___
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[Alpha](ue_ue.AnimNode_SkeletalControlBase.md#alpha)
 
-#### Defined in
-
-[ue/ue.d.ts:17720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17720)
-
 ___
 
 ### AlphaBoolBlend
@@ -177,10 +161,6 @@ ___
 #### Inherited from
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[AlphaBoolBlend](ue_ue.AnimNode_SkeletalControlBase.md#alphaboolblend)
-
-#### Defined in
-
-[ue/ue.d.ts:17722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17722)
 
 ___
 
@@ -192,10 +172,6 @@ ___
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[AlphaCurveName](ue_ue.AnimNode_SkeletalControlBase.md#alphacurvename)
 
-#### Defined in
-
-[ue/ue.d.ts:17723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17723)
-
 ___
 
 ### AlphaInputType
@@ -205,10 +181,6 @@ ___
 #### Inherited from
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[AlphaInputType](ue_ue.AnimNode_SkeletalControlBase.md#alphainputtype)
-
-#### Defined in
-
-[ue/ue.d.ts:17718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17718)
 
 ___
 
@@ -220,10 +192,6 @@ ___
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[AlphaScaleBias](ue_ue.AnimNode_SkeletalControlBase.md#alphascalebias)
 
-#### Defined in
-
-[ue/ue.d.ts:17721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17721)
-
 ___
 
 ### AlphaScaleBiasClamp
@@ -234,19 +202,11 @@ ___
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[AlphaScaleBiasClamp](ue_ue.AnimNode_SkeletalControlBase.md#alphascalebiasclamp)
 
-#### Defined in
-
-[ue/ue.d.ts:17724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17724)
-
 ___
 
 ### AngularBiasOverride
 
 • **AngularBiasOverride**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17839)
 
 ___
 
@@ -254,19 +214,11 @@ ___
 
 • **AngularDampingOverride**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17825](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17825)
-
 ___
 
 ### AngularSpringConstant
 
 • **AngularSpringConstant**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17834)
 
 ___
 
@@ -274,19 +226,11 @@ ___
 
 • **BoundBone**: [`BoneReference`](ue_ue.BoneReference.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17827)
-
 ___
 
 ### BoxExtents
 
 • **BoxExtents**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17829)
 
 ___
 
@@ -294,19 +238,11 @@ ___
 
 • **ChainEnd**: [`BoneReference`](ue_ue.BoneReference.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17828)
-
 ___
 
 ### CollisionType
 
 • **CollisionType**: [`AnimPhysCollisionType`](../enums/ue_ue.AnimPhysCollisionType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17847)
 
 ___
 
@@ -314,29 +250,17 @@ ___
 
 • **ComponentAppliedLinearAccClamp**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17838)
-
 ___
 
 ### ComponentLinearAccScale
 
 • **ComponentLinearAccScale**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17836)
-
 ___
 
 ### ComponentLinearVelScale
 
 • **ComponentLinearVelScale**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17837)
 
 ___
 
@@ -348,19 +272,11 @@ ___
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[ComponentPose](ue_ue.AnimNode_SkeletalControlBase.md#componentpose)
 
-#### Defined in
-
-[ue/ue.d.ts:17715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17715)
-
 ___
 
 ### ConstraintSetup
 
 • **ConstraintSetup**: [`AnimPhysConstraintSetup`](ue_ue.AnimPhysConstraintSetup.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17842)
 
 ___
 
@@ -368,29 +284,17 @@ ___
 
 • **ExternalForce**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17845](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17845)
-
 ___
 
 ### GravityOverride
 
 • **GravityOverride**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17832)
-
 ___
 
 ### GravityScale
 
 • **GravityScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17831)
 
 ___
 
@@ -402,19 +306,11 @@ ___
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[LODThreshold](ue_ue.AnimNode_SkeletalControlBase.md#lodthreshold)
 
-#### Defined in
-
-[ue/ue.d.ts:17716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17716)
-
 ___
 
 ### LinearDampingOverride
 
 • **LinearDampingOverride**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17824)
 
 ___
 
@@ -422,19 +318,11 @@ ___
 
 • **LinearSpringConstant**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17833)
-
 ___
 
 ### LocalJointOffset
 
 • **LocalJointOffset**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17830)
 
 ___
 
@@ -442,19 +330,11 @@ ___
 
 • **NumSolverIterationsPostUpdate**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17841)
-
 ___
 
 ### NumSolverIterationsPreUpdate
 
 • **NumSolverIterationsPreUpdate**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17840)
 
 ___
 
@@ -462,19 +342,11 @@ ___
 
 • **PlanarLimits**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AnimPhysPlanarLimit`](ue_ue.AnimPhysPlanarLimit.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:17846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17846)
-
 ___
 
 ### RelativeSpaceBone
 
 • **RelativeSpaceBone**: [`BoneReference`](ue_ue.BoneReference.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17826)
 
 ___
 
@@ -482,19 +354,11 @@ ___
 
 • **RetargetingSettings**: [`RotationRetargetingInfo`](ue_ue.RotationRetargetingInfo.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17861)
-
 ___
 
 ### SimulationSpace
 
 • **SimulationSpace**: [`AnimPhysSimSpaceType`](../enums/ue_ue.AnimPhysSimSpaceType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17848)
 
 ___
 
@@ -502,19 +366,11 @@ ___
 
 • **SphereCollisionRadius**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17844)
-
 ___
 
 ### SphericalLimits
 
 • **SphericalLimits**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AnimPhysSphericalLimit`](ue_ue.AnimPhysSphericalLimit.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:17843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17843)
 
 ___
 
@@ -522,19 +378,11 @@ ___
 
 • **WindScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17835](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17835)
-
 ___
 
 ### \_\_tid\_AnimNode\_AnimDynamics\_\_
 
 • `Private` **\_\_tid\_AnimNode\_AnimDynamics\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17867)
 
 ___
 
@@ -546,19 +394,11 @@ ___
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[bAlphaBoolEnabled](ue_ue.AnimNode_SkeletalControlBase.md#balphaboolenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:17719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17719)
-
 ___
 
 ### bAngularSpring
 
 • **bAngularSpring**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17859](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17859)
 
 ___
 
@@ -566,19 +406,11 @@ ___
 
 • **bChain**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:17860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17860)
-
 ___
 
 ### bDoEval
 
 • **bDoEval**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17852)
 
 ___
 
@@ -586,19 +418,11 @@ ___
 
 • **bDoUpdate**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:17851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17851)
-
 ___
 
 ### bEnableWind
 
 • **bEnableWind**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17856)
 
 ___
 
@@ -606,19 +430,11 @@ ___
 
 • **bLinearSpring**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:17858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17858)
-
 ___
 
 ### bOverrideAngularBias
 
 • **bOverrideAngularBias**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17854](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17854)
 
 ___
 
@@ -626,19 +442,11 @@ ___
 
 • **bOverrideAngularDamping**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:17855](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17855)
-
 ___
 
 ### bOverrideLinearDamping
 
 • **bOverrideLinearDamping**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17853)
 
 ___
 
@@ -646,29 +454,17 @@ ___
 
 • **bUseGravityOverride**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:17857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17857)
-
 ___
 
 ### bUsePlanarLimit
 
 • **bUsePlanarLimit**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:17850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17850)
-
 ___
 
 ### bUseSphericalLimits
 
 • **bUseSphericalLimits**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17849)
 
 ## Methods
 
@@ -688,10 +484,6 @@ use StaticStruct instead.
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[StaticClass](ue_ue.AnimNode_SkeletalControlBase.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:17865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17865)
-
 ___
 
 ### StaticStruct
@@ -705,7 +497,3 @@ ___
 #### Overrides
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[StaticStruct](ue_ue.AnimNode_SkeletalControlBase.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:17866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17866)

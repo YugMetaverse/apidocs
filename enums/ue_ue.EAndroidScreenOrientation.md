@@ -25,19 +25,11 @@
 
 • **EAndroidScreenOrientation\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16403)
-
 ___
 
 ### FullSensor
 
 • **FullSensor** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16403)
 
 ___
 
@@ -45,19 +37,11 @@ ___
 
 • **Landscape** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16403)
-
 ___
 
 ### Portrait
 
 • **Portrait** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16403)
 
 ___
 
@@ -65,19 +49,11 @@ ___
 
 • **ReverseLandscape** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16403)
-
 ___
 
 ### ReversePortrait
 
 • **ReversePortrait** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16403)
 
 ___
 
@@ -85,19 +61,11 @@ ___
 
 • **Sensor** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16403)
-
 ___
 
 ### SensorLandscape
 
 • **SensorLandscape** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16403)
 
 ___
 
@@ -105,16 +73,8 @@ ___
 
 • **SensorPortrait** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16403)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16403)

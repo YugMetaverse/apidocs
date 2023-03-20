@@ -20,19 +20,11 @@
 
 • **EMagicLeapControllerLEDSpeed\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33993)
-
 ___
 
 ### Fast
 
 • **Fast** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33993)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Medium** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33993)
-
 ___
 
 ### Slow
 
 • **Slow** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33993)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33993)

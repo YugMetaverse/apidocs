@@ -28,10 +28,6 @@
 
 • **new ToolMenuStringCommand**()
 
-#### Defined in
-
-[ue/ue.d.ts:63944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63944)
-
 • **new ToolMenuStringCommand**(`Type`, `CustomType`, `String`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `CustomType` | `string` |
 | `String` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:63945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63945)
-
 ## Properties
 
 ### CustomType
 
 • **CustomType**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:63947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63947)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **String**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:63948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63948)
-
 ___
 
 ### Type
 
 • **Type**: [`EToolMenuStringCommandType`](../enums/ue_ue.EToolMenuStringCommandType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63946)
-
 ___
 
 ### \_\_tid\_ToolMenuStringCommand\_\_
 
 • `Private` **\_\_tid\_ToolMenuStringCommand\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:63954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63954)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63952)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63953)

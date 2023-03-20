@@ -38,10 +38,6 @@
 
 [AnimNode_Root](ue_ue.AnimNode_Root.md).[constructor](ue_ue.AnimNode_Root.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:16835](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16835)
-
 ## Properties
 
 ### Group
@@ -51,10 +47,6 @@
 #### Inherited from
 
 [AnimNode_Root](ue_ue.AnimNode_Root.md).[Group](ue_ue.AnimNode_Root.md#group)
-
-#### Defined in
-
-[ue/ue.d.ts:16825](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16825)
 
 ___
 
@@ -66,10 +58,6 @@ ___
 
 [AnimNode_Root](ue_ue.AnimNode_Root.md).[Name](ue_ue.AnimNode_Root.md#name)
 
-#### Defined in
-
-[ue/ue.d.ts:16824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16824)
-
 ___
 
 ### Result
@@ -80,19 +68,11 @@ ___
 
 [AnimNode_Root](ue_ue.AnimNode_Root.md).[Result](ue_ue.AnimNode_Root.md#result)
 
-#### Defined in
-
-[ue/ue.d.ts:16823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16823)
-
 ___
 
 ### \_\_tid\_AnimNode\_StateResult\_\_
 
 • `Private` **\_\_tid\_AnimNode\_StateResult\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16841)
 
 ## Methods
 
@@ -112,10 +92,6 @@ use StaticStruct instead.
 
 [AnimNode_Root](ue_ue.AnimNode_Root.md).[StaticClass](ue_ue.AnimNode_Root.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:16839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16839)
-
 ___
 
 ### StaticStruct
@@ -129,7 +105,3 @@ ___
 #### Overrides
 
 [AnimNode_Root](ue_ue.AnimNode_Root.md).[StaticStruct](ue_ue.AnimNode_Root.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:16840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16840)

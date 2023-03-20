@@ -21,19 +21,11 @@
 
 • **TF\_Bilinear** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L468)
-
 ___
 
 ### TF\_Default
 
 • **TF\_Default** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L468)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **TF\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L468)
-
 ___
 
 ### TF\_Nearest
 
 • **TF\_Nearest** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L468)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **TF\_Trilinear** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L468)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L468)

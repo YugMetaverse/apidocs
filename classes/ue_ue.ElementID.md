@@ -42,10 +42,6 @@
 
 • **new ElementID**()
 
-#### Defined in
-
-[ue/ue.d.ts:7891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7891)
-
 • **new ElementID**(`IDValue`)
 
 #### Parameters
@@ -54,29 +50,17 @@
 | :------ | :------ |
 | `IDValue` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:7892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7892)
-
 ## Properties
 
 ### IDValue
 
 • **IDValue**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7893)
-
 ___
 
 ### \_\_tid\_ElementID\_\_
 
 • `Private` **\_\_tid\_ElementID\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7899)
 
 ## Methods
 
@@ -92,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7897)
-
 ___
 
 ### StaticStruct
@@ -105,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7898)

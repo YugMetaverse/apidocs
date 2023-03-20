@@ -54,10 +54,6 @@
 
 [PackageMap](ue_ue.PackageMap.md).[constructor](ue_ue.PackageMap.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:54323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54323)
-
 ## Properties
 
 ### \_\_tid\_Object\_\_
@@ -68,19 +64,11 @@
 
 [PackageMap](ue_ue.PackageMap.md).[__tid_Object__](ue_ue.PackageMap.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PackageMapClient\_\_
 
 • **\_\_tid\_PackageMapClient\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54328)
 
 ___
 
@@ -91,10 +79,6 @@ ___
 #### Inherited from
 
 [PackageMap](ue_ue.PackageMap.md).[__tid_PackageMap__](ue_ue.PackageMap.md#__tid_packagemap__)
-
-#### Defined in
-
-[ue/ue.d.ts:10432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10432)
 
 ## Methods
 
@@ -120,10 +104,6 @@ ___
 
 [PackageMap](ue_ue.PackageMap.md).[CreateDefaultSubobject](ue_ue.PackageMap.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -144,10 +124,6 @@ ___
 
 [PackageMap](ue_ue.PackageMap.md).[ExecuteUbergraph](ue_ue.PackageMap.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -161,10 +137,6 @@ ___
 #### Inherited from
 
 [PackageMap](ue_ue.PackageMap.md).[GetClass](ue_ue.PackageMap.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -180,10 +152,6 @@ ___
 
 [PackageMap](ue_ue.PackageMap.md).[GetName](ue_ue.PackageMap.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -198,10 +166,6 @@ ___
 
 [PackageMap](ue_ue.PackageMap.md).[GetOuter](ue_ue.PackageMap.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -215,10 +179,6 @@ ___
 #### Inherited from
 
 [PackageMap](ue_ue.PackageMap.md).[GetWorld](ue_ue.PackageMap.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -241,10 +201,6 @@ ___
 
 [PackageMap](ue_ue.PackageMap.md).[Find](ue_ue.PackageMap.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:54325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54325)
-
 ___
 
 ### Load
@@ -265,10 +221,6 @@ ___
 
 [PackageMap](ue_ue.PackageMap.md).[Load](ue_ue.PackageMap.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:54326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54326)
-
 ___
 
 ### StaticClass
@@ -282,7 +234,3 @@ ___
 #### Overrides
 
 [PackageMap](ue_ue.PackageMap.md).[StaticClass](ue_ue.PackageMap.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:54324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54324)

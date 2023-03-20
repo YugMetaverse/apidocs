@@ -19,19 +19,11 @@
 
 • **MaterialMergeType\_Default** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8601)
-
 ___
 
 ### MaterialMergeType\_MAX
 
 • **MaterialMergeType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8601)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **MaterialMergeType\_Simplygon** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8601)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8601)

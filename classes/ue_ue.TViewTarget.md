@@ -28,10 +28,6 @@
 
 • **new TViewTarget**()
 
-#### Defined in
-
-[ue/ue.d.ts:6667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6667)
-
 • **new TViewTarget**(`Target`, `POV`, `PlayerState`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `POV` | [`MinimalViewInfo`](ue_ue.MinimalViewInfo.md) |
 | `PlayerState` | [`PlayerState`](ue_ue.PlayerState.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:6668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6668)
-
 ## Properties
 
 ### POV
 
 • **POV**: [`MinimalViewInfo`](ue_ue.MinimalViewInfo.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6670)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **PlayerState**: [`PlayerState`](ue_ue.PlayerState.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6671)
-
 ___
 
 ### Target
 
 • **Target**: [`Actor`](ue_ue.Actor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6669)
-
 ___
 
 ### \_\_tid\_TViewTarget\_\_
 
 • `Private` **\_\_tid\_TViewTarget\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6677)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6675)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6676)

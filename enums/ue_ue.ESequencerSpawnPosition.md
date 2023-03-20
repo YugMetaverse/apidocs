@@ -19,19 +19,11 @@
 
 • **SSP\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34765)
-
 ___
 
 ### SSP\_Origin
 
 • **SSP\_Origin** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34765)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **SSP\_PlaceInFrontOfCamera** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34765)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34765)

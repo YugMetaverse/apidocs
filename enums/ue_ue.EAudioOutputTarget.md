@@ -20,19 +20,11 @@
 
 • **Controller** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8847)
-
 ___
 
 ### ControllerFallbackToSpeaker
 
 • **ControllerFallbackToSpeaker** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8847)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **EAudioOutputTarget\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8847)
-
 ___
 
 ### Speaker
 
 • **Speaker** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8847)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8847)

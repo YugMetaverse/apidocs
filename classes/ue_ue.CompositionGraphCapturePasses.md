@@ -26,10 +26,6 @@
 
 • **new CompositionGraphCapturePasses**()
 
-#### Defined in
-
-[ue/ue.d.ts:28464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28464)
-
 • **new CompositionGraphCapturePasses**(`Value`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Value` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:28465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28465)
-
 ## Properties
 
 ### Value
 
 • **Value**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:28466](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28466)
-
 ___
 
 ### \_\_tid\_CompositionGraphCapturePasses\_\_
 
 • `Private` **\_\_tid\_CompositionGraphCapturePasses\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:28472](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28472)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:28470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28470)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28471)

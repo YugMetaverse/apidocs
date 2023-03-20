@@ -66,10 +66,6 @@
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[constructor](ue_ue.AnimationAsset.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:2747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2747)
-
 ## Properties
 
 ### AssetMappingTable
@@ -79,10 +75,6 @@
 #### Inherited from
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[AssetMappingTable](ue_ue.AnimationAsset.md#assetmappingtable)
-
-#### Defined in
-
-[ue/ue.d.ts:2766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2766)
 
 ___
 
@@ -94,19 +86,11 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[AssetUserData](ue_ue.AnimationAsset.md#assetuserdata)
 
-#### Defined in
-
-[ue/ue.d.ts:2767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2767)
-
 ___
 
 ### BasePoseIndex
 
 • **BasePoseIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2750)
 
 ___
 
@@ -118,10 +102,6 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[ChildrenAssets](ue_ue.AnimationAsset.md#childrenassets)
 
-#### Defined in
-
-[ue/ue.d.ts:2765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2765)
-
 ___
 
 ### MetaData
@@ -131,10 +111,6 @@ ___
 #### Inherited from
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[MetaData](ue_ue.AnimationAsset.md#metadata)
-
-#### Defined in
-
-[ue/ue.d.ts:2763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2763)
 
 ___
 
@@ -146,19 +122,11 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[ParentAsset](ue_ue.AnimationAsset.md#parentasset)
 
-#### Defined in
-
-[ue/ue.d.ts:2764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2764)
-
 ___
 
 ### PoseContainer
 
 • **PoseContainer**: [`PoseDataContainer`](ue_ue.PoseDataContainer.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2748)
 
 ___
 
@@ -170,10 +138,6 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[PreviewPoseAsset](ue_ue.AnimationAsset.md#previewposeasset)
 
-#### Defined in
-
-[ue/ue.d.ts:2769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2769)
-
 ___
 
 ### PreviewSkeletalMesh
@@ -184,19 +148,11 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[PreviewSkeletalMesh](ue_ue.AnimationAsset.md#previewskeletalmesh)
 
-#### Defined in
-
-[ue/ue.d.ts:2770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2770)
-
 ___
 
 ### RetargetSource
 
 • **RetargetSource**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:2751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2751)
 
 ___
 
@@ -208,19 +164,11 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[Skeleton](ue_ue.AnimationAsset.md#skeleton)
 
-#### Defined in
-
-[ue/ue.d.ts:2762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2762)
-
 ___
 
 ### SourceAnimation
 
 • **SourceAnimation**: [`AnimSequence`](ue_ue.AnimSequence.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2752](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2752)
 
 ___
 
@@ -232,10 +180,6 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[ThumbnailInfo](ue_ue.AnimationAsset.md#thumbnailinfo)
 
-#### Defined in
-
-[ue/ue.d.ts:2768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2768)
-
 ___
 
 ### \_\_tid\_AnimationAsset\_\_
@@ -245,10 +189,6 @@ ___
 #### Inherited from
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[__tid_AnimationAsset__](ue_ue.AnimationAsset.md#__tid_animationasset__)
-
-#### Defined in
-
-[ue/ue.d.ts:2775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2775)
 
 ___
 
@@ -260,29 +200,17 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[__tid_Object__](ue_ue.AnimationAsset.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PoseAsset\_\_
 
 • **\_\_tid\_PoseAsset\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:2757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2757)
-
 ___
 
 ### bAdditivePose
 
 • **bAdditivePose**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2749)
 
 ## Methods
 
@@ -308,10 +236,6 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[CreateDefaultSubobject](ue_ue.AnimationAsset.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -332,10 +256,6 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[ExecuteUbergraph](ue_ue.AnimationAsset.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -349,10 +269,6 @@ ___
 #### Inherited from
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[GetClass](ue_ue.AnimationAsset.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -368,10 +284,6 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[GetName](ue_ue.AnimationAsset.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -386,10 +298,6 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[GetOuter](ue_ue.AnimationAsset.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -403,10 +311,6 @@ ___
 #### Inherited from
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[GetWorld](ue_ue.AnimationAsset.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -429,10 +333,6 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[Find](ue_ue.AnimationAsset.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:2754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2754)
-
 ___
 
 ### Load
@@ -453,10 +353,6 @@ ___
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[Load](ue_ue.AnimationAsset.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:2755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2755)
-
 ___
 
 ### StaticClass
@@ -470,7 +366,3 @@ ___
 #### Overrides
 
 [AnimationAsset](ue_ue.AnimationAsset.md).[StaticClass](ue_ue.AnimationAsset.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:2753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2753)

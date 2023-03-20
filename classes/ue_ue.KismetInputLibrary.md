@@ -96,10 +96,6 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[constructor](ue_ue.BlueprintFunctionLibrary.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:42185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42185)
-
 ## Properties
 
 ### \_\_tid\_BlueprintFunctionLibrary\_\_
@@ -110,19 +106,11 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_BlueprintFunctionLibrary__](ue_ue.BlueprintFunctionLibrary.md#__tid_blueprintfunctionlibrary__)
 
-#### Defined in
-
-[ue/ue.d.ts:13418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13418)
-
 ___
 
 ### \_\_tid\_KismetInputLibrary\_\_
 
 • **\_\_tid\_KismetInputLibrary\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:42234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42234)
 
 ___
 
@@ -133,10 +121,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_Object__](ue_ue.BlueprintFunctionLibrary.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -162,10 +146,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[CreateDefaultSubobject](ue_ue.BlueprintFunctionLibrary.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -186,10 +166,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[ExecuteUbergraph](ue_ue.BlueprintFunctionLibrary.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -203,10 +179,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetClass](ue_ue.BlueprintFunctionLibrary.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -222,10 +194,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetName](ue_ue.BlueprintFunctionLibrary.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -239,10 +207,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetOuter](ue_ue.BlueprintFunctionLibrary.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -258,10 +222,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetWorld](ue_ue.BlueprintFunctionLibrary.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### CalibrateTilt
@@ -271,10 +231,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:42186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42186)
 
 ___
 
@@ -293,10 +249,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:42187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42187)
-
 ___
 
 ### EqualEqual\_KeyKey
@@ -313,10 +265,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:42188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42188)
 
 ___
 
@@ -339,10 +287,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Find](ue_ue.BlueprintFunctionLibrary.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:42231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42231)
-
 ___
 
 ### GetAnalogValue
@@ -358,10 +302,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:42189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42189)
 
 ___
 
@@ -379,10 +319,6 @@ ___
 
 [`Key`](ue_ue.Key.md)
 
-#### Defined in
-
-[ue/ue.d.ts:42190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42190)
-
 ___
 
 ### GetUserIndex
@@ -398,10 +334,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:42191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42191)
 
 ___
 
@@ -419,10 +351,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:42192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42192)
-
 ___
 
 ### InputEvent\_IsAltDown
@@ -438,10 +366,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:42193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42193)
 
 ___
 
@@ -459,10 +383,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:42194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42194)
-
 ___
 
 ### InputEvent\_IsControlDown
@@ -478,10 +398,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:42195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42195)
 
 ___
 
@@ -499,10 +415,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:42196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42196)
-
 ___
 
 ### InputEvent\_IsLeftCommandDown
@@ -518,10 +430,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:42197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42197)
 
 ___
 
@@ -539,10 +447,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:42198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42198)
-
 ___
 
 ### InputEvent\_IsLeftShiftDown
@@ -558,10 +462,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:42199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42199)
 
 ___
 
@@ -579,10 +479,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:42200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42200)
-
 ___
 
 ### InputEvent\_IsRightAltDown
@@ -598,10 +494,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:42201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42201)
 
 ___
 
@@ -619,10 +511,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:42202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42202)
-
 ___
 
 ### InputEvent\_IsRightControlDown
@@ -638,10 +526,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:42203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42203)
 
 ___
 
@@ -659,10 +543,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:42204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42204)
-
 ___
 
 ### InputEvent\_IsShiftDown
@@ -678,10 +558,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:42205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42205)
 
 ___
 
@@ -699,10 +575,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:42206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42206)
-
 ___
 
 ### Key\_GetNavigationAction
@@ -718,10 +590,6 @@ ___
 #### Returns
 
 [`EUINavigationAction`](../enums/ue_ue.EUINavigationAction.md)
-
-#### Defined in
-
-[ue/ue.d.ts:42207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42207)
 
 ___
 
@@ -739,10 +607,6 @@ ___
 
 [`EUINavigationAction`](../enums/ue_ue.EUINavigationAction.md)
 
-#### Defined in
-
-[ue/ue.d.ts:42208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42208)
-
 ___
 
 ### Key\_GetNavigationDirectionFromAnalog
@@ -758,10 +622,6 @@ ___
 #### Returns
 
 [`EUINavigation`](../enums/ue_ue.EUINavigation.md)
-
-#### Defined in
-
-[ue/ue.d.ts:42209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42209)
 
 ___
 
@@ -779,10 +639,6 @@ ___
 
 [`EUINavigation`](../enums/ue_ue.EUINavigation.md)
 
-#### Defined in
-
-[ue/ue.d.ts:42210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42210)
-
 ___
 
 ### Key\_IsFloatAxis
@@ -798,10 +654,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:42211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42211)
 
 ___
 
@@ -819,10 +671,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:42212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42212)
-
 ___
 
 ### Key\_IsKeyboardKey
@@ -838,10 +686,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:42213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42213)
 
 ___
 
@@ -859,10 +703,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:42214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42214)
-
 ___
 
 ### Key\_IsMouseButton
@@ -878,10 +718,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:42215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42215)
 
 ___
 
@@ -899,10 +735,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:42216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42216)
-
 ___
 
 ### Key\_IsVectorAxis
@@ -918,10 +750,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:42217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42217)
 
 ___
 
@@ -943,10 +771,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Load](ue_ue.BlueprintFunctionLibrary.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:42232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42232)
-
 ___
 
 ### PointerEvent\_GetCursorDelta
@@ -962,10 +786,6 @@ ___
 #### Returns
 
 [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:42218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42218)
 
 ___
 
@@ -983,10 +803,6 @@ ___
 
 [`Key`](ue_ue.Key.md)
 
-#### Defined in
-
-[ue/ue.d.ts:42219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42219)
-
 ___
 
 ### PointerEvent\_GetGestureDelta
@@ -1002,10 +818,6 @@ ___
 #### Returns
 
 [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:42220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42220)
 
 ___
 
@@ -1023,10 +835,6 @@ ___
 
 [`ESlateGesture`](../enums/ue_ue.ESlateGesture.md)
 
-#### Defined in
-
-[ue/ue.d.ts:42221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42221)
-
 ___
 
 ### PointerEvent\_GetLastScreenSpacePosition
@@ -1042,10 +850,6 @@ ___
 #### Returns
 
 [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:42222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42222)
 
 ___
 
@@ -1063,10 +867,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:42223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42223)
-
 ___
 
 ### PointerEvent\_GetScreenSpacePosition
@@ -1082,10 +882,6 @@ ___
 #### Returns
 
 [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:42224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42224)
 
 ___
 
@@ -1103,10 +899,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:42225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42225)
-
 ___
 
 ### PointerEvent\_GetUserIndex
@@ -1123,10 +915,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:42226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42226)
-
 ___
 
 ### PointerEvent\_GetWheelDelta
@@ -1142,10 +930,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:42227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42227)
 
 ___
 
@@ -1164,10 +948,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:42228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42228)
-
 ___
 
 ### PointerEvent\_IsTouchEvent
@@ -1184,10 +964,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:42229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42229)
-
 ___
 
 ### StaticClass
@@ -1201,7 +977,3 @@ ___
 #### Overrides
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[StaticClass](ue_ue.BlueprintFunctionLibrary.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:42230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42230)

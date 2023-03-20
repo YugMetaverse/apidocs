@@ -31,10 +31,6 @@
 
 • **new TraceQueryTestResultsInnerMost**()
 
-#### Defined in
-
-[ue/ue.d.ts:36267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36267)
-
 • **new TraceQueryTestResultsInnerMost**(`SingleHit`, `SingleNames`, `bSingleResult`, `MultiHits`, `MultiNames`, `bMultiResult`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `MultiNames` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`TraceQueryTestNames`](ue_ue.TraceQueryTestNames.md)\> |
 | `bMultiResult` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:36268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36268)
-
 ## Properties
 
 ### MultiHits
 
 • **MultiHits**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`HitResult`](ue_ue.HitResult.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:36272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36272)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **MultiNames**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`TraceQueryTestNames`](ue_ue.TraceQueryTestNames.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:36273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36273)
-
 ___
 
 ### SingleHit
 
 • **SingleHit**: [`HitResult`](ue_ue.HitResult.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36269)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **SingleNames**: [`TraceQueryTestNames`](ue_ue.TraceQueryTestNames.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36270)
-
 ___
 
 ### \_\_tid\_TraceQueryTestResultsInnerMost\_\_
 
 • `Private` **\_\_tid\_TraceQueryTestResultsInnerMost\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36280)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **bMultiResult**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:36274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36274)
-
 ___
 
 ### bSingleResult
 
 • **bSingleResult**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36271)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36278)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36279)

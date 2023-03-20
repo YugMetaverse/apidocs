@@ -27,10 +27,6 @@
 
 • **new ChunkDependency**()
 
-#### Defined in
-
-[ue/ue.d.ts:27201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27201)
-
 • **new ChunkDependency**(`ChunkID`, `ParentChunkID`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `ChunkID` | `number` |
 | `ParentChunkID` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:27202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27202)
-
 ## Properties
 
 ### ChunkID
 
 • **ChunkID**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27203)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **ParentChunkID**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27204)
-
 ___
 
 ### \_\_tid\_ChunkDependency\_\_
 
 • `Private` **\_\_tid\_ChunkDependency\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27210)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27208)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27209)

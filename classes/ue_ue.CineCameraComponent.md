@@ -241,10 +241,6 @@
 
 [CameraComponent](ue_ue.CameraComponent.md).[constructor](ue_ue.CameraComponent.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:27332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27332)
-
 ## Properties
 
 ### AspectRatio
@@ -254,10 +250,6 @@
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[AspectRatio](ue_ue.CameraComponent.md#aspectratio)
-
-#### Defined in
-
-[ue/ue.d.ts:8160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8160)
 
 ___
 
@@ -269,10 +261,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[AssetUserData](ue_ue.CameraComponent.md#assetuserdata)
 
-#### Defined in
-
-[ue/ue.d.ts:291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L291)
-
 ___
 
 ### AttachChildren
@@ -282,10 +270,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[AttachChildren](ue_ue.CameraComponent.md#attachchildren)
-
-#### Defined in
-
-[ue/ue.d.ts:12873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12873)
 
 ___
 
@@ -297,10 +281,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[AttachParent](ue_ue.CameraComponent.md#attachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12871)
-
 ___
 
 ### AttachSocketName
@@ -310,10 +290,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[AttachSocketName](ue_ue.CameraComponent.md#attachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12872)
 
 ___
 
@@ -325,10 +301,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[CameraMesh](ue_ue.CameraComponent.md#cameramesh)
 
-#### Defined in
-
-[ue/ue.d.ts:8167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8167)
-
 ___
 
 ### ClientAttachedChildren
@@ -338,10 +310,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[ClientAttachedChildren](ue_ue.CameraComponent.md#clientattachedchildren)
-
-#### Defined in
-
-[ue/ue.d.ts:12874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12874)
 
 ___
 
@@ -353,10 +321,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[ComponentTags](ue_ue.CameraComponent.md#componenttags)
 
-#### Defined in
-
-[ue/ue.d.ts:290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L290)
-
 ___
 
 ### ComponentVelocity
@@ -366,10 +330,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[ComponentVelocity](ue_ue.CameraComponent.md#componentvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12878)
 
 ___
 
@@ -381,19 +341,11 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[CreationMethod](ue_ue.CameraComponent.md#creationmethod)
 
-#### Defined in
-
-[ue/ue.d.ts:302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L302)
-
 ___
 
 ### CurrentAperture
 
 • **CurrentAperture**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27338)
 
 ___
 
@@ -401,19 +353,11 @@ ___
 
 • **CurrentFocalLength**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27337)
-
 ___
 
 ### CurrentFocusDistance
 
 • **CurrentFocusDistance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27339)
 
 ___
 
@@ -421,19 +365,11 @@ ___
 
 • **CurrentHorizontalFOV**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27340)
-
 ___
 
 ### DebugFocusPlaneComponent
 
 • **DebugFocusPlaneComponent**: [`StaticMeshComponent`](ue_ue.StaticMeshComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27343)
 
 ___
 
@@ -441,19 +377,11 @@ ___
 
 • **DebugFocusPlaneMID**: [`MaterialInstanceDynamic`](ue_ue.MaterialInstanceDynamic.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27344](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27344)
-
 ___
 
 ### DefaultFilmbackPreset
 
 • **DefaultFilmbackPreset**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:27348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27348)
 
 ___
 
@@ -461,19 +389,11 @@ ___
 
 • **DefaultFilmbackPresetName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:27347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27347)
-
 ___
 
 ### DefaultLensFStop
 
 • **DefaultLensFStop**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27351)
 
 ___
 
@@ -481,19 +401,11 @@ ___
 
 • **DefaultLensFocalLength**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27350)
-
 ___
 
 ### DefaultLensPresetName
 
 • **DefaultLensPresetName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:27349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27349)
 
 ___
 
@@ -505,10 +417,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[DetailMode](ue_ue.CameraComponent.md#detailmode)
 
-#### Defined in
-
-[ue/ue.d.ts:12893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12893)
-
 ___
 
 ### FieldOfView
@@ -519,19 +427,11 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[FieldOfView](ue_ue.CameraComponent.md#fieldofview)
 
-#### Defined in
-
-[ue/ue.d.ts:8156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8156)
-
 ___
 
 ### Filmback
 
 • **Filmback**: [`CameraFilmbackSettings`](ue_ue.CameraFilmbackSettings.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27334)
 
 ___
 
@@ -539,19 +439,11 @@ ___
 
 • **FilmbackPresets**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`NamedFilmbackPreset`](ue_ue.NamedFilmbackPreset.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:27345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27345)
-
 ___
 
 ### FilmbackSettings
 
 • **FilmbackSettings**: [`CameraFilmbackSettings`](ue_ue.CameraFilmbackSettings.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27333)
 
 ___
 
@@ -559,19 +451,11 @@ ___
 
 • **FocusPlaneVisualizationMaterial**: [`Material`](ue_ue.Material.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27342)
-
 ___
 
 ### FocusPlaneVisualizationMesh
 
 • **FocusPlaneVisualizationMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27341)
 
 ___
 
@@ -579,29 +463,17 @@ ___
 
 • **FocusSettings**: [`CameraFocusSettings`](ue_ue.CameraFocusSettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27336)
-
 ___
 
 ### LensPresets
 
 • **LensPresets**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`NamedLensPreset`](ue_ue.NamedLensPreset.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:27346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27346)
-
 ___
 
 ### LensSettings
 
 • **LensSettings**: [`CameraLensSettings`](ue_ue.CameraLensSettings.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27335)
 
 ___
 
@@ -613,10 +485,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[Mobility](ue_ue.CameraComponent.md#mobility)
 
-#### Defined in
-
-[ue/ue.d.ts:12892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12892)
-
 ___
 
 ### OnComponentActivated
@@ -626,10 +494,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[OnComponentActivated](ue_ue.CameraComponent.md#oncomponentactivated)
-
-#### Defined in
-
-[ue/ue.d.ts:303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L303)
 
 ___
 
@@ -641,10 +505,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[OnComponentDeactivated](ue_ue.CameraComponent.md#oncomponentdeactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L304)
-
 ___
 
 ### OrthoFarClipPlane
@@ -654,10 +514,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[OrthoFarClipPlane](ue_ue.CameraComponent.md#orthofarclipplane)
-
-#### Defined in
-
-[ue/ue.d.ts:8159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8159)
 
 ___
 
@@ -669,10 +525,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[OrthoNearClipPlane](ue_ue.CameraComponent.md#orthonearclipplane)
 
-#### Defined in
-
-[ue/ue.d.ts:8158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8158)
-
 ___
 
 ### OrthoWidth
@@ -682,10 +534,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[OrthoWidth](ue_ue.CameraComponent.md#orthowidth)
-
-#### Defined in
-
-[ue/ue.d.ts:8157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8157)
 
 ___
 
@@ -697,10 +545,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[PhysicsVolume](ue_ue.CameraComponent.md#physicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12870)
-
 ___
 
 ### PhysicsVolumeChangedDelegate
@@ -710,10 +554,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[PhysicsVolumeChangedDelegate](ue_ue.CameraComponent.md#physicsvolumechangeddelegate)
-
-#### Defined in
-
-[ue/ue.d.ts:12894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12894)
 
 ___
 
@@ -725,10 +565,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[PostProcessBlendWeight](ue_ue.CameraComponent.md#postprocessblendweight)
 
-#### Defined in
-
-[ue/ue.d.ts:8168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8168)
-
 ___
 
 ### PostProcessSettings
@@ -738,10 +574,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[PostProcessSettings](ue_ue.CameraComponent.md#postprocesssettings)
-
-#### Defined in
-
-[ue/ue.d.ts:8169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8169)
 
 ___
 
@@ -753,10 +585,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[PrimaryComponentTick](ue_ue.CameraComponent.md#primarycomponenttick)
 
-#### Defined in
-
-[ue/ue.d.ts:289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L289)
-
 ___
 
 ### ProjectionMode
@@ -766,10 +594,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[ProjectionMode](ue_ue.CameraComponent.md#projectionmode)
-
-#### Defined in
-
-[ue/ue.d.ts:8166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8166)
 
 ___
 
@@ -781,10 +605,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[RelativeLocation](ue_ue.CameraComponent.md#relativelocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12875)
-
 ___
 
 ### RelativeRotation
@@ -794,10 +614,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[RelativeRotation](ue_ue.CameraComponent.md#relativerotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12876)
 
 ___
 
@@ -809,10 +625,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[RelativeScale3D](ue_ue.CameraComponent.md#relativescale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:12877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12877)
-
 ___
 
 ### UCSModifiedProperties
@@ -822,10 +634,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[UCSModifiedProperties](ue_ue.CameraComponent.md#ucsmodifiedproperties)
-
-#### Defined in
-
-[ue/ue.d.ts:305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L305)
 
 ___
 
@@ -837,10 +645,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[__tid_ActorComponent__](ue_ue.CameraComponent.md#__tid_actorcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L336)
-
 ___
 
 ### \_\_tid\_CameraComponent\_\_
@@ -851,19 +655,11 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[__tid_CameraComponent__](ue_ue.CameraComponent.md#__tid_cameracomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:8189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8189)
-
 ___
 
 ### \_\_tid\_CineCameraComponent\_\_
 
 • **\_\_tid\_CineCameraComponent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27365)
 
 ___
 
@@ -875,10 +671,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[__tid_Object__](ue_ue.CameraComponent.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_SceneComponent\_\_
@@ -888,10 +680,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[__tid_SceneComponent__](ue_ue.CameraComponent.md#__tid_scenecomponent__)
-
-#### Defined in
-
-[ue/ue.d.ts:12961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12961)
 
 ___
 
@@ -903,10 +691,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[bAbsoluteLocation](ue_ue.CameraComponent.md#babsolutelocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12880)
-
 ___
 
 ### bAbsoluteRotation
@@ -916,10 +700,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[bAbsoluteRotation](ue_ue.CameraComponent.md#babsoluterotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12881)
 
 ___
 
@@ -931,10 +711,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[bAbsoluteScale](ue_ue.CameraComponent.md#babsolutescale)
 
-#### Defined in
-
-[ue/ue.d.ts:12882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12882)
-
 ___
 
 ### bAutoActivate
@@ -944,10 +720,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[bAutoActivate](ue_ue.CameraComponent.md#bautoactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L296)
 
 ___
 
@@ -959,10 +731,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[bBoundsChangeTriggersStreamingDataRebuild](ue_ue.CameraComponent.md#bboundschangetriggersstreamingdatarebuild)
 
-#### Defined in
-
-[ue/ue.d.ts:12889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12889)
-
 ___
 
 ### bCameraMeshHiddenInGame
@@ -972,10 +740,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[bCameraMeshHiddenInGame](ue_ue.CameraComponent.md#bcamerameshhiddeningame)
-
-#### Defined in
-
-[ue/ue.d.ts:8163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8163)
 
 ___
 
@@ -987,10 +751,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[bCanEverAffectNavigation](ue_ue.CameraComponent.md#bcaneveraffectnavigation)
 
-#### Defined in
-
-[ue/ue.d.ts:299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L299)
-
 ___
 
 ### bComponentToWorldUpdated
@@ -1000,10 +760,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[bComponentToWorldUpdated](ue_ue.CameraComponent.md#bcomponenttoworldupdated)
-
-#### Defined in
-
-[ue/ue.d.ts:12879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12879)
 
 ___
 
@@ -1015,10 +771,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[bConstrainAspectRatio](ue_ue.CameraComponent.md#bconstrainaspectratio)
 
-#### Defined in
-
-[ue/ue.d.ts:8161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8161)
-
 ___
 
 ### bCreatedByConstructionScript
@@ -1028,10 +780,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[bCreatedByConstructionScript](ue_ue.CameraComponent.md#bcreatedbyconstructionscript)
-
-#### Defined in
-
-[ue/ue.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L294)
 
 ___
 
@@ -1043,10 +791,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[bEditableWhenInherited](ue_ue.CameraComponent.md#beditablewheninherited)
 
-#### Defined in
-
-[ue/ue.d.ts:298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L298)
-
 ___
 
 ### bHiddenInGame
@@ -1056,10 +800,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[bHiddenInGame](ue_ue.CameraComponent.md#bhiddeningame)
-
-#### Defined in
-
-[ue/ue.d.ts:12884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12884)
 
 ___
 
@@ -1071,10 +811,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[bInstanceComponent](ue_ue.CameraComponent.md#binstancecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L295)
-
 ___
 
 ### bIsActive
@@ -1084,10 +820,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[bIsActive](ue_ue.CameraComponent.md#bisactive)
-
-#### Defined in
-
-[ue/ue.d.ts:297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L297)
 
 ___
 
@@ -1099,10 +831,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[bIsEditorOnly](ue_ue.CameraComponent.md#biseditoronly)
 
-#### Defined in
-
-[ue/ue.d.ts:300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L300)
-
 ___
 
 ### bIsVisualizationComponent
@@ -1112,10 +840,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[bIsVisualizationComponent](ue_ue.CameraComponent.md#bisvisualizationcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L301)
 
 ___
 
@@ -1127,10 +851,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[bLockToHmd](ue_ue.CameraComponent.md#blocktohmd)
 
-#### Defined in
-
-[ue/ue.d.ts:8164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8164)
-
 ___
 
 ### bNetAddressable
@@ -1140,10 +860,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[bNetAddressable](ue_ue.CameraComponent.md#bnetaddressable)
-
-#### Defined in
-
-[ue/ue.d.ts:293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L293)
 
 ___
 
@@ -1155,10 +871,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[bReplicates](ue_ue.CameraComponent.md#breplicates)
 
-#### Defined in
-
-[ue/ue.d.ts:292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L292)
-
 ___
 
 ### bShouldBeAttached
@@ -1168,10 +880,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[bShouldBeAttached](ue_ue.CameraComponent.md#bshouldbeattached)
-
-#### Defined in
-
-[ue/ue.d.ts:12885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12885)
 
 ___
 
@@ -1183,10 +891,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[bShouldSnapLocationWhenAttached](ue_ue.CameraComponent.md#bshouldsnaplocationwhenattached)
 
-#### Defined in
-
-[ue/ue.d.ts:12886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12886)
-
 ___
 
 ### bShouldSnapRotationWhenAttached
@@ -1196,10 +900,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[bShouldSnapRotationWhenAttached](ue_ue.CameraComponent.md#bshouldsnaprotationwhenattached)
-
-#### Defined in
-
-[ue/ue.d.ts:12887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12887)
 
 ___
 
@@ -1211,10 +911,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[bShouldUpdatePhysicsVolume](ue_ue.CameraComponent.md#bshouldupdatephysicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12888)
-
 ___
 
 ### bUseAttachParentBound
@@ -1224,10 +920,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[bUseAttachParentBound](ue_ue.CameraComponent.md#buseattachparentbound)
-
-#### Defined in
-
-[ue/ue.d.ts:12890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12890)
 
 ___
 
@@ -1239,10 +931,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[bUseControllerViewRotation](ue_ue.CameraComponent.md#busecontrollerviewrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:8170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8170)
-
 ___
 
 ### bUseFieldOfViewForLOD
@@ -1252,10 +940,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[bUseFieldOfViewForLOD](ue_ue.CameraComponent.md#busefieldofviewforlod)
-
-#### Defined in
-
-[ue/ue.d.ts:8162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8162)
 
 ___
 
@@ -1267,10 +951,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[bUsePawnControlRotation](ue_ue.CameraComponent.md#busepawncontrolrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:8165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8165)
-
 ___
 
 ### bVisible
@@ -1281,10 +961,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[bVisible](ue_ue.CameraComponent.md#bvisible)
 
-#### Defined in
-
-[ue/ue.d.ts:12883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12883)
-
 ___
 
 ### bVisualizeComponent
@@ -1294,10 +970,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[bVisualizeComponent](ue_ue.CameraComponent.md#bvisualizecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12891)
 
 ## Methods
 
@@ -1318,10 +990,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[Activate](ue_ue.CameraComponent.md#activate)
-
-#### Defined in
-
-[ue/ue.d.ts:306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L306)
 
 ___
 
@@ -1344,10 +1012,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[AddOrUpdateBlendable](ue_ue.CameraComponent.md#addorupdateblendable)
 
-#### Defined in
-
-[ue/ue.d.ts:8171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8171)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -1367,10 +1031,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[AddTickPrerequisiteActor](ue_ue.CameraComponent.md#addtickprerequisiteactor)
-
-#### Defined in
-
-[ue/ue.d.ts:307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L307)
 
 ___
 
@@ -1392,10 +1052,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[AddTickPrerequisiteComponent](ue_ue.CameraComponent.md#addtickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L308)
-
 ___
 
 ### ComponentHasTag
@@ -1415,10 +1071,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[ComponentHasTag](ue_ue.CameraComponent.md#componenthastag)
-
-#### Defined in
-
-[ue/ue.d.ts:309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L309)
 
 ___
 
@@ -1444,10 +1096,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[CreateDefaultSubobject](ue_ue.CameraComponent.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### Deactivate
@@ -1461,10 +1109,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[Deactivate](ue_ue.CameraComponent.md#deactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L310)
 
 ___
 
@@ -1487,10 +1131,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[DetachFromParent](ue_ue.CameraComponent.md#detachfromparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12895)
-
 ___
 
 ### DoesSocketExist
@@ -1510,10 +1150,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[DoesSocketExist](ue_ue.CameraComponent.md#doessocketexist)
-
-#### Defined in
-
-[ue/ue.d.ts:12896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12896)
 
 ___
 
@@ -1535,10 +1171,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[ExecuteUbergraph](ue_ue.CameraComponent.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetAllSocketNames
@@ -1552,10 +1184,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[GetAllSocketNames](ue_ue.CameraComponent.md#getallsocketnames)
-
-#### Defined in
-
-[ue/ue.d.ts:12897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12897)
 
 ___
 
@@ -1571,10 +1199,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[GetAttachParent](ue_ue.CameraComponent.md#getattachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12898)
-
 ___
 
 ### GetAttachSocketName
@@ -1588,10 +1212,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[GetAttachSocketName](ue_ue.CameraComponent.md#getattachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12899)
 
 ___
 
@@ -1614,10 +1234,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[GetCameraView](ue_ue.CameraComponent.md#getcameraview)
 
-#### Defined in
-
-[ue/ue.d.ts:8172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8172)
-
 ___
 
 ### GetChildComponent
@@ -1637,10 +1253,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[GetChildComponent](ue_ue.CameraComponent.md#getchildcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12900)
 
 ___
 
@@ -1663,10 +1275,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[GetChildrenComponents](ue_ue.CameraComponent.md#getchildrencomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12901)
-
 ___
 
 ### GetClass
@@ -1680,10 +1288,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[GetClass](ue_ue.CameraComponent.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -1699,10 +1303,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[GetComponentTickInterval](ue_ue.CameraComponent.md#getcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L311)
-
 ___
 
 ### GetComponentVelocity
@@ -1717,10 +1317,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[GetComponentVelocity](ue_ue.CameraComponent.md#getcomponentvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12902)
-
 ___
 
 ### GetDefaultFilmbackPresetName
@@ -1731,10 +1327,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:27352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27352)
-
 ___
 
 ### GetFilmbackPresetName
@@ -1744,10 +1336,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:27353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27353)
 
 ___
 
@@ -1763,10 +1351,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[GetFilmbackText](ue_ue.CameraComponent.md#getfilmbacktext)
 
-#### Defined in
-
-[ue/ue.d.ts:8173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8173)
-
 ___
 
 ### GetForwardVector
@@ -1781,10 +1365,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[GetForwardVector](ue_ue.CameraComponent.md#getforwardvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12903)
-
 ___
 
 ### GetHorizontalFieldOfView
@@ -1795,10 +1375,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27354)
-
 ___
 
 ### GetLensPresetName
@@ -1808,10 +1384,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:27355](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27355)
 
 ___
 
@@ -1827,10 +1399,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[GetName](ue_ue.CameraComponent.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetNumChildrenComponents
@@ -1844,10 +1412,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[GetNumChildrenComponents](ue_ue.CameraComponent.md#getnumchildrencomponents)
-
-#### Defined in
-
-[ue/ue.d.ts:12904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12904)
 
 ___
 
@@ -1863,10 +1427,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[GetOuter](ue_ue.CameraComponent.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetOwner
@@ -1880,10 +1440,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[GetOwner](ue_ue.CameraComponent.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L312)
 
 ___
 
@@ -1905,10 +1461,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[GetParentComponents](ue_ue.CameraComponent.md#getparentcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12905)
-
 ___
 
 ### GetPhysicsVolume
@@ -1922,10 +1474,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[GetPhysicsVolume](ue_ue.CameraComponent.md#getphysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12906)
 
 ___
 
@@ -1941,10 +1489,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[GetRelativeTransform](ue_ue.CameraComponent.md#getrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12907)
-
 ___
 
 ### GetRightVector
@@ -1959,10 +1503,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[GetRightVector](ue_ue.CameraComponent.md#getrightvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12908)
-
 ___
 
 ### GetShouldUpdatePhysicsVolume
@@ -1976,10 +1516,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[GetShouldUpdatePhysicsVolume](ue_ue.CameraComponent.md#getshouldupdatephysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12909)
 
 ___
 
@@ -2001,10 +1537,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[GetSocketLocation](ue_ue.CameraComponent.md#getsocketlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12910)
-
 ___
 
 ### GetSocketQuaternion
@@ -2025,10 +1557,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[GetSocketQuaternion](ue_ue.CameraComponent.md#getsocketquaternion)
 
-#### Defined in
-
-[ue/ue.d.ts:12911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12911)
-
 ___
 
 ### GetSocketRotation
@@ -2048,10 +1576,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[GetSocketRotation](ue_ue.CameraComponent.md#getsocketrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12912)
 
 ___
 
@@ -2074,10 +1598,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[GetSocketTransform](ue_ue.CameraComponent.md#getsockettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12913)
-
 ___
 
 ### GetUpVector
@@ -2092,10 +1612,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[GetUpVector](ue_ue.CameraComponent.md#getupvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12914)
-
 ___
 
 ### GetVerticalFieldOfView
@@ -2105,10 +1621,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27356)
 
 ___
 
@@ -2124,10 +1636,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[GetWorld](ue_ue.CameraComponent.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### IsActive
@@ -2141,10 +1649,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[IsActive](ue_ue.CameraComponent.md#isactive)
-
-#### Defined in
-
-[ue/ue.d.ts:313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L313)
 
 ___
 
@@ -2160,10 +1664,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[IsAnySimulatingPhysics](ue_ue.CameraComponent.md#isanysimulatingphysics)
 
-#### Defined in
-
-[ue/ue.d.ts:12915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12915)
-
 ___
 
 ### IsBeingDestroyed
@@ -2178,10 +1678,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[IsBeingDestroyed](ue_ue.CameraComponent.md#isbeingdestroyed)
 
-#### Defined in
-
-[ue/ue.d.ts:314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L314)
-
 ___
 
 ### IsComponentTickEnabled
@@ -2195,10 +1691,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[IsComponentTickEnabled](ue_ue.CameraComponent.md#iscomponenttickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L315)
 
 ___
 
@@ -2220,10 +1712,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[IsSimulatingPhysics](ue_ue.CameraComponent.md#issimulatingphysics)
 
-#### Defined in
-
-[ue/ue.d.ts:12916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12916)
-
 ___
 
 ### IsVisible
@@ -2237,10 +1725,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[IsVisible](ue_ue.CameraComponent.md#isvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:12917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12917)
 
 ___
 
@@ -2265,10 +1749,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[K2_AddLocalOffset](ue_ue.CameraComponent.md#k2_addlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:12918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12918)
-
 ___
 
 ### K2\_AddLocalRotation
@@ -2291,10 +1771,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[K2_AddLocalRotation](ue_ue.CameraComponent.md#k2_addlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12919)
 
 ___
 
@@ -2319,10 +1795,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[K2_AddLocalTransform](ue_ue.CameraComponent.md#k2_addlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12920)
-
 ___
 
 ### K2\_AddRelativeLocation
@@ -2345,10 +1817,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[K2_AddRelativeLocation](ue_ue.CameraComponent.md#k2_addrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12921)
 
 ___
 
@@ -2373,10 +1841,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[K2_AddRelativeRotation](ue_ue.CameraComponent.md#k2_addrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12922)
-
 ___
 
 ### K2\_AddWorldOffset
@@ -2399,10 +1863,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[K2_AddWorldOffset](ue_ue.CameraComponent.md#k2_addworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:12923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12923)
 
 ___
 
@@ -2427,10 +1887,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[K2_AddWorldRotation](ue_ue.CameraComponent.md#k2_addworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12924)
-
 ___
 
 ### K2\_AddWorldTransform
@@ -2454,10 +1910,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[K2_AddWorldTransform](ue_ue.CameraComponent.md#k2_addworldtransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12925)
-
 ___
 
 ### K2\_AttachTo
@@ -2480,10 +1932,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[K2_AttachTo](ue_ue.CameraComponent.md#k2_attachto)
-
-#### Defined in
-
-[ue/ue.d.ts:12926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12926)
 
 ___
 
@@ -2510,10 +1958,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[K2_AttachToComponent](ue_ue.CameraComponent.md#k2_attachtocomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12927)
-
 ___
 
 ### K2\_DestroyComponent
@@ -2533,10 +1977,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[K2_DestroyComponent](ue_ue.CameraComponent.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L316)
 
 ___
 
@@ -2561,10 +2001,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[K2_DetachFromComponent](ue_ue.CameraComponent.md#k2_detachfromcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12928)
-
 ___
 
 ### K2\_GetComponentLocation
@@ -2578,10 +2014,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[K2_GetComponentLocation](ue_ue.CameraComponent.md#k2_getcomponentlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12929)
 
 ___
 
@@ -2597,10 +2029,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[K2_GetComponentRotation](ue_ue.CameraComponent.md#k2_getcomponentrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12930)
-
 ___
 
 ### K2\_GetComponentScale
@@ -2615,10 +2043,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[K2_GetComponentScale](ue_ue.CameraComponent.md#k2_getcomponentscale)
 
-#### Defined in
-
-[ue/ue.d.ts:12931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12931)
-
 ___
 
 ### K2\_GetComponentToWorld
@@ -2632,10 +2056,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[K2_GetComponentToWorld](ue_ue.CameraComponent.md#k2_getcomponenttoworld)
-
-#### Defined in
-
-[ue/ue.d.ts:12932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12932)
 
 ___
 
@@ -2659,10 +2079,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[K2_SetRelativeLocation](ue_ue.CameraComponent.md#k2_setrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12933)
 
 ___
 
@@ -2688,10 +2104,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[K2_SetRelativeLocationAndRotation](ue_ue.CameraComponent.md#k2_setrelativelocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12934)
-
 ___
 
 ### K2\_SetRelativeRotation
@@ -2714,10 +2126,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[K2_SetRelativeRotation](ue_ue.CameraComponent.md#k2_setrelativerotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12935)
 
 ___
 
@@ -2742,10 +2150,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[K2_SetRelativeTransform](ue_ue.CameraComponent.md#k2_setrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12936)
-
 ___
 
 ### K2\_SetWorldLocation
@@ -2768,10 +2172,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[K2_SetWorldLocation](ue_ue.CameraComponent.md#k2_setworldlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12937)
 
 ___
 
@@ -2797,10 +2197,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[K2_SetWorldLocationAndRotation](ue_ue.CameraComponent.md#k2_setworldlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12938)
-
 ___
 
 ### K2\_SetWorldRotation
@@ -2823,10 +2219,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[K2_SetWorldRotation](ue_ue.CameraComponent.md#k2_setworldrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12939)
 
 ___
 
@@ -2851,10 +2243,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[K2_SetWorldTransform](ue_ue.CameraComponent.md#k2_setworldtransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12940)
-
 ___
 
 ### OnCameraMeshHiddenChanged
@@ -2868,10 +2256,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[OnCameraMeshHiddenChanged](ue_ue.CameraComponent.md#oncamerameshhiddenchanged)
-
-#### Defined in
-
-[ue/ue.d.ts:8174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8174)
 
 ___
 
@@ -2887,10 +2271,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[OnRep_AttachChildren](ue_ue.CameraComponent.md#onrep_attachchildren)
 
-#### Defined in
-
-[ue/ue.d.ts:12941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12941)
-
 ___
 
 ### OnRep\_AttachParent
@@ -2904,10 +2284,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[OnRep_AttachParent](ue_ue.CameraComponent.md#onrep_attachparent)
-
-#### Defined in
-
-[ue/ue.d.ts:12942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12942)
 
 ___
 
@@ -2923,10 +2299,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[OnRep_AttachSocketName](ue_ue.CameraComponent.md#onrep_attachsocketname)
 
-#### Defined in
-
-[ue/ue.d.ts:12943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12943)
-
 ___
 
 ### OnRep\_IsActive
@@ -2941,10 +2313,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[OnRep_IsActive](ue_ue.CameraComponent.md#onrep_isactive)
 
-#### Defined in
-
-[ue/ue.d.ts:317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L317)
-
 ___
 
 ### OnRep\_Transform
@@ -2958,10 +2326,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[OnRep_Transform](ue_ue.CameraComponent.md#onrep_transform)
-
-#### Defined in
-
-[ue/ue.d.ts:12944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12944)
 
 ___
 
@@ -2983,10 +2347,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[OnRep_Visibility](ue_ue.CameraComponent.md#onrep_visibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12945)
-
 ___
 
 ### ReceiveBeginPlay
@@ -3000,10 +2360,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[ReceiveBeginPlay](ue_ue.CameraComponent.md#receivebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L318)
 
 ___
 
@@ -3025,10 +2381,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[ReceiveEndPlay](ue_ue.CameraComponent.md#receiveendplay)
 
-#### Defined in
-
-[ue/ue.d.ts:319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L319)
-
 ___
 
 ### ReceiveTick
@@ -3049,10 +2401,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[ReceiveTick](ue_ue.CameraComponent.md#receivetick)
 
-#### Defined in
-
-[ue/ue.d.ts:320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L320)
-
 ___
 
 ### RegisterComponent
@@ -3066,10 +2414,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[RegisterComponent](ue_ue.CameraComponent.md#registercomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L321)
 
 ___
 
@@ -3091,10 +2435,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[RemoveBlendable](ue_ue.CameraComponent.md#removeblendable)
 
-#### Defined in
-
-[ue/ue.d.ts:8175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8175)
-
 ___
 
 ### RemoveTickPrerequisiteActor
@@ -3114,10 +2454,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[RemoveTickPrerequisiteActor](ue_ue.CameraComponent.md#removetickprerequisiteactor)
-
-#### Defined in
-
-[ue/ue.d.ts:322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L322)
 
 ___
 
@@ -3139,10 +2475,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[RemoveTickPrerequisiteComponent](ue_ue.CameraComponent.md#removetickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L323)
-
 ___
 
 ### ResetRelativeTransform
@@ -3156,10 +2488,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[ResetRelativeTransform](ue_ue.CameraComponent.md#resetrelativetransform)
-
-#### Defined in
-
-[ue/ue.d.ts:12946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12946)
 
 ___
 
@@ -3183,10 +2511,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[SetAbsolute](ue_ue.CameraComponent.md#setabsolute)
 
-#### Defined in
-
-[ue/ue.d.ts:12947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12947)
-
 ___
 
 ### SetActive
@@ -3208,10 +2532,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[SetActive](ue_ue.CameraComponent.md#setactive)
 
-#### Defined in
-
-[ue/ue.d.ts:324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L324)
-
 ___
 
 ### SetAspectRatio
@@ -3231,10 +2551,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[SetAspectRatio](ue_ue.CameraComponent.md#setaspectratio)
-
-#### Defined in
-
-[ue/ue.d.ts:8176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8176)
 
 ___
 
@@ -3256,10 +2572,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[SetAutoActivate](ue_ue.CameraComponent.md#setautoactivate)
 
-#### Defined in
-
-[ue/ue.d.ts:325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L325)
-
 ___
 
 ### SetComponentTickEnabled
@@ -3279,10 +2591,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[SetComponentTickEnabled](ue_ue.CameraComponent.md#setcomponenttickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L326)
 
 ___
 
@@ -3304,10 +2612,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[SetComponentTickInterval](ue_ue.CameraComponent.md#setcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L327)
-
 ___
 
 ### SetConstraintAspectRatio
@@ -3328,10 +2632,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[SetConstraintAspectRatio](ue_ue.CameraComponent.md#setconstraintaspectratio)
 
-#### Defined in
-
-[ue/ue.d.ts:8177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8177)
-
 ___
 
 ### SetCurrentFocalLength
@@ -3347,10 +2647,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:27357](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27357)
 
 ___
 
@@ -3372,10 +2668,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[SetFieldOfView](ue_ue.CameraComponent.md#setfieldofview)
 
-#### Defined in
-
-[ue/ue.d.ts:8178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8178)
-
 ___
 
 ### SetFilmbackPresetByName
@@ -3391,10 +2683,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:27358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27358)
 
 ___
 
@@ -3417,10 +2705,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[SetHiddenInGame](ue_ue.CameraComponent.md#sethiddeningame)
 
-#### Defined in
-
-[ue/ue.d.ts:12948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12948)
-
 ___
 
 ### SetIsReplicated
@@ -3441,10 +2725,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[SetIsReplicated](ue_ue.CameraComponent.md#setisreplicated)
 
-#### Defined in
-
-[ue/ue.d.ts:328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L328)
-
 ___
 
 ### SetLensPresetByName
@@ -3460,10 +2740,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:27359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27359)
 
 ___
 
@@ -3485,10 +2761,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[SetMobility](ue_ue.CameraComponent.md#setmobility)
 
-#### Defined in
-
-[ue/ue.d.ts:12949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12949)
-
 ___
 
 ### SetOrthoFarClipPlane
@@ -3508,10 +2780,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[SetOrthoFarClipPlane](ue_ue.CameraComponent.md#setorthofarclipplane)
-
-#### Defined in
-
-[ue/ue.d.ts:8179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8179)
 
 ___
 
@@ -3533,10 +2801,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[SetOrthoNearClipPlane](ue_ue.CameraComponent.md#setorthonearclipplane)
 
-#### Defined in
-
-[ue/ue.d.ts:8180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8180)
-
 ___
 
 ### SetOrthoWidth
@@ -3556,10 +2820,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[SetOrthoWidth](ue_ue.CameraComponent.md#setorthowidth)
-
-#### Defined in
-
-[ue/ue.d.ts:8181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8181)
 
 ___
 
@@ -3581,10 +2841,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[SetPostProcessBlendWeight](ue_ue.CameraComponent.md#setpostprocessblendweight)
 
-#### Defined in
-
-[ue/ue.d.ts:8182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8182)
-
 ___
 
 ### SetProjectionMode
@@ -3604,10 +2860,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[SetProjectionMode](ue_ue.CameraComponent.md#setprojectionmode)
-
-#### Defined in
-
-[ue/ue.d.ts:8183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8183)
 
 ___
 
@@ -3629,10 +2881,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[SetRelativeScale3D](ue_ue.CameraComponent.md#setrelativescale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:12950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12950)
-
 ___
 
 ### SetShouldUpdatePhysicsVolume
@@ -3652,10 +2900,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[SetShouldUpdatePhysicsVolume](ue_ue.CameraComponent.md#setshouldupdatephysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12951)
 
 ___
 
@@ -3677,10 +2921,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[SetTickGroup](ue_ue.CameraComponent.md#settickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L330)
-
 ___
 
 ### SetTickableWhenPaused
@@ -3701,10 +2941,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[SetTickableWhenPaused](ue_ue.CameraComponent.md#settickablewhenpaused)
 
-#### Defined in
-
-[ue/ue.d.ts:329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L329)
-
 ___
 
 ### SetUseFieldOfViewForLOD
@@ -3724,10 +2960,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[SetUseFieldOfViewForLOD](ue_ue.CameraComponent.md#setusefieldofviewforlod)
-
-#### Defined in
-
-[ue/ue.d.ts:8184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8184)
 
 ___
 
@@ -3750,10 +2982,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[SetVisibility](ue_ue.CameraComponent.md#setvisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12953)
-
 ___
 
 ### SetWorldScale3D
@@ -3773,10 +3001,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[SetWorldScale3D](ue_ue.CameraComponent.md#setworldscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:12954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12954)
 
 ___
 
@@ -3799,10 +3023,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[SetupAttachment](ue_ue.CameraComponent.md#setupattachment)
 
-#### Defined in
-
-[ue/ue.d.ts:12952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12952)
-
 ___
 
 ### SnapTo
@@ -3824,10 +3044,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[SnapTo](ue_ue.CameraComponent.md#snapto)
 
-#### Defined in
-
-[ue/ue.d.ts:12955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12955)
-
 ___
 
 ### ToggleActive
@@ -3841,10 +3057,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[ToggleActive](ue_ue.CameraComponent.md#toggleactive)
-
-#### Defined in
-
-[ue/ue.d.ts:331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L331)
 
 ___
 
@@ -3865,10 +3077,6 @@ ___
 #### Inherited from
 
 [CameraComponent](ue_ue.CameraComponent.md).[ToggleVisibility](ue_ue.CameraComponent.md#togglevisibility)
-
-#### Defined in
-
-[ue/ue.d.ts:12956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12956)
 
 ___
 
@@ -3891,10 +3099,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[Find](ue_ue.CameraComponent.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:27362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27362)
-
 ___
 
 ### GetLensPresetsCopy
@@ -3904,10 +3108,6 @@ ___
 #### Returns
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`NamedLensPreset`](ue_ue.NamedLensPreset.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:27360](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27360)
 
 ___
 
@@ -3929,10 +3129,6 @@ ___
 
 [CameraComponent](ue_ue.CameraComponent.md).[Load](ue_ue.CameraComponent.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:27363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27363)
-
 ___
 
 ### StaticClass
@@ -3946,7 +3142,3 @@ ___
 #### Overrides
 
 [CameraComponent](ue_ue.CameraComponent.md).[StaticClass](ue_ue.CameraComponent.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:27361](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27361)

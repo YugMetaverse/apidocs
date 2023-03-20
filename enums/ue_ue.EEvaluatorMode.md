@@ -20,19 +20,11 @@
 
 • **EM\_DelayedFreeze** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19899)
-
 ___
 
 ### EM\_Freeze
 
 • **EM\_Freeze** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19899)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **EM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19899)
-
 ___
 
 ### EM\_Standard
 
 • **EM\_Standard** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19899)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19899)

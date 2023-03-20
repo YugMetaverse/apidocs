@@ -26,10 +26,6 @@
 
 • **new AIMoveRequest**()
 
-#### Defined in
-
-[ue/ue.d.ts:16119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16119)
-
 • **new AIMoveRequest**(`GoalActor`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `GoalActor` | [`Actor`](ue_ue.Actor.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:16120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16120)
-
 ## Properties
 
 ### GoalActor
 
 • **GoalActor**: [`Actor`](ue_ue.Actor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:16121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16121)
-
 ___
 
 ### \_\_tid\_AIMoveRequest\_\_
 
 • `Private` **\_\_tid\_AIMoveRequest\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16127)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:16125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16125)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:16126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16126)

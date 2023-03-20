@@ -39,10 +39,6 @@
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[constructor](ue_ue.SlateWidgetStyle.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:28211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28211)
-
 • **new ComboButtonStyle**(`ButtonStyle`, `DownArrowImage`, `MenuBorderBrush`, `MenuBorderPadding`)
 
 #### Parameters
@@ -58,19 +54,11 @@
 
 UE.SlateWidgetStyle.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:28212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28212)
-
 ## Properties
 
 ### ButtonStyle
 
 • **ButtonStyle**: [`ButtonStyle`](ue_ue.ButtonStyle.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28213)
 
 ___
 
@@ -78,19 +66,11 @@ ___
 
 • **DownArrowImage**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:28214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28214)
-
 ___
 
 ### MenuBorderBrush
 
 • **MenuBorderBrush**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28215)
 
 ___
 
@@ -98,19 +78,11 @@ ___
 
 • **MenuBorderPadding**: [`Margin`](ue_ue.Margin.md)
 
-#### Defined in
-
-[ue/ue.d.ts:28216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28216)
-
 ___
 
 ### \_\_tid\_ComboButtonStyle\_\_
 
 • `Private` **\_\_tid\_ComboButtonStyle\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:28222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28222)
 
 ## Methods
 
@@ -130,10 +102,6 @@ use StaticStruct instead.
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[StaticClass](ue_ue.SlateWidgetStyle.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:28220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28220)
-
 ___
 
 ### StaticStruct
@@ -147,7 +115,3 @@ ___
 #### Overrides
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[StaticStruct](ue_ue.SlateWidgetStyle.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:28221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28221)

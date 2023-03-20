@@ -37,10 +37,6 @@
 
 [LightmassParameterValue](ue_ue.LightmassParameterValue.md).[constructor](ue_ue.LightmassParameterValue.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:47363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47363)
-
 • **new LightmassBooleanParameterValue**(`ParameterValue`)
 
 #### Parameters
@@ -53,29 +49,17 @@
 
 [LightmassParameterValue](ue_ue.LightmassParameterValue.md).[constructor](ue_ue.LightmassParameterValue.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:47364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47364)
-
 ## Properties
 
 ### ParameterValue
 
 • **ParameterValue**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:47365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47365)
-
 ___
 
 ### \_\_tid\_LightmassBooleanParameterValue\_\_
 
 • `Private` **\_\_tid\_LightmassBooleanParameterValue\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:47371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47371)
 
 ___
 
@@ -86,10 +70,6 @@ ___
 #### Inherited from
 
 [LightmassParameterValue](ue_ue.LightmassParameterValue.md).[bOverride](ue_ue.LightmassParameterValue.md#boverride)
-
-#### Defined in
-
-[ue/ue.d.ts:47353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47353)
 
 ## Methods
 
@@ -109,10 +89,6 @@ use StaticStruct instead.
 
 [LightmassParameterValue](ue_ue.LightmassParameterValue.md).[StaticClass](ue_ue.LightmassParameterValue.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:47369](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47369)
-
 ___
 
 ### StaticStruct
@@ -126,7 +102,3 @@ ___
 #### Overrides
 
 [LightmassParameterValue](ue_ue.LightmassParameterValue.md).[StaticStruct](ue_ue.LightmassParameterValue.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:47370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47370)

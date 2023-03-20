@@ -26,19 +26,11 @@
 
 • **LVT\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33945)
-
 ___
 
 ### LVT\_None
 
 • **LVT\_None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33945)
 
 ___
 
@@ -46,19 +38,11 @@ ___
 
 • **LVT\_OrthoFreelook** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33945)
-
 ___
 
 ### LVT\_OrthoNegativeXY
 
 • **LVT\_OrthoNegativeXY** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33945)
 
 ___
 
@@ -66,19 +50,11 @@ ___
 
 • **LVT\_OrthoNegativeXZ** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33945)
-
 ___
 
 ### LVT\_OrthoNegativeYZ
 
 • **LVT\_OrthoNegativeYZ** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33945)
 
 ___
 
@@ -86,19 +62,11 @@ ___
 
 • **LVT\_OrthoXY** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33945)
-
 ___
 
 ### LVT\_OrthoXZ
 
 • **LVT\_OrthoXZ** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33945)
 
 ___
 
@@ -106,26 +74,14 @@ ___
 
 • **LVT\_OrthoYZ** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33945)
-
 ___
 
 ### LVT\_Perspective
 
 • **LVT\_Perspective** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33945)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33945)

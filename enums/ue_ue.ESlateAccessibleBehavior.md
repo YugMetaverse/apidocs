@@ -22,19 +22,11 @@
 
 • **Auto** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10723)
-
 ___
 
 ### Custom
 
 • **Custom** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10723)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **ESlateAccessibleBehavior\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10723)
-
 ___
 
 ### NotAccessible
 
 • **NotAccessible** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10723)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **Summary** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10723)
-
 ___
 
 ### ToolTip
 
 • **ToolTip** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10723)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10723)

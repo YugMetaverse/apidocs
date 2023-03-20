@@ -28,10 +28,6 @@
 
 • **new MovieSceneObjectBindingID**()
 
-#### Defined in
-
-[ue/ue.d.ts:11495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11495)
-
 • **new MovieSceneObjectBindingID**(`SequenceID`, `Space`, `Guid`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Space` | [`EMovieSceneObjectBindingSpace`](../enums/ue_ue.EMovieSceneObjectBindingSpace.md) |
 | `Guid` | [`Guid`](ue_ue_s.Guid.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:11496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11496)
-
 ## Properties
 
 ### Guid
 
 • **Guid**: [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11499)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **SequenceID**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11497)
-
 ___
 
 ### Space
 
 • **Space**: [`EMovieSceneObjectBindingSpace`](../enums/ue_ue.EMovieSceneObjectBindingSpace.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11498)
-
 ___
 
 ### \_\_tid\_MovieSceneObjectBindingID\_\_
 
 • `Private` **\_\_tid\_MovieSceneObjectBindingID\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11505)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11503)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11504)

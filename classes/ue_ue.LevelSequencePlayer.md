@@ -115,10 +115,6 @@
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[constructor](ue_ue.MovieSceneSequencePlayer.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:22656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22656)
-
 ## Properties
 
 ### CurrentNumLoops
@@ -128,10 +124,6 @@
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[CurrentNumLoops](ue_ue.MovieSceneSequencePlayer.md#currentnumloops)
-
-#### Defined in
-
-[ue/ue.d.ts:14231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14231)
 
 ___
 
@@ -143,10 +135,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[DurationFrames](ue_ue.MovieSceneSequencePlayer.md#durationframes)
 
-#### Defined in
-
-[ue/ue.d.ts:14230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14230)
-
 ___
 
 ### NetSyncProps
@@ -157,19 +145,11 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[NetSyncProps](ue_ue.MovieSceneSequencePlayer.md#netsyncprops)
 
-#### Defined in
-
-[ue/ue.d.ts:14234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14234)
-
 ___
 
 ### OnCameraCut
 
 • **OnCameraCut**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`CameraComponent`: [`$Nullable`](../modules/puerts.md#$nullable)<[`CameraComponent`](ue_ue.CameraComponent.md)\>) => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:22657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22657)
 
 ___
 
@@ -181,10 +161,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[OnFinished](ue_ue.MovieSceneSequencePlayer.md#onfinished)
 
-#### Defined in
-
-[ue/ue.d.ts:14225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14225)
-
 ___
 
 ### OnPause
@@ -194,10 +170,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[OnPause](ue_ue.MovieSceneSequencePlayer.md#onpause)
-
-#### Defined in
-
-[ue/ue.d.ts:14224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14224)
 
 ___
 
@@ -209,10 +181,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[OnPlay](ue_ue.MovieSceneSequencePlayer.md#onplay)
 
-#### Defined in
-
-[ue/ue.d.ts:14221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14221)
-
 ___
 
 ### OnPlayReverse
@@ -222,10 +190,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[OnPlayReverse](ue_ue.MovieSceneSequencePlayer.md#onplayreverse)
-
-#### Defined in
-
-[ue/ue.d.ts:14222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14222)
 
 ___
 
@@ -237,10 +201,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[OnStop](ue_ue.MovieSceneSequencePlayer.md#onstop)
 
-#### Defined in
-
-[ue/ue.d.ts:14223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14223)
-
 ___
 
 ### PlaybackClient
@@ -250,10 +210,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[PlaybackClient](ue_ue.MovieSceneSequencePlayer.md#playbackclient)
-
-#### Defined in
-
-[ue/ue.d.ts:14235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14235)
 
 ___
 
@@ -265,10 +221,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[PlaybackSettings](ue_ue.MovieSceneSequencePlayer.md#playbacksettings)
 
-#### Defined in
-
-[ue/ue.d.ts:14232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14232)
-
 ___
 
 ### RootTemplateInstance
@@ -278,10 +230,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[RootTemplateInstance](ue_ue.MovieSceneSequencePlayer.md#roottemplateinstance)
-
-#### Defined in
-
-[ue/ue.d.ts:14233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14233)
 
 ___
 
@@ -293,10 +241,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[Sequence](ue_ue.MovieSceneSequencePlayer.md#sequence)
 
-#### Defined in
-
-[ue/ue.d.ts:14228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14228)
-
 ___
 
 ### StartTime
@@ -306,10 +250,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[StartTime](ue_ue.MovieSceneSequencePlayer.md#starttime)
-
-#### Defined in
-
-[ue/ue.d.ts:14229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14229)
 
 ___
 
@@ -321,19 +261,11 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[Status](ue_ue.MovieSceneSequencePlayer.md#status)
 
-#### Defined in
-
-[ue/ue.d.ts:14226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14226)
-
 ___
 
 ### \_\_tid\_LevelSequencePlayer\_\_
 
 • **\_\_tid\_LevelSequencePlayer\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22664)
 
 ___
 
@@ -345,10 +277,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[__tid_MovieSceneSequencePlayer__](ue_ue.MovieSceneSequencePlayer.md#__tid_moviescenesequenceplayer__)
 
-#### Defined in
-
-[ue/ue.d.ts:14285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14285)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -359,10 +287,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[__tid_Object__](ue_ue.MovieSceneSequencePlayer.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bReversePlayback
@@ -372,10 +296,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[bReversePlayback](ue_ue.MovieSceneSequencePlayer.md#breverseplayback)
-
-#### Defined in
-
-[ue/ue.d.ts:14227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14227)
 
 ## Methods
 
@@ -390,10 +310,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[ChangePlaybackDirection](ue_ue.MovieSceneSequencePlayer.md#changeplaybackdirection)
-
-#### Defined in
-
-[ue/ue.d.ts:14236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14236)
 
 ___
 
@@ -419,10 +335,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[CreateDefaultSubobject](ue_ue.MovieSceneSequencePlayer.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -443,10 +355,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[ExecuteUbergraph](ue_ue.MovieSceneSequencePlayer.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetActiveCameraComponent
@@ -456,10 +364,6 @@ ___
 #### Returns
 
 [`CameraComponent`](ue_ue.CameraComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22658)
 
 ___
 
@@ -481,10 +385,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[GetBoundObjects](ue_ue.MovieSceneSequencePlayer.md#getboundobjects)
 
-#### Defined in
-
-[ue/ue.d.ts:14237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14237)
-
 ___
 
 ### GetClass
@@ -498,10 +398,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[GetClass](ue_ue.MovieSceneSequencePlayer.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -517,10 +413,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[GetCurrentTime](ue_ue.MovieSceneSequencePlayer.md#getcurrenttime)
 
-#### Defined in
-
-[ue/ue.d.ts:14238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14238)
-
 ___
 
 ### GetDisableCameraCuts
@@ -534,10 +426,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[GetDisableCameraCuts](ue_ue.MovieSceneSequencePlayer.md#getdisablecameracuts)
-
-#### Defined in
-
-[ue/ue.d.ts:14239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14239)
 
 ___
 
@@ -553,10 +441,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[GetDuration](ue_ue.MovieSceneSequencePlayer.md#getduration)
 
-#### Defined in
-
-[ue/ue.d.ts:14240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14240)
-
 ___
 
 ### GetEndTime
@@ -570,10 +454,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[GetEndTime](ue_ue.MovieSceneSequencePlayer.md#getendtime)
-
-#### Defined in
-
-[ue/ue.d.ts:14241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14241)
 
 ___
 
@@ -589,10 +469,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[GetFrameDuration](ue_ue.MovieSceneSequencePlayer.md#getframeduration)
 
-#### Defined in
-
-[ue/ue.d.ts:14242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14242)
-
 ___
 
 ### GetFrameRate
@@ -606,10 +482,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[GetFrameRate](ue_ue.MovieSceneSequencePlayer.md#getframerate)
-
-#### Defined in
-
-[ue/ue.d.ts:14243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14243)
 
 ___
 
@@ -625,10 +497,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[GetLength](ue_ue.MovieSceneSequencePlayer.md#getlength)
 
-#### Defined in
-
-[ue/ue.d.ts:14244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14244)
-
 ___
 
 ### GetName
@@ -642,10 +510,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[GetName](ue_ue.MovieSceneSequencePlayer.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -667,10 +531,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[GetObjectBindings](ue_ue.MovieSceneSequencePlayer.md#getobjectbindings)
 
-#### Defined in
-
-[ue/ue.d.ts:14245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14245)
-
 ___
 
 ### GetOuter
@@ -684,10 +544,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[GetOuter](ue_ue.MovieSceneSequencePlayer.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -703,10 +559,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[GetPlayRate](ue_ue.MovieSceneSequencePlayer.md#getplayrate)
 
-#### Defined in
-
-[ue/ue.d.ts:14249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14249)
-
 ___
 
 ### GetPlaybackEnd
@@ -720,10 +572,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[GetPlaybackEnd](ue_ue.MovieSceneSequencePlayer.md#getplaybackend)
-
-#### Defined in
-
-[ue/ue.d.ts:14246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14246)
 
 ___
 
@@ -739,10 +587,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[GetPlaybackPosition](ue_ue.MovieSceneSequencePlayer.md#getplaybackposition)
 
-#### Defined in
-
-[ue/ue.d.ts:14247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14247)
-
 ___
 
 ### GetPlaybackStart
@@ -756,10 +600,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[GetPlaybackStart](ue_ue.MovieSceneSequencePlayer.md#getplaybackstart)
-
-#### Defined in
-
-[ue/ue.d.ts:14248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14248)
 
 ___
 
@@ -775,10 +615,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[GetStartTime](ue_ue.MovieSceneSequencePlayer.md#getstarttime)
 
-#### Defined in
-
-[ue/ue.d.ts:14250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14250)
-
 ___
 
 ### GetWorld
@@ -792,10 +628,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[GetWorld](ue_ue.MovieSceneSequencePlayer.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -811,10 +643,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[GoToEndAndStop](ue_ue.MovieSceneSequencePlayer.md#gotoendandstop)
 
-#### Defined in
-
-[ue/ue.d.ts:14251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14251)
-
 ___
 
 ### IsPaused
@@ -828,10 +656,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[IsPaused](ue_ue.MovieSceneSequencePlayer.md#ispaused)
-
-#### Defined in
-
-[ue/ue.d.ts:14252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14252)
 
 ___
 
@@ -847,10 +671,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[IsPlaying](ue_ue.MovieSceneSequencePlayer.md#isplaying)
 
-#### Defined in
-
-[ue/ue.d.ts:14253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14253)
-
 ___
 
 ### IsReversed
@@ -864,10 +684,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[IsReversed](ue_ue.MovieSceneSequencePlayer.md#isreversed)
-
-#### Defined in
-
-[ue/ue.d.ts:14254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14254)
 
 ___
 
@@ -889,10 +705,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[JumpToFrame](ue_ue.MovieSceneSequencePlayer.md#jumptoframe)
 
-#### Defined in
-
-[ue/ue.d.ts:14255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14255)
-
 ___
 
 ### JumpToMarkedFrame
@@ -912,10 +724,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[JumpToMarkedFrame](ue_ue.MovieSceneSequencePlayer.md#jumptomarkedframe)
-
-#### Defined in
-
-[ue/ue.d.ts:14256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14256)
 
 ___
 
@@ -937,10 +745,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[JumpToPosition](ue_ue.MovieSceneSequencePlayer.md#jumptoposition)
 
-#### Defined in
-
-[ue/ue.d.ts:14257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14257)
-
 ___
 
 ### JumpToSeconds
@@ -961,10 +765,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[JumpToSeconds](ue_ue.MovieSceneSequencePlayer.md#jumptoseconds)
 
-#### Defined in
-
-[ue/ue.d.ts:14258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14258)
-
 ___
 
 ### Pause
@@ -979,10 +779,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[Pause](ue_ue.MovieSceneSequencePlayer.md#pause)
 
-#### Defined in
-
-[ue/ue.d.ts:14259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14259)
-
 ___
 
 ### Play
@@ -996,10 +792,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[Play](ue_ue.MovieSceneSequencePlayer.md#play)
-
-#### Defined in
-
-[ue/ue.d.ts:14260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14260)
 
 ___
 
@@ -1021,10 +813,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[PlayLooping](ue_ue.MovieSceneSequencePlayer.md#playlooping)
 
-#### Defined in
-
-[ue/ue.d.ts:14261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14261)
-
 ___
 
 ### PlayReverse
@@ -1038,10 +826,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[PlayReverse](ue_ue.MovieSceneSequencePlayer.md#playreverse)
-
-#### Defined in
-
-[ue/ue.d.ts:14262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14262)
 
 ___
 
@@ -1063,10 +847,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[PlayToFrame](ue_ue.MovieSceneSequencePlayer.md#playtoframe)
 
-#### Defined in
-
-[ue/ue.d.ts:14263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14263)
-
 ___
 
 ### PlayToMarkedFrame
@@ -1087,10 +867,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[PlayToMarkedFrame](ue_ue.MovieSceneSequencePlayer.md#playtomarkedframe)
 
-#### Defined in
-
-[ue/ue.d.ts:14264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14264)
-
 ___
 
 ### PlayToSeconds
@@ -1110,10 +886,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[PlayToSeconds](ue_ue.MovieSceneSequencePlayer.md#playtoseconds)
-
-#### Defined in
-
-[ue/ue.d.ts:14265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14265)
 
 ___
 
@@ -1136,10 +908,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[RPC_ExplicitServerUpdateEvent](ue_ue.MovieSceneSequencePlayer.md#rpc_explicitserverupdateevent)
 
-#### Defined in
-
-[ue/ue.d.ts:14266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14266)
-
 ___
 
 ### RPC\_OnStopEvent
@@ -1160,10 +928,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[RPC_OnStopEvent](ue_ue.MovieSceneSequencePlayer.md#rpc_onstopevent)
 
-#### Defined in
-
-[ue/ue.d.ts:14267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14267)
-
 ___
 
 ### Scrub
@@ -1177,10 +941,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[Scrub](ue_ue.MovieSceneSequencePlayer.md#scrub)
-
-#### Defined in
-
-[ue/ue.d.ts:14268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14268)
 
 ___
 
@@ -1202,10 +962,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[ScrubToFrame](ue_ue.MovieSceneSequencePlayer.md#scrubtoframe)
 
-#### Defined in
-
-[ue/ue.d.ts:14269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14269)
-
 ___
 
 ### ScrubToMarkedFrame
@@ -1225,10 +981,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[ScrubToMarkedFrame](ue_ue.MovieSceneSequencePlayer.md#scrubtomarkedframe)
-
-#### Defined in
-
-[ue/ue.d.ts:14270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14270)
 
 ___
 
@@ -1250,10 +1002,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[ScrubToSeconds](ue_ue.MovieSceneSequencePlayer.md#scrubtoseconds)
 
-#### Defined in
-
-[ue/ue.d.ts:14271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14271)
-
 ___
 
 ### SetDisableCameraCuts
@@ -1273,10 +1021,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[SetDisableCameraCuts](ue_ue.MovieSceneSequencePlayer.md#setdisablecameracuts)
-
-#### Defined in
-
-[ue/ue.d.ts:14272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14272)
 
 ___
 
@@ -1299,10 +1043,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[SetFrameRange](ue_ue.MovieSceneSequencePlayer.md#setframerange)
 
-#### Defined in
-
-[ue/ue.d.ts:14273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14273)
-
 ___
 
 ### SetFrameRate
@@ -1322,10 +1062,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[SetFrameRate](ue_ue.MovieSceneSequencePlayer.md#setframerate)
-
-#### Defined in
-
-[ue/ue.d.ts:14274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14274)
 
 ___
 
@@ -1347,10 +1083,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[SetPlayRate](ue_ue.MovieSceneSequencePlayer.md#setplayrate)
 
-#### Defined in
-
-[ue/ue.d.ts:14277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14277)
-
 ___
 
 ### SetPlaybackPosition
@@ -1370,10 +1102,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[SetPlaybackPosition](ue_ue.MovieSceneSequencePlayer.md#setplaybackposition)
-
-#### Defined in
-
-[ue/ue.d.ts:14275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14275)
 
 ___
 
@@ -1396,10 +1124,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[SetPlaybackRange](ue_ue.MovieSceneSequencePlayer.md#setplaybackrange)
 
-#### Defined in
-
-[ue/ue.d.ts:14276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14276)
-
 ___
 
 ### SetTimeRange
@@ -1421,10 +1145,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[SetTimeRange](ue_ue.MovieSceneSequencePlayer.md#settimerange)
 
-#### Defined in
-
-[ue/ue.d.ts:14278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14278)
-
 ___
 
 ### Stop
@@ -1439,10 +1159,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[Stop](ue_ue.MovieSceneSequencePlayer.md#stop)
 
-#### Defined in
-
-[ue/ue.d.ts:14279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14279)
-
 ___
 
 ### StopAtCurrentTime
@@ -1456,10 +1172,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[StopAtCurrentTime](ue_ue.MovieSceneSequencePlayer.md#stopatcurrenttime)
-
-#### Defined in
-
-[ue/ue.d.ts:14280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14280)
 
 ___
 
@@ -1479,10 +1191,6 @@ ___
 #### Returns
 
 [`LevelSequencePlayer`](ue_ue.LevelSequencePlayer.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22659)
 
 ___
 
@@ -1505,10 +1213,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[Find](ue_ue.MovieSceneSequencePlayer.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:22661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22661)
-
 ___
 
 ### Load
@@ -1529,10 +1233,6 @@ ___
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[Load](ue_ue.MovieSceneSequencePlayer.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:22662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22662)
-
 ___
 
 ### StaticClass
@@ -1546,7 +1246,3 @@ ___
 #### Overrides
 
 [MovieSceneSequencePlayer](ue_ue.MovieSceneSequencePlayer.md).[StaticClass](ue_ue.MovieSceneSequencePlayer.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:22660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22660)

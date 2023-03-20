@@ -77,19 +77,11 @@
 
 [EngineSubsystem](ue_ue.EngineSubsystem.md).[constructor](ue_ue.EngineSubsystem.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:21895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21895)
-
 ## Properties
 
 ### \_\_tid\_AssetTagsSubsystem\_\_
 
 • **\_\_tid\_AssetTagsSubsystem\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21923)
 
 ___
 
@@ -101,10 +93,6 @@ ___
 
 [EngineSubsystem](ue_ue.EngineSubsystem.md).[__tid_DynamicSubsystem__](ue_ue.EngineSubsystem.md#__tid_dynamicsubsystem__)
 
-#### Defined in
-
-[ue/ue.d.ts:21573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21573)
-
 ___
 
 ### \_\_tid\_EngineSubsystem\_\_
@@ -114,10 +102,6 @@ ___
 #### Inherited from
 
 [EngineSubsystem](ue_ue.EngineSubsystem.md).[__tid_EngineSubsystem__](ue_ue.EngineSubsystem.md#__tid_enginesubsystem__)
-
-#### Defined in
-
-[ue/ue.d.ts:21890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21890)
 
 ___
 
@@ -129,10 +113,6 @@ ___
 
 [EngineSubsystem](ue_ue.EngineSubsystem.md).[__tid_Object__](ue_ue.EngineSubsystem.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_Subsystem\_\_
@@ -142,10 +122,6 @@ ___
 #### Inherited from
 
 [EngineSubsystem](ue_ue.EngineSubsystem.md).[__tid_Subsystem__](ue_ue.EngineSubsystem.md#__tid_subsystem__)
-
-#### Defined in
-
-[ue/ue.d.ts:21564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21564)
 
 ## Methods
 
@@ -164,10 +140,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:21897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21897)
-
 ___
 
 ### AddAssetDatasToCollection
@@ -184,10 +156,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21896)
 
 ___
 
@@ -206,10 +174,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:21899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21899)
-
 ___
 
 ### AddAssetPtrsToCollection
@@ -226,10 +190,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21898)
 
 ___
 
@@ -248,10 +208,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:21901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21901)
-
 ___
 
 ### AddAssetsToCollection
@@ -269,10 +225,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:21900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21900)
-
 ___
 
 ### CollectionExists
@@ -288,10 +240,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21902)
 
 ___
 
@@ -309,10 +257,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21903)
 
 ___
 
@@ -338,10 +282,6 @@ ___
 
 [EngineSubsystem](ue_ue.EngineSubsystem.md).[CreateDefaultSubobject](ue_ue.EngineSubsystem.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### DestroyCollection
@@ -358,10 +298,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:21904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21904)
-
 ___
 
 ### EmptyCollection
@@ -377,10 +313,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21905)
 
 ___
 
@@ -402,10 +334,6 @@ ___
 
 [EngineSubsystem](ue_ue.EngineSubsystem.md).[ExecuteUbergraph](ue_ue.EngineSubsystem.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetAssetsInCollection
@@ -422,10 +350,6 @@ ___
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AssetData`](ue_ue.AssetData.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:21906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21906)
-
 ___
 
 ### GetClass
@@ -440,10 +364,6 @@ ___
 
 [EngineSubsystem](ue_ue.EngineSubsystem.md).[GetClass](ue_ue.EngineSubsystem.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetCollections
@@ -453,10 +373,6 @@ ___
 #### Returns
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:21907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21907)
 
 ___
 
@@ -474,10 +390,6 @@ ___
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:21908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21908)
-
 ___
 
 ### GetCollectionsContainingAssetData
@@ -493,10 +405,6 @@ ___
 #### Returns
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:21909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21909)
 
 ___
 
@@ -514,10 +422,6 @@ ___
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:21910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21910)
-
 ___
 
 ### GetName
@@ -531,10 +435,6 @@ ___
 #### Inherited from
 
 [EngineSubsystem](ue_ue.EngineSubsystem.md).[GetName](ue_ue.EngineSubsystem.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -550,10 +450,6 @@ ___
 
 [EngineSubsystem](ue_ue.EngineSubsystem.md).[GetOuter](ue_ue.EngineSubsystem.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -567,10 +463,6 @@ ___
 #### Inherited from
 
 [EngineSubsystem](ue_ue.EngineSubsystem.md).[GetWorld](ue_ue.EngineSubsystem.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -589,10 +481,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:21911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21911)
-
 ___
 
 ### RemoveAssetDatasFromCollection
@@ -609,10 +497,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21912)
 
 ___
 
@@ -631,10 +515,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:21913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21913)
-
 ___
 
 ### RemoveAssetPtrFromCollection
@@ -651,10 +531,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21914)
 
 ___
 
@@ -673,10 +549,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:21915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21915)
-
 ___
 
 ### RemoveAssetsFromCollection
@@ -693,10 +565,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21916)
 
 ___
 
@@ -715,10 +583,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:21917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21917)
-
 ___
 
 ### ReparentCollection
@@ -735,10 +599,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21918)
 
 ___
 
@@ -761,10 +621,6 @@ ___
 
 [EngineSubsystem](ue_ue.EngineSubsystem.md).[Find](ue_ue.EngineSubsystem.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:21920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21920)
-
 ___
 
 ### Load
@@ -785,10 +641,6 @@ ___
 
 [EngineSubsystem](ue_ue.EngineSubsystem.md).[Load](ue_ue.EngineSubsystem.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:21921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21921)
-
 ___
 
 ### StaticClass
@@ -802,7 +654,3 @@ ___
 #### Overrides
 
 [EngineSubsystem](ue_ue.EngineSubsystem.md).[StaticClass](ue_ue.EngineSubsystem.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:21919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21919)

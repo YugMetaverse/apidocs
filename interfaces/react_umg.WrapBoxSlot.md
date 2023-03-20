@@ -26,19 +26,11 @@
 
 • `Optional` **FillSpanWhenLessThan**: `number`
 
-#### Defined in
-
-[react-umg/index.d.ts:123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L123)
-
 ___
 
 ### HorizontalAlignment
 
 • `Optional` **HorizontalAlignment**: [`EHorizontalAlignment`](../enums/ue_ue.EHorizontalAlignment.md)
-
-#### Defined in
-
-[react-umg/index.d.ts:124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L124)
 
 ___
 
@@ -46,26 +38,14 @@ ___
 
 • `Optional` **Padding**: [`RecursivePartial`](../modules/react_umg.md#recursivepartial)<[`Margin`](../classes/ue_ue.Margin.md)\>
 
-#### Defined in
-
-[react-umg/index.d.ts:121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L121)
-
 ___
 
 ### VerticalAlignment
 
 • `Optional` **VerticalAlignment**: [`EVerticalAlignment`](../enums/ue_ue.EVerticalAlignment.md)
 
-#### Defined in
-
-[react-umg/index.d.ts:125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L125)
-
 ___
 
 ### bFillEmptySpace
 
 • `Optional` **bFillEmptySpace**: `boolean`
-
-#### Defined in
-
-[react-umg/index.d.ts:122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L122)

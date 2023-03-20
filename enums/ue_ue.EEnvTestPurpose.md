@@ -20,19 +20,11 @@
 
 • **EEnvTestPurpose\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15485)
-
 ___
 
 ### Filter
 
 • **Filter** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15485)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **FilterAndScore** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15485)
-
 ___
 
 ### Score
 
 • **Score** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15485)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15485)

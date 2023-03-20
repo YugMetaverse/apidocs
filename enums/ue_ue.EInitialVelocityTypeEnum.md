@@ -20,19 +20,11 @@
 
 • **Chaos\_Initial\_Velocity\_None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26614)
-
 ___
 
 ### Chaos\_Initial\_Velocity\_User\_Defined
 
 • **Chaos\_Initial\_Velocity\_User\_Defined** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26614)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Chaos\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26614)
-
 ___
 
 ### Chaos\_Max
 
 • **Chaos\_Max** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26614)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26614)

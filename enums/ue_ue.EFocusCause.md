@@ -23,19 +23,11 @@
 
 • **Cleared** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33868)
-
 ___
 
 ### EFocusCause\_MAX
 
 • **EFocusCause\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33868)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **Mouse** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33868)
-
 ___
 
 ### Navigation
 
 • **Navigation** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33868)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **OtherWidgetLostFocus** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33868)
-
 ___
 
 ### SetDirectly
 
 • **SetDirectly** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33868)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **WindowActivate** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33868)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33868)

@@ -28,10 +28,6 @@
 
 • **new DatasmithCameraLookatTrackingSettingsTemplate**()
 
-#### Defined in
-
-[ue/ue.d.ts:29501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29501)
-
 • **new DatasmithCameraLookatTrackingSettingsTemplate**(`bEnableLookAtTracking`, `bAllowRoll`, `ActorToTrack`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `bAllowRoll` | `boolean` |
 | `ActorToTrack` | [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`Actor`](ue_ue.Actor.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:29502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29502)
-
 ## Properties
 
 ### ActorToTrack
 
 • **ActorToTrack**: [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`Actor`](ue_ue.Actor.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:29505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29505)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • `Private` **\_\_tid\_DatasmithCameraLookatTrackingSettingsTemplate\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:29511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29511)
-
 ___
 
 ### bAllowRoll
 
 • **bAllowRoll**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:29504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29504)
-
 ___
 
 ### bEnableLookAtTracking
 
 • **bEnableLookAtTracking**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29503)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29509)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29510)

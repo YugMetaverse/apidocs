@@ -27,19 +27,11 @@
 
 • **EMPMatchOutcome\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34069)
-
 ___
 
 ### First
 
 • **First** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34069)
 
 ___
 
@@ -47,19 +39,11 @@ ___
 
 • **Fourth** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34069)
-
 ___
 
 ### Lost
 
 • **Lost** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34069)
 
 ___
 
@@ -67,19 +51,11 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34069)
-
 ___
 
 ### Quit
 
 • **Quit** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34069)
 
 ___
 
@@ -87,19 +63,11 @@ ___
 
 • **Second** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34069)
-
 ___
 
 ### Third
 
 • **Third** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34069)
 
 ___
 
@@ -107,19 +75,11 @@ ___
 
 • **Tied** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34069)
-
 ___
 
 ### TimeExpired
 
 • **TimeExpired** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34069)
 
 ___
 
@@ -127,16 +87,8 @@ ___
 
 • **Won** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34069)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34069)

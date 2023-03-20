@@ -19,19 +19,11 @@
 
 • **BuiltIn** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33853)
-
 ___
 
 ### EFBXNormalGenerationMethod\_MAX
 
 • **EFBXNormalGenerationMethod\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33853)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **MikkTSpace** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33853)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33853)

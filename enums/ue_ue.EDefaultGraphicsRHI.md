@@ -21,19 +21,11 @@
 
 • **DefaultGraphicsRHI\_DX11** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31433)
-
 ___
 
 ### DefaultGraphicsRHI\_DX12
 
 • **DefaultGraphicsRHI\_DX12** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31433)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **DefaultGraphicsRHI\_Default** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31433)
-
 ___
 
 ### DefaultGraphicsRHI\_MAX
 
 • **DefaultGraphicsRHI\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31433)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **DefaultGraphicsRHI\_Vulkan** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31433)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31433)

@@ -30,10 +30,6 @@
 
 • **new ReplicatedVehicleState**()
 
-#### Defined in
-
-[ue/ue.d.ts:60480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60480)
-
 • **new ReplicatedVehicleState**(`SteeringInput`, `ThrottleInput`, `BrakeInput`, `HandbrakeInput`, `CurrentGear`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `HandbrakeInput` | `number` |
 | `CurrentGear` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:60481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60481)
-
 ## Properties
 
 ### BrakeInput
 
 • **BrakeInput**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:60484](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60484)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **CurrentGear**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:60486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60486)
-
 ___
 
 ### HandbrakeInput
 
 • **HandbrakeInput**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:60485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60485)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **SteeringInput**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:60482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60482)
-
 ___
 
 ### ThrottleInput
 
 • **ThrottleInput**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:60483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60483)
-
 ___
 
 ### \_\_tid\_ReplicatedVehicleState\_\_
 
 • `Private` **\_\_tid\_ReplicatedVehicleState\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:60492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60492)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:60490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60490)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:60491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60491)

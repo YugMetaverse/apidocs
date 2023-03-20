@@ -62,19 +62,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:14718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14718)
-
 ## Properties
 
 ### PathPoints
 
 • **PathPoints**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Vector`](ue_ue_s.Vector.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:14720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14720)
 
 ___
 
@@ -82,29 +74,17 @@ ___
 
 • **PathUpdatedNotifier**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`AffectedPath`: [`$Nullable`](../modules/puerts.md#$nullable)<[`NavigationPath`](ue_ue.NavigationPath.md)\>, `PathEvent`: [`ENavPathEvent`](../enums/ue_ue.ENavPathEvent.md)) => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:14719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14719)
-
 ___
 
 ### RecalculateOnInvalidation
 
 • **RecalculateOnInvalidation**: [`ENavigationOptionFlag`](../enums/ue_ue.ENavigationOptionFlag.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14721)
-
 ___
 
 ### \_\_tid\_NavigationPath\_\_
 
 • **\_\_tid\_NavigationPath\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14734)
 
 ___
 
@@ -115,10 +95,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -144,10 +120,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### EnableDebugDrawing
@@ -165,10 +137,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:14722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14722)
-
 ___
 
 ### EnableRecalculationOnInvalidation
@@ -184,10 +152,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:14723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14723)
 
 ___
 
@@ -209,10 +173,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -227,10 +187,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetDebugString
@@ -240,10 +196,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:14724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14724)
 
 ___
 
@@ -259,10 +211,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -277,10 +225,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetPathCost
@@ -291,10 +235,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14725)
-
 ___
 
 ### GetPathLength
@@ -304,10 +244,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14726)
 
 ___
 
@@ -323,10 +259,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### IsPartial
@@ -336,10 +268,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14727)
 
 ___
 
@@ -351,10 +279,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:14728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14728)
-
 ___
 
 ### IsValid
@@ -364,10 +288,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14729)
 
 ___
 
@@ -390,10 +310,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:14731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14731)
-
 ___
 
 ### Load
@@ -414,10 +330,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:14732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14732)
-
 ___
 
 ### StaticClass
@@ -431,7 +343,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:14730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14730)

@@ -27,10 +27,6 @@
 
 • **new TemplateMapInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:64731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64731)
-
 • **new TemplateMapInfo**(`ThumbnailTexture`, `Map`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `ThumbnailTexture` | [`Texture2D`](ue_ue.Texture2D.md) |
 | `Map` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:64732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64732)
-
 ## Properties
 
 ### Map
 
 • **Map**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:64734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64734)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **ThumbnailTexture**: [`Texture2D`](ue_ue.Texture2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64733)
-
 ___
 
 ### \_\_tid\_TemplateMapInfo\_\_
 
 • `Private` **\_\_tid\_TemplateMapInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64740)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64738)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:64739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64739)

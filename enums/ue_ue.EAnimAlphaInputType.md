@@ -20,19 +20,11 @@
 
 • **Bool** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17646)
-
 ___
 
 ### Curve
 
 • **Curve** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17646)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **EAnimAlphaInputType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17646)
-
 ___
 
 ### Float
 
 • **Float** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17646)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17646)

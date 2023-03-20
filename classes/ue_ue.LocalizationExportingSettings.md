@@ -28,10 +28,6 @@
 
 • **new LocalizationExportingSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:46118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46118)
-
 • **new LocalizationExportingSettings**(`CollapseMode`, `ShouldPersistCommentsOnExport`, `ShouldAddSourceLocationsAsComments`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `ShouldPersistCommentsOnExport` | `boolean` |
 | `ShouldAddSourceLocationsAsComments` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:46119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46119)
-
 ## Properties
 
 ### CollapseMode
 
 • **CollapseMode**: [`ELocalizedTextCollapseMode`](../enums/ue_ue.ELocalizedTextCollapseMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46120)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **ShouldAddSourceLocationsAsComments**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46122)
-
 ___
 
 ### ShouldPersistCommentsOnExport
 
 • **ShouldPersistCommentsOnExport**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46121)
-
 ___
 
 ### \_\_tid\_LocalizationExportingSettings\_\_
 
 • `Private` **\_\_tid\_LocalizationExportingSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46128)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46126)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46127)

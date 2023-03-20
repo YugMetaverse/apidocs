@@ -139,19 +139,11 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[constructor](ue_ue.BlueprintFunctionLibrary.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:16603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16603)
-
 ## Properties
 
 ### \_\_tid\_AnimationBlueprintLibrary\_\_
 
 • **\_\_tid\_AnimationBlueprintLibrary\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16695)
 
 ___
 
@@ -163,10 +155,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_BlueprintFunctionLibrary__](ue_ue.BlueprintFunctionLibrary.md#__tid_blueprintfunctionlibrary__)
 
-#### Defined in
-
-[ue/ue.d.ts:13418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13418)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -176,10 +164,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_Object__](ue_ue.BlueprintFunctionLibrary.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -205,10 +189,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[CreateDefaultSubobject](ue_ue.BlueprintFunctionLibrary.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -229,10 +209,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[ExecuteUbergraph](ue_ue.BlueprintFunctionLibrary.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -246,10 +222,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetClass](ue_ue.BlueprintFunctionLibrary.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -265,10 +237,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetName](ue_ue.BlueprintFunctionLibrary.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -283,10 +251,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetOuter](ue_ue.BlueprintFunctionLibrary.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -300,10 +264,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetWorld](ue_ue.BlueprintFunctionLibrary.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -324,10 +284,6 @@ ___
 
 [`AnimNotify`](ue_ue.AnimNotify.md)
 
-#### Defined in
-
-[ue/ue.d.ts:16604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16604)
-
 ___
 
 ### AddAnimationNotifyEventObject
@@ -346,10 +302,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16605)
 
 ___
 
@@ -371,10 +323,6 @@ ___
 
 [`AnimNotifyState`](ue_ue.AnimNotifyState.md)
 
-#### Defined in
-
-[ue/ue.d.ts:16606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16606)
-
 ___
 
 ### AddAnimationNotifyStateEventObject
@@ -395,10 +343,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16607)
-
 ___
 
 ### AddAnimationNotifyTrack
@@ -416,10 +360,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16608)
 
 ___
 
@@ -440,10 +380,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16609)
-
 ___
 
 ### AddCurve
@@ -462,10 +398,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16610)
 
 ___
 
@@ -486,10 +418,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16611](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16611)
-
 ___
 
 ### AddFloatCurveKeys
@@ -509,10 +437,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16612)
-
 ___
 
 ### AddMetaData
@@ -531,10 +455,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16613)
-
 ___
 
 ### AddMetaDataObject
@@ -551,10 +471,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16614)
 
 ___
 
@@ -575,10 +491,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16615)
-
 ___
 
 ### AddTransformationCurveKeys
@@ -597,10 +509,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16616)
 
 ___
 
@@ -621,10 +529,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16617)
-
 ___
 
 ### AddVectorCurveKeys
@@ -643,10 +547,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16618)
 
 ___
 
@@ -667,10 +567,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16619)
-
 ___
 
 ### ContainsMetaDataOfClass
@@ -688,10 +584,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16620)
-
 ___
 
 ### CopyAnimNotifiesFromSequence
@@ -708,10 +600,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16621)
 
 ___
 
@@ -731,10 +619,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16622)
-
 ___
 
 ### DoesCurveExist
@@ -753,10 +637,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16623)
-
 ___
 
 ### FinalizeBoneAnimation
@@ -772,10 +652,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16624)
 
 ___
 
@@ -798,10 +674,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Find](ue_ue.BlueprintFunctionLibrary.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:16692](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16692)
-
 ___
 
 ### FindBonePathToRoot
@@ -820,10 +692,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16625)
-
 ___
 
 ### GetAdditiveAnimationType
@@ -840,10 +708,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16626)
 
 ___
 
@@ -862,10 +726,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16627)
-
 ___
 
 ### GetAnimNotifyEventTriggerTime
@@ -881,10 +741,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16636)
 
 ___
 
@@ -903,10 +759,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16628)
-
 ___
 
 ### GetAnimationNotifyEventNames
@@ -924,10 +776,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16629)
-
 ___
 
 ### GetAnimationNotifyEvents
@@ -944,10 +792,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16630)
 
 ___
 
@@ -967,10 +811,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16631](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16631)
-
 ___
 
 ### GetAnimationNotifyTrackNames
@@ -988,10 +828,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16632)
-
 ___
 
 ### GetAnimationSyncMarkers
@@ -1008,10 +844,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16633)
 
 ___
 
@@ -1031,10 +863,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16634)
-
 ___
 
 ### GetAnimationTrackNames
@@ -1051,10 +879,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16635)
 
 ___
 
@@ -1076,10 +900,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16637)
-
 ___
 
 ### GetBonePoseForTime
@@ -1099,10 +919,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16638)
 
 ___
 
@@ -1125,10 +941,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16639)
-
 ___
 
 ### GetBonePosesForTime
@@ -1150,10 +962,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16640)
-
 ___
 
 ### GetCompressionScheme
@@ -1170,10 +978,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16641)
 
 ___
 
@@ -1194,10 +998,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16642)
-
 ___
 
 ### GetFrameAtTime
@@ -1216,10 +1016,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16643)
-
 ___
 
 ### GetMetaData
@@ -1236,10 +1032,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16644)
 
 ___
 
@@ -1259,10 +1051,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16645)
-
 ___
 
 ### GetNumFrames
@@ -1280,10 +1068,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16646)
-
 ___
 
 ### GetRateScale
@@ -1300,10 +1084,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16647)
 
 ___
 
@@ -1325,10 +1105,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16648)
-
 ___
 
 ### GetRawTrackPositionData
@@ -1346,10 +1122,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16649)
 
 ___
 
@@ -1369,10 +1141,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16650)
-
 ___
 
 ### GetRawTrackScaleData
@@ -1391,10 +1159,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16651)
-
 ___
 
 ### GetRootMotionLockType
@@ -1411,10 +1175,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16652)
 
 ___
 
@@ -1433,10 +1193,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16653)
-
 ___
 
 ### GetTimeAtFrame
@@ -1454,10 +1210,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16654)
 
 ___
 
@@ -1478,10 +1230,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16655)
-
 ___
 
 ### GetUniqueMarkerNames
@@ -1498,10 +1246,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16656)
 
 ___
 
@@ -1522,10 +1266,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16657)
-
 ___
 
 ### IsRootMotionEnabled
@@ -1542,10 +1282,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16658)
-
 ___
 
 ### IsRootMotionLockForced
@@ -1561,10 +1297,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16659)
 
 ___
 
@@ -1583,10 +1315,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16661)
-
 ___
 
 ### IsValidAnimationSyncMarkerName
@@ -1603,10 +1331,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16660)
 
 ___
 
@@ -1625,10 +1349,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16662)
-
 ___
 
 ### IsValidTime
@@ -1646,10 +1366,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16663)
 
 ___
 
@@ -1671,10 +1387,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Load](ue_ue.BlueprintFunctionLibrary.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:16693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16693)
-
 ___
 
 ### RemoveAllAnimationNotifyTracks
@@ -1690,10 +1402,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16664)
 
 ___
 
@@ -1711,10 +1419,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16665)
-
 ___
 
 ### RemoveAllBoneAnimation
@@ -1730,10 +1434,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16666)
 
 ___
 
@@ -1751,10 +1451,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16667)
-
 ___
 
 ### RemoveAllMetaData
@@ -1771,10 +1467,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16668)
-
 ___
 
 ### RemoveAllVirtualBones
@@ -1790,10 +1482,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16669)
 
 ___
 
@@ -1812,10 +1500,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16670)
-
 ___
 
 ### RemoveAnimationNotifyEventsByTrack
@@ -1832,10 +1516,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16671)
 
 ___
 
@@ -1854,10 +1534,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16672)
-
 ___
 
 ### RemoveAnimationSyncMarkersByName
@@ -1875,10 +1551,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16673)
-
 ___
 
 ### RemoveAnimationSyncMarkersByTrack
@@ -1895,10 +1567,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16674)
 
 ___
 
@@ -1919,10 +1587,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16675)
-
 ___
 
 ### RemoveCurve
@@ -1941,10 +1605,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16676)
-
 ___
 
 ### RemoveMetaData
@@ -1961,10 +1621,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16677)
 
 ___
 
@@ -1983,10 +1639,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16678)
-
 ___
 
 ### RemoveVirtualBone
@@ -2004,10 +1656,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16679)
-
 ___
 
 ### RemoveVirtualBones
@@ -2024,10 +1672,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16680)
 
 ___
 
@@ -2048,10 +1692,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16681)
-
 ___
 
 ### ReplaceAnimNotifyStates
@@ -2071,10 +1711,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16682)
-
 ___
 
 ### SetAdditiveAnimationType
@@ -2091,10 +1727,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16683)
 
 ___
 
@@ -2113,10 +1745,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16684)
-
 ___
 
 ### SetAnimationInterpolationType
@@ -2133,10 +1761,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16685)
 
 ___
 
@@ -2155,10 +1779,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16686](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16686)
-
 ___
 
 ### SetIsRootMotionLockForced
@@ -2175,10 +1795,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16687)
 
 ___
 
@@ -2197,10 +1813,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16688)
-
 ___
 
 ### SetRootMotionEnabled
@@ -2217,10 +1829,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:16689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16689)
 
 ___
 
@@ -2239,10 +1847,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:16690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16690)
-
 ___
 
 ### StaticClass
@@ -2256,7 +1860,3 @@ ___
 #### Overrides
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[StaticClass](ue_ue.BlueprintFunctionLibrary.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:16691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16691)

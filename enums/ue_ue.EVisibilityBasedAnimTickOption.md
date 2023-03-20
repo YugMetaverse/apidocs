@@ -21,19 +21,11 @@
 
 • **AlwaysTickPose** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4599)
-
 ___
 
 ### AlwaysTickPoseAndRefreshBones
 
 • **AlwaysTickPoseAndRefreshBones** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4599)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **EVisibilityBasedAnimTickOption\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4599)
-
 ___
 
 ### OnlyTickMontagesWhenNotRendered
 
 • **OnlyTickMontagesWhenNotRendered** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4599)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **OnlyTickPoseWhenRendered** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4599)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4599)

@@ -29,10 +29,6 @@
 
 • **new ClothConstraintSetup**()
 
-#### Defined in
-
-[ue/ue.d.ts:27589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27589)
-
 • **new ClothConstraintSetup**(`Stiffness`, `StiffnessMultiplier`, `StretchLimit`, `CompressionLimit`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `StretchLimit` | `number` |
 | `CompressionLimit` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:27590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27590)
-
 ## Properties
 
 ### CompressionLimit
 
 • **CompressionLimit**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27594)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **Stiffness**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27591)
-
 ___
 
 ### StiffnessMultiplier
 
 • **StiffnessMultiplier**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27592)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **StretchLimit**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27593)
-
 ___
 
 ### \_\_tid\_ClothConstraintSetup\_\_
 
 • `Private` **\_\_tid\_ClothConstraintSetup\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27600)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27598)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27599)

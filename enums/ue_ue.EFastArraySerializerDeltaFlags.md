@@ -21,19 +21,11 @@
 
 • **EFastArraySerializerDeltaFlags\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33847)
-
 ___
 
 ### HasBeenSerialized
 
 • **HasBeenSerialized** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33847)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **HasDeltaBeenRequested** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33847)
-
 ___
 
 ### IsUsingDeltaSerialization
 
 • **IsUsingDeltaSerialization** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33847)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33847)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33847)

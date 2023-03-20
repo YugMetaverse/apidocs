@@ -33,19 +33,11 @@
 
 • **COND\_AutonomousOnly** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4358)
-
 ___
 
 ### COND\_Custom
 
 • **COND\_Custom** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4358)
 
 ___
 
@@ -53,19 +45,11 @@ ___
 
 • **COND\_InitialOnly** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4358)
-
 ___
 
 ### COND\_InitialOrOwner
 
 • **COND\_InitialOrOwner** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4358)
 
 ___
 
@@ -73,19 +57,11 @@ ___
 
 • **COND\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4358)
-
 ___
 
 ### COND\_Max
 
 • **COND\_Max** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4358)
 
 ___
 
@@ -93,19 +69,11 @@ ___
 
 • **COND\_Never** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4358)
-
 ___
 
 ### COND\_None
 
 • **COND\_None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4358)
 
 ___
 
@@ -113,19 +81,11 @@ ___
 
 • **COND\_OwnerOnly** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4358)
-
 ___
 
 ### COND\_ReplayOnly
 
 • **COND\_ReplayOnly** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4358)
 
 ___
 
@@ -133,19 +93,11 @@ ___
 
 • **COND\_ReplayOrOwner** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4358)
-
 ___
 
 ### COND\_SimulatedOnly
 
 • **COND\_SimulatedOnly** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4358)
 
 ___
 
@@ -153,19 +105,11 @@ ___
 
 • **COND\_SimulatedOnlyNoReplay** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4358)
-
 ___
 
 ### COND\_SimulatedOrPhysics
 
 • **COND\_SimulatedOrPhysics** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4358)
 
 ___
 
@@ -173,19 +117,11 @@ ___
 
 • **COND\_SimulatedOrPhysicsNoReplay** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4358)
-
 ___
 
 ### COND\_SkipOwner
 
 • **COND\_SkipOwner** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4358)
 
 ___
 
@@ -193,16 +129,8 @@ ___
 
 • **COND\_SkipReplay** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4358)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4358)

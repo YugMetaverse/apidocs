@@ -22,19 +22,11 @@
 
 • **RCCF\_Constant** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34738)
-
 ___
 
 ### RCCF\_Cubic
 
 • **RCCF\_Cubic** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34738)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **RCCF\_Empty** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34738)
-
 ___
 
 ### RCCF\_Linear
 
 • **RCCF\_Linear** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34738)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **RCCF\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34738)
-
 ___
 
 ### RCCF\_Mixed
 
 • **RCCF\_Mixed** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34738)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34738)

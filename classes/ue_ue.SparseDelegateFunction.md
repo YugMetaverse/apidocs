@@ -56,10 +56,6 @@
 
 [DelegateFunction](ue_ue.DelegateFunction.md).[constructor](ue_ue.DelegateFunction.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:61772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61772)
-
 ## Properties
 
 ### \_\_tid\_DelegateFunction\_\_
@@ -69,10 +65,6 @@
 #### Inherited from
 
 [DelegateFunction](ue_ue.DelegateFunction.md).[__tid_DelegateFunction__](ue_ue.DelegateFunction.md#__tid_delegatefunction__)
-
-#### Defined in
-
-[ue/ue.d.ts:30644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30644)
 
 ___
 
@@ -84,10 +76,6 @@ ___
 
 [DelegateFunction](ue_ue.DelegateFunction.md).[__tid_Field__](ue_ue.DelegateFunction.md#__tid_field__)
 
-#### Defined in
-
-[ue/ue.d.ts:700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L700)
-
 ___
 
 ### \_\_tid\_Function\_\_
@@ -97,10 +85,6 @@ ___
 #### Inherited from
 
 [DelegateFunction](ue_ue.DelegateFunction.md).[__tid_Function__](ue_ue.DelegateFunction.md#__tid_function__)
-
-#### Defined in
-
-[ue/ue.d.ts:4784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4784)
 
 ___
 
@@ -112,19 +96,11 @@ ___
 
 [DelegateFunction](ue_ue.DelegateFunction.md).[__tid_Object__](ue_ue.DelegateFunction.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_SparseDelegateFunction\_\_
 
 • **\_\_tid\_SparseDelegateFunction\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:61777](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61777)
 
 ___
 
@@ -135,10 +111,6 @@ ___
 #### Inherited from
 
 [DelegateFunction](ue_ue.DelegateFunction.md).[__tid_Struct__](ue_ue.DelegateFunction.md#__tid_struct__)
-
-#### Defined in
-
-[ue/ue.d.ts:710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L710)
 
 ## Methods
 
@@ -164,10 +136,6 @@ ___
 
 [DelegateFunction](ue_ue.DelegateFunction.md).[CreateDefaultSubobject](ue_ue.DelegateFunction.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -188,10 +156,6 @@ ___
 
 [DelegateFunction](ue_ue.DelegateFunction.md).[ExecuteUbergraph](ue_ue.DelegateFunction.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -205,10 +169,6 @@ ___
 #### Inherited from
 
 [DelegateFunction](ue_ue.DelegateFunction.md).[GetClass](ue_ue.DelegateFunction.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -224,10 +184,6 @@ ___
 
 [DelegateFunction](ue_ue.DelegateFunction.md).[GetName](ue_ue.DelegateFunction.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -242,10 +198,6 @@ ___
 
 [DelegateFunction](ue_ue.DelegateFunction.md).[GetOuter](ue_ue.DelegateFunction.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -259,10 +211,6 @@ ___
 #### Inherited from
 
 [DelegateFunction](ue_ue.DelegateFunction.md).[GetWorld](ue_ue.DelegateFunction.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -283,10 +231,6 @@ ___
 #### Inherited from
 
 [DelegateFunction](ue_ue.DelegateFunction.md).[IsChildOf](ue_ue.DelegateFunction.md#ischildof)
-
-#### Defined in
-
-[ue/ue.d.ts:705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L705)
 
 ___
 
@@ -309,10 +253,6 @@ ___
 
 [DelegateFunction](ue_ue.DelegateFunction.md).[Find](ue_ue.DelegateFunction.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:61774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61774)
-
 ___
 
 ### Load
@@ -333,10 +273,6 @@ ___
 
 [DelegateFunction](ue_ue.DelegateFunction.md).[Load](ue_ue.DelegateFunction.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:61775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61775)
-
 ___
 
 ### StaticClass
@@ -350,7 +286,3 @@ ___
 #### Overrides
 
 [DelegateFunction](ue_ue.DelegateFunction.md).[StaticClass](ue_ue.DelegateFunction.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:61773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61773)

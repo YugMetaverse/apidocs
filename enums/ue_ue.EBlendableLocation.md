@@ -22,19 +22,11 @@
 
 • **BL\_AfterTonemapping** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1406)
-
 ___
 
 ### BL\_BeforeTonemapping
 
 • **BL\_BeforeTonemapping** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1406)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **BL\_BeforeTranslucency** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1406)
-
 ___
 
 ### BL\_MAX
 
 • **BL\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1406)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **BL\_ReplacingTonemapper** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1406)
-
 ___
 
 ### BL\_SSRInput
 
 • **BL\_SSRInput** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1406)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1406)

@@ -27,10 +27,6 @@
 
 • **new PlatformInterfaceDelegateResult**()
 
-#### Defined in
-
-[ue/ue.d.ts:28059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28059)
-
 • **new PlatformInterfaceDelegateResult**(`bSuccessful`, `Data`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `bSuccessful` | `boolean` |
 | `Data` | [`PlatformInterfaceData`](ue_ue.PlatformInterfaceData.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:28060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28060)
-
 ## Properties
 
 ### Data
 
 • **Data**: [`PlatformInterfaceData`](ue_ue.PlatformInterfaceData.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28062)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • `Private` **\_\_tid\_PlatformInterfaceDelegateResult\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:28068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28068)
-
 ___
 
 ### bSuccessful
 
 • **bSuccessful**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:28061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28061)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:28066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28066)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28067](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28067)

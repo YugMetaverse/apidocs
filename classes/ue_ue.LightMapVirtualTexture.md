@@ -52,19 +52,11 @@
 
 [VirtualTexture](ue_ue.VirtualTexture.md).[constructor](ue_ue.VirtualTexture.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:45396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45396)
-
 ## Properties
 
 ### \_\_tid\_LightMapVirtualTexture\_\_
 
 • **\_\_tid\_LightMapVirtualTexture\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45401)
 
 ___
 
@@ -76,10 +68,6 @@ ___
 
 [VirtualTexture](ue_ue.VirtualTexture.md).[__tid_Object__](ue_ue.VirtualTexture.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_VirtualTexture\_\_
@@ -89,10 +77,6 @@ ___
 #### Inherited from
 
 [VirtualTexture](ue_ue.VirtualTexture.md).[__tid_VirtualTexture__](ue_ue.VirtualTexture.md#__tid_virtualtexture__)
-
-#### Defined in
-
-[ue/ue.d.ts:45392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45392)
 
 ## Methods
 
@@ -118,10 +102,6 @@ ___
 
 [VirtualTexture](ue_ue.VirtualTexture.md).[CreateDefaultSubobject](ue_ue.VirtualTexture.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -142,10 +122,6 @@ ___
 
 [VirtualTexture](ue_ue.VirtualTexture.md).[ExecuteUbergraph](ue_ue.VirtualTexture.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -159,10 +135,6 @@ ___
 #### Inherited from
 
 [VirtualTexture](ue_ue.VirtualTexture.md).[GetClass](ue_ue.VirtualTexture.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -178,10 +150,6 @@ ___
 
 [VirtualTexture](ue_ue.VirtualTexture.md).[GetName](ue_ue.VirtualTexture.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -196,10 +164,6 @@ ___
 
 [VirtualTexture](ue_ue.VirtualTexture.md).[GetOuter](ue_ue.VirtualTexture.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -213,10 +177,6 @@ ___
 #### Inherited from
 
 [VirtualTexture](ue_ue.VirtualTexture.md).[GetWorld](ue_ue.VirtualTexture.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -239,10 +199,6 @@ ___
 
 [VirtualTexture](ue_ue.VirtualTexture.md).[Find](ue_ue.VirtualTexture.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:45398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45398)
-
 ___
 
 ### Load
@@ -263,10 +219,6 @@ ___
 
 [VirtualTexture](ue_ue.VirtualTexture.md).[Load](ue_ue.VirtualTexture.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:45399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45399)
-
 ___
 
 ### StaticClass
@@ -280,7 +232,3 @@ ___
 #### Overrides
 
 [VirtualTexture](ue_ue.VirtualTexture.md).[StaticClass](ue_ue.VirtualTexture.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:45397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45397)

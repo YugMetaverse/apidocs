@@ -23,19 +23,11 @@
 
 • **CONNECT\_RESPONSE\_BREAK\_OTHERS\_A** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31391)
-
 ___
 
 ### CONNECT\_RESPONSE\_BREAK\_OTHERS\_AB
 
 • **CONNECT\_RESPONSE\_BREAK\_OTHERS\_AB** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31391)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **CONNECT\_RESPONSE\_BREAK\_OTHERS\_B** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31391)
-
 ___
 
 ### CONNECT\_RESPONSE\_DISALLOW
 
 • **CONNECT\_RESPONSE\_DISALLOW** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31391)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **CONNECT\_RESPONSE\_MAKE** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31391)
-
 ___
 
 ### CONNECT\_RESPONSE\_MAKE\_WITH\_CONVERSION\_NODE
 
 • **CONNECT\_RESPONSE\_MAKE\_WITH\_CONVERSION\_NODE** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31391)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **CONNECT\_RESPONSE\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31391)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31391)

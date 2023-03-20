@@ -302,10 +302,6 @@
 
 [SpotLight](ue_ue.SpotLight.md).[constructor](ue_ue.SpotLight.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:37491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37491)
-
 ## Properties
 
 ### ActorLabel
@@ -315,10 +311,6 @@
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[ActorLabel](ue_ue.SpotLight.md#actorlabel)
-
-#### Defined in
-
-[ue/ue.d.ts:13176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13176)
 
 ___
 
@@ -330,10 +322,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[ArrowComponent](ue_ue.SpotLight.md#arrowcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:37480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37480)
-
 ___
 
 ### AttachmentReplication
@@ -343,10 +331,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[AttachmentReplication](ue_ue.SpotLight.md#attachmentreplication)
-
-#### Defined in
-
-[ue/ue.d.ts:13151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13151)
 
 ___
 
@@ -358,10 +342,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[AutoReceiveInput](ue_ue.SpotLight.md#autoreceiveinput)
 
-#### Defined in
-
-[ue/ue.d.ts:13157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13157)
-
 ___
 
 ### BlueprintCreatedComponents
@@ -371,10 +351,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[BlueprintCreatedComponents](ue_ue.SpotLight.md#blueprintcreatedcomponents)
-
-#### Defined in
-
-[ue/ue.d.ts:13206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13206)
 
 ___
 
@@ -386,10 +362,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[Children](ue_ue.SpotLight.md#children)
 
-#### Defined in
-
-[ue/ue.d.ts:13166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13166)
-
 ___
 
 ### ControllingMatineeActors
@@ -399,10 +371,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[ControllingMatineeActors](ue_ue.SpotLight.md#controllingmatineeactors)
-
-#### Defined in
-
-[ue/ue.d.ts:13169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13169)
 
 ___
 
@@ -414,10 +382,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[CustomTimeDilation](ue_ue.SpotLight.md#customtimedilation)
 
-#### Defined in
-
-[ue/ue.d.ts:13150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13150)
-
 ___
 
 ### DefaultUpdateOverlapsMethodDuringLevelStreaming
@@ -427,10 +391,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[DefaultUpdateOverlapsMethodDuringLevelStreaming](ue_ue.SpotLight.md#defaultupdateoverlapsmethodduringlevelstreaming)
-
-#### Defined in
-
-[ue/ue.d.ts:13146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13146)
 
 ___
 
@@ -442,10 +402,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[FolderPath](ue_ue.SpotLight.md#folderpath)
 
-#### Defined in
-
-[ue/ue.d.ts:13177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13177)
-
 ___
 
 ### GroupActor
@@ -455,10 +411,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[GroupActor](ue_ue.SpotLight.md#groupactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13173)
 
 ___
 
@@ -470,10 +422,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[HiddenEditorViews](ue_ue.SpotLight.md#hiddeneditorviews)
 
-#### Defined in
-
-[ue/ue.d.ts:13175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13175)
-
 ___
 
 ### InitialLifeSpan
@@ -483,10 +431,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[InitialLifeSpan](ue_ue.SpotLight.md#initiallifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13149)
 
 ___
 
@@ -498,10 +442,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[InputComponent](ue_ue.SpotLight.md#inputcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13159)
-
 ___
 
 ### InputPriority
@@ -511,10 +451,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[InputPriority](ue_ue.SpotLight.md#inputpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:13158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13158)
 
 ___
 
@@ -526,10 +462,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[InstanceComponents](ue_ue.SpotLight.md#instancecomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13205)
-
 ___
 
 ### Instigator
@@ -539,10 +471,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[Instigator](ue_ue.SpotLight.md#instigator)
-
-#### Defined in
-
-[ue/ue.d.ts:13165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13165)
 
 ___
 
@@ -554,10 +482,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[Layers](ue_ue.SpotLight.md#layers)
 
-#### Defined in
-
-[ue/ue.d.ts:13170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13170)
-
 ___
 
 ### LightComponent
@@ -567,10 +491,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[LightComponent](ue_ue.SpotLight.md#lightcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:24658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24658)
 
 ___
 
@@ -582,10 +502,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[MinNetUpdateFrequency](ue_ue.SpotLight.md#minnetupdatefrequency)
 
-#### Defined in
-
-[ue/ue.d.ts:13163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13163)
-
 ___
 
 ### NetCullDistanceSquared
@@ -595,10 +511,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[NetCullDistanceSquared](ue_ue.SpotLight.md#netculldistancesquared)
-
-#### Defined in
-
-[ue/ue.d.ts:13160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13160)
 
 ___
 
@@ -610,10 +522,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[NetDormancy](ue_ue.SpotLight.md#netdormancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13155)
-
 ___
 
 ### NetDriverName
@@ -623,10 +531,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[NetDriverName](ue_ue.SpotLight.md#netdrivername)
-
-#### Defined in
-
-[ue/ue.d.ts:13153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13153)
 
 ___
 
@@ -638,10 +542,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[NetPriority](ue_ue.SpotLight.md#netpriority)
 
-#### Defined in
-
-[ue/ue.d.ts:13164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13164)
-
 ___
 
 ### NetTag
@@ -651,10 +551,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[NetTag](ue_ue.SpotLight.md#nettag)
-
-#### Defined in
-
-[ue/ue.d.ts:13161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13161)
 
 ___
 
@@ -666,10 +562,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[NetUpdateFrequency](ue_ue.SpotLight.md#netupdatefrequency)
 
-#### Defined in
-
-[ue/ue.d.ts:13162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13162)
-
 ___
 
 ### OnActorBeginOverlap
@@ -679,10 +571,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[OnActorBeginOverlap](ue_ue.SpotLight.md#onactorbeginoverlap)
-
-#### Defined in
-
-[ue/ue.d.ts:13192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13192)
 
 ___
 
@@ -694,10 +582,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[OnActorEndOverlap](ue_ue.SpotLight.md#onactorendoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13193)
-
 ___
 
 ### OnActorHit
@@ -707,10 +591,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[OnActorHit](ue_ue.SpotLight.md#onactorhit)
-
-#### Defined in
-
-[ue/ue.d.ts:13202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13202)
 
 ___
 
@@ -722,10 +602,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[OnBeginCursorOver](ue_ue.SpotLight.md#onbegincursorover)
 
-#### Defined in
-
-[ue/ue.d.ts:13194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13194)
-
 ___
 
 ### OnClicked
@@ -735,10 +611,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[OnClicked](ue_ue.SpotLight.md#onclicked)
-
-#### Defined in
-
-[ue/ue.d.ts:13196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13196)
 
 ___
 
@@ -750,10 +622,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[OnDestroyed](ue_ue.SpotLight.md#ondestroyed)
 
-#### Defined in
-
-[ue/ue.d.ts:13203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13203)
-
 ___
 
 ### OnEndCursorOver
@@ -763,10 +631,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[OnEndCursorOver](ue_ue.SpotLight.md#onendcursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13195)
 
 ___
 
@@ -778,10 +642,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[OnEndPlay](ue_ue.SpotLight.md#onendplay)
 
-#### Defined in
-
-[ue/ue.d.ts:13204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13204)
-
 ___
 
 ### OnInputTouchBegin
@@ -791,10 +651,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[OnInputTouchBegin](ue_ue.SpotLight.md#oninputtouchbegin)
-
-#### Defined in
-
-[ue/ue.d.ts:13198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13198)
 
 ___
 
@@ -806,10 +662,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[OnInputTouchEnd](ue_ue.SpotLight.md#oninputtouchend)
 
-#### Defined in
-
-[ue/ue.d.ts:13199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13199)
-
 ___
 
 ### OnInputTouchEnter
@@ -819,10 +671,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[OnInputTouchEnter](ue_ue.SpotLight.md#oninputtouchenter)
-
-#### Defined in
-
-[ue/ue.d.ts:13200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13200)
 
 ___
 
@@ -834,10 +682,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[OnInputTouchLeave](ue_ue.SpotLight.md#oninputtouchleave)
 
-#### Defined in
-
-[ue/ue.d.ts:13201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13201)
-
 ___
 
 ### OnReleased
@@ -847,10 +691,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[OnReleased](ue_ue.SpotLight.md#onreleased)
-
-#### Defined in
-
-[ue/ue.d.ts:13197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13197)
 
 ___
 
@@ -862,10 +702,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[OnTakeAnyDamage](ue_ue.SpotLight.md#ontakeanydamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13189)
-
 ___
 
 ### OnTakePointDamage
@@ -875,10 +711,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[OnTakePointDamage](ue_ue.SpotLight.md#ontakepointdamage)
-
-#### Defined in
-
-[ue/ue.d.ts:13190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13190)
 
 ___
 
@@ -890,10 +722,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[OnTakeRadialDamage](ue_ue.SpotLight.md#ontakeradialdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13191)
-
 ___
 
 ### Owner
@@ -903,10 +731,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[Owner](ue_ue.SpotLight.md#owner)
-
-#### Defined in
-
-[ue/ue.d.ts:13152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13152)
 
 ___
 
@@ -918,10 +742,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[ParentComponent](ue_ue.SpotLight.md#parentcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13172)
-
 ___
 
 ### ParentComponentActor
@@ -931,10 +751,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[ParentComponentActor](ue_ue.SpotLight.md#parentcomponentactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13171)
 
 ___
 
@@ -946,10 +762,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[PivotOffset](ue_ue.SpotLight.md#pivotoffset)
 
-#### Defined in
-
-[ue/ue.d.ts:13168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13168)
-
 ___
 
 ### PrimaryActorTick
@@ -959,10 +771,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[PrimaryActorTick](ue_ue.SpotLight.md#primaryactortick)
-
-#### Defined in
-
-[ue/ue.d.ts:13115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13115)
 
 ___
 
@@ -974,10 +782,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[RemoteRole](ue_ue.SpotLight.md#remoterole)
 
-#### Defined in
-
-[ue/ue.d.ts:13147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13147)
-
 ___
 
 ### ReplicatedMovement
@@ -987,10 +791,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[ReplicatedMovement](ue_ue.SpotLight.md#replicatedmovement)
-
-#### Defined in
-
-[ue/ue.d.ts:13148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13148)
 
 ___
 
@@ -1002,10 +802,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[Role](ue_ue.SpotLight.md#role)
 
-#### Defined in
-
-[ue/ue.d.ts:13154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13154)
-
 ___
 
 ### RootComponent
@@ -1015,10 +811,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[RootComponent](ue_ue.SpotLight.md#rootcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13167)
 
 ___
 
@@ -1030,10 +822,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[SpawnCollisionHandlingMethod](ue_ue.SpotLight.md#spawncollisionhandlingmethod)
 
-#### Defined in
-
-[ue/ue.d.ts:13156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13156)
-
 ___
 
 ### SpotLightComponent
@@ -1043,10 +831,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[SpotLightComponent](ue_ue.SpotLight.md#spotlightcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:37479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37479)
 
 ___
 
@@ -1058,10 +842,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[SpriteScale](ue_ue.SpotLight.md#spritescale)
 
-#### Defined in
-
-[ue/ue.d.ts:13174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13174)
-
 ___
 
 ### Tags
@@ -1071,10 +851,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[Tags](ue_ue.SpotLight.md#tags)
-
-#### Defined in
-
-[ue/ue.d.ts:13188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13188)
 
 ___
 
@@ -1086,10 +862,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[UpdateOverlapsMethodDuringLevelStreaming](ue_ue.SpotLight.md#updateoverlapsmethodduringlevelstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:13145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13145)
-
 ___
 
 ### \_\_tid\_Actor\_\_
@@ -1100,19 +872,11 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[__tid_Actor__](ue_ue.SpotLight.md#__tid_actor__)
 
-#### Defined in
-
-[ue/ue.d.ts:13348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13348)
-
 ___
 
 ### \_\_tid\_GeneratedMeshAreaLight\_\_
 
 • **\_\_tid\_GeneratedMeshAreaLight\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:37496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37496)
 
 ___
 
@@ -1124,10 +888,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[__tid_Light__](ue_ue.SpotLight.md#__tid_light__)
 
-#### Defined in
-
-[ue/ue.d.ts:24677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24677)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -1137,10 +897,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[__tid_Object__](ue_ue.SpotLight.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -1152,10 +908,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[__tid_SpotLight__](ue_ue.SpotLight.md#__tid_spotlight__)
 
-#### Defined in
-
-[ue/ue.d.ts:37487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37487)
-
 ___
 
 ### bActorEnableCollision
@@ -1165,10 +917,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[bActorEnableCollision](ue_ue.SpotLight.md#bactorenablecollision)
-
-#### Defined in
-
-[ue/ue.d.ts:13143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13143)
 
 ___
 
@@ -1180,10 +928,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[bActorIsBeingDestroyed](ue_ue.SpotLight.md#bactorisbeingdestroyed)
 
-#### Defined in
-
-[ue/ue.d.ts:13144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13144)
-
 ___
 
 ### bActorLabelEditable
@@ -1193,10 +937,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[bActorLabelEditable](ue_ue.SpotLight.md#bactorlabeleditable)
-
-#### Defined in
-
-[ue/ue.d.ts:13183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13183)
 
 ___
 
@@ -1208,10 +948,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[bActorSeamlessTraveled](ue_ue.SpotLight.md#bactorseamlesstraveled)
 
-#### Defined in
-
-[ue/ue.d.ts:13139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13139)
-
 ___
 
 ### bAllowReceiveTickEventOnDedicatedServer
@@ -1221,10 +957,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[bAllowReceiveTickEventOnDedicatedServer](ue_ue.SpotLight.md#ballowreceivetickeventondedicatedserver)
-
-#### Defined in
-
-[ue/ue.d.ts:13142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13142)
 
 ___
 
@@ -1236,10 +968,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[bAllowTickBeforeBeginPlay](ue_ue.SpotLight.md#ballowtickbeforebeginplay)
 
-#### Defined in
-
-[ue/ue.d.ts:13129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13129)
-
 ___
 
 ### bAlwaysRelevant
@@ -1249,10 +977,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[bAlwaysRelevant](ue_ue.SpotLight.md#balwaysrelevant)
-
-#### Defined in
-
-[ue/ue.d.ts:13120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13120)
 
 ___
 
@@ -1264,10 +988,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[bAutoDestroyWhenFinished](ue_ue.SpotLight.md#bautodestroywhenfinished)
 
-#### Defined in
-
-[ue/ue.d.ts:13130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13130)
-
 ___
 
 ### bBlockInput
@@ -1277,10 +997,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[bBlockInput](ue_ue.SpotLight.md#bblockinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13131)
 
 ___
 
@@ -1292,10 +1008,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[bCanBeDamaged](ue_ue.SpotLight.md#bcanbedamaged)
 
-#### Defined in
-
-[ue/ue.d.ts:13132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13132)
-
 ___
 
 ### bCanBeInCluster
@@ -1305,10 +1017,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[bCanBeInCluster](ue_ue.SpotLight.md#bcanbeincluster)
-
-#### Defined in
-
-[ue/ue.d.ts:13141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13141)
 
 ___
 
@@ -1320,10 +1028,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[bCollideWhenPlacing](ue_ue.SpotLight.md#bcollidewhenplacing)
 
-#### Defined in
-
-[ue/ue.d.ts:13133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13133)
-
 ___
 
 ### bEditable
@@ -1333,10 +1037,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[bEditable](ue_ue.SpotLight.md#beditable)
-
-#### Defined in
-
-[ue/ue.d.ts:13184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13184)
 
 ___
 
@@ -1348,10 +1048,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[bEnableAutoLODGeneration](ue_ue.SpotLight.md#benableautolodgeneration)
 
-#### Defined in
-
-[ue/ue.d.ts:13137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13137)
-
 ___
 
 ### bEnabled
@@ -1361,10 +1057,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[bEnabled](ue_ue.SpotLight.md#benabled)
-
-#### Defined in
-
-[ue/ue.d.ts:24659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24659)
 
 ___
 
@@ -1376,10 +1068,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[bExchangedRoles](ue_ue.SpotLight.md#bexchangedroles)
 
-#### Defined in
-
-[ue/ue.d.ts:13123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13123)
-
 ___
 
 ### bFindCameraComponentWhenViewTarget
@@ -1389,10 +1077,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[bFindCameraComponentWhenViewTarget](ue_ue.SpotLight.md#bfindcameracomponentwhenviewtarget)
-
-#### Defined in
-
-[ue/ue.d.ts:13134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13134)
 
 ___
 
@@ -1404,10 +1088,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[bGenerateOverlapEventsDuringLevelStreaming](ue_ue.SpotLight.md#bgenerateoverlapeventsduringlevelstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:13135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13135)
-
 ___
 
 ### bHidden
@@ -1417,10 +1097,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[bHidden](ue_ue.SpotLight.md#bhidden)
-
-#### Defined in
-
-[ue/ue.d.ts:13116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13116)
 
 ___
 
@@ -1432,10 +1108,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[bHiddenEd](ue_ue.SpotLight.md#bhiddened)
 
-#### Defined in
-
-[ue/ue.d.ts:13178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13178)
-
 ___
 
 ### bHiddenEdLayer
@@ -1445,10 +1117,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[bHiddenEdLayer](ue_ue.SpotLight.md#bhiddenedlayer)
-
-#### Defined in
-
-[ue/ue.d.ts:13180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13180)
 
 ___
 
@@ -1460,10 +1128,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[bHiddenEdLevel](ue_ue.SpotLight.md#bhiddenedlevel)
 
-#### Defined in
-
-[ue/ue.d.ts:13181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13181)
-
 ___
 
 ### bHiddenEdTemporary
@@ -1473,10 +1137,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[bHiddenEdTemporary](ue_ue.SpotLight.md#bhiddenedtemporary)
-
-#### Defined in
-
-[ue/ue.d.ts:13187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13187)
 
 ___
 
@@ -1488,10 +1148,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[bIgnoresOriginShifting](ue_ue.SpotLight.md#bignoresoriginshifting)
 
-#### Defined in
-
-[ue/ue.d.ts:13136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13136)
-
 ___
 
 ### bIsEditorOnlyActor
@@ -1501,10 +1157,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[bIsEditorOnlyActor](ue_ue.SpotLight.md#biseditoronlyactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13138)
 
 ___
 
@@ -1516,10 +1168,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[bIsEditorPreviewActor](ue_ue.SpotLight.md#biseditorpreviewactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13179)
-
 ___
 
 ### bListedInSceneOutliner
@@ -1529,10 +1177,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[bListedInSceneOutliner](ue_ue.SpotLight.md#blistedinsceneoutliner)
-
-#### Defined in
-
-[ue/ue.d.ts:13185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13185)
 
 ___
 
@@ -1544,10 +1188,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[bLockLocation](ue_ue.SpotLight.md#blocklocation)
 
-#### Defined in
-
-[ue/ue.d.ts:13182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13182)
-
 ___
 
 ### bNetLoadOnClient
@@ -1557,10 +1197,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[bNetLoadOnClient](ue_ue.SpotLight.md#bnetloadonclient)
-
-#### Defined in
-
-[ue/ue.d.ts:13124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13124)
 
 ___
 
@@ -1572,10 +1208,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[bNetStartup](ue_ue.SpotLight.md#bnetstartup)
 
-#### Defined in
-
-[ue/ue.d.ts:13118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13118)
-
 ___
 
 ### bNetTemporary
@@ -1585,10 +1217,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[bNetTemporary](ue_ue.SpotLight.md#bnettemporary)
-
-#### Defined in
-
-[ue/ue.d.ts:13117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13117)
 
 ___
 
@@ -1600,10 +1228,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[bNetUseOwnerRelevancy](ue_ue.SpotLight.md#bnetuseownerrelevancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13125)
-
 ___
 
 ### bOnlyRelevantToOwner
@@ -1613,10 +1237,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[bOnlyRelevantToOwner](ue_ue.SpotLight.md#bonlyrelevanttoowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13119)
 
 ___
 
@@ -1628,10 +1248,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[bOptimizeBPComponentData](ue_ue.SpotLight.md#boptimizebpcomponentdata)
 
-#### Defined in
-
-[ue/ue.d.ts:13186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13186)
-
 ___
 
 ### bRelevantForLevelBounds
@@ -1641,10 +1257,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[bRelevantForLevelBounds](ue_ue.SpotLight.md#brelevantforlevelbounds)
-
-#### Defined in
-
-[ue/ue.d.ts:13127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13127)
 
 ___
 
@@ -1656,10 +1268,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[bRelevantForNetworkReplays](ue_ue.SpotLight.md#brelevantfornetworkreplays)
 
-#### Defined in
-
-[ue/ue.d.ts:13126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13126)
-
 ___
 
 ### bReplayRewindable
@@ -1669,10 +1277,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[bReplayRewindable](ue_ue.SpotLight.md#breplayrewindable)
-
-#### Defined in
-
-[ue/ue.d.ts:13128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13128)
 
 ___
 
@@ -1684,10 +1288,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[bReplicateMovement](ue_ue.SpotLight.md#breplicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13121)
-
 ___
 
 ### bReplicates
@@ -1698,10 +1298,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[bReplicates](ue_ue.SpotLight.md#breplicates)
 
-#### Defined in
-
-[ue/ue.d.ts:13140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13140)
-
 ___
 
 ### bTearOff
@@ -1711,10 +1307,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[bTearOff](ue_ue.SpotLight.md#btearoff)
-
-#### Defined in
-
-[ue/ue.d.ts:13122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13122)
 
 ## Methods
 
@@ -1735,10 +1327,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[ActorHasTag](ue_ue.SpotLight.md#actorhastag)
-
-#### Defined in
-
-[ue/ue.d.ts:13207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13207)
 
 ___
 
@@ -1763,10 +1351,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[AddComponent](ue_ue.SpotLight.md#addcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13208)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -1787,10 +1371,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[AddTickPrerequisiteActor](ue_ue.SpotLight.md#addtickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13209)
-
 ___
 
 ### AddTickPrerequisiteComponent
@@ -1810,10 +1390,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[AddTickPrerequisiteComponent](ue_ue.SpotLight.md#addtickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13210)
 
 ___
 
@@ -1839,10 +1415,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[CreateDefaultSubobject](ue_ue.SpotLight.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### DetachRootComponentFromParent
@@ -1862,10 +1434,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[DetachRootComponentFromParent](ue_ue.SpotLight.md#detachrootcomponentfromparent)
-
-#### Defined in
-
-[ue/ue.d.ts:13211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13211)
 
 ___
 
@@ -1887,10 +1455,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[DisableInput](ue_ue.SpotLight.md#disableinput)
 
-#### Defined in
-
-[ue/ue.d.ts:13212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13212)
-
 ___
 
 ### EnableInput
@@ -1910,10 +1474,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[EnableInput](ue_ue.SpotLight.md#enableinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13213)
 
 ___
 
@@ -1935,10 +1495,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[ExecuteUbergraph](ue_ue.SpotLight.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### FlushNetDormancy
@@ -1953,10 +1509,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[FlushNetDormancy](ue_ue.SpotLight.md#flushnetdormancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13214)
-
 ___
 
 ### ForceNetUpdate
@@ -1970,10 +1522,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[ForceNetUpdate](ue_ue.SpotLight.md#forcenetupdate)
-
-#### Defined in
-
-[ue/ue.d.ts:13215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13215)
 
 ___
 
@@ -1997,10 +1545,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetActorBounds](ue_ue.SpotLight.md#getactorbounds)
 
-#### Defined in
-
-[ue/ue.d.ts:13216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13216)
-
 ___
 
 ### GetActorEnableCollision
@@ -2014,10 +1558,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[GetActorEnableCollision](ue_ue.SpotLight.md#getactorenablecollision)
-
-#### Defined in
-
-[ue/ue.d.ts:13217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13217)
 
 ___
 
@@ -2040,10 +1580,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetActorEyesViewPoint](ue_ue.SpotLight.md#getactoreyesviewpoint)
 
-#### Defined in
-
-[ue/ue.d.ts:13218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13218)
-
 ___
 
 ### GetActorForwardVector
@@ -2057,10 +1593,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[GetActorForwardVector](ue_ue.SpotLight.md#getactorforwardvector)
-
-#### Defined in
-
-[ue/ue.d.ts:13219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13219)
 
 ___
 
@@ -2076,10 +1608,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetActorLabel](ue_ue.SpotLight.md#getactorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13220)
-
 ___
 
 ### GetActorRelativeScale3D
@@ -2093,10 +1621,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[GetActorRelativeScale3D](ue_ue.SpotLight.md#getactorrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13221)
 
 ___
 
@@ -2112,10 +1636,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetActorRightVector](ue_ue.SpotLight.md#getactorrightvector)
 
-#### Defined in
-
-[ue/ue.d.ts:13222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13222)
-
 ___
 
 ### GetActorScale3D
@@ -2129,10 +1649,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[GetActorScale3D](ue_ue.SpotLight.md#getactorscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13223)
 
 ___
 
@@ -2148,10 +1664,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetActorTickInterval](ue_ue.SpotLight.md#getactortickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:13224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13224)
-
 ___
 
 ### GetActorTimeDilation
@@ -2166,10 +1678,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetActorTimeDilation](ue_ue.SpotLight.md#getactortimedilation)
 
-#### Defined in
-
-[ue/ue.d.ts:13225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13225)
-
 ___
 
 ### GetActorUpVector
@@ -2183,10 +1691,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[GetActorUpVector](ue_ue.SpotLight.md#getactorupvector)
-
-#### Defined in
-
-[ue/ue.d.ts:13226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13226)
 
 ___
 
@@ -2209,10 +1713,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetAllChildActors](ue_ue.SpotLight.md#getallchildactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13227)
-
 ___
 
 ### GetAttachParentActor
@@ -2227,10 +1727,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetAttachParentActor](ue_ue.SpotLight.md#getattachparentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13229)
-
 ___
 
 ### GetAttachParentSocketName
@@ -2244,10 +1740,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[GetAttachParentSocketName](ue_ue.SpotLight.md#getattachparentsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:13230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13230)
 
 ___
 
@@ -2270,10 +1762,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetAttachedActors](ue_ue.SpotLight.md#getattachedactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13228)
-
 ___
 
 ### GetBrightness
@@ -2288,10 +1776,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetBrightness](ue_ue.SpotLight.md#getbrightness)
 
-#### Defined in
-
-[ue/ue.d.ts:24660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24660)
-
 ___
 
 ### GetClass
@@ -2305,10 +1789,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[GetClass](ue_ue.SpotLight.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -2330,10 +1810,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetComponentByClass](ue_ue.SpotLight.md#getcomponentbyclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13231)
-
 ___
 
 ### GetComponentsByInterface
@@ -2353,10 +1829,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[GetComponentsByInterface](ue_ue.SpotLight.md#getcomponentsbyinterface)
-
-#### Defined in
-
-[ue/ue.d.ts:13232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13232)
 
 ___
 
@@ -2379,10 +1851,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetComponentsByTag](ue_ue.SpotLight.md#getcomponentsbytag)
 
-#### Defined in
-
-[ue/ue.d.ts:13233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13233)
-
 ___
 
 ### GetDistanceTo
@@ -2402,10 +1870,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[GetDistanceTo](ue_ue.SpotLight.md#getdistanceto)
-
-#### Defined in
-
-[ue/ue.d.ts:13234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13234)
 
 ___
 
@@ -2427,10 +1891,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetDotProductTo](ue_ue.SpotLight.md#getdotproductto)
 
-#### Defined in
-
-[ue/ue.d.ts:13235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13235)
-
 ___
 
 ### GetFolderPath
@@ -2445,10 +1905,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetFolderPath](ue_ue.SpotLight.md#getfolderpath)
 
-#### Defined in
-
-[ue/ue.d.ts:13236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13236)
-
 ___
 
 ### GetGameTimeSinceCreation
@@ -2462,10 +1918,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[GetGameTimeSinceCreation](ue_ue.SpotLight.md#getgametimesincecreation)
-
-#### Defined in
-
-[ue/ue.d.ts:13237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13237)
 
 ___
 
@@ -2487,10 +1939,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetHorizontalDistanceTo](ue_ue.SpotLight.md#gethorizontaldistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13238)
-
 ___
 
 ### GetHorizontalDotProductTo
@@ -2510,10 +1958,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[GetHorizontalDotProductTo](ue_ue.SpotLight.md#gethorizontaldotproductto)
-
-#### Defined in
-
-[ue/ue.d.ts:13239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13239)
 
 ___
 
@@ -2535,10 +1979,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetInputAxisKeyValue](ue_ue.SpotLight.md#getinputaxiskeyvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:13240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13240)
-
 ___
 
 ### GetInputAxisValue
@@ -2558,10 +1998,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[GetInputAxisValue](ue_ue.SpotLight.md#getinputaxisvalue)
-
-#### Defined in
-
-[ue/ue.d.ts:13241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13241)
 
 ___
 
@@ -2583,10 +2019,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetInputVectorAxisValue](ue_ue.SpotLight.md#getinputvectoraxisvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:13242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13242)
-
 ___
 
 ### GetInstigator
@@ -2600,10 +2032,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[GetInstigator](ue_ue.SpotLight.md#getinstigator)
-
-#### Defined in
-
-[ue/ue.d.ts:13243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13243)
 
 ___
 
@@ -2619,10 +2047,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetInstigatorController](ue_ue.SpotLight.md#getinstigatorcontroller)
 
-#### Defined in
-
-[ue/ue.d.ts:13244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13244)
-
 ___
 
 ### GetLifeSpan
@@ -2636,10 +2060,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[GetLifeSpan](ue_ue.SpotLight.md#getlifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13245)
 
 ___
 
@@ -2655,10 +2075,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetLightColor](ue_ue.SpotLight.md#getlightcolor)
 
-#### Defined in
-
-[ue/ue.d.ts:24661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24661)
-
 ___
 
 ### GetLocalRole
@@ -2672,10 +2088,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[GetLocalRole](ue_ue.SpotLight.md#getlocalrole)
-
-#### Defined in
-
-[ue/ue.d.ts:13246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13246)
 
 ___
 
@@ -2691,10 +2103,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetName](ue_ue.SpotLight.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -2708,10 +2116,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[GetOuter](ue_ue.SpotLight.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -2734,10 +2138,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetOverlappingActors](ue_ue.SpotLight.md#getoverlappingactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13247)
-
 ___
 
 ### GetOverlappingComponents
@@ -2758,10 +2158,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetOverlappingComponents](ue_ue.SpotLight.md#getoverlappingcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13248)
-
 ___
 
 ### GetOwner
@@ -2775,10 +2171,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[GetOwner](ue_ue.SpotLight.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13249)
 
 ___
 
@@ -2794,10 +2186,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetParentActor](ue_ue.SpotLight.md#getparentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13250)
-
 ___
 
 ### GetParentComponent
@@ -2812,10 +2200,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetParentComponent](ue_ue.SpotLight.md#getparentcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13251)
-
 ___
 
 ### GetRemoteRole
@@ -2829,10 +2213,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[GetRemoteRole](ue_ue.SpotLight.md#getremoterole)
-
-#### Defined in
-
-[ue/ue.d.ts:13252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13252)
 
 ___
 
@@ -2854,10 +2234,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetSquaredDistanceTo](ue_ue.SpotLight.md#getsquareddistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13253)
-
 ___
 
 ### GetTickableWhenPaused
@@ -2871,10 +2247,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[GetTickableWhenPaused](ue_ue.SpotLight.md#gettickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:13254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13254)
 
 ___
 
@@ -2890,10 +2262,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetTransform](ue_ue.SpotLight.md#gettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13255)
-
 ___
 
 ### GetVelocity
@@ -2907,10 +2275,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[GetVelocity](ue_ue.SpotLight.md#getvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:13256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13256)
 
 ___
 
@@ -2932,10 +2296,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[GetVerticalDistanceTo](ue_ue.SpotLight.md#getverticaldistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13257)
-
 ___
 
 ### GetWorld
@@ -2949,10 +2309,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[GetWorld](ue_ue.SpotLight.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -2968,10 +2324,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[HasAuthority](ue_ue.SpotLight.md#hasauthority)
 
-#### Defined in
-
-[ue/ue.d.ts:13258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13258)
-
 ___
 
 ### IsActorBeingDestroyed
@@ -2985,10 +2337,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[IsActorBeingDestroyed](ue_ue.SpotLight.md#isactorbeingdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13259)
 
 ___
 
@@ -3004,10 +2352,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[IsActorTickEnabled](ue_ue.SpotLight.md#isactortickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:13260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13260)
-
 ___
 
 ### IsChildActor
@@ -3021,10 +2365,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[IsChildActor](ue_ue.SpotLight.md#ischildactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13261)
 
 ___
 
@@ -3040,10 +2380,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[IsEditable](ue_ue.SpotLight.md#iseditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13262)
-
 ___
 
 ### IsEnabled
@@ -3057,10 +2393,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[IsEnabled](ue_ue.SpotLight.md#isenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:24662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24662)
 
 ___
 
@@ -3076,10 +2408,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[IsHiddenEd](ue_ue.SpotLight.md#ishiddened)
 
-#### Defined in
-
-[ue/ue.d.ts:13263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13263)
-
 ___
 
 ### IsHiddenEdAtStartup
@@ -3093,10 +2421,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[IsHiddenEdAtStartup](ue_ue.SpotLight.md#ishiddenedatstartup)
-
-#### Defined in
-
-[ue/ue.d.ts:13264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13264)
 
 ___
 
@@ -3118,10 +2442,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[IsOverlappingActor](ue_ue.SpotLight.md#isoverlappingactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13265)
-
 ___
 
 ### IsSelectable
@@ -3135,10 +2455,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[IsSelectable](ue_ue.SpotLight.md#isselectable)
-
-#### Defined in
-
-[ue/ue.d.ts:13266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13266)
 
 ___
 
@@ -3159,10 +2475,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[IsTemporarilyHiddenInEditor](ue_ue.SpotLight.md#istemporarilyhiddenineditor)
-
-#### Defined in
-
-[ue/ue.d.ts:13267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13267)
 
 ___
 
@@ -3187,10 +2499,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[K2_AddActorLocalOffset](ue_ue.SpotLight.md#k2_addactorlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:13268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13268)
-
 ___
 
 ### K2\_AddActorLocalRotation
@@ -3213,10 +2521,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[K2_AddActorLocalRotation](ue_ue.SpotLight.md#k2_addactorlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13269)
 
 ___
 
@@ -3241,10 +2545,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[K2_AddActorLocalTransform](ue_ue.SpotLight.md#k2_addactorlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13270)
-
 ___
 
 ### K2\_AddActorWorldOffset
@@ -3267,10 +2567,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[K2_AddActorWorldOffset](ue_ue.SpotLight.md#k2_addactorworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:13271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13271)
 
 ___
 
@@ -3295,10 +2591,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[K2_AddActorWorldRotation](ue_ue.SpotLight.md#k2_addactorworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13272)
-
 ___
 
 ### K2\_AddActorWorldTransform
@@ -3321,10 +2613,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[K2_AddActorWorldTransform](ue_ue.SpotLight.md#k2_addactorworldtransform)
-
-#### Defined in
-
-[ue/ue.d.ts:13273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13273)
 
 ___
 
@@ -3349,10 +2637,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[K2_AttachRootComponentTo](ue_ue.SpotLight.md#k2_attachrootcomponentto)
 
-#### Defined in
-
-[ue/ue.d.ts:13274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13274)
-
 ___
 
 ### K2\_AttachRootComponentToActor
@@ -3375,10 +2659,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[K2_AttachRootComponentToActor](ue_ue.SpotLight.md#k2_attachrootcomponenttoactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13275)
 
 ___
 
@@ -3405,10 +2685,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[K2_AttachToActor](ue_ue.SpotLight.md#k2_attachtoactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13276)
-
 ___
 
 ### K2\_AttachToComponent
@@ -3434,10 +2710,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[K2_AttachToComponent](ue_ue.SpotLight.md#k2_attachtocomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13277)
-
 ___
 
 ### K2\_DestroyActor
@@ -3451,10 +2723,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[K2_DestroyActor](ue_ue.SpotLight.md#k2_destroyactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13278)
 
 ___
 
@@ -3475,10 +2743,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[K2_DestroyComponent](ue_ue.SpotLight.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13279)
 
 ___
 
@@ -3502,10 +2766,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[K2_DetachFromActor](ue_ue.SpotLight.md#k2_detachfromactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13280)
-
 ___
 
 ### K2\_GetActorLocation
@@ -3520,10 +2780,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[K2_GetActorLocation](ue_ue.SpotLight.md#k2_getactorlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:13281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13281)
-
 ___
 
 ### K2\_GetActorRotation
@@ -3537,10 +2793,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[K2_GetActorRotation](ue_ue.SpotLight.md#k2_getactorrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13282)
 
 ___
 
@@ -3562,10 +2814,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[K2_GetComponentsByClass](ue_ue.SpotLight.md#k2_getcomponentsbyclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13283)
-
 ___
 
 ### K2\_GetRootComponent
@@ -3579,10 +2827,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[K2_GetRootComponent](ue_ue.SpotLight.md#k2_getrootcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13284)
 
 ___
 
@@ -3604,10 +2848,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[K2_OnBecomeViewTarget](ue_ue.SpotLight.md#k2_onbecomeviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13285)
-
 ___
 
 ### K2\_OnEndViewTarget
@@ -3628,10 +2868,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[K2_OnEndViewTarget](ue_ue.SpotLight.md#k2_onendviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13286)
-
 ___
 
 ### K2\_OnReset
@@ -3645,10 +2881,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[K2_OnReset](ue_ue.SpotLight.md#k2_onreset)
-
-#### Defined in
-
-[ue/ue.d.ts:13287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13287)
 
 ___
 
@@ -3672,10 +2904,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[K2_SetActorLocation](ue_ue.SpotLight.md#k2_setactorlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13288)
 
 ___
 
@@ -3701,10 +2929,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[K2_SetActorLocationAndRotation](ue_ue.SpotLight.md#k2_setactorlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13289)
-
 ___
 
 ### K2\_SetActorRelativeLocation
@@ -3727,10 +2951,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[K2_SetActorRelativeLocation](ue_ue.SpotLight.md#k2_setactorrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13290)
 
 ___
 
@@ -3755,10 +2975,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[K2_SetActorRelativeRotation](ue_ue.SpotLight.md#k2_setactorrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13291)
-
 ___
 
 ### K2\_SetActorRelativeTransform
@@ -3782,10 +2998,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[K2_SetActorRelativeTransform](ue_ue.SpotLight.md#k2_setactorrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13292)
-
 ___
 
 ### K2\_SetActorRotation
@@ -3806,10 +3018,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[K2_SetActorRotation](ue_ue.SpotLight.md#k2_setactorrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13293)
 
 ___
 
@@ -3834,10 +3042,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[K2_SetActorTransform](ue_ue.SpotLight.md#k2_setactortransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13294)
-
 ___
 
 ### K2\_TeleportTo
@@ -3859,10 +3063,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[K2_TeleportTo](ue_ue.SpotLight.md#k2_teleportto)
 
-#### Defined in
-
-[ue/ue.d.ts:13295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13295)
-
 ___
 
 ### MakeMIDForMaterial
@@ -3882,10 +3082,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[MakeMIDForMaterial](ue_ue.SpotLight.md#makemidformaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:13296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13296)
 
 ___
 
@@ -3911,10 +3107,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[MakeNoise](ue_ue.SpotLight.md#makenoise)
 
-#### Defined in
-
-[ue/ue.d.ts:13297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13297)
-
 ___
 
 ### OnRep\_AttachmentReplication
@@ -3928,10 +3120,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[OnRep_AttachmentReplication](ue_ue.SpotLight.md#onrep_attachmentreplication)
-
-#### Defined in
-
-[ue/ue.d.ts:13298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13298)
 
 ___
 
@@ -3947,10 +3135,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[OnRep_Instigator](ue_ue.SpotLight.md#onrep_instigator)
 
-#### Defined in
-
-[ue/ue.d.ts:13299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13299)
-
 ___
 
 ### OnRep\_Owner
@@ -3964,10 +3148,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[OnRep_Owner](ue_ue.SpotLight.md#onrep_owner)
-
-#### Defined in
-
-[ue/ue.d.ts:13300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13300)
 
 ___
 
@@ -3983,10 +3163,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[OnRep_ReplicateMovement](ue_ue.SpotLight.md#onrep_replicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13302)
-
 ___
 
 ### OnRep\_ReplicatedMovement
@@ -4001,10 +3177,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[OnRep_ReplicatedMovement](ue_ue.SpotLight.md#onrep_replicatedmovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13301)
-
 ___
 
 ### OnRep\_bEnabled
@@ -4018,10 +3190,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[OnRep_bEnabled](ue_ue.SpotLight.md#onrep_benabled)
-
-#### Defined in
-
-[ue/ue.d.ts:24663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24663)
 
 ___
 
@@ -4045,10 +3213,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[PrestreamTextures](ue_ue.SpotLight.md#prestreamtextures)
 
-#### Defined in
-
-[ue/ue.d.ts:13303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13303)
-
 ___
 
 ### ReceiveActorBeginCursorOver
@@ -4062,10 +3226,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[ReceiveActorBeginCursorOver](ue_ue.SpotLight.md#receiveactorbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13304)
 
 ___
 
@@ -4087,10 +3247,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[ReceiveActorBeginOverlap](ue_ue.SpotLight.md#receiveactorbeginoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13305)
-
 ___
 
 ### ReceiveActorEndCursorOver
@@ -4104,10 +3260,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[ReceiveActorEndCursorOver](ue_ue.SpotLight.md#receiveactorendcursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13306)
 
 ___
 
@@ -4129,10 +3281,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[ReceiveActorEndOverlap](ue_ue.SpotLight.md#receiveactorendoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13307)
-
 ___
 
 ### ReceiveActorOnClicked
@@ -4152,10 +3300,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[ReceiveActorOnClicked](ue_ue.SpotLight.md#receiveactoronclicked)
-
-#### Defined in
-
-[ue/ue.d.ts:13308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13308)
 
 ___
 
@@ -4177,10 +3321,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[ReceiveActorOnInputTouchBegin](ue_ue.SpotLight.md#receiveactoroninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:13309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13309)
-
 ___
 
 ### ReceiveActorOnInputTouchEnd
@@ -4200,10 +3340,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[ReceiveActorOnInputTouchEnd](ue_ue.SpotLight.md#receiveactoroninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:13310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13310)
 
 ___
 
@@ -4225,10 +3361,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[ReceiveActorOnInputTouchEnter](ue_ue.SpotLight.md#receiveactoroninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:13311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13311)
-
 ___
 
 ### ReceiveActorOnInputTouchLeave
@@ -4249,10 +3381,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[ReceiveActorOnInputTouchLeave](ue_ue.SpotLight.md#receiveactoroninputtouchleave)
 
-#### Defined in
-
-[ue/ue.d.ts:13312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13312)
-
 ___
 
 ### ReceiveActorOnReleased
@@ -4272,10 +3400,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[ReceiveActorOnReleased](ue_ue.SpotLight.md#receiveactoronreleased)
-
-#### Defined in
-
-[ue/ue.d.ts:13313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13313)
 
 ___
 
@@ -4300,10 +3424,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[ReceiveAnyDamage](ue_ue.SpotLight.md#receiveanydamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13314)
-
 ___
 
 ### ReceiveBeginPlay
@@ -4318,10 +3438,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[ReceiveBeginPlay](ue_ue.SpotLight.md#receivebeginplay)
 
-#### Defined in
-
-[ue/ue.d.ts:13315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13315)
-
 ___
 
 ### ReceiveDestroyed
@@ -4335,10 +3451,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[ReceiveDestroyed](ue_ue.SpotLight.md#receivedestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13316)
 
 ___
 
@@ -4359,10 +3471,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[ReceiveEndPlay](ue_ue.SpotLight.md#receiveendplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13317)
 
 ___
 
@@ -4390,10 +3498,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[ReceiveHit](ue_ue.SpotLight.md#receivehit)
-
-#### Defined in
-
-[ue/ue.d.ts:13318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13318)
 
 ___
 
@@ -4424,10 +3528,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[ReceivePointDamage](ue_ue.SpotLight.md#receivepointdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13319)
-
 ___
 
 ### ReceiveRadialDamage
@@ -4453,10 +3553,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[ReceiveRadialDamage](ue_ue.SpotLight.md#receiveradialdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13320)
-
 ___
 
 ### ReceiveTick
@@ -4476,10 +3572,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[ReceiveTick](ue_ue.SpotLight.md#receivetick)
-
-#### Defined in
-
-[ue/ue.d.ts:13321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13321)
 
 ___
 
@@ -4501,10 +3593,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[RemoveTickPrerequisiteActor](ue_ue.SpotLight.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -4524,10 +3612,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[RemoveTickPrerequisiteComponent](ue_ue.SpotLight.md#removetickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13323)
 
 ___
 
@@ -4549,10 +3633,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[SetActorEnableCollision](ue_ue.SpotLight.md#setactorenablecollision)
 
-#### Defined in
-
-[ue/ue.d.ts:13324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13324)
-
 ___
 
 ### SetActorHiddenInGame
@@ -4572,10 +3652,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[SetActorHiddenInGame](ue_ue.SpotLight.md#setactorhiddeningame)
-
-#### Defined in
-
-[ue/ue.d.ts:13325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13325)
 
 ___
 
@@ -4598,10 +3674,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[SetActorLabel](ue_ue.SpotLight.md#setactorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13326)
-
 ___
 
 ### SetActorRelativeScale3D
@@ -4621,10 +3693,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[SetActorRelativeScale3D](ue_ue.SpotLight.md#setactorrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13327)
 
 ___
 
@@ -4646,10 +3714,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[SetActorScale3D](ue_ue.SpotLight.md#setactorscale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:13328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13328)
-
 ___
 
 ### SetActorTickEnabled
@@ -4669,10 +3733,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[SetActorTickEnabled](ue_ue.SpotLight.md#setactortickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:13329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13329)
 
 ___
 
@@ -4694,10 +3754,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[SetActorTickInterval](ue_ue.SpotLight.md#setactortickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:13330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13330)
-
 ___
 
 ### SetAffectTranslucentLighting
@@ -4717,10 +3773,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[SetAffectTranslucentLighting](ue_ue.SpotLight.md#setaffecttranslucentlighting)
-
-#### Defined in
-
-[ue/ue.d.ts:24664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24664)
 
 ___
 
@@ -4742,10 +3794,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[SetBrightness](ue_ue.SpotLight.md#setbrightness)
 
-#### Defined in
-
-[ue/ue.d.ts:24665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24665)
-
 ___
 
 ### SetCastShadows
@@ -4765,10 +3813,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[SetCastShadows](ue_ue.SpotLight.md#setcastshadows)
-
-#### Defined in
-
-[ue/ue.d.ts:24666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24666)
 
 ___
 
@@ -4790,10 +3834,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[SetEnabled](ue_ue.SpotLight.md#setenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:24667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24667)
-
 ___
 
 ### SetFolderPath
@@ -4813,10 +3853,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[SetFolderPath](ue_ue.SpotLight.md#setfolderpath)
-
-#### Defined in
-
-[ue/ue.d.ts:13331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13331)
 
 ___
 
@@ -4838,10 +3874,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[SetInnerConeAngle](ue_ue.SpotLight.md#setinnerconeangle)
 
-#### Defined in
-
-[ue/ue.d.ts:37481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37481)
-
 ___
 
 ### SetIsTemporarilyHiddenInEditor
@@ -4861,10 +3893,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[SetIsTemporarilyHiddenInEditor](ue_ue.SpotLight.md#setistemporarilyhiddenineditor)
-
-#### Defined in
-
-[ue/ue.d.ts:13332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13332)
 
 ___
 
@@ -4886,10 +3914,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[SetLifeSpan](ue_ue.SpotLight.md#setlifespan)
 
-#### Defined in
-
-[ue/ue.d.ts:13333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13333)
-
 ___
 
 ### SetLightColor
@@ -4909,10 +3933,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[SetLightColor](ue_ue.SpotLight.md#setlightcolor)
-
-#### Defined in
-
-[ue/ue.d.ts:24668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24668)
 
 ___
 
@@ -4934,10 +3954,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[SetLightFunctionFadeDistance](ue_ue.SpotLight.md#setlightfunctionfadedistance)
 
-#### Defined in
-
-[ue/ue.d.ts:24669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24669)
-
 ___
 
 ### SetLightFunctionMaterial
@@ -4957,10 +3973,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[SetLightFunctionMaterial](ue_ue.SpotLight.md#setlightfunctionmaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:24670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24670)
 
 ___
 
@@ -4982,10 +3994,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[SetLightFunctionScale](ue_ue.SpotLight.md#setlightfunctionscale)
 
-#### Defined in
-
-[ue/ue.d.ts:24671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24671)
-
 ___
 
 ### SetNetDormancy
@@ -5005,10 +4013,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[SetNetDormancy](ue_ue.SpotLight.md#setnetdormancy)
-
-#### Defined in
-
-[ue/ue.d.ts:13334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13334)
 
 ___
 
@@ -5030,10 +4034,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[SetOuterConeAngle](ue_ue.SpotLight.md#setouterconeangle)
 
-#### Defined in
-
-[ue/ue.d.ts:37482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37482)
-
 ___
 
 ### SetOwner
@@ -5053,10 +4053,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[SetOwner](ue_ue.SpotLight.md#setowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13335)
 
 ___
 
@@ -5078,10 +4074,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[SetReplicateMovement](ue_ue.SpotLight.md#setreplicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13336)
-
 ___
 
 ### SetReplicates
@@ -5101,10 +4093,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[SetReplicates](ue_ue.SpotLight.md#setreplicates)
-
-#### Defined in
-
-[ue/ue.d.ts:13337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13337)
 
 ___
 
@@ -5126,10 +4114,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[SetTickGroup](ue_ue.SpotLight.md#settickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:13339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13339)
-
 ___
 
 ### SetTickableWhenPaused
@@ -5149,10 +4133,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[SetTickableWhenPaused](ue_ue.SpotLight.md#settickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:13338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13338)
 
 ___
 
@@ -5175,10 +4155,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[SnapRootComponentTo](ue_ue.SpotLight.md#snaprootcomponentto)
 
-#### Defined in
-
-[ue/ue.d.ts:13340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13340)
-
 ___
 
 ### TearOff
@@ -5192,10 +4168,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[TearOff](ue_ue.SpotLight.md#tearoff)
-
-#### Defined in
-
-[ue/ue.d.ts:13341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13341)
 
 ___
 
@@ -5211,10 +4183,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[ToggleEnabled](ue_ue.SpotLight.md#toggleenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:24672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24672)
-
 ___
 
 ### UserConstructionScript
@@ -5228,10 +4196,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[UserConstructionScript](ue_ue.SpotLight.md#userconstructionscript)
-
-#### Defined in
-
-[ue/ue.d.ts:13342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13342)
 
 ___
 
@@ -5252,10 +4216,6 @@ ___
 #### Inherited from
 
 [SpotLight](ue_ue.SpotLight.md).[WasRecentlyRendered](ue_ue.SpotLight.md#wasrecentlyrendered)
-
-#### Defined in
-
-[ue/ue.d.ts:13343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13343)
 
 ___
 
@@ -5278,10 +4238,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[Find](ue_ue.SpotLight.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:37493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37493)
-
 ___
 
 ### Load
@@ -5302,10 +4258,6 @@ ___
 
 [SpotLight](ue_ue.SpotLight.md).[Load](ue_ue.SpotLight.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:37494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37494)
-
 ___
 
 ### StaticClass
@@ -5319,7 +4271,3 @@ ___
 #### Overrides
 
 [SpotLight](ue_ue.SpotLight.md).[StaticClass](ue_ue.SpotLight.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:37492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37492)

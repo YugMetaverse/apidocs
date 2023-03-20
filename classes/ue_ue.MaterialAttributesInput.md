@@ -45,10 +45,6 @@
 
 [ExpressionInput](ue_ue.ExpressionInput.md).[constructor](ue_ue.ExpressionInput.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:1295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1295)
-
 • **new MaterialAttributesInput**(`PropertyConnectedBitmask`)
 
 #### Parameters
@@ -61,10 +57,6 @@
 
 [ExpressionInput](ue_ue.ExpressionInput.md).[constructor](ue_ue.ExpressionInput.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:1296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1296)
-
 ## Properties
 
 ### Expression
@@ -74,10 +66,6 @@
 #### Inherited from
 
 [ExpressionInput](ue_ue.ExpressionInput.md).[Expression](ue_ue.ExpressionInput.md#expression)
-
-#### Defined in
-
-[ue/ue.d.ts:1277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1277)
 
 ___
 
@@ -89,10 +77,6 @@ ___
 
 [ExpressionInput](ue_ue.ExpressionInput.md).[ExpressionName](ue_ue.ExpressionInput.md#expressionname)
 
-#### Defined in
-
-[ue/ue.d.ts:1285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1285)
-
 ___
 
 ### InputName
@@ -102,10 +86,6 @@ ___
 #### Inherited from
 
 [ExpressionInput](ue_ue.ExpressionInput.md).[InputName](ue_ue.ExpressionInput.md#inputname)
-
-#### Defined in
-
-[ue/ue.d.ts:1279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1279)
 
 ___
 
@@ -117,10 +97,6 @@ ___
 
 [ExpressionInput](ue_ue.ExpressionInput.md).[Mask](ue_ue.ExpressionInput.md#mask)
 
-#### Defined in
-
-[ue/ue.d.ts:1280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1280)
-
 ___
 
 ### MaskA
@@ -130,10 +106,6 @@ ___
 #### Inherited from
 
 [ExpressionInput](ue_ue.ExpressionInput.md).[MaskA](ue_ue.ExpressionInput.md#maska)
-
-#### Defined in
-
-[ue/ue.d.ts:1284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1284)
 
 ___
 
@@ -145,10 +117,6 @@ ___
 
 [ExpressionInput](ue_ue.ExpressionInput.md).[MaskB](ue_ue.ExpressionInput.md#maskb)
 
-#### Defined in
-
-[ue/ue.d.ts:1283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1283)
-
 ___
 
 ### MaskG
@@ -158,10 +126,6 @@ ___
 #### Inherited from
 
 [ExpressionInput](ue_ue.ExpressionInput.md).[MaskG](ue_ue.ExpressionInput.md#maskg)
-
-#### Defined in
-
-[ue/ue.d.ts:1282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1282)
 
 ___
 
@@ -173,10 +137,6 @@ ___
 
 [ExpressionInput](ue_ue.ExpressionInput.md).[MaskR](ue_ue.ExpressionInput.md#maskr)
 
-#### Defined in
-
-[ue/ue.d.ts:1281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1281)
-
 ___
 
 ### OutputIndex
@@ -187,29 +147,17 @@ ___
 
 [ExpressionInput](ue_ue.ExpressionInput.md).[OutputIndex](ue_ue.ExpressionInput.md#outputindex)
 
-#### Defined in
-
-[ue/ue.d.ts:1278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1278)
-
 ___
 
 ### PropertyConnectedBitmask
 
 • **PropertyConnectedBitmask**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1297)
-
 ___
 
 ### \_\_tid\_MaterialAttributesInput\_\_
 
 • `Private` **\_\_tid\_MaterialAttributesInput\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1303)
 
 ## Methods
 
@@ -229,10 +177,6 @@ use StaticStruct instead.
 
 [ExpressionInput](ue_ue.ExpressionInput.md).[StaticClass](ue_ue.ExpressionInput.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:1301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1301)
-
 ___
 
 ### StaticStruct
@@ -246,7 +190,3 @@ ___
 #### Overrides
 
 [ExpressionInput](ue_ue.ExpressionInput.md).[StaticStruct](ue_ue.ExpressionInput.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:1302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1302)

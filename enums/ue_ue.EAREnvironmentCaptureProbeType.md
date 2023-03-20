@@ -20,19 +20,11 @@
 
 • **Automatic** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20733)
-
 ___
 
 ### EAREnvironmentCaptureProbeType\_MAX
 
 • **EAREnvironmentCaptureProbeType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20733)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Manual** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20733)
-
 ___
 
 ### None
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20733)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20733)

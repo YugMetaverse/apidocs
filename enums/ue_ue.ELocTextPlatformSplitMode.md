@@ -20,19 +20,11 @@
 
 • **All** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33978)
-
 ___
 
 ### ELocTextPlatformSplitMode\_MAX
 
 • **ELocTextPlatformSplitMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33978)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33978)
-
 ___
 
 ### Restricted
 
 • **Restricted** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33978)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33978)

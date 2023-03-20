@@ -58,19 +58,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:54890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54890)
-
 ## Properties
 
 ### AssetImportData
 
 • **AssetImportData**: [`AssetImportData`](ue_ue.AssetImportData.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54897)
 
 ___
 
@@ -78,19 +70,11 @@ ___
 
 • **NormalMapTexture**: [`Texture2D`](ue_ue.Texture2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54896)
-
 ___
 
 ### NormalMapTextureName
 
 • **NormalMapTextureName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:54895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54895)
 
 ___
 
@@ -98,19 +82,11 @@ ___
 
 • **SpriteNames**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:54891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54891)
-
 ___
 
 ### Sprites
 
 • **Sprites**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`PaperSprite`](ue_ue.PaperSprite.md)\>\>
-
-#### Defined in
-
-[ue/ue.d.ts:54892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54892)
 
 ___
 
@@ -118,19 +94,11 @@ ___
 
 • **Texture**: [`Texture2D`](ue_ue.Texture2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54894)
-
 ___
 
 ### TextureName
 
 • **TextureName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:54893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54893)
 
 ___
 
@@ -142,19 +110,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PaperSpriteSheet\_\_
 
 • **\_\_tid\_PaperSpriteSheet\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54902)
 
 ## Methods
 
@@ -180,10 +140,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -204,10 +160,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -221,10 +173,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -240,10 +188,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -258,10 +202,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -275,10 +215,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -301,10 +237,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:54899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54899)
-
 ___
 
 ### Load
@@ -325,10 +257,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:54900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54900)
-
 ___
 
 ### StaticClass
@@ -342,7 +270,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:54898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54898)

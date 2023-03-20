@@ -26,10 +26,6 @@
 
 • **new FrameNumber**()
 
-#### Defined in
-
-[ue/ue.d.ts:11318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11318)
-
 • **new FrameNumber**(`Value`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Value` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:11319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11319)
-
 ## Properties
 
 ### Value
 
 • **Value**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11320)
-
 ___
 
 ### \_\_tid\_FrameNumber\_\_
 
 • `Private` **\_\_tid\_FrameNumber\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11326)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11324)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11325)

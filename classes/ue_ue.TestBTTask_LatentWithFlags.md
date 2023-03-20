@@ -67,19 +67,11 @@
 
 [BTTaskNode](ue_ue.BTTaskNode.md).[constructor](ue_ue.BTTaskNode.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:62888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62888)
-
 ## Properties
 
 ### AbortTicks
 
 • **AbortTicks**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:62894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62894)
 
 ___
 
@@ -87,19 +79,11 @@ ___
 
 • **ExecuteTicks**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:62893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62893)
-
 ___
 
 ### KeyNameAbort
 
 • **KeyNameAbort**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:62896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62896)
 
 ___
 
@@ -107,19 +91,11 @@ ___
 
 • **KeyNameExecute**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:62895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62895)
-
 ___
 
 ### LogIndexAbortFinish
 
 • **LogIndexAbortFinish**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:62892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62892)
 
 ___
 
@@ -127,19 +103,11 @@ ___
 
 • **LogIndexAbortStart**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:62891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62891)
-
 ___
 
 ### LogIndexExecuteFinish
 
 • **LogIndexExecuteFinish**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:62890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62890)
 
 ___
 
@@ -147,19 +115,11 @@ ___
 
 • **LogIndexExecuteStart**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:62889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62889)
-
 ___
 
 ### LogResult
 
 • **LogResult**: [`EBTNodeResult`](../enums/ue_ue.EBTNodeResult.md)
-
-#### Defined in
-
-[ue/ue.d.ts:62897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62897)
 
 ___
 
@@ -171,10 +131,6 @@ ___
 
 [BTTaskNode](ue_ue.BTTaskNode.md).[NodeName](ue_ue.BTTaskNode.md#nodename)
 
-#### Defined in
-
-[ue/ue.d.ts:14567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14567)
-
 ___
 
 ### ParentNode
@@ -184,10 +140,6 @@ ___
 #### Inherited from
 
 [BTTaskNode](ue_ue.BTTaskNode.md).[ParentNode](ue_ue.BTTaskNode.md#parentnode)
-
-#### Defined in
-
-[ue/ue.d.ts:14569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14569)
 
 ___
 
@@ -199,10 +151,6 @@ ___
 
 [BTTaskNode](ue_ue.BTTaskNode.md).[Services](ue_ue.BTTaskNode.md#services)
 
-#### Defined in
-
-[ue/ue.d.ts:14601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14601)
-
 ___
 
 ### TreeAsset
@@ -212,10 +160,6 @@ ___
 #### Inherited from
 
 [BTTaskNode](ue_ue.BTTaskNode.md).[TreeAsset](ue_ue.BTTaskNode.md#treeasset)
-
-#### Defined in
-
-[ue/ue.d.ts:14568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14568)
 
 ___
 
@@ -227,10 +171,6 @@ ___
 
 [BTTaskNode](ue_ue.BTTaskNode.md).[__tid_BTNode__](ue_ue.BTTaskNode.md#__tid_btnode__)
 
-#### Defined in
-
-[ue/ue.d.ts:14574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14574)
-
 ___
 
 ### \_\_tid\_BTTaskNode\_\_
@@ -240,10 +180,6 @@ ___
 #### Inherited from
 
 [BTTaskNode](ue_ue.BTTaskNode.md).[__tid_BTTaskNode__](ue_ue.BTTaskNode.md#__tid_bttasknode__)
-
-#### Defined in
-
-[ue/ue.d.ts:14607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14607)
 
 ___
 
@@ -255,19 +191,11 @@ ___
 
 [BTTaskNode](ue_ue.BTTaskNode.md).[__tid_Object__](ue_ue.BTTaskNode.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_TestBTTask\_LatentWithFlags\_\_
 
 • **\_\_tid\_TestBTTask\_LatentWithFlags\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:62902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62902)
 
 ___
 
@@ -278,10 +206,6 @@ ___
 #### Inherited from
 
 [BTTaskNode](ue_ue.BTTaskNode.md).[bIgnoreRestartSelf](ue_ue.BTTaskNode.md#bignorerestartself)
-
-#### Defined in
-
-[ue/ue.d.ts:14602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14602)
 
 ## Methods
 
@@ -307,10 +231,6 @@ ___
 
 [BTTaskNode](ue_ue.BTTaskNode.md).[CreateDefaultSubobject](ue_ue.BTTaskNode.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -331,10 +251,6 @@ ___
 
 [BTTaskNode](ue_ue.BTTaskNode.md).[ExecuteUbergraph](ue_ue.BTTaskNode.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -348,10 +264,6 @@ ___
 #### Inherited from
 
 [BTTaskNode](ue_ue.BTTaskNode.md).[GetClass](ue_ue.BTTaskNode.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -367,10 +279,6 @@ ___
 
 [BTTaskNode](ue_ue.BTTaskNode.md).[GetName](ue_ue.BTTaskNode.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -385,10 +293,6 @@ ___
 
 [BTTaskNode](ue_ue.BTTaskNode.md).[GetOuter](ue_ue.BTTaskNode.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -402,10 +306,6 @@ ___
 #### Inherited from
 
 [BTTaskNode](ue_ue.BTTaskNode.md).[GetWorld](ue_ue.BTTaskNode.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -428,10 +328,6 @@ ___
 
 [BTTaskNode](ue_ue.BTTaskNode.md).[Find](ue_ue.BTTaskNode.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:62899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62899)
-
 ___
 
 ### Load
@@ -452,10 +348,6 @@ ___
 
 [BTTaskNode](ue_ue.BTTaskNode.md).[Load](ue_ue.BTTaskNode.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:62900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62900)
-
 ___
 
 ### StaticClass
@@ -469,7 +361,3 @@ ___
 #### Overrides
 
 [BTTaskNode](ue_ue.BTTaskNode.md).[StaticClass](ue_ue.BTTaskNode.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:62898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62898)

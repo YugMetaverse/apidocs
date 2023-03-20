@@ -24,19 +24,11 @@
 
 • **BlueprintFeature** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31415)
-
 ___
 
 ### CodeFeature
 
 • **CodeFeature** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31415)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **Content** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31415)
-
 ___
 
 ### EContentSourceCategory\_MAX
 
 • **EContentSourceCategory\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31415)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **EnterpriseContent** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31415)
-
 ___
 
 ### EnterpriseFeature
 
 • **EnterpriseFeature** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31415)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **SharedPack** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31415)
-
 ___
 
 ### Unknown
 
 • **Unknown** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31415)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31415)

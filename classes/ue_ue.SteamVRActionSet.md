@@ -26,10 +26,6 @@
 
 • **new SteamVRActionSet**()
 
-#### Defined in
-
-[ue/ue.d.ts:62219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62219)
-
 • **new SteamVRActionSet**(`Path`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Path` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:62220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62220)
-
 ## Properties
 
 ### Path
 
 • **Path**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:62221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62221)
-
 ___
 
 ### \_\_tid\_SteamVRActionSet\_\_
 
 • `Private` **\_\_tid\_SteamVRActionSet\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:62227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62227)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:62225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62225)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:62226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62226)

@@ -21,19 +21,11 @@
 
 • **EEnvTestFilterType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15488)
-
 ___
 
 ### Match
 
 • **Match** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15488)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Maximum** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15488)
-
 ___
 
 ### Minimum
 
 • **Minimum** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15488)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Range** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15488)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15488)

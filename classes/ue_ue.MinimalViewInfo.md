@@ -39,10 +39,6 @@
 
 • **new MinimalViewInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:6629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6629)
-
 • **new MinimalViewInfo**(`Location`, `Rotation`, `FOV`, `DesiredFOV`, `OrthoWidth`, `OrthoNearClipPlane`, `OrthoFarClipPlane`, `AspectRatio`, `bConstrainAspectRatio`, `bUseFieldOfViewForLOD`, `ProjectionMode`, `PostProcessBlendWeight`, `PostProcessSettings`, `OffCenterProjectionOffset`)
 
 #### Parameters
@@ -64,19 +60,11 @@
 | `PostProcessSettings` | [`PostProcessSettings`](ue_ue.PostProcessSettings.md) |
 | `OffCenterProjectionOffset` | [`Vector2D`](ue_ue_s.Vector2D.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:6630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6630)
-
 ## Properties
 
 ### AspectRatio
 
 • **AspectRatio**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6638)
 
 ___
 
@@ -84,19 +72,11 @@ ___
 
 • **DesiredFOV**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6634)
-
 ___
 
 ### FOV
 
 • **FOV**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6633)
 
 ___
 
@@ -104,19 +84,11 @@ ___
 
 • **Location**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6631](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6631)
-
 ___
 
 ### OffCenterProjectionOffset
 
 • **OffCenterProjectionOffset**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6644)
 
 ___
 
@@ -124,19 +96,11 @@ ___
 
 • **OrthoFarClipPlane**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6637)
-
 ___
 
 ### OrthoNearClipPlane
 
 • **OrthoNearClipPlane**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6636)
 
 ___
 
@@ -144,19 +108,11 @@ ___
 
 • **OrthoWidth**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6635)
-
 ___
 
 ### PostProcessBlendWeight
 
 • **PostProcessBlendWeight**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6642)
 
 ___
 
@@ -164,19 +120,11 @@ ___
 
 • **PostProcessSettings**: [`PostProcessSettings`](ue_ue.PostProcessSettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6643)
-
 ___
 
 ### ProjectionMode
 
 • **ProjectionMode**: [`ECameraProjectionMode`](../enums/ue_ue.ECameraProjectionMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6641)
 
 ___
 
@@ -184,19 +132,11 @@ ___
 
 • **Rotation**: [`Rotator`](ue_ue_s.Rotator.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6632)
-
 ___
 
 ### \_\_tid\_MinimalViewInfo\_\_
 
 • `Private` **\_\_tid\_MinimalViewInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6650)
 
 ___
 
@@ -204,19 +144,11 @@ ___
 
 • **bConstrainAspectRatio**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6639)
-
 ___
 
 ### bUseFieldOfViewForLOD
 
 • **bUseFieldOfViewForLOD**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6640)
 
 ## Methods
 
@@ -232,10 +164,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6648)
-
 ___
 
 ### StaticStruct
@@ -245,7 +173,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6649)

@@ -28,10 +28,6 @@
 
 • **new CustomMeshTriangle**()
 
-#### Defined in
-
-[ue/ue.d.ts:29261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29261)
-
 • **new CustomMeshTriangle**(`Vertex0`, `Vertex1`, `Vertex2`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Vertex1` | [`Vector`](ue_ue_s.Vector.md) |
 | `Vertex2` | [`Vector`](ue_ue_s.Vector.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:29262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29262)
-
 ## Properties
 
 ### Vertex0
 
 • **Vertex0**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29263)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Vertex1**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29264)
-
 ___
 
 ### Vertex2
 
 • **Vertex2**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29265)
-
 ___
 
 ### \_\_tid\_CustomMeshTriangle\_\_
 
 • `Private` **\_\_tid\_CustomMeshTriangle\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29271)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29269)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29270)

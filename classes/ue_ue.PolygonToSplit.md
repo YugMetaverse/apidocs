@@ -27,10 +27,6 @@
 
 • **new PolygonToSplit**()
 
-#### Defined in
-
-[ue/ue.d.ts:31621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31621)
-
 • **new PolygonToSplit**(`PolygonID`, `VertexPairsToSplitAt`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `PolygonID` | [`PolygonID`](ue_ue.PolygonID.md) |
 | `VertexPairsToSplitAt` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`VertexPair`](ue_ue.VertexPair.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:31622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31622)
-
 ## Properties
 
 ### PolygonID
 
 • **PolygonID**: [`PolygonID`](ue_ue.PolygonID.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31623)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **VertexPairsToSplitAt**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`VertexPair`](ue_ue.VertexPair.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:31624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31624)
-
 ___
 
 ### \_\_tid\_PolygonToSplit\_\_
 
 • `Private` **\_\_tid\_PolygonToSplit\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31630)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31628)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31629)

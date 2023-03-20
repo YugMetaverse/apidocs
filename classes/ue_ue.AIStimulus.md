@@ -32,10 +32,6 @@
 
 • **new AIStimulus**()
 
-#### Defined in
-
-[ue/ue.d.ts:14766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14766)
-
 • **new AIStimulus**(`Age`, `ExpirationAge`, `Strength`, `StimulusLocation`, `ReceiverLocation`, `Tag`, `bSuccessfullySensed`)
 
 #### Parameters
@@ -50,19 +46,11 @@
 | `Tag` | `string` |
 | `bSuccessfullySensed` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:14767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14767)
-
 ## Properties
 
 ### Age
 
 • **Age**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14768)
 
 ___
 
@@ -70,19 +58,11 @@ ___
 
 • **ExpirationAge**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14769)
-
 ___
 
 ### ReceiverLocation
 
 • **ReceiverLocation**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14772)
 
 ___
 
@@ -90,19 +70,11 @@ ___
 
 • **StimulusLocation**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14771)
-
 ___
 
 ### Strength
 
 • **Strength**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14770)
 
 ___
 
@@ -110,29 +82,17 @@ ___
 
 • **Tag**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:14773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14773)
-
 ___
 
 ### \_\_tid\_AIStimulus\_\_
 
 • `Private` **\_\_tid\_AIStimulus\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:14780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14780)
-
 ___
 
 ### bSuccessfullySensed
 
 • **bSuccessfullySensed**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14774)
 
 ## Methods
 
@@ -148,10 +108,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14778](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14778)
-
 ___
 
 ### StaticStruct
@@ -161,7 +117,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14779)

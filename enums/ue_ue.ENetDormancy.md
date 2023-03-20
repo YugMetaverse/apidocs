@@ -22,19 +22,11 @@
 
 • **DORM\_Awake** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12981)
-
 ___
 
 ### DORM\_DormantAll
 
 • **DORM\_DormantAll** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12981)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **DORM\_DormantPartial** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12981)
-
 ___
 
 ### DORM\_Initial
 
 • **DORM\_Initial** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12981)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **DORM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12981)
-
 ___
 
 ### DORM\_Never
 
 • **DORM\_Never** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12981)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12981)

@@ -67,29 +67,17 @@
 
 [MovieSceneSignedObject](ue_ue.MovieSceneSignedObject.md).[constructor](ue_ue.MovieSceneSignedObject.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:11107](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11107)
-
 ## Properties
 
 ### DisplayOptions
 
 • **DisplayOptions**: [`MovieSceneTrackDisplayOptions`](ue_ue.MovieSceneTrackDisplayOptions.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11109](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11109)
-
 ___
 
 ### EvalOptions
 
 • **EvalOptions**: [`MovieSceneTrackEvalOptions`](ue_ue.MovieSceneTrackEvalOptions.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11108)
 
 ___
 
@@ -101,29 +89,17 @@ ___
 
 [MovieSceneSignedObject](ue_ue.MovieSceneSignedObject.md).[Signature](ue_ue.MovieSceneSignedObject.md#signature)
 
-#### Defined in
-
-[ue/ue.d.ts:11034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11034)
-
 ___
 
 ### SortingOrder
 
 • **SortingOrder**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11112)
-
 ___
 
 ### TrackTint
 
 • **TrackTint**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11111)
 
 ___
 
@@ -135,19 +111,11 @@ ___
 
 [MovieSceneSignedObject](ue_ue.MovieSceneSignedObject.md).[__tid_MovieSceneSignedObject__](ue_ue.MovieSceneSignedObject.md#__tid_moviescenesignedobject__)
 
-#### Defined in
-
-[ue/ue.d.ts:11039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11039)
-
 ___
 
 ### \_\_tid\_MovieSceneTrack\_\_
 
 • **\_\_tid\_MovieSceneTrack\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11118)
 
 ___
 
@@ -159,29 +127,17 @@ ___
 
 [MovieSceneSignedObject](ue_ue.MovieSceneSignedObject.md).[__tid_Object__](ue_ue.MovieSceneSignedObject.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bIsEvalDisabled
 
 • **bIsEvalDisabled**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:11110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11110)
-
 ___
 
 ### bSupportsDefaultSections
 
 • **bSupportsDefaultSections**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11113)
 
 ## Methods
 
@@ -207,10 +163,6 @@ ___
 
 [MovieSceneSignedObject](ue_ue.MovieSceneSignedObject.md).[CreateDefaultSubobject](ue_ue.MovieSceneSignedObject.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -231,10 +183,6 @@ ___
 
 [MovieSceneSignedObject](ue_ue.MovieSceneSignedObject.md).[ExecuteUbergraph](ue_ue.MovieSceneSignedObject.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -248,10 +196,6 @@ ___
 #### Inherited from
 
 [MovieSceneSignedObject](ue_ue.MovieSceneSignedObject.md).[GetClass](ue_ue.MovieSceneSignedObject.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -267,10 +211,6 @@ ___
 
 [MovieSceneSignedObject](ue_ue.MovieSceneSignedObject.md).[GetName](ue_ue.MovieSceneSignedObject.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -285,10 +225,6 @@ ___
 
 [MovieSceneSignedObject](ue_ue.MovieSceneSignedObject.md).[GetOuter](ue_ue.MovieSceneSignedObject.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -302,10 +238,6 @@ ___
 #### Inherited from
 
 [MovieSceneSignedObject](ue_ue.MovieSceneSignedObject.md).[GetWorld](ue_ue.MovieSceneSignedObject.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -328,10 +260,6 @@ ___
 
 [MovieSceneSignedObject](ue_ue.MovieSceneSignedObject.md).[Find](ue_ue.MovieSceneSignedObject.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:11115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11115)
-
 ___
 
 ### Load
@@ -352,10 +280,6 @@ ___
 
 [MovieSceneSignedObject](ue_ue.MovieSceneSignedObject.md).[Load](ue_ue.MovieSceneSignedObject.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:11116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11116)
-
 ___
 
 ### StaticClass
@@ -369,7 +293,3 @@ ___
 #### Overrides
 
 [MovieSceneSignedObject](ue_ue.MovieSceneSignedObject.md).[StaticClass](ue_ue.MovieSceneSignedObject.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:11114](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11114)

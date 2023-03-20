@@ -21,19 +21,11 @@
 
 • **EGeometryCollectionCacheType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26615)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26615)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Play** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26615)
-
 ___
 
 ### Record
 
 • **Record** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26615)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **RecordAndPlay** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26615)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26615)

@@ -27,10 +27,6 @@
 
 • **new WalkableSlopeOverride**()
 
-#### Defined in
-
-[ue/ue.d.ts:671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L671)
-
 • **new WalkableSlopeOverride**(`WalkableSlopeBehavior`, `WalkableSlopeAngle`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `WalkableSlopeBehavior` | [`EWalkableSlopeBehavior`](../enums/ue_ue.EWalkableSlopeBehavior.md) |
 | `WalkableSlopeAngle` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L672)
-
 ## Properties
 
 ### WalkableSlopeAngle
 
 • **WalkableSlopeAngle**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L674)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **WalkableSlopeBehavior**: [`EWalkableSlopeBehavior`](../enums/ue_ue.EWalkableSlopeBehavior.md)
 
-#### Defined in
-
-[ue/ue.d.ts:673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L673)
-
 ___
 
 ### \_\_tid\_WalkableSlopeOverride\_\_
 
 • `Private` **\_\_tid\_WalkableSlopeOverride\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L680)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L678)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L679)

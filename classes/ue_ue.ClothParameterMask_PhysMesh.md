@@ -31,10 +31,6 @@
 
 • **new ClothParameterMask_PhysMesh**()
 
-#### Defined in
-
-[ue/ue.d.ts:27874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27874)
-
 • **new ClothParameterMask_PhysMesh**(`MaskName`, `CurrentTarget`, `MaxValue`, `MinValue`, `Values`, `bEnabled`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `Values` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\> |
 | `bEnabled` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:27875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27875)
-
 ## Properties
 
 ### CurrentTarget
 
 • **CurrentTarget**: [`MaskTarget_PhysMesh`](../enums/ue_ue.MaskTarget_PhysMesh.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27877)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **MaskName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:27876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27876)
-
 ___
 
 ### MaxValue
 
 • **MaxValue**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27878)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **MinValue**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27879)
-
 ___
 
 ### Values
 
 • **Values**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:27880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27880)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • `Private` **\_\_tid\_ClothParameterMask\_PhysMesh\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:27887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27887)
-
 ___
 
 ### bEnabled
 
 • **bEnabled**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27881)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27885)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27886)

@@ -19,19 +19,11 @@
 
 • **VR\_SummaryType\_FromAnimation** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34777](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34777)
-
 ___
 
 ### VR\_SummaryType\_FromDevice
 
 • **VR\_SummaryType\_FromDevice** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34777](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34777)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **VR\_SummaryType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34777](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34777)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34777](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34777)

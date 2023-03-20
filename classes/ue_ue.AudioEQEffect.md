@@ -37,10 +37,6 @@
 
 • **new AudioEQEffect**()
 
-#### Defined in
-
-[ue/ue.d.ts:8825](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8825)
-
 • **new AudioEQEffect**(`FrequencyCenter0`, `Gain0`, `Bandwidth0`, `FrequencyCenter1`, `Gain1`, `Bandwidth1`, `FrequencyCenter2`, `Gain2`, `Bandwidth2`, `FrequencyCenter3`, `Gain3`, `Bandwidth3`)
 
 #### Parameters
@@ -60,19 +56,11 @@
 | `Gain3` | `number` |
 | `Bandwidth3` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:8826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8826)
-
 ## Properties
 
 ### Bandwidth0
 
 • **Bandwidth0**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8829)
 
 ___
 
@@ -80,19 +68,11 @@ ___
 
 • **Bandwidth1**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8832)
-
 ___
 
 ### Bandwidth2
 
 • **Bandwidth2**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8835](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8835)
 
 ___
 
@@ -100,19 +80,11 @@ ___
 
 • **Bandwidth3**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8838)
-
 ___
 
 ### FrequencyCenter0
 
 • **FrequencyCenter0**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8827)
 
 ___
 
@@ -120,19 +92,11 @@ ___
 
 • **FrequencyCenter1**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8830)
-
 ___
 
 ### FrequencyCenter2
 
 • **FrequencyCenter2**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8833)
 
 ___
 
@@ -140,19 +104,11 @@ ___
 
 • **FrequencyCenter3**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8836)
-
 ___
 
 ### Gain0
 
 • **Gain0**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8828)
 
 ___
 
@@ -160,19 +116,11 @@ ___
 
 • **Gain1**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8831)
-
 ___
 
 ### Gain2
 
 • **Gain2**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8834)
 
 ___
 
@@ -180,19 +128,11 @@ ___
 
 • **Gain3**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8837)
-
 ___
 
 ### \_\_tid\_AudioEQEffect\_\_
 
 • `Private` **\_\_tid\_AudioEQEffect\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8844)
 
 ## Methods
 
@@ -208,10 +148,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8842)
-
 ___
 
 ### StaticStruct
@@ -221,7 +157,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8843)

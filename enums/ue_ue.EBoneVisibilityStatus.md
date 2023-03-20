@@ -20,19 +20,11 @@
 
 • **BVS\_ExplicitlyHidden** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31387)
-
 ___
 
 ### BVS\_HiddenByParent
 
 • **BVS\_HiddenByParent** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31387)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **BVS\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31387)
-
 ___
 
 ### BVS\_Visible
 
 • **BVS\_Visible** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31387)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31387)

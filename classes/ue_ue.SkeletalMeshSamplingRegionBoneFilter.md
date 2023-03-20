@@ -28,10 +28,6 @@
 
 • **new SkeletalMeshSamplingRegionBoneFilter**()
 
-#### Defined in
-
-[ue/ue.d.ts:3982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3982)
-
 • **new SkeletalMeshSamplingRegionBoneFilter**(`BoneName`, `bIncludeOrExclude`, `bApplyToChildren`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `bIncludeOrExclude` | `boolean` |
 | `bApplyToChildren` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:3983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3983)
-
 ## Properties
 
 ### BoneName
 
 • **BoneName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:3984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3984)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • `Private` **\_\_tid\_SkeletalMeshSamplingRegionBoneFilter\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3992)
-
 ___
 
 ### bApplyToChildren
 
 • **bApplyToChildren**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3986](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3986)
-
 ___
 
 ### bIncludeOrExclude
 
 • **bIncludeOrExclude**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3985)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3990)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3991)

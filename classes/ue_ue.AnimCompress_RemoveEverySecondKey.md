@@ -63,10 +63,6 @@
 
 [AnimCompress](ue_ue.AnimCompress.md).[constructor](ue_ue.AnimCompress.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:17458](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17458)
-
 ## Properties
 
 ### Description
@@ -76,10 +72,6 @@
 #### Inherited from
 
 [AnimCompress](ue_ue.AnimCompress.md).[Description](ue_ue.AnimCompress.md#description)
-
-#### Defined in
-
-[ue/ue.d.ts:3158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3158)
 
 ___
 
@@ -91,10 +83,6 @@ ___
 
 [AnimCompress](ue_ue.AnimCompress.md).[IdealNumFramesPerSegment](ue_ue.AnimCompress.md#idealnumframespersegment)
 
-#### Defined in
-
-[ue/ue.d.ts:3161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3161)
-
 ___
 
 ### MaxCurveError
@@ -104,10 +92,6 @@ ___
 #### Inherited from
 
 [AnimCompress](ue_ue.AnimCompress.md).[MaxCurveError](ue_ue.AnimCompress.md#maxcurveerror)
-
-#### Defined in
-
-[ue/ue.d.ts:3166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3166)
 
 ___
 
@@ -119,19 +103,11 @@ ___
 
 [AnimCompress](ue_ue.AnimCompress.md).[MaxNumFramesPerSegment](ue_ue.AnimCompress.md#maxnumframespersegment)
 
-#### Defined in
-
-[ue/ue.d.ts:3162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3162)
-
 ___
 
 ### MinKeys
 
 • **MinKeys**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17459](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17459)
 
 ___
 
@@ -143,10 +119,6 @@ ___
 
 [AnimCompress](ue_ue.AnimCompress.md).[RotationCompressionFormat](ue_ue.AnimCompress.md#rotationcompressionformat)
 
-#### Defined in
-
-[ue/ue.d.ts:3164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3164)
-
 ___
 
 ### ScaleCompressionFormat
@@ -156,10 +128,6 @@ ___
 #### Inherited from
 
 [AnimCompress](ue_ue.AnimCompress.md).[ScaleCompressionFormat](ue_ue.AnimCompress.md#scalecompressionformat)
-
-#### Defined in
-
-[ue/ue.d.ts:3165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3165)
 
 ___
 
@@ -171,19 +139,11 @@ ___
 
 [AnimCompress](ue_ue.AnimCompress.md).[TranslationCompressionFormat](ue_ue.AnimCompress.md#translationcompressionformat)
 
-#### Defined in
-
-[ue/ue.d.ts:3163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3163)
-
 ___
 
 ### \_\_tid\_AnimCompress\_RemoveEverySecondKey\_\_
 
 • **\_\_tid\_AnimCompress\_RemoveEverySecondKey\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17465)
 
 ___
 
@@ -195,10 +155,6 @@ ___
 
 [AnimCompress](ue_ue.AnimCompress.md).[__tid_AnimCompress__](ue_ue.AnimCompress.md#__tid_animcompress__)
 
-#### Defined in
-
-[ue/ue.d.ts:3171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3171)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -208,10 +164,6 @@ ___
 #### Inherited from
 
 [AnimCompress](ue_ue.AnimCompress.md).[__tid_Object__](ue_ue.AnimCompress.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -223,10 +175,6 @@ ___
 
 [AnimCompress](ue_ue.AnimCompress.md).[bEnableSegmenting](ue_ue.AnimCompress.md#benablesegmenting)
 
-#### Defined in
-
-[ue/ue.d.ts:3160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3160)
-
 ___
 
 ### bNeedsSkeleton
@@ -237,19 +185,11 @@ ___
 
 [AnimCompress](ue_ue.AnimCompress.md).[bNeedsSkeleton](ue_ue.AnimCompress.md#bneedsskeleton)
 
-#### Defined in
-
-[ue/ue.d.ts:3159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3159)
-
 ___
 
 ### bStartAtSecondKey
 
 • **bStartAtSecondKey**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17460](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17460)
 
 ## Methods
 
@@ -275,10 +215,6 @@ ___
 
 [AnimCompress](ue_ue.AnimCompress.md).[CreateDefaultSubobject](ue_ue.AnimCompress.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -299,10 +235,6 @@ ___
 
 [AnimCompress](ue_ue.AnimCompress.md).[ExecuteUbergraph](ue_ue.AnimCompress.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -316,10 +248,6 @@ ___
 #### Inherited from
 
 [AnimCompress](ue_ue.AnimCompress.md).[GetClass](ue_ue.AnimCompress.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -335,10 +263,6 @@ ___
 
 [AnimCompress](ue_ue.AnimCompress.md).[GetName](ue_ue.AnimCompress.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -353,10 +277,6 @@ ___
 
 [AnimCompress](ue_ue.AnimCompress.md).[GetOuter](ue_ue.AnimCompress.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -370,10 +290,6 @@ ___
 #### Inherited from
 
 [AnimCompress](ue_ue.AnimCompress.md).[GetWorld](ue_ue.AnimCompress.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -396,10 +312,6 @@ ___
 
 [AnimCompress](ue_ue.AnimCompress.md).[Find](ue_ue.AnimCompress.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:17462](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17462)
-
 ___
 
 ### Load
@@ -420,10 +332,6 @@ ___
 
 [AnimCompress](ue_ue.AnimCompress.md).[Load](ue_ue.AnimCompress.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:17463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17463)
-
 ___
 
 ### StaticClass
@@ -437,7 +345,3 @@ ___
 #### Overrides
 
 [AnimCompress](ue_ue.AnimCompress.md).[StaticClass](ue_ue.AnimCompress.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:17461](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17461)

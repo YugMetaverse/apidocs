@@ -28,10 +28,6 @@
 
 • **new AudioCaptureDeviceInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:22280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22280)
-
 • **new AudioCaptureDeviceInfo**(`DeviceName`, `NumInputChannels`, `SampleRate`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `NumInputChannels` | `number` |
 | `SampleRate` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:22281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22281)
-
 ## Properties
 
 ### DeviceName
 
 • **DeviceName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:22282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22282)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **NumInputChannels**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22283)
-
 ___
 
 ### SampleRate
 
 • **SampleRate**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22284)
-
 ___
 
 ### \_\_tid\_AudioCaptureDeviceInfo\_\_
 
 • `Private` **\_\_tid\_AudioCaptureDeviceInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22290)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22288)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22289)

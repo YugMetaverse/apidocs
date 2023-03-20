@@ -21,19 +21,11 @@
 
 • **And** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:23621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23621)
-
 ___
 
 ### EDecoratorLogicMode\_MAX
 
 • **EDecoratorLogicMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:23621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23621)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Not** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:23621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23621)
-
 ___
 
 ### Or
 
 • **Or** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:23621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23621)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Sink** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:23621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23621)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:23621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23621)

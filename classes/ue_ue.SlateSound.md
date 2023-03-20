@@ -26,10 +26,6 @@
 
 • **new SlateSound**()
 
-#### Defined in
-
-[ue/ue.d.ts:25595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25595)
-
 • **new SlateSound**(`ResourceObject`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `ResourceObject` | [`Object`](ue_ue.Object.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:25596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25596)
-
 ## Properties
 
 ### ResourceObject
 
 • **ResourceObject**: [`Object`](ue_ue.Object.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25597)
-
 ___
 
 ### \_\_tid\_SlateSound\_\_
 
 • `Private` **\_\_tid\_SlateSound\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:25603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25603)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25601)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25602)

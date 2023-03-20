@@ -21,19 +21,11 @@
 
 • **BCS\_BoneSpace** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17997)
-
 ___
 
 ### BCS\_ComponentSpace
 
 • **BCS\_ComponentSpace** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17997)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **BCS\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17997)
-
 ___
 
 ### BCS\_ParentBoneSpace
 
 • **BCS\_ParentBoneSpace** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17997)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **BCS\_WorldSpace** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17997)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17997)

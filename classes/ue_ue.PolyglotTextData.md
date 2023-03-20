@@ -33,10 +33,6 @@
 
 • **new PolyglotTextData**()
 
-#### Defined in
-
-[ue/ue.d.ts:43514](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43514)
-
 • **new PolyglotTextData**(`Category`, `NativeCulture`, `Namespace`, `Key`, `NativeString`, `LocalizedStrings`, `bIsMinimalPatch`, `CachedText`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `bIsMinimalPatch` | `boolean` |
 | `CachedText` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:43515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43515)
-
 ## Properties
 
 ### CachedText
 
 • **CachedText**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43523](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43523)
 
 ___
 
@@ -72,19 +60,11 @@ ___
 
 • **Category**: [`ELocalizedTextSourceCategory`](../enums/ue_ue.ELocalizedTextSourceCategory.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43516](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43516)
-
 ___
 
 ### Key
 
 • **Key**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43519](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43519)
 
 ___
 
@@ -92,19 +72,11 @@ ___
 
 • **LocalizedStrings**: [`TMap`](../interfaces/ue_puerts.TMap.md)<`string`, `string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:43521](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43521)
-
 ___
 
 ### Namespace
 
 • **Namespace**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43518](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43518)
 
 ___
 
@@ -112,19 +84,11 @@ ___
 
 • **NativeCulture**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43517](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43517)
-
 ___
 
 ### NativeString
 
 • **NativeString**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43520](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43520)
 
 ___
 
@@ -132,19 +96,11 @@ ___
 
 • `Private` **\_\_tid\_PolyglotTextData\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43529)
-
 ___
 
 ### bIsMinimalPatch
 
 • **bIsMinimalPatch**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43522](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43522)
 
 ## Methods
 
@@ -160,10 +116,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43527](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43527)
-
 ___
 
 ### StaticStruct
@@ -173,7 +125,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43528](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43528)

@@ -55,19 +55,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:38504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38504)
-
 ## Properties
 
 ### AppliedDefaultGraphicsPerformance
 
 • **AppliedDefaultGraphicsPerformance**: [`EGraphicsPreset`](../enums/ue_ue.EGraphicsPreset.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38508](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38508)
 
 ___
 
@@ -75,19 +67,11 @@ ___
 
 • **AppliedTargetedHardwareClass**: [`EHardwareClass`](../enums/ue_ue.EHardwareClass.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38506)
-
 ___
 
 ### DefaultGraphicsPerformance
 
 • **DefaultGraphicsPerformance**: [`EGraphicsPreset`](../enums/ue_ue.EGraphicsPreset.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38507)
 
 ___
 
@@ -95,19 +79,11 @@ ___
 
 • **TargetedHardwareClass**: [`EHardwareClass`](../enums/ue_ue.EHardwareClass.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38505)
-
 ___
 
 ### \_\_tid\_HardwareTargetingSettings\_\_
 
 • **\_\_tid\_HardwareTargetingSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38513)
 
 ___
 
@@ -118,10 +94,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -147,10 +119,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -171,10 +139,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -188,10 +152,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -207,10 +167,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -225,10 +181,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -242,10 +194,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -268,10 +216,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:38510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38510)
-
 ___
 
 ### Load
@@ -292,10 +236,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:38511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38511)
-
 ___
 
 ### StaticClass
@@ -309,7 +249,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:38509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38509)

@@ -53,19 +53,11 @@
 
 [TextureThumbnailRenderer](ue_ue.TextureThumbnailRenderer.md).[constructor](ue_ue.TextureThumbnailRenderer.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:36150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36150)
-
 ## Properties
 
 ### \_\_tid\_FontThumbnailRenderer\_\_
 
 • **\_\_tid\_FontThumbnailRenderer\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36155)
 
 ___
 
@@ -77,10 +69,6 @@ ___
 
 [TextureThumbnailRenderer](ue_ue.TextureThumbnailRenderer.md).[__tid_Object__](ue_ue.TextureThumbnailRenderer.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_TextureThumbnailRenderer\_\_
@@ -91,10 +79,6 @@ ___
 
 [TextureThumbnailRenderer](ue_ue.TextureThumbnailRenderer.md).[__tid_TextureThumbnailRenderer__](ue_ue.TextureThumbnailRenderer.md#__tid_texturethumbnailrenderer__)
 
-#### Defined in
-
-[ue/ue.d.ts:36146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36146)
-
 ___
 
 ### \_\_tid\_ThumbnailRenderer\_\_
@@ -104,10 +88,6 @@ ___
 #### Inherited from
 
 [TextureThumbnailRenderer](ue_ue.TextureThumbnailRenderer.md).[__tid_ThumbnailRenderer__](ue_ue.TextureThumbnailRenderer.md#__tid_thumbnailrenderer__)
-
-#### Defined in
-
-[ue/ue.d.ts:17274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17274)
 
 ## Methods
 
@@ -133,10 +113,6 @@ ___
 
 [TextureThumbnailRenderer](ue_ue.TextureThumbnailRenderer.md).[CreateDefaultSubobject](ue_ue.TextureThumbnailRenderer.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -157,10 +133,6 @@ ___
 
 [TextureThumbnailRenderer](ue_ue.TextureThumbnailRenderer.md).[ExecuteUbergraph](ue_ue.TextureThumbnailRenderer.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -174,10 +146,6 @@ ___
 #### Inherited from
 
 [TextureThumbnailRenderer](ue_ue.TextureThumbnailRenderer.md).[GetClass](ue_ue.TextureThumbnailRenderer.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -193,10 +161,6 @@ ___
 
 [TextureThumbnailRenderer](ue_ue.TextureThumbnailRenderer.md).[GetName](ue_ue.TextureThumbnailRenderer.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -211,10 +175,6 @@ ___
 
 [TextureThumbnailRenderer](ue_ue.TextureThumbnailRenderer.md).[GetOuter](ue_ue.TextureThumbnailRenderer.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -228,10 +188,6 @@ ___
 #### Inherited from
 
 [TextureThumbnailRenderer](ue_ue.TextureThumbnailRenderer.md).[GetWorld](ue_ue.TextureThumbnailRenderer.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -254,10 +210,6 @@ ___
 
 [TextureThumbnailRenderer](ue_ue.TextureThumbnailRenderer.md).[Find](ue_ue.TextureThumbnailRenderer.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:36152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36152)
-
 ___
 
 ### Load
@@ -278,10 +230,6 @@ ___
 
 [TextureThumbnailRenderer](ue_ue.TextureThumbnailRenderer.md).[Load](ue_ue.TextureThumbnailRenderer.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:36153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36153)
-
 ___
 
 ### StaticClass
@@ -295,7 +243,3 @@ ___
 #### Overrides
 
 [TextureThumbnailRenderer](ue_ue.TextureThumbnailRenderer.md).[StaticClass](ue_ue.TextureThumbnailRenderer.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:36151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36151)

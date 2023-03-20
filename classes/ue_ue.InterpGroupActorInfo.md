@@ -27,10 +27,6 @@
 
 • **new InterpGroupActorInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:13023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13023)
-
 • **new InterpGroupActorInfo**(`ObjectName`, `Actors`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `ObjectName` | `string` |
 | `Actors` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Actor`](ue_ue.Actor.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:13024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13024)
-
 ## Properties
 
 ### Actors
 
 • **Actors**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Actor`](ue_ue.Actor.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:13026](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13026)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **ObjectName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:13025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13025)
-
 ___
 
 ### \_\_tid\_InterpGroupActorInfo\_\_
 
 • `Private` **\_\_tid\_InterpGroupActorInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:13032](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13032)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:13030](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13030)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:13031](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13031)

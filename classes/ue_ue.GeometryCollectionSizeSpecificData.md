@@ -35,10 +35,6 @@
 
 • **new GeometryCollectionSizeSpecificData**()
 
-#### Defined in
-
-[ue/ue.d.ts:26502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26502)
-
 • **new GeometryCollectionSizeSpecificData**(`MaxSize`, `CollisionType`, `ImplicitType`, `MinLevelSetResolution`, `MaxLevelSetResolution`, `MinClusterLevelSetResolution`, `MaxClusterLevelSetResolution`, `CollisionObjectReductionPercentage`, `CollisionParticlesFraction`, `MaximumCollisionParticles`)
 
 #### Parameters
@@ -56,19 +52,11 @@
 | `CollisionParticlesFraction` | `number` |
 | `MaximumCollisionParticles` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:26503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26503)
-
 ## Properties
 
 ### CollisionObjectReductionPercentage
 
 • **CollisionObjectReductionPercentage**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26511)
 
 ___
 
@@ -76,19 +64,11 @@ ___
 
 • **CollisionParticlesFraction**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26512)
-
 ___
 
 ### CollisionType
 
 • **CollisionType**: [`ECollisionTypeEnum`](../enums/ue_ue.ECollisionTypeEnum.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26505)
 
 ___
 
@@ -96,19 +76,11 @@ ___
 
 • **ImplicitType**: [`EImplicitTypeEnum`](../enums/ue_ue.EImplicitTypeEnum.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26506)
-
 ___
 
 ### MaxClusterLevelSetResolution
 
 • **MaxClusterLevelSetResolution**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26510)
 
 ___
 
@@ -116,19 +88,11 @@ ___
 
 • **MaxLevelSetResolution**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26508](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26508)
-
 ___
 
 ### MaxSize
 
 • **MaxSize**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26504)
 
 ___
 
@@ -136,19 +100,11 @@ ___
 
 • **MaximumCollisionParticles**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26513)
-
 ___
 
 ### MinClusterLevelSetResolution
 
 • **MinClusterLevelSetResolution**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26509)
 
 ___
 
@@ -156,19 +112,11 @@ ___
 
 • **MinLevelSetResolution**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26507)
-
 ___
 
 ### \_\_tid\_GeometryCollectionSizeSpecificData\_\_
 
 • `Private` **\_\_tid\_GeometryCollectionSizeSpecificData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26519](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26519)
 
 ## Methods
 
@@ -184,10 +132,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26517](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26517)
-
 ___
 
 ### StaticStruct
@@ -197,7 +141,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26518](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26518)

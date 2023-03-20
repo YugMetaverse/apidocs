@@ -19,19 +19,11 @@
 
 • **ESphericalLimitType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17762)
-
 ___
 
 ### Inner
 
 • **Inner** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17762)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Outer** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17762)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17762)

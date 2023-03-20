@@ -19,19 +19,11 @@
 
 • **SMF\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34770)
-
 ___
 
 ### SMF\_None
 
 • **SMF\_None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34770)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **SMF\_Streamed** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34770)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34770)

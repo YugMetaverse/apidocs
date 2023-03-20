@@ -37,10 +37,6 @@
 
 • **new HierarchicalSimplification**()
 
-#### Defined in
-
-[ue/ue.d.ts:9047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9047)
-
 • **new HierarchicalSimplification**(`TransitionScreenSize`, `OverrideDrawDistance`, `bUseOverrideDrawDistance`, `bAllowSpecificExclusion`, `bSimplifyMesh`, `bOnlyGenerateClustersForVolumes`, `bReusePreviousLevelClusters`, `ProxySetting`, `MergeSetting`, `DesiredBoundRadius`, `DesiredFillingPercentage`, `MinNumberOfActorsToBuild`)
 
 #### Parameters
@@ -60,19 +56,11 @@
 | `DesiredFillingPercentage` | `number` |
 | `MinNumberOfActorsToBuild` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:9048](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9048)
-
 ## Properties
 
 ### DesiredBoundRadius
 
 • **DesiredBoundRadius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9058)
 
 ___
 
@@ -80,19 +68,11 @@ ___
 
 • **DesiredFillingPercentage**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9059)
-
 ___
 
 ### MergeSetting
 
 • **MergeSetting**: [`MeshMergingSettings`](ue_ue.MeshMergingSettings.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9057)
 
 ___
 
@@ -100,19 +80,11 @@ ___
 
 • **MinNumberOfActorsToBuild**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9060)
-
 ___
 
 ### OverrideDrawDistance
 
 • **OverrideDrawDistance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9050](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9050)
 
 ___
 
@@ -120,19 +92,11 @@ ___
 
 • **ProxySetting**: [`MeshProxySettings`](ue_ue.MeshProxySettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9056](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9056)
-
 ___
 
 ### TransitionScreenSize
 
 • **TransitionScreenSize**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9049)
 
 ___
 
@@ -140,19 +104,11 @@ ___
 
 • `Private` **\_\_tid\_HierarchicalSimplification\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9066)
-
 ___
 
 ### bAllowSpecificExclusion
 
 • **bAllowSpecificExclusion**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9052)
 
 ___
 
@@ -160,19 +116,11 @@ ___
 
 • **bOnlyGenerateClustersForVolumes**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9054)
-
 ___
 
 ### bReusePreviousLevelClusters
 
 • **bReusePreviousLevelClusters**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9055)
 
 ___
 
@@ -180,19 +128,11 @@ ___
 
 • **bSimplifyMesh**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9053)
-
 ___
 
 ### bUseOverrideDrawDistance
 
 • **bUseOverrideDrawDistance**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9051](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9051)
 
 ## Methods
 
@@ -208,10 +148,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9064)
-
 ___
 
 ### StaticStruct
@@ -221,7 +157,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9065)

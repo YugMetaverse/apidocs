@@ -20,19 +20,11 @@
 
 • **EOculusPlatform\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34646)
-
 ___
 
 ### Length
 
 • **Length** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34646)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Mobile** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34646)
-
 ___
 
 ### PC
 
 • **PC** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34646)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34646)

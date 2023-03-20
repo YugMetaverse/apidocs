@@ -22,19 +22,11 @@
 
 • **EnumInt32\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28633)
-
 ___
 
 ### V0
 
 • **V0** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:28633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28633)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **V1** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28633)
-
 ___
 
 ### V2
 
 • **V2** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:28633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28633)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **V3** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28633)
-
 ___
 
 ### VM1
 
 • **VM1** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28633)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:28633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28633)

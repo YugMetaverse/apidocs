@@ -33,10 +33,6 @@
 
 • **new DistributionLookupTable**()
 
-#### Defined in
-
-[ue/ue.d.ts:6760](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6760)
-
 • **new DistributionLookupTable**(`TimeScale`, `TimeBias`, `Values`, `Op`, `EntryCount`, `EntryStride`, `SubEntryStride`, `LockFlag`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `SubEntryStride` | `number` |
 | `LockFlag` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:6761](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6761)
-
 ## Properties
 
 ### EntryCount
 
 • **EntryCount**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6766)
 
 ___
 
@@ -72,19 +60,11 @@ ___
 
 • **EntryStride**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6767)
-
 ___
 
 ### LockFlag
 
 • **LockFlag**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6769)
 
 ___
 
@@ -92,19 +72,11 @@ ___
 
 • **Op**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6765)
-
 ___
 
 ### SubEntryStride
 
 • **SubEntryStride**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6768)
 
 ___
 
@@ -112,19 +84,11 @@ ___
 
 • **TimeBias**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6763)
-
 ___
 
 ### TimeScale
 
 • **TimeScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6762)
 
 ___
 
@@ -132,19 +96,11 @@ ___
 
 • **Values**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:6764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6764)
-
 ___
 
 ### \_\_tid\_DistributionLookupTable\_\_
 
 • `Private` **\_\_tid\_DistributionLookupTable\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6775)
 
 ## Methods
 
@@ -160,10 +116,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6773)
-
 ___
 
 ### StaticStruct
@@ -173,7 +125,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6774)

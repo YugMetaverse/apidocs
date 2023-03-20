@@ -38,10 +38,6 @@
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[constructor](ue_ue.AnimNode_Base.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:18921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18921)
-
 • **new AnimNode_MakeDynamicAdditive**(`Base`, `Additive`, `bMeshSpaceAdditive`)
 
 #### Parameters
@@ -56,19 +52,11 @@
 
 UE.AnimNode\_Base.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:18922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18922)
-
 ## Properties
 
 ### Additive
 
 • **Additive**: [`PoseLink`](ue_ue.PoseLink.md)
-
-#### Defined in
-
-[ue/ue.d.ts:18924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18924)
 
 ___
 
@@ -76,29 +64,17 @@ ___
 
 • **Base**: [`PoseLink`](ue_ue.PoseLink.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18923)
-
 ___
 
 ### \_\_tid\_AnimNode\_MakeDynamicAdditive\_\_
 
 • `Private` **\_\_tid\_AnimNode\_MakeDynamicAdditive\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:18931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18931)
-
 ___
 
 ### bMeshSpaceAdditive
 
 • **bMeshSpaceAdditive**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18925)
 
 ## Methods
 
@@ -118,10 +94,6 @@ use StaticStruct instead.
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticClass](ue_ue.AnimNode_Base.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:18929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18929)
-
 ___
 
 ### StaticStruct
@@ -135,7 +107,3 @@ ___
 #### Overrides
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticStruct](ue_ue.AnimNode_Base.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:18930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18930)

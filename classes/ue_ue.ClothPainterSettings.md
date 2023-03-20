@@ -62,19 +62,11 @@
 
 [MeshPaintSettings](ue_ue.MeshPaintSettings.md).[constructor](ue_ue.MeshPaintSettings.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:27966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27966)
-
 ## Properties
 
 ### AutoCalculatedViewMax
 
 • **AutoCalculatedViewMax**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27971)
 
 ___
 
@@ -82,29 +74,17 @@ ___
 
 • **AutoCalculatedViewMin**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27970)
-
 ___
 
 ### ClothingAssets
 
 • **ClothingAssets**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ClothingAssetCommon`](ue_ue.ClothingAssetCommon.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:27972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27972)
-
 ___
 
 ### Opacity
 
 • **Opacity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27975](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27975)
 
 ___
 
@@ -116,19 +96,11 @@ ___
 
 [MeshPaintSettings](ue_ue.MeshPaintSettings.md).[VertexPreviewSize](ue_ue.MeshPaintSettings.md#vertexpreviewsize)
 
-#### Defined in
-
-[ue/ue.d.ts:27957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27957)
-
 ___
 
 ### ViewMax
 
 • **ViewMax**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27968)
 
 ___
 
@@ -136,19 +108,11 @@ ___
 
 • **ViewMin**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27967)
-
 ___
 
 ### \_\_tid\_ClothPainterSettings\_\_
 
 • **\_\_tid\_ClothPainterSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27980)
 
 ___
 
@@ -160,10 +124,6 @@ ___
 
 [MeshPaintSettings](ue_ue.MeshPaintSettings.md).[__tid_MeshPaintSettings__](ue_ue.MeshPaintSettings.md#__tid_meshpaintsettings__)
 
-#### Defined in
-
-[ue/ue.d.ts:27962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27962)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -174,19 +134,11 @@ ___
 
 [MeshPaintSettings](ue_ue.MeshPaintSettings.md).[__tid_Object__](ue_ue.MeshPaintSettings.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bAutoViewRange
 
 • **bAutoViewRange**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27969)
 
 ___
 
@@ -194,19 +146,11 @@ ___
 
 • **bCullBackface**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:27974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27974)
-
 ___
 
 ### bFlipNormal
 
 • **bFlipNormal**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27973)
 
 ## Methods
 
@@ -232,10 +176,6 @@ ___
 
 [MeshPaintSettings](ue_ue.MeshPaintSettings.md).[CreateDefaultSubobject](ue_ue.MeshPaintSettings.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -256,10 +196,6 @@ ___
 
 [MeshPaintSettings](ue_ue.MeshPaintSettings.md).[ExecuteUbergraph](ue_ue.MeshPaintSettings.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -273,10 +209,6 @@ ___
 #### Inherited from
 
 [MeshPaintSettings](ue_ue.MeshPaintSettings.md).[GetClass](ue_ue.MeshPaintSettings.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -292,10 +224,6 @@ ___
 
 [MeshPaintSettings](ue_ue.MeshPaintSettings.md).[GetName](ue_ue.MeshPaintSettings.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -310,10 +238,6 @@ ___
 
 [MeshPaintSettings](ue_ue.MeshPaintSettings.md).[GetOuter](ue_ue.MeshPaintSettings.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -327,10 +251,6 @@ ___
 #### Inherited from
 
 [MeshPaintSettings](ue_ue.MeshPaintSettings.md).[GetWorld](ue_ue.MeshPaintSettings.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -353,10 +273,6 @@ ___
 
 [MeshPaintSettings](ue_ue.MeshPaintSettings.md).[Find](ue_ue.MeshPaintSettings.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:27977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27977)
-
 ___
 
 ### Load
@@ -377,10 +293,6 @@ ___
 
 [MeshPaintSettings](ue_ue.MeshPaintSettings.md).[Load](ue_ue.MeshPaintSettings.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:27978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27978)
-
 ___
 
 ### StaticClass
@@ -394,7 +306,3 @@ ___
 #### Overrides
 
 [MeshPaintSettings](ue_ue.MeshPaintSettings.md).[StaticClass](ue_ue.MeshPaintSettings.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:27976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27976)

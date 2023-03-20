@@ -25,19 +25,11 @@
 
 • **AnySpatialDevice** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33910)
-
 ___
 
 ### EInputDevices\_MAX
 
 • **EInputDevices\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33910)
 
 ___
 
@@ -45,19 +37,11 @@ ___
 
 • **Gamepad** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33910)
-
 ___
 
 ### HTCViveWands
 
 • **HTCViveWands** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33910)
 
 ___
 
@@ -65,19 +49,11 @@ ___
 
 • **Keyboard** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33910)
-
 ___
 
 ### Mouse
 
 • **Mouse** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33910)
 
 ___
 
@@ -85,19 +61,11 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33910)
-
 ___
 
 ### OculusTouch
 
 • **OculusTouch** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33910)
 
 ___
 
@@ -105,16 +73,8 @@ ___
 
 • **TabletFingers** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33910)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33910)

@@ -31,10 +31,6 @@
 
 • **new LinearDriveConstraint**()
 
-#### Defined in
-
-[ue/ue.d.ts:3656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3656)
-
 • **new LinearDriveConstraint**(`PositionTarget`, `VelocityTarget`, `XDrive`, `YDrive`, `ZDrive`, `bEnablePositionDrive`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `ZDrive` | [`ConstraintDrive`](ue_ue.ConstraintDrive.md) |
 | `bEnablePositionDrive` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:3657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3657)
-
 ## Properties
 
 ### PositionTarget
 
 • **PositionTarget**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3658)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **VelocityTarget**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3659)
-
 ___
 
 ### XDrive
 
 • **XDrive**: [`ConstraintDrive`](ue_ue.ConstraintDrive.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3660)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **YDrive**: [`ConstraintDrive`](ue_ue.ConstraintDrive.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3661)
-
 ___
 
 ### ZDrive
 
 • **ZDrive**: [`ConstraintDrive`](ue_ue.ConstraintDrive.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3662)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • `Private` **\_\_tid\_LinearDriveConstraint\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3669)
-
 ___
 
 ### bEnablePositionDrive
 
 • **bEnablePositionDrive**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3663)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3667)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3668)

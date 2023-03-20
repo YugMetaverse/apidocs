@@ -19,19 +19,11 @@
 
 • **CurrentTime** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29152)
-
 ___
 
 ### ECurveEditorZoomPosition\_MAX
 
 • **ECurveEditorZoomPosition\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29152)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **MousePosition** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29152)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29152)

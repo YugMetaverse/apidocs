@@ -69,10 +69,6 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[constructor](ue_ue.BlueprintFunctionLibrary.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:63662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63662)
-
 ## Properties
 
 ### \_\_tid\_BlueprintFunctionLibrary\_\_
@@ -82,10 +78,6 @@
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_BlueprintFunctionLibrary__](ue_ue.BlueprintFunctionLibrary.md#__tid_blueprintfunctionlibrary__)
-
-#### Defined in
-
-[ue/ue.d.ts:13418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13418)
 
 ___
 
@@ -97,19 +89,11 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_Object__](ue_ue.BlueprintFunctionLibrary.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_TimeManagementBlueprintLibrary\_\_
 
 • **\_\_tid\_TimeManagementBlueprintLibrary\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:63684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63684)
 
 ## Methods
 
@@ -135,10 +119,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[CreateDefaultSubobject](ue_ue.BlueprintFunctionLibrary.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -159,10 +139,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[ExecuteUbergraph](ue_ue.BlueprintFunctionLibrary.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -176,10 +152,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetClass](ue_ue.BlueprintFunctionLibrary.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -195,10 +167,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetName](ue_ue.BlueprintFunctionLibrary.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -213,10 +181,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetOuter](ue_ue.BlueprintFunctionLibrary.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -230,10 +194,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetWorld](ue_ue.BlueprintFunctionLibrary.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -252,10 +212,6 @@ ___
 
 [`FrameNumber`](ue_ue.FrameNumber.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63663)
-
 ___
 
 ### Add\_FrameNumberInteger
@@ -273,10 +229,6 @@ ___
 
 [`FrameNumber`](ue_ue.FrameNumber.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63664)
-
 ___
 
 ### Conv\_FrameNumberToInteger
@@ -292,10 +244,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:63665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63665)
 
 ___
 
@@ -313,10 +261,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:63666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63666)
-
 ___
 
 ### Conv\_QualifiedFrameTimeToSeconds
@@ -332,10 +276,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:63667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63667)
 
 ___
 
@@ -354,10 +294,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:63668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63668)
-
 ___
 
 ### Divide\_FrameNumberInteger
@@ -374,10 +310,6 @@ ___
 #### Returns
 
 [`FrameNumber`](ue_ue.FrameNumber.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63669)
 
 ___
 
@@ -400,10 +332,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Find](ue_ue.BlueprintFunctionLibrary.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:63681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63681)
-
 ___
 
 ### GetTimecode
@@ -414,10 +342,6 @@ ___
 
 [`Timecode`](ue_ue.Timecode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63670)
-
 ___
 
 ### GetTimecodeFrameRate
@@ -427,10 +351,6 @@ ___
 #### Returns
 
 [`FrameRate`](ue_ue.FrameRate.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63671)
 
 ___
 
@@ -448,10 +368,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:63672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63672)
-
 ___
 
 ### IsValid\_MultipleOf
@@ -468,10 +384,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:63673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63673)
 
 ___
 
@@ -493,10 +405,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Load](ue_ue.BlueprintFunctionLibrary.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:63682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63682)
-
 ___
 
 ### Multiply\_FrameNumberInteger
@@ -514,10 +422,6 @@ ___
 
 [`FrameNumber`](ue_ue.FrameNumber.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63674)
-
 ___
 
 ### Multiply\_SecondsFrameRate
@@ -534,10 +438,6 @@ ___
 #### Returns
 
 [`FrameTime`](ue_ue.FrameTime.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63675)
 
 ___
 
@@ -557,10 +457,6 @@ ___
 
 [`FrameTime`](ue_ue.FrameTime.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63676)
-
 ___
 
 ### StaticClass
@@ -574,10 +470,6 @@ ___
 #### Overrides
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[StaticClass](ue_ue.BlueprintFunctionLibrary.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:63680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63680)
 
 ___
 
@@ -596,10 +488,6 @@ ___
 
 [`FrameNumber`](ue_ue.FrameNumber.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63677)
-
 ___
 
 ### Subtract\_FrameNumberInteger
@@ -616,10 +504,6 @@ ___
 #### Returns
 
 [`FrameNumber`](ue_ue.FrameNumber.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63678)
 
 ___
 
@@ -638,7 +522,3 @@ ___
 #### Returns
 
 [`FrameTime`](ue_ue.FrameTime.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63679)

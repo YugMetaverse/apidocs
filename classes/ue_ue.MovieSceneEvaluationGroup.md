@@ -27,10 +27,6 @@
 
 • **new MovieSceneEvaluationGroup**()
 
-#### Defined in
-
-[ue/ue.d.ts:11248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11248)
-
 • **new MovieSceneEvaluationGroup**(`LUTIndices`, `SegmentPtrLUT`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `LUTIndices` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MovieSceneEvaluationGroupLUTIndex`](ue_ue.MovieSceneEvaluationGroupLUTIndex.md)\> |
 | `SegmentPtrLUT` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MovieSceneEvaluationFieldSegmentPtr`](ue_ue.MovieSceneEvaluationFieldSegmentPtr.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:11249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11249)
-
 ## Properties
 
 ### LUTIndices
 
 • **LUTIndices**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MovieSceneEvaluationGroupLUTIndex`](ue_ue.MovieSceneEvaluationGroupLUTIndex.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:11250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11250)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **SegmentPtrLUT**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MovieSceneEvaluationFieldSegmentPtr`](ue_ue.MovieSceneEvaluationFieldSegmentPtr.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:11251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11251)
-
 ___
 
 ### \_\_tid\_MovieSceneEvaluationGroup\_\_
 
 • `Private` **\_\_tid\_MovieSceneEvaluationGroup\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11257)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11255)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11256)

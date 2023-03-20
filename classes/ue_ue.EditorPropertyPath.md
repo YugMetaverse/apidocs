@@ -26,10 +26,6 @@
 
 • **new EditorPropertyPath**()
 
-#### Defined in
-
-[ue/ue.d.ts:33602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33602)
-
 • **new EditorPropertyPath**(`Segments`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Segments` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`EditorPropertyPathSegment`](ue_ue.EditorPropertyPathSegment.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:33603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33603)
-
 ## Properties
 
 ### Segments
 
 • **Segments**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`EditorPropertyPathSegment`](ue_ue.EditorPropertyPathSegment.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:33604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33604)
-
 ___
 
 ### \_\_tid\_EditorPropertyPath\_\_
 
 • `Private` **\_\_tid\_EditorPropertyPath\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33610)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33608)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33609)

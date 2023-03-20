@@ -62,19 +62,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:36603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36603)
-
 ## Properties
 
 ### BadPingThreshold
 
 • **BadPingThreshold**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:36607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36607)
 
 ___
 
@@ -82,19 +74,11 @@ ___
 
 • **JoinInProgressStandbyWaitTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:36614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36614)
-
 ___
 
 ### MaxDynamicBandwidth
 
 • **MaxDynamicBandwidth**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:36605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36605)
 
 ___
 
@@ -102,19 +86,11 @@ ___
 
 • **MinDynamicBandwidth**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:36604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36604)
-
 ___
 
 ### PercentForBadPing
 
 • **PercentForBadPing**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:36613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36613)
 
 ___
 
@@ -122,19 +98,11 @@ ___
 
 • **PercentMissingForRxStandby**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:36611](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36611)
-
 ___
 
 ### PercentMissingForTxStandby
 
 • **PercentMissingForTxStandby**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:36612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36612)
 
 ___
 
@@ -142,19 +110,11 @@ ___
 
 • **StandbyRxCheatTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:36609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36609)
-
 ___
 
 ### StandbyTxCheatTime
 
 • **StandbyTxCheatTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:36610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36610)
 
 ___
 
@@ -162,19 +122,11 @@ ___
 
 • **TotalNetBandwidth**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:36606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36606)
-
 ___
 
 ### \_\_tid\_GameNetworkManagerSettings\_\_
 
 • **\_\_tid\_GameNetworkManagerSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36619)
 
 ___
 
@@ -186,19 +138,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bIsStandbyCheckingEnabled
 
 • **bIsStandbyCheckingEnabled**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36608)
 
 ## Methods
 
@@ -224,10 +168,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -248,10 +188,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -265,10 +201,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -284,10 +216,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -302,10 +230,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -319,10 +243,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -345,10 +265,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:36616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36616)
-
 ___
 
 ### Load
@@ -369,10 +285,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:36617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36617)
-
 ___
 
 ### StaticClass
@@ -386,7 +298,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:36615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36615)

@@ -20,19 +20,11 @@
 
 • **ACM\_Free** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3610)
-
 ___
 
 ### ACM\_Limited
 
 • **ACM\_Limited** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3610)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **ACM\_Locked** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3610)
-
 ___
 
 ### ACM\_MAX
 
 • **ACM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3610)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3610)

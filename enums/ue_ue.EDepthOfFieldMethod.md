@@ -20,19 +20,11 @@
 
 • **DOFM\_BokehDOF** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6224)
-
 ___
 
 ### DOFM\_CircleDOF
 
 • **DOFM\_CircleDOF** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6224)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **DOFM\_Gaussian** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6224)
-
 ___
 
 ### DOFM\_MAX
 
 • **DOFM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6224)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6224)

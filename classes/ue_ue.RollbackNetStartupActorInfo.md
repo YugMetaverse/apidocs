@@ -28,10 +28,6 @@
 
 • **new RollbackNetStartupActorInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:9850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9850)
-
 • **new RollbackNetStartupActorInfo**(`Archetype`, `Level`, `ObjReferences`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Level` | [`Level`](ue_ue.Level.md) |
 | `ObjReferences` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Object`](ue_ue.Object.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:9851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9851)
-
 ## Properties
 
 ### Archetype
 
 • **Archetype**: [`Object`](ue_ue.Object.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9852)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Level**: [`Level`](ue_ue.Level.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9853)
-
 ___
 
 ### ObjReferences
 
 • **ObjReferences**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Object`](ue_ue.Object.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:9854](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9854)
-
 ___
 
 ### \_\_tid\_RollbackNetStartupActorInfo\_\_
 
 • `Private` **\_\_tid\_RollbackNetStartupActorInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9860)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9858)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9859](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9859)

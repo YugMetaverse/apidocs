@@ -26,10 +26,6 @@
 
 • **new ActorLayer**()
 
-#### Defined in
-
-[ue/ue.d.ts:44616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44616)
-
 • **new ActorLayer**(`Name`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Name` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:44617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44617)
-
 ## Properties
 
 ### Name
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:44618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44618)
-
 ___
 
 ### \_\_tid\_ActorLayer\_\_
 
 • `Private` **\_\_tid\_ActorLayer\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44624)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44622)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44623)

@@ -20,19 +20,11 @@
 
 • **IGT\_3D** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33901)
-
 ___
 
 ### IGT\_Billboards
 
 • **IGT\_Billboards** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33901)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **IGT\_Both** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33901)
-
 ___
 
 ### IGT\_MAX
 
 • **IGT\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33901)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33901)

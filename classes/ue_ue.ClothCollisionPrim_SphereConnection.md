@@ -26,10 +26,6 @@
 
 • **new ClothCollisionPrim_SphereConnection**()
 
-#### Defined in
-
-[ue/ue.d.ts:27686](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27686)
-
 • **new ClothCollisionPrim_SphereConnection**(`SphereIndices`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `SphereIndices` | [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<`number`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:27687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27687)
-
 ## Properties
 
 ### SphereIndices
 
 • **SphereIndices**: [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:27688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27688)
-
 ___
 
 ### \_\_tid\_ClothCollisionPrim\_SphereConnection\_\_
 
 • `Private` **\_\_tid\_ClothCollisionPrim\_SphereConnection\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27694](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27694)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27692](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27692)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27693)

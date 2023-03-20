@@ -41,10 +41,6 @@
 
 • **new NavAgentSelector**()
 
-#### Defined in
-
-[ue/ue.d.ts:8671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8671)
-
 • **new NavAgentSelector**(`bSupportsAgent0`, `bSupportsAgent1`, `bSupportsAgent2`, `bSupportsAgent3`, `bSupportsAgent4`, `bSupportsAgent5`, `bSupportsAgent6`, `bSupportsAgent7`, `bSupportsAgent8`, `bSupportsAgent9`, `bSupportsAgent10`, `bSupportsAgent11`, `bSupportsAgent12`, `bSupportsAgent13`, `bSupportsAgent14`, `bSupportsAgent15`)
 
 #### Parameters
@@ -68,19 +64,11 @@
 | `bSupportsAgent14` | `boolean` |
 | `bSupportsAgent15` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:8672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8672)
-
 ## Properties
 
 ### \_\_tid\_NavAgentSelector\_\_
 
 • `Private` **\_\_tid\_NavAgentSelector\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8694](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8694)
 
 ___
 
@@ -88,19 +76,11 @@ ___
 
 • **bSupportsAgent0**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8673)
-
 ___
 
 ### bSupportsAgent1
 
 • **bSupportsAgent1**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8674)
 
 ___
 
@@ -108,19 +88,11 @@ ___
 
 • **bSupportsAgent10**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8683)
-
 ___
 
 ### bSupportsAgent11
 
 • **bSupportsAgent11**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8684)
 
 ___
 
@@ -128,19 +100,11 @@ ___
 
 • **bSupportsAgent12**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8685)
-
 ___
 
 ### bSupportsAgent13
 
 • **bSupportsAgent13**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8686](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8686)
 
 ___
 
@@ -148,19 +112,11 @@ ___
 
 • **bSupportsAgent14**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8687)
-
 ___
 
 ### bSupportsAgent15
 
 • **bSupportsAgent15**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8688)
 
 ___
 
@@ -168,19 +124,11 @@ ___
 
 • **bSupportsAgent2**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8675)
-
 ___
 
 ### bSupportsAgent3
 
 • **bSupportsAgent3**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8676)
 
 ___
 
@@ -188,19 +136,11 @@ ___
 
 • **bSupportsAgent4**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8677)
-
 ___
 
 ### bSupportsAgent5
 
 • **bSupportsAgent5**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8678)
 
 ___
 
@@ -208,19 +148,11 @@ ___
 
 • **bSupportsAgent6**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8679)
-
 ___
 
 ### bSupportsAgent7
 
 • **bSupportsAgent7**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8680)
 
 ___
 
@@ -228,19 +160,11 @@ ___
 
 • **bSupportsAgent8**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8681)
-
 ___
 
 ### bSupportsAgent9
 
 • **bSupportsAgent9**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8682)
 
 ## Methods
 
@@ -256,10 +180,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8692](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8692)
-
 ___
 
 ### StaticStruct
@@ -269,7 +189,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8693)

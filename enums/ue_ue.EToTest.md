@@ -20,19 +20,11 @@
 
 • **EToTest\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34841)
-
 ___
 
 ### V0
 
 • **V0** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34841)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **V1** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34841)
-
 ___
 
 ### V13
 
 • **V13** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34841)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34841)

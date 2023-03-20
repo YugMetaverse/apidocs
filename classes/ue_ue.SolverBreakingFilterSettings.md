@@ -29,10 +29,6 @@
 
 • **new SolverBreakingFilterSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:26385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26385)
-
 • **new SolverBreakingFilterSettings**(`FilterEnabled`, `MinMass`, `MinSpeed`, `MinVolume`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `MinSpeed` | `number` |
 | `MinVolume` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:26386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26386)
-
 ## Properties
 
 ### FilterEnabled
 
 • **FilterEnabled**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26387)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **MinMass**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26388)
-
 ___
 
 ### MinSpeed
 
 • **MinSpeed**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26389)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **MinVolume**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26390)
-
 ___
 
 ### \_\_tid\_SolverBreakingFilterSettings\_\_
 
 • `Private` **\_\_tid\_SolverBreakingFilterSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26396)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26394)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26395)

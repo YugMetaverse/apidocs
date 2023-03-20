@@ -34,10 +34,6 @@
 
 • **new LightmassParameterValue**()
 
-#### Defined in
-
-[ue/ue.d.ts:47351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47351)
-
 • **new LightmassParameterValue**(`bOverride`)
 
 #### Parameters
@@ -46,29 +42,17 @@
 | :------ | :------ |
 | `bOverride` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:47352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47352)
-
 ## Properties
 
 ### \_\_tid\_LightmassParameterValue\_\_
 
 • `Private` **\_\_tid\_LightmassParameterValue\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:47359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47359)
-
 ___
 
 ### bOverride
 
 • **bOverride**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:47353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47353)
 
 ## Methods
 
@@ -84,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:47357](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47357)
-
 ___
 
 ### StaticStruct
@@ -97,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:47358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47358)

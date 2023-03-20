@@ -41,10 +41,6 @@
 
 [LandscapeImportLayerInfo](ue_ue.LandscapeImportLayerInfo.md).[constructor](ue_ue.LandscapeImportLayerInfo.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:44267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44267)
-
 • **new LandscapeImportLayer**(`ThumbnailMIC`, `ImportResult`, `ErrorMessage`)
 
 #### Parameters
@@ -59,29 +55,17 @@
 
 [LandscapeImportLayerInfo](ue_ue.LandscapeImportLayerInfo.md).[constructor](ue_ue.LandscapeImportLayerInfo.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:44268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44268)
-
 ## Properties
 
 ### ErrorMessage
 
 • **ErrorMessage**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:44271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44271)
-
 ___
 
 ### ImportResult
 
 • **ImportResult**: [`ELandscapeImportResult`](../enums/ue_ue.ELandscapeImportResult.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44270)
 
 ___
 
@@ -93,10 +77,6 @@ ___
 
 [LandscapeImportLayerInfo](ue_ue.LandscapeImportLayerInfo.md).[LayerInfo](ue_ue.LandscapeImportLayerInfo.md#layerinfo)
 
-#### Defined in
-
-[ue/ue.d.ts:44243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44243)
-
 ___
 
 ### LayerName
@@ -106,10 +86,6 @@ ___
 #### Inherited from
 
 [LandscapeImportLayerInfo](ue_ue.LandscapeImportLayerInfo.md).[LayerName](ue_ue.LandscapeImportLayerInfo.md#layername)
-
-#### Defined in
-
-[ue/ue.d.ts:44242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44242)
 
 ___
 
@@ -121,29 +97,17 @@ ___
 
 [LandscapeImportLayerInfo](ue_ue.LandscapeImportLayerInfo.md).[SourceFilePath](ue_ue.LandscapeImportLayerInfo.md#sourcefilepath)
 
-#### Defined in
-
-[ue/ue.d.ts:44244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44244)
-
 ___
 
 ### ThumbnailMIC
 
 • **ThumbnailMIC**: [`LandscapeMaterialInstanceConstant`](ue_ue.LandscapeMaterialInstanceConstant.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44269)
-
 ___
 
 ### \_\_tid\_LandscapeImportLayer\_\_
 
 • `Private` **\_\_tid\_LandscapeImportLayer\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44277)
 
 ## Methods
 
@@ -163,10 +127,6 @@ use StaticStruct instead.
 
 [LandscapeImportLayerInfo](ue_ue.LandscapeImportLayerInfo.md).[StaticClass](ue_ue.LandscapeImportLayerInfo.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:44275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44275)
-
 ___
 
 ### StaticStruct
@@ -180,7 +140,3 @@ ___
 #### Overrides
 
 [LandscapeImportLayerInfo](ue_ue.LandscapeImportLayerInfo.md).[StaticStruct](ue_ue.LandscapeImportLayerInfo.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:44276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44276)

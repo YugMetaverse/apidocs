@@ -40,10 +40,6 @@
 
 [MovieSceneByteChannel](ue_ue.MovieSceneByteChannel.md).[constructor](ue_ue.MovieSceneByteChannel.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:52193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52193)
-
 ## Properties
 
 ### DefaultValue
@@ -53,10 +49,6 @@
 #### Inherited from
 
 [MovieSceneByteChannel](ue_ue.MovieSceneByteChannel.md).[DefaultValue](ue_ue.MovieSceneByteChannel.md#defaultvalue)
-
-#### Defined in
-
-[ue/ue.d.ts:51322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51322)
 
 ___
 
@@ -68,10 +60,6 @@ ___
 
 [MovieSceneByteChannel](ue_ue.MovieSceneByteChannel.md).[Enum](ue_ue.MovieSceneByteChannel.md#enum)
 
-#### Defined in
-
-[ue/ue.d.ts:51325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51325)
-
 ___
 
 ### Times
@@ -81,10 +69,6 @@ ___
 #### Inherited from
 
 [MovieSceneByteChannel](ue_ue.MovieSceneByteChannel.md).[Times](ue_ue.MovieSceneByteChannel.md#times)
-
-#### Defined in
-
-[ue/ue.d.ts:51321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51321)
 
 ___
 
@@ -96,19 +80,11 @@ ___
 
 [MovieSceneByteChannel](ue_ue.MovieSceneByteChannel.md).[Values](ue_ue.MovieSceneByteChannel.md#values)
 
-#### Defined in
-
-[ue/ue.d.ts:51324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51324)
-
 ___
 
 ### \_\_tid\_MovieSceneParticleChannel\_\_
 
 • `Private` **\_\_tid\_MovieSceneParticleChannel\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52199)
 
 ___
 
@@ -119,10 +95,6 @@ ___
 #### Inherited from
 
 [MovieSceneByteChannel](ue_ue.MovieSceneByteChannel.md).[bHasDefaultValue](ue_ue.MovieSceneByteChannel.md#bhasdefaultvalue)
-
-#### Defined in
-
-[ue/ue.d.ts:51323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51323)
 
 ## Methods
 
@@ -142,10 +114,6 @@ use StaticStruct instead.
 
 [MovieSceneByteChannel](ue_ue.MovieSceneByteChannel.md).[StaticClass](ue_ue.MovieSceneByteChannel.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:52197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52197)
-
 ___
 
 ### StaticStruct
@@ -159,7 +127,3 @@ ___
 #### Overrides
 
 [MovieSceneByteChannel](ue_ue.MovieSceneByteChannel.md).[StaticStruct](ue_ue.MovieSceneByteChannel.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:52198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52198)

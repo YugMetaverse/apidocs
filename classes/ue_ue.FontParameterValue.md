@@ -30,10 +30,6 @@
 
 • **new FontParameterValue**()
 
-#### Defined in
-
-[ue/ue.d.ts:1996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1996)
-
 • **new FontParameterValue**(`ParameterName`, `ParameterInfo`, `FontValue`, `FontPage`, `ExpressionGUID`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `FontPage` | `number` |
 | `ExpressionGUID` | [`Guid`](ue_ue_s.Guid.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:1997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1997)
-
 ## Properties
 
 ### ExpressionGUID
 
 • **ExpressionGUID**: [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2002)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **FontPage**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2001)
-
 ___
 
 ### FontValue
 
 • **FontValue**: [`Font`](ue_ue.Font.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2000)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **ParameterInfo**: [`MaterialParameterInfo`](ue_ue.MaterialParameterInfo.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1999)
-
 ___
 
 ### ParameterName
 
 • **ParameterName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:1998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1998)
-
 ___
 
 ### \_\_tid\_FontParameterValue\_\_
 
 • `Private` **\_\_tid\_FontParameterValue\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2008)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2006)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2007)

@@ -22,19 +22,11 @@
 
 • **AlwaysFollower** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17530)
-
 ___
 
 ### AlwaysLeader
 
 • **AlwaysLeader** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17530)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **CanBeLeader** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17530)
-
 ___
 
 ### EAnimGroupRole\_MAX
 
 • **EAnimGroupRole\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17530)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **TransitionFollower** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17530)
-
 ___
 
 ### TransitionLeader
 
 • **TransitionLeader** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17530)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17530)

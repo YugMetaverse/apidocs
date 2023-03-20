@@ -22,19 +22,11 @@
 
 • **ESettingsLockedAxis\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34769)
-
 ___
 
 ### Invalid
 
 • **Invalid** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34769)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34769)
-
 ___
 
 ### X
 
 • **X** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34769)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **Y** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34769)
-
 ___
 
 ### Z
 
 • **Z** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34769)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34769)

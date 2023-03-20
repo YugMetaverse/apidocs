@@ -23,19 +23,11 @@
 
 • **LIGHTMAP\_128** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29428)
-
 ___
 
 ### LIGHTMAP\_16
 
 • **LIGHTMAP\_16** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29428)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **LIGHTMAP\_256** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29428)
-
 ___
 
 ### LIGHTMAP\_32
 
 • **LIGHTMAP\_32** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29428)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **LIGHTMAP\_512** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29428)
-
 ___
 
 ### LIGHTMAP\_64
 
 • **LIGHTMAP\_64** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29428)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **LIGHTMAP\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29428)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29428)

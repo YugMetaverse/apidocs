@@ -31,10 +31,6 @@
 
 • **new CameraLensSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:27255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27255)
-
 • **new CameraLensSettings**(`MinFocalLength`, `MaxFocalLength`, `MinFStop`, `MaxFStop`, `MinimumFocusDistance`, `DiaphragmBladeCount`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `MinimumFocusDistance` | `number` |
 | `DiaphragmBladeCount` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:27256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27256)
-
 ## Properties
 
 ### DiaphragmBladeCount
 
 • **DiaphragmBladeCount**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27262)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **MaxFStop**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27260)
-
 ___
 
 ### MaxFocalLength
 
 • **MaxFocalLength**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27258)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **MinFStop**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27259)
-
 ___
 
 ### MinFocalLength
 
 • **MinFocalLength**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27257)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **MinimumFocusDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27261)
-
 ___
 
 ### \_\_tid\_CameraLensSettings\_\_
 
 • `Private` **\_\_tid\_CameraLensSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27268)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27266)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27267)

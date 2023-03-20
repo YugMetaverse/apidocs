@@ -56,19 +56,11 @@
 
 [BaseClass](cpp.BaseClass.md).[constructor](cpp.BaseClass.md#constructor)
 
-#### Defined in
-
-[cpp/index.d.ts:26](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L26)
-
 • **new TestClass**()
 
 #### Overrides
 
 BaseClass.constructor
-
-#### Defined in
-
-[cpp/index.d.ts:27](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L27)
 
 ## Properties
 
@@ -76,19 +68,11 @@ BaseClass.constructor
 
 • **X**: `number`
 
-#### Defined in
-
-[cpp/index.d.ts:28](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L28)
-
 ___
 
 ### Y
 
 • **Y**: `number`
-
-#### Defined in
-
-[cpp/index.d.ts:29](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L29)
 
 ___
 
@@ -96,19 +80,11 @@ ___
 
 ▪ `Static` **StaticInt**: `number`
 
-#### Defined in
-
-[cpp/index.d.ts:30](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L30)
-
 ___
 
 ### Ten
 
 ▪ `Static` `Readonly` **Ten**: `number`
-
-#### Defined in
-
-[cpp/index.d.ts:31](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L31)
 
 ## Methods
 
@@ -126,10 +102,6 @@ ___
 
 [`cstring`](../modules/puerts.md#cstring)
 
-#### Defined in
-
-[cpp/index.d.ts:43](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L43)
-
 ___
 
 ### ConstRef
@@ -145,10 +117,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[cpp/index.d.ts:45](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L45)
 
 ___
 
@@ -170,10 +138,6 @@ ___
 
 [BaseClass](cpp.BaseClass.md).[Foo](cpp.BaseClass.md#foo)
 
-#### Defined in
-
-[cpp/index.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L14)
-
 ___
 
 ### GetSelf
@@ -183,10 +147,6 @@ ___
 #### Returns
 
 [`TestClass`](cpp.TestClass.md)
-
-#### Defined in
-
-[cpp/index.d.ts:38](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L38)
 
 ___
 
@@ -204,10 +164,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[cpp/index.d.ts:39](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L39)
-
 ___
 
 ### OverloadMethod
@@ -217,10 +173,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[cpp/index.d.ts:46](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L46)
 
 ▸ **OverloadMethod**(`p0`): `number`
 
@@ -234,10 +186,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[cpp/index.d.ts:47](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L47)
-
 ▸ **OverloadMethod**(`p0`): `bigint`
 
 #### Parameters
@@ -249,10 +197,6 @@ ___
 #### Returns
 
 `bigint`
-
-#### Defined in
-
-[cpp/index.d.ts:48](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L48)
 
 ___
 
@@ -270,10 +214,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[cpp/index.d.ts:42](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L42)
-
 ___
 
 ### Ref
@@ -289,10 +229,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[cpp/index.d.ts:40](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L40)
 
 ___
 
@@ -310,10 +246,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[cpp/index.d.ts:44](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L44)
-
 ___
 
 ### StrRef
@@ -329,10 +261,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[cpp/index.d.ts:41](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L41)
 
 ___
 
@@ -351,10 +279,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[cpp/index.d.ts:32](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L32)
-
 ___
 
 ### Overload
@@ -364,10 +288,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[cpp/index.d.ts:34](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L34)
 
 ▸ `Static` **Overload**(`p0`): `void`
 
@@ -381,10 +301,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[cpp/index.d.ts:35](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L35)
-
 ▸ `Static` **Overload**(`p0`, `p1`): `void`
 
 #### Parameters
@@ -398,10 +314,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[cpp/index.d.ts:36](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L36)
-
 ▸ `Static` **Overload**(`p0`, `p1`): `void`
 
 #### Parameters
@@ -414,10 +326,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[cpp/index.d.ts:37](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L37)
 
 ___
 
@@ -434,7 +342,3 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[cpp/index.d.ts:33](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L33)

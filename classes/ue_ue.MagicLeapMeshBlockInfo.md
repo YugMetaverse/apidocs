@@ -31,10 +31,6 @@
 
 • **new MagicLeapMeshBlockInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:46862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46862)
-
 • **new MagicLeapMeshBlockInfo**(`BlockID`, `BlockPosition`, `BlockOrientation`, `BlockDimensions`, `Timestamp`, `BlockState`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `Timestamp` | [`Timespan`](ue_ue.Timespan.md) |
 | `BlockState` | [`EMagicLeapMeshState`](../enums/ue_ue.EMagicLeapMeshState.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:46863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46863)
-
 ## Properties
 
 ### BlockDimensions
 
 • **BlockDimensions**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46867)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **BlockID**: [`Guid`](ue_ue_s.Guid.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46864)
-
 ___
 
 ### BlockOrientation
 
 • **BlockOrientation**: [`Rotator`](ue_ue_s.Rotator.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46866)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **BlockPosition**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46865)
-
 ___
 
 ### BlockState
 
 • **BlockState**: [`EMagicLeapMeshState`](../enums/ue_ue.EMagicLeapMeshState.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46869)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **Timestamp**: [`Timespan`](ue_ue.Timespan.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46868)
-
 ___
 
 ### \_\_tid\_MagicLeapMeshBlockInfo\_\_
 
 • `Private` **\_\_tid\_MagicLeapMeshBlockInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46875)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46873)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46874)

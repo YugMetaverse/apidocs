@@ -20,19 +20,11 @@
 
 • **Disabled** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34687)
-
 ___
 
 ### EProjectPackagingBlueprintNativizationMethod\_MAX
 
 • **EProjectPackagingBlueprintNativizationMethod\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34687)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Exclusive** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34687)
-
 ___
 
 ### Inclusive
 
 • **Inclusive** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34687)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34687)

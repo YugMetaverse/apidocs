@@ -19,19 +19,11 @@
 
 • **Background** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34734)
-
 ___
 
 ### EQuitPreference\_MAX
 
 • **EQuitPreference\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34734)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Quit** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34734)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34734)

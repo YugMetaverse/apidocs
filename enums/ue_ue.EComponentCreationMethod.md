@@ -21,19 +21,11 @@
 
 • **EComponentCreationMethod\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L271)
-
 ___
 
 ### Instance
 
 • **Instance** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L271)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Native** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L271)
-
 ___
 
 ### SimpleConstructionScript
 
 • **SimpleConstructionScript** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L271)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **UserConstructionScript** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L271)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L271)

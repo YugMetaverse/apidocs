@@ -27,10 +27,6 @@
 
 • **new BehaviorTreeTemplateInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:15414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15414)
-
 • **new BehaviorTreeTemplateInfo**(`Asset`, `Template`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Asset` | [`BehaviorTree`](ue_ue.BehaviorTree.md) |
 | `Template` | [`BTCompositeNode`](ue_ue.BTCompositeNode.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:15415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15415)
-
 ## Properties
 
 ### Asset
 
 • **Asset**: [`BehaviorTree`](ue_ue.BehaviorTree.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15416)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Template**: [`BTCompositeNode`](ue_ue.BTCompositeNode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15417)
-
 ___
 
 ### \_\_tid\_BehaviorTreeTemplateInfo\_\_
 
 • `Private` **\_\_tid\_BehaviorTreeTemplateInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15423)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15421)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15422)

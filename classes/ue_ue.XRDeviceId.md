@@ -27,10 +27,6 @@
 
 • **new XRDeviceId**()
 
-#### Defined in
-
-[ue/ue.d.ts:22147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22147)
-
 • **new XRDeviceId**(`SystemName`, `DeviceId`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `SystemName` | `string` |
 | `DeviceId` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:22148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22148)
-
 ## Properties
 
 ### DeviceId
 
 • **DeviceId**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22150)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **SystemName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:22149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22149)
-
 ___
 
 ### \_\_tid\_XRDeviceId\_\_
 
 • `Private` **\_\_tid\_XRDeviceId\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22156)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22154)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22155)

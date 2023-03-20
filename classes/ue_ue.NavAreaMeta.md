@@ -75,10 +75,6 @@
 
 [NavArea](ue_ue.NavArea.md).[constructor](ue_ue.NavArea.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:52826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52826)
-
 ## Properties
 
 ### DefaultCost
@@ -88,10 +84,6 @@
 #### Inherited from
 
 [NavArea](ue_ue.NavArea.md).[DefaultCost](ue_ue.NavArea.md#defaultcost)
-
-#### Defined in
-
-[ue/ue.d.ts:52762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52762)
 
 ___
 
@@ -103,10 +95,6 @@ ___
 
 [NavArea](ue_ue.NavArea.md).[DrawColor](ue_ue.NavArea.md#drawcolor)
 
-#### Defined in
-
-[ue/ue.d.ts:52764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52764)
-
 ___
 
 ### FixedAreaEnteringCost
@@ -116,10 +104,6 @@ ___
 #### Inherited from
 
 [NavArea](ue_ue.NavArea.md).[FixedAreaEnteringCost](ue_ue.NavArea.md#fixedareaenteringcost)
-
-#### Defined in
-
-[ue/ue.d.ts:52763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52763)
 
 ___
 
@@ -131,10 +115,6 @@ ___
 
 [NavArea](ue_ue.NavArea.md).[SupportedAgents](ue_ue.NavArea.md#supportedagents)
 
-#### Defined in
-
-[ue/ue.d.ts:52765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52765)
-
 ___
 
 ### \_\_tid\_NavAreaBase\_\_
@@ -145,19 +125,11 @@ ___
 
 [NavArea](ue_ue.NavArea.md).[__tid_NavAreaBase__](ue_ue.NavArea.md#__tid_navareabase__)
 
-#### Defined in
-
-[ue/ue.d.ts:52757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52757)
-
 ___
 
 ### \_\_tid\_NavAreaMeta\_\_
 
 • **\_\_tid\_NavAreaMeta\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52831)
 
 ___
 
@@ -169,10 +141,6 @@ ___
 
 [NavArea](ue_ue.NavArea.md).[__tid_NavArea__](ue_ue.NavArea.md#__tid_navarea__)
 
-#### Defined in
-
-[ue/ue.d.ts:52786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52786)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -182,10 +150,6 @@ ___
 #### Inherited from
 
 [NavArea](ue_ue.NavArea.md).[__tid_Object__](ue_ue.NavArea.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -197,10 +161,6 @@ ___
 
 [NavArea](ue_ue.NavArea.md).[bSupportsAgent0](ue_ue.NavArea.md#bsupportsagent0)
 
-#### Defined in
-
-[ue/ue.d.ts:52766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52766)
-
 ___
 
 ### bSupportsAgent1
@@ -210,10 +170,6 @@ ___
 #### Inherited from
 
 [NavArea](ue_ue.NavArea.md).[bSupportsAgent1](ue_ue.NavArea.md#bsupportsagent1)
-
-#### Defined in
-
-[ue/ue.d.ts:52767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52767)
 
 ___
 
@@ -225,10 +181,6 @@ ___
 
 [NavArea](ue_ue.NavArea.md).[bSupportsAgent10](ue_ue.NavArea.md#bsupportsagent10)
 
-#### Defined in
-
-[ue/ue.d.ts:52776](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52776)
-
 ___
 
 ### bSupportsAgent11
@@ -238,10 +190,6 @@ ___
 #### Inherited from
 
 [NavArea](ue_ue.NavArea.md).[bSupportsAgent11](ue_ue.NavArea.md#bsupportsagent11)
-
-#### Defined in
-
-[ue/ue.d.ts:52777](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52777)
 
 ___
 
@@ -253,10 +201,6 @@ ___
 
 [NavArea](ue_ue.NavArea.md).[bSupportsAgent12](ue_ue.NavArea.md#bsupportsagent12)
 
-#### Defined in
-
-[ue/ue.d.ts:52778](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52778)
-
 ___
 
 ### bSupportsAgent13
@@ -266,10 +210,6 @@ ___
 #### Inherited from
 
 [NavArea](ue_ue.NavArea.md).[bSupportsAgent13](ue_ue.NavArea.md#bsupportsagent13)
-
-#### Defined in
-
-[ue/ue.d.ts:52779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52779)
 
 ___
 
@@ -281,10 +221,6 @@ ___
 
 [NavArea](ue_ue.NavArea.md).[bSupportsAgent14](ue_ue.NavArea.md#bsupportsagent14)
 
-#### Defined in
-
-[ue/ue.d.ts:52780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52780)
-
 ___
 
 ### bSupportsAgent15
@@ -294,10 +230,6 @@ ___
 #### Inherited from
 
 [NavArea](ue_ue.NavArea.md).[bSupportsAgent15](ue_ue.NavArea.md#bsupportsagent15)
-
-#### Defined in
-
-[ue/ue.d.ts:52781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52781)
 
 ___
 
@@ -309,10 +241,6 @@ ___
 
 [NavArea](ue_ue.NavArea.md).[bSupportsAgent2](ue_ue.NavArea.md#bsupportsagent2)
 
-#### Defined in
-
-[ue/ue.d.ts:52768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52768)
-
 ___
 
 ### bSupportsAgent3
@@ -322,10 +250,6 @@ ___
 #### Inherited from
 
 [NavArea](ue_ue.NavArea.md).[bSupportsAgent3](ue_ue.NavArea.md#bsupportsagent3)
-
-#### Defined in
-
-[ue/ue.d.ts:52769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52769)
 
 ___
 
@@ -337,10 +261,6 @@ ___
 
 [NavArea](ue_ue.NavArea.md).[bSupportsAgent4](ue_ue.NavArea.md#bsupportsagent4)
 
-#### Defined in
-
-[ue/ue.d.ts:52770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52770)
-
 ___
 
 ### bSupportsAgent5
@@ -350,10 +270,6 @@ ___
 #### Inherited from
 
 [NavArea](ue_ue.NavArea.md).[bSupportsAgent5](ue_ue.NavArea.md#bsupportsagent5)
-
-#### Defined in
-
-[ue/ue.d.ts:52771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52771)
 
 ___
 
@@ -365,10 +281,6 @@ ___
 
 [NavArea](ue_ue.NavArea.md).[bSupportsAgent6](ue_ue.NavArea.md#bsupportsagent6)
 
-#### Defined in
-
-[ue/ue.d.ts:52772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52772)
-
 ___
 
 ### bSupportsAgent7
@@ -378,10 +290,6 @@ ___
 #### Inherited from
 
 [NavArea](ue_ue.NavArea.md).[bSupportsAgent7](ue_ue.NavArea.md#bsupportsagent7)
-
-#### Defined in
-
-[ue/ue.d.ts:52773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52773)
 
 ___
 
@@ -393,10 +301,6 @@ ___
 
 [NavArea](ue_ue.NavArea.md).[bSupportsAgent8](ue_ue.NavArea.md#bsupportsagent8)
 
-#### Defined in
-
-[ue/ue.d.ts:52774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52774)
-
 ___
 
 ### bSupportsAgent9
@@ -406,10 +310,6 @@ ___
 #### Inherited from
 
 [NavArea](ue_ue.NavArea.md).[bSupportsAgent9](ue_ue.NavArea.md#bsupportsagent9)
-
-#### Defined in
-
-[ue/ue.d.ts:52775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52775)
 
 ## Methods
 
@@ -435,10 +335,6 @@ ___
 
 [NavArea](ue_ue.NavArea.md).[CreateDefaultSubobject](ue_ue.NavArea.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -459,10 +355,6 @@ ___
 
 [NavArea](ue_ue.NavArea.md).[ExecuteUbergraph](ue_ue.NavArea.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -476,10 +368,6 @@ ___
 #### Inherited from
 
 [NavArea](ue_ue.NavArea.md).[GetClass](ue_ue.NavArea.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -495,10 +383,6 @@ ___
 
 [NavArea](ue_ue.NavArea.md).[GetName](ue_ue.NavArea.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -513,10 +397,6 @@ ___
 
 [NavArea](ue_ue.NavArea.md).[GetOuter](ue_ue.NavArea.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -530,10 +410,6 @@ ___
 #### Inherited from
 
 [NavArea](ue_ue.NavArea.md).[GetWorld](ue_ue.NavArea.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -556,10 +432,6 @@ ___
 
 [NavArea](ue_ue.NavArea.md).[Find](ue_ue.NavArea.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:52828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52828)
-
 ___
 
 ### Load
@@ -580,10 +452,6 @@ ___
 
 [NavArea](ue_ue.NavArea.md).[Load](ue_ue.NavArea.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:52829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52829)
-
 ___
 
 ### StaticClass
@@ -597,7 +465,3 @@ ___
 #### Overrides
 
 [NavArea](ue_ue.NavArea.md).[StaticClass](ue_ue.NavArea.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:52827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52827)

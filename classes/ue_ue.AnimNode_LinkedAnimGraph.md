@@ -46,10 +46,6 @@
 
 [AnimNode_CustomProperty](ue_ue.AnimNode_CustomProperty.md).[constructor](ue_ue.AnimNode_CustomProperty.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:18732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18732)
-
 • **new AnimNode_LinkedAnimGraph**(`InputPoses`, `InputPoseNames`, `InstanceClass`, `Tag`)
 
 #### Parameters
@@ -65,10 +61,6 @@
 
 [AnimNode_CustomProperty](ue_ue.AnimNode_CustomProperty.md).[constructor](ue_ue.AnimNode_CustomProperty.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:18733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18733)
-
 ## Properties
 
 ### DestProperties
@@ -78,10 +70,6 @@
 #### Inherited from
 
 [AnimNode_CustomProperty](ue_ue.AnimNode_CustomProperty.md).[DestProperties](ue_ue.AnimNode_CustomProperty.md#destproperties)
-
-#### Defined in
-
-[ue/ue.d.ts:18722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18722)
 
 ___
 
@@ -93,19 +81,11 @@ ___
 
 [AnimNode_CustomProperty](ue_ue.AnimNode_CustomProperty.md).[DestPropertyNames](ue_ue.AnimNode_CustomProperty.md#destpropertynames)
 
-#### Defined in
-
-[ue/ue.d.ts:18719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18719)
-
 ___
 
 ### InputPoseNames
 
 • **InputPoseNames**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:18735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18735)
 
 ___
 
@@ -113,19 +93,11 @@ ___
 
 • **InputPoses**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PoseLink`](ue_ue.PoseLink.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:18734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18734)
-
 ___
 
 ### InstanceClass
 
 • **InstanceClass**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:18736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18736)
 
 ___
 
@@ -137,10 +109,6 @@ ___
 
 [AnimNode_CustomProperty](ue_ue.AnimNode_CustomProperty.md).[SourceProperties](ue_ue.AnimNode_CustomProperty.md#sourceproperties)
 
-#### Defined in
-
-[ue/ue.d.ts:18721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18721)
-
 ___
 
 ### SourcePropertyNames
@@ -151,19 +119,11 @@ ___
 
 [AnimNode_CustomProperty](ue_ue.AnimNode_CustomProperty.md).[SourcePropertyNames](ue_ue.AnimNode_CustomProperty.md#sourcepropertynames)
 
-#### Defined in
-
-[ue/ue.d.ts:18718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18718)
-
 ___
 
 ### Tag
 
 • **Tag**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:18737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18737)
 
 ___
 
@@ -175,19 +135,11 @@ ___
 
 [AnimNode_CustomProperty](ue_ue.AnimNode_CustomProperty.md).[TargetInstance](ue_ue.AnimNode_CustomProperty.md#targetinstance)
 
-#### Defined in
-
-[ue/ue.d.ts:18720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18720)
-
 ___
 
 ### \_\_tid\_AnimNode\_LinkedAnimGraph\_\_
 
 • `Private` **\_\_tid\_AnimNode\_LinkedAnimGraph\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18743)
 
 ## Methods
 
@@ -207,10 +159,6 @@ use StaticStruct instead.
 
 [AnimNode_CustomProperty](ue_ue.AnimNode_CustomProperty.md).[StaticClass](ue_ue.AnimNode_CustomProperty.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:18741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18741)
-
 ___
 
 ### StaticStruct
@@ -224,7 +172,3 @@ ___
 #### Overrides
 
 [AnimNode_CustomProperty](ue_ue.AnimNode_CustomProperty.md).[StaticStruct](ue_ue.AnimNode_CustomProperty.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:18742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18742)

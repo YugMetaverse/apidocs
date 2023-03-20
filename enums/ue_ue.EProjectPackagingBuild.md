@@ -21,19 +21,11 @@
 
 • **Always** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34688)
-
 ___
 
 ### EProjectPackagingBuild\_MAX
 
 • **EProjectPackagingBuild\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34688)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **IfEditorWasBuiltLocally** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34688)
-
 ___
 
 ### IfProjectHasCode
 
 • **IfProjectHasCode** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34688)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Never** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34688)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34688)

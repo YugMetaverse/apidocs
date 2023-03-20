@@ -38,10 +38,6 @@
 
 • **new ClothPhysicalMeshData**()
 
-#### Defined in
-
-[ue/ue.d.ts:27849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27849)
-
 • **new ClothPhysicalMeshData**(`Vertices`, `Normals`, `VertexColors`, `Indices`, `MaxDistances`, `BackstopDistances`, `BackstopRadiuses`, `AnimDriveMultipliers`, `InverseMasses`, `BoneData`, `MaxBoneWeights`, `NumFixedVerts`, `SelfCollisionIndices`)
 
 #### Parameters
@@ -62,19 +58,11 @@
 | `NumFixedVerts` | `number` |
 | `SelfCollisionIndices` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:27850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27850)
-
 ## Properties
 
 ### AnimDriveMultipliers
 
 • **AnimDriveMultipliers**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:27858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27858)
 
 ___
 
@@ -82,19 +70,11 @@ ___
 
 • **BackstopDistances**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:27856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27856)
-
 ___
 
 ### BackstopRadiuses
 
 • **BackstopRadiuses**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:27857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27857)
 
 ___
 
@@ -102,19 +82,11 @@ ___
 
 • **BoneData**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ClothVertBoneData`](ue_ue.ClothVertBoneData.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:27860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27860)
-
 ___
 
 ### Indices
 
 • **Indices**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:27854](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27854)
 
 ___
 
@@ -122,19 +94,11 @@ ___
 
 • **InverseMasses**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:27859](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27859)
-
 ___
 
 ### MaxBoneWeights
 
 • **MaxBoneWeights**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27861)
 
 ___
 
@@ -142,19 +106,11 @@ ___
 
 • **MaxDistances**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:27855](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27855)
-
 ___
 
 ### Normals
 
 • **Normals**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Vector`](ue_ue_s.Vector.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:27852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27852)
 
 ___
 
@@ -162,19 +118,11 @@ ___
 
 • **NumFixedVerts**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27862)
-
 ___
 
 ### SelfCollisionIndices
 
 • **SelfCollisionIndices**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:27863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27863)
 
 ___
 
@@ -182,29 +130,17 @@ ___
 
 • **VertexColors**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Color`](ue_ue_s.Color.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:27853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27853)
-
 ___
 
 ### Vertices
 
 • **Vertices**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Vector`](ue_ue_s.Vector.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:27851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27851)
-
 ___
 
 ### \_\_tid\_ClothPhysicalMeshData\_\_
 
 • `Private` **\_\_tid\_ClothPhysicalMeshData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27869)
 
 ## Methods
 
@@ -220,10 +156,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27867)
-
 ___
 
 ### StaticStruct
@@ -233,7 +165,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27868)

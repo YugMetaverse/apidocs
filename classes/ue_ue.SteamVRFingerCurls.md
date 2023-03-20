@@ -30,10 +30,6 @@
 
 • **new SteamVRFingerCurls**()
 
-#### Defined in
-
-[ue/ue.d.ts:62260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62260)
-
 • **new SteamVRFingerCurls**(`Thumb`, `Index`, `Middle`, `Ring`, `Pinky`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `Ring` | `number` |
 | `Pinky` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:62261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62261)
-
 ## Properties
 
 ### Index
 
 • **Index**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:62263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62263)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **Middle**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:62264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62264)
-
 ___
 
 ### Pinky
 
 • **Pinky**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:62266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62266)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **Ring**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:62265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62265)
-
 ___
 
 ### Thumb
 
 • **Thumb**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:62262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62262)
-
 ___
 
 ### \_\_tid\_SteamVRFingerCurls\_\_
 
 • `Private` **\_\_tid\_SteamVRFingerCurls\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:62272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62272)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:62270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62270)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:62271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62271)

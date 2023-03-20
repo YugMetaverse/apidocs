@@ -54,10 +54,6 @@
 
 [MulticastDelegateProperty](ue_ue.MulticastDelegateProperty.md).[constructor](ue_ue.MulticastDelegateProperty.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:52529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52529)
-
 ## Properties
 
 ### \_\_tid\_Field\_\_
@@ -67,10 +63,6 @@
 #### Inherited from
 
 [MulticastDelegateProperty](ue_ue.MulticastDelegateProperty.md).[__tid_Field__](ue_ue.MulticastDelegateProperty.md#__tid_field__)
-
-#### Defined in
-
-[ue/ue.d.ts:700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L700)
 
 ___
 
@@ -82,19 +74,11 @@ ___
 
 [MulticastDelegateProperty](ue_ue.MulticastDelegateProperty.md).[__tid_MulticastDelegateProperty__](ue_ue.MulticastDelegateProperty.md#__tid_multicastdelegateproperty__)
 
-#### Defined in
-
-[ue/ue.d.ts:23922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23922)
-
 ___
 
 ### \_\_tid\_MulticastSparseDelegateProperty\_\_
 
 • **\_\_tid\_MulticastSparseDelegateProperty\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52534](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52534)
 
 ___
 
@@ -106,10 +90,6 @@ ___
 
 [MulticastDelegateProperty](ue_ue.MulticastDelegateProperty.md).[__tid_Object__](ue_ue.MulticastDelegateProperty.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_Property\_\_
@@ -119,10 +99,6 @@ ___
 #### Inherited from
 
 [MulticastDelegateProperty](ue_ue.MulticastDelegateProperty.md).[__tid_Property__](ue_ue.MulticastDelegateProperty.md#__tid_property__)
-
-#### Defined in
-
-[ue/ue.d.ts:4766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4766)
 
 ## Methods
 
@@ -148,10 +124,6 @@ ___
 
 [MulticastDelegateProperty](ue_ue.MulticastDelegateProperty.md).[CreateDefaultSubobject](ue_ue.MulticastDelegateProperty.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -172,10 +144,6 @@ ___
 
 [MulticastDelegateProperty](ue_ue.MulticastDelegateProperty.md).[ExecuteUbergraph](ue_ue.MulticastDelegateProperty.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -189,10 +157,6 @@ ___
 #### Inherited from
 
 [MulticastDelegateProperty](ue_ue.MulticastDelegateProperty.md).[GetClass](ue_ue.MulticastDelegateProperty.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -208,10 +172,6 @@ ___
 
 [MulticastDelegateProperty](ue_ue.MulticastDelegateProperty.md).[GetName](ue_ue.MulticastDelegateProperty.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -226,10 +186,6 @@ ___
 
 [MulticastDelegateProperty](ue_ue.MulticastDelegateProperty.md).[GetOuter](ue_ue.MulticastDelegateProperty.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -243,10 +199,6 @@ ___
 #### Inherited from
 
 [MulticastDelegateProperty](ue_ue.MulticastDelegateProperty.md).[GetWorld](ue_ue.MulticastDelegateProperty.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -269,10 +221,6 @@ ___
 
 [MulticastDelegateProperty](ue_ue.MulticastDelegateProperty.md).[Find](ue_ue.MulticastDelegateProperty.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:52531](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52531)
-
 ___
 
 ### Load
@@ -293,10 +241,6 @@ ___
 
 [MulticastDelegateProperty](ue_ue.MulticastDelegateProperty.md).[Load](ue_ue.MulticastDelegateProperty.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:52532](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52532)
-
 ___
 
 ### StaticClass
@@ -310,7 +254,3 @@ ___
 #### Overrides
 
 [MulticastDelegateProperty](ue_ue.MulticastDelegateProperty.md).[StaticClass](ue_ue.MulticastDelegateProperty.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:52530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52530)

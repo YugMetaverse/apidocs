@@ -20,19 +20,11 @@
 
 • **AX\_Horizontal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34771)
-
 ___
 
 ### AX\_MAX
 
 • **AX\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34771)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **AX\_XAxis** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34771)
-
 ___
 
 ### AX\_YAxis
 
 • **AX\_YAxis** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34771)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34771)

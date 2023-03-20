@@ -503,10 +503,6 @@
 
 [SplineComponent](ue_ue.SplineComponent.md).[constructor](ue_ue.SplineComponent.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:54924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54924)
-
 ## Properties
 
 ### AlwaysLoadOnClient
@@ -516,10 +512,6 @@
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[AlwaysLoadOnClient](ue_ue.SplineComponent.md#alwaysloadonclient)
-
-#### Defined in
-
-[ue/ue.d.ts:12608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12608)
 
 ___
 
@@ -531,10 +523,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[AlwaysLoadOnServer](ue_ue.SplineComponent.md#alwaysloadonserver)
 
-#### Defined in
-
-[ue/ue.d.ts:12609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12609)
-
 ___
 
 ### AssetUserData
@@ -544,10 +532,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[AssetUserData](ue_ue.SplineComponent.md#assetuserdata)
-
-#### Defined in
-
-[ue/ue.d.ts:291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L291)
 
 ___
 
@@ -559,10 +543,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[AttachChildren](ue_ue.SplineComponent.md#attachchildren)
 
-#### Defined in
-
-[ue/ue.d.ts:12873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12873)
-
 ___
 
 ### AttachParent
@@ -572,10 +552,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[AttachParent](ue_ue.SplineComponent.md#attachparent)
-
-#### Defined in
-
-[ue/ue.d.ts:12871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12871)
 
 ___
 
@@ -587,10 +563,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[AttachSocketName](ue_ue.SplineComponent.md#attachsocketname)
 
-#### Defined in
-
-[ue/ue.d.ts:12872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12872)
-
 ___
 
 ### BodyInstance
@@ -600,10 +572,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[BodyInstance](ue_ue.SplineComponent.md#bodyinstance)
-
-#### Defined in
-
-[ue/ue.d.ts:12630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12630)
 
 ___
 
@@ -615,10 +583,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[BoundsScale](ue_ue.SplineComponent.md#boundsscale)
 
-#### Defined in
-
-[ue/ue.d.ts:12627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12627)
-
 ___
 
 ### CachedMaxDrawDistance
@@ -628,10 +592,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[CachedMaxDrawDistance](ue_ue.SplineComponent.md#cachedmaxdrawdistance)
-
-#### Defined in
-
-[ue/ue.d.ts:12557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12557)
 
 ___
 
@@ -643,10 +603,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[CanBeCharacterBase](ue_ue.SplineComponent.md#canbecharacterbase)
 
-#### Defined in
-
-[ue/ue.d.ts:12613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12613)
-
 ___
 
 ### CanCharacterStepUpOn
@@ -656,10 +612,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[CanCharacterStepUpOn](ue_ue.SplineComponent.md#cancharacterstepupon)
-
-#### Defined in
-
-[ue/ue.d.ts:12614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12614)
 
 ___
 
@@ -671,10 +623,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[CastShadow](ue_ue.SplineComponent.md#castshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12587)
-
 ___
 
 ### ClientAttachedChildren
@@ -684,10 +632,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[ClientAttachedChildren](ue_ue.SplineComponent.md#clientattachedchildren)
-
-#### Defined in
-
-[ue/ue.d.ts:12874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12874)
 
 ___
 
@@ -699,10 +643,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[ComponentTags](ue_ue.SplineComponent.md#componenttags)
 
-#### Defined in
-
-[ue/ue.d.ts:290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L290)
-
 ___
 
 ### ComponentVelocity
@@ -712,10 +652,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[ComponentVelocity](ue_ue.SplineComponent.md#componentvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12878)
 
 ___
 
@@ -727,10 +663,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[CreationMethod](ue_ue.SplineComponent.md#creationmethod)
 
-#### Defined in
-
-[ue/ue.d.ts:302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L302)
-
 ___
 
 ### CustomDepthStencilValue
@@ -740,10 +672,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[CustomDepthStencilValue](ue_ue.SplineComponent.md#customdepthstencilvalue)
-
-#### Defined in
-
-[ue/ue.d.ts:12617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12617)
 
 ___
 
@@ -755,10 +683,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[CustomDepthStencilWriteMask](ue_ue.SplineComponent.md#customdepthstencilwritemask)
 
-#### Defined in
-
-[ue/ue.d.ts:12616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12616)
-
 ___
 
 ### CustomPrimitiveData
@@ -768,10 +692,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[CustomPrimitiveData](ue_ue.SplineComponent.md#customprimitivedata)
-
-#### Defined in
-
-[ue/ue.d.ts:12618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12618)
 
 ___
 
@@ -783,10 +703,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[DefaultUpVector](ue_ue.SplineComponent.md#defaultupvector)
 
-#### Defined in
-
-[ue/ue.d.ts:25930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25930)
-
 ___
 
 ### DepthPriorityGroup
@@ -796,10 +712,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[DepthPriorityGroup](ue_ue.SplineComponent.md#depthprioritygroup)
-
-#### Defined in
-
-[ue/ue.d.ts:12558](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12558)
 
 ___
 
@@ -811,10 +723,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[DetailMode](ue_ue.SplineComponent.md#detailmode)
 
-#### Defined in
-
-[ue/ue.d.ts:12893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12893)
-
 ___
 
 ### Duration
@@ -824,10 +732,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[Duration](ue_ue.SplineComponent.md#duration)
-
-#### Defined in
-
-[ue/ue.d.ts:25921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25921)
 
 ___
 
@@ -839,10 +743,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[EditorSelectedSplineSegmentColor](ue_ue.SplineComponent.md#editorselectedsplinesegmentcolor)
 
-#### Defined in
-
-[ue/ue.d.ts:25932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25932)
-
 ___
 
 ### EditorUnselectedSplineSegmentColor
@@ -852,10 +752,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[EditorUnselectedSplineSegmentColor](ue_ue.SplineComponent.md#editorunselectedsplinesegmentcolor)
-
-#### Defined in
-
-[ue/ue.d.ts:25931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25931)
 
 ___
 
@@ -867,10 +763,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[ExcludeForSpecificHLODLevels](ue_ue.SplineComponent.md#excludeforspecifichlodlevels)
 
-#### Defined in
-
-[ue/ue.d.ts:12562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12562)
-
 ___
 
 ### IndirectLightingCacheQuality
@@ -880,10 +772,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[IndirectLightingCacheQuality](ue_ue.SplineComponent.md#indirectlightingcachequality)
-
-#### Defined in
-
-[ue/ue.d.ts:12560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12560)
 
 ___
 
@@ -895,10 +783,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[LDMaxDrawDistance](ue_ue.SplineComponent.md#ldmaxdrawdistance)
 
-#### Defined in
-
-[ue/ue.d.ts:12556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12556)
-
 ___
 
 ### LODParentPrimitive
@@ -908,10 +792,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[LODParentPrimitive](ue_ue.SplineComponent.md#lodparentprimitive)
-
-#### Defined in
-
-[ue/ue.d.ts:12644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12644)
 
 ___
 
@@ -923,10 +803,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[LightingChannels](ue_ue.SplineComponent.md#lightingchannels)
 
-#### Defined in
-
-[ue/ue.d.ts:12615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12615)
-
 ___
 
 ### LightmapType
@@ -936,10 +812,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[LightmapType](ue_ue.SplineComponent.md#lightmaptype)
-
-#### Defined in
-
-[ue/ue.d.ts:12561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12561)
 
 ___
 
@@ -951,10 +823,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[LoopPosition](ue_ue.SplineComponent.md#loopposition)
 
-#### Defined in
-
-[ue/ue.d.ts:25929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25929)
-
 ___
 
 ### LpvBiasMultiplier
@@ -964,10 +832,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[LpvBiasMultiplier](ue_ue.SplineComponent.md#lpvbiasmultiplier)
-
-#### Defined in
-
-[ue/ue.d.ts:12626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12626)
 
 ___
 
@@ -979,10 +843,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[MinDrawDistance](ue_ue.SplineComponent.md#mindrawdistance)
 
-#### Defined in
-
-[ue/ue.d.ts:12555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12555)
-
 ___
 
 ### Mobility
@@ -992,10 +852,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[Mobility](ue_ue.SplineComponent.md#mobility)
-
-#### Defined in
-
-[ue/ue.d.ts:12892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12892)
 
 ___
 
@@ -1007,10 +863,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[MoveIgnoreActors](ue_ue.SplineComponent.md#moveignoreactors)
 
-#### Defined in
-
-[ue/ue.d.ts:12628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12628)
-
 ___
 
 ### MoveIgnoreComponents
@@ -1020,10 +872,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[MoveIgnoreComponents](ue_ue.SplineComponent.md#moveignorecomponents)
-
-#### Defined in
-
-[ue/ue.d.ts:12629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12629)
 
 ___
 
@@ -1035,10 +883,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[OnBeginCursorOver](ue_ue.SplineComponent.md#onbegincursorover)
 
-#### Defined in
-
-[ue/ue.d.ts:12636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12636)
-
 ___
 
 ### OnClicked
@@ -1048,10 +892,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[OnClicked](ue_ue.SplineComponent.md#onclicked)
-
-#### Defined in
-
-[ue/ue.d.ts:12638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12638)
 
 ___
 
@@ -1063,10 +903,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[OnComponentActivated](ue_ue.SplineComponent.md#oncomponentactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L303)
-
 ___
 
 ### OnComponentBeginOverlap
@@ -1076,10 +912,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[OnComponentBeginOverlap](ue_ue.SplineComponent.md#oncomponentbeginoverlap)
-
-#### Defined in
-
-[ue/ue.d.ts:12632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12632)
 
 ___
 
@@ -1091,10 +923,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[OnComponentDeactivated](ue_ue.SplineComponent.md#oncomponentdeactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L304)
-
 ___
 
 ### OnComponentEndOverlap
@@ -1104,10 +932,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[OnComponentEndOverlap](ue_ue.SplineComponent.md#oncomponentendoverlap)
-
-#### Defined in
-
-[ue/ue.d.ts:12633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12633)
 
 ___
 
@@ -1119,10 +943,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[OnComponentHit](ue_ue.SplineComponent.md#oncomponenthit)
 
-#### Defined in
-
-[ue/ue.d.ts:12631](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12631)
-
 ___
 
 ### OnComponentSleep
@@ -1132,10 +952,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[OnComponentSleep](ue_ue.SplineComponent.md#oncomponentsleep)
-
-#### Defined in
-
-[ue/ue.d.ts:12635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12635)
 
 ___
 
@@ -1147,10 +963,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[OnComponentWake](ue_ue.SplineComponent.md#oncomponentwake)
 
-#### Defined in
-
-[ue/ue.d.ts:12634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12634)
-
 ___
 
 ### OnEndCursorOver
@@ -1160,10 +972,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[OnEndCursorOver](ue_ue.SplineComponent.md#onendcursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:12637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12637)
 
 ___
 
@@ -1175,10 +983,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[OnInputTouchBegin](ue_ue.SplineComponent.md#oninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:12640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12640)
-
 ___
 
 ### OnInputTouchEnd
@@ -1188,10 +992,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[OnInputTouchEnd](ue_ue.SplineComponent.md#oninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:12641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12641)
 
 ___
 
@@ -1203,10 +1003,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[OnInputTouchEnter](ue_ue.SplineComponent.md#oninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:12642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12642)
-
 ___
 
 ### OnInputTouchLeave
@@ -1216,10 +1012,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[OnInputTouchLeave](ue_ue.SplineComponent.md#oninputtouchleave)
-
-#### Defined in
-
-[ue/ue.d.ts:12643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12643)
 
 ___
 
@@ -1231,10 +1023,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[OnReleased](ue_ue.SplineComponent.md#onreleased)
 
-#### Defined in
-
-[ue/ue.d.ts:12639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12639)
-
 ___
 
 ### PhysicsVolume
@@ -1244,10 +1032,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[PhysicsVolume](ue_ue.SplineComponent.md#physicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12870)
 
 ___
 
@@ -1259,10 +1043,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[PhysicsVolumeChangedDelegate](ue_ue.SplineComponent.md#physicsvolumechangeddelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:12894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12894)
-
 ___
 
 ### PrimaryComponentTick
@@ -1272,10 +1052,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[PrimaryComponentTick](ue_ue.SplineComponent.md#primarycomponenttick)
-
-#### Defined in
-
-[ue/ue.d.ts:289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L289)
 
 ___
 
@@ -1287,10 +1063,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[RelativeLocation](ue_ue.SplineComponent.md#relativelocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12875)
-
 ___
 
 ### RelativeRotation
@@ -1300,10 +1072,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[RelativeRotation](ue_ue.SplineComponent.md#relativerotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12876)
 
 ___
 
@@ -1315,10 +1083,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[RelativeScale3D](ue_ue.SplineComponent.md#relativescale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:12877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12877)
-
 ___
 
 ### ReparamStepsPerSegment
@@ -1328,10 +1092,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[ReparamStepsPerSegment](ue_ue.SplineComponent.md#reparamstepspersegment)
-
-#### Defined in
-
-[ue/ue.d.ts:25920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25920)
 
 ___
 
@@ -1343,10 +1103,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[RuntimeVirtualTextures](ue_ue.SplineComponent.md#runtimevirtualtextures)
 
-#### Defined in
-
-[ue/ue.d.ts:12621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12621)
-
 ___
 
 ### ScaleVisualizationWidth
@@ -1356,10 +1112,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[ScaleVisualizationWidth](ue_ue.SplineComponent.md#scalevisualizationwidth)
-
-#### Defined in
-
-[ue/ue.d.ts:25935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25935)
 
 ___
 
@@ -1371,10 +1123,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SplineCurves](ue_ue.SplineComponent.md#splinecurves)
 
-#### Defined in
-
-[ue/ue.d.ts:25914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25914)
-
 ___
 
 ### SplineInfo
@@ -1384,10 +1132,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SplineInfo](ue_ue.SplineComponent.md#splineinfo)
-
-#### Defined in
-
-[ue/ue.d.ts:25915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25915)
 
 ___
 
@@ -1399,10 +1143,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SplineReparamTable](ue_ue.SplineComponent.md#splinereparamtable)
 
-#### Defined in
-
-[ue/ue.d.ts:25918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25918)
-
 ___
 
 ### SplineRotInfo
@@ -1412,10 +1152,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SplineRotInfo](ue_ue.SplineComponent.md#splinerotinfo)
-
-#### Defined in
-
-[ue/ue.d.ts:25916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25916)
 
 ___
 
@@ -1427,10 +1163,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SplineScaleInfo](ue_ue.SplineComponent.md#splinescaleinfo)
 
-#### Defined in
-
-[ue/ue.d.ts:25917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25917)
-
 ___
 
 ### TranslucencySortPriority
@@ -1440,10 +1172,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[TranslucencySortPriority](ue_ue.SplineComponent.md#translucencysortpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:12619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12619)
 
 ___
 
@@ -1455,10 +1183,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[UCSModifiedProperties](ue_ue.SplineComponent.md#ucsmodifiedproperties)
 
-#### Defined in
-
-[ue/ue.d.ts:305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L305)
-
 ___
 
 ### ViewOwnerDepthPriorityGroup
@@ -1468,10 +1192,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[ViewOwnerDepthPriorityGroup](ue_ue.SplineComponent.md#viewownerdepthprioritygroup)
-
-#### Defined in
-
-[ue/ue.d.ts:12559](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12559)
 
 ___
 
@@ -1483,10 +1203,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[VirtualTextureCullMips](ue_ue.SplineComponent.md#virtualtexturecullmips)
 
-#### Defined in
-
-[ue/ue.d.ts:12623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12623)
-
 ___
 
 ### VirtualTextureLodBias
@@ -1496,10 +1212,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[VirtualTextureLodBias](ue_ue.SplineComponent.md#virtualtexturelodbias)
-
-#### Defined in
-
-[ue/ue.d.ts:12622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12622)
 
 ___
 
@@ -1511,10 +1223,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[VirtualTextureMinCoverage](ue_ue.SplineComponent.md#virtualtexturemincoverage)
 
-#### Defined in
-
-[ue/ue.d.ts:12624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12624)
-
 ___
 
 ### VirtualTextureRenderPassType
@@ -1524,10 +1232,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[VirtualTextureRenderPassType](ue_ue.SplineComponent.md#virtualtexturerenderpasstype)
-
-#### Defined in
-
-[ue/ue.d.ts:12625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12625)
 
 ___
 
@@ -1539,10 +1243,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[VisibilityId](ue_ue.SplineComponent.md#visibilityid)
 
-#### Defined in
-
-[ue/ue.d.ts:12620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12620)
-
 ___
 
 ### \_\_tid\_ActorComponent\_\_
@@ -1552,10 +1252,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[__tid_ActorComponent__](ue_ue.SplineComponent.md#__tid_actorcomponent__)
-
-#### Defined in
-
-[ue/ue.d.ts:336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L336)
 
 ___
 
@@ -1567,19 +1263,11 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[__tid_Object__](ue_ue.SplineComponent.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PaperTerrainSplineComponent\_\_
 
 • **\_\_tid\_PaperTerrainSplineComponent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54929)
 
 ___
 
@@ -1591,10 +1279,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[__tid_PrimitiveComponent__](ue_ue.SplineComponent.md#__tid_primitivecomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:12761](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12761)
-
 ___
 
 ### \_\_tid\_SceneComponent\_\_
@@ -1604,10 +1288,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[__tid_SceneComponent__](ue_ue.SplineComponent.md#__tid_scenecomponent__)
-
-#### Defined in
-
-[ue/ue.d.ts:12961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12961)
 
 ___
 
@@ -1619,10 +1299,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[__tid_SplineComponent__](ue_ue.SplineComponent.md#__tid_splinecomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:26034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26034)
-
 ___
 
 ### bAbsoluteLocation
@@ -1632,10 +1308,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bAbsoluteLocation](ue_ue.SplineComponent.md#babsolutelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12880)
 
 ___
 
@@ -1647,10 +1319,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bAbsoluteRotation](ue_ue.SplineComponent.md#babsoluterotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12881)
-
 ___
 
 ### bAbsoluteScale
@@ -1660,10 +1328,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bAbsoluteScale](ue_ue.SplineComponent.md#babsolutescale)
-
-#### Defined in
-
-[ue/ue.d.ts:12882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12882)
 
 ___
 
@@ -1675,10 +1339,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bAffectDistanceFieldLighting](ue_ue.SplineComponent.md#baffectdistancefieldlighting)
 
-#### Defined in
-
-[ue/ue.d.ts:12589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12589)
-
 ___
 
 ### bAffectDynamicIndirectLighting
@@ -1688,10 +1348,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bAffectDynamicIndirectLighting](ue_ue.SplineComponent.md#baffectdynamicindirectlighting)
-
-#### Defined in
-
-[ue/ue.d.ts:12588](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12588)
 
 ___
 
@@ -1703,10 +1359,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bAllowCullDistanceVolume](ue_ue.SplineComponent.md#ballowculldistancevolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12573)
-
 ___
 
 ### bAllowDiscontinuousSpline
@@ -1716,10 +1368,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bAllowDiscontinuousSpline](ue_ue.SplineComponent.md#ballowdiscontinuousspline)
-
-#### Defined in
-
-[ue/ue.d.ts:25933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25933)
 
 ___
 
@@ -1731,10 +1379,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bAllowSplineEditingPerInstance](ue_ue.SplineComponent.md#ballowsplineeditingperinstance)
 
-#### Defined in
-
-[ue/ue.d.ts:25919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25919)
-
 ___
 
 ### bAlwaysCreatePhysicsState
@@ -1744,10 +1388,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bAlwaysCreatePhysicsState](ue_ue.SplineComponent.md#balwayscreatephysicsstate)
-
-#### Defined in
-
-[ue/ue.d.ts:12567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12567)
 
 ___
 
@@ -1759,10 +1399,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bApplyImpulseOnDamage](ue_ue.SplineComponent.md#bapplyimpulseondamage)
 
-#### Defined in
-
-[ue/ue.d.ts:12606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12606)
-
 ___
 
 ### bAutoActivate
@@ -1772,10 +1408,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bAutoActivate](ue_ue.SplineComponent.md#bautoactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L296)
 
 ___
 
@@ -1787,10 +1419,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bBatchImpostersAsInstances](ue_ue.SplineComponent.md#bbatchimpostersasinstances)
 
-#### Defined in
-
-[ue/ue.d.ts:12565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12565)
-
 ___
 
 ### bBoundsChangeTriggersStreamingDataRebuild
@@ -1800,10 +1428,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bBoundsChangeTriggersStreamingDataRebuild](ue_ue.SplineComponent.md#bboundschangetriggersstreamingdatarebuild)
-
-#### Defined in
-
-[ue/ue.d.ts:12889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12889)
 
 ___
 
@@ -1815,10 +1439,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bCanEverAffectNavigation](ue_ue.SplineComponent.md#bcaneveraffectnavigation)
 
-#### Defined in
-
-[ue/ue.d.ts:299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L299)
-
 ___
 
 ### bCastCinematicShadow
@@ -1828,10 +1448,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bCastCinematicShadow](ue_ue.SplineComponent.md#bcastcinematicshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12596)
 
 ___
 
@@ -1843,10 +1459,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bCastDynamicShadow](ue_ue.SplineComponent.md#bcastdynamicshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12590)
-
 ___
 
 ### bCastFarShadow
@@ -1856,10 +1468,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bCastFarShadow](ue_ue.SplineComponent.md#bcastfarshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12594)
 
 ___
 
@@ -1871,10 +1479,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bCastHiddenShadow](ue_ue.SplineComponent.md#bcasthiddenshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12597)
-
 ___
 
 ### bCastInsetShadow
@@ -1884,10 +1488,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bCastInsetShadow](ue_ue.SplineComponent.md#bcastinsetshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12595)
 
 ___
 
@@ -1899,10 +1499,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bCastShadowAsTwoSided](ue_ue.SplineComponent.md#bcastshadowastwosided)
 
-#### Defined in
-
-[ue/ue.d.ts:12598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12598)
-
 ___
 
 ### bCastStaticShadow
@@ -1912,10 +1508,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bCastStaticShadow](ue_ue.SplineComponent.md#bcaststaticshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12591)
 
 ___
 
@@ -1927,10 +1519,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bCastVolumetricTranslucentShadow](ue_ue.SplineComponent.md#bcastvolumetrictranslucentshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12592)
-
 ___
 
 ### bClosedLoop
@@ -1940,10 +1528,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bClosedLoop](ue_ue.SplineComponent.md#bclosedloop)
-
-#### Defined in
-
-[ue/ue.d.ts:25927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25927)
 
 ___
 
@@ -1955,10 +1539,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bComponentToWorldUpdated](ue_ue.SplineComponent.md#bcomponenttoworldupdated)
 
-#### Defined in
-
-[ue/ue.d.ts:12879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12879)
-
 ___
 
 ### bCreatedByConstructionScript
@@ -1968,10 +1548,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bCreatedByConstructionScript](ue_ue.SplineComponent.md#bcreatedbyconstructionscript)
-
-#### Defined in
-
-[ue/ue.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L294)
 
 ___
 
@@ -1983,10 +1559,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bDrawDebug](ue_ue.SplineComponent.md#bdrawdebug)
 
-#### Defined in
-
-[ue/ue.d.ts:25926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25926)
-
 ___
 
 ### bEditableWhenInherited
@@ -1996,10 +1568,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bEditableWhenInherited](ue_ue.SplineComponent.md#beditablewheninherited)
-
-#### Defined in
-
-[ue/ue.d.ts:298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L298)
 
 ___
 
@@ -2011,10 +1579,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bEnableAutoLODGeneration](ue_ue.SplineComponent.md#benableautolodgeneration)
 
-#### Defined in
-
-[ue/ue.d.ts:12563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12563)
-
 ___
 
 ### bExcludeFromLightAttachmentGroup
@@ -2024,10 +1588,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bExcludeFromLightAttachmentGroup](ue_ue.SplineComponent.md#bexcludefromlightattachmentgroup)
-
-#### Defined in
-
-[ue/ue.d.ts:12601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12601)
 
 ___
 
@@ -2039,10 +1599,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bForceMipStreaming](ue_ue.SplineComponent.md#bforcemipstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:12585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12585)
-
 ___
 
 ### bGenerateOverlapEvents
@@ -2052,10 +1608,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bGenerateOverlapEvents](ue_ue.SplineComponent.md#bgenerateoverlapevents)
-
-#### Defined in
-
-[ue/ue.d.ts:12568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12568)
 
 ___
 
@@ -2067,10 +1619,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bHasCustomNavigableGeometry](ue_ue.SplineComponent.md#bhascustomnavigablegeometry)
 
-#### Defined in
-
-[ue/ue.d.ts:12612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12612)
-
 ___
 
 ### bHasMotionBlurVelocityMeshes
@@ -2080,10 +1628,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bHasMotionBlurVelocityMeshes](ue_ue.SplineComponent.md#bhasmotionblurvelocitymeshes)
-
-#### Defined in
-
-[ue/ue.d.ts:12574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12574)
 
 ___
 
@@ -2095,10 +1639,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bHasPerInstanceHitProxies](ue_ue.SplineComponent.md#bhasperinstancehitproxies)
 
-#### Defined in
-
-[ue/ue.d.ts:12586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12586)
-
 ___
 
 ### bHiddenInGame
@@ -2108,10 +1648,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bHiddenInGame](ue_ue.SplineComponent.md#bhiddeningame)
-
-#### Defined in
-
-[ue/ue.d.ts:12884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12884)
 
 ___
 
@@ -2123,10 +1659,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bIgnoreRadialForce](ue_ue.SplineComponent.md#bignoreradialforce)
 
-#### Defined in
-
-[ue/ue.d.ts:12605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12605)
-
 ___
 
 ### bIgnoreRadialImpulse
@@ -2136,10 +1668,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bIgnoreRadialImpulse](ue_ue.SplineComponent.md#bignoreradialimpulse)
-
-#### Defined in
-
-[ue/ue.d.ts:12604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12604)
 
 ___
 
@@ -2151,10 +1679,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bInputSplinePointsToConstructionScript](ue_ue.SplineComponent.md#binputsplinepointstoconstructionscript)
 
-#### Defined in
-
-[ue/ue.d.ts:25925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25925)
-
 ___
 
 ### bInstanceComponent
@@ -2164,10 +1688,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bInstanceComponent](ue_ue.SplineComponent.md#binstancecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L295)
 
 ___
 
@@ -2179,10 +1699,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bIsActive](ue_ue.SplineComponent.md#bisactive)
 
-#### Defined in
-
-[ue/ue.d.ts:297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L297)
-
 ___
 
 ### bIsEditorOnly
@@ -2192,10 +1708,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bIsEditorOnly](ue_ue.SplineComponent.md#biseditoronly)
-
-#### Defined in
-
-[ue/ue.d.ts:300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L300)
 
 ___
 
@@ -2207,10 +1719,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bIsVisualizationComponent](ue_ue.SplineComponent.md#bisvisualizationcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L301)
-
 ___
 
 ### bLightAsIfStatic
@@ -2220,10 +1728,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bLightAsIfStatic](ue_ue.SplineComponent.md#blightasifstatic)
-
-#### Defined in
-
-[ue/ue.d.ts:12599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12599)
 
 ___
 
@@ -2235,10 +1739,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bLightAttachmentsAsGroup](ue_ue.SplineComponent.md#blightattachmentsasgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12600)
-
 ___
 
 ### bLoopPositionOverride
@@ -2248,10 +1748,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bLoopPositionOverride](ue_ue.SplineComponent.md#blooppositionoverride)
-
-#### Defined in
-
-[ue/ue.d.ts:25928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25928)
 
 ___
 
@@ -2263,10 +1759,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bModifiedByConstructionScript](ue_ue.SplineComponent.md#bmodifiedbyconstructionscript)
 
-#### Defined in
-
-[ue/ue.d.ts:25924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25924)
-
 ___
 
 ### bMultiBodyOverlap
@@ -2276,10 +1768,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bMultiBodyOverlap](ue_ue.SplineComponent.md#bmultibodyoverlap)
-
-#### Defined in
-
-[ue/ue.d.ts:12569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12569)
 
 ___
 
@@ -2291,10 +1779,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bNetAddressable](ue_ue.SplineComponent.md#bnetaddressable)
 
-#### Defined in
-
-[ue/ue.d.ts:293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L293)
-
 ___
 
 ### bNeverDistanceCull
@@ -2304,10 +1788,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bNeverDistanceCull](ue_ue.SplineComponent.md#bneverdistancecull)
-
-#### Defined in
-
-[ue/ue.d.ts:12566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12566)
 
 ___
 
@@ -2319,10 +1799,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bOnlyOwnerSee](ue_ue.SplineComponent.md#bonlyownersee)
 
-#### Defined in
-
-[ue/ue.d.ts:12581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12581)
-
 ___
 
 ### bOwnerNoSee
@@ -2332,10 +1808,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bOwnerNoSee](ue_ue.SplineComponent.md#bownernosee)
-
-#### Defined in
-
-[ue/ue.d.ts:12580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12580)
 
 ___
 
@@ -2347,10 +1819,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bReceiveMobileCSMShadows](ue_ue.SplineComponent.md#breceivemobilecsmshadows)
 
-#### Defined in
-
-[ue/ue.d.ts:12602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12602)
-
 ___
 
 ### bReceivesDecals
@@ -2360,10 +1828,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bReceivesDecals](ue_ue.SplineComponent.md#breceivesdecals)
-
-#### Defined in
-
-[ue/ue.d.ts:12579](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12579)
 
 ___
 
@@ -2375,10 +1839,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bRenderCustomDepth](ue_ue.SplineComponent.md#brendercustomdepth)
 
-#### Defined in
-
-[ue/ue.d.ts:12611](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12611)
-
 ___
 
 ### bRenderInDepthPass
@@ -2388,10 +1848,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bRenderInDepthPass](ue_ue.SplineComponent.md#brenderindepthpass)
-
-#### Defined in
-
-[ue/ue.d.ts:12578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12578)
 
 ___
 
@@ -2403,10 +1859,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bRenderInMainPass](ue_ue.SplineComponent.md#brenderinmainpass)
 
-#### Defined in
-
-[ue/ue.d.ts:12577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12577)
-
 ___
 
 ### bReplicatePhysicsToAutonomousProxy
@@ -2416,10 +1868,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bReplicatePhysicsToAutonomousProxy](ue_ue.SplineComponent.md#breplicatephysicstoautonomousproxy)
-
-#### Defined in
-
-[ue/ue.d.ts:12607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12607)
 
 ___
 
@@ -2431,10 +1879,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bReplicates](ue_ue.SplineComponent.md#breplicates)
 
-#### Defined in
-
-[ue/ue.d.ts:292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L292)
-
 ___
 
 ### bReturnMaterialOnMove
@@ -2444,10 +1888,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bReturnMaterialOnMove](ue_ue.SplineComponent.md#breturnmaterialonmove)
-
-#### Defined in
-
-[ue/ue.d.ts:12571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12571)
 
 ___
 
@@ -2459,10 +1899,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bSelectable](ue_ue.SplineComponent.md#bselectable)
 
-#### Defined in
-
-[ue/ue.d.ts:12584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12584)
-
 ___
 
 ### bSelfShadowOnly
@@ -2472,10 +1908,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bSelfShadowOnly](ue_ue.SplineComponent.md#bselfshadowonly)
-
-#### Defined in
-
-[ue/ue.d.ts:12593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12593)
 
 ___
 
@@ -2487,10 +1919,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bShouldBeAttached](ue_ue.SplineComponent.md#bshouldbeattached)
 
-#### Defined in
-
-[ue/ue.d.ts:12885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12885)
-
 ___
 
 ### bShouldSnapLocationWhenAttached
@@ -2500,10 +1928,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bShouldSnapLocationWhenAttached](ue_ue.SplineComponent.md#bshouldsnaplocationwhenattached)
-
-#### Defined in
-
-[ue/ue.d.ts:12886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12886)
 
 ___
 
@@ -2515,10 +1939,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bShouldSnapRotationWhenAttached](ue_ue.SplineComponent.md#bshouldsnaprotationwhenattached)
 
-#### Defined in
-
-[ue/ue.d.ts:12887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12887)
-
 ___
 
 ### bShouldUpdatePhysicsVolume
@@ -2528,10 +1948,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bShouldUpdatePhysicsVolume](ue_ue.SplineComponent.md#bshouldupdatephysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12888)
 
 ___
 
@@ -2543,10 +1959,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bShouldVisualizeScale](ue_ue.SplineComponent.md#bshouldvisualizescale)
 
-#### Defined in
-
-[ue/ue.d.ts:25934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25934)
-
 ___
 
 ### bSingleSampleShadowFromStationaryLights
@@ -2556,10 +1968,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bSingleSampleShadowFromStationaryLights](ue_ue.SplineComponent.md#bsinglesampleshadowfromstationarylights)
-
-#### Defined in
-
-[ue/ue.d.ts:12603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12603)
 
 ___
 
@@ -2571,10 +1979,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bSplineHasBeenEdited](ue_ue.SplineComponent.md#bsplinehasbeenedited)
 
-#### Defined in
-
-[ue/ue.d.ts:25923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25923)
-
 ___
 
 ### bStationaryEndpoints
@@ -2584,10 +1988,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bStationaryEndpoints](ue_ue.SplineComponent.md#bstationaryendpoints)
-
-#### Defined in
-
-[ue/ue.d.ts:25922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25922)
 
 ___
 
@@ -2599,10 +1999,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bTraceComplexOnMove](ue_ue.SplineComponent.md#btracecomplexonmove)
 
-#### Defined in
-
-[ue/ue.d.ts:12570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12570)
-
 ___
 
 ### bTreatAsBackgroundForOcclusion
@@ -2612,10 +2008,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bTreatAsBackgroundForOcclusion](ue_ue.SplineComponent.md#btreatasbackgroundforocclusion)
-
-#### Defined in
-
-[ue/ue.d.ts:12582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12582)
 
 ___
 
@@ -2627,10 +2019,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bUseAsOccluder](ue_ue.SplineComponent.md#buseasoccluder)
 
-#### Defined in
-
-[ue/ue.d.ts:12583](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12583)
-
 ___
 
 ### bUseAttachParentBound
@@ -2640,10 +2028,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bUseAttachParentBound](ue_ue.SplineComponent.md#buseattachparentbound)
-
-#### Defined in
-
-[ue/ue.d.ts:12890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12890)
 
 ___
 
@@ -2655,10 +2039,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bUseEditorCompositing](ue_ue.SplineComponent.md#buseeditorcompositing)
 
-#### Defined in
-
-[ue/ue.d.ts:12610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12610)
-
 ___
 
 ### bUseMaxLODAsImposter
@@ -2668,10 +2048,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bUseMaxLODAsImposter](ue_ue.SplineComponent.md#busemaxlodasimposter)
-
-#### Defined in
-
-[ue/ue.d.ts:12564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12564)
 
 ___
 
@@ -2683,10 +2059,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bUseViewOwnerDepthPriorityGroup](ue_ue.SplineComponent.md#buseviewownerdepthprioritygroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12572)
-
 ___
 
 ### bVisible
@@ -2696,10 +2068,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bVisible](ue_ue.SplineComponent.md#bvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:12883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12883)
 
 ___
 
@@ -2711,10 +2079,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bVisibleInRayTracing](ue_ue.SplineComponent.md#bvisibleinraytracing)
 
-#### Defined in
-
-[ue/ue.d.ts:12576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12576)
-
 ___
 
 ### bVisibleInReflectionCaptures
@@ -2725,10 +2089,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[bVisibleInReflectionCaptures](ue_ue.SplineComponent.md#bvisibleinreflectioncaptures)
 
-#### Defined in
-
-[ue/ue.d.ts:12575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12575)
-
 ___
 
 ### bVisualizeComponent
@@ -2738,10 +2098,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[bVisualizeComponent](ue_ue.SplineComponent.md#bvisualizecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12891)
 
 ## Methods
 
@@ -2762,10 +2118,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[Activate](ue_ue.SplineComponent.md#activate)
-
-#### Defined in
-
-[ue/ue.d.ts:306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L306)
 
 ___
 
@@ -2789,10 +2141,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[AddAngularImpulse](ue_ue.SplineComponent.md#addangularimpulse)
 
-#### Defined in
-
-[ue/ue.d.ts:12645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12645)
-
 ___
 
 ### AddAngularImpulseInDegrees
@@ -2814,10 +2162,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[AddAngularImpulseInDegrees](ue_ue.SplineComponent.md#addangularimpulseindegrees)
-
-#### Defined in
-
-[ue/ue.d.ts:12646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12646)
 
 ___
 
@@ -2841,10 +2185,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[AddAngularImpulseInRadians](ue_ue.SplineComponent.md#addangularimpulseinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12647)
-
 ___
 
 ### AddForce
@@ -2866,10 +2206,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[AddForce](ue_ue.SplineComponent.md#addforce)
-
-#### Defined in
-
-[ue/ue.d.ts:12648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12648)
 
 ___
 
@@ -2893,10 +2229,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[AddForceAtLocation](ue_ue.SplineComponent.md#addforceatlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12649)
-
 ___
 
 ### AddForceAtLocationLocal
@@ -2918,10 +2250,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[AddForceAtLocationLocal](ue_ue.SplineComponent.md#addforceatlocationlocal)
-
-#### Defined in
-
-[ue/ue.d.ts:12650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12650)
 
 ___
 
@@ -2945,10 +2273,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[AddImpulse](ue_ue.SplineComponent.md#addimpulse)
 
-#### Defined in
-
-[ue/ue.d.ts:12651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12651)
-
 ___
 
 ### AddImpulseAtLocation
@@ -2971,10 +2295,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[AddImpulseAtLocation](ue_ue.SplineComponent.md#addimpulseatlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12652)
-
 ___
 
 ### AddPoint
@@ -2996,10 +2316,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[AddPoint](ue_ue.SplineComponent.md#addpoint)
 
-#### Defined in
-
-[ue/ue.d.ts:25936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25936)
-
 ___
 
 ### AddPoints
@@ -3020,10 +2336,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[AddPoints](ue_ue.SplineComponent.md#addpoints)
-
-#### Defined in
-
-[ue/ue.d.ts:25937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25937)
 
 ___
 
@@ -3049,10 +2361,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[AddRadialForce](ue_ue.SplineComponent.md#addradialforce)
 
-#### Defined in
-
-[ue/ue.d.ts:12653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12653)
-
 ___
 
 ### AddRadialImpulse
@@ -3077,10 +2385,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[AddRadialImpulse](ue_ue.SplineComponent.md#addradialimpulse)
 
-#### Defined in
-
-[ue/ue.d.ts:12654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12654)
-
 ___
 
 ### AddSplineLocalPoint
@@ -3100,10 +2404,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[AddSplineLocalPoint](ue_ue.SplineComponent.md#addsplinelocalpoint)
-
-#### Defined in
-
-[ue/ue.d.ts:25938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25938)
 
 ___
 
@@ -3126,10 +2426,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[AddSplinePoint](ue_ue.SplineComponent.md#addsplinepoint)
-
-#### Defined in
-
-[ue/ue.d.ts:25939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25939)
 
 ___
 
@@ -3154,10 +2450,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[AddSplinePointAtIndex](ue_ue.SplineComponent.md#addsplinepointatindex)
 
-#### Defined in
-
-[ue/ue.d.ts:25940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25940)
-
 ___
 
 ### AddSplineWorldPoint
@@ -3177,10 +2469,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[AddSplineWorldPoint](ue_ue.SplineComponent.md#addsplineworldpoint)
-
-#### Defined in
-
-[ue/ue.d.ts:25941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25941)
 
 ___
 
@@ -3202,10 +2490,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[AddTickPrerequisiteActor](ue_ue.SplineComponent.md#addtickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L307)
-
 ___
 
 ### AddTickPrerequisiteComponent
@@ -3225,10 +2509,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[AddTickPrerequisiteComponent](ue_ue.SplineComponent.md#addtickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L308)
 
 ___
 
@@ -3252,10 +2532,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[AddTorque](ue_ue.SplineComponent.md#addtorque)
 
-#### Defined in
-
-[ue/ue.d.ts:12655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12655)
-
 ___
 
 ### AddTorqueInDegrees
@@ -3277,10 +2553,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[AddTorqueInDegrees](ue_ue.SplineComponent.md#addtorqueindegrees)
-
-#### Defined in
-
-[ue/ue.d.ts:12656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12656)
 
 ___
 
@@ -3304,10 +2576,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[AddTorqueInRadians](ue_ue.SplineComponent.md#addtorqueinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12657)
-
 ___
 
 ### CanCharacterStepUp
@@ -3328,10 +2596,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[CanCharacterStepUp](ue_ue.SplineComponent.md#cancharacterstepup)
 
-#### Defined in
-
-[ue/ue.d.ts:12658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12658)
-
 ___
 
 ### ClearMoveIgnoreActors
@@ -3346,10 +2610,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[ClearMoveIgnoreActors](ue_ue.SplineComponent.md#clearmoveignoreactors)
 
-#### Defined in
-
-[ue/ue.d.ts:12659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12659)
-
 ___
 
 ### ClearMoveIgnoreComponents
@@ -3363,10 +2623,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[ClearMoveIgnoreComponents](ue_ue.SplineComponent.md#clearmoveignorecomponents)
-
-#### Defined in
-
-[ue/ue.d.ts:12660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12660)
 
 ___
 
@@ -3388,10 +2644,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[ClearSplinePoints](ue_ue.SplineComponent.md#clearsplinepoints)
 
-#### Defined in
-
-[ue/ue.d.ts:25942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25942)
-
 ___
 
 ### ComponentHasTag
@@ -3412,10 +2664,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[ComponentHasTag](ue_ue.SplineComponent.md#componenthastag)
 
-#### Defined in
-
-[ue/ue.d.ts:309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L309)
-
 ___
 
 ### CopyArrayOfMoveIgnoreActors
@@ -3430,10 +2678,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[CopyArrayOfMoveIgnoreActors](ue_ue.SplineComponent.md#copyarrayofmoveignoreactors)
 
-#### Defined in
-
-[ue/ue.d.ts:12661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12661)
-
 ___
 
 ### CopyArrayOfMoveIgnoreComponents
@@ -3447,10 +2691,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[CopyArrayOfMoveIgnoreComponents](ue_ue.SplineComponent.md#copyarrayofmoveignorecomponents)
-
-#### Defined in
-
-[ue/ue.d.ts:12662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12662)
 
 ___
 
@@ -3472,10 +2712,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[CreateAndSetMaterialInstanceDynamic](ue_ue.SplineComponent.md#createandsetmaterialinstancedynamic)
 
-#### Defined in
-
-[ue/ue.d.ts:12663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12663)
-
 ___
 
 ### CreateAndSetMaterialInstanceDynamicFromMaterial
@@ -3496,10 +2732,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[CreateAndSetMaterialInstanceDynamicFromMaterial](ue_ue.SplineComponent.md#createandsetmaterialinstancedynamicfrommaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:12664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12664)
 
 ___
 
@@ -3525,10 +2757,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[CreateDefaultSubobject](ue_ue.SplineComponent.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### CreateDynamicMaterialInstance
@@ -3551,10 +2779,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[CreateDynamicMaterialInstance](ue_ue.SplineComponent.md#createdynamicmaterialinstance)
 
-#### Defined in
-
-[ue/ue.d.ts:12665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12665)
-
 ___
 
 ### Deactivate
@@ -3568,10 +2792,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[Deactivate](ue_ue.SplineComponent.md#deactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L310)
 
 ___
 
@@ -3594,10 +2814,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[DetachFromParent](ue_ue.SplineComponent.md#detachfromparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12895)
-
 ___
 
 ### DoesSocketExist
@@ -3618,10 +2834,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[DoesSocketExist](ue_ue.SplineComponent.md#doessocketexist)
 
-#### Defined in
-
-[ue/ue.d.ts:12896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12896)
-
 ___
 
 ### ExecuteUbergraph
@@ -3641,10 +2853,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[ExecuteUbergraph](ue_ue.SplineComponent.md#executeubergraph)
-
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
 
 ___
 
@@ -3667,10 +2875,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[FindDirectionClosestToWorldLocation](ue_ue.SplineComponent.md#finddirectionclosesttoworldlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:25943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25943)
-
 ___
 
 ### FindInputKeyClosestToWorldLocation
@@ -3690,10 +2894,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[FindInputKeyClosestToWorldLocation](ue_ue.SplineComponent.md#findinputkeyclosesttoworldlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:25944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25944)
 
 ___
 
@@ -3716,10 +2916,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[FindLocationClosestToWorldLocation](ue_ue.SplineComponent.md#findlocationclosesttoworldlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:25945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25945)
-
 ___
 
 ### FindRightVectorClosestToWorldLocation
@@ -3740,10 +2936,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[FindRightVectorClosestToWorldLocation](ue_ue.SplineComponent.md#findrightvectorclosesttoworldlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:25946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25946)
 
 ___
 
@@ -3766,10 +2958,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[FindRollClosestToWorldLocation](ue_ue.SplineComponent.md#findrollclosesttoworldlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:25947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25947)
-
 ___
 
 ### FindRotationClosestToWorldLocation
@@ -3791,10 +2979,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[FindRotationClosestToWorldLocation](ue_ue.SplineComponent.md#findrotationclosesttoworldlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:25948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25948)
-
 ___
 
 ### FindScaleClosestToWorldLocation
@@ -3814,10 +2998,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[FindScaleClosestToWorldLocation](ue_ue.SplineComponent.md#findscaleclosesttoworldlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:25949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25949)
 
 ___
 
@@ -3839,10 +3019,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[FindTangentClosestToWorldLocation](ue_ue.SplineComponent.md#findtangentclosesttoworldlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:25950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25950)
 
 ___
 
@@ -3866,10 +3042,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[FindTransformClosestToWorldLocation](ue_ue.SplineComponent.md#findtransformclosesttoworldlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:25951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25951)
-
 ___
 
 ### FindUpVectorClosestToWorldLocation
@@ -3891,10 +3063,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[FindUpVectorClosestToWorldLocation](ue_ue.SplineComponent.md#findupvectorclosesttoworldlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:25952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25952)
-
 ___
 
 ### GetAllSocketNames
@@ -3909,10 +3077,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetAllSocketNames](ue_ue.SplineComponent.md#getallsocketnames)
 
-#### Defined in
-
-[ue/ue.d.ts:12897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12897)
-
 ___
 
 ### GetAngularDamping
@@ -3926,10 +3090,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetAngularDamping](ue_ue.SplineComponent.md#getangulardamping)
-
-#### Defined in
-
-[ue/ue.d.ts:12666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12666)
 
 ___
 
@@ -3952,10 +3112,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetArriveTangentAtSplinePoint](ue_ue.SplineComponent.md#getarrivetangentatsplinepoint)
 
-#### Defined in
-
-[ue/ue.d.ts:25953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25953)
-
 ___
 
 ### GetAttachParent
@@ -3970,10 +3126,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetAttachParent](ue_ue.SplineComponent.md#getattachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12898)
-
 ___
 
 ### GetAttachSocketName
@@ -3987,10 +3139,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetAttachSocketName](ue_ue.SplineComponent.md#getattachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12899)
 
 ___
 
@@ -4012,10 +3160,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetCenterOfMass](ue_ue.SplineComponent.md#getcenterofmass)
 
-#### Defined in
-
-[ue/ue.d.ts:12667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12667)
-
 ___
 
 ### GetChildComponent
@@ -4035,10 +3179,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetChildComponent](ue_ue.SplineComponent.md#getchildcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12900)
 
 ___
 
@@ -4061,10 +3201,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetChildrenComponents](ue_ue.SplineComponent.md#getchildrencomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12901)
-
 ___
 
 ### GetClass
@@ -4078,10 +3214,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetClass](ue_ue.SplineComponent.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -4105,10 +3237,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetClosestPointOnCollision](ue_ue.SplineComponent.md#getclosestpointoncollision)
 
-#### Defined in
-
-[ue/ue.d.ts:12668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12668)
-
 ___
 
 ### GetCollisionEnabled
@@ -4122,10 +3250,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetCollisionEnabled](ue_ue.SplineComponent.md#getcollisionenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12669)
 
 ___
 
@@ -4141,10 +3265,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetCollisionObjectType](ue_ue.SplineComponent.md#getcollisionobjecttype)
 
-#### Defined in
-
-[ue/ue.d.ts:12670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12670)
-
 ___
 
 ### GetCollisionProfileName
@@ -4158,10 +3278,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetCollisionProfileName](ue_ue.SplineComponent.md#getcollisionprofilename)
-
-#### Defined in
-
-[ue/ue.d.ts:12671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12671)
 
 ___
 
@@ -4183,10 +3299,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetCollisionResponseToChannel](ue_ue.SplineComponent.md#getcollisionresponsetochannel)
 
-#### Defined in
-
-[ue/ue.d.ts:12672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12672)
-
 ___
 
 ### GetComponentTickInterval
@@ -4201,10 +3313,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetComponentTickInterval](ue_ue.SplineComponent.md#getcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L311)
-
 ___
 
 ### GetComponentVelocity
@@ -4218,10 +3326,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetComponentVelocity](ue_ue.SplineComponent.md#getcomponentvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12902)
 
 ___
 
@@ -4242,10 +3346,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetDefaultUpVector](ue_ue.SplineComponent.md#getdefaultupvector)
-
-#### Defined in
-
-[ue/ue.d.ts:25954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25954)
 
 ___
 
@@ -4268,10 +3368,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetDirectionAtDistanceAlongSpline](ue_ue.SplineComponent.md#getdirectionatdistancealongspline)
 
-#### Defined in
-
-[ue/ue.d.ts:25955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25955)
-
 ___
 
 ### GetDirectionAtSplineInputKey
@@ -4293,10 +3389,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetDirectionAtSplineInputKey](ue_ue.SplineComponent.md#getdirectionatsplineinputkey)
 
-#### Defined in
-
-[ue/ue.d.ts:25956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25956)
-
 ___
 
 ### GetDirectionAtSplinePoint
@@ -4317,10 +3409,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetDirectionAtSplinePoint](ue_ue.SplineComponent.md#getdirectionatsplinepoint)
-
-#### Defined in
-
-[ue/ue.d.ts:25957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25957)
 
 ___
 
@@ -4344,10 +3432,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetDirectionAtTime](ue_ue.SplineComponent.md#getdirectionattime)
 
-#### Defined in
-
-[ue/ue.d.ts:25958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25958)
-
 ___
 
 ### GetDistanceAlongSplineAtSplinePoint
@@ -4367,10 +3451,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetDistanceAlongSplineAtSplinePoint](ue_ue.SplineComponent.md#getdistancealongsplineatsplinepoint)
-
-#### Defined in
-
-[ue/ue.d.ts:25959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25959)
 
 ___
 
@@ -4393,10 +3473,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetFloatPropertyAtSplineInputKey](ue_ue.SplineComponent.md#getfloatpropertyatsplineinputkey)
 
-#### Defined in
-
-[ue/ue.d.ts:25960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25960)
-
 ___
 
 ### GetFloatPropertyAtSplinePoint
@@ -4418,10 +3494,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetFloatPropertyAtSplinePoint](ue_ue.SplineComponent.md#getfloatpropertyatsplinepoint)
 
-#### Defined in
-
-[ue/ue.d.ts:25961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25961)
-
 ___
 
 ### GetForwardVector
@@ -4436,10 +3508,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetForwardVector](ue_ue.SplineComponent.md#getforwardvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12903)
-
 ___
 
 ### GetGenerateOverlapEvents
@@ -4453,10 +3521,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetGenerateOverlapEvents](ue_ue.SplineComponent.md#getgenerateoverlapevents)
-
-#### Defined in
-
-[ue/ue.d.ts:12673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12673)
 
 ___
 
@@ -4478,10 +3542,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetInertiaTensor](ue_ue.SplineComponent.md#getinertiatensor)
 
-#### Defined in
-
-[ue/ue.d.ts:12674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12674)
-
 ___
 
 ### GetInputKeyAtDistanceAlongSpline
@@ -4501,10 +3561,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetInputKeyAtDistanceAlongSpline](ue_ue.SplineComponent.md#getinputkeyatdistancealongspline)
-
-#### Defined in
-
-[ue/ue.d.ts:25962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25962)
 
 ___
 
@@ -4527,10 +3583,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetLeaveTangentAtSplinePoint](ue_ue.SplineComponent.md#getleavetangentatsplinepoint)
 
-#### Defined in
-
-[ue/ue.d.ts:25963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25963)
-
 ___
 
 ### GetLinearDamping
@@ -4544,10 +3596,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetLinearDamping](ue_ue.SplineComponent.md#getlineardamping)
-
-#### Defined in
-
-[ue/ue.d.ts:12675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12675)
 
 ___
 
@@ -4570,10 +3618,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetLocalLocationAndTangentAtSplinePoint](ue_ue.SplineComponent.md#getlocallocationandtangentatsplinepoint)
-
-#### Defined in
-
-[ue/ue.d.ts:25964](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25964)
 
 ___
 
@@ -4598,10 +3642,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetLocationAndTangentAtSplinePoint](ue_ue.SplineComponent.md#getlocationandtangentatsplinepoint)
 
-#### Defined in
-
-[ue/ue.d.ts:25965](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25965)
-
 ___
 
 ### GetLocationAtDistanceAlongSpline
@@ -4622,10 +3662,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetLocationAtDistanceAlongSpline](ue_ue.SplineComponent.md#getlocationatdistancealongspline)
-
-#### Defined in
-
-[ue/ue.d.ts:25966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25966)
 
 ___
 
@@ -4648,10 +3684,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetLocationAtSplineInputKey](ue_ue.SplineComponent.md#getlocationatsplineinputkey)
 
-#### Defined in
-
-[ue/ue.d.ts:25967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25967)
-
 ___
 
 ### GetLocationAtSplinePoint
@@ -4672,10 +3704,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetLocationAtSplinePoint](ue_ue.SplineComponent.md#getlocationatsplinepoint)
-
-#### Defined in
-
-[ue/ue.d.ts:25968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25968)
 
 ___
 
@@ -4699,10 +3727,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetLocationAtTime](ue_ue.SplineComponent.md#getlocationattime)
 
-#### Defined in
-
-[ue/ue.d.ts:25969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25969)
-
 ___
 
 ### GetMass
@@ -4716,10 +3740,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetMass](ue_ue.SplineComponent.md#getmass)
-
-#### Defined in
-
-[ue/ue.d.ts:12676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12676)
 
 ___
 
@@ -4741,10 +3761,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetMassScale](ue_ue.SplineComponent.md#getmassscale)
 
-#### Defined in
-
-[ue/ue.d.ts:12677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12677)
-
 ___
 
 ### GetMaterial
@@ -4764,10 +3780,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetMaterial](ue_ue.SplineComponent.md#getmaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:12678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12678)
 
 ___
 
@@ -4790,10 +3802,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetMaterialFromCollisionFaceIndex](ue_ue.SplineComponent.md#getmaterialfromcollisionfaceindex)
 
-#### Defined in
-
-[ue/ue.d.ts:12679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12679)
-
 ___
 
 ### GetName
@@ -4807,10 +3815,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetName](ue_ue.SplineComponent.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -4826,10 +3830,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetNumChildrenComponents](ue_ue.SplineComponent.md#getnumchildrencomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12904)
-
 ___
 
 ### GetNumMaterials
@@ -4843,10 +3843,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetNumMaterials](ue_ue.SplineComponent.md#getnummaterials)
-
-#### Defined in
-
-[ue/ue.d.ts:12680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12680)
 
 ___
 
@@ -4862,10 +3858,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetNumberOfSplinePoints](ue_ue.SplineComponent.md#getnumberofsplinepoints)
 
-#### Defined in
-
-[ue/ue.d.ts:25970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25970)
-
 ___
 
 ### GetNumberOfSplineSegments
@@ -4880,10 +3872,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetNumberOfSplineSegments](ue_ue.SplineComponent.md#getnumberofsplinesegments)
 
-#### Defined in
-
-[ue/ue.d.ts:25971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25971)
-
 ___
 
 ### GetOuter
@@ -4897,10 +3885,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetOuter](ue_ue.SplineComponent.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -4923,10 +3907,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetOverlappingActors](ue_ue.SplineComponent.md#getoverlappingactors)
 
-#### Defined in
-
-[ue/ue.d.ts:12681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12681)
-
 ___
 
 ### GetOverlappingComponents
@@ -4947,10 +3927,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetOverlappingComponents](ue_ue.SplineComponent.md#getoverlappingcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12682)
-
 ___
 
 ### GetOwner
@@ -4964,10 +3940,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetOwner](ue_ue.SplineComponent.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L312)
 
 ___
 
@@ -4989,10 +3961,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetParentComponents](ue_ue.SplineComponent.md#getparentcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12905)
-
 ___
 
 ### GetPhysicsAngularVelocity
@@ -5012,10 +3980,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetPhysicsAngularVelocity](ue_ue.SplineComponent.md#getphysicsangularvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12683)
 
 ___
 
@@ -5037,10 +4001,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetPhysicsAngularVelocityInDegrees](ue_ue.SplineComponent.md#getphysicsangularvelocityindegrees)
 
-#### Defined in
-
-[ue/ue.d.ts:12684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12684)
-
 ___
 
 ### GetPhysicsAngularVelocityInRadians
@@ -5061,10 +4021,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetPhysicsAngularVelocityInRadians](ue_ue.SplineComponent.md#getphysicsangularvelocityinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12685)
-
 ___
 
 ### GetPhysicsLinearVelocity
@@ -5084,10 +4040,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetPhysicsLinearVelocity](ue_ue.SplineComponent.md#getphysicslinearvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12686](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12686)
 
 ___
 
@@ -5110,10 +4062,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetPhysicsLinearVelocityAtPoint](ue_ue.SplineComponent.md#getphysicslinearvelocityatpoint)
 
-#### Defined in
-
-[ue/ue.d.ts:12687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12687)
-
 ___
 
 ### GetPhysicsVolume
@@ -5127,10 +4075,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetPhysicsVolume](ue_ue.SplineComponent.md#getphysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12906)
 
 ___
 
@@ -5146,10 +4090,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetRelativeTransform](ue_ue.SplineComponent.md#getrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12907)
-
 ___
 
 ### GetRightVector
@@ -5163,10 +4103,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetRightVector](ue_ue.SplineComponent.md#getrightvector)
-
-#### Defined in
-
-[ue/ue.d.ts:12908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12908)
 
 ___
 
@@ -5189,10 +4125,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetRightVectorAtDistanceAlongSpline](ue_ue.SplineComponent.md#getrightvectoratdistancealongspline)
 
-#### Defined in
-
-[ue/ue.d.ts:25972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25972)
-
 ___
 
 ### GetRightVectorAtSplineInputKey
@@ -5214,10 +4146,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetRightVectorAtSplineInputKey](ue_ue.SplineComponent.md#getrightvectoratsplineinputkey)
 
-#### Defined in
-
-[ue/ue.d.ts:25973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25973)
-
 ___
 
 ### GetRightVectorAtSplinePoint
@@ -5238,10 +4166,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetRightVectorAtSplinePoint](ue_ue.SplineComponent.md#getrightvectoratsplinepoint)
-
-#### Defined in
-
-[ue/ue.d.ts:25974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25974)
 
 ___
 
@@ -5265,10 +4189,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetRightVectorAtTime](ue_ue.SplineComponent.md#getrightvectorattime)
 
-#### Defined in
-
-[ue/ue.d.ts:25975](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25975)
-
 ___
 
 ### GetRollAtDistanceAlongSpline
@@ -5289,10 +4209,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetRollAtDistanceAlongSpline](ue_ue.SplineComponent.md#getrollatdistancealongspline)
-
-#### Defined in
-
-[ue/ue.d.ts:25976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25976)
 
 ___
 
@@ -5315,10 +4231,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetRollAtSplineInputKey](ue_ue.SplineComponent.md#getrollatsplineinputkey)
 
-#### Defined in
-
-[ue/ue.d.ts:25977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25977)
-
 ___
 
 ### GetRollAtSplinePoint
@@ -5339,10 +4251,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetRollAtSplinePoint](ue_ue.SplineComponent.md#getrollatsplinepoint)
-
-#### Defined in
-
-[ue/ue.d.ts:25978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25978)
 
 ___
 
@@ -5366,10 +4274,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetRollAtTime](ue_ue.SplineComponent.md#getrollattime)
 
-#### Defined in
-
-[ue/ue.d.ts:25979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25979)
-
 ___
 
 ### GetRotationAtDistanceAlongSpline
@@ -5390,10 +4294,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetRotationAtDistanceAlongSpline](ue_ue.SplineComponent.md#getrotationatdistancealongspline)
-
-#### Defined in
-
-[ue/ue.d.ts:25980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25980)
 
 ___
 
@@ -5416,10 +4316,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetRotationAtSplineInputKey](ue_ue.SplineComponent.md#getrotationatsplineinputkey)
 
-#### Defined in
-
-[ue/ue.d.ts:25981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25981)
-
 ___
 
 ### GetRotationAtSplinePoint
@@ -5440,10 +4336,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetRotationAtSplinePoint](ue_ue.SplineComponent.md#getrotationatsplinepoint)
-
-#### Defined in
-
-[ue/ue.d.ts:25982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25982)
 
 ___
 
@@ -5467,10 +4359,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetRotationAtTime](ue_ue.SplineComponent.md#getrotationattime)
 
-#### Defined in
-
-[ue/ue.d.ts:25983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25983)
-
 ___
 
 ### GetScaleAtDistanceAlongSpline
@@ -5490,10 +4378,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetScaleAtDistanceAlongSpline](ue_ue.SplineComponent.md#getscaleatdistancealongspline)
-
-#### Defined in
-
-[ue/ue.d.ts:25984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25984)
 
 ___
 
@@ -5515,10 +4399,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetScaleAtSplineInputKey](ue_ue.SplineComponent.md#getscaleatsplineinputkey)
 
-#### Defined in
-
-[ue/ue.d.ts:25985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25985)
-
 ___
 
 ### GetScaleAtSplinePoint
@@ -5538,10 +4418,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetScaleAtSplinePoint](ue_ue.SplineComponent.md#getscaleatsplinepoint)
-
-#### Defined in
-
-[ue/ue.d.ts:25986](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25986)
 
 ___
 
@@ -5564,10 +4440,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetScaleAtTime](ue_ue.SplineComponent.md#getscaleattime)
 
-#### Defined in
-
-[ue/ue.d.ts:25987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25987)
-
 ___
 
 ### GetShouldUpdatePhysicsVolume
@@ -5581,10 +4453,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetShouldUpdatePhysicsVolume](ue_ue.SplineComponent.md#getshouldupdatephysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12909)
 
 ___
 
@@ -5606,10 +4474,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetSocketLocation](ue_ue.SplineComponent.md#getsocketlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12910)
-
 ___
 
 ### GetSocketQuaternion
@@ -5630,10 +4494,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetSocketQuaternion](ue_ue.SplineComponent.md#getsocketquaternion)
 
-#### Defined in
-
-[ue/ue.d.ts:12911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12911)
-
 ___
 
 ### GetSocketRotation
@@ -5653,10 +4513,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetSocketRotation](ue_ue.SplineComponent.md#getsocketrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12912)
 
 ___
 
@@ -5679,10 +4535,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetSocketTransform](ue_ue.SplineComponent.md#getsockettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12913)
-
 ___
 
 ### GetSplineLength
@@ -5696,10 +4548,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetSplineLength](ue_ue.SplineComponent.md#getsplinelength)
-
-#### Defined in
-
-[ue/ue.d.ts:25988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25988)
 
 ___
 
@@ -5720,10 +4568,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetSplinePointType](ue_ue.SplineComponent.md#getsplinepointtype)
-
-#### Defined in
-
-[ue/ue.d.ts:25989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25989)
 
 ___
 
@@ -5746,10 +4590,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetTangentAtDistanceAlongSpline](ue_ue.SplineComponent.md#gettangentatdistancealongspline)
 
-#### Defined in
-
-[ue/ue.d.ts:25990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25990)
-
 ___
 
 ### GetTangentAtSplineInputKey
@@ -5771,10 +4611,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetTangentAtSplineInputKey](ue_ue.SplineComponent.md#gettangentatsplineinputkey)
 
-#### Defined in
-
-[ue/ue.d.ts:25991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25991)
-
 ___
 
 ### GetTangentAtSplinePoint
@@ -5795,10 +4631,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetTangentAtSplinePoint](ue_ue.SplineComponent.md#gettangentatsplinepoint)
-
-#### Defined in
-
-[ue/ue.d.ts:25992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25992)
 
 ___
 
@@ -5822,10 +4654,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetTangentAtTime](ue_ue.SplineComponent.md#gettangentattime)
 
-#### Defined in
-
-[ue/ue.d.ts:25993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25993)
-
 ___
 
 ### GetTransformAtDistanceAlongSpline
@@ -5847,10 +4675,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetTransformAtDistanceAlongSpline](ue_ue.SplineComponent.md#gettransformatdistancealongspline)
-
-#### Defined in
-
-[ue/ue.d.ts:25994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25994)
 
 ___
 
@@ -5874,10 +4698,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetTransformAtSplineInputKey](ue_ue.SplineComponent.md#gettransformatsplineinputkey)
 
-#### Defined in
-
-[ue/ue.d.ts:25995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25995)
-
 ___
 
 ### GetTransformAtSplinePoint
@@ -5899,10 +4719,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetTransformAtSplinePoint](ue_ue.SplineComponent.md#gettransformatsplinepoint)
-
-#### Defined in
-
-[ue/ue.d.ts:25996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25996)
 
 ___
 
@@ -5927,10 +4743,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetTransformAtTime](ue_ue.SplineComponent.md#gettransformattime)
 
-#### Defined in
-
-[ue/ue.d.ts:25997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25997)
-
 ___
 
 ### GetUpVector
@@ -5944,10 +4756,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetUpVector](ue_ue.SplineComponent.md#getupvector)
-
-#### Defined in
-
-[ue/ue.d.ts:12914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12914)
 
 ___
 
@@ -5970,10 +4778,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetUpVectorAtDistanceAlongSpline](ue_ue.SplineComponent.md#getupvectoratdistancealongspline)
 
-#### Defined in
-
-[ue/ue.d.ts:25998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25998)
-
 ___
 
 ### GetUpVectorAtSplineInputKey
@@ -5995,10 +4799,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetUpVectorAtSplineInputKey](ue_ue.SplineComponent.md#getupvectoratsplineinputkey)
 
-#### Defined in
-
-[ue/ue.d.ts:25999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25999)
-
 ___
 
 ### GetUpVectorAtSplinePoint
@@ -6019,10 +4819,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetUpVectorAtSplinePoint](ue_ue.SplineComponent.md#getupvectoratsplinepoint)
-
-#### Defined in
-
-[ue/ue.d.ts:26000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26000)
 
 ___
 
@@ -6046,10 +4842,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetUpVectorAtTime](ue_ue.SplineComponent.md#getupvectorattime)
 
-#### Defined in
-
-[ue/ue.d.ts:26001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26001)
-
 ___
 
 ### GetVectorPropertyAtSplineInputKey
@@ -6070,10 +4862,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetVectorPropertyAtSplineInputKey](ue_ue.SplineComponent.md#getvectorpropertyatsplineinputkey)
-
-#### Defined in
-
-[ue/ue.d.ts:26002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26002)
 
 ___
 
@@ -6096,10 +4884,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetVectorPropertyAtSplinePoint](ue_ue.SplineComponent.md#getvectorpropertyatsplinepoint)
 
-#### Defined in
-
-[ue/ue.d.ts:26003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26003)
-
 ___
 
 ### GetWalkableSlopeOverride
@@ -6114,10 +4898,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetWalkableSlopeOverride](ue_ue.SplineComponent.md#getwalkableslopeoverride)
 
-#### Defined in
-
-[ue/ue.d.ts:12688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12688)
-
 ___
 
 ### GetWorld
@@ -6131,10 +4911,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetWorld](ue_ue.SplineComponent.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -6155,10 +4931,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetWorldDirectionAtDistanceAlongSpline](ue_ue.SplineComponent.md#getworlddirectionatdistancealongspline)
-
-#### Defined in
-
-[ue/ue.d.ts:26004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26004)
 
 ___
 
@@ -6181,10 +4953,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetWorldDirectionAtTime](ue_ue.SplineComponent.md#getworlddirectionattime)
 
-#### Defined in
-
-[ue/ue.d.ts:26005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26005)
-
 ___
 
 ### GetWorldLocationAtDistanceAlongSpline
@@ -6205,10 +4973,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetWorldLocationAtDistanceAlongSpline](ue_ue.SplineComponent.md#getworldlocationatdistancealongspline)
 
-#### Defined in
-
-[ue/ue.d.ts:26006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26006)
-
 ___
 
 ### GetWorldLocationAtSplinePoint
@@ -6228,10 +4992,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetWorldLocationAtSplinePoint](ue_ue.SplineComponent.md#getworldlocationatsplinepoint)
-
-#### Defined in
-
-[ue/ue.d.ts:26007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26007)
 
 ___
 
@@ -6254,10 +5014,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetWorldLocationAtTime](ue_ue.SplineComponent.md#getworldlocationattime)
 
-#### Defined in
-
-[ue/ue.d.ts:26008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26008)
-
 ___
 
 ### GetWorldRotationAtDistanceAlongSpline
@@ -6277,10 +5033,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetWorldRotationAtDistanceAlongSpline](ue_ue.SplineComponent.md#getworldrotationatdistancealongspline)
-
-#### Defined in
-
-[ue/ue.d.ts:26009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26009)
 
 ___
 
@@ -6303,10 +5055,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetWorldRotationAtTime](ue_ue.SplineComponent.md#getworldrotationattime)
 
-#### Defined in
-
-[ue/ue.d.ts:26010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26010)
-
 ___
 
 ### GetWorldTangentAtDistanceAlongSpline
@@ -6326,10 +5074,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[GetWorldTangentAtDistanceAlongSpline](ue_ue.SplineComponent.md#getworldtangentatdistancealongspline)
-
-#### Defined in
-
-[ue/ue.d.ts:26011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26011)
 
 ___
 
@@ -6352,10 +5096,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[IgnoreActorWhenMoving](ue_ue.SplineComponent.md#ignoreactorwhenmoving)
 
-#### Defined in
-
-[ue/ue.d.ts:12689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12689)
-
 ___
 
 ### IgnoreComponentWhenMoving
@@ -6377,10 +5117,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[IgnoreComponentWhenMoving](ue_ue.SplineComponent.md#ignorecomponentwhenmoving)
 
-#### Defined in
-
-[ue/ue.d.ts:12690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12690)
-
 ___
 
 ### IsActive
@@ -6394,10 +5130,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[IsActive](ue_ue.SplineComponent.md#isactive)
-
-#### Defined in
-
-[ue/ue.d.ts:313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L313)
 
 ___
 
@@ -6413,10 +5145,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[IsAnyRigidBodyAwake](ue_ue.SplineComponent.md#isanyrigidbodyawake)
 
-#### Defined in
-
-[ue/ue.d.ts:12691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12691)
-
 ___
 
 ### IsAnySimulatingPhysics
@@ -6430,10 +5158,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[IsAnySimulatingPhysics](ue_ue.SplineComponent.md#isanysimulatingphysics)
-
-#### Defined in
-
-[ue/ue.d.ts:12915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12915)
 
 ___
 
@@ -6449,10 +5173,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[IsBeingDestroyed](ue_ue.SplineComponent.md#isbeingdestroyed)
 
-#### Defined in
-
-[ue/ue.d.ts:314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L314)
-
 ___
 
 ### IsClosedLoop
@@ -6466,10 +5186,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[IsClosedLoop](ue_ue.SplineComponent.md#isclosedloop)
-
-#### Defined in
-
-[ue/ue.d.ts:26012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26012)
 
 ___
 
@@ -6485,10 +5201,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[IsComponentTickEnabled](ue_ue.SplineComponent.md#iscomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L315)
-
 ___
 
 ### IsGravityEnabled
@@ -6502,10 +5214,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[IsGravityEnabled](ue_ue.SplineComponent.md#isgravityenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12692](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12692)
 
 ___
 
@@ -6527,10 +5235,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[IsOverlappingActor](ue_ue.SplineComponent.md#isoverlappingactor)
 
-#### Defined in
-
-[ue/ue.d.ts:12693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12693)
-
 ___
 
 ### IsOverlappingComponent
@@ -6550,10 +5254,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[IsOverlappingComponent](ue_ue.SplineComponent.md#isoverlappingcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12694](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12694)
 
 ___
 
@@ -6575,10 +5275,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[IsSimulatingPhysics](ue_ue.SplineComponent.md#issimulatingphysics)
 
-#### Defined in
-
-[ue/ue.d.ts:12916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12916)
-
 ___
 
 ### IsVisible
@@ -6592,10 +5288,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[IsVisible](ue_ue.SplineComponent.md#isvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:12917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12917)
 
 ___
 
@@ -6620,10 +5312,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_AddLocalOffset](ue_ue.SplineComponent.md#k2_addlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:12918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12918)
-
 ___
 
 ### K2\_AddLocalRotation
@@ -6646,10 +5334,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_AddLocalRotation](ue_ue.SplineComponent.md#k2_addlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12919)
 
 ___
 
@@ -6674,10 +5358,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_AddLocalTransform](ue_ue.SplineComponent.md#k2_addlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12920)
-
 ___
 
 ### K2\_AddRelativeLocation
@@ -6700,10 +5380,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_AddRelativeLocation](ue_ue.SplineComponent.md#k2_addrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12921)
 
 ___
 
@@ -6728,10 +5404,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_AddRelativeRotation](ue_ue.SplineComponent.md#k2_addrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12922)
-
 ___
 
 ### K2\_AddWorldOffset
@@ -6754,10 +5426,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_AddWorldOffset](ue_ue.SplineComponent.md#k2_addworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:12923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12923)
 
 ___
 
@@ -6782,10 +5450,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_AddWorldRotation](ue_ue.SplineComponent.md#k2_addworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12924)
-
 ___
 
 ### K2\_AddWorldTransform
@@ -6809,10 +5473,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_AddWorldTransform](ue_ue.SplineComponent.md#k2_addworldtransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12925)
-
 ___
 
 ### K2\_AttachTo
@@ -6835,10 +5495,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_AttachTo](ue_ue.SplineComponent.md#k2_attachto)
-
-#### Defined in
-
-[ue/ue.d.ts:12926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12926)
 
 ___
 
@@ -6864,10 +5520,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_AttachToComponent](ue_ue.SplineComponent.md#k2_attachtocomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12927)
 
 ___
 
@@ -6897,10 +5549,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_BoxOverlapComponent](ue_ue.SplineComponent.md#k2_boxoverlapcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12695)
-
 ___
 
 ### K2\_DestroyComponent
@@ -6920,10 +5568,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_DestroyComponent](ue_ue.SplineComponent.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L316)
 
 ___
 
@@ -6948,10 +5592,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_DetachFromComponent](ue_ue.SplineComponent.md#k2_detachfromcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12928)
-
 ___
 
 ### K2\_GetComponentLocation
@@ -6965,10 +5605,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_GetComponentLocation](ue_ue.SplineComponent.md#k2_getcomponentlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12929)
 
 ___
 
@@ -6984,10 +5620,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_GetComponentRotation](ue_ue.SplineComponent.md#k2_getcomponentrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12930)
-
 ___
 
 ### K2\_GetComponentScale
@@ -7001,10 +5633,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_GetComponentScale](ue_ue.SplineComponent.md#k2_getcomponentscale)
-
-#### Defined in
-
-[ue/ue.d.ts:12931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12931)
 
 ___
 
@@ -7020,10 +5648,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_GetComponentToWorld](ue_ue.SplineComponent.md#k2_getcomponenttoworld)
 
-#### Defined in
-
-[ue/ue.d.ts:12932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12932)
-
 ___
 
 ### K2\_IsCollisionEnabled
@@ -7037,10 +5661,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_IsCollisionEnabled](ue_ue.SplineComponent.md#k2_iscollisionenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12696](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12696)
 
 ___
 
@@ -7056,10 +5676,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_IsPhysicsCollisionEnabled](ue_ue.SplineComponent.md#k2_isphysicscollisionenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:12697](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12697)
-
 ___
 
 ### K2\_IsQueryCollisionEnabled
@@ -7073,10 +5689,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_IsQueryCollisionEnabled](ue_ue.SplineComponent.md#k2_isquerycollisionenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12698)
 
 ___
 
@@ -7106,10 +5718,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_LineTraceComponent](ue_ue.SplineComponent.md#k2_linetracecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12699](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12699)
-
 ___
 
 ### K2\_SetRelativeLocation
@@ -7132,10 +5740,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_SetRelativeLocation](ue_ue.SplineComponent.md#k2_setrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12933)
 
 ___
 
@@ -7161,10 +5765,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_SetRelativeLocationAndRotation](ue_ue.SplineComponent.md#k2_setrelativelocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12934)
-
 ___
 
 ### K2\_SetRelativeRotation
@@ -7187,10 +5787,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_SetRelativeRotation](ue_ue.SplineComponent.md#k2_setrelativerotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12935)
 
 ___
 
@@ -7215,10 +5811,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_SetRelativeTransform](ue_ue.SplineComponent.md#k2_setrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12936)
-
 ___
 
 ### K2\_SetWorldLocation
@@ -7241,10 +5833,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_SetWorldLocation](ue_ue.SplineComponent.md#k2_setworldlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12937)
 
 ___
 
@@ -7270,10 +5858,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_SetWorldLocationAndRotation](ue_ue.SplineComponent.md#k2_setworldlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12938)
-
 ___
 
 ### K2\_SetWorldRotation
@@ -7297,10 +5881,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_SetWorldRotation](ue_ue.SplineComponent.md#k2_setworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12939)
-
 ___
 
 ### K2\_SetWorldTransform
@@ -7323,10 +5903,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_SetWorldTransform](ue_ue.SplineComponent.md#k2_setworldtransform)
-
-#### Defined in
-
-[ue/ue.d.ts:12940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12940)
 
 ___
 
@@ -7355,10 +5931,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_SphereOverlapComponent](ue_ue.SplineComponent.md#k2_sphereoverlapcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12700)
 
 ___
 
@@ -7389,10 +5961,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[K2_SphereTraceComponent](ue_ue.SplineComponent.md#k2_spheretracecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12701)
-
 ___
 
 ### OnRep\_AttachChildren
@@ -7406,10 +5974,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[OnRep_AttachChildren](ue_ue.SplineComponent.md#onrep_attachchildren)
-
-#### Defined in
-
-[ue/ue.d.ts:12941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12941)
 
 ___
 
@@ -7425,10 +5989,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[OnRep_AttachParent](ue_ue.SplineComponent.md#onrep_attachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12942)
-
 ___
 
 ### OnRep\_AttachSocketName
@@ -7442,10 +6002,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[OnRep_AttachSocketName](ue_ue.SplineComponent.md#onrep_attachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12943)
 
 ___
 
@@ -7461,10 +6017,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[OnRep_IsActive](ue_ue.SplineComponent.md#onrep_isactive)
 
-#### Defined in
-
-[ue/ue.d.ts:317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L317)
-
 ___
 
 ### OnRep\_Transform
@@ -7478,10 +6030,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[OnRep_Transform](ue_ue.SplineComponent.md#onrep_transform)
-
-#### Defined in
-
-[ue/ue.d.ts:12944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12944)
 
 ___
 
@@ -7503,10 +6051,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[OnRep_Visibility](ue_ue.SplineComponent.md#onrep_visibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12945)
-
 ___
 
 ### PutRigidBodyToSleep
@@ -7527,10 +6071,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[PutRigidBodyToSleep](ue_ue.SplineComponent.md#putrigidbodytosleep)
 
-#### Defined in
-
-[ue/ue.d.ts:12702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12702)
-
 ___
 
 ### ReceiveBeginPlay
@@ -7544,10 +6084,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[ReceiveBeginPlay](ue_ue.SplineComponent.md#receivebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L318)
 
 ___
 
@@ -7569,10 +6105,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[ReceiveEndPlay](ue_ue.SplineComponent.md#receiveendplay)
 
-#### Defined in
-
-[ue/ue.d.ts:319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L319)
-
 ___
 
 ### ReceiveTick
@@ -7593,10 +6125,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[ReceiveTick](ue_ue.SplineComponent.md#receivetick)
 
-#### Defined in
-
-[ue/ue.d.ts:320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L320)
-
 ___
 
 ### RegisterComponent
@@ -7610,10 +6138,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[RegisterComponent](ue_ue.SplineComponent.md#registercomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L321)
 
 ___
 
@@ -7636,10 +6160,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[RemoveSplinePoint](ue_ue.SplineComponent.md#removesplinepoint)
 
-#### Defined in
-
-[ue/ue.d.ts:26013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26013)
-
 ___
 
 ### RemoveTickPrerequisiteActor
@@ -7659,10 +6179,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[RemoveTickPrerequisiteActor](ue_ue.SplineComponent.md#removetickprerequisiteactor)
-
-#### Defined in
-
-[ue/ue.d.ts:322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L322)
 
 ___
 
@@ -7684,10 +6200,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[RemoveTickPrerequisiteComponent](ue_ue.SplineComponent.md#removetickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L323)
-
 ___
 
 ### ResetRelativeTransform
@@ -7701,10 +6213,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[ResetRelativeTransform](ue_ue.SplineComponent.md#resetrelativetransform)
-
-#### Defined in
-
-[ue/ue.d.ts:12946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12946)
 
 ___
 
@@ -7726,10 +6234,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[ScaleByMomentOfInertia](ue_ue.SplineComponent.md#scalebymomentofinertia)
-
-#### Defined in
-
-[ue/ue.d.ts:12703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12703)
 
 ___
 
@@ -7753,10 +6257,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetAbsolute](ue_ue.SplineComponent.md#setabsolute)
 
-#### Defined in
-
-[ue/ue.d.ts:12947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12947)
-
 ___
 
 ### SetActive
@@ -7778,10 +6278,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetActive](ue_ue.SplineComponent.md#setactive)
 
-#### Defined in
-
-[ue/ue.d.ts:324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L324)
-
 ___
 
 ### SetAllMassScale
@@ -7801,10 +6297,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetAllMassScale](ue_ue.SplineComponent.md#setallmassscale)
-
-#### Defined in
-
-[ue/ue.d.ts:12704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12704)
 
 ___
 
@@ -7827,10 +6319,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetAllPhysicsAngularVelocityInDegrees](ue_ue.SplineComponent.md#setallphysicsangularvelocityindegrees)
 
-#### Defined in
-
-[ue/ue.d.ts:12705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12705)
-
 ___
 
 ### SetAllPhysicsAngularVelocityInRadians
@@ -7851,10 +6339,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetAllPhysicsAngularVelocityInRadians](ue_ue.SplineComponent.md#setallphysicsangularvelocityinradians)
-
-#### Defined in
-
-[ue/ue.d.ts:12706](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12706)
 
 ___
 
@@ -7877,10 +6361,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetAllPhysicsLinearVelocity](ue_ue.SplineComponent.md#setallphysicslinearvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12707](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12707)
-
 ___
 
 ### SetAllUseCCD
@@ -7900,10 +6380,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetAllUseCCD](ue_ue.SplineComponent.md#setalluseccd)
-
-#### Defined in
-
-[ue/ue.d.ts:12708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12708)
 
 ___
 
@@ -7925,10 +6401,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetAngularDamping](ue_ue.SplineComponent.md#setangulardamping)
 
-#### Defined in
-
-[ue/ue.d.ts:12709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12709)
-
 ___
 
 ### SetAutoActivate
@@ -7948,10 +6420,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetAutoActivate](ue_ue.SplineComponent.md#setautoactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L325)
 
 ___
 
@@ -7973,10 +6441,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetBoundsScale](ue_ue.SplineComponent.md#setboundsscale)
 
-#### Defined in
-
-[ue/ue.d.ts:12710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12710)
-
 ___
 
 ### SetCastInsetShadow
@@ -7997,10 +6461,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetCastInsetShadow](ue_ue.SplineComponent.md#setcastinsetshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12711)
-
 ___
 
 ### SetCastShadow
@@ -8020,10 +6480,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetCastShadow](ue_ue.SplineComponent.md#setcastshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12712)
 
 ___
 
@@ -8046,10 +6502,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetCenterOfMass](ue_ue.SplineComponent.md#setcenterofmass)
 
-#### Defined in
-
-[ue/ue.d.ts:12713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12713)
-
 ___
 
 ### SetClosedLoop
@@ -8070,10 +6522,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetClosedLoop](ue_ue.SplineComponent.md#setclosedloop)
-
-#### Defined in
-
-[ue/ue.d.ts:26014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26014)
 
 ___
 
@@ -8097,10 +6545,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetClosedLoopAtPosition](ue_ue.SplineComponent.md#setclosedloopatposition)
 
-#### Defined in
-
-[ue/ue.d.ts:26015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26015)
-
 ___
 
 ### SetCollisionEnabled
@@ -8120,10 +6564,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetCollisionEnabled](ue_ue.SplineComponent.md#setcollisionenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12714)
 
 ___
 
@@ -8145,10 +6585,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetCollisionObjectType](ue_ue.SplineComponent.md#setcollisionobjecttype)
 
-#### Defined in
-
-[ue/ue.d.ts:12715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12715)
-
 ___
 
 ### SetCollisionProfileName
@@ -8169,10 +6605,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetCollisionProfileName](ue_ue.SplineComponent.md#setcollisionprofilename)
 
-#### Defined in
-
-[ue/ue.d.ts:12716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12716)
-
 ___
 
 ### SetCollisionResponseToAllChannels
@@ -8192,10 +6624,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetCollisionResponseToAllChannels](ue_ue.SplineComponent.md#setcollisionresponsetoallchannels)
-
-#### Defined in
-
-[ue/ue.d.ts:12717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12717)
 
 ___
 
@@ -8218,10 +6646,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetCollisionResponseToChannel](ue_ue.SplineComponent.md#setcollisionresponsetochannel)
 
-#### Defined in
-
-[ue/ue.d.ts:12718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12718)
-
 ___
 
 ### SetComponentTickEnabled
@@ -8241,10 +6665,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetComponentTickEnabled](ue_ue.SplineComponent.md#setcomponenttickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L326)
 
 ___
 
@@ -8266,10 +6686,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetComponentTickInterval](ue_ue.SplineComponent.md#setcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L327)
-
 ___
 
 ### SetConstraintMode
@@ -8289,10 +6705,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetConstraintMode](ue_ue.SplineComponent.md#setconstraintmode)
-
-#### Defined in
-
-[ue/ue.d.ts:12719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12719)
 
 ___
 
@@ -8314,10 +6726,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetCullDistance](ue_ue.SplineComponent.md#setculldistance)
 
-#### Defined in
-
-[ue/ue.d.ts:12720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12720)
-
 ___
 
 ### SetCustomDepthStencilValue
@@ -8338,10 +6746,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetCustomDepthStencilValue](ue_ue.SplineComponent.md#setcustomdepthstencilvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:12721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12721)
-
 ___
 
 ### SetCustomDepthStencilWriteMask
@@ -8361,10 +6765,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetCustomDepthStencilWriteMask](ue_ue.SplineComponent.md#setcustomdepthstencilwritemask)
-
-#### Defined in
-
-[ue/ue.d.ts:12722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12722)
 
 ___
 
@@ -8387,10 +6787,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetCustomPrimitiveDataFloat](ue_ue.SplineComponent.md#setcustomprimitivedatafloat)
 
-#### Defined in
-
-[ue/ue.d.ts:12723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12723)
-
 ___
 
 ### SetCustomPrimitiveDataVector2
@@ -8411,10 +6807,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetCustomPrimitiveDataVector2](ue_ue.SplineComponent.md#setcustomprimitivedatavector2)
-
-#### Defined in
-
-[ue/ue.d.ts:12724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12724)
 
 ___
 
@@ -8437,10 +6829,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetCustomPrimitiveDataVector3](ue_ue.SplineComponent.md#setcustomprimitivedatavector3)
 
-#### Defined in
-
-[ue/ue.d.ts:12725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12725)
-
 ___
 
 ### SetCustomPrimitiveDataVector4
@@ -8461,10 +6849,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetCustomPrimitiveDataVector4](ue_ue.SplineComponent.md#setcustomprimitivedatavector4)
-
-#### Defined in
-
-[ue/ue.d.ts:12726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12726)
 
 ___
 
@@ -8487,10 +6871,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetDefaultUpVector](ue_ue.SplineComponent.md#setdefaultupvector)
 
-#### Defined in
-
-[ue/ue.d.ts:26016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26016)
-
 ___
 
 ### SetDrawDebug
@@ -8510,10 +6890,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetDrawDebug](ue_ue.SplineComponent.md#setdrawdebug)
-
-#### Defined in
-
-[ue/ue.d.ts:26017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26017)
 
 ___
 
@@ -8535,10 +6911,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetEnableGravity](ue_ue.SplineComponent.md#setenablegravity)
 
-#### Defined in
-
-[ue/ue.d.ts:12727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12727)
-
 ___
 
 ### SetExcludeFromLightAttachmentGroup
@@ -8559,10 +6931,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetExcludeFromLightAttachmentGroup](ue_ue.SplineComponent.md#setexcludefromlightattachmentgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12728)
-
 ___
 
 ### SetGenerateOverlapEvents
@@ -8582,10 +6950,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetGenerateOverlapEvents](ue_ue.SplineComponent.md#setgenerateoverlapevents)
-
-#### Defined in
-
-[ue/ue.d.ts:12729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12729)
 
 ___
 
@@ -8608,10 +6972,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetHiddenInGame](ue_ue.SplineComponent.md#sethiddeningame)
 
-#### Defined in
-
-[ue/ue.d.ts:12948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12948)
-
 ___
 
 ### SetIsReplicated
@@ -8631,10 +6991,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetIsReplicated](ue_ue.SplineComponent.md#setisreplicated)
-
-#### Defined in
-
-[ue/ue.d.ts:328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L328)
 
 ___
 
@@ -8656,10 +7012,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetLightAttachmentsAsGroup](ue_ue.SplineComponent.md#setlightattachmentsasgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12730)
-
 ___
 
 ### SetLinearDamping
@@ -8679,10 +7031,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetLinearDamping](ue_ue.SplineComponent.md#setlineardamping)
-
-#### Defined in
-
-[ue/ue.d.ts:12731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12731)
 
 ___
 
@@ -8707,10 +7055,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetLocationAtSplinePoint](ue_ue.SplineComponent.md#setlocationatsplinepoint)
 
-#### Defined in
-
-[ue/ue.d.ts:26018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26018)
-
 ___
 
 ### SetMassOverrideInKg
@@ -8733,10 +7077,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetMassOverrideInKg](ue_ue.SplineComponent.md#setmassoverrideinkg)
 
-#### Defined in
-
-[ue/ue.d.ts:12732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12732)
-
 ___
 
 ### SetMassScale
@@ -8757,10 +7097,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetMassScale](ue_ue.SplineComponent.md#setmassscale)
-
-#### Defined in
-
-[ue/ue.d.ts:12733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12733)
 
 ___
 
@@ -8783,10 +7119,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetMaterial](ue_ue.SplineComponent.md#setmaterial)
 
-#### Defined in
-
-[ue/ue.d.ts:12734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12734)
-
 ___
 
 ### SetMaterialByName
@@ -8808,10 +7140,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetMaterialByName](ue_ue.SplineComponent.md#setmaterialbyname)
 
-#### Defined in
-
-[ue/ue.d.ts:12735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12735)
-
 ___
 
 ### SetMobility
@@ -8831,10 +7159,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetMobility](ue_ue.SplineComponent.md#setmobility)
-
-#### Defined in
-
-[ue/ue.d.ts:12949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12949)
 
 ___
 
@@ -8856,10 +7180,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetNotifyRigidBodyCollision](ue_ue.SplineComponent.md#setnotifyrigidbodycollision)
 
-#### Defined in
-
-[ue/ue.d.ts:12736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12736)
-
 ___
 
 ### SetOnlyOwnerSee
@@ -8879,10 +7199,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetOnlyOwnerSee](ue_ue.SplineComponent.md#setonlyownersee)
-
-#### Defined in
-
-[ue/ue.d.ts:12737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12737)
 
 ___
 
@@ -8904,10 +7220,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetOwnerNoSee](ue_ue.SplineComponent.md#setownernosee)
 
-#### Defined in
-
-[ue/ue.d.ts:12738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12738)
-
 ___
 
 ### SetPhysMaterialOverride
@@ -8927,10 +7239,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetPhysMaterialOverride](ue_ue.SplineComponent.md#setphysmaterialoverride)
-
-#### Defined in
-
-[ue/ue.d.ts:12746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12746)
 
 ___
 
@@ -8954,10 +7262,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetPhysicsAngularVelocity](ue_ue.SplineComponent.md#setphysicsangularvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12739)
-
 ___
 
 ### SetPhysicsAngularVelocityInDegrees
@@ -8979,10 +7283,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetPhysicsAngularVelocityInDegrees](ue_ue.SplineComponent.md#setphysicsangularvelocityindegrees)
-
-#### Defined in
-
-[ue/ue.d.ts:12740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12740)
 
 ___
 
@@ -9006,10 +7306,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetPhysicsAngularVelocityInRadians](ue_ue.SplineComponent.md#setphysicsangularvelocityinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12741)
-
 ___
 
 ### SetPhysicsLinearVelocity
@@ -9031,10 +7327,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetPhysicsLinearVelocity](ue_ue.SplineComponent.md#setphysicslinearvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12742)
 
 ___
 
@@ -9058,10 +7350,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetPhysicsMaxAngularVelocity](ue_ue.SplineComponent.md#setphysicsmaxangularvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12743)
-
 ___
 
 ### SetPhysicsMaxAngularVelocityInDegrees
@@ -9083,10 +7371,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetPhysicsMaxAngularVelocityInDegrees](ue_ue.SplineComponent.md#setphysicsmaxangularvelocityindegrees)
-
-#### Defined in
-
-[ue/ue.d.ts:12744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12744)
 
 ___
 
@@ -9110,10 +7394,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetPhysicsMaxAngularVelocityInRadians](ue_ue.SplineComponent.md#setphysicsmaxangularvelocityinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12745)
-
 ___
 
 ### SetReceivesDecals
@@ -9133,10 +7413,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetReceivesDecals](ue_ue.SplineComponent.md#setreceivesdecals)
-
-#### Defined in
-
-[ue/ue.d.ts:12747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12747)
 
 ___
 
@@ -9158,10 +7434,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetRelativeScale3D](ue_ue.SplineComponent.md#setrelativescale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:12950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12950)
-
 ___
 
 ### SetRenderCustomDepth
@@ -9181,10 +7453,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetRenderCustomDepth](ue_ue.SplineComponent.md#setrendercustomdepth)
-
-#### Defined in
-
-[ue/ue.d.ts:12748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12748)
 
 ___
 
@@ -9206,10 +7474,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetRenderInMainPass](ue_ue.SplineComponent.md#setrenderinmainpass)
 
-#### Defined in
-
-[ue/ue.d.ts:12749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12749)
-
 ___
 
 ### SetSelectedSplineSegmentColor
@@ -9229,10 +7493,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetSelectedSplineSegmentColor](ue_ue.SplineComponent.md#setselectedsplinesegmentcolor)
-
-#### Defined in
-
-[ue/ue.d.ts:26019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26019)
 
 ___
 
@@ -9254,10 +7514,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetShouldUpdatePhysicsVolume](ue_ue.SplineComponent.md#setshouldupdatephysicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12951)
-
 ___
 
 ### SetSimulatePhysics
@@ -9277,10 +7533,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetSimulatePhysics](ue_ue.SplineComponent.md#setsimulatephysics)
-
-#### Defined in
-
-[ue/ue.d.ts:12750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12750)
 
 ___
 
@@ -9302,10 +7554,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetSingleSampleShadowFromStationaryLights](ue_ue.SplineComponent.md#setsinglesampleshadowfromstationarylights)
 
-#### Defined in
-
-[ue/ue.d.ts:12751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12751)
-
 ___
 
 ### SetSplineLocalPoints
@@ -9325,10 +7573,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetSplineLocalPoints](ue_ue.SplineComponent.md#setsplinelocalpoints)
-
-#### Defined in
-
-[ue/ue.d.ts:26020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26020)
 
 ___
 
@@ -9352,10 +7596,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetSplinePointType](ue_ue.SplineComponent.md#setsplinepointtype)
 
-#### Defined in
-
-[ue/ue.d.ts:26022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26022)
-
 ___
 
 ### SetSplinePoints
@@ -9378,10 +7618,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetSplinePoints](ue_ue.SplineComponent.md#setsplinepoints)
 
-#### Defined in
-
-[ue/ue.d.ts:26021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26021)
-
 ___
 
 ### SetSplineWorldPoints
@@ -9401,10 +7637,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetSplineWorldPoints](ue_ue.SplineComponent.md#setsplineworldpoints)
-
-#### Defined in
-
-[ue/ue.d.ts:26023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26023)
 
 ___
 
@@ -9428,10 +7660,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetTangentAtSplinePoint](ue_ue.SplineComponent.md#settangentatsplinepoint)
-
-#### Defined in
-
-[ue/ue.d.ts:26024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26024)
 
 ___
 
@@ -9457,10 +7685,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetTangentsAtSplinePoint](ue_ue.SplineComponent.md#settangentsatsplinepoint)
 
-#### Defined in
-
-[ue/ue.d.ts:26025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26025)
-
 ___
 
 ### SetTickGroup
@@ -9480,10 +7704,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetTickGroup](ue_ue.SplineComponent.md#settickgroup)
-
-#### Defined in
-
-[ue/ue.d.ts:330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L330)
 
 ___
 
@@ -9505,10 +7725,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetTickableWhenPaused](ue_ue.SplineComponent.md#settickablewhenpaused)
 
-#### Defined in
-
-[ue/ue.d.ts:329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L329)
-
 ___
 
 ### SetTranslucentSortPriority
@@ -9529,10 +7745,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetTranslucentSortPriority](ue_ue.SplineComponent.md#settranslucentsortpriority)
 
-#### Defined in
-
-[ue/ue.d.ts:12752](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12752)
-
 ___
 
 ### SetUnselectedSplineSegmentColor
@@ -9552,10 +7764,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetUnselectedSplineSegmentColor](ue_ue.SplineComponent.md#setunselectedsplinesegmentcolor)
-
-#### Defined in
-
-[ue/ue.d.ts:26026](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26026)
 
 ___
 
@@ -9580,10 +7788,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetUpVectorAtSplinePoint](ue_ue.SplineComponent.md#setupvectoratsplinepoint)
 
-#### Defined in
-
-[ue/ue.d.ts:26027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26027)
-
 ___
 
 ### SetUseCCD
@@ -9604,10 +7808,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetUseCCD](ue_ue.SplineComponent.md#setuseccd)
-
-#### Defined in
-
-[ue/ue.d.ts:12753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12753)
 
 ___
 
@@ -9630,10 +7830,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetVisibility](ue_ue.SplineComponent.md#setvisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12953)
-
 ___
 
 ### SetWalkableSlopeOverride
@@ -9653,10 +7849,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetWalkableSlopeOverride](ue_ue.SplineComponent.md#setwalkableslopeoverride)
-
-#### Defined in
-
-[ue/ue.d.ts:12754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12754)
 
 ___
 
@@ -9679,10 +7871,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetWorldLocationAtSplinePoint](ue_ue.SplineComponent.md#setworldlocationatsplinepoint)
 
-#### Defined in
-
-[ue/ue.d.ts:26028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26028)
-
 ___
 
 ### SetWorldScale3D
@@ -9702,10 +7890,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetWorldScale3D](ue_ue.SplineComponent.md#setworldscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:12954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12954)
 
 ___
 
@@ -9728,10 +7912,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SetupAttachment](ue_ue.SplineComponent.md#setupattachment)
 
-#### Defined in
-
-[ue/ue.d.ts:12952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12952)
-
 ___
 
 ### SnapTo
@@ -9753,10 +7933,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[SnapTo](ue_ue.SplineComponent.md#snapto)
 
-#### Defined in
-
-[ue/ue.d.ts:12955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12955)
-
 ___
 
 ### ToggleActive
@@ -9770,10 +7946,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[ToggleActive](ue_ue.SplineComponent.md#toggleactive)
-
-#### Defined in
-
-[ue/ue.d.ts:331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L331)
 
 ___
 
@@ -9795,10 +7967,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[ToggleVisibility](ue_ue.SplineComponent.md#togglevisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12956)
-
 ___
 
 ### UpdateSpline
@@ -9813,10 +7981,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[UpdateSpline](ue_ue.SplineComponent.md#updatespline)
 
-#### Defined in
-
-[ue/ue.d.ts:26029](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26029)
-
 ___
 
 ### WakeAllRigidBodies
@@ -9830,10 +7994,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[WakeAllRigidBodies](ue_ue.SplineComponent.md#wakeallrigidbodies)
-
-#### Defined in
-
-[ue/ue.d.ts:12755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12755)
 
 ___
 
@@ -9854,10 +8014,6 @@ ___
 #### Inherited from
 
 [SplineComponent](ue_ue.SplineComponent.md).[WakeRigidBody](ue_ue.SplineComponent.md#wakerigidbody)
-
-#### Defined in
-
-[ue/ue.d.ts:12756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12756)
 
 ___
 
@@ -9880,10 +8036,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[Find](ue_ue.SplineComponent.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:54926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54926)
-
 ___
 
 ### Load
@@ -9904,10 +8056,6 @@ ___
 
 [SplineComponent](ue_ue.SplineComponent.md).[Load](ue_ue.SplineComponent.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:54927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54927)
-
 ___
 
 ### StaticClass
@@ -9921,7 +8069,3 @@ ___
 #### Overrides
 
 [SplineComponent](ue_ue.SplineComponent.md).[StaticClass](ue_ue.SplineComponent.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:54925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54925)

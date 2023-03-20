@@ -28,10 +28,6 @@
 
 • **new DirectoryWidgetCompilerOptions**()
 
-#### Defined in
-
-[ue/ue.d.ts:64446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64446)
-
 • **new DirectoryWidgetCompilerOptions**(`Directory`, `IgnoredWidgets`, `Options`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `IgnoredWidgets` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`WidgetBlueprint`](ue_ue.WidgetBlueprint.md)\>\> |
 | `Options` | [`WidgetCompilerOptions`](ue_ue.WidgetCompilerOptions.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:64447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64447)
-
 ## Properties
 
 ### Directory
 
 • **Directory**: [`DirectoryPath`](ue_ue.DirectoryPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:64448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64448)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **IgnoredWidgets**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`WidgetBlueprint`](ue_ue.WidgetBlueprint.md)\>\>
 
-#### Defined in
-
-[ue/ue.d.ts:64449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64449)
-
 ___
 
 ### Options
 
 • **Options**: [`WidgetCompilerOptions`](ue_ue.WidgetCompilerOptions.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64450)
-
 ___
 
 ### \_\_tid\_DirectoryWidgetCompilerOptions\_\_
 
 • `Private` **\_\_tid\_DirectoryWidgetCompilerOptions\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64456](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64456)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64454)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:64455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64455)

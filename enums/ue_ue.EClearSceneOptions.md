@@ -20,19 +20,11 @@
 
 • **EClearSceneOptions\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31397)
-
 ___
 
 ### HardwareClear
 
 • **HardwareClear** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31397)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **NoClear** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31397)
-
 ___
 
 ### QuadAtMaxZ
 
 • **QuadAtMaxZ** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31397)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31397)

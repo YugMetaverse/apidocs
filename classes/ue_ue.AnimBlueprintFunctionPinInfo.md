@@ -27,10 +27,6 @@
 
 • **new AnimBlueprintFunctionPinInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:18795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18795)
-
 • **new AnimBlueprintFunctionPinInfo**(`Name`, `Type`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Name` | `string` |
 | `Type` | [`EdGraphPinType`](ue_ue.EdGraphPinType.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:18796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18796)
-
 ## Properties
 
 ### Name
 
 • **Name**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:18797](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18797)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Type**: [`EdGraphPinType`](ue_ue.EdGraphPinType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18798)
-
 ___
 
 ### \_\_tid\_AnimBlueprintFunctionPinInfo\_\_
 
 • `Private` **\_\_tid\_AnimBlueprintFunctionPinInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18804)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18802)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:18803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18803)

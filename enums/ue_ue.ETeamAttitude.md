@@ -20,19 +20,11 @@
 
 • **ETeamAttitude\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34814](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34814)
-
 ___
 
 ### Friendly
 
 • **Friendly** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34814](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34814)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Hostile** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34814](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34814)
-
 ___
 
 ### Neutral
 
 • **Neutral** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34814](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34814)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34814](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34814)

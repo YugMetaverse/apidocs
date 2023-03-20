@@ -26,10 +26,6 @@
 
 • **new CustomizedToolMenuSection**()
 
-#### Defined in
-
-[ue/ue.d.ts:63992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63992)
-
 • **new CustomizedToolMenuSection**(`Visibility`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Visibility` | [`ECustomizedToolMenuVisibility`](../enums/ue_ue.ECustomizedToolMenuVisibility.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:63993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63993)
-
 ## Properties
 
 ### Visibility
 
 • **Visibility**: [`ECustomizedToolMenuVisibility`](../enums/ue_ue.ECustomizedToolMenuVisibility.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63994)
-
 ___
 
 ### \_\_tid\_CustomizedToolMenuSection\_\_
 
 • `Private` **\_\_tid\_CustomizedToolMenuSection\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64000)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63998)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63999)

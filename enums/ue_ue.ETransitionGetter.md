@@ -26,19 +26,11 @@
 
 • **AnimationAsset\_GetCurrentTime** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34850)
-
 ___
 
 ### AnimationAsset\_GetCurrentTimeFraction
 
 • **AnimationAsset\_GetCurrentTimeFraction** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34850)
 
 ___
 
@@ -46,19 +38,11 @@ ___
 
 • **AnimationAsset\_GetLength** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34850)
-
 ___
 
 ### AnimationAsset\_GetTimeFromEnd
 
 • **AnimationAsset\_GetTimeFromEnd** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34850)
 
 ___
 
@@ -66,19 +50,11 @@ ___
 
 • **AnimationAsset\_GetTimeFromEndFraction** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34850)
-
 ___
 
 ### ArbitraryState\_GetBlendWeight
 
 • **ArbitraryState\_GetBlendWeight** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34850)
 
 ___
 
@@ -86,19 +62,11 @@ ___
 
 • **CurrentState\_ElapsedTime** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34850)
-
 ___
 
 ### CurrentState\_GetBlendWeight
 
 • **CurrentState\_GetBlendWeight** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34850)
 
 ___
 
@@ -106,26 +74,14 @@ ___
 
 • **CurrentTransitionDuration** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34850)
-
 ___
 
 ### ETransitionGetter\_MAX
 
 • **ETransitionGetter\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34850)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34850)

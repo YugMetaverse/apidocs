@@ -55,19 +55,11 @@
 
 [DataAsset](ue_ue.DataAsset.md).[constructor](ue_ue.DataAsset.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:54953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54953)
-
 ## Properties
 
 ### InteriorFill
 
 • **InteriorFill**: [`PaperSprite`](ue_ue.PaperSprite.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54955)
 
 ___
 
@@ -79,19 +71,11 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[NativeClass](ue_ue.DataAsset.md#nativeclass)
 
-#### Defined in
-
-[ue/ue.d.ts:724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L724)
-
 ___
 
 ### Rules
 
 • **Rules**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PaperTerrainMaterialRule`](ue_ue.PaperTerrainMaterialRule.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:54954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54954)
 
 ___
 
@@ -103,10 +87,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[__tid_DataAsset__](ue_ue.DataAsset.md#__tid_dataasset__)
 
-#### Defined in
-
-[ue/ue.d.ts:729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L729)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -117,19 +97,11 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[__tid_Object__](ue_ue.DataAsset.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PaperTerrainMaterial\_\_
 
 • **\_\_tid\_PaperTerrainMaterial\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54960)
 
 ## Methods
 
@@ -155,10 +127,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[CreateDefaultSubobject](ue_ue.DataAsset.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -179,10 +147,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[ExecuteUbergraph](ue_ue.DataAsset.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -196,10 +160,6 @@ ___
 #### Inherited from
 
 [DataAsset](ue_ue.DataAsset.md).[GetClass](ue_ue.DataAsset.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -215,10 +175,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[GetName](ue_ue.DataAsset.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -233,10 +189,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[GetOuter](ue_ue.DataAsset.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -250,10 +202,6 @@ ___
 #### Inherited from
 
 [DataAsset](ue_ue.DataAsset.md).[GetWorld](ue_ue.DataAsset.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -276,10 +224,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[Find](ue_ue.DataAsset.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:54957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54957)
-
 ___
 
 ### Load
@@ -300,10 +244,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[Load](ue_ue.DataAsset.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:54958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54958)
-
 ___
 
 ### StaticClass
@@ -317,7 +257,3 @@ ___
 #### Overrides
 
 [DataAsset](ue_ue.DataAsset.md).[StaticClass](ue_ue.DataAsset.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:54956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54956)

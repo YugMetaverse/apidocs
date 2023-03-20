@@ -20,19 +20,11 @@
 
 • **EEnvQueryTestClamping\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15540)
-
 ___
 
 ### FilterThreshold
 
 • **FilterThreshold** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15540)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15540)
-
 ___
 
 ### SpecifiedValue
 
 • **SpecifiedValue** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15540)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15540)

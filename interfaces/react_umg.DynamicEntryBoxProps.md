@@ -65,10 +65,6 @@
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[AccessibleBehavior](react_umg.DynamicEntryBoxBaseProps.md#accessiblebehavior)
 
-#### Defined in
-
-[react-umg/index.d.ts:145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L145)
-
 ___
 
 ### AccessibleSummaryBehavior
@@ -79,10 +75,6 @@ ___
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[AccessibleSummaryBehavior](react_umg.DynamicEntryBoxBaseProps.md#accessiblesummarybehavior)
 
-#### Defined in
-
-[react-umg/index.d.ts:146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L146)
-
 ___
 
 ### AccessibleSummaryText
@@ -92,10 +84,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[AccessibleSummaryText](react_umg.DynamicEntryBoxBaseProps.md#accessiblesummarytext)
-
-#### Defined in
-
-[react-umg/index.d.ts:149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L149)
 
 ___
 
@@ -115,10 +103,6 @@ ___
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[AccessibleSummaryTextDelegate](react_umg.DynamicEntryBoxBaseProps.md#accessiblesummarytextdelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L150)
-
 ___
 
 ### AccessibleText
@@ -128,10 +112,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[AccessibleText](react_umg.DynamicEntryBoxBaseProps.md#accessibletext)
-
-#### Defined in
-
-[react-umg/index.d.ts:147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L147)
 
 ___
 
@@ -151,10 +131,6 @@ ___
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[AccessibleTextDelegate](react_umg.DynamicEntryBoxBaseProps.md#accessibletextdelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L148)
-
 ___
 
 ### CategoryName
@@ -164,10 +140,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[CategoryName](react_umg.DynamicEntryBoxBaseProps.md#categoryname)
-
-#### Defined in
-
-[react-umg/index.d.ts:162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L162)
 
 ___
 
@@ -179,10 +151,6 @@ ___
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[Clipping](react_umg.DynamicEntryBoxBaseProps.md#clipping)
 
-#### Defined in
-
-[react-umg/index.d.ts:156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L156)
-
 ___
 
 ### Cursor
@@ -192,10 +160,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[Cursor](react_umg.DynamicEntryBoxBaseProps.md#cursor)
-
-#### Defined in
-
-[react-umg/index.d.ts:155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L155)
 
 ___
 
@@ -207,10 +171,6 @@ ___
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[DesignerFlags](react_umg.DynamicEntryBoxBaseProps.md#designerflags)
 
-#### Defined in
-
-[react-umg/index.d.ts:160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L160)
-
 ___
 
 ### DisplayLabel
@@ -220,10 +180,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[DisplayLabel](react_umg.DynamicEntryBoxBaseProps.md#displaylabel)
-
-#### Defined in
-
-[react-umg/index.d.ts:161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L161)
 
 ___
 
@@ -235,10 +191,6 @@ ___
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[EntryBoxType](react_umg.DynamicEntryBoxBaseProps.md#entryboxtype)
 
-#### Defined in
-
-[react-umg/index.d.ts:335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L335)
-
 ___
 
 ### EntryHorizontalAlignment
@@ -248,10 +200,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[EntryHorizontalAlignment](react_umg.DynamicEntryBoxBaseProps.md#entryhorizontalalignment)
-
-#### Defined in
-
-[react-umg/index.d.ts:339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L339)
 
 ___
 
@@ -263,10 +211,6 @@ ___
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[EntrySizeRule](react_umg.DynamicEntryBoxBaseProps.md#entrysizerule)
 
-#### Defined in
-
-[react-umg/index.d.ts:338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L338)
-
 ___
 
 ### EntrySpacing
@@ -276,10 +220,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[EntrySpacing](react_umg.DynamicEntryBoxBaseProps.md#entryspacing)
-
-#### Defined in
-
-[react-umg/index.d.ts:336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L336)
 
 ___
 
@@ -291,10 +231,6 @@ ___
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[EntryVerticalAlignment](react_umg.DynamicEntryBoxBaseProps.md#entryverticalalignment)
 
-#### Defined in
-
-[react-umg/index.d.ts:340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L340)
-
 ___
 
 ### EntryWidgetPool
@@ -304,10 +240,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[EntryWidgetPool](react_umg.DynamicEntryBoxBaseProps.md#entrywidgetpool)
-
-#### Defined in
-
-[react-umg/index.d.ts:342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L342)
 
 ___
 
@@ -319,10 +251,6 @@ ___
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[FlowDirectionPreference](react_umg.DynamicEntryBoxBaseProps.md#flowdirectionpreference)
 
-#### Defined in
-
-[react-umg/index.d.ts:159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L159)
-
 ___
 
 ### MaxElementSize
@@ -333,19 +261,11 @@ ___
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[MaxElementSize](react_umg.DynamicEntryBoxBaseProps.md#maxelementsize)
 
-#### Defined in
-
-[react-umg/index.d.ts:341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L341)
-
 ___
 
 ### NumDesignerPreviewEntries
 
 • `Optional` **NumDesignerPreviewEntries**: `number`
-
-#### Defined in
-
-[react-umg/index.d.ts:350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L350)
 
 ___
 
@@ -357,10 +277,6 @@ ___
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[RenderOpacity](react_umg.DynamicEntryBoxBaseProps.md#renderopacity)
 
-#### Defined in
-
-[react-umg/index.d.ts:158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L158)
-
 ___
 
 ### RenderTransform
@@ -370,10 +286,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[RenderTransform](react_umg.DynamicEntryBoxBaseProps.md#rendertransform)
-
-#### Defined in
-
-[react-umg/index.d.ts:137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L137)
 
 ___
 
@@ -385,10 +297,6 @@ ___
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[RenderTransformPivot](react_umg.DynamicEntryBoxBaseProps.md#rendertransformpivot)
 
-#### Defined in
-
-[react-umg/index.d.ts:138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L138)
-
 ___
 
 ### Slot
@@ -398,10 +306,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[Slot](react_umg.DynamicEntryBoxBaseProps.md#slot)
-
-#### Defined in
-
-[react-umg/index.d.ts:129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L129)
 
 ___
 
@@ -413,10 +317,6 @@ ___
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[SpacingPattern](react_umg.DynamicEntryBoxBaseProps.md#spacingpattern)
 
-#### Defined in
-
-[react-umg/index.d.ts:337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L337)
-
 ___
 
 ### ToolTipText
@@ -426,10 +326,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[ToolTipText](react_umg.DynamicEntryBoxBaseProps.md#tooltiptext)
-
-#### Defined in
-
-[react-umg/index.d.ts:134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L134)
 
 ___
 
@@ -449,10 +345,6 @@ ___
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[ToolTipTextDelegate](react_umg.DynamicEntryBoxBaseProps.md#tooltiptextdelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L135)
-
 ___
 
 ### Visibility
@@ -462,10 +354,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[Visibility](react_umg.DynamicEntryBoxBaseProps.md#visibility)
-
-#### Defined in
-
-[react-umg/index.d.ts:157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L157)
 
 ___
 
@@ -485,10 +373,6 @@ ___
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[VisibilityDelegate](react_umg.DynamicEntryBoxBaseProps.md#visibilitydelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L136)
-
 ___
 
 ### bCanChildrenBeAccessible
@@ -498,10 +382,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[bCanChildrenBeAccessible](react_umg.DynamicEntryBoxBaseProps.md#bcanchildrenbeaccessible)
-
-#### Defined in
-
-[react-umg/index.d.ts:144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L144)
 
 ___
 
@@ -513,10 +393,6 @@ ___
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[bCreatedByConstructionScript](react_umg.DynamicEntryBoxBaseProps.md#bcreatedbyconstructionscript)
 
-#### Defined in
-
-[react-umg/index.d.ts:140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L140)
-
 ___
 
 ### bExpandedInDesigner
@@ -526,10 +402,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[bExpandedInDesigner](react_umg.DynamicEntryBoxBaseProps.md#bexpandedindesigner)
-
-#### Defined in
-
-[react-umg/index.d.ts:153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L153)
 
 ___
 
@@ -541,10 +413,6 @@ ___
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[bHiddenInDesigner](react_umg.DynamicEntryBoxBaseProps.md#bhiddenindesigner)
 
-#### Defined in
-
-[react-umg/index.d.ts:152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L152)
-
 ___
 
 ### bIsEnabled
@@ -554,10 +422,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[bIsEnabled](react_umg.DynamicEntryBoxBaseProps.md#bisenabled)
-
-#### Defined in
-
-[react-umg/index.d.ts:141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L141)
 
 ___
 
@@ -577,10 +441,6 @@ ___
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[bIsEnabledDelegate](react_umg.DynamicEntryBoxBaseProps.md#bisenableddelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L133)
-
 ___
 
 ### bIsVariable
@@ -590,10 +450,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[bIsVariable](react_umg.DynamicEntryBoxBaseProps.md#bisvariable)
-
-#### Defined in
-
-[react-umg/index.d.ts:139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L139)
 
 ___
 
@@ -605,10 +461,6 @@ ___
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[bIsVolatile](react_umg.DynamicEntryBoxBaseProps.md#bisvolatile)
 
-#### Defined in
-
-[react-umg/index.d.ts:151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L151)
-
 ___
 
 ### bLockedInDesigner
@@ -618,10 +470,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[bLockedInDesigner](react_umg.DynamicEntryBoxBaseProps.md#blockedindesigner)
-
-#### Defined in
-
-[react-umg/index.d.ts:154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L154)
 
 ___
 
@@ -633,10 +481,6 @@ ___
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[bOverrideAccessibleDefaults](react_umg.DynamicEntryBoxBaseProps.md#boverrideaccessibledefaults)
 
-#### Defined in
-
-[react-umg/index.d.ts:143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L143)
-
 ___
 
 ### bOverride\_Cursor
@@ -646,7 +490,3 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBaseProps](react_umg.DynamicEntryBoxBaseProps.md).[bOverride_Cursor](react_umg.DynamicEntryBoxBaseProps.md#boverride_cursor)
-
-#### Defined in
-
-[react-umg/index.d.ts:142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L142)

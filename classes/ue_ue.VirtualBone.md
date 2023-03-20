@@ -28,10 +28,6 @@
 
 • **new VirtualBone**()
 
-#### Defined in
-
-[ue/ue.d.ts:2328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2328)
-
 • **new VirtualBone**(`SourceBoneName`, `TargetBoneName`, `VirtualBoneName`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `TargetBoneName` | `string` |
 | `VirtualBoneName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:2329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2329)
-
 ## Properties
 
 ### SourceBoneName
 
 • **SourceBoneName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:2330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2330)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **TargetBoneName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:2331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2331)
-
 ___
 
 ### VirtualBoneName
 
 • **VirtualBoneName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:2332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2332)
-
 ___
 
 ### \_\_tid\_VirtualBone\_\_
 
 • `Private` **\_\_tid\_VirtualBone\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2338)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2336)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2337)

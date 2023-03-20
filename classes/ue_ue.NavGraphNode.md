@@ -26,10 +26,6 @@
 
 • **new NavGraphNode**()
 
-#### Defined in
-
-[ue/ue.d.ts:53002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53002)
-
 • **new NavGraphNode**(`Owner`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Owner` | [`Object`](ue_ue.Object.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:53003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53003)
-
 ## Properties
 
 ### Owner
 
 • **Owner**: [`Object`](ue_ue.Object.md)
 
-#### Defined in
-
-[ue/ue.d.ts:53004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53004)
-
 ___
 
 ### \_\_tid\_NavGraphNode\_\_
 
 • `Private` **\_\_tid\_NavGraphNode\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:53010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53010)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:53008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53008)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:53009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53009)

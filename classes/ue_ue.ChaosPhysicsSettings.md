@@ -28,10 +28,6 @@
 
 • **new ChaosPhysicsSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:57591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57591)
-
 • **new ChaosPhysicsSettings**(`DefaultThreadingModel`, `DedicatedThreadTickMode`, `DedicatedThreadBufferMode`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `DedicatedThreadTickMode` | [`EChaosSolverTickMode`](../enums/ue_ue.EChaosSolverTickMode.md) |
 | `DedicatedThreadBufferMode` | [`EChaosBufferMode`](../enums/ue_ue.EChaosBufferMode.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:57592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57592)
-
 ## Properties
 
 ### DedicatedThreadBufferMode
 
 • **DedicatedThreadBufferMode**: [`EChaosBufferMode`](../enums/ue_ue.EChaosBufferMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57595)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **DedicatedThreadTickMode**: [`EChaosSolverTickMode`](../enums/ue_ue.EChaosSolverTickMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57594)
-
 ___
 
 ### DefaultThreadingModel
 
 • **DefaultThreadingModel**: [`EChaosThreadingMode`](../enums/ue_ue.EChaosThreadingMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57593)
-
 ___
 
 ### \_\_tid\_ChaosPhysicsSettings\_\_
 
 • `Private` **\_\_tid\_ChaosPhysicsSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57601)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57599)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57600)

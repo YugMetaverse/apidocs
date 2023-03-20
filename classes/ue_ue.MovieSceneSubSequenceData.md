@@ -37,10 +37,6 @@
 
 • **new MovieSceneSubSequenceData**()
 
-#### Defined in
-
-[ue/ue.d.ts:11379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11379)
-
 • **new MovieSceneSubSequenceData**(`Sequence`, `RootToSequenceTransform`, `TickResolution`, `DeterministicSequenceID`, `PlayRange`, `PreRollRange`, `PostRollRange`, `HierarchicalBias`, `InstanceData`, `SectionPath`, `SubSectionSignature`, `OuterToInnerTransform`)
 
 #### Parameters
@@ -60,19 +56,11 @@
 | `SubSectionSignature` | [`Guid`](ue_ue_s.Guid.md) |
 | `OuterToInnerTransform` | [`MovieSceneSequenceTransform`](ue_ue.MovieSceneSequenceTransform.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:11380](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11380)
-
 ## Properties
 
 ### DeterministicSequenceID
 
 • **DeterministicSequenceID**: [`MovieSceneSequenceID`](ue_ue.MovieSceneSequenceID.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11384)
 
 ___
 
@@ -80,19 +68,11 @@ ___
 
 • **HierarchicalBias**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11388)
-
 ___
 
 ### InstanceData
 
 • **InstanceData**: [`MovieSceneSequenceInstanceDataPtr`](ue_ue.MovieSceneSequenceInstanceDataPtr.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11389)
 
 ___
 
@@ -100,19 +80,11 @@ ___
 
 • **OuterToInnerTransform**: [`MovieSceneSequenceTransform`](ue_ue.MovieSceneSequenceTransform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11392)
-
 ___
 
 ### PlayRange
 
 • **PlayRange**: [`MovieSceneFrameRange`](ue_ue.MovieSceneFrameRange.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11385)
 
 ___
 
@@ -120,19 +92,11 @@ ___
 
 • **PostRollRange**: [`MovieSceneFrameRange`](ue_ue.MovieSceneFrameRange.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11387)
-
 ___
 
 ### PreRollRange
 
 • **PreRollRange**: [`MovieSceneFrameRange`](ue_ue.MovieSceneFrameRange.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11386)
 
 ___
 
@@ -140,19 +104,11 @@ ___
 
 • **RootToSequenceTransform**: [`MovieSceneSequenceTransform`](ue_ue.MovieSceneSequenceTransform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11382](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11382)
-
 ___
 
 ### SectionPath
 
 • **SectionPath**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:11390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11390)
 
 ___
 
@@ -160,19 +116,11 @@ ___
 
 • **Sequence**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11381)
-
 ___
 
 ### SubSectionSignature
 
 • **SubSectionSignature**: [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11391)
 
 ___
 
@@ -180,19 +128,11 @@ ___
 
 • **TickResolution**: [`FrameRate`](ue_ue.FrameRate.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11383)
-
 ___
 
 ### \_\_tid\_MovieSceneSubSequenceData\_\_
 
 • `Private` **\_\_tid\_MovieSceneSubSequenceData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11398)
 
 ## Methods
 
@@ -208,10 +148,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11396)
-
 ___
 
 ### StaticStruct
@@ -221,7 +157,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11397)

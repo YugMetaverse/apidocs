@@ -47,19 +47,11 @@
 
 • **MP\_AmbientOcclusion** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
-
 ___
 
 ### MP\_BaseColor
 
 • **MP\_BaseColor** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
 
 ___
 
@@ -67,19 +59,11 @@ ___
 
 • **MP\_CustomData0** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
-
 ___
 
 ### MP\_CustomData1
 
 • **MP\_CustomData1** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
 
 ___
 
@@ -87,19 +71,11 @@ ___
 
 • **MP\_CustomOutput** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
-
 ___
 
 ### MP\_CustomizedUVs0
 
 • **MP\_CustomizedUVs0** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
 
 ___
 
@@ -107,19 +83,11 @@ ___
 
 • **MP\_CustomizedUVs1** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
-
 ___
 
 ### MP\_CustomizedUVs2
 
 • **MP\_CustomizedUVs2** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
 
 ___
 
@@ -127,19 +95,11 @@ ___
 
 • **MP\_CustomizedUVs3** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
-
 ___
 
 ### MP\_CustomizedUVs4
 
 • **MP\_CustomizedUVs4** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
 
 ___
 
@@ -147,19 +107,11 @@ ___
 
 • **MP\_CustomizedUVs5** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
-
 ___
 
 ### MP\_CustomizedUVs6
 
 • **MP\_CustomizedUVs6** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
 
 ___
 
@@ -167,19 +119,11 @@ ___
 
 • **MP\_CustomizedUVs7** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
-
 ___
 
 ### MP\_DiffuseColor
 
 • **MP\_DiffuseColor** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
 
 ___
 
@@ -187,19 +131,11 @@ ___
 
 • **MP\_EmissiveColor** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
-
 ___
 
 ### MP\_MAX
 
 • **MP\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
 
 ___
 
@@ -207,19 +143,11 @@ ___
 
 • **MP\_MaterialAttributes** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
-
 ___
 
 ### MP\_Metallic
 
 • **MP\_Metallic** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
 
 ___
 
@@ -227,19 +155,11 @@ ___
 
 • **MP\_Normal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
-
 ___
 
 ### MP\_Opacity
 
 • **MP\_Opacity** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
 
 ___
 
@@ -247,19 +167,11 @@ ___
 
 • **MP\_OpacityMask** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
-
 ___
 
 ### MP\_PixelDepthOffset
 
 • **MP\_PixelDepthOffset** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
 
 ___
 
@@ -267,19 +179,11 @@ ___
 
 • **MP\_Refraction** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
-
 ___
 
 ### MP\_Roughness
 
 • **MP\_Roughness** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
 
 ___
 
@@ -287,19 +191,11 @@ ___
 
 • **MP\_ShadingModel** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
-
 ___
 
 ### MP\_Specular
 
 • **MP\_Specular** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
 
 ___
 
@@ -307,19 +203,11 @@ ___
 
 • **MP\_SpecularColor** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
-
 ___
 
 ### MP\_SubsurfaceColor
 
 • **MP\_SubsurfaceColor** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
 
 ___
 
@@ -327,19 +215,11 @@ ___
 
 • **MP\_TessellationMultiplier** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
-
 ___
 
 ### MP\_WorldDisplacement
 
 • **MP\_WorldDisplacement** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
 
 ___
 
@@ -347,16 +227,8 @@ ___
 
 • **MP\_WorldPositionOffset** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34024)

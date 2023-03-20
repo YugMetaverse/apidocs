@@ -26,10 +26,6 @@
 
 • **new MovieSceneExpansionState**()
 
-#### Defined in
-
-[ue/ue.d.ts:11646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11646)
-
 • **new MovieSceneExpansionState**(`bExpanded`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `bExpanded` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:11647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11647)
-
 ## Properties
 
 ### \_\_tid\_MovieSceneExpansionState\_\_
 
 • `Private` **\_\_tid\_MovieSceneExpansionState\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:11654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11654)
-
 ___
 
 ### bExpanded
 
 • **bExpanded**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11648)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11652)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11653)

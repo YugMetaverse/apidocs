@@ -20,19 +20,11 @@
 
 • **ECookTickFlags\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31422)
-
 ___
 
 ### HideProgressDisplay
 
 • **HideProgressDisplay** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31422)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **MarkupInUsePackages** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31422)
-
 ___
 
 ### None
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31422)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31422)

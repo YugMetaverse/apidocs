@@ -26,10 +26,6 @@
 
 • **new GatherTextFileExtension**()
 
-#### Defined in
-
-[ue/ue.d.ts:46005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46005)
-
 • **new GatherTextFileExtension**(`Pattern`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Pattern` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:46006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46006)
-
 ## Properties
 
 ### Pattern
 
 • **Pattern**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:46007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46007)
-
 ___
 
 ### \_\_tid\_GatherTextFileExtension\_\_
 
 • `Private` **\_\_tid\_GatherTextFileExtension\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46013)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46011)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46012)

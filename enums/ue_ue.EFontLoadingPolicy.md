@@ -20,19 +20,11 @@
 
 • **EFontLoadingPolicy\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1849)
-
 ___
 
 ### Inline
 
 • **Inline** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1849)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **LazyLoad** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1849)
-
 ___
 
 ### Stream
 
 • **Stream** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1849)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1849)

@@ -89,10 +89,6 @@
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[constructor](ue_ue.K2Node_CallFunction.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:41428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41428)
-
 ## Properties
 
 ### AdvancedPinDisplay
@@ -102,10 +98,6 @@
 #### Inherited from
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[AdvancedPinDisplay](ue_ue.K2Node_CallFunction.md#advancedpindisplay)
-
-#### Defined in
-
-[ue/ue.d.ts:1067](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1067)
 
 ___
 
@@ -117,10 +109,6 @@ ___
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[CallFunctionClass](ue_ue.K2Node_CallFunction.md#callfunctionclass)
 
-#### Defined in
-
-[ue/ue.d.ts:40754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40754)
-
 ___
 
 ### CallFunctionName
@@ -130,10 +118,6 @@ ___
 #### Inherited from
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[CallFunctionName](ue_ue.K2Node_CallFunction.md#callfunctionname)
-
-#### Defined in
-
-[ue/ue.d.ts:40753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40753)
 
 ___
 
@@ -145,10 +129,6 @@ ___
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[DeprecatedPins](ue_ue.K2Node_CallFunction.md#deprecatedpins)
 
-#### Defined in
-
-[ue/ue.d.ts:1062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1062)
-
 ___
 
 ### EnabledState
@@ -158,10 +138,6 @@ ___
 #### Inherited from
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[EnabledState](ue_ue.K2Node_CallFunction.md#enabledstate)
-
-#### Defined in
-
-[ue/ue.d.ts:1068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1068)
 
 ___
 
@@ -173,10 +149,6 @@ ___
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[ErrorMsg](ue_ue.K2Node_CallFunction.md#errormsg)
 
-#### Defined in
-
-[ue/ue.d.ts:1081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1081)
-
 ___
 
 ### ErrorType
@@ -186,10 +158,6 @@ ___
 #### Inherited from
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[ErrorType](ue_ue.K2Node_CallFunction.md#errortype)
-
-#### Defined in
-
-[ue/ue.d.ts:1080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1080)
 
 ___
 
@@ -201,19 +169,11 @@ ___
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[FunctionReference](ue_ue.K2Node_CallFunction.md#functionreference)
 
-#### Defined in
-
-[ue/ue.d.ts:40752](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40752)
-
 ___
 
 ### InputAxisKey
 
 • **InputAxisKey**: [`Key`](ue_ue.Key.md)
-
-#### Defined in
-
-[ue/ue.d.ts:41429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41429)
 
 ___
 
@@ -225,10 +185,6 @@ ___
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[NodeComment](ue_ue.K2Node_CallFunction.md#nodecomment)
 
-#### Defined in
-
-[ue/ue.d.ts:1079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1079)
-
 ___
 
 ### NodeGuid
@@ -238,10 +194,6 @@ ___
 #### Inherited from
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[NodeGuid](ue_ue.K2Node_CallFunction.md#nodeguid)
-
-#### Defined in
-
-[ue/ue.d.ts:1082](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1082)
 
 ___
 
@@ -253,10 +205,6 @@ ___
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[NodeHeight](ue_ue.K2Node_CallFunction.md#nodeheight)
 
-#### Defined in
-
-[ue/ue.d.ts:1066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1066)
-
 ___
 
 ### NodePosX
@@ -266,10 +214,6 @@ ___
 #### Inherited from
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[NodePosX](ue_ue.K2Node_CallFunction.md#nodeposx)
-
-#### Defined in
-
-[ue/ue.d.ts:1063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1063)
 
 ___
 
@@ -281,10 +225,6 @@ ___
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[NodePosY](ue_ue.K2Node_CallFunction.md#nodeposy)
 
-#### Defined in
-
-[ue/ue.d.ts:1064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1064)
-
 ___
 
 ### NodeUpgradeMessage
@@ -294,10 +234,6 @@ ___
 #### Inherited from
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[NodeUpgradeMessage](ue_ue.K2Node_CallFunction.md#nodeupgrademessage)
-
-#### Defined in
-
-[ue/ue.d.ts:1078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1078)
 
 ___
 
@@ -309,10 +245,6 @@ ___
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[NodeWidth](ue_ue.K2Node_CallFunction.md#nodewidth)
 
-#### Defined in
-
-[ue/ue.d.ts:1065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1065)
-
 ___
 
 ### \_\_tid\_EdGraphNode\_\_
@@ -322,10 +254,6 @@ ___
 #### Inherited from
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[__tid_EdGraphNode__](ue_ue.K2Node_CallFunction.md#__tid_edgraphnode__)
-
-#### Defined in
-
-[ue/ue.d.ts:1087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1087)
 
 ___
 
@@ -337,19 +265,11 @@ ___
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[__tid_K2Node_CallFunction__](ue_ue.K2Node_CallFunction.md#__tid_k2node_callfunction__)
 
-#### Defined in
-
-[ue/ue.d.ts:40759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40759)
-
 ___
 
 ### \_\_tid\_K2Node\_GetInputAxisKeyValue\_\_
 
 • **\_\_tid\_K2Node\_GetInputAxisKeyValue\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:41436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41436)
 
 ___
 
@@ -361,10 +281,6 @@ ___
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[__tid_K2Node__](ue_ue.K2Node_CallFunction.md#__tid_k2node__)
 
-#### Defined in
-
-[ue/ue.d.ts:16749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16749)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -374,10 +290,6 @@ ___
 #### Inherited from
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[__tid_Object__](ue_ue.K2Node_CallFunction.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -389,10 +301,6 @@ ___
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[bCanRenameNode](ue_ue.K2Node_CallFunction.md#bcanrenamenode)
 
-#### Defined in
-
-[ue/ue.d.ts:1077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1077)
-
 ___
 
 ### bCanResizeNode
@@ -402,10 +310,6 @@ ___
 #### Inherited from
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[bCanResizeNode](ue_ue.K2Node_CallFunction.md#bcanresizenode)
-
-#### Defined in
-
-[ue/ue.d.ts:1072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1072)
 
 ___
 
@@ -417,10 +321,6 @@ ___
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[bCommentBubbleMakeVisible](ue_ue.K2Node_CallFunction.md#bcommentbubblemakevisible)
 
-#### Defined in
-
-[ue/ue.d.ts:1076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1076)
-
 ___
 
 ### bCommentBubblePinned
@@ -430,10 +330,6 @@ ___
 #### Inherited from
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[bCommentBubblePinned](ue_ue.K2Node_CallFunction.md#bcommentbubblepinned)
-
-#### Defined in
-
-[ue/ue.d.ts:1074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1074)
 
 ___
 
@@ -445,19 +341,11 @@ ___
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[bCommentBubbleVisible](ue_ue.K2Node_CallFunction.md#bcommentbubblevisible)
 
-#### Defined in
-
-[ue/ue.d.ts:1075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1075)
-
 ___
 
 ### bConsumeInput
 
 • **bConsumeInput**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:41430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41430)
 
 ___
 
@@ -469,19 +357,11 @@ ___
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[bDisplayAsDisabled](ue_ue.K2Node_CallFunction.md#bdisplayasdisabled)
 
-#### Defined in
-
-[ue/ue.d.ts:1069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1069)
-
 ___
 
 ### bExecuteWhenPaused
 
 • **bExecuteWhenPaused**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:41431](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41431)
 
 ___
 
@@ -493,10 +373,6 @@ ___
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[bHasCompilerMessage](ue_ue.K2Node_CallFunction.md#bhascompilermessage)
 
-#### Defined in
-
-[ue/ue.d.ts:1073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1073)
-
 ___
 
 ### bIsBeadFunction
@@ -506,10 +382,6 @@ ___
 #### Inherited from
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[bIsBeadFunction](ue_ue.K2Node_CallFunction.md#bisbeadfunction)
-
-#### Defined in
-
-[ue/ue.d.ts:40751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40751)
 
 ___
 
@@ -521,10 +393,6 @@ ___
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[bIsConstFunc](ue_ue.K2Node_CallFunction.md#bisconstfunc)
 
-#### Defined in
-
-[ue/ue.d.ts:40747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40747)
-
 ___
 
 ### bIsFinalFunction
@@ -534,10 +402,6 @@ ___
 #### Inherited from
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[bIsFinalFunction](ue_ue.K2Node_CallFunction.md#bisfinalfunction)
-
-#### Defined in
-
-[ue/ue.d.ts:40750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40750)
 
 ___
 
@@ -549,10 +413,6 @@ ___
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[bIsInterfaceCall](ue_ue.K2Node_CallFunction.md#bisinterfacecall)
 
-#### Defined in
-
-[ue/ue.d.ts:40749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40749)
-
 ___
 
 ### bIsNodeEnabled
@@ -562,10 +422,6 @@ ___
 #### Inherited from
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[bIsNodeEnabled](ue_ue.K2Node_CallFunction.md#bisnodeenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:1071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1071)
 
 ___
 
@@ -577,10 +433,6 @@ ___
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[bIsPureFunc](ue_ue.K2Node_CallFunction.md#bispurefunc)
 
-#### Defined in
-
-[ue/ue.d.ts:40746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40746)
-
 ___
 
 ### bUserSetEnabledState
@@ -591,10 +443,6 @@ ___
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[bUserSetEnabledState](ue_ue.K2Node_CallFunction.md#busersetenabledstate)
 
-#### Defined in
-
-[ue/ue.d.ts:1070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1070)
-
 ___
 
 ### bWantsEnumToExecExpansion
@@ -604,10 +452,6 @@ ___
 #### Inherited from
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[bWantsEnumToExecExpansion](ue_ue.K2Node_CallFunction.md#bwantsenumtoexecexpansion)
-
-#### Defined in
-
-[ue/ue.d.ts:40748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40748)
 
 ## Methods
 
@@ -633,10 +477,6 @@ ___
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[CreateDefaultSubobject](ue_ue.K2Node_CallFunction.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -657,10 +497,6 @@ ___
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[ExecuteUbergraph](ue_ue.K2Node_CallFunction.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -674,10 +510,6 @@ ___
 #### Inherited from
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[GetClass](ue_ue.K2Node_CallFunction.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -693,10 +525,6 @@ ___
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[GetName](ue_ue.K2Node_CallFunction.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -711,10 +539,6 @@ ___
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[GetOuter](ue_ue.K2Node_CallFunction.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -728,10 +552,6 @@ ___
 #### Inherited from
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[GetWorld](ue_ue.K2Node_CallFunction.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -754,10 +574,6 @@ ___
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[Find](ue_ue.K2Node_CallFunction.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:41433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41433)
-
 ___
 
 ### Load
@@ -778,10 +594,6 @@ ___
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[Load](ue_ue.K2Node_CallFunction.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:41434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41434)
-
 ___
 
 ### StaticClass
@@ -795,7 +607,3 @@ ___
 #### Overrides
 
 [K2Node_CallFunction](ue_ue.K2Node_CallFunction.md).[StaticClass](ue_ue.K2Node_CallFunction.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:41432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41432)

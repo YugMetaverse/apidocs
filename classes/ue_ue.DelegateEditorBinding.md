@@ -32,10 +32,6 @@
 
 • **new DelegateEditorBinding**()
 
-#### Defined in
-
-[ue/ue.d.ts:33614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33614)
-
 • **new DelegateEditorBinding**(`ObjectName`, `PropertyName`, `FunctionName`, `SourceProperty`, `SourcePath`, `MemberGuid`, `Kind`)
 
 #### Parameters
@@ -50,19 +46,11 @@
 | `MemberGuid` | [`Guid`](ue_ue_s.Guid.md) |
 | `Kind` | [`EBindingKind`](../enums/ue_ue.EBindingKind.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:33615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33615)
-
 ## Properties
 
 ### FunctionName
 
 • **FunctionName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:33618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33618)
 
 ___
 
@@ -70,19 +58,11 @@ ___
 
 • **Kind**: [`EBindingKind`](../enums/ue_ue.EBindingKind.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33622)
-
 ___
 
 ### MemberGuid
 
 • **MemberGuid**: [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33621)
 
 ___
 
@@ -90,19 +70,11 @@ ___
 
 • **ObjectName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:33616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33616)
-
 ___
 
 ### PropertyName
 
 • **PropertyName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:33617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33617)
 
 ___
 
@@ -110,29 +82,17 @@ ___
 
 • **SourcePath**: [`EditorPropertyPath`](ue_ue.EditorPropertyPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33620)
-
 ___
 
 ### SourceProperty
 
 • **SourceProperty**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:33619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33619)
-
 ___
 
 ### \_\_tid\_DelegateEditorBinding\_\_
 
 • `Private` **\_\_tid\_DelegateEditorBinding\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33628)
 
 ## Methods
 
@@ -148,10 +108,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33626)
-
 ___
 
 ### StaticStruct
@@ -161,7 +117,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33627)

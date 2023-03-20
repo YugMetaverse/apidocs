@@ -19,19 +19,11 @@
 
 • **EMeshPaintMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34051](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34051)
-
 ___
 
 ### PaintColors
 
 • **PaintColors** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34051](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34051)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **PaintWeights** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34051](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34051)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34051](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34051)

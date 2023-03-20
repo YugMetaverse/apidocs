@@ -19,19 +19,11 @@
 
 • **EAISenseNotifyType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15708)
-
 ___
 
 ### OnEveryPerception
 
 • **OnEveryPerception** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15708)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **OnPerceptionChange** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15708)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15708)

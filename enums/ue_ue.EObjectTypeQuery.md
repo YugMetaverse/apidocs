@@ -56,19 +56,11 @@
 
 • **Destructible** = ``5``
 
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
-
 ___
 
 ### EObjectTypeQuery\_MAX
 
 • **EObjectTypeQuery\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
 
 ___
 
@@ -76,19 +68,11 @@ ___
 
 • **ObjectTypeQuery1** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
-
 ___
 
 ### ObjectTypeQuery10
 
 • **ObjectTypeQuery10** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
 
 ___
 
@@ -96,19 +80,11 @@ ___
 
 • **ObjectTypeQuery11** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
-
 ___
 
 ### ObjectTypeQuery12
 
 • **ObjectTypeQuery12** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
 
 ___
 
@@ -116,19 +92,11 @@ ___
 
 • **ObjectTypeQuery13** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
-
 ___
 
 ### ObjectTypeQuery14
 
 • **ObjectTypeQuery14** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
 
 ___
 
@@ -136,19 +104,11 @@ ___
 
 • **ObjectTypeQuery15** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
-
 ___
 
 ### ObjectTypeQuery16
 
 • **ObjectTypeQuery16** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
 
 ___
 
@@ -156,19 +116,11 @@ ___
 
 • **ObjectTypeQuery17** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
-
 ___
 
 ### ObjectTypeQuery18
 
 • **ObjectTypeQuery18** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
 
 ___
 
@@ -176,19 +128,11 @@ ___
 
 • **ObjectTypeQuery19** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
-
 ___
 
 ### ObjectTypeQuery2
 
 • **ObjectTypeQuery2** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
 
 ___
 
@@ -196,19 +140,11 @@ ___
 
 • **ObjectTypeQuery20** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
-
 ___
 
 ### ObjectTypeQuery21
 
 • **ObjectTypeQuery21** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
 
 ___
 
@@ -216,19 +152,11 @@ ___
 
 • **ObjectTypeQuery22** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
-
 ___
 
 ### ObjectTypeQuery23
 
 • **ObjectTypeQuery23** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
 
 ___
 
@@ -236,19 +164,11 @@ ___
 
 • **ObjectTypeQuery24** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
-
 ___
 
 ### ObjectTypeQuery25
 
 • **ObjectTypeQuery25** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
 
 ___
 
@@ -256,19 +176,11 @@ ___
 
 • **ObjectTypeQuery26** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
-
 ___
 
 ### ObjectTypeQuery27
 
 • **ObjectTypeQuery27** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
 
 ___
 
@@ -276,19 +188,11 @@ ___
 
 • **ObjectTypeQuery28** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
-
 ___
 
 ### ObjectTypeQuery29
 
 • **ObjectTypeQuery29** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
 
 ___
 
@@ -296,19 +200,11 @@ ___
 
 • **ObjectTypeQuery3** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
-
 ___
 
 ### ObjectTypeQuery30
 
 • **ObjectTypeQuery30** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
 
 ___
 
@@ -316,19 +212,11 @@ ___
 
 • **ObjectTypeQuery31** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
-
 ___
 
 ### ObjectTypeQuery32
 
 • **ObjectTypeQuery32** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
 
 ___
 
@@ -336,19 +224,11 @@ ___
 
 • **ObjectTypeQuery4** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
-
 ___
 
 ### ObjectTypeQuery5
 
 • **ObjectTypeQuery5** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
 
 ___
 
@@ -356,19 +236,11 @@ ___
 
 • **ObjectTypeQuery6** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
-
 ___
 
 ### ObjectTypeQuery7
 
 • **ObjectTypeQuery7** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
 
 ___
 
@@ -376,19 +248,11 @@ ___
 
 • **ObjectTypeQuery8** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
-
 ___
 
 ### ObjectTypeQuery9
 
 • **ObjectTypeQuery9** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
 
 ___
 
@@ -396,19 +260,11 @@ ___
 
 • **ObjectTypeQuery\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
-
 ___
 
 ### Pawn
 
 • **Pawn** = ``2``
-
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
 
 ___
 
@@ -416,19 +272,11 @@ ___
 
 • **PhysicsBody** = ``3``
 
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
-
 ___
 
 ### Vehicle
 
 • **Vehicle** = ``4``
-
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
 
 ___
 
@@ -436,26 +284,14 @@ ___
 
 • **WorldDynamic** = ``1``
 
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
-
 ___
 
 ### WorldStatic
 
 • **WorldStatic** = ``0``
 
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12232)

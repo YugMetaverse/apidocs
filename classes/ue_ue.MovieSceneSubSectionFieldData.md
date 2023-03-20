@@ -25,19 +25,11 @@
 
 • **new MovieSceneSubSectionFieldData**()
 
-#### Defined in
-
-[ue/ue.d.ts:11464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11464)
-
 ## Properties
 
 ### \_\_tid\_MovieSceneSubSectionFieldData\_\_
 
 • `Private` **\_\_tid\_MovieSceneSubSectionFieldData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11470)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11468)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11469)

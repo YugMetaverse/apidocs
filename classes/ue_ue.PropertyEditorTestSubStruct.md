@@ -29,10 +29,6 @@
 
 • **new PropertyEditorTestSubStruct**()
 
-#### Defined in
-
-[ue/ue.d.ts:58707](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58707)
-
 • **new PropertyEditorTestSubStruct**(`FirstProperty`, `SecondProperty`, `CustomizedStructInsideUncustomizedStruct`, `CustomizedStructInsideUncustomizedStruct2`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `CustomizedStructInsideUncustomizedStruct` | [`LinearColor`](ue_ue_s.LinearColor.md) |
 | `CustomizedStructInsideUncustomizedStruct2` | [`SoftObjectPath`](ue_ue.SoftObjectPath.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:58708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58708)
-
 ## Properties
 
 ### CustomizedStructInsideUncustomizedStruct
 
 • **CustomizedStructInsideUncustomizedStruct**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:58711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58711)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **CustomizedStructInsideUncustomizedStruct2**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:58712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58712)
-
 ___
 
 ### FirstProperty
 
 • **FirstProperty**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:58709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58709)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **SecondProperty**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:58710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58710)
-
 ___
 
 ### \_\_tid\_PropertyEditorTestSubStruct\_\_
 
 • `Private` **\_\_tid\_PropertyEditorTestSubStruct\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58718)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:58716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58716)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:58717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58717)

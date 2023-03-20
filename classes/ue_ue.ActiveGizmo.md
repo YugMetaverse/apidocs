@@ -25,19 +25,11 @@
 
 • **new ActiveGizmo**()
 
-#### Defined in
-
-[ue/ue.d.ts:33784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33784)
-
 ## Properties
 
 ### \_\_tid\_ActiveGizmo\_\_
 
 • `Private` **\_\_tid\_ActiveGizmo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33790)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33788)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33789)

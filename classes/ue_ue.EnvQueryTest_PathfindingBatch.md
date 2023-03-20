@@ -80,10 +80,6 @@
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[constructor](ue_ue.EnvQueryTest_Pathfinding.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:34574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34574)
-
 ## Properties
 
 ### BoolValue
@@ -93,10 +89,6 @@
 #### Inherited from
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[BoolValue](ue_ue.EnvQueryTest_Pathfinding.md#boolvalue)
-
-#### Defined in
-
-[ue/ue.d.ts:15550](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15550)
 
 ___
 
@@ -108,10 +100,6 @@ ___
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[ClampMaxType](ue_ue.EnvQueryTest_Pathfinding.md#clampmaxtype)
 
-#### Defined in
-
-[ue/ue.d.ts:15555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15555)
-
 ___
 
 ### ClampMinType
@@ -121,10 +109,6 @@ ___
 #### Inherited from
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[ClampMinType](ue_ue.EnvQueryTest_Pathfinding.md#clampmintype)
-
-#### Defined in
-
-[ue/ue.d.ts:15554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15554)
 
 ___
 
@@ -136,10 +120,6 @@ ___
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[Context](ue_ue.EnvQueryTest_Pathfinding.md#context)
 
-#### Defined in
-
-[ue/ue.d.ts:34562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34562)
-
 ___
 
 ### FilterClass
@@ -149,10 +129,6 @@ ___
 #### Inherited from
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[FilterClass](ue_ue.EnvQueryTest_Pathfinding.md#filterclass)
-
-#### Defined in
-
-[ue/ue.d.ts:34565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34565)
 
 ___
 
@@ -164,10 +140,6 @@ ___
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[FilterType](ue_ue.EnvQueryTest_Pathfinding.md#filtertype)
 
-#### Defined in
-
-[ue/ue.d.ts:15549](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15549)
-
 ___
 
 ### FloatValueMax
@@ -177,10 +149,6 @@ ___
 #### Inherited from
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[FloatValueMax](ue_ue.EnvQueryTest_Pathfinding.md#floatvaluemax)
-
-#### Defined in
-
-[ue/ue.d.ts:15552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15552)
 
 ___
 
@@ -192,10 +160,6 @@ ___
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[FloatValueMin](ue_ue.EnvQueryTest_Pathfinding.md#floatvaluemin)
 
-#### Defined in
-
-[ue/ue.d.ts:15551](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15551)
-
 ___
 
 ### MultipleContextFilterOp
@@ -205,10 +169,6 @@ ___
 #### Inherited from
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[MultipleContextFilterOp](ue_ue.EnvQueryTest_Pathfinding.md#multiplecontextfilterop)
-
-#### Defined in
-
-[ue/ue.d.ts:15547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15547)
 
 ___
 
@@ -220,10 +180,6 @@ ___
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[MultipleContextScoreOp](ue_ue.EnvQueryTest_Pathfinding.md#multiplecontextscoreop)
 
-#### Defined in
-
-[ue/ue.d.ts:15548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15548)
-
 ___
 
 ### NormalizationType
@@ -233,10 +189,6 @@ ___
 #### Inherited from
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[NormalizationType](ue_ue.EnvQueryTest_Pathfinding.md#normalizationtype)
-
-#### Defined in
-
-[ue/ue.d.ts:15556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15556)
 
 ___
 
@@ -248,10 +200,6 @@ ___
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[PathFromContext](ue_ue.EnvQueryTest_Pathfinding.md#pathfromcontext)
 
-#### Defined in
-
-[ue/ue.d.ts:34563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34563)
-
 ___
 
 ### ReferenceValue
@@ -262,19 +210,11 @@ ___
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[ReferenceValue](ue_ue.EnvQueryTest_Pathfinding.md#referencevalue)
 
-#### Defined in
-
-[ue/ue.d.ts:15560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15560)
-
 ___
 
 ### ScanRangeMultiplier
 
 • **ScanRangeMultiplier**: [`AIDataProviderFloatValue`](ue_ue.AIDataProviderFloatValue.md)
-
-#### Defined in
-
-[ue/ue.d.ts:34575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34575)
 
 ___
 
@@ -286,10 +226,6 @@ ___
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[ScoreClampMax](ue_ue.EnvQueryTest_Pathfinding.md#scoreclampmax)
 
-#### Defined in
-
-[ue/ue.d.ts:15558](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15558)
-
 ___
 
 ### ScoreClampMin
@@ -299,10 +235,6 @@ ___
 #### Inherited from
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[ScoreClampMin](ue_ue.EnvQueryTest_Pathfinding.md#scoreclampmin)
-
-#### Defined in
-
-[ue/ue.d.ts:15557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15557)
 
 ___
 
@@ -314,10 +246,6 @@ ___
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[ScoringEquation](ue_ue.EnvQueryTest_Pathfinding.md#scoringequation)
 
-#### Defined in
-
-[ue/ue.d.ts:15553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15553)
-
 ___
 
 ### ScoringFactor
@@ -327,10 +255,6 @@ ___
 #### Inherited from
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[ScoringFactor](ue_ue.EnvQueryTest_Pathfinding.md#scoringfactor)
-
-#### Defined in
-
-[ue/ue.d.ts:15559](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15559)
 
 ___
 
@@ -342,10 +266,6 @@ ___
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[SkipUnreachable](ue_ue.EnvQueryTest_Pathfinding.md#skipunreachable)
 
-#### Defined in
-
-[ue/ue.d.ts:34564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34564)
-
 ___
 
 ### TestComment
@@ -355,10 +275,6 @@ ___
 #### Inherited from
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[TestComment](ue_ue.EnvQueryTest_Pathfinding.md#testcomment)
-
-#### Defined in
-
-[ue/ue.d.ts:15546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15546)
 
 ___
 
@@ -370,10 +286,6 @@ ___
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[TestMode](ue_ue.EnvQueryTest_Pathfinding.md#testmode)
 
-#### Defined in
-
-[ue/ue.d.ts:34561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34561)
-
 ___
 
 ### TestOrder
@@ -383,10 +295,6 @@ ___
 #### Inherited from
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[TestOrder](ue_ue.EnvQueryTest_Pathfinding.md#testorder)
-
-#### Defined in
-
-[ue/ue.d.ts:15544](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15544)
 
 ___
 
@@ -398,10 +306,6 @@ ___
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[TestPurpose](ue_ue.EnvQueryTest_Pathfinding.md#testpurpose)
 
-#### Defined in
-
-[ue/ue.d.ts:15545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15545)
-
 ___
 
 ### VerNum
@@ -411,10 +315,6 @@ ___
 #### Inherited from
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[VerNum](ue_ue.EnvQueryTest_Pathfinding.md#vernum)
-
-#### Defined in
-
-[ue/ue.d.ts:15465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15465)
 
 ___
 
@@ -426,19 +326,11 @@ ___
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[__tid_EnvQueryNode__](ue_ue.EnvQueryTest_Pathfinding.md#__tid_envquerynode__)
 
-#### Defined in
-
-[ue/ue.d.ts:15470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15470)
-
 ___
 
 ### \_\_tid\_EnvQueryTest\_PathfindingBatch\_\_
 
 • **\_\_tid\_EnvQueryTest\_PathfindingBatch\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:34580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34580)
 
 ___
 
@@ -450,10 +342,6 @@ ___
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[__tid_EnvQueryTest_Pathfinding__](ue_ue.EnvQueryTest_Pathfinding.md#__tid_envquerytest_pathfinding__)
 
-#### Defined in
-
-[ue/ue.d.ts:34570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34570)
-
 ___
 
 ### \_\_tid\_EnvQueryTest\_\_
@@ -463,10 +351,6 @@ ___
 #### Inherited from
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[__tid_EnvQueryTest__](ue_ue.EnvQueryTest_Pathfinding.md#__tid_envquerytest__)
-
-#### Defined in
-
-[ue/ue.d.ts:15567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15567)
 
 ___
 
@@ -478,10 +362,6 @@ ___
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[__tid_Object__](ue_ue.EnvQueryTest_Pathfinding.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bDefineReferenceValue
@@ -492,10 +372,6 @@ ___
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[bDefineReferenceValue](ue_ue.EnvQueryTest_Pathfinding.md#bdefinereferencevalue)
 
-#### Defined in
-
-[ue/ue.d.ts:15561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15561)
-
 ___
 
 ### bWorkOnFloatValues
@@ -505,10 +381,6 @@ ___
 #### Inherited from
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[bWorkOnFloatValues](ue_ue.EnvQueryTest_Pathfinding.md#bworkonfloatvalues)
-
-#### Defined in
-
-[ue/ue.d.ts:15562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15562)
 
 ## Methods
 
@@ -534,10 +406,6 @@ ___
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[CreateDefaultSubobject](ue_ue.EnvQueryTest_Pathfinding.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -558,10 +426,6 @@ ___
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[ExecuteUbergraph](ue_ue.EnvQueryTest_Pathfinding.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -575,10 +439,6 @@ ___
 #### Inherited from
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[GetClass](ue_ue.EnvQueryTest_Pathfinding.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -594,10 +454,6 @@ ___
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[GetName](ue_ue.EnvQueryTest_Pathfinding.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -612,10 +468,6 @@ ___
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[GetOuter](ue_ue.EnvQueryTest_Pathfinding.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -629,10 +481,6 @@ ___
 #### Inherited from
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[GetWorld](ue_ue.EnvQueryTest_Pathfinding.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -655,10 +503,6 @@ ___
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[Find](ue_ue.EnvQueryTest_Pathfinding.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:34577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34577)
-
 ___
 
 ### Load
@@ -679,10 +523,6 @@ ___
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[Load](ue_ue.EnvQueryTest_Pathfinding.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:34578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34578)
-
 ___
 
 ### StaticClass
@@ -696,7 +536,3 @@ ___
 #### Overrides
 
 [EnvQueryTest_Pathfinding](ue_ue.EnvQueryTest_Pathfinding.md).[StaticClass](ue_ue.EnvQueryTest_Pathfinding.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:34576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34576)

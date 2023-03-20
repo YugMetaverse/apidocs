@@ -70,10 +70,6 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[constructor](ue_ue.BlueprintFunctionLibrary.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:50864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50864)
-
 ## Properties
 
 ### \_\_tid\_BlueprintFunctionLibrary\_\_
@@ -84,19 +80,11 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_BlueprintFunctionLibrary__](ue_ue.BlueprintFunctionLibrary.md#__tid_blueprintfunctionlibrary__)
 
-#### Defined in
-
-[ue/ue.d.ts:13418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13418)
-
 ___
 
 ### \_\_tid\_MotionTrackedDeviceFunctionLibrary\_\_
 
 • **\_\_tid\_MotionTrackedDeviceFunctionLibrary\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50887)
 
 ___
 
@@ -107,10 +95,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_Object__](ue_ue.BlueprintFunctionLibrary.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -136,10 +120,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[CreateDefaultSubobject](ue_ue.BlueprintFunctionLibrary.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -160,10 +140,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[ExecuteUbergraph](ue_ue.BlueprintFunctionLibrary.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -177,10 +153,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetClass](ue_ue.BlueprintFunctionLibrary.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -196,10 +168,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetName](ue_ue.BlueprintFunctionLibrary.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -214,10 +182,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetOuter](ue_ue.BlueprintFunctionLibrary.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -231,10 +195,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetWorld](ue_ue.BlueprintFunctionLibrary.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -252,10 +212,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:50865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50865)
-
 ___
 
 ### DisableMotionTrackingOfAllControllers
@@ -265,10 +221,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:50866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50866)
 
 ___
 
@@ -285,10 +237,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:50867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50867)
 
 ___
 
@@ -307,10 +255,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:50868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50868)
-
 ___
 
 ### DisableMotionTrackingOfSource
@@ -328,10 +272,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:50869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50869)
-
 ___
 
 ### EnableMotionTrackingForComponent
@@ -347,10 +287,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50870)
 
 ___
 
@@ -369,10 +305,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:50871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50871)
-
 ___
 
 ### EnableMotionTrackingOfSource
@@ -390,10 +322,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:50872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50872)
-
 ___
 
 ### EnumerateMotionSources
@@ -403,10 +331,6 @@ ___
 #### Returns
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:50873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50873)
 
 ___
 
@@ -429,10 +353,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Find](ue_ue.BlueprintFunctionLibrary.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:50884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50884)
-
 ___
 
 ### GetActiveTrackingSystemName
@@ -442,10 +362,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:50874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50874)
 
 ___
 
@@ -457,10 +373,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:50875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50875)
-
 ___
 
 ### GetMotionTrackingEnabledControllerCount
@@ -470,10 +382,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:50876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50876)
 
 ___
 
@@ -492,10 +400,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:50877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50877)
-
 ___
 
 ### IsMotionTrackedDeviceCountManagementNecessary
@@ -505,10 +409,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50878)
 
 ___
 
@@ -525,10 +425,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50879)
 
 ___
 
@@ -547,10 +443,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:50880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50880)
-
 ___
 
 ### IsMotionTrackingEnabledForSource
@@ -567,10 +459,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50881)
 
 ___
 
@@ -592,10 +480,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Load](ue_ue.BlueprintFunctionLibrary.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:50885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50885)
-
 ___
 
 ### SetIsControllerMotionTrackingEnabledByDefault
@@ -612,10 +496,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:50882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50882)
-
 ___
 
 ### StaticClass
@@ -629,7 +509,3 @@ ___
 #### Overrides
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[StaticClass](ue_ue.BlueprintFunctionLibrary.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:50883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50883)

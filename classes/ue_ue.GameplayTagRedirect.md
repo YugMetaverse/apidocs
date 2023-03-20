@@ -27,10 +27,6 @@
 
 • **new GameplayTagRedirect**()
 
-#### Defined in
-
-[ue/ue.d.ts:37175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37175)
-
 • **new GameplayTagRedirect**(`OldTagName`, `NewTagName`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `OldTagName` | `string` |
 | `NewTagName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:37176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37176)
-
 ## Properties
 
 ### NewTagName
 
 • **NewTagName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:37178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37178)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **OldTagName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:37177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37177)
-
 ___
 
 ### \_\_tid\_GameplayTagRedirect\_\_
 
 • `Private` **\_\_tid\_GameplayTagRedirect\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:37184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37184)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:37182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37182)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:37183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37183)

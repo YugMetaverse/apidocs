@@ -39,10 +39,6 @@
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[constructor](ue_ue.AnimNode_Base.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:19701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19701)
-
 • **new AnimNode_StateMachine**(`StateMachineIndexInClass`, `MaxTransitionsPerFrame`, `bSkipFirstUpdateTransition`, `bReinitializeOnBecomingRelevant`)
 
 #### Parameters
@@ -58,19 +54,11 @@
 
 UE.AnimNode\_Base.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:19702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19702)
-
 ## Properties
 
 ### MaxTransitionsPerFrame
 
 • **MaxTransitionsPerFrame**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19704)
 
 ___
 
@@ -78,19 +66,11 @@ ___
 
 • **StateMachineIndexInClass**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19703)
-
 ___
 
 ### \_\_tid\_AnimNode\_StateMachine\_\_
 
 • `Private` **\_\_tid\_AnimNode\_StateMachine\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:19712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19712)
 
 ___
 
@@ -98,19 +78,11 @@ ___
 
 • **bReinitializeOnBecomingRelevant**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:19706](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19706)
-
 ___
 
 ### bSkipFirstUpdateTransition
 
 • **bSkipFirstUpdateTransition**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:19705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19705)
 
 ## Methods
 
@@ -130,10 +102,6 @@ use StaticStruct instead.
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticClass](ue_ue.AnimNode_Base.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:19710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19710)
-
 ___
 
 ### StaticStruct
@@ -147,7 +115,3 @@ ___
 #### Overrides
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticStruct](ue_ue.AnimNode_Base.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:19711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19711)

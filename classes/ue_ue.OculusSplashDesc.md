@@ -32,10 +32,6 @@
 
 • **new OculusSplashDesc**()
 
-#### Defined in
-
-[ue/ue.d.ts:53786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53786)
-
 • **new OculusSplashDesc**(`TexturePath`, `TransformInMeters`, `QuadSizeInMeters`, `DeltaRotation`, `TextureOffset`, `TextureScale`, `bNoAlphaChannel`)
 
 #### Parameters
@@ -50,19 +46,11 @@
 | `TextureScale` | [`Vector2D`](ue_ue_s.Vector2D.md) |
 | `bNoAlphaChannel` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:53787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53787)
-
 ## Properties
 
 ### DeltaRotation
 
 • **DeltaRotation**: [`Quat`](ue_ue_s.Quat.md)
-
-#### Defined in
-
-[ue/ue.d.ts:53791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53791)
 
 ___
 
@@ -70,19 +58,11 @@ ___
 
 • **QuadSizeInMeters**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:53790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53790)
-
 ___
 
 ### TextureOffset
 
 • **TextureOffset**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:53792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53792)
 
 ___
 
@@ -90,19 +70,11 @@ ___
 
 • **TexturePath**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:53788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53788)
-
 ___
 
 ### TextureScale
 
 • **TextureScale**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:53793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53793)
 
 ___
 
@@ -110,29 +82,17 @@ ___
 
 • **TransformInMeters**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:53789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53789)
-
 ___
 
 ### \_\_tid\_OculusSplashDesc\_\_
 
 • `Private` **\_\_tid\_OculusSplashDesc\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:53800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53800)
-
 ___
 
 ### bNoAlphaChannel
 
 • **bNoAlphaChannel**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:53794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53794)
 
 ## Methods
 
@@ -148,10 +108,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:53798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53798)
-
 ___
 
 ### StaticStruct
@@ -161,7 +117,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:53799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53799)

@@ -27,10 +27,6 @@
 
 • **new SpectatorReservation**()
 
-#### Defined in
-
-[ue/ue.d.ts:61781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61781)
-
 • **new SpectatorReservation**(`SpectatorId`, `Spectator`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `SpectatorId` | [`UniqueNetIdRepl`](ue_ue.UniqueNetIdRepl.md) |
 | `Spectator` | [`PlayerReservation`](ue_ue.PlayerReservation.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:61782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61782)
-
 ## Properties
 
 ### Spectator
 
 • **Spectator**: [`PlayerReservation`](ue_ue.PlayerReservation.md)
-
-#### Defined in
-
-[ue/ue.d.ts:61784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61784)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **SpectatorId**: [`UniqueNetIdRepl`](ue_ue.UniqueNetIdRepl.md)
 
-#### Defined in
-
-[ue/ue.d.ts:61783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61783)
-
 ___
 
 ### \_\_tid\_SpectatorReservation\_\_
 
 • `Private` **\_\_tid\_SpectatorReservation\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:61790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61790)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:61788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61788)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:61789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61789)

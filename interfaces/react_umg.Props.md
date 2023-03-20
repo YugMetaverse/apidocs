@@ -21,7 +21,3 @@
 ### Slot
 
 • `Optional` **Slot**: [`PanelSlot`](react_umg.PanelSlot.md)
-
-#### Defined in
-
-[react-umg/index.d.ts:129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L129)

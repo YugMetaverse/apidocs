@@ -55,10 +55,6 @@
 
 [NavigationQueryFilter](ue_ue.NavigationQueryFilter.md).[constructor](ue_ue.NavigationQueryFilter.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:52966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52966)
-
 ## Properties
 
 ### Areas
@@ -68,10 +64,6 @@
 #### Inherited from
 
 [NavigationQueryFilter](ue_ue.NavigationQueryFilter.md).[Areas](ue_ue.NavigationQueryFilter.md#areas)
-
-#### Defined in
-
-[ue/ue.d.ts:52955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52955)
 
 ___
 
@@ -83,10 +75,6 @@ ___
 
 [NavigationQueryFilter](ue_ue.NavigationQueryFilter.md).[ExcludeFlags](ue_ue.NavigationQueryFilter.md#excludeflags)
 
-#### Defined in
-
-[ue/ue.d.ts:52957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52957)
-
 ___
 
 ### IncludeFlags
@@ -97,19 +85,11 @@ ___
 
 [NavigationQueryFilter](ue_ue.NavigationQueryFilter.md).[IncludeFlags](ue_ue.NavigationQueryFilter.md#includeflags)
 
-#### Defined in
-
-[ue/ue.d.ts:52956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52956)
-
 ___
 
 ### \_\_tid\_NavFilter\_AIControllerDefault\_\_
 
 • **\_\_tid\_NavFilter\_AIControllerDefault\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52971)
 
 ___
 
@@ -121,10 +101,6 @@ ___
 
 [NavigationQueryFilter](ue_ue.NavigationQueryFilter.md).[__tid_NavigationQueryFilter__](ue_ue.NavigationQueryFilter.md#__tid_navigationqueryfilter__)
 
-#### Defined in
-
-[ue/ue.d.ts:52962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52962)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -134,10 +110,6 @@ ___
 #### Inherited from
 
 [NavigationQueryFilter](ue_ue.NavigationQueryFilter.md).[__tid_Object__](ue_ue.NavigationQueryFilter.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -163,10 +135,6 @@ ___
 
 [NavigationQueryFilter](ue_ue.NavigationQueryFilter.md).[CreateDefaultSubobject](ue_ue.NavigationQueryFilter.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -187,10 +155,6 @@ ___
 
 [NavigationQueryFilter](ue_ue.NavigationQueryFilter.md).[ExecuteUbergraph](ue_ue.NavigationQueryFilter.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -204,10 +168,6 @@ ___
 #### Inherited from
 
 [NavigationQueryFilter](ue_ue.NavigationQueryFilter.md).[GetClass](ue_ue.NavigationQueryFilter.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -223,10 +183,6 @@ ___
 
 [NavigationQueryFilter](ue_ue.NavigationQueryFilter.md).[GetName](ue_ue.NavigationQueryFilter.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -241,10 +197,6 @@ ___
 
 [NavigationQueryFilter](ue_ue.NavigationQueryFilter.md).[GetOuter](ue_ue.NavigationQueryFilter.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -258,10 +210,6 @@ ___
 #### Inherited from
 
 [NavigationQueryFilter](ue_ue.NavigationQueryFilter.md).[GetWorld](ue_ue.NavigationQueryFilter.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -284,10 +232,6 @@ ___
 
 [NavigationQueryFilter](ue_ue.NavigationQueryFilter.md).[Find](ue_ue.NavigationQueryFilter.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:52968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52968)
-
 ___
 
 ### Load
@@ -308,10 +252,6 @@ ___
 
 [NavigationQueryFilter](ue_ue.NavigationQueryFilter.md).[Load](ue_ue.NavigationQueryFilter.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:52969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52969)
-
 ___
 
 ### StaticClass
@@ -325,7 +265,3 @@ ___
 #### Overrides
 
 [NavigationQueryFilter](ue_ue.NavigationQueryFilter.md).[StaticClass](ue_ue.NavigationQueryFilter.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:52967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52967)

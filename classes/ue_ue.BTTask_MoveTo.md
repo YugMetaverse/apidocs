@@ -74,19 +74,11 @@
 
 [BTTask_BlackboardBase](ue_ue.BTTask_BlackboardBase.md).[constructor](ue_ue.BTTask_BlackboardBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:25298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25298)
-
 ## Properties
 
 ### AcceptableRadius
 
 • **AcceptableRadius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:25299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25299)
 
 ___
 
@@ -98,19 +90,11 @@ ___
 
 [BTTask_BlackboardBase](ue_ue.BTTask_BlackboardBase.md).[BlackboardKey](ue_ue.BTTask_BlackboardBase.md#blackboardkey)
 
-#### Defined in
-
-[ue/ue.d.ts:25222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25222)
-
 ___
 
 ### FilterClass
 
 • **FilterClass**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25300)
 
 ___
 
@@ -122,19 +106,11 @@ ___
 
 [BTTask_BlackboardBase](ue_ue.BTTask_BlackboardBase.md).[NodeName](ue_ue.BTTask_BlackboardBase.md#nodename)
 
-#### Defined in
-
-[ue/ue.d.ts:14567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14567)
-
 ___
 
 ### ObservedBlackboardValueTolerance
 
 • **ObservedBlackboardValueTolerance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:25301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25301)
 
 ___
 
@@ -146,10 +122,6 @@ ___
 
 [BTTask_BlackboardBase](ue_ue.BTTask_BlackboardBase.md).[ParentNode](ue_ue.BTTask_BlackboardBase.md#parentnode)
 
-#### Defined in
-
-[ue/ue.d.ts:14569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14569)
-
 ___
 
 ### Services
@@ -159,10 +131,6 @@ ___
 #### Inherited from
 
 [BTTask_BlackboardBase](ue_ue.BTTask_BlackboardBase.md).[Services](ue_ue.BTTask_BlackboardBase.md#services)
-
-#### Defined in
-
-[ue/ue.d.ts:14601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14601)
 
 ___
 
@@ -174,10 +142,6 @@ ___
 
 [BTTask_BlackboardBase](ue_ue.BTTask_BlackboardBase.md).[TreeAsset](ue_ue.BTTask_BlackboardBase.md#treeasset)
 
-#### Defined in
-
-[ue/ue.d.ts:14568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14568)
-
 ___
 
 ### \_\_tid\_BTNode\_\_
@@ -187,10 +151,6 @@ ___
 #### Inherited from
 
 [BTTask_BlackboardBase](ue_ue.BTTask_BlackboardBase.md).[__tid_BTNode__](ue_ue.BTTask_BlackboardBase.md#__tid_btnode__)
-
-#### Defined in
-
-[ue/ue.d.ts:14574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14574)
 
 ___
 
@@ -202,10 +162,6 @@ ___
 
 [BTTask_BlackboardBase](ue_ue.BTTask_BlackboardBase.md).[__tid_BTTaskNode__](ue_ue.BTTask_BlackboardBase.md#__tid_bttasknode__)
 
-#### Defined in
-
-[ue/ue.d.ts:14607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14607)
-
 ___
 
 ### \_\_tid\_BTTask\_BlackboardBase\_\_
@@ -216,19 +172,11 @@ ___
 
 [BTTask_BlackboardBase](ue_ue.BTTask_BlackboardBase.md).[__tid_BTTask_BlackboardBase__](ue_ue.BTTask_BlackboardBase.md#__tid_bttask_blackboardbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:25227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25227)
-
 ___
 
 ### \_\_tid\_BTTask\_MoveTo\_\_
 
 • **\_\_tid\_BTTask\_MoveTo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:25315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25315)
 
 ___
 
@@ -240,29 +188,17 @@ ___
 
 [BTTask_BlackboardBase](ue_ue.BTTask_BlackboardBase.md).[__tid_Object__](ue_ue.BTTask_BlackboardBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bAllowPartialPath
 
 • **bAllowPartialPath**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:25304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25304)
-
 ___
 
 ### bAllowStrafe
 
 • **bAllowStrafe**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:25303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25303)
 
 ___
 
@@ -274,19 +210,11 @@ ___
 
 [BTTask_BlackboardBase](ue_ue.BTTask_BlackboardBase.md).[bIgnoreRestartSelf](ue_ue.BTTask_BlackboardBase.md#bignorerestartself)
 
-#### Defined in
-
-[ue/ue.d.ts:14602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14602)
-
 ___
 
 ### bObserveBlackboardValue
 
 • **bObserveBlackboardValue**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:25302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25302)
 
 ___
 
@@ -294,19 +222,11 @@ ___
 
 • **bProjectGoalLocation**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:25306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25306)
-
 ___
 
 ### bReachTestIncludesAgentRadius
 
 • **bReachTestIncludesAgentRadius**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:25307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25307)
 
 ___
 
@@ -314,19 +234,11 @@ ___
 
 • **bReachTestIncludesGoalRadius**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:25308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25308)
-
 ___
 
 ### bStopOnOverlap
 
 • **bStopOnOverlap**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:25309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25309)
 
 ___
 
@@ -334,19 +246,11 @@ ___
 
 • **bStopOnOverlapNeedsUpdate**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:25310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25310)
-
 ___
 
 ### bTrackMovingGoal
 
 • **bTrackMovingGoal**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:25305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25305)
 
 ## Methods
 
@@ -372,10 +276,6 @@ ___
 
 [BTTask_BlackboardBase](ue_ue.BTTask_BlackboardBase.md).[CreateDefaultSubobject](ue_ue.BTTask_BlackboardBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -396,10 +296,6 @@ ___
 
 [BTTask_BlackboardBase](ue_ue.BTTask_BlackboardBase.md).[ExecuteUbergraph](ue_ue.BTTask_BlackboardBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -413,10 +309,6 @@ ___
 #### Inherited from
 
 [BTTask_BlackboardBase](ue_ue.BTTask_BlackboardBase.md).[GetClass](ue_ue.BTTask_BlackboardBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -432,10 +324,6 @@ ___
 
 [BTTask_BlackboardBase](ue_ue.BTTask_BlackboardBase.md).[GetName](ue_ue.BTTask_BlackboardBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -450,10 +338,6 @@ ___
 
 [BTTask_BlackboardBase](ue_ue.BTTask_BlackboardBase.md).[GetOuter](ue_ue.BTTask_BlackboardBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -467,10 +351,6 @@ ___
 #### Inherited from
 
 [BTTask_BlackboardBase](ue_ue.BTTask_BlackboardBase.md).[GetWorld](ue_ue.BTTask_BlackboardBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -493,10 +373,6 @@ ___
 
 [BTTask_BlackboardBase](ue_ue.BTTask_BlackboardBase.md).[Find](ue_ue.BTTask_BlackboardBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:25312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25312)
-
 ___
 
 ### Load
@@ -517,10 +393,6 @@ ___
 
 [BTTask_BlackboardBase](ue_ue.BTTask_BlackboardBase.md).[Load](ue_ue.BTTask_BlackboardBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:25313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25313)
-
 ___
 
 ### StaticClass
@@ -534,7 +406,3 @@ ___
 #### Overrides
 
 [BTTask_BlackboardBase](ue_ue.BTTask_BlackboardBase.md).[StaticClass](ue_ue.BTTask_BlackboardBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:25311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25311)

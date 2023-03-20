@@ -21,19 +21,11 @@
 
 • **AverageScore** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15487)
-
 ___
 
 ### EEnvTestScoreOperator\_MAX
 
 • **EEnvTestScoreOperator\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15487)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **MaxScore** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15487)
-
 ___
 
 ### MinScore
 
 • **MinScore** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15487)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Multiply** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15487)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15487)

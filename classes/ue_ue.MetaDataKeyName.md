@@ -26,10 +26,6 @@
 
 • **new MetaDataKeyName**()
 
-#### Defined in
-
-[ue/ue.d.ts:46064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46064)
-
 • **new MetaDataKeyName**(`Name`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Name` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:46065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46065)
-
 ## Properties
 
 ### Name
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:46066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46066)
-
 ___
 
 ### \_\_tid\_MetaDataKeyName\_\_
 
 • `Private` **\_\_tid\_MetaDataKeyName\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46072)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46070)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46071)

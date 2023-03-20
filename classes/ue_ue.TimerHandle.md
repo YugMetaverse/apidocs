@@ -26,10 +26,6 @@
 
 • **new TimerHandle**()
 
-#### Defined in
-
-[ue/ue.d.ts:43236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43236)
-
 • **new TimerHandle**(`Handle`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Handle` | `bigint` |
 
-#### Defined in
-
-[ue/ue.d.ts:43237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43237)
-
 ## Properties
 
 ### Handle
 
 • **Handle**: `bigint`
 
-#### Defined in
-
-[ue/ue.d.ts:43238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43238)
-
 ___
 
 ### \_\_tid\_TimerHandle\_\_
 
 • `Private` **\_\_tid\_TimerHandle\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43244)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43242)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43243)

@@ -20,19 +20,11 @@
 
 • **EMobileCSMQuality\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34059)
-
 ___
 
 ### NoFiltering
 
 • **NoFiltering** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34059)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **PCF\_1x1** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34059)
-
 ___
 
 ### PCF\_2x2
 
 • **PCF\_2x2** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34059)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34059)

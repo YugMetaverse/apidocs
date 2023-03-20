@@ -21,19 +21,11 @@
 
 • **Accept** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34857)
-
 ___
 
 ### Back
 
 • **Back** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34857)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **EUINavigationAction\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34857)
-
 ___
 
 ### Invalid
 
 • **Invalid** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34857)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Num** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34857)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34857)

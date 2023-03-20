@@ -28,10 +28,6 @@
 
 • **new AnchorData**()
 
-#### Defined in
-
-[ue/ue.d.ts:26132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26132)
-
 • **new AnchorData**(`Offsets`, `Anchors`, `Alignment`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Anchors` | [`Anchors`](ue_ue.Anchors.md) |
 | `Alignment` | [`Vector2D`](ue_ue_s.Vector2D.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:26133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26133)
-
 ## Properties
 
 ### Alignment
 
 • **Alignment**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26136)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Anchors**: [`Anchors`](ue_ue.Anchors.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26135)
-
 ___
 
 ### Offsets
 
 • **Offsets**: [`Margin`](ue_ue.Margin.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26134)
-
 ___
 
 ### \_\_tid\_AnchorData\_\_
 
 • `Private` **\_\_tid\_AnchorData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26142)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26140)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26141)

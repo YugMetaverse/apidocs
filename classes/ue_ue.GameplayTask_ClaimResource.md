@@ -60,10 +60,6 @@
 
 [GameplayTask](ue_ue.GameplayTask.md).[constructor](ue_ue.GameplayTask.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:37222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37222)
-
 ## Properties
 
 ### ChildTask
@@ -73,10 +69,6 @@
 #### Inherited from
 
 [GameplayTask](ue_ue.GameplayTask.md).[ChildTask](ue_ue.GameplayTask.md#childtask)
-
-#### Defined in
-
-[ue/ue.d.ts:14889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14889)
 
 ___
 
@@ -88,10 +80,6 @@ ___
 
 [GameplayTask](ue_ue.GameplayTask.md).[InstanceName](ue_ue.GameplayTask.md#instancename)
 
-#### Defined in
-
-[ue/ue.d.ts:14887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14887)
-
 ___
 
 ### ResourceOverlapPolicy
@@ -102,19 +90,11 @@ ___
 
 [GameplayTask](ue_ue.GameplayTask.md).[ResourceOverlapPolicy](ue_ue.GameplayTask.md#resourceoverlappolicy)
 
-#### Defined in
-
-[ue/ue.d.ts:14888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14888)
-
 ___
 
 ### \_\_tid\_GameplayTask\_ClaimResource\_\_
 
 • **\_\_tid\_GameplayTask\_ClaimResource\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:37229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37229)
 
 ___
 
@@ -126,10 +106,6 @@ ___
 
 [GameplayTask](ue_ue.GameplayTask.md).[__tid_GameplayTask__](ue_ue.GameplayTask.md#__tid_gameplaytask__)
 
-#### Defined in
-
-[ue/ue.d.ts:14897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14897)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -139,10 +115,6 @@ ___
 #### Inherited from
 
 [GameplayTask](ue_ue.GameplayTask.md).[__tid_Object__](ue_ue.GameplayTask.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -168,10 +140,6 @@ ___
 
 [GameplayTask](ue_ue.GameplayTask.md).[CreateDefaultSubobject](ue_ue.GameplayTask.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### EndTask
@@ -185,10 +153,6 @@ ___
 #### Inherited from
 
 [GameplayTask](ue_ue.GameplayTask.md).[EndTask](ue_ue.GameplayTask.md#endtask)
-
-#### Defined in
-
-[ue/ue.d.ts:14890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14890)
 
 ___
 
@@ -210,10 +174,6 @@ ___
 
 [GameplayTask](ue_ue.GameplayTask.md).[ExecuteUbergraph](ue_ue.GameplayTask.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GenericGameplayTaskDelegate\_\_DelegateSignature
@@ -227,10 +187,6 @@ ___
 #### Inherited from
 
 [GameplayTask](ue_ue.GameplayTask.md).[GenericGameplayTaskDelegate__DelegateSignature](ue_ue.GameplayTask.md#genericgameplaytaskdelegate__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:14891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14891)
 
 ___
 
@@ -246,10 +202,6 @@ ___
 
 [GameplayTask](ue_ue.GameplayTask.md).[GetClass](ue_ue.GameplayTask.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetName
@@ -263,10 +215,6 @@ ___
 #### Inherited from
 
 [GameplayTask](ue_ue.GameplayTask.md).[GetName](ue_ue.GameplayTask.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -282,10 +230,6 @@ ___
 
 [GameplayTask](ue_ue.GameplayTask.md).[GetOuter](ue_ue.GameplayTask.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -300,10 +244,6 @@ ___
 
 [GameplayTask](ue_ue.GameplayTask.md).[GetWorld](ue_ue.GameplayTask.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### ReadyForActivation
@@ -317,10 +257,6 @@ ___
 #### Inherited from
 
 [GameplayTask](ue_ue.GameplayTask.md).[ReadyForActivation](ue_ue.GameplayTask.md#readyforactivation)
-
-#### Defined in
-
-[ue/ue.d.ts:14892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14892)
 
 ___
 
@@ -341,10 +277,6 @@ ___
 
 [`GameplayTask_ClaimResource`](ue_ue.GameplayTask_ClaimResource.md)
 
-#### Defined in
-
-[ue/ue.d.ts:37223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37223)
-
 ___
 
 ### ClaimResources
@@ -363,10 +295,6 @@ ___
 #### Returns
 
 [`GameplayTask_ClaimResource`](ue_ue.GameplayTask_ClaimResource.md)
-
-#### Defined in
-
-[ue/ue.d.ts:37224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37224)
 
 ___
 
@@ -389,10 +317,6 @@ ___
 
 [GameplayTask](ue_ue.GameplayTask.md).[Find](ue_ue.GameplayTask.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:37226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37226)
-
 ___
 
 ### Load
@@ -413,10 +337,6 @@ ___
 
 [GameplayTask](ue_ue.GameplayTask.md).[Load](ue_ue.GameplayTask.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:37227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37227)
-
 ___
 
 ### StaticClass
@@ -430,7 +350,3 @@ ___
 #### Overrides
 
 [GameplayTask](ue_ue.GameplayTask.md).[StaticClass](ue_ue.GameplayTask.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:37225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37225)

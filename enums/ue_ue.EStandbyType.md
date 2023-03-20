@@ -20,19 +20,11 @@
 
 • **STDBY\_BadPing** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34799)
-
 ___
 
 ### STDBY\_MAX
 
 • **STDBY\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34799)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **STDBY\_Rx** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34799)
-
 ___
 
 ### STDBY\_Tx
 
 • **STDBY\_Tx** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34799)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34799)

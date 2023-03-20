@@ -59,10 +59,6 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[constructor](ue_ue.BlueprintFunctionLibrary.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:33571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33571)
-
 ## Properties
 
 ### \_\_tid\_BlueprintFunctionLibrary\_\_
@@ -73,19 +69,11 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_BlueprintFunctionLibrary__](ue_ue.BlueprintFunctionLibrary.md#__tid_blueprintfunctionlibrary__)
 
-#### Defined in
-
-[ue/ue.d.ts:13418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13418)
-
 ___
 
 ### \_\_tid\_EditorUtilityLibrary\_\_
 
 • **\_\_tid\_EditorUtilityLibrary\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33583](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33583)
 
 ___
 
@@ -96,10 +84,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_Object__](ue_ue.BlueprintFunctionLibrary.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -125,10 +109,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[CreateDefaultSubobject](ue_ue.BlueprintFunctionLibrary.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -149,10 +129,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[ExecuteUbergraph](ue_ue.BlueprintFunctionLibrary.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetActorReference
@@ -169,10 +145,6 @@ ___
 
 [`Actor`](ue_ue.Actor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33572)
-
 ___
 
 ### GetClass
@@ -186,10 +158,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetClass](ue_ue.BlueprintFunctionLibrary.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -205,10 +173,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetName](ue_ue.BlueprintFunctionLibrary.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -223,10 +187,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetOuter](ue_ue.BlueprintFunctionLibrary.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -240,10 +200,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetWorld](ue_ue.BlueprintFunctionLibrary.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -266,10 +222,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Find](ue_ue.BlueprintFunctionLibrary.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:33580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33580)
-
 ___
 
 ### GetSelectedAssetData
@@ -279,10 +231,6 @@ ___
 #### Returns
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AssetData`](ue_ue.AssetData.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:33573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33573)
 
 ___
 
@@ -294,10 +242,6 @@ ___
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Object`](ue_ue.Object.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:33574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33574)
-
 ___
 
 ### GetSelectedBlueprintClasses
@@ -307,10 +251,6 @@ ___
 #### Returns
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Class`](ue_ue.Class.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:33575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33575)
 
 ___
 
@@ -330,10 +270,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:33576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33576)
-
 ___
 
 ### GetSelectionSet
@@ -343,10 +279,6 @@ ___
 #### Returns
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Actor`](ue_ue.Actor.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:33577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33577)
 
 ___
 
@@ -368,10 +300,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Load](ue_ue.BlueprintFunctionLibrary.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:33581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33581)
-
 ___
 
 ### RenameAsset
@@ -389,10 +317,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:33578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33578)
-
 ___
 
 ### StaticClass
@@ -406,7 +330,3 @@ ___
 #### Overrides
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[StaticClass](ue_ue.BlueprintFunctionLibrary.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:33579](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33579)

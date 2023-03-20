@@ -30,19 +30,11 @@
 
 • **MSM\_ClearCoat** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1247)
-
 ___
 
 ### MSM\_Cloth
 
 • **MSM\_Cloth** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1247)
 
 ___
 
@@ -50,19 +42,11 @@ ___
 
 • **MSM\_DefaultLit** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1247)
-
 ___
 
 ### MSM\_Eye
 
 • **MSM\_Eye** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1247)
 
 ___
 
@@ -70,19 +54,11 @@ ___
 
 • **MSM\_FromMaterialExpression** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1247)
-
 ___
 
 ### MSM\_Hair
 
 • **MSM\_Hair** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1247)
 
 ___
 
@@ -90,19 +66,11 @@ ___
 
 • **MSM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1247)
-
 ___
 
 ### MSM\_NUM
 
 • **MSM\_NUM** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1247)
 
 ___
 
@@ -110,19 +78,11 @@ ___
 
 • **MSM\_PreintegratedSkin** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1247)
-
 ___
 
 ### MSM\_SingleLayerWater
 
 • **MSM\_SingleLayerWater** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1247)
 
 ___
 
@@ -130,19 +90,11 @@ ___
 
 • **MSM\_Subsurface** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1247)
-
 ___
 
 ### MSM\_SubsurfaceProfile
 
 • **MSM\_SubsurfaceProfile** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1247)
 
 ___
 
@@ -150,26 +102,14 @@ ___
 
 • **MSM\_TwoSidedFoliage** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1247)
-
 ___
 
 ### MSM\_Unlit
 
 • **MSM\_Unlit** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1247)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1247)

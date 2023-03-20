@@ -24,19 +24,11 @@
 
 • **BLEND\_Additive** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1244)
-
 ___
 
 ### BLEND\_AlphaComposite
 
 • **BLEND\_AlphaComposite** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1244)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **BLEND\_AlphaHoldout** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1244)
-
 ___
 
 ### BLEND\_MAX
 
 • **BLEND\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1244)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **BLEND\_Masked** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1244)
-
 ___
 
 ### BLEND\_Modulate
 
 • **BLEND\_Modulate** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1244)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **BLEND\_Opaque** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1244)
-
 ___
 
 ### BLEND\_Translucent
 
 • **BLEND\_Translucent** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1244)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1244)

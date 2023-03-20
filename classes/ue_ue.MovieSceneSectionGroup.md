@@ -26,10 +26,6 @@
 
 • **new MovieSceneSectionGroup**()
 
-#### Defined in
-
-[ue/ue.d.ts:11821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11821)
-
 • **new MovieSceneSectionGroup**(`Sections`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Sections` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`MovieSceneSection`](ue_ue.MovieSceneSection.md)\>\> |
 
-#### Defined in
-
-[ue/ue.d.ts:11822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11822)
-
 ## Properties
 
 ### Sections
 
 • **Sections**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`MovieSceneSection`](ue_ue.MovieSceneSection.md)\>\>
 
-#### Defined in
-
-[ue/ue.d.ts:11823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11823)
-
 ___
 
 ### \_\_tid\_MovieSceneSectionGroup\_\_
 
 • `Private` **\_\_tid\_MovieSceneSectionGroup\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11829)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11827)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11828)

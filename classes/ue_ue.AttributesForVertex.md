@@ -27,10 +27,6 @@
 
 • **new AttributesForVertex**()
 
-#### Defined in
-
-[ue/ue.d.ts:31670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31670)
-
 • **new AttributesForVertex**(`VertexID`, `VertexAttributes`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `VertexID` | [`VertexID`](ue_ue.VertexID.md) |
 | `VertexAttributes` | [`MeshElementAttributeList`](ue_ue.MeshElementAttributeList.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:31671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31671)
-
 ## Properties
 
 ### VertexAttributes
 
 • **VertexAttributes**: [`MeshElementAttributeList`](ue_ue.MeshElementAttributeList.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31673)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **VertexID**: [`VertexID`](ue_ue.VertexID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31672)
-
 ___
 
 ### \_\_tid\_AttributesForVertex\_\_
 
 • `Private` **\_\_tid\_AttributesForVertex\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31679)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31677)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31678)

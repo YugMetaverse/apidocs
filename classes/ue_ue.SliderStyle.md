@@ -42,10 +42,6 @@
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[constructor](ue_ue.SlateWidgetStyle.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:61010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61010)
-
 • **new SliderStyle**(`NormalBarImage`, `HoveredBarImage`, `DisabledBarImage`, `NormalThumbImage`, `HoveredThumbImage`, `DisabledThumbImage`, `BarThickness`)
 
 #### Parameters
@@ -64,19 +60,11 @@
 
 UE.SlateWidgetStyle.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:61011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61011)
-
 ## Properties
 
 ### BarThickness
 
 • **BarThickness**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:61018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61018)
 
 ___
 
@@ -84,19 +72,11 @@ ___
 
 • **DisabledBarImage**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:61014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61014)
-
 ___
 
 ### DisabledThumbImage
 
 • **DisabledThumbImage**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:61017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61017)
 
 ___
 
@@ -104,19 +84,11 @@ ___
 
 • **HoveredBarImage**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:61013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61013)
-
 ___
 
 ### HoveredThumbImage
 
 • **HoveredThumbImage**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:61016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61016)
 
 ___
 
@@ -124,29 +96,17 @@ ___
 
 • **NormalBarImage**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:61012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61012)
-
 ___
 
 ### NormalThumbImage
 
 • **NormalThumbImage**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:61015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61015)
-
 ___
 
 ### \_\_tid\_SliderStyle\_\_
 
 • `Private` **\_\_tid\_SliderStyle\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:61024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61024)
 
 ## Methods
 
@@ -166,10 +126,6 @@ use StaticStruct instead.
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[StaticClass](ue_ue.SlateWidgetStyle.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:61022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61022)
-
 ___
 
 ### StaticStruct
@@ -183,7 +139,3 @@ ___
 #### Overrides
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[StaticStruct](ue_ue.SlateWidgetStyle.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:61023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61023)

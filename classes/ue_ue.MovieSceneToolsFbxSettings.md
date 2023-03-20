@@ -27,10 +27,6 @@
 
 • **new MovieSceneToolsFbxSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:52389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52389)
-
 • **new MovieSceneToolsFbxSettings**(`FbxPropertyName`, `PropertyPath`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `FbxPropertyName` | `string` |
 | `PropertyPath` | [`MovieSceneToolsPropertyTrackSettings`](ue_ue.MovieSceneToolsPropertyTrackSettings.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:52390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52390)
-
 ## Properties
 
 ### FbxPropertyName
 
 • **FbxPropertyName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:52391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52391)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **PropertyPath**: [`MovieSceneToolsPropertyTrackSettings`](ue_ue.MovieSceneToolsPropertyTrackSettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:52392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52392)
-
 ___
 
 ### \_\_tid\_MovieSceneToolsFbxSettings\_\_
 
 • `Private` **\_\_tid\_MovieSceneToolsFbxSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52398)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:52396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52396)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:52397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52397)

@@ -28,19 +28,11 @@
 
 • **Ceiling** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20857)
-
 ___
 
 ### EARObjectClassification\_MAX
 
 • **EARObjectClassification\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20857)
 
 ___
 
@@ -48,19 +40,11 @@ ___
 
 • **Face** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20857)
-
 ___
 
 ### Floor
 
 • **Floor** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20857)
 
 ___
 
@@ -68,19 +52,11 @@ ___
 
 • **Image** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20857)
-
 ___
 
 ### NotApplicable
 
 • **NotApplicable** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20857)
 
 ___
 
@@ -88,19 +64,11 @@ ___
 
 • **SceneObject** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20857)
-
 ___
 
 ### Seat
 
 • **Seat** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20857)
 
 ___
 
@@ -108,19 +76,11 @@ ___
 
 • **Table** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20857)
-
 ___
 
 ### Unknown
 
 • **Unknown** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20857)
 
 ___
 
@@ -128,26 +88,14 @@ ___
 
 • **Wall** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20857)
-
 ___
 
 ### World
 
 • **World** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20857)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20857)

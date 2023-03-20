@@ -33,10 +33,6 @@
 
 • **new CameraFocusSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:27287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27287)
-
 • **new CameraFocusSettings**(`FocusMethod`, `ManualFocusDistance`, `TrackingFocusSettings`, `bDrawDebugFocusPlane`, `DebugFocusPlaneColor`, `bSmoothFocusChanges`, `FocusSmoothingInterpSpeed`, `FocusOffset`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `FocusSmoothingInterpSpeed` | `number` |
 | `FocusOffset` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:27288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27288)
-
 ## Properties
 
 ### DebugFocusPlaneColor
 
 • **DebugFocusPlaneColor**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27293)
 
 ___
 
@@ -72,19 +60,11 @@ ___
 
 • **FocusMethod**: [`ECameraFocusMethod`](../enums/ue_ue.ECameraFocusMethod.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27289)
-
 ___
 
 ### FocusOffset
 
 • **FocusOffset**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27296)
 
 ___
 
@@ -92,19 +72,11 @@ ___
 
 • **FocusSmoothingInterpSpeed**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27295)
-
 ___
 
 ### ManualFocusDistance
 
 • **ManualFocusDistance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27290)
 
 ___
 
@@ -112,19 +84,11 @@ ___
 
 • **TrackingFocusSettings**: [`CameraTrackingFocusSettings`](ue_ue.CameraTrackingFocusSettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27291)
-
 ___
 
 ### \_\_tid\_CameraFocusSettings\_\_
 
 • `Private` **\_\_tid\_CameraFocusSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27302)
 
 ___
 
@@ -132,19 +96,11 @@ ___
 
 • **bDrawDebugFocusPlane**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:27292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27292)
-
 ___
 
 ### bSmoothFocusChanges
 
 • **bSmoothFocusChanges**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27294)
 
 ## Methods
 
@@ -160,10 +116,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27300)
-
 ___
 
 ### StaticStruct
@@ -173,7 +125,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27301)

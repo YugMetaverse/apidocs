@@ -25,19 +25,11 @@
 
 • **new SectionEvaluationDataTree**()
 
-#### Defined in
-
-[ue/ue.d.ts:11122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11122)
-
 ## Properties
 
 ### \_\_tid\_SectionEvaluationDataTree\_\_
 
 • `Private` **\_\_tid\_SectionEvaluationDataTree\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11128)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11126)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11127)

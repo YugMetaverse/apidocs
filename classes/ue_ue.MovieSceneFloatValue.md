@@ -29,10 +29,6 @@
 
 • **new MovieSceneFloatValue**()
 
-#### Defined in
-
-[ue/ue.d.ts:35679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35679)
-
 • **new MovieSceneFloatValue**(`Value`, `InterpMode`, `TangentMode`, `Tangent`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `TangentMode` | [`ERichCurveTangentMode`](../enums/ue_ue.ERichCurveTangentMode.md) |
 | `Tangent` | [`MovieSceneTangentData`](ue_ue.MovieSceneTangentData.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:35680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35680)
-
 ## Properties
 
 ### InterpMode
 
 • **InterpMode**: [`ERichCurveInterpMode`](../enums/ue_ue.ERichCurveInterpMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35682)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **Tangent**: [`MovieSceneTangentData`](ue_ue.MovieSceneTangentData.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35684)
-
 ___
 
 ### TangentMode
 
 • **TangentMode**: [`ERichCurveTangentMode`](../enums/ue_ue.ERichCurveTangentMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35683)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **Value**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35681)
-
 ___
 
 ### \_\_tid\_MovieSceneFloatValue\_\_
 
 • `Private` **\_\_tid\_MovieSceneFloatValue\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35690)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35688)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35689)

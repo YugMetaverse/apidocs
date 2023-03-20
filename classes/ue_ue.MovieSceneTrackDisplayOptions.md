@@ -26,10 +26,6 @@
 
 • **new MovieSceneTrackDisplayOptions**()
 
-#### Defined in
-
-[ue/ue.d.ts:11095](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11095)
-
 • **new MovieSceneTrackDisplayOptions**(`bShowVerticalFrames`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `bShowVerticalFrames` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:11096](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11096)
-
 ## Properties
 
 ### \_\_tid\_MovieSceneTrackDisplayOptions\_\_
 
 • `Private` **\_\_tid\_MovieSceneTrackDisplayOptions\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:11103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11103)
-
 ___
 
 ### bShowVerticalFrames
 
 • **bShowVerticalFrames**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11097](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11097)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11101)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11102)

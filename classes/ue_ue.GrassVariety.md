@@ -43,10 +43,6 @@
 
 • **new GrassVariety**()
 
-#### Defined in
-
-[ue/ue.d.ts:44488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44488)
-
 • **new GrassVariety**(`GrassMesh`, `GrassDensity`, `bUseGrid`, `PlacementJitter`, `StartCullDistance`, `EndCullDistance`, `MinLOD`, `Scaling`, `ScaleX`, `ScaleY`, `ScaleZ`, `RandomRotation`, `AlignToSurface`, `bUseLandscapeLightmap`, `LightingChannels`, `bReceivesDecals`, `bCastDynamicShadow`, `bKeepInstanceBufferCPUCopy`)
 
 #### Parameters
@@ -72,19 +68,11 @@
 | `bCastDynamicShadow` | `boolean` |
 | `bKeepInstanceBufferCPUCopy` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:44489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44489)
-
 ## Properties
 
 ### AlignToSurface
 
 • **AlignToSurface**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44502)
 
 ___
 
@@ -92,19 +80,11 @@ ___
 
 • **EndCullDistance**: [`PerPlatformInt`](ue_ue.PerPlatformInt.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44495)
-
 ___
 
 ### GrassDensity
 
 • **GrassDensity**: [`PerPlatformFloat`](ue_ue.PerPlatformFloat.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44491)
 
 ___
 
@@ -112,19 +92,11 @@ ___
 
 • **GrassMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44490)
-
 ___
 
 ### LightingChannels
 
 • **LightingChannels**: [`LightingChannels`](ue_ue.LightingChannels.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44504)
 
 ___
 
@@ -132,19 +104,11 @@ ___
 
 • **MinLOD**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44496)
-
 ___
 
 ### PlacementJitter
 
 • **PlacementJitter**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44493)
 
 ___
 
@@ -152,19 +116,11 @@ ___
 
 • **RandomRotation**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44501)
-
 ___
 
 ### ScaleX
 
 • **ScaleX**: [`FloatInterval`](ue_ue.FloatInterval.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44498)
 
 ___
 
@@ -172,19 +128,11 @@ ___
 
 • **ScaleY**: [`FloatInterval`](ue_ue.FloatInterval.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44499)
-
 ___
 
 ### ScaleZ
 
 • **ScaleZ**: [`FloatInterval`](ue_ue.FloatInterval.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44500)
 
 ___
 
@@ -192,19 +140,11 @@ ___
 
 • **Scaling**: [`EGrassScaling`](../enums/ue_ue.EGrassScaling.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44497)
-
 ___
 
 ### StartCullDistance
 
 • **StartCullDistance**: [`PerPlatformInt`](ue_ue.PerPlatformInt.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44494)
 
 ___
 
@@ -212,19 +152,11 @@ ___
 
 • `Private` **\_\_tid\_GrassVariety\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44513)
-
 ___
 
 ### bCastDynamicShadow
 
 • **bCastDynamicShadow**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44506)
 
 ___
 
@@ -232,19 +164,11 @@ ___
 
 • **bKeepInstanceBufferCPUCopy**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44507)
-
 ___
 
 ### bReceivesDecals
 
 • **bReceivesDecals**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44505)
 
 ___
 
@@ -252,19 +176,11 @@ ___
 
 • **bUseGrid**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44492)
-
 ___
 
 ### bUseLandscapeLightmap
 
 • **bUseLandscapeLightmap**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44503)
 
 ## Methods
 
@@ -280,10 +196,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44511)
-
 ___
 
 ### StaticStruct
@@ -293,7 +205,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44512)

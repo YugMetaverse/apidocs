@@ -27,10 +27,6 @@
 
 • **new AIPredictionEvent**()
 
-#### Defined in
-
-[ue/ue.d.ts:15862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15862)
-
 • **new AIPredictionEvent**(`Requestor`, `PredictedActor`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Requestor` | [`Actor`](ue_ue.Actor.md) |
 | `PredictedActor` | [`Actor`](ue_ue.Actor.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:15863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15863)
-
 ## Properties
 
 ### PredictedActor
 
 • **PredictedActor**: [`Actor`](ue_ue.Actor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15865)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Requestor**: [`Actor`](ue_ue.Actor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15864)
-
 ___
 
 ### \_\_tid\_AIPredictionEvent\_\_
 
 • `Private` **\_\_tid\_AIPredictionEvent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15871)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15869)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15870)

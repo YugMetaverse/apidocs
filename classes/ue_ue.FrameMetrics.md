@@ -29,10 +29,6 @@
 
 • **new FrameMetrics**()
 
-#### Defined in
-
-[ue/ue.d.ts:64815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64815)
-
 • **new FrameMetrics**(`TotalElapsedTime`, `FrameDelta`, `FrameNumber`, `NumDroppedFrames`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `FrameNumber` | `number` |
 | `NumDroppedFrames` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:64816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64816)
-
 ## Properties
 
 ### FrameDelta
 
 • **FrameDelta**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:64818](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64818)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **FrameNumber**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:64819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64819)
-
 ___
 
 ### NumDroppedFrames
 
 • **NumDroppedFrames**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:64820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64820)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **TotalElapsedTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:64817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64817)
-
 ___
 
 ### \_\_tid\_FrameMetrics\_\_
 
 • `Private` **\_\_tid\_FrameMetrics\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64826)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64824)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:64825](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64825)

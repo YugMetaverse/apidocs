@@ -28,10 +28,6 @@
 
 • **new BlueprintComponentChangedPropertyInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:4090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4090)
-
 • **new BlueprintComponentChangedPropertyInfo**(`PropertyName`, `ArrayIndex`, `PropertyScope`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `ArrayIndex` | `number` |
 | `PropertyScope` | [`Struct`](ue_ue.Struct.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:4091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4091)
-
 ## Properties
 
 ### ArrayIndex
 
 • **ArrayIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4093](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4093)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **PropertyName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:4092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4092)
-
 ___
 
 ### PropertyScope
 
 • **PropertyScope**: [`Struct`](ue_ue.Struct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4094](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4094)
-
 ___
 
 ### \_\_tid\_BlueprintComponentChangedPropertyInfo\_\_
 
 • `Private` **\_\_tid\_BlueprintComponentChangedPropertyInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4100](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4100)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4098)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4099](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4099)

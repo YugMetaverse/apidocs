@@ -28,10 +28,6 @@
 
 • **new ClothVertBoneData**()
 
-#### Defined in
-
-[ue/ue.d.ts:27640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27640)
-
 • **new ClothVertBoneData**(`NumInfluences`, `BoneIndices`, `BoneWeights`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `BoneIndices` | [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<`number`\> |
 | `BoneWeights` | [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<`number`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:27641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27641)
-
 ## Properties
 
 ### BoneIndices
 
 • **BoneIndices**: [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:27643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27643)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **BoneWeights**: [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:27644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27644)
-
 ___
 
 ### NumInfluences
 
 • **NumInfluences**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27642)
-
 ___
 
 ### \_\_tid\_ClothVertBoneData\_\_
 
 • `Private` **\_\_tid\_ClothVertBoneData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27650)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27648)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27649)

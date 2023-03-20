@@ -47,10 +47,6 @@
 
 [MovementProperties](ue_ue.MovementProperties.md).[constructor](ue_ue.MovementProperties.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:5450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5450)
-
 • **new NavAgentProperties**(`AgentRadius`, `AgentHeight`, `AgentStepHeight`, `NavWalkingSearchHeightScale`, `PreferredNavData`)
 
 #### Parameters
@@ -67,19 +63,11 @@
 
 [MovementProperties](ue_ue.MovementProperties.md).[constructor](ue_ue.MovementProperties.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:5451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5451)
-
 ## Properties
 
 ### AgentHeight
 
 • **AgentHeight**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5453)
 
 ___
 
@@ -87,19 +75,11 @@ ___
 
 • **AgentRadius**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5452)
-
 ___
 
 ### AgentStepHeight
 
 • **AgentStepHeight**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5454)
 
 ___
 
@@ -107,29 +87,17 @@ ___
 
 • **NavWalkingSearchHeightScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5455)
-
 ___
 
 ### PreferredNavData
 
 • **PreferredNavData**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5456](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5456)
-
 ___
 
 ### \_\_tid\_NavAgentProperties\_\_
 
 • `Private` **\_\_tid\_NavAgentProperties\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5462](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5462)
 
 ___
 
@@ -141,10 +109,6 @@ ___
 
 [MovementProperties](ue_ue.MovementProperties.md).[bCanCrouch](ue_ue.MovementProperties.md#bcancrouch)
 
-#### Defined in
-
-[ue/ue.d.ts:5436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5436)
-
 ___
 
 ### bCanFly
@@ -154,10 +118,6 @@ ___
 #### Inherited from
 
 [MovementProperties](ue_ue.MovementProperties.md).[bCanFly](ue_ue.MovementProperties.md#bcanfly)
-
-#### Defined in
-
-[ue/ue.d.ts:5440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5440)
 
 ___
 
@@ -169,10 +129,6 @@ ___
 
 [MovementProperties](ue_ue.MovementProperties.md).[bCanJump](ue_ue.MovementProperties.md#bcanjump)
 
-#### Defined in
-
-[ue/ue.d.ts:5437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5437)
-
 ___
 
 ### bCanSwim
@@ -183,10 +139,6 @@ ___
 
 [MovementProperties](ue_ue.MovementProperties.md).[bCanSwim](ue_ue.MovementProperties.md#bcanswim)
 
-#### Defined in
-
-[ue/ue.d.ts:5439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5439)
-
 ___
 
 ### bCanWalk
@@ -196,10 +148,6 @@ ___
 #### Inherited from
 
 [MovementProperties](ue_ue.MovementProperties.md).[bCanWalk](ue_ue.MovementProperties.md#bcanwalk)
-
-#### Defined in
-
-[ue/ue.d.ts:5438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5438)
 
 ## Methods
 
@@ -219,10 +167,6 @@ use StaticStruct instead.
 
 [MovementProperties](ue_ue.MovementProperties.md).[StaticClass](ue_ue.MovementProperties.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:5460](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5460)
-
 ___
 
 ### StaticStruct
@@ -236,7 +180,3 @@ ___
 #### Overrides
 
 [MovementProperties](ue_ue.MovementProperties.md).[StaticStruct](ue_ue.MovementProperties.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:5461](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5461)

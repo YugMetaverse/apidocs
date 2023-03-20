@@ -20,19 +20,11 @@
 
 • **ELuminARTrackingState\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33982)
-
 ___
 
 ### NotTracking
 
 • **NotTracking** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33982)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **StoppedTracking** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33982)
-
 ___
 
 ### Tracking
 
 • **Tracking** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33982)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33982)

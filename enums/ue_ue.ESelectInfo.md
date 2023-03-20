@@ -21,19 +21,11 @@
 
 • **Direct** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28302)
-
 ___
 
 ### ESelectInfo\_MAX
 
 • **ESelectInfo\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:28302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28302)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **OnKeyPress** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28302)
-
 ___
 
 ### OnMouseClick
 
 • **OnMouseClick** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:28302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28302)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **OnNavigation** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28302)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:28302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28302)

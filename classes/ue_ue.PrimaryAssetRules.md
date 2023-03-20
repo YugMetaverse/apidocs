@@ -29,10 +29,6 @@
 
 • **new PrimaryAssetRules**()
 
-#### Defined in
-
-[ue/ue.d.ts:21629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21629)
-
 • **new PrimaryAssetRules**(`Priority`, `ChunkId`, `bApplyRecursively`, `CookRule`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `bApplyRecursively` | `boolean` |
 | `CookRule` | [`EPrimaryAssetCookRule`](../enums/ue_ue.EPrimaryAssetCookRule.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:21630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21630)
-
 ## Properties
 
 ### ChunkId
 
 • **ChunkId**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21632)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **CookRule**: [`EPrimaryAssetCookRule`](../enums/ue_ue.EPrimaryAssetCookRule.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21634)
-
 ___
 
 ### Priority
 
 • **Priority**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21631](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21631)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • `Private` **\_\_tid\_PrimaryAssetRules\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:21640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21640)
-
 ___
 
 ### bApplyRecursively
 
 • **bApplyRecursively**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21633)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21638)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21639)

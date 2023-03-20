@@ -72,10 +72,6 @@
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[constructor](ue_ue.ParticleModuleKillBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:55666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55666)
-
 ## Properties
 
 ### LODDuplicate
@@ -85,10 +81,6 @@
 #### Inherited from
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[LODDuplicate](ue_ue.ParticleModuleKillBase.md#lodduplicate)
-
-#### Defined in
-
-[ue/ue.d.ts:6745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6745)
 
 ___
 
@@ -100,19 +92,11 @@ ___
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[LODValidity](ue_ue.ParticleModuleKillBase.md#lodvalidity)
 
-#### Defined in
-
-[ue/ue.d.ts:6748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6748)
-
 ___
 
 ### LowerLeftCorner
 
 • **LowerLeftCorner**: [`RawDistributionVector`](ue_ue.RawDistributionVector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:55667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55667)
 
 ___
 
@@ -124,19 +108,11 @@ ___
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[ModuleEditorColor](ue_ue.ParticleModuleKillBase.md#moduleeditorcolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6749)
-
 ___
 
 ### UpperRightCorner
 
 • **UpperRightCorner**: [`RawDistributionVector`](ue_ue.RawDistributionVector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:55668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55668)
 
 ___
 
@@ -148,10 +124,6 @@ ___
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[__tid_Object__](ue_ue.ParticleModuleKillBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ParticleModuleKillBase\_\_
@@ -162,19 +134,11 @@ ___
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[__tid_ParticleModuleKillBase__](ue_ue.ParticleModuleKillBase.md#__tid_particlemodulekillbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:55662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55662)
-
 ___
 
 ### \_\_tid\_ParticleModuleKillBox\_\_
 
 • **\_\_tid\_ParticleModuleKillBox\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55676)
 
 ___
 
@@ -186,10 +150,6 @@ ___
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[__tid_ParticleModule__](ue_ue.ParticleModuleKillBase.md#__tid_particlemodule__)
 
-#### Defined in
-
-[ue/ue.d.ts:6754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6754)
-
 ___
 
 ### b3DDrawMode
@@ -200,29 +160,17 @@ ___
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[b3DDrawMode](ue_ue.ParticleModuleKillBase.md#b3ddrawmode)
 
-#### Defined in
-
-[ue/ue.d.ts:6741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6741)
-
 ___
 
 ### bAbsolute
 
 • **bAbsolute**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:55669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55669)
-
 ___
 
 ### bAxisAlignedAndFixedSize
 
 • **bAxisAlignedAndFixedSize**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55671)
 
 ___
 
@@ -234,10 +182,6 @@ ___
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[bCurvesAsColor](ue_ue.ParticleModuleKillBase.md#bcurvesascolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6740)
-
 ___
 
 ### bEditable
@@ -247,10 +191,6 @@ ___
 #### Inherited from
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[bEditable](ue_ue.ParticleModuleKillBase.md#beditable)
-
-#### Defined in
-
-[ue/ue.d.ts:6744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6744)
 
 ___
 
@@ -262,10 +202,6 @@ ___
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[bEnabled](ue_ue.ParticleModuleKillBase.md#benabled)
 
-#### Defined in
-
-[ue/ue.d.ts:6743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6743)
-
 ___
 
 ### bFinalUpdateModule
@@ -276,19 +212,11 @@ ___
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[bFinalUpdateModule](ue_ue.ParticleModuleKillBase.md#bfinalupdatemodule)
 
-#### Defined in
-
-[ue/ue.d.ts:6738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6738)
-
 ___
 
 ### bKillInside
 
 • **bKillInside**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55670)
 
 ___
 
@@ -300,10 +228,6 @@ ___
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[bRequiresLoopingNotification](ue_ue.ParticleModuleKillBase.md#brequiresloopingnotification)
 
-#### Defined in
-
-[ue/ue.d.ts:6747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6747)
-
 ___
 
 ### bSpawnModule
@@ -313,10 +237,6 @@ ___
 #### Inherited from
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[bSpawnModule](ue_ue.ParticleModuleKillBase.md#bspawnmodule)
-
-#### Defined in
-
-[ue/ue.d.ts:6736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6736)
 
 ___
 
@@ -328,10 +248,6 @@ ___
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[bSupported3DDrawMode](ue_ue.ParticleModuleKillBase.md#bsupported3ddrawmode)
 
-#### Defined in
-
-[ue/ue.d.ts:6742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6742)
-
 ___
 
 ### bSupportsRandomSeed
@@ -341,10 +257,6 @@ ___
 #### Inherited from
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[bSupportsRandomSeed](ue_ue.ParticleModuleKillBase.md#bsupportsrandomseed)
-
-#### Defined in
-
-[ue/ue.d.ts:6746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6746)
 
 ___
 
@@ -356,10 +268,6 @@ ___
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[bUpdateForGPUEmitter](ue_ue.ParticleModuleKillBase.md#bupdateforgpuemitter)
 
-#### Defined in
-
-[ue/ue.d.ts:6739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6739)
-
 ___
 
 ### bUpdateModule
@@ -369,10 +277,6 @@ ___
 #### Inherited from
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[bUpdateModule](ue_ue.ParticleModuleKillBase.md#bupdatemodule)
-
-#### Defined in
-
-[ue/ue.d.ts:6737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6737)
 
 ## Methods
 
@@ -398,10 +302,6 @@ ___
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[CreateDefaultSubobject](ue_ue.ParticleModuleKillBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -422,10 +322,6 @@ ___
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[ExecuteUbergraph](ue_ue.ParticleModuleKillBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -439,10 +335,6 @@ ___
 #### Inherited from
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[GetClass](ue_ue.ParticleModuleKillBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -458,10 +350,6 @@ ___
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[GetName](ue_ue.ParticleModuleKillBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -476,10 +364,6 @@ ___
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[GetOuter](ue_ue.ParticleModuleKillBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -493,10 +377,6 @@ ___
 #### Inherited from
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[GetWorld](ue_ue.ParticleModuleKillBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -519,10 +399,6 @@ ___
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[Find](ue_ue.ParticleModuleKillBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:55673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55673)
-
 ___
 
 ### Load
@@ -543,10 +419,6 @@ ___
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[Load](ue_ue.ParticleModuleKillBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:55674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55674)
-
 ___
 
 ### StaticClass
@@ -560,7 +432,3 @@ ___
 #### Overrides
 
 [ParticleModuleKillBase](ue_ue.ParticleModuleKillBase.md).[StaticClass](ue_ue.ParticleModuleKillBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:55672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55672)

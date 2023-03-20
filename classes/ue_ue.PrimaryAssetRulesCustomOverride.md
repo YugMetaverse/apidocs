@@ -29,10 +29,6 @@
 
 • **new PrimaryAssetRulesCustomOverride**()
 
-#### Defined in
-
-[ue/ue.d.ts:21704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21704)
-
 • **new PrimaryAssetRulesCustomOverride**(`PrimaryAssetType`, `FilterDirectory`, `FilterString`, `Rules`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `FilterString` | `string` |
 | `Rules` | [`PrimaryAssetRules`](ue_ue.PrimaryAssetRules.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:21705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21705)
-
 ## Properties
 
 ### FilterDirectory
 
 • **FilterDirectory**: [`DirectoryPath`](ue_ue.DirectoryPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21707](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21707)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **FilterString**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:21708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21708)
-
 ___
 
 ### PrimaryAssetType
 
 • **PrimaryAssetType**: [`PrimaryAssetType`](ue_ue.PrimaryAssetType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21706](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21706)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **Rules**: [`PrimaryAssetRules`](ue_ue.PrimaryAssetRules.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21709)
-
 ___
 
 ### \_\_tid\_PrimaryAssetRulesCustomOverride\_\_
 
 • `Private` **\_\_tid\_PrimaryAssetRulesCustomOverride\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21715)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21713)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21714)

@@ -31,10 +31,6 @@
 
 • **new ExternalToolDefinition**()
 
-#### Defined in
-
-[ue/ue.d.ts:23141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23141)
-
 • **new ExternalToolDefinition**(`ToolName`, `ExecutablePath`, `CommandLineOptions`, `WorkingDirectory`, `ScriptExtension`, `ScriptDirectory`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `ScriptExtension` | `string` |
 | `ScriptDirectory` | [`DirectoryPath`](ue_ue.DirectoryPath.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:23142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23142)
-
 ## Properties
 
 ### CommandLineOptions
 
 • **CommandLineOptions**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:23145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23145)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **ExecutablePath**: [`FilePath`](ue_ue.FilePath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23144)
-
 ___
 
 ### ScriptDirectory
 
 • **ScriptDirectory**: [`DirectoryPath`](ue_ue.DirectoryPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:23148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23148)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **ScriptExtension**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:23147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23147)
-
 ___
 
 ### ToolName
 
 • **ToolName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:23143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23143)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **WorkingDirectory**: [`DirectoryPath`](ue_ue.DirectoryPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23146)
-
 ___
 
 ### \_\_tid\_ExternalToolDefinition\_\_
 
 • `Private` **\_\_tid\_ExternalToolDefinition\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:23154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23154)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23152)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:23153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23153)

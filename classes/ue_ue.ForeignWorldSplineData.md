@@ -29,10 +29,6 @@
 
 • **new ForeignWorldSplineData**()
 
-#### Defined in
-
-[ue/ue.d.ts:43784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43784)
-
 • **new ForeignWorldSplineData**(`ForeignControlPointDataMap`, `ForeignControlPointData`, `ForeignSplineSegmentDataMap`, `ForeignSplineSegmentData`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `ForeignSplineSegmentDataMap` | [`TMap`](../interfaces/ue_puerts.TMap.md)<[`TLazyObjectPtr`](../modules/ue_puerts.md#tlazyobjectptr)<[`LandscapeSplineSegment`](ue_ue.LandscapeSplineSegment.md)\>, [`ForeignSplineSegmentData`](ue_ue.ForeignSplineSegmentData.md)\> |
 | `ForeignSplineSegmentData` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ForeignSplineSegmentData`](ue_ue.ForeignSplineSegmentData.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:43785](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43785)
-
 ## Properties
 
 ### ForeignControlPointData
 
 • **ForeignControlPointData**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ForeignControlPointData`](ue_ue.ForeignControlPointData.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:43787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43787)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **ForeignControlPointDataMap**: [`TMap`](../interfaces/ue_puerts.TMap.md)<[`TLazyObjectPtr`](../modules/ue_puerts.md#tlazyobjectptr)<[`LandscapeSplineControlPoint`](ue_ue.LandscapeSplineControlPoint.md)\>, [`ForeignControlPointData`](ue_ue.ForeignControlPointData.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:43786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43786)
-
 ___
 
 ### ForeignSplineSegmentData
 
 • **ForeignSplineSegmentData**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ForeignSplineSegmentData`](ue_ue.ForeignSplineSegmentData.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:43789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43789)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **ForeignSplineSegmentDataMap**: [`TMap`](../interfaces/ue_puerts.TMap.md)<[`TLazyObjectPtr`](../modules/ue_puerts.md#tlazyobjectptr)<[`LandscapeSplineSegment`](ue_ue.LandscapeSplineSegment.md)\>, [`ForeignSplineSegmentData`](ue_ue.ForeignSplineSegmentData.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:43788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43788)
-
 ___
 
 ### \_\_tid\_ForeignWorldSplineData\_\_
 
 • `Private` **\_\_tid\_ForeignWorldSplineData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43795)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43793)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43794)

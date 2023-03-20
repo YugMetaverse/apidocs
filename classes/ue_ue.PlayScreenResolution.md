@@ -31,10 +31,6 @@
 
 • **new PlayScreenResolution**()
 
-#### Defined in
-
-[ue/ue.d.ts:44895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44895)
-
 • **new PlayScreenResolution**(`Description`, `Width`, `Height`, `AspectRatio`, `bCanSwapAspectRatio`, `ProfileName`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `bCanSwapAspectRatio` | `boolean` |
 | `ProfileName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:44896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44896)
-
 ## Properties
 
 ### AspectRatio
 
 • **AspectRatio**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:44900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44900)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **Description**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:44897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44897)
-
 ___
 
 ### Height
 
 • **Height**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44899)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **ProfileName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:44902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44902)
-
 ___
 
 ### Width
 
 • **Width**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44898)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • `Private` **\_\_tid\_PlayScreenResolution\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44908)
-
 ___
 
 ### bCanSwapAspectRatio
 
 • **bCanSwapAspectRatio**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44901)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44906)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44907)

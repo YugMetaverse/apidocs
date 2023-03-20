@@ -29,10 +29,6 @@
 
 • **new PurchaseInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:50673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50673)
-
 • **new PurchaseInfo**(`Identifier`, `DisplayName`, `DisplayDescription`, `DisplayPrice`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `DisplayDescription` | `string` |
 | `DisplayPrice` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:50674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50674)
-
 ## Properties
 
 ### DisplayDescription
 
 • **DisplayDescription**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:50677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50677)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **DisplayName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:50676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50676)
-
 ___
 
 ### DisplayPrice
 
 • **DisplayPrice**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:50678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50678)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **Identifier**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:50675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50675)
-
 ___
 
 ### \_\_tid\_PurchaseInfo\_\_
 
 • `Private` **\_\_tid\_PurchaseInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50684)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:50682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50682)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:50683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50683)

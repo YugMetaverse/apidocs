@@ -42,10 +42,6 @@
 
 • **new SubsurfaceProfileStruct**()
 
-#### Defined in
-
-[ue/ue.d.ts:895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L895)
-
 • **new SubsurfaceProfileStruct**(`SurfaceAlbedo`, `MeanFreePathColor`, `MeanFreePathDistance`, `WorldUnitScale`, `bEnableBurley`, `ScatterRadius`, `SubsurfaceColor`, `FalloffColor`, `BoundaryColorBleed`, `ExtinctionScale`, `NormalScale`, `ScatteringDistribution`, `IOR`, `Roughness0`, `Roughness1`, `LobeMix`, `TransmissionTintColor`)
 
 #### Parameters
@@ -70,19 +66,11 @@
 | `LobeMix` | `number` |
 | `TransmissionTintColor` | [`LinearColor`](ue_ue_s.LinearColor.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L896)
-
 ## Properties
 
 ### BoundaryColorBleed
 
 • **BoundaryColorBleed**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L905)
 
 ___
 
@@ -90,19 +78,11 @@ ___
 
 • **ExtinctionScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L906)
-
 ___
 
 ### FalloffColor
 
 • **FalloffColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L904)
 
 ___
 
@@ -110,19 +90,11 @@ ___
 
 • **IOR**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L909)
-
 ___
 
 ### LobeMix
 
 • **LobeMix**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L912)
 
 ___
 
@@ -130,19 +102,11 @@ ___
 
 • **MeanFreePathColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L898)
-
 ___
 
 ### MeanFreePathDistance
 
 • **MeanFreePathDistance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L899)
 
 ___
 
@@ -150,19 +114,11 @@ ___
 
 • **NormalScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L907)
-
 ___
 
 ### Roughness0
 
 • **Roughness0**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L910)
 
 ___
 
@@ -170,19 +126,11 @@ ___
 
 • **Roughness1**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L911)
-
 ___
 
 ### ScatterRadius
 
 • **ScatterRadius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L902)
 
 ___
 
@@ -190,19 +138,11 @@ ___
 
 • **ScatteringDistribution**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L908)
-
 ___
 
 ### SubsurfaceColor
 
 • **SubsurfaceColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L903)
 
 ___
 
@@ -210,19 +150,11 @@ ___
 
 • **SurfaceAlbedo**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L897)
-
 ___
 
 ### TransmissionTintColor
 
 • **TransmissionTintColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L913)
 
 ___
 
@@ -230,29 +162,17 @@ ___
 
 • **WorldUnitScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L900)
-
 ___
 
 ### \_\_tid\_SubsurfaceProfileStruct\_\_
 
 • `Private` **\_\_tid\_SubsurfaceProfileStruct\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L919)
-
 ___
 
 ### bEnableBurley
 
 • **bEnableBurley**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L901)
 
 ## Methods
 
@@ -268,10 +188,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L917)
-
 ___
 
 ### StaticStruct
@@ -281,7 +197,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L918)

@@ -23,19 +23,11 @@
 
 • **ESlateGesture\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34782)
-
 ___
 
 ### LongPress
 
 • **LongPress** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34782)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **Magnify** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34782)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34782)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **Rotate** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34782)
-
 ___
 
 ### Scroll
 
 • **Scroll** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34782)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **Swipe** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34782)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34782)

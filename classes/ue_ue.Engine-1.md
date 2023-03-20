@@ -288,19 +288,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:32650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32650)
-
 ## Properties
 
 ### AIControllerClassName
 
 • **AIControllerClassName**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32681)
 
 ___
 
@@ -308,19 +300,11 @@ ___
 
 • **ActiveClassRedirects**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ClassRedirect`](ue_ue.ClassRedirect.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:32788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32788)
-
 ___
 
 ### ActiveGameNameRedirects
 
 • **ActiveGameNameRedirects**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`GameNameRedirect`](ue_ue.GameNameRedirect.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:32787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32787)
 
 ___
 
@@ -328,19 +312,11 @@ ___
 
 • **ActivePluginRedirects**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PluginRedirect`](ue_ue.PluginRedirect.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:32789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32789)
-
 ___
 
 ### ActiveStructRedirects
 
 • **ActiveStructRedirects**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`StructRedirect`](ue_ue.StructRedirect.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:32790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32790)
 
 ___
 
@@ -348,19 +324,11 @@ ___
 
 • **AdditionalFontNames**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:32662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32662)
-
 ___
 
 ### AdditionalFonts
 
 • **AdditionalFonts**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Font`](ue_ue.Font.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:32661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32661)
 
 ___
 
@@ -368,19 +336,11 @@ ___
 
 • **ArrowMaterial**: [`Material`](ue_ue.Material.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32760](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32760)
-
 ___
 
 ### ArrowMaterialName
 
 • **ArrowMaterialName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32762)
 
 ___
 
@@ -388,19 +348,11 @@ ___
 
 • **ArrowMaterialYellow**: [`MaterialInstanceDynamic`](ue_ue.MaterialInstanceDynamic.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32761](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32761)
-
 ___
 
 ### AssetManager
 
 • **AssetManager**: [`AssetManager`](ue_ue.AssetManager.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32689)
 
 ___
 
@@ -408,19 +360,11 @@ ___
 
 • **AssetManagerClassName**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32688)
-
 ___
 
 ### AvoidanceManagerClass
 
 • **AvoidanceManagerClass**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32676)
 
 ___
 
@@ -428,19 +372,11 @@ ___
 
 • **AvoidanceManagerClassName**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32675)
-
 ___
 
 ### BSPSelectionHighlightIntensity
 
 • **BSPSelectionHighlightIntensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32876)
 
 ___
 
@@ -448,19 +384,11 @@ ___
 
 • **BlueNoiseTexture**: [`Texture2D`](ue_ue.Texture2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32793)
-
 ___
 
 ### BlueNoiseTextureName
 
 • **BlueNoiseTextureName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32794)
 
 ___
 
@@ -468,19 +396,11 @@ ___
 
 • **BoneWeightMaterial**: [`Material`](ue_ue.Material.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32738)
-
 ___
 
 ### BoneWeightMaterialName
 
 • **BoneWeightMaterialName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32739)
 
 ___
 
@@ -488,19 +408,11 @@ ___
 
 • **C\_AddWire**: [`Color`](ue_ue_s.Color.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32832)
-
 ___
 
 ### C\_BSPCollision
 
 • **C\_BSPCollision**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32839)
 
 ___
 
@@ -508,19 +420,11 @@ ___
 
 • **C\_BrushShape**: [`Color`](ue_ue_s.Color.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32842)
-
 ___
 
 ### C\_BrushWire
 
 • **C\_BrushWire**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32831)
 
 ___
 
@@ -528,19 +432,11 @@ ___
 
 • **C\_NonSolidWire**: [`Color`](ue_ue_s.Color.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32835](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32835)
-
 ___
 
 ### C\_OrthoBackground
 
 • **C\_OrthoBackground**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32840)
 
 ___
 
@@ -548,19 +444,11 @@ ___
 
 • **C\_ScaleBoxHi**: [`Color`](ue_ue_s.Color.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32837)
-
 ___
 
 ### C\_SemiSolidWire
 
 • **C\_SemiSolidWire**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32834)
 
 ___
 
@@ -568,19 +456,11 @@ ___
 
 • **C\_SubtractWire**: [`Color`](ue_ue_s.Color.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32833)
-
 ___
 
 ### C\_Volume
 
 • **C\_Volume**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32841)
 
 ___
 
@@ -588,19 +468,11 @@ ___
 
 • **C\_VolumeCollision**: [`Color`](ue_ue_s.Color.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32838)
-
 ___
 
 ### C\_WireBackground
 
 • **C\_WireBackground**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32836)
 
 ___
 
@@ -608,19 +480,11 @@ ___
 
 • **C\_WorldBox**: [`Color`](ue_ue_s.Color.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32830)
-
 ___
 
 ### CameraRotationThreshold
 
 • **CameraRotationThreshold**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32850)
 
 ___
 
@@ -628,19 +492,11 @@ ___
 
 • **CameraTranslationThreshold**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32851)
-
 ___
 
 ### ClientCycles
 
 • **ClientCycles**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32805](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32805)
 
 ___
 
@@ -648,19 +504,11 @@ ___
 
 • **ClothPaintMaterial**: [`Material`](ue_ue.Material.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32740)
-
 ___
 
 ### ClothPaintMaterialInstance
 
 • **ClothPaintMaterialInstance**: [`MaterialInstanceDynamic`](ue_ue.MaterialInstanceDynamic.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32742)
 
 ___
 
@@ -668,19 +516,11 @@ ___
 
 • **ClothPaintMaterialName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32744)
-
 ___
 
 ### ClothPaintMaterialWireframe
 
 • **ClothPaintMaterialWireframe**: [`Material`](ue_ue.Material.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32741)
 
 ___
 
@@ -688,19 +528,11 @@ ___
 
 • **ClothPaintMaterialWireframeInstance**: [`MaterialInstanceDynamic`](ue_ue.MaterialInstanceDynamic.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32743)
-
 ___
 
 ### ClothPaintMaterialWireframeName
 
 • **ClothPaintMaterialWireframeName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32745)
 
 ___
 
@@ -708,19 +540,11 @@ ___
 
 • **ConsoleClass**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32663)
-
 ___
 
 ### ConsoleClassName
 
 • **ConsoleClassName**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32664)
 
 ___
 
@@ -728,19 +552,11 @@ ___
 
 • **ConstraintLimitMaterial**: [`Material`](ue_ue.Material.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32748)
-
 ___
 
 ### ConstraintLimitMaterialPrismatic
 
 • **ConstraintLimitMaterialPrismatic**: [`MaterialInstanceDynamic`](ue_ue.MaterialInstanceDynamic.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32755)
 
 ___
 
@@ -748,19 +564,11 @@ ___
 
 • **ConstraintLimitMaterialX**: [`MaterialInstanceDynamic`](ue_ue.MaterialInstanceDynamic.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32749)
-
 ___
 
 ### ConstraintLimitMaterialXAxis
 
 • **ConstraintLimitMaterialXAxis**: [`MaterialInstanceDynamic`](ue_ue.MaterialInstanceDynamic.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32750)
 
 ___
 
@@ -768,19 +576,11 @@ ___
 
 • **ConstraintLimitMaterialY**: [`MaterialInstanceDynamic`](ue_ue.MaterialInstanceDynamic.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32751)
-
 ___
 
 ### ConstraintLimitMaterialYAxis
 
 • **ConstraintLimitMaterialYAxis**: [`MaterialInstanceDynamic`](ue_ue.MaterialInstanceDynamic.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32752](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32752)
 
 ___
 
@@ -788,19 +588,11 @@ ___
 
 • **ConstraintLimitMaterialZ**: [`MaterialInstanceDynamic`](ue_ue.MaterialInstanceDynamic.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32753)
-
 ___
 
 ### ConstraintLimitMaterialZAxis
 
 • **ConstraintLimitMaterialZAxis**: [`MaterialInstanceDynamic`](ue_ue.MaterialInstanceDynamic.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32754)
 
 ___
 
@@ -808,19 +600,11 @@ ___
 
 • **CurrentCustomTimeStep**: [`EngineCustomTimeStep`](ue_ue.EngineCustomTimeStep.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32820)
-
 ___
 
 ### CustomTimeStepClassName
 
 • **CustomTimeStepClassName**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32821)
 
 ___
 
@@ -828,19 +612,11 @@ ___
 
 • **CustomTimecodeProvider**: [`TimecodeProvider`](ue_ue.TimecodeProvider.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32823)
-
 ___
 
 ### DebugEditorMaterial
 
 • **DebugEditorMaterial**: [`Material`](ue_ue.Material.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32746)
 
 ___
 
@@ -848,19 +624,11 @@ ___
 
 • **DebugEditorMaterialName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32747)
-
 ___
 
 ### DebugMeshMaterial
 
 • **DebugMeshMaterial**: [`Material`](ue_ue.Material.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32710)
 
 ___
 
@@ -868,19 +636,11 @@ ___
 
 • **DebugMeshMaterialName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32711)
-
 ___
 
 ### DefaultBSPVertexTexture
 
 • **DefaultBSPVertexTexture**: [`Texture2D`](ue_ue.Texture2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32694](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32694)
 
 ___
 
@@ -888,19 +648,11 @@ ___
 
 • **DefaultBSPVertexTextureName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32695)
-
 ___
 
 ### DefaultBloomKernelTexture
 
 • **DefaultBloomKernelTexture**: [`Texture2D`](ue_ue.Texture2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32700)
 
 ___
 
@@ -908,19 +660,11 @@ ___
 
 • **DefaultBloomKernelTextureName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32701)
-
 ___
 
 ### DefaultBlueprintBaseClassName
 
 • **DefaultBlueprintBaseClassName**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32685)
 
 ___
 
@@ -928,19 +672,11 @@ ___
 
 • **DefaultBokehTexture**: [`Texture2D`](ue_ue.Texture2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32698)
-
 ___
 
 ### DefaultBokehTextureName
 
 • **DefaultBokehTextureName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32699](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32699)
 
 ___
 
@@ -948,19 +684,11 @@ ___
 
 • **DefaultCustomTimeStep**: [`EngineCustomTimeStep`](ue_ue.EngineCustomTimeStep.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32819)
-
 ___
 
 ### DefaultDiffuseTexture
 
 • **DefaultDiffuseTexture**: [`Texture`](ue_ue.Texture.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32692](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32692)
 
 ___
 
@@ -968,19 +696,11 @@ ___
 
 • **DefaultDiffuseTextureName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32693)
-
 ___
 
 ### DefaultPhysMaterial
 
 • **DefaultPhysMaterial**: [`PhysicalMaterial`](ue_ue.PhysicalMaterial.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32785](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32785)
 
 ___
 
@@ -988,19 +708,11 @@ ___
 
 • **DefaultPhysMaterialName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32786)
-
 ___
 
 ### DefaultSelectedMaterialColor
 
 • **DefaultSelectedMaterialColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32861)
 
 ___
 
@@ -1008,19 +720,11 @@ ___
 
 • **DefaultTexture**: [`Texture2D`](ue_ue.Texture2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32690)
-
 ___
 
 ### DefaultTextureName
 
 • **DefaultTextureName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32691)
 
 ___
 
@@ -1028,19 +732,11 @@ ___
 
 • **DefaultTimecodeFrameRate**: [`FrameRate`](ue_ue.FrameRate.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32826)
-
 ___
 
 ### DefaultTimecodeProvider
 
 • **DefaultTimecodeProvider**: [`TimecodeProvider`](ue_ue.TimecodeProvider.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32822)
 
 ___
 
@@ -1048,19 +744,11 @@ ___
 
 • **DefaultTimecodeProviderClassName**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32824)
-
 ___
 
 ### DeferredCommands
 
 • **DeferredCommands**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:32802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32802)
 
 ___
 
@@ -1068,19 +756,11 @@ ___
 
 • **DisplayGamma**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32859](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32859)
-
 ___
 
 ### EditorBrushMaterial
 
 • **EditorBrushMaterial**: [`Material`](ue_ue.Material.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32783)
 
 ___
 
@@ -1088,19 +768,11 @@ ___
 
 • **EditorBrushMaterialName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32784)
-
 ___
 
 ### EmissiveMeshMaterial
 
 • **EmissiveMeshMaterial**: [`Material`](ue_ue.Material.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32712)
 
 ___
 
@@ -1108,19 +780,11 @@ ___
 
 • **EmissiveMeshMaterialName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32713)
-
 ___
 
 ### FixedFrameRate
 
 • **FixedFrameRate**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32817)
 
 ___
 
@@ -1128,19 +792,11 @@ ___
 
 • **GameCycles**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32804)
-
 ___
 
 ### GameScreenshotSaveDirectory
 
 • **GameScreenshotSaveDirectory**: [`DirectoryPath`](ue_ue.DirectoryPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32844)
 
 ___
 
@@ -1148,19 +804,11 @@ ___
 
 • **GameSingleton**: [`Object`](ue_ue.Object.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32687)
-
 ___
 
 ### GameSingletonClassName
 
 • **GameSingletonClassName**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32686](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32686)
 
 ___
 
@@ -1168,19 +816,11 @@ ___
 
 • **GameUserSettings**: [`GameUserSettings`](ue_ue.GameUserSettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32682)
-
 ___
 
 ### GameUserSettingsClass
 
 • **GameUserSettingsClass**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32680)
 
 ___
 
@@ -1188,19 +828,11 @@ ___
 
 • **GameUserSettingsClassName**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32679)
-
 ___
 
 ### GameViewport
 
 • **GameViewport**: [`GameViewportClient`](ue_ue.GameViewportClient.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32801)
 
 ___
 
@@ -1208,19 +840,11 @@ ___
 
 • **GameViewportClientClass**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32665)
-
 ___
 
 ### GameViewportClientClassName
 
 • **GameViewportClientClassName**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32666)
 
 ___
 
@@ -1228,19 +852,11 @@ ___
 
 • **GeomMaterial**: [`Material`](ue_ue.Material.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32708)
-
 ___
 
 ### GeomMaterialName
 
 • **GeomMaterialName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32709)
 
 ___
 
@@ -1248,19 +864,11 @@ ___
 
 • **HLODColorationColors**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`LinearColor`](ue_ue_s.LinearColor.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:32769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32769)
-
 ___
 
 ### HairDebugMaterial
 
 • **HairDebugMaterial**: [`Material`](ue_ue.Material.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32706](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32706)
 
 ___
 
@@ -1268,19 +876,11 @@ ___
 
 • **HairDebugMaterialName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:32707](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32707)
-
 ___
 
 ### HairDefaultMaterial
 
 • **HairDefaultMaterial**: [`Material`](ue_ue.Material.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32704)
 
 ___
 
@@ -1288,19 +888,11 @@ ___
 
 • **HairDefaultMaterialName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:32705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32705)
-
 ___
 
 ### HighFrequencyNoiseTexture
 
 • **HighFrequencyNoiseTexture**: [`Texture2D`](ue_ue.Texture2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32696](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32696)
 
 ___
 
@@ -1308,19 +900,11 @@ ___
 
 • **HighFrequencyNoiseTextureName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32697](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32697)
-
 ___
 
 ### IdealLightMapDensity
 
 • **IdealLightMapDensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32775)
 
 ___
 
@@ -1328,19 +912,11 @@ ___
 
 • **InvalidLightmapSettingsMaterial**: [`Material`](ue_ue.Material.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32756)
-
 ___
 
 ### InvalidLightmapSettingsMaterialName
 
 • **InvalidLightmapSettingsMaterialName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32757)
 
 ___
 
@@ -1348,19 +924,11 @@ ___
 
 • **LODColorationColors**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`LinearColor`](ue_ue_s.LinearColor.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:32768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32768)
-
 ___
 
 ### LargeFont
 
 • **LargeFont**: [`Font`](ue_ue.Font.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32657)
 
 ___
 
@@ -1368,19 +936,11 @@ ___
 
 • **LargeFontName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32658)
-
 ___
 
 ### LevelColorationLitMaterial
 
 • **LevelColorationLitMaterial**: [`Material`](ue_ue.Material.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32714)
 
 ___
 
@@ -1388,19 +948,11 @@ ___
 
 • **LevelColorationLitMaterialName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:32715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32715)
-
 ___
 
 ### LevelColorationUnlitMaterial
 
 • **LevelColorationUnlitMaterial**: [`Material`](ue_ue.Material.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32716)
 
 ___
 
@@ -1408,19 +960,11 @@ ___
 
 • **LevelColorationUnlitMaterialName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:32717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32717)
-
 ___
 
 ### LevelScriptActorClass
 
 • **LevelScriptActorClass**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32683)
 
 ___
 
@@ -1428,19 +972,11 @@ ___
 
 • **LevelScriptActorClassName**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32684)
-
 ___
 
 ### LightComplexityColors
 
 • **LightComplexityColors**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`LinearColor`](ue_ue_s.LinearColor.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:32766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32766)
 
 ___
 
@@ -1448,19 +984,11 @@ ___
 
 • **LightMapDensitySelectedColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32781)
-
 ___
 
 ### LightMapDensityTexture
 
 • **LightMapDensityTexture**: [`Texture2D`](ue_ue.Texture2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32799)
 
 ___
 
@@ -1468,19 +996,11 @@ ___
 
 • **LightMapDensityTextureName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32800)
-
 ___
 
 ### LightMapDensityVertexMappedColor
 
 • **LightMapDensityVertexMappedColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32780)
 
 ___
 
@@ -1488,19 +1008,11 @@ ___
 
 • **LightingOnlyBrightness**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32763)
-
 ___
 
 ### LightingTexelDensityMaterial
 
 • **LightingTexelDensityMaterial**: [`Material`](ue_ue.Material.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32718)
 
 ___
 
@@ -1508,19 +1020,11 @@ ___
 
 • **LightingTexelDensityName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:32719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32719)
-
 ___
 
 ### LocalPlayerClass
 
 • **LocalPlayerClass**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32667)
 
 ___
 
@@ -1528,19 +1032,11 @@ ___
 
 • **LocalPlayerClassName**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32668)
-
 ___
 
 ### MaxES2PixelShaderAdditiveComplexityCount
 
 • **MaxES2PixelShaderAdditiveComplexityCount**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32772)
 
 ___
 
@@ -1548,19 +1044,11 @@ ___
 
 • **MaxES3PixelShaderAdditiveComplexityCount**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32773)
-
 ___
 
 ### MaxLightMapDensity
 
 • **MaxLightMapDensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32776](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32776)
 
 ___
 
@@ -1568,19 +1056,11 @@ ___
 
 • **MaxOcclusionPixelsFraction**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32853)
-
 ___
 
 ### MaxParticleResize
 
 • **MaxParticleResize**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32855](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32855)
 
 ___
 
@@ -1588,19 +1068,11 @@ ___
 
 • **MaxParticleResizeWarn**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32856)
-
 ___
 
 ### MaxPixelShaderAdditiveComplexityCount
 
 • **MaxPixelShaderAdditiveComplexityCount**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32771)
 
 ___
 
@@ -1608,19 +1080,11 @@ ___
 
 • **MaximumLoopIterationCount**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32810)
-
 ___
 
 ### MediumFont
 
 • **MediumFont**: [`Font`](ue_ue.Font.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32655)
 
 ___
 
@@ -1628,19 +1092,11 @@ ___
 
 • **MediumFontName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32656)
-
 ___
 
 ### MeshLODRange
 
 • **MeshLODRange**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32848)
 
 ___
 
@@ -1648,19 +1104,11 @@ ___
 
 • **MinDesiredFrameRate**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32860)
-
 ___
 
 ### MinLightMapDensity
 
 • **MinLightMapDensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32774)
 
 ___
 
@@ -1668,19 +1116,11 @@ ___
 
 • **MiniFontTexture**: [`Texture2D`](ue_ue.Texture2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32795)
-
 ___
 
 ### MiniFontTextureName
 
 • **MiniFontTextureName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32796)
 
 ___
 
@@ -1688,19 +1128,11 @@ ___
 
 • **NavigationSystemClass**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32672)
-
 ___
 
 ### NavigationSystemClassName
 
 • **NavigationSystemClassName**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32671)
 
 ___
 
@@ -1708,19 +1140,11 @@ ___
 
 • **NavigationSystemConfigClass**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32674)
-
 ___
 
 ### NavigationSystemConfigClassName
 
 • **NavigationSystemConfigClassName**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32673)
 
 ___
 
@@ -1728,19 +1152,11 @@ ___
 
 • **NearClipPlane**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32806)
-
 ___
 
 ### NetClientTicksPerSecond
 
 • **NetClientTicksPerSecond**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32858)
 
 ___
 
@@ -1748,19 +1164,11 @@ ___
 
 • **NetDriverDefinitions**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`NetDriverDefinition`](ue_ue.NetDriverDefinition.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:32878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32878)
-
 ___
 
 ### NetErrorLogInterval
 
 • **NetErrorLogInterval**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32881)
 
 ___
 
@@ -1768,19 +1176,11 @@ ___
 
 • **NextWorldContextHandle**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32883)
-
 ___
 
 ### NumPawnsAllowedToBeSpawnedInAFrame
 
 • **NumPawnsAllowedToBeSpawnedInAFrame**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32828)
 
 ___
 
@@ -1788,19 +1188,11 @@ ___
 
 • **ParticleEventManagerClassPath**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:32874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32874)
-
 ___
 
 ### PendingDroppedNotes
 
 • **PendingDroppedNotes**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`DropNoteInfo`](ue_ue.DropNoteInfo.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:32857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32857)
 
 ___
 
@@ -1808,19 +1200,11 @@ ___
 
 • **PhysicsCollisionHandlerClass**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32677)
-
 ___
 
 ### PhysicsCollisionHandlerClassName
 
 • **PhysicsCollisionHandlerClassName**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32678)
 
 ___
 
@@ -1828,19 +1212,11 @@ ___
 
 • **PreIntegratedSkinBRDFTexture**: [`Texture2D`](ue_ue.Texture2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32791)
-
 ___
 
 ### PreIntegratedSkinBRDFTextureName
 
 • **PreIntegratedSkinBRDFTextureName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32792)
 
 ___
 
@@ -1848,19 +1224,11 @@ ___
 
 • **PreviewShadowsIndicatorMaterial**: [`Material`](ue_ue.Material.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32758](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32758)
-
 ___
 
 ### PreviewShadowsIndicatorMaterialName
 
 • **PreviewShadowsIndicatorMaterialName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32759)
 
 ___
 
@@ -1868,19 +1236,11 @@ ___
 
 • **PrimitiveProbablyVisibleTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32852)
-
 ___
 
 ### QuadComplexityColors
 
 • **QuadComplexityColors**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`LinearColor`](ue_ue_s.LinearColor.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:32765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32765)
 
 ___
 
@@ -1888,19 +1248,11 @@ ___
 
 • **RemoveSurfaceMaterial**: [`Material`](ue_ue.Material.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32724)
-
 ___
 
 ### RemoveSurfaceMaterialName
 
 • **RemoveSurfaceMaterialName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32725)
 
 ___
 
@@ -1908,19 +1260,11 @@ ___
 
 • **RenderLightMapDensityColorScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32779)
-
 ___
 
 ### RenderLightMapDensityGrayscaleScale
 
 • **RenderLightMapDensityGrayscaleScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32778](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32778)
 
 ___
 
@@ -1928,19 +1272,11 @@ ___
 
 • **RuntimeServerActors**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:32880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32880)
-
 ___
 
 ### ScreenSaverInhibitorSemaphore
 
 • **ScreenSaverInhibitorSemaphore**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32872)
 
 ___
 
@@ -1948,19 +1284,11 @@ ___
 
 • **SelectedMaterialColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32862)
-
 ___
 
 ### SelectedMaterialColorOverride
 
 • **SelectedMaterialColorOverride**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32865)
 
 ___
 
@@ -1968,19 +1296,11 @@ ___
 
 • **SelectionHighlightIntensity**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32875)
-
 ___
 
 ### SelectionHighlightIntensityBillboards
 
 • **SelectionHighlightIntensityBillboards**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32877)
 
 ___
 
@@ -1988,19 +1308,11 @@ ___
 
 • **SelectionOutlineColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32863)
-
 ___
 
 ### ServerActors
 
 • **ServerActors**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:32879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32879)
 
 ___
 
@@ -2008,19 +1320,11 @@ ___
 
 • **ShadedLevelColorationLitMaterial**: [`Material`](ue_ue.Material.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32720)
-
 ___
 
 ### ShadedLevelColorationLitMaterialName
 
 • **ShadedLevelColorationLitMaterialName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:32721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32721)
 
 ___
 
@@ -2028,19 +1332,11 @@ ___
 
 • **ShadedLevelColorationUnlitMaterial**: [`Material`](ue_ue.Material.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32722)
-
 ___
 
 ### ShadedLevelColorationUnlitMaterialName
 
 • **ShadedLevelColorationUnlitMaterialName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:32723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32723)
 
 ___
 
@@ -2048,19 +1344,11 @@ ___
 
 • **ShaderComplexityColors**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`LinearColor`](ue_ue_s.LinearColor.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:32764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32764)
-
 ___
 
 ### SmallFont
 
 • **SmallFont**: [`Font`](ue_ue.Font.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32653)
 
 ___
 
@@ -2068,19 +1356,11 @@ ___
 
 • **SmallFontName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32654)
-
 ___
 
 ### SmoothedFrameRateRange
 
 • **SmoothedFrameRateRange**: [`FloatRange`](ue_ue.FloatRange.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32818](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32818)
 
 ___
 
@@ -2088,19 +1368,11 @@ ___
 
 • **StatColorMappings**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`StatColorMapping`](ue_ue.StatColorMapping.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:32782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32782)
-
 ___
 
 ### StationaryLightOverlapColors
 
 • **StationaryLightOverlapColors**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`LinearColor`](ue_ue_s.LinearColor.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:32767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32767)
 
 ___
 
@@ -2108,19 +1380,11 @@ ___
 
 • **StreamingAccuracyColors**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`LinearColor`](ue_ue_s.LinearColor.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:32770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32770)
-
 ___
 
 ### StreamingDistanceFactor
 
 • **StreamingDistanceFactor**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32843)
 
 ___
 
@@ -2128,19 +1392,11 @@ ___
 
 • **SubduedSelectionOutlineColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32864)
-
 ___
 
 ### SubtitleFont
 
 • **SubtitleFont**: [`Font`](ue_ue.Font.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32659)
 
 ___
 
@@ -2148,19 +1404,11 @@ ___
 
 • **SubtitleFontName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32660)
-
 ___
 
 ### TickCycles
 
 • **TickCycles**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32803)
 
 ___
 
@@ -2168,19 +1416,11 @@ ___
 
 • **TimecodeProviderClassName**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32825](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32825)
-
 ___
 
 ### TinyFont
 
 • **TinyFont**: [`Font`](ue_ue.Font.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32651)
 
 ___
 
@@ -2188,19 +1428,11 @@ ___
 
 • **TinyFontName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32652)
-
 ___
 
 ### TransitionDescription
 
 • **TransitionDescription**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:32846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32846)
 
 ___
 
@@ -2208,19 +1440,11 @@ ___
 
 • **TransitionGameMode**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:32847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32847)
-
 ___
 
 ### TransitionType
 
 • **TransitionType**: [`ETransitionType`](../enums/ue_ue.ETransitionType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32845](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32845)
 
 ___
 
@@ -2228,19 +1452,11 @@ ___
 
 • **VertexColorMaterial**: [`Material`](ue_ue.Material.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32726)
-
 ___
 
 ### VertexColorMaterialName
 
 • **VertexColorMaterialName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:32727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32727)
 
 ___
 
@@ -2248,19 +1464,11 @@ ___
 
 • **VertexColorViewModeMaterialName\_AlphaAsColor**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:32731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32731)
-
 ___
 
 ### VertexColorViewModeMaterialName\_BlueOnly
 
 • **VertexColorViewModeMaterialName\_BlueOnly**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:32737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32737)
 
 ___
 
@@ -2268,19 +1476,11 @@ ___
 
 • **VertexColorViewModeMaterialName\_ColorOnly**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:32729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32729)
-
 ___
 
 ### VertexColorViewModeMaterialName\_GreenOnly
 
 • **VertexColorViewModeMaterialName\_GreenOnly**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:32735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32735)
 
 ___
 
@@ -2288,19 +1488,11 @@ ___
 
 • **VertexColorViewModeMaterialName\_RedOnly**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:32733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32733)
-
 ___
 
 ### VertexColorViewModeMaterial\_AlphaAsColor
 
 • **VertexColorViewModeMaterial\_AlphaAsColor**: [`Material`](ue_ue.Material.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32730)
 
 ___
 
@@ -2308,19 +1500,11 @@ ___
 
 • **VertexColorViewModeMaterial\_BlueOnly**: [`Material`](ue_ue.Material.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32736)
-
 ___
 
 ### VertexColorViewModeMaterial\_ColorOnly
 
 • **VertexColorViewModeMaterial\_ColorOnly**: [`Material`](ue_ue.Material.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32728)
 
 ___
 
@@ -2328,19 +1512,11 @@ ___
 
 • **VertexColorViewModeMaterial\_GreenOnly**: [`Material`](ue_ue.Material.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32734)
-
 ___
 
 ### VertexColorViewModeMaterial\_RedOnly
 
 • **VertexColorViewModeMaterial\_RedOnly**: [`Material`](ue_ue.Material.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32732)
 
 ___
 
@@ -2348,19 +1524,11 @@ ___
 
 • **WeightMapPlaceholderTexture**: [`Texture`](ue_ue.Texture.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32797](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32797)
-
 ___
 
 ### WeightMapPlaceholderTextureName
 
 • **WeightMapPlaceholderTextureName**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32798)
 
 ___
 
@@ -2368,19 +1536,11 @@ ___
 
 • **WireframeMaterial**: [`Material`](ue_ue.Material.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32702)
-
 ___
 
 ### WireframeMaterialName
 
 • **WireframeMaterialName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:32703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32703)
 
 ___
 
@@ -2388,29 +1548,17 @@ ___
 
 • **WorldSettingsClass**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32669)
-
 ___
 
 ### WorldSettingsClassName
 
 • **WorldSettingsClassName**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32670)
-
 ___
 
 ### \_\_tid\_Engine\_\_
 
 • **\_\_tid\_Engine\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32888)
 
 ___
 
@@ -2422,19 +1570,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bAllowMatureLanguage
 
 • **bAllowMatureLanguage**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32849)
 
 ___
 
@@ -2442,19 +1582,11 @@ ___
 
 • **bAllowMultiThreadedAnimationUpdate**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32813](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32813)
-
 ___
 
 ### bCanBlueprintsTickByDefault
 
 • **bCanBlueprintsTickByDefault**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32811)
 
 ___
 
@@ -2462,19 +1594,11 @@ ___
 
 • **bCheckForMultiplePawnsSpawnedInAFrame**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32827)
-
 ___
 
 ### bDisableAILogging
 
 • **bDisableAILogging**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32870)
 
 ___
 
@@ -2482,19 +1606,11 @@ ___
 
 • **bEnableEditorPSysRealtimeLOD**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32814](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32814)
-
 ___
 
 ### bEnableOnScreenDebugMessages
 
 • **bEnableOnScreenDebugMessages**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32867)
 
 ___
 
@@ -2502,19 +1618,11 @@ ___
 
 • **bEnableOnScreenDebugMessagesDisplay**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32868)
-
 ___
 
 ### bEnableVisualLogRecordingOnStart
 
 • **bEnableVisualLogRecordingOnStart**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32871)
 
 ___
 
@@ -2522,19 +1630,11 @@ ___
 
 • **bHardwareSurveyEnabled**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32807)
-
 ___
 
 ### bIsOverridingSelectedColor
 
 • **bIsOverridingSelectedColor**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32866)
 
 ___
 
@@ -2542,19 +1642,11 @@ ___
 
 • **bLockReadOnlyLevels**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32873)
-
 ___
 
 ### bOptimizeAnimBlueprintMemberVariableAccess
 
 • **bOptimizeAnimBlueprintMemberVariableAccess**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32812](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32812)
 
 ___
 
@@ -2562,19 +1654,11 @@ ___
 
 • **bPauseOnLossOfFocus**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32854](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32854)
-
 ___
 
 ### bRenderLightMapDensityGrayscale
 
 • **bRenderLightMapDensityGrayscale**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32777](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32777)
 
 ___
 
@@ -2582,19 +1666,11 @@ ___
 
 • **bShouldGenerateLowQualityLightmaps**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32829)
-
 ___
 
 ### bSmoothFrameRate
 
 • **bSmoothFrameRate**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32815)
 
 ___
 
@@ -2602,19 +1678,11 @@ ___
 
 • **bStartedLoadMapMovie**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32882)
-
 ___
 
 ### bSubtitlesEnabled
 
 • **bSubtitlesEnabled**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32808](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32808)
 
 ___
 
@@ -2622,29 +1690,17 @@ ___
 
 • **bSubtitlesForcedOff**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32809)
-
 ___
 
 ### bSuppressMapWarnings
 
 • **bSuppressMapWarnings**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32869)
-
 ___
 
 ### bUseFixedFrameRate
 
 • **bUseFixedFrameRate**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32816)
 
 ## Methods
 
@@ -2670,10 +1726,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -2694,10 +1746,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -2711,10 +1759,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -2730,10 +1774,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -2748,10 +1788,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -2765,10 +1801,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -2791,10 +1823,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:32885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32885)
-
 ___
 
 ### Load
@@ -2815,10 +1843,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:32886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32886)
-
 ___
 
 ### StaticClass
@@ -2832,7 +1856,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:32884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32884)

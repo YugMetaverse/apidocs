@@ -75,10 +75,6 @@
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[constructor](ue_ue.ParticleModuleTrailBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:56371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56371)
-
 ## Properties
 
 ### LODDuplicate
@@ -88,10 +84,6 @@
 #### Inherited from
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[LODDuplicate](ue_ue.ParticleModuleTrailBase.md#lodduplicate)
-
-#### Defined in
-
-[ue/ue.d.ts:6745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6745)
 
 ___
 
@@ -103,10 +95,6 @@ ___
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[LODValidity](ue_ue.ParticleModuleTrailBase.md#lodvalidity)
 
-#### Defined in
-
-[ue/ue.d.ts:6748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6748)
-
 ___
 
 ### ModuleEditorColor
@@ -117,19 +105,11 @@ ___
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[ModuleEditorColor](ue_ue.ParticleModuleTrailBase.md#moduleeditorcolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6749)
-
 ___
 
 ### SelectionMethod
 
 • **SelectionMethod**: [`EParticleSourceSelectionMethod`](../enums/ue_ue.EParticleSourceSelectionMethod.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56378)
 
 ___
 
@@ -137,19 +117,11 @@ ___
 
 • **SourceMethod**: [`ETrail2SourceMethod`](../enums/ue_ue.ETrail2SourceMethod.md)
 
-#### Defined in
-
-[ue/ue.d.ts:56372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56372)
-
 ___
 
 ### SourceName
 
 • **SourceName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:56373](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56373)
 
 ___
 
@@ -157,29 +129,17 @@ ___
 
 • **SourceOffsetCount**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:56376](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56376)
-
 ___
 
 ### SourceOffsetDefaults
 
 • **SourceOffsetDefaults**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Vector`](ue_ue_s.Vector.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:56377](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56377)
-
 ___
 
 ### SourceStrength
 
 • **SourceStrength**: [`RawDistributionFloat`](ue_ue.RawDistributionFloat.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56374](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56374)
 
 ___
 
@@ -191,10 +151,6 @@ ___
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[__tid_Object__](ue_ue.ParticleModuleTrailBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ParticleModuleTrailBase\_\_
@@ -205,19 +161,11 @@ ___
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[__tid_ParticleModuleTrailBase__](ue_ue.ParticleModuleTrailBase.md#__tid_particlemoduletrailbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:56367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56367)
-
 ___
 
 ### \_\_tid\_ParticleModuleTrailSource\_\_
 
 • **\_\_tid\_ParticleModuleTrailSource\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:56384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56384)
 
 ___
 
@@ -229,10 +177,6 @@ ___
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[__tid_ParticleModule__](ue_ue.ParticleModuleTrailBase.md#__tid_particlemodule__)
 
-#### Defined in
-
-[ue/ue.d.ts:6754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6754)
-
 ___
 
 ### b3DDrawMode
@@ -242,10 +186,6 @@ ___
 #### Inherited from
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[b3DDrawMode](ue_ue.ParticleModuleTrailBase.md#b3ddrawmode)
-
-#### Defined in
-
-[ue/ue.d.ts:6741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6741)
 
 ___
 
@@ -257,10 +197,6 @@ ___
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[bCurvesAsColor](ue_ue.ParticleModuleTrailBase.md#bcurvesascolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6740)
-
 ___
 
 ### bEditable
@@ -270,10 +206,6 @@ ___
 #### Inherited from
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[bEditable](ue_ue.ParticleModuleTrailBase.md#beditable)
-
-#### Defined in
-
-[ue/ue.d.ts:6744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6744)
 
 ___
 
@@ -285,10 +217,6 @@ ___
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[bEnabled](ue_ue.ParticleModuleTrailBase.md#benabled)
 
-#### Defined in
-
-[ue/ue.d.ts:6743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6743)
-
 ___
 
 ### bFinalUpdateModule
@@ -299,29 +227,17 @@ ___
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[bFinalUpdateModule](ue_ue.ParticleModuleTrailBase.md#bfinalupdatemodule)
 
-#### Defined in
-
-[ue/ue.d.ts:6738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6738)
-
 ___
 
 ### bInheritRotation
 
 • **bInheritRotation**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:56379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56379)
-
 ___
 
 ### bLockSourceStength
 
 • **bLockSourceStength**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:56375](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56375)
 
 ___
 
@@ -333,10 +249,6 @@ ___
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[bRequiresLoopingNotification](ue_ue.ParticleModuleTrailBase.md#brequiresloopingnotification)
 
-#### Defined in
-
-[ue/ue.d.ts:6747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6747)
-
 ___
 
 ### bSpawnModule
@@ -346,10 +258,6 @@ ___
 #### Inherited from
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[bSpawnModule](ue_ue.ParticleModuleTrailBase.md#bspawnmodule)
-
-#### Defined in
-
-[ue/ue.d.ts:6736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6736)
 
 ___
 
@@ -361,10 +269,6 @@ ___
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[bSupported3DDrawMode](ue_ue.ParticleModuleTrailBase.md#bsupported3ddrawmode)
 
-#### Defined in
-
-[ue/ue.d.ts:6742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6742)
-
 ___
 
 ### bSupportsRandomSeed
@@ -374,10 +278,6 @@ ___
 #### Inherited from
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[bSupportsRandomSeed](ue_ue.ParticleModuleTrailBase.md#bsupportsrandomseed)
-
-#### Defined in
-
-[ue/ue.d.ts:6746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6746)
 
 ___
 
@@ -389,10 +289,6 @@ ___
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[bUpdateForGPUEmitter](ue_ue.ParticleModuleTrailBase.md#bupdateforgpuemitter)
 
-#### Defined in
-
-[ue/ue.d.ts:6739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6739)
-
 ___
 
 ### bUpdateModule
@@ -402,10 +298,6 @@ ___
 #### Inherited from
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[bUpdateModule](ue_ue.ParticleModuleTrailBase.md#bupdatemodule)
-
-#### Defined in
-
-[ue/ue.d.ts:6737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6737)
 
 ## Methods
 
@@ -431,10 +323,6 @@ ___
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[CreateDefaultSubobject](ue_ue.ParticleModuleTrailBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -455,10 +343,6 @@ ___
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[ExecuteUbergraph](ue_ue.ParticleModuleTrailBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -472,10 +356,6 @@ ___
 #### Inherited from
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[GetClass](ue_ue.ParticleModuleTrailBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -491,10 +371,6 @@ ___
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[GetName](ue_ue.ParticleModuleTrailBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -509,10 +385,6 @@ ___
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[GetOuter](ue_ue.ParticleModuleTrailBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -526,10 +398,6 @@ ___
 #### Inherited from
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[GetWorld](ue_ue.ParticleModuleTrailBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -552,10 +420,6 @@ ___
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[Find](ue_ue.ParticleModuleTrailBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:56381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56381)
-
 ___
 
 ### Load
@@ -576,10 +440,6 @@ ___
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[Load](ue_ue.ParticleModuleTrailBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:56382](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56382)
-
 ___
 
 ### StaticClass
@@ -593,7 +453,3 @@ ___
 #### Overrides
 
 [ParticleModuleTrailBase](ue_ue.ParticleModuleTrailBase.md).[StaticClass](ue_ue.ParticleModuleTrailBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:56380](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56380)

@@ -30,10 +30,6 @@
 
 • **new LevelCollection**()
 
-#### Defined in
-
-[ue/ue.d.ts:10096](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10096)
-
 • **new LevelCollection**(`GameState`, `NetDriver`, `DemoNetDriver`, `PersistentLevel`, `Levels`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `PersistentLevel` | [`Level`](ue_ue.Level.md) |
 | `Levels` | [`TSet`](../interfaces/ue_puerts.TSet.md)<[`Level`](ue_ue.Level.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:10097](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10097)
-
 ## Properties
 
 ### DemoNetDriver
 
 • **DemoNetDriver**: [`DemoNetDriver`](ue_ue.DemoNetDriver.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10100](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10100)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **GameState**: [`GameStateBase`](ue_ue.GameStateBase.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10098)
-
 ___
 
 ### Levels
 
 • **Levels**: [`TSet`](../interfaces/ue_puerts.TSet.md)<[`Level`](ue_ue.Level.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:10102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10102)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **NetDriver**: [`NetDriver`](ue_ue.NetDriver.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10099](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10099)
-
 ___
 
 ### PersistentLevel
 
 • **PersistentLevel**: [`Level`](ue_ue.Level.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10101)
-
 ___
 
 ### \_\_tid\_LevelCollection\_\_
 
 • `Private` **\_\_tid\_LevelCollection\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10108)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10106](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10106)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10107](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10107)

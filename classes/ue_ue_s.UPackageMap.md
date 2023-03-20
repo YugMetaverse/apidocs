@@ -25,19 +25,11 @@
 
 • **new UPackageMap**()
 
-#### Defined in
-
-[ue/ue_s.d.ts:769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L769)
-
 ## Properties
 
 ### \_\_tid\_UPackageMap\_\_
 
 • `Private` **\_\_tid\_UPackageMap\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:777](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L777)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L774)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L775)

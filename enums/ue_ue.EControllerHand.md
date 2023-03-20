@@ -35,19 +35,11 @@
 
 • **AnyHand** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10665)
-
 ___
 
 ### ControllerHand\_Count
 
 • **ControllerHand\_Count** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10665)
 
 ___
 
@@ -55,19 +47,11 @@ ___
 
 • **EControllerHand\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10665)
-
 ___
 
 ### ExternalCamera
 
 • **ExternalCamera** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10665)
 
 ___
 
@@ -75,19 +59,11 @@ ___
 
 • **Gun** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10665)
-
 ___
 
 ### Left
 
 • **Left** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10665)
 
 ___
 
@@ -95,19 +71,11 @@ ___
 
 • **Pad** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10665)
-
 ___
 
 ### Right
 
 • **Right** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10665)
 
 ___
 
@@ -115,19 +83,11 @@ ___
 
 • **Special\_1** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10665)
-
 ___
 
 ### Special\_10
 
 • **Special\_10** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10665)
 
 ___
 
@@ -135,19 +95,11 @@ ___
 
 • **Special\_11** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10665)
-
 ___
 
 ### Special\_2
 
 • **Special\_2** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10665)
 
 ___
 
@@ -155,19 +107,11 @@ ___
 
 • **Special\_3** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10665)
-
 ___
 
 ### Special\_4
 
 • **Special\_4** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10665)
 
 ___
 
@@ -175,19 +119,11 @@ ___
 
 • **Special\_5** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10665)
-
 ___
 
 ### Special\_6
 
 • **Special\_6** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10665)
 
 ___
 
@@ -195,19 +131,11 @@ ___
 
 • **Special\_7** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10665)
-
 ___
 
 ### Special\_8
 
 • **Special\_8** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10665)
 
 ___
 
@@ -215,16 +143,8 @@ ___
 
 • **Special\_9** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10665)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10665)

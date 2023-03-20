@@ -22,19 +22,11 @@
 
 • **VNF\_CellnoiseALU** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34864)
-
 ___
 
 ### VNF\_CurlALU
 
 • **VNF\_CurlALU** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34864)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **VNF\_GradientALU** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34864)
-
 ___
 
 ### VNF\_MAX
 
 • **VNF\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34864)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **VNF\_VectorALU** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34864)
-
 ___
 
 ### VNF\_VoronoiALU
 
 • **VNF\_VoronoiALU** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34864)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34864)

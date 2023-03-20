@@ -21,19 +21,11 @@
 
 • **TextureSizingType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8600)
-
 ___
 
 ### TextureSizingType\_UseAutomaticBiasedSizes
 
 • **TextureSizingType\_UseAutomaticBiasedSizes** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8600)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **TextureSizingType\_UseManualOverrideTextureSize** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8600)
-
 ___
 
 ### TextureSizingType\_UseSimplygonAutomaticSizing
 
 • **TextureSizingType\_UseSimplygonAutomaticSizing** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8600)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **TextureSizingType\_UseSingleTextureSize** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8600)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8600)

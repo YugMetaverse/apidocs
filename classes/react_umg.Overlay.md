@@ -54,10 +54,6 @@
 
 React.Component<OverlayProps\>.constructor
 
-#### Defined in
-
-node_modules/@types/react/index.d.ts:302
-
 ## Properties
 
 ### context
@@ -68,19 +64,11 @@ node_modules/@types/react/index.d.ts:302
 
 React.Component.context
 
-#### Defined in
-
-node_modules/@types/react/index.d.ts:322
-
 ___
 
 ### nativePtr
 
 • **nativePtr**: [`Overlay`](ue_ue.Overlay.md)
-
-#### Defined in
-
-[react-umg/index.d.ts:607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L607)
 
 ___
 
@@ -91,10 +79,6 @@ ___
 #### Inherited from
 
 React.Component.props
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:320
 
 ___
 
@@ -110,10 +94,6 @@ ___
 
 React.Component.refs
 
-#### Defined in
-
-node_modules/@types/react/index.d.ts:323
-
 ___
 
 ### state
@@ -123,10 +103,6 @@ ___
 #### Inherited from
 
 React.Component.state
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:321
 
 ## Methods
 
@@ -141,10 +117,6 @@ node_modules/@types/react/index.d.ts:321
 #### Inherited from
 
 React.Component.componentDidMount
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:383
 
 ___
 
@@ -168,10 +140,6 @@ ___
 
 React.Component.componentDidUpdate
 
-#### Defined in
-
-node_modules/@types/react/index.d.ts:387
-
 ___
 
 ### componentWillMount
@@ -185,10 +153,6 @@ ___
 #### Inherited from
 
 React.Component.componentWillMount
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:382
 
 ___
 
@@ -211,10 +175,6 @@ ___
 
 React.Component.componentWillReceiveProps
 
-#### Defined in
-
-node_modules/@types/react/index.d.ts:384
-
 ___
 
 ### componentWillUnmount
@@ -228,10 +188,6 @@ ___
 #### Inherited from
 
 React.Component.componentWillUnmount
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:388
 
 ___
 
@@ -255,10 +211,6 @@ ___
 
 React.Component.componentWillUpdate
 
-#### Defined in
-
-node_modules/@types/react/index.d.ts:386
-
 ___
 
 ### forceUpdate
@@ -279,10 +231,6 @@ ___
 
 React.Component.forceUpdate
 
-#### Defined in
-
-node_modules/@types/react/index.d.ts:312
-
 ___
 
 ### render
@@ -296,10 +244,6 @@ ___
 #### Inherited from
 
 React.Component.render
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:313
 
 ___
 
@@ -328,10 +272,6 @@ ___
 
 React.Component.setState
 
-#### Defined in
-
-node_modules/@types/react/index.d.ts:307
-
 ___
 
 ### shouldComponentUpdate
@@ -353,7 +293,3 @@ ___
 #### Inherited from
 
 React.Component.shouldComponentUpdate
-
-#### Defined in
-
-node_modules/@types/react/index.d.ts:385

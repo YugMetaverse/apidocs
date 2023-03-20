@@ -43,10 +43,6 @@
 
 • **new SkeletalMeshLODInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:3267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3267)
-
 • **new SkeletalMeshLODInfo**(`ScreenSize`, `LODHysteresis`, `LODMaterialMap`, `bEnableShadowCasting`, `RemovedBones`, `BuildSettings`, `ReductionSettings`, `BonesToRemove`, `BonesToPrioritize`, `WeightOfPrioritization`, `BakePose`, `BakePoseOverride`, `SourceImportFilename`, `bHasBeenSimplified`, `bHasPerLODVertexColors`, `bAllowCPUAccess`, `bSupportUniformlyDistributedSampling`, `bImportWithBaseMesh`)
 
 #### Parameters
@@ -72,19 +68,11 @@
 | `bSupportUniformlyDistributedSampling` | `boolean` |
 | `bImportWithBaseMesh` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:3268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3268)
-
 ## Properties
 
 ### BakePose
 
 • **BakePose**: [`AnimSequence`](ue_ue.AnimSequence.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3279)
 
 ___
 
@@ -92,19 +80,11 @@ ___
 
 • **BakePoseOverride**: [`AnimSequence`](ue_ue.AnimSequence.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3280)
-
 ___
 
 ### BonesToPrioritize
 
 • **BonesToPrioritize**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BoneReference`](ue_ue.BoneReference.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:3277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3277)
 
 ___
 
@@ -112,19 +92,11 @@ ___
 
 • **BonesToRemove**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BoneReference`](ue_ue.BoneReference.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:3276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3276)
-
 ___
 
 ### BuildSettings
 
 • **BuildSettings**: [`SkeletalMeshBuildSettings`](ue_ue.SkeletalMeshBuildSettings.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3274)
 
 ___
 
@@ -132,19 +104,11 @@ ___
 
 • **LODHysteresis**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3270)
-
 ___
 
 ### LODMaterialMap
 
 • **LODMaterialMap**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:3271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3271)
 
 ___
 
@@ -152,19 +116,11 @@ ___
 
 • **ReductionSettings**: [`SkeletalMeshOptimizationSettings`](ue_ue.SkeletalMeshOptimizationSettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3275)
-
 ___
 
 ### RemovedBones
 
 • **RemovedBones**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:3273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3273)
 
 ___
 
@@ -172,19 +128,11 @@ ___
 
 • **ScreenSize**: [`PerPlatformFloat`](ue_ue.PerPlatformFloat.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3269)
-
 ___
 
 ### SourceImportFilename
 
 • **SourceImportFilename**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:3281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3281)
 
 ___
 
@@ -192,19 +140,11 @@ ___
 
 • **WeightOfPrioritization**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3278)
-
 ___
 
 ### \_\_tid\_SkeletalMeshLODInfo\_\_
 
 • `Private` **\_\_tid\_SkeletalMeshLODInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3292)
 
 ___
 
@@ -212,19 +152,11 @@ ___
 
 • **bAllowCPUAccess**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3284)
-
 ___
 
 ### bEnableShadowCasting
 
 • **bEnableShadowCasting**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`boolean`\>
-
-#### Defined in
-
-[ue/ue.d.ts:3272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3272)
 
 ___
 
@@ -232,19 +164,11 @@ ___
 
 • **bHasBeenSimplified**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3282)
-
 ___
 
 ### bHasPerLODVertexColors
 
 • **bHasPerLODVertexColors**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3283)
 
 ___
 
@@ -252,19 +176,11 @@ ___
 
 • **bImportWithBaseMesh**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3286)
-
 ___
 
 ### bSupportUniformlyDistributedSampling
 
 • **bSupportUniformlyDistributedSampling**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3285)
 
 ## Methods
 
@@ -280,10 +196,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3290)
-
 ___
 
 ### StaticStruct
@@ -293,7 +205,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3291)

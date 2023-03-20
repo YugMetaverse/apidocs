@@ -19,19 +19,11 @@
 
 • **SDPG\_Foreground** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L349)
-
 ___
 
 ### SDPG\_MAX
 
 • **SDPG\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L349)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **SDPG\_World** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L349)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L349)

@@ -58,19 +58,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:58452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58452)
-
 ## Properties
 
 ### FoliageTypes
 
 • **FoliageTypes**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`FoliageTypeObject`](ue_ue.FoliageTypeObject.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:58457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58457)
 
 ___
 
@@ -78,19 +70,11 @@ ___
 
 • **MinimumQuadTreeSize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:58456](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58456)
-
 ___
 
 ### NumUniqueTiles
 
 • **NumUniqueTiles**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:58455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58455)
 
 ___
 
@@ -98,19 +82,11 @@ ___
 
 • **RandomSeed**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:58453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58453)
-
 ___
 
 ### TileSize
 
 • **TileSize**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:58454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58454)
 
 ___
 
@@ -122,29 +98,17 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ProceduralFoliageSpawner\_\_
 
 • **\_\_tid\_ProceduralFoliageSpawner\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:58464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58464)
-
 ___
 
 ### bNeedsSimulation
 
 • **bNeedsSimulation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58458](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58458)
 
 ## Methods
 
@@ -170,10 +134,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -194,10 +154,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -211,10 +167,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -230,10 +182,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -248,10 +196,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -265,10 +209,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -285,10 +225,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:58459](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58459)
 
 ___
 
@@ -311,10 +247,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:58461](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58461)
-
 ___
 
 ### Load
@@ -335,10 +267,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:58462](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58462)
-
 ___
 
 ### StaticClass
@@ -352,7 +280,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:58460](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58460)

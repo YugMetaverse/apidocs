@@ -23,19 +23,11 @@
 
 • **HCGM\_ACES** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28475)
-
 ___
 
 ### HCGM\_ACEScg
 
 • **HCGM\_ACEScg** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:28475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28475)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **HCGM\_Linear** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28475)
-
 ___
 
 ### HCGM\_MAX
 
 • **HCGM\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:28475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28475)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **HCGM\_P3DCI** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28475)
-
 ___
 
 ### HCGM\_Rec2020
 
 • **HCGM\_Rec2020** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:28475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28475)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **HCGM\_Rec709** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28475)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:28475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28475)

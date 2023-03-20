@@ -25,19 +25,11 @@
 
 • **AssistingDrag** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14347)
-
 ___
 
 ### EViewportInteractionDraggingMode\_MAX
 
 • **EViewportInteractionDraggingMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14347)
 
 ___
 
@@ -45,19 +37,11 @@ ___
 
 • **Interactable** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14347)
-
 ___
 
 ### Material
 
 • **Material** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14347)
 
 ___
 
@@ -65,19 +49,11 @@ ___
 
 • **Nothing** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14347)
-
 ___
 
 ### TransformablesAtLaserImpact
 
 • **TransformablesAtLaserImpact** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14347)
 
 ___
 
@@ -85,19 +61,11 @@ ___
 
 • **TransformablesFreely** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14347)
-
 ___
 
 ### TransformablesWithGizmo
 
 • **TransformablesWithGizmo** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14347)
 
 ___
 
@@ -105,16 +73,8 @@ ___
 
 • **World** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14347)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14347)

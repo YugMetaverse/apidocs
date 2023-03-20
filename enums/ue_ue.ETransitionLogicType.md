@@ -20,19 +20,11 @@
 
 • **TLT\_Custom** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4877)
-
 ___
 
 ### TLT\_Inertialization
 
 • **TLT\_Inertialization** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4877)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **TLT\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4877)
-
 ___
 
 ### TLT\_StandardBlend
 
 • **TLT\_StandardBlend** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4877)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4877)

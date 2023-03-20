@@ -25,19 +25,11 @@
 
 • **new BreakEventCallbackWrapper**()
 
-#### Defined in
-
-[ue/ue.d.ts:26450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26450)
-
 ## Properties
 
 ### \_\_tid\_BreakEventCallbackWrapper\_\_
 
 • `Private` **\_\_tid\_BreakEventCallbackWrapper\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26456](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26456)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26454)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26455)

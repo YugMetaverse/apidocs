@@ -20,19 +20,11 @@
 
 • **Bone** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31366)
-
 ___
 
 ### Bounds
 
 • **Bounds** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31366)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **EAnimationViewportCameraFollowMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31366)
-
 ___
 
 ### None
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31366)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31366)

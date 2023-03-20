@@ -75,10 +75,6 @@
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[constructor](ue_ue.ViewportInteractor.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:14437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14437)
-
 ## Properties
 
 ### KeyToActionMap
@@ -88,10 +84,6 @@
 #### Inherited from
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[KeyToActionMap](ue_ue.ViewportInteractor.md#keytoactionmap)
-
-#### Defined in
-
-[ue/ue.d.ts:14350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14350)
 
 ___
 
@@ -103,10 +95,6 @@ ___
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[OtherInteractor](ue_ue.ViewportInteractor.md#otherinteractor)
 
-#### Defined in
-
-[ue/ue.d.ts:14352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14352)
-
 ___
 
 ### WorldInteraction
@@ -117,19 +105,11 @@ ___
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[WorldInteraction](ue_ue.ViewportInteractor.md#worldinteraction)
 
-#### Defined in
-
-[ue/ue.d.ts:14351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14351)
-
 ___
 
 ### \_\_tid\_MouseCursorInteractor\_\_
 
 • **\_\_tid\_MouseCursorInteractor\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14442](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14442)
 
 ___
 
@@ -141,10 +121,6 @@ ___
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[__tid_Object__](ue_ue.ViewportInteractor.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ViewportInteractor\_\_
@@ -154,10 +130,6 @@ ___
 #### Inherited from
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[__tid_ViewportInteractor__](ue_ue.ViewportInteractor.md#__tid_viewportinteractor__)
-
-#### Defined in
-
-[ue/ue.d.ts:14377](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14377)
 
 ## Methods
 
@@ -172,10 +144,6 @@ ___
 #### Inherited from
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[CanCarry](ue_ue.ViewportInteractor.md#cancarry)
-
-#### Defined in
-
-[ue/ue.d.ts:14353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14353)
 
 ___
 
@@ -201,10 +169,6 @@ ___
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[CreateDefaultSubobject](ue_ue.ViewportInteractor.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -225,10 +189,6 @@ ___
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[ExecuteUbergraph](ue_ue.ViewportInteractor.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -242,10 +202,6 @@ ___
 #### Inherited from
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[GetClass](ue_ue.ViewportInteractor.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -261,10 +217,6 @@ ___
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[GetDraggingMode](ue_ue.ViewportInteractor.md#getdraggingmode)
 
-#### Defined in
-
-[ue/ue.d.ts:14354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14354)
-
 ___
 
 ### GetHitResultGizmoFilterMode
@@ -279,10 +231,6 @@ ___
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[GetHitResultGizmoFilterMode](ue_ue.ViewportInteractor.md#gethitresultgizmofiltermode)
 
-#### Defined in
-
-[ue/ue.d.ts:14355](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14355)
-
 ___
 
 ### GetHoverLocation
@@ -296,10 +244,6 @@ ___
 #### Inherited from
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[GetHoverLocation](ue_ue.ViewportInteractor.md#gethoverlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:14356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14356)
 
 ___
 
@@ -324,10 +268,6 @@ ___
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[GetLaserPointer](ue_ue.ViewportInteractor.md#getlaserpointer)
 
-#### Defined in
-
-[ue/ue.d.ts:14357](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14357)
-
 ___
 
 ### GetLastRoomSpaceTransform
@@ -341,10 +281,6 @@ ___
 #### Inherited from
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[GetLastRoomSpaceTransform](ue_ue.ViewportInteractor.md#getlastroomspacetransform)
-
-#### Defined in
-
-[ue/ue.d.ts:14358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14358)
 
 ___
 
@@ -360,10 +296,6 @@ ___
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[GetLastTransform](ue_ue.ViewportInteractor.md#getlasttransform)
 
-#### Defined in
-
-[ue/ue.d.ts:14359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14359)
-
 ___
 
 ### GetName
@@ -377,10 +309,6 @@ ___
 #### Inherited from
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[GetName](ue_ue.ViewportInteractor.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -396,10 +324,6 @@ ___
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[GetOtherInteractor](ue_ue.ViewportInteractor.md#getotherinteractor)
 
-#### Defined in
-
-[ue/ue.d.ts:14360](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14360)
-
 ___
 
 ### GetOuter
@@ -413,10 +337,6 @@ ___
 #### Inherited from
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[GetOuter](ue_ue.ViewportInteractor.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -432,10 +352,6 @@ ___
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[GetRoomSpaceTransform](ue_ue.ViewportInteractor.md#getroomspacetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:14361](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14361)
-
 ___
 
 ### GetTransform
@@ -449,10 +365,6 @@ ___
 #### Inherited from
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[GetTransform](ue_ue.ViewportInteractor.md#gettransform)
-
-#### Defined in
-
-[ue/ue.d.ts:14362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14362)
 
 ___
 
@@ -475,10 +387,6 @@ ___
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[GetTransformAndForwardVector](ue_ue.ViewportInteractor.md#gettransformandforwardvector)
 
-#### Defined in
-
-[ue/ue.d.ts:14363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14363)
-
 ___
 
 ### GetWorld
@@ -493,10 +401,6 @@ ___
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[GetWorld](ue_ue.ViewportInteractor.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### GetWorldInteraction
@@ -510,10 +414,6 @@ ___
 #### Inherited from
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[GetWorldInteraction](ue_ue.ViewportInteractor.md#getworldinteraction)
-
-#### Defined in
-
-[ue/ue.d.ts:14364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14364)
 
 ___
 
@@ -539,10 +439,6 @@ ___
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[HandleInputAxis_BP](ue_ue.ViewportInteractor.md#handleinputaxis_bp)
 
-#### Defined in
-
-[ue/ue.d.ts:14365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14365)
-
 ___
 
 ### HandleInputKey\_BP
@@ -566,10 +462,6 @@ ___
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[HandleInputKey_BP](ue_ue.ViewportInteractor.md#handleinputkey_bp)
 
-#### Defined in
-
-[ue/ue.d.ts:14366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14366)
-
 ___
 
 ### IsHoveringOverGizmo
@@ -583,10 +475,6 @@ ___
 #### Inherited from
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[IsHoveringOverGizmo](ue_ue.ViewportInteractor.md#ishoveringovergizmo)
-
-#### Defined in
-
-[ue/ue.d.ts:14367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14367)
 
 ___
 
@@ -608,10 +496,6 @@ ___
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[SetCanCarry](ue_ue.ViewportInteractor.md#setcancarry)
 
-#### Defined in
-
-[ue/ue.d.ts:14368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14368)
-
 ___
 
 ### SetDraggingMode
@@ -631,10 +515,6 @@ ___
 #### Inherited from
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[SetDraggingMode](ue_ue.ViewportInteractor.md#setdraggingmode)
-
-#### Defined in
-
-[ue/ue.d.ts:14369](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14369)
 
 ___
 
@@ -656,10 +536,6 @@ ___
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[SetHitResultGizmoFilterMode](ue_ue.ViewportInteractor.md#sethitresultgizmofiltermode)
 
-#### Defined in
-
-[ue/ue.d.ts:14370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14370)
-
 ___
 
 ### Shutdown
@@ -673,10 +549,6 @@ ___
 #### Inherited from
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[Shutdown](ue_ue.ViewportInteractor.md#shutdown)
-
-#### Defined in
-
-[ue/ue.d.ts:14371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14371)
 
 ___
 
@@ -697,10 +569,6 @@ ___
 #### Inherited from
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[Tick](ue_ue.ViewportInteractor.md#tick)
-
-#### Defined in
-
-[ue/ue.d.ts:14372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14372)
 
 ___
 
@@ -723,10 +591,6 @@ ___
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[Find](ue_ue.ViewportInteractor.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:14439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14439)
-
 ___
 
 ### Load
@@ -747,10 +611,6 @@ ___
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[Load](ue_ue.ViewportInteractor.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:14440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14440)
-
 ___
 
 ### StaticClass
@@ -764,7 +624,3 @@ ___
 #### Overrides
 
 [ViewportInteractor](ue_ue.ViewportInteractor.md).[StaticClass](ue_ue.ViewportInteractor.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:14438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14438)

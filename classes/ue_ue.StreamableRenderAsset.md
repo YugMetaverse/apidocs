@@ -70,19 +70,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L383)
-
 ## Properties
 
 ### CachedCombinedLODBias
 
 • **CachedCombinedLODBias**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L387)
 
 ___
 
@@ -90,19 +82,11 @@ ___
 
 • **CachedNumResidentLODs**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L388)
-
 ___
 
 ### ForceMipLevelsToBeResidentTimestamp
 
 • **ForceMipLevelsToBeResidentTimestamp**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L384)
 
 ___
 
@@ -110,29 +94,17 @@ ___
 
 • **NeverStream**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L390)
-
 ___
 
 ### NumCinematicMipLevels
 
 • **NumCinematicMipLevels**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L385)
-
 ___
 
 ### StreamingIndex
 
 • **StreamingIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L386)
 
 ___
 
@@ -144,19 +116,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_StreamableRenderAsset\_\_
 
 • **\_\_tid\_StreamableRenderAsset\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L401)
 
 ___
 
@@ -164,19 +128,11 @@ ___
 
 • **bCachedReadyForStreaming**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L389)
-
 ___
 
 ### bForceMiplevelsToBeResident
 
 • **bForceMiplevelsToBeResident**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L394)
 
 ___
 
@@ -184,19 +140,11 @@ ___
 
 • **bGlobalForceMipLevelsToBeResident**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L391)
-
 ___
 
 ### bHasStreamingUpdatePending
 
 • **bHasStreamingUpdatePending**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L393)
 
 ___
 
@@ -204,29 +152,17 @@ ___
 
 • **bIgnoreStreamingMipBias**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L395)
-
 ___
 
 ### bIsStreamable
 
 • **bIsStreamable**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L392)
-
 ___
 
 ### bUseCinematicMipLevels
 
 • **bUseCinematicMipLevels**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L396)
 
 ## Methods
 
@@ -252,10 +188,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -276,10 +208,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -293,10 +221,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -312,10 +236,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -330,10 +250,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -347,10 +263,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -373,10 +285,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L398)
-
 ___
 
 ### Load
@@ -397,10 +305,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L399)
-
 ___
 
 ### StaticClass
@@ -414,7 +318,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L397)

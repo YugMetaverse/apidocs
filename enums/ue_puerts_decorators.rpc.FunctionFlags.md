@@ -20,19 +20,11 @@
 
 • **FUNC\_Net** = ``64``
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L11)
-
 ___
 
 ### FUNC\_NetClient
 
 • **FUNC\_NetClient** = ``16777216``
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L15)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **FUNC\_NetMulticast** = ``16384``
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L13)
-
 ___
 
 ### FUNC\_NetReliable
 
 • **FUNC\_NetReliable** = ``128``
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L12)
-
 ___
 
 ### FUNC\_NetServer
 
 • **FUNC\_NetServer** = ``2097152``
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L14)

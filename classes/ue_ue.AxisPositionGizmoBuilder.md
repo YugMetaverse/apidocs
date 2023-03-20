@@ -52,19 +52,11 @@
 
 [InteractiveGizmoBuilder](ue_ue.InteractiveGizmoBuilder.md).[constructor](ue_ue.InteractiveGizmoBuilder.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:23395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23395)
-
 ## Properties
 
 ### \_\_tid\_AxisPositionGizmoBuilder\_\_
 
 • **\_\_tid\_AxisPositionGizmoBuilder\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:23400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23400)
 
 ___
 
@@ -76,10 +68,6 @@ ___
 
 [InteractiveGizmoBuilder](ue_ue.InteractiveGizmoBuilder.md).[__tid_InteractiveGizmoBuilder__](ue_ue.InteractiveGizmoBuilder.md#__tid_interactivegizmobuilder__)
 
-#### Defined in
-
-[ue/ue.d.ts:23353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23353)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -89,10 +77,6 @@ ___
 #### Inherited from
 
 [InteractiveGizmoBuilder](ue_ue.InteractiveGizmoBuilder.md).[__tid_Object__](ue_ue.InteractiveGizmoBuilder.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -118,10 +102,6 @@ ___
 
 [InteractiveGizmoBuilder](ue_ue.InteractiveGizmoBuilder.md).[CreateDefaultSubobject](ue_ue.InteractiveGizmoBuilder.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -142,10 +122,6 @@ ___
 
 [InteractiveGizmoBuilder](ue_ue.InteractiveGizmoBuilder.md).[ExecuteUbergraph](ue_ue.InteractiveGizmoBuilder.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -159,10 +135,6 @@ ___
 #### Inherited from
 
 [InteractiveGizmoBuilder](ue_ue.InteractiveGizmoBuilder.md).[GetClass](ue_ue.InteractiveGizmoBuilder.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -178,10 +150,6 @@ ___
 
 [InteractiveGizmoBuilder](ue_ue.InteractiveGizmoBuilder.md).[GetName](ue_ue.InteractiveGizmoBuilder.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -196,10 +164,6 @@ ___
 
 [InteractiveGizmoBuilder](ue_ue.InteractiveGizmoBuilder.md).[GetOuter](ue_ue.InteractiveGizmoBuilder.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -213,10 +177,6 @@ ___
 #### Inherited from
 
 [InteractiveGizmoBuilder](ue_ue.InteractiveGizmoBuilder.md).[GetWorld](ue_ue.InteractiveGizmoBuilder.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -239,10 +199,6 @@ ___
 
 [InteractiveGizmoBuilder](ue_ue.InteractiveGizmoBuilder.md).[Find](ue_ue.InteractiveGizmoBuilder.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:23397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23397)
-
 ___
 
 ### Load
@@ -263,10 +219,6 @@ ___
 
 [InteractiveGizmoBuilder](ue_ue.InteractiveGizmoBuilder.md).[Load](ue_ue.InteractiveGizmoBuilder.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:23398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23398)
-
 ___
 
 ### StaticClass
@@ -280,7 +232,3 @@ ___
 #### Overrides
 
 [InteractiveGizmoBuilder](ue_ue.InteractiveGizmoBuilder.md).[StaticClass](ue_ue.InteractiveGizmoBuilder.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:23396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23396)

@@ -19,19 +19,11 @@
 
 • **Backward** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34831)
-
 ___
 
 ### ETimelineDirection\_MAX
 
 • **ETimelineDirection\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34831)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Forward** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34831)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34831)

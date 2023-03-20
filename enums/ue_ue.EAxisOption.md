@@ -24,19 +24,11 @@
 
 • **Custom** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18882)
-
 ___
 
 ### EAxisOption\_MAX
 
 • **EAxisOption\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18882)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **X** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18882)
-
 ___
 
 ### X\_Neg
 
 • **X\_Neg** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18882)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **Y** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18882)
-
 ___
 
 ### Y\_Neg
 
 • **Y\_Neg** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18882)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **Z** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18882)
-
 ___
 
 ### Z\_Neg
 
 • **Z\_Neg** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18882)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18882)

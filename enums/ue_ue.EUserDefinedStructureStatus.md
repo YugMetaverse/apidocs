@@ -21,19 +21,11 @@
 
 • **UDSS\_Dirty** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15956)
-
 ___
 
 ### UDSS\_Duplicate
 
 • **UDSS\_Duplicate** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15956)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **UDSS\_Error** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15956)
-
 ___
 
 ### UDSS\_MAX
 
 • **UDSS\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15956)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **UDSS\_UpToDate** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15956)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15956)

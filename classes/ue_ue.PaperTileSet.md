@@ -68,19 +68,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:55048](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55048)
-
 ## Properties
 
 ### AdditionalSourceTextures
 
 • **AdditionalSourceTextures**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Texture`](ue_ue.Texture.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:55051](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55051)
 
 ___
 
@@ -88,19 +80,11 @@ ___
 
 • **AllocatedHeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:55059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55059)
-
 ___
 
 ### AllocatedWidth
 
 • **AllocatedWidth**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:55058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55058)
 
 ___
 
@@ -108,19 +92,11 @@ ___
 
 • **BackgroundColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:55055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55055)
-
 ___
 
 ### BorderMargin
 
 • **BorderMargin**: [`IntMargin`](ue_ue.IntMargin.md)
-
-#### Defined in
-
-[ue/ue.d.ts:55052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55052)
 
 ___
 
@@ -128,19 +104,11 @@ ___
 
 • **DrawingOffset**: [`IntPoint`](ue_ue_s.IntPoint.md)
 
-#### Defined in
-
-[ue/ue.d.ts:55054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55054)
-
 ___
 
 ### HeightInTiles
 
 • **HeightInTiles**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:55057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55057)
 
 ___
 
@@ -148,19 +116,11 @@ ___
 
 • **Margin**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:55064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55064)
-
 ___
 
 ### PerTileData
 
 • **PerTileData**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PaperTileMetadata`](ue_ue.PaperTileMetadata.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:55060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55060)
 
 ___
 
@@ -168,19 +128,11 @@ ___
 
 • **PerTileSpacing**: [`IntPoint`](ue_ue_s.IntPoint.md)
 
-#### Defined in
-
-[ue/ue.d.ts:55053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55053)
-
 ___
 
 ### Spacing
 
 • **Spacing**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:55065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55065)
 
 ___
 
@@ -188,19 +140,11 @@ ___
 
 • **Terrains**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PaperTileSetTerrain`](ue_ue.PaperTileSetTerrain.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:55061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55061)
-
 ___
 
 ### TileHeight
 
 • **TileHeight**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:55063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55063)
 
 ___
 
@@ -208,19 +152,11 @@ ___
 
 • **TileSheet**: [`Texture2D`](ue_ue.Texture2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:55050](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55050)
-
 ___
 
 ### TileSize
 
 • **TileSize**: [`IntPoint`](ue_ue_s.IntPoint.md)
-
-#### Defined in
-
-[ue/ue.d.ts:55049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55049)
 
 ___
 
@@ -228,19 +164,11 @@ ___
 
 • **TileWidth**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:55062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55062)
-
 ___
 
 ### WidthInTiles
 
 • **WidthInTiles**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:55056](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55056)
 
 ___
 
@@ -252,19 +180,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PaperTileSet\_\_
 
 • **\_\_tid\_PaperTileSet\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55070)
 
 ## Methods
 
@@ -290,10 +210,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -314,10 +230,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -331,10 +243,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -350,10 +258,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -368,10 +272,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -385,10 +285,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -411,10 +307,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:55067](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55067)
-
 ___
 
 ### Load
@@ -435,10 +327,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:55068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55068)
-
 ___
 
 ### StaticClass
@@ -452,7 +340,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:55066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55066)

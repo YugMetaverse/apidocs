@@ -21,19 +21,11 @@
 
 • **ELandscapeLayerPaintingRestriction\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33932)
-
 ___
 
 ### ExistingOnly
 
 • **ExistingOnly** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33932)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33932)
-
 ___
 
 ### UseComponentWhitelist
 
 • **UseComponentWhitelist** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33932)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **UseMaxLayers** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33932)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33932)

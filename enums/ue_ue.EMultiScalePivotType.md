@@ -21,19 +21,11 @@
 
 • **Average** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34073)
-
 ___
 
 ### BoundCenter
 
 • **BoundCenter** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34073)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **EMultiScalePivotType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34073)
-
 ___
 
 ### FirstKey
 
 • **FirstKey** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34073)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **LastKey** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34073)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34073)

@@ -53,19 +53,11 @@
 
 [GizmoBaseTransformSource](ue_ue.GizmoBaseTransformSource.md).[constructor](ue_ue.GizmoBaseTransformSource.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:38200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38200)
-
 ## Properties
 
 ### Proxy
 
 • **Proxy**: [`TransformProxy`](ue_ue.TransformProxy.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38201)
 
 ___
 
@@ -77,19 +69,11 @@ ___
 
 [GizmoBaseTransformSource](ue_ue.GizmoBaseTransformSource.md).[__tid_GizmoBaseTransformSource__](ue_ue.GizmoBaseTransformSource.md#__tid_gizmobasetransformsource__)
 
-#### Defined in
-
-[ue/ue.d.ts:37982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37982)
-
 ___
 
 ### \_\_tid\_GizmoTransformProxyTransformSource\_\_
 
 • **\_\_tid\_GizmoTransformProxyTransformSource\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38206)
 
 ___
 
@@ -100,10 +84,6 @@ ___
 #### Inherited from
 
 [GizmoBaseTransformSource](ue_ue.GizmoBaseTransformSource.md).[__tid_Object__](ue_ue.GizmoBaseTransformSource.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -129,10 +109,6 @@ ___
 
 [GizmoBaseTransformSource](ue_ue.GizmoBaseTransformSource.md).[CreateDefaultSubobject](ue_ue.GizmoBaseTransformSource.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -153,10 +129,6 @@ ___
 
 [GizmoBaseTransformSource](ue_ue.GizmoBaseTransformSource.md).[ExecuteUbergraph](ue_ue.GizmoBaseTransformSource.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -170,10 +142,6 @@ ___
 #### Inherited from
 
 [GizmoBaseTransformSource](ue_ue.GizmoBaseTransformSource.md).[GetClass](ue_ue.GizmoBaseTransformSource.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -189,10 +157,6 @@ ___
 
 [GizmoBaseTransformSource](ue_ue.GizmoBaseTransformSource.md).[GetName](ue_ue.GizmoBaseTransformSource.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -207,10 +171,6 @@ ___
 
 [GizmoBaseTransformSource](ue_ue.GizmoBaseTransformSource.md).[GetOuter](ue_ue.GizmoBaseTransformSource.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -224,10 +184,6 @@ ___
 #### Inherited from
 
 [GizmoBaseTransformSource](ue_ue.GizmoBaseTransformSource.md).[GetWorld](ue_ue.GizmoBaseTransformSource.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -250,10 +206,6 @@ ___
 
 [GizmoBaseTransformSource](ue_ue.GizmoBaseTransformSource.md).[Find](ue_ue.GizmoBaseTransformSource.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:38203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38203)
-
 ___
 
 ### Load
@@ -274,10 +226,6 @@ ___
 
 [GizmoBaseTransformSource](ue_ue.GizmoBaseTransformSource.md).[Load](ue_ue.GizmoBaseTransformSource.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:38204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38204)
-
 ___
 
 ### StaticClass
@@ -291,7 +239,3 @@ ___
 #### Overrides
 
 [GizmoBaseTransformSource](ue_ue.GizmoBaseTransformSource.md).[StaticClass](ue_ue.GizmoBaseTransformSource.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:38202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38202)

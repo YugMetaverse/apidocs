@@ -57,10 +57,6 @@
 
 [DEditorParameterValue](ue_ue.DEditorParameterValue.md).[constructor](ue_ue.DEditorParameterValue.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:30419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30419)
-
 ## Properties
 
 ### ExpressionId
@@ -70,10 +66,6 @@
 #### Inherited from
 
 [DEditorParameterValue](ue_ue.DEditorParameterValue.md).[ExpressionId](ue_ue.DEditorParameterValue.md#expressionid)
-
-#### Defined in
-
-[ue/ue.d.ts:30376](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30376)
 
 ___
 
@@ -85,19 +77,11 @@ ___
 
 [DEditorParameterValue](ue_ue.DEditorParameterValue.md).[ParameterInfo](ue_ue.DEditorParameterValue.md#parameterinfo)
 
-#### Defined in
-
-[ue/ue.d.ts:30375](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30375)
-
 ___
 
 ### ParameterValue
 
 • **ParameterValue**: [`RuntimeVirtualTexture`](ue_ue.RuntimeVirtualTexture.md)
-
-#### Defined in
-
-[ue/ue.d.ts:30420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30420)
 
 ___
 
@@ -109,10 +93,6 @@ ___
 
 [DEditorParameterValue](ue_ue.DEditorParameterValue.md).[SortPriority](ue_ue.DEditorParameterValue.md#sortpriority)
 
-#### Defined in
-
-[ue/ue.d.ts:30377](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30377)
-
 ___
 
 ### \_\_tid\_DEditorParameterValue\_\_
@@ -123,19 +103,11 @@ ___
 
 [DEditorParameterValue](ue_ue.DEditorParameterValue.md).[__tid_DEditorParameterValue__](ue_ue.DEditorParameterValue.md#__tid_deditorparametervalue__)
 
-#### Defined in
-
-[ue/ue.d.ts:30382](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30382)
-
 ___
 
 ### \_\_tid\_DEditorRuntimeVirtualTextureParameterValue\_\_
 
 • **\_\_tid\_DEditorRuntimeVirtualTextureParameterValue\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30425)
 
 ___
 
@@ -147,10 +119,6 @@ ___
 
 [DEditorParameterValue](ue_ue.DEditorParameterValue.md).[__tid_Object__](ue_ue.DEditorParameterValue.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bOverride
@@ -160,10 +128,6 @@ ___
 #### Inherited from
 
 [DEditorParameterValue](ue_ue.DEditorParameterValue.md).[bOverride](ue_ue.DEditorParameterValue.md#boverride)
-
-#### Defined in
-
-[ue/ue.d.ts:30374](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30374)
 
 ## Methods
 
@@ -189,10 +153,6 @@ ___
 
 [DEditorParameterValue](ue_ue.DEditorParameterValue.md).[CreateDefaultSubobject](ue_ue.DEditorParameterValue.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -213,10 +173,6 @@ ___
 
 [DEditorParameterValue](ue_ue.DEditorParameterValue.md).[ExecuteUbergraph](ue_ue.DEditorParameterValue.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -230,10 +186,6 @@ ___
 #### Inherited from
 
 [DEditorParameterValue](ue_ue.DEditorParameterValue.md).[GetClass](ue_ue.DEditorParameterValue.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -249,10 +201,6 @@ ___
 
 [DEditorParameterValue](ue_ue.DEditorParameterValue.md).[GetName](ue_ue.DEditorParameterValue.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -267,10 +215,6 @@ ___
 
 [DEditorParameterValue](ue_ue.DEditorParameterValue.md).[GetOuter](ue_ue.DEditorParameterValue.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -284,10 +228,6 @@ ___
 #### Inherited from
 
 [DEditorParameterValue](ue_ue.DEditorParameterValue.md).[GetWorld](ue_ue.DEditorParameterValue.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -310,10 +250,6 @@ ___
 
 [DEditorParameterValue](ue_ue.DEditorParameterValue.md).[Find](ue_ue.DEditorParameterValue.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:30422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30422)
-
 ___
 
 ### Load
@@ -334,10 +270,6 @@ ___
 
 [DEditorParameterValue](ue_ue.DEditorParameterValue.md).[Load](ue_ue.DEditorParameterValue.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:30423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30423)
-
 ___
 
 ### StaticClass
@@ -351,7 +283,3 @@ ___
 #### Overrides
 
 [DEditorParameterValue](ue_ue.DEditorParameterValue.md).[StaticClass](ue_ue.DEditorParameterValue.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:30421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30421)

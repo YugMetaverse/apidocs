@@ -28,10 +28,6 @@
 
 • **new ARVideoFormat**()
 
-#### Defined in
-
-[ue/ue.d.ts:20753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20753)
-
 • **new ARVideoFormat**(`FPS`, `Width`, `Height`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Width` | `number` |
 | `Height` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:20754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20754)
-
 ## Properties
 
 ### FPS
 
 • **FPS**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20755)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Height**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20757)
-
 ___
 
 ### Width
 
 • **Width**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20756)
-
 ___
 
 ### \_\_tid\_ARVideoFormat\_\_
 
 • `Private` **\_\_tid\_ARVideoFormat\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:20763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20763)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:20761](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20761)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:20762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20762)

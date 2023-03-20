@@ -20,19 +20,11 @@
 
 • **FUNCEXPORT\_CppStatic** = ``32``
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:96](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L96)
-
 ___
 
 ### FUNCEXPORT\_CustomThunk
 
 • **FUNCEXPORT\_CustomThunk** = ``64``
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:97](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L97)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **FUNCEXPORT\_Final** = ``1``
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:91](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L91)
-
 ___
 
 ### FUNCEXPORT\_Inline
 
 • **FUNCEXPORT\_Inline** = ``16``
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:95](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L95)
-
 ___
 
 ### FUNCEXPORT\_RequiredAPI
 
 • **FUNCEXPORT\_RequiredAPI** = ``8``
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:94](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L94)

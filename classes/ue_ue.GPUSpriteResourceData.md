@@ -65,10 +65,6 @@
 
 • **new GPUSpriteResourceData**()
 
-#### Defined in
-
-[ue/ue.d.ts:56517](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56517)
-
 • **new GPUSpriteResourceData**(`QuantizedColorSamples`, `QuantizedMiscSamples`, `QuantizedSimulationAttrSamples`, `ColorScale`, `ColorBias`, `MiscScale`, `MiscBias`, `SimulationAttrCurveScale`, `SimulationAttrCurveBias`, `SubImageSize`, `SizeBySpeed`, `ConstantAcceleration`, `OrbitOffsetBase`, `OrbitOffsetRange`, `OrbitFrequencyBase`, `OrbitFrequencyRange`, `OrbitPhaseBase`, `OrbitPhaseRange`, `GlobalVectorFieldScale`, `GlobalVectorFieldTightness`, `PerParticleVectorFieldScale`, `PerParticleVectorFieldBias`, `DragCoefficientScale`, `DragCoefficientBias`, `ResilienceScale`, `ResilienceBias`, `CollisionRadiusScale`, `CollisionRadiusBias`, `CollisionTimeBias`, `CollisionRandomSpread`, `CollisionRandomDistribution`, `OneMinusFriction`, `RotationRateScale`, `CameraMotionBlurAmount`, `ScreenAlignment`, `LockAxisFlag`, `PivotOffset`, `bRemoveHMDRoll`, `MinFacingCameraBlendDistance`, `MaxFacingCameraBlendDistance`)
 
 #### Parameters
@@ -116,19 +112,11 @@
 | `MinFacingCameraBlendDistance` | `number` |
 | `MaxFacingCameraBlendDistance` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:56518](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56518)
-
 ## Properties
 
 ### CameraMotionBlurAmount
 
 • **CameraMotionBlurAmount**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:56552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56552)
 
 ___
 
@@ -136,19 +124,11 @@ ___
 
 • **CollisionRadiusBias**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:56546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56546)
-
 ___
 
 ### CollisionRadiusScale
 
 • **CollisionRadiusScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:56545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56545)
 
 ___
 
@@ -156,19 +136,11 @@ ___
 
 • **CollisionRandomDistribution**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:56549](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56549)
-
 ___
 
 ### CollisionRandomSpread
 
 • **CollisionRandomSpread**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:56548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56548)
 
 ___
 
@@ -176,19 +148,11 @@ ___
 
 • **CollisionTimeBias**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:56547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56547)
-
 ___
 
 ### ColorBias
 
 • **ColorBias**: [`Vector4`](ue_ue_s.Vector4.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56523](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56523)
 
 ___
 
@@ -196,19 +160,11 @@ ___
 
 • **ColorScale**: [`Vector4`](ue_ue_s.Vector4.md)
 
-#### Defined in
-
-[ue/ue.d.ts:56522](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56522)
-
 ___
 
 ### ConstantAcceleration
 
 • **ConstantAcceleration**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56530)
 
 ___
 
@@ -216,19 +172,11 @@ ___
 
 • **DragCoefficientBias**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:56542](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56542)
-
 ___
 
 ### DragCoefficientScale
 
 • **DragCoefficientScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:56541](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56541)
 
 ___
 
@@ -236,19 +184,11 @@ ___
 
 • **GlobalVectorFieldScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:56537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56537)
-
 ___
 
 ### GlobalVectorFieldTightness
 
 • **GlobalVectorFieldTightness**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:56538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56538)
 
 ___
 
@@ -256,19 +196,11 @@ ___
 
 • **LockAxisFlag**: [`EParticleAxisLock`](../enums/ue_ue.EParticleAxisLock.md)
 
-#### Defined in
-
-[ue/ue.d.ts:56554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56554)
-
 ___
 
 ### MaxFacingCameraBlendDistance
 
 • **MaxFacingCameraBlendDistance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:56558](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56558)
 
 ___
 
@@ -276,19 +208,11 @@ ___
 
 • **MinFacingCameraBlendDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:56557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56557)
-
 ___
 
 ### MiscBias
 
 • **MiscBias**: [`Vector4`](ue_ue_s.Vector4.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56525)
 
 ___
 
@@ -296,19 +220,11 @@ ___
 
 • **MiscScale**: [`Vector4`](ue_ue_s.Vector4.md)
 
-#### Defined in
-
-[ue/ue.d.ts:56524](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56524)
-
 ___
 
 ### OneMinusFriction
 
 • **OneMinusFriction**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:56550](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56550)
 
 ___
 
@@ -316,19 +232,11 @@ ___
 
 • **OrbitFrequencyBase**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:56533](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56533)
-
 ___
 
 ### OrbitFrequencyRange
 
 • **OrbitFrequencyRange**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56534](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56534)
 
 ___
 
@@ -336,19 +244,11 @@ ___
 
 • **OrbitOffsetBase**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:56531](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56531)
-
 ___
 
 ### OrbitOffsetRange
 
 • **OrbitOffsetRange**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56532](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56532)
 
 ___
 
@@ -356,19 +256,11 @@ ___
 
 • **OrbitPhaseBase**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:56535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56535)
-
 ___
 
 ### OrbitPhaseRange
 
 • **OrbitPhaseRange**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56536](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56536)
 
 ___
 
@@ -376,19 +268,11 @@ ___
 
 • **PerParticleVectorFieldBias**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:56540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56540)
-
 ___
 
 ### PerParticleVectorFieldScale
 
 • **PerParticleVectorFieldScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:56539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56539)
 
 ___
 
@@ -396,19 +280,11 @@ ___
 
 • **PivotOffset**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:56555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56555)
-
 ___
 
 ### QuantizedColorSamples
 
 • **QuantizedColorSamples**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Color`](ue_ue_s.Color.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:56519](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56519)
 
 ___
 
@@ -416,19 +292,11 @@ ___
 
 • **QuantizedMiscSamples**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Color`](ue_ue_s.Color.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:56520](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56520)
-
 ___
 
 ### QuantizedSimulationAttrSamples
 
 • **QuantizedSimulationAttrSamples**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Color`](ue_ue_s.Color.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:56521](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56521)
 
 ___
 
@@ -436,19 +304,11 @@ ___
 
 • **ResilienceBias**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:56544](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56544)
-
 ___
 
 ### ResilienceScale
 
 • **ResilienceScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:56543](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56543)
 
 ___
 
@@ -456,19 +316,11 @@ ___
 
 • **RotationRateScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:56551](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56551)
-
 ___
 
 ### ScreenAlignment
 
 • **ScreenAlignment**: [`EParticleScreenAlignment`](../enums/ue_ue.EParticleScreenAlignment.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56553)
 
 ___
 
@@ -476,19 +328,11 @@ ___
 
 • **SimulationAttrCurveBias**: [`Vector4`](ue_ue_s.Vector4.md)
 
-#### Defined in
-
-[ue/ue.d.ts:56527](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56527)
-
 ___
 
 ### SimulationAttrCurveScale
 
 • **SimulationAttrCurveScale**: [`Vector4`](ue_ue_s.Vector4.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56526](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56526)
 
 ___
 
@@ -496,19 +340,11 @@ ___
 
 • **SizeBySpeed**: [`Vector4`](ue_ue_s.Vector4.md)
 
-#### Defined in
-
-[ue/ue.d.ts:56529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56529)
-
 ___
 
 ### SubImageSize
 
 • **SubImageSize**: [`Vector4`](ue_ue_s.Vector4.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56528](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56528)
 
 ___
 
@@ -516,19 +352,11 @@ ___
 
 • `Private` **\_\_tid\_GPUSpriteResourceData\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:56564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56564)
-
 ___
 
 ### bRemoveHMDRoll
 
 • **bRemoveHMDRoll**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:56556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56556)
 
 ## Methods
 
@@ -544,10 +372,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:56562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56562)
-
 ___
 
 ### StaticStruct
@@ -557,7 +381,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56563)

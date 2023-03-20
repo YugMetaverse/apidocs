@@ -80,29 +80,17 @@
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[constructor](ue_ue.UserDefinedCaptureProtocol.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:64868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64868)
-
 ## Properties
 
 ### CompressionQuality
 
 • **CompressionQuality**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:64871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64871)
-
 ___
 
 ### Format
 
 • **Format**: [`EDesiredImageFormat`](../enums/ue_ue.EDesiredImageFormat.md)
-
-#### Defined in
-
-[ue/ue.d.ts:64869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64869)
 
 ___
 
@@ -114,10 +102,6 @@ ___
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[State](ue_ue.UserDefinedCaptureProtocol.md#state)
 
-#### Defined in
-
-[ue/ue.d.ts:22538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22538)
-
 ___
 
 ### World
@@ -127,10 +111,6 @@ ___
 #### Inherited from
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[World](ue_ue.UserDefinedCaptureProtocol.md#world)
-
-#### Defined in
-
-[ue/ue.d.ts:64831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64831)
 
 ___
 
@@ -142,10 +122,6 @@ ___
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[__tid_MovieSceneCaptureProtocolBase__](ue_ue.UserDefinedCaptureProtocol.md#__tid_moviescenecaptureprotocolbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:22545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22545)
-
 ___
 
 ### \_\_tid\_MovieSceneImageCaptureProtocolBase\_\_
@@ -155,10 +131,6 @@ ___
 #### Inherited from
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[__tid_MovieSceneImageCaptureProtocolBase__](ue_ue.UserDefinedCaptureProtocol.md#__tid_moviesceneimagecaptureprotocolbase__)
-
-#### Defined in
-
-[ue/ue.d.ts:22554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22554)
 
 ___
 
@@ -170,10 +142,6 @@ ___
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[__tid_Object__](ue_ue.UserDefinedCaptureProtocol.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_UserDefinedCaptureProtocol\_\_
@@ -184,29 +152,17 @@ ___
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[__tid_UserDefinedCaptureProtocol__](ue_ue.UserDefinedCaptureProtocol.md#__tid_userdefinedcaptureprotocol__)
 
-#### Defined in
-
-[ue/ue.d.ts:64852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64852)
-
 ___
 
 ### \_\_tid\_UserDefinedImageCaptureProtocol\_\_
 
 • **\_\_tid\_UserDefinedImageCaptureProtocol\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:64879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64879)
-
 ___
 
 ### bEnableCompression
 
 • **bEnableCompression**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64870)
 
 ## Methods
 
@@ -232,10 +188,6 @@ ___
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[CreateDefaultSubobject](ue_ue.UserDefinedCaptureProtocol.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -255,10 +207,6 @@ ___
 #### Inherited from
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[ExecuteUbergraph](ue_ue.UserDefinedCaptureProtocol.md#executeubergraph)
-
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
 
 ___
 
@@ -280,10 +228,6 @@ ___
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[GenerateFilename](ue_ue.UserDefinedCaptureProtocol.md#generatefilename)
 
-#### Defined in
-
-[ue/ue.d.ts:64832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64832)
-
 ___
 
 ### GenerateFilenameForBuffer
@@ -301,10 +245,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:64872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64872)
-
 ___
 
 ### GenerateFilenameForCurrentFrame
@@ -314,10 +254,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:64873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64873)
 
 ___
 
@@ -333,10 +269,6 @@ ___
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[GetClass](ue_ue.UserDefinedCaptureProtocol.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetCurrentFrameMetrics
@@ -350,10 +282,6 @@ ___
 #### Inherited from
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[GetCurrentFrameMetrics](ue_ue.UserDefinedCaptureProtocol.md#getcurrentframemetrics)
-
-#### Defined in
-
-[ue/ue.d.ts:64833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64833)
 
 ___
 
@@ -369,10 +297,6 @@ ___
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[GetName](ue_ue.UserDefinedCaptureProtocol.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -386,10 +310,6 @@ ___
 #### Inherited from
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[GetOuter](ue_ue.UserDefinedCaptureProtocol.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -405,10 +325,6 @@ ___
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[GetState](ue_ue.UserDefinedCaptureProtocol.md#getstate)
 
-#### Defined in
-
-[ue/ue.d.ts:22539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22539)
-
 ___
 
 ### GetWorld
@@ -422,10 +338,6 @@ ___
 #### Inherited from
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[GetWorld](ue_ue.UserDefinedCaptureProtocol.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -441,10 +353,6 @@ ___
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[IsCapturing](ue_ue.UserDefinedCaptureProtocol.md#iscapturing)
 
-#### Defined in
-
-[ue/ue.d.ts:22540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22540)
-
 ___
 
 ### OnBeginFinalize
@@ -458,10 +366,6 @@ ___
 #### Inherited from
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[OnBeginFinalize](ue_ue.UserDefinedCaptureProtocol.md#onbeginfinalize)
-
-#### Defined in
-
-[ue/ue.d.ts:64834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64834)
 
 ___
 
@@ -477,10 +381,6 @@ ___
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[OnCanFinalize](ue_ue.UserDefinedCaptureProtocol.md#oncanfinalize)
 
-#### Defined in
-
-[ue/ue.d.ts:64835](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64835)
-
 ___
 
 ### OnCaptureFrame
@@ -494,10 +394,6 @@ ___
 #### Inherited from
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[OnCaptureFrame](ue_ue.UserDefinedCaptureProtocol.md#oncaptureframe)
-
-#### Defined in
-
-[ue/ue.d.ts:64836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64836)
 
 ___
 
@@ -513,10 +409,6 @@ ___
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[OnFinalize](ue_ue.UserDefinedCaptureProtocol.md#onfinalize)
 
-#### Defined in
-
-[ue/ue.d.ts:64837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64837)
-
 ___
 
 ### OnPauseCapture
@@ -530,10 +422,6 @@ ___
 #### Inherited from
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[OnPauseCapture](ue_ue.UserDefinedCaptureProtocol.md#onpausecapture)
-
-#### Defined in
-
-[ue/ue.d.ts:64838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64838)
 
 ___
 
@@ -557,10 +445,6 @@ ___
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[OnPixelsReceived](ue_ue.UserDefinedCaptureProtocol.md#onpixelsreceived)
 
-#### Defined in
-
-[ue/ue.d.ts:64839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64839)
-
 ___
 
 ### OnPreTick
@@ -574,10 +458,6 @@ ___
 #### Inherited from
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[OnPreTick](ue_ue.UserDefinedCaptureProtocol.md#onpretick)
-
-#### Defined in
-
-[ue/ue.d.ts:64840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64840)
 
 ___
 
@@ -593,10 +473,6 @@ ___
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[OnSetup](ue_ue.UserDefinedCaptureProtocol.md#onsetup)
 
-#### Defined in
-
-[ue/ue.d.ts:64841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64841)
-
 ___
 
 ### OnStartCapture
@@ -610,10 +486,6 @@ ___
 #### Inherited from
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[OnStartCapture](ue_ue.UserDefinedCaptureProtocol.md#onstartcapture)
-
-#### Defined in
-
-[ue/ue.d.ts:64842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64842)
 
 ___
 
@@ -629,10 +501,6 @@ ___
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[OnTick](ue_ue.UserDefinedCaptureProtocol.md#ontick)
 
-#### Defined in
-
-[ue/ue.d.ts:64843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64843)
-
 ___
 
 ### OnWarmUp
@@ -646,10 +514,6 @@ ___
 #### Inherited from
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[OnWarmUp](ue_ue.UserDefinedCaptureProtocol.md#onwarmup)
-
-#### Defined in
-
-[ue/ue.d.ts:64844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64844)
 
 ___
 
@@ -672,10 +536,6 @@ ___
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[ResolveBuffer](ue_ue.UserDefinedCaptureProtocol.md#resolvebuffer)
 
-#### Defined in
-
-[ue/ue.d.ts:64845](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64845)
-
 ___
 
 ### StartCapturingFinalPixels
@@ -696,10 +556,6 @@ ___
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[StartCapturingFinalPixels](ue_ue.UserDefinedCaptureProtocol.md#startcapturingfinalpixels)
 
-#### Defined in
-
-[ue/ue.d.ts:64846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64846)
-
 ___
 
 ### StopCapturingFinalPixels
@@ -713,10 +569,6 @@ ___
 #### Inherited from
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[StopCapturingFinalPixels](ue_ue.UserDefinedCaptureProtocol.md#stopcapturingfinalpixels)
-
-#### Defined in
-
-[ue/ue.d.ts:64847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64847)
 
 ___
 
@@ -736,10 +588,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:64874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64874)
 
 ___
 
@@ -762,10 +610,6 @@ ___
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[Find](ue_ue.UserDefinedCaptureProtocol.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:64876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64876)
-
 ___
 
 ### Load
@@ -786,10 +630,6 @@ ___
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[Load](ue_ue.UserDefinedCaptureProtocol.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:64877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64877)
-
 ___
 
 ### StaticClass
@@ -803,7 +643,3 @@ ___
 #### Overrides
 
 [UserDefinedCaptureProtocol](ue_ue.UserDefinedCaptureProtocol.md).[StaticClass](ue_ue.UserDefinedCaptureProtocol.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:64875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64875)

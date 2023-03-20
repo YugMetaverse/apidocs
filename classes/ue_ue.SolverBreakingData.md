@@ -31,10 +31,6 @@
 
 • **new SolverBreakingData**()
 
-#### Defined in
-
-[ue/ue.d.ts:26641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26641)
-
 • **new SolverBreakingData**(`Location`, `Velocity`, `AngularVelocity`, `Mass`, `ParticleIndex`, `ParticleIndexMesh`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `ParticleIndex` | `number` |
 | `ParticleIndexMesh` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:26642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26642)
-
 ## Properties
 
 ### AngularVelocity
 
 • **AngularVelocity**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26645)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **Location**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26643)
-
 ___
 
 ### Mass
 
 • **Mass**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26646)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **ParticleIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26647)
-
 ___
 
 ### ParticleIndexMesh
 
 • **ParticleIndexMesh**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26648)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **Velocity**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26644)
-
 ___
 
 ### \_\_tid\_SolverBreakingData\_\_
 
 • `Private` **\_\_tid\_SolverBreakingData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26654)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26652)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26653)

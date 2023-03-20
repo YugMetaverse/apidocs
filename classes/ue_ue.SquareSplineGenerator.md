@@ -55,19 +55,11 @@
 
 [SplineGeneratorBase](ue_ue.SplineGeneratorBase.md).[constructor](ue_ue.SplineGeneratorBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:62055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62055)
-
 ## Properties
 
 ### Length
 
 • **Length**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:62056](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62056)
 
 ___
 
@@ -79,10 +71,6 @@ ___
 
 [SplineGeneratorBase](ue_ue.SplineGeneratorBase.md).[ShapeAddMode](ue_ue.SplineGeneratorBase.md#shapeaddmode)
 
-#### Defined in
-
-[ue/ue.d.ts:21180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21180)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -92,10 +80,6 @@ ___
 #### Inherited from
 
 [SplineGeneratorBase](ue_ue.SplineGeneratorBase.md).[__tid_Object__](ue_ue.SplineGeneratorBase.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -107,29 +91,17 @@ ___
 
 [SplineGeneratorBase](ue_ue.SplineGeneratorBase.md).[__tid_SplineGeneratorBase__](ue_ue.SplineGeneratorBase.md#__tid_splinegeneratorbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:21185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21185)
-
 ___
 
 ### \_\_tid\_SquareSplineGenerator\_\_
 
 • **\_\_tid\_SquareSplineGenerator\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:62062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62062)
-
 ___
 
 ### bBranchRight
 
 • **bBranchRight**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:62057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62057)
 
 ## Methods
 
@@ -155,10 +127,6 @@ ___
 
 [SplineGeneratorBase](ue_ue.SplineGeneratorBase.md).[CreateDefaultSubobject](ue_ue.SplineGeneratorBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -179,10 +147,6 @@ ___
 
 [SplineGeneratorBase](ue_ue.SplineGeneratorBase.md).[ExecuteUbergraph](ue_ue.SplineGeneratorBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -196,10 +160,6 @@ ___
 #### Inherited from
 
 [SplineGeneratorBase](ue_ue.SplineGeneratorBase.md).[GetClass](ue_ue.SplineGeneratorBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -215,10 +175,6 @@ ___
 
 [SplineGeneratorBase](ue_ue.SplineGeneratorBase.md).[GetName](ue_ue.SplineGeneratorBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -233,10 +189,6 @@ ___
 
 [SplineGeneratorBase](ue_ue.SplineGeneratorBase.md).[GetOuter](ue_ue.SplineGeneratorBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -250,10 +202,6 @@ ___
 #### Inherited from
 
 [SplineGeneratorBase](ue_ue.SplineGeneratorBase.md).[GetWorld](ue_ue.SplineGeneratorBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -276,10 +224,6 @@ ___
 
 [SplineGeneratorBase](ue_ue.SplineGeneratorBase.md).[Find](ue_ue.SplineGeneratorBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:62059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62059)
-
 ___
 
 ### Load
@@ -300,10 +244,6 @@ ___
 
 [SplineGeneratorBase](ue_ue.SplineGeneratorBase.md).[Load](ue_ue.SplineGeneratorBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:62060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62060)
-
 ___
 
 ### StaticClass
@@ -317,7 +257,3 @@ ___
 #### Overrides
 
 [SplineGeneratorBase](ue_ue.SplineGeneratorBase.md).[StaticClass](ue_ue.SplineGeneratorBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:62058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62058)

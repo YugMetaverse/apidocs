@@ -57,19 +57,11 @@
 
 • **new SlateWidgetStyle**()
 
-#### Defined in
-
-[ue/ue.d.ts:25585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25585)
-
 ## Properties
 
 ### \_\_tid\_SlateWidgetStyle\_\_
 
 • `Private` **\_\_tid\_SlateWidgetStyle\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:25591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25591)
 
 ## Methods
 
@@ -85,10 +77,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25589)
-
 ___
 
 ### StaticStruct
@@ -98,7 +86,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25590)

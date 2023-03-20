@@ -26,10 +26,6 @@
 
 • **new IOSBuildResourceFilePath**()
 
-#### Defined in
-
-[ue/ue.d.ts:40453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40453)
-
 • **new IOSBuildResourceFilePath**(`FilePath`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `FilePath` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:40454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40454)
-
 ## Properties
 
 ### FilePath
 
 • **FilePath**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:40455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40455)
-
 ___
 
 ### \_\_tid\_IOSBuildResourceFilePath\_\_
 
 • `Private` **\_\_tid\_IOSBuildResourceFilePath\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40461](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40461)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:40459](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40459)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:40460](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40460)

@@ -20,19 +20,11 @@
 
 • **AnimationBlueprint** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5201)
-
 ___
 
 ### AnimationCustomMode
 
 • **AnimationCustomMode** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5201)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **AnimationSingleNode** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5201)
-
 ___
 
 ### EAnimationMode\_MAX
 
 • **EAnimationMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5201)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5201)

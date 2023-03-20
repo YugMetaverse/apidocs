@@ -25,19 +25,11 @@
 
 • **AACF\_Disabled** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31365)
-
 ___
 
 ### AACF\_DriveAttribute\_DEPRECATED
 
 • **AACF\_DriveAttribute\_DEPRECATED** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31365)
 
 ___
 
@@ -45,19 +37,11 @@ ___
 
 • **AACF\_DriveMaterial\_DEPRECATED** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31365)
-
 ___
 
 ### AACF\_DriveMorphTarget\_DEPRECATED
 
 • **AACF\_DriveMorphTarget\_DEPRECATED** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31365)
 
 ___
 
@@ -65,19 +49,11 @@ ___
 
 • **AACF\_DriveTrack** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31365)
-
 ___
 
 ### AACF\_Editable
 
 • **AACF\_Editable** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31365)
 
 ___
 
@@ -85,19 +61,11 @@ ___
 
 • **AACF\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31365)
-
 ___
 
 ### AACF\_Metadata
 
 • **AACF\_Metadata** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31365)
 
 ___
 
@@ -105,16 +73,8 @@ ___
 
 • **AACF\_NONE** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31365)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31365)

@@ -30,10 +30,6 @@
 
 • **new SkeletalMeshSamplingRegion**()
 
-#### Defined in
-
-[ue/ue.d.ts:3996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3996)
-
 • **new SkeletalMeshSamplingRegion**(`Name`, `LODIndex`, `bSupportUniformlyDistributedSampling`, `MaterialFilters`, `BoneFilters`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `MaterialFilters` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SkeletalMeshSamplingRegionMaterialFilter`](ue_ue.SkeletalMeshSamplingRegionMaterialFilter.md)\> |
 | `BoneFilters` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SkeletalMeshSamplingRegionBoneFilter`](ue_ue.SkeletalMeshSamplingRegionBoneFilter.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:3997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3997)
-
 ## Properties
 
 ### BoneFilters
 
 • **BoneFilters**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SkeletalMeshSamplingRegionBoneFilter`](ue_ue.SkeletalMeshSamplingRegionBoneFilter.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:4002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4002)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **LODIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3999)
-
 ___
 
 ### MaterialFilters
 
 • **MaterialFilters**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SkeletalMeshSamplingRegionMaterialFilter`](ue_ue.SkeletalMeshSamplingRegionMaterialFilter.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:4001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4001)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:3998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3998)
-
 ___
 
 ### \_\_tid\_SkeletalMeshSamplingRegion\_\_
 
 • `Private` **\_\_tid\_SkeletalMeshSamplingRegion\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:4008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4008)
-
 ___
 
 ### bSupportUniformlyDistributedSampling
 
 • **bSupportUniformlyDistributedSampling**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4000)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4006)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4007)

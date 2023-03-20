@@ -26,10 +26,6 @@
 
 • **new MovieSceneObjectBindingIDs**()
 
-#### Defined in
-
-[ue/ue.d.ts:11606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11606)
-
 • **new MovieSceneObjectBindingIDs**(`IDs`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `IDs` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MovieSceneObjectBindingID`](ue_ue.MovieSceneObjectBindingID.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:11607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11607)
-
 ## Properties
 
 ### IDs
 
 • **IDs**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MovieSceneObjectBindingID`](ue_ue.MovieSceneObjectBindingID.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:11608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11608)
-
 ___
 
 ### \_\_tid\_MovieSceneObjectBindingIDs\_\_
 
 • `Private` **\_\_tid\_MovieSceneObjectBindingIDs\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11614)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11612)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11613)

@@ -60,19 +60,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:44517](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44517)
-
 ## Properties
 
 ### AlignToSurface
 
 • **AlignToSurface**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44526](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44526)
 
 ___
 
@@ -80,19 +72,11 @@ ___
 
 • **EndCullDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44524](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44524)
-
 ___
 
 ### GrassDensity
 
 • **GrassDensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44521](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44521)
 
 ___
 
@@ -100,19 +84,11 @@ ___
 
 • **GrassMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44520](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44520)
-
 ___
 
 ### GrassVarieties
 
 • **GrassVarieties**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`GrassVariety`](ue_ue.GrassVariety.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:44518](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44518)
 
 ___
 
@@ -120,19 +96,11 @@ ___
 
 • **PlacementJitter**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44522](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44522)
-
 ___
 
 ### RandomRotation
 
 • **RandomRotation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44525)
 
 ___
 
@@ -140,19 +108,11 @@ ___
 
 • **StartCullDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44523](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44523)
-
 ___
 
 ### \_\_tid\_LandscapeGrassType\_\_
 
 • **\_\_tid\_LandscapeGrassType\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44531](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44531)
 
 ___
 
@@ -164,19 +124,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bEnableDensityScaling
 
 • **bEnableDensityScaling**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44519](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44519)
 
 ## Methods
 
@@ -202,10 +154,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -226,10 +174,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -243,10 +187,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -262,10 +202,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -280,10 +216,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -297,10 +229,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -323,10 +251,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:44528](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44528)
-
 ___
 
 ### Load
@@ -347,10 +271,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:44529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44529)
-
 ___
 
 ### StaticClass
@@ -364,7 +284,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:44527](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44527)

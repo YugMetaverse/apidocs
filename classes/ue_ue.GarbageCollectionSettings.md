@@ -67,19 +67,11 @@
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[constructor](ue_ue.DeveloperSettings.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:37284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37284)
-
 ## Properties
 
 ### ActorClusteringEnabled
 
 • **ActorClusteringEnabled**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:37291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37291)
 
 ___
 
@@ -87,19 +79,11 @@ ___
 
 • **AllowParallelGC**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:37287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37287)
-
 ___
 
 ### BlueprintClusteringEnabled
 
 • **BlueprintClusteringEnabled**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:37292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37292)
 
 ___
 
@@ -107,19 +91,11 @@ ___
 
 • **CreateGCClusters**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:37290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37290)
-
 ___
 
 ### FlushStreamingOnGC
 
 • **FlushStreamingOnGC**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:37286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37286)
 
 ___
 
@@ -127,19 +103,11 @@ ___
 
 • **IncrementalBeginDestroyEnabled**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:37288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37288)
-
 ___
 
 ### MaxObjectsInEditor
 
 • **MaxObjectsInEditor**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:37299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37299)
 
 ___
 
@@ -147,19 +115,11 @@ ___
 
 • **MaxObjectsInGame**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:37298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37298)
-
 ___
 
 ### MaxObjectsNotConsideredByGC
 
 • **MaxObjectsNotConsideredByGC**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:37296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37296)
 
 ___
 
@@ -167,19 +127,11 @@ ___
 
 • **MinGCClusterSize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:37294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37294)
-
 ___
 
 ### MultithreadedDestructionEnabled
 
 • **MultithreadedDestructionEnabled**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:37289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37289)
 
 ___
 
@@ -187,19 +139,11 @@ ___
 
 • **NumRetriesBeforeForcingGC**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:37295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37295)
-
 ___
 
 ### SizeOfPermanentObjectPool
 
 • **SizeOfPermanentObjectPool**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:37297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37297)
 
 ___
 
@@ -207,19 +151,11 @@ ___
 
 • **TimeBetweenPurgingPendingKillObjects**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:37285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37285)
-
 ___
 
 ### UseDisregardForGCOnDedicatedServers
 
 • **UseDisregardForGCOnDedicatedServers**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:37293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37293)
 
 ___
 
@@ -231,19 +167,11 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[__tid_DeveloperSettings__](ue_ue.DeveloperSettings.md#__tid_developersettings__)
 
-#### Defined in
-
-[ue/ue.d.ts:16950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16950)
-
 ___
 
 ### \_\_tid\_GarbageCollectionSettings\_\_
 
 • **\_\_tid\_GarbageCollectionSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:37304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37304)
 
 ___
 
@@ -254,10 +182,6 @@ ___
 #### Inherited from
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[__tid_Object__](ue_ue.DeveloperSettings.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -283,10 +207,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[CreateDefaultSubobject](ue_ue.DeveloperSettings.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -307,10 +227,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[ExecuteUbergraph](ue_ue.DeveloperSettings.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -324,10 +240,6 @@ ___
 #### Inherited from
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetClass](ue_ue.DeveloperSettings.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -343,10 +255,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetName](ue_ue.DeveloperSettings.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -361,10 +269,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetOuter](ue_ue.DeveloperSettings.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -378,10 +282,6 @@ ___
 #### Inherited from
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetWorld](ue_ue.DeveloperSettings.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -404,10 +304,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[Find](ue_ue.DeveloperSettings.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:37301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37301)
-
 ___
 
 ### Load
@@ -428,10 +324,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[Load](ue_ue.DeveloperSettings.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:37302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37302)
-
 ___
 
 ### StaticClass
@@ -445,7 +337,3 @@ ___
 #### Overrides
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[StaticClass](ue_ue.DeveloperSettings.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:37300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37300)

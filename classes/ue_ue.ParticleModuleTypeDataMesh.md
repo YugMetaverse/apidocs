@@ -84,19 +84,11 @@
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[constructor](ue_ue.ParticleModuleTypeDataBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:56581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56581)
-
 ## Properties
 
 ### AxisLockOption
 
 • **AxisLockOption**: [`EParticleAxisLock`](../enums/ue_ue.EParticleAxisLock.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56592)
 
 ___
 
@@ -104,19 +96,11 @@ ___
 
 • **CameraFacingOption**: [`EMeshCameraFacingOptions`](../enums/ue_ue.EMeshCameraFacingOptions.md)
 
-#### Defined in
-
-[ue/ue.d.ts:56595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56595)
-
 ___
 
 ### CameraFacingUpAxisOption
 
 • **CameraFacingUpAxisOption**: [`EMeshCameraFacingUpAxis`](../enums/ue_ue.EMeshCameraFacingUpAxis.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56594)
 
 ___
 
@@ -124,19 +108,11 @@ ___
 
 • **CastShadows**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:56585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56585)
-
 ___
 
 ### DoCollisions
 
 • **DoCollisions**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:56586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56586)
 
 ___
 
@@ -148,19 +124,11 @@ ___
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[LODDuplicate](ue_ue.ParticleModuleTypeDataBase.md#lodduplicate)
 
-#### Defined in
-
-[ue/ue.d.ts:6745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6745)
-
 ___
 
 ### LODSizeScale
 
 • **LODSizeScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:56583](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56583)
 
 ___
 
@@ -172,29 +140,17 @@ ___
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[LODValidity](ue_ue.ParticleModuleTypeDataBase.md#lodvalidity)
 
-#### Defined in
-
-[ue/ue.d.ts:6748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6748)
-
 ___
 
 ### Mesh
 
 • **Mesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
 
-#### Defined in
-
-[ue/ue.d.ts:56582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56582)
-
 ___
 
 ### MeshAlignment
 
 • **MeshAlignment**: [`EMeshScreenAlignment`](../enums/ue_ue.EMeshScreenAlignment.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56587)
 
 ___
 
@@ -206,19 +162,11 @@ ___
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[ModuleEditorColor](ue_ue.ParticleModuleTypeDataBase.md#moduleeditorcolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6749)
-
 ___
 
 ### RollPitchYawRange
 
 • **RollPitchYawRange**: [`RawDistributionVector`](ue_ue.RawDistributionVector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56591)
 
 ___
 
@@ -230,10 +178,6 @@ ___
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[__tid_Object__](ue_ue.ParticleModuleTypeDataBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ParticleModuleTypeDataBase\_\_
@@ -244,19 +188,11 @@ ___
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[__tid_ParticleModuleTypeDataBase__](ue_ue.ParticleModuleTypeDataBase.md#__tid_particlemoduletypedatabase__)
 
-#### Defined in
-
-[ue/ue.d.ts:6904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6904)
-
 ___
 
 ### \_\_tid\_ParticleModuleTypeDataMesh\_\_
 
 • **\_\_tid\_ParticleModuleTypeDataMesh\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:56603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56603)
 
 ___
 
@@ -268,10 +204,6 @@ ___
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[__tid_ParticleModule__](ue_ue.ParticleModuleTypeDataBase.md#__tid_particlemodule__)
 
-#### Defined in
-
-[ue/ue.d.ts:6754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6754)
-
 ___
 
 ### b3DDrawMode
@@ -282,19 +214,11 @@ ___
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[b3DDrawMode](ue_ue.ParticleModuleTypeDataBase.md#b3ddrawmode)
 
-#### Defined in
-
-[ue/ue.d.ts:6741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6741)
-
 ___
 
 ### bApplyParticleRotationAsSpin
 
 • **bApplyParticleRotationAsSpin**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:56596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56596)
 
 ___
 
@@ -302,19 +226,11 @@ ___
 
 • **bCameraFacing**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:56593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56593)
-
 ___
 
 ### bCollisionsConsiderPartilceSize
 
 • **bCollisionsConsiderPartilceSize**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:56598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56598)
 
 ___
 
@@ -326,10 +242,6 @@ ___
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[bCurvesAsColor](ue_ue.ParticleModuleTypeDataBase.md#bcurvesascolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6740)
-
 ___
 
 ### bEditable
@@ -340,19 +252,11 @@ ___
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[bEditable](ue_ue.ParticleModuleTypeDataBase.md#beditable)
 
-#### Defined in
-
-[ue/ue.d.ts:6744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6744)
-
 ___
 
 ### bEnableMotionBlur
 
 • **bEnableMotionBlur**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:56590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56590)
 
 ___
 
@@ -364,19 +268,11 @@ ___
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[bEnabled](ue_ue.ParticleModuleTypeDataBase.md#benabled)
 
-#### Defined in
-
-[ue/ue.d.ts:6743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6743)
-
 ___
 
 ### bFaceCameraDirectionRatherThanPosition
 
 • **bFaceCameraDirectionRatherThanPosition**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:56597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56597)
 
 ___
 
@@ -388,29 +284,17 @@ ___
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[bFinalUpdateModule](ue_ue.ParticleModuleTypeDataBase.md#bfinalupdatemodule)
 
-#### Defined in
-
-[ue/ue.d.ts:6738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6738)
-
 ___
 
 ### bOverrideDefaultMotionBlurSettings
 
 • **bOverrideDefaultMotionBlurSettings**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:56589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56589)
-
 ___
 
 ### bOverrideMaterial
 
 • **bOverrideMaterial**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:56588](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56588)
 
 ___
 
@@ -422,10 +306,6 @@ ___
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[bRequiresLoopingNotification](ue_ue.ParticleModuleTypeDataBase.md#brequiresloopingnotification)
 
-#### Defined in
-
-[ue/ue.d.ts:6747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6747)
-
 ___
 
 ### bSpawnModule
@@ -435,10 +315,6 @@ ___
 #### Inherited from
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[bSpawnModule](ue_ue.ParticleModuleTypeDataBase.md#bspawnmodule)
-
-#### Defined in
-
-[ue/ue.d.ts:6736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6736)
 
 ___
 
@@ -450,10 +326,6 @@ ___
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[bSupported3DDrawMode](ue_ue.ParticleModuleTypeDataBase.md#bsupported3ddrawmode)
 
-#### Defined in
-
-[ue/ue.d.ts:6742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6742)
-
 ___
 
 ### bSupportsRandomSeed
@@ -463,10 +335,6 @@ ___
 #### Inherited from
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[bSupportsRandomSeed](ue_ue.ParticleModuleTypeDataBase.md#bsupportsrandomseed)
-
-#### Defined in
-
-[ue/ue.d.ts:6746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6746)
 
 ___
 
@@ -478,10 +346,6 @@ ___
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[bUpdateForGPUEmitter](ue_ue.ParticleModuleTypeDataBase.md#bupdateforgpuemitter)
 
-#### Defined in
-
-[ue/ue.d.ts:6739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6739)
-
 ___
 
 ### bUpdateModule
@@ -492,19 +356,11 @@ ___
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[bUpdateModule](ue_ue.ParticleModuleTypeDataBase.md#bupdatemodule)
 
-#### Defined in
-
-[ue/ue.d.ts:6737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6737)
-
 ___
 
 ### bUseStaticMeshLODs
 
 • **bUseStaticMeshLODs**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:56584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56584)
 
 ## Methods
 
@@ -530,10 +386,6 @@ ___
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[CreateDefaultSubobject](ue_ue.ParticleModuleTypeDataBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -554,10 +406,6 @@ ___
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[ExecuteUbergraph](ue_ue.ParticleModuleTypeDataBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -571,10 +419,6 @@ ___
 #### Inherited from
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[GetClass](ue_ue.ParticleModuleTypeDataBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -590,10 +434,6 @@ ___
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[GetName](ue_ue.ParticleModuleTypeDataBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -608,10 +448,6 @@ ___
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[GetOuter](ue_ue.ParticleModuleTypeDataBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -625,10 +461,6 @@ ___
 #### Inherited from
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[GetWorld](ue_ue.ParticleModuleTypeDataBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -651,10 +483,6 @@ ___
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[Find](ue_ue.ParticleModuleTypeDataBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:56600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56600)
-
 ___
 
 ### Load
@@ -675,10 +503,6 @@ ___
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[Load](ue_ue.ParticleModuleTypeDataBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:56601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56601)
-
 ___
 
 ### StaticClass
@@ -692,7 +516,3 @@ ___
 #### Overrides
 
 [ParticleModuleTypeDataBase](ue_ue.ParticleModuleTypeDataBase.md).[StaticClass](ue_ue.ParticleModuleTypeDataBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:56599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56599)

@@ -24,19 +24,11 @@
 
 • **Custom** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10743)
-
 ___
 
 ### CustomBoundary
 
 • **CustomBoundary** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10743)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **EUINavigationRule\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10743)
-
 ___
 
 ### Escape
 
 • **Escape** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10743)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **Explicit** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10743)
-
 ___
 
 ### Invalid
 
 • **Invalid** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10743)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **Stop** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10743)
-
 ___
 
 ### Wrap
 
 • **Wrap** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10743)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10743)

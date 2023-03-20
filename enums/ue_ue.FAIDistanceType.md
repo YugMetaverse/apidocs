@@ -20,19 +20,11 @@
 
 • **Distance2D** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25004)
-
 ___
 
 ### Distance3D
 
 • **Distance3D** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:25004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25004)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **DistanceZ** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25004)
-
 ___
 
 ### MAX
 
 • **MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25004)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:25004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25004)

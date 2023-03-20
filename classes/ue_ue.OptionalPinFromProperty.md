@@ -37,10 +37,6 @@
 
 • **new OptionalPinFromProperty**()
 
-#### Defined in
-
-[ue/ue.d.ts:16753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16753)
-
 • **new OptionalPinFromProperty**(`PropertyName`, `PropertyFriendlyName`, `PropertyTooltip`, `CategoryName`, `bShowPin`, `bCanToggleVisibility`, `bPropertyIsCustomized`, `bHasOverridePin`, `bIsMarkedForAdvancedDisplay`, `bIsOverrideEnabled`, `bIsSetValuePinVisible`, `bIsOverridePinVisible`)
 
 #### Parameters
@@ -60,19 +56,11 @@
 | `bIsSetValuePinVisible` | `boolean` |
 | `bIsOverridePinVisible` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:16754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16754)
-
 ## Properties
 
 ### CategoryName
 
 • **CategoryName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:16758](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16758)
 
 ___
 
@@ -80,19 +68,11 @@ ___
 
 • **PropertyFriendlyName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:16756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16756)
-
 ___
 
 ### PropertyName
 
 • **PropertyName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:16755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16755)
 
 ___
 
@@ -100,19 +80,11 @@ ___
 
 • **PropertyTooltip**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:16757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16757)
-
 ___
 
 ### \_\_tid\_OptionalPinFromProperty\_\_
 
 • `Private` **\_\_tid\_OptionalPinFromProperty\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16772)
 
 ___
 
@@ -120,19 +92,11 @@ ___
 
 • **bCanToggleVisibility**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16760](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16760)
-
 ___
 
 ### bHasOverridePin
 
 • **bHasOverridePin**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16762)
 
 ___
 
@@ -140,19 +104,11 @@ ___
 
 • **bIsMarkedForAdvancedDisplay**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16763)
-
 ___
 
 ### bIsOverrideEnabled
 
 • **bIsOverrideEnabled**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16764)
 
 ___
 
@@ -160,19 +116,11 @@ ___
 
 • **bIsOverridePinVisible**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16766)
-
 ___
 
 ### bIsSetValuePinVisible
 
 • **bIsSetValuePinVisible**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16765)
 
 ___
 
@@ -180,19 +128,11 @@ ___
 
 • **bPropertyIsCustomized**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16761](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16761)
-
 ___
 
 ### bShowPin
 
 • **bShowPin**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16759)
 
 ## Methods
 
@@ -208,10 +148,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:16770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16770)
-
 ___
 
 ### StaticStruct
@@ -221,7 +157,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:16771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16771)

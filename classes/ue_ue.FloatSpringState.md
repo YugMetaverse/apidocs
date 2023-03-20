@@ -25,19 +25,11 @@
 
 • **new FloatSpringState**()
 
-#### Defined in
-
-[ue/ue.d.ts:42285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42285)
-
 ## Properties
 
 ### \_\_tid\_FloatSpringState\_\_
 
 • `Private` **\_\_tid\_FloatSpringState\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:42291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42291)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:42289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42289)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:42290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42290)

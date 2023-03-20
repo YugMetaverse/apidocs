@@ -20,19 +20,11 @@
 
 • **Bone** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18155)
-
 ___
 
 ### EDrivenDestinationMode\_MAX
 
 • **EDrivenDestinationMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18155)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **MaterialParameter** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18155)
-
 ___
 
 ### MorphTarget
 
 • **MorphTarget** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18155)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18155)

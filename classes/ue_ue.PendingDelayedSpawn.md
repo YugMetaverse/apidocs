@@ -43,10 +43,6 @@
 
 [AITestSpawnInfo](ue_ue.AITestSpawnInfo.md).[constructor](ue_ue.AITestSpawnInfo.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:36442](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36442)
-
 ## Properties
 
 ### BehaviorTree
@@ -56,10 +52,6 @@
 #### Inherited from
 
 [AITestSpawnInfo](ue_ue.AITestSpawnInfo.md).[BehaviorTree](ue_ue.AITestSpawnInfo.md#behaviortree)
-
-#### Defined in
-
-[ue/ue.d.ts:36413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36413)
 
 ___
 
@@ -71,10 +63,6 @@ ___
 
 [AITestSpawnInfo](ue_ue.AITestSpawnInfo.md).[ControllerClass](ue_ue.AITestSpawnInfo.md#controllerclass)
 
-#### Defined in
-
-[ue/ue.d.ts:36411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36411)
-
 ___
 
 ### NumberToSpawn
@@ -84,10 +72,6 @@ ___
 #### Inherited from
 
 [AITestSpawnInfo](ue_ue.AITestSpawnInfo.md).[NumberToSpawn](ue_ue.AITestSpawnInfo.md#numbertospawn)
-
-#### Defined in
-
-[ue/ue.d.ts:36415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36415)
 
 ___
 
@@ -99,10 +83,6 @@ ___
 
 [AITestSpawnInfo](ue_ue.AITestSpawnInfo.md).[PawnClass](ue_ue.AITestSpawnInfo.md#pawnclass)
 
-#### Defined in
-
-[ue/ue.d.ts:36410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36410)
-
 ___
 
 ### PreSpawnDelay
@@ -112,10 +92,6 @@ ___
 #### Inherited from
 
 [AITestSpawnInfo](ue_ue.AITestSpawnInfo.md).[PreSpawnDelay](ue_ue.AITestSpawnInfo.md#prespawndelay)
-
-#### Defined in
-
-[ue/ue.d.ts:36417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36417)
 
 ___
 
@@ -127,10 +103,6 @@ ___
 
 [AITestSpawnInfo](ue_ue.AITestSpawnInfo.md).[SpawnDelay](ue_ue.AITestSpawnInfo.md#spawndelay)
 
-#### Defined in
-
-[ue/ue.d.ts:36416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36416)
-
 ___
 
 ### SpawnLocation
@@ -140,10 +112,6 @@ ___
 #### Inherited from
 
 [AITestSpawnInfo](ue_ue.AITestSpawnInfo.md).[SpawnLocation](ue_ue.AITestSpawnInfo.md#spawnlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:36414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36414)
 
 ___
 
@@ -155,19 +123,11 @@ ___
 
 [AITestSpawnInfo](ue_ue.AITestSpawnInfo.md).[TeamID](ue_ue.AITestSpawnInfo.md#teamid)
 
-#### Defined in
-
-[ue/ue.d.ts:36412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36412)
-
 ___
 
 ### \_\_tid\_PendingDelayedSpawn\_\_
 
 • `Private` **\_\_tid\_PendingDelayedSpawn\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36448)
 
 ## Methods
 
@@ -187,10 +147,6 @@ use StaticStruct instead.
 
 [AITestSpawnInfo](ue_ue.AITestSpawnInfo.md).[StaticClass](ue_ue.AITestSpawnInfo.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:36446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36446)
-
 ___
 
 ### StaticStruct
@@ -204,7 +160,3 @@ ___
 #### Overrides
 
 [AITestSpawnInfo](ue_ue.AITestSpawnInfo.md).[StaticStruct](ue_ue.AITestSpawnInfo.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:36447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36447)

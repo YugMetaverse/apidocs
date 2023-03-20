@@ -30,10 +30,6 @@
 
 • **new EdGraphTerminalType**()
 
-#### Defined in
-
-[ue/ue.d.ts:991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L991)
-
 • **new EdGraphTerminalType**(`TerminalCategory`, `TerminalSubCategory`, `TerminalSubCategoryObject`, `bTerminalIsConst`, `bTerminalIsWeakPointer`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `bTerminalIsConst` | `boolean` |
 | `bTerminalIsWeakPointer` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L992)
-
 ## Properties
 
 ### TerminalCategory
 
 • **TerminalCategory**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L993)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **TerminalSubCategory**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L994)
-
 ___
 
 ### TerminalSubCategoryObject
 
 • **TerminalSubCategoryObject**: [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`Object`](ue_ue.Object.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L995)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • `Private` **\_\_tid\_EdGraphTerminalType\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:1003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1003)
-
 ___
 
 ### bTerminalIsConst
 
 • **bTerminalIsConst**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L996)
-
 ___
 
 ### bTerminalIsWeakPointer
 
 • **bTerminalIsWeakPointer**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L997)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1001)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1002)

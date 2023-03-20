@@ -68,10 +68,6 @@
 
 [FbxFactory](ue_ue.FbxFactory.md).[constructor](ue_ue.FbxFactory.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:59304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59304)
-
 ## Properties
 
 ### AssetImportTask
@@ -81,10 +77,6 @@
 #### Inherited from
 
 [FbxFactory](ue_ue.FbxFactory.md).[AssetImportTask](ue_ue.FbxFactory.md#assetimporttask)
-
-#### Defined in
-
-[ue/ue.d.ts:15338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15338)
 
 ___
 
@@ -96,10 +88,6 @@ ___
 
 [FbxFactory](ue_ue.FbxFactory.md).[AutomatedImportData](ue_ue.FbxFactory.md#automatedimportdata)
 
-#### Defined in
-
-[ue/ue.d.ts:15337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15337)
-
 ___
 
 ### ContextClass
@@ -109,10 +97,6 @@ ___
 #### Inherited from
 
 [FbxFactory](ue_ue.FbxFactory.md).[ContextClass](ue_ue.FbxFactory.md#contextclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15331)
 
 ___
 
@@ -124,10 +108,6 @@ ___
 
 [FbxFactory](ue_ue.FbxFactory.md).[Formats](ue_ue.FbxFactory.md#formats)
 
-#### Defined in
-
-[ue/ue.d.ts:15332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15332)
-
 ___
 
 ### ImportPriority
@@ -137,10 +117,6 @@ ___
 #### Inherited from
 
 [FbxFactory](ue_ue.FbxFactory.md).[ImportPriority](ue_ue.FbxFactory.md#importpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:15336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15336)
 
 ___
 
@@ -152,10 +128,6 @@ ___
 
 [FbxFactory](ue_ue.FbxFactory.md).[ImportUI](ue_ue.FbxFactory.md#importui)
 
-#### Defined in
-
-[ue/ue.d.ts:35333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35333)
-
 ___
 
 ### OriginalImportUI
@@ -165,10 +137,6 @@ ___
 #### Inherited from
 
 [FbxFactory](ue_ue.FbxFactory.md).[OriginalImportUI](ue_ue.FbxFactory.md#originalimportui)
-
-#### Defined in
-
-[ue/ue.d.ts:35334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35334)
 
 ___
 
@@ -180,10 +148,6 @@ ___
 
 [FbxFactory](ue_ue.FbxFactory.md).[OverwriteYesOrNoToAllState](ue_ue.FbxFactory.md#overwriteyesornotoallstate)
 
-#### Defined in
-
-[ue/ue.d.ts:15339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15339)
-
 ___
 
 ### SupportedClass
@@ -193,10 +157,6 @@ ___
 #### Inherited from
 
 [FbxFactory](ue_ue.FbxFactory.md).[SupportedClass](ue_ue.FbxFactory.md#supportedclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15330)
 
 ___
 
@@ -208,10 +168,6 @@ ___
 
 [FbxFactory](ue_ue.FbxFactory.md).[__tid_Factory__](ue_ue.FbxFactory.md#__tid_factory__)
 
-#### Defined in
-
-[ue/ue.d.ts:15346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15346)
-
 ___
 
 ### \_\_tid\_FbxFactory\_\_
@@ -221,10 +177,6 @@ ___
 #### Inherited from
 
 [FbxFactory](ue_ue.FbxFactory.md).[__tid_FbxFactory__](ue_ue.FbxFactory.md#__tid_fbxfactory__)
-
-#### Defined in
-
-[ue/ue.d.ts:35339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35339)
 
 ___
 
@@ -236,19 +188,11 @@ ___
 
 [FbxFactory](ue_ue.FbxFactory.md).[__tid_Object__](ue_ue.FbxFactory.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ReimportFbxStaticMeshFactory\_\_
 
 • **\_\_tid\_ReimportFbxStaticMeshFactory\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59309)
 
 ___
 
@@ -260,10 +204,6 @@ ___
 
 [FbxFactory](ue_ue.FbxFactory.md).[bCreateNew](ue_ue.FbxFactory.md#bcreatenew)
 
-#### Defined in
-
-[ue/ue.d.ts:15329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15329)
-
 ___
 
 ### bEditAfterNew
@@ -273,10 +213,6 @@ ___
 #### Inherited from
 
 [FbxFactory](ue_ue.FbxFactory.md).[bEditAfterNew](ue_ue.FbxFactory.md#beditafternew)
-
-#### Defined in
-
-[ue/ue.d.ts:15333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15333)
 
 ___
 
@@ -288,10 +224,6 @@ ___
 
 [FbxFactory](ue_ue.FbxFactory.md).[bEditorImport](ue_ue.FbxFactory.md#beditorimport)
 
-#### Defined in
-
-[ue/ue.d.ts:15334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15334)
-
 ___
 
 ### bText
@@ -301,10 +233,6 @@ ___
 #### Inherited from
 
 [FbxFactory](ue_ue.FbxFactory.md).[bText](ue_ue.FbxFactory.md#btext)
-
-#### Defined in
-
-[ue/ue.d.ts:15335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15335)
 
 ## Methods
 
@@ -330,10 +258,6 @@ ___
 
 [FbxFactory](ue_ue.FbxFactory.md).[CreateDefaultSubobject](ue_ue.FbxFactory.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -354,10 +278,6 @@ ___
 
 [FbxFactory](ue_ue.FbxFactory.md).[ExecuteUbergraph](ue_ue.FbxFactory.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -371,10 +291,6 @@ ___
 #### Inherited from
 
 [FbxFactory](ue_ue.FbxFactory.md).[GetClass](ue_ue.FbxFactory.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -390,10 +306,6 @@ ___
 
 [FbxFactory](ue_ue.FbxFactory.md).[GetName](ue_ue.FbxFactory.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -408,10 +320,6 @@ ___
 
 [FbxFactory](ue_ue.FbxFactory.md).[GetOuter](ue_ue.FbxFactory.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -425,10 +333,6 @@ ___
 #### Inherited from
 
 [FbxFactory](ue_ue.FbxFactory.md).[GetWorld](ue_ue.FbxFactory.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -450,10 +354,6 @@ ___
 
 [FbxFactory](ue_ue.FbxFactory.md).[ScriptFactoryCanImport](ue_ue.FbxFactory.md#scriptfactorycanimport)
 
-#### Defined in
-
-[ue/ue.d.ts:15340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15340)
-
 ___
 
 ### ScriptFactoryCreateFile
@@ -473,10 +373,6 @@ ___
 #### Inherited from
 
 [FbxFactory](ue_ue.FbxFactory.md).[ScriptFactoryCreateFile](ue_ue.FbxFactory.md#scriptfactorycreatefile)
-
-#### Defined in
-
-[ue/ue.d.ts:15341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15341)
 
 ___
 
@@ -499,10 +395,6 @@ ___
 
 [FbxFactory](ue_ue.FbxFactory.md).[Find](ue_ue.FbxFactory.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:59306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59306)
-
 ___
 
 ### Load
@@ -523,10 +415,6 @@ ___
 
 [FbxFactory](ue_ue.FbxFactory.md).[Load](ue_ue.FbxFactory.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:59307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59307)
-
 ___
 
 ### StaticClass
@@ -540,7 +428,3 @@ ___
 #### Overrides
 
 [FbxFactory](ue_ue.FbxFactory.md).[StaticClass](ue_ue.FbxFactory.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:59305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59305)

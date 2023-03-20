@@ -67,10 +67,6 @@
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[constructor](ue_ue.MaterialFunctionInstanceFactory.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:49841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49841)
-
 ## Properties
 
 ### AssetImportTask
@@ -80,10 +76,6 @@
 #### Inherited from
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[AssetImportTask](ue_ue.MaterialFunctionInstanceFactory.md#assetimporttask)
-
-#### Defined in
-
-[ue/ue.d.ts:15338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15338)
 
 ___
 
@@ -95,10 +87,6 @@ ___
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[AutomatedImportData](ue_ue.MaterialFunctionInstanceFactory.md#automatedimportdata)
 
-#### Defined in
-
-[ue/ue.d.ts:15337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15337)
-
 ___
 
 ### ContextClass
@@ -108,10 +96,6 @@ ___
 #### Inherited from
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[ContextClass](ue_ue.MaterialFunctionInstanceFactory.md#contextclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15331)
 
 ___
 
@@ -123,10 +107,6 @@ ___
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[Formats](ue_ue.MaterialFunctionInstanceFactory.md#formats)
 
-#### Defined in
-
-[ue/ue.d.ts:15332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15332)
-
 ___
 
 ### ImportPriority
@@ -136,10 +116,6 @@ ___
 #### Inherited from
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[ImportPriority](ue_ue.MaterialFunctionInstanceFactory.md#importpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:15336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15336)
 
 ___
 
@@ -151,10 +127,6 @@ ___
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[InitialParent](ue_ue.MaterialFunctionInstanceFactory.md#initialparent)
 
-#### Defined in
-
-[ue/ue.d.ts:49769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49769)
-
 ___
 
 ### OverwriteYesOrNoToAllState
@@ -164,10 +136,6 @@ ___
 #### Inherited from
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[OverwriteYesOrNoToAllState](ue_ue.MaterialFunctionInstanceFactory.md#overwriteyesornotoallstate)
-
-#### Defined in
-
-[ue/ue.d.ts:15339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15339)
 
 ___
 
@@ -179,10 +147,6 @@ ___
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[SupportedClass](ue_ue.MaterialFunctionInstanceFactory.md#supportedclass)
 
-#### Defined in
-
-[ue/ue.d.ts:15330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15330)
-
 ___
 
 ### \_\_tid\_Factory\_\_
@@ -192,10 +156,6 @@ ___
 #### Inherited from
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[__tid_Factory__](ue_ue.MaterialFunctionInstanceFactory.md#__tid_factory__)
-
-#### Defined in
-
-[ue/ue.d.ts:15346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15346)
 
 ___
 
@@ -207,19 +167,11 @@ ___
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[__tid_MaterialFunctionInstanceFactory__](ue_ue.MaterialFunctionInstanceFactory.md#__tid_materialfunctioninstancefactory__)
 
-#### Defined in
-
-[ue/ue.d.ts:49774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49774)
-
 ___
 
 ### \_\_tid\_MaterialFunctionMaterialLayerInstanceFactory\_\_
 
 • **\_\_tid\_MaterialFunctionMaterialLayerInstanceFactory\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:49846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49846)
 
 ___
 
@@ -231,10 +183,6 @@ ___
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[__tid_Object__](ue_ue.MaterialFunctionInstanceFactory.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bCreateNew
@@ -244,10 +192,6 @@ ___
 #### Inherited from
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[bCreateNew](ue_ue.MaterialFunctionInstanceFactory.md#bcreatenew)
-
-#### Defined in
-
-[ue/ue.d.ts:15329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15329)
 
 ___
 
@@ -259,10 +203,6 @@ ___
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[bEditAfterNew](ue_ue.MaterialFunctionInstanceFactory.md#beditafternew)
 
-#### Defined in
-
-[ue/ue.d.ts:15333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15333)
-
 ___
 
 ### bEditorImport
@@ -273,10 +213,6 @@ ___
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[bEditorImport](ue_ue.MaterialFunctionInstanceFactory.md#beditorimport)
 
-#### Defined in
-
-[ue/ue.d.ts:15334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15334)
-
 ___
 
 ### bText
@@ -286,10 +222,6 @@ ___
 #### Inherited from
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[bText](ue_ue.MaterialFunctionInstanceFactory.md#btext)
-
-#### Defined in
-
-[ue/ue.d.ts:15335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15335)
 
 ## Methods
 
@@ -315,10 +247,6 @@ ___
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[CreateDefaultSubobject](ue_ue.MaterialFunctionInstanceFactory.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -339,10 +267,6 @@ ___
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[ExecuteUbergraph](ue_ue.MaterialFunctionInstanceFactory.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -356,10 +280,6 @@ ___
 #### Inherited from
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[GetClass](ue_ue.MaterialFunctionInstanceFactory.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -375,10 +295,6 @@ ___
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[GetName](ue_ue.MaterialFunctionInstanceFactory.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -393,10 +309,6 @@ ___
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[GetOuter](ue_ue.MaterialFunctionInstanceFactory.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -410,10 +322,6 @@ ___
 #### Inherited from
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[GetWorld](ue_ue.MaterialFunctionInstanceFactory.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -435,10 +343,6 @@ ___
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[ScriptFactoryCanImport](ue_ue.MaterialFunctionInstanceFactory.md#scriptfactorycanimport)
 
-#### Defined in
-
-[ue/ue.d.ts:15340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15340)
-
 ___
 
 ### ScriptFactoryCreateFile
@@ -458,10 +362,6 @@ ___
 #### Inherited from
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[ScriptFactoryCreateFile](ue_ue.MaterialFunctionInstanceFactory.md#scriptfactorycreatefile)
-
-#### Defined in
-
-[ue/ue.d.ts:15341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15341)
 
 ___
 
@@ -484,10 +384,6 @@ ___
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[Find](ue_ue.MaterialFunctionInstanceFactory.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:49843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49843)
-
 ___
 
 ### Load
@@ -508,10 +404,6 @@ ___
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[Load](ue_ue.MaterialFunctionInstanceFactory.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:49844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49844)
-
 ___
 
 ### StaticClass
@@ -525,7 +417,3 @@ ___
 #### Overrides
 
 [MaterialFunctionInstanceFactory](ue_ue.MaterialFunctionInstanceFactory.md).[StaticClass](ue_ue.MaterialFunctionInstanceFactory.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:49842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49842)

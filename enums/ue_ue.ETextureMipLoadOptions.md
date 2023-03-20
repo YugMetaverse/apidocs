@@ -20,19 +20,11 @@
 
 • **AllMips** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L469)
-
 ___
 
 ### Default
 
 • **Default** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L469)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **ETextureMipLoadOptions\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L469)
-
 ___
 
 ### OnlyFirstMip
 
 • **OnlyFirstMip** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L469)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L469)

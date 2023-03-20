@@ -32,10 +32,6 @@
 
 • **new ModulatorContinuousParams**()
 
-#### Defined in
-
-[ue/ue.d.ts:61475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61475)
-
 • **new ModulatorContinuousParams**(`ParameterName`, `Default`, `MinInput`, `MaxInput`, `MinOutput`, `MaxOutput`, `ParamMode`)
 
 #### Parameters
@@ -50,19 +46,11 @@
 | `MaxOutput` | `number` |
 | `ParamMode` | [`ModulationParamMode`](../enums/ue_ue.ModulationParamMode.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:61476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61476)
-
 ## Properties
 
 ### Default
 
 • **Default**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:61478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61478)
 
 ___
 
@@ -70,19 +58,11 @@ ___
 
 • **MaxInput**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:61480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61480)
-
 ___
 
 ### MaxOutput
 
 • **MaxOutput**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:61482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61482)
 
 ___
 
@@ -90,19 +70,11 @@ ___
 
 • **MinInput**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:61479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61479)
-
 ___
 
 ### MinOutput
 
 • **MinOutput**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:61481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61481)
 
 ___
 
@@ -110,29 +82,17 @@ ___
 
 • **ParamMode**: [`ModulationParamMode`](../enums/ue_ue.ModulationParamMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:61483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61483)
-
 ___
 
 ### ParameterName
 
 • **ParameterName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:61477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61477)
-
 ___
 
 ### \_\_tid\_ModulatorContinuousParams\_\_
 
 • `Private` **\_\_tid\_ModulatorContinuousParams\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:61489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61489)
 
 ## Methods
 
@@ -148,10 +108,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:61487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61487)
-
 ___
 
 ### StaticStruct
@@ -161,7 +117,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:61488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61488)

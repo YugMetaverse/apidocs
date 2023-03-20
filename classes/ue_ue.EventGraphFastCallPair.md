@@ -27,10 +27,6 @@
 
 • **new EventGraphFastCallPair**()
 
-#### Defined in
-
-[ue/ue.d.ts:4788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4788)
-
 • **new EventGraphFastCallPair**(`FunctionToPatch`, `EventGraphCallOffset`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `FunctionToPatch` | [`Function`](ue_ue.Function.md) |
 | `EventGraphCallOffset` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:4789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4789)
-
 ## Properties
 
 ### EventGraphCallOffset
 
 • **EventGraphCallOffset**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4791)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **FunctionToPatch**: [`Function`](ue_ue.Function.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4790)
-
 ___
 
 ### \_\_tid\_EventGraphFastCallPair\_\_
 
 • `Private` **\_\_tid\_EventGraphFastCallPair\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4797](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4797)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4795)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4796)

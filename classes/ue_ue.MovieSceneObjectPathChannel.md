@@ -39,10 +39,6 @@
 
 [MovieSceneChannel](ue_ue.MovieSceneChannel.md).[constructor](ue_ue.MovieSceneChannel.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:52076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52076)
-
 • **new MovieSceneObjectPathChannel**(`PropertyClass`, `Times`, `Values`, `DefaultValue`)
 
 #### Parameters
@@ -58,19 +54,11 @@
 
 UE.MovieSceneChannel.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:52077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52077)
-
 ## Properties
 
 ### DefaultValue
 
 • **DefaultValue**: [`MovieSceneObjectPathChannelKeyValue`](ue_ue.MovieSceneObjectPathChannelKeyValue.md)
-
-#### Defined in
-
-[ue/ue.d.ts:52081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52081)
 
 ___
 
@@ -78,19 +66,11 @@ ___
 
 • **PropertyClass**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:52078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52078)
-
 ___
 
 ### Times
 
 • **Times**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`FrameNumber`](ue_ue.FrameNumber.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:52079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52079)
 
 ___
 
@@ -98,19 +78,11 @@ ___
 
 • **Values**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MovieSceneObjectPathChannelKeyValue`](ue_ue.MovieSceneObjectPathChannelKeyValue.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:52080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52080)
-
 ___
 
 ### \_\_tid\_MovieSceneObjectPathChannel\_\_
 
 • `Private` **\_\_tid\_MovieSceneObjectPathChannel\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52087)
 
 ## Methods
 
@@ -130,10 +102,6 @@ use StaticStruct instead.
 
 [MovieSceneChannel](ue_ue.MovieSceneChannel.md).[StaticClass](ue_ue.MovieSceneChannel.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:52085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52085)
-
 ___
 
 ### StaticStruct
@@ -147,7 +115,3 @@ ___
 #### Overrides
 
 [MovieSceneChannel](ue_ue.MovieSceneChannel.md).[StaticStruct](ue_ue.MovieSceneChannel.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:52086](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52086)

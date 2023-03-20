@@ -25,19 +25,11 @@
 
 • **Cleared** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14715)
-
 ___
 
 ### Custom
 
 • **Custom** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14715)
 
 ___
 
@@ -45,19 +37,11 @@ ___
 
 • **ENavPathEvent\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14715)
-
 ___
 
 ### Invalidated
 
 • **Invalidated** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14715)
 
 ___
 
@@ -65,19 +49,11 @@ ___
 
 • **MetaPathUpdate** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14715)
-
 ___
 
 ### NewPath
 
 • **NewPath** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14715)
 
 ___
 
@@ -85,19 +61,11 @@ ___
 
 • **RePathFailed** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14715)
-
 ___
 
 ### UpdatedDueToGoalMoved
 
 • **UpdatedDueToGoalMoved** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14715)
 
 ___
 
@@ -105,16 +73,8 @@ ___
 
 • **UpdatedDueToNavigationChanged** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14715)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14715)

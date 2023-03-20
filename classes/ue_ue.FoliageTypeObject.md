@@ -29,10 +29,6 @@
 
 • **new FoliageTypeObject**()
 
-#### Defined in
-
-[ue/ue.d.ts:58437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58437)
-
 • **new FoliageTypeObject**(`FoliageTypeObject`, `TypeInstance`, `bIsAsset`, `Type`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `bIsAsset` | `boolean` |
 | `Type` | [`Class`](ue_ue.Class.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:58438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58438)
-
 ## Properties
 
 ### FoliageTypeObject
 
 • **FoliageTypeObject**: [`Object`](ue_ue.Object.md)
-
-#### Defined in
-
-[ue/ue.d.ts:58439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58439)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **Type**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:58442](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58442)
-
 ___
 
 ### TypeInstance
 
 • **TypeInstance**: [`FoliageType`](ue_ue.FoliageType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:58440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58440)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • `Private` **\_\_tid\_FoliageTypeObject\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:58448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58448)
-
 ___
 
 ### bIsAsset
 
 • **bIsAsset**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58441](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58441)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:58446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58446)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:58447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58447)

@@ -30,10 +30,6 @@
 
 • **new LevelSequenceTrackSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:45218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45218)
-
 • **new LevelSequenceTrackSettings**(`MatchingActorClass`, `DefaultTracks`, `ExcludeDefaultTracks`, `DefaultPropertyTracks`, `ExcludeDefaultPropertyTracks`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `DefaultPropertyTracks` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`LevelSequencePropertyTrackSettings`](ue_ue.LevelSequencePropertyTrackSettings.md)\> |
 | `ExcludeDefaultPropertyTracks` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`LevelSequencePropertyTrackSettings`](ue_ue.LevelSequencePropertyTrackSettings.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:45219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45219)
-
 ## Properties
 
 ### DefaultPropertyTracks
 
 • **DefaultPropertyTracks**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`LevelSequencePropertyTrackSettings`](ue_ue.LevelSequencePropertyTrackSettings.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:45223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45223)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **DefaultTracks**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SoftClassPath`](ue_ue.SoftClassPath.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:45221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45221)
-
 ___
 
 ### ExcludeDefaultPropertyTracks
 
 • **ExcludeDefaultPropertyTracks**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`LevelSequencePropertyTrackSettings`](ue_ue.LevelSequencePropertyTrackSettings.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:45224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45224)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **ExcludeDefaultTracks**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SoftClassPath`](ue_ue.SoftClassPath.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:45222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45222)
-
 ___
 
 ### MatchingActorClass
 
 • **MatchingActorClass**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:45220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45220)
-
 ___
 
 ### \_\_tid\_LevelSequenceTrackSettings\_\_
 
 • `Private` **\_\_tid\_LevelSequenceTrackSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45230)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:45228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45228)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:45229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45229)

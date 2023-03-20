@@ -19,19 +19,11 @@
 
 • **SLS\_CapturedScene** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21393)
-
 ___
 
 ### SLS\_MAX
 
 • **SLS\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21393)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **SLS\_SpecifiedCubemap** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21393)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21393)

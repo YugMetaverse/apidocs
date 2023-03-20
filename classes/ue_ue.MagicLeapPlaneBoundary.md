@@ -27,10 +27,6 @@
 
 • **new MagicLeapPlaneBoundary**()
 
-#### Defined in
-
-[ue/ue.d.ts:46944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46944)
-
 • **new MagicLeapPlaneBoundary**(`Polygon`, `Holes`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Polygon` | [`MagicLeapPolygon`](ue_ue.MagicLeapPolygon.md) |
 | `Holes` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MagicLeapPolygon`](ue_ue.MagicLeapPolygon.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:46945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46945)
-
 ## Properties
 
 ### Holes
 
 • **Holes**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MagicLeapPolygon`](ue_ue.MagicLeapPolygon.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:46947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46947)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Polygon**: [`MagicLeapPolygon`](ue_ue.MagicLeapPolygon.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46946)
-
 ___
 
 ### \_\_tid\_MagicLeapPlaneBoundary\_\_
 
 • `Private` **\_\_tid\_MagicLeapPlaneBoundary\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46953)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46951)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46952)

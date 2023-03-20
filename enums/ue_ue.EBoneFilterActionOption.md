@@ -20,19 +20,11 @@
 
 • **EBoneFilterActionOption\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3321)
-
 ___
 
 ### Invalid
 
 • **Invalid** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3321)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Keep** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3321)
-
 ___
 
 ### Remove
 
 • **Remove** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3321)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3321)

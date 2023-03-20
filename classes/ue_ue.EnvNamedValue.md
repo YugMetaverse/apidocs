@@ -28,10 +28,6 @@
 
 • **new EnvNamedValue**()
 
-#### Defined in
-
-[ue/ue.d.ts:25406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25406)
-
 • **new EnvNamedValue**(`ParamName`, `ParamType`, `Value`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `ParamType` | [`EAIParamType`](../enums/ue_ue.EAIParamType.md) |
 | `Value` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:25407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25407)
-
 ## Properties
 
 ### ParamName
 
 • **ParamName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:25408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25408)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **ParamType**: [`EAIParamType`](../enums/ue_ue.EAIParamType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25409)
-
 ___
 
 ### Value
 
 • **Value**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25410)
-
 ___
 
 ### \_\_tid\_EnvNamedValue\_\_
 
 • `Private` **\_\_tid\_EnvNamedValue\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:25416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25416)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25414)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25415)

@@ -52,10 +52,6 @@
 
 • **new ClothConfig**()
 
-#### Defined in
-
-[ue/ue.d.ts:27811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27811)
-
 • **new ClothConfig**(`WindMethod`, `VerticalConstraintConfig`, `HorizontalConstraintConfig`, `BendConstraintConfig`, `ShearConstraintConfig`, `SelfCollisionRadius`, `SelfCollisionStiffness`, `SelfCollisionCullScale`, `Damping`, `Friction`, `WindDragCoefficient`, `WindLiftCoefficient`, `LinearDrag`, `AngularDrag`, `LinearInertiaScale`, `AngularInertiaScale`, `CentrifugalInertiaScale`, `SolverFrequency`, `StiffnessFrequency`, `GravityScale`, `GravityOverride`, `bUseGravityOverride`, `TetherStiffness`, `TetherLimit`, `CollisionThickness`, `AnimDriveSpringStiffness`, `AnimDriveDamperStiffness`)
 
 #### Parameters
@@ -90,19 +86,11 @@
 | `AnimDriveSpringStiffness` | `number` |
 | `AnimDriveDamperStiffness` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:27812](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27812)
-
 ## Properties
 
 ### AngularDrag
 
 • **AngularDrag**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27826)
 
 ___
 
@@ -110,19 +98,11 @@ ___
 
 • **AngularInertiaScale**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27828)
-
 ___
 
 ### AnimDriveDamperStiffness
 
 • **AnimDriveDamperStiffness**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27839)
 
 ___
 
@@ -130,19 +110,11 @@ ___
 
 • **AnimDriveSpringStiffness**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27838)
-
 ___
 
 ### BendConstraintConfig
 
 • **BendConstraintConfig**: [`ClothConstraintSetup`](ue_ue.ClothConstraintSetup.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27816)
 
 ___
 
@@ -150,19 +122,11 @@ ___
 
 • **CentrifugalInertiaScale**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27829)
-
 ___
 
 ### CollisionThickness
 
 • **CollisionThickness**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27837)
 
 ___
 
@@ -170,19 +134,11 @@ ___
 
 • **Damping**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27821)
-
 ___
 
 ### Friction
 
 • **Friction**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27822)
 
 ___
 
@@ -190,19 +146,11 @@ ___
 
 • **GravityOverride**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27833)
-
 ___
 
 ### GravityScale
 
 • **GravityScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27832)
 
 ___
 
@@ -210,19 +158,11 @@ ___
 
 • **HorizontalConstraintConfig**: [`ClothConstraintSetup`](ue_ue.ClothConstraintSetup.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27815)
-
 ___
 
 ### LinearDrag
 
 • **LinearDrag**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27825](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27825)
 
 ___
 
@@ -230,19 +170,11 @@ ___
 
 • **LinearInertiaScale**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27827)
-
 ___
 
 ### SelfCollisionCullScale
 
 • **SelfCollisionCullScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27820)
 
 ___
 
@@ -250,19 +182,11 @@ ___
 
 • **SelfCollisionRadius**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27818](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27818)
-
 ___
 
 ### SelfCollisionStiffness
 
 • **SelfCollisionStiffness**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27819)
 
 ___
 
@@ -270,19 +194,11 @@ ___
 
 • **ShearConstraintConfig**: [`ClothConstraintSetup`](ue_ue.ClothConstraintSetup.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27817)
-
 ___
 
 ### SolverFrequency
 
 • **SolverFrequency**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27830)
 
 ___
 
@@ -290,19 +206,11 @@ ___
 
 • **StiffnessFrequency**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27831)
-
 ___
 
 ### TetherLimit
 
 • **TetherLimit**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27836)
 
 ___
 
@@ -310,19 +218,11 @@ ___
 
 • **TetherStiffness**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27835](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27835)
-
 ___
 
 ### VerticalConstraintConfig
 
 • **VerticalConstraintConfig**: [`ClothConstraintSetup`](ue_ue.ClothConstraintSetup.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27814](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27814)
 
 ___
 
@@ -330,19 +230,11 @@ ___
 
 • **WindDragCoefficient**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27823)
-
 ___
 
 ### WindLiftCoefficient
 
 • **WindLiftCoefficient**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27824)
 
 ___
 
@@ -350,29 +242,17 @@ ___
 
 • **WindMethod**: [`EClothingWindMethod`](../enums/ue_ue.EClothingWindMethod.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27813](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27813)
-
 ___
 
 ### \_\_tid\_ClothConfig\_\_
 
 • `Private` **\_\_tid\_ClothConfig\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:27845](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27845)
-
 ___
 
 ### bUseGravityOverride
 
 • **bUseGravityOverride**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27834)
 
 ## Methods
 
@@ -388,10 +268,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27843)
-
 ___
 
 ### StaticStruct
@@ -401,7 +277,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27844)

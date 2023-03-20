@@ -54,19 +54,11 @@
 
 [GeometryCacheCodecBase](ue_ue.GeometryCacheCodecBase.md).[constructor](ue_ue.GeometryCacheCodecBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:37629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37629)
-
 ## Properties
 
 ### DummyProperty
 
 • **DummyProperty**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:37630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37630)
 
 ___
 
@@ -78,10 +70,6 @@ ___
 
 [GeometryCacheCodecBase](ue_ue.GeometryCacheCodecBase.md).[TopologyRanges](ue_ue.GeometryCacheCodecBase.md#topologyranges)
 
-#### Defined in
-
-[ue/ue.d.ts:37620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37620)
-
 ___
 
 ### \_\_tid\_GeometryCacheCodecBase\_\_
@@ -92,19 +80,11 @@ ___
 
 [GeometryCacheCodecBase](ue_ue.GeometryCacheCodecBase.md).[__tid_GeometryCacheCodecBase__](ue_ue.GeometryCacheCodecBase.md#__tid_geometrycachecodecbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:37625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37625)
-
 ___
 
 ### \_\_tid\_GeometryCacheCodecRaw\_\_
 
 • **\_\_tid\_GeometryCacheCodecRaw\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:37635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37635)
 
 ___
 
@@ -115,10 +95,6 @@ ___
 #### Inherited from
 
 [GeometryCacheCodecBase](ue_ue.GeometryCacheCodecBase.md).[__tid_Object__](ue_ue.GeometryCacheCodecBase.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -144,10 +120,6 @@ ___
 
 [GeometryCacheCodecBase](ue_ue.GeometryCacheCodecBase.md).[CreateDefaultSubobject](ue_ue.GeometryCacheCodecBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -168,10 +140,6 @@ ___
 
 [GeometryCacheCodecBase](ue_ue.GeometryCacheCodecBase.md).[ExecuteUbergraph](ue_ue.GeometryCacheCodecBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -185,10 +153,6 @@ ___
 #### Inherited from
 
 [GeometryCacheCodecBase](ue_ue.GeometryCacheCodecBase.md).[GetClass](ue_ue.GeometryCacheCodecBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -204,10 +168,6 @@ ___
 
 [GeometryCacheCodecBase](ue_ue.GeometryCacheCodecBase.md).[GetName](ue_ue.GeometryCacheCodecBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -222,10 +182,6 @@ ___
 
 [GeometryCacheCodecBase](ue_ue.GeometryCacheCodecBase.md).[GetOuter](ue_ue.GeometryCacheCodecBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -239,10 +195,6 @@ ___
 #### Inherited from
 
 [GeometryCacheCodecBase](ue_ue.GeometryCacheCodecBase.md).[GetWorld](ue_ue.GeometryCacheCodecBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -265,10 +217,6 @@ ___
 
 [GeometryCacheCodecBase](ue_ue.GeometryCacheCodecBase.md).[Find](ue_ue.GeometryCacheCodecBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:37632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37632)
-
 ___
 
 ### Load
@@ -289,10 +237,6 @@ ___
 
 [GeometryCacheCodecBase](ue_ue.GeometryCacheCodecBase.md).[Load](ue_ue.GeometryCacheCodecBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:37633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37633)
-
 ___
 
 ### StaticClass
@@ -306,7 +250,3 @@ ___
 #### Overrides
 
 [GeometryCacheCodecBase](ue_ue.GeometryCacheCodecBase.md).[StaticClass](ue_ue.GeometryCacheCodecBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:37631](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37631)

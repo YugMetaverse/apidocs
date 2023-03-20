@@ -26,10 +26,6 @@
 
 • **new MarkerSyncData**()
 
-#### Defined in
-
-[ue/ue.d.ts:2829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2829)
-
 • **new MarkerSyncData**(`AuthoredSyncMarkers`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `AuthoredSyncMarkers` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AnimSyncMarker`](ue_ue.AnimSyncMarker.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:2830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2830)
-
 ## Properties
 
 ### AuthoredSyncMarkers
 
 • **AuthoredSyncMarkers**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AnimSyncMarker`](ue_ue.AnimSyncMarker.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:2831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2831)
-
 ___
 
 ### \_\_tid\_MarkerSyncData\_\_
 
 • `Private` **\_\_tid\_MarkerSyncData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2837)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2835](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2835)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2836)

@@ -21,19 +21,11 @@
 
 • **BMP** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31438)
-
 ___
 
 ### EDesiredImageFormat\_MAX
 
 • **EDesiredImageFormat\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31438)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **EXR** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31438)
-
 ___
 
 ### JPG
 
 • **JPG** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31438)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **PNG** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31438)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31438)

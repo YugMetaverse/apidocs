@@ -22,19 +22,11 @@
 
 • **DirectMove** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14737)
-
 ___
 
 ### EPathFollowingAction\_MAX
 
 • **EPathFollowingAction\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14737)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **Error** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14737)
-
 ___
 
 ### NoMove
 
 • **NoMove** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14737)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **PartialPath** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14737)
-
 ___
 
 ### PathToGoal
 
 • **PathToGoal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14737)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14737)

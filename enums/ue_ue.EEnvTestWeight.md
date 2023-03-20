@@ -23,19 +23,11 @@
 
 • **Constant** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33844)
-
 ___
 
 ### EEnvTestWeight\_MAX
 
 • **EEnvTestWeight\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33844)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **Inverse** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33844)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33844)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **Skip** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33844)
-
 ___
 
 ### Square
 
 • **Square** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33844)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **Unused** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33844)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33844)

@@ -36,10 +36,6 @@
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[constructor](ue_ue.AnimNode_Base.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:18570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18570)
-
 • **new AnimNode_Inertialization**(`Source`)
 
 #### Parameters
@@ -52,29 +48,17 @@
 
 UE.AnimNode\_Base.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:18571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18571)
-
 ## Properties
 
 ### Source
 
 • **Source**: [`PoseLink`](ue_ue.PoseLink.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18572)
-
 ___
 
 ### \_\_tid\_AnimNode\_Inertialization\_\_
 
 • `Private` **\_\_tid\_AnimNode\_Inertialization\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18578)
 
 ## Methods
 
@@ -94,10 +78,6 @@ use StaticStruct instead.
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticClass](ue_ue.AnimNode_Base.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:18576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18576)
-
 ___
 
 ### StaticStruct
@@ -111,7 +91,3 @@ ___
 #### Overrides
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticStruct](ue_ue.AnimNode_Base.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:18577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18577)

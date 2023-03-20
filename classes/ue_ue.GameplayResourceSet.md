@@ -25,19 +25,11 @@
 
 • **new GameplayResourceSet**()
 
-#### Defined in
-
-[ue/ue.d.ts:14901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14901)
-
 ## Properties
 
 ### \_\_tid\_GameplayResourceSet\_\_
 
 • `Private` **\_\_tid\_GameplayResourceSet\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14907)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14905)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14906)

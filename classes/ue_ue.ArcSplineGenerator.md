@@ -59,19 +59,11 @@
 
 [SplineGeneratorBase](ue_ue.SplineGeneratorBase.md).[constructor](ue_ue.SplineGeneratorBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:21189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21189)
-
 ## Properties
 
 ### Degrees
 
 • **Degrees**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21192)
 
 ___
 
@@ -79,19 +71,11 @@ ___
 
 • **NumberOfPoints**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21190)
-
 ___
 
 ### Radius
 
 • **Radius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21191)
 
 ___
 
@@ -103,19 +87,11 @@ ___
 
 [SplineGeneratorBase](ue_ue.SplineGeneratorBase.md).[ShapeAddMode](ue_ue.SplineGeneratorBase.md#shapeaddmode)
 
-#### Defined in
-
-[ue/ue.d.ts:21180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21180)
-
 ___
 
 ### \_\_tid\_ArcSplineGenerator\_\_
 
 • **\_\_tid\_ArcSplineGenerator\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21200)
 
 ___
 
@@ -127,10 +103,6 @@ ___
 
 [SplineGeneratorBase](ue_ue.SplineGeneratorBase.md).[__tid_Object__](ue_ue.SplineGeneratorBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_SplineGeneratorBase\_\_
@@ -141,19 +113,11 @@ ___
 
 [SplineGeneratorBase](ue_ue.SplineGeneratorBase.md).[__tid_SplineGeneratorBase__](ue_ue.SplineGeneratorBase.md#__tid_splinegeneratorbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:21185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21185)
-
 ___
 
 ### bBranchRight
 
 • **bBranchRight**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21195)
 
 ___
 
@@ -161,19 +125,11 @@ ___
 
 • **bKeepFirstKeyTangent**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:21194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21194)
-
 ___
 
 ### bReverseDir
 
 • **bReverseDir**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21193)
 
 ## Methods
 
@@ -199,10 +155,6 @@ ___
 
 [SplineGeneratorBase](ue_ue.SplineGeneratorBase.md).[CreateDefaultSubobject](ue_ue.SplineGeneratorBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -223,10 +175,6 @@ ___
 
 [SplineGeneratorBase](ue_ue.SplineGeneratorBase.md).[ExecuteUbergraph](ue_ue.SplineGeneratorBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -240,10 +188,6 @@ ___
 #### Inherited from
 
 [SplineGeneratorBase](ue_ue.SplineGeneratorBase.md).[GetClass](ue_ue.SplineGeneratorBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -259,10 +203,6 @@ ___
 
 [SplineGeneratorBase](ue_ue.SplineGeneratorBase.md).[GetName](ue_ue.SplineGeneratorBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -277,10 +217,6 @@ ___
 
 [SplineGeneratorBase](ue_ue.SplineGeneratorBase.md).[GetOuter](ue_ue.SplineGeneratorBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -294,10 +230,6 @@ ___
 #### Inherited from
 
 [SplineGeneratorBase](ue_ue.SplineGeneratorBase.md).[GetWorld](ue_ue.SplineGeneratorBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -320,10 +252,6 @@ ___
 
 [SplineGeneratorBase](ue_ue.SplineGeneratorBase.md).[Find](ue_ue.SplineGeneratorBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:21197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21197)
-
 ___
 
 ### Load
@@ -344,10 +272,6 @@ ___
 
 [SplineGeneratorBase](ue_ue.SplineGeneratorBase.md).[Load](ue_ue.SplineGeneratorBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:21198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21198)
-
 ___
 
 ### StaticClass
@@ -361,7 +285,3 @@ ___
 #### Overrides
 
 [SplineGeneratorBase](ue_ue.SplineGeneratorBase.md).[StaticClass](ue_ue.SplineGeneratorBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:21196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21196)

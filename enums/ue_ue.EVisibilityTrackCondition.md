@@ -20,19 +20,11 @@
 
 • **EVTC\_Always** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34875)
-
 ___
 
 ### EVTC\_GoreDisabled
 
 • **EVTC\_GoreDisabled** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34875)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **EVTC\_GoreEnabled** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34875)
-
 ___
 
 ### EVTC\_MAX
 
 • **EVTC\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34875)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34875)

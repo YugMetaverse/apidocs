@@ -27,10 +27,6 @@
 
 • **new CameraCacheEntry**()
 
-#### Defined in
-
-[ue/ue.d.ts:6654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6654)
-
 • **new CameraCacheEntry**(`TimeStamp`, `POV`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `TimeStamp` | `number` |
 | `POV` | [`MinimalViewInfo`](ue_ue.MinimalViewInfo.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:6655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6655)
-
 ## Properties
 
 ### POV
 
 • **POV**: [`MinimalViewInfo`](ue_ue.MinimalViewInfo.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6657)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **TimeStamp**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6656)
-
 ___
 
 ### \_\_tid\_CameraCacheEntry\_\_
 
 • `Private` **\_\_tid\_CameraCacheEntry\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6663)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6661)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6662)

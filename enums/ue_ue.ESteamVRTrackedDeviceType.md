@@ -21,19 +21,11 @@
 
 • **Controller** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34803)
-
 ___
 
 ### ESteamVRTrackedDeviceType\_MAX
 
 • **ESteamVRTrackedDeviceType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34803)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Invalid** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34803)
-
 ___
 
 ### Other
 
 • **Other** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34803)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **TrackingReference** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34803)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34803)

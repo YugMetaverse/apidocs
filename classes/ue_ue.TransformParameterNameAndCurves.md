@@ -29,10 +29,6 @@
 
 • **new TransformParameterNameAndCurves**()
 
-#### Defined in
-
-[ue/ue.d.ts:52155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52155)
-
 • **new TransformParameterNameAndCurves**(`ParameterName`, `Translation`, `Rotation`, `Scale`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `Rotation` | [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<[`MovieSceneFloatChannel`](ue_ue.MovieSceneFloatChannel.md)\> |
 | `Scale` | [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<[`MovieSceneFloatChannel`](ue_ue.MovieSceneFloatChannel.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:52156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52156)
-
 ## Properties
 
 ### ParameterName
 
 • **ParameterName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:52157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52157)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **Rotation**: [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<[`MovieSceneFloatChannel`](ue_ue.MovieSceneFloatChannel.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:52159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52159)
-
 ___
 
 ### Scale
 
 • **Scale**: [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<[`MovieSceneFloatChannel`](ue_ue.MovieSceneFloatChannel.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:52160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52160)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **Translation**: [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<[`MovieSceneFloatChannel`](ue_ue.MovieSceneFloatChannel.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:52158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52158)
-
 ___
 
 ### \_\_tid\_TransformParameterNameAndCurves\_\_
 
 • `Private` **\_\_tid\_TransformParameterNameAndCurves\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52166)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:52164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52164)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:52165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52165)

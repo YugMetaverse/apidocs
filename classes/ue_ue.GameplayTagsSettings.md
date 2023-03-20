@@ -66,29 +66,17 @@
 
 [GameplayTagsList](ue_ue.GameplayTagsList.md).[constructor](ue_ue.GameplayTagsList.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:37201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37201)
-
 ## Properties
 
 ### CategoryRemapping
 
 • **CategoryRemapping**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`GameplayTagCategoryRemap`](ue_ue.GameplayTagCategoryRemap.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:37206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37206)
-
 ___
 
 ### CommonlyReplicatedTags
 
 • **CommonlyReplicatedTags**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:37209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37209)
 
 ___
 
@@ -100,19 +88,11 @@ ___
 
 [GameplayTagsList](ue_ue.GameplayTagsList.md).[ConfigFileName](ue_ue.GameplayTagsList.md#configfilename)
 
-#### Defined in
-
-[ue/ue.d.ts:37103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37103)
-
 ___
 
 ### FastReplication
 
 • **FastReplication**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:37204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37204)
 
 ___
 
@@ -124,19 +104,11 @@ ___
 
 [GameplayTagsList](ue_ue.GameplayTagsList.md).[GameplayTagList](ue_ue.GameplayTagsList.md#gameplaytaglist)
 
-#### Defined in
-
-[ue/ue.d.ts:37104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37104)
-
 ___
 
 ### GameplayTagRedirects
 
 • **GameplayTagRedirects**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`GameplayTagRedirect`](ue_ue.GameplayTagRedirect.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:37208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37208)
 
 ___
 
@@ -144,19 +116,11 @@ ___
 
 • **GameplayTagTableList**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SoftObjectPath`](ue_ue.SoftObjectPath.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:37207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37207)
-
 ___
 
 ### ImportTagsFromConfig
 
 • **ImportTagsFromConfig**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:37202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37202)
 
 ___
 
@@ -164,19 +128,11 @@ ___
 
 • **InvalidTagCharacters**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:37205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37205)
-
 ___
 
 ### NetIndexFirstBitSegment
 
 • **NetIndexFirstBitSegment**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:37211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37211)
 
 ___
 
@@ -184,19 +140,11 @@ ___
 
 • **NumBitsForContainerSize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:37210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37210)
-
 ___
 
 ### RestrictedConfigFiles
 
 • **RestrictedConfigFiles**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`RestrictedConfigInfo`](ue_ue.RestrictedConfigInfo.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:37212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37212)
 
 ___
 
@@ -204,19 +152,11 @@ ___
 
 • **RestrictedTagList**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:37213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37213)
-
 ___
 
 ### WarnOnInvalidTags
 
 • **WarnOnInvalidTags**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:37203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37203)
 
 ___
 
@@ -228,19 +168,11 @@ ___
 
 [GameplayTagsList](ue_ue.GameplayTagsList.md).[__tid_GameplayTagsList__](ue_ue.GameplayTagsList.md#__tid_gameplaytagslist__)
 
-#### Defined in
-
-[ue/ue.d.ts:37109](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37109)
-
 ___
 
 ### \_\_tid\_GameplayTagsSettings\_\_
 
 • **\_\_tid\_GameplayTagsSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:37218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37218)
 
 ___
 
@@ -251,10 +183,6 @@ ___
 #### Inherited from
 
 [GameplayTagsList](ue_ue.GameplayTagsList.md).[__tid_Object__](ue_ue.GameplayTagsList.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -280,10 +208,6 @@ ___
 
 [GameplayTagsList](ue_ue.GameplayTagsList.md).[CreateDefaultSubobject](ue_ue.GameplayTagsList.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -304,10 +228,6 @@ ___
 
 [GameplayTagsList](ue_ue.GameplayTagsList.md).[ExecuteUbergraph](ue_ue.GameplayTagsList.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -321,10 +241,6 @@ ___
 #### Inherited from
 
 [GameplayTagsList](ue_ue.GameplayTagsList.md).[GetClass](ue_ue.GameplayTagsList.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -340,10 +256,6 @@ ___
 
 [GameplayTagsList](ue_ue.GameplayTagsList.md).[GetName](ue_ue.GameplayTagsList.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -358,10 +270,6 @@ ___
 
 [GameplayTagsList](ue_ue.GameplayTagsList.md).[GetOuter](ue_ue.GameplayTagsList.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -375,10 +283,6 @@ ___
 #### Inherited from
 
 [GameplayTagsList](ue_ue.GameplayTagsList.md).[GetWorld](ue_ue.GameplayTagsList.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -401,10 +305,6 @@ ___
 
 [GameplayTagsList](ue_ue.GameplayTagsList.md).[Find](ue_ue.GameplayTagsList.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:37215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37215)
-
 ___
 
 ### Load
@@ -425,10 +325,6 @@ ___
 
 [GameplayTagsList](ue_ue.GameplayTagsList.md).[Load](ue_ue.GameplayTagsList.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:37216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37216)
-
 ___
 
 ### StaticClass
@@ -442,7 +338,3 @@ ___
 #### Overrides
 
 [GameplayTagsList](ue_ue.GameplayTagsList.md).[StaticClass](ue_ue.GameplayTagsList.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:37214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37214)

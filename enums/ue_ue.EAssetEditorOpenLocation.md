@@ -24,19 +24,11 @@
 
 • **ContentBrowser** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31370)
-
 ___
 
 ### Default
 
 • **Default** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31370)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **EAssetEditorOpenLocation\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31370)
-
 ___
 
 ### LastDockedWindowOrContentBrowser
 
 • **LastDockedWindowOrContentBrowser** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31370)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **LastDockedWindowOrMainWindow** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31370)
-
 ___
 
 ### LastDockedWindowOrNewWindow
 
 • **LastDockedWindowOrNewWindow** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31370)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **MainWindow** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31370)
-
 ___
 
 ### NewWindow
 
 • **NewWindow** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31370)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31370)

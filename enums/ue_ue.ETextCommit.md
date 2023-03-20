@@ -21,19 +21,11 @@
 
 • **Default** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32169)
-
 ___
 
 ### ETextCommit\_MAX
 
 • **ETextCommit\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32169)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **OnCleared** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32169)
-
 ___
 
 ### OnEnter
 
 • **OnEnter** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32169)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **OnUserMovedFocus** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32169)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32169)

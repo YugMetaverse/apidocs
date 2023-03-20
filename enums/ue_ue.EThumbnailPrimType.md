@@ -22,19 +22,11 @@
 
 • **TPT\_Cube** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34828)
-
 ___
 
 ### TPT\_Cylinder
 
 • **TPT\_Cylinder** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34828)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **TPT\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34828)
-
 ___
 
 ### TPT\_None
 
 • **TPT\_None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34828)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **TPT\_Plane** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34828)
-
 ___
 
 ### TPT\_Sphere
 
 • **TPT\_Sphere** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34828)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34828)

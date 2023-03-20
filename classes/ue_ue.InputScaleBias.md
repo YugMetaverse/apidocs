@@ -27,10 +27,6 @@
 
 • **new InputScaleBias**()
 
-#### Defined in
-
-[ue/ue.d.ts:17648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17648)
-
 • **new InputScaleBias**(`Scale`, `Bias`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Scale` | `number` |
 | `Bias` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:17649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17649)
-
 ## Properties
 
 ### Bias
 
 • **Bias**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17651)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Scale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17650)
-
 ___
 
 ### \_\_tid\_InputScaleBias\_\_
 
 • `Private` **\_\_tid\_InputScaleBias\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17657)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17655)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17656)

@@ -42,19 +42,11 @@
 
 • **SOUNDGROUP\_Default** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)
-
 ___
 
 ### SOUNDGROUP\_Effects
 
 • **SOUNDGROUP\_Effects** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)
 
 ___
 
@@ -62,19 +54,11 @@ ___
 
 • **SOUNDGROUP\_GameSoundGroup1** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)
-
 ___
 
 ### SOUNDGROUP\_GameSoundGroup10
 
 • **SOUNDGROUP\_GameSoundGroup10** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)
 
 ___
 
@@ -82,19 +66,11 @@ ___
 
 • **SOUNDGROUP\_GameSoundGroup11** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)
-
 ___
 
 ### SOUNDGROUP\_GameSoundGroup12
 
 • **SOUNDGROUP\_GameSoundGroup12** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)
 
 ___
 
@@ -102,19 +78,11 @@ ___
 
 • **SOUNDGROUP\_GameSoundGroup13** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)
-
 ___
 
 ### SOUNDGROUP\_GameSoundGroup14
 
 • **SOUNDGROUP\_GameSoundGroup14** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)
 
 ___
 
@@ -122,19 +90,11 @@ ___
 
 • **SOUNDGROUP\_GameSoundGroup15** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)
-
 ___
 
 ### SOUNDGROUP\_GameSoundGroup16
 
 • **SOUNDGROUP\_GameSoundGroup16** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)
 
 ___
 
@@ -142,19 +102,11 @@ ___
 
 • **SOUNDGROUP\_GameSoundGroup17** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)
-
 ___
 
 ### SOUNDGROUP\_GameSoundGroup18
 
 • **SOUNDGROUP\_GameSoundGroup18** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)
 
 ___
 
@@ -162,19 +114,11 @@ ___
 
 • **SOUNDGROUP\_GameSoundGroup19** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)
-
 ___
 
 ### SOUNDGROUP\_GameSoundGroup2
 
 • **SOUNDGROUP\_GameSoundGroup2** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)
 
 ___
 
@@ -182,19 +126,11 @@ ___
 
 • **SOUNDGROUP\_GameSoundGroup20** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)
-
 ___
 
 ### SOUNDGROUP\_GameSoundGroup3
 
 • **SOUNDGROUP\_GameSoundGroup3** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)
 
 ___
 
@@ -202,19 +138,11 @@ ___
 
 • **SOUNDGROUP\_GameSoundGroup4** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)
-
 ___
 
 ### SOUNDGROUP\_GameSoundGroup5
 
 • **SOUNDGROUP\_GameSoundGroup5** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)
 
 ___
 
@@ -222,19 +150,11 @@ ___
 
 • **SOUNDGROUP\_GameSoundGroup6** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)
-
 ___
 
 ### SOUNDGROUP\_GameSoundGroup7
 
 • **SOUNDGROUP\_GameSoundGroup7** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)
 
 ___
 
@@ -242,19 +162,11 @@ ___
 
 • **SOUNDGROUP\_GameSoundGroup8** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)
-
 ___
 
 ### SOUNDGROUP\_GameSoundGroup9
 
 • **SOUNDGROUP\_GameSoundGroup9** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)
 
 ___
 
@@ -262,19 +174,11 @@ ___
 
 • **SOUNDGROUP\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)
-
 ___
 
 ### SOUNDGROUP\_Music
 
 • **SOUNDGROUP\_Music** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)
 
 ___
 
@@ -282,26 +186,14 @@ ___
 
 • **SOUNDGROUP\_UI** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)
-
 ___
 
 ### SOUNDGROUP\_Voice
 
 • **SOUNDGROUP\_Voice** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9486)

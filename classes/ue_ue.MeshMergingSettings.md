@@ -53,10 +53,6 @@
 
 • **new MeshMergingSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:9008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9008)
-
 • **new MeshMergingSettings**(`TargetLightMapResolution`, `OutputUVs`, `MaterialSettings`, `GutterSize`, `SpecificLOD`, `LODSelectionType`, `bGenerateLightMapUV`, `bComputedLightMapResolution`, `bPivotPointAtZero`, `bMergePhysicsData`, `bMergeMaterials`, `bCreateMergedMaterial`, `bBakeVertexDataToMesh`, `bUseVertexDataForBakingMaterial`, `bUseTextureBinning`, `bReuseMeshLightmapUVs`, `bMergeEquivalentMaterials`, `bUseLandscapeCulling`, `bIncludeImposters`, `bAllowDistanceField`, `bImportVertexColors`, `bCalculateCorrectLODModel`, `bExportNormalMap`, `bExportMetallicMap`, `bExportRoughnessMap`, `bExportSpecularMap`, `MergedMaterialAtlasResolution`, `ExportSpecificLOD`)
 
 #### Parameters
@@ -92,19 +88,11 @@
 | `MergedMaterialAtlasResolution` | `number` |
 | `ExportSpecificLOD` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:9009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9009)
-
 ## Properties
 
 ### ExportSpecificLOD
 
 • **ExportSpecificLOD**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9037)
 
 ___
 
@@ -112,19 +100,11 @@ ___
 
 • **GutterSize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9013)
-
 ___
 
 ### LODSelectionType
 
 • **LODSelectionType**: [`EMeshLODSelectionType`](../enums/ue_ue.EMeshLODSelectionType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9015)
 
 ___
 
@@ -132,19 +112,11 @@ ___
 
 • **MaterialSettings**: [`MaterialProxySettings`](ue_ue.MaterialProxySettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9012)
-
 ___
 
 ### MergedMaterialAtlasResolution
 
 • **MergedMaterialAtlasResolution**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9036](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9036)
 
 ___
 
@@ -152,19 +124,11 @@ ___
 
 • **OutputUVs**: [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<[`EUVOutput`](../enums/ue_ue.EUVOutput.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:9011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9011)
-
 ___
 
 ### SpecificLOD
 
 • **SpecificLOD**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9014)
 
 ___
 
@@ -172,19 +136,11 @@ ___
 
 • **TargetLightMapResolution**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9010)
-
 ___
 
 ### \_\_tid\_MeshMergingSettings\_\_
 
 • `Private` **\_\_tid\_MeshMergingSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9043)
 
 ___
 
@@ -192,19 +148,11 @@ ___
 
 • **bAllowDistanceField**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9029](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9029)
-
 ___
 
 ### bBakeVertexDataToMesh
 
 • **bBakeVertexDataToMesh**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9022)
 
 ___
 
@@ -212,19 +160,11 @@ ___
 
 • **bCalculateCorrectLODModel**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9031](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9031)
-
 ___
 
 ### bComputedLightMapResolution
 
 • **bComputedLightMapResolution**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9017)
 
 ___
 
@@ -232,19 +172,11 @@ ___
 
 • **bCreateMergedMaterial**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9021)
-
 ___
 
 ### bExportMetallicMap
 
 • **bExportMetallicMap**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9033](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9033)
 
 ___
 
@@ -252,19 +184,11 @@ ___
 
 • **bExportNormalMap**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9032](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9032)
-
 ___
 
 ### bExportRoughnessMap
 
 • **bExportRoughnessMap**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9034)
 
 ___
 
@@ -272,19 +196,11 @@ ___
 
 • **bExportSpecularMap**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9035](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9035)
-
 ___
 
 ### bGenerateLightMapUV
 
 • **bGenerateLightMapUV**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9016)
 
 ___
 
@@ -292,19 +208,11 @@ ___
 
 • **bImportVertexColors**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9030](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9030)
-
 ___
 
 ### bIncludeImposters
 
 • **bIncludeImposters**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9028)
 
 ___
 
@@ -312,19 +220,11 @@ ___
 
 • **bMergeEquivalentMaterials**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9026](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9026)
-
 ___
 
 ### bMergeMaterials
 
 • **bMergeMaterials**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9020)
 
 ___
 
@@ -332,19 +232,11 @@ ___
 
 • **bMergePhysicsData**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9019)
-
 ___
 
 ### bPivotPointAtZero
 
 • **bPivotPointAtZero**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9018)
 
 ___
 
@@ -352,19 +244,11 @@ ___
 
 • **bReuseMeshLightmapUVs**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9025)
-
 ___
 
 ### bUseLandscapeCulling
 
 • **bUseLandscapeCulling**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9027)
 
 ___
 
@@ -372,19 +256,11 @@ ___
 
 • **bUseTextureBinning**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9024)
-
 ___
 
 ### bUseVertexDataForBakingMaterial
 
 • **bUseVertexDataForBakingMaterial**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9023)
 
 ## Methods
 
@@ -400,10 +276,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9041](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9041)
-
 ___
 
 ### StaticStruct
@@ -413,7 +285,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9042)

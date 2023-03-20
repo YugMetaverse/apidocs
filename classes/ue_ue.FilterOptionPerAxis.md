@@ -28,10 +28,6 @@
 
 • **new FilterOptionPerAxis**()
 
-#### Defined in
-
-[ue/ue.d.ts:18283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18283)
-
 • **new FilterOptionPerAxis**(`bX`, `bY`, `bZ`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `bY` | `boolean` |
 | `bZ` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:18284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18284)
-
 ## Properties
 
 ### \_\_tid\_FilterOptionPerAxis\_\_
 
 • `Private` **\_\_tid\_FilterOptionPerAxis\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18293)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **bX**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:18285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18285)
-
 ___
 
 ### bY
 
 • **bY**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:18286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18286)
-
 ___
 
 ### bZ
 
 • **bZ**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18287)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18291)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:18292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18292)

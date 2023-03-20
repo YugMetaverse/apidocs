@@ -39,10 +39,6 @@
 
 [StaticParameterBase](ue_ue.StaticParameterBase.md).[constructor](ue_ue.StaticParameterBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:2107](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2107)
-
 • **new StaticMaterialLayersParameter**(`Value`)
 
 #### Parameters
@@ -55,10 +51,6 @@
 
 [StaticParameterBase](ue_ue.StaticParameterBase.md).[constructor](ue_ue.StaticParameterBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:2108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2108)
-
 ## Properties
 
 ### ExpressionGUID
@@ -68,10 +60,6 @@
 #### Inherited from
 
 [StaticParameterBase](ue_ue.StaticParameterBase.md).[ExpressionGUID](ue_ue.StaticParameterBase.md#expressionguid)
-
-#### Defined in
-
-[ue/ue.d.ts:2039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2039)
 
 ___
 
@@ -83,29 +71,17 @@ ___
 
 [StaticParameterBase](ue_ue.StaticParameterBase.md).[ParameterInfo](ue_ue.StaticParameterBase.md#parameterinfo)
 
-#### Defined in
-
-[ue/ue.d.ts:2037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2037)
-
 ___
 
 ### Value
 
 • **Value**: [`MaterialLayersFunctions`](ue_ue.MaterialLayersFunctions.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2109](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2109)
-
 ___
 
 ### \_\_tid\_StaticMaterialLayersParameter\_\_
 
 • `Private` **\_\_tid\_StaticMaterialLayersParameter\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2115)
 
 ___
 
@@ -116,10 +92,6 @@ ___
 #### Inherited from
 
 [StaticParameterBase](ue_ue.StaticParameterBase.md).[bOverride](ue_ue.StaticParameterBase.md#boverride)
-
-#### Defined in
-
-[ue/ue.d.ts:2038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2038)
 
 ## Methods
 
@@ -139,10 +111,6 @@ use StaticStruct instead.
 
 [StaticParameterBase](ue_ue.StaticParameterBase.md).[StaticClass](ue_ue.StaticParameterBase.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:2113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2113)
-
 ___
 
 ### StaticStruct
@@ -156,7 +124,3 @@ ___
 #### Overrides
 
 [StaticParameterBase](ue_ue.StaticParameterBase.md).[StaticStruct](ue_ue.StaticParameterBase.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:2114](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2114)

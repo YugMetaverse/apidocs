@@ -27,10 +27,6 @@
 
 • **new VertexPair**()
 
-#### Defined in
-
-[ue/ue.d.ts:31608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31608)
-
 • **new VertexPair**(`VertexID0`, `VertexID1`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `VertexID0` | [`VertexID`](ue_ue.VertexID.md) |
 | `VertexID1` | [`VertexID`](ue_ue.VertexID.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:31609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31609)
-
 ## Properties
 
 ### VertexID0
 
 • **VertexID0**: [`VertexID`](ue_ue.VertexID.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31610)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **VertexID1**: [`VertexID`](ue_ue.VertexID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31611](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31611)
-
 ___
 
 ### \_\_tid\_VertexPair\_\_
 
 • `Private` **\_\_tid\_VertexPair\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31617)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31615)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31616)

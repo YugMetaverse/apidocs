@@ -21,19 +21,11 @@
 
 • **Bool** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34865)
-
 ___
 
 ### EVectorVMBaseTypes\_MAX
 
 • **EVectorVMBaseTypes\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34865)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Float** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34865)
-
 ___
 
 ### Int
 
 • **Int** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34865)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Num** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34865)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34865)

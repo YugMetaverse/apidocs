@@ -64,10 +64,6 @@
 
 [AITask](ue_ue.AITask.md).[constructor](ue_ue.AITask.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:16132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16132)
-
 ## Properties
 
 ### ChildTask
@@ -77,10 +73,6 @@
 #### Inherited from
 
 [AITask](ue_ue.AITask.md).[ChildTask](ue_ue.AITask.md#childtask)
-
-#### Defined in
-
-[ue/ue.d.ts:14889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14889)
 
 ___
 
@@ -92,19 +84,11 @@ ___
 
 [AITask](ue_ue.AITask.md).[InstanceName](ue_ue.AITask.md#instancename)
 
-#### Defined in
-
-[ue/ue.d.ts:14887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14887)
-
 ___
 
 ### MoveRequest
 
 • **MoveRequest**: [`AIMoveRequest`](ue_ue.AIMoveRequest.md)
-
-#### Defined in
-
-[ue/ue.d.ts:16135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16135)
 
 ___
 
@@ -112,19 +96,11 @@ ___
 
 • **OnMoveFinished**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`Result`: [`EPathFollowingResult`](../enums/ue_ue.EPathFollowingResult.md), `AIController`: [`$Nullable`](../modules/puerts.md#$nullable)<[`AIController`](ue_ue.AIController.md)\>) => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:16134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16134)
-
 ___
 
 ### OnRequestFailed
 
 • **OnRequestFailed**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<() => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:16133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16133)
 
 ___
 
@@ -136,10 +112,6 @@ ___
 
 [AITask](ue_ue.AITask.md).[OwnerController](ue_ue.AITask.md#ownercontroller)
 
-#### Defined in
-
-[ue/ue.d.ts:16101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16101)
-
 ___
 
 ### ResourceOverlapPolicy
@@ -150,19 +122,11 @@ ___
 
 [AITask](ue_ue.AITask.md).[ResourceOverlapPolicy](ue_ue.AITask.md#resourceoverlappolicy)
 
-#### Defined in
-
-[ue/ue.d.ts:14888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14888)
-
 ___
 
 ### \_\_tid\_AITask\_MoveTo\_\_
 
 • **\_\_tid\_AITask\_MoveTo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16141)
 
 ___
 
@@ -174,10 +138,6 @@ ___
 
 [AITask](ue_ue.AITask.md).[__tid_AITask__](ue_ue.AITask.md#__tid_aitask__)
 
-#### Defined in
-
-[ue/ue.d.ts:16106](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16106)
-
 ___
 
 ### \_\_tid\_GameplayTask\_\_
@@ -188,10 +148,6 @@ ___
 
 [AITask](ue_ue.AITask.md).[__tid_GameplayTask__](ue_ue.AITask.md#__tid_gameplaytask__)
 
-#### Defined in
-
-[ue/ue.d.ts:14897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14897)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -201,10 +157,6 @@ ___
 #### Inherited from
 
 [AITask](ue_ue.AITask.md).[__tid_Object__](ue_ue.AITask.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -230,10 +182,6 @@ ___
 
 [AITask](ue_ue.AITask.md).[CreateDefaultSubobject](ue_ue.AITask.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### EndTask
@@ -247,10 +195,6 @@ ___
 #### Inherited from
 
 [AITask](ue_ue.AITask.md).[EndTask](ue_ue.AITask.md#endtask)
-
-#### Defined in
-
-[ue/ue.d.ts:14890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14890)
 
 ___
 
@@ -272,10 +216,6 @@ ___
 
 [AITask](ue_ue.AITask.md).[ExecuteUbergraph](ue_ue.AITask.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GenericGameplayTaskDelegate\_\_DelegateSignature
@@ -289,10 +229,6 @@ ___
 #### Inherited from
 
 [AITask](ue_ue.AITask.md).[GenericGameplayTaskDelegate__DelegateSignature](ue_ue.AITask.md#genericgameplaytaskdelegate__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:14891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14891)
 
 ___
 
@@ -308,10 +244,6 @@ ___
 
 [AITask](ue_ue.AITask.md).[GetClass](ue_ue.AITask.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetName
@@ -325,10 +257,6 @@ ___
 #### Inherited from
 
 [AITask](ue_ue.AITask.md).[GetName](ue_ue.AITask.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -344,10 +272,6 @@ ___
 
 [AITask](ue_ue.AITask.md).[GetOuter](ue_ue.AITask.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -362,10 +286,6 @@ ___
 
 [AITask](ue_ue.AITask.md).[GetWorld](ue_ue.AITask.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### ReadyForActivation
@@ -379,10 +299,6 @@ ___
 #### Inherited from
 
 [AITask](ue_ue.AITask.md).[ReadyForActivation](ue_ue.AITask.md#readyforactivation)
-
-#### Defined in
-
-[ue/ue.d.ts:14892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14892)
 
 ___
 
@@ -409,10 +325,6 @@ ___
 
 [`AITask_MoveTo`](ue_ue.AITask_MoveTo.md)
 
-#### Defined in
-
-[ue/ue.d.ts:16136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16136)
-
 ___
 
 ### Find
@@ -434,10 +346,6 @@ ___
 
 [AITask](ue_ue.AITask.md).[Find](ue_ue.AITask.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:16138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16138)
-
 ___
 
 ### Load
@@ -458,10 +366,6 @@ ___
 
 [AITask](ue_ue.AITask.md).[Load](ue_ue.AITask.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:16139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16139)
-
 ___
 
 ### StaticClass
@@ -475,7 +379,3 @@ ___
 #### Overrides
 
 [AITask](ue_ue.AITask.md).[StaticClass](ue_ue.AITask.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:16137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16137)

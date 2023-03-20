@@ -20,19 +20,11 @@
 
 • **Custom** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L597)
-
 ___
 
 ### ESleepFamily\_MAX
 
 • **ESleepFamily\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L597)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Normal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L597)
-
 ___
 
 ### Sensitive
 
 • **Sensitive** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L597)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L597)

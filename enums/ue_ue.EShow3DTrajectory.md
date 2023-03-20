@@ -20,19 +20,11 @@
 
 • **EST\_Always** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34772)
-
 ___
 
 ### EST\_MAX
 
 • **EST\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34772)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **EST\_Never** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34772)
-
 ___
 
 ### EST\_OnlyWhenSelected
 
 • **EST\_OnlyWhenSelected** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34772)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34772)

@@ -22,19 +22,11 @@
 
 • **Auto** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1848)
-
 ___
 
 ### AutoLight
 
 • **AutoLight** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1848)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **Default** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1848)
-
 ___
 
 ### EFontHinting\_MAX
 
 • **EFontHinting\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1848)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **Monochrome** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1848)
-
 ___
 
 ### None
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1848)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1848)

@@ -20,19 +20,11 @@
 
 • **Complex** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34878)
-
 ___
 
 ### EWheelSweepType\_MAX
 
 • **EWheelSweepType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34878)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Simple** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34878)
-
 ___
 
 ### SimpleAndComplex
 
 • **SimpleAndComplex** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34878)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34878)

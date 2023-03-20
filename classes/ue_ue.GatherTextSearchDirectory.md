@@ -27,10 +27,6 @@
 
 • **new GatherTextSearchDirectory**()
 
-#### Defined in
-
-[ue/ue.d.ts:45979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45979)
-
 • **new GatherTextSearchDirectory**(`PathRoot`, `Path`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `PathRoot` | [`ELocalizationGatherPathRoot`](../enums/ue_ue.ELocalizationGatherPathRoot.md) |
 | `Path` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:45980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45980)
-
 ## Properties
 
 ### Path
 
 • **Path**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:45982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45982)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **PathRoot**: [`ELocalizationGatherPathRoot`](../enums/ue_ue.ELocalizationGatherPathRoot.md)
 
-#### Defined in
-
-[ue/ue.d.ts:45981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45981)
-
 ___
 
 ### \_\_tid\_GatherTextSearchDirectory\_\_
 
 • `Private` **\_\_tid\_GatherTextSearchDirectory\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45988)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:45986](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45986)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:45987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45987)

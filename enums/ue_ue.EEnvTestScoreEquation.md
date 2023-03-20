@@ -22,19 +22,11 @@
 
 • **Constant** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15539)
-
 ___
 
 ### EEnvTestScoreEquation\_MAX
 
 • **EEnvTestScoreEquation\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15539)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **InverseLinear** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15539)
-
 ___
 
 ### Linear
 
 • **Linear** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15539)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **Square** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15539)
-
 ___
 
 ### SquareRoot
 
 • **SquareRoot** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15539)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15539)

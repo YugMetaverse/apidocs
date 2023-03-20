@@ -21,19 +21,11 @@
 
 • **ETTA\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34846)
-
 ___
 
 ### ETTA\_Off
 
 • **ETTA\_Off** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34846)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **ETTA\_On** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34846)
-
 ___
 
 ### ETTA\_Toggle
 
 • **ETTA\_Toggle** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34846)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **ETTA\_Trigger** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34846)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34846)

@@ -52,10 +52,6 @@
 
 [InteractiveToolBuilder](ue_ue.InteractiveToolBuilder.md).[constructor](ue_ue.InteractiveToolBuilder.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:60632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60632)
-
 ## Properties
 
 ### \_\_tid\_InteractiveToolBuilder\_\_
@@ -65,10 +61,6 @@
 #### Inherited from
 
 [InteractiveToolBuilder](ue_ue.InteractiveToolBuilder.md).[__tid_InteractiveToolBuilder__](ue_ue.InteractiveToolBuilder.md#__tid_interactivetoolbuilder__)
-
-#### Defined in
-
-[ue/ue.d.ts:27505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27505)
 
 ___
 
@@ -80,19 +72,11 @@ ___
 
 [InteractiveToolBuilder](ue_ue.InteractiveToolBuilder.md).[__tid_Object__](ue_ue.InteractiveToolBuilder.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_SingleClickToolBuilder\_\_
 
 • **\_\_tid\_SingleClickToolBuilder\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:60637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60637)
 
 ## Methods
 
@@ -118,10 +102,6 @@ ___
 
 [InteractiveToolBuilder](ue_ue.InteractiveToolBuilder.md).[CreateDefaultSubobject](ue_ue.InteractiveToolBuilder.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -142,10 +122,6 @@ ___
 
 [InteractiveToolBuilder](ue_ue.InteractiveToolBuilder.md).[ExecuteUbergraph](ue_ue.InteractiveToolBuilder.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -159,10 +135,6 @@ ___
 #### Inherited from
 
 [InteractiveToolBuilder](ue_ue.InteractiveToolBuilder.md).[GetClass](ue_ue.InteractiveToolBuilder.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -178,10 +150,6 @@ ___
 
 [InteractiveToolBuilder](ue_ue.InteractiveToolBuilder.md).[GetName](ue_ue.InteractiveToolBuilder.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -196,10 +164,6 @@ ___
 
 [InteractiveToolBuilder](ue_ue.InteractiveToolBuilder.md).[GetOuter](ue_ue.InteractiveToolBuilder.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -213,10 +177,6 @@ ___
 #### Inherited from
 
 [InteractiveToolBuilder](ue_ue.InteractiveToolBuilder.md).[GetWorld](ue_ue.InteractiveToolBuilder.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -239,10 +199,6 @@ ___
 
 [InteractiveToolBuilder](ue_ue.InteractiveToolBuilder.md).[Find](ue_ue.InteractiveToolBuilder.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:60634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60634)
-
 ___
 
 ### Load
@@ -263,10 +219,6 @@ ___
 
 [InteractiveToolBuilder](ue_ue.InteractiveToolBuilder.md).[Load](ue_ue.InteractiveToolBuilder.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:60635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60635)
-
 ___
 
 ### StaticClass
@@ -280,7 +232,3 @@ ___
 #### Overrides
 
 [InteractiveToolBuilder](ue_ue.InteractiveToolBuilder.md).[StaticClass](ue_ue.InteractiveToolBuilder.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:60633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60633)

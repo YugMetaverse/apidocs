@@ -86,29 +86,17 @@
 
 [Visual](ue_ue.Visual.md).[constructor](ue_ue.Visual.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:10697](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10697)
-
 ## Properties
 
 ### Content
 
 • **Content**: [`Widget`](ue_ue.Widget.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10699](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10699)
-
 ___
 
 ### Parent
 
 • **Parent**: [`PanelWidget`](ue_ue.PanelWidget.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10698)
 
 ___
 
@@ -120,19 +108,11 @@ ___
 
 [Visual](ue_ue.Visual.md).[__tid_Object__](ue_ue.Visual.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PanelSlot\_\_
 
 • **\_\_tid\_PanelSlot\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10704)
 
 ___
 
@@ -143,10 +123,6 @@ ___
 #### Inherited from
 
 [Visual](ue_ue.Visual.md).[__tid_Visual__](ue_ue.Visual.md#__tid_visual__)
-
-#### Defined in
-
-[ue/ue.d.ts:10673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10673)
 
 ## Methods
 
@@ -172,10 +148,6 @@ ___
 
 [Visual](ue_ue.Visual.md).[CreateDefaultSubobject](ue_ue.Visual.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -196,10 +168,6 @@ ___
 
 [Visual](ue_ue.Visual.md).[ExecuteUbergraph](ue_ue.Visual.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -213,10 +181,6 @@ ___
 #### Inherited from
 
 [Visual](ue_ue.Visual.md).[GetClass](ue_ue.Visual.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -232,10 +196,6 @@ ___
 
 [Visual](ue_ue.Visual.md).[GetName](ue_ue.Visual.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -250,10 +210,6 @@ ___
 
 [Visual](ue_ue.Visual.md).[GetOuter](ue_ue.Visual.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -267,10 +223,6 @@ ___
 #### Inherited from
 
 [Visual](ue_ue.Visual.md).[GetWorld](ue_ue.Visual.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -293,10 +245,6 @@ ___
 
 [Visual](ue_ue.Visual.md).[Find](ue_ue.Visual.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:10701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10701)
-
 ___
 
 ### Load
@@ -317,10 +265,6 @@ ___
 
 [Visual](ue_ue.Visual.md).[Load](ue_ue.Visual.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:10702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10702)
-
 ___
 
 ### StaticClass
@@ -334,7 +278,3 @@ ___
 #### Overrides
 
 [Visual](ue_ue.Visual.md).[StaticClass](ue_ue.Visual.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:10700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10700)

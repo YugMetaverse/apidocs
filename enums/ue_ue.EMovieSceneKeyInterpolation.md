@@ -22,19 +22,11 @@
 
 • **Auto** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34068)
-
 ___
 
 ### Break
 
 • **Break** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34068)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **Constant** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34068)
-
 ___
 
 ### EMovieSceneKeyInterpolation\_MAX
 
 • **EMovieSceneKeyInterpolation\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34068)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **Linear** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34068)
-
 ___
 
 ### User
 
 • **User** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34068)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34068)

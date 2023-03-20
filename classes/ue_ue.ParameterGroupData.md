@@ -27,10 +27,6 @@
 
 • **new ParameterGroupData**()
 
-#### Defined in
-
-[ue/ue.d.ts:1319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1319)
-
 • **new ParameterGroupData**(`GroupName`, `GroupSortPriority`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `GroupName` | `string` |
 | `GroupSortPriority` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:1320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1320)
-
 ## Properties
 
 ### GroupName
 
 • **GroupName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:1321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1321)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **GroupSortPriority**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1322)
-
 ___
 
 ### \_\_tid\_ParameterGroupData\_\_
 
 • `Private` **\_\_tid\_ParameterGroupData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1328)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1326)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1327)

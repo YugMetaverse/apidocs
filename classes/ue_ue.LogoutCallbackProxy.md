@@ -56,29 +56,17 @@
 
 [BlueprintAsyncActionBase](ue_ue.BlueprintAsyncActionBase.md).[constructor](ue_ue.BlueprintAsyncActionBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:46324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46324)
-
 ## Properties
 
 ### OnFailure
 
 • **OnFailure**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`PlayerController`: [`$Nullable`](../modules/puerts.md#$nullable)<[`PlayerController`](ue_ue.PlayerController.md)\>) => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:46326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46326)
-
 ___
 
 ### OnSuccess
 
 • **OnSuccess**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`PlayerController`: [`$Nullable`](../modules/puerts.md#$nullable)<[`PlayerController`](ue_ue.PlayerController.md)\>) => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:46325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46325)
 
 ___
 
@@ -90,19 +78,11 @@ ___
 
 [BlueprintAsyncActionBase](ue_ue.BlueprintAsyncActionBase.md).[__tid_BlueprintAsyncActionBase__](ue_ue.BlueprintAsyncActionBase.md#__tid_blueprintasyncactionbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:20672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20672)
-
 ___
 
 ### \_\_tid\_LogoutCallbackProxy\_\_
 
 • **\_\_tid\_LogoutCallbackProxy\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46332)
 
 ___
 
@@ -113,10 +93,6 @@ ___
 #### Inherited from
 
 [BlueprintAsyncActionBase](ue_ue.BlueprintAsyncActionBase.md).[__tid_Object__](ue_ue.BlueprintAsyncActionBase.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -131,10 +107,6 @@ ___
 #### Inherited from
 
 [BlueprintAsyncActionBase](ue_ue.BlueprintAsyncActionBase.md).[Activate](ue_ue.BlueprintAsyncActionBase.md#activate)
-
-#### Defined in
-
-[ue/ue.d.ts:20667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20667)
 
 ___
 
@@ -160,10 +132,6 @@ ___
 
 [BlueprintAsyncActionBase](ue_ue.BlueprintAsyncActionBase.md).[CreateDefaultSubobject](ue_ue.BlueprintAsyncActionBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -184,10 +152,6 @@ ___
 
 [BlueprintAsyncActionBase](ue_ue.BlueprintAsyncActionBase.md).[ExecuteUbergraph](ue_ue.BlueprintAsyncActionBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -201,10 +165,6 @@ ___
 #### Inherited from
 
 [BlueprintAsyncActionBase](ue_ue.BlueprintAsyncActionBase.md).[GetClass](ue_ue.BlueprintAsyncActionBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -220,10 +180,6 @@ ___
 
 [BlueprintAsyncActionBase](ue_ue.BlueprintAsyncActionBase.md).[GetName](ue_ue.BlueprintAsyncActionBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -238,10 +194,6 @@ ___
 
 [BlueprintAsyncActionBase](ue_ue.BlueprintAsyncActionBase.md).[GetOuter](ue_ue.BlueprintAsyncActionBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -255,10 +207,6 @@ ___
 #### Inherited from
 
 [BlueprintAsyncActionBase](ue_ue.BlueprintAsyncActionBase.md).[GetWorld](ue_ue.BlueprintAsyncActionBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -281,10 +229,6 @@ ___
 
 [BlueprintAsyncActionBase](ue_ue.BlueprintAsyncActionBase.md).[Find](ue_ue.BlueprintAsyncActionBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:46329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46329)
-
 ___
 
 ### Load
@@ -305,10 +249,6 @@ ___
 
 [BlueprintAsyncActionBase](ue_ue.BlueprintAsyncActionBase.md).[Load](ue_ue.BlueprintAsyncActionBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:46330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46330)
-
 ___
 
 ### Logout
@@ -326,10 +266,6 @@ ___
 
 [`LogoutCallbackProxy`](ue_ue.LogoutCallbackProxy.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46327)
-
 ___
 
 ### StaticClass
@@ -343,7 +279,3 @@ ___
 #### Overrides
 
 [BlueprintAsyncActionBase](ue_ue.BlueprintAsyncActionBase.md).[StaticClass](ue_ue.BlueprintAsyncActionBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:46328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46328)

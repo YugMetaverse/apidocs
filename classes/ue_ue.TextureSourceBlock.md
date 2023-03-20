@@ -31,10 +31,6 @@
 
 • **new TextureSourceBlock**()
 
-#### Defined in
-
-[ue/ue.d.ts:406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L406)
-
 • **new TextureSourceBlock**(`BlockX`, `BlockY`, `SizeX`, `SizeY`, `NumSlices`, `NumMips`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `NumSlices` | `number` |
 | `NumMips` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L407)
-
 ## Properties
 
 ### BlockX
 
 • **BlockX**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L408)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **BlockY**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L409)
-
 ___
 
 ### NumMips
 
 • **NumMips**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L413)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **NumSlices**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L412)
-
 ___
 
 ### SizeX
 
 • **SizeX**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L410)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **SizeY**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L411)
-
 ___
 
 ### \_\_tid\_TextureSourceBlock\_\_
 
 • `Private` **\_\_tid\_TextureSourceBlock\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L419)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L417)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L418)

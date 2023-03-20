@@ -60,19 +60,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:57284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57284)
-
 ## Properties
 
 ### AdditionalMeshes
 
 • **AdditionalMeshes**: [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`DataAsset`](ue_ue.DataAsset.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:57292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57292)
 
 ___
 
@@ -80,19 +72,11 @@ ___
 
 • **ApplicationMethod**: [`EPreviewAnimationBlueprintApplicationMethod`](../enums/ue_ue.EPreviewAnimationBlueprintApplicationMethod.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57290)
-
 ___
 
 ### DefaultAdditionalMeshes
 
 • **DefaultAdditionalMeshes**: [`PreviewMeshCollection`](ue_ue.PreviewMeshCollection.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57293)
 
 ___
 
@@ -100,19 +84,11 @@ ___
 
 • **LinkedAnimGraphTag**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:57291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57291)
-
 ___
 
 ### PreviewAnimationBlueprint
 
 • **PreviewAnimationBlueprint**: [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`AnimBlueprint`](ue_ue.AnimBlueprint.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:57289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57289)
 
 ___
 
@@ -120,19 +96,11 @@ ___
 
 • **PreviewController**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57285)
-
 ___
 
 ### PreviewControllerInstance
 
 • **PreviewControllerInstance**: [`PersonaPreviewSceneController`](ue_ue.PersonaPreviewSceneController.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57286)
 
 ___
 
@@ -140,19 +108,11 @@ ___
 
 • **PreviewControllerInstances**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PersonaPreviewSceneController`](ue_ue.PersonaPreviewSceneController.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:57287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57287)
-
 ___
 
 ### PreviewMesh
 
 • **PreviewMesh**: [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`SkeletalMesh`](ue_ue.SkeletalMesh.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:57288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57288)
 
 ___
 
@@ -164,19 +124,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PersonaPreviewSceneDescription\_\_
 
 • **\_\_tid\_PersonaPreviewSceneDescription\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57298)
 
 ## Methods
 
@@ -202,10 +154,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -226,10 +174,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -243,10 +187,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -262,10 +202,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -280,10 +216,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -297,10 +229,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -323,10 +251,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:57295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57295)
-
 ___
 
 ### Load
@@ -347,10 +271,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:57296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57296)
-
 ___
 
 ### StaticClass
@@ -364,7 +284,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:57294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57294)

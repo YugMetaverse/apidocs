@@ -27,10 +27,6 @@
 
 • **new LayerActorStats**()
 
-#### Defined in
-
-[ue/ue.d.ts:8498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8498)
-
 • **new LayerActorStats**(`Type`, `Total`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Type` | [`Class`](ue_ue.Class.md) |
 | `Total` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:8499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8499)
-
 ## Properties
 
 ### Total
 
 • **Total**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8501)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Type**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8500)
-
 ___
 
 ### \_\_tid\_LayerActorStats\_\_
 
 • `Private` **\_\_tid\_LayerActorStats\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8507)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8505)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8506)

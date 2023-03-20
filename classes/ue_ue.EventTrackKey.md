@@ -27,10 +27,6 @@
 
 • **new EventTrackKey**()
 
-#### Defined in
-
-[ue/ue.d.ts:39890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39890)
-
 • **new EventTrackKey**(`Time`, `EventName`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Time` | `number` |
 | `EventName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:39891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39891)
-
 ## Properties
 
 ### EventName
 
 • **EventName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:39893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39893)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Time**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:39892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39892)
-
 ___
 
 ### \_\_tid\_EventTrackKey\_\_
 
 • `Private` **\_\_tid\_EventTrackKey\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39899)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39897)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:39898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39898)

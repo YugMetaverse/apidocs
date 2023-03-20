@@ -29,10 +29,6 @@
 
 • **new BlendParameter**()
 
-#### Defined in
-
-[ue/ue.d.ts:15217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15217)
-
 • **new BlendParameter**(`DisplayName`, `Min`, `Max`, `GridNum`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `Max` | `number` |
 | `GridNum` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:15218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15218)
-
 ## Properties
 
 ### DisplayName
 
 • **DisplayName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:15219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15219)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **GridNum**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15222)
-
 ___
 
 ### Max
 
 • **Max**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15221)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **Min**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15220)
-
 ___
 
 ### \_\_tid\_BlendParameter\_\_
 
 • `Private` **\_\_tid\_BlendParameter\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15228)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15226)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15227)

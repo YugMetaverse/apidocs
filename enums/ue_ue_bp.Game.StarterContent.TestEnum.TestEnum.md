@@ -20,19 +20,11 @@
 
 • **Blue** = `number`
 
-#### Defined in
-
-[ue/ue_bp.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L294)
-
 ___
 
 ### Green
 
 • **Green** = `number`
-
-#### Defined in
-
-[ue/ue_bp.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L294)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Red** = `number`
 
-#### Defined in
-
-[ue/ue_bp.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L294)
-
 ___
 
 ### TestEnum\_MAX
 
 • **TestEnum\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue_bp.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L294)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue_bp.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L294)

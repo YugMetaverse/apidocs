@@ -20,19 +20,11 @@
 
 • **Chaos\_Emission\_Pattern\_First\_Frame** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33831)
-
 ___
 
 ### Chaos\_Emission\_Pattern\_On\_Demand
 
 • **Chaos\_Emission\_Pattern\_On\_Demand** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33831)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Chaos\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33831)
-
 ___
 
 ### Chaos\_Max
 
 • **Chaos\_Max** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33831)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33831)

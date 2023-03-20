@@ -299,10 +299,6 @@
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[constructor](ue_ue.VREditorDockableWindow.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:65953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65953)
-
 ## Properties
 
 ### ActorLabel
@@ -312,10 +308,6 @@
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[ActorLabel](ue_ue.VREditorDockableWindow.md#actorlabel)
-
-#### Defined in
-
-[ue/ue.d.ts:13176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13176)
 
 ___
 
@@ -327,10 +319,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[AttachmentReplication](ue_ue.VREditorDockableWindow.md#attachmentreplication)
 
-#### Defined in
-
-[ue/ue.d.ts:13151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13151)
-
 ___
 
 ### AutoReceiveInput
@@ -340,10 +328,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[AutoReceiveInput](ue_ue.VREditorDockableWindow.md#autoreceiveinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13157)
 
 ___
 
@@ -355,10 +339,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[BlueprintCreatedComponents](ue_ue.VREditorDockableWindow.md#blueprintcreatedcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13206)
-
 ___
 
 ### Children
@@ -368,10 +348,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[Children](ue_ue.VREditorDockableWindow.md#children)
-
-#### Defined in
-
-[ue/ue.d.ts:13166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13166)
 
 ___
 
@@ -383,10 +359,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[CloseButtonMID](ue_ue.VREditorDockableWindow.md#closebuttonmid)
 
-#### Defined in
-
-[ue/ue.d.ts:65765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65765)
-
 ___
 
 ### CloseButtonMeshComponent
@@ -396,10 +368,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[CloseButtonMeshComponent](ue_ue.VREditorDockableWindow.md#closebuttonmeshcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:65761](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65761)
 
 ___
 
@@ -411,10 +379,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[CloseButtonTranslucentMID](ue_ue.VREditorDockableWindow.md#closebuttontranslucentmid)
 
-#### Defined in
-
-[ue/ue.d.ts:65766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65766)
-
 ___
 
 ### ControllingMatineeActors
@@ -424,10 +388,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[ControllingMatineeActors](ue_ue.VREditorDockableWindow.md#controllingmatineeactors)
-
-#### Defined in
-
-[ue/ue.d.ts:13169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13169)
 
 ___
 
@@ -439,10 +399,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[CreationContext](ue_ue.VREditorDockableWindow.md#creationcontext)
 
-#### Defined in
-
-[ue/ue.d.ts:65732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65732)
-
 ___
 
 ### CustomTimeDilation
@@ -452,10 +408,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[CustomTimeDilation](ue_ue.VREditorDockableWindow.md#customtimedilation)
-
-#### Defined in
-
-[ue/ue.d.ts:13150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13150)
 
 ___
 
@@ -467,10 +419,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[DefaultUpdateOverlapsMethodDuringLevelStreaming](ue_ue.VREditorDockableWindow.md#defaultupdateoverlapsmethodduringlevelstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:13146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13146)
-
 ___
 
 ### DockButtonMID
@@ -480,10 +428,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[DockButtonMID](ue_ue.VREditorDockableWindow.md#dockbuttonmid)
-
-#### Defined in
-
-[ue/ue.d.ts:65762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65762)
 
 ___
 
@@ -495,10 +439,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[DockButtonMeshComponent](ue_ue.VREditorDockableWindow.md#dockbuttonmeshcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:65759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65759)
-
 ___
 
 ### DragOperationComponent
@@ -508,10 +448,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[DragOperationComponent](ue_ue.VREditorDockableWindow.md#dragoperationcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:65767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65767)
 
 ___
 
@@ -523,10 +459,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[FolderPath](ue_ue.VREditorDockableWindow.md#folderpath)
 
-#### Defined in
-
-[ue/ue.d.ts:13177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13177)
-
 ___
 
 ### GroupActor
@@ -536,10 +468,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GroupActor](ue_ue.VREditorDockableWindow.md#groupactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13173)
 
 ___
 
@@ -551,10 +479,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[HiddenEditorViews](ue_ue.VREditorDockableWindow.md#hiddeneditorviews)
 
-#### Defined in
-
-[ue/ue.d.ts:13175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13175)
-
 ___
 
 ### InitialLifeSpan
@@ -564,10 +488,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[InitialLifeSpan](ue_ue.VREditorDockableWindow.md#initiallifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13149)
 
 ___
 
@@ -579,10 +499,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[InputComponent](ue_ue.VREditorDockableWindow.md#inputcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13159)
-
 ___
 
 ### InputPriority
@@ -592,10 +508,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[InputPriority](ue_ue.VREditorDockableWindow.md#inputpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:13158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13158)
 
 ___
 
@@ -607,10 +519,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[InstanceComponents](ue_ue.VREditorDockableWindow.md#instancecomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13205)
-
 ___
 
 ### Instigator
@@ -620,10 +528,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[Instigator](ue_ue.VREditorDockableWindow.md#instigator)
-
-#### Defined in
-
-[ue/ue.d.ts:13165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13165)
 
 ___
 
@@ -635,10 +539,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[Layers](ue_ue.VREditorDockableWindow.md#layers)
 
-#### Defined in
-
-[ue/ue.d.ts:13170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13170)
-
 ___
 
 ### MinNetUpdateFrequency
@@ -648,10 +548,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[MinNetUpdateFrequency](ue_ue.VREditorDockableWindow.md#minnetupdatefrequency)
-
-#### Defined in
-
-[ue/ue.d.ts:13163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13163)
 
 ___
 
@@ -663,10 +559,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[NetCullDistanceSquared](ue_ue.VREditorDockableWindow.md#netculldistancesquared)
 
-#### Defined in
-
-[ue/ue.d.ts:13160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13160)
-
 ___
 
 ### NetDormancy
@@ -676,10 +568,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[NetDormancy](ue_ue.VREditorDockableWindow.md#netdormancy)
-
-#### Defined in
-
-[ue/ue.d.ts:13155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13155)
 
 ___
 
@@ -691,10 +579,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[NetDriverName](ue_ue.VREditorDockableWindow.md#netdrivername)
 
-#### Defined in
-
-[ue/ue.d.ts:13153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13153)
-
 ___
 
 ### NetPriority
@@ -704,10 +588,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[NetPriority](ue_ue.VREditorDockableWindow.md#netpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:13164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13164)
 
 ___
 
@@ -719,10 +599,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[NetTag](ue_ue.VREditorDockableWindow.md#nettag)
 
-#### Defined in
-
-[ue/ue.d.ts:13161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13161)
-
 ___
 
 ### NetUpdateFrequency
@@ -732,10 +608,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[NetUpdateFrequency](ue_ue.VREditorDockableWindow.md#netupdatefrequency)
-
-#### Defined in
-
-[ue/ue.d.ts:13162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13162)
 
 ___
 
@@ -747,10 +619,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[OnActorBeginOverlap](ue_ue.VREditorDockableWindow.md#onactorbeginoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13192)
-
 ___
 
 ### OnActorEndOverlap
@@ -760,10 +628,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[OnActorEndOverlap](ue_ue.VREditorDockableWindow.md#onactorendoverlap)
-
-#### Defined in
-
-[ue/ue.d.ts:13193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13193)
 
 ___
 
@@ -775,10 +639,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[OnActorHit](ue_ue.VREditorDockableWindow.md#onactorhit)
 
-#### Defined in
-
-[ue/ue.d.ts:13202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13202)
-
 ___
 
 ### OnBeginCursorOver
@@ -788,10 +648,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[OnBeginCursorOver](ue_ue.VREditorDockableWindow.md#onbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13194)
 
 ___
 
@@ -803,10 +659,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[OnClicked](ue_ue.VREditorDockableWindow.md#onclicked)
 
-#### Defined in
-
-[ue/ue.d.ts:13196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13196)
-
 ___
 
 ### OnDestroyed
@@ -816,10 +668,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[OnDestroyed](ue_ue.VREditorDockableWindow.md#ondestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13203)
 
 ___
 
@@ -831,10 +679,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[OnEndCursorOver](ue_ue.VREditorDockableWindow.md#onendcursorover)
 
-#### Defined in
-
-[ue/ue.d.ts:13195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13195)
-
 ___
 
 ### OnEndPlay
@@ -844,10 +688,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[OnEndPlay](ue_ue.VREditorDockableWindow.md#onendplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13204)
 
 ___
 
@@ -859,10 +699,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[OnInputTouchBegin](ue_ue.VREditorDockableWindow.md#oninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:13198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13198)
-
 ___
 
 ### OnInputTouchEnd
@@ -872,10 +708,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[OnInputTouchEnd](ue_ue.VREditorDockableWindow.md#oninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:13199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13199)
 
 ___
 
@@ -887,10 +719,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[OnInputTouchEnter](ue_ue.VREditorDockableWindow.md#oninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:13200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13200)
-
 ___
 
 ### OnInputTouchLeave
@@ -900,10 +728,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[OnInputTouchLeave](ue_ue.VREditorDockableWindow.md#oninputtouchleave)
-
-#### Defined in
-
-[ue/ue.d.ts:13201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13201)
 
 ___
 
@@ -915,10 +739,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[OnReleased](ue_ue.VREditorDockableWindow.md#onreleased)
 
-#### Defined in
-
-[ue/ue.d.ts:13197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13197)
-
 ___
 
 ### OnTakeAnyDamage
@@ -928,10 +748,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[OnTakeAnyDamage](ue_ue.VREditorDockableWindow.md#ontakeanydamage)
-
-#### Defined in
-
-[ue/ue.d.ts:13189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13189)
 
 ___
 
@@ -943,10 +759,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[OnTakePointDamage](ue_ue.VREditorDockableWindow.md#ontakepointdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13190)
-
 ___
 
 ### OnTakeRadialDamage
@@ -956,10 +768,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[OnTakeRadialDamage](ue_ue.VREditorDockableWindow.md#ontakeradialdamage)
-
-#### Defined in
-
-[ue/ue.d.ts:13191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13191)
 
 ___
 
@@ -971,10 +779,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[Owner](ue_ue.VREditorDockableWindow.md#owner)
 
-#### Defined in
-
-[ue/ue.d.ts:13152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13152)
-
 ___
 
 ### ParentComponent
@@ -984,10 +788,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[ParentComponent](ue_ue.VREditorDockableWindow.md#parentcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13172)
 
 ___
 
@@ -999,10 +799,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[ParentComponentActor](ue_ue.VREditorDockableWindow.md#parentcomponentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13171)
-
 ___
 
 ### PivotOffset
@@ -1012,10 +808,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[PivotOffset](ue_ue.VREditorDockableWindow.md#pivotoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:13168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13168)
 
 ___
 
@@ -1027,10 +819,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[PrimaryActorTick](ue_ue.VREditorDockableWindow.md#primaryactortick)
 
-#### Defined in
-
-[ue/ue.d.ts:13115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13115)
-
 ___
 
 ### RemoteRole
@@ -1040,10 +828,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[RemoteRole](ue_ue.VREditorDockableWindow.md#remoterole)
-
-#### Defined in
-
-[ue/ue.d.ts:13147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13147)
 
 ___
 
@@ -1055,10 +839,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[ReplicatedMovement](ue_ue.VREditorDockableWindow.md#replicatedmovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13148)
-
 ___
 
 ### Role
@@ -1068,10 +848,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[Role](ue_ue.VREditorDockableWindow.md#role)
-
-#### Defined in
-
-[ue/ue.d.ts:13154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13154)
 
 ___
 
@@ -1083,10 +859,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[RootComponent](ue_ue.VREditorDockableWindow.md#rootcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13167)
-
 ___
 
 ### SelectionBarMID
@@ -1096,10 +868,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[SelectionBarMID](ue_ue.VREditorDockableWindow.md#selectionbarmid)
-
-#### Defined in
-
-[ue/ue.d.ts:65763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65763)
 
 ___
 
@@ -1111,10 +879,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[SelectionBarMeshComponent](ue_ue.VREditorDockableWindow.md#selectionbarmeshcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:65760](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65760)
-
 ___
 
 ### SelectionBarTranslucentMID
@@ -1124,10 +888,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[SelectionBarTranslucentMID](ue_ue.VREditorDockableWindow.md#selectionbartranslucentmid)
-
-#### Defined in
-
-[ue/ue.d.ts:65764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65764)
 
 ___
 
@@ -1139,10 +899,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[SpawnCollisionHandlingMethod](ue_ue.VREditorDockableWindow.md#spawncollisionhandlingmethod)
 
-#### Defined in
-
-[ue/ue.d.ts:13156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13156)
-
 ___
 
 ### SpriteScale
@@ -1152,10 +908,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[SpriteScale](ue_ue.VREditorDockableWindow.md#spritescale)
-
-#### Defined in
-
-[ue/ue.d.ts:13174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13174)
 
 ___
 
@@ -1167,10 +919,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[Tags](ue_ue.VREditorDockableWindow.md#tags)
 
-#### Defined in
-
-[ue/ue.d.ts:13188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13188)
-
 ___
 
 ### UpdateOverlapsMethodDuringLevelStreaming
@@ -1180,10 +928,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[UpdateOverlapsMethodDuringLevelStreaming](ue_ue.VREditorDockableWindow.md#updateoverlapsmethodduringlevelstreaming)
-
-#### Defined in
-
-[ue/ue.d.ts:13145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13145)
 
 ___
 
@@ -1195,10 +939,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[UserWidget](ue_ue.VREditorDockableWindow.md#userwidget)
 
-#### Defined in
-
-[ue/ue.d.ts:65733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65733)
-
 ___
 
 ### UserWidgetClass
@@ -1208,10 +948,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[UserWidgetClass](ue_ue.VREditorDockableWindow.md#userwidgetclass)
-
-#### Defined in
-
-[ue/ue.d.ts:65736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65736)
 
 ___
 
@@ -1223,10 +959,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[VRMode](ue_ue.VREditorDockableWindow.md#vrmode)
 
-#### Defined in
-
-[ue/ue.d.ts:65609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65609)
-
 ___
 
 ### WidgetComponent
@@ -1236,10 +968,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[WidgetComponent](ue_ue.VREditorDockableWindow.md#widgetcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:65734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65734)
 
 ___
 
@@ -1251,10 +979,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[WindowMeshComponent](ue_ue.VREditorDockableWindow.md#windowmeshcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:65735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65735)
-
 ___
 
 ### \_\_tid\_Actor\_\_
@@ -1264,10 +988,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[__tid_Actor__](ue_ue.VREditorDockableWindow.md#__tid_actor__)
-
-#### Defined in
-
-[ue/ue.d.ts:13348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13348)
 
 ___
 
@@ -1279,10 +999,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[__tid_Object__](ue_ue.VREditorDockableWindow.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_VREditorBaseActor\_\_
@@ -1293,19 +1009,11 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[__tid_VREditorBaseActor__](ue_ue.VREditorDockableWindow.md#__tid_vreditorbaseactor__)
 
-#### Defined in
-
-[ue/ue.d.ts:65614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65614)
-
 ___
 
 ### \_\_tid\_VREditorDockableCameraWindow\_\_
 
 • **\_\_tid\_VREditorDockableCameraWindow\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:65958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65958)
 
 ___
 
@@ -1317,10 +1025,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[__tid_VREditorDockableWindow__](ue_ue.VREditorDockableWindow.md#__tid_vreditordockablewindow__)
 
-#### Defined in
-
-[ue/ue.d.ts:65772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65772)
-
 ___
 
 ### \_\_tid\_VREditorFloatingUI\_\_
@@ -1330,10 +1034,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[__tid_VREditorFloatingUI__](ue_ue.VREditorDockableWindow.md#__tid_vreditorfloatingui__)
-
-#### Defined in
-
-[ue/ue.d.ts:65741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65741)
 
 ___
 
@@ -1345,10 +1045,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bActorEnableCollision](ue_ue.VREditorDockableWindow.md#bactorenablecollision)
 
-#### Defined in
-
-[ue/ue.d.ts:13143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13143)
-
 ___
 
 ### bActorIsBeingDestroyed
@@ -1358,10 +1054,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bActorIsBeingDestroyed](ue_ue.VREditorDockableWindow.md#bactorisbeingdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13144)
 
 ___
 
@@ -1373,10 +1065,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bActorLabelEditable](ue_ue.VREditorDockableWindow.md#bactorlabeleditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13183)
-
 ___
 
 ### bActorSeamlessTraveled
@@ -1386,10 +1074,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bActorSeamlessTraveled](ue_ue.VREditorDockableWindow.md#bactorseamlesstraveled)
-
-#### Defined in
-
-[ue/ue.d.ts:13139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13139)
 
 ___
 
@@ -1401,10 +1085,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bAllowReceiveTickEventOnDedicatedServer](ue_ue.VREditorDockableWindow.md#ballowreceivetickeventondedicatedserver)
 
-#### Defined in
-
-[ue/ue.d.ts:13142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13142)
-
 ___
 
 ### bAllowTickBeforeBeginPlay
@@ -1414,10 +1094,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bAllowTickBeforeBeginPlay](ue_ue.VREditorDockableWindow.md#ballowtickbeforebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13129)
 
 ___
 
@@ -1429,10 +1105,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bAlwaysRelevant](ue_ue.VREditorDockableWindow.md#balwaysrelevant)
 
-#### Defined in
-
-[ue/ue.d.ts:13120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13120)
-
 ___
 
 ### bAutoDestroyWhenFinished
@@ -1442,10 +1114,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bAutoDestroyWhenFinished](ue_ue.VREditorDockableWindow.md#bautodestroywhenfinished)
-
-#### Defined in
-
-[ue/ue.d.ts:13130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13130)
 
 ___
 
@@ -1457,10 +1125,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bBlockInput](ue_ue.VREditorDockableWindow.md#bblockinput)
 
-#### Defined in
-
-[ue/ue.d.ts:13131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13131)
-
 ___
 
 ### bCanBeDamaged
@@ -1470,10 +1134,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bCanBeDamaged](ue_ue.VREditorDockableWindow.md#bcanbedamaged)
-
-#### Defined in
-
-[ue/ue.d.ts:13132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13132)
 
 ___
 
@@ -1485,10 +1145,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bCanBeInCluster](ue_ue.VREditorDockableWindow.md#bcanbeincluster)
 
-#### Defined in
-
-[ue/ue.d.ts:13141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13141)
-
 ___
 
 ### bCollideWhenPlacing
@@ -1498,10 +1154,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bCollideWhenPlacing](ue_ue.VREditorDockableWindow.md#bcollidewhenplacing)
-
-#### Defined in
-
-[ue/ue.d.ts:13133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13133)
 
 ___
 
@@ -1513,10 +1165,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bEditable](ue_ue.VREditorDockableWindow.md#beditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13184)
-
 ___
 
 ### bEnableAutoLODGeneration
@@ -1526,10 +1174,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bEnableAutoLODGeneration](ue_ue.VREditorDockableWindow.md#benableautolodgeneration)
-
-#### Defined in
-
-[ue/ue.d.ts:13137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13137)
 
 ___
 
@@ -1541,10 +1185,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bExchangedRoles](ue_ue.VREditorDockableWindow.md#bexchangedroles)
 
-#### Defined in
-
-[ue/ue.d.ts:13123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13123)
-
 ___
 
 ### bFindCameraComponentWhenViewTarget
@@ -1554,10 +1194,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bFindCameraComponentWhenViewTarget](ue_ue.VREditorDockableWindow.md#bfindcameracomponentwhenviewtarget)
-
-#### Defined in
-
-[ue/ue.d.ts:13134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13134)
 
 ___
 
@@ -1569,10 +1205,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bGenerateOverlapEventsDuringLevelStreaming](ue_ue.VREditorDockableWindow.md#bgenerateoverlapeventsduringlevelstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:13135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13135)
-
 ___
 
 ### bHidden
@@ -1582,10 +1214,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bHidden](ue_ue.VREditorDockableWindow.md#bhidden)
-
-#### Defined in
-
-[ue/ue.d.ts:13116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13116)
 
 ___
 
@@ -1597,10 +1225,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bHiddenEd](ue_ue.VREditorDockableWindow.md#bhiddened)
 
-#### Defined in
-
-[ue/ue.d.ts:13178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13178)
-
 ___
 
 ### bHiddenEdLayer
@@ -1610,10 +1234,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bHiddenEdLayer](ue_ue.VREditorDockableWindow.md#bhiddenedlayer)
-
-#### Defined in
-
-[ue/ue.d.ts:13180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13180)
 
 ___
 
@@ -1625,10 +1245,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bHiddenEdLevel](ue_ue.VREditorDockableWindow.md#bhiddenedlevel)
 
-#### Defined in
-
-[ue/ue.d.ts:13181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13181)
-
 ___
 
 ### bHiddenEdTemporary
@@ -1638,10 +1254,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bHiddenEdTemporary](ue_ue.VREditorDockableWindow.md#bhiddenedtemporary)
-
-#### Defined in
-
-[ue/ue.d.ts:13187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13187)
 
 ___
 
@@ -1653,10 +1265,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bIgnoresOriginShifting](ue_ue.VREditorDockableWindow.md#bignoresoriginshifting)
 
-#### Defined in
-
-[ue/ue.d.ts:13136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13136)
-
 ___
 
 ### bIsEditorOnlyActor
@@ -1666,10 +1274,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bIsEditorOnlyActor](ue_ue.VREditorDockableWindow.md#biseditoronlyactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13138)
 
 ___
 
@@ -1681,10 +1285,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bIsEditorPreviewActor](ue_ue.VREditorDockableWindow.md#biseditorpreviewactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13179)
-
 ___
 
 ### bListedInSceneOutliner
@@ -1694,10 +1294,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bListedInSceneOutliner](ue_ue.VREditorDockableWindow.md#blistedinsceneoutliner)
-
-#### Defined in
-
-[ue/ue.d.ts:13185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13185)
 
 ___
 
@@ -1709,10 +1305,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bLockLocation](ue_ue.VREditorDockableWindow.md#blocklocation)
 
-#### Defined in
-
-[ue/ue.d.ts:13182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13182)
-
 ___
 
 ### bNetLoadOnClient
@@ -1722,10 +1314,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bNetLoadOnClient](ue_ue.VREditorDockableWindow.md#bnetloadonclient)
-
-#### Defined in
-
-[ue/ue.d.ts:13124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13124)
 
 ___
 
@@ -1737,10 +1325,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bNetStartup](ue_ue.VREditorDockableWindow.md#bnetstartup)
 
-#### Defined in
-
-[ue/ue.d.ts:13118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13118)
-
 ___
 
 ### bNetTemporary
@@ -1750,10 +1334,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bNetTemporary](ue_ue.VREditorDockableWindow.md#bnettemporary)
-
-#### Defined in
-
-[ue/ue.d.ts:13117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13117)
 
 ___
 
@@ -1765,10 +1345,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bNetUseOwnerRelevancy](ue_ue.VREditorDockableWindow.md#bnetuseownerrelevancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13125)
-
 ___
 
 ### bOnlyRelevantToOwner
@@ -1778,10 +1354,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bOnlyRelevantToOwner](ue_ue.VREditorDockableWindow.md#bonlyrelevanttoowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13119)
 
 ___
 
@@ -1793,10 +1365,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bOptimizeBPComponentData](ue_ue.VREditorDockableWindow.md#boptimizebpcomponentdata)
 
-#### Defined in
-
-[ue/ue.d.ts:13186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13186)
-
 ___
 
 ### bRelevantForLevelBounds
@@ -1806,10 +1374,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bRelevantForLevelBounds](ue_ue.VREditorDockableWindow.md#brelevantforlevelbounds)
-
-#### Defined in
-
-[ue/ue.d.ts:13127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13127)
 
 ___
 
@@ -1821,10 +1385,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bRelevantForNetworkReplays](ue_ue.VREditorDockableWindow.md#brelevantfornetworkreplays)
 
-#### Defined in
-
-[ue/ue.d.ts:13126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13126)
-
 ___
 
 ### bReplayRewindable
@@ -1834,10 +1394,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bReplayRewindable](ue_ue.VREditorDockableWindow.md#breplayrewindable)
-
-#### Defined in
-
-[ue/ue.d.ts:13128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13128)
 
 ___
 
@@ -1849,10 +1405,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bReplicateMovement](ue_ue.VREditorDockableWindow.md#breplicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13121)
-
 ___
 
 ### bReplicates
@@ -1863,10 +1415,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bReplicates](ue_ue.VREditorDockableWindow.md#breplicates)
 
-#### Defined in
-
-[ue/ue.d.ts:13140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13140)
-
 ___
 
 ### bTearOff
@@ -1876,10 +1424,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[bTearOff](ue_ue.VREditorDockableWindow.md#btearoff)
-
-#### Defined in
-
-[ue/ue.d.ts:13122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13122)
 
 ## Methods
 
@@ -1900,10 +1444,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[ActorHasTag](ue_ue.VREditorDockableWindow.md#actorhastag)
-
-#### Defined in
-
-[ue/ue.d.ts:13207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13207)
 
 ___
 
@@ -1928,10 +1468,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[AddComponent](ue_ue.VREditorDockableWindow.md#addcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13208)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -1952,10 +1488,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[AddTickPrerequisiteActor](ue_ue.VREditorDockableWindow.md#addtickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13209)
-
 ___
 
 ### AddTickPrerequisiteComponent
@@ -1975,10 +1507,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[AddTickPrerequisiteComponent](ue_ue.VREditorDockableWindow.md#addtickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13210)
 
 ___
 
@@ -2004,10 +1532,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[CreateDefaultSubobject](ue_ue.VREditorDockableWindow.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### DetachRootComponentFromParent
@@ -2027,10 +1551,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[DetachRootComponentFromParent](ue_ue.VREditorDockableWindow.md#detachrootcomponentfromparent)
-
-#### Defined in
-
-[ue/ue.d.ts:13211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13211)
 
 ___
 
@@ -2052,10 +1572,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[DisableInput](ue_ue.VREditorDockableWindow.md#disableinput)
 
-#### Defined in
-
-[ue/ue.d.ts:13212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13212)
-
 ___
 
 ### EnableInput
@@ -2075,10 +1591,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[EnableInput](ue_ue.VREditorDockableWindow.md#enableinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13213)
 
 ___
 
@@ -2100,10 +1612,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[ExecuteUbergraph](ue_ue.VREditorDockableWindow.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### FlushNetDormancy
@@ -2118,10 +1626,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[FlushNetDormancy](ue_ue.VREditorDockableWindow.md#flushnetdormancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13214)
-
 ___
 
 ### ForceNetUpdate
@@ -2135,10 +1639,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[ForceNetUpdate](ue_ue.VREditorDockableWindow.md#forcenetupdate)
-
-#### Defined in
-
-[ue/ue.d.ts:13215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13215)
 
 ___
 
@@ -2162,10 +1662,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetActorBounds](ue_ue.VREditorDockableWindow.md#getactorbounds)
 
-#### Defined in
-
-[ue/ue.d.ts:13216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13216)
-
 ___
 
 ### GetActorEnableCollision
@@ -2179,10 +1675,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetActorEnableCollision](ue_ue.VREditorDockableWindow.md#getactorenablecollision)
-
-#### Defined in
-
-[ue/ue.d.ts:13217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13217)
 
 ___
 
@@ -2205,10 +1697,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetActorEyesViewPoint](ue_ue.VREditorDockableWindow.md#getactoreyesviewpoint)
 
-#### Defined in
-
-[ue/ue.d.ts:13218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13218)
-
 ___
 
 ### GetActorForwardVector
@@ -2222,10 +1710,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetActorForwardVector](ue_ue.VREditorDockableWindow.md#getactorforwardvector)
-
-#### Defined in
-
-[ue/ue.d.ts:13219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13219)
 
 ___
 
@@ -2241,10 +1725,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetActorLabel](ue_ue.VREditorDockableWindow.md#getactorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13220)
-
 ___
 
 ### GetActorRelativeScale3D
@@ -2258,10 +1738,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetActorRelativeScale3D](ue_ue.VREditorDockableWindow.md#getactorrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13221)
 
 ___
 
@@ -2277,10 +1753,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetActorRightVector](ue_ue.VREditorDockableWindow.md#getactorrightvector)
 
-#### Defined in
-
-[ue/ue.d.ts:13222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13222)
-
 ___
 
 ### GetActorScale3D
@@ -2294,10 +1766,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetActorScale3D](ue_ue.VREditorDockableWindow.md#getactorscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13223)
 
 ___
 
@@ -2313,10 +1781,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetActorTickInterval](ue_ue.VREditorDockableWindow.md#getactortickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:13224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13224)
-
 ___
 
 ### GetActorTimeDilation
@@ -2331,10 +1795,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetActorTimeDilation](ue_ue.VREditorDockableWindow.md#getactortimedilation)
 
-#### Defined in
-
-[ue/ue.d.ts:13225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13225)
-
 ___
 
 ### GetActorUpVector
@@ -2348,10 +1808,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetActorUpVector](ue_ue.VREditorDockableWindow.md#getactorupvector)
-
-#### Defined in
-
-[ue/ue.d.ts:13226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13226)
 
 ___
 
@@ -2374,10 +1830,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetAllChildActors](ue_ue.VREditorDockableWindow.md#getallchildactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13227)
-
 ___
 
 ### GetAttachParentActor
@@ -2392,10 +1844,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetAttachParentActor](ue_ue.VREditorDockableWindow.md#getattachparentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13229)
-
 ___
 
 ### GetAttachParentSocketName
@@ -2409,10 +1857,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetAttachParentSocketName](ue_ue.VREditorDockableWindow.md#getattachparentsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:13230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13230)
 
 ___
 
@@ -2435,10 +1879,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetAttachedActors](ue_ue.VREditorDockableWindow.md#getattachedactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13228)
-
 ___
 
 ### GetClass
@@ -2452,10 +1892,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetClass](ue_ue.VREditorDockableWindow.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -2477,10 +1913,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetComponentByClass](ue_ue.VREditorDockableWindow.md#getcomponentbyclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13231)
-
 ___
 
 ### GetComponentsByInterface
@@ -2500,10 +1932,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetComponentsByInterface](ue_ue.VREditorDockableWindow.md#getcomponentsbyinterface)
-
-#### Defined in
-
-[ue/ue.d.ts:13232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13232)
 
 ___
 
@@ -2526,10 +1954,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetComponentsByTag](ue_ue.VREditorDockableWindow.md#getcomponentsbytag)
 
-#### Defined in
-
-[ue/ue.d.ts:13233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13233)
-
 ___
 
 ### GetDistanceTo
@@ -2549,10 +1973,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetDistanceTo](ue_ue.VREditorDockableWindow.md#getdistanceto)
-
-#### Defined in
-
-[ue/ue.d.ts:13234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13234)
 
 ___
 
@@ -2574,10 +1994,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetDotProductTo](ue_ue.VREditorDockableWindow.md#getdotproductto)
 
-#### Defined in
-
-[ue/ue.d.ts:13235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13235)
-
 ___
 
 ### GetFolderPath
@@ -2592,10 +2008,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetFolderPath](ue_ue.VREditorDockableWindow.md#getfolderpath)
 
-#### Defined in
-
-[ue/ue.d.ts:13236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13236)
-
 ___
 
 ### GetGameTimeSinceCreation
@@ -2609,10 +2021,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetGameTimeSinceCreation](ue_ue.VREditorDockableWindow.md#getgametimesincecreation)
-
-#### Defined in
-
-[ue/ue.d.ts:13237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13237)
 
 ___
 
@@ -2634,10 +2042,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetHorizontalDistanceTo](ue_ue.VREditorDockableWindow.md#gethorizontaldistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13238)
-
 ___
 
 ### GetHorizontalDotProductTo
@@ -2657,10 +2061,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetHorizontalDotProductTo](ue_ue.VREditorDockableWindow.md#gethorizontaldotproductto)
-
-#### Defined in
-
-[ue/ue.d.ts:13239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13239)
 
 ___
 
@@ -2682,10 +2082,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetInputAxisKeyValue](ue_ue.VREditorDockableWindow.md#getinputaxiskeyvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:13240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13240)
-
 ___
 
 ### GetInputAxisValue
@@ -2705,10 +2101,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetInputAxisValue](ue_ue.VREditorDockableWindow.md#getinputaxisvalue)
-
-#### Defined in
-
-[ue/ue.d.ts:13241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13241)
 
 ___
 
@@ -2730,10 +2122,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetInputVectorAxisValue](ue_ue.VREditorDockableWindow.md#getinputvectoraxisvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:13242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13242)
-
 ___
 
 ### GetInstigator
@@ -2747,10 +2135,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetInstigator](ue_ue.VREditorDockableWindow.md#getinstigator)
-
-#### Defined in
-
-[ue/ue.d.ts:13243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13243)
 
 ___
 
@@ -2766,10 +2150,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetInstigatorController](ue_ue.VREditorDockableWindow.md#getinstigatorcontroller)
 
-#### Defined in
-
-[ue/ue.d.ts:13244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13244)
-
 ___
 
 ### GetLifeSpan
@@ -2783,10 +2163,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetLifeSpan](ue_ue.VREditorDockableWindow.md#getlifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13245)
 
 ___
 
@@ -2802,10 +2178,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetLocalRole](ue_ue.VREditorDockableWindow.md#getlocalrole)
 
-#### Defined in
-
-[ue/ue.d.ts:13246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13246)
-
 ___
 
 ### GetName
@@ -2820,10 +2192,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetName](ue_ue.VREditorDockableWindow.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -2837,10 +2205,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetOuter](ue_ue.VREditorDockableWindow.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -2863,10 +2227,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetOverlappingActors](ue_ue.VREditorDockableWindow.md#getoverlappingactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13247)
-
 ___
 
 ### GetOverlappingComponents
@@ -2887,10 +2247,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetOverlappingComponents](ue_ue.VREditorDockableWindow.md#getoverlappingcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13248)
-
 ___
 
 ### GetOwner
@@ -2904,10 +2260,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetOwner](ue_ue.VREditorDockableWindow.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13249)
 
 ___
 
@@ -2923,10 +2275,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetParentActor](ue_ue.VREditorDockableWindow.md#getparentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13250)
-
 ___
 
 ### GetParentComponent
@@ -2941,10 +2289,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetParentComponent](ue_ue.VREditorDockableWindow.md#getparentcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13251)
-
 ___
 
 ### GetRemoteRole
@@ -2958,10 +2302,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetRemoteRole](ue_ue.VREditorDockableWindow.md#getremoterole)
-
-#### Defined in
-
-[ue/ue.d.ts:13252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13252)
 
 ___
 
@@ -2983,10 +2323,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetSquaredDistanceTo](ue_ue.VREditorDockableWindow.md#getsquareddistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13253)
-
 ___
 
 ### GetTickableWhenPaused
@@ -3000,10 +2336,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetTickableWhenPaused](ue_ue.VREditorDockableWindow.md#gettickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:13254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13254)
 
 ___
 
@@ -3019,10 +2351,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetTransform](ue_ue.VREditorDockableWindow.md#gettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13255)
-
 ___
 
 ### GetVelocity
@@ -3036,10 +2364,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetVelocity](ue_ue.VREditorDockableWindow.md#getvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:13256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13256)
 
 ___
 
@@ -3061,10 +2385,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetVerticalDistanceTo](ue_ue.VREditorDockableWindow.md#getverticaldistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13257)
-
 ___
 
 ### GetWorld
@@ -3078,10 +2398,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[GetWorld](ue_ue.VREditorDockableWindow.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -3097,10 +2413,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[HasAuthority](ue_ue.VREditorDockableWindow.md#hasauthority)
 
-#### Defined in
-
-[ue/ue.d.ts:13258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13258)
-
 ___
 
 ### IsActorBeingDestroyed
@@ -3114,10 +2426,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[IsActorBeingDestroyed](ue_ue.VREditorDockableWindow.md#isactorbeingdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13259)
 
 ___
 
@@ -3133,10 +2441,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[IsActorTickEnabled](ue_ue.VREditorDockableWindow.md#isactortickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:13260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13260)
-
 ___
 
 ### IsChildActor
@@ -3150,10 +2454,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[IsChildActor](ue_ue.VREditorDockableWindow.md#ischildactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13261)
 
 ___
 
@@ -3169,10 +2469,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[IsEditable](ue_ue.VREditorDockableWindow.md#iseditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13262)
-
 ___
 
 ### IsHiddenEd
@@ -3187,10 +2483,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[IsHiddenEd](ue_ue.VREditorDockableWindow.md#ishiddened)
 
-#### Defined in
-
-[ue/ue.d.ts:13263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13263)
-
 ___
 
 ### IsHiddenEdAtStartup
@@ -3204,10 +2496,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[IsHiddenEdAtStartup](ue_ue.VREditorDockableWindow.md#ishiddenedatstartup)
-
-#### Defined in
-
-[ue/ue.d.ts:13264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13264)
 
 ___
 
@@ -3229,10 +2517,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[IsOverlappingActor](ue_ue.VREditorDockableWindow.md#isoverlappingactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13265)
-
 ___
 
 ### IsSelectable
@@ -3246,10 +2530,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[IsSelectable](ue_ue.VREditorDockableWindow.md#isselectable)
-
-#### Defined in
-
-[ue/ue.d.ts:13266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13266)
 
 ___
 
@@ -3270,10 +2550,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[IsTemporarilyHiddenInEditor](ue_ue.VREditorDockableWindow.md#istemporarilyhiddenineditor)
-
-#### Defined in
-
-[ue/ue.d.ts:13267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13267)
 
 ___
 
@@ -3298,10 +2574,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_AddActorLocalOffset](ue_ue.VREditorDockableWindow.md#k2_addactorlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:13268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13268)
-
 ___
 
 ### K2\_AddActorLocalRotation
@@ -3324,10 +2596,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_AddActorLocalRotation](ue_ue.VREditorDockableWindow.md#k2_addactorlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13269)
 
 ___
 
@@ -3352,10 +2620,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_AddActorLocalTransform](ue_ue.VREditorDockableWindow.md#k2_addactorlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13270)
-
 ___
 
 ### K2\_AddActorWorldOffset
@@ -3378,10 +2642,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_AddActorWorldOffset](ue_ue.VREditorDockableWindow.md#k2_addactorworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:13271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13271)
 
 ___
 
@@ -3406,10 +2666,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_AddActorWorldRotation](ue_ue.VREditorDockableWindow.md#k2_addactorworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13272)
-
 ___
 
 ### K2\_AddActorWorldTransform
@@ -3432,10 +2688,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_AddActorWorldTransform](ue_ue.VREditorDockableWindow.md#k2_addactorworldtransform)
-
-#### Defined in
-
-[ue/ue.d.ts:13273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13273)
 
 ___
 
@@ -3460,10 +2712,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_AttachRootComponentTo](ue_ue.VREditorDockableWindow.md#k2_attachrootcomponentto)
 
-#### Defined in
-
-[ue/ue.d.ts:13274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13274)
-
 ___
 
 ### K2\_AttachRootComponentToActor
@@ -3486,10 +2734,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_AttachRootComponentToActor](ue_ue.VREditorDockableWindow.md#k2_attachrootcomponenttoactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13275)
 
 ___
 
@@ -3516,10 +2760,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_AttachToActor](ue_ue.VREditorDockableWindow.md#k2_attachtoactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13276)
-
 ___
 
 ### K2\_AttachToComponent
@@ -3545,10 +2785,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_AttachToComponent](ue_ue.VREditorDockableWindow.md#k2_attachtocomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13277)
-
 ___
 
 ### K2\_DestroyActor
@@ -3562,10 +2798,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_DestroyActor](ue_ue.VREditorDockableWindow.md#k2_destroyactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13278)
 
 ___
 
@@ -3586,10 +2818,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_DestroyComponent](ue_ue.VREditorDockableWindow.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13279)
 
 ___
 
@@ -3613,10 +2841,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_DetachFromActor](ue_ue.VREditorDockableWindow.md#k2_detachfromactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13280)
-
 ___
 
 ### K2\_GetActorLocation
@@ -3631,10 +2855,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_GetActorLocation](ue_ue.VREditorDockableWindow.md#k2_getactorlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:13281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13281)
-
 ___
 
 ### K2\_GetActorRotation
@@ -3648,10 +2868,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_GetActorRotation](ue_ue.VREditorDockableWindow.md#k2_getactorrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13282)
 
 ___
 
@@ -3673,10 +2889,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_GetComponentsByClass](ue_ue.VREditorDockableWindow.md#k2_getcomponentsbyclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13283)
-
 ___
 
 ### K2\_GetRootComponent
@@ -3690,10 +2902,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_GetRootComponent](ue_ue.VREditorDockableWindow.md#k2_getrootcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13284)
 
 ___
 
@@ -3715,10 +2923,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_OnBecomeViewTarget](ue_ue.VREditorDockableWindow.md#k2_onbecomeviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13285)
-
 ___
 
 ### K2\_OnEndViewTarget
@@ -3739,10 +2943,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_OnEndViewTarget](ue_ue.VREditorDockableWindow.md#k2_onendviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13286)
-
 ___
 
 ### K2\_OnReset
@@ -3756,10 +2956,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_OnReset](ue_ue.VREditorDockableWindow.md#k2_onreset)
-
-#### Defined in
-
-[ue/ue.d.ts:13287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13287)
 
 ___
 
@@ -3783,10 +2979,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_SetActorLocation](ue_ue.VREditorDockableWindow.md#k2_setactorlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13288)
 
 ___
 
@@ -3812,10 +3004,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_SetActorLocationAndRotation](ue_ue.VREditorDockableWindow.md#k2_setactorlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13289)
-
 ___
 
 ### K2\_SetActorRelativeLocation
@@ -3838,10 +3026,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_SetActorRelativeLocation](ue_ue.VREditorDockableWindow.md#k2_setactorrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13290)
 
 ___
 
@@ -3866,10 +3050,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_SetActorRelativeRotation](ue_ue.VREditorDockableWindow.md#k2_setactorrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13291)
-
 ___
 
 ### K2\_SetActorRelativeTransform
@@ -3893,10 +3073,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_SetActorRelativeTransform](ue_ue.VREditorDockableWindow.md#k2_setactorrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13292)
-
 ___
 
 ### K2\_SetActorRotation
@@ -3917,10 +3093,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_SetActorRotation](ue_ue.VREditorDockableWindow.md#k2_setactorrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13293)
 
 ___
 
@@ -3945,10 +3117,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_SetActorTransform](ue_ue.VREditorDockableWindow.md#k2_setactortransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13294)
-
 ___
 
 ### K2\_TeleportTo
@@ -3970,10 +3138,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[K2_TeleportTo](ue_ue.VREditorDockableWindow.md#k2_teleportto)
 
-#### Defined in
-
-[ue/ue.d.ts:13295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13295)
-
 ___
 
 ### MakeMIDForMaterial
@@ -3993,10 +3157,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[MakeMIDForMaterial](ue_ue.VREditorDockableWindow.md#makemidformaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:13296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13296)
 
 ___
 
@@ -4022,10 +3182,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[MakeNoise](ue_ue.VREditorDockableWindow.md#makenoise)
 
-#### Defined in
-
-[ue/ue.d.ts:13297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13297)
-
 ___
 
 ### OnRep\_AttachmentReplication
@@ -4039,10 +3195,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[OnRep_AttachmentReplication](ue_ue.VREditorDockableWindow.md#onrep_attachmentreplication)
-
-#### Defined in
-
-[ue/ue.d.ts:13298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13298)
 
 ___
 
@@ -4058,10 +3210,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[OnRep_Instigator](ue_ue.VREditorDockableWindow.md#onrep_instigator)
 
-#### Defined in
-
-[ue/ue.d.ts:13299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13299)
-
 ___
 
 ### OnRep\_Owner
@@ -4075,10 +3223,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[OnRep_Owner](ue_ue.VREditorDockableWindow.md#onrep_owner)
-
-#### Defined in
-
-[ue/ue.d.ts:13300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13300)
 
 ___
 
@@ -4094,10 +3238,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[OnRep_ReplicateMovement](ue_ue.VREditorDockableWindow.md#onrep_replicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13302)
-
 ___
 
 ### OnRep\_ReplicatedMovement
@@ -4111,10 +3251,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[OnRep_ReplicatedMovement](ue_ue.VREditorDockableWindow.md#onrep_replicatedmovement)
-
-#### Defined in
-
-[ue/ue.d.ts:13301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13301)
 
 ___
 
@@ -4138,10 +3274,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[PrestreamTextures](ue_ue.VREditorDockableWindow.md#prestreamtextures)
 
-#### Defined in
-
-[ue/ue.d.ts:13303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13303)
-
 ___
 
 ### ReceiveActorBeginCursorOver
@@ -4155,10 +3287,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[ReceiveActorBeginCursorOver](ue_ue.VREditorDockableWindow.md#receiveactorbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13304)
 
 ___
 
@@ -4180,10 +3308,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[ReceiveActorBeginOverlap](ue_ue.VREditorDockableWindow.md#receiveactorbeginoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13305)
-
 ___
 
 ### ReceiveActorEndCursorOver
@@ -4197,10 +3321,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[ReceiveActorEndCursorOver](ue_ue.VREditorDockableWindow.md#receiveactorendcursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13306)
 
 ___
 
@@ -4222,10 +3342,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[ReceiveActorEndOverlap](ue_ue.VREditorDockableWindow.md#receiveactorendoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13307)
-
 ___
 
 ### ReceiveActorOnClicked
@@ -4245,10 +3361,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[ReceiveActorOnClicked](ue_ue.VREditorDockableWindow.md#receiveactoronclicked)
-
-#### Defined in
-
-[ue/ue.d.ts:13308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13308)
 
 ___
 
@@ -4270,10 +3382,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[ReceiveActorOnInputTouchBegin](ue_ue.VREditorDockableWindow.md#receiveactoroninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:13309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13309)
-
 ___
 
 ### ReceiveActorOnInputTouchEnd
@@ -4293,10 +3401,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[ReceiveActorOnInputTouchEnd](ue_ue.VREditorDockableWindow.md#receiveactoroninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:13310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13310)
 
 ___
 
@@ -4318,10 +3422,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[ReceiveActorOnInputTouchEnter](ue_ue.VREditorDockableWindow.md#receiveactoroninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:13311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13311)
-
 ___
 
 ### ReceiveActorOnInputTouchLeave
@@ -4342,10 +3442,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[ReceiveActorOnInputTouchLeave](ue_ue.VREditorDockableWindow.md#receiveactoroninputtouchleave)
 
-#### Defined in
-
-[ue/ue.d.ts:13312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13312)
-
 ___
 
 ### ReceiveActorOnReleased
@@ -4365,10 +3461,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[ReceiveActorOnReleased](ue_ue.VREditorDockableWindow.md#receiveactoronreleased)
-
-#### Defined in
-
-[ue/ue.d.ts:13313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13313)
 
 ___
 
@@ -4393,10 +3485,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[ReceiveAnyDamage](ue_ue.VREditorDockableWindow.md#receiveanydamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13314)
-
 ___
 
 ### ReceiveBeginPlay
@@ -4411,10 +3499,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[ReceiveBeginPlay](ue_ue.VREditorDockableWindow.md#receivebeginplay)
 
-#### Defined in
-
-[ue/ue.d.ts:13315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13315)
-
 ___
 
 ### ReceiveDestroyed
@@ -4428,10 +3512,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[ReceiveDestroyed](ue_ue.VREditorDockableWindow.md#receivedestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13316)
 
 ___
 
@@ -4452,10 +3532,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[ReceiveEndPlay](ue_ue.VREditorDockableWindow.md#receiveendplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13317)
 
 ___
 
@@ -4483,10 +3559,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[ReceiveHit](ue_ue.VREditorDockableWindow.md#receivehit)
-
-#### Defined in
-
-[ue/ue.d.ts:13318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13318)
 
 ___
 
@@ -4517,10 +3589,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[ReceivePointDamage](ue_ue.VREditorDockableWindow.md#receivepointdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13319)
-
 ___
 
 ### ReceiveRadialDamage
@@ -4546,10 +3614,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[ReceiveRadialDamage](ue_ue.VREditorDockableWindow.md#receiveradialdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13320)
-
 ___
 
 ### ReceiveTick
@@ -4569,10 +3633,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[ReceiveTick](ue_ue.VREditorDockableWindow.md#receivetick)
-
-#### Defined in
-
-[ue/ue.d.ts:13321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13321)
 
 ___
 
@@ -4594,10 +3654,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[RemoveTickPrerequisiteActor](ue_ue.VREditorDockableWindow.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -4617,10 +3673,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[RemoveTickPrerequisiteComponent](ue_ue.VREditorDockableWindow.md#removetickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13323)
 
 ___
 
@@ -4642,10 +3694,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[SetActorEnableCollision](ue_ue.VREditorDockableWindow.md#setactorenablecollision)
 
-#### Defined in
-
-[ue/ue.d.ts:13324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13324)
-
 ___
 
 ### SetActorHiddenInGame
@@ -4665,10 +3713,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[SetActorHiddenInGame](ue_ue.VREditorDockableWindow.md#setactorhiddeningame)
-
-#### Defined in
-
-[ue/ue.d.ts:13325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13325)
 
 ___
 
@@ -4691,10 +3735,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[SetActorLabel](ue_ue.VREditorDockableWindow.md#setactorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13326)
-
 ___
 
 ### SetActorRelativeScale3D
@@ -4714,10 +3754,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[SetActorRelativeScale3D](ue_ue.VREditorDockableWindow.md#setactorrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13327)
 
 ___
 
@@ -4739,10 +3775,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[SetActorScale3D](ue_ue.VREditorDockableWindow.md#setactorscale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:13328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13328)
-
 ___
 
 ### SetActorTickEnabled
@@ -4762,10 +3794,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[SetActorTickEnabled](ue_ue.VREditorDockableWindow.md#setactortickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:13329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13329)
 
 ___
 
@@ -4787,10 +3815,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[SetActorTickInterval](ue_ue.VREditorDockableWindow.md#setactortickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:13330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13330)
-
 ___
 
 ### SetFolderPath
@@ -4810,10 +3834,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[SetFolderPath](ue_ue.VREditorDockableWindow.md#setfolderpath)
-
-#### Defined in
-
-[ue/ue.d.ts:13331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13331)
 
 ___
 
@@ -4835,10 +3855,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[SetIsTemporarilyHiddenInEditor](ue_ue.VREditorDockableWindow.md#setistemporarilyhiddenineditor)
 
-#### Defined in
-
-[ue/ue.d.ts:13332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13332)
-
 ___
 
 ### SetLifeSpan
@@ -4858,10 +3874,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[SetLifeSpan](ue_ue.VREditorDockableWindow.md#setlifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13333)
 
 ___
 
@@ -4883,10 +3895,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[SetNetDormancy](ue_ue.VREditorDockableWindow.md#setnetdormancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13334)
-
 ___
 
 ### SetOwner
@@ -4906,10 +3914,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[SetOwner](ue_ue.VREditorDockableWindow.md#setowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13335)
 
 ___
 
@@ -4931,10 +3935,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[SetReplicateMovement](ue_ue.VREditorDockableWindow.md#setreplicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13336)
-
 ___
 
 ### SetReplicates
@@ -4954,10 +3954,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[SetReplicates](ue_ue.VREditorDockableWindow.md#setreplicates)
-
-#### Defined in
-
-[ue/ue.d.ts:13337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13337)
 
 ___
 
@@ -4979,10 +3975,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[SetTickGroup](ue_ue.VREditorDockableWindow.md#settickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:13339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13339)
-
 ___
 
 ### SetTickableWhenPaused
@@ -5002,10 +3994,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[SetTickableWhenPaused](ue_ue.VREditorDockableWindow.md#settickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:13338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13338)
 
 ___
 
@@ -5028,10 +4016,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[SnapRootComponentTo](ue_ue.VREditorDockableWindow.md#snaprootcomponentto)
 
-#### Defined in
-
-[ue/ue.d.ts:13340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13340)
-
 ___
 
 ### TearOff
@@ -5046,10 +4030,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[TearOff](ue_ue.VREditorDockableWindow.md#tearoff)
 
-#### Defined in
-
-[ue/ue.d.ts:13341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13341)
-
 ___
 
 ### UserConstructionScript
@@ -5063,10 +4043,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[UserConstructionScript](ue_ue.VREditorDockableWindow.md#userconstructionscript)
-
-#### Defined in
-
-[ue/ue.d.ts:13342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13342)
 
 ___
 
@@ -5087,10 +4063,6 @@ ___
 #### Inherited from
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[WasRecentlyRendered](ue_ue.VREditorDockableWindow.md#wasrecentlyrendered)
-
-#### Defined in
-
-[ue/ue.d.ts:13343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13343)
 
 ___
 
@@ -5113,10 +4085,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[Find](ue_ue.VREditorDockableWindow.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:65955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65955)
-
 ___
 
 ### Load
@@ -5137,10 +4105,6 @@ ___
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[Load](ue_ue.VREditorDockableWindow.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:65956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65956)
-
 ___
 
 ### StaticClass
@@ -5154,7 +4118,3 @@ ___
 #### Overrides
 
 [VREditorDockableWindow](ue_ue.VREditorDockableWindow.md).[StaticClass](ue_ue.VREditorDockableWindow.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:65954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65954)

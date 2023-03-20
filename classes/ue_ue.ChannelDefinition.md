@@ -34,10 +34,6 @@
 
 • **new ChannelDefinition**()
 
-#### Defined in
-
-[ue/ue.d.ts:10347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10347)
-
 • **new ChannelDefinition**(`ChannelName`, `ClassName`, `ChannelClass`, `StaticChannelIndex`, `bTickOnCreate`, `bServerOpen`, `bClientOpen`, `bInitialServer`, `bInitialClient`)
 
 #### Parameters
@@ -54,19 +50,11 @@
 | `bInitialServer` | `boolean` |
 | `bInitialClient` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:10348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10348)
-
 ## Properties
 
 ### ChannelClass
 
 • **ChannelClass**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10351)
 
 ___
 
@@ -74,19 +62,11 @@ ___
 
 • **ChannelName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:10349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10349)
-
 ___
 
 ### ClassName
 
 • **ClassName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:10350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10350)
 
 ___
 
@@ -94,19 +74,11 @@ ___
 
 • **StaticChannelIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10352)
-
 ___
 
 ### \_\_tid\_ChannelDefinition\_\_
 
 • `Private` **\_\_tid\_ChannelDefinition\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10363)
 
 ___
 
@@ -114,19 +86,11 @@ ___
 
 • **bClientOpen**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:10355](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10355)
-
 ___
 
 ### bInitialClient
 
 • **bInitialClient**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10357](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10357)
 
 ___
 
@@ -134,29 +98,17 @@ ___
 
 • **bInitialServer**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:10356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10356)
-
 ___
 
 ### bServerOpen
 
 • **bServerOpen**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:10354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10354)
-
 ___
 
 ### bTickOnCreate
 
 • **bTickOnCreate**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10353)
 
 ## Methods
 
@@ -172,10 +124,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10361](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10361)
-
 ___
 
 ### StaticStruct
@@ -185,7 +133,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10362)

@@ -32,10 +32,6 @@
 
 • **new AnimationStateBase**()
 
-#### Defined in
-
-[ue/ue.d.ts:4866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4866)
-
 • **new AnimationStateBase**(`StateName`)
 
 #### Parameters
@@ -44,29 +40,17 @@
 | :------ | :------ |
 | `StateName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:4867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4867)
-
 ## Properties
 
 ### StateName
 
 • **StateName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:4868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4868)
-
 ___
 
 ### \_\_tid\_AnimationStateBase\_\_
 
 • `Private` **\_\_tid\_AnimationStateBase\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4874)
 
 ## Methods
 
@@ -82,10 +66,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4872)
-
 ___
 
 ### StaticStruct
@@ -95,7 +75,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4873)

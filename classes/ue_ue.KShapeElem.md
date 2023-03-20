@@ -42,10 +42,6 @@
 
 • **new KShapeElem**()
 
-#### Defined in
-
-[ue/ue.d.ts:3370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3370)
-
 • **new KShapeElem**(`RestOffset`, `Name`, `bContributeToMass`)
 
 #### Parameters
@@ -56,19 +52,11 @@
 | `Name` | `string` |
 | `bContributeToMass` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:3371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3371)
-
 ## Properties
 
 ### Name
 
 • **Name**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:3373](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3373)
 
 ___
 
@@ -76,29 +64,17 @@ ___
 
 • **RestOffset**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3372)
-
 ___
 
 ### \_\_tid\_KShapeElem\_\_
 
 • `Private` **\_\_tid\_KShapeElem\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3380](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3380)
-
 ___
 
 ### bContributeToMass
 
 • **bContributeToMass**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3374](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3374)
 
 ## Methods
 
@@ -114,10 +90,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3378)
-
 ___
 
 ### StaticStruct
@@ -127,7 +99,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3379)

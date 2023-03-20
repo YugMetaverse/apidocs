@@ -68,19 +68,11 @@
 
 [CameraModifier](ue_ue.CameraModifier.md).[constructor](ue_ue.CameraModifier.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:7706](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7706)
-
 ## Properties
 
 ### ActiveShakes
 
 • **ActiveShakes**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`CameraShake`](ue_ue.CameraShake.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:7707](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7707)
 
 ___
 
@@ -92,10 +84,6 @@ ___
 
 [CameraModifier](ue_ue.CameraModifier.md).[Alpha](ue_ue.CameraModifier.md#alpha)
 
-#### Defined in
-
-[ue/ue.d.ts:6688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6688)
-
 ___
 
 ### AlphaInTime
@@ -105,10 +93,6 @@ ___
 #### Inherited from
 
 [CameraModifier](ue_ue.CameraModifier.md).[AlphaInTime](ue_ue.CameraModifier.md#alphaintime)
-
-#### Defined in
-
-[ue/ue.d.ts:6686](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6686)
 
 ___
 
@@ -120,10 +104,6 @@ ___
 
 [CameraModifier](ue_ue.CameraModifier.md).[AlphaOutTime](ue_ue.CameraModifier.md#alphaouttime)
 
-#### Defined in
-
-[ue/ue.d.ts:6687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6687)
-
 ___
 
 ### CameraOwner
@@ -134,19 +114,11 @@ ___
 
 [CameraModifier](ue_ue.CameraModifier.md).[CameraOwner](ue_ue.CameraModifier.md#cameraowner)
 
-#### Defined in
-
-[ue/ue.d.ts:6685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6685)
-
 ___
 
 ### ExpiredPooledShakesMap
 
 • **ExpiredPooledShakesMap**: [`TMap`](../interfaces/ue_puerts.TMap.md)<[`Class`](ue_ue.Class.md), [`PooledCameraShakes`](ue_ue.PooledCameraShakes.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:7708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7708)
 
 ___
 
@@ -158,29 +130,17 @@ ___
 
 [CameraModifier](ue_ue.CameraModifier.md).[Priority](ue_ue.CameraModifier.md#priority)
 
-#### Defined in
-
-[ue/ue.d.ts:6684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6684)
-
 ___
 
 ### SplitScreenShakeScale
 
 • **SplitScreenShakeScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7709)
-
 ___
 
 ### \_\_tid\_CameraModifier\_CameraShake\_\_
 
 • **\_\_tid\_CameraModifier\_CameraShake\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7714)
 
 ___
 
@@ -192,10 +152,6 @@ ___
 
 [CameraModifier](ue_ue.CameraModifier.md).[__tid_CameraModifier__](ue_ue.CameraModifier.md#__tid_cameramodifier__)
 
-#### Defined in
-
-[ue/ue.d.ts:6699](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6699)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -205,10 +161,6 @@ ___
 #### Inherited from
 
 [CameraModifier](ue_ue.CameraModifier.md).[__tid_Object__](ue_ue.CameraModifier.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -220,10 +172,6 @@ ___
 
 [CameraModifier](ue_ue.CameraModifier.md).[bDebug](ue_ue.CameraModifier.md#bdebug)
 
-#### Defined in
-
-[ue/ue.d.ts:6682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6682)
-
 ___
 
 ### bExclusive
@@ -233,10 +181,6 @@ ___
 #### Inherited from
 
 [CameraModifier](ue_ue.CameraModifier.md).[bExclusive](ue_ue.CameraModifier.md#bexclusive)
-
-#### Defined in
-
-[ue/ue.d.ts:6683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6683)
 
 ## Methods
 
@@ -264,10 +208,6 @@ ___
 
 [CameraModifier](ue_ue.CameraModifier.md).[BlueprintModifyCamera](ue_ue.CameraModifier.md#blueprintmodifycamera)
 
-#### Defined in
-
-[ue/ue.d.ts:6689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6689)
-
 ___
 
 ### BlueprintModifyPostProcess
@@ -289,10 +229,6 @@ ___
 #### Inherited from
 
 [CameraModifier](ue_ue.CameraModifier.md).[BlueprintModifyPostProcess](ue_ue.CameraModifier.md#blueprintmodifypostprocess)
-
-#### Defined in
-
-[ue/ue.d.ts:6690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6690)
 
 ___
 
@@ -318,10 +254,6 @@ ___
 
 [CameraModifier](ue_ue.CameraModifier.md).[CreateDefaultSubobject](ue_ue.CameraModifier.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### DisableModifier
@@ -342,10 +274,6 @@ ___
 
 [CameraModifier](ue_ue.CameraModifier.md).[DisableModifier](ue_ue.CameraModifier.md#disablemodifier)
 
-#### Defined in
-
-[ue/ue.d.ts:6691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6691)
-
 ___
 
 ### EnableModifier
@@ -359,10 +287,6 @@ ___
 #### Inherited from
 
 [CameraModifier](ue_ue.CameraModifier.md).[EnableModifier](ue_ue.CameraModifier.md#enablemodifier)
-
-#### Defined in
-
-[ue/ue.d.ts:6692](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6692)
 
 ___
 
@@ -384,10 +308,6 @@ ___
 
 [CameraModifier](ue_ue.CameraModifier.md).[ExecuteUbergraph](ue_ue.CameraModifier.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -401,10 +321,6 @@ ___
 #### Inherited from
 
 [CameraModifier](ue_ue.CameraModifier.md).[GetClass](ue_ue.CameraModifier.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -420,10 +336,6 @@ ___
 
 [CameraModifier](ue_ue.CameraModifier.md).[GetName](ue_ue.CameraModifier.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -437,10 +349,6 @@ ___
 #### Inherited from
 
 [CameraModifier](ue_ue.CameraModifier.md).[GetOuter](ue_ue.CameraModifier.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -456,10 +364,6 @@ ___
 
 [CameraModifier](ue_ue.CameraModifier.md).[GetViewTarget](ue_ue.CameraModifier.md#getviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:6693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6693)
-
 ___
 
 ### GetWorld
@@ -474,10 +378,6 @@ ___
 
 [CameraModifier](ue_ue.CameraModifier.md).[GetWorld](ue_ue.CameraModifier.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### IsDisabled
@@ -491,10 +391,6 @@ ___
 #### Inherited from
 
 [CameraModifier](ue_ue.CameraModifier.md).[IsDisabled](ue_ue.CameraModifier.md#isdisabled)
-
-#### Defined in
-
-[ue/ue.d.ts:6694](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6694)
 
 ___
 
@@ -517,10 +413,6 @@ ___
 
 [CameraModifier](ue_ue.CameraModifier.md).[Find](ue_ue.CameraModifier.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:7711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7711)
-
 ___
 
 ### Load
@@ -541,10 +433,6 @@ ___
 
 [CameraModifier](ue_ue.CameraModifier.md).[Load](ue_ue.CameraModifier.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:7712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7712)
-
 ___
 
 ### StaticClass
@@ -558,7 +446,3 @@ ___
 #### Overrides
 
 [CameraModifier](ue_ue.CameraModifier.md).[StaticClass](ue_ue.CameraModifier.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:7710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7710)

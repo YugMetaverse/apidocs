@@ -329,10 +329,6 @@
 
 [HUD](ue_ue.HUD.md).[constructor](ue_ue.HUD.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:30267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30267)
-
 ## Properties
 
 ### ActorLabel
@@ -342,10 +338,6 @@
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[ActorLabel](ue_ue.HUD.md#actorlabel)
-
-#### Defined in
-
-[ue/ue.d.ts:13176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13176)
 
 ___
 
@@ -357,10 +349,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[AttachmentReplication](ue_ue.HUD.md#attachmentreplication)
 
-#### Defined in
-
-[ue/ue.d.ts:13151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13151)
-
 ___
 
 ### AutoReceiveInput
@@ -370,10 +358,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[AutoReceiveInput](ue_ue.HUD.md#autoreceiveinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13157)
 
 ___
 
@@ -385,10 +369,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[BlueprintCreatedComponents](ue_ue.HUD.md#blueprintcreatedcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13206)
-
 ___
 
 ### Canvas
@@ -398,10 +378,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[Canvas](ue_ue.HUD.md#canvas)
-
-#### Defined in
-
-[ue/ue.d.ts:6180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6180)
 
 ___
 
@@ -413,10 +389,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[Children](ue_ue.HUD.md#children)
 
-#### Defined in
-
-[ue/ue.d.ts:13166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13166)
-
 ___
 
 ### ControllingMatineeActors
@@ -426,10 +398,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[ControllingMatineeActors](ue_ue.HUD.md#controllingmatineeactors)
-
-#### Defined in
-
-[ue/ue.d.ts:13169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13169)
 
 ___
 
@@ -441,10 +409,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[CurrentTargetIndex](ue_ue.HUD.md#currenttargetindex)
 
-#### Defined in
-
-[ue/ue.d.ts:6173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6173)
-
 ___
 
 ### CustomTimeDilation
@@ -454,10 +418,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[CustomTimeDilation](ue_ue.HUD.md#customtimedilation)
-
-#### Defined in
-
-[ue/ue.d.ts:13150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13150)
 
 ___
 
@@ -469,10 +429,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[DebugCanvas](ue_ue.HUD.md#debugcanvas)
 
-#### Defined in
-
-[ue/ue.d.ts:6181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6181)
-
 ___
 
 ### DebugDisplay
@@ -482,10 +438,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[DebugDisplay](ue_ue.HUD.md#debugdisplay)
-
-#### Defined in
-
-[ue/ue.d.ts:6178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6178)
 
 ___
 
@@ -497,10 +449,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[DebugTextList](ue_ue.HUD.md#debugtextlist)
 
-#### Defined in
-
-[ue/ue.d.ts:6182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6182)
-
 ___
 
 ### DefaultUpdateOverlapsMethodDuringLevelStreaming
@@ -510,10 +458,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[DefaultUpdateOverlapsMethodDuringLevelStreaming](ue_ue.HUD.md#defaultupdateoverlapsmethodduringlevelstreaming)
-
-#### Defined in
-
-[ue/ue.d.ts:13146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13146)
 
 ___
 
@@ -525,10 +469,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[FolderPath](ue_ue.HUD.md#folderpath)
 
-#### Defined in
-
-[ue/ue.d.ts:13177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13177)
-
 ___
 
 ### GroupActor
@@ -538,10 +478,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[GroupActor](ue_ue.HUD.md#groupactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13173)
 
 ___
 
@@ -553,10 +489,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[HiddenEditorViews](ue_ue.HUD.md#hiddeneditorviews)
 
-#### Defined in
-
-[ue/ue.d.ts:13175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13175)
-
 ___
 
 ### InitialLifeSpan
@@ -566,10 +498,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[InitialLifeSpan](ue_ue.HUD.md#initiallifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13149)
 
 ___
 
@@ -581,10 +509,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[InputComponent](ue_ue.HUD.md#inputcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13159)
-
 ___
 
 ### InputPriority
@@ -594,10 +518,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[InputPriority](ue_ue.HUD.md#inputpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:13158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13158)
 
 ___
 
@@ -609,10 +529,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[InstanceComponents](ue_ue.HUD.md#instancecomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13205)
-
 ___
 
 ### Instigator
@@ -622,10 +538,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[Instigator](ue_ue.HUD.md#instigator)
-
-#### Defined in
-
-[ue/ue.d.ts:13165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13165)
 
 ___
 
@@ -637,10 +549,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[Layers](ue_ue.HUD.md#layers)
 
-#### Defined in
-
-[ue/ue.d.ts:13170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13170)
-
 ___
 
 ### MinNetUpdateFrequency
@@ -650,10 +558,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[MinNetUpdateFrequency](ue_ue.HUD.md#minnetupdatefrequency)
-
-#### Defined in
-
-[ue/ue.d.ts:13163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13163)
 
 ___
 
@@ -665,10 +569,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[NetCullDistanceSquared](ue_ue.HUD.md#netculldistancesquared)
 
-#### Defined in
-
-[ue/ue.d.ts:13160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13160)
-
 ___
 
 ### NetDormancy
@@ -678,10 +578,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[NetDormancy](ue_ue.HUD.md#netdormancy)
-
-#### Defined in
-
-[ue/ue.d.ts:13155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13155)
 
 ___
 
@@ -693,10 +589,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[NetDriverName](ue_ue.HUD.md#netdrivername)
 
-#### Defined in
-
-[ue/ue.d.ts:13153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13153)
-
 ___
 
 ### NetPriority
@@ -706,10 +598,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[NetPriority](ue_ue.HUD.md#netpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:13164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13164)
 
 ___
 
@@ -721,10 +609,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[NetTag](ue_ue.HUD.md#nettag)
 
-#### Defined in
-
-[ue/ue.d.ts:13161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13161)
-
 ___
 
 ### NetUpdateFrequency
@@ -734,10 +618,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[NetUpdateFrequency](ue_ue.HUD.md#netupdatefrequency)
-
-#### Defined in
-
-[ue/ue.d.ts:13162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13162)
 
 ___
 
@@ -749,10 +629,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[OnActorBeginOverlap](ue_ue.HUD.md#onactorbeginoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13192)
-
 ___
 
 ### OnActorEndOverlap
@@ -762,10 +638,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[OnActorEndOverlap](ue_ue.HUD.md#onactorendoverlap)
-
-#### Defined in
-
-[ue/ue.d.ts:13193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13193)
 
 ___
 
@@ -777,10 +649,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[OnActorHit](ue_ue.HUD.md#onactorhit)
 
-#### Defined in
-
-[ue/ue.d.ts:13202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13202)
-
 ___
 
 ### OnBeginCursorOver
@@ -790,10 +658,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[OnBeginCursorOver](ue_ue.HUD.md#onbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13194)
 
 ___
 
@@ -805,10 +669,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[OnClicked](ue_ue.HUD.md#onclicked)
 
-#### Defined in
-
-[ue/ue.d.ts:13196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13196)
-
 ___
 
 ### OnDestroyed
@@ -818,10 +678,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[OnDestroyed](ue_ue.HUD.md#ondestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13203)
 
 ___
 
@@ -833,10 +689,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[OnEndCursorOver](ue_ue.HUD.md#onendcursorover)
 
-#### Defined in
-
-[ue/ue.d.ts:13195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13195)
-
 ___
 
 ### OnEndPlay
@@ -846,10 +698,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[OnEndPlay](ue_ue.HUD.md#onendplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13204)
 
 ___
 
@@ -861,10 +709,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[OnInputTouchBegin](ue_ue.HUD.md#oninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:13198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13198)
-
 ___
 
 ### OnInputTouchEnd
@@ -874,10 +718,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[OnInputTouchEnd](ue_ue.HUD.md#oninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:13199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13199)
 
 ___
 
@@ -889,10 +729,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[OnInputTouchEnter](ue_ue.HUD.md#oninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:13200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13200)
-
 ___
 
 ### OnInputTouchLeave
@@ -902,10 +738,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[OnInputTouchLeave](ue_ue.HUD.md#oninputtouchleave)
-
-#### Defined in
-
-[ue/ue.d.ts:13201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13201)
 
 ___
 
@@ -917,10 +749,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[OnReleased](ue_ue.HUD.md#onreleased)
 
-#### Defined in
-
-[ue/ue.d.ts:13197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13197)
-
 ___
 
 ### OnTakeAnyDamage
@@ -930,10 +758,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[OnTakeAnyDamage](ue_ue.HUD.md#ontakeanydamage)
-
-#### Defined in
-
-[ue/ue.d.ts:13189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13189)
 
 ___
 
@@ -945,10 +769,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[OnTakePointDamage](ue_ue.HUD.md#ontakepointdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13190)
-
 ___
 
 ### OnTakeRadialDamage
@@ -958,10 +778,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[OnTakeRadialDamage](ue_ue.HUD.md#ontakeradialdamage)
-
-#### Defined in
-
-[ue/ue.d.ts:13191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13191)
 
 ___
 
@@ -973,10 +789,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[Owner](ue_ue.HUD.md#owner)
 
-#### Defined in
-
-[ue/ue.d.ts:13152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13152)
-
 ___
 
 ### ParentComponent
@@ -986,10 +798,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[ParentComponent](ue_ue.HUD.md#parentcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13172)
 
 ___
 
@@ -1001,10 +809,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[ParentComponentActor](ue_ue.HUD.md#parentcomponentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13171)
-
 ___
 
 ### PivotOffset
@@ -1014,10 +818,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[PivotOffset](ue_ue.HUD.md#pivotoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:13168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13168)
 
 ___
 
@@ -1029,10 +829,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[PlayerOwner](ue_ue.HUD.md#playerowner)
 
-#### Defined in
-
-[ue/ue.d.ts:6169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6169)
-
 ___
 
 ### PostRenderedActors
@@ -1042,10 +838,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[PostRenderedActors](ue_ue.HUD.md#postrenderedactors)
-
-#### Defined in
-
-[ue/ue.d.ts:6177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6177)
 
 ___
 
@@ -1057,10 +849,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[PrimaryActorTick](ue_ue.HUD.md#primaryactortick)
 
-#### Defined in
-
-[ue/ue.d.ts:13115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13115)
-
 ___
 
 ### RemoteRole
@@ -1070,10 +858,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[RemoteRole](ue_ue.HUD.md#remoterole)
-
-#### Defined in
-
-[ue/ue.d.ts:13147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13147)
 
 ___
 
@@ -1085,10 +869,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[ReplicatedMovement](ue_ue.HUD.md#replicatedmovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13148)
-
 ___
 
 ### Role
@@ -1098,10 +878,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[Role](ue_ue.HUD.md#role)
-
-#### Defined in
-
-[ue/ue.d.ts:13154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13154)
 
 ___
 
@@ -1113,10 +889,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[RootComponent](ue_ue.HUD.md#rootcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13167)
-
 ___
 
 ### ShowDebugTargetActor
@@ -1126,10 +898,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[ShowDebugTargetActor](ue_ue.HUD.md#showdebugtargetactor)
-
-#### Defined in
-
-[ue/ue.d.ts:6184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6184)
 
 ___
 
@@ -1141,10 +909,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[ShowDebugTargetDesiredClass](ue_ue.HUD.md#showdebugtargetdesiredclass)
 
-#### Defined in
-
-[ue/ue.d.ts:6183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6183)
-
 ___
 
 ### SpawnCollisionHandlingMethod
@@ -1154,10 +918,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[SpawnCollisionHandlingMethod](ue_ue.HUD.md#spawncollisionhandlingmethod)
-
-#### Defined in
-
-[ue/ue.d.ts:13156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13156)
 
 ___
 
@@ -1169,10 +929,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[SpriteScale](ue_ue.HUD.md#spritescale)
 
-#### Defined in
-
-[ue/ue.d.ts:13174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13174)
-
 ___
 
 ### Tags
@@ -1182,10 +938,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[Tags](ue_ue.HUD.md#tags)
-
-#### Defined in
-
-[ue/ue.d.ts:13188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13188)
 
 ___
 
@@ -1197,10 +949,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[ToggledDebugCategories](ue_ue.HUD.md#toggleddebugcategories)
 
-#### Defined in
-
-[ue/ue.d.ts:6179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6179)
-
 ___
 
 ### UpdateOverlapsMethodDuringLevelStreaming
@@ -1210,10 +958,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[UpdateOverlapsMethodDuringLevelStreaming](ue_ue.HUD.md#updateoverlapsmethodduringlevelstreaming)
-
-#### Defined in
-
-[ue/ue.d.ts:13145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13145)
 
 ___
 
@@ -1225,19 +969,11 @@ ___
 
 [HUD](ue_ue.HUD.md).[__tid_Actor__](ue_ue.HUD.md#__tid_actor__)
 
-#### Defined in
-
-[ue/ue.d.ts:13348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13348)
-
 ___
 
 ### \_\_tid\_DebugCameraHUD\_\_
 
 • **\_\_tid\_DebugCameraHUD\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30272)
 
 ___
 
@@ -1249,10 +985,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[__tid_HUD__](ue_ue.HUD.md#__tid_hud__)
 
-#### Defined in
-
-[ue/ue.d.ts:6218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6218)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -1262,10 +994,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[__tid_Object__](ue_ue.HUD.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -1277,10 +1005,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[bActorEnableCollision](ue_ue.HUD.md#bactorenablecollision)
 
-#### Defined in
-
-[ue/ue.d.ts:13143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13143)
-
 ___
 
 ### bActorIsBeingDestroyed
@@ -1290,10 +1014,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[bActorIsBeingDestroyed](ue_ue.HUD.md#bactorisbeingdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13144)
 
 ___
 
@@ -1305,10 +1025,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[bActorLabelEditable](ue_ue.HUD.md#bactorlabeleditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13183)
-
 ___
 
 ### bActorSeamlessTraveled
@@ -1318,10 +1034,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[bActorSeamlessTraveled](ue_ue.HUD.md#bactorseamlesstraveled)
-
-#### Defined in
-
-[ue/ue.d.ts:13139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13139)
 
 ___
 
@@ -1333,10 +1045,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[bAllowReceiveTickEventOnDedicatedServer](ue_ue.HUD.md#ballowreceivetickeventondedicatedserver)
 
-#### Defined in
-
-[ue/ue.d.ts:13142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13142)
-
 ___
 
 ### bAllowTickBeforeBeginPlay
@@ -1346,10 +1054,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[bAllowTickBeforeBeginPlay](ue_ue.HUD.md#ballowtickbeforebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13129)
 
 ___
 
@@ -1361,10 +1065,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[bAlwaysRelevant](ue_ue.HUD.md#balwaysrelevant)
 
-#### Defined in
-
-[ue/ue.d.ts:13120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13120)
-
 ___
 
 ### bAutoDestroyWhenFinished
@@ -1374,10 +1074,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[bAutoDestroyWhenFinished](ue_ue.HUD.md#bautodestroywhenfinished)
-
-#### Defined in
-
-[ue/ue.d.ts:13130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13130)
 
 ___
 
@@ -1389,10 +1085,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[bBlockInput](ue_ue.HUD.md#bblockinput)
 
-#### Defined in
-
-[ue/ue.d.ts:13131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13131)
-
 ___
 
 ### bCanBeDamaged
@@ -1402,10 +1094,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[bCanBeDamaged](ue_ue.HUD.md#bcanbedamaged)
-
-#### Defined in
-
-[ue/ue.d.ts:13132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13132)
 
 ___
 
@@ -1417,10 +1105,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[bCanBeInCluster](ue_ue.HUD.md#bcanbeincluster)
 
-#### Defined in
-
-[ue/ue.d.ts:13141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13141)
-
 ___
 
 ### bCollideWhenPlacing
@@ -1430,10 +1114,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[bCollideWhenPlacing](ue_ue.HUD.md#bcollidewhenplacing)
-
-#### Defined in
-
-[ue/ue.d.ts:13133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13133)
 
 ___
 
@@ -1445,10 +1125,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[bEditable](ue_ue.HUD.md#beditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13184)
-
 ___
 
 ### bEnableAutoLODGeneration
@@ -1458,10 +1134,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[bEnableAutoLODGeneration](ue_ue.HUD.md#benableautolodgeneration)
-
-#### Defined in
-
-[ue/ue.d.ts:13137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13137)
 
 ___
 
@@ -1473,10 +1145,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[bEnableDebugTextShadow](ue_ue.HUD.md#benabledebugtextshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:6176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6176)
-
 ___
 
 ### bExchangedRoles
@@ -1486,10 +1154,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[bExchangedRoles](ue_ue.HUD.md#bexchangedroles)
-
-#### Defined in
-
-[ue/ue.d.ts:13123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13123)
 
 ___
 
@@ -1501,10 +1165,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[bFindCameraComponentWhenViewTarget](ue_ue.HUD.md#bfindcameracomponentwhenviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13134)
-
 ___
 
 ### bGenerateOverlapEventsDuringLevelStreaming
@@ -1514,10 +1174,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[bGenerateOverlapEventsDuringLevelStreaming](ue_ue.HUD.md#bgenerateoverlapeventsduringlevelstreaming)
-
-#### Defined in
-
-[ue/ue.d.ts:13135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13135)
 
 ___
 
@@ -1529,10 +1185,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[bHidden](ue_ue.HUD.md#bhidden)
 
-#### Defined in
-
-[ue/ue.d.ts:13116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13116)
-
 ___
 
 ### bHiddenEd
@@ -1542,10 +1194,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[bHiddenEd](ue_ue.HUD.md#bhiddened)
-
-#### Defined in
-
-[ue/ue.d.ts:13178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13178)
 
 ___
 
@@ -1557,10 +1205,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[bHiddenEdLayer](ue_ue.HUD.md#bhiddenedlayer)
 
-#### Defined in
-
-[ue/ue.d.ts:13180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13180)
-
 ___
 
 ### bHiddenEdLevel
@@ -1570,10 +1214,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[bHiddenEdLevel](ue_ue.HUD.md#bhiddenedlevel)
-
-#### Defined in
-
-[ue/ue.d.ts:13181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13181)
 
 ___
 
@@ -1585,10 +1225,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[bHiddenEdTemporary](ue_ue.HUD.md#bhiddenedtemporary)
 
-#### Defined in
-
-[ue/ue.d.ts:13187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13187)
-
 ___
 
 ### bIgnoresOriginShifting
@@ -1598,10 +1234,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[bIgnoresOriginShifting](ue_ue.HUD.md#bignoresoriginshifting)
-
-#### Defined in
-
-[ue/ue.d.ts:13136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13136)
 
 ___
 
@@ -1613,10 +1245,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[bIsEditorOnlyActor](ue_ue.HUD.md#biseditoronlyactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13138)
-
 ___
 
 ### bIsEditorPreviewActor
@@ -1626,10 +1254,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[bIsEditorPreviewActor](ue_ue.HUD.md#biseditorpreviewactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13179)
 
 ___
 
@@ -1641,10 +1265,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[bListedInSceneOutliner](ue_ue.HUD.md#blistedinsceneoutliner)
 
-#### Defined in
-
-[ue/ue.d.ts:13185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13185)
-
 ___
 
 ### bLockLocation
@@ -1654,10 +1274,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[bLockLocation](ue_ue.HUD.md#blocklocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13182)
 
 ___
 
@@ -1669,10 +1285,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[bLostFocusPaused](ue_ue.HUD.md#blostfocuspaused)
 
-#### Defined in
-
-[ue/ue.d.ts:6170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6170)
-
 ___
 
 ### bNetLoadOnClient
@@ -1682,10 +1294,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[bNetLoadOnClient](ue_ue.HUD.md#bnetloadonclient)
-
-#### Defined in
-
-[ue/ue.d.ts:13124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13124)
 
 ___
 
@@ -1697,10 +1305,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[bNetStartup](ue_ue.HUD.md#bnetstartup)
 
-#### Defined in
-
-[ue/ue.d.ts:13118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13118)
-
 ___
 
 ### bNetTemporary
@@ -1710,10 +1314,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[bNetTemporary](ue_ue.HUD.md#bnettemporary)
-
-#### Defined in
-
-[ue/ue.d.ts:13117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13117)
 
 ___
 
@@ -1725,10 +1325,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[bNetUseOwnerRelevancy](ue_ue.HUD.md#bnetuseownerrelevancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13125)
-
 ___
 
 ### bOnlyRelevantToOwner
@@ -1738,10 +1334,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[bOnlyRelevantToOwner](ue_ue.HUD.md#bonlyrelevanttoowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13119)
 
 ___
 
@@ -1753,10 +1345,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[bOptimizeBPComponentData](ue_ue.HUD.md#boptimizebpcomponentdata)
 
-#### Defined in
-
-[ue/ue.d.ts:13186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13186)
-
 ___
 
 ### bRelevantForLevelBounds
@@ -1766,10 +1354,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[bRelevantForLevelBounds](ue_ue.HUD.md#brelevantforlevelbounds)
-
-#### Defined in
-
-[ue/ue.d.ts:13127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13127)
 
 ___
 
@@ -1781,10 +1365,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[bRelevantForNetworkReplays](ue_ue.HUD.md#brelevantfornetworkreplays)
 
-#### Defined in
-
-[ue/ue.d.ts:13126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13126)
-
 ___
 
 ### bReplayRewindable
@@ -1794,10 +1374,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[bReplayRewindable](ue_ue.HUD.md#breplayrewindable)
-
-#### Defined in
-
-[ue/ue.d.ts:13128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13128)
 
 ___
 
@@ -1809,10 +1385,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[bReplicateMovement](ue_ue.HUD.md#breplicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13121)
-
 ___
 
 ### bReplicates
@@ -1822,10 +1394,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[bReplicates](ue_ue.HUD.md#breplicates)
-
-#### Defined in
-
-[ue/ue.d.ts:13140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13140)
 
 ___
 
@@ -1837,10 +1405,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[bShowDebugInfo](ue_ue.HUD.md#bshowdebuginfo)
 
-#### Defined in
-
-[ue/ue.d.ts:6172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6172)
-
 ___
 
 ### bShowHUD
@@ -1850,10 +1414,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[bShowHUD](ue_ue.HUD.md#bshowhud)
-
-#### Defined in
-
-[ue/ue.d.ts:6171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6171)
 
 ___
 
@@ -1865,10 +1425,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[bShowHitBoxDebugInfo](ue_ue.HUD.md#bshowhitboxdebuginfo)
 
-#### Defined in
-
-[ue/ue.d.ts:6174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6174)
-
 ___
 
 ### bShowOverlays
@@ -1879,10 +1435,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[bShowOverlays](ue_ue.HUD.md#bshowoverlays)
 
-#### Defined in
-
-[ue/ue.d.ts:6175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6175)
-
 ___
 
 ### bTearOff
@@ -1892,10 +1444,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[bTearOff](ue_ue.HUD.md#btearoff)
-
-#### Defined in
-
-[ue/ue.d.ts:13122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13122)
 
 ## Methods
 
@@ -1916,10 +1464,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[ActorHasTag](ue_ue.HUD.md#actorhastag)
-
-#### Defined in
-
-[ue/ue.d.ts:13207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13207)
 
 ___
 
@@ -1943,10 +1487,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[AddComponent](ue_ue.HUD.md#addcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13208)
 
 ___
 
@@ -1979,10 +1519,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[AddDebugText](ue_ue.HUD.md#adddebugtext)
 
-#### Defined in
-
-[ue/ue.d.ts:6185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6185)
-
 ___
 
 ### AddHitBox
@@ -2007,10 +1543,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[AddHitBox](ue_ue.HUD.md#addhitbox)
 
-#### Defined in
-
-[ue/ue.d.ts:6186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6186)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -2031,10 +1563,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[AddTickPrerequisiteActor](ue_ue.HUD.md#addtickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13209)
-
 ___
 
 ### AddTickPrerequisiteComponent
@@ -2054,10 +1582,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[AddTickPrerequisiteComponent](ue_ue.HUD.md#addtickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13210)
 
 ___
 
@@ -2083,10 +1607,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[CreateDefaultSubobject](ue_ue.HUD.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### Deproject
@@ -2110,10 +1630,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[Deproject](ue_ue.HUD.md#deproject)
 
-#### Defined in
-
-[ue/ue.d.ts:6187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6187)
-
 ___
 
 ### DetachRootComponentFromParent
@@ -2134,10 +1650,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[DetachRootComponentFromParent](ue_ue.HUD.md#detachrootcomponentfromparent)
 
-#### Defined in
-
-[ue/ue.d.ts:13211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13211)
-
 ___
 
 ### DisableInput
@@ -2157,10 +1669,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[DisableInput](ue_ue.HUD.md#disableinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13212)
 
 ___
 
@@ -2186,10 +1694,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[DrawLine](ue_ue.HUD.md#drawline)
-
-#### Defined in
-
-[ue/ue.d.ts:6188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6188)
 
 ___
 
@@ -2223,10 +1727,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[DrawMaterial](ue_ue.HUD.md#drawmaterial)
 
-#### Defined in
-
-[ue/ue.d.ts:6189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6189)
-
 ___
 
 ### DrawMaterialSimple
@@ -2252,10 +1752,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[DrawMaterialSimple](ue_ue.HUD.md#drawmaterialsimple)
-
-#### Defined in
-
-[ue/ue.d.ts:6190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6190)
 
 ___
 
@@ -2286,10 +1782,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[DrawMaterialTriangle](ue_ue.HUD.md#drawmaterialtriangle)
 
-#### Defined in
-
-[ue/ue.d.ts:6191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6191)
-
 ___
 
 ### DrawRect
@@ -2313,10 +1805,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[DrawRect](ue_ue.HUD.md#drawrect)
-
-#### Defined in
-
-[ue/ue.d.ts:6192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6192)
 
 ___
 
@@ -2343,10 +1831,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[DrawText](ue_ue.HUD.md#drawtext)
-
-#### Defined in
-
-[ue/ue.d.ts:6193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6193)
 
 ___
 
@@ -2382,10 +1866,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[DrawTexture](ue_ue.HUD.md#drawtexture)
 
-#### Defined in
-
-[ue/ue.d.ts:6194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6194)
-
 ___
 
 ### DrawTextureSimple
@@ -2410,10 +1890,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[DrawTextureSimple](ue_ue.HUD.md#drawtexturesimple)
 
-#### Defined in
-
-[ue/ue.d.ts:6195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6195)
-
 ___
 
 ### EnableInput
@@ -2433,10 +1909,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[EnableInput](ue_ue.HUD.md#enableinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13213)
 
 ___
 
@@ -2458,10 +1930,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[ExecuteUbergraph](ue_ue.HUD.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### FlushNetDormancy
@@ -2476,10 +1944,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[FlushNetDormancy](ue_ue.HUD.md#flushnetdormancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13214)
-
 ___
 
 ### ForceNetUpdate
@@ -2493,10 +1957,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[ForceNetUpdate](ue_ue.HUD.md#forcenetupdate)
-
-#### Defined in
-
-[ue/ue.d.ts:13215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13215)
 
 ___
 
@@ -2520,10 +1980,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetActorBounds](ue_ue.HUD.md#getactorbounds)
 
-#### Defined in
-
-[ue/ue.d.ts:13216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13216)
-
 ___
 
 ### GetActorEnableCollision
@@ -2537,10 +1993,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[GetActorEnableCollision](ue_ue.HUD.md#getactorenablecollision)
-
-#### Defined in
-
-[ue/ue.d.ts:13217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13217)
 
 ___
 
@@ -2563,10 +2015,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetActorEyesViewPoint](ue_ue.HUD.md#getactoreyesviewpoint)
 
-#### Defined in
-
-[ue/ue.d.ts:13218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13218)
-
 ___
 
 ### GetActorForwardVector
@@ -2580,10 +2028,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[GetActorForwardVector](ue_ue.HUD.md#getactorforwardvector)
-
-#### Defined in
-
-[ue/ue.d.ts:13219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13219)
 
 ___
 
@@ -2599,10 +2043,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetActorLabel](ue_ue.HUD.md#getactorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13220)
-
 ___
 
 ### GetActorRelativeScale3D
@@ -2616,10 +2056,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[GetActorRelativeScale3D](ue_ue.HUD.md#getactorrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13221)
 
 ___
 
@@ -2635,10 +2071,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetActorRightVector](ue_ue.HUD.md#getactorrightvector)
 
-#### Defined in
-
-[ue/ue.d.ts:13222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13222)
-
 ___
 
 ### GetActorScale3D
@@ -2652,10 +2084,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[GetActorScale3D](ue_ue.HUD.md#getactorscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13223)
 
 ___
 
@@ -2671,10 +2099,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetActorTickInterval](ue_ue.HUD.md#getactortickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:13224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13224)
-
 ___
 
 ### GetActorTimeDilation
@@ -2689,10 +2113,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetActorTimeDilation](ue_ue.HUD.md#getactortimedilation)
 
-#### Defined in
-
-[ue/ue.d.ts:13225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13225)
-
 ___
 
 ### GetActorUpVector
@@ -2706,10 +2126,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[GetActorUpVector](ue_ue.HUD.md#getactorupvector)
-
-#### Defined in
-
-[ue/ue.d.ts:13226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13226)
 
 ___
 
@@ -2736,10 +2152,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetActorsInSelectionRectangle](ue_ue.HUD.md#getactorsinselectionrectangle)
 
-#### Defined in
-
-[ue/ue.d.ts:6196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6196)
-
 ___
 
 ### GetAllChildActors
@@ -2761,10 +2173,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetAllChildActors](ue_ue.HUD.md#getallchildactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13227)
-
 ___
 
 ### GetAttachParentActor
@@ -2779,10 +2187,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetAttachParentActor](ue_ue.HUD.md#getattachparentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13229)
-
 ___
 
 ### GetAttachParentSocketName
@@ -2796,10 +2200,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[GetAttachParentSocketName](ue_ue.HUD.md#getattachparentsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:13230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13230)
 
 ___
 
@@ -2822,10 +2222,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetAttachedActors](ue_ue.HUD.md#getattachedactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13228)
-
 ___
 
 ### GetClass
@@ -2839,10 +2235,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[GetClass](ue_ue.HUD.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -2864,10 +2256,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetComponentByClass](ue_ue.HUD.md#getcomponentbyclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13231)
-
 ___
 
 ### GetComponentsByInterface
@@ -2887,10 +2275,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[GetComponentsByInterface](ue_ue.HUD.md#getcomponentsbyinterface)
-
-#### Defined in
-
-[ue/ue.d.ts:13232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13232)
 
 ___
 
@@ -2913,10 +2297,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetComponentsByTag](ue_ue.HUD.md#getcomponentsbytag)
 
-#### Defined in
-
-[ue/ue.d.ts:13233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13233)
-
 ___
 
 ### GetDistanceTo
@@ -2936,10 +2316,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[GetDistanceTo](ue_ue.HUD.md#getdistanceto)
-
-#### Defined in
-
-[ue/ue.d.ts:13234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13234)
 
 ___
 
@@ -2961,10 +2337,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetDotProductTo](ue_ue.HUD.md#getdotproductto)
 
-#### Defined in
-
-[ue/ue.d.ts:13235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13235)
-
 ___
 
 ### GetFolderPath
@@ -2979,10 +2351,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetFolderPath](ue_ue.HUD.md#getfolderpath)
 
-#### Defined in
-
-[ue/ue.d.ts:13236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13236)
-
 ___
 
 ### GetGameTimeSinceCreation
@@ -2996,10 +2364,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[GetGameTimeSinceCreation](ue_ue.HUD.md#getgametimesincecreation)
-
-#### Defined in
-
-[ue/ue.d.ts:13237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13237)
 
 ___
 
@@ -3021,10 +2385,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetHorizontalDistanceTo](ue_ue.HUD.md#gethorizontaldistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13238)
-
 ___
 
 ### GetHorizontalDotProductTo
@@ -3044,10 +2404,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[GetHorizontalDotProductTo](ue_ue.HUD.md#gethorizontaldotproductto)
-
-#### Defined in
-
-[ue/ue.d.ts:13239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13239)
 
 ___
 
@@ -3069,10 +2425,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetInputAxisKeyValue](ue_ue.HUD.md#getinputaxiskeyvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:13240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13240)
-
 ___
 
 ### GetInputAxisValue
@@ -3092,10 +2444,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[GetInputAxisValue](ue_ue.HUD.md#getinputaxisvalue)
-
-#### Defined in
-
-[ue/ue.d.ts:13241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13241)
 
 ___
 
@@ -3117,10 +2465,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetInputVectorAxisValue](ue_ue.HUD.md#getinputvectoraxisvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:13242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13242)
-
 ___
 
 ### GetInstigator
@@ -3134,10 +2478,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[GetInstigator](ue_ue.HUD.md#getinstigator)
-
-#### Defined in
-
-[ue/ue.d.ts:13243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13243)
 
 ___
 
@@ -3153,10 +2493,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetInstigatorController](ue_ue.HUD.md#getinstigatorcontroller)
 
-#### Defined in
-
-[ue/ue.d.ts:13244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13244)
-
 ___
 
 ### GetLifeSpan
@@ -3170,10 +2506,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[GetLifeSpan](ue_ue.HUD.md#getlifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13245)
 
 ___
 
@@ -3189,10 +2521,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetLocalRole](ue_ue.HUD.md#getlocalrole)
 
-#### Defined in
-
-[ue/ue.d.ts:13246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13246)
-
 ___
 
 ### GetName
@@ -3207,10 +2535,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetName](ue_ue.HUD.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -3224,10 +2548,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[GetOuter](ue_ue.HUD.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -3250,10 +2570,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetOverlappingActors](ue_ue.HUD.md#getoverlappingactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13247)
-
 ___
 
 ### GetOverlappingComponents
@@ -3274,10 +2590,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetOverlappingComponents](ue_ue.HUD.md#getoverlappingcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13248)
-
 ___
 
 ### GetOwner
@@ -3291,10 +2603,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[GetOwner](ue_ue.HUD.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13249)
 
 ___
 
@@ -3310,10 +2618,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetOwningPawn](ue_ue.HUD.md#getowningpawn)
 
-#### Defined in
-
-[ue/ue.d.ts:6197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6197)
-
 ___
 
 ### GetOwningPlayerController
@@ -3327,10 +2631,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[GetOwningPlayerController](ue_ue.HUD.md#getowningplayercontroller)
-
-#### Defined in
-
-[ue/ue.d.ts:6198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6198)
 
 ___
 
@@ -3346,10 +2646,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetParentActor](ue_ue.HUD.md#getparentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13250)
-
 ___
 
 ### GetParentComponent
@@ -3364,10 +2660,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetParentComponent](ue_ue.HUD.md#getparentcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13251)
-
 ___
 
 ### GetRemoteRole
@@ -3381,10 +2673,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[GetRemoteRole](ue_ue.HUD.md#getremoterole)
-
-#### Defined in
-
-[ue/ue.d.ts:13252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13252)
 
 ___
 
@@ -3405,10 +2693,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[GetSquaredDistanceTo](ue_ue.HUD.md#getsquareddistanceto)
-
-#### Defined in
-
-[ue/ue.d.ts:13253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13253)
 
 ___
 
@@ -3434,10 +2718,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetTextSize](ue_ue.HUD.md#gettextsize)
 
-#### Defined in
-
-[ue/ue.d.ts:6199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6199)
-
 ___
 
 ### GetTickableWhenPaused
@@ -3451,10 +2731,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[GetTickableWhenPaused](ue_ue.HUD.md#gettickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:13254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13254)
 
 ___
 
@@ -3470,10 +2746,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetTransform](ue_ue.HUD.md#gettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13255)
-
 ___
 
 ### GetVelocity
@@ -3487,10 +2759,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[GetVelocity](ue_ue.HUD.md#getvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:13256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13256)
 
 ___
 
@@ -3512,10 +2780,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[GetVerticalDistanceTo](ue_ue.HUD.md#getverticaldistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13257)
-
 ___
 
 ### GetWorld
@@ -3529,10 +2793,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[GetWorld](ue_ue.HUD.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -3548,10 +2808,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[HasAuthority](ue_ue.HUD.md#hasauthority)
 
-#### Defined in
-
-[ue/ue.d.ts:13258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13258)
-
 ___
 
 ### IsActorBeingDestroyed
@@ -3565,10 +2821,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[IsActorBeingDestroyed](ue_ue.HUD.md#isactorbeingdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13259)
 
 ___
 
@@ -3584,10 +2836,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[IsActorTickEnabled](ue_ue.HUD.md#isactortickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:13260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13260)
-
 ___
 
 ### IsChildActor
@@ -3601,10 +2849,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[IsChildActor](ue_ue.HUD.md#ischildactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13261)
 
 ___
 
@@ -3620,10 +2864,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[IsEditable](ue_ue.HUD.md#iseditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13262)
-
 ___
 
 ### IsHiddenEd
@@ -3638,10 +2878,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[IsHiddenEd](ue_ue.HUD.md#ishiddened)
 
-#### Defined in
-
-[ue/ue.d.ts:13263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13263)
-
 ___
 
 ### IsHiddenEdAtStartup
@@ -3655,10 +2891,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[IsHiddenEdAtStartup](ue_ue.HUD.md#ishiddenedatstartup)
-
-#### Defined in
-
-[ue/ue.d.ts:13264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13264)
 
 ___
 
@@ -3680,10 +2912,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[IsOverlappingActor](ue_ue.HUD.md#isoverlappingactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13265)
-
 ___
 
 ### IsSelectable
@@ -3697,10 +2925,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[IsSelectable](ue_ue.HUD.md#isselectable)
-
-#### Defined in
-
-[ue/ue.d.ts:13266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13266)
 
 ___
 
@@ -3721,10 +2945,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[IsTemporarilyHiddenInEditor](ue_ue.HUD.md#istemporarilyhiddenineditor)
-
-#### Defined in
-
-[ue/ue.d.ts:13267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13267)
 
 ___
 
@@ -3749,10 +2969,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[K2_AddActorLocalOffset](ue_ue.HUD.md#k2_addactorlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:13268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13268)
-
 ___
 
 ### K2\_AddActorLocalRotation
@@ -3775,10 +2991,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[K2_AddActorLocalRotation](ue_ue.HUD.md#k2_addactorlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13269)
 
 ___
 
@@ -3803,10 +3015,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[K2_AddActorLocalTransform](ue_ue.HUD.md#k2_addactorlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13270)
-
 ___
 
 ### K2\_AddActorWorldOffset
@@ -3829,10 +3037,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[K2_AddActorWorldOffset](ue_ue.HUD.md#k2_addactorworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:13271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13271)
 
 ___
 
@@ -3857,10 +3061,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[K2_AddActorWorldRotation](ue_ue.HUD.md#k2_addactorworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13272)
-
 ___
 
 ### K2\_AddActorWorldTransform
@@ -3883,10 +3083,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[K2_AddActorWorldTransform](ue_ue.HUD.md#k2_addactorworldtransform)
-
-#### Defined in
-
-[ue/ue.d.ts:13273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13273)
 
 ___
 
@@ -3911,10 +3107,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[K2_AttachRootComponentTo](ue_ue.HUD.md#k2_attachrootcomponentto)
 
-#### Defined in
-
-[ue/ue.d.ts:13274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13274)
-
 ___
 
 ### K2\_AttachRootComponentToActor
@@ -3937,10 +3129,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[K2_AttachRootComponentToActor](ue_ue.HUD.md#k2_attachrootcomponenttoactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13275)
 
 ___
 
@@ -3967,10 +3155,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[K2_AttachToActor](ue_ue.HUD.md#k2_attachtoactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13276)
-
 ___
 
 ### K2\_AttachToComponent
@@ -3996,10 +3180,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[K2_AttachToComponent](ue_ue.HUD.md#k2_attachtocomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13277)
-
 ___
 
 ### K2\_DestroyActor
@@ -4013,10 +3193,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[K2_DestroyActor](ue_ue.HUD.md#k2_destroyactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13278)
 
 ___
 
@@ -4037,10 +3213,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[K2_DestroyComponent](ue_ue.HUD.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13279)
 
 ___
 
@@ -4064,10 +3236,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[K2_DetachFromActor](ue_ue.HUD.md#k2_detachfromactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13280)
-
 ___
 
 ### K2\_GetActorLocation
@@ -4082,10 +3250,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[K2_GetActorLocation](ue_ue.HUD.md#k2_getactorlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:13281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13281)
-
 ___
 
 ### K2\_GetActorRotation
@@ -4099,10 +3263,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[K2_GetActorRotation](ue_ue.HUD.md#k2_getactorrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13282)
 
 ___
 
@@ -4124,10 +3284,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[K2_GetComponentsByClass](ue_ue.HUD.md#k2_getcomponentsbyclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13283)
-
 ___
 
 ### K2\_GetRootComponent
@@ -4141,10 +3297,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[K2_GetRootComponent](ue_ue.HUD.md#k2_getrootcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13284)
 
 ___
 
@@ -4166,10 +3318,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[K2_OnBecomeViewTarget](ue_ue.HUD.md#k2_onbecomeviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13285)
-
 ___
 
 ### K2\_OnEndViewTarget
@@ -4190,10 +3338,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[K2_OnEndViewTarget](ue_ue.HUD.md#k2_onendviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13286)
-
 ___
 
 ### K2\_OnReset
@@ -4207,10 +3351,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[K2_OnReset](ue_ue.HUD.md#k2_onreset)
-
-#### Defined in
-
-[ue/ue.d.ts:13287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13287)
 
 ___
 
@@ -4234,10 +3374,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[K2_SetActorLocation](ue_ue.HUD.md#k2_setactorlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13288)
 
 ___
 
@@ -4263,10 +3399,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[K2_SetActorLocationAndRotation](ue_ue.HUD.md#k2_setactorlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13289)
-
 ___
 
 ### K2\_SetActorRelativeLocation
@@ -4289,10 +3421,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[K2_SetActorRelativeLocation](ue_ue.HUD.md#k2_setactorrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13290)
 
 ___
 
@@ -4317,10 +3445,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[K2_SetActorRelativeRotation](ue_ue.HUD.md#k2_setactorrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13291)
-
 ___
 
 ### K2\_SetActorRelativeTransform
@@ -4344,10 +3468,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[K2_SetActorRelativeTransform](ue_ue.HUD.md#k2_setactorrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13292)
-
 ___
 
 ### K2\_SetActorRotation
@@ -4368,10 +3488,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[K2_SetActorRotation](ue_ue.HUD.md#k2_setactorrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13293)
 
 ___
 
@@ -4396,10 +3512,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[K2_SetActorTransform](ue_ue.HUD.md#k2_setactortransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13294)
-
 ___
 
 ### K2\_TeleportTo
@@ -4421,10 +3533,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[K2_TeleportTo](ue_ue.HUD.md#k2_teleportto)
 
-#### Defined in
-
-[ue/ue.d.ts:13295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13295)
-
 ___
 
 ### MakeMIDForMaterial
@@ -4444,10 +3552,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[MakeMIDForMaterial](ue_ue.HUD.md#makemidformaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:13296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13296)
 
 ___
 
@@ -4473,10 +3577,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[MakeNoise](ue_ue.HUD.md#makenoise)
 
-#### Defined in
-
-[ue/ue.d.ts:13297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13297)
-
 ___
 
 ### NextDebugTarget
@@ -4490,10 +3590,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[NextDebugTarget](ue_ue.HUD.md#nextdebugtarget)
-
-#### Defined in
-
-[ue/ue.d.ts:6200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6200)
 
 ___
 
@@ -4509,10 +3605,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[OnRep_AttachmentReplication](ue_ue.HUD.md#onrep_attachmentreplication)
 
-#### Defined in
-
-[ue/ue.d.ts:13298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13298)
-
 ___
 
 ### OnRep\_Instigator
@@ -4526,10 +3618,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[OnRep_Instigator](ue_ue.HUD.md#onrep_instigator)
-
-#### Defined in
-
-[ue/ue.d.ts:13299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13299)
 
 ___
 
@@ -4545,10 +3633,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[OnRep_Owner](ue_ue.HUD.md#onrep_owner)
 
-#### Defined in
-
-[ue/ue.d.ts:13300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13300)
-
 ___
 
 ### OnRep\_ReplicateMovement
@@ -4563,10 +3647,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[OnRep_ReplicateMovement](ue_ue.HUD.md#onrep_replicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13302)
-
 ___
 
 ### OnRep\_ReplicatedMovement
@@ -4580,10 +3660,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[OnRep_ReplicatedMovement](ue_ue.HUD.md#onrep_replicatedmovement)
-
-#### Defined in
-
-[ue/ue.d.ts:13301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13301)
 
 ___
 
@@ -4607,10 +3683,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[PrestreamTextures](ue_ue.HUD.md#prestreamtextures)
 
-#### Defined in
-
-[ue/ue.d.ts:13303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13303)
-
 ___
 
 ### PreviousDebugTarget
@@ -4624,10 +3696,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[PreviousDebugTarget](ue_ue.HUD.md#previousdebugtarget)
-
-#### Defined in
-
-[ue/ue.d.ts:6201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6201)
 
 ___
 
@@ -4649,10 +3717,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[Project](ue_ue.HUD.md#project)
 
-#### Defined in
-
-[ue/ue.d.ts:6202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6202)
-
 ___
 
 ### ReceiveActorBeginCursorOver
@@ -4666,10 +3730,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[ReceiveActorBeginCursorOver](ue_ue.HUD.md#receiveactorbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13304)
 
 ___
 
@@ -4691,10 +3751,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[ReceiveActorBeginOverlap](ue_ue.HUD.md#receiveactorbeginoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13305)
-
 ___
 
 ### ReceiveActorEndCursorOver
@@ -4708,10 +3764,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[ReceiveActorEndCursorOver](ue_ue.HUD.md#receiveactorendcursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13306)
 
 ___
 
@@ -4733,10 +3785,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[ReceiveActorEndOverlap](ue_ue.HUD.md#receiveactorendoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13307)
-
 ___
 
 ### ReceiveActorOnClicked
@@ -4756,10 +3804,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[ReceiveActorOnClicked](ue_ue.HUD.md#receiveactoronclicked)
-
-#### Defined in
-
-[ue/ue.d.ts:13308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13308)
 
 ___
 
@@ -4781,10 +3825,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[ReceiveActorOnInputTouchBegin](ue_ue.HUD.md#receiveactoroninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:13309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13309)
-
 ___
 
 ### ReceiveActorOnInputTouchEnd
@@ -4804,10 +3844,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[ReceiveActorOnInputTouchEnd](ue_ue.HUD.md#receiveactoroninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:13310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13310)
 
 ___
 
@@ -4829,10 +3865,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[ReceiveActorOnInputTouchEnter](ue_ue.HUD.md#receiveactoroninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:13311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13311)
-
 ___
 
 ### ReceiveActorOnInputTouchLeave
@@ -4853,10 +3885,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[ReceiveActorOnInputTouchLeave](ue_ue.HUD.md#receiveactoroninputtouchleave)
 
-#### Defined in
-
-[ue/ue.d.ts:13312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13312)
-
 ___
 
 ### ReceiveActorOnReleased
@@ -4876,10 +3904,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[ReceiveActorOnReleased](ue_ue.HUD.md#receiveactoronreleased)
-
-#### Defined in
-
-[ue/ue.d.ts:13313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13313)
 
 ___
 
@@ -4904,10 +3928,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[ReceiveAnyDamage](ue_ue.HUD.md#receiveanydamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13314)
-
 ___
 
 ### ReceiveBeginPlay
@@ -4922,10 +3942,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[ReceiveBeginPlay](ue_ue.HUD.md#receivebeginplay)
 
-#### Defined in
-
-[ue/ue.d.ts:13315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13315)
-
 ___
 
 ### ReceiveDestroyed
@@ -4939,10 +3955,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[ReceiveDestroyed](ue_ue.HUD.md#receivedestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13316)
 
 ___
 
@@ -4965,10 +3977,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[ReceiveDrawHUD](ue_ue.HUD.md#receivedrawhud)
 
-#### Defined in
-
-[ue/ue.d.ts:6203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6203)
-
 ___
 
 ### ReceiveEndPlay
@@ -4988,10 +3996,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[ReceiveEndPlay](ue_ue.HUD.md#receiveendplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13317)
 
 ___
 
@@ -5020,10 +4024,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[ReceiveHit](ue_ue.HUD.md#receivehit)
 
-#### Defined in
-
-[ue/ue.d.ts:13318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13318)
-
 ___
 
 ### ReceiveHitBoxBeginCursorOver
@@ -5043,10 +4043,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[ReceiveHitBoxBeginCursorOver](ue_ue.HUD.md#receivehitboxbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:6204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6204)
 
 ___
 
@@ -5068,10 +4064,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[ReceiveHitBoxClick](ue_ue.HUD.md#receivehitboxclick)
 
-#### Defined in
-
-[ue/ue.d.ts:6205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6205)
-
 ___
 
 ### ReceiveHitBoxEndCursorOver
@@ -5092,10 +4084,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[ReceiveHitBoxEndCursorOver](ue_ue.HUD.md#receivehitboxendcursorover)
 
-#### Defined in
-
-[ue/ue.d.ts:6206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6206)
-
 ___
 
 ### ReceiveHitBoxRelease
@@ -5115,10 +4103,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[ReceiveHitBoxRelease](ue_ue.HUD.md#receivehitboxrelease)
-
-#### Defined in
-
-[ue/ue.d.ts:6207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6207)
 
 ___
 
@@ -5149,10 +4133,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[ReceivePointDamage](ue_ue.HUD.md#receivepointdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13319)
-
 ___
 
 ### ReceiveRadialDamage
@@ -5178,10 +4158,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[ReceiveRadialDamage](ue_ue.HUD.md#receiveradialdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13320)
-
 ___
 
 ### ReceiveTick
@@ -5202,10 +4178,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[ReceiveTick](ue_ue.HUD.md#receivetick)
 
-#### Defined in
-
-[ue/ue.d.ts:13321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13321)
-
 ___
 
 ### RemoveAllDebugStrings
@@ -5219,10 +4191,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[RemoveAllDebugStrings](ue_ue.HUD.md#removealldebugstrings)
-
-#### Defined in
-
-[ue/ue.d.ts:6208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6208)
 
 ___
 
@@ -5245,10 +4213,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[RemoveDebugText](ue_ue.HUD.md#removedebugtext)
 
-#### Defined in
-
-[ue/ue.d.ts:6209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6209)
-
 ___
 
 ### RemoveTickPrerequisiteActor
@@ -5268,10 +4232,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[RemoveTickPrerequisiteActor](ue_ue.HUD.md#removetickprerequisiteactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13322)
 
 ___
 
@@ -5293,10 +4253,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[RemoveTickPrerequisiteComponent](ue_ue.HUD.md#removetickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13323)
-
 ___
 
 ### SetActorEnableCollision
@@ -5317,10 +4273,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[SetActorEnableCollision](ue_ue.HUD.md#setactorenablecollision)
 
-#### Defined in
-
-[ue/ue.d.ts:13324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13324)
-
 ___
 
 ### SetActorHiddenInGame
@@ -5340,10 +4292,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[SetActorHiddenInGame](ue_ue.HUD.md#setactorhiddeningame)
-
-#### Defined in
-
-[ue/ue.d.ts:13325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13325)
 
 ___
 
@@ -5366,10 +4314,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[SetActorLabel](ue_ue.HUD.md#setactorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13326)
-
 ___
 
 ### SetActorRelativeScale3D
@@ -5389,10 +4333,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[SetActorRelativeScale3D](ue_ue.HUD.md#setactorrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13327)
 
 ___
 
@@ -5414,10 +4354,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[SetActorScale3D](ue_ue.HUD.md#setactorscale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:13328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13328)
-
 ___
 
 ### SetActorTickEnabled
@@ -5437,10 +4373,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[SetActorTickEnabled](ue_ue.HUD.md#setactortickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:13329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13329)
 
 ___
 
@@ -5462,10 +4394,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[SetActorTickInterval](ue_ue.HUD.md#setactortickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:13330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13330)
-
 ___
 
 ### SetFolderPath
@@ -5485,10 +4413,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[SetFolderPath](ue_ue.HUD.md#setfolderpath)
-
-#### Defined in
-
-[ue/ue.d.ts:13331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13331)
 
 ___
 
@@ -5510,10 +4434,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[SetIsTemporarilyHiddenInEditor](ue_ue.HUD.md#setistemporarilyhiddenineditor)
 
-#### Defined in
-
-[ue/ue.d.ts:13332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13332)
-
 ___
 
 ### SetLifeSpan
@@ -5533,10 +4453,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[SetLifeSpan](ue_ue.HUD.md#setlifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13333)
 
 ___
 
@@ -5558,10 +4474,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[SetNetDormancy](ue_ue.HUD.md#setnetdormancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13334)
-
 ___
 
 ### SetOwner
@@ -5581,10 +4493,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[SetOwner](ue_ue.HUD.md#setowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13335)
 
 ___
 
@@ -5606,10 +4514,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[SetReplicateMovement](ue_ue.HUD.md#setreplicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13336)
-
 ___
 
 ### SetReplicates
@@ -5629,10 +4533,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[SetReplicates](ue_ue.HUD.md#setreplicates)
-
-#### Defined in
-
-[ue/ue.d.ts:13337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13337)
 
 ___
 
@@ -5654,10 +4554,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[SetTickGroup](ue_ue.HUD.md#settickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:13339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13339)
-
 ___
 
 ### SetTickableWhenPaused
@@ -5677,10 +4573,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[SetTickableWhenPaused](ue_ue.HUD.md#settickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:13338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13338)
 
 ___
 
@@ -5702,10 +4594,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[ShowDebug](ue_ue.HUD.md#showdebug)
 
-#### Defined in
-
-[ue/ue.d.ts:6210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6210)
-
 ___
 
 ### ShowDebugForReticleTargetToggle
@@ -5725,10 +4613,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[ShowDebugForReticleTargetToggle](ue_ue.HUD.md#showdebugforreticletargettoggle)
-
-#### Defined in
-
-[ue/ue.d.ts:6211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6211)
 
 ___
 
@@ -5750,10 +4634,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[ShowDebugToggleSubCategory](ue_ue.HUD.md#showdebugtogglesubcategory)
 
-#### Defined in
-
-[ue/ue.d.ts:6212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6212)
-
 ___
 
 ### ShowHUD
@@ -5767,10 +4647,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[ShowHUD](ue_ue.HUD.md#showhud)
-
-#### Defined in
-
-[ue/ue.d.ts:6213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6213)
 
 ___
 
@@ -5793,10 +4669,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[SnapRootComponentTo](ue_ue.HUD.md#snaprootcomponentto)
 
-#### Defined in
-
-[ue/ue.d.ts:13340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13340)
-
 ___
 
 ### TearOff
@@ -5811,10 +4683,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[TearOff](ue_ue.HUD.md#tearoff)
 
-#### Defined in
-
-[ue/ue.d.ts:13341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13341)
-
 ___
 
 ### UserConstructionScript
@@ -5828,10 +4696,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[UserConstructionScript](ue_ue.HUD.md#userconstructionscript)
-
-#### Defined in
-
-[ue/ue.d.ts:13342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13342)
 
 ___
 
@@ -5852,10 +4716,6 @@ ___
 #### Inherited from
 
 [HUD](ue_ue.HUD.md).[WasRecentlyRendered](ue_ue.HUD.md#wasrecentlyrendered)
-
-#### Defined in
-
-[ue/ue.d.ts:13343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13343)
 
 ___
 
@@ -5878,10 +4738,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[Find](ue_ue.HUD.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:30269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30269)
-
 ___
 
 ### Load
@@ -5902,10 +4758,6 @@ ___
 
 [HUD](ue_ue.HUD.md).[Load](ue_ue.HUD.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:30270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30270)
-
 ___
 
 ### StaticClass
@@ -5919,7 +4771,3 @@ ___
 #### Overrides
 
 [HUD](ue_ue.HUD.md).[StaticClass](ue_ue.HUD.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:30268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30268)

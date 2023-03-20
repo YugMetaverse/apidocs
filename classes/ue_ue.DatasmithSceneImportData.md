@@ -70,19 +70,11 @@
 
 [AssetImportData](ue_ue.AssetImportData.md).[constructor](ue_ue.AssetImportData.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:29465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29465)
-
 ## Properties
 
 ### BaseOptions
 
 • **BaseOptions**: [`DatasmithImportBaseOptions`](ue_ue.DatasmithImportBaseOptions.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29466](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29466)
 
 ___
 
@@ -94,10 +86,6 @@ ___
 
 [AssetImportData](ue_ue.AssetImportData.md).[SourceData](ue_ue.AssetImportData.md#sourcedata)
 
-#### Defined in
-
-[ue/ue.d.ts:38](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38)
-
 ___
 
 ### SourceFilePath
@@ -107,10 +95,6 @@ ___
 #### Inherited from
 
 [AssetImportData](ue_ue.AssetImportData.md).[SourceFilePath](ue_ue.AssetImportData.md#sourcefilepath)
-
-#### Defined in
-
-[ue/ue.d.ts:36](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36)
 
 ___
 
@@ -122,10 +106,6 @@ ___
 
 [AssetImportData](ue_ue.AssetImportData.md).[SourceFileTimestamp](ue_ue.AssetImportData.md#sourcefiletimestamp)
 
-#### Defined in
-
-[ue/ue.d.ts:37](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37)
-
 ___
 
 ### \_\_tid\_AssetImportData\_\_
@@ -136,19 +116,11 @@ ___
 
 [AssetImportData](ue_ue.AssetImportData.md).[__tid_AssetImportData__](ue_ue.AssetImportData.md#__tid_assetimportdata__)
 
-#### Defined in
-
-[ue/ue.d.ts:45](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45)
-
 ___
 
 ### \_\_tid\_DatasmithSceneImportData\_\_
 
 • **\_\_tid\_DatasmithSceneImportData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29471)
 
 ___
 
@@ -159,10 +131,6 @@ ___
 #### Inherited from
 
 [AssetImportData](ue_ue.AssetImportData.md).[__tid_Object__](ue_ue.AssetImportData.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -188,10 +156,6 @@ ___
 
 [AssetImportData](ue_ue.AssetImportData.md).[CreateDefaultSubobject](ue_ue.AssetImportData.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -212,10 +176,6 @@ ___
 
 [AssetImportData](ue_ue.AssetImportData.md).[ExecuteUbergraph](ue_ue.AssetImportData.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -229,10 +189,6 @@ ___
 #### Inherited from
 
 [AssetImportData](ue_ue.AssetImportData.md).[GetClass](ue_ue.AssetImportData.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -248,10 +204,6 @@ ___
 
 [AssetImportData](ue_ue.AssetImportData.md).[GetName](ue_ue.AssetImportData.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -265,10 +217,6 @@ ___
 #### Inherited from
 
 [AssetImportData](ue_ue.AssetImportData.md).[GetOuter](ue_ue.AssetImportData.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -284,10 +232,6 @@ ___
 
 [AssetImportData](ue_ue.AssetImportData.md).[GetWorld](ue_ue.AssetImportData.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### K2\_ExtractFilenames
@@ -302,10 +246,6 @@ ___
 
 [AssetImportData](ue_ue.AssetImportData.md).[K2_ExtractFilenames](ue_ue.AssetImportData.md#k2_extractfilenames)
 
-#### Defined in
-
-[ue/ue.d.ts:39](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39)
-
 ___
 
 ### K2\_GetFirstFilename
@@ -319,10 +259,6 @@ ___
 #### Inherited from
 
 [AssetImportData](ue_ue.AssetImportData.md).[K2_GetFirstFilename](ue_ue.AssetImportData.md#k2_getfirstfilename)
-
-#### Defined in
-
-[ue/ue.d.ts:40](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40)
 
 ___
 
@@ -345,10 +281,6 @@ ___
 
 [AssetImportData](ue_ue.AssetImportData.md).[Find](ue_ue.AssetImportData.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:29468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29468)
-
 ___
 
 ### Load
@@ -369,10 +301,6 @@ ___
 
 [AssetImportData](ue_ue.AssetImportData.md).[Load](ue_ue.AssetImportData.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:29469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29469)
-
 ___
 
 ### StaticClass
@@ -386,7 +314,3 @@ ___
 #### Overrides
 
 [AssetImportData](ue_ue.AssetImportData.md).[StaticClass](ue_ue.AssetImportData.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:29467](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29467)

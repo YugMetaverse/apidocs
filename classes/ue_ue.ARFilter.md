@@ -33,10 +33,6 @@
 
 • **new ARFilter**()
 
-#### Defined in
-
-[ue/ue.d.ts:21769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21769)
-
 • **new ARFilter**(`PackageNames`, `PackagePaths`, `ObjectPaths`, `ClassNames`, `RecursiveClassesExclusionSet`, `bRecursivePaths`, `bRecursiveClasses`, `bIncludeOnlyOnDiskAssets`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `bRecursiveClasses` | `boolean` |
 | `bIncludeOnlyOnDiskAssets` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:21770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21770)
-
 ## Properties
 
 ### ClassNames
 
 • **ClassNames**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:21774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21774)
 
 ___
 
@@ -72,19 +60,11 @@ ___
 
 • **ObjectPaths**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:21773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21773)
-
 ___
 
 ### PackageNames
 
 • **PackageNames**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:21771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21771)
 
 ___
 
@@ -92,19 +72,11 @@ ___
 
 • **PackagePaths**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:21772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21772)
-
 ___
 
 ### RecursiveClassesExclusionSet
 
 • **RecursiveClassesExclusionSet**: [`TSet`](../interfaces/ue_puerts.TSet.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:21775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21775)
 
 ___
 
@@ -112,19 +84,11 @@ ___
 
 • `Private` **\_\_tid\_ARFilter\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:21784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21784)
-
 ___
 
 ### bIncludeOnlyOnDiskAssets
 
 • **bIncludeOnlyOnDiskAssets**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21778](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21778)
 
 ___
 
@@ -132,19 +96,11 @@ ___
 
 • **bRecursiveClasses**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:21777](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21777)
-
 ___
 
 ### bRecursivePaths
 
 • **bRecursivePaths**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21776](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21776)
 
 ## Methods
 
@@ -160,10 +116,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21782)
-
 ___
 
 ### StaticStruct
@@ -173,7 +125,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21783)

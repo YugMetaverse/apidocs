@@ -41,10 +41,6 @@
 
 • **new NavigationFilterFlags**()
 
-#### Defined in
-
-[ue/ue.d.ts:52927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52927)
-
 • **new NavigationFilterFlags**(`bNavFlag0`, `bNavFlag1`, `bNavFlag2`, `bNavFlag3`, `bNavFlag4`, `bNavFlag5`, `bNavFlag6`, `bNavFlag7`, `bNavFlag8`, `bNavFlag9`, `bNavFlag10`, `bNavFlag11`, `bNavFlag12`, `bNavFlag13`, `bNavFlag14`, `bNavFlag15`)
 
 #### Parameters
@@ -68,19 +64,11 @@
 | `bNavFlag14` | `boolean` |
 | `bNavFlag15` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:52928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52928)
-
 ## Properties
 
 ### \_\_tid\_NavigationFilterFlags\_\_
 
 • `Private` **\_\_tid\_NavigationFilterFlags\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52950)
 
 ___
 
@@ -88,19 +76,11 @@ ___
 
 • **bNavFlag0**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:52929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52929)
-
 ___
 
 ### bNavFlag1
 
 • **bNavFlag1**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52930)
 
 ___
 
@@ -108,19 +88,11 @@ ___
 
 • **bNavFlag10**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:52939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52939)
-
 ___
 
 ### bNavFlag11
 
 • **bNavFlag11**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52940)
 
 ___
 
@@ -128,19 +100,11 @@ ___
 
 • **bNavFlag12**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:52941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52941)
-
 ___
 
 ### bNavFlag13
 
 • **bNavFlag13**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52942)
 
 ___
 
@@ -148,19 +112,11 @@ ___
 
 • **bNavFlag14**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:52943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52943)
-
 ___
 
 ### bNavFlag15
 
 • **bNavFlag15**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52944)
 
 ___
 
@@ -168,19 +124,11 @@ ___
 
 • **bNavFlag2**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:52931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52931)
-
 ___
 
 ### bNavFlag3
 
 • **bNavFlag3**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52932)
 
 ___
 
@@ -188,19 +136,11 @@ ___
 
 • **bNavFlag4**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:52933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52933)
-
 ___
 
 ### bNavFlag5
 
 • **bNavFlag5**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52934)
 
 ___
 
@@ -208,19 +148,11 @@ ___
 
 • **bNavFlag6**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:52935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52935)
-
 ___
 
 ### bNavFlag7
 
 • **bNavFlag7**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52936)
 
 ___
 
@@ -228,19 +160,11 @@ ___
 
 • **bNavFlag8**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:52937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52937)
-
 ___
 
 ### bNavFlag9
 
 • **bNavFlag9**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52938)
 
 ## Methods
 
@@ -256,10 +180,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:52948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52948)
-
 ___
 
 ### StaticStruct
@@ -269,7 +189,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:52949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52949)

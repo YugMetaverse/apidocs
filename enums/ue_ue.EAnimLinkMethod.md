@@ -20,19 +20,11 @@
 
 • **Absolute** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2985)
-
 ___
 
 ### EAnimLinkMethod\_MAX
 
 • **EAnimLinkMethod\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2985)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Proportional** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2985)
-
 ___
 
 ### Relative
 
 • **Relative** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2985)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2985)

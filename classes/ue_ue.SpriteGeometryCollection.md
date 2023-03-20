@@ -33,10 +33,6 @@
 
 • **new SpriteGeometryCollection**()
 
-#### Defined in
-
-[ue/ue.d.ts:54486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54486)
-
 • **new SpriteGeometryCollection**(`Shapes`, `GeometryType`, `PixelsPerSubdivisionX`, `PixelsPerSubdivisionY`, `bAvoidVertexMerging`, `AlphaThreshold`, `DetailAmount`, `SimplifyEpsilon`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `DetailAmount` | `number` |
 | `SimplifyEpsilon` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:54487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54487)
-
 ## Properties
 
 ### AlphaThreshold
 
 • **AlphaThreshold**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:54493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54493)
 
 ___
 
@@ -72,19 +60,11 @@ ___
 
 • **DetailAmount**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:54494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54494)
-
 ___
 
 ### GeometryType
 
 • **GeometryType**: [`ESpritePolygonMode`](../enums/ue_ue.ESpritePolygonMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54489)
 
 ___
 
@@ -92,19 +72,11 @@ ___
 
 • **PixelsPerSubdivisionX**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:54490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54490)
-
 ___
 
 ### PixelsPerSubdivisionY
 
 • **PixelsPerSubdivisionY**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:54491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54491)
 
 ___
 
@@ -112,19 +84,11 @@ ___
 
 • **Shapes**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SpriteGeometryShape`](ue_ue.SpriteGeometryShape.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:54488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54488)
-
 ___
 
 ### SimplifyEpsilon
 
 • **SimplifyEpsilon**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:54495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54495)
 
 ___
 
@@ -132,19 +96,11 @@ ___
 
 • `Private` **\_\_tid\_SpriteGeometryCollection\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:54501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54501)
-
 ___
 
 ### bAvoidVertexMerging
 
 • **bAvoidVertexMerging**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54492)
 
 ## Methods
 
@@ -160,10 +116,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54499)
-
 ___
 
 ### StaticStruct
@@ -173,7 +125,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54500)

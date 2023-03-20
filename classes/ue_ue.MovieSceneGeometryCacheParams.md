@@ -34,10 +34,6 @@
 
 • **new MovieSceneGeometryCacheParams**()
 
-#### Defined in
-
-[ue/ue.d.ts:51883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51883)
-
 • **new MovieSceneGeometryCacheParams**(`GeometryCacheAsset`, `FirstLoopStartFrameOffset`, `StartFrameOffset`, `EndFrameOffset`, `PlayRate`, `bReverse`, `StartOffset`, `EndOffset`, `GeometryCache`)
 
 #### Parameters
@@ -54,19 +50,11 @@
 | `EndOffset` | `number` |
 | `GeometryCache` | [`SoftObjectPath`](ue_ue.SoftObjectPath.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:51884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51884)
-
 ## Properties
 
 ### EndFrameOffset
 
 • **EndFrameOffset**: [`FrameNumber`](ue_ue.FrameNumber.md)
-
-#### Defined in
-
-[ue/ue.d.ts:51888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51888)
 
 ___
 
@@ -74,19 +62,11 @@ ___
 
 • **EndOffset**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:51892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51892)
-
 ___
 
 ### FirstLoopStartFrameOffset
 
 • **FirstLoopStartFrameOffset**: [`FrameNumber`](ue_ue.FrameNumber.md)
-
-#### Defined in
-
-[ue/ue.d.ts:51886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51886)
 
 ___
 
@@ -94,19 +74,11 @@ ___
 
 • **GeometryCache**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:51893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51893)
-
 ___
 
 ### GeometryCacheAsset
 
 • **GeometryCacheAsset**: [`GeometryCache`](ue_ue.GeometryCache.md)
-
-#### Defined in
-
-[ue/ue.d.ts:51885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51885)
 
 ___
 
@@ -114,19 +86,11 @@ ___
 
 • **PlayRate**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:51889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51889)
-
 ___
 
 ### StartFrameOffset
 
 • **StartFrameOffset**: [`FrameNumber`](ue_ue.FrameNumber.md)
-
-#### Defined in
-
-[ue/ue.d.ts:51887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51887)
 
 ___
 
@@ -134,29 +98,17 @@ ___
 
 • **StartOffset**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:51891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51891)
-
 ___
 
 ### \_\_tid\_MovieSceneGeometryCacheParams\_\_
 
 • `Private` **\_\_tid\_MovieSceneGeometryCacheParams\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:51899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51899)
-
 ___
 
 ### bReverse
 
 • **bReverse**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:51890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51890)
 
 ## Methods
 
@@ -172,10 +124,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:51897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51897)
-
 ___
 
 ### StaticStruct
@@ -185,7 +133,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:51898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51898)

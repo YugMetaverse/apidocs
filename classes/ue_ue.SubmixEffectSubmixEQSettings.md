@@ -26,10 +26,6 @@
 
 • **new SubmixEffectSubmixEQSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:62641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62641)
-
 • **new SubmixEffectSubmixEQSettings**(`EQBands`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `EQBands` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SubmixEffectEQBand`](ue_ue.SubmixEffectEQBand.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:62642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62642)
-
 ## Properties
 
 ### EQBands
 
 • **EQBands**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SubmixEffectEQBand`](ue_ue.SubmixEffectEQBand.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:62643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62643)
-
 ___
 
 ### \_\_tid\_SubmixEffectSubmixEQSettings\_\_
 
 • `Private` **\_\_tid\_SubmixEffectSubmixEQSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:62649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62649)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:62647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62647)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:62648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62648)

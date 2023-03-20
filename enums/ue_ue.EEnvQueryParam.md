@@ -20,19 +20,11 @@
 
 • **Bool** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33838)
-
 ___
 
 ### EEnvQueryParam\_MAX
 
 • **EEnvQueryParam\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33838)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Float** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33838)
-
 ___
 
 ### Int
 
 • **Int** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33838)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33838)

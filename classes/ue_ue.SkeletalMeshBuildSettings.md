@@ -36,10 +36,6 @@
 
 • **new SkeletalMeshBuildSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:2632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2632)
-
 • **new SkeletalMeshBuildSettings**(`bRecomputeNormals`, `bRecomputeTangents`, `bUseMikkTSpace`, `bComputeWeightedNormals`, `bRemoveDegenerates`, `bUseHighPrecisionTangentBasis`, `bUseFullPrecisionUVs`, `bBuildAdjacencyBuffer`, `ThresholdPosition`, `ThresholdTangentNormal`, `ThresholdUV`)
 
 #### Parameters
@@ -58,19 +54,11 @@
 | `ThresholdTangentNormal` | `number` |
 | `ThresholdUV` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:2633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2633)
-
 ## Properties
 
 ### ThresholdPosition
 
 • **ThresholdPosition**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2642)
 
 ___
 
@@ -78,19 +66,11 @@ ___
 
 • **ThresholdTangentNormal**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2643)
-
 ___
 
 ### ThresholdUV
 
 • **ThresholdUV**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2644)
 
 ___
 
@@ -98,19 +78,11 @@ ___
 
 • `Private` **\_\_tid\_SkeletalMeshBuildSettings\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:2650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2650)
-
 ___
 
 ### bBuildAdjacencyBuffer
 
 • **bBuildAdjacencyBuffer**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2641)
 
 ___
 
@@ -118,19 +90,11 @@ ___
 
 • **bComputeWeightedNormals**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:2637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2637)
-
 ___
 
 ### bRecomputeNormals
 
 • **bRecomputeNormals**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2634)
 
 ___
 
@@ -138,19 +102,11 @@ ___
 
 • **bRecomputeTangents**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:2635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2635)
-
 ___
 
 ### bRemoveDegenerates
 
 • **bRemoveDegenerates**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2638)
 
 ___
 
@@ -158,29 +114,17 @@ ___
 
 • **bUseFullPrecisionUVs**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:2640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2640)
-
 ___
 
 ### bUseHighPrecisionTangentBasis
 
 • **bUseHighPrecisionTangentBasis**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:2639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2639)
-
 ___
 
 ### bUseMikkTSpace
 
 • **bUseMikkTSpace**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2636)
 
 ## Methods
 
@@ -196,10 +140,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2648)
-
 ___
 
 ### StaticStruct
@@ -209,7 +149,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2649)

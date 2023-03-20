@@ -20,19 +20,11 @@
 
 • **Both** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34807)
-
 ___
 
 ### DownOnly
 
 • **DownOnly** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34807)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **EStretchDirection\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34807)
-
 ___
 
 ### UpOnly
 
 • **UpOnly** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34807)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34807)

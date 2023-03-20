@@ -30,10 +30,6 @@
 
 • **new ChaosBreakEvent**()
 
-#### Defined in
-
-[ue/ue.d.ts:26749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26749)
-
 • **new ChaosBreakEvent**(`Component`, `Location`, `Velocity`, `AngularVelocity`, `Mass`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `AngularVelocity` | [`Vector`](ue_ue_s.Vector.md) |
 | `Mass` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:26750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26750)
-
 ## Properties
 
 ### AngularVelocity
 
 • **AngularVelocity**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26754)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **Component**: [`PrimitiveComponent`](ue_ue.PrimitiveComponent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26751)
-
 ___
 
 ### Location
 
 • **Location**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26752](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26752)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **Mass**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26755)
-
 ___
 
 ### Velocity
 
 • **Velocity**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26753)
-
 ___
 
 ### \_\_tid\_ChaosBreakEvent\_\_
 
 • `Private` **\_\_tid\_ChaosBreakEvent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26761](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26761)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26759)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26760](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26760)

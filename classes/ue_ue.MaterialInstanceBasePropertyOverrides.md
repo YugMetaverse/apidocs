@@ -37,10 +37,6 @@
 
 • **new MaterialInstanceBasePropertyOverrides**()
 
-#### Defined in
-
-[ue/ue.d.ts:2012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2012)
-
 • **new MaterialInstanceBasePropertyOverrides**(`bOverride_OpacityMaskClipValue`, `bOverride_BlendMode`, `bOverride_ShadingModel`, `bOverride_DitheredLODTransition`, `bOverride_CastDynamicShadowAsMasked`, `bOverride_TwoSided`, `TwoSided`, `DitheredLODTransition`, `bCastDynamicShadowAsMasked`, `BlendMode`, `ShadingModel`, `OpacityMaskClipValue`)
 
 #### Parameters
@@ -60,19 +56,11 @@
 | `ShadingModel` | [`EMaterialShadingModel`](../enums/ue_ue.EMaterialShadingModel.md) |
 | `OpacityMaskClipValue` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:2013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2013)
-
 ## Properties
 
 ### BlendMode
 
 • **BlendMode**: [`EBlendMode`](../enums/ue_ue.EBlendMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2023)
 
 ___
 
@@ -80,19 +68,11 @@ ___
 
 • **DitheredLODTransition**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:2021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2021)
-
 ___
 
 ### OpacityMaskClipValue
 
 • **OpacityMaskClipValue**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2025)
 
 ___
 
@@ -100,19 +80,11 @@ ___
 
 • **ShadingModel**: [`EMaterialShadingModel`](../enums/ue_ue.EMaterialShadingModel.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2024)
-
 ___
 
 ### TwoSided
 
 • **TwoSided**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2020)
 
 ___
 
@@ -120,19 +92,11 @@ ___
 
 • `Private` **\_\_tid\_MaterialInstanceBasePropertyOverrides\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:2031](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2031)
-
 ___
 
 ### bCastDynamicShadowAsMasked
 
 • **bCastDynamicShadowAsMasked**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2022)
 
 ___
 
@@ -140,19 +104,11 @@ ___
 
 • **bOverride\_BlendMode**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:2015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2015)
-
 ___
 
 ### bOverride\_CastDynamicShadowAsMasked
 
 • **bOverride\_CastDynamicShadowAsMasked**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2018)
 
 ___
 
@@ -160,19 +116,11 @@ ___
 
 • **bOverride\_DitheredLODTransition**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:2017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2017)
-
 ___
 
 ### bOverride\_OpacityMaskClipValue
 
 • **bOverride\_OpacityMaskClipValue**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2014)
 
 ___
 
@@ -180,19 +128,11 @@ ___
 
 • **bOverride\_ShadingModel**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:2016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2016)
-
 ___
 
 ### bOverride\_TwoSided
 
 • **bOverride\_TwoSided**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2019)
 
 ## Methods
 
@@ -208,10 +148,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2029](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2029)
-
 ___
 
 ### StaticStruct
@@ -221,7 +157,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2030](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2030)

@@ -27,10 +27,6 @@
 
 • **new PolygonGroupForPolygon**()
 
-#### Defined in
-
-[ue/ue.d.ts:31945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31945)
-
 • **new PolygonGroupForPolygon**(`PolygonID`, `PolygonGroupID`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `PolygonID` | [`PolygonID`](ue_ue.PolygonID.md) |
 | `PolygonGroupID` | [`PolygonGroupID`](ue_ue.PolygonGroupID.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:31946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31946)
-
 ## Properties
 
 ### PolygonGroupID
 
 • **PolygonGroupID**: [`PolygonGroupID`](ue_ue.PolygonGroupID.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31948)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **PolygonID**: [`PolygonID`](ue_ue.PolygonID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31947)
-
 ___
 
 ### \_\_tid\_PolygonGroupForPolygon\_\_
 
 • `Private` **\_\_tid\_PolygonGroupForPolygon\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31954)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31952)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31953)

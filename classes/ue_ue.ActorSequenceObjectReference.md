@@ -28,10 +28,6 @@
 
 • **new ActorSequenceObjectReference**()
 
-#### Defined in
-
-[ue/ue.d.ts:14084](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14084)
-
 • **new ActorSequenceObjectReference**(`Type`, `ActorId`, `PathToComponent`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `ActorId` | [`Guid`](ue_ue_s.Guid.md) |
 | `PathToComponent` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:14085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14085)
-
 ## Properties
 
 ### ActorId
 
 • **ActorId**: [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14087)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **PathToComponent**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:14088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14088)
-
 ___
 
 ### Type
 
 • **Type**: [`EActorSequenceObjectReferenceType`](../enums/ue_ue.EActorSequenceObjectReferenceType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14086](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14086)
-
 ___
 
 ### \_\_tid\_ActorSequenceObjectReference\_\_
 
 • `Private` **\_\_tid\_ActorSequenceObjectReference\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14094](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14094)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14092)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14093](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14093)

@@ -29,10 +29,6 @@
 
 • **new PointWeightMap**()
 
-#### Defined in
-
-[ue/ue.d.ts:27740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27740)
-
 • **new PointWeightMap**(`Name`, `CurrentTarget`, `Values`, `bEnabled`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `Values` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\> |
 | `bEnabled` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:27741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27741)
-
 ## Properties
 
 ### CurrentTarget
 
 • **CurrentTarget**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27743)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:27742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27742)
-
 ___
 
 ### Values
 
 • **Values**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:27744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27744)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • `Private` **\_\_tid\_PointWeightMap\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:27751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27751)
-
 ___
 
 ### bEnabled
 
 • **bEnabled**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27745)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27749)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27750)

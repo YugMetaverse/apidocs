@@ -26,10 +26,6 @@
 
 • **new SmartName**()
 
-#### Defined in
-
-[ue/ue.d.ts:2689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2689)
-
 • **new SmartName**(`DisplayName`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `DisplayName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:2690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2690)
-
 ## Properties
 
 ### DisplayName
 
 • **DisplayName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:2691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2691)
-
 ___
 
 ### \_\_tid\_SmartName\_\_
 
 • `Private` **\_\_tid\_SmartName\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2697](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2697)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2695)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2696](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2696)

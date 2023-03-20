@@ -29,19 +29,11 @@
 
 • **CheatCommands** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10186)
-
 ___
 
 ### ClientTravelFailure
 
 • **ClientTravelFailure** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10186)
 
 ___
 
@@ -49,19 +41,11 @@ ___
 
 • **CloudSaveFailure** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10186)
-
 ___
 
 ### ETravelFailure\_MAX
 
 • **ETravelFailure\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10186)
 
 ___
 
@@ -69,19 +53,11 @@ ___
 
 • **InvalidURL** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10186)
-
 ___
 
 ### LoadMapFailure
 
 • **LoadMapFailure** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10186)
 
 ___
 
@@ -89,19 +65,11 @@ ___
 
 • **NoDownload** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10186)
-
 ___
 
 ### NoLevel
 
 • **NoLevel** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10186)
 
 ___
 
@@ -109,19 +77,11 @@ ___
 
 • **PackageMissing** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10186)
-
 ___
 
 ### PackageVersion
 
 • **PackageVersion** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10186)
 
 ___
 
@@ -129,19 +89,11 @@ ___
 
 • **PendingNetGameCreateFailure** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10186)
-
 ___
 
 ### ServerTravelFailure
 
 • **ServerTravelFailure** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10186)
 
 ___
 
@@ -149,16 +101,8 @@ ___
 
 • **TravelFailure** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10186)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10186)

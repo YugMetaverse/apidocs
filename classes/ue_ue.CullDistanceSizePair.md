@@ -27,10 +27,6 @@
 
 • **new CullDistanceSizePair**()
 
-#### Defined in
-
-[ue/ue.d.ts:29011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29011)
-
 • **new CullDistanceSizePair**(`Size`, `CullDistance`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Size` | `number` |
 | `CullDistance` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:29012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29012)
-
 ## Properties
 
 ### CullDistance
 
 • **CullDistance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29014)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Size**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29013)
-
 ___
 
 ### \_\_tid\_CullDistanceSizePair\_\_
 
 • `Private` **\_\_tid\_CullDistanceSizePair\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29020)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29018)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29019)

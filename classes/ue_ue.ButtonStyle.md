@@ -45,10 +45,6 @@
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[constructor](ue_ue.SlateWidgetStyle.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:25607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25607)
-
 • **new ButtonStyle**(`Normal`, `Hovered`, `Pressed`, `Disabled`, `NormalPadding`, `PressedPadding`, `PressedSlateSound`, `HoveredSlateSound`, `PressedSound`, `HoveredSound`)
 
 #### Parameters
@@ -70,19 +66,11 @@
 
 UE.SlateWidgetStyle.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:25608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25608)
-
 ## Properties
 
 ### Disabled
 
 • **Disabled**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25612)
 
 ___
 
@@ -90,19 +78,11 @@ ___
 
 • **Hovered**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25610)
-
 ___
 
 ### HoveredSlateSound
 
 • **HoveredSlateSound**: [`SlateSound`](ue_ue.SlateSound.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25616)
 
 ___
 
@@ -110,19 +90,11 @@ ___
 
 • **HoveredSound**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:25618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25618)
-
 ___
 
 ### Normal
 
 • **Normal**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25609)
 
 ___
 
@@ -130,19 +102,11 @@ ___
 
 • **NormalPadding**: [`Margin`](ue_ue.Margin.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25613)
-
 ___
 
 ### Pressed
 
 • **Pressed**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25611](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25611)
 
 ___
 
@@ -150,19 +114,11 @@ ___
 
 • **PressedPadding**: [`Margin`](ue_ue.Margin.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25614)
-
 ___
 
 ### PressedSlateSound
 
 • **PressedSlateSound**: [`SlateSound`](ue_ue.SlateSound.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25615)
 
 ___
 
@@ -170,19 +126,11 @@ ___
 
 • **PressedSound**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:25617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25617)
-
 ___
 
 ### \_\_tid\_ButtonStyle\_\_
 
 • `Private` **\_\_tid\_ButtonStyle\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:25624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25624)
 
 ## Methods
 
@@ -202,10 +150,6 @@ use StaticStruct instead.
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[StaticClass](ue_ue.SlateWidgetStyle.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:25622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25622)
-
 ___
 
 ### StaticStruct
@@ -219,7 +163,3 @@ ___
 #### Overrides
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[StaticStruct](ue_ue.SlateWidgetStyle.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:25623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25623)

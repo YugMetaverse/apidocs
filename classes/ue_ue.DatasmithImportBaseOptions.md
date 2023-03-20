@@ -33,10 +33,6 @@
 
 • **new DatasmithImportBaseOptions**()
 
-#### Defined in
-
-[ue/ue.d.ts:29446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29446)
-
 • **new DatasmithImportBaseOptions**(`SceneHandling`, `bIncludeGeometry`, `bIncludeMaterial`, `bIncludeLight`, `bIncludeCamera`, `bIncludeAnimation`, `AssetOptions`, `StaticMeshOptions`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `AssetOptions` | [`DatasmithAssetImportOptions`](ue_ue.DatasmithAssetImportOptions.md) |
 | `StaticMeshOptions` | [`DatasmithStaticMeshImportOptions`](ue_ue.DatasmithStaticMeshImportOptions.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:29447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29447)
-
 ## Properties
 
 ### AssetOptions
 
 • **AssetOptions**: [`DatasmithAssetImportOptions`](ue_ue.DatasmithAssetImportOptions.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29454)
 
 ___
 
@@ -72,19 +60,11 @@ ___
 
 • **SceneHandling**: [`EDatasmithImportScene`](../enums/ue_ue.EDatasmithImportScene.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29448)
-
 ___
 
 ### StaticMeshOptions
 
 • **StaticMeshOptions**: [`DatasmithStaticMeshImportOptions`](ue_ue.DatasmithStaticMeshImportOptions.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29455)
 
 ___
 
@@ -92,19 +72,11 @@ ___
 
 • `Private` **\_\_tid\_DatasmithImportBaseOptions\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:29461](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29461)
-
 ___
 
 ### bIncludeAnimation
 
 • **bIncludeAnimation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29453)
 
 ___
 
@@ -112,19 +84,11 @@ ___
 
 • **bIncludeCamera**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:29452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29452)
-
 ___
 
 ### bIncludeGeometry
 
 • **bIncludeGeometry**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29449)
 
 ___
 
@@ -132,19 +96,11 @@ ___
 
 • **bIncludeLight**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:29451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29451)
-
 ___
 
 ### bIncludeMaterial
 
 • **bIncludeMaterial**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29450)
 
 ## Methods
 
@@ -160,10 +116,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29459](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29459)
-
 ___
 
 ### StaticStruct
@@ -173,7 +125,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29460](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29460)

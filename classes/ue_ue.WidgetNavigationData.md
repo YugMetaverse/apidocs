@@ -29,10 +29,6 @@
 
 • **new WidgetNavigationData**()
 
-#### Defined in
-
-[ue/ue.d.ts:10745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10745)
-
 • **new WidgetNavigationData**(`Rule`, `WidgetToFocus`, `Widget`, `CustomDelegate`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `Widget` | [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`Widget`](ue_ue.Widget.md)\> |
 | `CustomDelegate` | [`$Delegate`](../interfaces/ue_puerts._Delegate.md)<(`Navigation`: [`EUINavigation`](../enums/ue_ue.EUINavigation.md)) => [`Widget`](ue_ue.Widget.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:10746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10746)
-
 ## Properties
 
 ### CustomDelegate
 
 • **CustomDelegate**: [`$Delegate`](../interfaces/ue_puerts._Delegate.md)<(`Navigation`: [`EUINavigation`](../enums/ue_ue.EUINavigation.md)) => [`Widget`](ue_ue.Widget.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:10750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10750)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **Rule**: [`EUINavigationRule`](../enums/ue_ue.EUINavigationRule.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10747)
-
 ___
 
 ### Widget
 
 • **Widget**: [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`Widget`](ue_ue.Widget.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:10749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10749)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **WidgetToFocus**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:10748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10748)
-
 ___
 
 ### \_\_tid\_WidgetNavigationData\_\_
 
 • `Private` **\_\_tid\_WidgetNavigationData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10756)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10754)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10755)

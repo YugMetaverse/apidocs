@@ -27,10 +27,6 @@
 
 • **new EventPayload**()
 
-#### Defined in
-
-[ue/ue.d.ts:51769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51769)
-
 • **new EventPayload**(`EventName`, `Parameters`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `EventName` | `string` |
 | `Parameters` | [`MovieSceneEventParameters`](ue_ue.MovieSceneEventParameters.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:51770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51770)
-
 ## Properties
 
 ### EventName
 
 • **EventName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:51771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51771)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Parameters**: [`MovieSceneEventParameters`](ue_ue.MovieSceneEventParameters.md)
 
-#### Defined in
-
-[ue/ue.d.ts:51772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51772)
-
 ___
 
 ### \_\_tid\_EventPayload\_\_
 
 • `Private` **\_\_tid\_EventPayload\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:51778](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51778)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:51776](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51776)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:51777](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51777)

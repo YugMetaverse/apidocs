@@ -23,19 +23,11 @@
 
 • **SMOI\_High** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2655)
-
 ___
 
 ### SMOI\_Highest
 
 • **SMOI\_Highest** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2655)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **SMOI\_Low** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2655)
-
 ___
 
 ### SMOI\_Lowest
 
 • **SMOI\_Lowest** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2655)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **SMOI\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2655)
-
 ___
 
 ### SMOI\_Normal
 
 • **SMOI\_Normal** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2655)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **SMOI\_Off** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2655)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2655)

@@ -20,19 +20,11 @@
 
 • **Default** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L351)
-
 ___
 
 ### ELightmapType\_MAX
 
 • **ELightmapType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L351)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **ForceSurface** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L351)
-
 ___
 
 ### ForceVolumetric
 
 • **ForceVolumetric** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L351)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L351)

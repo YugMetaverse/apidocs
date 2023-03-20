@@ -20,19 +20,11 @@
 
 • **BRS\_CopyFromTarget** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18478)
-
 ___
 
 ### BRS\_KeepComponentSpaceRotation
 
 • **BRS\_KeepComponentSpaceRotation** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18478)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **BRS\_KeepLocalSpaceRotation** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18478)
-
 ___
 
 ### BRS\_MAX
 
 • **BRS\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18478)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18478)

@@ -19,19 +19,11 @@
 
 • **ILT\_IndividualActors** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33902)
-
 ___
 
 ### ILT\_MAX
 
 • **ILT\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33902)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **ILT\_PaintedFoliage** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33902)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33902)

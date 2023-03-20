@@ -29,10 +29,6 @@
 
 • **new MovieSceneEvaluationField**()
 
-#### Defined in
-
-[ue/ue.d.ts:11303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11303)
-
 • **new MovieSceneEvaluationField**(`Signature`, `Ranges`, `Groups`, `MetaData`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `Groups` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MovieSceneEvaluationGroup`](ue_ue.MovieSceneEvaluationGroup.md)\> |
 | `MetaData` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MovieSceneEvaluationMetaData`](ue_ue.MovieSceneEvaluationMetaData.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:11304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11304)
-
 ## Properties
 
 ### Groups
 
 • **Groups**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MovieSceneEvaluationGroup`](ue_ue.MovieSceneEvaluationGroup.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:11307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11307)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **MetaData**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MovieSceneEvaluationMetaData`](ue_ue.MovieSceneEvaluationMetaData.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:11308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11308)
-
 ___
 
 ### Ranges
 
 • **Ranges**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MovieSceneFrameRange`](ue_ue.MovieSceneFrameRange.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:11306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11306)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **Signature**: [`Guid`](ue_ue_s.Guid.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11305)
-
 ___
 
 ### \_\_tid\_MovieSceneEvaluationField\_\_
 
 • `Private` **\_\_tid\_MovieSceneEvaluationField\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11314)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11312)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11313)

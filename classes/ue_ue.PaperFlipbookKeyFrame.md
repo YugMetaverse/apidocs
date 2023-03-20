@@ -27,10 +27,6 @@
 
 • **new PaperFlipbookKeyFrame**()
 
-#### Defined in
-
-[ue/ue.d.ts:54584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54584)
-
 • **new PaperFlipbookKeyFrame**(`Sprite`, `FrameRun`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Sprite` | [`PaperSprite`](ue_ue.PaperSprite.md) |
 | `FrameRun` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:54585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54585)
-
 ## Properties
 
 ### FrameRun
 
 • **FrameRun**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:54587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54587)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Sprite**: [`PaperSprite`](ue_ue.PaperSprite.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54586)
-
 ___
 
 ### \_\_tid\_PaperFlipbookKeyFrame\_\_
 
 • `Private` **\_\_tid\_PaperFlipbookKeyFrame\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54593)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54591)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54592)

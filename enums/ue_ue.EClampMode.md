@@ -20,19 +20,11 @@
 
 • **CMODE\_Clamp** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31396)
-
 ___
 
 ### CMODE\_ClampMax
 
 • **CMODE\_ClampMax** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31396)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **CMODE\_ClampMin** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31396)
-
 ___
 
 ### CMODE\_MAX
 
 • **CMODE\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31396)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31396)

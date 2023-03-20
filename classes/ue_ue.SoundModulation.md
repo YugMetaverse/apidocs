@@ -26,10 +26,6 @@
 
 • **new SoundModulation**()
 
-#### Defined in
-
-[ue/ue.d.ts:8902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8902)
-
 • **new SoundModulation**(`Settings`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Settings` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SoundModulationPluginSourceSettingsBase`](ue_ue.SoundModulationPluginSourceSettingsBase.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:8903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8903)
-
 ## Properties
 
 ### Settings
 
 • **Settings**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SoundModulationPluginSourceSettingsBase`](ue_ue.SoundModulationPluginSourceSettingsBase.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:8904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8904)
-
 ___
 
 ### \_\_tid\_SoundModulation\_\_
 
 • `Private` **\_\_tid\_SoundModulation\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8910)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8908)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8909)

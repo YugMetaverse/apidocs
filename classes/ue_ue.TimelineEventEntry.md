@@ -27,10 +27,6 @@
 
 • **new TimelineEventEntry**()
 
-#### Defined in
-
-[ue/ue.d.ts:63540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63540)
-
 • **new TimelineEventEntry**(`Time`, `EventFunc`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Time` | `number` |
 | `EventFunc` | [`$Delegate`](../interfaces/ue_puerts._Delegate.md)<() => `void`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:63541](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63541)
-
 ## Properties
 
 ### EventFunc
 
 • **EventFunc**: [`$Delegate`](../interfaces/ue_puerts._Delegate.md)<() => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:63543](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63543)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Time**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:63542](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63542)
-
 ___
 
 ### \_\_tid\_TimelineEventEntry\_\_
 
 • `Private` **\_\_tid\_TimelineEventEntry\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:63549](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63549)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63547)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63548)

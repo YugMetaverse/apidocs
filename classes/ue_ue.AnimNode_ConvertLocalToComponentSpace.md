@@ -36,10 +36,6 @@
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[constructor](ue_ue.AnimNode_Base.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:18847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18847)
-
 • **new AnimNode_ConvertLocalToComponentSpace**(`LocalPose`)
 
 #### Parameters
@@ -52,29 +48,17 @@
 
 UE.AnimNode\_Base.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:18848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18848)
-
 ## Properties
 
 ### LocalPose
 
 • **LocalPose**: [`PoseLink`](ue_ue.PoseLink.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18849)
-
 ___
 
 ### \_\_tid\_AnimNode\_ConvertLocalToComponentSpace\_\_
 
 • `Private` **\_\_tid\_AnimNode\_ConvertLocalToComponentSpace\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18855](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18855)
 
 ## Methods
 
@@ -94,10 +78,6 @@ use StaticStruct instead.
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticClass](ue_ue.AnimNode_Base.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:18853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18853)
-
 ___
 
 ### StaticStruct
@@ -111,7 +91,3 @@ ___
 #### Overrides
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticStruct](ue_ue.AnimNode_Base.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:18854](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18854)

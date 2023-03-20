@@ -61,19 +61,11 @@
 
 [VectorField](ue_ue.VectorField.md).[constructor](ue_ue.VectorField.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:65069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65069)
-
 ## Properties
 
 ### AssetImportData
 
 • **AssetImportData**: [`AssetImportData`](ue_ue.AssetImportData.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65076)
 
 ___
 
@@ -85,19 +77,11 @@ ___
 
 [VectorField](ue_ue.VectorField.md).[Bounds](ue_ue.VectorField.md#bounds)
 
-#### Defined in
-
-[ue/ue.d.ts:56432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56432)
-
 ___
 
 ### CPUData
 
 • **CPUData**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Vector4`](ue_ue_s.Vector4.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:65074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65074)
 
 ___
 
@@ -109,19 +93,11 @@ ___
 
 [VectorField](ue_ue.VectorField.md).[Intensity](ue_ue.VectorField.md#intensity)
 
-#### Defined in
-
-[ue/ue.d.ts:56433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56433)
-
 ___
 
 ### SizeX
 
 • **SizeX**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:65070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65070)
 
 ___
 
@@ -129,29 +105,17 @@ ___
 
 • **SizeY**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:65071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65071)
-
 ___
 
 ### SizeZ
 
 • **SizeZ**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:65072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65072)
-
 ___
 
 ### SourceFilePath
 
 • **SourceFilePath**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:65075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65075)
 
 ___
 
@@ -163,19 +127,11 @@ ___
 
 [VectorField](ue_ue.VectorField.md).[__tid_Object__](ue_ue.VectorField.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_VectorFieldStatic\_\_
 
 • **\_\_tid\_VectorFieldStatic\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:65081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65081)
 
 ___
 
@@ -187,19 +143,11 @@ ___
 
 [VectorField](ue_ue.VectorField.md).[__tid_VectorField__](ue_ue.VectorField.md#__tid_vectorfield__)
 
-#### Defined in
-
-[ue/ue.d.ts:56438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56438)
-
 ___
 
 ### bAllowCPUAccess
 
 • **bAllowCPUAccess**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:65073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65073)
 
 ## Methods
 
@@ -225,10 +173,6 @@ ___
 
 [VectorField](ue_ue.VectorField.md).[CreateDefaultSubobject](ue_ue.VectorField.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -249,10 +193,6 @@ ___
 
 [VectorField](ue_ue.VectorField.md).[ExecuteUbergraph](ue_ue.VectorField.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -266,10 +206,6 @@ ___
 #### Inherited from
 
 [VectorField](ue_ue.VectorField.md).[GetClass](ue_ue.VectorField.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -285,10 +221,6 @@ ___
 
 [VectorField](ue_ue.VectorField.md).[GetName](ue_ue.VectorField.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -303,10 +235,6 @@ ___
 
 [VectorField](ue_ue.VectorField.md).[GetOuter](ue_ue.VectorField.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -320,10 +248,6 @@ ___
 #### Inherited from
 
 [VectorField](ue_ue.VectorField.md).[GetWorld](ue_ue.VectorField.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -346,10 +270,6 @@ ___
 
 [VectorField](ue_ue.VectorField.md).[Find](ue_ue.VectorField.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:65078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65078)
-
 ___
 
 ### Load
@@ -370,10 +290,6 @@ ___
 
 [VectorField](ue_ue.VectorField.md).[Load](ue_ue.VectorField.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:65079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65079)
-
 ___
 
 ### StaticClass
@@ -387,7 +303,3 @@ ___
 #### Overrides
 
 [VectorField](ue_ue.VectorField.md).[StaticClass](ue_ue.VectorField.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:65077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65077)

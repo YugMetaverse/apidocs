@@ -21,19 +21,11 @@
 
 • **VAlign\_Bottom** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:23416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23416)
-
 ___
 
 ### VAlign\_Center
 
 • **VAlign\_Center** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:23416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23416)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **VAlign\_Fill** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:23416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23416)
-
 ___
 
 ### VAlign\_MAX
 
 • **VAlign\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:23416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23416)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **VAlign\_Top** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:23416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23416)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:23416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23416)

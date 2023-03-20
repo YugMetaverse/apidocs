@@ -19,19 +19,11 @@
 
 • **CheckBox** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27107](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27107)
-
 ___
 
 ### ESlateCheckBoxType\_MAX
 
 • **ESlateCheckBoxType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27107](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27107)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **ToggleButton** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27107](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27107)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27107](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27107)

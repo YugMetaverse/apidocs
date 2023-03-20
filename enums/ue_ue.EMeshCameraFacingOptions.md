@@ -30,19 +30,11 @@
 
 • **EMeshCameraFacingOptions\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34045)
-
 ___
 
 ### LockedAxis\_NegativeYAxisFacing
 
 • **LockedAxis\_NegativeYAxisFacing** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34045)
 
 ___
 
@@ -50,19 +42,11 @@ ___
 
 • **LockedAxis\_NegativeZAxisFacing** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34045)
-
 ___
 
 ### LockedAxis\_YAxisFacing
 
 • **LockedAxis\_YAxisFacing** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34045)
 
 ___
 
@@ -70,19 +54,11 @@ ___
 
 • **LockedAxis\_ZAxisFacing** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34045)
-
 ___
 
 ### VelocityAligned\_NegativeYAxisFacing
 
 • **VelocityAligned\_NegativeYAxisFacing** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34045)
 
 ___
 
@@ -90,19 +66,11 @@ ___
 
 • **VelocityAligned\_NegativeZAxisFacing** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34045)
-
 ___
 
 ### VelocityAligned\_YAxisFacing
 
 • **VelocityAligned\_YAxisFacing** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34045)
 
 ___
 
@@ -110,19 +78,11 @@ ___
 
 • **VelocityAligned\_ZAxisFacing** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34045)
-
 ___
 
 ### XAxisFacing\_NegativeYUp
 
 • **XAxisFacing\_NegativeYUp** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34045)
 
 ___
 
@@ -130,19 +90,11 @@ ___
 
 • **XAxisFacing\_NegativeZUp** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34045)
-
 ___
 
 ### XAxisFacing\_NoUp
 
 • **XAxisFacing\_NoUp** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34045)
 
 ___
 
@@ -150,26 +102,14 @@ ___
 
 • **XAxisFacing\_YUp** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34045)
-
 ___
 
 ### XAxisFacing\_ZUp
 
 • **XAxisFacing\_ZUp** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34045)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34045)

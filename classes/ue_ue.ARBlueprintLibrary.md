@@ -89,19 +89,11 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[constructor](ue_ue.BlueprintFunctionLibrary.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:21098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21098)
-
 ## Properties
 
 ### \_\_tid\_ARBlueprintLibrary\_\_
 
 • **\_\_tid\_ARBlueprintLibrary\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21140)
 
 ___
 
@@ -113,10 +105,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_BlueprintFunctionLibrary__](ue_ue.BlueprintFunctionLibrary.md#__tid_blueprintfunctionlibrary__)
 
-#### Defined in
-
-[ue/ue.d.ts:13418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13418)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -126,10 +114,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_Object__](ue_ue.BlueprintFunctionLibrary.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -155,10 +139,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[CreateDefaultSubobject](ue_ue.BlueprintFunctionLibrary.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -179,10 +159,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[ExecuteUbergraph](ue_ue.BlueprintFunctionLibrary.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -196,10 +172,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetClass](ue_ue.BlueprintFunctionLibrary.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -215,10 +187,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetName](ue_ue.BlueprintFunctionLibrary.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -233,10 +201,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetOuter](ue_ue.BlueprintFunctionLibrary.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -250,10 +214,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetWorld](ue_ue.BlueprintFunctionLibrary.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -271,10 +231,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21099](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21099)
 
 ___
 
@@ -294,10 +250,6 @@ ___
 #### Returns
 
 [`ARCandidateImage`](ue_ue.ARCandidateImage.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21100](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21100)
 
 ___
 
@@ -319,10 +271,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:21101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21101)
-
 ___
 
 ### DebugDrawTrackedGeometry
@@ -342,10 +290,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:21102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21102)
 
 ___
 
@@ -368,10 +312,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Find](ue_ue.BlueprintFunctionLibrary.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:21137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21137)
-
 ___
 
 ### GetARSessionStatus
@@ -381,10 +321,6 @@ ___
 #### Returns
 
 [`ARSessionStatus`](ue_ue.ARSessionStatus.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21111)
 
 ___
 
@@ -396,10 +332,6 @@ ___
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ARTrackedGeometry`](ue_ue.ARTrackedGeometry.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:21103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21103)
-
 ___
 
 ### GetAllPins
@@ -409,10 +341,6 @@ ___
 #### Returns
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ARPin`](ue_ue.ARPin.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:21104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21104)
 
 ___
 
@@ -424,10 +352,6 @@ ___
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ARPose2D`](ue_ue.ARPose2D.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:21105](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21105)
-
 ___
 
 ### GetAllTrackedEnvironmentCaptureProbes
@@ -437,10 +361,6 @@ ___
 #### Returns
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AREnvironmentCaptureProbe`](ue_ue.AREnvironmentCaptureProbe.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:21106](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21106)
 
 ___
 
@@ -452,10 +372,6 @@ ___
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ARTrackedImage`](ue_ue.ARTrackedImage.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:21107](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21107)
-
 ___
 
 ### GetAllTrackedPlanes
@@ -465,10 +381,6 @@ ___
 #### Returns
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ARPlaneGeometry`](ue_ue.ARPlaneGeometry.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:21108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21108)
 
 ___
 
@@ -480,10 +392,6 @@ ___
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ARTrackedPoint`](ue_ue.ARTrackedPoint.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:21109](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21109)
-
 ___
 
 ### GetAllTrackedPoses
@@ -493,10 +401,6 @@ ___
 #### Returns
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ARTrackedPose`](ue_ue.ARTrackedPose.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:21110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21110)
 
 ___
 
@@ -508,10 +412,6 @@ ___
 
 [`ARTextureCameraDepth`](ue_ue.ARTextureCameraDepth.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21112)
-
 ___
 
 ### GetCameraImage
@@ -521,10 +421,6 @@ ___
 #### Returns
 
 [`ARTextureCameraImage`](ue_ue.ARTextureCameraImage.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21113)
 
 ___
 
@@ -536,10 +432,6 @@ ___
 
 [`ARLightEstimate`](ue_ue.ARLightEstimate.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21114](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21114)
-
 ___
 
 ### GetPersonSegmentationDepthImage
@@ -549,10 +441,6 @@ ___
 #### Returns
 
 [`ARTextureCameraImage`](ue_ue.ARTextureCameraImage.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21115)
 
 ___
 
@@ -564,10 +452,6 @@ ___
 
 [`ARTextureCameraImage`](ue_ue.ARTextureCameraImage.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21116)
-
 ___
 
 ### GetPointCloud
@@ -578,10 +462,6 @@ ___
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Vector`](ue_ue_s.Vector.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:21117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21117)
-
 ___
 
 ### GetSessionConfig
@@ -591,10 +471,6 @@ ___
 #### Returns
 
 [`ARSessionConfig`](ue_ue.ARSessionConfig.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21118)
 
 ___
 
@@ -612,10 +488,6 @@ ___
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ARVideoFormat`](ue_ue.ARVideoFormat.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:21119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21119)
-
 ___
 
 ### GetTrackingQuality
@@ -625,10 +497,6 @@ ___
 #### Returns
 
 [`EARTrackingQuality`](../enums/ue_ue.EARTrackingQuality.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21120)
 
 ___
 
@@ -640,10 +508,6 @@ ___
 
 [`EARTrackingQualityReason`](../enums/ue_ue.EARTrackingQualityReason.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21121)
-
 ___
 
 ### GetWorldMappingStatus
@@ -654,10 +518,6 @@ ___
 
 [`EARWorldMappingState`](../enums/ue_ue.EARWorldMappingState.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21122)
-
 ___
 
 ### IsARSupported
@@ -667,10 +527,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21123)
 
 ___
 
@@ -689,10 +545,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:21124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21124)
-
 ___
 
 ### IsSessionTypeSupported
@@ -708,10 +560,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21125)
 
 ___
 
@@ -732,10 +580,6 @@ ___
 #### Returns
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ARTraceResult`](ue_ue.ARTraceResult.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:21126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21126)
 
 ___
 
@@ -758,10 +602,6 @@ ___
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ARTraceResult`](ue_ue.ARTraceResult.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:21127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21127)
-
 ___
 
 ### Load
@@ -782,10 +622,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Load](ue_ue.BlueprintFunctionLibrary.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:21138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21138)
-
 ___
 
 ### PauseARSession
@@ -795,10 +631,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:21128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21128)
 
 ___
 
@@ -819,10 +651,6 @@ ___
 
 [`ARPin`](ue_ue.ARPin.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21129)
-
 ___
 
 ### PinComponentToTraceResult
@@ -841,10 +669,6 @@ ___
 
 [`ARPin`](ue_ue.ARPin.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21130)
-
 ___
 
 ### RemovePin
@@ -860,10 +684,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:21131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21131)
 
 ___
 
@@ -881,10 +701,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:21132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21132)
-
 ___
 
 ### StartARSession
@@ -901,10 +717,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:21133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21133)
-
 ___
 
 ### StaticClass
@@ -919,10 +731,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[StaticClass](ue_ue.BlueprintFunctionLibrary.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:21136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21136)
-
 ___
 
 ### StopARSession
@@ -932,10 +740,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:21134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21134)
 
 ___
 
@@ -952,7 +756,3 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:21135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21135)

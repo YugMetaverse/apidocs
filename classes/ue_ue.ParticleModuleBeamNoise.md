@@ -87,19 +87,11 @@
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[constructor](ue_ue.ParticleModuleBeamBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:55417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55417)
-
 ## Properties
 
 ### Frequency
 
 • **Frequency**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:55419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55419)
 
 ___
 
@@ -107,19 +99,11 @@ ___
 
 • **FrequencyDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:55435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55435)
-
 ___
 
 ### Frequency\_LowRange
 
 • **Frequency\_LowRange**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:55420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55420)
 
 ___
 
@@ -131,10 +115,6 @@ ___
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[LODDuplicate](ue_ue.ParticleModuleBeamBase.md#lodduplicate)
 
-#### Defined in
-
-[ue/ue.d.ts:6745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6745)
-
 ___
 
 ### LODValidity
@@ -144,10 +124,6 @@ ___
 #### Inherited from
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[LODValidity](ue_ue.ParticleModuleBeamBase.md#lodvalidity)
-
-#### Defined in
-
-[ue/ue.d.ts:6748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6748)
 
 ___
 
@@ -159,19 +135,11 @@ ___
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[ModuleEditorColor](ue_ue.ParticleModuleBeamBase.md#moduleeditorcolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6749)
-
 ___
 
 ### NoiseLockRadius
 
 • **NoiseLockRadius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:55426](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55426)
 
 ___
 
@@ -179,19 +147,11 @@ ___
 
 • **NoiseLockTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:55429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55429)
-
 ___
 
 ### NoiseRange
 
 • **NoiseRange**: [`RawDistributionVector`](ue_ue.RawDistributionVector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:55421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55421)
 
 ___
 
@@ -199,19 +159,11 @@ ___
 
 • **NoiseRangeScale**: [`RawDistributionFloat`](ue_ue.RawDistributionFloat.md)
 
-#### Defined in
-
-[ue/ue.d.ts:55422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55422)
-
 ___
 
 ### NoiseScale
 
 • **NoiseScale**: [`RawDistributionFloat`](ue_ue.RawDistributionFloat.md)
-
-#### Defined in
-
-[ue/ue.d.ts:55437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55437)
 
 ___
 
@@ -219,19 +171,11 @@ ___
 
 • **NoiseSpeed**: [`RawDistributionVector`](ue_ue.RawDistributionVector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:55424](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55424)
-
 ___
 
 ### NoiseTangentStrength
 
 • **NoiseTangentStrength**: [`RawDistributionFloat`](ue_ue.RawDistributionFloat.md)
-
-#### Defined in
-
-[ue/ue.d.ts:55432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55432)
 
 ___
 
@@ -239,19 +183,11 @@ ___
 
 • **NoiseTension**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:55430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55430)
-
 ___
 
 ### NoiseTessellation
 
 • **NoiseTessellation**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:55433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55433)
 
 ___
 
@@ -263,10 +199,6 @@ ___
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[__tid_Object__](ue_ue.ParticleModuleBeamBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ParticleModuleBeamBase\_\_
@@ -277,19 +209,11 @@ ___
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[__tid_ParticleModuleBeamBase__](ue_ue.ParticleModuleBeamBase.md#__tid_particlemodulebeambase__)
 
-#### Defined in
-
-[ue/ue.d.ts:55382](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55382)
-
 ___
 
 ### \_\_tid\_ParticleModuleBeamNoise\_\_
 
 • **\_\_tid\_ParticleModuleBeamNoise\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55442](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55442)
 
 ___
 
@@ -301,10 +225,6 @@ ___
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[__tid_ParticleModule__](ue_ue.ParticleModuleBeamBase.md#__tid_particlemodule__)
 
-#### Defined in
-
-[ue/ue.d.ts:6754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6754)
-
 ___
 
 ### b3DDrawMode
@@ -315,19 +235,11 @@ ___
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[b3DDrawMode](ue_ue.ParticleModuleBeamBase.md#b3ddrawmode)
 
-#### Defined in
-
-[ue/ue.d.ts:6741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6741)
-
 ___
 
 ### bApplyNoiseScale
 
 • **bApplyNoiseScale**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55436)
 
 ___
 
@@ -339,10 +251,6 @@ ___
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[bCurvesAsColor](ue_ue.ParticleModuleBeamBase.md#bcurvesascolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6740)
-
 ___
 
 ### bEditable
@@ -352,10 +260,6 @@ ___
 #### Inherited from
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[bEditable](ue_ue.ParticleModuleBeamBase.md#beditable)
-
-#### Defined in
-
-[ue/ue.d.ts:6744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6744)
 
 ___
 
@@ -367,10 +271,6 @@ ___
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[bEnabled](ue_ue.ParticleModuleBeamBase.md#benabled)
 
-#### Defined in
-
-[ue/ue.d.ts:6743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6743)
-
 ___
 
 ### bFinalUpdateModule
@@ -381,19 +281,11 @@ ___
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[bFinalUpdateModule](ue_ue.ParticleModuleBeamBase.md#bfinalupdatemodule)
 
-#### Defined in
-
-[ue/ue.d.ts:6738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6738)
-
 ___
 
 ### bLowFreq\_Enabled
 
 • **bLowFreq\_Enabled**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55418)
 
 ___
 
@@ -401,29 +293,17 @@ ___
 
 • **bNRScaleEmitterTime**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:55423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55423)
-
 ___
 
 ### bNoiseLock
 
 • **bNoiseLock**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:55427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55427)
-
 ___
 
 ### bOscillate
 
 • **bOscillate**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55428)
 
 ___
 
@@ -435,19 +315,11 @@ ___
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[bRequiresLoopingNotification](ue_ue.ParticleModuleBeamBase.md#brequiresloopingnotification)
 
-#### Defined in
-
-[ue/ue.d.ts:6747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6747)
-
 ___
 
 ### bSmooth
 
 • **bSmooth**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55425)
 
 ___
 
@@ -459,10 +331,6 @@ ___
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[bSpawnModule](ue_ue.ParticleModuleBeamBase.md#bspawnmodule)
 
-#### Defined in
-
-[ue/ue.d.ts:6736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6736)
-
 ___
 
 ### bSupported3DDrawMode
@@ -472,10 +340,6 @@ ___
 #### Inherited from
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[bSupported3DDrawMode](ue_ue.ParticleModuleBeamBase.md#bsupported3ddrawmode)
-
-#### Defined in
-
-[ue/ue.d.ts:6742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6742)
 
 ___
 
@@ -487,19 +351,11 @@ ___
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[bSupportsRandomSeed](ue_ue.ParticleModuleBeamBase.md#bsupportsrandomseed)
 
-#### Defined in
-
-[ue/ue.d.ts:6746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6746)
-
 ___
 
 ### bTargetNoise
 
 • **bTargetNoise**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55434)
 
 ___
 
@@ -511,10 +367,6 @@ ___
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[bUpdateForGPUEmitter](ue_ue.ParticleModuleBeamBase.md#bupdateforgpuemitter)
 
-#### Defined in
-
-[ue/ue.d.ts:6739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6739)
-
 ___
 
 ### bUpdateModule
@@ -525,19 +377,11 @@ ___
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[bUpdateModule](ue_ue.ParticleModuleBeamBase.md#bupdatemodule)
 
-#### Defined in
-
-[ue/ue.d.ts:6737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6737)
-
 ___
 
 ### bUseNoiseTangents
 
 • **bUseNoiseTangents**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55431](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55431)
 
 ## Methods
 
@@ -563,10 +407,6 @@ ___
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[CreateDefaultSubobject](ue_ue.ParticleModuleBeamBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -587,10 +427,6 @@ ___
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[ExecuteUbergraph](ue_ue.ParticleModuleBeamBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -604,10 +440,6 @@ ___
 #### Inherited from
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[GetClass](ue_ue.ParticleModuleBeamBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -623,10 +455,6 @@ ___
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[GetName](ue_ue.ParticleModuleBeamBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -641,10 +469,6 @@ ___
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[GetOuter](ue_ue.ParticleModuleBeamBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -658,10 +482,6 @@ ___
 #### Inherited from
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[GetWorld](ue_ue.ParticleModuleBeamBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -684,10 +504,6 @@ ___
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[Find](ue_ue.ParticleModuleBeamBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:55439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55439)
-
 ___
 
 ### Load
@@ -708,10 +524,6 @@ ___
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[Load](ue_ue.ParticleModuleBeamBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:55440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55440)
-
 ___
 
 ### StaticClass
@@ -725,7 +537,3 @@ ___
 #### Overrides
 
 [ParticleModuleBeamBase](ue_ue.ParticleModuleBeamBase.md).[StaticClass](ue_ue.ParticleModuleBeamBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:55438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55438)

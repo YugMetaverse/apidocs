@@ -24,19 +24,11 @@
 
 • **CSD\_DocumentConflictDetected** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31399)
-
 ___
 
 ### CSD\_DocumentQueryComplete
 
 • **CSD\_DocumentQueryComplete** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31399)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **CSD\_DocumentReadComplete** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31399)
-
 ___
 
 ### CSD\_DocumentWriteComplete
 
 • **CSD\_DocumentWriteComplete** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31399)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **CSD\_KeyValueReadComplete** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31399)
-
 ___
 
 ### CSD\_KeyValueWriteComplete
 
 • **CSD\_KeyValueWriteComplete** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31399)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **CSD\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31399)
-
 ___
 
 ### CSD\_ValueChanged
 
 • **CSD\_ValueChanged** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31399)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31399)

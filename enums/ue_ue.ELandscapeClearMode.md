@@ -20,19 +20,11 @@
 
 • **Clear\_All** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33921)
-
 ___
 
 ### Clear\_Heightmap
 
 • **Clear\_Heightmap** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33921)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Clear\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33921)
-
 ___
 
 ### Clear\_Weightmap
 
 • **Clear\_Weightmap** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33921)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33921)

@@ -20,19 +20,11 @@
 
 • **BlendByWeight** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18616)
-
 ___
 
 ### ECurveBlendOption\_MAX
 
 • **ECurveBlendOption\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18616)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **MaxWeight** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18616)
-
 ___
 
 ### NormalizeByWeight
 
 • **NormalizeByWeight** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18616)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18616)

@@ -66,10 +66,6 @@
 
 [VectorFieldStaticFactory](ue_ue.VectorFieldStaticFactory.md).[constructor](ue_ue.VectorFieldStaticFactory.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:59424](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59424)
-
 ## Properties
 
 ### AssetImportTask
@@ -79,10 +75,6 @@
 #### Inherited from
 
 [VectorFieldStaticFactory](ue_ue.VectorFieldStaticFactory.md).[AssetImportTask](ue_ue.VectorFieldStaticFactory.md#assetimporttask)
-
-#### Defined in
-
-[ue/ue.d.ts:15338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15338)
 
 ___
 
@@ -94,10 +86,6 @@ ___
 
 [VectorFieldStaticFactory](ue_ue.VectorFieldStaticFactory.md).[AutomatedImportData](ue_ue.VectorFieldStaticFactory.md#automatedimportdata)
 
-#### Defined in
-
-[ue/ue.d.ts:15337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15337)
-
 ___
 
 ### ContextClass
@@ -107,10 +95,6 @@ ___
 #### Inherited from
 
 [VectorFieldStaticFactory](ue_ue.VectorFieldStaticFactory.md).[ContextClass](ue_ue.VectorFieldStaticFactory.md#contextclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15331)
 
 ___
 
@@ -122,10 +106,6 @@ ___
 
 [VectorFieldStaticFactory](ue_ue.VectorFieldStaticFactory.md).[Formats](ue_ue.VectorFieldStaticFactory.md#formats)
 
-#### Defined in
-
-[ue/ue.d.ts:15332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15332)
-
 ___
 
 ### ImportPriority
@@ -135,10 +115,6 @@ ___
 #### Inherited from
 
 [VectorFieldStaticFactory](ue_ue.VectorFieldStaticFactory.md).[ImportPriority](ue_ue.VectorFieldStaticFactory.md#importpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:15336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15336)
 
 ___
 
@@ -150,10 +126,6 @@ ___
 
 [VectorFieldStaticFactory](ue_ue.VectorFieldStaticFactory.md).[OverwriteYesOrNoToAllState](ue_ue.VectorFieldStaticFactory.md#overwriteyesornotoallstate)
 
-#### Defined in
-
-[ue/ue.d.ts:15339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15339)
-
 ___
 
 ### SupportedClass
@@ -163,10 +135,6 @@ ___
 #### Inherited from
 
 [VectorFieldStaticFactory](ue_ue.VectorFieldStaticFactory.md).[SupportedClass](ue_ue.VectorFieldStaticFactory.md#supportedclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15330)
 
 ___
 
@@ -178,10 +146,6 @@ ___
 
 [VectorFieldStaticFactory](ue_ue.VectorFieldStaticFactory.md).[__tid_Factory__](ue_ue.VectorFieldStaticFactory.md#__tid_factory__)
 
-#### Defined in
-
-[ue/ue.d.ts:15346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15346)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -192,19 +156,11 @@ ___
 
 [VectorFieldStaticFactory](ue_ue.VectorFieldStaticFactory.md).[__tid_Object__](ue_ue.VectorFieldStaticFactory.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ReimportVectorFieldStaticFactory\_\_
 
 • **\_\_tid\_ReimportVectorFieldStaticFactory\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59429)
 
 ___
 
@@ -216,10 +172,6 @@ ___
 
 [VectorFieldStaticFactory](ue_ue.VectorFieldStaticFactory.md).[__tid_VectorFieldStaticFactory__](ue_ue.VectorFieldStaticFactory.md#__tid_vectorfieldstaticfactory__)
 
-#### Defined in
-
-[ue/ue.d.ts:59420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59420)
-
 ___
 
 ### bCreateNew
@@ -229,10 +181,6 @@ ___
 #### Inherited from
 
 [VectorFieldStaticFactory](ue_ue.VectorFieldStaticFactory.md).[bCreateNew](ue_ue.VectorFieldStaticFactory.md#bcreatenew)
-
-#### Defined in
-
-[ue/ue.d.ts:15329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15329)
 
 ___
 
@@ -244,10 +192,6 @@ ___
 
 [VectorFieldStaticFactory](ue_ue.VectorFieldStaticFactory.md).[bEditAfterNew](ue_ue.VectorFieldStaticFactory.md#beditafternew)
 
-#### Defined in
-
-[ue/ue.d.ts:15333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15333)
-
 ___
 
 ### bEditorImport
@@ -258,10 +202,6 @@ ___
 
 [VectorFieldStaticFactory](ue_ue.VectorFieldStaticFactory.md).[bEditorImport](ue_ue.VectorFieldStaticFactory.md#beditorimport)
 
-#### Defined in
-
-[ue/ue.d.ts:15334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15334)
-
 ___
 
 ### bText
@@ -271,10 +211,6 @@ ___
 #### Inherited from
 
 [VectorFieldStaticFactory](ue_ue.VectorFieldStaticFactory.md).[bText](ue_ue.VectorFieldStaticFactory.md#btext)
-
-#### Defined in
-
-[ue/ue.d.ts:15335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15335)
 
 ## Methods
 
@@ -300,10 +236,6 @@ ___
 
 [VectorFieldStaticFactory](ue_ue.VectorFieldStaticFactory.md).[CreateDefaultSubobject](ue_ue.VectorFieldStaticFactory.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -324,10 +256,6 @@ ___
 
 [VectorFieldStaticFactory](ue_ue.VectorFieldStaticFactory.md).[ExecuteUbergraph](ue_ue.VectorFieldStaticFactory.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -341,10 +269,6 @@ ___
 #### Inherited from
 
 [VectorFieldStaticFactory](ue_ue.VectorFieldStaticFactory.md).[GetClass](ue_ue.VectorFieldStaticFactory.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -360,10 +284,6 @@ ___
 
 [VectorFieldStaticFactory](ue_ue.VectorFieldStaticFactory.md).[GetName](ue_ue.VectorFieldStaticFactory.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -378,10 +298,6 @@ ___
 
 [VectorFieldStaticFactory](ue_ue.VectorFieldStaticFactory.md).[GetOuter](ue_ue.VectorFieldStaticFactory.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -395,10 +311,6 @@ ___
 #### Inherited from
 
 [VectorFieldStaticFactory](ue_ue.VectorFieldStaticFactory.md).[GetWorld](ue_ue.VectorFieldStaticFactory.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -420,10 +332,6 @@ ___
 
 [VectorFieldStaticFactory](ue_ue.VectorFieldStaticFactory.md).[ScriptFactoryCanImport](ue_ue.VectorFieldStaticFactory.md#scriptfactorycanimport)
 
-#### Defined in
-
-[ue/ue.d.ts:15340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15340)
-
 ___
 
 ### ScriptFactoryCreateFile
@@ -443,10 +351,6 @@ ___
 #### Inherited from
 
 [VectorFieldStaticFactory](ue_ue.VectorFieldStaticFactory.md).[ScriptFactoryCreateFile](ue_ue.VectorFieldStaticFactory.md#scriptfactorycreatefile)
-
-#### Defined in
-
-[ue/ue.d.ts:15341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15341)
 
 ___
 
@@ -469,10 +373,6 @@ ___
 
 [VectorFieldStaticFactory](ue_ue.VectorFieldStaticFactory.md).[Find](ue_ue.VectorFieldStaticFactory.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:59426](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59426)
-
 ___
 
 ### Load
@@ -493,10 +393,6 @@ ___
 
 [VectorFieldStaticFactory](ue_ue.VectorFieldStaticFactory.md).[Load](ue_ue.VectorFieldStaticFactory.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:59427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59427)
-
 ___
 
 ### StaticClass
@@ -510,7 +406,3 @@ ___
 #### Overrides
 
 [VectorFieldStaticFactory](ue_ue.VectorFieldStaticFactory.md).[StaticClass](ue_ue.VectorFieldStaticFactory.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:59425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59425)

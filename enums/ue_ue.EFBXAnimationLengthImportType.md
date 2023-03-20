@@ -20,19 +20,11 @@
 
 • **FBXALIT\_AnimatedKey** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33848)
-
 ___
 
 ### FBXALIT\_ExportedTime
 
 • **FBXALIT\_ExportedTime** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33848)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **FBXALIT\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33848)
-
 ___
 
 ### FBXALIT\_SetRange
 
 • **FBXALIT\_SetRange** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33848)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33848)

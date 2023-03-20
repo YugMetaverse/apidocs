@@ -25,19 +25,11 @@
 
 • `Optional` **HorizontalAlignment**: [`EHorizontalAlignment`](../enums/ue_ue.EHorizontalAlignment.md)
 
-#### Defined in
-
-[react-umg/index.d.ts:104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L104)
-
 ___
 
 ### Padding
 
 • `Optional` **Padding**: [`RecursivePartial`](../modules/react_umg.md#recursivepartial)<[`Margin`](../classes/ue_ue.Margin.md)\>
-
-#### Defined in
-
-[react-umg/index.d.ts:103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L103)
 
 ___
 
@@ -45,16 +37,8 @@ ___
 
 • `Optional` **Size**: [`RecursivePartial`](../modules/react_umg.md#recursivepartial)<[`SlateChildSize`](../classes/ue_ue.SlateChildSize.md)\>
 
-#### Defined in
-
-[react-umg/index.d.ts:102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L102)
-
 ___
 
 ### VerticalAlignment
 
 • `Optional` **VerticalAlignment**: [`EVerticalAlignment`](../enums/ue_ue.EVerticalAlignment.md)
-
-#### Defined in
-
-[react-umg/index.d.ts:105](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L105)

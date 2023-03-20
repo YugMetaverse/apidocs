@@ -27,10 +27,6 @@
 
 • **new HapticFeedbackDetails_Curve**()
 
-#### Defined in
-
-[ue/ue.d.ts:38444](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38444)
-
 • **new HapticFeedbackDetails_Curve**(`Frequency`, `Amplitude`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Frequency` | [`RuntimeFloatCurve`](ue_ue.RuntimeFloatCurve.md) |
 | `Amplitude` | [`RuntimeFloatCurve`](ue_ue.RuntimeFloatCurve.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:38445](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38445)
-
 ## Properties
 
 ### Amplitude
 
 • **Amplitude**: [`RuntimeFloatCurve`](ue_ue.RuntimeFloatCurve.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38447)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Frequency**: [`RuntimeFloatCurve`](ue_ue.RuntimeFloatCurve.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38446)
-
 ___
 
 ### \_\_tid\_HapticFeedbackDetails\_Curve\_\_
 
 • `Private` **\_\_tid\_HapticFeedbackDetails\_Curve\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38453)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38451)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38452)

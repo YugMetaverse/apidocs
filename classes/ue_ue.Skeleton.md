@@ -65,19 +65,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:2537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2537)
-
 ## Properties
 
 ### AdditionalPreviewSkeletalMeshes
 
 • **AdditionalPreviewSkeletalMeshes**: [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`DataAsset`](ue_ue.DataAsset.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:2547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2547)
 
 ___
 
@@ -85,19 +77,11 @@ ___
 
 • **AnimationNotifies**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:2549](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2549)
-
 ___
 
 ### AssetUserData
 
 • **AssetUserData**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AssetUserData`](ue_ue.AssetUserData.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:2551](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2551)
 
 ___
 
@@ -105,19 +89,11 @@ ___
 
 • **BlendProfiles**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BlendProfile`](ue_ue.BlendProfile.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:2544](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2544)
-
 ___
 
 ### BoneTree
 
 • **BoneTree**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BoneNode`](ue_ue.BoneNode.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:2538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2538)
 
 ___
 
@@ -125,19 +101,11 @@ ___
 
 • **PreviewAttachedAssetContainer**: [`PreviewAssetAttachContainer`](ue_ue.PreviewAssetAttachContainer.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2550](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2550)
-
 ___
 
 ### PreviewSkeletalMesh
 
 • **PreviewSkeletalMesh**: [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`SkeletalMesh`](ue_ue.SkeletalMesh.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:2546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2546)
 
 ___
 
@@ -145,19 +113,11 @@ ___
 
 • **RefLocalPoses**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Transform`](ue_ue_s.Transform.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:2539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2539)
-
 ___
 
 ### RigConfig
 
 • **RigConfig**: [`RigConfiguration`](ue_ue.RigConfiguration.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2548)
 
 ___
 
@@ -165,19 +125,11 @@ ___
 
 • **SlotGroups**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AnimSlotGroup`](ue_ue.AnimSlotGroup.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:2545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2545)
-
 ___
 
 ### SmartNames
 
 • **SmartNames**: [`SmartNameContainer`](ue_ue.SmartNameContainer.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2543](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2543)
 
 ___
 
@@ -185,29 +137,17 @@ ___
 
 • **Sockets**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SkeletalMeshSocket`](ue_ue.SkeletalMeshSocket.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:2542](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2542)
-
 ___
 
 ### VirtualBoneGuid
 
 • **VirtualBoneGuid**: [`Guid`](ue_ue_s.Guid.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2540)
-
 ___
 
 ### VirtualBones
 
 • **VirtualBones**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`VirtualBone`](ue_ue.VirtualBone.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:2541](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2541)
 
 ___
 
@@ -219,19 +159,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_Skeleton\_\_
 
 • **\_\_tid\_Skeleton\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2556)
 
 ## Methods
 
@@ -257,10 +189,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -281,10 +209,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -298,10 +222,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -317,10 +237,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -335,10 +251,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -352,10 +264,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -378,10 +286,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:2553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2553)
-
 ___
 
 ### Load
@@ -402,10 +306,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:2554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2554)
-
 ___
 
 ### StaticClass
@@ -419,7 +319,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:2552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2552)

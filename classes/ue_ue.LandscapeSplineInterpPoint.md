@@ -35,10 +35,6 @@
 
 • **new LandscapeSplineInterpPoint**()
 
-#### Defined in
-
-[ue/ue.d.ts:43639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43639)
-
 • **new LandscapeSplineInterpPoint**(`Center`, `Left`, `Right`, `FalloffLeft`, `FalloffRight`, `LayerLeft`, `LayerRight`, `LayerFalloffLeft`, `LayerFalloffRight`, `StartEndFalloff`)
 
 #### Parameters
@@ -56,19 +52,11 @@
 | `LayerFalloffRight` | [`Vector`](ue_ue_s.Vector.md) |
 | `StartEndFalloff` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:43640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43640)
-
 ## Properties
 
 ### Center
 
 • **Center**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43641)
 
 ___
 
@@ -76,19 +64,11 @@ ___
 
 • **FalloffLeft**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43644)
-
 ___
 
 ### FalloffRight
 
 • **FalloffRight**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43645)
 
 ___
 
@@ -96,19 +76,11 @@ ___
 
 • **LayerFalloffLeft**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43648)
-
 ___
 
 ### LayerFalloffRight
 
 • **LayerFalloffRight**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43649)
 
 ___
 
@@ -116,19 +88,11 @@ ___
 
 • **LayerLeft**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43646)
-
 ___
 
 ### LayerRight
 
 • **LayerRight**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43647)
 
 ___
 
@@ -136,19 +100,11 @@ ___
 
 • **Left**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43642)
-
 ___
 
 ### Right
 
 • **Right**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43643)
 
 ___
 
@@ -156,19 +112,11 @@ ___
 
 • **StartEndFalloff**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:43650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43650)
-
 ___
 
 ### \_\_tid\_LandscapeSplineInterpPoint\_\_
 
 • `Private` **\_\_tid\_LandscapeSplineInterpPoint\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43656)
 
 ## Methods
 
@@ -184,10 +132,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43654)
-
 ___
 
 ### StaticStruct
@@ -197,7 +141,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43655)

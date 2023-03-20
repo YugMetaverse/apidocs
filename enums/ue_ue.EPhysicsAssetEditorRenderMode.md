@@ -20,19 +20,11 @@
 
 • **EPhysicsAssetEditorRenderMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34674)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34674)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Solid** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34674)
-
 ___
 
 ### Wireframe
 
 • **Wireframe** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34674)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34674)

@@ -30,10 +30,6 @@
 
 • **new DelegateRuntimeBinding**()
 
-#### Defined in
-
-[ue/ue.d.ts:40658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40658)
-
 • **new DelegateRuntimeBinding**(`ObjectName`, `PropertyName`, `FunctionName`, `SourcePath`, `Kind`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `SourcePath` | [`DynamicPropertyPath`](ue_ue.DynamicPropertyPath.md) |
 | `Kind` | [`EBindingKind`](../enums/ue_ue.EBindingKind.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:40659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40659)
-
 ## Properties
 
 ### FunctionName
 
 • **FunctionName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:40662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40662)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **Kind**: [`EBindingKind`](../enums/ue_ue.EBindingKind.md)
 
-#### Defined in
-
-[ue/ue.d.ts:40664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40664)
-
 ___
 
 ### ObjectName
 
 • **ObjectName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:40660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40660)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **PropertyName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:40661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40661)
-
 ___
 
 ### SourcePath
 
 • **SourcePath**: [`DynamicPropertyPath`](ue_ue.DynamicPropertyPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:40663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40663)
-
 ___
 
 ### \_\_tid\_DelegateRuntimeBinding\_\_
 
 • `Private` **\_\_tid\_DelegateRuntimeBinding\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40670)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:40668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40668)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:40669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40669)

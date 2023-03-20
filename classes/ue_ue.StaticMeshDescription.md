@@ -141,10 +141,6 @@
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[constructor](ue_ue.MeshDescriptionBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:8057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8057)
-
 ## Properties
 
 ### \_\_tid\_MeshDescriptionBase\_\_
@@ -154,10 +150,6 @@
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[__tid_MeshDescriptionBase__](ue_ue.MeshDescriptionBase.md#__tid_meshdescriptionbase__)
-
-#### Defined in
-
-[ue/ue.d.ts:8053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8053)
 
 ___
 
@@ -169,19 +161,11 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[__tid_Object__](ue_ue.MeshDescriptionBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_StaticMeshDescription\_\_
 
 • **\_\_tid\_StaticMeshDescription\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8066)
 
 ## Methods
 
@@ -202,10 +186,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[ComputePolygonTriangulation](ue_ue.MeshDescriptionBase.md#computepolygontriangulation)
-
-#### Defined in
-
-[ue/ue.d.ts:7964](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7964)
 
 ___
 
@@ -231,10 +211,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8058)
-
 ___
 
 ### CreateDefaultSubobject
@@ -259,10 +235,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[CreateDefaultSubobject](ue_ue.MeshDescriptionBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### CreateEdge
@@ -283,10 +255,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[CreateEdge](ue_ue.MeshDescriptionBase.md#createedge)
-
-#### Defined in
-
-[ue/ue.d.ts:7965](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7965)
 
 ___
 
@@ -310,10 +278,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[CreateEdgeWithID](ue_ue.MeshDescriptionBase.md#createedgewithid)
 
-#### Defined in
-
-[ue/ue.d.ts:7966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7966)
-
 ___
 
 ### CreatePolygon
@@ -336,10 +300,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[CreatePolygon](ue_ue.MeshDescriptionBase.md#createpolygon)
 
-#### Defined in
-
-[ue/ue.d.ts:7967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7967)
-
 ___
 
 ### CreatePolygonGroup
@@ -353,10 +313,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[CreatePolygonGroup](ue_ue.MeshDescriptionBase.md#createpolygongroup)
-
-#### Defined in
-
-[ue/ue.d.ts:7968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7968)
 
 ___
 
@@ -377,10 +333,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[CreatePolygonGroupWithID](ue_ue.MeshDescriptionBase.md#createpolygongroupwithid)
-
-#### Defined in
-
-[ue/ue.d.ts:7969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7969)
 
 ___
 
@@ -405,10 +357,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[CreatePolygonWithID](ue_ue.MeshDescriptionBase.md#createpolygonwithid)
 
-#### Defined in
-
-[ue/ue.d.ts:7970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7970)
-
 ___
 
 ### CreateTriangle
@@ -430,10 +378,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[CreateTriangle](ue_ue.MeshDescriptionBase.md#createtriangle)
-
-#### Defined in
-
-[ue/ue.d.ts:7971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7971)
 
 ___
 
@@ -458,10 +402,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[CreateTriangleWithID](ue_ue.MeshDescriptionBase.md#createtrianglewithid)
 
-#### Defined in
-
-[ue/ue.d.ts:7972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7972)
-
 ___
 
 ### CreateVertex
@@ -475,10 +415,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[CreateVertex](ue_ue.MeshDescriptionBase.md#createvertex)
-
-#### Defined in
-
-[ue/ue.d.ts:7973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7973)
 
 ___
 
@@ -499,10 +435,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[CreateVertexInstance](ue_ue.MeshDescriptionBase.md#createvertexinstance)
-
-#### Defined in
-
-[ue/ue.d.ts:7974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7974)
 
 ___
 
@@ -525,10 +457,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[CreateVertexInstanceWithID](ue_ue.MeshDescriptionBase.md#createvertexinstancewithid)
 
-#### Defined in
-
-[ue/ue.d.ts:7975](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7975)
-
 ___
 
 ### CreateVertexWithID
@@ -548,10 +476,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[CreateVertexWithID](ue_ue.MeshDescriptionBase.md#createvertexwithid)
-
-#### Defined in
-
-[ue/ue.d.ts:7976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7976)
 
 ___
 
@@ -573,10 +497,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[DeleteEdge](ue_ue.MeshDescriptionBase.md#deleteedge)
-
-#### Defined in
-
-[ue/ue.d.ts:7977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7977)
 
 ___
 
@@ -601,10 +521,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[DeletePolygon](ue_ue.MeshDescriptionBase.md#deletepolygon)
 
-#### Defined in
-
-[ue/ue.d.ts:7978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7978)
-
 ___
 
 ### DeletePolygonGroup
@@ -624,10 +540,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[DeletePolygonGroup](ue_ue.MeshDescriptionBase.md#deletepolygongroup)
-
-#### Defined in
-
-[ue/ue.d.ts:7979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7979)
 
 ___
 
@@ -652,10 +564,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[DeleteTriangle](ue_ue.MeshDescriptionBase.md#deletetriangle)
 
-#### Defined in
-
-[ue/ue.d.ts:7980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7980)
-
 ___
 
 ### DeleteVertex
@@ -675,10 +583,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[DeleteVertex](ue_ue.MeshDescriptionBase.md#deletevertex)
-
-#### Defined in
-
-[ue/ue.d.ts:7981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7981)
 
 ___
 
@@ -701,10 +605,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[DeleteVertexInstance](ue_ue.MeshDescriptionBase.md#deletevertexinstance)
 
-#### Defined in
-
-[ue/ue.d.ts:7982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7982)
-
 ___
 
 ### Empty
@@ -718,10 +618,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[Empty](ue_ue.MeshDescriptionBase.md#empty)
-
-#### Defined in
-
-[ue/ue.d.ts:7983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7983)
 
 ___
 
@@ -743,10 +639,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[ExecuteUbergraph](ue_ue.MeshDescriptionBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -760,10 +652,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetClass](ue_ue.MeshDescriptionBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -786,10 +674,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetEdgeConnectedPolygons](ue_ue.MeshDescriptionBase.md#getedgeconnectedpolygons)
 
-#### Defined in
-
-[ue/ue.d.ts:7984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7984)
-
 ___
 
 ### GetEdgeConnectedTriangles
@@ -810,10 +694,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetEdgeConnectedTriangles](ue_ue.MeshDescriptionBase.md#getedgeconnectedtriangles)
-
-#### Defined in
-
-[ue/ue.d.ts:7985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7985)
 
 ___
 
@@ -836,10 +716,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetEdgeVertex](ue_ue.MeshDescriptionBase.md#getedgevertex)
 
-#### Defined in
-
-[ue/ue.d.ts:7986](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7986)
-
 ___
 
 ### GetEdgeVertices
@@ -861,10 +737,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetEdgeVertices](ue_ue.MeshDescriptionBase.md#getedgevertices)
 
-#### Defined in
-
-[ue/ue.d.ts:7987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7987)
-
 ___
 
 ### GetName
@@ -878,10 +750,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetName](ue_ue.MeshDescriptionBase.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -903,10 +771,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetNumEdgeConnectedPolygons](ue_ue.MeshDescriptionBase.md#getnumedgeconnectedpolygons)
 
-#### Defined in
-
-[ue/ue.d.ts:7988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7988)
-
 ___
 
 ### GetNumEdgeConnectedTriangles
@@ -926,10 +790,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetNumEdgeConnectedTriangles](ue_ue.MeshDescriptionBase.md#getnumedgeconnectedtriangles)
-
-#### Defined in
-
-[ue/ue.d.ts:7989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7989)
 
 ___
 
@@ -951,10 +811,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetNumPolygonGroupPolygons](ue_ue.MeshDescriptionBase.md#getnumpolygongrouppolygons)
 
-#### Defined in
-
-[ue/ue.d.ts:7990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7990)
-
 ___
 
 ### GetNumPolygonInternalEdges
@@ -974,10 +830,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetNumPolygonInternalEdges](ue_ue.MeshDescriptionBase.md#getnumpolygoninternaledges)
-
-#### Defined in
-
-[ue/ue.d.ts:7991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7991)
 
 ___
 
@@ -999,10 +851,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetNumPolygonTriangles](ue_ue.MeshDescriptionBase.md#getnumpolygontriangles)
 
-#### Defined in
-
-[ue/ue.d.ts:7992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7992)
-
 ___
 
 ### GetNumPolygonVertices
@@ -1022,10 +870,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetNumPolygonVertices](ue_ue.MeshDescriptionBase.md#getnumpolygonvertices)
-
-#### Defined in
-
-[ue/ue.d.ts:7993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7993)
 
 ___
 
@@ -1047,10 +891,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetNumVertexConnectedEdges](ue_ue.MeshDescriptionBase.md#getnumvertexconnectededges)
 
-#### Defined in
-
-[ue/ue.d.ts:7994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7994)
-
 ___
 
 ### GetNumVertexConnectedPolygons
@@ -1070,10 +910,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetNumVertexConnectedPolygons](ue_ue.MeshDescriptionBase.md#getnumvertexconnectedpolygons)
-
-#### Defined in
-
-[ue/ue.d.ts:7995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7995)
 
 ___
 
@@ -1095,10 +931,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetNumVertexConnectedTriangles](ue_ue.MeshDescriptionBase.md#getnumvertexconnectedtriangles)
 
-#### Defined in
-
-[ue/ue.d.ts:7996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7996)
-
 ___
 
 ### GetNumVertexInstanceConnectedPolygons
@@ -1118,10 +950,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetNumVertexInstanceConnectedPolygons](ue_ue.MeshDescriptionBase.md#getnumvertexinstanceconnectedpolygons)
-
-#### Defined in
-
-[ue/ue.d.ts:7997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7997)
 
 ___
 
@@ -1143,10 +971,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetNumVertexInstanceConnectedTriangles](ue_ue.MeshDescriptionBase.md#getnumvertexinstanceconnectedtriangles)
 
-#### Defined in
-
-[ue/ue.d.ts:7998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7998)
-
 ___
 
 ### GetNumVertexVertexInstances
@@ -1167,10 +991,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetNumVertexVertexInstances](ue_ue.MeshDescriptionBase.md#getnumvertexvertexinstances)
 
-#### Defined in
-
-[ue/ue.d.ts:7999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7999)
-
 ___
 
 ### GetOuter
@@ -1184,10 +1004,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetOuter](ue_ue.MeshDescriptionBase.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -1210,10 +1026,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetPolygonAdjacentPolygons](ue_ue.MeshDescriptionBase.md#getpolygonadjacentpolygons)
 
-#### Defined in
-
-[ue/ue.d.ts:8000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8000)
-
 ___
 
 ### GetPolygonGroupPolygons
@@ -1234,10 +1046,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetPolygonGroupPolygons](ue_ue.MeshDescriptionBase.md#getpolygongrouppolygons)
-
-#### Defined in
-
-[ue/ue.d.ts:8001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8001)
 
 ___
 
@@ -1260,10 +1068,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetPolygonInternalEdges](ue_ue.MeshDescriptionBase.md#getpolygoninternaledges)
 
-#### Defined in
-
-[ue/ue.d.ts:8002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8002)
-
 ___
 
 ### GetPolygonPerimeterEdges
@@ -1285,10 +1089,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetPolygonPerimeterEdges](ue_ue.MeshDescriptionBase.md#getpolygonperimeteredges)
 
-#### Defined in
-
-[ue/ue.d.ts:8003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8003)
-
 ___
 
 ### GetPolygonPolygonGroup
@@ -1308,10 +1108,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetPolygonPolygonGroup](ue_ue.MeshDescriptionBase.md#getpolygonpolygongroup)
-
-#### Defined in
-
-[ue/ue.d.ts:8004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8004)
 
 ___
 
@@ -1334,10 +1130,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetPolygonTriangles](ue_ue.MeshDescriptionBase.md#getpolygontriangles)
 
-#### Defined in
-
-[ue/ue.d.ts:8005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8005)
-
 ___
 
 ### GetPolygonVertexInstances
@@ -1358,10 +1150,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetPolygonVertexInstances](ue_ue.MeshDescriptionBase.md#getpolygonvertexinstances)
-
-#### Defined in
-
-[ue/ue.d.ts:8006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8006)
 
 ___
 
@@ -1384,10 +1172,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetPolygonVertices](ue_ue.MeshDescriptionBase.md#getpolygonvertices)
 
-#### Defined in
-
-[ue/ue.d.ts:8007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8007)
-
 ___
 
 ### GetTriangleAdjacentTriangles
@@ -1408,10 +1192,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetTriangleAdjacentTriangles](ue_ue.MeshDescriptionBase.md#gettriangleadjacenttriangles)
-
-#### Defined in
-
-[ue/ue.d.ts:8008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8008)
 
 ___
 
@@ -1434,10 +1214,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetTriangleEdges](ue_ue.MeshDescriptionBase.md#gettriangleedges)
 
-#### Defined in
-
-[ue/ue.d.ts:8009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8009)
-
 ___
 
 ### GetTrianglePolygon
@@ -1458,10 +1234,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetTrianglePolygon](ue_ue.MeshDescriptionBase.md#gettrianglepolygon)
 
-#### Defined in
-
-[ue/ue.d.ts:8010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8010)
-
 ___
 
 ### GetTrianglePolygonGroup
@@ -1481,10 +1253,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetTrianglePolygonGroup](ue_ue.MeshDescriptionBase.md#gettrianglepolygongroup)
-
-#### Defined in
-
-[ue/ue.d.ts:8011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8011)
 
 ___
 
@@ -1507,10 +1275,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetTriangleVertexInstance](ue_ue.MeshDescriptionBase.md#gettrianglevertexinstance)
 
-#### Defined in
-
-[ue/ue.d.ts:8012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8012)
-
 ___
 
 ### GetTriangleVertexInstances
@@ -1531,10 +1295,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetTriangleVertexInstances](ue_ue.MeshDescriptionBase.md#gettrianglevertexinstances)
-
-#### Defined in
-
-[ue/ue.d.ts:8013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8013)
 
 ___
 
@@ -1557,10 +1317,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetTriangleVertices](ue_ue.MeshDescriptionBase.md#gettrianglevertices)
 
-#### Defined in
-
-[ue/ue.d.ts:8014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8014)
-
 ___
 
 ### GetVertexAdjacentVertices
@@ -1581,10 +1337,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetVertexAdjacentVertices](ue_ue.MeshDescriptionBase.md#getvertexadjacentvertices)
-
-#### Defined in
-
-[ue/ue.d.ts:8015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8015)
 
 ___
 
@@ -1607,10 +1359,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetVertexConnectedEdges](ue_ue.MeshDescriptionBase.md#getvertexconnectededges)
 
-#### Defined in
-
-[ue/ue.d.ts:8016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8016)
-
 ___
 
 ### GetVertexConnectedPolygons
@@ -1631,10 +1379,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetVertexConnectedPolygons](ue_ue.MeshDescriptionBase.md#getvertexconnectedpolygons)
-
-#### Defined in
-
-[ue/ue.d.ts:8017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8017)
 
 ___
 
@@ -1657,10 +1401,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetVertexConnectedTriangles](ue_ue.MeshDescriptionBase.md#getvertexconnectedtriangles)
 
-#### Defined in
-
-[ue/ue.d.ts:8018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8018)
-
 ___
 
 ### GetVertexInstanceConnectedPolygons
@@ -1681,10 +1421,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetVertexInstanceConnectedPolygons](ue_ue.MeshDescriptionBase.md#getvertexinstanceconnectedpolygons)
-
-#### Defined in
-
-[ue/ue.d.ts:8019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8019)
 
 ___
 
@@ -1707,10 +1443,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetVertexInstanceConnectedTriangles](ue_ue.MeshDescriptionBase.md#getvertexinstanceconnectedtriangles)
 
-#### Defined in
-
-[ue/ue.d.ts:8020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8020)
-
 ___
 
 ### GetVertexInstanceForPolygonVertex
@@ -1731,10 +1463,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetVertexInstanceForPolygonVertex](ue_ue.MeshDescriptionBase.md#getvertexinstanceforpolygonvertex)
-
-#### Defined in
-
-[ue/ue.d.ts:8021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8021)
 
 ___
 
@@ -1757,10 +1485,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetVertexInstanceForTriangleVertex](ue_ue.MeshDescriptionBase.md#getvertexinstancefortrianglevertex)
 
-#### Defined in
-
-[ue/ue.d.ts:8022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8022)
-
 ___
 
 ### GetVertexInstancePairEdge
@@ -1782,10 +1506,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetVertexInstancePairEdge](ue_ue.MeshDescriptionBase.md#getvertexinstancepairedge)
 
-#### Defined in
-
-[ue/ue.d.ts:8023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8023)
-
 ___
 
 ### GetVertexInstanceUV
@@ -1802,10 +1522,6 @@ ___
 #### Returns
 
 [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8059)
 
 ___
 
@@ -1826,10 +1542,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetVertexInstanceVertex](ue_ue.MeshDescriptionBase.md#getvertexinstancevertex)
-
-#### Defined in
-
-[ue/ue.d.ts:8024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8024)
 
 ___
 
@@ -1852,10 +1564,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetVertexPairEdge](ue_ue.MeshDescriptionBase.md#getvertexpairedge)
 
-#### Defined in
-
-[ue/ue.d.ts:8025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8025)
-
 ___
 
 ### GetVertexPosition
@@ -1875,10 +1583,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetVertexPosition](ue_ue.MeshDescriptionBase.md#getvertexposition)
-
-#### Defined in
-
-[ue/ue.d.ts:8026](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8026)
 
 ___
 
@@ -1901,10 +1605,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetVertexVertexInstances](ue_ue.MeshDescriptionBase.md#getvertexvertexinstances)
 
-#### Defined in
-
-[ue/ue.d.ts:8027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8027)
-
 ___
 
 ### GetWorld
@@ -1918,10 +1618,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[GetWorld](ue_ue.MeshDescriptionBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -1942,10 +1638,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[IsEdgeInternal](ue_ue.MeshDescriptionBase.md#isedgeinternal)
-
-#### Defined in
-
-[ue/ue.d.ts:8028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8028)
 
 ___
 
@@ -1968,10 +1660,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[IsEdgeInternalToPolygon](ue_ue.MeshDescriptionBase.md#isedgeinternaltopolygon)
 
-#### Defined in
-
-[ue/ue.d.ts:8029](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8029)
-
 ___
 
 ### IsEdgeValid
@@ -1992,10 +1680,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[IsEdgeValid](ue_ue.MeshDescriptionBase.md#isedgevalid)
 
-#### Defined in
-
-[ue/ue.d.ts:8030](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8030)
-
 ___
 
 ### IsEmpty
@@ -2009,10 +1693,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[IsEmpty](ue_ue.MeshDescriptionBase.md#isempty)
-
-#### Defined in
-
-[ue/ue.d.ts:8031](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8031)
 
 ___
 
@@ -2034,10 +1714,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[IsPolygonGroupValid](ue_ue.MeshDescriptionBase.md#ispolygongroupvalid)
 
-#### Defined in
-
-[ue/ue.d.ts:8032](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8032)
-
 ___
 
 ### IsPolygonValid
@@ -2057,10 +1733,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[IsPolygonValid](ue_ue.MeshDescriptionBase.md#ispolygonvalid)
-
-#### Defined in
-
-[ue/ue.d.ts:8033](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8033)
 
 ___
 
@@ -2082,10 +1754,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[IsTrianglePartOfNgon](ue_ue.MeshDescriptionBase.md#istrianglepartofngon)
 
-#### Defined in
-
-[ue/ue.d.ts:8034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8034)
-
 ___
 
 ### IsTriangleValid
@@ -2105,10 +1773,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[IsTriangleValid](ue_ue.MeshDescriptionBase.md#istrianglevalid)
-
-#### Defined in
-
-[ue/ue.d.ts:8035](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8035)
 
 ___
 
@@ -2130,10 +1794,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[IsVertexInstanceValid](ue_ue.MeshDescriptionBase.md#isvertexinstancevalid)
 
-#### Defined in
-
-[ue/ue.d.ts:8036](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8036)
-
 ___
 
 ### IsVertexOrphaned
@@ -2153,10 +1813,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[IsVertexOrphaned](ue_ue.MeshDescriptionBase.md#isvertexorphaned)
-
-#### Defined in
-
-[ue/ue.d.ts:8037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8037)
 
 ___
 
@@ -2178,10 +1834,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[IsVertexValid](ue_ue.MeshDescriptionBase.md#isvertexvalid)
 
-#### Defined in
-
-[ue/ue.d.ts:8038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8038)
-
 ___
 
 ### ReserveNewEdges
@@ -2201,10 +1853,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[ReserveNewEdges](ue_ue.MeshDescriptionBase.md#reservenewedges)
-
-#### Defined in
-
-[ue/ue.d.ts:8039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8039)
 
 ___
 
@@ -2226,10 +1874,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[ReserveNewPolygonGroups](ue_ue.MeshDescriptionBase.md#reservenewpolygongroups)
 
-#### Defined in
-
-[ue/ue.d.ts:8040](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8040)
-
 ___
 
 ### ReserveNewPolygons
@@ -2249,10 +1893,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[ReserveNewPolygons](ue_ue.MeshDescriptionBase.md#reservenewpolygons)
-
-#### Defined in
-
-[ue/ue.d.ts:8041](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8041)
 
 ___
 
@@ -2274,10 +1914,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[ReserveNewTriangles](ue_ue.MeshDescriptionBase.md#reservenewtriangles)
 
-#### Defined in
-
-[ue/ue.d.ts:8042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8042)
-
 ___
 
 ### ReserveNewVertexInstances
@@ -2297,10 +1933,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[ReserveNewVertexInstances](ue_ue.MeshDescriptionBase.md#reservenewvertexinstances)
-
-#### Defined in
-
-[ue/ue.d.ts:8043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8043)
 
 ___
 
@@ -2322,10 +1954,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[ReserveNewVertices](ue_ue.MeshDescriptionBase.md#reservenewvertices)
 
-#### Defined in
-
-[ue/ue.d.ts:8044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8044)
-
 ___
 
 ### ReversePolygonFacing
@@ -2346,10 +1974,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[ReversePolygonFacing](ue_ue.MeshDescriptionBase.md#reversepolygonfacing)
 
-#### Defined in
-
-[ue/ue.d.ts:8045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8045)
-
 ___
 
 ### SetPolygonGroupMaterialSlotName
@@ -2366,10 +1990,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8060)
 
 ___
 
@@ -2391,10 +2011,6 @@ ___
 #### Inherited from
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[SetPolygonPolygonGroup](ue_ue.MeshDescriptionBase.md#setpolygonpolygongroup)
-
-#### Defined in
-
-[ue/ue.d.ts:8046](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8046)
 
 ___
 
@@ -2418,10 +2034,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[SetPolygonVertexInstance](ue_ue.MeshDescriptionBase.md#setpolygonvertexinstance)
 
-#### Defined in
-
-[ue/ue.d.ts:8047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8047)
-
 ___
 
 ### SetVertexInstanceUV
@@ -2439,10 +2051,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8061)
 
 ___
 
@@ -2465,10 +2073,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[SetVertexPosition](ue_ue.MeshDescriptionBase.md#setvertexposition)
 
-#### Defined in
-
-[ue/ue.d.ts:8048](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8048)
-
 ___
 
 ### Find
@@ -2490,10 +2094,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[Find](ue_ue.MeshDescriptionBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:8063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8063)
-
 ___
 
 ### Load
@@ -2514,10 +2114,6 @@ ___
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[Load](ue_ue.MeshDescriptionBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:8064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8064)
-
 ___
 
 ### StaticClass
@@ -2531,7 +2127,3 @@ ___
 #### Overrides
 
 [MeshDescriptionBase](ue_ue.MeshDescriptionBase.md).[StaticClass](ue_ue.MeshDescriptionBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:8062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8062)

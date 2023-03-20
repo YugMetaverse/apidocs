@@ -27,10 +27,6 @@
 
 • **new BTDecoratorLogic**()
 
-#### Defined in
-
-[ue/ue.d.ts:14624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14624)
-
 • **new BTDecoratorLogic**(`Operation`, `Number`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Operation` | [`EBTDecoratorLogic`](../enums/ue_ue.EBTDecoratorLogic.md) |
 | `Number` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:14625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14625)
-
 ## Properties
 
 ### Number
 
 • **Number**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14627)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Operation**: [`EBTDecoratorLogic`](../enums/ue_ue.EBTDecoratorLogic.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14626)
-
 ___
 
 ### \_\_tid\_BTDecoratorLogic\_\_
 
 • `Private` **\_\_tid\_BTDecoratorLogic\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14633)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14631](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14631)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14632)

@@ -21,19 +21,11 @@
 
 • **AllAssets** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34027)
-
 ___
 
 ### EMaterialSearchLocation\_MAX
 
 • **EMaterialSearchLocation\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34027)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Local** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34027)
-
 ___
 
 ### UnderParent
 
 • **UnderParent** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34027)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **UnderRoot** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34027)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34027)

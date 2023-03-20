@@ -29,19 +29,11 @@
 
 • **TC\_Alpha** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L451)
-
 ___
 
 ### TC\_BC7
 
 • **TC\_BC7** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L451)
 
 ___
 
@@ -49,19 +41,11 @@ ___
 
 • **TC\_Default** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L451)
-
 ___
 
 ### TC\_Displacementmap
 
 • **TC\_Displacementmap** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L451)
 
 ___
 
@@ -69,19 +53,11 @@ ___
 
 • **TC\_DistanceFieldFont** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L451)
-
 ___
 
 ### TC\_EditorIcon
 
 • **TC\_EditorIcon** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L451)
 
 ___
 
@@ -89,19 +65,11 @@ ___
 
 • **TC\_Grayscale** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L451)
-
 ___
 
 ### TC\_HDR
 
 • **TC\_HDR** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L451)
 
 ___
 
@@ -109,19 +77,11 @@ ___
 
 • **TC\_HDR\_Compressed** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L451)
-
 ___
 
 ### TC\_MAX
 
 • **TC\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L451)
 
 ___
 
@@ -129,19 +89,11 @@ ___
 
 • **TC\_Masks** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L451)
-
 ___
 
 ### TC\_Normalmap
 
 • **TC\_Normalmap** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L451)
 
 ___
 
@@ -149,16 +101,8 @@ ___
 
 • **TC\_VectorDisplacementmap** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L451)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L451)

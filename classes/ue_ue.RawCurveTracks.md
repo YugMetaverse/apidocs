@@ -28,10 +28,6 @@
 
 • **new RawCurveTracks**()
 
-#### Defined in
-
-[ue/ue.d.ts:3102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3102)
-
 • **new RawCurveTracks**(`FloatCurves`, `VectorCurves`, `TransformCurves`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `VectorCurves` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`VectorCurve`](ue_ue.VectorCurve.md)\> |
 | `TransformCurves` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`TransformCurve`](ue_ue.TransformCurve.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:3103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3103)
-
 ## Properties
 
 ### FloatCurves
 
 • **FloatCurves**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`FloatCurve`](ue_ue.FloatCurve.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:3104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3104)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **TransformCurves**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`TransformCurve`](ue_ue.TransformCurve.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:3106](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3106)
-
 ___
 
 ### VectorCurves
 
 • **VectorCurves**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`VectorCurve`](ue_ue.VectorCurve.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:3105](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3105)
-
 ___
 
 ### \_\_tid\_RawCurveTracks\_\_
 
 • `Private` **\_\_tid\_RawCurveTracks\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3112)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3110)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3111)

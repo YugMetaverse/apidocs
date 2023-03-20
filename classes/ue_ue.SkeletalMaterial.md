@@ -31,10 +31,6 @@
 
 • **new SkeletalMaterial**()
 
-#### Defined in
-
-[ue/ue.d.ts:2588](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2588)
-
 • **new SkeletalMaterial**(`MaterialInterface`, `MaterialSlotName`, `bEnableShadowCasting`, `bRecomputeTangent`, `ImportedMaterialSlotName`, `UVChannelData`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `ImportedMaterialSlotName` | `string` |
 | `UVChannelData` | [`MeshUVChannelInfo`](ue_ue.MeshUVChannelInfo.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:2589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2589)
-
 ## Properties
 
 ### ImportedMaterialSlotName
 
 • **ImportedMaterialSlotName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:2594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2594)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **MaterialInterface**: [`MaterialInterface`](ue_ue.MaterialInterface.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2590)
-
 ___
 
 ### MaterialSlotName
 
 • **MaterialSlotName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:2591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2591)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **UVChannelData**: [`MeshUVChannelInfo`](ue_ue.MeshUVChannelInfo.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2595)
-
 ___
 
 ### \_\_tid\_SkeletalMaterial\_\_
 
 • `Private` **\_\_tid\_SkeletalMaterial\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2601)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **bEnableShadowCasting**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:2592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2592)
-
 ___
 
 ### bRecomputeTangent
 
 • **bRecomputeTangent**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2593)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2599)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2600)

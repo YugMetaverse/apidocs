@@ -29,10 +29,6 @@
 
 • **new SoundTrackKey**()
 
-#### Defined in
-
-[ue/ue.d.ts:40306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40306)
-
 • **new SoundTrackKey**(`Time`, `Volume`, `Pitch`, `Sound`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `Pitch` | `number` |
 | `Sound` | [`SoundBase`](ue_ue.SoundBase.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:40307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40307)
-
 ## Properties
 
 ### Pitch
 
 • **Pitch**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:40310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40310)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **Sound**: [`SoundBase`](ue_ue.SoundBase.md)
 
-#### Defined in
-
-[ue/ue.d.ts:40311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40311)
-
 ___
 
 ### Time
 
 • **Time**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:40308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40308)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **Volume**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:40309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40309)
-
 ___
 
 ### \_\_tid\_SoundTrackKey\_\_
 
 • `Private` **\_\_tid\_SoundTrackKey\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40317)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:40315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40315)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:40316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40316)

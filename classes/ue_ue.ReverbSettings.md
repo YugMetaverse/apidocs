@@ -31,10 +31,6 @@
 
 • **new ReverbSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:8788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8788)
-
 • **new ReverbSettings**(`bApplyReverb`, `ReverbType`, `ReverbEffect`, `ReverbPluginEffect`, `Volume`, `FadeTime`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `Volume` | `number` |
 | `FadeTime` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:8789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8789)
-
 ## Properties
 
 ### FadeTime
 
 • **FadeTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8795)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **ReverbEffect**: [`ReverbEffect`](ue_ue.ReverbEffect.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8792)
-
 ___
 
 ### ReverbPluginEffect
 
 • **ReverbPluginEffect**: [`SoundEffectSubmixPreset`](ue_ue.SoundEffectSubmixPreset.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8793)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **ReverbType**: [`ReverbPreset`](../enums/ue_ue.ReverbPreset.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8791)
-
 ___
 
 ### Volume
 
 • **Volume**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8794)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • `Private` **\_\_tid\_ReverbSettings\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8801)
-
 ___
 
 ### bApplyReverb
 
 • **bApplyReverb**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8790)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8799)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8800)

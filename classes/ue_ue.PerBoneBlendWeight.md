@@ -27,10 +27,6 @@
 
 • **new PerBoneBlendWeight**()
 
-#### Defined in
-
-[ue/ue.d.ts:18618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18618)
-
 • **new PerBoneBlendWeight**(`SourceIndex`, `BlendWeight`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `SourceIndex` | `number` |
 | `BlendWeight` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:18619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18619)
-
 ## Properties
 
 ### BlendWeight
 
 • **BlendWeight**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18621)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **SourceIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18620)
-
 ___
 
 ### \_\_tid\_PerBoneBlendWeight\_\_
 
 • `Private` **\_\_tid\_PerBoneBlendWeight\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18627)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18625)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:18626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18626)

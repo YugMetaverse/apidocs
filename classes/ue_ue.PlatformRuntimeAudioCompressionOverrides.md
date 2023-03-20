@@ -29,10 +29,6 @@
 
 • **new PlatformRuntimeAudioCompressionOverrides**()
 
-#### Defined in
-
-[ue/ue.d.ts:16435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16435)
-
 • **new PlatformRuntimeAudioCompressionOverrides**(`bOverrideCompressionTimes`, `DurationThreshold`, `MaxNumRandomBranches`, `SoundCueQualityIndex`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `MaxNumRandomBranches` | `number` |
 | `SoundCueQualityIndex` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:16436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16436)
-
 ## Properties
 
 ### DurationThreshold
 
 • **DurationThreshold**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16438)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **MaxNumRandomBranches**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16439)
-
 ___
 
 ### SoundCueQualityIndex
 
 • **SoundCueQualityIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16440)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • `Private` **\_\_tid\_PlatformRuntimeAudioCompressionOverrides\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16446)
-
 ___
 
 ### bOverrideCompressionTimes
 
 • **bOverrideCompressionTimes**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16437)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:16444](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16444)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:16445](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16445)

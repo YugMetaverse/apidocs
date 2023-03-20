@@ -29,10 +29,6 @@
 
 • **new SolverTrailingFilterSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:26400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26400)
-
 • **new SolverTrailingFilterSettings**(`FilterEnabled`, `MinMass`, `MinSpeed`, `MinVolume`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `MinSpeed` | `number` |
 | `MinVolume` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:26401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26401)
-
 ## Properties
 
 ### FilterEnabled
 
 • **FilterEnabled**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26402)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **MinMass**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26403)
-
 ___
 
 ### MinSpeed
 
 • **MinSpeed**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26404)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **MinVolume**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26405)
-
 ___
 
 ### \_\_tid\_SolverTrailingFilterSettings\_\_
 
 • `Private` **\_\_tid\_SolverTrailingFilterSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26411)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26409)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26410)

@@ -21,19 +21,11 @@
 
 • **AlwaysUpdate** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L218)
-
 ___
 
 ### EActorUpdateOverlapsMethod\_MAX
 
 • **EActorUpdateOverlapsMethod\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L218)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **NeverUpdate** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L218)
-
 ___
 
 ### OnlyUpdateMovable
 
 • **OnlyUpdateMovable** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L218)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **UseConfigDefault** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L218)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L218)

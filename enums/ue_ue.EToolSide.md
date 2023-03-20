@@ -20,19 +20,11 @@
 
 • **EToolSide\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34839)
-
 ___
 
 ### Left
 
 • **Left** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34839)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Mouse** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34839)
-
 ___
 
 ### Right
 
 • **Right** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34839)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34839)

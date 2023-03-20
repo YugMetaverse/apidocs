@@ -31,10 +31,6 @@
 
 • **new AbcSamplingSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:50](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50)
-
 • **new AbcSamplingSettings**(`SamplingType`, `FrameSteps`, `TimeSteps`, `FrameStart`, `FrameEnd`, `bSkipEmpty`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `FrameEnd` | `number` |
 | `bSkipEmpty` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:51](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51)
-
 ## Properties
 
 ### FrameEnd
 
 • **FrameEnd**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:56](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **FrameStart**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:55](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55)
-
 ___
 
 ### FrameSteps
 
 • **FrameSteps**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:53](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **SamplingType**: [`EAlembicSamplingType`](../enums/ue_ue.EAlembicSamplingType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:52](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52)
-
 ___
 
 ### TimeSteps
 
 • **TimeSteps**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:54](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • `Private` **\_\_tid\_AbcSamplingSettings\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:63](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63)
-
 ___
 
 ### bSkipEmpty
 
 • **bSkipEmpty**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:61](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:62](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62)

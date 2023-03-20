@@ -31,10 +31,6 @@
 
 • **new VehicleEngineData**()
 
-#### Defined in
-
-[ue/ue.d.ts:66035](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66035)
-
 • **new VehicleEngineData**(`TorqueCurve`, `MaxRPM`, `MOI`, `DampingRateFullThrottle`, `DampingRateZeroThrottleClutchEngaged`, `DampingRateZeroThrottleClutchDisengaged`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `DampingRateZeroThrottleClutchEngaged` | `number` |
 | `DampingRateZeroThrottleClutchDisengaged` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:66036](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66036)
-
 ## Properties
 
 ### DampingRateFullThrottle
 
 • **DampingRateFullThrottle**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:66040](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66040)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **DampingRateZeroThrottleClutchDisengaged**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:66042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66042)
-
 ___
 
 ### DampingRateZeroThrottleClutchEngaged
 
 • **DampingRateZeroThrottleClutchEngaged**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:66041](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66041)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **MOI**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:66039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66039)
-
 ___
 
 ### MaxRPM
 
 • **MaxRPM**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:66038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66038)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **TorqueCurve**: [`RuntimeFloatCurve`](ue_ue.RuntimeFloatCurve.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66037)
-
 ___
 
 ### \_\_tid\_VehicleEngineData\_\_
 
 • `Private` **\_\_tid\_VehicleEngineData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:66048](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66048)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66046](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66046)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66047)

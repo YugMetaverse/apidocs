@@ -52,10 +52,6 @@
 
 [ContentBrowserFrontEndFilterExtension](ue_ue.ContentBrowserFrontEndFilterExtension.md).[constructor](ue_ue.ContentBrowserFrontEndFilterExtension.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:36990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36990)
-
 ## Properties
 
 ### \_\_tid\_ContentBrowserFrontEndFilterExtension\_\_
@@ -66,19 +62,11 @@
 
 [ContentBrowserFrontEndFilterExtension](ue_ue.ContentBrowserFrontEndFilterExtension.md).[__tid_ContentBrowserFrontEndFilterExtension__](ue_ue.ContentBrowserFrontEndFilterExtension.md#__tid_contentbrowserfrontendfilterextension__)
 
-#### Defined in
-
-[ue/ue.d.ts:28682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28682)
-
 ___
 
 ### \_\_tid\_GameplayTagSearchFilter\_\_
 
 • **\_\_tid\_GameplayTagSearchFilter\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36995)
 
 ___
 
@@ -89,10 +77,6 @@ ___
 #### Inherited from
 
 [ContentBrowserFrontEndFilterExtension](ue_ue.ContentBrowserFrontEndFilterExtension.md).[__tid_Object__](ue_ue.ContentBrowserFrontEndFilterExtension.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -118,10 +102,6 @@ ___
 
 [ContentBrowserFrontEndFilterExtension](ue_ue.ContentBrowserFrontEndFilterExtension.md).[CreateDefaultSubobject](ue_ue.ContentBrowserFrontEndFilterExtension.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -142,10 +122,6 @@ ___
 
 [ContentBrowserFrontEndFilterExtension](ue_ue.ContentBrowserFrontEndFilterExtension.md).[ExecuteUbergraph](ue_ue.ContentBrowserFrontEndFilterExtension.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -159,10 +135,6 @@ ___
 #### Inherited from
 
 [ContentBrowserFrontEndFilterExtension](ue_ue.ContentBrowserFrontEndFilterExtension.md).[GetClass](ue_ue.ContentBrowserFrontEndFilterExtension.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -178,10 +150,6 @@ ___
 
 [ContentBrowserFrontEndFilterExtension](ue_ue.ContentBrowserFrontEndFilterExtension.md).[GetName](ue_ue.ContentBrowserFrontEndFilterExtension.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -196,10 +164,6 @@ ___
 
 [ContentBrowserFrontEndFilterExtension](ue_ue.ContentBrowserFrontEndFilterExtension.md).[GetOuter](ue_ue.ContentBrowserFrontEndFilterExtension.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -213,10 +177,6 @@ ___
 #### Inherited from
 
 [ContentBrowserFrontEndFilterExtension](ue_ue.ContentBrowserFrontEndFilterExtension.md).[GetWorld](ue_ue.ContentBrowserFrontEndFilterExtension.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -239,10 +199,6 @@ ___
 
 [ContentBrowserFrontEndFilterExtension](ue_ue.ContentBrowserFrontEndFilterExtension.md).[Find](ue_ue.ContentBrowserFrontEndFilterExtension.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:36992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36992)
-
 ___
 
 ### Load
@@ -263,10 +219,6 @@ ___
 
 [ContentBrowserFrontEndFilterExtension](ue_ue.ContentBrowserFrontEndFilterExtension.md).[Load](ue_ue.ContentBrowserFrontEndFilterExtension.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:36993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36993)
-
 ___
 
 ### StaticClass
@@ -280,7 +232,3 @@ ___
 #### Overrides
 
 [ContentBrowserFrontEndFilterExtension](ue_ue.ContentBrowserFrontEndFilterExtension.md).[StaticClass](ue_ue.ContentBrowserFrontEndFilterExtension.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:36991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36991)

@@ -29,10 +29,6 @@
 
 • **new LandscapePatternBrushWorldSpaceSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:44281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44281)
-
 • **new LandscapePatternBrushWorldSpaceSettings**(`Origin`, `Rotation`, `bCenterTextureOnOrigin`, `RepeatSize`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `bCenterTextureOnOrigin` | `boolean` |
 | `RepeatSize` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:44282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44282)
-
 ## Properties
 
 ### Origin
 
 • **Origin**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44283)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **RepeatSize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44286)
-
 ___
 
 ### Rotation
 
 • **Rotation**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44284)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • `Private` **\_\_tid\_LandscapePatternBrushWorldSpaceSettings\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44292)
-
 ___
 
 ### bCenterTextureOnOrigin
 
 • **bCenterTextureOnOrigin**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44285)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44290)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44291)

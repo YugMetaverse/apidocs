@@ -21,19 +21,11 @@
 
 • **All** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33881)
-
 ___
 
 ### EGameplayTagSelectionType\_MAX
 
 • **EGameplayTagSelectionType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33881)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **NonRestrictedOnly** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33881)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33881)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **RestrictedOnly** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33881)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33881)

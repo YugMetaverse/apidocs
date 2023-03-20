@@ -27,10 +27,6 @@
 
 • **new ExposureSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:44991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44991)
-
 • **new ExposureSettings**(`FixedEV100`, `bFixed`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `FixedEV100` | `number` |
 | `bFixed` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:44992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44992)
-
 ## Properties
 
 ### FixedEV100
 
 • **FixedEV100**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44993)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • `Private` **\_\_tid\_ExposureSettings\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45000)
-
 ___
 
 ### bFixed
 
 • **bFixed**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44994)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44998)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44999)

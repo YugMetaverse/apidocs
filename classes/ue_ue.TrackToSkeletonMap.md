@@ -26,10 +26,6 @@
 
 • **new TrackToSkeletonMap**()
 
-#### Defined in
-
-[ue/ue.d.ts:3144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3144)
-
 • **new TrackToSkeletonMap**(`BoneTreeIndex`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `BoneTreeIndex` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:3145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3145)
-
 ## Properties
 
 ### BoneTreeIndex
 
 • **BoneTreeIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3146)
-
 ___
 
 ### \_\_tid\_TrackToSkeletonMap\_\_
 
 • `Private` **\_\_tid\_TrackToSkeletonMap\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3152)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3150)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3151)

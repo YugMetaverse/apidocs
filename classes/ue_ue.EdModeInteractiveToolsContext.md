@@ -56,10 +56,6 @@
 
 [InteractiveToolsContext](ue_ue.InteractiveToolsContext.md).[constructor](ue_ue.InteractiveToolsContext.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:33817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33817)
-
 ## Properties
 
 ### GizmoManager
@@ -69,10 +65,6 @@
 #### Inherited from
 
 [InteractiveToolsContext](ue_ue.InteractiveToolsContext.md).[GizmoManager](ue_ue.InteractiveToolsContext.md#gizmomanager)
-
-#### Defined in
-
-[ue/ue.d.ts:33808](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33808)
 
 ___
 
@@ -84,19 +76,11 @@ ___
 
 [InteractiveToolsContext](ue_ue.InteractiveToolsContext.md).[InputRouter](ue_ue.InteractiveToolsContext.md#inputrouter)
 
-#### Defined in
-
-[ue/ue.d.ts:33806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33806)
-
 ___
 
 ### StandardVertexColorMaterial
 
 • **StandardVertexColorMaterial**: [`MaterialInterface`](ue_ue.MaterialInterface.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33818](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33818)
 
 ___
 
@@ -108,19 +92,11 @@ ___
 
 [InteractiveToolsContext](ue_ue.InteractiveToolsContext.md).[ToolManager](ue_ue.InteractiveToolsContext.md#toolmanager)
 
-#### Defined in
-
-[ue/ue.d.ts:33807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33807)
-
 ___
 
 ### \_\_tid\_EdModeInteractiveToolsContext\_\_
 
 • **\_\_tid\_EdModeInteractiveToolsContext\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33823)
 
 ___
 
@@ -132,10 +108,6 @@ ___
 
 [InteractiveToolsContext](ue_ue.InteractiveToolsContext.md).[__tid_InteractiveToolsContext__](ue_ue.InteractiveToolsContext.md#__tid_interactivetoolscontext__)
 
-#### Defined in
-
-[ue/ue.d.ts:33813](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33813)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -145,10 +117,6 @@ ___
 #### Inherited from
 
 [InteractiveToolsContext](ue_ue.InteractiveToolsContext.md).[__tid_Object__](ue_ue.InteractiveToolsContext.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -174,10 +142,6 @@ ___
 
 [InteractiveToolsContext](ue_ue.InteractiveToolsContext.md).[CreateDefaultSubobject](ue_ue.InteractiveToolsContext.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -198,10 +162,6 @@ ___
 
 [InteractiveToolsContext](ue_ue.InteractiveToolsContext.md).[ExecuteUbergraph](ue_ue.InteractiveToolsContext.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -215,10 +175,6 @@ ___
 #### Inherited from
 
 [InteractiveToolsContext](ue_ue.InteractiveToolsContext.md).[GetClass](ue_ue.InteractiveToolsContext.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -234,10 +190,6 @@ ___
 
 [InteractiveToolsContext](ue_ue.InteractiveToolsContext.md).[GetName](ue_ue.InteractiveToolsContext.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -252,10 +204,6 @@ ___
 
 [InteractiveToolsContext](ue_ue.InteractiveToolsContext.md).[GetOuter](ue_ue.InteractiveToolsContext.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -269,10 +217,6 @@ ___
 #### Inherited from
 
 [InteractiveToolsContext](ue_ue.InteractiveToolsContext.md).[GetWorld](ue_ue.InteractiveToolsContext.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -295,10 +239,6 @@ ___
 
 [InteractiveToolsContext](ue_ue.InteractiveToolsContext.md).[Find](ue_ue.InteractiveToolsContext.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:33820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33820)
-
 ___
 
 ### Load
@@ -319,10 +259,6 @@ ___
 
 [InteractiveToolsContext](ue_ue.InteractiveToolsContext.md).[Load](ue_ue.InteractiveToolsContext.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:33821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33821)
-
 ___
 
 ### StaticClass
@@ -336,7 +272,3 @@ ___
 #### Overrides
 
 [InteractiveToolsContext](ue_ue.InteractiveToolsContext.md).[StaticClass](ue_ue.InteractiveToolsContext.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:33819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33819)

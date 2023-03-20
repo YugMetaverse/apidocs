@@ -398,10 +398,6 @@
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[constructor](ue_ue.ShapeComponent.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:24481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24481)
-
 ## Properties
 
 ### AlwaysLoadOnClient
@@ -411,10 +407,6 @@
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[AlwaysLoadOnClient](ue_ue.ShapeComponent.md#alwaysloadonclient)
-
-#### Defined in
-
-[ue/ue.d.ts:12608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12608)
 
 ___
 
@@ -426,10 +418,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[AlwaysLoadOnServer](ue_ue.ShapeComponent.md#alwaysloadonserver)
 
-#### Defined in
-
-[ue/ue.d.ts:12609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12609)
-
 ___
 
 ### AreaClass
@@ -439,10 +427,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[AreaClass](ue_ue.ShapeComponent.md#areaclass)
-
-#### Defined in
-
-[ue/ue.d.ts:5833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5833)
 
 ___
 
@@ -454,10 +438,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[AssetUserData](ue_ue.ShapeComponent.md#assetuserdata)
 
-#### Defined in
-
-[ue/ue.d.ts:291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L291)
-
 ___
 
 ### AttachChildren
@@ -467,10 +447,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[AttachChildren](ue_ue.ShapeComponent.md#attachchildren)
-
-#### Defined in
-
-[ue/ue.d.ts:12873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12873)
 
 ___
 
@@ -482,10 +458,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[AttachParent](ue_ue.ShapeComponent.md#attachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12871)
-
 ___
 
 ### AttachSocketName
@@ -495,10 +467,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[AttachSocketName](ue_ue.ShapeComponent.md#attachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12872)
 
 ___
 
@@ -510,10 +478,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[BodyInstance](ue_ue.ShapeComponent.md#bodyinstance)
 
-#### Defined in
-
-[ue/ue.d.ts:12630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12630)
-
 ___
 
 ### BoundsScale
@@ -524,19 +488,11 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[BoundsScale](ue_ue.ShapeComponent.md#boundsscale)
 
-#### Defined in
-
-[ue/ue.d.ts:12627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12627)
-
 ___
 
 ### BoxExtent
 
 • **BoxExtent**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:24482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24482)
 
 ___
 
@@ -548,10 +504,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[CachedMaxDrawDistance](ue_ue.ShapeComponent.md#cachedmaxdrawdistance)
 
-#### Defined in
-
-[ue/ue.d.ts:12557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12557)
-
 ___
 
 ### CanBeCharacterBase
@@ -561,10 +513,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[CanBeCharacterBase](ue_ue.ShapeComponent.md#canbecharacterbase)
-
-#### Defined in
-
-[ue/ue.d.ts:12613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12613)
 
 ___
 
@@ -576,10 +524,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[CanCharacterStepUpOn](ue_ue.ShapeComponent.md#cancharacterstepupon)
 
-#### Defined in
-
-[ue/ue.d.ts:12614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12614)
-
 ___
 
 ### CastShadow
@@ -589,10 +533,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[CastShadow](ue_ue.ShapeComponent.md#castshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12587)
 
 ___
 
@@ -604,10 +544,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[ClientAttachedChildren](ue_ue.ShapeComponent.md#clientattachedchildren)
 
-#### Defined in
-
-[ue/ue.d.ts:12874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12874)
-
 ___
 
 ### ComponentTags
@@ -617,10 +553,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[ComponentTags](ue_ue.ShapeComponent.md#componenttags)
-
-#### Defined in
-
-[ue/ue.d.ts:290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L290)
 
 ___
 
@@ -632,10 +564,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[ComponentVelocity](ue_ue.ShapeComponent.md#componentvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12878)
-
 ___
 
 ### CreationMethod
@@ -645,10 +573,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[CreationMethod](ue_ue.ShapeComponent.md#creationmethod)
-
-#### Defined in
-
-[ue/ue.d.ts:302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L302)
 
 ___
 
@@ -660,10 +584,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[CustomDepthStencilValue](ue_ue.ShapeComponent.md#customdepthstencilvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:12617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12617)
-
 ___
 
 ### CustomDepthStencilWriteMask
@@ -673,10 +593,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[CustomDepthStencilWriteMask](ue_ue.ShapeComponent.md#customdepthstencilwritemask)
-
-#### Defined in
-
-[ue/ue.d.ts:12616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12616)
 
 ___
 
@@ -688,10 +604,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[CustomPrimitiveData](ue_ue.ShapeComponent.md#customprimitivedata)
 
-#### Defined in
-
-[ue/ue.d.ts:12618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12618)
-
 ___
 
 ### DepthPriorityGroup
@@ -701,10 +613,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[DepthPriorityGroup](ue_ue.ShapeComponent.md#depthprioritygroup)
-
-#### Defined in
-
-[ue/ue.d.ts:12558](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12558)
 
 ___
 
@@ -716,10 +624,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[DetailMode](ue_ue.ShapeComponent.md#detailmode)
 
-#### Defined in
-
-[ue/ue.d.ts:12893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12893)
-
 ___
 
 ### ExcludeForSpecificHLODLevels
@@ -729,10 +633,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[ExcludeForSpecificHLODLevels](ue_ue.ShapeComponent.md#excludeforspecifichlodlevels)
-
-#### Defined in
-
-[ue/ue.d.ts:12562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12562)
 
 ___
 
@@ -744,10 +644,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[IndirectLightingCacheQuality](ue_ue.ShapeComponent.md#indirectlightingcachequality)
 
-#### Defined in
-
-[ue/ue.d.ts:12560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12560)
-
 ___
 
 ### LDMaxDrawDistance
@@ -757,10 +653,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[LDMaxDrawDistance](ue_ue.ShapeComponent.md#ldmaxdrawdistance)
-
-#### Defined in
-
-[ue/ue.d.ts:12556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12556)
 
 ___
 
@@ -772,10 +664,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[LODParentPrimitive](ue_ue.ShapeComponent.md#lodparentprimitive)
 
-#### Defined in
-
-[ue/ue.d.ts:12644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12644)
-
 ___
 
 ### LightingChannels
@@ -785,10 +673,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[LightingChannels](ue_ue.ShapeComponent.md#lightingchannels)
-
-#### Defined in
-
-[ue/ue.d.ts:12615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12615)
 
 ___
 
@@ -800,19 +684,11 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[LightmapType](ue_ue.ShapeComponent.md#lightmaptype)
 
-#### Defined in
-
-[ue/ue.d.ts:12561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12561)
-
 ___
 
 ### LineThickness
 
 • **LineThickness**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:24483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24483)
 
 ___
 
@@ -824,10 +700,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[LpvBiasMultiplier](ue_ue.ShapeComponent.md#lpvbiasmultiplier)
 
-#### Defined in
-
-[ue/ue.d.ts:12626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12626)
-
 ___
 
 ### MinDrawDistance
@@ -837,10 +709,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[MinDrawDistance](ue_ue.ShapeComponent.md#mindrawdistance)
-
-#### Defined in
-
-[ue/ue.d.ts:12555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12555)
 
 ___
 
@@ -852,10 +720,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[Mobility](ue_ue.ShapeComponent.md#mobility)
 
-#### Defined in
-
-[ue/ue.d.ts:12892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12892)
-
 ___
 
 ### MoveIgnoreActors
@@ -865,10 +729,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[MoveIgnoreActors](ue_ue.ShapeComponent.md#moveignoreactors)
-
-#### Defined in
-
-[ue/ue.d.ts:12628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12628)
 
 ___
 
@@ -880,10 +740,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[MoveIgnoreComponents](ue_ue.ShapeComponent.md#moveignorecomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12629)
-
 ___
 
 ### OnBeginCursorOver
@@ -893,10 +749,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[OnBeginCursorOver](ue_ue.ShapeComponent.md#onbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:12636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12636)
 
 ___
 
@@ -908,10 +760,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[OnClicked](ue_ue.ShapeComponent.md#onclicked)
 
-#### Defined in
-
-[ue/ue.d.ts:12638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12638)
-
 ___
 
 ### OnComponentActivated
@@ -921,10 +769,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[OnComponentActivated](ue_ue.ShapeComponent.md#oncomponentactivated)
-
-#### Defined in
-
-[ue/ue.d.ts:303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L303)
 
 ___
 
@@ -936,10 +780,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[OnComponentBeginOverlap](ue_ue.ShapeComponent.md#oncomponentbeginoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:12632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12632)
-
 ___
 
 ### OnComponentDeactivated
@@ -949,10 +789,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[OnComponentDeactivated](ue_ue.ShapeComponent.md#oncomponentdeactivated)
-
-#### Defined in
-
-[ue/ue.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L304)
 
 ___
 
@@ -964,10 +800,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[OnComponentEndOverlap](ue_ue.ShapeComponent.md#oncomponentendoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:12633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12633)
-
 ___
 
 ### OnComponentHit
@@ -977,10 +809,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[OnComponentHit](ue_ue.ShapeComponent.md#oncomponenthit)
-
-#### Defined in
-
-[ue/ue.d.ts:12631](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12631)
 
 ___
 
@@ -992,10 +820,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[OnComponentSleep](ue_ue.ShapeComponent.md#oncomponentsleep)
 
-#### Defined in
-
-[ue/ue.d.ts:12635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12635)
-
 ___
 
 ### OnComponentWake
@@ -1005,10 +829,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[OnComponentWake](ue_ue.ShapeComponent.md#oncomponentwake)
-
-#### Defined in
-
-[ue/ue.d.ts:12634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12634)
 
 ___
 
@@ -1020,10 +840,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[OnEndCursorOver](ue_ue.ShapeComponent.md#onendcursorover)
 
-#### Defined in
-
-[ue/ue.d.ts:12637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12637)
-
 ___
 
 ### OnInputTouchBegin
@@ -1033,10 +849,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[OnInputTouchBegin](ue_ue.ShapeComponent.md#oninputtouchbegin)
-
-#### Defined in
-
-[ue/ue.d.ts:12640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12640)
 
 ___
 
@@ -1048,10 +860,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[OnInputTouchEnd](ue_ue.ShapeComponent.md#oninputtouchend)
 
-#### Defined in
-
-[ue/ue.d.ts:12641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12641)
-
 ___
 
 ### OnInputTouchEnter
@@ -1061,10 +869,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[OnInputTouchEnter](ue_ue.ShapeComponent.md#oninputtouchenter)
-
-#### Defined in
-
-[ue/ue.d.ts:12642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12642)
 
 ___
 
@@ -1076,10 +880,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[OnInputTouchLeave](ue_ue.ShapeComponent.md#oninputtouchleave)
 
-#### Defined in
-
-[ue/ue.d.ts:12643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12643)
-
 ___
 
 ### OnReleased
@@ -1089,10 +889,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[OnReleased](ue_ue.ShapeComponent.md#onreleased)
-
-#### Defined in
-
-[ue/ue.d.ts:12639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12639)
 
 ___
 
@@ -1104,10 +900,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[PhysicsVolume](ue_ue.ShapeComponent.md#physicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12870)
-
 ___
 
 ### PhysicsVolumeChangedDelegate
@@ -1117,10 +909,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[PhysicsVolumeChangedDelegate](ue_ue.ShapeComponent.md#physicsvolumechangeddelegate)
-
-#### Defined in
-
-[ue/ue.d.ts:12894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12894)
 
 ___
 
@@ -1132,10 +920,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[PrimaryComponentTick](ue_ue.ShapeComponent.md#primarycomponenttick)
 
-#### Defined in
-
-[ue/ue.d.ts:289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L289)
-
 ___
 
 ### RelativeLocation
@@ -1145,10 +929,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[RelativeLocation](ue_ue.ShapeComponent.md#relativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12875)
 
 ___
 
@@ -1160,10 +940,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[RelativeRotation](ue_ue.ShapeComponent.md#relativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12876)
-
 ___
 
 ### RelativeScale3D
@@ -1173,10 +949,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[RelativeScale3D](ue_ue.ShapeComponent.md#relativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:12877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12877)
 
 ___
 
@@ -1188,10 +960,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[RuntimeVirtualTextures](ue_ue.ShapeComponent.md#runtimevirtualtextures)
 
-#### Defined in
-
-[ue/ue.d.ts:12621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12621)
-
 ___
 
 ### ShapeBodySetup
@@ -1201,10 +969,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[ShapeBodySetup](ue_ue.ShapeComponent.md#shapebodysetup)
-
-#### Defined in
-
-[ue/ue.d.ts:5832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5832)
 
 ___
 
@@ -1216,10 +980,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[ShapeColor](ue_ue.ShapeComponent.md#shapecolor)
 
-#### Defined in
-
-[ue/ue.d.ts:5834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5834)
-
 ___
 
 ### TranslucencySortPriority
@@ -1229,10 +989,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[TranslucencySortPriority](ue_ue.ShapeComponent.md#translucencysortpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:12619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12619)
 
 ___
 
@@ -1244,10 +1000,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[UCSModifiedProperties](ue_ue.ShapeComponent.md#ucsmodifiedproperties)
 
-#### Defined in
-
-[ue/ue.d.ts:305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L305)
-
 ___
 
 ### ViewOwnerDepthPriorityGroup
@@ -1257,10 +1009,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[ViewOwnerDepthPriorityGroup](ue_ue.ShapeComponent.md#viewownerdepthprioritygroup)
-
-#### Defined in
-
-[ue/ue.d.ts:12559](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12559)
 
 ___
 
@@ -1272,10 +1020,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[VirtualTextureCullMips](ue_ue.ShapeComponent.md#virtualtexturecullmips)
 
-#### Defined in
-
-[ue/ue.d.ts:12623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12623)
-
 ___
 
 ### VirtualTextureLodBias
@@ -1285,10 +1029,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[VirtualTextureLodBias](ue_ue.ShapeComponent.md#virtualtexturelodbias)
-
-#### Defined in
-
-[ue/ue.d.ts:12622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12622)
 
 ___
 
@@ -1300,10 +1040,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[VirtualTextureMinCoverage](ue_ue.ShapeComponent.md#virtualtexturemincoverage)
 
-#### Defined in
-
-[ue/ue.d.ts:12624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12624)
-
 ___
 
 ### VirtualTextureRenderPassType
@@ -1313,10 +1049,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[VirtualTextureRenderPassType](ue_ue.ShapeComponent.md#virtualtexturerenderpasstype)
-
-#### Defined in
-
-[ue/ue.d.ts:12625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12625)
 
 ___
 
@@ -1328,10 +1060,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[VisibilityId](ue_ue.ShapeComponent.md#visibilityid)
 
-#### Defined in
-
-[ue/ue.d.ts:12620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12620)
-
 ___
 
 ### \_\_tid\_ActorComponent\_\_
@@ -1342,19 +1070,11 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[__tid_ActorComponent__](ue_ue.ShapeComponent.md#__tid_actorcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L336)
-
 ___
 
 ### \_\_tid\_BoxComponent\_\_
 
 • **\_\_tid\_BoxComponent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:24491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24491)
 
 ___
 
@@ -1366,10 +1086,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[__tid_Object__](ue_ue.ShapeComponent.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PrimitiveComponent\_\_
@@ -1379,10 +1095,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[__tid_PrimitiveComponent__](ue_ue.ShapeComponent.md#__tid_primitivecomponent__)
-
-#### Defined in
-
-[ue/ue.d.ts:12761](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12761)
 
 ___
 
@@ -1394,10 +1106,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[__tid_SceneComponent__](ue_ue.ShapeComponent.md#__tid_scenecomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:12961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12961)
-
 ___
 
 ### \_\_tid\_ShapeComponent\_\_
@@ -1407,10 +1115,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[__tid_ShapeComponent__](ue_ue.ShapeComponent.md#__tid_shapecomponent__)
-
-#### Defined in
-
-[ue/ue.d.ts:5842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5842)
 
 ___
 
@@ -1422,10 +1126,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bAbsoluteLocation](ue_ue.ShapeComponent.md#babsolutelocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12880)
-
 ___
 
 ### bAbsoluteRotation
@@ -1435,10 +1135,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bAbsoluteRotation](ue_ue.ShapeComponent.md#babsoluterotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12881)
 
 ___
 
@@ -1450,10 +1146,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bAbsoluteScale](ue_ue.ShapeComponent.md#babsolutescale)
 
-#### Defined in
-
-[ue/ue.d.ts:12882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12882)
-
 ___
 
 ### bAffectDistanceFieldLighting
@@ -1463,10 +1155,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bAffectDistanceFieldLighting](ue_ue.ShapeComponent.md#baffectdistancefieldlighting)
-
-#### Defined in
-
-[ue/ue.d.ts:12589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12589)
 
 ___
 
@@ -1478,10 +1166,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bAffectDynamicIndirectLighting](ue_ue.ShapeComponent.md#baffectdynamicindirectlighting)
 
-#### Defined in
-
-[ue/ue.d.ts:12588](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12588)
-
 ___
 
 ### bAllowCullDistanceVolume
@@ -1491,10 +1175,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bAllowCullDistanceVolume](ue_ue.ShapeComponent.md#ballowculldistancevolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12573)
 
 ___
 
@@ -1506,10 +1186,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bAlwaysCreatePhysicsState](ue_ue.ShapeComponent.md#balwayscreatephysicsstate)
 
-#### Defined in
-
-[ue/ue.d.ts:12567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12567)
-
 ___
 
 ### bApplyImpulseOnDamage
@@ -1519,10 +1195,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bApplyImpulseOnDamage](ue_ue.ShapeComponent.md#bapplyimpulseondamage)
-
-#### Defined in
-
-[ue/ue.d.ts:12606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12606)
 
 ___
 
@@ -1534,10 +1206,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bAutoActivate](ue_ue.ShapeComponent.md#bautoactivate)
 
-#### Defined in
-
-[ue/ue.d.ts:296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L296)
-
 ___
 
 ### bBatchImpostersAsInstances
@@ -1547,10 +1215,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bBatchImpostersAsInstances](ue_ue.ShapeComponent.md#bbatchimpostersasinstances)
-
-#### Defined in
-
-[ue/ue.d.ts:12565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12565)
 
 ___
 
@@ -1562,10 +1226,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bBoundsChangeTriggersStreamingDataRebuild](ue_ue.ShapeComponent.md#bboundschangetriggersstreamingdatarebuild)
 
-#### Defined in
-
-[ue/ue.d.ts:12889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12889)
-
 ___
 
 ### bCanEverAffectNavigation
@@ -1575,10 +1235,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bCanEverAffectNavigation](ue_ue.ShapeComponent.md#bcaneveraffectnavigation)
-
-#### Defined in
-
-[ue/ue.d.ts:299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L299)
 
 ___
 
@@ -1590,10 +1246,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bCastCinematicShadow](ue_ue.ShapeComponent.md#bcastcinematicshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12596)
-
 ___
 
 ### bCastDynamicShadow
@@ -1603,10 +1255,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bCastDynamicShadow](ue_ue.ShapeComponent.md#bcastdynamicshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12590)
 
 ___
 
@@ -1618,10 +1266,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bCastFarShadow](ue_ue.ShapeComponent.md#bcastfarshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12594)
-
 ___
 
 ### bCastHiddenShadow
@@ -1631,10 +1275,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bCastHiddenShadow](ue_ue.ShapeComponent.md#bcasthiddenshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12597)
 
 ___
 
@@ -1646,10 +1286,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bCastInsetShadow](ue_ue.ShapeComponent.md#bcastinsetshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12595)
-
 ___
 
 ### bCastShadowAsTwoSided
@@ -1659,10 +1295,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bCastShadowAsTwoSided](ue_ue.ShapeComponent.md#bcastshadowastwosided)
-
-#### Defined in
-
-[ue/ue.d.ts:12598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12598)
 
 ___
 
@@ -1674,10 +1306,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bCastStaticShadow](ue_ue.ShapeComponent.md#bcaststaticshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12591)
-
 ___
 
 ### bCastVolumetricTranslucentShadow
@@ -1687,10 +1315,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bCastVolumetricTranslucentShadow](ue_ue.ShapeComponent.md#bcastvolumetrictranslucentshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12592)
 
 ___
 
@@ -1702,10 +1326,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bComponentToWorldUpdated](ue_ue.ShapeComponent.md#bcomponenttoworldupdated)
 
-#### Defined in
-
-[ue/ue.d.ts:12879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12879)
-
 ___
 
 ### bCreatedByConstructionScript
@@ -1715,10 +1335,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bCreatedByConstructionScript](ue_ue.ShapeComponent.md#bcreatedbyconstructionscript)
-
-#### Defined in
-
-[ue/ue.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L294)
 
 ___
 
@@ -1730,10 +1346,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bDrawOnlyIfSelected](ue_ue.ShapeComponent.md#bdrawonlyifselected)
 
-#### Defined in
-
-[ue/ue.d.ts:5835](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5835)
-
 ___
 
 ### bDynamicObstacle
@@ -1743,10 +1355,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bDynamicObstacle](ue_ue.ShapeComponent.md#bdynamicobstacle)
-
-#### Defined in
-
-[ue/ue.d.ts:5837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5837)
 
 ___
 
@@ -1758,10 +1366,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bEditableWhenInherited](ue_ue.ShapeComponent.md#beditablewheninherited)
 
-#### Defined in
-
-[ue/ue.d.ts:298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L298)
-
 ___
 
 ### bEnableAutoLODGeneration
@@ -1771,10 +1375,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bEnableAutoLODGeneration](ue_ue.ShapeComponent.md#benableautolodgeneration)
-
-#### Defined in
-
-[ue/ue.d.ts:12563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12563)
 
 ___
 
@@ -1786,10 +1386,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bExcludeFromLightAttachmentGroup](ue_ue.ShapeComponent.md#bexcludefromlightattachmentgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12601)
-
 ___
 
 ### bForceMipStreaming
@@ -1799,10 +1395,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bForceMipStreaming](ue_ue.ShapeComponent.md#bforcemipstreaming)
-
-#### Defined in
-
-[ue/ue.d.ts:12585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12585)
 
 ___
 
@@ -1814,10 +1406,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bGenerateOverlapEvents](ue_ue.ShapeComponent.md#bgenerateoverlapevents)
 
-#### Defined in
-
-[ue/ue.d.ts:12568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12568)
-
 ___
 
 ### bHasCustomNavigableGeometry
@@ -1827,10 +1415,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bHasCustomNavigableGeometry](ue_ue.ShapeComponent.md#bhascustomnavigablegeometry)
-
-#### Defined in
-
-[ue/ue.d.ts:12612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12612)
 
 ___
 
@@ -1842,10 +1426,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bHasMotionBlurVelocityMeshes](ue_ue.ShapeComponent.md#bhasmotionblurvelocitymeshes)
 
-#### Defined in
-
-[ue/ue.d.ts:12574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12574)
-
 ___
 
 ### bHasPerInstanceHitProxies
@@ -1855,10 +1435,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bHasPerInstanceHitProxies](ue_ue.ShapeComponent.md#bhasperinstancehitproxies)
-
-#### Defined in
-
-[ue/ue.d.ts:12586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12586)
 
 ___
 
@@ -1870,10 +1446,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bHiddenInGame](ue_ue.ShapeComponent.md#bhiddeningame)
 
-#### Defined in
-
-[ue/ue.d.ts:12884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12884)
-
 ___
 
 ### bIgnoreRadialForce
@@ -1883,10 +1455,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bIgnoreRadialForce](ue_ue.ShapeComponent.md#bignoreradialforce)
-
-#### Defined in
-
-[ue/ue.d.ts:12605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12605)
 
 ___
 
@@ -1898,10 +1466,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bIgnoreRadialImpulse](ue_ue.ShapeComponent.md#bignoreradialimpulse)
 
-#### Defined in
-
-[ue/ue.d.ts:12604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12604)
-
 ___
 
 ### bInstanceComponent
@@ -1911,10 +1475,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bInstanceComponent](ue_ue.ShapeComponent.md#binstancecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L295)
 
 ___
 
@@ -1926,10 +1486,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bIsActive](ue_ue.ShapeComponent.md#bisactive)
 
-#### Defined in
-
-[ue/ue.d.ts:297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L297)
-
 ___
 
 ### bIsEditorOnly
@@ -1939,10 +1495,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bIsEditorOnly](ue_ue.ShapeComponent.md#biseditoronly)
-
-#### Defined in
-
-[ue/ue.d.ts:300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L300)
 
 ___
 
@@ -1954,10 +1506,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bIsVisualizationComponent](ue_ue.ShapeComponent.md#bisvisualizationcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L301)
-
 ___
 
 ### bLightAsIfStatic
@@ -1967,10 +1515,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bLightAsIfStatic](ue_ue.ShapeComponent.md#blightasifstatic)
-
-#### Defined in
-
-[ue/ue.d.ts:12599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12599)
 
 ___
 
@@ -1982,10 +1526,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bLightAttachmentsAsGroup](ue_ue.ShapeComponent.md#blightattachmentsasgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12600)
-
 ___
 
 ### bMultiBodyOverlap
@@ -1995,10 +1535,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bMultiBodyOverlap](ue_ue.ShapeComponent.md#bmultibodyoverlap)
-
-#### Defined in
-
-[ue/ue.d.ts:12569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12569)
 
 ___
 
@@ -2010,10 +1546,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bNetAddressable](ue_ue.ShapeComponent.md#bnetaddressable)
 
-#### Defined in
-
-[ue/ue.d.ts:293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L293)
-
 ___
 
 ### bNeverDistanceCull
@@ -2023,10 +1555,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bNeverDistanceCull](ue_ue.ShapeComponent.md#bneverdistancecull)
-
-#### Defined in
-
-[ue/ue.d.ts:12566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12566)
 
 ___
 
@@ -2038,10 +1566,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bOnlyOwnerSee](ue_ue.ShapeComponent.md#bonlyownersee)
 
-#### Defined in
-
-[ue/ue.d.ts:12581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12581)
-
 ___
 
 ### bOwnerNoSee
@@ -2051,10 +1575,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bOwnerNoSee](ue_ue.ShapeComponent.md#bownernosee)
-
-#### Defined in
-
-[ue/ue.d.ts:12580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12580)
 
 ___
 
@@ -2066,10 +1586,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bReceiveMobileCSMShadows](ue_ue.ShapeComponent.md#breceivemobilecsmshadows)
 
-#### Defined in
-
-[ue/ue.d.ts:12602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12602)
-
 ___
 
 ### bReceivesDecals
@@ -2079,10 +1595,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bReceivesDecals](ue_ue.ShapeComponent.md#breceivesdecals)
-
-#### Defined in
-
-[ue/ue.d.ts:12579](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12579)
 
 ___
 
@@ -2094,10 +1606,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bRenderCustomDepth](ue_ue.ShapeComponent.md#brendercustomdepth)
 
-#### Defined in
-
-[ue/ue.d.ts:12611](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12611)
-
 ___
 
 ### bRenderInDepthPass
@@ -2107,10 +1615,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bRenderInDepthPass](ue_ue.ShapeComponent.md#brenderindepthpass)
-
-#### Defined in
-
-[ue/ue.d.ts:12578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12578)
 
 ___
 
@@ -2122,10 +1626,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bRenderInMainPass](ue_ue.ShapeComponent.md#brenderinmainpass)
 
-#### Defined in
-
-[ue/ue.d.ts:12577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12577)
-
 ___
 
 ### bReplicatePhysicsToAutonomousProxy
@@ -2135,10 +1635,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bReplicatePhysicsToAutonomousProxy](ue_ue.ShapeComponent.md#breplicatephysicstoautonomousproxy)
-
-#### Defined in
-
-[ue/ue.d.ts:12607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12607)
 
 ___
 
@@ -2150,10 +1646,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bReplicates](ue_ue.ShapeComponent.md#breplicates)
 
-#### Defined in
-
-[ue/ue.d.ts:292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L292)
-
 ___
 
 ### bReturnMaterialOnMove
@@ -2163,10 +1655,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bReturnMaterialOnMove](ue_ue.ShapeComponent.md#breturnmaterialonmove)
-
-#### Defined in
-
-[ue/ue.d.ts:12571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12571)
 
 ___
 
@@ -2178,10 +1666,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bSelectable](ue_ue.ShapeComponent.md#bselectable)
 
-#### Defined in
-
-[ue/ue.d.ts:12584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12584)
-
 ___
 
 ### bSelfShadowOnly
@@ -2191,10 +1675,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bSelfShadowOnly](ue_ue.ShapeComponent.md#bselfshadowonly)
-
-#### Defined in
-
-[ue/ue.d.ts:12593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12593)
 
 ___
 
@@ -2206,10 +1686,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bShouldBeAttached](ue_ue.ShapeComponent.md#bshouldbeattached)
 
-#### Defined in
-
-[ue/ue.d.ts:12885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12885)
-
 ___
 
 ### bShouldCollideWhenPlacing
@@ -2219,10 +1695,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bShouldCollideWhenPlacing](ue_ue.ShapeComponent.md#bshouldcollidewhenplacing)
-
-#### Defined in
-
-[ue/ue.d.ts:5836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5836)
 
 ___
 
@@ -2234,10 +1706,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bShouldSnapLocationWhenAttached](ue_ue.ShapeComponent.md#bshouldsnaplocationwhenattached)
 
-#### Defined in
-
-[ue/ue.d.ts:12886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12886)
-
 ___
 
 ### bShouldSnapRotationWhenAttached
@@ -2247,10 +1715,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bShouldSnapRotationWhenAttached](ue_ue.ShapeComponent.md#bshouldsnaprotationwhenattached)
-
-#### Defined in
-
-[ue/ue.d.ts:12887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12887)
 
 ___
 
@@ -2262,10 +1726,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bShouldUpdatePhysicsVolume](ue_ue.ShapeComponent.md#bshouldupdatephysicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12888)
-
 ___
 
 ### bSingleSampleShadowFromStationaryLights
@@ -2275,10 +1735,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bSingleSampleShadowFromStationaryLights](ue_ue.ShapeComponent.md#bsinglesampleshadowfromstationarylights)
-
-#### Defined in
-
-[ue/ue.d.ts:12603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12603)
 
 ___
 
@@ -2290,10 +1746,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bTraceComplexOnMove](ue_ue.ShapeComponent.md#btracecomplexonmove)
 
-#### Defined in
-
-[ue/ue.d.ts:12570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12570)
-
 ___
 
 ### bTreatAsBackgroundForOcclusion
@@ -2303,10 +1755,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bTreatAsBackgroundForOcclusion](ue_ue.ShapeComponent.md#btreatasbackgroundforocclusion)
-
-#### Defined in
-
-[ue/ue.d.ts:12582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12582)
 
 ___
 
@@ -2318,10 +1766,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bUseAsOccluder](ue_ue.ShapeComponent.md#buseasoccluder)
 
-#### Defined in
-
-[ue/ue.d.ts:12583](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12583)
-
 ___
 
 ### bUseAttachParentBound
@@ -2331,10 +1775,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bUseAttachParentBound](ue_ue.ShapeComponent.md#buseattachparentbound)
-
-#### Defined in
-
-[ue/ue.d.ts:12890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12890)
 
 ___
 
@@ -2346,10 +1786,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bUseEditorCompositing](ue_ue.ShapeComponent.md#buseeditorcompositing)
 
-#### Defined in
-
-[ue/ue.d.ts:12610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12610)
-
 ___
 
 ### bUseMaxLODAsImposter
@@ -2359,10 +1795,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bUseMaxLODAsImposter](ue_ue.ShapeComponent.md#busemaxlodasimposter)
-
-#### Defined in
-
-[ue/ue.d.ts:12564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12564)
 
 ___
 
@@ -2374,10 +1806,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bUseViewOwnerDepthPriorityGroup](ue_ue.ShapeComponent.md#buseviewownerdepthprioritygroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12572)
-
 ___
 
 ### bVisible
@@ -2387,10 +1815,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bVisible](ue_ue.ShapeComponent.md#bvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:12883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12883)
 
 ___
 
@@ -2402,10 +1826,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bVisibleInRayTracing](ue_ue.ShapeComponent.md#bvisibleinraytracing)
 
-#### Defined in
-
-[ue/ue.d.ts:12576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12576)
-
 ___
 
 ### bVisibleInReflectionCaptures
@@ -2416,10 +1836,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bVisibleInReflectionCaptures](ue_ue.ShapeComponent.md#bvisibleinreflectioncaptures)
 
-#### Defined in
-
-[ue/ue.d.ts:12575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12575)
-
 ___
 
 ### bVisualizeComponent
@@ -2429,10 +1845,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[bVisualizeComponent](ue_ue.ShapeComponent.md#bvisualizecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12891)
 
 ## Methods
 
@@ -2453,10 +1865,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[Activate](ue_ue.ShapeComponent.md#activate)
-
-#### Defined in
-
-[ue/ue.d.ts:306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L306)
 
 ___
 
@@ -2480,10 +1888,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[AddAngularImpulse](ue_ue.ShapeComponent.md#addangularimpulse)
 
-#### Defined in
-
-[ue/ue.d.ts:12645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12645)
-
 ___
 
 ### AddAngularImpulseInDegrees
@@ -2505,10 +1909,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[AddAngularImpulseInDegrees](ue_ue.ShapeComponent.md#addangularimpulseindegrees)
-
-#### Defined in
-
-[ue/ue.d.ts:12646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12646)
 
 ___
 
@@ -2532,10 +1932,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[AddAngularImpulseInRadians](ue_ue.ShapeComponent.md#addangularimpulseinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12647)
-
 ___
 
 ### AddForce
@@ -2557,10 +1953,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[AddForce](ue_ue.ShapeComponent.md#addforce)
-
-#### Defined in
-
-[ue/ue.d.ts:12648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12648)
 
 ___
 
@@ -2584,10 +1976,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[AddForceAtLocation](ue_ue.ShapeComponent.md#addforceatlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12649)
-
 ___
 
 ### AddForceAtLocationLocal
@@ -2609,10 +1997,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[AddForceAtLocationLocal](ue_ue.ShapeComponent.md#addforceatlocationlocal)
-
-#### Defined in
-
-[ue/ue.d.ts:12650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12650)
 
 ___
 
@@ -2636,10 +2020,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[AddImpulse](ue_ue.ShapeComponent.md#addimpulse)
 
-#### Defined in
-
-[ue/ue.d.ts:12651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12651)
-
 ___
 
 ### AddImpulseAtLocation
@@ -2661,10 +2041,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[AddImpulseAtLocation](ue_ue.ShapeComponent.md#addimpulseatlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12652)
 
 ___
 
@@ -2690,10 +2066,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[AddRadialForce](ue_ue.ShapeComponent.md#addradialforce)
 
-#### Defined in
-
-[ue/ue.d.ts:12653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12653)
-
 ___
 
 ### AddRadialImpulse
@@ -2718,10 +2090,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[AddRadialImpulse](ue_ue.ShapeComponent.md#addradialimpulse)
 
-#### Defined in
-
-[ue/ue.d.ts:12654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12654)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -2742,10 +2110,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[AddTickPrerequisiteActor](ue_ue.ShapeComponent.md#addtickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L307)
-
 ___
 
 ### AddTickPrerequisiteComponent
@@ -2765,10 +2129,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[AddTickPrerequisiteComponent](ue_ue.ShapeComponent.md#addtickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L308)
 
 ___
 
@@ -2792,10 +2152,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[AddTorque](ue_ue.ShapeComponent.md#addtorque)
 
-#### Defined in
-
-[ue/ue.d.ts:12655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12655)
-
 ___
 
 ### AddTorqueInDegrees
@@ -2817,10 +2173,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[AddTorqueInDegrees](ue_ue.ShapeComponent.md#addtorqueindegrees)
-
-#### Defined in
-
-[ue/ue.d.ts:12656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12656)
 
 ___
 
@@ -2844,10 +2196,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[AddTorqueInRadians](ue_ue.ShapeComponent.md#addtorqueinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12657)
-
 ___
 
 ### CanCharacterStepUp
@@ -2868,10 +2216,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[CanCharacterStepUp](ue_ue.ShapeComponent.md#cancharacterstepup)
 
-#### Defined in
-
-[ue/ue.d.ts:12658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12658)
-
 ___
 
 ### ClearMoveIgnoreActors
@@ -2886,10 +2230,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[ClearMoveIgnoreActors](ue_ue.ShapeComponent.md#clearmoveignoreactors)
 
-#### Defined in
-
-[ue/ue.d.ts:12659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12659)
-
 ___
 
 ### ClearMoveIgnoreComponents
@@ -2903,10 +2243,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[ClearMoveIgnoreComponents](ue_ue.ShapeComponent.md#clearmoveignorecomponents)
-
-#### Defined in
-
-[ue/ue.d.ts:12660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12660)
 
 ___
 
@@ -2928,10 +2264,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[ComponentHasTag](ue_ue.ShapeComponent.md#componenthastag)
 
-#### Defined in
-
-[ue/ue.d.ts:309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L309)
-
 ___
 
 ### CopyArrayOfMoveIgnoreActors
@@ -2946,10 +2278,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[CopyArrayOfMoveIgnoreActors](ue_ue.ShapeComponent.md#copyarrayofmoveignoreactors)
 
-#### Defined in
-
-[ue/ue.d.ts:12661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12661)
-
 ___
 
 ### CopyArrayOfMoveIgnoreComponents
@@ -2963,10 +2291,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[CopyArrayOfMoveIgnoreComponents](ue_ue.ShapeComponent.md#copyarrayofmoveignorecomponents)
-
-#### Defined in
-
-[ue/ue.d.ts:12662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12662)
 
 ___
 
@@ -2988,10 +2312,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[CreateAndSetMaterialInstanceDynamic](ue_ue.ShapeComponent.md#createandsetmaterialinstancedynamic)
 
-#### Defined in
-
-[ue/ue.d.ts:12663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12663)
-
 ___
 
 ### CreateAndSetMaterialInstanceDynamicFromMaterial
@@ -3012,10 +2332,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[CreateAndSetMaterialInstanceDynamicFromMaterial](ue_ue.ShapeComponent.md#createandsetmaterialinstancedynamicfrommaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:12664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12664)
 
 ___
 
@@ -3041,10 +2357,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[CreateDefaultSubobject](ue_ue.ShapeComponent.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### CreateDynamicMaterialInstance
@@ -3067,10 +2379,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[CreateDynamicMaterialInstance](ue_ue.ShapeComponent.md#createdynamicmaterialinstance)
 
-#### Defined in
-
-[ue/ue.d.ts:12665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12665)
-
 ___
 
 ### Deactivate
@@ -3084,10 +2392,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[Deactivate](ue_ue.ShapeComponent.md#deactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L310)
 
 ___
 
@@ -3110,10 +2414,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[DetachFromParent](ue_ue.ShapeComponent.md#detachfromparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12895)
-
 ___
 
 ### DoesSocketExist
@@ -3133,10 +2433,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[DoesSocketExist](ue_ue.ShapeComponent.md#doessocketexist)
-
-#### Defined in
-
-[ue/ue.d.ts:12896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12896)
 
 ___
 
@@ -3158,10 +2454,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[ExecuteUbergraph](ue_ue.ShapeComponent.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetAllSocketNames
@@ -3175,10 +2467,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetAllSocketNames](ue_ue.ShapeComponent.md#getallsocketnames)
-
-#### Defined in
-
-[ue/ue.d.ts:12897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12897)
 
 ___
 
@@ -3194,10 +2482,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetAngularDamping](ue_ue.ShapeComponent.md#getangulardamping)
 
-#### Defined in
-
-[ue/ue.d.ts:12666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12666)
-
 ___
 
 ### GetAttachParent
@@ -3212,10 +2496,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetAttachParent](ue_ue.ShapeComponent.md#getattachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12898)
-
 ___
 
 ### GetAttachSocketName
@@ -3229,10 +2509,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetAttachSocketName](ue_ue.ShapeComponent.md#getattachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12899)
 
 ___
 
@@ -3254,10 +2530,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetCenterOfMass](ue_ue.ShapeComponent.md#getcenterofmass)
 
-#### Defined in
-
-[ue/ue.d.ts:12667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12667)
-
 ___
 
 ### GetChildComponent
@@ -3277,10 +2549,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetChildComponent](ue_ue.ShapeComponent.md#getchildcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12900)
 
 ___
 
@@ -3303,10 +2571,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetChildrenComponents](ue_ue.ShapeComponent.md#getchildrencomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12901)
-
 ___
 
 ### GetClass
@@ -3320,10 +2584,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetClass](ue_ue.ShapeComponent.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -3347,10 +2607,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetClosestPointOnCollision](ue_ue.ShapeComponent.md#getclosestpointoncollision)
 
-#### Defined in
-
-[ue/ue.d.ts:12668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12668)
-
 ___
 
 ### GetCollisionEnabled
@@ -3364,10 +2620,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetCollisionEnabled](ue_ue.ShapeComponent.md#getcollisionenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12669)
 
 ___
 
@@ -3383,10 +2635,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetCollisionObjectType](ue_ue.ShapeComponent.md#getcollisionobjecttype)
 
-#### Defined in
-
-[ue/ue.d.ts:12670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12670)
-
 ___
 
 ### GetCollisionProfileName
@@ -3400,10 +2648,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetCollisionProfileName](ue_ue.ShapeComponent.md#getcollisionprofilename)
-
-#### Defined in
-
-[ue/ue.d.ts:12671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12671)
 
 ___
 
@@ -3425,10 +2669,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetCollisionResponseToChannel](ue_ue.ShapeComponent.md#getcollisionresponsetochannel)
 
-#### Defined in
-
-[ue/ue.d.ts:12672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12672)
-
 ___
 
 ### GetComponentTickInterval
@@ -3442,10 +2682,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetComponentTickInterval](ue_ue.ShapeComponent.md#getcomponenttickinterval)
-
-#### Defined in
-
-[ue/ue.d.ts:311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L311)
 
 ___
 
@@ -3461,10 +2697,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetComponentVelocity](ue_ue.ShapeComponent.md#getcomponentvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12902)
-
 ___
 
 ### GetForwardVector
@@ -3479,10 +2711,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetForwardVector](ue_ue.ShapeComponent.md#getforwardvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12903)
-
 ___
 
 ### GetGenerateOverlapEvents
@@ -3496,10 +2724,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetGenerateOverlapEvents](ue_ue.ShapeComponent.md#getgenerateoverlapevents)
-
-#### Defined in
-
-[ue/ue.d.ts:12673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12673)
 
 ___
 
@@ -3521,10 +2745,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetInertiaTensor](ue_ue.ShapeComponent.md#getinertiatensor)
 
-#### Defined in
-
-[ue/ue.d.ts:12674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12674)
-
 ___
 
 ### GetLinearDamping
@@ -3539,10 +2759,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetLinearDamping](ue_ue.ShapeComponent.md#getlineardamping)
 
-#### Defined in
-
-[ue/ue.d.ts:12675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12675)
-
 ___
 
 ### GetMass
@@ -3556,10 +2772,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetMass](ue_ue.ShapeComponent.md#getmass)
-
-#### Defined in
-
-[ue/ue.d.ts:12676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12676)
 
 ___
 
@@ -3581,10 +2793,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetMassScale](ue_ue.ShapeComponent.md#getmassscale)
 
-#### Defined in
-
-[ue/ue.d.ts:12677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12677)
-
 ___
 
 ### GetMaterial
@@ -3604,10 +2812,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetMaterial](ue_ue.ShapeComponent.md#getmaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:12678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12678)
 
 ___
 
@@ -3630,10 +2834,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetMaterialFromCollisionFaceIndex](ue_ue.ShapeComponent.md#getmaterialfromcollisionfaceindex)
 
-#### Defined in
-
-[ue/ue.d.ts:12679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12679)
-
 ___
 
 ### GetName
@@ -3647,10 +2847,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetName](ue_ue.ShapeComponent.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -3666,10 +2862,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetNumChildrenComponents](ue_ue.ShapeComponent.md#getnumchildrencomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12904)
-
 ___
 
 ### GetNumMaterials
@@ -3684,10 +2876,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetNumMaterials](ue_ue.ShapeComponent.md#getnummaterials)
 
-#### Defined in
-
-[ue/ue.d.ts:12680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12680)
-
 ___
 
 ### GetOuter
@@ -3701,10 +2889,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetOuter](ue_ue.ShapeComponent.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -3727,10 +2911,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetOverlappingActors](ue_ue.ShapeComponent.md#getoverlappingactors)
 
-#### Defined in
-
-[ue/ue.d.ts:12681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12681)
-
 ___
 
 ### GetOverlappingComponents
@@ -3751,10 +2931,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetOverlappingComponents](ue_ue.ShapeComponent.md#getoverlappingcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12682)
-
 ___
 
 ### GetOwner
@@ -3768,10 +2944,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetOwner](ue_ue.ShapeComponent.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L312)
 
 ___
 
@@ -3793,10 +2965,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetParentComponents](ue_ue.ShapeComponent.md#getparentcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12905)
-
 ___
 
 ### GetPhysicsAngularVelocity
@@ -3816,10 +2984,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetPhysicsAngularVelocity](ue_ue.ShapeComponent.md#getphysicsangularvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12683)
 
 ___
 
@@ -3841,10 +3005,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetPhysicsAngularVelocityInDegrees](ue_ue.ShapeComponent.md#getphysicsangularvelocityindegrees)
 
-#### Defined in
-
-[ue/ue.d.ts:12684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12684)
-
 ___
 
 ### GetPhysicsAngularVelocityInRadians
@@ -3865,10 +3025,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetPhysicsAngularVelocityInRadians](ue_ue.ShapeComponent.md#getphysicsangularvelocityinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12685)
-
 ___
 
 ### GetPhysicsLinearVelocity
@@ -3888,10 +3044,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetPhysicsLinearVelocity](ue_ue.ShapeComponent.md#getphysicslinearvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12686](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12686)
 
 ___
 
@@ -3914,10 +3066,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetPhysicsLinearVelocityAtPoint](ue_ue.ShapeComponent.md#getphysicslinearvelocityatpoint)
 
-#### Defined in
-
-[ue/ue.d.ts:12687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12687)
-
 ___
 
 ### GetPhysicsVolume
@@ -3931,10 +3079,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetPhysicsVolume](ue_ue.ShapeComponent.md#getphysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12906)
 
 ___
 
@@ -3950,10 +3094,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetRelativeTransform](ue_ue.ShapeComponent.md#getrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12907)
-
 ___
 
 ### GetRightVector
@@ -3968,10 +3108,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetRightVector](ue_ue.ShapeComponent.md#getrightvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12908)
-
 ___
 
 ### GetScaledBoxExtent
@@ -3981,10 +3117,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:24484](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24484)
 
 ___
 
@@ -3999,10 +3131,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetShouldUpdatePhysicsVolume](ue_ue.ShapeComponent.md#getshouldupdatephysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12909)
 
 ___
 
@@ -4024,10 +3152,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetSocketLocation](ue_ue.ShapeComponent.md#getsocketlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12910)
-
 ___
 
 ### GetSocketQuaternion
@@ -4048,10 +3172,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetSocketQuaternion](ue_ue.ShapeComponent.md#getsocketquaternion)
 
-#### Defined in
-
-[ue/ue.d.ts:12911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12911)
-
 ___
 
 ### GetSocketRotation
@@ -4071,10 +3191,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetSocketRotation](ue_ue.ShapeComponent.md#getsocketrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12912)
 
 ___
 
@@ -4097,10 +3213,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetSocketTransform](ue_ue.ShapeComponent.md#getsockettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12913)
-
 ___
 
 ### GetUnscaledBoxExtent
@@ -4110,10 +3222,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:24485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24485)
 
 ___
 
@@ -4129,10 +3237,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetUpVector](ue_ue.ShapeComponent.md#getupvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12914)
-
 ___
 
 ### GetWalkableSlopeOverride
@@ -4147,10 +3251,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetWalkableSlopeOverride](ue_ue.ShapeComponent.md#getwalkableslopeoverride)
 
-#### Defined in
-
-[ue/ue.d.ts:12688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12688)
-
 ___
 
 ### GetWorld
@@ -4164,10 +3264,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[GetWorld](ue_ue.ShapeComponent.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -4190,10 +3286,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[IgnoreActorWhenMoving](ue_ue.ShapeComponent.md#ignoreactorwhenmoving)
 
-#### Defined in
-
-[ue/ue.d.ts:12689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12689)
-
 ___
 
 ### IgnoreComponentWhenMoving
@@ -4215,10 +3307,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[IgnoreComponentWhenMoving](ue_ue.ShapeComponent.md#ignorecomponentwhenmoving)
 
-#### Defined in
-
-[ue/ue.d.ts:12690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12690)
-
 ___
 
 ### IsActive
@@ -4232,10 +3320,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[IsActive](ue_ue.ShapeComponent.md#isactive)
-
-#### Defined in
-
-[ue/ue.d.ts:313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L313)
 
 ___
 
@@ -4251,10 +3335,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[IsAnyRigidBodyAwake](ue_ue.ShapeComponent.md#isanyrigidbodyawake)
 
-#### Defined in
-
-[ue/ue.d.ts:12691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12691)
-
 ___
 
 ### IsAnySimulatingPhysics
@@ -4268,10 +3348,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[IsAnySimulatingPhysics](ue_ue.ShapeComponent.md#isanysimulatingphysics)
-
-#### Defined in
-
-[ue/ue.d.ts:12915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12915)
 
 ___
 
@@ -4287,10 +3363,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[IsBeingDestroyed](ue_ue.ShapeComponent.md#isbeingdestroyed)
 
-#### Defined in
-
-[ue/ue.d.ts:314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L314)
-
 ___
 
 ### IsComponentTickEnabled
@@ -4305,10 +3377,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[IsComponentTickEnabled](ue_ue.ShapeComponent.md#iscomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L315)
-
 ___
 
 ### IsGravityEnabled
@@ -4322,10 +3390,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[IsGravityEnabled](ue_ue.ShapeComponent.md#isgravityenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12692](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12692)
 
 ___
 
@@ -4347,10 +3411,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[IsOverlappingActor](ue_ue.ShapeComponent.md#isoverlappingactor)
 
-#### Defined in
-
-[ue/ue.d.ts:12693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12693)
-
 ___
 
 ### IsOverlappingComponent
@@ -4370,10 +3430,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[IsOverlappingComponent](ue_ue.ShapeComponent.md#isoverlappingcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12694](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12694)
 
 ___
 
@@ -4395,10 +3451,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[IsSimulatingPhysics](ue_ue.ShapeComponent.md#issimulatingphysics)
 
-#### Defined in
-
-[ue/ue.d.ts:12916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12916)
-
 ___
 
 ### IsVisible
@@ -4412,10 +3464,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[IsVisible](ue_ue.ShapeComponent.md#isvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:12917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12917)
 
 ___
 
@@ -4440,10 +3488,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_AddLocalOffset](ue_ue.ShapeComponent.md#k2_addlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:12918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12918)
-
 ___
 
 ### K2\_AddLocalRotation
@@ -4466,10 +3510,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_AddLocalRotation](ue_ue.ShapeComponent.md#k2_addlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12919)
 
 ___
 
@@ -4494,10 +3534,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_AddLocalTransform](ue_ue.ShapeComponent.md#k2_addlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12920)
-
 ___
 
 ### K2\_AddRelativeLocation
@@ -4520,10 +3556,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_AddRelativeLocation](ue_ue.ShapeComponent.md#k2_addrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12921)
 
 ___
 
@@ -4548,10 +3580,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_AddRelativeRotation](ue_ue.ShapeComponent.md#k2_addrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12922)
-
 ___
 
 ### K2\_AddWorldOffset
@@ -4574,10 +3602,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_AddWorldOffset](ue_ue.ShapeComponent.md#k2_addworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:12923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12923)
 
 ___
 
@@ -4602,10 +3626,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_AddWorldRotation](ue_ue.ShapeComponent.md#k2_addworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12924)
-
 ___
 
 ### K2\_AddWorldTransform
@@ -4629,10 +3649,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_AddWorldTransform](ue_ue.ShapeComponent.md#k2_addworldtransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12925)
-
 ___
 
 ### K2\_AttachTo
@@ -4655,10 +3671,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_AttachTo](ue_ue.ShapeComponent.md#k2_attachto)
-
-#### Defined in
-
-[ue/ue.d.ts:12926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12926)
 
 ___
 
@@ -4684,10 +3696,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_AttachToComponent](ue_ue.ShapeComponent.md#k2_attachtocomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12927)
 
 ___
 
@@ -4717,10 +3725,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_BoxOverlapComponent](ue_ue.ShapeComponent.md#k2_boxoverlapcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12695)
-
 ___
 
 ### K2\_DestroyComponent
@@ -4740,10 +3744,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_DestroyComponent](ue_ue.ShapeComponent.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L316)
 
 ___
 
@@ -4768,10 +3768,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_DetachFromComponent](ue_ue.ShapeComponent.md#k2_detachfromcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12928)
-
 ___
 
 ### K2\_GetComponentLocation
@@ -4785,10 +3781,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_GetComponentLocation](ue_ue.ShapeComponent.md#k2_getcomponentlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12929)
 
 ___
 
@@ -4804,10 +3796,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_GetComponentRotation](ue_ue.ShapeComponent.md#k2_getcomponentrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12930)
-
 ___
 
 ### K2\_GetComponentScale
@@ -4821,10 +3809,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_GetComponentScale](ue_ue.ShapeComponent.md#k2_getcomponentscale)
-
-#### Defined in
-
-[ue/ue.d.ts:12931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12931)
 
 ___
 
@@ -4840,10 +3824,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_GetComponentToWorld](ue_ue.ShapeComponent.md#k2_getcomponenttoworld)
 
-#### Defined in
-
-[ue/ue.d.ts:12932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12932)
-
 ___
 
 ### K2\_IsCollisionEnabled
@@ -4857,10 +3837,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_IsCollisionEnabled](ue_ue.ShapeComponent.md#k2_iscollisionenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12696](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12696)
 
 ___
 
@@ -4876,10 +3852,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_IsPhysicsCollisionEnabled](ue_ue.ShapeComponent.md#k2_isphysicscollisionenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:12697](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12697)
-
 ___
 
 ### K2\_IsQueryCollisionEnabled
@@ -4893,10 +3865,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_IsQueryCollisionEnabled](ue_ue.ShapeComponent.md#k2_isquerycollisionenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12698)
 
 ___
 
@@ -4926,10 +3894,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_LineTraceComponent](ue_ue.ShapeComponent.md#k2_linetracecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12699](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12699)
-
 ___
 
 ### K2\_SetRelativeLocation
@@ -4952,10 +3916,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_SetRelativeLocation](ue_ue.ShapeComponent.md#k2_setrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12933)
 
 ___
 
@@ -4981,10 +3941,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_SetRelativeLocationAndRotation](ue_ue.ShapeComponent.md#k2_setrelativelocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12934)
-
 ___
 
 ### K2\_SetRelativeRotation
@@ -5007,10 +3963,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_SetRelativeRotation](ue_ue.ShapeComponent.md#k2_setrelativerotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12935)
 
 ___
 
@@ -5035,10 +3987,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_SetRelativeTransform](ue_ue.ShapeComponent.md#k2_setrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12936)
-
 ___
 
 ### K2\_SetWorldLocation
@@ -5061,10 +4009,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_SetWorldLocation](ue_ue.ShapeComponent.md#k2_setworldlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12937)
 
 ___
 
@@ -5090,10 +4034,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_SetWorldLocationAndRotation](ue_ue.ShapeComponent.md#k2_setworldlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12938)
-
 ___
 
 ### K2\_SetWorldRotation
@@ -5117,10 +4057,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_SetWorldRotation](ue_ue.ShapeComponent.md#k2_setworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12939)
-
 ___
 
 ### K2\_SetWorldTransform
@@ -5143,10 +4079,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_SetWorldTransform](ue_ue.ShapeComponent.md#k2_setworldtransform)
-
-#### Defined in
-
-[ue/ue.d.ts:12940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12940)
 
 ___
 
@@ -5175,10 +4107,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_SphereOverlapComponent](ue_ue.ShapeComponent.md#k2_sphereoverlapcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12700)
 
 ___
 
@@ -5209,10 +4137,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[K2_SphereTraceComponent](ue_ue.ShapeComponent.md#k2_spheretracecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12701)
-
 ___
 
 ### OnRep\_AttachChildren
@@ -5226,10 +4150,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[OnRep_AttachChildren](ue_ue.ShapeComponent.md#onrep_attachchildren)
-
-#### Defined in
-
-[ue/ue.d.ts:12941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12941)
 
 ___
 
@@ -5245,10 +4165,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[OnRep_AttachParent](ue_ue.ShapeComponent.md#onrep_attachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12942)
-
 ___
 
 ### OnRep\_AttachSocketName
@@ -5262,10 +4178,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[OnRep_AttachSocketName](ue_ue.ShapeComponent.md#onrep_attachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12943)
 
 ___
 
@@ -5281,10 +4193,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[OnRep_IsActive](ue_ue.ShapeComponent.md#onrep_isactive)
 
-#### Defined in
-
-[ue/ue.d.ts:317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L317)
-
 ___
 
 ### OnRep\_Transform
@@ -5298,10 +4206,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[OnRep_Transform](ue_ue.ShapeComponent.md#onrep_transform)
-
-#### Defined in
-
-[ue/ue.d.ts:12944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12944)
 
 ___
 
@@ -5323,10 +4227,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[OnRep_Visibility](ue_ue.ShapeComponent.md#onrep_visibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12945)
-
 ___
 
 ### PutRigidBodyToSleep
@@ -5347,10 +4247,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[PutRigidBodyToSleep](ue_ue.ShapeComponent.md#putrigidbodytosleep)
 
-#### Defined in
-
-[ue/ue.d.ts:12702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12702)
-
 ___
 
 ### ReceiveBeginPlay
@@ -5364,10 +4260,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[ReceiveBeginPlay](ue_ue.ShapeComponent.md#receivebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L318)
 
 ___
 
@@ -5389,10 +4281,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[ReceiveEndPlay](ue_ue.ShapeComponent.md#receiveendplay)
 
-#### Defined in
-
-[ue/ue.d.ts:319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L319)
-
 ___
 
 ### ReceiveTick
@@ -5413,10 +4301,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[ReceiveTick](ue_ue.ShapeComponent.md#receivetick)
 
-#### Defined in
-
-[ue/ue.d.ts:320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L320)
-
 ___
 
 ### RegisterComponent
@@ -5430,10 +4314,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[RegisterComponent](ue_ue.ShapeComponent.md#registercomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L321)
 
 ___
 
@@ -5455,10 +4335,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[RemoveTickPrerequisiteActor](ue_ue.ShapeComponent.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -5479,10 +4355,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[RemoveTickPrerequisiteComponent](ue_ue.ShapeComponent.md#removetickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L323)
-
 ___
 
 ### ResetRelativeTransform
@@ -5496,10 +4368,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[ResetRelativeTransform](ue_ue.ShapeComponent.md#resetrelativetransform)
-
-#### Defined in
-
-[ue/ue.d.ts:12946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12946)
 
 ___
 
@@ -5521,10 +4389,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[ScaleByMomentOfInertia](ue_ue.ShapeComponent.md#scalebymomentofinertia)
-
-#### Defined in
-
-[ue/ue.d.ts:12703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12703)
 
 ___
 
@@ -5548,10 +4412,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetAbsolute](ue_ue.ShapeComponent.md#setabsolute)
 
-#### Defined in
-
-[ue/ue.d.ts:12947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12947)
-
 ___
 
 ### SetActive
@@ -5573,10 +4433,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetActive](ue_ue.ShapeComponent.md#setactive)
 
-#### Defined in
-
-[ue/ue.d.ts:324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L324)
-
 ___
 
 ### SetAllMassScale
@@ -5596,10 +4452,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetAllMassScale](ue_ue.ShapeComponent.md#setallmassscale)
-
-#### Defined in
-
-[ue/ue.d.ts:12704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12704)
 
 ___
 
@@ -5622,10 +4474,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetAllPhysicsAngularVelocityInDegrees](ue_ue.ShapeComponent.md#setallphysicsangularvelocityindegrees)
 
-#### Defined in
-
-[ue/ue.d.ts:12705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12705)
-
 ___
 
 ### SetAllPhysicsAngularVelocityInRadians
@@ -5646,10 +4494,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetAllPhysicsAngularVelocityInRadians](ue_ue.ShapeComponent.md#setallphysicsangularvelocityinradians)
-
-#### Defined in
-
-[ue/ue.d.ts:12706](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12706)
 
 ___
 
@@ -5672,10 +4516,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetAllPhysicsLinearVelocity](ue_ue.ShapeComponent.md#setallphysicslinearvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12707](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12707)
-
 ___
 
 ### SetAllUseCCD
@@ -5695,10 +4535,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetAllUseCCD](ue_ue.ShapeComponent.md#setalluseccd)
-
-#### Defined in
-
-[ue/ue.d.ts:12708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12708)
 
 ___
 
@@ -5720,10 +4556,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetAngularDamping](ue_ue.ShapeComponent.md#setangulardamping)
 
-#### Defined in
-
-[ue/ue.d.ts:12709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12709)
-
 ___
 
 ### SetAutoActivate
@@ -5743,10 +4575,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetAutoActivate](ue_ue.ShapeComponent.md#setautoactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L325)
 
 ___
 
@@ -5768,10 +4596,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetBoundsScale](ue_ue.ShapeComponent.md#setboundsscale)
 
-#### Defined in
-
-[ue/ue.d.ts:12710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12710)
-
 ___
 
 ### SetBoxExtent
@@ -5788,10 +4612,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:24486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24486)
 
 ___
 
@@ -5813,10 +4633,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetCastInsetShadow](ue_ue.ShapeComponent.md#setcastinsetshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12711)
-
 ___
 
 ### SetCastShadow
@@ -5836,10 +4652,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetCastShadow](ue_ue.ShapeComponent.md#setcastshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12712)
 
 ___
 
@@ -5862,10 +4674,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetCenterOfMass](ue_ue.ShapeComponent.md#setcenterofmass)
 
-#### Defined in
-
-[ue/ue.d.ts:12713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12713)
-
 ___
 
 ### SetCollisionEnabled
@@ -5885,10 +4693,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetCollisionEnabled](ue_ue.ShapeComponent.md#setcollisionenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12714)
 
 ___
 
@@ -5910,10 +4714,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetCollisionObjectType](ue_ue.ShapeComponent.md#setcollisionobjecttype)
 
-#### Defined in
-
-[ue/ue.d.ts:12715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12715)
-
 ___
 
 ### SetCollisionProfileName
@@ -5934,10 +4734,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetCollisionProfileName](ue_ue.ShapeComponent.md#setcollisionprofilename)
 
-#### Defined in
-
-[ue/ue.d.ts:12716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12716)
-
 ___
 
 ### SetCollisionResponseToAllChannels
@@ -5957,10 +4753,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetCollisionResponseToAllChannels](ue_ue.ShapeComponent.md#setcollisionresponsetoallchannels)
-
-#### Defined in
-
-[ue/ue.d.ts:12717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12717)
 
 ___
 
@@ -5983,10 +4775,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetCollisionResponseToChannel](ue_ue.ShapeComponent.md#setcollisionresponsetochannel)
 
-#### Defined in
-
-[ue/ue.d.ts:12718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12718)
-
 ___
 
 ### SetComponentTickEnabled
@@ -6006,10 +4794,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetComponentTickEnabled](ue_ue.ShapeComponent.md#setcomponenttickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L326)
 
 ___
 
@@ -6031,10 +4815,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetComponentTickInterval](ue_ue.ShapeComponent.md#setcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L327)
-
 ___
 
 ### SetConstraintMode
@@ -6054,10 +4834,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetConstraintMode](ue_ue.ShapeComponent.md#setconstraintmode)
-
-#### Defined in
-
-[ue/ue.d.ts:12719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12719)
 
 ___
 
@@ -6079,10 +4855,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetCullDistance](ue_ue.ShapeComponent.md#setculldistance)
 
-#### Defined in
-
-[ue/ue.d.ts:12720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12720)
-
 ___
 
 ### SetCustomDepthStencilValue
@@ -6103,10 +4875,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetCustomDepthStencilValue](ue_ue.ShapeComponent.md#setcustomdepthstencilvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:12721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12721)
-
 ___
 
 ### SetCustomDepthStencilWriteMask
@@ -6126,10 +4894,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetCustomDepthStencilWriteMask](ue_ue.ShapeComponent.md#setcustomdepthstencilwritemask)
-
-#### Defined in
-
-[ue/ue.d.ts:12722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12722)
 
 ___
 
@@ -6152,10 +4916,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetCustomPrimitiveDataFloat](ue_ue.ShapeComponent.md#setcustomprimitivedatafloat)
 
-#### Defined in
-
-[ue/ue.d.ts:12723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12723)
-
 ___
 
 ### SetCustomPrimitiveDataVector2
@@ -6176,10 +4936,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetCustomPrimitiveDataVector2](ue_ue.ShapeComponent.md#setcustomprimitivedatavector2)
-
-#### Defined in
-
-[ue/ue.d.ts:12724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12724)
 
 ___
 
@@ -6202,10 +4958,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetCustomPrimitiveDataVector3](ue_ue.ShapeComponent.md#setcustomprimitivedatavector3)
 
-#### Defined in
-
-[ue/ue.d.ts:12725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12725)
-
 ___
 
 ### SetCustomPrimitiveDataVector4
@@ -6227,10 +4979,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetCustomPrimitiveDataVector4](ue_ue.ShapeComponent.md#setcustomprimitivedatavector4)
 
-#### Defined in
-
-[ue/ue.d.ts:12726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12726)
-
 ___
 
 ### SetEnableGravity
@@ -6250,10 +4998,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetEnableGravity](ue_ue.ShapeComponent.md#setenablegravity)
-
-#### Defined in
-
-[ue/ue.d.ts:12727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12727)
 
 ___
 
@@ -6275,10 +5019,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetExcludeFromLightAttachmentGroup](ue_ue.ShapeComponent.md#setexcludefromlightattachmentgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12728)
-
 ___
 
 ### SetGenerateOverlapEvents
@@ -6298,10 +5038,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetGenerateOverlapEvents](ue_ue.ShapeComponent.md#setgenerateoverlapevents)
-
-#### Defined in
-
-[ue/ue.d.ts:12729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12729)
 
 ___
 
@@ -6324,10 +5060,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetHiddenInGame](ue_ue.ShapeComponent.md#sethiddeningame)
 
-#### Defined in
-
-[ue/ue.d.ts:12948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12948)
-
 ___
 
 ### SetIsReplicated
@@ -6347,10 +5079,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetIsReplicated](ue_ue.ShapeComponent.md#setisreplicated)
-
-#### Defined in
-
-[ue/ue.d.ts:328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L328)
 
 ___
 
@@ -6372,10 +5100,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetLightAttachmentsAsGroup](ue_ue.ShapeComponent.md#setlightattachmentsasgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12730)
-
 ___
 
 ### SetLinearDamping
@@ -6395,10 +5119,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetLinearDamping](ue_ue.ShapeComponent.md#setlineardamping)
-
-#### Defined in
-
-[ue/ue.d.ts:12731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12731)
 
 ___
 
@@ -6422,10 +5142,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetMassOverrideInKg](ue_ue.ShapeComponent.md#setmassoverrideinkg)
 
-#### Defined in
-
-[ue/ue.d.ts:12732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12732)
-
 ___
 
 ### SetMassScale
@@ -6446,10 +5162,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetMassScale](ue_ue.ShapeComponent.md#setmassscale)
-
-#### Defined in
-
-[ue/ue.d.ts:12733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12733)
 
 ___
 
@@ -6472,10 +5184,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetMaterial](ue_ue.ShapeComponent.md#setmaterial)
 
-#### Defined in
-
-[ue/ue.d.ts:12734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12734)
-
 ___
 
 ### SetMaterialByName
@@ -6497,10 +5205,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetMaterialByName](ue_ue.ShapeComponent.md#setmaterialbyname)
 
-#### Defined in
-
-[ue/ue.d.ts:12735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12735)
-
 ___
 
 ### SetMobility
@@ -6520,10 +5224,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetMobility](ue_ue.ShapeComponent.md#setmobility)
-
-#### Defined in
-
-[ue/ue.d.ts:12949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12949)
 
 ___
 
@@ -6545,10 +5245,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetNotifyRigidBodyCollision](ue_ue.ShapeComponent.md#setnotifyrigidbodycollision)
 
-#### Defined in
-
-[ue/ue.d.ts:12736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12736)
-
 ___
 
 ### SetOnlyOwnerSee
@@ -6568,10 +5264,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetOnlyOwnerSee](ue_ue.ShapeComponent.md#setonlyownersee)
-
-#### Defined in
-
-[ue/ue.d.ts:12737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12737)
 
 ___
 
@@ -6593,10 +5285,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetOwnerNoSee](ue_ue.ShapeComponent.md#setownernosee)
 
-#### Defined in
-
-[ue/ue.d.ts:12738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12738)
-
 ___
 
 ### SetPhysMaterialOverride
@@ -6616,10 +5304,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetPhysMaterialOverride](ue_ue.ShapeComponent.md#setphysmaterialoverride)
-
-#### Defined in
-
-[ue/ue.d.ts:12746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12746)
 
 ___
 
@@ -6643,10 +5327,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetPhysicsAngularVelocity](ue_ue.ShapeComponent.md#setphysicsangularvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12739)
-
 ___
 
 ### SetPhysicsAngularVelocityInDegrees
@@ -6668,10 +5348,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetPhysicsAngularVelocityInDegrees](ue_ue.ShapeComponent.md#setphysicsangularvelocityindegrees)
-
-#### Defined in
-
-[ue/ue.d.ts:12740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12740)
 
 ___
 
@@ -6695,10 +5371,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetPhysicsAngularVelocityInRadians](ue_ue.ShapeComponent.md#setphysicsangularvelocityinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12741)
-
 ___
 
 ### SetPhysicsLinearVelocity
@@ -6720,10 +5392,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetPhysicsLinearVelocity](ue_ue.ShapeComponent.md#setphysicslinearvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12742)
 
 ___
 
@@ -6747,10 +5415,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetPhysicsMaxAngularVelocity](ue_ue.ShapeComponent.md#setphysicsmaxangularvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12743)
-
 ___
 
 ### SetPhysicsMaxAngularVelocityInDegrees
@@ -6772,10 +5436,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetPhysicsMaxAngularVelocityInDegrees](ue_ue.ShapeComponent.md#setphysicsmaxangularvelocityindegrees)
-
-#### Defined in
-
-[ue/ue.d.ts:12744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12744)
 
 ___
 
@@ -6799,10 +5459,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetPhysicsMaxAngularVelocityInRadians](ue_ue.ShapeComponent.md#setphysicsmaxangularvelocityinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12745)
-
 ___
 
 ### SetReceivesDecals
@@ -6822,10 +5478,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetReceivesDecals](ue_ue.ShapeComponent.md#setreceivesdecals)
-
-#### Defined in
-
-[ue/ue.d.ts:12747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12747)
 
 ___
 
@@ -6847,10 +5499,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetRelativeScale3D](ue_ue.ShapeComponent.md#setrelativescale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:12950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12950)
-
 ___
 
 ### SetRenderCustomDepth
@@ -6870,10 +5518,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetRenderCustomDepth](ue_ue.ShapeComponent.md#setrendercustomdepth)
-
-#### Defined in
-
-[ue/ue.d.ts:12748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12748)
 
 ___
 
@@ -6895,10 +5539,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetRenderInMainPass](ue_ue.ShapeComponent.md#setrenderinmainpass)
 
-#### Defined in
-
-[ue/ue.d.ts:12749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12749)
-
 ___
 
 ### SetShouldUpdatePhysicsVolume
@@ -6918,10 +5558,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetShouldUpdatePhysicsVolume](ue_ue.ShapeComponent.md#setshouldupdatephysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12951)
 
 ___
 
@@ -6943,10 +5579,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetSimulatePhysics](ue_ue.ShapeComponent.md#setsimulatephysics)
 
-#### Defined in
-
-[ue/ue.d.ts:12750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12750)
-
 ___
 
 ### SetSingleSampleShadowFromStationaryLights
@@ -6966,10 +5598,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetSingleSampleShadowFromStationaryLights](ue_ue.ShapeComponent.md#setsinglesampleshadowfromstationarylights)
-
-#### Defined in
-
-[ue/ue.d.ts:12751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12751)
 
 ___
 
@@ -6991,10 +5619,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetTickGroup](ue_ue.ShapeComponent.md#settickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L330)
-
 ___
 
 ### SetTickableWhenPaused
@@ -7015,10 +5639,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetTickableWhenPaused](ue_ue.ShapeComponent.md#settickablewhenpaused)
 
-#### Defined in
-
-[ue/ue.d.ts:329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L329)
-
 ___
 
 ### SetTranslucentSortPriority
@@ -7038,10 +5658,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetTranslucentSortPriority](ue_ue.ShapeComponent.md#settranslucentsortpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:12752](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12752)
 
 ___
 
@@ -7064,10 +5680,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetUseCCD](ue_ue.ShapeComponent.md#setuseccd)
 
-#### Defined in
-
-[ue/ue.d.ts:12753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12753)
-
 ___
 
 ### SetVisibility
@@ -7089,10 +5701,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetVisibility](ue_ue.ShapeComponent.md#setvisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12953)
-
 ___
 
 ### SetWalkableSlopeOverride
@@ -7113,10 +5721,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetWalkableSlopeOverride](ue_ue.ShapeComponent.md#setwalkableslopeoverride)
 
-#### Defined in
-
-[ue/ue.d.ts:12754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12754)
-
 ___
 
 ### SetWorldScale3D
@@ -7136,10 +5740,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetWorldScale3D](ue_ue.ShapeComponent.md#setworldscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:12954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12954)
 
 ___
 
@@ -7162,10 +5762,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SetupAttachment](ue_ue.ShapeComponent.md#setupattachment)
 
-#### Defined in
-
-[ue/ue.d.ts:12952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12952)
-
 ___
 
 ### SnapTo
@@ -7187,10 +5783,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[SnapTo](ue_ue.ShapeComponent.md#snapto)
 
-#### Defined in
-
-[ue/ue.d.ts:12955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12955)
-
 ___
 
 ### ToggleActive
@@ -7204,10 +5796,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[ToggleActive](ue_ue.ShapeComponent.md#toggleactive)
-
-#### Defined in
-
-[ue/ue.d.ts:331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L331)
 
 ___
 
@@ -7229,10 +5817,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[ToggleVisibility](ue_ue.ShapeComponent.md#togglevisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12956)
-
 ___
 
 ### WakeAllRigidBodies
@@ -7246,10 +5830,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[WakeAllRigidBodies](ue_ue.ShapeComponent.md#wakeallrigidbodies)
-
-#### Defined in
-
-[ue/ue.d.ts:12755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12755)
 
 ___
 
@@ -7270,10 +5850,6 @@ ___
 #### Inherited from
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[WakeRigidBody](ue_ue.ShapeComponent.md#wakerigidbody)
-
-#### Defined in
-
-[ue/ue.d.ts:12756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12756)
 
 ___
 
@@ -7296,10 +5872,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[Find](ue_ue.ShapeComponent.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:24488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24488)
-
 ___
 
 ### Load
@@ -7320,10 +5892,6 @@ ___
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[Load](ue_ue.ShapeComponent.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:24489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24489)
-
 ___
 
 ### StaticClass
@@ -7337,7 +5905,3 @@ ___
 #### Overrides
 
 [ShapeComponent](ue_ue.ShapeComponent.md).[StaticClass](ue_ue.ShapeComponent.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:24487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24487)

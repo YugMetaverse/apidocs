@@ -27,10 +27,6 @@
 
 • **new GameplayTagCategoryRemap**()
 
-#### Defined in
-
-[ue/ue.d.ts:37162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37162)
-
 • **new GameplayTagCategoryRemap**(`BaseCategory`, `RemapCategories`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `BaseCategory` | `string` |
 | `RemapCategories` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:37163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37163)
-
 ## Properties
 
 ### BaseCategory
 
 • **BaseCategory**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:37164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37164)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **RemapCategories**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:37165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37165)
-
 ___
 
 ### \_\_tid\_GameplayTagCategoryRemap\_\_
 
 • `Private` **\_\_tid\_GameplayTagCategoryRemap\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:37171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37171)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:37169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37169)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:37170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37170)

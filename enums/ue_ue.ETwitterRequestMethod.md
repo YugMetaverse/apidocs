@@ -20,19 +20,11 @@
 
 • **TRM\_Delete** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34854](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34854)
-
 ___
 
 ### TRM\_Get
 
 • **TRM\_Get** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34854](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34854)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **TRM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34854](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34854)
-
 ___
 
 ### TRM\_Post
 
 • **TRM\_Post** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34854](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34854)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34854](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34854)

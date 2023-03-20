@@ -20,19 +20,11 @@
 
 • **EMagicLeapHeadTrackingMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34005)
-
 ___
 
 ### PositionAndOrientation
 
 • **PositionAndOrientation** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34005)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Unavailable** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34005)
-
 ___
 
 ### Unknown
 
 • **Unknown** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34005)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34005)

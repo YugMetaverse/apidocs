@@ -34,19 +34,11 @@
 
 • **Field\_ActivateDisabled** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26560)
-
 ___
 
 ### Field\_AngularTorque
 
 • **Field\_AngularTorque** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26560)
 
 ___
 
@@ -54,19 +46,11 @@ ___
 
 • **Field\_AngularVelociy** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26560)
-
 ___
 
 ### Field\_CollisionGroup
 
 • **Field\_CollisionGroup** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26560)
 
 ___
 
@@ -74,19 +58,11 @@ ___
 
 • **Field\_DisableThreshold** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26560)
-
 ___
 
 ### Field\_DynamicConstraint
 
 • **Field\_DynamicConstraint** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26560)
 
 ___
 
@@ -94,19 +70,11 @@ ___
 
 • **Field\_DynamicState** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26560)
-
 ___
 
 ### Field\_ExternalClusterStrain
 
 • **Field\_ExternalClusterStrain** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26560)
 
 ___
 
@@ -114,19 +82,11 @@ ___
 
 • **Field\_InternalClusterStrain** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26560)
-
 ___
 
 ### Field\_Kill
 
 • **Field\_Kill** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26560)
 
 ___
 
@@ -134,19 +94,11 @@ ___
 
 • **Field\_LinearForce** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26560)
-
 ___
 
 ### Field\_LinearVelocity
 
 • **Field\_LinearVelocity** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26560)
 
 ___
 
@@ -154,19 +106,11 @@ ___
 
 • **Field\_None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26560)
-
 ___
 
 ### Field\_PhysicsType\_Max
 
 • **Field\_PhysicsType\_Max** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26560)
 
 ___
 
@@ -174,19 +118,11 @@ ___
 
 • **Field\_PositionAnimated** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26560)
-
 ___
 
 ### Field\_PositionStatic
 
 • **Field\_PositionStatic** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26560)
 
 ___
 
@@ -194,26 +130,14 @@ ___
 
 • **Field\_PositionTarget** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26560)
-
 ___
 
 ### Field\_SleepingThreshold
 
 • **Field\_SleepingThreshold** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26560)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26560)

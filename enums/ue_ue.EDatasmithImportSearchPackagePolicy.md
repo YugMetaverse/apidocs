@@ -19,19 +19,11 @@
 
 • **All** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29712)
-
 ___
 
 ### Current
 
 • **Current** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29712)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **EDatasmithImportSearchPackagePolicy\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29712)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29712)

@@ -150,19 +150,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:32404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32404)
-
 ## Properties
 
 ### AudioQualityLevel
 
 • **AudioQualityLevel**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32417)
 
 ___
 
@@ -170,19 +162,11 @@ ___
 
 • **DesiredScreenHeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32422)
-
 ___
 
 ### DesiredScreenWidth
 
 • **DesiredScreenWidth**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32420)
 
 ___
 
@@ -190,19 +174,11 @@ ___
 
 • **FrameRateLimit**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32419)
-
 ___
 
 ### FullscreenMode
 
 • **FullscreenMode**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32413)
 
 ___
 
@@ -210,19 +186,11 @@ ___
 
 • **HDRDisplayOutputNits**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32433)
-
 ___
 
 ### LastCPUBenchmarkResult
 
 • **LastCPUBenchmarkResult**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32427)
 
 ___
 
@@ -230,19 +198,11 @@ ___
 
 • **LastCPUBenchmarkSteps**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:32429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32429)
-
 ___
 
 ### LastConfirmedAudioQualityLevel
 
 • **LastConfirmedAudioQualityLevel**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32418)
 
 ___
 
@@ -250,19 +210,11 @@ ___
 
 • **LastConfirmedFullscreenMode**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32414)
-
 ___
 
 ### LastGPUBenchmarkMultiplier
 
 • **LastGPUBenchmarkMultiplier**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32431](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32431)
 
 ___
 
@@ -270,19 +222,11 @@ ___
 
 • **LastGPUBenchmarkResult**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32428)
-
 ___
 
 ### LastGPUBenchmarkSteps
 
 • **LastGPUBenchmarkSteps**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:32430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32430)
 
 ___
 
@@ -290,19 +234,11 @@ ___
 
 • **LastRecommendedScreenHeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32426](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32426)
-
 ___
 
 ### LastRecommendedScreenWidth
 
 • **LastRecommendedScreenWidth**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32425)
 
 ___
 
@@ -310,19 +246,11 @@ ___
 
 • **LastUserConfirmedDesiredScreenHeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32424](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32424)
-
 ___
 
 ### LastUserConfirmedDesiredScreenWidth
 
 • **LastUserConfirmedDesiredScreenWidth**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32423)
 
 ___
 
@@ -330,19 +258,11 @@ ___
 
 • **LastUserConfirmedResolutionSizeX**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32409)
-
 ___
 
 ### LastUserConfirmedResolutionSizeY
 
 • **LastUserConfirmedResolutionSizeY**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32410)
 
 ___
 
@@ -350,19 +270,11 @@ ___
 
 • **OnGameUserSettingsUINeedsUpdate**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<() => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:32434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32434)
-
 ___
 
 ### PreferredFullscreenMode
 
 • **PreferredFullscreenMode**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32415)
 
 ___
 
@@ -370,19 +282,11 @@ ___
 
 • **ResolutionSizeX**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32407)
-
 ___
 
 ### ResolutionSizeY
 
 • **ResolutionSizeY**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32408)
 
 ___
 
@@ -390,19 +294,11 @@ ___
 
 • **Version**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32416)
-
 ___
 
 ### WindowPosX
 
 • **WindowPosX**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32411)
 
 ___
 
@@ -410,19 +306,11 @@ ___
 
 • **WindowPosY**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32412)
-
 ___
 
 ### \_\_tid\_GameUserSettings\_\_
 
 • **\_\_tid\_GameUserSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32508](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32508)
 
 ___
 
@@ -434,19 +322,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bUseDesiredScreenHeight
 
 • **bUseDesiredScreenHeight**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32421)
 
 ___
 
@@ -454,29 +334,17 @@ ___
 
 • **bUseDynamicResolution**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32406)
-
 ___
 
 ### bUseHDRDisplayOutput
 
 • **bUseHDRDisplayOutput**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32432)
-
 ___
 
 ### bUseVSync
 
 • **bUseVSync**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32405)
 
 ## Methods
 
@@ -488,10 +356,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32435)
-
 ___
 
 ### ApplyNonResolutionSettings
@@ -501,10 +365,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32436)
 
 ___
 
@@ -522,10 +382,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32437)
-
 ___
 
 ### ApplySettings
@@ -542,10 +398,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32438)
-
 ___
 
 ### ConfirmVideoMode
@@ -555,10 +407,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32439)
 
 ___
 
@@ -584,10 +432,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### EnableHDRDisplayOutput
@@ -604,10 +448,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32440)
 
 ___
 
@@ -629,10 +469,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetAntiAliasingQuality
@@ -643,10 +479,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32441](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32441)
-
 ___
 
 ### GetAudioQualityLevel
@@ -656,10 +488,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32442](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32442)
 
 ___
 
@@ -675,10 +503,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetCurrentHDRDisplayNits
@@ -688,10 +512,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32443](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32443)
 
 ___
 
@@ -703,10 +523,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32444](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32444)
-
 ___
 
 ### GetDesktopResolution
@@ -716,10 +532,6 @@ ___
 #### Returns
 
 [`IntPoint`](ue_ue_s.IntPoint.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32445](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32445)
 
 ___
 
@@ -731,10 +543,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32446)
-
 ___
 
 ### GetFrameRateLimit
@@ -744,10 +552,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32447)
 
 ___
 
@@ -759,10 +563,6 @@ ___
 
 [`EWindowMode`](../enums/ue_ue.EWindowMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32448)
-
 ___
 
 ### GetLastConfirmedFullscreenMode
@@ -773,10 +573,6 @@ ___
 
 [`EWindowMode`](../enums/ue_ue.EWindowMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32449)
-
 ___
 
 ### GetLastConfirmedScreenResolution
@@ -786,10 +582,6 @@ ___
 #### Returns
 
 [`IntPoint`](ue_ue_s.IntPoint.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32450)
 
 ___
 
@@ -805,10 +597,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -823,10 +611,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetOverallScalabilityLevel
@@ -836,10 +620,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32451)
 
 ___
 
@@ -851,10 +631,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32452)
-
 ___
 
 ### GetPreferredFullscreenMode
@@ -865,10 +641,6 @@ ___
 
 [`EWindowMode`](../enums/ue_ue.EWindowMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32453)
-
 ___
 
 ### GetRecommendedResolutionScale
@@ -878,10 +650,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32454)
 
 ___
 
@@ -902,10 +670,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32455)
-
 ___
 
 ### GetResolutionScaleInformationEx
@@ -925,10 +689,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32456](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32456)
-
 ___
 
 ### GetResolutionScaleNormalized
@@ -938,10 +698,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32457)
 
 ___
 
@@ -953,10 +709,6 @@ ___
 
 [`IntPoint`](ue_ue_s.IntPoint.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32458](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32458)
-
 ___
 
 ### GetShadingQuality
@@ -966,10 +718,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32459](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32459)
 
 ___
 
@@ -981,10 +729,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32460](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32460)
-
 ___
 
 ### GetTextureQuality
@@ -994,10 +738,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32461](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32461)
 
 ___
 
@@ -1009,10 +749,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32462](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32462)
-
 ___
 
 ### GetVisualEffectQuality
@@ -1022,10 +758,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32463)
 
 ___
 
@@ -1041,10 +773,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### IsDirty
@@ -1054,10 +782,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32464)
 
 ___
 
@@ -1069,10 +793,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32465)
-
 ___
 
 ### IsDynamicResolutionEnabled
@@ -1082,10 +802,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32466](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32466)
 
 ___
 
@@ -1097,10 +813,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32467](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32467)
-
 ___
 
 ### IsHDREnabled
@@ -1110,10 +822,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32468)
 
 ___
 
@@ -1125,10 +833,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32469)
-
 ___
 
 ### IsVSyncDirty
@@ -1139,10 +843,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32470)
-
 ___
 
 ### IsVSyncEnabled
@@ -1152,10 +852,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32471)
 
 ___
 
@@ -1173,10 +869,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32472](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32472)
-
 ___
 
 ### ResetToCurrentSettings
@@ -1187,10 +879,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32473](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32473)
-
 ___
 
 ### RevertVideoMode
@@ -1200,10 +888,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32474)
 
 ___
 
@@ -1223,10 +907,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32475)
-
 ___
 
 ### SaveSettings
@@ -1236,10 +916,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32476)
 
 ___
 
@@ -1257,10 +933,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32477)
-
 ___
 
 ### SetAudioQualityLevel
@@ -1277,10 +949,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32478)
-
 ___
 
 ### SetBenchmarkFallbackValues
@@ -1290,10 +958,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32479)
 
 ___
 
@@ -1311,10 +975,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32480)
-
 ___
 
 ### SetFoliageQuality
@@ -1330,10 +990,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32481)
 
 ___
 
@@ -1351,10 +1007,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32482)
-
 ___
 
 ### SetFullscreenMode
@@ -1370,10 +1022,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32483)
 
 ___
 
@@ -1391,10 +1039,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32484](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32484)
-
 ___
 
 ### SetPostProcessingQuality
@@ -1410,10 +1054,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32485)
 
 ___
 
@@ -1431,10 +1071,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32486)
-
 ___
 
 ### SetResolutionScaleValue
@@ -1450,10 +1086,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32487)
 
 ___
 
@@ -1471,10 +1103,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32488)
-
 ___
 
 ### SetScreenResolution
@@ -1490,10 +1118,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32489)
 
 ___
 
@@ -1511,10 +1135,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32490)
-
 ___
 
 ### SetShadowQuality
@@ -1530,10 +1150,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32491)
 
 ___
 
@@ -1551,10 +1167,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32492)
-
 ___
 
 ### SetToDefaults
@@ -1564,10 +1176,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32493)
 
 ___
 
@@ -1585,10 +1193,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32496)
-
 ___
 
 ### SetViewDistanceQuality
@@ -1604,10 +1208,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32494)
 
 ___
 
@@ -1625,10 +1225,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32495)
-
 ___
 
 ### SupportsHDRDisplayOutput
@@ -1639,10 +1235,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32497)
-
 ___
 
 ### ValidateSettings
@@ -1652,10 +1244,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32498)
 
 ___
 
@@ -1678,10 +1266,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:32505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32505)
-
 ___
 
 ### GetDefaultResolution
@@ -1691,10 +1275,6 @@ ___
 #### Returns
 
 [`IntPoint`](ue_ue_s.IntPoint.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32499)
 
 ___
 
@@ -1706,10 +1286,6 @@ ___
 
 [`EWindowMode`](../enums/ue_ue.EWindowMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32500)
-
 ___
 
 ### GetDefaultWindowPosition
@@ -1719,10 +1295,6 @@ ___
 #### Returns
 
 [`IntPoint`](ue_ue_s.IntPoint.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32501)
 
 ___
 
@@ -1734,10 +1306,6 @@ ___
 
 [`GameUserSettings`](ue_ue.GameUserSettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32502)
-
 ___
 
 ### GetSyncInterval
@@ -1747,10 +1315,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32503)
 
 ___
 
@@ -1772,10 +1336,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:32506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32506)
-
 ___
 
 ### StaticClass
@@ -1789,7 +1349,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:32504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32504)

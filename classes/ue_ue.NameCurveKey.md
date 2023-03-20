@@ -27,10 +27,6 @@
 
 • **new NameCurveKey**()
 
-#### Defined in
-
-[ue/ue.d.ts:51734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51734)
-
 • **new NameCurveKey**(`Time`, `Value`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Time` | `number` |
 | `Value` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:51735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51735)
-
 ## Properties
 
 ### Time
 
 • **Time**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:51736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51736)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Value**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:51737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51737)
-
 ___
 
 ### \_\_tid\_NameCurveKey\_\_
 
 • `Private` **\_\_tid\_NameCurveKey\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:51743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51743)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:51741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51741)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:51742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51742)

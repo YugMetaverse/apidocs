@@ -19,19 +19,11 @@
 
 • **SNCT\_CurveMapping** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34784)
-
 ___
 
 ### SNCT\_MAX
 
 • **SNCT\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34784)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **SNCT\_TrackCurveMapping** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34784)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34784)

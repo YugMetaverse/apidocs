@@ -23,19 +23,11 @@
 
 • **Any** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35042)
-
 ___
 
 ### Controller
 
 • **Controller** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35042)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **EXRTrackedDeviceType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35042)
-
 ___
 
 ### HeadMountedDisplay
 
 • **HeadMountedDisplay** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35042)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **Invalid** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35042)
-
 ___
 
 ### Other
 
 • **Other** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35042)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **TrackingReference** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35042)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35042)

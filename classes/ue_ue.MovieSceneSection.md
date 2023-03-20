@@ -144,19 +144,11 @@
 
 [MovieSceneSignedObject](ue_ue.MovieSceneSignedObject.md).[constructor](ue_ue.MovieSceneSignedObject.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:11779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11779)
-
 ## Properties
 
 ### BlendType
 
 • **BlendType**: [`OptionalMovieSceneBlendType`](ue_ue.OptionalMovieSceneBlendType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11796)
 
 ___
 
@@ -164,19 +156,11 @@ ___
 
 • **Easing**: [`MovieSceneEasingSettings`](ue_ue.MovieSceneEasingSettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11781)
-
 ___
 
 ### EndTime
 
 • **EndTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11791)
 
 ___
 
@@ -184,19 +168,11 @@ ___
 
 • **EvalOptions**: [`MovieSceneSectionEvalOptions`](ue_ue.MovieSceneSectionEvalOptions.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11780)
-
 ___
 
 ### OverlapPriority
 
 • **OverlapPriority**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11787)
 
 ___
 
@@ -204,19 +180,11 @@ ___
 
 • **PostRollFrames**: [`FrameNumber`](ue_ue.FrameNumber.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11785](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11785)
-
 ___
 
 ### PostRollTime
 
 • **PostRollTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11793)
 
 ___
 
@@ -224,19 +192,11 @@ ___
 
 • **PreRollFrames**: [`FrameNumber`](ue_ue.FrameNumber.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11784)
-
 ___
 
 ### PreRollTime
 
 • **PreRollTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11792)
 
 ___
 
@@ -244,19 +204,11 @@ ___
 
 • **RowIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11786)
-
 ___
 
 ### SectionRange
 
 • **SectionRange**: [`MovieSceneFrameRange`](ue_ue.MovieSceneFrameRange.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11782)
 
 ___
 
@@ -268,19 +220,11 @@ ___
 
 [MovieSceneSignedObject](ue_ue.MovieSceneSignedObject.md).[Signature](ue_ue.MovieSceneSignedObject.md#signature)
 
-#### Defined in
-
-[ue/ue.d.ts:11034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11034)
-
 ___
 
 ### StartTime
 
 • **StartTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11790)
 
 ___
 
@@ -288,19 +232,11 @@ ___
 
 • **TimecodeSource**: [`MovieSceneTimecodeSource`](ue_ue.MovieSceneTimecodeSource.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11783)
-
 ___
 
 ### \_\_tid\_MovieSceneSection\_\_
 
 • **\_\_tid\_MovieSceneSection\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11817)
 
 ___
 
@@ -312,10 +248,6 @@ ___
 
 [MovieSceneSignedObject](ue_ue.MovieSceneSignedObject.md).[__tid_MovieSceneSignedObject__](ue_ue.MovieSceneSignedObject.md#__tid_moviescenesignedobject__)
 
-#### Defined in
-
-[ue/ue.d.ts:11039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11039)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -326,19 +258,11 @@ ___
 
 [MovieSceneSignedObject](ue_ue.MovieSceneSignedObject.md).[__tid_Object__](ue_ue.MovieSceneSignedObject.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bIsActive
 
 • **bIsActive**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11788)
 
 ___
 
@@ -346,29 +270,17 @@ ___
 
 • **bIsInfinite**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:11794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11794)
-
 ___
 
 ### bIsLocked
 
 • **bIsLocked**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:11789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11789)
-
 ___
 
 ### bSupportsInfiniteRange
 
 • **bSupportsInfiniteRange**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11795)
 
 ## Methods
 
@@ -394,10 +306,6 @@ ___
 
 [MovieSceneSignedObject](ue_ue.MovieSceneSignedObject.md).[CreateDefaultSubobject](ue_ue.MovieSceneSignedObject.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -418,10 +326,6 @@ ___
 
 [MovieSceneSignedObject](ue_ue.MovieSceneSignedObject.md).[ExecuteUbergraph](ue_ue.MovieSceneSignedObject.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetBlendType
@@ -431,10 +335,6 @@ ___
 #### Returns
 
 [`OptionalMovieSceneBlendType`](ue_ue.OptionalMovieSceneBlendType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11797](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11797)
 
 ___
 
@@ -450,10 +350,6 @@ ___
 
 [MovieSceneSignedObject](ue_ue.MovieSceneSignedObject.md).[GetClass](ue_ue.MovieSceneSignedObject.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetCompletionMode
@@ -463,10 +359,6 @@ ___
 #### Returns
 
 [`EMovieSceneCompletionMode`](../enums/ue_ue.EMovieSceneCompletionMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11798)
 
 ___
 
@@ -482,10 +374,6 @@ ___
 
 [MovieSceneSignedObject](ue_ue.MovieSceneSignedObject.md).[GetName](ue_ue.MovieSceneSignedObject.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -500,10 +388,6 @@ ___
 
 [MovieSceneSignedObject](ue_ue.MovieSceneSignedObject.md).[GetOuter](ue_ue.MovieSceneSignedObject.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetOverlapPriority
@@ -513,10 +397,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11799)
 
 ___
 
@@ -528,10 +408,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11800)
-
 ___
 
 ### GetPreRollFrames
@@ -542,10 +418,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11801)
-
 ___
 
 ### GetRowIndex
@@ -555,10 +427,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11802)
 
 ___
 
@@ -574,10 +442,6 @@ ___
 
 [MovieSceneSignedObject](ue_ue.MovieSceneSignedObject.md).[GetWorld](ue_ue.MovieSceneSignedObject.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### IsActive
@@ -588,10 +452,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:11803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11803)
-
 ___
 
 ### IsLocked
@@ -601,10 +461,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11804)
 
 ___
 
@@ -622,10 +478,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:11805](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11805)
-
 ___
 
 ### SetCompletionMode
@@ -641,10 +493,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:11806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11806)
 
 ___
 
@@ -662,10 +510,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:11807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11807)
-
 ___
 
 ### SetIsLocked
@@ -681,10 +525,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:11808](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11808)
 
 ___
 
@@ -702,10 +542,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:11809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11809)
-
 ___
 
 ### SetPostRollFrames
@@ -721,10 +557,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:11810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11810)
 
 ___
 
@@ -742,10 +574,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:11811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11811)
-
 ___
 
 ### SetRowIndex
@@ -761,10 +589,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:11812](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11812)
 
 ___
 
@@ -787,10 +611,6 @@ ___
 
 [MovieSceneSignedObject](ue_ue.MovieSceneSignedObject.md).[Find](ue_ue.MovieSceneSignedObject.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:11814](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11814)
-
 ___
 
 ### Load
@@ -811,10 +631,6 @@ ___
 
 [MovieSceneSignedObject](ue_ue.MovieSceneSignedObject.md).[Load](ue_ue.MovieSceneSignedObject.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:11815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11815)
-
 ___
 
 ### StaticClass
@@ -828,7 +644,3 @@ ___
 #### Overrides
 
 [MovieSceneSignedObject](ue_ue.MovieSceneSignedObject.md).[StaticClass](ue_ue.MovieSceneSignedObject.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:11813](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11813)

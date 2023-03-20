@@ -54,10 +54,6 @@
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[constructor](ue_ue.AnimNode_SkeletalControlBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:18364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18364)
-
 • **new AnimNode_CopyBoneDelta**(`SourceBone`, `TargetBone`, `bCopyTranslation`, `bCopyRotation`, `bCopyScale`, `CopyMode`, `TranslationMultiplier`, `RotationMultiplier`, `ScaleMultiplier`)
 
 #### Parameters
@@ -78,10 +74,6 @@
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[constructor](ue_ue.AnimNode_SkeletalControlBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:18365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18365)
-
 ## Properties
 
 ### ActualAlpha
@@ -91,10 +83,6 @@
 #### Inherited from
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[ActualAlpha](ue_ue.AnimNode_SkeletalControlBase.md#actualalpha)
-
-#### Defined in
-
-[ue/ue.d.ts:17717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17717)
 
 ___
 
@@ -106,10 +94,6 @@ ___
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[Alpha](ue_ue.AnimNode_SkeletalControlBase.md#alpha)
 
-#### Defined in
-
-[ue/ue.d.ts:17720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17720)
-
 ___
 
 ### AlphaBoolBlend
@@ -119,10 +103,6 @@ ___
 #### Inherited from
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[AlphaBoolBlend](ue_ue.AnimNode_SkeletalControlBase.md#alphaboolblend)
-
-#### Defined in
-
-[ue/ue.d.ts:17722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17722)
 
 ___
 
@@ -134,10 +114,6 @@ ___
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[AlphaCurveName](ue_ue.AnimNode_SkeletalControlBase.md#alphacurvename)
 
-#### Defined in
-
-[ue/ue.d.ts:17723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17723)
-
 ___
 
 ### AlphaInputType
@@ -147,10 +123,6 @@ ___
 #### Inherited from
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[AlphaInputType](ue_ue.AnimNode_SkeletalControlBase.md#alphainputtype)
-
-#### Defined in
-
-[ue/ue.d.ts:17718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17718)
 
 ___
 
@@ -162,10 +134,6 @@ ___
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[AlphaScaleBias](ue_ue.AnimNode_SkeletalControlBase.md#alphascalebias)
 
-#### Defined in
-
-[ue/ue.d.ts:17721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17721)
-
 ___
 
 ### AlphaScaleBiasClamp
@@ -175,10 +143,6 @@ ___
 #### Inherited from
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[AlphaScaleBiasClamp](ue_ue.AnimNode_SkeletalControlBase.md#alphascalebiasclamp)
-
-#### Defined in
-
-[ue/ue.d.ts:17724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17724)
 
 ___
 
@@ -190,19 +154,11 @@ ___
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[ComponentPose](ue_ue.AnimNode_SkeletalControlBase.md#componentpose)
 
-#### Defined in
-
-[ue/ue.d.ts:17715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17715)
-
 ___
 
 ### CopyMode
 
 • **CopyMode**: [`CopyBoneDeltaMode`](../enums/ue_ue.CopyBoneDeltaMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:18371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18371)
 
 ___
 
@@ -214,19 +170,11 @@ ___
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[LODThreshold](ue_ue.AnimNode_SkeletalControlBase.md#lodthreshold)
 
-#### Defined in
-
-[ue/ue.d.ts:17716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17716)
-
 ___
 
 ### RotationMultiplier
 
 • **RotationMultiplier**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18373](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18373)
 
 ___
 
@@ -234,19 +182,11 @@ ___
 
 • **ScaleMultiplier**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18374](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18374)
-
 ___
 
 ### SourceBone
 
 • **SourceBone**: [`BoneReference`](ue_ue.BoneReference.md)
-
-#### Defined in
-
-[ue/ue.d.ts:18366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18366)
 
 ___
 
@@ -254,29 +194,17 @@ ___
 
 • **TargetBone**: [`BoneReference`](ue_ue.BoneReference.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18367)
-
 ___
 
 ### TranslationMultiplier
 
 • **TranslationMultiplier**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18372)
-
 ___
 
 ### \_\_tid\_AnimNode\_CopyBoneDelta\_\_
 
 • `Private` **\_\_tid\_AnimNode\_CopyBoneDelta\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18380](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18380)
 
 ___
 
@@ -288,19 +216,11 @@ ___
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[bAlphaBoolEnabled](ue_ue.AnimNode_SkeletalControlBase.md#balphaboolenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:17719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17719)
-
 ___
 
 ### bCopyRotation
 
 • **bCopyRotation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18369](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18369)
 
 ___
 
@@ -308,19 +228,11 @@ ___
 
 • **bCopyScale**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:18370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18370)
-
 ___
 
 ### bCopyTranslation
 
 • **bCopyTranslation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18368)
 
 ## Methods
 
@@ -340,10 +252,6 @@ use StaticStruct instead.
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[StaticClass](ue_ue.AnimNode_SkeletalControlBase.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:18378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18378)
-
 ___
 
 ### StaticStruct
@@ -357,7 +265,3 @@ ___
 #### Overrides
 
 [AnimNode_SkeletalControlBase](ue_ue.AnimNode_SkeletalControlBase.md).[StaticStruct](ue_ue.AnimNode_SkeletalControlBase.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:18379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18379)

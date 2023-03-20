@@ -27,10 +27,6 @@
 
 • **new BPVariableMetaDataEntry**()
 
-#### Defined in
-
-[ue/ue.d.ts:4117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4117)
-
 • **new BPVariableMetaDataEntry**(`DataKey`, `DataValue`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `DataKey` | `string` |
 | `DataValue` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:4118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4118)
-
 ## Properties
 
 ### DataKey
 
 • **DataKey**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:4119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4119)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **DataValue**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:4120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4120)
-
 ___
 
 ### \_\_tid\_BPVariableMetaDataEntry\_\_
 
 • `Private` **\_\_tid\_BPVariableMetaDataEntry\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4126)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4124)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4125)

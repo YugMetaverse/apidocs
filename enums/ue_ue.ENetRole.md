@@ -21,19 +21,11 @@
 
 • **ROLE\_Authority** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L219)
-
 ___
 
 ### ROLE\_AutonomousProxy
 
 • **ROLE\_AutonomousProxy** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L219)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **ROLE\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L219)
-
 ___
 
 ### ROLE\_None
 
 • **ROLE\_None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L219)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **ROLE\_SimulatedProxy** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L219)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L219)

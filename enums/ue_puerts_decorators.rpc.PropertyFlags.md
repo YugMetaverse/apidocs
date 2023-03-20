@@ -17,16 +17,8 @@
 
 • **CPF\_Net** = ``32``
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:20](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L20)
-
 ___
 
 ### CPF\_RepNotify
 
 • **CPF\_RepNotify** = ``4294967296``
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L21)

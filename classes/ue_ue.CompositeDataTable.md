@@ -64,10 +64,6 @@
 
 [DataTable](ue_ue.DataTable.md).[constructor](ue_ue.DataTable.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:28434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28434)
-
 ## Properties
 
 ### AssetImportData
@@ -77,10 +73,6 @@
 #### Inherited from
 
 [DataTable](ue_ue.DataTable.md).[AssetImportData](ue_ue.DataTable.md#assetimportdata)
-
-#### Defined in
-
-[ue/ue.d.ts:28421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28421)
 
 ___
 
@@ -92,10 +84,6 @@ ___
 
 [DataTable](ue_ue.DataTable.md).[ImportKeyField](ue_ue.DataTable.md#importkeyfield)
 
-#### Defined in
-
-[ue/ue.d.ts:28420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28420)
-
 ___
 
 ### ImportPath
@@ -106,29 +94,17 @@ ___
 
 [DataTable](ue_ue.DataTable.md).[ImportPath](ue_ue.DataTable.md#importpath)
 
-#### Defined in
-
-[ue/ue.d.ts:28422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28422)
-
 ___
 
 ### OldParentTables
 
 • **OldParentTables**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`DataTable`](ue_ue.DataTable.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:28436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28436)
-
 ___
 
 ### ParentTables
 
 • **ParentTables**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`DataTable`](ue_ue.DataTable.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:28435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28435)
 
 ___
 
@@ -140,10 +116,6 @@ ___
 
 [DataTable](ue_ue.DataTable.md).[RowStruct](ue_ue.DataTable.md#rowstruct)
 
-#### Defined in
-
-[ue/ue.d.ts:28416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28416)
-
 ___
 
 ### RowStructName
@@ -153,10 +125,6 @@ ___
 #### Inherited from
 
 [DataTable](ue_ue.DataTable.md).[RowStructName](ue_ue.DataTable.md#rowstructname)
-
-#### Defined in
-
-[ue/ue.d.ts:28423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28423)
 
 ___
 
@@ -168,10 +136,6 @@ ___
 
 [DataTable](ue_ue.DataTable.md).[RowsSerializedWithTags](ue_ue.DataTable.md#rowsserializedwithtags)
 
-#### Defined in
-
-[ue/ue.d.ts:28424](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28424)
-
 ___
 
 ### TemporarilyReferencedObjects
@@ -182,19 +146,11 @@ ___
 
 [DataTable](ue_ue.DataTable.md).[TemporarilyReferencedObjects](ue_ue.DataTable.md#temporarilyreferencedobjects)
 
-#### Defined in
-
-[ue/ue.d.ts:28425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28425)
-
 ___
 
 ### \_\_tid\_CompositeDataTable\_\_
 
 • **\_\_tid\_CompositeDataTable\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:28441](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28441)
 
 ___
 
@@ -206,10 +162,6 @@ ___
 
 [DataTable](ue_ue.DataTable.md).[__tid_DataTable__](ue_ue.DataTable.md#__tid_datatable__)
 
-#### Defined in
-
-[ue/ue.d.ts:28430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28430)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -219,10 +171,6 @@ ___
 #### Inherited from
 
 [DataTable](ue_ue.DataTable.md).[__tid_Object__](ue_ue.DataTable.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -234,10 +182,6 @@ ___
 
 [DataTable](ue_ue.DataTable.md).[bIgnoreExtraFields](ue_ue.DataTable.md#bignoreextrafields)
 
-#### Defined in
-
-[ue/ue.d.ts:28418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28418)
-
 ___
 
 ### bIgnoreMissingFields
@@ -248,10 +192,6 @@ ___
 
 [DataTable](ue_ue.DataTable.md).[bIgnoreMissingFields](ue_ue.DataTable.md#bignoremissingfields)
 
-#### Defined in
-
-[ue/ue.d.ts:28419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28419)
-
 ___
 
 ### bStripFromClientBuilds
@@ -261,10 +201,6 @@ ___
 #### Inherited from
 
 [DataTable](ue_ue.DataTable.md).[bStripFromClientBuilds](ue_ue.DataTable.md#bstripfromclientbuilds)
-
-#### Defined in
-
-[ue/ue.d.ts:28417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28417)
 
 ## Methods
 
@@ -290,10 +226,6 @@ ___
 
 [DataTable](ue_ue.DataTable.md).[CreateDefaultSubobject](ue_ue.DataTable.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -314,10 +246,6 @@ ___
 
 [DataTable](ue_ue.DataTable.md).[ExecuteUbergraph](ue_ue.DataTable.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -331,10 +259,6 @@ ___
 #### Inherited from
 
 [DataTable](ue_ue.DataTable.md).[GetClass](ue_ue.DataTable.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -350,10 +274,6 @@ ___
 
 [DataTable](ue_ue.DataTable.md).[GetName](ue_ue.DataTable.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -368,10 +288,6 @@ ___
 
 [DataTable](ue_ue.DataTable.md).[GetOuter](ue_ue.DataTable.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -385,10 +301,6 @@ ___
 #### Inherited from
 
 [DataTable](ue_ue.DataTable.md).[GetWorld](ue_ue.DataTable.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -411,10 +323,6 @@ ___
 
 [DataTable](ue_ue.DataTable.md).[Find](ue_ue.DataTable.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:28438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28438)
-
 ___
 
 ### Load
@@ -435,10 +343,6 @@ ___
 
 [DataTable](ue_ue.DataTable.md).[Load](ue_ue.DataTable.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:28439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28439)
-
 ___
 
 ### StaticClass
@@ -452,7 +356,3 @@ ___
 #### Overrides
 
 [DataTable](ue_ue.DataTable.md).[StaticClass](ue_ue.DataTable.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:28437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28437)

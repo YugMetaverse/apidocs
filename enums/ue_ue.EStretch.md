@@ -25,19 +25,11 @@
 
 • **EStretch\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34806)
-
 ___
 
 ### Fill
 
 • **Fill** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34806)
 
 ___
 
@@ -45,19 +37,11 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34806)
-
 ___
 
 ### ScaleBySafeZone
 
 • **ScaleBySafeZone** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34806)
 
 ___
 
@@ -65,19 +49,11 @@ ___
 
 • **ScaleToFill** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34806)
-
 ___
 
 ### ScaleToFit
 
 • **ScaleToFit** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34806)
 
 ___
 
@@ -85,19 +61,11 @@ ___
 
 • **ScaleToFitX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34806)
-
 ___
 
 ### ScaleToFitY
 
 • **ScaleToFitY** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34806)
 
 ___
 
@@ -105,16 +73,8 @@ ___
 
 • **UserSpecified** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34806)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34806)

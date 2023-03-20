@@ -29,10 +29,6 @@
 
 • **new BuilderPoly**()
 
-#### Defined in
-
-[ue/ue.d.ts:12777](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12777)
-
 • **new BuilderPoly**(`VertexIndices`, `Direction`, `ItemName`, `PolyFlags`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `ItemName` | `string` |
 | `PolyFlags` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:12778](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12778)
-
 ## Properties
 
 ### Direction
 
 • **Direction**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12780)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **ItemName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:12781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12781)
-
 ___
 
 ### PolyFlags
 
 • **PolyFlags**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12782)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **VertexIndices**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:12779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12779)
-
 ___
 
 ### \_\_tid\_BuilderPoly\_\_
 
 • `Private` **\_\_tid\_BuilderPoly\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:12788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12788)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:12786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12786)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:12787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12787)

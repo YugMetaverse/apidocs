@@ -27,10 +27,6 @@
 
 • **new ClassPickerDefaults**()
 
-#### Defined in
-
-[ue/ue.d.ts:64704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64704)
-
 • **new ClassPickerDefaults**(`ClassName`, `AssetClass`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `ClassName` | `string` |
 | `AssetClass` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:64705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64705)
-
 ## Properties
 
 ### AssetClass
 
 • **AssetClass**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:64707](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64707)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **ClassName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:64706](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64706)
-
 ___
 
 ### \_\_tid\_ClassPickerDefaults\_\_
 
 • `Private` **\_\_tid\_ClassPickerDefaults\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64713)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64711)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:64712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64712)

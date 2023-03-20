@@ -23,19 +23,11 @@
 
 • **TLM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1316)
-
 ___
 
 ### TLM\_Surface
 
 • **TLM\_Surface** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1316)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **TLM\_SurfacePerPixelLighting** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1316)
-
 ___
 
 ### TLM\_VolumetricDirectional
 
 • **TLM\_VolumetricDirectional** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1316)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **TLM\_VolumetricNonDirectional** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1316)
-
 ___
 
 ### TLM\_VolumetricPerVertexDirectional
 
 • **TLM\_VolumetricPerVertexDirectional** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1316)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **TLM\_VolumetricPerVertexNonDirectional** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1316)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1316)

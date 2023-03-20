@@ -30,10 +30,6 @@
 
 • **new Timecode**()
 
-#### Defined in
-
-[ue/ue.d.ts:11524](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11524)
-
 • **new Timecode**(`Hours`, `Minutes`, `Seconds`, `Frames`, `bDropFrameFormat`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `Frames` | `number` |
 | `bDropFrameFormat` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:11525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11525)
-
 ## Properties
 
 ### Frames
 
 • **Frames**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11529)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **Hours**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11526](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11526)
-
 ___
 
 ### Minutes
 
 • **Minutes**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11527](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11527)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **Seconds**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11528](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11528)
-
 ___
 
 ### \_\_tid\_Timecode\_\_
 
 • `Private` **\_\_tid\_Timecode\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:11536](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11536)
-
 ___
 
 ### bDropFrameFormat
 
 • **bDropFrameFormat**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11530)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11534](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11534)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11535)

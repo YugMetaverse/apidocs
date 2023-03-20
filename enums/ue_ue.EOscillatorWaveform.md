@@ -19,19 +19,11 @@
 
 • **EOscillatorWaveform\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7407)
-
 ___
 
 ### PerlinNoise
 
 • **PerlinNoise** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7407)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **SineWave** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7407)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7407)

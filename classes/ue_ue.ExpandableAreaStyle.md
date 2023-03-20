@@ -38,10 +38,6 @@
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[constructor](ue_ue.SlateWidgetStyle.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:34892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34892)
-
 • **new ExpandableAreaStyle**(`CollapsedImage`, `ExpandedImage`, `RolloutAnimationSeconds`)
 
 #### Parameters
@@ -56,19 +52,11 @@
 
 UE.SlateWidgetStyle.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:34893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34893)
-
 ## Properties
 
 ### CollapsedImage
 
 • **CollapsedImage**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:34894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34894)
 
 ___
 
@@ -76,29 +64,17 @@ ___
 
 • **ExpandedImage**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:34895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34895)
-
 ___
 
 ### RolloutAnimationSeconds
 
 • **RolloutAnimationSeconds**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34896)
-
 ___
 
 ### \_\_tid\_ExpandableAreaStyle\_\_
 
 • `Private` **\_\_tid\_ExpandableAreaStyle\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:34902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34902)
 
 ## Methods
 
@@ -118,10 +94,6 @@ use StaticStruct instead.
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[StaticClass](ue_ue.SlateWidgetStyle.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:34900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34900)
-
 ___
 
 ### StaticStruct
@@ -135,7 +107,3 @@ ___
 #### Overrides
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[StaticStruct](ue_ue.SlateWidgetStyle.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:34901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34901)

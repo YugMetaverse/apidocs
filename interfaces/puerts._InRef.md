@@ -21,7 +21,3 @@
 ### \_\_doNoAccess
 
 • **\_\_doNoAccess**: `T`
-
-#### Defined in
-
-[puerts/index.d.ts:10](https://github.com/YugMetaverse/yug_typings/blob/25cad34/puerts/index.d.ts#L10)

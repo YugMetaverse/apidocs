@@ -20,19 +20,11 @@
 
 • **DualQuatInterp** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33943)
-
 ___
 
 ### ELerpInterpolationMode\_MAX
 
 • **ELerpInterpolationMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33943)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **EulerInterp** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33943)
-
 ___
 
 ### QuatInterp
 
 • **QuatInterp** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33943)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33943)

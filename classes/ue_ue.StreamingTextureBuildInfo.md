@@ -28,10 +28,6 @@
 
 • **new StreamingTextureBuildInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:10552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10552)
-
 • **new StreamingTextureBuildInfo**(`PackedRelativeBox`, `TextureLevelIndex`, `TexelFactor`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `TextureLevelIndex` | `number` |
 | `TexelFactor` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:10553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10553)
-
 ## Properties
 
 ### PackedRelativeBox
 
 • **PackedRelativeBox**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10554)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **TexelFactor**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10556)
-
 ___
 
 ### TextureLevelIndex
 
 • **TextureLevelIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10555)
-
 ___
 
 ### \_\_tid\_StreamingTextureBuildInfo\_\_
 
 • `Private` **\_\_tid\_StreamingTextureBuildInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10562)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10560)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10561)

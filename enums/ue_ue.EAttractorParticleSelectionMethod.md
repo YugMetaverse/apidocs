@@ -19,19 +19,11 @@
 
 • **EAPSM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31371)
-
 ___
 
 ### EAPSM\_Random
 
 • **EAPSM\_Random** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31371)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **EAPSM\_Sequential** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31371)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31371)

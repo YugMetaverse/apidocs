@@ -28,10 +28,6 @@
 
 • **new MetaDataKeyGatherSpecification**()
 
-#### Defined in
-
-[ue/ue.d.ts:46088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46088)
-
 • **new MetaDataKeyGatherSpecification**(`MetaDataKey`, `TextNamespace`, `TextKeyPattern`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `TextNamespace` | `string` |
 | `TextKeyPattern` | [`MetaDataTextKeyPattern`](ue_ue.MetaDataTextKeyPattern.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:46089](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46089)
-
 ## Properties
 
 ### MetaDataKey
 
 • **MetaDataKey**: [`MetaDataKeyName`](ue_ue.MetaDataKeyName.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46090)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **TextKeyPattern**: [`MetaDataTextKeyPattern`](ue_ue.MetaDataTextKeyPattern.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46092)
-
 ___
 
 ### TextNamespace
 
 • **TextNamespace**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:46091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46091)
-
 ___
 
 ### \_\_tid\_MetaDataKeyGatherSpecification\_\_
 
 • `Private` **\_\_tid\_MetaDataKeyGatherSpecification\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46098)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46096](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46096)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46097](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46097)

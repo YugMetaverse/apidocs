@@ -19,19 +19,11 @@
 
 • **ENavigationSource\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34079)
-
 ___
 
 ### FocusedWidget
 
 • **FocusedWidget** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34079)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **WidgetUnderCursor** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34079)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34079)

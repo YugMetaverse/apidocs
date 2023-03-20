@@ -28,10 +28,6 @@
 
 • **new PreviewAttachedObjectPair**()
 
-#### Defined in
-
-[ue/ue.d.ts:2511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2511)
-
 • **new PreviewAttachedObjectPair**(`AttachedObject`, `Object`, `AttachedTo`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Object` | [`Object`](ue_ue.Object.md) |
 | `AttachedTo` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:2512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2512)
-
 ## Properties
 
 ### AttachedObject
 
 • **AttachedObject**: [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`Object`](ue_ue.Object.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:2513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2513)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **AttachedTo**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:2515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2515)
-
 ___
 
 ### Object
 
 • **Object**: [`Object`](ue_ue.Object.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2514](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2514)
-
 ___
 
 ### \_\_tid\_PreviewAttachedObjectPair\_\_
 
 • `Private` **\_\_tid\_PreviewAttachedObjectPair\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2521](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2521)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2519](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2519)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2520](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2520)

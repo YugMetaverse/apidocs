@@ -31,10 +31,6 @@
 
 • **new PerSkeletonAnimationSharingSetup**()
 
-#### Defined in
-
-[ue/ue.d.ts:17052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17052)
-
 • **new PerSkeletonAnimationSharingSetup**(`Skeleton`, `SkeletalMesh`, `BlendAnimBlueprint`, `AdditiveAnimBlueprint`, `StateProcessorClass`, `AnimationStates`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `StateProcessorClass` | [`Class`](ue_ue.Class.md) |
 | `AnimationStates` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AnimationStateEntry`](ue_ue.AnimationStateEntry.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:17053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17053)
-
 ## Properties
 
 ### AdditiveAnimBlueprint
 
 • **AdditiveAnimBlueprint**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17057)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **AnimationStates**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AnimationStateEntry`](ue_ue.AnimationStateEntry.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:17059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17059)
-
 ___
 
 ### BlendAnimBlueprint
 
 • **BlendAnimBlueprint**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17056](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17056)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **SkeletalMesh**: [`SkeletalMesh`](ue_ue.SkeletalMesh.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17055)
-
 ___
 
 ### Skeleton
 
 • **Skeleton**: [`Skeleton`](ue_ue.Skeleton.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17054)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **StateProcessorClass**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17058)
-
 ___
 
 ### \_\_tid\_PerSkeletonAnimationSharingSetup\_\_
 
 • `Private` **\_\_tid\_PerSkeletonAnimationSharingSetup\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17065)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17063)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17064)

@@ -23,19 +23,11 @@
 
 • **ESoundWaveLoadingBehavior\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8848)
-
 ___
 
 ### ForceInline
 
 • **ForceInline** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8848)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **Inherited** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8848)
-
 ___
 
 ### LoadOnDemand
 
 • **LoadOnDemand** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8848)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **PrimeOnLoad** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8848)
-
 ___
 
 ### RetainOnLoad
 
 • **RetainOnLoad** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8848)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **Uninitialized** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8848)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8848)

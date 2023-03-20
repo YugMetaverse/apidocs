@@ -37,10 +37,6 @@
 
 • **new RepRootMotionMontage**()
 
-#### Defined in
-
-[ue/ue.d.ts:5909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5909)
-
 • **new RepRootMotionMontage**(`bIsActive`, `AnimMontage`, `Position`, `Location`, `Rotation`, `MovementBase`, `MovementBaseBoneName`, `bRelativePosition`, `bRelativeRotation`, `AuthoritativeRootMotion`, `Acceleration`, `LinearVelocity`)
 
 #### Parameters
@@ -60,19 +56,11 @@
 | `Acceleration` | [`Vector_NetQuantize10`](ue_ue.Vector_NetQuantize10.md) |
 | `LinearVelocity` | [`Vector_NetQuantize10`](ue_ue.Vector_NetQuantize10.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:5910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5910)
-
 ## Properties
 
 ### Acceleration
 
 • **Acceleration**: [`Vector_NetQuantize10`](ue_ue.Vector_NetQuantize10.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5921)
 
 ___
 
@@ -80,19 +68,11 @@ ___
 
 • **AnimMontage**: [`AnimMontage`](ue_ue.AnimMontage.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5912)
-
 ___
 
 ### AuthoritativeRootMotion
 
 • **AuthoritativeRootMotion**: [`RootMotionSourceGroup`](ue_ue.RootMotionSourceGroup.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5920)
 
 ___
 
@@ -100,19 +80,11 @@ ___
 
 • **LinearVelocity**: [`Vector_NetQuantize10`](ue_ue.Vector_NetQuantize10.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5922)
-
 ___
 
 ### Location
 
 • **Location**: [`Vector_NetQuantize100`](ue_ue.Vector_NetQuantize100.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5914)
 
 ___
 
@@ -120,19 +92,11 @@ ___
 
 • **MovementBase**: [`PrimitiveComponent`](ue_ue.PrimitiveComponent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5916)
-
 ___
 
 ### MovementBaseBoneName
 
 • **MovementBaseBoneName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:5917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5917)
 
 ___
 
@@ -140,19 +104,11 @@ ___
 
 • **Position**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5913)
-
 ___
 
 ### Rotation
 
 • **Rotation**: [`Rotator`](ue_ue_s.Rotator.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5915)
 
 ___
 
@@ -160,19 +116,11 @@ ___
 
 • `Private` **\_\_tid\_RepRootMotionMontage\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5928)
-
 ___
 
 ### bIsActive
 
 • **bIsActive**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5911)
 
 ___
 
@@ -180,19 +128,11 @@ ___
 
 • **bRelativePosition**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5918)
-
 ___
 
 ### bRelativeRotation
 
 • **bRelativeRotation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5919)
 
 ## Methods
 
@@ -208,10 +148,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5926)
-
 ___
 
 ### StaticStruct
@@ -221,7 +157,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5927)

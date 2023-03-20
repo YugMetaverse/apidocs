@@ -97,10 +97,6 @@
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[constructor](ue_ue.AIGraphNode.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:23662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23662)
-
 ## Properties
 
 ### AdvancedPinDisplay
@@ -110,10 +106,6 @@
 #### Inherited from
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[AdvancedPinDisplay](ue_ue.AIGraphNode.md#advancedpindisplay)
-
-#### Defined in
-
-[ue/ue.d.ts:1067](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1067)
 
 ___
 
@@ -125,10 +117,6 @@ ___
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[ClassData](ue_ue.AIGraphNode.md#classdata)
 
-#### Defined in
-
-[ue/ue.d.ts:15117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15117)
-
 ___
 
 ### CopySubNodeIndex
@@ -139,19 +127,11 @@ ___
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[CopySubNodeIndex](ue_ue.AIGraphNode.md#copysubnodeindex)
 
-#### Defined in
-
-[ue/ue.d.ts:15121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15121)
-
 ___
 
 ### Decorators
 
 • **Decorators**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BehaviorTreeGraphNode`](ue_ue.BehaviorTreeGraphNode.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:23663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23663)
 
 ___
 
@@ -163,10 +143,6 @@ ___
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[DeprecatedPins](ue_ue.AIGraphNode.md#deprecatedpins)
 
-#### Defined in
-
-[ue/ue.d.ts:1062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1062)
-
 ___
 
 ### EnabledState
@@ -176,10 +152,6 @@ ___
 #### Inherited from
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[EnabledState](ue_ue.AIGraphNode.md#enabledstate)
-
-#### Defined in
-
-[ue/ue.d.ts:1068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1068)
 
 ___
 
@@ -191,10 +163,6 @@ ___
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[ErrorMessage](ue_ue.AIGraphNode.md#errormessage)
 
-#### Defined in
-
-[ue/ue.d.ts:15124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15124)
-
 ___
 
 ### ErrorMsg
@@ -204,10 +172,6 @@ ___
 #### Inherited from
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[ErrorMsg](ue_ue.AIGraphNode.md#errormsg)
-
-#### Defined in
-
-[ue/ue.d.ts:1081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1081)
 
 ___
 
@@ -219,10 +183,6 @@ ___
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[ErrorType](ue_ue.AIGraphNode.md#errortype)
 
-#### Defined in
-
-[ue/ue.d.ts:1080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1080)
-
 ___
 
 ### NodeComment
@@ -232,10 +192,6 @@ ___
 #### Inherited from
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[NodeComment](ue_ue.AIGraphNode.md#nodecomment)
-
-#### Defined in
-
-[ue/ue.d.ts:1079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1079)
 
 ___
 
@@ -247,10 +203,6 @@ ___
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[NodeGuid](ue_ue.AIGraphNode.md#nodeguid)
 
-#### Defined in
-
-[ue/ue.d.ts:1082](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1082)
-
 ___
 
 ### NodeHeight
@@ -260,10 +212,6 @@ ___
 #### Inherited from
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[NodeHeight](ue_ue.AIGraphNode.md#nodeheight)
-
-#### Defined in
-
-[ue/ue.d.ts:1066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1066)
 
 ___
 
@@ -275,10 +223,6 @@ ___
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[NodeInstance](ue_ue.AIGraphNode.md#nodeinstance)
 
-#### Defined in
-
-[ue/ue.d.ts:15118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15118)
-
 ___
 
 ### NodePosX
@@ -288,10 +232,6 @@ ___
 #### Inherited from
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[NodePosX](ue_ue.AIGraphNode.md#nodeposx)
-
-#### Defined in
-
-[ue/ue.d.ts:1063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1063)
 
 ___
 
@@ -303,10 +243,6 @@ ___
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[NodePosY](ue_ue.AIGraphNode.md#nodeposy)
 
-#### Defined in
-
-[ue/ue.d.ts:1064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1064)
-
 ___
 
 ### NodeUpgradeMessage
@@ -316,10 +252,6 @@ ___
 #### Inherited from
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[NodeUpgradeMessage](ue_ue.AIGraphNode.md#nodeupgrademessage)
-
-#### Defined in
-
-[ue/ue.d.ts:1078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1078)
 
 ___
 
@@ -331,10 +263,6 @@ ___
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[NodeWidth](ue_ue.AIGraphNode.md#nodewidth)
 
-#### Defined in
-
-[ue/ue.d.ts:1065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1065)
-
 ___
 
 ### ParentNode
@@ -345,19 +273,11 @@ ___
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[ParentNode](ue_ue.AIGraphNode.md#parentnode)
 
-#### Defined in
-
-[ue/ue.d.ts:15119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15119)
-
 ___
 
 ### Services
 
 • **Services**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BehaviorTreeGraphNode`](ue_ue.BehaviorTreeGraphNode.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:23664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23664)
 
 ___
 
@@ -369,10 +289,6 @@ ___
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[SubNodes](ue_ue.AIGraphNode.md#subnodes)
 
-#### Defined in
-
-[ue/ue.d.ts:15120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15120)
-
 ___
 
 ### \_\_tid\_AIGraphNode\_\_
@@ -383,19 +299,11 @@ ___
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[__tid_AIGraphNode__](ue_ue.AIGraphNode.md#__tid_aigraphnode__)
 
-#### Defined in
-
-[ue/ue.d.ts:15129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15129)
-
 ___
 
 ### \_\_tid\_BehaviorTreeGraphNode\_\_
 
 • **\_\_tid\_BehaviorTreeGraphNode\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:23670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23670)
 
 ___
 
@@ -407,10 +315,6 @@ ___
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[__tid_EdGraphNode__](ue_ue.AIGraphNode.md#__tid_edgraphnode__)
 
-#### Defined in
-
-[ue/ue.d.ts:1087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1087)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -420,10 +324,6 @@ ___
 #### Inherited from
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[__tid_Object__](ue_ue.AIGraphNode.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -435,10 +335,6 @@ ___
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[bCanRenameNode](ue_ue.AIGraphNode.md#bcanrenamenode)
 
-#### Defined in
-
-[ue/ue.d.ts:1077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1077)
-
 ___
 
 ### bCanResizeNode
@@ -448,10 +344,6 @@ ___
 #### Inherited from
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[bCanResizeNode](ue_ue.AIGraphNode.md#bcanresizenode)
-
-#### Defined in
-
-[ue/ue.d.ts:1072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1072)
 
 ___
 
@@ -463,10 +355,6 @@ ___
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[bCommentBubbleMakeVisible](ue_ue.AIGraphNode.md#bcommentbubblemakevisible)
 
-#### Defined in
-
-[ue/ue.d.ts:1076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1076)
-
 ___
 
 ### bCommentBubblePinned
@@ -476,10 +364,6 @@ ___
 #### Inherited from
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[bCommentBubblePinned](ue_ue.AIGraphNode.md#bcommentbubblepinned)
-
-#### Defined in
-
-[ue/ue.d.ts:1074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1074)
 
 ___
 
@@ -491,10 +375,6 @@ ___
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[bCommentBubbleVisible](ue_ue.AIGraphNode.md#bcommentbubblevisible)
 
-#### Defined in
-
-[ue/ue.d.ts:1075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1075)
-
 ___
 
 ### bDisplayAsDisabled
@@ -504,10 +384,6 @@ ___
 #### Inherited from
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[bDisplayAsDisabled](ue_ue.AIGraphNode.md#bdisplayasdisabled)
-
-#### Defined in
-
-[ue/ue.d.ts:1069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1069)
 
 ___
 
@@ -519,19 +395,11 @@ ___
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[bHasCompilerMessage](ue_ue.AIGraphNode.md#bhascompilermessage)
 
-#### Defined in
-
-[ue/ue.d.ts:1073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1073)
-
 ___
 
 ### bInjectedNode
 
 • **bInjectedNode**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:23665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23665)
 
 ___
 
@@ -543,10 +411,6 @@ ___
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[bIsNodeEnabled](ue_ue.AIGraphNode.md#bisnodeenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:1071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1071)
-
 ___
 
 ### bIsReadOnly
@@ -556,10 +420,6 @@ ___
 #### Inherited from
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[bIsReadOnly](ue_ue.AIGraphNode.md#bisreadonly)
-
-#### Defined in
-
-[ue/ue.d.ts:15122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15122)
 
 ___
 
@@ -571,10 +431,6 @@ ___
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[bIsSubNode](ue_ue.AIGraphNode.md#bissubnode)
 
-#### Defined in
-
-[ue/ue.d.ts:15123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15123)
-
 ___
 
 ### bUserSetEnabledState
@@ -584,10 +440,6 @@ ___
 #### Inherited from
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[bUserSetEnabledState](ue_ue.AIGraphNode.md#busersetenabledstate)
-
-#### Defined in
-
-[ue/ue.d.ts:1070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1070)
 
 ## Methods
 
@@ -613,10 +465,6 @@ ___
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[CreateDefaultSubobject](ue_ue.AIGraphNode.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -637,10 +485,6 @@ ___
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[ExecuteUbergraph](ue_ue.AIGraphNode.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -654,10 +498,6 @@ ___
 #### Inherited from
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[GetClass](ue_ue.AIGraphNode.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -673,10 +513,6 @@ ___
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[GetName](ue_ue.AIGraphNode.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -691,10 +527,6 @@ ___
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[GetOuter](ue_ue.AIGraphNode.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -708,10 +540,6 @@ ___
 #### Inherited from
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[GetWorld](ue_ue.AIGraphNode.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -734,10 +562,6 @@ ___
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[Find](ue_ue.AIGraphNode.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:23667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23667)
-
 ___
 
 ### Load
@@ -758,10 +582,6 @@ ___
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[Load](ue_ue.AIGraphNode.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:23668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23668)
-
 ___
 
 ### StaticClass
@@ -775,7 +595,3 @@ ___
 #### Overrides
 
 [AIGraphNode](ue_ue.AIGraphNode.md).[StaticClass](ue_ue.AIGraphNode.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:23666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23666)

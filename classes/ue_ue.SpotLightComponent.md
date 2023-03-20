@@ -295,10 +295,6 @@
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[constructor](ue_ue.PointLightComponent.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:37464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37464)
-
 ## Properties
 
 ### AssetUserData
@@ -308,10 +304,6 @@
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[AssetUserData](ue_ue.PointLightComponent.md#assetuserdata)
-
-#### Defined in
-
-[ue/ue.d.ts:291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L291)
 
 ___
 
@@ -323,10 +315,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[AttachChildren](ue_ue.PointLightComponent.md#attachchildren)
 
-#### Defined in
-
-[ue/ue.d.ts:12873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12873)
-
 ___
 
 ### AttachParent
@@ -336,10 +324,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[AttachParent](ue_ue.PointLightComponent.md#attachparent)
-
-#### Defined in
-
-[ue/ue.d.ts:12871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12871)
 
 ___
 
@@ -351,10 +335,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[AttachSocketName](ue_ue.PointLightComponent.md#attachsocketname)
 
-#### Defined in
-
-[ue/ue.d.ts:12872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12872)
-
 ___
 
 ### AttenuationRadius
@@ -364,10 +344,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[AttenuationRadius](ue_ue.PointLightComponent.md#attenuationradius)
-
-#### Defined in
-
-[ue/ue.d.ts:37433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37433)
 
 ___
 
@@ -379,10 +355,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[BloomMaxBrightness](ue_ue.PointLightComponent.md#bloommaxbrightness)
 
-#### Defined in
-
-[ue/ue.d.ts:24621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24621)
-
 ___
 
 ### BloomScale
@@ -392,10 +364,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[BloomScale](ue_ue.PointLightComponent.md#bloomscale)
-
-#### Defined in
-
-[ue/ue.d.ts:24619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24619)
 
 ___
 
@@ -407,10 +375,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[BloomThreshold](ue_ue.PointLightComponent.md#bloomthreshold)
 
-#### Defined in
-
-[ue/ue.d.ts:24620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24620)
-
 ___
 
 ### BloomTint
@@ -420,10 +384,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[BloomTint](ue_ue.PointLightComponent.md#bloomtint)
-
-#### Defined in
-
-[ue/ue.d.ts:24622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24622)
 
 ___
 
@@ -435,10 +395,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[Brightness](ue_ue.PointLightComponent.md#brightness)
 
-#### Defined in
-
-[ue/ue.d.ts:21357](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21357)
-
 ___
 
 ### CastDynamicShadows
@@ -448,10 +404,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[CastDynamicShadows](ue_ue.PointLightComponent.md#castdynamicshadows)
-
-#### Defined in
-
-[ue/ue.d.ts:21363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21363)
 
 ___
 
@@ -463,10 +415,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[CastShadows](ue_ue.PointLightComponent.md#castshadows)
 
-#### Defined in
-
-[ue/ue.d.ts:21361](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21361)
-
 ___
 
 ### CastStaticShadows
@@ -476,10 +424,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[CastStaticShadows](ue_ue.PointLightComponent.md#caststaticshadows)
-
-#### Defined in
-
-[ue/ue.d.ts:21362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21362)
 
 ___
 
@@ -491,10 +435,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[CastTranslucentShadows](ue_ue.PointLightComponent.md#casttranslucentshadows)
 
-#### Defined in
-
-[ue/ue.d.ts:24606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24606)
-
 ___
 
 ### ClientAttachedChildren
@@ -504,10 +444,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[ClientAttachedChildren](ue_ue.PointLightComponent.md#clientattachedchildren)
-
-#### Defined in
-
-[ue/ue.d.ts:12874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12874)
 
 ___
 
@@ -519,10 +455,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[ComponentTags](ue_ue.PointLightComponent.md#componenttags)
 
-#### Defined in
-
-[ue/ue.d.ts:290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L290)
-
 ___
 
 ### ComponentVelocity
@@ -532,10 +464,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[ComponentVelocity](ue_ue.PointLightComponent.md#componentvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12878)
 
 ___
 
@@ -547,10 +475,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[ContactShadowLength](ue_ue.PointLightComponent.md#contactshadowlength)
 
-#### Defined in
-
-[ue/ue.d.ts:24603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24603)
-
 ___
 
 ### ContactShadowLengthInWS
@@ -560,10 +484,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[ContactShadowLengthInWS](ue_ue.PointLightComponent.md#contactshadowlengthinws)
-
-#### Defined in
-
-[ue/ue.d.ts:24604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24604)
 
 ___
 
@@ -575,10 +495,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[CreationMethod](ue_ue.PointLightComponent.md#creationmethod)
 
-#### Defined in
-
-[ue/ue.d.ts:302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L302)
-
 ___
 
 ### DetailMode
@@ -588,10 +504,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[DetailMode](ue_ue.PointLightComponent.md#detailmode)
-
-#### Defined in
-
-[ue/ue.d.ts:12893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12893)
 
 ___
 
@@ -603,10 +515,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[DisabledBrightness](ue_ue.PointLightComponent.md#disabledbrightness)
 
-#### Defined in
-
-[ue/ue.d.ts:24617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24617)
-
 ___
 
 ### DynamicEditorTexture
@@ -616,10 +524,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[DynamicEditorTexture](ue_ue.PointLightComponent.md#dynamiceditortexture)
-
-#### Defined in
-
-[ue/ue.d.ts:21376](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21376)
 
 ___
 
@@ -631,10 +535,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[DynamicEditorTextureScale](ue_ue.PointLightComponent.md#dynamiceditortexturescale)
 
-#### Defined in
-
-[ue/ue.d.ts:21377](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21377)
-
 ___
 
 ### IESBrightnessScale
@@ -644,10 +544,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[IESBrightnessScale](ue_ue.PointLightComponent.md#iesbrightnessscale)
-
-#### Defined in
-
-[ue/ue.d.ts:24615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24615)
 
 ___
 
@@ -659,10 +555,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[IESTexture](ue_ue.PointLightComponent.md#iestexture)
 
-#### Defined in
-
-[ue/ue.d.ts:24613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24613)
-
 ___
 
 ### IndirectLightingIntensity
@@ -673,19 +565,11 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[IndirectLightingIntensity](ue_ue.PointLightComponent.md#indirectlightingintensity)
 
-#### Defined in
-
-[ue/ue.d.ts:21371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21371)
-
 ___
 
 ### InnerConeAngle
 
 • **InnerConeAngle**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:37465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37465)
 
 ___
 
@@ -697,10 +581,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[Intensity](ue_ue.PointLightComponent.md#intensity)
 
-#### Defined in
-
-[ue/ue.d.ts:21358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21358)
-
 ___
 
 ### IntensityUnits
@@ -710,10 +590,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[IntensityUnits](ue_ue.PointLightComponent.md#intensityunits)
-
-#### Defined in
-
-[ue/ue.d.ts:37431](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37431)
 
 ___
 
@@ -725,10 +601,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[InverseSquaredFalloff](ue_ue.PointLightComponent.md#inversesquaredfalloff)
 
-#### Defined in
-
-[ue/ue.d.ts:24605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24605)
-
 ___
 
 ### LightColor
@@ -738,10 +610,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[LightColor](ue_ue.PointLightComponent.md#lightcolor)
-
-#### Defined in
-
-[ue/ue.d.ts:21359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21359)
 
 ___
 
@@ -753,10 +621,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[LightFalloffExponent](ue_ue.PointLightComponent.md#lightfalloffexponent)
 
-#### Defined in
-
-[ue/ue.d.ts:37448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37448)
-
 ___
 
 ### LightFunctionFadeDistance
@@ -766,10 +630,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[LightFunctionFadeDistance](ue_ue.PointLightComponent.md#lightfunctionfadedistance)
-
-#### Defined in
-
-[ue/ue.d.ts:24616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24616)
 
 ___
 
@@ -781,10 +641,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[LightFunctionMaterial](ue_ue.PointLightComponent.md#lightfunctionmaterial)
 
-#### Defined in
-
-[ue/ue.d.ts:24611](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24611)
-
 ___
 
 ### LightFunctionScale
@@ -794,10 +650,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[LightFunctionScale](ue_ue.PointLightComponent.md#lightfunctionscale)
-
-#### Defined in
-
-[ue/ue.d.ts:24612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24612)
 
 ___
 
@@ -809,19 +661,11 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[LightGuid](ue_ue.PointLightComponent.md#lightguid)
 
-#### Defined in
-
-[ue/ue.d.ts:21356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21356)
-
 ___
 
 ### LightShaftConeAngle
 
 • **LightShaftConeAngle**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:37467](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37467)
 
 ___
 
@@ -833,10 +677,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[LightingChannels](ue_ue.PointLightComponent.md#lightingchannels)
 
-#### Defined in
-
-[ue/ue.d.ts:24610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24610)
-
 ___
 
 ### LightmassSettings
@@ -846,10 +686,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[LightmassSettings](ue_ue.PointLightComponent.md#lightmasssettings)
-
-#### Defined in
-
-[ue/ue.d.ts:37434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37434)
 
 ___
 
@@ -861,10 +697,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[MaxDistanceFadeRange](ue_ue.PointLightComponent.md#maxdistancefaderange)
 
-#### Defined in
-
-[ue/ue.d.ts:24594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24594)
-
 ___
 
 ### MaxDrawDistance
@@ -874,10 +706,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[MaxDrawDistance](ue_ue.PointLightComponent.md#maxdrawdistance)
-
-#### Defined in
-
-[ue/ue.d.ts:24593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24593)
 
 ___
 
@@ -889,10 +717,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[MinRoughness](ue_ue.PointLightComponent.md#minroughness)
 
-#### Defined in
-
-[ue/ue.d.ts:24597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24597)
-
 ___
 
 ### Mobility
@@ -902,10 +726,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[Mobility](ue_ue.PointLightComponent.md#mobility)
-
-#### Defined in
-
-[ue/ue.d.ts:12892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12892)
 
 ___
 
@@ -917,10 +737,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[OnComponentActivated](ue_ue.PointLightComponent.md#oncomponentactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L303)
-
 ___
 
 ### OnComponentDeactivated
@@ -931,19 +747,11 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[OnComponentDeactivated](ue_ue.PointLightComponent.md#oncomponentdeactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L304)
-
 ___
 
 ### OuterConeAngle
 
 • **OuterConeAngle**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:37466](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37466)
 
 ___
 
@@ -955,10 +763,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[PhysicsVolume](ue_ue.PointLightComponent.md#physicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12870)
-
 ___
 
 ### PhysicsVolumeChangedDelegate
@@ -968,10 +772,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[PhysicsVolumeChangedDelegate](ue_ue.PointLightComponent.md#physicsvolumechangeddelegate)
-
-#### Defined in
-
-[ue/ue.d.ts:12894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12894)
 
 ___
 
@@ -983,10 +783,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[PrimaryComponentTick](ue_ue.PointLightComponent.md#primarycomponenttick)
 
-#### Defined in
-
-[ue/ue.d.ts:289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L289)
-
 ___
 
 ### Radius
@@ -996,10 +792,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[Radius](ue_ue.PointLightComponent.md#radius)
-
-#### Defined in
-
-[ue/ue.d.ts:37432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37432)
 
 ___
 
@@ -1011,10 +803,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[RayStartOffsetDepthScale](ue_ue.PointLightComponent.md#raystartoffsetdepthscale)
 
-#### Defined in
-
-[ue/ue.d.ts:24624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24624)
-
 ___
 
 ### RelativeLocation
@@ -1024,10 +812,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[RelativeLocation](ue_ue.PointLightComponent.md#relativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12875)
 
 ___
 
@@ -1039,10 +823,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[RelativeRotation](ue_ue.PointLightComponent.md#relativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12876)
-
 ___
 
 ### RelativeScale3D
@@ -1052,10 +832,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[RelativeScale3D](ue_ue.PointLightComponent.md#relativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:12877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12877)
 
 ___
 
@@ -1067,10 +843,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SamplesPerPixel](ue_ue.PointLightComponent.md#samplesperpixel)
 
-#### Defined in
-
-[ue/ue.d.ts:21373](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21373)
-
 ___
 
 ### ShadowBias
@@ -1080,10 +852,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[ShadowBias](ue_ue.PointLightComponent.md#shadowbias)
-
-#### Defined in
-
-[ue/ue.d.ts:24600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24600)
 
 ___
 
@@ -1095,10 +863,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[ShadowMapChannel](ue_ue.PointLightComponent.md#shadowmapchannel)
 
-#### Defined in
-
-[ue/ue.d.ts:24596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24596)
-
 ___
 
 ### ShadowResolutionScale
@@ -1108,10 +872,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[ShadowResolutionScale](ue_ue.PointLightComponent.md#shadowresolutionscale)
-
-#### Defined in
-
-[ue/ue.d.ts:24599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24599)
 
 ___
 
@@ -1123,10 +883,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[ShadowSharpen](ue_ue.PointLightComponent.md#shadowsharpen)
 
-#### Defined in
-
-[ue/ue.d.ts:24602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24602)
-
 ___
 
 ### ShadowSlopeBias
@@ -1136,10 +892,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[ShadowSlopeBias](ue_ue.PointLightComponent.md#shadowslopebias)
-
-#### Defined in
-
-[ue/ue.d.ts:24601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24601)
 
 ___
 
@@ -1151,10 +903,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SoftSourceRadius](ue_ue.PointLightComponent.md#softsourceradius)
 
-#### Defined in
-
-[ue/ue.d.ts:37450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37450)
-
 ___
 
 ### SourceLength
@@ -1164,10 +912,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SourceLength](ue_ue.PointLightComponent.md#sourcelength)
-
-#### Defined in
-
-[ue/ue.d.ts:37451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37451)
 
 ___
 
@@ -1179,10 +923,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SourceRadius](ue_ue.PointLightComponent.md#sourceradius)
 
-#### Defined in
-
-[ue/ue.d.ts:37449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37449)
-
 ___
 
 ### SpecularScale
@@ -1192,10 +932,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SpecularScale](ue_ue.PointLightComponent.md#specularscale)
-
-#### Defined in
-
-[ue/ue.d.ts:24598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24598)
 
 ___
 
@@ -1207,10 +943,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[StaticEditorTexture](ue_ue.PointLightComponent.md#staticeditortexture)
 
-#### Defined in
-
-[ue/ue.d.ts:21374](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21374)
-
 ___
 
 ### StaticEditorTextureScale
@@ -1220,10 +952,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[StaticEditorTextureScale](ue_ue.PointLightComponent.md#staticeditortexturescale)
-
-#### Defined in
-
-[ue/ue.d.ts:21375](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21375)
 
 ___
 
@@ -1235,10 +963,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[Temperature](ue_ue.PointLightComponent.md#temperature)
 
-#### Defined in
-
-[ue/ue.d.ts:24592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24592)
-
 ___
 
 ### UCSModifiedProperties
@@ -1248,10 +972,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[UCSModifiedProperties](ue_ue.PointLightComponent.md#ucsmodifiedproperties)
-
-#### Defined in
-
-[ue/ue.d.ts:305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L305)
 
 ___
 
@@ -1263,10 +983,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[VolumetricScatteringIntensity](ue_ue.PointLightComponent.md#volumetricscatteringintensity)
 
-#### Defined in
-
-[ue/ue.d.ts:21372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21372)
-
 ___
 
 ### \_\_tid\_ActorComponent\_\_
@@ -1276,10 +992,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[__tid_ActorComponent__](ue_ue.PointLightComponent.md#__tid_actorcomponent__)
-
-#### Defined in
-
-[ue/ue.d.ts:336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L336)
 
 ___
 
@@ -1291,10 +1003,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[__tid_LightComponentBase__](ue_ue.PointLightComponent.md#__tid_lightcomponentbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:21390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21390)
-
 ___
 
 ### \_\_tid\_LightComponent\_\_
@@ -1304,10 +1012,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[__tid_LightComponent__](ue_ue.PointLightComponent.md#__tid_lightcomponent__)
-
-#### Defined in
-
-[ue/ue.d.ts:24653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24653)
 
 ___
 
@@ -1319,10 +1023,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[__tid_LocalLightComponent__](ue_ue.PointLightComponent.md#__tid_locallightcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:37442](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37442)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -1332,10 +1032,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[__tid_Object__](ue_ue.PointLightComponent.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -1347,10 +1043,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[__tid_PointLightComponent__](ue_ue.PointLightComponent.md#__tid_pointlightcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:37460](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37460)
-
 ___
 
 ### \_\_tid\_SceneComponent\_\_
@@ -1361,19 +1053,11 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[__tid_SceneComponent__](ue_ue.PointLightComponent.md#__tid_scenecomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:12961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12961)
-
 ___
 
 ### \_\_tid\_SpotLightComponent\_\_
 
 • **\_\_tid\_SpotLightComponent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:37474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37474)
 
 ___
 
@@ -1385,10 +1069,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bAbsoluteLocation](ue_ue.PointLightComponent.md#babsolutelocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12880)
-
 ___
 
 ### bAbsoluteRotation
@@ -1398,10 +1078,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bAbsoluteRotation](ue_ue.PointLightComponent.md#babsoluterotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12881)
 
 ___
 
@@ -1413,10 +1089,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bAbsoluteScale](ue_ue.PointLightComponent.md#babsolutescale)
 
-#### Defined in
-
-[ue/ue.d.ts:12882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12882)
-
 ___
 
 ### bAffectDynamicIndirectLighting
@@ -1426,10 +1098,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bAffectDynamicIndirectLighting](ue_ue.PointLightComponent.md#baffectdynamicindirectlighting)
-
-#### Defined in
-
-[ue/ue.d.ts:24608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24608)
 
 ___
 
@@ -1441,10 +1109,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bAffectGlobalIllumination](ue_ue.PointLightComponent.md#baffectglobalillumination)
 
-#### Defined in
-
-[ue/ue.d.ts:21370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21370)
-
 ___
 
 ### bAffectReflection
@@ -1454,10 +1118,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bAffectReflection](ue_ue.PointLightComponent.md#baffectreflection)
-
-#### Defined in
-
-[ue/ue.d.ts:21369](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21369)
 
 ___
 
@@ -1469,10 +1129,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bAffectTranslucentLighting](ue_ue.PointLightComponent.md#baffecttranslucentlighting)
 
-#### Defined in
-
-[ue/ue.d.ts:21364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21364)
-
 ___
 
 ### bAffectsWorld
@@ -1482,10 +1138,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bAffectsWorld](ue_ue.PointLightComponent.md#baffectsworld)
-
-#### Defined in
-
-[ue/ue.d.ts:21360](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21360)
 
 ___
 
@@ -1497,10 +1149,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bAutoActivate](ue_ue.PointLightComponent.md#bautoactivate)
 
-#### Defined in
-
-[ue/ue.d.ts:296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L296)
-
 ___
 
 ### bBoundsChangeTriggersStreamingDataRebuild
@@ -1510,10 +1158,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bBoundsChangeTriggersStreamingDataRebuild](ue_ue.PointLightComponent.md#bboundschangetriggersstreamingdatarebuild)
-
-#### Defined in
-
-[ue/ue.d.ts:12889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12889)
 
 ___
 
@@ -1525,10 +1169,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bCanEverAffectNavigation](ue_ue.PointLightComponent.md#bcaneveraffectnavigation)
 
-#### Defined in
-
-[ue/ue.d.ts:299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L299)
-
 ___
 
 ### bCastDeepShadow
@@ -1538,10 +1178,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bCastDeepShadow](ue_ue.PointLightComponent.md#bcastdeepshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:21367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21367)
 
 ___
 
@@ -1553,10 +1189,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bCastRaytracedShadow](ue_ue.PointLightComponent.md#bcastraytracedshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:21368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21368)
-
 ___
 
 ### bCastShadowsFromCinematicObjectsOnly
@@ -1566,10 +1198,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bCastShadowsFromCinematicObjectsOnly](ue_ue.PointLightComponent.md#bcastshadowsfromcinematicobjectsonly)
-
-#### Defined in
-
-[ue/ue.d.ts:24607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24607)
 
 ___
 
@@ -1581,10 +1209,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bCastVolumetricShadow](ue_ue.PointLightComponent.md#bcastvolumetricshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:21366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21366)
-
 ___
 
 ### bComponentToWorldUpdated
@@ -1594,10 +1218,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bComponentToWorldUpdated](ue_ue.PointLightComponent.md#bcomponenttoworldupdated)
-
-#### Defined in
-
-[ue/ue.d.ts:12879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12879)
 
 ___
 
@@ -1609,10 +1229,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bCreatedByConstructionScript](ue_ue.PointLightComponent.md#bcreatedbyconstructionscript)
 
-#### Defined in
-
-[ue/ue.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L294)
-
 ___
 
 ### bEditableWhenInherited
@@ -1622,10 +1238,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bEditableWhenInherited](ue_ue.PointLightComponent.md#beditablewheninherited)
-
-#### Defined in
-
-[ue/ue.d.ts:298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L298)
 
 ___
 
@@ -1637,10 +1249,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bEnableLightShaftBloom](ue_ue.PointLightComponent.md#benablelightshaftbloom)
 
-#### Defined in
-
-[ue/ue.d.ts:24618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24618)
-
 ___
 
 ### bForceCachedShadowsForMovablePrimitives
@@ -1650,10 +1258,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bForceCachedShadowsForMovablePrimitives](ue_ue.PointLightComponent.md#bforcecachedshadowsformovableprimitives)
-
-#### Defined in
-
-[ue/ue.d.ts:24609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24609)
 
 ___
 
@@ -1665,10 +1269,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bHiddenInGame](ue_ue.PointLightComponent.md#bhiddeningame)
 
-#### Defined in
-
-[ue/ue.d.ts:12884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12884)
-
 ___
 
 ### bInstanceComponent
@@ -1678,10 +1278,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bInstanceComponent](ue_ue.PointLightComponent.md#binstancecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L295)
 
 ___
 
@@ -1693,10 +1289,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bIsActive](ue_ue.PointLightComponent.md#bisactive)
 
-#### Defined in
-
-[ue/ue.d.ts:297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L297)
-
 ___
 
 ### bIsEditorOnly
@@ -1706,10 +1298,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bIsEditorOnly](ue_ue.PointLightComponent.md#biseditoronly)
-
-#### Defined in
-
-[ue/ue.d.ts:300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L300)
 
 ___
 
@@ -1721,10 +1309,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bIsVisualizationComponent](ue_ue.PointLightComponent.md#bisvisualizationcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L301)
-
 ___
 
 ### bNetAddressable
@@ -1734,10 +1318,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bNetAddressable](ue_ue.PointLightComponent.md#bnetaddressable)
-
-#### Defined in
-
-[ue/ue.d.ts:293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L293)
 
 ___
 
@@ -1749,10 +1329,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bReplicates](ue_ue.PointLightComponent.md#breplicates)
 
-#### Defined in
-
-[ue/ue.d.ts:292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L292)
-
 ___
 
 ### bShouldBeAttached
@@ -1762,10 +1338,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bShouldBeAttached](ue_ue.PointLightComponent.md#bshouldbeattached)
-
-#### Defined in
-
-[ue/ue.d.ts:12885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12885)
 
 ___
 
@@ -1777,10 +1349,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bShouldSnapLocationWhenAttached](ue_ue.PointLightComponent.md#bshouldsnaplocationwhenattached)
 
-#### Defined in
-
-[ue/ue.d.ts:12886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12886)
-
 ___
 
 ### bShouldSnapRotationWhenAttached
@@ -1790,10 +1358,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bShouldSnapRotationWhenAttached](ue_ue.PointLightComponent.md#bshouldsnaprotationwhenattached)
-
-#### Defined in
-
-[ue/ue.d.ts:12887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12887)
 
 ___
 
@@ -1805,10 +1369,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bShouldUpdatePhysicsVolume](ue_ue.PointLightComponent.md#bshouldupdatephysicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12888)
-
 ___
 
 ### bTransmission
@@ -1818,10 +1378,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bTransmission](ue_ue.PointLightComponent.md#btransmission)
-
-#### Defined in
-
-[ue/ue.d.ts:21365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21365)
 
 ___
 
@@ -1833,10 +1389,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bUseAttachParentBound](ue_ue.PointLightComponent.md#buseattachparentbound)
 
-#### Defined in
-
-[ue/ue.d.ts:12890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12890)
-
 ___
 
 ### bUseIESBrightness
@@ -1846,10 +1398,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bUseIESBrightness](ue_ue.PointLightComponent.md#buseiesbrightness)
-
-#### Defined in
-
-[ue/ue.d.ts:24614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24614)
 
 ___
 
@@ -1861,10 +1409,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bUseInverseSquaredFalloff](ue_ue.PointLightComponent.md#buseinversesquaredfalloff)
 
-#### Defined in
-
-[ue/ue.d.ts:37447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37447)
-
 ___
 
 ### bUseRayTracedDistanceFieldShadows
@@ -1874,10 +1418,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bUseRayTracedDistanceFieldShadows](ue_ue.PointLightComponent.md#buseraytraceddistancefieldshadows)
-
-#### Defined in
-
-[ue/ue.d.ts:24623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24623)
 
 ___
 
@@ -1889,10 +1429,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bUseTemperature](ue_ue.PointLightComponent.md#busetemperature)
 
-#### Defined in
-
-[ue/ue.d.ts:24595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24595)
-
 ___
 
 ### bVisible
@@ -1903,10 +1439,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bVisible](ue_ue.PointLightComponent.md#bvisible)
 
-#### Defined in
-
-[ue/ue.d.ts:12883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12883)
-
 ___
 
 ### bVisualizeComponent
@@ -1916,10 +1448,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[bVisualizeComponent](ue_ue.PointLightComponent.md#bvisualizecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12891)
 
 ## Methods
 
@@ -1941,10 +1469,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[Activate](ue_ue.PointLightComponent.md#activate)
 
-#### Defined in
-
-[ue/ue.d.ts:306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L306)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -1964,10 +1488,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[AddTickPrerequisiteActor](ue_ue.PointLightComponent.md#addtickprerequisiteactor)
-
-#### Defined in
-
-[ue/ue.d.ts:307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L307)
 
 ___
 
@@ -1989,10 +1509,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[AddTickPrerequisiteComponent](ue_ue.PointLightComponent.md#addtickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L308)
-
 ___
 
 ### ComponentHasTag
@@ -2012,10 +1528,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[ComponentHasTag](ue_ue.PointLightComponent.md#componenthastag)
-
-#### Defined in
-
-[ue/ue.d.ts:309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L309)
 
 ___
 
@@ -2041,10 +1553,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[CreateDefaultSubobject](ue_ue.PointLightComponent.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### Deactivate
@@ -2058,10 +1566,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[Deactivate](ue_ue.PointLightComponent.md#deactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L310)
 
 ___
 
@@ -2084,10 +1588,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[DetachFromParent](ue_ue.PointLightComponent.md#detachfromparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12895)
-
 ___
 
 ### DoesSocketExist
@@ -2107,10 +1607,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[DoesSocketExist](ue_ue.PointLightComponent.md#doessocketexist)
-
-#### Defined in
-
-[ue/ue.d.ts:12896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12896)
 
 ___
 
@@ -2132,10 +1628,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[ExecuteUbergraph](ue_ue.PointLightComponent.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetAllSocketNames
@@ -2149,10 +1641,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[GetAllSocketNames](ue_ue.PointLightComponent.md#getallsocketnames)
-
-#### Defined in
-
-[ue/ue.d.ts:12897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12897)
 
 ___
 
@@ -2168,10 +1656,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[GetAttachParent](ue_ue.PointLightComponent.md#getattachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12898)
-
 ___
 
 ### GetAttachSocketName
@@ -2185,10 +1669,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[GetAttachSocketName](ue_ue.PointLightComponent.md#getattachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12899)
 
 ___
 
@@ -2209,10 +1689,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[GetChildComponent](ue_ue.PointLightComponent.md#getchildcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12900)
 
 ___
 
@@ -2235,10 +1711,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[GetChildrenComponents](ue_ue.PointLightComponent.md#getchildrencomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12901)
-
 ___
 
 ### GetClass
@@ -2252,10 +1724,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[GetClass](ue_ue.PointLightComponent.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -2271,10 +1739,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[GetComponentTickInterval](ue_ue.PointLightComponent.md#getcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L311)
-
 ___
 
 ### GetComponentVelocity
@@ -2288,10 +1752,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[GetComponentVelocity](ue_ue.PointLightComponent.md#getcomponentvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12902)
 
 ___
 
@@ -2307,10 +1767,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[GetForwardVector](ue_ue.PointLightComponent.md#getforwardvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12903)
-
 ___
 
 ### GetLightColor
@@ -2324,10 +1780,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[GetLightColor](ue_ue.PointLightComponent.md#getlightcolor)
-
-#### Defined in
-
-[ue/ue.d.ts:21378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21378)
 
 ___
 
@@ -2343,10 +1795,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[GetName](ue_ue.PointLightComponent.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetNumChildrenComponents
@@ -2360,10 +1808,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[GetNumChildrenComponents](ue_ue.PointLightComponent.md#getnumchildrencomponents)
-
-#### Defined in
-
-[ue/ue.d.ts:12904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12904)
 
 ___
 
@@ -2379,10 +1823,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[GetOuter](ue_ue.PointLightComponent.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetOwner
@@ -2396,10 +1836,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[GetOwner](ue_ue.PointLightComponent.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L312)
 
 ___
 
@@ -2421,10 +1857,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[GetParentComponents](ue_ue.PointLightComponent.md#getparentcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12905)
-
 ___
 
 ### GetPhysicsVolume
@@ -2438,10 +1870,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[GetPhysicsVolume](ue_ue.PointLightComponent.md#getphysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12906)
 
 ___
 
@@ -2457,10 +1885,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[GetRelativeTransform](ue_ue.PointLightComponent.md#getrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12907)
-
 ___
 
 ### GetRightVector
@@ -2475,10 +1899,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[GetRightVector](ue_ue.PointLightComponent.md#getrightvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12908)
-
 ___
 
 ### GetShouldUpdatePhysicsVolume
@@ -2492,10 +1912,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[GetShouldUpdatePhysicsVolume](ue_ue.PointLightComponent.md#getshouldupdatephysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12909)
 
 ___
 
@@ -2517,10 +1933,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[GetSocketLocation](ue_ue.PointLightComponent.md#getsocketlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12910)
-
 ___
 
 ### GetSocketQuaternion
@@ -2541,10 +1953,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[GetSocketQuaternion](ue_ue.PointLightComponent.md#getsocketquaternion)
 
-#### Defined in
-
-[ue/ue.d.ts:12911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12911)
-
 ___
 
 ### GetSocketRotation
@@ -2564,10 +1972,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[GetSocketRotation](ue_ue.PointLightComponent.md#getsocketrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12912)
 
 ___
 
@@ -2590,10 +1994,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[GetSocketTransform](ue_ue.PointLightComponent.md#getsockettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12913)
-
 ___
 
 ### GetUpVector
@@ -2607,10 +2007,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[GetUpVector](ue_ue.PointLightComponent.md#getupvector)
-
-#### Defined in
-
-[ue/ue.d.ts:12914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12914)
 
 ___
 
@@ -2626,10 +2022,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[GetWorld](ue_ue.PointLightComponent.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### IsActive
@@ -2643,10 +2035,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[IsActive](ue_ue.PointLightComponent.md#isactive)
-
-#### Defined in
-
-[ue/ue.d.ts:313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L313)
 
 ___
 
@@ -2662,10 +2050,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[IsAnySimulatingPhysics](ue_ue.PointLightComponent.md#isanysimulatingphysics)
 
-#### Defined in
-
-[ue/ue.d.ts:12915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12915)
-
 ___
 
 ### IsBeingDestroyed
@@ -2680,10 +2064,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[IsBeingDestroyed](ue_ue.PointLightComponent.md#isbeingdestroyed)
 
-#### Defined in
-
-[ue/ue.d.ts:314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L314)
-
 ___
 
 ### IsComponentTickEnabled
@@ -2697,10 +2077,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[IsComponentTickEnabled](ue_ue.PointLightComponent.md#iscomponenttickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L315)
 
 ___
 
@@ -2722,10 +2098,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[IsSimulatingPhysics](ue_ue.PointLightComponent.md#issimulatingphysics)
 
-#### Defined in
-
-[ue/ue.d.ts:12916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12916)
-
 ___
 
 ### IsVisible
@@ -2739,10 +2111,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[IsVisible](ue_ue.PointLightComponent.md#isvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:12917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12917)
 
 ___
 
@@ -2767,10 +2135,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[K2_AddLocalOffset](ue_ue.PointLightComponent.md#k2_addlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:12918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12918)
-
 ___
 
 ### K2\_AddLocalRotation
@@ -2793,10 +2157,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[K2_AddLocalRotation](ue_ue.PointLightComponent.md#k2_addlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12919)
 
 ___
 
@@ -2821,10 +2181,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[K2_AddLocalTransform](ue_ue.PointLightComponent.md#k2_addlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12920)
-
 ___
 
 ### K2\_AddRelativeLocation
@@ -2847,10 +2203,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[K2_AddRelativeLocation](ue_ue.PointLightComponent.md#k2_addrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12921)
 
 ___
 
@@ -2875,10 +2227,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[K2_AddRelativeRotation](ue_ue.PointLightComponent.md#k2_addrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12922)
-
 ___
 
 ### K2\_AddWorldOffset
@@ -2901,10 +2249,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[K2_AddWorldOffset](ue_ue.PointLightComponent.md#k2_addworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:12923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12923)
 
 ___
 
@@ -2929,10 +2273,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[K2_AddWorldRotation](ue_ue.PointLightComponent.md#k2_addworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12924)
-
 ___
 
 ### K2\_AddWorldTransform
@@ -2956,10 +2296,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[K2_AddWorldTransform](ue_ue.PointLightComponent.md#k2_addworldtransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12925)
-
 ___
 
 ### K2\_AttachTo
@@ -2982,10 +2318,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[K2_AttachTo](ue_ue.PointLightComponent.md#k2_attachto)
-
-#### Defined in
-
-[ue/ue.d.ts:12926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12926)
 
 ___
 
@@ -3012,10 +2344,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[K2_AttachToComponent](ue_ue.PointLightComponent.md#k2_attachtocomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12927)
-
 ___
 
 ### K2\_DestroyComponent
@@ -3035,10 +2363,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[K2_DestroyComponent](ue_ue.PointLightComponent.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L316)
 
 ___
 
@@ -3063,10 +2387,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[K2_DetachFromComponent](ue_ue.PointLightComponent.md#k2_detachfromcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12928)
-
 ___
 
 ### K2\_GetComponentLocation
@@ -3080,10 +2400,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[K2_GetComponentLocation](ue_ue.PointLightComponent.md#k2_getcomponentlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12929)
 
 ___
 
@@ -3099,10 +2415,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[K2_GetComponentRotation](ue_ue.PointLightComponent.md#k2_getcomponentrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12930)
-
 ___
 
 ### K2\_GetComponentScale
@@ -3117,10 +2429,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[K2_GetComponentScale](ue_ue.PointLightComponent.md#k2_getcomponentscale)
 
-#### Defined in
-
-[ue/ue.d.ts:12931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12931)
-
 ___
 
 ### K2\_GetComponentToWorld
@@ -3134,10 +2442,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[K2_GetComponentToWorld](ue_ue.PointLightComponent.md#k2_getcomponenttoworld)
-
-#### Defined in
-
-[ue/ue.d.ts:12932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12932)
 
 ___
 
@@ -3161,10 +2465,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[K2_SetRelativeLocation](ue_ue.PointLightComponent.md#k2_setrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12933)
 
 ___
 
@@ -3190,10 +2490,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[K2_SetRelativeLocationAndRotation](ue_ue.PointLightComponent.md#k2_setrelativelocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12934)
-
 ___
 
 ### K2\_SetRelativeRotation
@@ -3216,10 +2512,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[K2_SetRelativeRotation](ue_ue.PointLightComponent.md#k2_setrelativerotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12935)
 
 ___
 
@@ -3244,10 +2536,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[K2_SetRelativeTransform](ue_ue.PointLightComponent.md#k2_setrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12936)
-
 ___
 
 ### K2\_SetWorldLocation
@@ -3270,10 +2558,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[K2_SetWorldLocation](ue_ue.PointLightComponent.md#k2_setworldlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12937)
 
 ___
 
@@ -3299,10 +2583,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[K2_SetWorldLocationAndRotation](ue_ue.PointLightComponent.md#k2_setworldlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12938)
-
 ___
 
 ### K2\_SetWorldRotation
@@ -3325,10 +2605,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[K2_SetWorldRotation](ue_ue.PointLightComponent.md#k2_setworldrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12939)
 
 ___
 
@@ -3353,10 +2629,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[K2_SetWorldTransform](ue_ue.PointLightComponent.md#k2_setworldtransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12940)
-
 ___
 
 ### OnRep\_AttachChildren
@@ -3370,10 +2642,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[OnRep_AttachChildren](ue_ue.PointLightComponent.md#onrep_attachchildren)
-
-#### Defined in
-
-[ue/ue.d.ts:12941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12941)
 
 ___
 
@@ -3389,10 +2657,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[OnRep_AttachParent](ue_ue.PointLightComponent.md#onrep_attachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12942)
-
 ___
 
 ### OnRep\_AttachSocketName
@@ -3406,10 +2670,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[OnRep_AttachSocketName](ue_ue.PointLightComponent.md#onrep_attachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12943)
 
 ___
 
@@ -3425,10 +2685,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[OnRep_IsActive](ue_ue.PointLightComponent.md#onrep_isactive)
 
-#### Defined in
-
-[ue/ue.d.ts:317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L317)
-
 ___
 
 ### OnRep\_Transform
@@ -3442,10 +2698,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[OnRep_Transform](ue_ue.PointLightComponent.md#onrep_transform)
-
-#### Defined in
-
-[ue/ue.d.ts:12944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12944)
 
 ___
 
@@ -3467,10 +2719,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[OnRep_Visibility](ue_ue.PointLightComponent.md#onrep_visibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12945)
-
 ___
 
 ### ReceiveBeginPlay
@@ -3484,10 +2732,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[ReceiveBeginPlay](ue_ue.PointLightComponent.md#receivebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L318)
 
 ___
 
@@ -3509,10 +2753,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[ReceiveEndPlay](ue_ue.PointLightComponent.md#receiveendplay)
 
-#### Defined in
-
-[ue/ue.d.ts:319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L319)
-
 ___
 
 ### ReceiveTick
@@ -3533,10 +2773,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[ReceiveTick](ue_ue.PointLightComponent.md#receivetick)
 
-#### Defined in
-
-[ue/ue.d.ts:320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L320)
-
 ___
 
 ### RegisterComponent
@@ -3550,10 +2786,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[RegisterComponent](ue_ue.PointLightComponent.md#registercomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L321)
 
 ___
 
@@ -3575,10 +2807,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[RemoveTickPrerequisiteActor](ue_ue.PointLightComponent.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -3599,10 +2827,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[RemoveTickPrerequisiteComponent](ue_ue.PointLightComponent.md#removetickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L323)
-
 ___
 
 ### ResetRelativeTransform
@@ -3616,10 +2840,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[ResetRelativeTransform](ue_ue.PointLightComponent.md#resetrelativetransform)
-
-#### Defined in
-
-[ue/ue.d.ts:12946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12946)
 
 ___
 
@@ -3643,10 +2863,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetAbsolute](ue_ue.PointLightComponent.md#setabsolute)
 
-#### Defined in
-
-[ue/ue.d.ts:12947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12947)
-
 ___
 
 ### SetActive
@@ -3668,10 +2884,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetActive](ue_ue.PointLightComponent.md#setactive)
 
-#### Defined in
-
-[ue/ue.d.ts:324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L324)
-
 ___
 
 ### SetAffectDynamicIndirectLighting
@@ -3691,10 +2903,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetAffectDynamicIndirectLighting](ue_ue.PointLightComponent.md#setaffectdynamicindirectlighting)
-
-#### Defined in
-
-[ue/ue.d.ts:24625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24625)
 
 ___
 
@@ -3716,10 +2924,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetAffectGlobalIllumination](ue_ue.PointLightComponent.md#setaffectglobalillumination)
 
-#### Defined in
-
-[ue/ue.d.ts:21379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21379)
-
 ___
 
 ### SetAffectReflection
@@ -3739,10 +2943,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetAffectReflection](ue_ue.PointLightComponent.md#setaffectreflection)
-
-#### Defined in
-
-[ue/ue.d.ts:21380](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21380)
 
 ___
 
@@ -3764,10 +2964,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetAffectTranslucentLighting](ue_ue.PointLightComponent.md#setaffecttranslucentlighting)
 
-#### Defined in
-
-[ue/ue.d.ts:24626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24626)
-
 ___
 
 ### SetAttenuationRadius
@@ -3787,10 +2983,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetAttenuationRadius](ue_ue.PointLightComponent.md#setattenuationradius)
-
-#### Defined in
-
-[ue/ue.d.ts:37435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37435)
 
 ___
 
@@ -3812,10 +3004,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetAutoActivate](ue_ue.PointLightComponent.md#setautoactivate)
 
-#### Defined in
-
-[ue/ue.d.ts:325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L325)
-
 ___
 
 ### SetBloomMaxBrightness
@@ -3835,10 +3023,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetBloomMaxBrightness](ue_ue.PointLightComponent.md#setbloommaxbrightness)
-
-#### Defined in
-
-[ue/ue.d.ts:24627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24627)
 
 ___
 
@@ -3860,10 +3044,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetBloomScale](ue_ue.PointLightComponent.md#setbloomscale)
 
-#### Defined in
-
-[ue/ue.d.ts:24628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24628)
-
 ___
 
 ### SetBloomThreshold
@@ -3883,10 +3063,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetBloomThreshold](ue_ue.PointLightComponent.md#setbloomthreshold)
-
-#### Defined in
-
-[ue/ue.d.ts:24629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24629)
 
 ___
 
@@ -3908,10 +3084,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetBloomTint](ue_ue.PointLightComponent.md#setbloomtint)
 
-#### Defined in
-
-[ue/ue.d.ts:24630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24630)
-
 ___
 
 ### SetCastDeepShadow
@@ -3931,10 +3103,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetCastDeepShadow](ue_ue.PointLightComponent.md#setcastdeepshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:21381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21381)
 
 ___
 
@@ -3956,10 +3124,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetCastRaytracedShadow](ue_ue.PointLightComponent.md#setcastraytracedshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:21382](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21382)
-
 ___
 
 ### SetCastShadows
@@ -3979,10 +3143,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetCastShadows](ue_ue.PointLightComponent.md#setcastshadows)
-
-#### Defined in
-
-[ue/ue.d.ts:21383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21383)
 
 ___
 
@@ -4004,10 +3164,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetCastVolumetricShadow](ue_ue.PointLightComponent.md#setcastvolumetricshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:21384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21384)
-
 ___
 
 ### SetComponentTickEnabled
@@ -4027,10 +3183,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetComponentTickEnabled](ue_ue.PointLightComponent.md#setcomponenttickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L326)
 
 ___
 
@@ -4052,10 +3204,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetComponentTickInterval](ue_ue.PointLightComponent.md#setcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L327)
-
 ___
 
 ### SetEnableLightShaftBloom
@@ -4076,10 +3224,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetEnableLightShaftBloom](ue_ue.PointLightComponent.md#setenablelightshaftbloom)
 
-#### Defined in
-
-[ue/ue.d.ts:24631](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24631)
-
 ___
 
 ### SetForceCachedShadowsForMovablePrimitives
@@ -4099,10 +3243,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetForceCachedShadowsForMovablePrimitives](ue_ue.PointLightComponent.md#setforcecachedshadowsformovableprimitives)
-
-#### Defined in
-
-[ue/ue.d.ts:24632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24632)
 
 ___
 
@@ -4125,10 +3265,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetHiddenInGame](ue_ue.PointLightComponent.md#sethiddeningame)
 
-#### Defined in
-
-[ue/ue.d.ts:12948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12948)
-
 ___
 
 ### SetIESBrightnessScale
@@ -4148,10 +3284,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetIESBrightnessScale](ue_ue.PointLightComponent.md#setiesbrightnessscale)
-
-#### Defined in
-
-[ue/ue.d.ts:24633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24633)
 
 ___
 
@@ -4173,10 +3305,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetIESTexture](ue_ue.PointLightComponent.md#setiestexture)
 
-#### Defined in
-
-[ue/ue.d.ts:24634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24634)
-
 ___
 
 ### SetIndirectLightingIntensity
@@ -4197,10 +3325,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetIndirectLightingIntensity](ue_ue.PointLightComponent.md#setindirectlightingintensity)
 
-#### Defined in
-
-[ue/ue.d.ts:24635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24635)
-
 ___
 
 ### SetInnerConeAngle
@@ -4216,10 +3340,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:37468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37468)
 
 ___
 
@@ -4241,10 +3361,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetIntensity](ue_ue.PointLightComponent.md#setintensity)
 
-#### Defined in
-
-[ue/ue.d.ts:24636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24636)
-
 ___
 
 ### SetIntensityUnits
@@ -4265,10 +3381,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetIntensityUnits](ue_ue.PointLightComponent.md#setintensityunits)
 
-#### Defined in
-
-[ue/ue.d.ts:37436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37436)
-
 ___
 
 ### SetIsReplicated
@@ -4288,10 +3400,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetIsReplicated](ue_ue.PointLightComponent.md#setisreplicated)
-
-#### Defined in
-
-[ue/ue.d.ts:328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L328)
 
 ___
 
@@ -4314,10 +3422,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetLightColor](ue_ue.PointLightComponent.md#setlightcolor)
 
-#### Defined in
-
-[ue/ue.d.ts:24637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24637)
-
 ___
 
 ### SetLightFalloffExponent
@@ -4337,10 +3441,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetLightFalloffExponent](ue_ue.PointLightComponent.md#setlightfalloffexponent)
-
-#### Defined in
-
-[ue/ue.d.ts:37452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37452)
 
 ___
 
@@ -4362,10 +3462,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetLightFunctionDisabledBrightness](ue_ue.PointLightComponent.md#setlightfunctiondisabledbrightness)
 
-#### Defined in
-
-[ue/ue.d.ts:24638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24638)
-
 ___
 
 ### SetLightFunctionFadeDistance
@@ -4385,10 +3481,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetLightFunctionFadeDistance](ue_ue.PointLightComponent.md#setlightfunctionfadedistance)
-
-#### Defined in
-
-[ue/ue.d.ts:24639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24639)
 
 ___
 
@@ -4410,10 +3502,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetLightFunctionMaterial](ue_ue.PointLightComponent.md#setlightfunctionmaterial)
 
-#### Defined in
-
-[ue/ue.d.ts:24640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24640)
-
 ___
 
 ### SetLightFunctionScale
@@ -4433,10 +3521,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetLightFunctionScale](ue_ue.PointLightComponent.md#setlightfunctionscale)
-
-#### Defined in
-
-[ue/ue.d.ts:24641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24641)
 
 ___
 
@@ -4458,10 +3542,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetMobility](ue_ue.PointLightComponent.md#setmobility)
 
-#### Defined in
-
-[ue/ue.d.ts:12949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12949)
-
 ___
 
 ### SetOuterConeAngle
@@ -4477,10 +3557,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:37469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37469)
 
 ___
 
@@ -4502,10 +3578,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetRelativeScale3D](ue_ue.PointLightComponent.md#setrelativescale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:12950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12950)
-
 ___
 
 ### SetSamplesPerPixel
@@ -4525,10 +3597,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetSamplesPerPixel](ue_ue.PointLightComponent.md#setsamplesperpixel)
-
-#### Defined in
-
-[ue/ue.d.ts:21385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21385)
 
 ___
 
@@ -4550,10 +3618,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetShadowBias](ue_ue.PointLightComponent.md#setshadowbias)
 
-#### Defined in
-
-[ue/ue.d.ts:24642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24642)
-
 ___
 
 ### SetShadowSlopeBias
@@ -4573,10 +3637,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetShadowSlopeBias](ue_ue.PointLightComponent.md#setshadowslopebias)
-
-#### Defined in
-
-[ue/ue.d.ts:24643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24643)
 
 ___
 
@@ -4598,10 +3658,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetShouldUpdatePhysicsVolume](ue_ue.PointLightComponent.md#setshouldupdatephysicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12951)
-
 ___
 
 ### SetSoftSourceRadius
@@ -4621,10 +3677,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetSoftSourceRadius](ue_ue.PointLightComponent.md#setsoftsourceradius)
-
-#### Defined in
-
-[ue/ue.d.ts:37453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37453)
 
 ___
 
@@ -4646,10 +3698,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetSourceLength](ue_ue.PointLightComponent.md#setsourcelength)
 
-#### Defined in
-
-[ue/ue.d.ts:37454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37454)
-
 ___
 
 ### SetSourceRadius
@@ -4669,10 +3717,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetSourceRadius](ue_ue.PointLightComponent.md#setsourceradius)
-
-#### Defined in
-
-[ue/ue.d.ts:37455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37455)
 
 ___
 
@@ -4694,10 +3738,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetSpecularScale](ue_ue.PointLightComponent.md#setspecularscale)
 
-#### Defined in
-
-[ue/ue.d.ts:24644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24644)
-
 ___
 
 ### SetTemperature
@@ -4717,10 +3757,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetTemperature](ue_ue.PointLightComponent.md#settemperature)
-
-#### Defined in
-
-[ue/ue.d.ts:24645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24645)
 
 ___
 
@@ -4742,10 +3778,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetTickGroup](ue_ue.PointLightComponent.md#settickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L330)
-
 ___
 
 ### SetTickableWhenPaused
@@ -4765,10 +3797,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetTickableWhenPaused](ue_ue.PointLightComponent.md#settickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L329)
 
 ___
 
@@ -4790,10 +3818,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetTransmission](ue_ue.PointLightComponent.md#settransmission)
 
-#### Defined in
-
-[ue/ue.d.ts:24646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24646)
-
 ___
 
 ### SetUseIESBrightness
@@ -4813,10 +3837,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetUseIESBrightness](ue_ue.PointLightComponent.md#setuseiesbrightness)
-
-#### Defined in
-
-[ue/ue.d.ts:24647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24647)
 
 ___
 
@@ -4839,10 +3859,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetVisibility](ue_ue.PointLightComponent.md#setvisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12953)
-
 ___
 
 ### SetVolumetricScatteringIntensity
@@ -4863,10 +3879,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetVolumetricScatteringIntensity](ue_ue.PointLightComponent.md#setvolumetricscatteringintensity)
 
-#### Defined in
-
-[ue/ue.d.ts:24648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24648)
-
 ___
 
 ### SetWorldScale3D
@@ -4886,10 +3898,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetWorldScale3D](ue_ue.PointLightComponent.md#setworldscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:12954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12954)
 
 ___
 
@@ -4912,10 +3920,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SetupAttachment](ue_ue.PointLightComponent.md#setupattachment)
 
-#### Defined in
-
-[ue/ue.d.ts:12952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12952)
-
 ___
 
 ### SnapTo
@@ -4937,10 +3941,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[SnapTo](ue_ue.PointLightComponent.md#snapto)
 
-#### Defined in
-
-[ue/ue.d.ts:12955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12955)
-
 ___
 
 ### ToggleActive
@@ -4954,10 +3954,6 @@ ___
 #### Inherited from
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[ToggleActive](ue_ue.PointLightComponent.md#toggleactive)
-
-#### Defined in
-
-[ue/ue.d.ts:331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L331)
 
 ___
 
@@ -4979,10 +3975,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[ToggleVisibility](ue_ue.PointLightComponent.md#togglevisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12956)
-
 ___
 
 ### Find
@@ -5003,10 +3995,6 @@ ___
 #### Overrides
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[Find](ue_ue.PointLightComponent.md#find)
-
-#### Defined in
-
-[ue/ue.d.ts:37471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37471)
 
 ___
 
@@ -5030,10 +4018,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[GetUnitsConversionFactor](ue_ue.PointLightComponent.md#getunitsconversionfactor)
 
-#### Defined in
-
-[ue/ue.d.ts:37437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37437)
-
 ___
 
 ### Load
@@ -5054,10 +4038,6 @@ ___
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[Load](ue_ue.PointLightComponent.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:37472](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37472)
-
 ___
 
 ### StaticClass
@@ -5071,7 +4051,3 @@ ___
 #### Overrides
 
 [PointLightComponent](ue_ue.PointLightComponent.md).[StaticClass](ue_ue.PointLightComponent.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:37470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37470)

@@ -28,10 +28,6 @@
 
 • **new SimpleMemberReference**()
 
-#### Defined in
-
-[ue/ue.d.ts:273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L273)
-
 • **new SimpleMemberReference**(`MemberParent`, `MemberName`, `MemberGuid`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `MemberName` | `string` |
 | `MemberGuid` | [`Guid`](ue_ue_s.Guid.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L274)
-
 ## Properties
 
 ### MemberGuid
 
 • **MemberGuid**: [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue.d.ts:277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L277)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **MemberName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L276)
-
 ___
 
 ### MemberParent
 
 • **MemberParent**: [`Object`](ue_ue.Object.md)
 
-#### Defined in
-
-[ue/ue.d.ts:275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L275)
-
 ___
 
 ### \_\_tid\_SimpleMemberReference\_\_
 
 • `Private` **\_\_tid\_SimpleMemberReference\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L283)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L281)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L282)

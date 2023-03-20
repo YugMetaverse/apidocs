@@ -28,10 +28,6 @@
 
 • **new Box**()
 
-#### Defined in
-
-[ue/ue.d.ts:1569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1569)
-
 • **new Box**(`Min`, `Max`, `IsValid`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Max` | [`Vector`](ue_ue_s.Vector.md) |
 | `IsValid` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:1570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1570)
-
 ## Properties
 
 ### IsValid
 
 • **IsValid**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1573)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Max**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1572)
-
 ___
 
 ### Min
 
 • **Min**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1571)
-
 ___
 
 ### \_\_tid\_Box\_\_
 
 • `Private` **\_\_tid\_Box\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1579](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1579)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1577)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1578)

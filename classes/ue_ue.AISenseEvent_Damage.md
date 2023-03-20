@@ -53,29 +53,17 @@
 
 [AISenseEvent](ue_ue.AISenseEvent.md).[constructor](ue_ue.AISenseEvent.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:16071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16071)
-
 ## Properties
 
 ### Event
 
 • **Event**: [`AIDamageEvent`](ue_ue.AIDamageEvent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:16072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16072)
-
 ___
 
 ### \_\_tid\_AISenseEvent\_Damage\_\_
 
 • **\_\_tid\_AISenseEvent\_Damage\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16077)
 
 ___
 
@@ -87,10 +75,6 @@ ___
 
 [AISenseEvent](ue_ue.AISenseEvent.md).[__tid_AISenseEvent__](ue_ue.AISenseEvent.md#__tid_aisenseevent__)
 
-#### Defined in
-
-[ue/ue.d.ts:15729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15729)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -100,10 +84,6 @@ ___
 #### Inherited from
 
 [AISenseEvent](ue_ue.AISenseEvent.md).[__tid_Object__](ue_ue.AISenseEvent.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -129,10 +109,6 @@ ___
 
 [AISenseEvent](ue_ue.AISenseEvent.md).[CreateDefaultSubobject](ue_ue.AISenseEvent.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -153,10 +129,6 @@ ___
 
 [AISenseEvent](ue_ue.AISenseEvent.md).[ExecuteUbergraph](ue_ue.AISenseEvent.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -170,10 +142,6 @@ ___
 #### Inherited from
 
 [AISenseEvent](ue_ue.AISenseEvent.md).[GetClass](ue_ue.AISenseEvent.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -189,10 +157,6 @@ ___
 
 [AISenseEvent](ue_ue.AISenseEvent.md).[GetName](ue_ue.AISenseEvent.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -207,10 +171,6 @@ ___
 
 [AISenseEvent](ue_ue.AISenseEvent.md).[GetOuter](ue_ue.AISenseEvent.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -224,10 +184,6 @@ ___
 #### Inherited from
 
 [AISenseEvent](ue_ue.AISenseEvent.md).[GetWorld](ue_ue.AISenseEvent.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -250,10 +206,6 @@ ___
 
 [AISenseEvent](ue_ue.AISenseEvent.md).[Find](ue_ue.AISenseEvent.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:16074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16074)
-
 ___
 
 ### Load
@@ -274,10 +226,6 @@ ___
 
 [AISenseEvent](ue_ue.AISenseEvent.md).[Load](ue_ue.AISenseEvent.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:16075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16075)
-
 ___
 
 ### StaticClass
@@ -291,7 +239,3 @@ ___
 #### Overrides
 
 [AISenseEvent](ue_ue.AISenseEvent.md).[StaticClass](ue_ue.AISenseEvent.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:16073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16073)

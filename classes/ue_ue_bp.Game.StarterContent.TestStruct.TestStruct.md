@@ -27,10 +27,6 @@
 
 • **new TestStruct**()
 
-#### Defined in
-
-[ue/ue_bp.d.ts:301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L301)
-
 • **new TestStruct**(`speed`, `age`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `speed` | `number` |
 | `age` | `number` |
 
-#### Defined in
-
-[ue/ue_bp.d.ts:302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L302)
-
 ## Properties
 
 ### \_\_tid\_TestStruct\_\_
 
 • `Private` **\_\_tid\_TestStruct\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue_bp.d.ts:310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L310)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **age**: `number`
 
-#### Defined in
-
-[ue/ue_bp.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L304)
-
 ___
 
 ### speed
 
 • **speed**: `number`
-
-#### Defined in
-
-[ue/ue_bp.d.ts:303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L303)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue_bp.d.ts:308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L308)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue_bp.d.ts:309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L309)

@@ -27,10 +27,6 @@
 
 • **new MaterialRemapIndex**()
 
-#### Defined in
-
-[ue/ue.d.ts:7822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7822)
-
 • **new MaterialRemapIndex**(`ImportVersionKey`, `MaterialRemap`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `ImportVersionKey` | `number` |
 | `MaterialRemap` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:7823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7823)
-
 ## Properties
 
 ### ImportVersionKey
 
 • **ImportVersionKey**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7824)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **MaterialRemap**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:7825](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7825)
-
 ___
 
 ### \_\_tid\_MaterialRemapIndex\_\_
 
 • `Private` **\_\_tid\_MaterialRemapIndex\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7831)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7829)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7830)

@@ -25,19 +25,11 @@
 
 • **new SmartNameContainer**()
 
-#### Defined in
-
-[ue/ue.d.ts:2359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2359)
-
 ## Properties
 
 ### \_\_tid\_SmartNameContainer\_\_
 
 • `Private` **\_\_tid\_SmartNameContainer\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2365)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2363)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2364)

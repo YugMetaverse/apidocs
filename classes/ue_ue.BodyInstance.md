@@ -69,10 +69,6 @@
 
 • **new BodyInstance**()
 
-#### Defined in
-
-[ue/ue.d.ts:778](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L778)
-
 • **new BodyInstance**(`ObjectType`, `CollisionEnabled`, `SleepFamily`, `DOFMode`, `bUseCCD`, `bNotifyRigidBodyCollision`, `bSimulatePhysics`, `bOverrideMass`, `bEnableGravity`, `bAutoWeld`, `bStartAwake`, `bGenerateWakeEvents`, `bUpdateMassWhenScaleChanges`, `bLockTranslation`, `bLockRotation`, `bLockXTranslation`, `bLockYTranslation`, `bLockZTranslation`, `bLockXRotation`, `bLockYRotation`, `bLockZRotation`, `bOverrideMaxAngularVelocity`, `bOverrideMaxDepenetrationVelocity`, `bOverrideWalkableSlopeOnInstance`, `bInterpolateWhenSubStepping`, `ResponseToChannels`, `CollisionProfileName`, `PositionSolverIterationCount`, `VelocitySolverIterationCount`, `CollisionResponses`, `MaxDepenetrationVelocity`, `MassInKgOverride`, `LinearDamping`, `AngularDamping`, `CustomDOFPlaneNormal`, `COMNudge`, `MassScale`, `InertiaTensorScale`, `WalkableSlopeOverride`, `PhysMaterialOverride`, `MaxAngularVelocity`, `CustomSleepThresholdMultiplier`, `StabilizationThresholdMultiplier`, `PhysicsBlendWeight`)
 
 #### Parameters
@@ -124,19 +120,11 @@
 | `StabilizationThresholdMultiplier` | `number` |
 | `PhysicsBlendWeight` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L779)
-
 ## Properties
 
 ### AngularDamping
 
 • **AngularDamping**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:813](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L813)
 
 ___
 
@@ -144,19 +132,11 @@ ___
 
 • **COMNudge**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L815)
-
 ___
 
 ### CollisionEnabled
 
 • **CollisionEnabled**: [`ECollisionEnabled`](../enums/ue_ue.ECollisionEnabled.md)
-
-#### Defined in
-
-[ue/ue.d.ts:781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L781)
 
 ___
 
@@ -164,19 +144,11 @@ ___
 
 • **CollisionProfileName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L806)
-
 ___
 
 ### CollisionResponses
 
 • **CollisionResponses**: [`CollisionResponse`](ue_ue.CollisionResponse.md)
-
-#### Defined in
-
-[ue/ue.d.ts:809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L809)
 
 ___
 
@@ -184,19 +156,11 @@ ___
 
 • **CustomDOFPlaneNormal**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:814](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L814)
-
 ___
 
 ### CustomSleepThresholdMultiplier
 
 • **CustomSleepThresholdMultiplier**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L821)
 
 ___
 
@@ -204,19 +168,11 @@ ___
 
 • **DOFMode**: [`EDOFMode`](../enums/ue_ue.EDOFMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L783)
-
 ___
 
 ### InertiaTensorScale
 
 • **InertiaTensorScale**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L817)
 
 ___
 
@@ -224,19 +180,11 @@ ___
 
 • **LinearDamping**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:812](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L812)
-
 ___
 
 ### MassInKgOverride
 
 • **MassInKgOverride**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L811)
 
 ___
 
@@ -244,19 +192,11 @@ ___
 
 • **MassScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L816)
-
 ___
 
 ### MaxAngularVelocity
 
 • **MaxAngularVelocity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L820)
 
 ___
 
@@ -264,19 +204,11 @@ ___
 
 • **MaxDepenetrationVelocity**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L810)
-
 ___
 
 ### ObjectType
 
 • **ObjectType**: [`ECollisionChannel`](../enums/ue_ue.ECollisionChannel.md)
-
-#### Defined in
-
-[ue/ue.d.ts:780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L780)
 
 ___
 
@@ -284,19 +216,11 @@ ___
 
 • **PhysMaterialOverride**: [`PhysicalMaterial`](ue_ue.PhysicalMaterial.md)
 
-#### Defined in
-
-[ue/ue.d.ts:819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L819)
-
 ___
 
 ### PhysicsBlendWeight
 
 • **PhysicsBlendWeight**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L823)
 
 ___
 
@@ -304,19 +228,11 @@ ___
 
 • **PositionSolverIterationCount**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L807)
-
 ___
 
 ### ResponseToChannels
 
 • **ResponseToChannels**: [`CollisionResponseContainer`](ue_ue.CollisionResponseContainer.md)
-
-#### Defined in
-
-[ue/ue.d.ts:805](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L805)
 
 ___
 
@@ -324,19 +240,11 @@ ___
 
 • **SleepFamily**: [`ESleepFamily`](../enums/ue_ue.ESleepFamily.md)
 
-#### Defined in
-
-[ue/ue.d.ts:782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L782)
-
 ___
 
 ### StabilizationThresholdMultiplier
 
 • **StabilizationThresholdMultiplier**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L822)
 
 ___
 
@@ -344,19 +252,11 @@ ___
 
 • **VelocitySolverIterationCount**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:808](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L808)
-
 ___
 
 ### WalkableSlopeOverride
 
 • **WalkableSlopeOverride**: [`WalkableSlopeOverride`](ue_ue.WalkableSlopeOverride.md)
-
-#### Defined in
-
-[ue/ue.d.ts:818](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L818)
 
 ___
 
@@ -364,19 +264,11 @@ ___
 
 • `Private` **\_\_tid\_BodyInstance\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L829)
-
 ___
 
 ### bAutoWeld
 
 • **bAutoWeld**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L789)
 
 ___
 
@@ -384,19 +276,11 @@ ___
 
 • **bEnableGravity**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L788)
-
 ___
 
 ### bGenerateWakeEvents
 
 • **bGenerateWakeEvents**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L791)
 
 ___
 
@@ -404,19 +288,11 @@ ___
 
 • **bInterpolateWhenSubStepping**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L804)
-
 ___
 
 ### bLockRotation
 
 • **bLockRotation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L794)
 
 ___
 
@@ -424,19 +300,11 @@ ___
 
 • **bLockTranslation**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L793)
-
 ___
 
 ### bLockXRotation
 
 • **bLockXRotation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L798)
 
 ___
 
@@ -444,19 +312,11 @@ ___
 
 • **bLockXTranslation**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L795)
-
 ___
 
 ### bLockYRotation
 
 • **bLockYRotation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L799)
 
 ___
 
@@ -464,19 +324,11 @@ ___
 
 • **bLockYTranslation**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L796)
-
 ___
 
 ### bLockZRotation
 
 • **bLockZRotation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L800)
 
 ___
 
@@ -484,19 +336,11 @@ ___
 
 • **bLockZTranslation**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:797](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L797)
-
 ___
 
 ### bNotifyRigidBodyCollision
 
 • **bNotifyRigidBodyCollision**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:785](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L785)
 
 ___
 
@@ -504,19 +348,11 @@ ___
 
 • **bOverrideMass**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L787)
-
 ___
 
 ### bOverrideMaxAngularVelocity
 
 • **bOverrideMaxAngularVelocity**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L801)
 
 ___
 
@@ -524,19 +360,11 @@ ___
 
 • **bOverrideMaxDepenetrationVelocity**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L802)
-
 ___
 
 ### bOverrideWalkableSlopeOnInstance
 
 • **bOverrideWalkableSlopeOnInstance**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L803)
 
 ___
 
@@ -544,19 +372,11 @@ ___
 
 • **bSimulatePhysics**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L786)
-
 ___
 
 ### bStartAwake
 
 • **bStartAwake**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L790)
 
 ___
 
@@ -564,19 +384,11 @@ ___
 
 • **bUpdateMassWhenScaleChanges**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L792)
-
 ___
 
 ### bUseCCD
 
 • **bUseCCD**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L784)
 
 ## Methods
 
@@ -592,10 +404,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L827)
-
 ___
 
 ### StaticStruct
@@ -605,7 +413,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L828)

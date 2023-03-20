@@ -57,19 +57,11 @@
 
 [BlueprintAsyncActionBase](ue_ue.BlueprintAsyncActionBase.md).[constructor](ue_ue.BlueprintAsyncActionBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:22079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22079)
-
 ## Properties
 
 ### Completed
 
 • **Completed**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`SaveGame`: [`$Nullable`](../modules/puerts.md#$nullable)<[`SaveGame`](ue_ue.SaveGame.md)\>, `bSuccess`: `boolean`) => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:22080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22080)
 
 ___
 
@@ -77,19 +69,11 @@ ___
 
 • **SaveGameObject**: [`SaveGame`](ue_ue.SaveGame.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22081)
-
 ___
 
 ### \_\_tid\_AsyncActionHandleSaveGame\_\_
 
 • **\_\_tid\_AsyncActionHandleSaveGame\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22088)
 
 ___
 
@@ -101,10 +85,6 @@ ___
 
 [BlueprintAsyncActionBase](ue_ue.BlueprintAsyncActionBase.md).[__tid_BlueprintAsyncActionBase__](ue_ue.BlueprintAsyncActionBase.md#__tid_blueprintasyncactionbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:20672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20672)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -114,10 +94,6 @@ ___
 #### Inherited from
 
 [BlueprintAsyncActionBase](ue_ue.BlueprintAsyncActionBase.md).[__tid_Object__](ue_ue.BlueprintAsyncActionBase.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -132,10 +108,6 @@ ___
 #### Inherited from
 
 [BlueprintAsyncActionBase](ue_ue.BlueprintAsyncActionBase.md).[Activate](ue_ue.BlueprintAsyncActionBase.md#activate)
-
-#### Defined in
-
-[ue/ue.d.ts:20667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20667)
 
 ___
 
@@ -161,10 +133,6 @@ ___
 
 [BlueprintAsyncActionBase](ue_ue.BlueprintAsyncActionBase.md).[CreateDefaultSubobject](ue_ue.BlueprintAsyncActionBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -185,10 +153,6 @@ ___
 
 [BlueprintAsyncActionBase](ue_ue.BlueprintAsyncActionBase.md).[ExecuteUbergraph](ue_ue.BlueprintAsyncActionBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -202,10 +166,6 @@ ___
 #### Inherited from
 
 [BlueprintAsyncActionBase](ue_ue.BlueprintAsyncActionBase.md).[GetClass](ue_ue.BlueprintAsyncActionBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -221,10 +181,6 @@ ___
 
 [BlueprintAsyncActionBase](ue_ue.BlueprintAsyncActionBase.md).[GetName](ue_ue.BlueprintAsyncActionBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -239,10 +195,6 @@ ___
 
 [BlueprintAsyncActionBase](ue_ue.BlueprintAsyncActionBase.md).[GetOuter](ue_ue.BlueprintAsyncActionBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -256,10 +208,6 @@ ___
 #### Inherited from
 
 [BlueprintAsyncActionBase](ue_ue.BlueprintAsyncActionBase.md).[GetWorld](ue_ue.BlueprintAsyncActionBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -279,10 +227,6 @@ ___
 
 [`AsyncActionHandleSaveGame`](ue_ue.AsyncActionHandleSaveGame.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22082](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22082)
-
 ___
 
 ### AsyncSaveGameToSlot
@@ -301,10 +245,6 @@ ___
 #### Returns
 
 [`AsyncActionHandleSaveGame`](ue_ue.AsyncActionHandleSaveGame.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22083](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22083)
 
 ___
 
@@ -327,10 +267,6 @@ ___
 
 [BlueprintAsyncActionBase](ue_ue.BlueprintAsyncActionBase.md).[Find](ue_ue.BlueprintAsyncActionBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:22085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22085)
-
 ___
 
 ### Load
@@ -351,10 +287,6 @@ ___
 
 [BlueprintAsyncActionBase](ue_ue.BlueprintAsyncActionBase.md).[Load](ue_ue.BlueprintAsyncActionBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:22086](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22086)
-
 ___
 
 ### StaticClass
@@ -368,7 +300,3 @@ ___
 #### Overrides
 
 [BlueprintAsyncActionBase](ue_ue.BlueprintAsyncActionBase.md).[StaticClass](ue_ue.BlueprintAsyncActionBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:22084](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22084)

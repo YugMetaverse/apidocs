@@ -30,10 +30,6 @@
 
 • **new BlackboardKeySelector**()
 
-#### Defined in
-
-[ue/ue.d.ts:24844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24844)
-
 • **new BlackboardKeySelector**(`AllowedTypes`, `SelectedKeyName`, `SelectedKeyType`, `SelectedKeyID`, `bNoneIsAllowedValue`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `SelectedKeyID` | `number` |
 | `bNoneIsAllowedValue` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:24845](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24845)
-
 ## Properties
 
 ### AllowedTypes
 
 • **AllowedTypes**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BlackboardKeyType`](ue_ue.BlackboardKeyType.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:24846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24846)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **SelectedKeyID**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:24849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24849)
-
 ___
 
 ### SelectedKeyName
 
 • **SelectedKeyName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:24847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24847)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **SelectedKeyType**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:24848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24848)
-
 ___
 
 ### \_\_tid\_BlackboardKeySelector\_\_
 
 • `Private` **\_\_tid\_BlackboardKeySelector\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:24856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24856)
-
 ___
 
 ### bNoneIsAllowedValue
 
 • **bNoneIsAllowedValue**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:24850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24850)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:24854](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24854)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:24855](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24855)

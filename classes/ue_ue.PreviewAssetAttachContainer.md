@@ -26,10 +26,6 @@
 
 • **new PreviewAssetAttachContainer**()
 
-#### Defined in
-
-[ue/ue.d.ts:2525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2525)
-
 • **new PreviewAssetAttachContainer**(`AttachedObjects`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `AttachedObjects` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PreviewAttachedObjectPair`](ue_ue.PreviewAttachedObjectPair.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:2526](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2526)
-
 ## Properties
 
 ### AttachedObjects
 
 • **AttachedObjects**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PreviewAttachedObjectPair`](ue_ue.PreviewAttachedObjectPair.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:2527](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2527)
-
 ___
 
 ### \_\_tid\_PreviewAssetAttachContainer\_\_
 
 • `Private` **\_\_tid\_PreviewAssetAttachContainer\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2533](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2533)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2531](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2531)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2532](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2532)

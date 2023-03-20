@@ -33,10 +33,6 @@
 
 • **new RecordedFrame**()
 
-#### Defined in
-
-[ue/ue.d.ts:26675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26675)
-
 • **new RecordedFrame**(`Transforms`, `TransformIndices`, `PreviousTransformIndices`, `DisabledFlags`, `Collisions`, `Breakings`, `Trailings`, `Timestamp`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `Trailings` | [`TSet`](../interfaces/ue_puerts.TSet.md)<[`SolverTrailingData`](ue_ue.SolverTrailingData.md)\> |
 | `Timestamp` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:26676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26676)
-
 ## Properties
 
 ### Breakings
 
 • **Breakings**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SolverBreakingData`](ue_ue.SolverBreakingData.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:26682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26682)
 
 ___
 
@@ -72,19 +60,11 @@ ___
 
 • **Collisions**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SolverCollisionData`](ue_ue.SolverCollisionData.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:26681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26681)
-
 ___
 
 ### DisabledFlags
 
 • **DisabledFlags**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`boolean`\>
-
-#### Defined in
-
-[ue/ue.d.ts:26680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26680)
 
 ___
 
@@ -92,19 +72,11 @@ ___
 
 • **PreviousTransformIndices**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:26679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26679)
-
 ___
 
 ### Timestamp
 
 • **Timestamp**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26684)
 
 ___
 
@@ -112,19 +84,11 @@ ___
 
 • **Trailings**: [`TSet`](../interfaces/ue_puerts.TSet.md)<[`SolverTrailingData`](ue_ue.SolverTrailingData.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:26683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26683)
-
 ___
 
 ### TransformIndices
 
 • **TransformIndices**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:26678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26678)
 
 ___
 
@@ -132,19 +96,11 @@ ___
 
 • **Transforms**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Transform`](ue_ue_s.Transform.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:26677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26677)
-
 ___
 
 ### \_\_tid\_RecordedFrame\_\_
 
 • `Private` **\_\_tid\_RecordedFrame\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26690)
 
 ## Methods
 
@@ -160,10 +116,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26688)
-
 ___
 
 ### StaticStruct
@@ -173,7 +125,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26689)

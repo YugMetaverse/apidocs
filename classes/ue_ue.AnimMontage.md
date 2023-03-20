@@ -90,10 +90,6 @@
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[constructor](ue_ue.AnimCompositeBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:2956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2956)
-
 ## Properties
 
 ### AnimNotifyTracks
@@ -103,10 +99,6 @@
 #### Inherited from
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[AnimNotifyTracks](ue_ue.AnimCompositeBase.md#animnotifytracks)
-
-#### Defined in
-
-[ue/ue.d.ts:3134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3134)
 
 ___
 
@@ -118,10 +110,6 @@ ___
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[AssetMappingTable](ue_ue.AnimCompositeBase.md#assetmappingtable)
 
-#### Defined in
-
-[ue/ue.d.ts:2766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2766)
-
 ___
 
 ### AssetUserData
@@ -132,19 +120,11 @@ ___
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[AssetUserData](ue_ue.AnimCompositeBase.md#assetuserdata)
 
-#### Defined in
-
-[ue/ue.d.ts:2767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2767)
-
 ___
 
 ### BlendIn
 
 • **BlendIn**: [`AlphaBlend`](ue_ue.AlphaBlend.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2957)
 
 ___
 
@@ -152,19 +132,11 @@ ___
 
 • **BlendInTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2958)
-
 ___
 
 ### BlendOut
 
 • **BlendOut**: [`AlphaBlend`](ue_ue.AlphaBlend.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2959)
 
 ___
 
@@ -172,19 +144,11 @@ ___
 
 • **BlendOutTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2960)
-
 ___
 
 ### BlendOutTriggerTime
 
 • **BlendOutTriggerTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2961)
 
 ___
 
@@ -192,29 +156,17 @@ ___
 
 • **BranchingPointMarkers**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BranchingPointMarker`](ue_ue.BranchingPointMarker.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:2973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2973)
-
 ___
 
 ### BranchingPointStateNotifyIndices
 
 • **BranchingPointStateNotifyIndices**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:2974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2974)
-
 ___
 
 ### BranchingPoints
 
 • **BranchingPoints**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BranchingPoint`](ue_ue.BranchingPoint.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:2967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2967)
 
 ___
 
@@ -226,29 +178,17 @@ ___
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[ChildrenAssets](ue_ue.AnimCompositeBase.md#childrenassets)
 
-#### Defined in
-
-[ue/ue.d.ts:2765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2765)
-
 ___
 
 ### CompositeSections
 
 • **CompositeSections**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`CompositeSection`](ue_ue.CompositeSection.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:2965](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2965)
-
 ___
 
 ### MarkerData
 
 • **MarkerData**: [`MarkerSyncData`](ue_ue.MarkerSyncData.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2964](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2964)
 
 ___
 
@@ -260,10 +200,6 @@ ___
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[MetaData](ue_ue.AnimCompositeBase.md#metadata)
 
-#### Defined in
-
-[ue/ue.d.ts:2763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2763)
-
 ___
 
 ### Notifies
@@ -273,10 +209,6 @@ ___
 #### Inherited from
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[Notifies](ue_ue.AnimCompositeBase.md#notifies)
-
-#### Defined in
-
-[ue/ue.d.ts:3130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3130)
 
 ___
 
@@ -288,19 +220,11 @@ ___
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[ParentAsset](ue_ue.AnimCompositeBase.md#parentasset)
 
-#### Defined in
-
-[ue/ue.d.ts:2764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2764)
-
 ___
 
 ### PreviewBasePose
 
 • **PreviewBasePose**: [`AnimSequence`](ue_ue.AnimSequence.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2972)
 
 ___
 
@@ -312,10 +236,6 @@ ___
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[PreviewPoseAsset](ue_ue.AnimCompositeBase.md#previewposeasset)
 
-#### Defined in
-
-[ue/ue.d.ts:2769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2769)
-
 ___
 
 ### PreviewSkeletalMesh
@@ -325,10 +245,6 @@ ___
 #### Inherited from
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[PreviewSkeletalMesh](ue_ue.AnimCompositeBase.md#previewskeletalmesh)
-
-#### Defined in
-
-[ue/ue.d.ts:2770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2770)
 
 ___
 
@@ -340,10 +256,6 @@ ___
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[RateScale](ue_ue.AnimCompositeBase.md#ratescale)
 
-#### Defined in
-
-[ue/ue.d.ts:3132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3132)
-
 ___
 
 ### RawCurveData
@@ -354,19 +266,11 @@ ___
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[RawCurveData](ue_ue.AnimCompositeBase.md#rawcurvedata)
 
-#### Defined in
-
-[ue/ue.d.ts:3133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3133)
-
 ___
 
 ### RootMotionRootLock
 
 • **RootMotionRootLock**: [`ERootMotionRootLock`](../enums/ue_ue.ERootMotionRootLock.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2971)
 
 ___
 
@@ -378,10 +282,6 @@ ___
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[SequenceLength](ue_ue.AnimCompositeBase.md#sequencelength)
 
-#### Defined in
-
-[ue/ue.d.ts:3131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3131)
-
 ___
 
 ### Skeleton
@@ -392,19 +292,11 @@ ___
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[Skeleton](ue_ue.AnimCompositeBase.md#skeleton)
 
-#### Defined in
-
-[ue/ue.d.ts:2762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2762)
-
 ___
 
 ### SlotAnimTracks
 
 • **SlotAnimTracks**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SlotAnimationTrack`](ue_ue.SlotAnimationTrack.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:2966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2966)
 
 ___
 
@@ -412,19 +304,11 @@ ___
 
 • **SyncGroup**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:2962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2962)
-
 ___
 
 ### SyncSlotIndex
 
 • **SyncSlotIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2963)
 
 ___
 
@@ -436,29 +320,17 @@ ___
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[ThumbnailInfo](ue_ue.AnimCompositeBase.md#thumbnailinfo)
 
-#### Defined in
-
-[ue/ue.d.ts:2768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2768)
-
 ___
 
 ### TimeStretchCurve
 
 • **TimeStretchCurve**: [`TimeStretchCurve`](ue_ue.TimeStretchCurve.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2975](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2975)
-
 ___
 
 ### TimeStretchCurveName
 
 • **TimeStretchCurveName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:2976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2976)
 
 ___
 
@@ -470,19 +342,11 @@ ___
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[__tid_AnimCompositeBase__](ue_ue.AnimCompositeBase.md#__tid_animcompositebase__)
 
-#### Defined in
-
-[ue/ue.d.ts:2784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2784)
-
 ___
 
 ### \_\_tid\_AnimMontage\_\_
 
 • **\_\_tid\_AnimMontage\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2982)
 
 ___
 
@@ -494,10 +358,6 @@ ___
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[__tid_AnimSequenceBase__](ue_ue.AnimCompositeBase.md#__tid_animsequencebase__)
 
-#### Defined in
-
-[ue/ue.d.ts:3140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3140)
-
 ___
 
 ### \_\_tid\_AnimationAsset\_\_
@@ -507,10 +367,6 @@ ___
 #### Inherited from
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[__tid_AnimationAsset__](ue_ue.AnimCompositeBase.md#__tid_animationasset__)
-
-#### Defined in
-
-[ue/ue.d.ts:2775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2775)
 
 ___
 
@@ -522,19 +378,11 @@ ___
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[__tid_Object__](ue_ue.AnimCompositeBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bEnableAutoBlendOut
 
 • **bEnableAutoBlendOut**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2970)
 
 ___
 
@@ -542,19 +390,11 @@ ___
 
 • **bEnableRootMotionRotation**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:2969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2969)
-
 ___
 
 ### bEnableRootMotionTranslation
 
 • **bEnableRootMotionTranslation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2968)
 
 ## Methods
 
@@ -580,10 +420,6 @@ ___
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[CreateDefaultSubobject](ue_ue.AnimCompositeBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -604,10 +440,6 @@ ___
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[ExecuteUbergraph](ue_ue.AnimCompositeBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -622,10 +454,6 @@ ___
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[GetClass](ue_ue.AnimCompositeBase.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetDefaultBlendOutTime
@@ -635,10 +463,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2977)
 
 ___
 
@@ -654,10 +478,6 @@ ___
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[GetName](ue_ue.AnimCompositeBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -671,10 +491,6 @@ ___
 #### Inherited from
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[GetOuter](ue_ue.AnimCompositeBase.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -690,10 +506,6 @@ ___
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[GetPlayLength](ue_ue.AnimCompositeBase.md#getplaylength)
 
-#### Defined in
-
-[ue/ue.d.ts:3135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3135)
-
 ___
 
 ### GetWorld
@@ -707,10 +519,6 @@ ___
 #### Inherited from
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[GetWorld](ue_ue.AnimCompositeBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -733,10 +541,6 @@ ___
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[Find](ue_ue.AnimCompositeBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:2979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2979)
-
 ___
 
 ### Load
@@ -757,10 +561,6 @@ ___
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[Load](ue_ue.AnimCompositeBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:2980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2980)
-
 ___
 
 ### StaticClass
@@ -774,7 +574,3 @@ ___
 #### Overrides
 
 [AnimCompositeBase](ue_ue.AnimCompositeBase.md).[StaticClass](ue_ue.AnimCompositeBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:2978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2978)

@@ -38,10 +38,6 @@
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[constructor](ue_ue.AnimNode_Base.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:19814](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19814)
-
 • **new AnimNode_SteamVRSetWristTransform**(`ReferencePose`, `HandSkeleton`, `TargetPose`)
 
 #### Parameters
@@ -56,19 +52,11 @@
 
 UE.AnimNode\_Base.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:19815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19815)
-
 ## Properties
 
 ### HandSkeleton
 
 • **HandSkeleton**: [`EHandSkeleton`](../enums/ue_ue.EHandSkeleton.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19817)
 
 ___
 
@@ -76,29 +64,17 @@ ___
 
 • **ReferencePose**: [`PoseLink`](ue_ue.PoseLink.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19816)
-
 ___
 
 ### TargetPose
 
 • **TargetPose**: [`PoseLink`](ue_ue.PoseLink.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19818](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19818)
-
 ___
 
 ### \_\_tid\_AnimNode\_SteamVRSetWristTransform\_\_
 
 • `Private` **\_\_tid\_AnimNode\_SteamVRSetWristTransform\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:19824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19824)
 
 ## Methods
 
@@ -118,10 +94,6 @@ use StaticStruct instead.
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticClass](ue_ue.AnimNode_Base.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:19822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19822)
-
 ___
 
 ### StaticStruct
@@ -135,7 +107,3 @@ ___
 #### Overrides
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticStruct](ue_ue.AnimNode_Base.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:19823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19823)

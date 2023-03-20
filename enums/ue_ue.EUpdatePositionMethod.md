@@ -20,19 +20,11 @@
 
 • **EUpdatePositionMethod\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14205)
-
 ___
 
 ### Jump
 
 • **Jump** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14205)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Play** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14205)
-
 ___
 
 ### Scrub
 
 • **Scrub** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14205)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14205)

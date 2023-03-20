@@ -19,19 +19,11 @@
 
 • **TBM\_Cubic** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20504)
-
 ___
 
 ### TBM\_Linear
 
 • **TBM\_Linear** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20504)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **TBM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20504)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20504)

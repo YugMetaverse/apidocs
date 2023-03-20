@@ -42,10 +42,6 @@
 
 • **new BlueprintInputDelegateBinding**()
 
-#### Defined in
-
-[ue/ue.d.ts:39101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39101)
-
 • **new BlueprintInputDelegateBinding**(`bConsumeInput`, `bExecuteWhenPaused`, `bOverrideParentBinding`)
 
 #### Parameters
@@ -56,19 +52,11 @@
 | `bExecuteWhenPaused` | `boolean` |
 | `bOverrideParentBinding` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:39102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39102)
-
 ## Properties
 
 ### \_\_tid\_BlueprintInputDelegateBinding\_\_
 
 • `Private` **\_\_tid\_BlueprintInputDelegateBinding\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39111)
 
 ___
 
@@ -76,29 +64,17 @@ ___
 
 • **bConsumeInput**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:39103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39103)
-
 ___
 
 ### bExecuteWhenPaused
 
 • **bExecuteWhenPaused**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:39104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39104)
-
 ___
 
 ### bOverrideParentBinding
 
 • **bOverrideParentBinding**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39105](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39105)
 
 ## Methods
 
@@ -114,10 +90,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39109](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39109)
-
 ___
 
 ### StaticStruct
@@ -127,7 +99,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:39110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39110)

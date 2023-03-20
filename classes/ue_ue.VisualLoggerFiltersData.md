@@ -29,10 +29,6 @@
 
 • **new VisualLoggerFiltersData**()
 
-#### Defined in
-
-[ue/ue.d.ts:46360](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46360)
-
 • **new VisualLoggerFiltersData**(`SearchBoxFilter`, `ObjectNameFilter`, `Categories`, `SelectedClasses`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `Categories` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`CategoryFilter`](ue_ue.CategoryFilter.md)\> |
 | `SelectedClasses` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:46361](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46361)
-
 ## Properties
 
 ### Categories
 
 • **Categories**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`CategoryFilter`](ue_ue.CategoryFilter.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:46364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46364)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **ObjectNameFilter**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:46363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46363)
-
 ___
 
 ### SearchBoxFilter
 
 • **SearchBoxFilter**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:46362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46362)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **SelectedClasses**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:46365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46365)
-
 ___
 
 ### \_\_tid\_VisualLoggerFiltersData\_\_
 
 • `Private` **\_\_tid\_VisualLoggerFiltersData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46371)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46369](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46369)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46370)

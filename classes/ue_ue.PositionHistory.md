@@ -27,10 +27,6 @@
 
 • **new PositionHistory**()
 
-#### Defined in
-
-[ue/ue.d.ts:42108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42108)
-
 • **new PositionHistory**(`Positions`, `Range`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Positions` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Vector`](ue_ue_s.Vector.md)\> |
 | `Range` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:42109](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42109)
-
 ## Properties
 
 ### Positions
 
 • **Positions**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Vector`](ue_ue_s.Vector.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:42110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42110)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Range**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:42111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42111)
-
 ___
 
 ### \_\_tid\_PositionHistory\_\_
 
 • `Private` **\_\_tid\_PositionHistory\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:42117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42117)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:42115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42115)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:42116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42116)

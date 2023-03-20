@@ -28,10 +28,6 @@
 
 • **new SwarmDebugOptions**()
 
-#### Defined in
-
-[ue/ue.d.ts:45460](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45460)
-
 • **new SwarmDebugOptions**(`bDistributionEnabled`, `bForceContentExport`, `bInitialized`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `bForceContentExport` | `boolean` |
 | `bInitialized` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:45461](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45461)
-
 ## Properties
 
 ### \_\_tid\_SwarmDebugOptions\_\_
 
 • `Private` **\_\_tid\_SwarmDebugOptions\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45470)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **bDistributionEnabled**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45462](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45462)
-
 ___
 
 ### bForceContentExport
 
 • **bForceContentExport**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45463)
-
 ___
 
 ### bInitialized
 
 • **bInitialized**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45464)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:45468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45468)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:45469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45469)

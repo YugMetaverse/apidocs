@@ -19,19 +19,11 @@
 
 • **DistanceField** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34660)
-
 ___
 
 ### EParticleCollisionMode\_MAX
 
 • **EParticleCollisionMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34660)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **SceneDepth** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34660)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34660)

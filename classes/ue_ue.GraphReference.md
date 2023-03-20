@@ -28,10 +28,6 @@
 
 • **new GraphReference**()
 
-#### Defined in
-
-[ue/ue.d.ts:41730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41730)
-
 • **new GraphReference**(`MacroGraph`, `GraphBlueprint`, `GraphGuid`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `GraphBlueprint` | [`Blueprint`](ue_ue.Blueprint.md) |
 | `GraphGuid` | [`Guid`](ue_ue_s.Guid.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:41731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41731)
-
 ## Properties
 
 ### GraphBlueprint
 
 • **GraphBlueprint**: [`Blueprint`](ue_ue.Blueprint.md)
-
-#### Defined in
-
-[ue/ue.d.ts:41733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41733)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **GraphGuid**: [`Guid`](ue_ue_s.Guid.md)
 
-#### Defined in
-
-[ue/ue.d.ts:41734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41734)
-
 ___
 
 ### MacroGraph
 
 • **MacroGraph**: [`EdGraph`](ue_ue.EdGraph.md)
 
-#### Defined in
-
-[ue/ue.d.ts:41732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41732)
-
 ___
 
 ### \_\_tid\_GraphReference\_\_
 
 • `Private` **\_\_tid\_GraphReference\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:41740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41740)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:41738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41738)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:41739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41739)

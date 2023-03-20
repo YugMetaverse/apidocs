@@ -62,19 +62,11 @@
 
 [DataAsset](ue_ue.DataAsset.md).[constructor](ue_ue.DataAsset.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:22829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22829)
-
 ## Properties
 
 ### AntiAliasing
 
 • **AntiAliasing**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22830)
 
 ___
 
@@ -82,19 +74,11 @@ ___
 
 • **Bloom**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:22838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22838)
-
 ___
 
 ### ContactShadows
 
 • **ContactShadows**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22836)
 
 ___
 
@@ -102,29 +86,17 @@ ___
 
 • **DistanceFieldAO**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:22835](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22835)
-
 ___
 
 ### EyeAdaptation
 
 • **EyeAdaptation**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:22837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22837)
-
 ___
 
 ### MotionBlur
 
 • **MotionBlur**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22831)
 
 ___
 
@@ -136,19 +108,11 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[NativeClass](ue_ue.DataAsset.md#nativeclass)
 
-#### Defined in
-
-[ue/ue.d.ts:724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L724)
-
 ___
 
 ### ScreenSpaceAO
 
 • **ScreenSpaceAO**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22834)
 
 ___
 
@@ -156,29 +120,17 @@ ___
 
 • **ScreenSpaceReflections**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:22833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22833)
-
 ___
 
 ### TemporalAA
 
 • **TemporalAA**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:22832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22832)
-
 ___
 
 ### \_\_tid\_AutomationViewSettings\_\_
 
 • **\_\_tid\_AutomationViewSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22843)
 
 ___
 
@@ -190,10 +142,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[__tid_DataAsset__](ue_ue.DataAsset.md#__tid_dataasset__)
 
-#### Defined in
-
-[ue/ue.d.ts:729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L729)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -203,10 +151,6 @@ ___
 #### Inherited from
 
 [DataAsset](ue_ue.DataAsset.md).[__tid_Object__](ue_ue.DataAsset.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -232,10 +176,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[CreateDefaultSubobject](ue_ue.DataAsset.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -256,10 +196,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[ExecuteUbergraph](ue_ue.DataAsset.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -273,10 +209,6 @@ ___
 #### Inherited from
 
 [DataAsset](ue_ue.DataAsset.md).[GetClass](ue_ue.DataAsset.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -292,10 +224,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[GetName](ue_ue.DataAsset.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -310,10 +238,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[GetOuter](ue_ue.DataAsset.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -327,10 +251,6 @@ ___
 #### Inherited from
 
 [DataAsset](ue_ue.DataAsset.md).[GetWorld](ue_ue.DataAsset.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -353,10 +273,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[Find](ue_ue.DataAsset.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:22840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22840)
-
 ___
 
 ### Load
@@ -377,10 +293,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[Load](ue_ue.DataAsset.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:22841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22841)
-
 ___
 
 ### StaticClass
@@ -394,7 +306,3 @@ ___
 #### Overrides
 
 [DataAsset](ue_ue.DataAsset.md).[StaticClass](ue_ue.DataAsset.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:22839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22839)

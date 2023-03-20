@@ -28,19 +28,11 @@
 
 • **ConnectionLost** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10187)
-
 ___
 
 ### ConnectionTimeout
 
 • **ConnectionTimeout** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10187)
 
 ___
 
@@ -48,19 +40,11 @@ ___
 
 • **ENetworkFailure\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10187)
-
 ___
 
 ### FailureReceived
 
 • **FailureReceived** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10187)
 
 ___
 
@@ -68,19 +52,11 @@ ___
 
 • **NetChecksumMismatch** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10187)
-
 ___
 
 ### NetDriverAlreadyExists
 
 • **NetDriverAlreadyExists** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10187)
 
 ___
 
@@ -88,19 +64,11 @@ ___
 
 • **NetDriverCreateFailure** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10187)
-
 ___
 
 ### NetDriverListenFailure
 
 • **NetDriverListenFailure** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10187)
 
 ___
 
@@ -108,19 +76,11 @@ ___
 
 • **NetGuidMismatch** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10187)
-
 ___
 
 ### OutdatedClient
 
 • **OutdatedClient** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10187)
 
 ___
 
@@ -128,26 +88,14 @@ ___
 
 • **OutdatedServer** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10187)
-
 ___
 
 ### PendingConnectionFailure
 
 • **PendingConnectionFailure** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10187)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10187)

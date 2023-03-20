@@ -108,10 +108,6 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[constructor](ue_ue.BlueprintFunctionLibrary.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:66185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66185)
-
 ## Properties
 
 ### \_\_tid\_BlueprintFunctionLibrary\_\_
@@ -121,10 +117,6 @@
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_BlueprintFunctionLibrary__](ue_ue.BlueprintFunctionLibrary.md#__tid_blueprintfunctionlibrary__)
-
-#### Defined in
-
-[ue/ue.d.ts:13418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13418)
 
 ___
 
@@ -136,19 +128,11 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_Object__](ue_ue.BlueprintFunctionLibrary.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_WidgetBlueprintLibrary\_\_
 
 • **\_\_tid\_WidgetBlueprintLibrary\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:66246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66246)
 
 ## Methods
 
@@ -174,10 +158,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[CreateDefaultSubobject](ue_ue.BlueprintFunctionLibrary.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -198,10 +178,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[ExecuteUbergraph](ue_ue.BlueprintFunctionLibrary.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -215,10 +191,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetClass](ue_ue.BlueprintFunctionLibrary.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -234,10 +206,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetName](ue_ue.BlueprintFunctionLibrary.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -251,10 +219,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetOuter](ue_ue.BlueprintFunctionLibrary.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -270,10 +234,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetWorld](ue_ue.BlueprintFunctionLibrary.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### OnGameWindowCloseButtonClickedDelegate\_\_DelegateSignature
@@ -284,10 +244,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:66186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66186)
-
 ___
 
 ### CancelDragDrop
@@ -297,10 +253,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:66187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66187)
 
 ___
 
@@ -320,10 +272,6 @@ ___
 
 [`EventReply`](ue_ue.EventReply.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66188)
-
 ___
 
 ### CaptureMouse
@@ -341,10 +289,6 @@ ___
 
 [`EventReply`](ue_ue.EventReply.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66189)
-
 ___
 
 ### ClearUserFocus
@@ -361,10 +305,6 @@ ___
 #### Returns
 
 [`EventReply`](ue_ue.EventReply.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66190)
 
 ___
 
@@ -384,10 +324,6 @@ ___
 
 [`UserWidget`](ue_ue.UserWidget.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66191)
-
 ___
 
 ### CreateDragDropOperation
@@ -403,10 +339,6 @@ ___
 #### Returns
 
 [`DragDropOperation`](ue_ue.DragDropOperation.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66192)
 
 ___
 
@@ -426,10 +358,6 @@ ___
 
 [`EventReply`](ue_ue.EventReply.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66193)
-
 ___
 
 ### DetectDragIfPressed
@@ -448,10 +376,6 @@ ___
 
 [`EventReply`](ue_ue.EventReply.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66194)
-
 ___
 
 ### DismissAllMenus
@@ -461,10 +385,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:66195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66195)
 
 ___
 
@@ -485,10 +405,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:66196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66196)
 
 ___
 
@@ -511,10 +427,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:66197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66197)
-
 ___
 
 ### DrawLines
@@ -535,10 +447,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:66198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66198)
-
 ___
 
 ### DrawText
@@ -557,10 +465,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:66199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66199)
 
 ___
 
@@ -584,10 +488,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:66200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66200)
-
 ___
 
 ### EndDragDrop
@@ -603,10 +503,6 @@ ___
 #### Returns
 
 [`EventReply`](ue_ue.EventReply.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66201)
 
 ___
 
@@ -629,10 +525,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Find](ue_ue.BlueprintFunctionLibrary.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:66243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66243)
-
 ___
 
 ### GetAllWidgetsOfClass
@@ -651,10 +543,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:66202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66202)
 
 ___
 
@@ -675,10 +563,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:66203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66203)
-
 ___
 
 ### GetBrushResource
@@ -694,10 +578,6 @@ ___
 #### Returns
 
 [`Object`](ue_ue.Object.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66204)
 
 ___
 
@@ -715,10 +595,6 @@ ___
 
 [`MaterialInterface`](ue_ue.MaterialInterface.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66205)
-
 ___
 
 ### GetBrushResourceAsTexture2D
@@ -735,10 +611,6 @@ ___
 
 [`Texture2D`](ue_ue.Texture2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66206)
-
 ___
 
 ### GetDragDroppingContent
@@ -748,10 +620,6 @@ ___
 #### Returns
 
 [`DragDropOperation`](ue_ue.DragDropOperation.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66207)
 
 ___
 
@@ -769,10 +637,6 @@ ___
 
 [`MaterialInstanceDynamic`](ue_ue.MaterialInstanceDynamic.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66208)
-
 ___
 
 ### GetInputEventFromCharacterEvent
@@ -788,10 +652,6 @@ ___
 #### Returns
 
 [`InputEvent`](ue_ue.InputEvent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66209)
 
 ___
 
@@ -809,10 +669,6 @@ ___
 
 [`InputEvent`](ue_ue.InputEvent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66210)
-
 ___
 
 ### GetInputEventFromNavigationEvent
@@ -828,10 +684,6 @@ ___
 #### Returns
 
 [`InputEvent`](ue_ue.InputEvent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66211)
 
 ___
 
@@ -849,10 +701,6 @@ ___
 
 [`InputEvent`](ue_ue.InputEvent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66212)
-
 ___
 
 ### GetKeyEventFromAnalogInputEvent
@@ -868,10 +716,6 @@ ___
 #### Returns
 
 [`KeyEvent`](ue_ue.KeyEvent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66213)
 
 ___
 
@@ -892,10 +736,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:66214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66214)
-
 ___
 
 ### Handled
@@ -906,10 +746,6 @@ ___
 
 [`EventReply`](ue_ue.EventReply.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66215)
-
 ___
 
 ### IsDragDropping
@@ -919,10 +755,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:66216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66216)
 
 ___
 
@@ -944,10 +776,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Load](ue_ue.BlueprintFunctionLibrary.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:66244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66244)
-
 ___
 
 ### LockMouse
@@ -965,10 +793,6 @@ ___
 
 [`EventReply`](ue_ue.EventReply.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66217)
-
 ___
 
 ### MakeBrushFromAsset
@@ -984,10 +808,6 @@ ___
 #### Returns
 
 [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66218)
 
 ___
 
@@ -1007,10 +827,6 @@ ___
 
 [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66219)
-
 ___
 
 ### MakeBrushFromTexture
@@ -1029,10 +845,6 @@ ___
 
 [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66220)
-
 ___
 
 ### NoResourceBrush
@@ -1042,10 +854,6 @@ ___
 #### Returns
 
 [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66221)
 
 ___
 
@@ -1064,10 +872,6 @@ ___
 
 [`EventReply`](ue_ue.EventReply.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66222)
-
 ___
 
 ### ReleaseMouseCapture
@@ -1084,10 +888,6 @@ ___
 
 [`EventReply`](ue_ue.EventReply.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66223)
-
 ___
 
 ### RestorePreviousWindowTitleBarState
@@ -1097,10 +897,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:66224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66224)
 
 ___
 
@@ -1119,10 +915,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:66225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66225)
-
 ___
 
 ### SetBrushResourceToTexture
@@ -1139,10 +931,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:66226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66226)
 
 ___
 
@@ -1163,10 +951,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:66227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66227)
-
 ___
 
 ### SetFocusToGameViewport
@@ -1176,10 +960,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:66228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66228)
 
 ___
 
@@ -1200,10 +980,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:66229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66229)
-
 ___
 
 ### SetInputMode\_GameAndUI
@@ -1222,10 +998,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:66230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66230)
 
 ___
 
@@ -1246,10 +1018,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:66231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66231)
-
 ___
 
 ### SetInputMode\_GameOnly
@@ -1265,10 +1033,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:66232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66232)
 
 ___
 
@@ -1288,10 +1052,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:66233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66233)
-
 ___
 
 ### SetInputMode\_UIOnlyEx
@@ -1310,10 +1070,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:66234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66234)
-
 ___
 
 ### SetMousePosition
@@ -1330,10 +1086,6 @@ ___
 #### Returns
 
 [`EventReply`](ue_ue.EventReply.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66235)
 
 ___
 
@@ -1353,10 +1105,6 @@ ___
 
 [`EventReply`](ue_ue.EventReply.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66236)
-
 ___
 
 ### SetWindowTitleBarCloseButtonActive
@@ -1373,10 +1121,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:66237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66237)
-
 ___
 
 ### SetWindowTitleBarOnCloseClickedDelegate
@@ -1392,10 +1136,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:66238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66238)
 
 ___
 
@@ -1417,10 +1157,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:66239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66239)
-
 ___
 
 ### StaticClass
@@ -1435,10 +1171,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[StaticClass](ue_ue.BlueprintFunctionLibrary.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:66242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66242)
-
 ___
 
 ### Unhandled
@@ -1448,10 +1180,6 @@ ___
 #### Returns
 
 [`EventReply`](ue_ue.EventReply.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66240)
 
 ___
 
@@ -1468,7 +1196,3 @@ ___
 #### Returns
 
 [`EventReply`](ue_ue.EventReply.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66241)

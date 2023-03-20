@@ -61,10 +61,6 @@
 
 [ClientUnitTest](ue_ue.ClientUnitTest.md).[constructor](ue_ue.ClientUnitTest.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:36222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36222)
-
 ## Properties
 
 ### LastExecutionTime
@@ -74,10 +70,6 @@
 #### Inherited from
 
 [ClientUnitTest](ue_ue.ClientUnitTest.md).[LastExecutionTime](ue_ue.ClientUnitTest.md#lastexecutiontime)
-
-#### Defined in
-
-[ue/ue.d.ts:27540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27540)
 
 ___
 
@@ -89,10 +81,6 @@ ___
 
 [ClientUnitTest](ue_ue.ClientUnitTest.md).[MinClient](ue_ue.ClientUnitTest.md#minclient)
 
-#### Defined in
-
-[ue/ue.d.ts:27570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27570)
-
 ___
 
 ### PeakMemoryUsage
@@ -102,10 +90,6 @@ ___
 #### Inherited from
 
 [ClientUnitTest](ue_ue.ClientUnitTest.md).[PeakMemoryUsage](ue_ue.ClientUnitTest.md#peakmemoryusage)
-
-#### Defined in
-
-[ue/ue.d.ts:27538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27538)
 
 ___
 
@@ -117,10 +101,6 @@ ___
 
 [ClientUnitTest](ue_ue.ClientUnitTest.md).[TimeToPeakMem](ue_ue.ClientUnitTest.md#timetopeakmem)
 
-#### Defined in
-
-[ue/ue.d.ts:27539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27539)
-
 ___
 
 ### UnitTasks
@@ -130,10 +110,6 @@ ___
 #### Inherited from
 
 [ClientUnitTest](ue_ue.ClientUnitTest.md).[UnitTasks](ue_ue.ClientUnitTest.md#unittasks)
-
-#### Defined in
-
-[ue/ue.d.ts:27541](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27541)
 
 ___
 
@@ -145,10 +121,6 @@ ___
 
 [ClientUnitTest](ue_ue.ClientUnitTest.md).[VerificationState](ue_ue.ClientUnitTest.md#verificationstate)
 
-#### Defined in
-
-[ue/ue.d.ts:27542](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27542)
-
 ___
 
 ### \_\_tid\_ClientUnitTest\_\_
@@ -159,19 +131,11 @@ ___
 
 [ClientUnitTest](ue_ue.ClientUnitTest.md).[__tid_ClientUnitTest__](ue_ue.ClientUnitTest.md#__tid_clientunittest__)
 
-#### Defined in
-
-[ue/ue.d.ts:27575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27575)
-
 ___
 
 ### \_\_tid\_FTextCrash\_\_
 
 • **\_\_tid\_FTextCrash\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36227)
 
 ___
 
@@ -183,10 +147,6 @@ ___
 
 [ClientUnitTest](ue_ue.ClientUnitTest.md).[__tid_Object__](ue_ue.ClientUnitTest.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ProcessUnitTest\_\_
@@ -196,10 +156,6 @@ ___
 #### Inherited from
 
 [ClientUnitTest](ue_ue.ClientUnitTest.md).[__tid_ProcessUnitTest__](ue_ue.ClientUnitTest.md#__tid_processunittest__)
-
-#### Defined in
-
-[ue/ue.d.ts:27556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27556)
 
 ___
 
@@ -211,10 +167,6 @@ ___
 
 [ClientUnitTest](ue_ue.ClientUnitTest.md).[__tid_UnitTestBase__](ue_ue.ClientUnitTest.md#__tid_unittestbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:27523](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27523)
-
 ___
 
 ### \_\_tid\_UnitTest\_\_
@@ -224,10 +176,6 @@ ___
 #### Inherited from
 
 [ClientUnitTest](ue_ue.ClientUnitTest.md).[__tid_UnitTest__](ue_ue.ClientUnitTest.md#__tid_unittest__)
-
-#### Defined in
-
-[ue/ue.d.ts:27547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27547)
 
 ## Methods
 
@@ -253,10 +201,6 @@ ___
 
 [ClientUnitTest](ue_ue.ClientUnitTest.md).[CreateDefaultSubobject](ue_ue.ClientUnitTest.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -277,10 +221,6 @@ ___
 
 [ClientUnitTest](ue_ue.ClientUnitTest.md).[ExecuteUbergraph](ue_ue.ClientUnitTest.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -294,10 +234,6 @@ ___
 #### Inherited from
 
 [ClientUnitTest](ue_ue.ClientUnitTest.md).[GetClass](ue_ue.ClientUnitTest.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -313,10 +249,6 @@ ___
 
 [ClientUnitTest](ue_ue.ClientUnitTest.md).[GetName](ue_ue.ClientUnitTest.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -331,10 +263,6 @@ ___
 
 [ClientUnitTest](ue_ue.ClientUnitTest.md).[GetOuter](ue_ue.ClientUnitTest.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -348,10 +276,6 @@ ___
 #### Inherited from
 
 [ClientUnitTest](ue_ue.ClientUnitTest.md).[GetWorld](ue_ue.ClientUnitTest.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -374,10 +298,6 @@ ___
 
 [ClientUnitTest](ue_ue.ClientUnitTest.md).[Find](ue_ue.ClientUnitTest.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:36224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36224)
-
 ___
 
 ### Load
@@ -398,10 +318,6 @@ ___
 
 [ClientUnitTest](ue_ue.ClientUnitTest.md).[Load](ue_ue.ClientUnitTest.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:36225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36225)
-
 ___
 
 ### StaticClass
@@ -415,7 +331,3 @@ ___
 #### Overrides
 
 [ClientUnitTest](ue_ue.ClientUnitTest.md).[StaticClass](ue_ue.ClientUnitTest.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:36223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36223)

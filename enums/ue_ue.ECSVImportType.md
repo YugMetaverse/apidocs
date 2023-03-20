@@ -22,19 +22,11 @@
 
 • **ECSV\_CurveFloat** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28968)
-
 ___
 
 ### ECSV\_CurveLinearColor
 
 • **ECSV\_CurveLinearColor** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:28968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28968)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **ECSV\_CurveTable** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28968)
-
 ___
 
 ### ECSV\_CurveVector
 
 • **ECSV\_CurveVector** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:28968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28968)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **ECSV\_DataTable** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28968)
-
 ___
 
 ### ECSV\_MAX
 
 • **ECSV\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28968)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:28968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28968)

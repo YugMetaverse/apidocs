@@ -20,19 +20,11 @@
 
 • **AssetsOnly** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29427)
-
 ___
 
 ### CurrentLevel
 
 • **CurrentLevel** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29427)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **EDatasmithImportScene\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29427)
-
 ___
 
 ### NewLevel
 
 • **NewLevel** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29427)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29427)

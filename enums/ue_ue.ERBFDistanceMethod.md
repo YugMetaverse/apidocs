@@ -21,19 +21,11 @@
 
 • **DefaultMethod** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19157)
-
 ___
 
 ### ERBFDistanceMethod\_MAX
 
 • **ERBFDistanceMethod\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19157)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Euclidean** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19157)
-
 ___
 
 ### Quaternion
 
 • **Quaternion** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19157)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **SwingAngle** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19157)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19157)

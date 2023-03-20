@@ -29,10 +29,6 @@
 
 • **new BTCompositeChild**()
 
-#### Defined in
-
-[ue/ue.d.ts:14637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14637)
-
 • **new BTCompositeChild**(`ChildComposite`, `ChildTask`, `Decorators`, `DecoratorOps`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `Decorators` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BTDecorator`](ue_ue.BTDecorator.md)\> |
 | `DecoratorOps` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BTDecoratorLogic`](ue_ue.BTDecoratorLogic.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:14638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14638)
-
 ## Properties
 
 ### ChildComposite
 
 • **ChildComposite**: [`BTCompositeNode`](ue_ue.BTCompositeNode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14639)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **ChildTask**: [`BTTaskNode`](ue_ue.BTTaskNode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14640)
-
 ___
 
 ### DecoratorOps
 
 • **DecoratorOps**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BTDecoratorLogic`](ue_ue.BTDecoratorLogic.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:14642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14642)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **Decorators**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BTDecorator`](ue_ue.BTDecorator.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:14641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14641)
-
 ___
 
 ### \_\_tid\_BTCompositeChild\_\_
 
 • `Private` **\_\_tid\_BTCompositeChild\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14648)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14646)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14647)

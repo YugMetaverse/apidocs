@@ -55,10 +55,6 @@
 
 [SoftObjectProperty](ue_ue.SoftObjectProperty.md).[constructor](ue_ue.SoftObjectProperty.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:61084](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61084)
-
 ## Properties
 
 ### \_\_tid\_Field\_\_
@@ -68,10 +64,6 @@
 #### Inherited from
 
 [SoftObjectProperty](ue_ue.SoftObjectProperty.md).[__tid_Field__](ue_ue.SoftObjectProperty.md#__tid_field__)
-
-#### Defined in
-
-[ue/ue.d.ts:700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L700)
 
 ___
 
@@ -83,10 +75,6 @@ ___
 
 [SoftObjectProperty](ue_ue.SoftObjectProperty.md).[__tid_ObjectPropertyBase__](ue_ue.SoftObjectProperty.md#__tid_objectpropertybase__)
 
-#### Defined in
-
-[ue/ue.d.ts:27417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27417)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -96,10 +84,6 @@ ___
 #### Inherited from
 
 [SoftObjectProperty](ue_ue.SoftObjectProperty.md).[__tid_Object__](ue_ue.SoftObjectProperty.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -111,19 +95,11 @@ ___
 
 [SoftObjectProperty](ue_ue.SoftObjectProperty.md).[__tid_Property__](ue_ue.SoftObjectProperty.md#__tid_property__)
 
-#### Defined in
-
-[ue/ue.d.ts:4766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4766)
-
 ___
 
 ### \_\_tid\_SoftClassProperty\_\_
 
 • **\_\_tid\_SoftClassProperty\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:61089](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61089)
 
 ___
 
@@ -134,10 +110,6 @@ ___
 #### Inherited from
 
 [SoftObjectProperty](ue_ue.SoftObjectProperty.md).[__tid_SoftObjectProperty__](ue_ue.SoftObjectProperty.md#__tid_softobjectproperty__)
-
-#### Defined in
-
-[ue/ue.d.ts:61080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61080)
 
 ## Methods
 
@@ -163,10 +135,6 @@ ___
 
 [SoftObjectProperty](ue_ue.SoftObjectProperty.md).[CreateDefaultSubobject](ue_ue.SoftObjectProperty.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -187,10 +155,6 @@ ___
 
 [SoftObjectProperty](ue_ue.SoftObjectProperty.md).[ExecuteUbergraph](ue_ue.SoftObjectProperty.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -204,10 +168,6 @@ ___
 #### Inherited from
 
 [SoftObjectProperty](ue_ue.SoftObjectProperty.md).[GetClass](ue_ue.SoftObjectProperty.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -223,10 +183,6 @@ ___
 
 [SoftObjectProperty](ue_ue.SoftObjectProperty.md).[GetName](ue_ue.SoftObjectProperty.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -241,10 +197,6 @@ ___
 
 [SoftObjectProperty](ue_ue.SoftObjectProperty.md).[GetOuter](ue_ue.SoftObjectProperty.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -258,10 +210,6 @@ ___
 #### Inherited from
 
 [SoftObjectProperty](ue_ue.SoftObjectProperty.md).[GetWorld](ue_ue.SoftObjectProperty.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -284,10 +232,6 @@ ___
 
 [SoftObjectProperty](ue_ue.SoftObjectProperty.md).[Find](ue_ue.SoftObjectProperty.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:61086](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61086)
-
 ___
 
 ### Load
@@ -308,10 +252,6 @@ ___
 
 [SoftObjectProperty](ue_ue.SoftObjectProperty.md).[Load](ue_ue.SoftObjectProperty.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:61087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61087)
-
 ___
 
 ### StaticClass
@@ -325,7 +265,3 @@ ___
 #### Overrides
 
 [SoftObjectProperty](ue_ue.SoftObjectProperty.md).[StaticClass](ue_ue.SoftObjectProperty.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:61085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61085)

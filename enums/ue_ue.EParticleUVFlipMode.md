@@ -25,19 +25,11 @@
 
 • **EParticleUVFlipMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6842)
-
 ___
 
 ### FlipUOnly
 
 • **FlipUOnly** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6842)
 
 ___
 
@@ -45,19 +37,11 @@ ___
 
 • **FlipUV** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6842)
-
 ___
 
 ### FlipVOnly
 
 • **FlipVOnly** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6842)
 
 ___
 
@@ -65,19 +49,11 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6842)
-
 ___
 
 ### RandomFlipUOnly
 
 • **RandomFlipUOnly** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6842)
 
 ___
 
@@ -85,19 +61,11 @@ ___
 
 • **RandomFlipUV** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6842)
-
 ___
 
 ### RandomFlipUVIndependent
 
 • **RandomFlipUVIndependent** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6842)
 
 ___
 
@@ -105,16 +73,8 @@ ___
 
 • **RandomFlipVOnly** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6842)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6842)

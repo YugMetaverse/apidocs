@@ -59,10 +59,6 @@
 
 [ViewportTransformer](ue_ue.ViewportTransformer.md).[constructor](ue_ue.ViewportTransformer.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:14523](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14523)
-
 ## Properties
 
 ### ViewportWorldInteraction
@@ -73,19 +69,11 @@
 
 [ViewportTransformer](ue_ue.ViewportTransformer.md).[ViewportWorldInteraction](ue_ue.ViewportTransformer.md#viewportworldinteraction)
 
-#### Defined in
-
-[ue/ue.d.ts:14508](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14508)
-
 ___
 
 ### \_\_tid\_ActorTransformer\_\_
 
 • **\_\_tid\_ActorTransformer\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14528](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14528)
 
 ___
 
@@ -97,10 +85,6 @@ ___
 
 [ViewportTransformer](ue_ue.ViewportTransformer.md).[__tid_Object__](ue_ue.ViewportTransformer.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ViewportTransformer\_\_
@@ -110,10 +94,6 @@ ___
 #### Inherited from
 
 [ViewportTransformer](ue_ue.ViewportTransformer.md).[__tid_ViewportTransformer__](ue_ue.ViewportTransformer.md#__tid_viewporttransformer__)
-
-#### Defined in
-
-[ue/ue.d.ts:14519](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14519)
 
 ## Methods
 
@@ -128,10 +108,6 @@ ___
 #### Inherited from
 
 [ViewportTransformer](ue_ue.ViewportTransformer.md).[CanAlignToActors](ue_ue.ViewportTransformer.md#canaligntoactors)
-
-#### Defined in
-
-[ue/ue.d.ts:14509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14509)
 
 ___
 
@@ -157,10 +133,6 @@ ___
 
 [ViewportTransformer](ue_ue.ViewportTransformer.md).[CreateDefaultSubobject](ue_ue.ViewportTransformer.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -181,10 +153,6 @@ ___
 
 [ViewportTransformer](ue_ue.ViewportTransformer.md).[ExecuteUbergraph](ue_ue.ViewportTransformer.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -198,10 +166,6 @@ ___
 #### Inherited from
 
 [ViewportTransformer](ue_ue.ViewportTransformer.md).[GetClass](ue_ue.ViewportTransformer.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -217,10 +181,6 @@ ___
 
 [ViewportTransformer](ue_ue.ViewportTransformer.md).[GetName](ue_ue.ViewportTransformer.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -235,10 +195,6 @@ ___
 
 [ViewportTransformer](ue_ue.ViewportTransformer.md).[GetOuter](ue_ue.ViewportTransformer.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -252,10 +208,6 @@ ___
 #### Inherited from
 
 [ViewportTransformer](ue_ue.ViewportTransformer.md).[GetWorld](ue_ue.ViewportTransformer.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -277,10 +229,6 @@ ___
 
 [ViewportTransformer](ue_ue.ViewportTransformer.md).[Init](ue_ue.ViewportTransformer.md#init)
 
-#### Defined in
-
-[ue/ue.d.ts:14510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14510)
-
 ___
 
 ### OnStartDragging
@@ -300,10 +248,6 @@ ___
 #### Inherited from
 
 [ViewportTransformer](ue_ue.ViewportTransformer.md).[OnStartDragging](ue_ue.ViewportTransformer.md#onstartdragging)
-
-#### Defined in
-
-[ue/ue.d.ts:14511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14511)
 
 ___
 
@@ -325,10 +269,6 @@ ___
 
 [ViewportTransformer](ue_ue.ViewportTransformer.md).[OnStopDragging](ue_ue.ViewportTransformer.md#onstopdragging)
 
-#### Defined in
-
-[ue/ue.d.ts:14512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14512)
-
 ___
 
 ### ShouldCenterTransformGizmoPivot
@@ -343,10 +283,6 @@ ___
 
 [ViewportTransformer](ue_ue.ViewportTransformer.md).[ShouldCenterTransformGizmoPivot](ue_ue.ViewportTransformer.md#shouldcentertransformgizmopivot)
 
-#### Defined in
-
-[ue/ue.d.ts:14513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14513)
-
 ___
 
 ### Shutdown
@@ -360,10 +296,6 @@ ___
 #### Inherited from
 
 [ViewportTransformer](ue_ue.ViewportTransformer.md).[Shutdown](ue_ue.ViewportTransformer.md#shutdown)
-
-#### Defined in
-
-[ue/ue.d.ts:14514](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14514)
 
 ___
 
@@ -386,10 +318,6 @@ ___
 
 [ViewportTransformer](ue_ue.ViewportTransformer.md).[Find](ue_ue.ViewportTransformer.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:14525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14525)
-
 ___
 
 ### Load
@@ -410,10 +338,6 @@ ___
 
 [ViewportTransformer](ue_ue.ViewportTransformer.md).[Load](ue_ue.ViewportTransformer.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:14526](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14526)
-
 ___
 
 ### StaticClass
@@ -427,7 +351,3 @@ ___
 #### Overrides
 
 [ViewportTransformer](ue_ue.ViewportTransformer.md).[StaticClass](ue_ue.ViewportTransformer.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:14524](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14524)

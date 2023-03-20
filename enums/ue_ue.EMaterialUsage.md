@@ -33,19 +33,11 @@
 
 • **MATUSAGE\_BeamTrails** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34028)
-
 ___
 
 ### MATUSAGE\_Clothing
 
 • **MATUSAGE\_Clothing** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34028)
 
 ___
 
@@ -53,19 +45,11 @@ ___
 
 • **MATUSAGE\_GeometryCache** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34028)
-
 ___
 
 ### MATUSAGE\_GeometryCollections
 
 • **MATUSAGE\_GeometryCollections** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34028)
 
 ___
 
@@ -73,19 +57,11 @@ ___
 
 • **MATUSAGE\_HairStrands** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34028)
-
 ___
 
 ### MATUSAGE\_InstancedStaticMeshes
 
 • **MATUSAGE\_InstancedStaticMeshes** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34028)
 
 ___
 
@@ -93,19 +69,11 @@ ___
 
 • **MATUSAGE\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34028)
-
 ___
 
 ### MATUSAGE\_MeshParticles
 
 • **MATUSAGE\_MeshParticles** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34028)
 
 ___
 
@@ -113,19 +81,11 @@ ___
 
 • **MATUSAGE\_MorphTargets** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34028)
-
 ___
 
 ### MATUSAGE\_NiagaraMeshParticles
 
 • **MATUSAGE\_NiagaraMeshParticles** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34028)
 
 ___
 
@@ -133,19 +93,11 @@ ___
 
 • **MATUSAGE\_NiagaraRibbons** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34028)
-
 ___
 
 ### MATUSAGE\_NiagaraSprites
 
 • **MATUSAGE\_NiagaraSprites** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34028)
 
 ___
 
@@ -153,19 +105,11 @@ ___
 
 • **MATUSAGE\_ParticleSprites** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34028)
-
 ___
 
 ### MATUSAGE\_SkeletalMesh
 
 • **MATUSAGE\_SkeletalMesh** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34028)
 
 ___
 
@@ -173,19 +117,11 @@ ___
 
 • **MATUSAGE\_SplineMesh** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34028)
-
 ___
 
 ### MATUSAGE\_StaticLighting
 
 • **MATUSAGE\_StaticLighting** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34028)
 
 ___
 
@@ -193,16 +129,8 @@ ___
 
 • **MATUSAGE\_Water** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34028)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34028)

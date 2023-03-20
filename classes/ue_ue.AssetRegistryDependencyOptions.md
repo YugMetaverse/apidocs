@@ -30,10 +30,6 @@
 
 • **new AssetRegistryDependencyOptions**()
 
-#### Defined in
-
-[ue/ue.d.ts:21788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21788)
-
 • **new AssetRegistryDependencyOptions**(`bIncludeSoftPackageReferences`, `bIncludeHardPackageReferences`, `bIncludeSearchableNames`, `bIncludeSoftManagementReferences`, `bIncludeHardManagementReferences`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `bIncludeSoftManagementReferences` | `boolean` |
 | `bIncludeHardManagementReferences` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:21789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21789)
-
 ## Properties
 
 ### \_\_tid\_AssetRegistryDependencyOptions\_\_
 
 • `Private` **\_\_tid\_AssetRegistryDependencyOptions\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21800)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **bIncludeHardManagementReferences**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:21794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21794)
-
 ___
 
 ### bIncludeHardPackageReferences
 
 • **bIncludeHardPackageReferences**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21791)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **bIncludeSearchableNames**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:21792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21792)
-
 ___
 
 ### bIncludeSoftManagementReferences
 
 • **bIncludeSoftManagementReferences**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:21793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21793)
-
 ___
 
 ### bIncludeSoftPackageReferences
 
 • **bIncludeSoftPackageReferences**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21790)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21798)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21799)

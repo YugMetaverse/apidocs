@@ -25,19 +25,11 @@
 
 • **new GeometryCollectionDebugDrawWarningMessage**()
 
-#### Defined in
-
-[ue/ue.d.ts:26832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26832)
-
 ## Properties
 
 ### \_\_tid\_GeometryCollectionDebugDrawWarningMessage\_\_
 
 • `Private` **\_\_tid\_GeometryCollectionDebugDrawWarningMessage\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26838)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26836)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26837)

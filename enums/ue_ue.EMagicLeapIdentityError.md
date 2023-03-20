@@ -35,19 +35,11 @@
 
 • **AllocFailed** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34006)
-
 ___
 
 ### AlreadyLoggedIn
 
 • **AlreadyLoggedIn** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34006)
 
 ___
 
@@ -55,19 +47,11 @@ ___
 
 • **CertificateError** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34006)
-
 ___
 
 ### CloudAuthentication
 
 • **CloudAuthentication** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34006)
 
 ___
 
@@ -75,19 +59,11 @@ ___
 
 • **EMagicLeapIdentityError\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34006)
-
 ___
 
 ### ExpiredCredentials
 
 • **ExpiredCredentials** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34006)
 
 ___
 
@@ -95,19 +71,11 @@ ___
 
 • **FailedToConnectToCloudService** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34006)
-
 ___
 
 ### FailedToConnectToLocalService
 
 • **FailedToConnectToLocalService** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34006)
 
 ___
 
@@ -115,19 +83,11 @@ ___
 
 • **FailedToGetUserProfile** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34006)
-
 ___
 
 ### InvalidInformationFromCloud
 
 • **InvalidInformationFromCloud** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34006)
 
 ___
 
@@ -135,19 +95,11 @@ ___
 
 • **InvalidParam** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34006)
-
 ___
 
 ### ModifyIsNotSupported
 
 • **ModifyIsNotSupported** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34006)
 
 ___
 
@@ -155,19 +107,11 @@ ___
 
 • **NetworkError** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34006)
-
 ___
 
 ### NotLoggedIn
 
 • **NotLoggedIn** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34006)
 
 ___
 
@@ -175,19 +119,11 @@ ___
 
 • **Ok** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34006)
-
 ___
 
 ### PrivilegeDenied
 
 • **PrivilegeDenied** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34006)
 
 ___
 
@@ -195,19 +131,11 @@ ___
 
 • **RejectedByCloud** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34006)
-
 ___
 
 ### Unauthorized
 
 • **Unauthorized** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34006)
 
 ___
 
@@ -215,16 +143,8 @@ ___
 
 • **UnspecifiedFailure** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34006)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34006)

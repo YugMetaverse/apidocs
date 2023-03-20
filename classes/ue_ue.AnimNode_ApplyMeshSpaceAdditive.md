@@ -40,10 +40,6 @@
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[constructor](ue_ue.AnimNode_Base.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:17956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17956)
-
 • **new AnimNode_ApplyMeshSpaceAdditive**(`Base`, `Additive`, `Alpha`, `AlphaScaleBias`, `LODThreshold`)
 
 #### Parameters
@@ -60,19 +56,11 @@
 
 UE.AnimNode\_Base.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:17957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17957)
-
 ## Properties
 
 ### Additive
 
 • **Additive**: [`PoseLink`](ue_ue.PoseLink.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17959)
 
 ___
 
@@ -80,19 +68,11 @@ ___
 
 • **Alpha**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17960)
-
 ___
 
 ### AlphaScaleBias
 
 • **AlphaScaleBias**: [`InputScaleBias`](ue_ue.InputScaleBias.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17961)
 
 ___
 
@@ -100,29 +80,17 @@ ___
 
 • **Base**: [`PoseLink`](ue_ue.PoseLink.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17958)
-
 ___
 
 ### LODThreshold
 
 • **LODThreshold**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17962)
-
 ___
 
 ### \_\_tid\_AnimNode\_ApplyMeshSpaceAdditive\_\_
 
 • `Private` **\_\_tid\_AnimNode\_ApplyMeshSpaceAdditive\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17968)
 
 ## Methods
 
@@ -142,10 +110,6 @@ use StaticStruct instead.
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticClass](ue_ue.AnimNode_Base.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:17966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17966)
-
 ___
 
 ### StaticStruct
@@ -159,7 +123,3 @@ ___
 #### Overrides
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticStruct](ue_ue.AnimNode_Base.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:17967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17967)

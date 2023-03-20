@@ -40,10 +40,6 @@
 
 [BlueprintInputDelegateBinding](ue_ue.BlueprintInputDelegateBinding.md).[constructor](ue_ue.BlueprintInputDelegateBinding.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:39412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39412)
-
 • **new BlueprintInputTouchDelegateBinding**(`InputKeyEvent`, `FunctionNameToBind`)
 
 #### Parameters
@@ -57,19 +53,11 @@
 
 [BlueprintInputDelegateBinding](ue_ue.BlueprintInputDelegateBinding.md).[constructor](ue_ue.BlueprintInputDelegateBinding.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:39413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39413)
-
 ## Properties
 
 ### FunctionNameToBind
 
 • **FunctionNameToBind**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:39415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39415)
 
 ___
 
@@ -77,19 +65,11 @@ ___
 
 • **InputKeyEvent**: [`EInputEvent`](../enums/ue_ue.EInputEvent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39414)
-
 ___
 
 ### \_\_tid\_BlueprintInputTouchDelegateBinding\_\_
 
 • `Private` **\_\_tid\_BlueprintInputTouchDelegateBinding\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39421)
 
 ___
 
@@ -101,10 +81,6 @@ ___
 
 [BlueprintInputDelegateBinding](ue_ue.BlueprintInputDelegateBinding.md).[bConsumeInput](ue_ue.BlueprintInputDelegateBinding.md#bconsumeinput)
 
-#### Defined in
-
-[ue/ue.d.ts:39103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39103)
-
 ___
 
 ### bExecuteWhenPaused
@@ -115,10 +91,6 @@ ___
 
 [BlueprintInputDelegateBinding](ue_ue.BlueprintInputDelegateBinding.md).[bExecuteWhenPaused](ue_ue.BlueprintInputDelegateBinding.md#bexecutewhenpaused)
 
-#### Defined in
-
-[ue/ue.d.ts:39104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39104)
-
 ___
 
 ### bOverrideParentBinding
@@ -128,10 +100,6 @@ ___
 #### Inherited from
 
 [BlueprintInputDelegateBinding](ue_ue.BlueprintInputDelegateBinding.md).[bOverrideParentBinding](ue_ue.BlueprintInputDelegateBinding.md#boverrideparentbinding)
-
-#### Defined in
-
-[ue/ue.d.ts:39105](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39105)
 
 ## Methods
 
@@ -151,10 +119,6 @@ use StaticStruct instead.
 
 [BlueprintInputDelegateBinding](ue_ue.BlueprintInputDelegateBinding.md).[StaticClass](ue_ue.BlueprintInputDelegateBinding.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:39419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39419)
-
 ___
 
 ### StaticStruct
@@ -168,7 +132,3 @@ ___
 #### Overrides
 
 [BlueprintInputDelegateBinding](ue_ue.BlueprintInputDelegateBinding.md).[StaticStruct](ue_ue.BlueprintInputDelegateBinding.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:39420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39420)

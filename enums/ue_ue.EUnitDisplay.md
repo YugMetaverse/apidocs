@@ -21,19 +21,11 @@
 
 • **EUnitDisplay\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33237)
-
 ___
 
 ### Imperial
 
 • **Imperial** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33237)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Invalid** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33237)
-
 ___
 
 ### Metric
 
 • **Metric** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33237)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33237)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33237)

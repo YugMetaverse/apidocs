@@ -27,10 +27,6 @@
 
 • **new AnimSlotGroup**()
 
-#### Defined in
-
-[ue/ue.d.ts:2405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2405)
-
 • **new AnimSlotGroup**(`GroupName`, `SlotNames`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `GroupName` | `string` |
 | `SlotNames` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:2406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2406)
-
 ## Properties
 
 ### GroupName
 
 • **GroupName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:2407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2407)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **SlotNames**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:2408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2408)
-
 ___
 
 ### \_\_tid\_AnimSlotGroup\_\_
 
 • `Private` **\_\_tid\_AnimSlotGroup\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2414)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2412)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2413)

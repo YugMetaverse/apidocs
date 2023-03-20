@@ -23,19 +23,11 @@
 
 • **Abandon** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34786)
-
 ___
 
 ### ESpectatorClientRequestType\_MAX
 
 • **ESpectatorClientRequestType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34786)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **EmptyServerReservation** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34786)
-
 ___
 
 ### ExistingSessionReservation
 
 • **ExistingSessionReservation** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34786)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **NonePending** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34786)
-
 ___
 
 ### Reconnect
 
 • **Reconnect** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34786)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **ReservationUpdate** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34786)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34786)

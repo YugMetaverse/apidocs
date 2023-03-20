@@ -29,10 +29,6 @@
 
 • **new LevelViewportInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:10217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10217)
-
 • **new LevelViewportInfo**(`CamPosition`, `CamRotation`, `CamOrthoZoom`, `CamUpdated`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `CamOrthoZoom` | `number` |
 | `CamUpdated` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:10218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10218)
-
 ## Properties
 
 ### CamOrthoZoom
 
 • **CamOrthoZoom**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10221)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **CamPosition**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10219)
-
 ___
 
 ### CamRotation
 
 • **CamRotation**: [`Rotator`](ue_ue_s.Rotator.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10220)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **CamUpdated**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:10222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10222)
-
 ___
 
 ### \_\_tid\_LevelViewportInfo\_\_
 
 • `Private` **\_\_tid\_LevelViewportInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10228)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10226)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10227)

@@ -31,10 +31,6 @@
 
 • **new PaperSpriteAtlasSlot**()
 
-#### Defined in
-
-[ue/ue.d.ts:54505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54505)
-
 • **new PaperSpriteAtlasSlot**(`SpriteRef`, `AtlasIndex`, `X`, `Y`, `Width`, `Height`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `Width` | `number` |
 | `Height` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:54506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54506)
-
 ## Properties
 
 ### AtlasIndex
 
 • **AtlasIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:54508](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54508)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **Height**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:54512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54512)
-
 ___
 
 ### SpriteRef
 
 • **SpriteRef**: [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`PaperSprite`](ue_ue.PaperSprite.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:54507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54507)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **Width**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:54511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54511)
-
 ___
 
 ### X
 
 • **X**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:54509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54509)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **Y**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:54510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54510)
-
 ___
 
 ### \_\_tid\_PaperSpriteAtlasSlot\_\_
 
 • `Private` **\_\_tid\_PaperSpriteAtlasSlot\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54518](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54518)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54516](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54516)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54517](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54517)

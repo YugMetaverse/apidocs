@@ -35,19 +35,11 @@
 
 [KeyHandleLookupTable](ue_ue.KeyHandleLookupTable.md).[constructor](ue_ue.KeyHandleLookupTable.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:50954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50954)
-
 ## Properties
 
 ### \_\_tid\_MovieSceneKeyHandleMap\_\_
 
 • `Private` **\_\_tid\_MovieSceneKeyHandleMap\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50960)
 
 ## Methods
 
@@ -67,10 +59,6 @@ use StaticStruct instead.
 
 [KeyHandleLookupTable](ue_ue.KeyHandleLookupTable.md).[StaticClass](ue_ue.KeyHandleLookupTable.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:50958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50958)
-
 ___
 
 ### StaticStruct
@@ -84,7 +72,3 @@ ___
 #### Overrides
 
 [KeyHandleLookupTable](ue_ue.KeyHandleLookupTable.md).[StaticStruct](ue_ue.KeyHandleLookupTable.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:50959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50959)

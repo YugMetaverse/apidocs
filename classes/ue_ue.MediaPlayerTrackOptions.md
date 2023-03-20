@@ -32,10 +32,6 @@
 
 • **new MediaPlayerTrackOptions**()
 
-#### Defined in
-
-[ue/ue.d.ts:50145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50145)
-
 • **new MediaPlayerTrackOptions**(`Audio`, `Caption`, `Metadata`, `Script`, `Subtitle`, `Text`, `Video`)
 
 #### Parameters
@@ -50,19 +46,11 @@
 | `Text` | `number` |
 | `Video` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:50146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50146)
-
 ## Properties
 
 ### Audio
 
 • **Audio**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:50147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50147)
 
 ___
 
@@ -70,19 +58,11 @@ ___
 
 • **Caption**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:50148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50148)
-
 ___
 
 ### Metadata
 
 • **Metadata**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:50149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50149)
 
 ___
 
@@ -90,19 +70,11 @@ ___
 
 • **Script**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:50150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50150)
-
 ___
 
 ### Subtitle
 
 • **Subtitle**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:50151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50151)
 
 ___
 
@@ -110,29 +82,17 @@ ___
 
 • **Text**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:50152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50152)
-
 ___
 
 ### Video
 
 • **Video**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:50153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50153)
-
 ___
 
 ### \_\_tid\_MediaPlayerTrackOptions\_\_
 
 • `Private` **\_\_tid\_MediaPlayerTrackOptions\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50159)
 
 ## Methods
 
@@ -148,10 +108,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:50157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50157)
-
 ___
 
 ### StaticStruct
@@ -161,7 +117,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:50158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50158)

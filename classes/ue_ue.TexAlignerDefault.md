@@ -57,10 +57,6 @@
 
 [TexAligner](ue_ue.TexAligner.md).[constructor](ue_ue.TexAligner.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:63035](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63035)
-
 ## Properties
 
 ### DefTexAlign
@@ -70,10 +66,6 @@
 #### Inherited from
 
 [TexAligner](ue_ue.TexAligner.md).[DefTexAlign](ue_ue.TexAligner.md#deftexalign)
-
-#### Defined in
-
-[ue/ue.d.ts:63013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63013)
 
 ___
 
@@ -85,10 +77,6 @@ ___
 
 [TexAligner](ue_ue.TexAligner.md).[Desc](ue_ue.TexAligner.md#desc)
 
-#### Defined in
-
-[ue/ue.d.ts:63017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63017)
-
 ___
 
 ### TAxis
@@ -98,10 +86,6 @@ ___
 #### Inherited from
 
 [TexAligner](ue_ue.TexAligner.md).[TAxis](ue_ue.TexAligner.md#taxis)
-
-#### Defined in
-
-[ue/ue.d.ts:63014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63014)
 
 ___
 
@@ -113,10 +97,6 @@ ___
 
 [TexAligner](ue_ue.TexAligner.md).[UTile](ue_ue.TexAligner.md#utile)
 
-#### Defined in
-
-[ue/ue.d.ts:63015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63015)
-
 ___
 
 ### VTile
@@ -126,10 +106,6 @@ ___
 #### Inherited from
 
 [TexAligner](ue_ue.TexAligner.md).[VTile](ue_ue.TexAligner.md#vtile)
-
-#### Defined in
-
-[ue/ue.d.ts:63016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63016)
 
 ___
 
@@ -141,19 +117,11 @@ ___
 
 [TexAligner](ue_ue.TexAligner.md).[__tid_Object__](ue_ue.TexAligner.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_TexAlignerDefault\_\_
 
 • **\_\_tid\_TexAlignerDefault\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:63040](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63040)
 
 ___
 
@@ -164,10 +132,6 @@ ___
 #### Inherited from
 
 [TexAligner](ue_ue.TexAligner.md).[__tid_TexAligner__](ue_ue.TexAligner.md#__tid_texaligner__)
-
-#### Defined in
-
-[ue/ue.d.ts:63022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63022)
 
 ## Methods
 
@@ -193,10 +157,6 @@ ___
 
 [TexAligner](ue_ue.TexAligner.md).[CreateDefaultSubobject](ue_ue.TexAligner.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -217,10 +177,6 @@ ___
 
 [TexAligner](ue_ue.TexAligner.md).[ExecuteUbergraph](ue_ue.TexAligner.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -234,10 +190,6 @@ ___
 #### Inherited from
 
 [TexAligner](ue_ue.TexAligner.md).[GetClass](ue_ue.TexAligner.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -253,10 +205,6 @@ ___
 
 [TexAligner](ue_ue.TexAligner.md).[GetName](ue_ue.TexAligner.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -271,10 +219,6 @@ ___
 
 [TexAligner](ue_ue.TexAligner.md).[GetOuter](ue_ue.TexAligner.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -288,10 +232,6 @@ ___
 #### Inherited from
 
 [TexAligner](ue_ue.TexAligner.md).[GetWorld](ue_ue.TexAligner.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -314,10 +254,6 @@ ___
 
 [TexAligner](ue_ue.TexAligner.md).[Find](ue_ue.TexAligner.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:63037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63037)
-
 ___
 
 ### Load
@@ -338,10 +274,6 @@ ___
 
 [TexAligner](ue_ue.TexAligner.md).[Load](ue_ue.TexAligner.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:63038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63038)
-
 ___
 
 ### StaticClass
@@ -355,7 +287,3 @@ ___
 #### Overrides
 
 [TexAligner](ue_ue.TexAligner.md).[StaticClass](ue_ue.TexAligner.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:63036](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63036)

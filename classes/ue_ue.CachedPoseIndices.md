@@ -26,10 +26,6 @@
 
 • **new CachedPoseIndices**()
 
-#### Defined in
-
-[ue/ue.d.ts:4915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4915)
-
 • **new CachedPoseIndices**(`OrderedSavedPoseNodeIndices`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `OrderedSavedPoseNodeIndices` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:4916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4916)
-
 ## Properties
 
 ### OrderedSavedPoseNodeIndices
 
 • **OrderedSavedPoseNodeIndices**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:4917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4917)
-
 ___
 
 ### \_\_tid\_CachedPoseIndices\_\_
 
 • `Private` **\_\_tid\_CachedPoseIndices\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4923)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4921)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4922)

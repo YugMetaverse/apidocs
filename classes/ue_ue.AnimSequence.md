@@ -96,19 +96,11 @@
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[constructor](ue_ue.AnimSequenceBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:3197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3197)
-
 ## Properties
 
 ### AdditiveAnimType
 
 • **AdditiveAnimType**: [`EAdditiveAnimationType`](../enums/ue_ue.EAdditiveAnimationType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3208)
 
 ___
 
@@ -120,29 +112,17 @@ ___
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[AnimNotifyTracks](ue_ue.AnimSequenceBase.md#animnotifytracks)
 
-#### Defined in
-
-[ue/ue.d.ts:3134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3134)
-
 ___
 
 ### AnimationTrackNames
 
 • **AnimationTrackNames**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:3203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3203)
-
 ___
 
 ### AssetImportData
 
 • **AssetImportData**: [`AssetImportData`](ue_ue.AssetImportData.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3221)
 
 ___
 
@@ -154,10 +134,6 @@ ___
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[AssetMappingTable](ue_ue.AnimSequenceBase.md#assetmappingtable)
 
-#### Defined in
-
-[ue/ue.d.ts:2766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2766)
-
 ___
 
 ### AssetUserData
@@ -168,19 +144,11 @@ ___
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[AssetUserData](ue_ue.AnimSequenceBase.md#assetuserdata)
 
-#### Defined in
-
-[ue/ue.d.ts:2767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2767)
-
 ___
 
 ### AuthoredSyncMarkers
 
 • **AuthoredSyncMarkers**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AnimSyncMarker`](ue_ue.AnimSyncMarker.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:3225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3225)
 
 ___
 
@@ -192,19 +160,11 @@ ___
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[ChildrenAssets](ue_ue.AnimSequenceBase.md#childrenassets)
 
-#### Defined in
-
-[ue/ue.d.ts:2765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2765)
-
 ___
 
 ### CompressCommandletVersion
 
 • **CompressCommandletVersion**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3219)
 
 ___
 
@@ -212,19 +172,11 @@ ___
 
 • **CompressionErrorThresholdScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3206)
-
 ___
 
 ### CompressionScheme
 
 • **CompressionScheme**: [`AnimCompress`](ue_ue.AnimCompress.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3204)
 
 ___
 
@@ -232,19 +184,11 @@ ___
 
 • **CurveCompressionSettings**: [`AnimCurveCompressionSettings`](ue_ue.AnimCurveCompressionSettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3207)
-
 ___
 
 ### ImportFileFramerate
 
 • **ImportFileFramerate**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3198)
 
 ___
 
@@ -252,19 +196,11 @@ ___
 
 • **ImportResampleFramerate**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3199)
-
 ___
 
 ### Interpolation
 
 • **Interpolation**: [`EAnimInterpolationType`](../enums/ue_ue.EAnimInterpolationType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3213)
 
 ___
 
@@ -276,10 +212,6 @@ ___
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[MetaData](ue_ue.AnimSequenceBase.md#metadata)
 
-#### Defined in
-
-[ue/ue.d.ts:2763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2763)
-
 ___
 
 ### Notifies
@@ -290,19 +222,11 @@ ___
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[Notifies](ue_ue.AnimSequenceBase.md#notifies)
 
-#### Defined in
-
-[ue/ue.d.ts:3130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3130)
-
 ___
 
 ### NumFrames
 
 • **NumFrames**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3200)
 
 ___
 
@@ -314,10 +238,6 @@ ___
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[ParentAsset](ue_ue.AnimSequenceBase.md#parentasset)
 
-#### Defined in
-
-[ue/ue.d.ts:2764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2764)
-
 ___
 
 ### PreviewPoseAsset
@@ -327,10 +247,6 @@ ___
 #### Inherited from
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[PreviewPoseAsset](ue_ue.AnimSequenceBase.md#previewposeasset)
-
-#### Defined in
-
-[ue/ue.d.ts:2769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2769)
 
 ___
 
@@ -342,10 +258,6 @@ ___
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[PreviewSkeletalMesh](ue_ue.AnimSequenceBase.md#previewskeletalmesh)
 
-#### Defined in
-
-[ue/ue.d.ts:2770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2770)
-
 ___
 
 ### RateScale
@@ -355,10 +267,6 @@ ___
 #### Inherited from
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[RateScale](ue_ue.AnimSequenceBase.md#ratescale)
-
-#### Defined in
-
-[ue/ue.d.ts:3132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3132)
 
 ___
 
@@ -370,19 +278,11 @@ ___
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[RawCurveData](ue_ue.AnimSequenceBase.md#rawcurvedata)
 
-#### Defined in
-
-[ue/ue.d.ts:3133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3133)
-
 ___
 
 ### RawDataGuid
 
 • **RawDataGuid**: [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3202)
 
 ___
 
@@ -390,19 +290,11 @@ ___
 
 • **RefFrameIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3211)
-
 ___
 
 ### RefPoseSeq
 
 • **RefPoseSeq**: [`AnimSequence`](ue_ue.AnimSequence.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3210)
 
 ___
 
@@ -410,29 +302,17 @@ ___
 
 • **RefPoseType**: [`EAdditiveBasePoseType`](../enums/ue_ue.EAdditiveBasePoseType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3209)
-
 ___
 
 ### RetargetSource
 
 • **RetargetSource**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:3212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3212)
-
 ___
 
 ### RootMotionRootLock
 
 • **RootMotionRootLock**: [`ERootMotionRootLock`](../enums/ue_ue.ERootMotionRootLock.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3215)
 
 ___
 
@@ -444,10 +324,6 @@ ___
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[SequenceLength](ue_ue.AnimSequenceBase.md#sequencelength)
 
-#### Defined in
-
-[ue/ue.d.ts:3131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3131)
-
 ___
 
 ### Skeleton
@@ -458,29 +334,17 @@ ___
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[Skeleton](ue_ue.AnimSequenceBase.md#skeleton)
 
-#### Defined in
-
-[ue/ue.d.ts:2762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2762)
-
 ___
 
 ### SourceFilePath
 
 • **SourceFilePath**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:3222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3222)
-
 ___
 
 ### SourceFileTimestamp
 
 • **SourceFileTimestamp**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:3223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3223)
 
 ___
 
@@ -492,19 +356,11 @@ ___
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[ThumbnailInfo](ue_ue.AnimSequenceBase.md#thumbnailinfo)
 
-#### Defined in
-
-[ue/ue.d.ts:2768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2768)
-
 ___
 
 ### TrackToSkeletonMapTable
 
 • **TrackToSkeletonMapTable**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`TrackToSkeletonMap`](ue_ue.TrackToSkeletonMap.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:3201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3201)
 
 ___
 
@@ -516,19 +372,11 @@ ___
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[__tid_AnimSequenceBase__](ue_ue.AnimSequenceBase.md#__tid_animsequencebase__)
 
-#### Defined in
-
-[ue/ue.d.ts:3140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3140)
-
 ___
 
 ### \_\_tid\_AnimSequence\_\_
 
 • **\_\_tid\_AnimSequence\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3230)
 
 ___
 
@@ -540,10 +388,6 @@ ___
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[__tid_AnimationAsset__](ue_ue.AnimSequenceBase.md#__tid_animationasset__)
 
-#### Defined in
-
-[ue/ue.d.ts:2775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2775)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -554,19 +398,11 @@ ___
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[__tid_Object__](ue_ue.AnimSequenceBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bAllowFrameStripping
 
 • **bAllowFrameStripping**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3205)
 
 ___
 
@@ -574,19 +410,11 @@ ___
 
 • **bDoNotOverrideCompression**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3220)
-
 ___
 
 ### bEnableRootMotion
 
 • **bEnableRootMotion**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3214)
 
 ___
 
@@ -594,19 +422,11 @@ ___
 
 • **bForceRootLock**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3216)
-
 ___
 
 ### bNeedsRebake
 
 • **bNeedsRebake**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3224)
 
 ___
 
@@ -614,19 +434,11 @@ ___
 
 • **bRootMotionSettingsCopiedFromMontage**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3218)
-
 ___
 
 ### bUseNormalizedRootMotionScale
 
 • **bUseNormalizedRootMotionScale**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3217)
 
 ## Methods
 
@@ -652,10 +464,6 @@ ___
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[CreateDefaultSubobject](ue_ue.AnimSequenceBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -676,10 +484,6 @@ ___
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[ExecuteUbergraph](ue_ue.AnimSequenceBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -693,10 +497,6 @@ ___
 #### Inherited from
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[GetClass](ue_ue.AnimSequenceBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -712,10 +512,6 @@ ___
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[GetName](ue_ue.AnimSequenceBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -729,10 +525,6 @@ ___
 #### Inherited from
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[GetOuter](ue_ue.AnimSequenceBase.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -748,10 +540,6 @@ ___
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[GetPlayLength](ue_ue.AnimSequenceBase.md#getplaylength)
 
-#### Defined in
-
-[ue/ue.d.ts:3135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3135)
-
 ___
 
 ### GetWorld
@@ -765,10 +553,6 @@ ___
 #### Inherited from
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[GetWorld](ue_ue.AnimSequenceBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -791,10 +575,6 @@ ___
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[Find](ue_ue.AnimSequenceBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:3227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3227)
-
 ___
 
 ### Load
@@ -815,10 +595,6 @@ ___
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[Load](ue_ue.AnimSequenceBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:3228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3228)
-
 ___
 
 ### StaticClass
@@ -832,7 +608,3 @@ ___
 #### Overrides
 
 [AnimSequenceBase](ue_ue.AnimSequenceBase.md).[StaticClass](ue_ue.AnimSequenceBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:3226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3226)

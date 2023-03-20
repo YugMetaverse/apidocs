@@ -27,10 +27,6 @@
 
 • **new SourceEffectChainEntry**()
 
-#### Defined in
-
-[ue/ue.d.ts:9659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9659)
-
 • **new SourceEffectChainEntry**(`Preset`, `bBypass`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Preset` | [`SoundEffectSourcePreset`](ue_ue.SoundEffectSourcePreset.md) |
 | `bBypass` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:9660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9660)
-
 ## Properties
 
 ### Preset
 
 • **Preset**: [`SoundEffectSourcePreset`](ue_ue.SoundEffectSourcePreset.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9661)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • `Private` **\_\_tid\_SourceEffectChainEntry\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9668)
-
 ___
 
 ### bBypass
 
 • **bBypass**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9662)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9666)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9667)

@@ -21,19 +21,11 @@
 
 • **Count** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34810)
-
 ___
 
 ### ESubmixEffectDynamicsPeakMode\_MAX
 
 • **ESubmixEffectDynamicsPeakMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34810)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **MeanSquared** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34810)
-
 ___
 
 ### Peak
 
 • **Peak** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34810)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **RootMeanSquared** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34810)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34810)

@@ -28,10 +28,6 @@
 
 • **new PSCPool**()
 
-#### Defined in
-
-[ue/ue.d.ts:10259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10259)
-
 • **new PSCPool**(`FreeElements`, `InUseComponents_Auto`, `InUseComponents_Manual`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `InUseComponents_Auto` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ParticleSystemComponent`](ue_ue.ParticleSystemComponent.md)\> |
 | `InUseComponents_Manual` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ParticleSystemComponent`](ue_ue.ParticleSystemComponent.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:10260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10260)
-
 ## Properties
 
 ### FreeElements
 
 • **FreeElements**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PSCPoolElem`](ue_ue.PSCPoolElem.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:10261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10261)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **InUseComponents\_Auto**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ParticleSystemComponent`](ue_ue.ParticleSystemComponent.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:10262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10262)
-
 ___
 
 ### InUseComponents\_Manual
 
 • **InUseComponents\_Manual**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ParticleSystemComponent`](ue_ue.ParticleSystemComponent.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:10263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10263)
-
 ___
 
 ### \_\_tid\_PSCPool\_\_
 
 • `Private` **\_\_tid\_PSCPool\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10269)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10267)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10268)

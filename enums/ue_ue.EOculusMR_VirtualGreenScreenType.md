@@ -20,19 +20,11 @@
 
 • **VGS\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34645)
-
 ___
 
 ### VGS\_Off
 
 • **VGS\_Off** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34645)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **VGS\_OuterBoundary** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34645)
-
 ___
 
 ### VGS\_PlayArea
 
 • **VGS\_PlayArea** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34645)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34645)

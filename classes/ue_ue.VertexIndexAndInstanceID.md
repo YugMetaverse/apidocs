@@ -27,10 +27,6 @@
 
 • **new VertexIndexAndInstanceID**()
 
-#### Defined in
-
-[ue/ue.d.ts:31906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31906)
-
 • **new VertexIndexAndInstanceID**(`ContourIndex`, `VertexInstanceID`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `ContourIndex` | `number` |
 | `VertexInstanceID` | [`VertexInstanceID`](ue_ue.VertexInstanceID.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:31907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31907)
-
 ## Properties
 
 ### ContourIndex
 
 • **ContourIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31908)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **VertexInstanceID**: [`VertexInstanceID`](ue_ue.VertexInstanceID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31909)
-
 ___
 
 ### \_\_tid\_VertexIndexAndInstanceID\_\_
 
 • `Private` **\_\_tid\_VertexIndexAndInstanceID\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31915)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31913)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31914)

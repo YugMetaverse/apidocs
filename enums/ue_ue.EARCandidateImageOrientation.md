@@ -19,19 +19,11 @@
 
 • **EARCandidateImageOrientation\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20713)
-
 ___
 
 ### Landscape
 
 • **Landscape** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20713)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Portrait** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20713)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20713)

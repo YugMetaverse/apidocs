@@ -27,10 +27,6 @@
 
 • **new LandscapeEditorLayerSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:44044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44044)
-
 • **new LandscapeEditorLayerSettings**(`LayerInfoObj`, `ReimportLayerFilePath`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `LayerInfoObj` | [`LandscapeLayerInfoObject`](ue_ue.LandscapeLayerInfoObject.md) |
 | `ReimportLayerFilePath` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:44045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44045)
-
 ## Properties
 
 ### LayerInfoObj
 
 • **LayerInfoObj**: [`LandscapeLayerInfoObject`](ue_ue.LandscapeLayerInfoObject.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44046](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44046)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **ReimportLayerFilePath**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:44047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44047)
-
 ___
 
 ### \_\_tid\_LandscapeEditorLayerSettings\_\_
 
 • `Private` **\_\_tid\_LandscapeEditorLayerSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44053)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44051](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44051)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44052)

@@ -20,19 +20,11 @@
 
 • **SCCM\_Additive** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34749)
-
 ___
 
 ### SCCM\_Composite
 
 • **SCCM\_Composite** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34749)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **SCCM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34749)
-
 ___
 
 ### SCCM\_Overwrite
 
 • **SCCM\_Overwrite** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34749)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34749)

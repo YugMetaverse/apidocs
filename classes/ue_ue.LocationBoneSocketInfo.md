@@ -27,10 +27,6 @@
 
 • **new LocationBoneSocketInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:55793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55793)
-
 • **new LocationBoneSocketInfo**(`BoneSocketName`, `Offset`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `BoneSocketName` | `string` |
 | `Offset` | [`Vector`](ue_ue_s.Vector.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:55794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55794)
-
 ## Properties
 
 ### BoneSocketName
 
 • **BoneSocketName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:55795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55795)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Offset**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:55796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55796)
-
 ___
 
 ### \_\_tid\_LocationBoneSocketInfo\_\_
 
 • `Private` **\_\_tid\_LocationBoneSocketInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55802)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:55800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55800)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:55801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55801)

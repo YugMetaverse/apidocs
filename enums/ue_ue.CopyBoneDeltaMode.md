@@ -19,19 +19,11 @@
 
 • **Accumulate** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18362)
-
 ___
 
 ### Copy
 
 • **Copy** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18362)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **CopyBoneDeltaMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18362)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18362)

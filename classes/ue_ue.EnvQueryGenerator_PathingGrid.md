@@ -66,10 +66,6 @@
 
 [EnvQueryGenerator_SimpleGrid](ue_ue.EnvQueryGenerator_SimpleGrid.md).[constructor](ue_ue.EnvQueryGenerator_SimpleGrid.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:34427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34427)
-
 ## Properties
 
 ### GenerateAround
@@ -79,10 +75,6 @@
 #### Inherited from
 
 [EnvQueryGenerator_SimpleGrid](ue_ue.EnvQueryGenerator_SimpleGrid.md).[GenerateAround](ue_ue.EnvQueryGenerator_SimpleGrid.md#generatearound)
-
-#### Defined in
-
-[ue/ue.d.ts:34418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34418)
 
 ___
 
@@ -94,10 +86,6 @@ ___
 
 [EnvQueryGenerator_SimpleGrid](ue_ue.EnvQueryGenerator_SimpleGrid.md).[GridSize](ue_ue.EnvQueryGenerator_SimpleGrid.md#gridsize)
 
-#### Defined in
-
-[ue/ue.d.ts:34416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34416)
-
 ___
 
 ### ItemType
@@ -108,19 +96,11 @@ ___
 
 [EnvQueryGenerator_SimpleGrid](ue_ue.EnvQueryGenerator_SimpleGrid.md).[ItemType](ue_ue.EnvQueryGenerator_SimpleGrid.md#itemtype)
 
-#### Defined in
-
-[ue/ue.d.ts:15476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15476)
-
 ___
 
 ### NavigationFilter
 
 • **NavigationFilter**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:34429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34429)
 
 ___
 
@@ -132,19 +112,11 @@ ___
 
 [EnvQueryGenerator_SimpleGrid](ue_ue.EnvQueryGenerator_SimpleGrid.md).[OptionName](ue_ue.EnvQueryGenerator_SimpleGrid.md#optionname)
 
-#### Defined in
-
-[ue/ue.d.ts:15475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15475)
-
 ___
 
 ### PathToItem
 
 • **PathToItem**: [`AIDataProviderBoolValue`](ue_ue.AIDataProviderBoolValue.md)
-
-#### Defined in
-
-[ue/ue.d.ts:34428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34428)
 
 ___
 
@@ -156,19 +128,11 @@ ___
 
 [EnvQueryGenerator_SimpleGrid](ue_ue.EnvQueryGenerator_SimpleGrid.md).[ProjectionData](ue_ue.EnvQueryGenerator_SimpleGrid.md#projectiondata)
 
-#### Defined in
-
-[ue/ue.d.ts:34314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34314)
-
 ___
 
 ### ScanRangeMultiplier
 
 • **ScanRangeMultiplier**: [`AIDataProviderFloatValue`](ue_ue.AIDataProviderFloatValue.md)
-
-#### Defined in
-
-[ue/ue.d.ts:34430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34430)
 
 ___
 
@@ -180,10 +144,6 @@ ___
 
 [EnvQueryGenerator_SimpleGrid](ue_ue.EnvQueryGenerator_SimpleGrid.md).[SpaceBetween](ue_ue.EnvQueryGenerator_SimpleGrid.md#spacebetween)
 
-#### Defined in
-
-[ue/ue.d.ts:34417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34417)
-
 ___
 
 ### VerNum
@@ -194,19 +154,11 @@ ___
 
 [EnvQueryGenerator_SimpleGrid](ue_ue.EnvQueryGenerator_SimpleGrid.md).[VerNum](ue_ue.EnvQueryGenerator_SimpleGrid.md#vernum)
 
-#### Defined in
-
-[ue/ue.d.ts:15465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15465)
-
 ___
 
 ### \_\_tid\_EnvQueryGenerator\_PathingGrid\_\_
 
 • **\_\_tid\_EnvQueryGenerator\_PathingGrid\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:34435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34435)
 
 ___
 
@@ -218,10 +170,6 @@ ___
 
 [EnvQueryGenerator_SimpleGrid](ue_ue.EnvQueryGenerator_SimpleGrid.md).[__tid_EnvQueryGenerator_ProjectedPoints__](ue_ue.EnvQueryGenerator_SimpleGrid.md#__tid_envquerygenerator_projectedpoints__)
 
-#### Defined in
-
-[ue/ue.d.ts:34319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34319)
-
 ___
 
 ### \_\_tid\_EnvQueryGenerator\_SimpleGrid\_\_
@@ -231,10 +179,6 @@ ___
 #### Inherited from
 
 [EnvQueryGenerator_SimpleGrid](ue_ue.EnvQueryGenerator_SimpleGrid.md).[__tid_EnvQueryGenerator_SimpleGrid__](ue_ue.EnvQueryGenerator_SimpleGrid.md#__tid_envquerygenerator_simplegrid__)
-
-#### Defined in
-
-[ue/ue.d.ts:34423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34423)
 
 ___
 
@@ -246,10 +190,6 @@ ___
 
 [EnvQueryGenerator_SimpleGrid](ue_ue.EnvQueryGenerator_SimpleGrid.md).[__tid_EnvQueryGenerator__](ue_ue.EnvQueryGenerator_SimpleGrid.md#__tid_envquerygenerator__)
 
-#### Defined in
-
-[ue/ue.d.ts:15482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15482)
-
 ___
 
 ### \_\_tid\_EnvQueryNode\_\_
@@ -259,10 +199,6 @@ ___
 #### Inherited from
 
 [EnvQueryGenerator_SimpleGrid](ue_ue.EnvQueryGenerator_SimpleGrid.md).[__tid_EnvQueryNode__](ue_ue.EnvQueryGenerator_SimpleGrid.md#__tid_envquerynode__)
-
-#### Defined in
-
-[ue/ue.d.ts:15470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15470)
 
 ___
 
@@ -274,10 +210,6 @@ ___
 
 [EnvQueryGenerator_SimpleGrid](ue_ue.EnvQueryGenerator_SimpleGrid.md).[__tid_Object__](ue_ue.EnvQueryGenerator_SimpleGrid.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bAutoSortTests
@@ -287,10 +219,6 @@ ___
 #### Inherited from
 
 [EnvQueryGenerator_SimpleGrid](ue_ue.EnvQueryGenerator_SimpleGrid.md).[bAutoSortTests](ue_ue.EnvQueryGenerator_SimpleGrid.md#bautosorttests)
-
-#### Defined in
-
-[ue/ue.d.ts:15477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15477)
 
 ## Methods
 
@@ -316,10 +244,6 @@ ___
 
 [EnvQueryGenerator_SimpleGrid](ue_ue.EnvQueryGenerator_SimpleGrid.md).[CreateDefaultSubobject](ue_ue.EnvQueryGenerator_SimpleGrid.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -340,10 +264,6 @@ ___
 
 [EnvQueryGenerator_SimpleGrid](ue_ue.EnvQueryGenerator_SimpleGrid.md).[ExecuteUbergraph](ue_ue.EnvQueryGenerator_SimpleGrid.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -357,10 +277,6 @@ ___
 #### Inherited from
 
 [EnvQueryGenerator_SimpleGrid](ue_ue.EnvQueryGenerator_SimpleGrid.md).[GetClass](ue_ue.EnvQueryGenerator_SimpleGrid.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -376,10 +292,6 @@ ___
 
 [EnvQueryGenerator_SimpleGrid](ue_ue.EnvQueryGenerator_SimpleGrid.md).[GetName](ue_ue.EnvQueryGenerator_SimpleGrid.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -394,10 +306,6 @@ ___
 
 [EnvQueryGenerator_SimpleGrid](ue_ue.EnvQueryGenerator_SimpleGrid.md).[GetOuter](ue_ue.EnvQueryGenerator_SimpleGrid.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -411,10 +319,6 @@ ___
 #### Inherited from
 
 [EnvQueryGenerator_SimpleGrid](ue_ue.EnvQueryGenerator_SimpleGrid.md).[GetWorld](ue_ue.EnvQueryGenerator_SimpleGrid.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -437,10 +341,6 @@ ___
 
 [EnvQueryGenerator_SimpleGrid](ue_ue.EnvQueryGenerator_SimpleGrid.md).[Find](ue_ue.EnvQueryGenerator_SimpleGrid.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:34432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34432)
-
 ___
 
 ### Load
@@ -461,10 +361,6 @@ ___
 
 [EnvQueryGenerator_SimpleGrid](ue_ue.EnvQueryGenerator_SimpleGrid.md).[Load](ue_ue.EnvQueryGenerator_SimpleGrid.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:34433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34433)
-
 ___
 
 ### StaticClass
@@ -478,7 +374,3 @@ ___
 #### Overrides
 
 [EnvQueryGenerator_SimpleGrid](ue_ue.EnvQueryGenerator_SimpleGrid.md).[StaticClass](ue_ue.EnvQueryGenerator_SimpleGrid.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:34431](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34431)

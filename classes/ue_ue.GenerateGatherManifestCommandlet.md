@@ -64,10 +64,6 @@
 
 [GatherTextCommandletBase](ue_ue.GatherTextCommandletBase.md).[constructor](ue_ue.GatherTextCommandletBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:37509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37509)
-
 ## Properties
 
 ### HelpDescription
@@ -77,10 +73,6 @@
 #### Inherited from
 
 [GatherTextCommandletBase](ue_ue.GatherTextCommandletBase.md).[HelpDescription](ue_ue.GatherTextCommandletBase.md#helpdescription)
-
-#### Defined in
-
-[ue/ue.d.ts:16167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16167)
 
 ___
 
@@ -92,10 +84,6 @@ ___
 
 [GatherTextCommandletBase](ue_ue.GatherTextCommandletBase.md).[HelpParamDescriptions](ue_ue.GatherTextCommandletBase.md#helpparamdescriptions)
 
-#### Defined in
-
-[ue/ue.d.ts:16171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16171)
-
 ___
 
 ### HelpParamNames
@@ -105,10 +93,6 @@ ___
 #### Inherited from
 
 [GatherTextCommandletBase](ue_ue.GatherTextCommandletBase.md).[HelpParamNames](ue_ue.GatherTextCommandletBase.md#helpparamnames)
-
-#### Defined in
-
-[ue/ue.d.ts:16170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16170)
 
 ___
 
@@ -120,10 +104,6 @@ ___
 
 [GatherTextCommandletBase](ue_ue.GatherTextCommandletBase.md).[HelpUsage](ue_ue.GatherTextCommandletBase.md#helpusage)
 
-#### Defined in
-
-[ue/ue.d.ts:16168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16168)
-
 ___
 
 ### HelpWebLink
@@ -133,10 +113,6 @@ ___
 #### Inherited from
 
 [GatherTextCommandletBase](ue_ue.GatherTextCommandletBase.md).[HelpWebLink](ue_ue.GatherTextCommandletBase.md#helpweblink)
-
-#### Defined in
-
-[ue/ue.d.ts:16169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16169)
 
 ___
 
@@ -148,10 +124,6 @@ ___
 
 [GatherTextCommandletBase](ue_ue.GatherTextCommandletBase.md).[IsClient](ue_ue.GatherTextCommandletBase.md#isclient)
 
-#### Defined in
-
-[ue/ue.d.ts:16173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16173)
-
 ___
 
 ### IsEditor
@@ -161,10 +133,6 @@ ___
 #### Inherited from
 
 [GatherTextCommandletBase](ue_ue.GatherTextCommandletBase.md).[IsEditor](ue_ue.GatherTextCommandletBase.md#iseditor)
-
-#### Defined in
-
-[ue/ue.d.ts:16174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16174)
 
 ___
 
@@ -176,10 +144,6 @@ ___
 
 [GatherTextCommandletBase](ue_ue.GatherTextCommandletBase.md).[IsServer](ue_ue.GatherTextCommandletBase.md#isserver)
 
-#### Defined in
-
-[ue/ue.d.ts:16172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16172)
-
 ___
 
 ### LogToConsole
@@ -189,10 +153,6 @@ ___
 #### Inherited from
 
 [GatherTextCommandletBase](ue_ue.GatherTextCommandletBase.md).[LogToConsole](ue_ue.GatherTextCommandletBase.md#logtoconsole)
-
-#### Defined in
-
-[ue/ue.d.ts:16175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16175)
 
 ___
 
@@ -204,10 +164,6 @@ ___
 
 [GatherTextCommandletBase](ue_ue.GatherTextCommandletBase.md).[ShowErrorCount](ue_ue.GatherTextCommandletBase.md#showerrorcount)
 
-#### Defined in
-
-[ue/ue.d.ts:16176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16176)
-
 ___
 
 ### ShowProgress
@@ -217,10 +173,6 @@ ___
 #### Inherited from
 
 [GatherTextCommandletBase](ue_ue.GatherTextCommandletBase.md).[ShowProgress](ue_ue.GatherTextCommandletBase.md#showprogress)
-
-#### Defined in
-
-[ue/ue.d.ts:16177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16177)
 
 ___
 
@@ -232,10 +184,6 @@ ___
 
 [GatherTextCommandletBase](ue_ue.GatherTextCommandletBase.md).[__tid_Commandlet__](ue_ue.GatherTextCommandletBase.md#__tid_commandlet__)
 
-#### Defined in
-
-[ue/ue.d.ts:16182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16182)
-
 ___
 
 ### \_\_tid\_GatherTextCommandletBase\_\_
@@ -246,19 +194,11 @@ ___
 
 [GatherTextCommandletBase](ue_ue.GatherTextCommandletBase.md).[__tid_GatherTextCommandletBase__](ue_ue.GatherTextCommandletBase.md#__tid_gathertextcommandletbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:35011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35011)
-
 ___
 
 ### \_\_tid\_GenerateGatherManifestCommandlet\_\_
 
 • **\_\_tid\_GenerateGatherManifestCommandlet\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:37514](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37514)
 
 ___
 
@@ -269,10 +209,6 @@ ___
 #### Inherited from
 
 [GatherTextCommandletBase](ue_ue.GatherTextCommandletBase.md).[__tid_Object__](ue_ue.GatherTextCommandletBase.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -298,10 +234,6 @@ ___
 
 [GatherTextCommandletBase](ue_ue.GatherTextCommandletBase.md).[CreateDefaultSubobject](ue_ue.GatherTextCommandletBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -322,10 +254,6 @@ ___
 
 [GatherTextCommandletBase](ue_ue.GatherTextCommandletBase.md).[ExecuteUbergraph](ue_ue.GatherTextCommandletBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -339,10 +267,6 @@ ___
 #### Inherited from
 
 [GatherTextCommandletBase](ue_ue.GatherTextCommandletBase.md).[GetClass](ue_ue.GatherTextCommandletBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -358,10 +282,6 @@ ___
 
 [GatherTextCommandletBase](ue_ue.GatherTextCommandletBase.md).[GetName](ue_ue.GatherTextCommandletBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -376,10 +296,6 @@ ___
 
 [GatherTextCommandletBase](ue_ue.GatherTextCommandletBase.md).[GetOuter](ue_ue.GatherTextCommandletBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -393,10 +309,6 @@ ___
 #### Inherited from
 
 [GatherTextCommandletBase](ue_ue.GatherTextCommandletBase.md).[GetWorld](ue_ue.GatherTextCommandletBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -419,10 +331,6 @@ ___
 
 [GatherTextCommandletBase](ue_ue.GatherTextCommandletBase.md).[Find](ue_ue.GatherTextCommandletBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:37511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37511)
-
 ___
 
 ### Load
@@ -443,10 +351,6 @@ ___
 
 [GatherTextCommandletBase](ue_ue.GatherTextCommandletBase.md).[Load](ue_ue.GatherTextCommandletBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:37512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37512)
-
 ___
 
 ### StaticClass
@@ -460,7 +364,3 @@ ___
 #### Overrides
 
 [GatherTextCommandletBase](ue_ue.GatherTextCommandletBase.md).[StaticClass](ue_ue.GatherTextCommandletBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:37510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37510)

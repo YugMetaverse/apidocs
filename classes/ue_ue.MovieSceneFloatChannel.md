@@ -43,10 +43,6 @@
 
 [MovieSceneChannel](ue_ue.MovieSceneChannel.md).[constructor](ue_ue.MovieSceneChannel.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:50964](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50964)
-
 • **new MovieSceneFloatChannel**(`PreInfinityExtrap`, `PostInfinityExtrap`, `Times`, `Values`, `DefaultValue`, `bHasDefaultValue`, `KeyHandles`, `TickResolution`)
 
 #### Parameters
@@ -66,19 +62,11 @@
 
 UE.MovieSceneChannel.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:50965](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50965)
-
 ## Properties
 
 ### DefaultValue
 
 • **DefaultValue**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:50970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50970)
 
 ___
 
@@ -86,19 +74,11 @@ ___
 
 • **KeyHandles**: [`MovieSceneKeyHandleMap`](ue_ue.MovieSceneKeyHandleMap.md)
 
-#### Defined in
-
-[ue/ue.d.ts:50972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50972)
-
 ___
 
 ### PostInfinityExtrap
 
 • **PostInfinityExtrap**: [`ERichCurveExtrapolation`](../enums/ue_ue.ERichCurveExtrapolation.md)
-
-#### Defined in
-
-[ue/ue.d.ts:50967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50967)
 
 ___
 
@@ -106,19 +86,11 @@ ___
 
 • **PreInfinityExtrap**: [`ERichCurveExtrapolation`](../enums/ue_ue.ERichCurveExtrapolation.md)
 
-#### Defined in
-
-[ue/ue.d.ts:50966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50966)
-
 ___
 
 ### TickResolution
 
 • **TickResolution**: [`FrameRate`](ue_ue.FrameRate.md)
-
-#### Defined in
-
-[ue/ue.d.ts:50973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50973)
 
 ___
 
@@ -126,19 +98,11 @@ ___
 
 • **Times**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`FrameNumber`](ue_ue.FrameNumber.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:50968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50968)
-
 ___
 
 ### Values
 
 • **Values**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MovieSceneFloatValue`](ue_ue.MovieSceneFloatValue.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:50969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50969)
 
 ___
 
@@ -146,19 +110,11 @@ ___
 
 • `Private` **\_\_tid\_MovieSceneFloatChannel\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:50979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50979)
-
 ___
 
 ### bHasDefaultValue
 
 • **bHasDefaultValue**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50971)
 
 ## Methods
 
@@ -178,10 +134,6 @@ use StaticStruct instead.
 
 [MovieSceneChannel](ue_ue.MovieSceneChannel.md).[StaticClass](ue_ue.MovieSceneChannel.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:50977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50977)
-
 ___
 
 ### StaticStruct
@@ -195,7 +147,3 @@ ___
 #### Overrides
 
 [MovieSceneChannel](ue_ue.MovieSceneChannel.md).[StaticStruct](ue_ue.MovieSceneChannel.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:50978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50978)

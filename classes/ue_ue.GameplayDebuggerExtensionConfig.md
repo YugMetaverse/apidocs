@@ -28,10 +28,6 @@
 
 • **new GameplayDebuggerExtensionConfig**()
 
-#### Defined in
-
-[ue/ue.d.ts:36723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36723)
-
 • **new GameplayDebuggerExtensionConfig**(`ExtensionName`, `UseExtension`, `InputHandlers`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `UseExtension` | [`EGameplayDebuggerOverrideMode`](../enums/ue_ue.EGameplayDebuggerOverrideMode.md) |
 | `InputHandlers` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`GameplayDebuggerInputConfig`](ue_ue.GameplayDebuggerInputConfig.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:36724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36724)
-
 ## Properties
 
 ### ExtensionName
 
 • **ExtensionName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:36725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36725)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **InputHandlers**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`GameplayDebuggerInputConfig`](ue_ue.GameplayDebuggerInputConfig.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:36727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36727)
-
 ___
 
 ### UseExtension
 
 • **UseExtension**: [`EGameplayDebuggerOverrideMode`](../enums/ue_ue.EGameplayDebuggerOverrideMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36726)
-
 ___
 
 ### \_\_tid\_GameplayDebuggerExtensionConfig\_\_
 
 • `Private` **\_\_tid\_GameplayDebuggerExtensionConfig\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36733)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36731)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36732)

@@ -22,19 +22,11 @@
 
 • **ENormalMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34182)
-
 ___
 
 ### NM\_PreserveSmoothingGroups
 
 • **NM\_PreserveSmoothingGroups** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34182)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **NM\_RecalculateNormals** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34182)
-
 ___
 
 ### NM\_RecalculateNormalsHard
 
 • **NM\_RecalculateNormalsHard** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34182)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **NM\_RecalculateNormalsSmooth** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34182)
-
 ___
 
 ### TEMP\_BROKEN
 
 • **TEMP\_BROKEN** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34182)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34182)

@@ -19,19 +19,11 @@
 
 • **TL\_LastKeyFrame** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4194)
-
 ___
 
 ### TL\_MAX
 
 • **TL\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4194)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **TL\_TimelineLength** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4194)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4194)

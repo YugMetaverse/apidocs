@@ -27,10 +27,6 @@
 
 • **new BPInterfaceDescription**()
 
-#### Defined in
-
-[ue/ue.d.ts:4381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4381)
-
 • **new BPInterfaceDescription**(`Interface`, `Graphs`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Interface` | [`Class`](ue_ue.Class.md) |
 | `Graphs` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`EdGraph`](ue_ue.EdGraph.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:4382](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4382)
-
 ## Properties
 
 ### Graphs
 
 • **Graphs**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`EdGraph`](ue_ue.EdGraph.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:4384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4384)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Interface**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4383)
-
 ___
 
 ### \_\_tid\_BPInterfaceDescription\_\_
 
 • `Private` **\_\_tid\_BPInterfaceDescription\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4390)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4388)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4389)

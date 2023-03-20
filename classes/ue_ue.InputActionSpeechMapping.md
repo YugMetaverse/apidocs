@@ -27,10 +27,6 @@
 
 • **new InputActionSpeechMapping**()
 
-#### Defined in
-
-[ue/ue.d.ts:39354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39354)
-
 • **new InputActionSpeechMapping**(`ActionName`, `SpeechKeyword`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `ActionName` | `string` |
 | `SpeechKeyword` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:39355](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39355)
-
 ## Properties
 
 ### ActionName
 
 • **ActionName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:39356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39356)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **SpeechKeyword**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:39357](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39357)
-
 ___
 
 ### \_\_tid\_InputActionSpeechMapping\_\_
 
 • `Private` **\_\_tid\_InputActionSpeechMapping\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39363)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39361](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39361)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:39362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39362)

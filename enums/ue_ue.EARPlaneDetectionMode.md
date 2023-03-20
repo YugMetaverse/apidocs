@@ -20,19 +20,11 @@
 
 • **EARPlaneDetectionMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20710)
-
 ___
 
 ### HorizontalPlaneDetection
 
 • **HorizontalPlaneDetection** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20710)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20710)
-
 ___
 
 ### VerticalPlaneDetection
 
 • **VerticalPlaneDetection** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20710)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20710)

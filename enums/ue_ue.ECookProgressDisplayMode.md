@@ -22,19 +22,11 @@
 
 • **ECookProgressDisplayMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28751)
-
 ___
 
 ### Max
 
 • **Max** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:28751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28751)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **NamesAndRemainingPackages** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28751)
-
 ___
 
 ### Nothing
 
 • **Nothing** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:28751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28751)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **PackageNames** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28751)
-
 ___
 
 ### RemainingPackages
 
 • **RemainingPackages** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28751)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:28751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28751)

@@ -28,10 +28,6 @@
 
 • **new NetDriverDefinition**()
 
-#### Defined in
-
-[ue/ue.d.ts:32636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32636)
-
 • **new NetDriverDefinition**(`DefName`, `DriverClassName`, `DriverClassNameFallback`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `DriverClassName` | `string` |
 | `DriverClassNameFallback` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:32637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32637)
-
 ## Properties
 
 ### DefName
 
 • **DefName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:32638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32638)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **DriverClassName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:32639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32639)
-
 ___
 
 ### DriverClassNameFallback
 
 • **DriverClassNameFallback**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:32640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32640)
-
 ___
 
 ### \_\_tid\_NetDriverDefinition\_\_
 
 • `Private` **\_\_tid\_NetDriverDefinition\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32646)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32644)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32645)

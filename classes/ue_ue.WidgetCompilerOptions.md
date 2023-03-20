@@ -31,10 +31,6 @@
 
 • **new WidgetCompilerOptions**()
 
-#### Defined in
-
-[ue/ue.d.ts:64429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64429)
-
 • **new WidgetCompilerOptions**(`bCookSlowConstructionWidgetTree`, `bWidgetSupportsDynamicCreation`, `bAllowBlueprintTick`, `bAllowBlueprintPaint`, `PropertyBindingRule`, `Rules`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `PropertyBindingRule` | [`EPropertyBindingPermissionLevel`](../enums/ue_ue.EPropertyBindingPermissionLevel.md) |
 | `Rules` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`TSoftClassPtr`](../modules/ue_puerts.md#tsoftclassptr)<[`WidgetCompilerRule`](ue_ue.WidgetCompilerRule.md)\>\> |
 
-#### Defined in
-
-[ue/ue.d.ts:64430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64430)
-
 ## Properties
 
 ### PropertyBindingRule
 
 • **PropertyBindingRule**: [`EPropertyBindingPermissionLevel`](../enums/ue_ue.EPropertyBindingPermissionLevel.md)
-
-#### Defined in
-
-[ue/ue.d.ts:64435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64435)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **Rules**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`TSoftClassPtr`](../modules/ue_puerts.md#tsoftclassptr)<[`WidgetCompilerRule`](ue_ue.WidgetCompilerRule.md)\>\>
 
-#### Defined in
-
-[ue/ue.d.ts:64436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64436)
-
 ___
 
 ### \_\_tid\_WidgetCompilerOptions\_\_
 
 • `Private` **\_\_tid\_WidgetCompilerOptions\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64442](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64442)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **bAllowBlueprintPaint**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:64434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64434)
-
 ___
 
 ### bAllowBlueprintTick
 
 • **bAllowBlueprintTick**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64433)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **bCookSlowConstructionWidgetTree**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:64431](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64431)
-
 ___
 
 ### bWidgetSupportsDynamicCreation
 
 • **bWidgetSupportsDynamicCreation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64432)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64440)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:64441](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64441)

@@ -29,10 +29,6 @@
 
 • **new DatasmithStaticMeshImportOptions**()
 
-#### Defined in
-
-[ue/ue.d.ts:29431](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29431)
-
 • **new DatasmithStaticMeshImportOptions**(`MinLightmapResolution`, `MaxLightmapResolution`, `bGenerateLightmapUVs`, `bRemoveDegenerates`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `bGenerateLightmapUVs` | `boolean` |
 | `bRemoveDegenerates` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:29432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29432)
-
 ## Properties
 
 ### MaxLightmapResolution
 
 • **MaxLightmapResolution**: [`EDatasmithImportLightmapMax`](../enums/ue_ue.EDatasmithImportLightmapMax.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29434)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **MinLightmapResolution**: [`EDatasmithImportLightmapMin`](../enums/ue_ue.EDatasmithImportLightmapMin.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29433)
-
 ___
 
 ### \_\_tid\_DatasmithStaticMeshImportOptions\_\_
 
 • `Private` **\_\_tid\_DatasmithStaticMeshImportOptions\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29442](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29442)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **bGenerateLightmapUVs**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:29435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29435)
-
 ___
 
 ### bRemoveDegenerates
 
 • **bRemoveDegenerates**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29436)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29440)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29441](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29441)

@@ -56,19 +56,11 @@
 
 [CurveEditorFilterBase](ue_ue.CurveEditorFilterBase.md).[constructor](ue_ue.CurveEditorFilterBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:29097](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29097)
-
 ## Properties
 
 ### CutoffFrequency
 
 • **CutoffFrequency**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29098)
 
 ___
 
@@ -76,19 +68,11 @@ ___
 
 • **Order**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29101)
-
 ___
 
 ### Response
 
 • **Response**: [`ECurveEditorFFTFilterClass`](../enums/ue_ue.ECurveEditorFFTFilterClass.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29100](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29100)
 
 ___
 
@@ -96,19 +80,11 @@ ___
 
 • **Type**: [`ECurveEditorFFTFilterType`](../enums/ue_ue.ECurveEditorFFTFilterType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29099](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29099)
-
 ___
 
 ### \_\_tid\_CurveEditorFFTFilter\_\_
 
 • **\_\_tid\_CurveEditorFFTFilter\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29106](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29106)
 
 ___
 
@@ -120,10 +96,6 @@ ___
 
 [CurveEditorFilterBase](ue_ue.CurveEditorFilterBase.md).[__tid_CurveEditorFilterBase__](ue_ue.CurveEditorFilterBase.md#__tid_curveeditorfilterbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:29071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29071)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -133,10 +105,6 @@ ___
 #### Inherited from
 
 [CurveEditorFilterBase](ue_ue.CurveEditorFilterBase.md).[__tid_Object__](ue_ue.CurveEditorFilterBase.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -162,10 +130,6 @@ ___
 
 [CurveEditorFilterBase](ue_ue.CurveEditorFilterBase.md).[CreateDefaultSubobject](ue_ue.CurveEditorFilterBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -186,10 +150,6 @@ ___
 
 [CurveEditorFilterBase](ue_ue.CurveEditorFilterBase.md).[ExecuteUbergraph](ue_ue.CurveEditorFilterBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -203,10 +163,6 @@ ___
 #### Inherited from
 
 [CurveEditorFilterBase](ue_ue.CurveEditorFilterBase.md).[GetClass](ue_ue.CurveEditorFilterBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -222,10 +178,6 @@ ___
 
 [CurveEditorFilterBase](ue_ue.CurveEditorFilterBase.md).[GetName](ue_ue.CurveEditorFilterBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -240,10 +192,6 @@ ___
 
 [CurveEditorFilterBase](ue_ue.CurveEditorFilterBase.md).[GetOuter](ue_ue.CurveEditorFilterBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -257,10 +205,6 @@ ___
 #### Inherited from
 
 [CurveEditorFilterBase](ue_ue.CurveEditorFilterBase.md).[GetWorld](ue_ue.CurveEditorFilterBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -283,10 +227,6 @@ ___
 
 [CurveEditorFilterBase](ue_ue.CurveEditorFilterBase.md).[Find](ue_ue.CurveEditorFilterBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:29103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29103)
-
 ___
 
 ### Load
@@ -307,10 +247,6 @@ ___
 
 [CurveEditorFilterBase](ue_ue.CurveEditorFilterBase.md).[Load](ue_ue.CurveEditorFilterBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:29104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29104)
-
 ___
 
 ### StaticClass
@@ -324,7 +260,3 @@ ___
 #### Overrides
 
 [CurveEditorFilterBase](ue_ue.CurveEditorFilterBase.md).[StaticClass](ue_ue.CurveEditorFilterBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:29102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29102)

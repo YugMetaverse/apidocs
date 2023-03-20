@@ -30,10 +30,6 @@
 
 • **new ChunkInfoData**()
 
-#### Defined in
-
-[ue/ue.d.ts:25514](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25514)
-
 • **new ChunkInfoData**(`Guid`, `Hash`, `ShaHash`, `FileSize`, `GroupNumber`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `FileSize` | `bigint` |
 | `GroupNumber` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:25515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25515)
-
 ## Properties
 
 ### FileSize
 
 • **FileSize**: `bigint`
-
-#### Defined in
-
-[ue/ue.d.ts:25519](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25519)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **GroupNumber**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25520](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25520)
-
 ___
 
 ### Guid
 
 • **Guid**: [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25516](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25516)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **Hash**: `bigint`
 
-#### Defined in
-
-[ue/ue.d.ts:25517](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25517)
-
 ___
 
 ### ShaHash
 
 • **ShaHash**: [`SHAHashData`](ue_ue.SHAHashData.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25518](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25518)
-
 ___
 
 ### \_\_tid\_ChunkInfoData\_\_
 
 • `Private` **\_\_tid\_ChunkInfoData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:25526](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25526)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25524](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25524)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25525)

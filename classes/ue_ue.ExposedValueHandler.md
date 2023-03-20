@@ -29,10 +29,6 @@
 
 • **new ExposedValueHandler**()
 
-#### Defined in
-
-[ue/ue.d.ts:4952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4952)
-
 • **new ExposedValueHandler**(`BoundFunction`, `CopyRecords`, `Function`, `ValueHandlerNodeProperty`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `Function` | [`Function`](ue_ue.Function.md) |
 | `ValueHandlerNodeProperty` | [`StructProperty`](ue_ue.StructProperty.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:4953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4953)
-
 ## Properties
 
 ### BoundFunction
 
 • **BoundFunction**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:4954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4954)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **CopyRecords**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ExposedValueCopyRecord`](ue_ue.ExposedValueCopyRecord.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:4955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4955)
-
 ___
 
 ### Function
 
 • **Function**: [`Function`](ue_ue.Function.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4956)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **ValueHandlerNodeProperty**: [`StructProperty`](ue_ue.StructProperty.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4957)
-
 ___
 
 ### \_\_tid\_ExposedValueHandler\_\_
 
 • `Private` **\_\_tid\_ExposedValueHandler\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4963)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4961)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4962)

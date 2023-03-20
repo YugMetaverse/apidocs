@@ -35,10 +35,6 @@
 
 • **new BPVariableDescription**()
 
-#### Defined in
-
-[ue/ue.d.ts:4360](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4360)
-
 • **new BPVariableDescription**(`VarName`, `VarGuid`, `VarType`, `FriendlyName`, `Category`, `PropertyFlags`, `RepNotifyFunc`, `ReplicationCondition`, `MetaDataArray`, `DefaultValue`)
 
 #### Parameters
@@ -56,19 +52,11 @@
 | `MetaDataArray` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BPVariableMetaDataEntry`](ue_ue.BPVariableMetaDataEntry.md)\> |
 | `DefaultValue` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:4361](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4361)
-
 ## Properties
 
 ### Category
 
 • **Category**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:4366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4366)
 
 ___
 
@@ -76,19 +64,11 @@ ___
 
 • **DefaultValue**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:4371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4371)
-
 ___
 
 ### FriendlyName
 
 • **FriendlyName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:4365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4365)
 
 ___
 
@@ -96,19 +76,11 @@ ___
 
 • **MetaDataArray**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BPVariableMetaDataEntry`](ue_ue.BPVariableMetaDataEntry.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:4370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4370)
-
 ___
 
 ### PropertyFlags
 
 • **PropertyFlags**: `bigint`
-
-#### Defined in
-
-[ue/ue.d.ts:4367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4367)
 
 ___
 
@@ -116,19 +88,11 @@ ___
 
 • **RepNotifyFunc**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:4368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4368)
-
 ___
 
 ### ReplicationCondition
 
 • **ReplicationCondition**: [`ELifetimeCondition`](../enums/ue_ue.ELifetimeCondition.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4369](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4369)
 
 ___
 
@@ -136,19 +100,11 @@ ___
 
 • **VarGuid**: [`Guid`](ue_ue_s.Guid.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4363)
-
 ___
 
 ### VarName
 
 • **VarName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:4362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4362)
 
 ___
 
@@ -156,19 +112,11 @@ ___
 
 • **VarType**: [`EdGraphPinType`](ue_ue.EdGraphPinType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4364)
-
 ___
 
 ### \_\_tid\_BPVariableDescription\_\_
 
 • `Private` **\_\_tid\_BPVariableDescription\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4377](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4377)
 
 ## Methods
 
@@ -184,10 +132,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4375](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4375)
-
 ___
 
 ### StaticStruct
@@ -197,7 +141,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4376](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4376)

@@ -68,10 +68,6 @@
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[constructor](ue_ue.MaterialFunctionInstance.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:49805](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49805)
-
 ## Properties
 
 ### Base
@@ -81,10 +77,6 @@
 #### Inherited from
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[Base](ue_ue.MaterialFunctionInstance.md#base)
-
-#### Defined in
-
-[ue/ue.d.ts:47334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47334)
 
 ___
 
@@ -96,10 +88,6 @@ ___
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[CombinedInputTypes](ue_ue.MaterialFunctionInstance.md#combinedinputtypes)
 
-#### Defined in
-
-[ue/ue.d.ts:1095](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1095)
-
 ___
 
 ### CombinedOutputTypes
@@ -109,10 +97,6 @@ ___
 #### Inherited from
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[CombinedOutputTypes](ue_ue.MaterialFunctionInstance.md#combinedoutputtypes)
-
-#### Defined in
-
-[ue/ue.d.ts:1096](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1096)
 
 ___
 
@@ -124,10 +108,6 @@ ___
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[FontParameterValues](ue_ue.MaterialFunctionInstance.md#fontparametervalues)
 
-#### Defined in
-
-[ue/ue.d.ts:47338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47338)
-
 ___
 
 ### MaterialFunctionUsage
@@ -137,10 +117,6 @@ ___
 #### Inherited from
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[MaterialFunctionUsage](ue_ue.MaterialFunctionInstance.md#materialfunctionusage)
-
-#### Defined in
-
-[ue/ue.d.ts:1094](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1094)
 
 ___
 
@@ -152,10 +128,6 @@ ___
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[Parent](ue_ue.MaterialFunctionInstance.md#parent)
 
-#### Defined in
-
-[ue/ue.d.ts:47333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47333)
-
 ___
 
 ### PreviewMaterial
@@ -165,10 +137,6 @@ ___
 #### Inherited from
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[PreviewMaterial](ue_ue.MaterialFunctionInstance.md#previewmaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:47342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47342)
 
 ___
 
@@ -180,10 +148,6 @@ ___
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[RuntimeVirtualTextureParameterValues](ue_ue.MaterialFunctionInstance.md#runtimevirtualtextureparametervalues)
 
-#### Defined in
-
-[ue/ue.d.ts:47341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47341)
-
 ___
 
 ### ScalarParameterValues
@@ -193,10 +157,6 @@ ___
 #### Inherited from
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[ScalarParameterValues](ue_ue.MaterialFunctionInstance.md#scalarparametervalues)
-
-#### Defined in
-
-[ue/ue.d.ts:47335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47335)
 
 ___
 
@@ -208,10 +168,6 @@ ___
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[StateId](ue_ue.MaterialFunctionInstance.md#stateid)
 
-#### Defined in
-
-[ue/ue.d.ts:1093](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1093)
-
 ___
 
 ### StaticComponentMaskParameterValues
@@ -221,10 +177,6 @@ ___
 #### Inherited from
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[StaticComponentMaskParameterValues](ue_ue.MaterialFunctionInstance.md#staticcomponentmaskparametervalues)
-
-#### Defined in
-
-[ue/ue.d.ts:47340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47340)
 
 ___
 
@@ -236,10 +188,6 @@ ___
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[StaticSwitchParameterValues](ue_ue.MaterialFunctionInstance.md#staticswitchparametervalues)
 
-#### Defined in
-
-[ue/ue.d.ts:47339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47339)
-
 ___
 
 ### TextureParameterValues
@@ -249,10 +197,6 @@ ___
 #### Inherited from
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[TextureParameterValues](ue_ue.MaterialFunctionInstance.md#textureparametervalues)
-
-#### Defined in
-
-[ue/ue.d.ts:47337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47337)
 
 ___
 
@@ -264,10 +208,6 @@ ___
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[ThumbnailInfo](ue_ue.MaterialFunctionInstance.md#thumbnailinfo)
 
-#### Defined in
-
-[ue/ue.d.ts:1097](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1097)
-
 ___
 
 ### VectorParameterValues
@@ -277,10 +217,6 @@ ___
 #### Inherited from
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[VectorParameterValues](ue_ue.MaterialFunctionInstance.md#vectorparametervalues)
-
-#### Defined in
-
-[ue/ue.d.ts:47336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47336)
 
 ___
 
@@ -292,10 +228,6 @@ ___
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[__tid_MaterialFunctionInstance__](ue_ue.MaterialFunctionInstance.md#__tid_materialfunctioninstance__)
 
-#### Defined in
-
-[ue/ue.d.ts:47347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47347)
-
 ___
 
 ### \_\_tid\_MaterialFunctionInterface\_\_
@@ -306,19 +238,11 @@ ___
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[__tid_MaterialFunctionInterface__](ue_ue.MaterialFunctionInstance.md#__tid_materialfunctioninterface__)
 
-#### Defined in
-
-[ue/ue.d.ts:1102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1102)
-
 ___
 
 ### \_\_tid\_MaterialFunctionMaterialLayerBlendInstance\_\_
 
 • **\_\_tid\_MaterialFunctionMaterialLayerBlendInstance\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:49810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49810)
 
 ___
 
@@ -329,10 +253,6 @@ ___
 #### Inherited from
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[__tid_Object__](ue_ue.MaterialFunctionInstance.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -358,10 +278,6 @@ ___
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[CreateDefaultSubobject](ue_ue.MaterialFunctionInstance.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -382,10 +298,6 @@ ___
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[ExecuteUbergraph](ue_ue.MaterialFunctionInstance.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -399,10 +311,6 @@ ___
 #### Inherited from
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[GetClass](ue_ue.MaterialFunctionInstance.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -418,10 +326,6 @@ ___
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[GetName](ue_ue.MaterialFunctionInstance.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -436,10 +340,6 @@ ___
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[GetOuter](ue_ue.MaterialFunctionInstance.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -453,10 +353,6 @@ ___
 #### Inherited from
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[GetWorld](ue_ue.MaterialFunctionInstance.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -479,10 +375,6 @@ ___
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[Find](ue_ue.MaterialFunctionInstance.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:49807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49807)
-
 ___
 
 ### Load
@@ -503,10 +395,6 @@ ___
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[Load](ue_ue.MaterialFunctionInstance.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:49808](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49808)
-
 ___
 
 ### StaticClass
@@ -520,7 +408,3 @@ ___
 #### Overrides
 
 [MaterialFunctionInstance](ue_ue.MaterialFunctionInstance.md).[StaticClass](ue_ue.MaterialFunctionInstance.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:49806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49806)

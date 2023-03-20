@@ -27,10 +27,6 @@
 
 • **new TireFrictionScalePair**()
 
-#### Defined in
-
-[ue/ue.d.ts:743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L743)
-
 • **new TireFrictionScalePair**(`TireType`, `FrictionScale`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `TireType` | [`TireType`](ue_ue.TireType.md) |
 | `FrictionScale` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L744)
-
 ## Properties
 
 ### FrictionScale
 
 • **FrictionScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L746)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **TireType**: [`TireType`](ue_ue.TireType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L745)
-
 ___
 
 ### \_\_tid\_TireFrictionScalePair\_\_
 
 • `Private` **\_\_tid\_TireFrictionScalePair\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:752](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L752)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L750)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L751)

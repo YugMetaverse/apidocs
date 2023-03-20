@@ -63,29 +63,17 @@
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[constructor](ue_ue.EditorSubsystem.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:33732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33732)
-
 ## Properties
 
 ### ExcludedDirectories
 
 • **ExcludedDirectories**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`DirectoryPath`](ue_ue.DirectoryPath.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:33733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33733)
-
 ___
 
 ### Validators
 
 • **Validators**: [`TMap`](../interfaces/ue_puerts.TMap.md)<[`Class`](ue_ue.Class.md), [`EditorValidatorBase`](ue_ue.EditorValidatorBase.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:33735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33735)
 
 ___
 
@@ -97,10 +85,6 @@ ___
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[__tid_DynamicSubsystem__](ue_ue.EditorSubsystem.md#__tid_dynamicsubsystem__)
 
-#### Defined in
-
-[ue/ue.d.ts:21573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21573)
-
 ___
 
 ### \_\_tid\_EditorSubsystem\_\_
@@ -111,19 +95,11 @@ ___
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[__tid_EditorSubsystem__](ue_ue.EditorSubsystem.md#__tid_editorsubsystem__)
 
-#### Defined in
-
-[ue/ue.d.ts:21582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21582)
-
 ___
 
 ### \_\_tid\_EditorValidatorSubsystem\_\_
 
 • **\_\_tid\_EditorValidatorSubsystem\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33746)
 
 ___
 
@@ -135,10 +111,6 @@ ___
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[__tid_Object__](ue_ue.EditorSubsystem.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_Subsystem\_\_
@@ -149,19 +121,11 @@ ___
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[__tid_Subsystem__](ue_ue.EditorSubsystem.md#__tid_subsystem__)
 
-#### Defined in
-
-[ue/ue.d.ts:21564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21564)
-
 ___
 
 ### bAllowBlueprintValidators
 
 • **bAllowBlueprintValidators**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33737)
 
 ___
 
@@ -169,19 +133,11 @@ ___
 
 • **bValidateAssetsWhileSavingForCook**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:33736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33736)
-
 ___
 
 ### bValidateOnSave
 
 • **bValidateOnSave**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33734)
 
 ## Methods
 
@@ -198,10 +154,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:33738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33738)
 
 ___
 
@@ -227,10 +179,6 @@ ___
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[CreateDefaultSubobject](ue_ue.EditorSubsystem.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -251,10 +199,6 @@ ___
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[ExecuteUbergraph](ue_ue.EditorSubsystem.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -268,10 +212,6 @@ ___
 #### Inherited from
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[GetClass](ue_ue.EditorSubsystem.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -287,10 +227,6 @@ ___
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[GetName](ue_ue.EditorSubsystem.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -305,10 +241,6 @@ ___
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[GetOuter](ue_ue.EditorSubsystem.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -322,10 +254,6 @@ ___
 #### Inherited from
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[GetWorld](ue_ue.EditorSubsystem.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -344,10 +272,6 @@ ___
 
 [`EDataValidationResult`](../enums/ue_ue.EDataValidationResult.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33739)
-
 ___
 
 ### IsObjectValid
@@ -364,10 +288,6 @@ ___
 #### Returns
 
 [`EDataValidationResult`](../enums/ue_ue.EDataValidationResult.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33740)
 
 ___
 
@@ -386,10 +306,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33741)
 
 ___
 
@@ -412,10 +328,6 @@ ___
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[Find](ue_ue.EditorSubsystem.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:33743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33743)
-
 ___
 
 ### Load
@@ -436,10 +348,6 @@ ___
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[Load](ue_ue.EditorSubsystem.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:33744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33744)
-
 ___
 
 ### StaticClass
@@ -453,7 +361,3 @@ ___
 #### Overrides
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[StaticClass](ue_ue.EditorSubsystem.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:33742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33742)

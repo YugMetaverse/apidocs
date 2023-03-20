@@ -28,10 +28,6 @@
 
 • **new ROscillator**()
 
-#### Defined in
-
-[ue/ue.d.ts:7424](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7424)
-
 • **new ROscillator**(`Pitch`, `Yaw`, `Roll`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Yaw` | [`FOscillator`](ue_ue.FOscillator.md) |
 | `Roll` | [`FOscillator`](ue_ue.FOscillator.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:7425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7425)
-
 ## Properties
 
 ### Pitch
 
 • **Pitch**: [`FOscillator`](ue_ue.FOscillator.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7426](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7426)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Roll**: [`FOscillator`](ue_ue.FOscillator.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7428)
-
 ___
 
 ### Yaw
 
 • **Yaw**: [`FOscillator`](ue_ue.FOscillator.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7427)
-
 ___
 
 ### \_\_tid\_ROscillator\_\_
 
 • `Private` **\_\_tid\_ROscillator\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7434)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7432)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7433)

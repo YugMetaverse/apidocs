@@ -27,10 +27,6 @@
 
 • **new UserWidgetPool**()
 
-#### Defined in
-
-[ue/ue.d.ts:31313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31313)
-
 • **new UserWidgetPool**(`ActiveWidgets`, `InactiveWidgets`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `ActiveWidgets` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`UserWidget`](ue_ue.UserWidget.md)\> |
 | `InactiveWidgets` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`UserWidget`](ue_ue.UserWidget.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:31314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31314)
-
 ## Properties
 
 ### ActiveWidgets
 
 • **ActiveWidgets**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`UserWidget`](ue_ue.UserWidget.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:31315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31315)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **InactiveWidgets**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`UserWidget`](ue_ue.UserWidget.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:31316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31316)
-
 ___
 
 ### \_\_tid\_UserWidgetPool\_\_
 
 • `Private` **\_\_tid\_UserWidgetPool\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31322)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31320)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31321)

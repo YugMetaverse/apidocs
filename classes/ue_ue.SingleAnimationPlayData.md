@@ -30,10 +30,6 @@
 
 • **new SingleAnimationPlayData**()
 
-#### Defined in
-
-[ue/ue.d.ts:5184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5184)
-
 • **new SingleAnimationPlayData**(`AnimToPlay`, `bSavedLooping`, `bSavedPlaying`, `SavedPosition`, `SavedPlayRate`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `SavedPosition` | `number` |
 | `SavedPlayRate` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:5185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5185)
-
 ## Properties
 
 ### AnimToPlay
 
 • **AnimToPlay**: [`AnimationAsset`](ue_ue.AnimationAsset.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5186)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **SavedPlayRate**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5190)
-
 ___
 
 ### SavedPosition
 
 • **SavedPosition**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5189)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • `Private` **\_\_tid\_SingleAnimationPlayData\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5196)
-
 ___
 
 ### bSavedLooping
 
 • **bSavedLooping**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5187)
-
 ___
 
 ### bSavedPlaying
 
 • **bSavedPlaying**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5188)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5194)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5195)

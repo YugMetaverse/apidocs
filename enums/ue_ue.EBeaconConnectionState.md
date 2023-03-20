@@ -21,19 +21,11 @@
 
 • **Closed** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31379)
-
 ___
 
 ### EBeaconConnectionState\_MAX
 
 • **EBeaconConnectionState\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31379)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Invalid** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31379)
-
 ___
 
 ### Open
 
 • **Open** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31379)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Pending** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31379)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31379)

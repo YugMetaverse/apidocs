@@ -21,19 +21,11 @@
 
 • **CenterScreen** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34882)
-
 ___
 
 ### Custom
 
 • **Custom** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34882)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **EWidgetInteractionSource\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34882)
-
 ___
 
 ### Mouse
 
 • **Mouse** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34882)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **World** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34882)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34882)

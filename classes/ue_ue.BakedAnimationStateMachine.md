@@ -29,10 +29,6 @@
 
 • **new BakedAnimationStateMachine**()
 
-#### Defined in
-
-[ue/ue.d.ts:4900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4900)
-
 • **new BakedAnimationStateMachine**(`MachineName`, `InitialState`, `States`, `Transitions`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `States` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BakedAnimationState`](ue_ue.BakedAnimationState.md)\> |
 | `Transitions` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AnimationTransitionBetweenStates`](ue_ue.AnimationTransitionBetweenStates.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:4901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4901)
-
 ## Properties
 
 ### InitialState
 
 • **InitialState**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4903)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **MachineName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:4902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4902)
-
 ___
 
 ### States
 
 • **States**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BakedAnimationState`](ue_ue.BakedAnimationState.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:4904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4904)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **Transitions**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AnimationTransitionBetweenStates`](ue_ue.AnimationTransitionBetweenStates.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:4905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4905)
-
 ___
 
 ### \_\_tid\_BakedAnimationStateMachine\_\_
 
 • `Private` **\_\_tid\_BakedAnimationStateMachine\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4911)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4909)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4910)

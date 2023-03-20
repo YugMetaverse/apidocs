@@ -30,10 +30,6 @@
 
 • **new TextureFormatSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L453)
-
 • **new TextureFormatSettings**(`CompressionSettings`, `CompressionNoAlpha`, `CompressionNone`, `CompressionYCoCg`, `SRGB`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `CompressionYCoCg` | `boolean` |
 | `SRGB` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L454)
-
 ## Properties
 
 ### CompressionNoAlpha
 
 • **CompressionNoAlpha**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:456](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L456)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **CompressionNone**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L457)
-
 ___
 
 ### CompressionSettings
 
 • **CompressionSettings**: [`TextureCompressionSettings`](../enums/ue_ue.TextureCompressionSettings.md)
-
-#### Defined in
-
-[ue/ue.d.ts:455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L455)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **CompressionYCoCg**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:458](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L458)
-
 ___
 
 ### SRGB
 
 • **SRGB**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:459](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L459)
-
 ___
 
 ### \_\_tid\_TextureFormatSettings\_\_
 
 • `Private` **\_\_tid\_TextureFormatSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L465)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L463)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L464)

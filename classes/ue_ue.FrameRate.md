@@ -27,10 +27,6 @@
 
 • **new FrameRate**()
 
-#### Defined in
-
-[ue/ue.d.ts:11356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11356)
-
 • **new FrameRate**(`Numerator`, `Denominator`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Numerator` | `number` |
 | `Denominator` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:11357](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11357)
-
 ## Properties
 
 ### Denominator
 
 • **Denominator**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11359)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Numerator**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11358)
-
 ___
 
 ### \_\_tid\_FrameRate\_\_
 
 • `Private` **\_\_tid\_FrameRate\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11365)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11363)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11364)

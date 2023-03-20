@@ -57,29 +57,17 @@
 
 [AsyncActionLoadPrimaryAssetBase](ue_ue.AsyncActionLoadPrimaryAssetBase.md).[constructor](ue_ue.AsyncActionLoadPrimaryAssetBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:22058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22058)
-
 ## Properties
 
 ### Completed
 
 • **Completed**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<() => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:22059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22059)
-
 ___
 
 ### \_\_tid\_AsyncActionChangePrimaryAssetBundles\_\_
 
 • **\_\_tid\_AsyncActionChangePrimaryAssetBundles\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22066)
 
 ___
 
@@ -91,10 +79,6 @@ ___
 
 [AsyncActionLoadPrimaryAssetBase](ue_ue.AsyncActionLoadPrimaryAssetBase.md).[__tid_AsyncActionLoadPrimaryAssetBase__](ue_ue.AsyncActionLoadPrimaryAssetBase.md#__tid_asyncactionloadprimaryassetbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:22054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22054)
-
 ___
 
 ### \_\_tid\_BlueprintAsyncActionBase\_\_
@@ -105,10 +89,6 @@ ___
 
 [AsyncActionLoadPrimaryAssetBase](ue_ue.AsyncActionLoadPrimaryAssetBase.md).[__tid_BlueprintAsyncActionBase__](ue_ue.AsyncActionLoadPrimaryAssetBase.md#__tid_blueprintasyncactionbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:20672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20672)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -118,10 +98,6 @@ ___
 #### Inherited from
 
 [AsyncActionLoadPrimaryAssetBase](ue_ue.AsyncActionLoadPrimaryAssetBase.md).[__tid_Object__](ue_ue.AsyncActionLoadPrimaryAssetBase.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -136,10 +112,6 @@ ___
 #### Inherited from
 
 [AsyncActionLoadPrimaryAssetBase](ue_ue.AsyncActionLoadPrimaryAssetBase.md).[Activate](ue_ue.AsyncActionLoadPrimaryAssetBase.md#activate)
-
-#### Defined in
-
-[ue/ue.d.ts:20667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20667)
 
 ___
 
@@ -165,10 +137,6 @@ ___
 
 [AsyncActionLoadPrimaryAssetBase](ue_ue.AsyncActionLoadPrimaryAssetBase.md).[CreateDefaultSubobject](ue_ue.AsyncActionLoadPrimaryAssetBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -189,10 +157,6 @@ ___
 
 [AsyncActionLoadPrimaryAssetBase](ue_ue.AsyncActionLoadPrimaryAssetBase.md).[ExecuteUbergraph](ue_ue.AsyncActionLoadPrimaryAssetBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -206,10 +170,6 @@ ___
 #### Inherited from
 
 [AsyncActionLoadPrimaryAssetBase](ue_ue.AsyncActionLoadPrimaryAssetBase.md).[GetClass](ue_ue.AsyncActionLoadPrimaryAssetBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -225,10 +185,6 @@ ___
 
 [AsyncActionLoadPrimaryAssetBase](ue_ue.AsyncActionLoadPrimaryAssetBase.md).[GetName](ue_ue.AsyncActionLoadPrimaryAssetBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -243,10 +199,6 @@ ___
 
 [AsyncActionLoadPrimaryAssetBase](ue_ue.AsyncActionLoadPrimaryAssetBase.md).[GetOuter](ue_ue.AsyncActionLoadPrimaryAssetBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -260,10 +212,6 @@ ___
 #### Inherited from
 
 [AsyncActionLoadPrimaryAssetBase](ue_ue.AsyncActionLoadPrimaryAssetBase.md).[GetWorld](ue_ue.AsyncActionLoadPrimaryAssetBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -283,10 +231,6 @@ ___
 
 [`AsyncActionChangePrimaryAssetBundles`](ue_ue.AsyncActionChangePrimaryAssetBundles.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22060)
-
 ___
 
 ### AsyncChangeBundleStateForPrimaryAssetList
@@ -305,10 +249,6 @@ ___
 #### Returns
 
 [`AsyncActionChangePrimaryAssetBundles`](ue_ue.AsyncActionChangePrimaryAssetBundles.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22061)
 
 ___
 
@@ -331,10 +271,6 @@ ___
 
 [AsyncActionLoadPrimaryAssetBase](ue_ue.AsyncActionLoadPrimaryAssetBase.md).[Find](ue_ue.AsyncActionLoadPrimaryAssetBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:22063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22063)
-
 ___
 
 ### Load
@@ -355,10 +291,6 @@ ___
 
 [AsyncActionLoadPrimaryAssetBase](ue_ue.AsyncActionLoadPrimaryAssetBase.md).[Load](ue_ue.AsyncActionLoadPrimaryAssetBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:22064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22064)
-
 ___
 
 ### StaticClass
@@ -372,7 +304,3 @@ ___
 #### Overrides
 
 [AsyncActionLoadPrimaryAssetBase](ue_ue.AsyncActionLoadPrimaryAssetBase.md).[StaticClass](ue_ue.AsyncActionLoadPrimaryAssetBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:22062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22062)

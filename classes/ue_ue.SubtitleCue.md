@@ -27,10 +27,6 @@
 
 • **new SubtitleCue**()
 
-#### Defined in
-
-[ue/ue.d.ts:9528](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9528)
-
 • **new SubtitleCue**(`Text`, `Time`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Text` | `string` |
 | `Time` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:9529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9529)
-
 ## Properties
 
 ### Text
 
 • **Text**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:9530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9530)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Time**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9531](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9531)
-
 ___
 
 ### \_\_tid\_SubtitleCue\_\_
 
 • `Private` **\_\_tid\_SubtitleCue\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9537)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9535)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9536](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9536)

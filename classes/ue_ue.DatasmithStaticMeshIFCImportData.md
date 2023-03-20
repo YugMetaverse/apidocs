@@ -63,10 +63,6 @@
 
 [DatasmithStaticMeshImportData](ue_ue.DatasmithStaticMeshImportData.md).[constructor](ue_ue.DatasmithStaticMeshImportData.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:30062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30062)
-
 ## Properties
 
 ### AdditionalData
@@ -76,10 +72,6 @@
 #### Inherited from
 
 [DatasmithStaticMeshImportData](ue_ue.DatasmithStaticMeshImportData.md).[AdditionalData](ue_ue.DatasmithStaticMeshImportData.md#additionaldata)
-
-#### Defined in
-
-[ue/ue.d.ts:29408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29408)
 
 ___
 
@@ -91,10 +83,6 @@ ___
 
 [DatasmithStaticMeshImportData](ue_ue.DatasmithStaticMeshImportData.md).[AssetImportOptions](ue_ue.DatasmithStaticMeshImportData.md#assetimportoptions)
 
-#### Defined in
-
-[ue/ue.d.ts:29407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29407)
-
 ___
 
 ### ImportOptions
@@ -104,10 +92,6 @@ ___
 #### Inherited from
 
 [DatasmithStaticMeshImportData](ue_ue.DatasmithStaticMeshImportData.md).[ImportOptions](ue_ue.DatasmithStaticMeshImportData.md#importoptions)
-
-#### Defined in
-
-[ue/ue.d.ts:30017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30017)
 
 ___
 
@@ -119,10 +103,6 @@ ___
 
 [DatasmithStaticMeshImportData](ue_ue.DatasmithStaticMeshImportData.md).[SourceData](ue_ue.DatasmithStaticMeshImportData.md#sourcedata)
 
-#### Defined in
-
-[ue/ue.d.ts:38](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38)
-
 ___
 
 ### SourceFilePath
@@ -132,10 +112,6 @@ ___
 #### Inherited from
 
 [DatasmithStaticMeshImportData](ue_ue.DatasmithStaticMeshImportData.md).[SourceFilePath](ue_ue.DatasmithStaticMeshImportData.md#sourcefilepath)
-
-#### Defined in
-
-[ue/ue.d.ts:36](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36)
 
 ___
 
@@ -147,19 +123,11 @@ ___
 
 [DatasmithStaticMeshImportData](ue_ue.DatasmithStaticMeshImportData.md).[SourceFileTimestamp](ue_ue.DatasmithStaticMeshImportData.md#sourcefiletimestamp)
 
-#### Defined in
-
-[ue/ue.d.ts:37](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37)
-
 ___
 
 ### SourceGlobalId
 
 • **SourceGlobalId**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:30063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30063)
 
 ___
 
@@ -171,10 +139,6 @@ ___
 
 [DatasmithStaticMeshImportData](ue_ue.DatasmithStaticMeshImportData.md).[__tid_AssetImportData__](ue_ue.DatasmithStaticMeshImportData.md#__tid_assetimportdata__)
 
-#### Defined in
-
-[ue/ue.d.ts:45](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45)
-
 ___
 
 ### \_\_tid\_DatasmithAssetImportData\_\_
@@ -185,19 +149,11 @@ ___
 
 [DatasmithStaticMeshImportData](ue_ue.DatasmithStaticMeshImportData.md).[__tid_DatasmithAssetImportData__](ue_ue.DatasmithStaticMeshImportData.md#__tid_datasmithassetimportdata__)
 
-#### Defined in
-
-[ue/ue.d.ts:29413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29413)
-
 ___
 
 ### \_\_tid\_DatasmithStaticMeshIFCImportData\_\_
 
 • **\_\_tid\_DatasmithStaticMeshIFCImportData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30068)
 
 ___
 
@@ -209,10 +165,6 @@ ___
 
 [DatasmithStaticMeshImportData](ue_ue.DatasmithStaticMeshImportData.md).[__tid_DatasmithStaticMeshImportData__](ue_ue.DatasmithStaticMeshImportData.md#__tid_datasmithstaticmeshimportdata__)
 
-#### Defined in
-
-[ue/ue.d.ts:30022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30022)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -222,10 +174,6 @@ ___
 #### Inherited from
 
 [DatasmithStaticMeshImportData](ue_ue.DatasmithStaticMeshImportData.md).[__tid_Object__](ue_ue.DatasmithStaticMeshImportData.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -251,10 +199,6 @@ ___
 
 [DatasmithStaticMeshImportData](ue_ue.DatasmithStaticMeshImportData.md).[CreateDefaultSubobject](ue_ue.DatasmithStaticMeshImportData.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -275,10 +219,6 @@ ___
 
 [DatasmithStaticMeshImportData](ue_ue.DatasmithStaticMeshImportData.md).[ExecuteUbergraph](ue_ue.DatasmithStaticMeshImportData.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -292,10 +232,6 @@ ___
 #### Inherited from
 
 [DatasmithStaticMeshImportData](ue_ue.DatasmithStaticMeshImportData.md).[GetClass](ue_ue.DatasmithStaticMeshImportData.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -311,10 +247,6 @@ ___
 
 [DatasmithStaticMeshImportData](ue_ue.DatasmithStaticMeshImportData.md).[GetName](ue_ue.DatasmithStaticMeshImportData.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -328,10 +260,6 @@ ___
 #### Inherited from
 
 [DatasmithStaticMeshImportData](ue_ue.DatasmithStaticMeshImportData.md).[GetOuter](ue_ue.DatasmithStaticMeshImportData.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -347,10 +275,6 @@ ___
 
 [DatasmithStaticMeshImportData](ue_ue.DatasmithStaticMeshImportData.md).[GetWorld](ue_ue.DatasmithStaticMeshImportData.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### K2\_ExtractFilenames
@@ -365,10 +289,6 @@ ___
 
 [DatasmithStaticMeshImportData](ue_ue.DatasmithStaticMeshImportData.md).[K2_ExtractFilenames](ue_ue.DatasmithStaticMeshImportData.md#k2_extractfilenames)
 
-#### Defined in
-
-[ue/ue.d.ts:39](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39)
-
 ___
 
 ### K2\_GetFirstFilename
@@ -382,10 +302,6 @@ ___
 #### Inherited from
 
 [DatasmithStaticMeshImportData](ue_ue.DatasmithStaticMeshImportData.md).[K2_GetFirstFilename](ue_ue.DatasmithStaticMeshImportData.md#k2_getfirstfilename)
-
-#### Defined in
-
-[ue/ue.d.ts:40](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40)
 
 ___
 
@@ -408,10 +324,6 @@ ___
 
 [DatasmithStaticMeshImportData](ue_ue.DatasmithStaticMeshImportData.md).[Find](ue_ue.DatasmithStaticMeshImportData.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:30065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30065)
-
 ___
 
 ### Load
@@ -432,10 +344,6 @@ ___
 
 [DatasmithStaticMeshImportData](ue_ue.DatasmithStaticMeshImportData.md).[Load](ue_ue.DatasmithStaticMeshImportData.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:30066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30066)
-
 ___
 
 ### StaticClass
@@ -449,7 +357,3 @@ ___
 #### Overrides
 
 [DatasmithStaticMeshImportData](ue_ue.DatasmithStaticMeshImportData.md).[StaticClass](ue_ue.DatasmithStaticMeshImportData.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:30064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30064)

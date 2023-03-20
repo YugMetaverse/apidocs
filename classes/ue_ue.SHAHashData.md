@@ -26,10 +26,6 @@
 
 • **new SHAHashData**()
 
-#### Defined in
-
-[ue/ue.d.ts:25469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25469)
-
 • **new SHAHashData**(`Hash`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Hash` | [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<`number`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:25470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25470)
-
 ## Properties
 
 ### Hash
 
 • **Hash**: [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:25471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25471)
-
 ___
 
 ### \_\_tid\_SHAHashData\_\_
 
 • `Private` **\_\_tid\_SHAHashData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:25477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25477)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25475)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25476)

@@ -21,19 +21,11 @@
 
 • **MSB\_BrushColor** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34018)
-
 ___
 
 ### MSB\_BrushType
 
 • **MSB\_BrushType** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34018)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **MSB\_Group** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34018)
-
 ___
 
 ### MSB\_MAX
 
 • **MSB\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34018)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **MSB\_PolyFlags** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34018)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34018)

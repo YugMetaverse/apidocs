@@ -28,10 +28,6 @@
 
 • **new VisibilityTrackKey**()
 
-#### Defined in
-
-[ue/ue.d.ts:40374](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40374)
-
 • **new VisibilityTrackKey**(`Time`, `Action`, `ActiveCondition`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Action` | [`EVisibilityTrackAction`](../enums/ue_ue.EVisibilityTrackAction.md) |
 | `ActiveCondition` | [`EVisibilityTrackCondition`](../enums/ue_ue.EVisibilityTrackCondition.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:40375](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40375)
-
 ## Properties
 
 ### Action
 
 • **Action**: [`EVisibilityTrackAction`](../enums/ue_ue.EVisibilityTrackAction.md)
-
-#### Defined in
-
-[ue/ue.d.ts:40377](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40377)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **ActiveCondition**: [`EVisibilityTrackCondition`](../enums/ue_ue.EVisibilityTrackCondition.md)
 
-#### Defined in
-
-[ue/ue.d.ts:40378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40378)
-
 ___
 
 ### Time
 
 • **Time**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:40376](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40376)
-
 ___
 
 ### \_\_tid\_VisibilityTrackKey\_\_
 
 • `Private` **\_\_tid\_VisibilityTrackKey\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40384)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:40382](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40382)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:40383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40383)

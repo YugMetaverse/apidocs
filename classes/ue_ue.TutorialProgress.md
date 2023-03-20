@@ -28,10 +28,6 @@
 
 • **new TutorialProgress**()
 
-#### Defined in
-
-[ue/ue.d.ts:64303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64303)
-
 • **new TutorialProgress**(`Tutorial`, `CurrentStage`, `bUserDismissed`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `CurrentStage` | `number` |
 | `bUserDismissed` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:64304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64304)
-
 ## Properties
 
 ### CurrentStage
 
 • **CurrentStage**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:64306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64306)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Tutorial**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64305)
-
 ___
 
 ### \_\_tid\_TutorialProgress\_\_
 
 • `Private` **\_\_tid\_TutorialProgress\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:64313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64313)
-
 ___
 
 ### bUserDismissed
 
 • **bUserDismissed**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64307)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64311)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:64312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64312)

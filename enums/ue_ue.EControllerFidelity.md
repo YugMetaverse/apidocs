@@ -20,19 +20,11 @@
 
 • **VR\_ControllerFidelity\_Estimated** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31418)
-
 ___
 
 ### VR\_ControllerFidelity\_Full
 
 • **VR\_ControllerFidelity\_Full** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31418)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **VR\_ControllerFidelity\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31418)
-
 ___
 
 ### VR\_ControllerFidelity\_Partial
 
 • **VR\_ControllerFidelity\_Partial** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31418)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31418)

@@ -95,19 +95,11 @@
 
 • **new AnimNode_Base**()
 
-#### Defined in
-
-[ue/ue.d.ts:16788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16788)
-
 ## Properties
 
 ### \_\_tid\_AnimNode\_Base\_\_
 
 • `Private` **\_\_tid\_AnimNode\_Base\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16794)
 
 ## Methods
 
@@ -123,10 +115,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:16792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16792)
-
 ___
 
 ### StaticStruct
@@ -136,7 +124,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:16793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16793)

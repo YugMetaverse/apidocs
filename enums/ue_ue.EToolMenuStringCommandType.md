@@ -20,19 +20,11 @@
 
 • **Command** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34837)
-
 ___
 
 ### Custom
 
 • **Custom** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34837)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **EToolMenuStringCommandType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34837)
-
 ___
 
 ### Python
 
 • **Python** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34837)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34837)

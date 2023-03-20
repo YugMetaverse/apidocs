@@ -27,10 +27,6 @@
 
 • **new InputAxisConfigEntry**()
 
-#### Defined in
-
-[ue/ue.d.ts:39310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39310)
-
 • **new InputAxisConfigEntry**(`AxisKeyName`, `AxisProperties`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `AxisKeyName` | `string` |
 | `AxisProperties` | [`InputAxisProperties`](ue_ue.InputAxisProperties.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:39311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39311)
-
 ## Properties
 
 ### AxisKeyName
 
 • **AxisKeyName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:39312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39312)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **AxisProperties**: [`InputAxisProperties`](ue_ue.InputAxisProperties.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39313)
-
 ___
 
 ### \_\_tid\_InputAxisConfigEntry\_\_
 
 • `Private` **\_\_tid\_InputAxisConfigEntry\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39319)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39317)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:39318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39318)

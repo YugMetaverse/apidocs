@@ -28,10 +28,6 @@
 
 • **new MovieSceneEvaluationGroupLUTIndex**()
 
-#### Defined in
-
-[ue/ue.d.ts:11185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11185)
-
 • **new MovieSceneEvaluationGroupLUTIndex**(`LUTOffset`, `NumInitPtrs`, `NumEvalPtrs`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `NumInitPtrs` | `number` |
 | `NumEvalPtrs` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:11186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11186)
-
 ## Properties
 
 ### LUTOffset
 
 • **LUTOffset**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11187)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **NumEvalPtrs**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11189)
-
 ___
 
 ### NumInitPtrs
 
 • **NumInitPtrs**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11188)
-
 ___
 
 ### \_\_tid\_MovieSceneEvaluationGroupLUTIndex\_\_
 
 • `Private` **\_\_tid\_MovieSceneEvaluationGroupLUTIndex\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11195)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11193)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11194)

@@ -26,10 +26,6 @@
 
 • **new DatasmithCameraLensSettingsTemplate**()
 
-#### Defined in
-
-[ue/ue.d.ts:29538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29538)
-
 • **new DatasmithCameraLensSettingsTemplate**(`MaxFStop`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `MaxFStop` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:29539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29539)
-
 ## Properties
 
 ### MaxFStop
 
 • **MaxFStop**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29540)
-
 ___
 
 ### \_\_tid\_DatasmithCameraLensSettingsTemplate\_\_
 
 • `Private` **\_\_tid\_DatasmithCameraLensSettingsTemplate\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29546)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29544](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29544)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29545)

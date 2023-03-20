@@ -25,19 +25,11 @@
 
 • **new VectorRegister**()
 
-#### Defined in
-
-[ue/ue_s.d.ts:793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L793)
-
 ## Properties
 
 ### \_\_tid\_VectorRegister\_\_
 
 • `Private` **\_\_tid\_VectorRegister\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L801)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L798)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L799)

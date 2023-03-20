@@ -56,29 +56,17 @@
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[constructor](ue_ue.DeveloperSettings.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:44784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44784)
-
 ## Properties
 
 ### SnapAxis
 
 • **SnapAxis**: [`ELevelEditor2DAxis`](../enums/ue_ue.ELevelEditor2DAxis.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44787)
-
 ___
 
 ### SnapLayers
 
 • **SnapLayers**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Mode2DLayer`](ue_ue.Mode2DLayer.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:44788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44788)
 
 ___
 
@@ -90,19 +78,11 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[__tid_DeveloperSettings__](ue_ue.DeveloperSettings.md#__tid_developersettings__)
 
-#### Defined in
-
-[ue/ue.d.ts:16950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16950)
-
 ___
 
 ### \_\_tid\_LevelEditor2DSettings\_\_
 
 • **\_\_tid\_LevelEditor2DSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44793)
 
 ___
 
@@ -114,29 +94,17 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[__tid_Object__](ue_ue.DeveloperSettings.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bEnable2DWidget
 
 • **bEnable2DWidget**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44785](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44785)
-
 ___
 
 ### bEnableSnapLayers
 
 • **bEnableSnapLayers**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44786)
 
 ## Methods
 
@@ -162,10 +130,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[CreateDefaultSubobject](ue_ue.DeveloperSettings.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -186,10 +150,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[ExecuteUbergraph](ue_ue.DeveloperSettings.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -203,10 +163,6 @@ ___
 #### Inherited from
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetClass](ue_ue.DeveloperSettings.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -222,10 +178,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetName](ue_ue.DeveloperSettings.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -240,10 +192,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetOuter](ue_ue.DeveloperSettings.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -257,10 +205,6 @@ ___
 #### Inherited from
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetWorld](ue_ue.DeveloperSettings.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -283,10 +227,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[Find](ue_ue.DeveloperSettings.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:44790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44790)
-
 ___
 
 ### Load
@@ -307,10 +247,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[Load](ue_ue.DeveloperSettings.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:44791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44791)
-
 ___
 
 ### StaticClass
@@ -324,7 +260,3 @@ ___
 #### Overrides
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[StaticClass](ue_ue.DeveloperSettings.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:44789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44789)

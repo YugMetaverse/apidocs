@@ -59,10 +59,6 @@
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[AccessibleBehavior](react_umg.PanelWidgetProps.md#accessiblebehavior)
 
-#### Defined in
-
-[react-umg/index.d.ts:145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L145)
-
 ___
 
 ### AccessibleSummaryBehavior
@@ -73,10 +69,6 @@ ___
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[AccessibleSummaryBehavior](react_umg.PanelWidgetProps.md#accessiblesummarybehavior)
 
-#### Defined in
-
-[react-umg/index.d.ts:146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L146)
-
 ___
 
 ### AccessibleSummaryText
@@ -86,10 +78,6 @@ ___
 #### Inherited from
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[AccessibleSummaryText](react_umg.PanelWidgetProps.md#accessiblesummarytext)
-
-#### Defined in
-
-[react-umg/index.d.ts:149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L149)
 
 ___
 
@@ -109,10 +97,6 @@ ___
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[AccessibleSummaryTextDelegate](react_umg.PanelWidgetProps.md#accessiblesummarytextdelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L150)
-
 ___
 
 ### AccessibleText
@@ -122,10 +106,6 @@ ___
 #### Inherited from
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[AccessibleText](react_umg.PanelWidgetProps.md#accessibletext)
-
-#### Defined in
-
-[react-umg/index.d.ts:147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L147)
 
 ___
 
@@ -145,10 +125,6 @@ ___
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[AccessibleTextDelegate](react_umg.PanelWidgetProps.md#accessibletextdelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L148)
-
 ___
 
 ### CategoryName
@@ -158,10 +134,6 @@ ___
 #### Inherited from
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[CategoryName](react_umg.PanelWidgetProps.md#categoryname)
-
-#### Defined in
-
-[react-umg/index.d.ts:162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L162)
 
 ___
 
@@ -173,10 +145,6 @@ ___
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[Clipping](react_umg.PanelWidgetProps.md#clipping)
 
-#### Defined in
-
-[react-umg/index.d.ts:156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L156)
-
 ___
 
 ### Cursor
@@ -186,10 +154,6 @@ ___
 #### Inherited from
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[Cursor](react_umg.PanelWidgetProps.md#cursor)
-
-#### Defined in
-
-[react-umg/index.d.ts:155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L155)
 
 ___
 
@@ -201,10 +165,6 @@ ___
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[DesignerFlags](react_umg.PanelWidgetProps.md#designerflags)
 
-#### Defined in
-
-[react-umg/index.d.ts:160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L160)
-
 ___
 
 ### DisplayLabel
@@ -214,10 +174,6 @@ ___
 #### Inherited from
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[DisplayLabel](react_umg.PanelWidgetProps.md#displaylabel)
-
-#### Defined in
-
-[react-umg/index.d.ts:161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L161)
 
 ___
 
@@ -229,19 +185,11 @@ ___
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[FlowDirectionPreference](react_umg.PanelWidgetProps.md#flowdirectionpreference)
 
-#### Defined in
-
-[react-umg/index.d.ts:159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L159)
-
 ___
 
 ### InnerSlotPadding
 
 • `Optional` **InnerSlotPadding**: [`RecursivePartial`](../modules/react_umg.md#recursivepartial)<[`Vector2D`](../classes/ue_ue_s.Vector2D.md)\>
-
-#### Defined in
-
-[react-umg/index.d.ts:886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L886)
 
 ___
 
@@ -253,10 +201,6 @@ ___
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[RenderOpacity](react_umg.PanelWidgetProps.md#renderopacity)
 
-#### Defined in
-
-[react-umg/index.d.ts:158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L158)
-
 ___
 
 ### RenderTransform
@@ -266,10 +210,6 @@ ___
 #### Inherited from
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[RenderTransform](react_umg.PanelWidgetProps.md#rendertransform)
-
-#### Defined in
-
-[react-umg/index.d.ts:137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L137)
 
 ___
 
@@ -281,10 +221,6 @@ ___
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[RenderTransformPivot](react_umg.PanelWidgetProps.md#rendertransformpivot)
 
-#### Defined in
-
-[react-umg/index.d.ts:138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L138)
-
 ___
 
 ### Slot
@@ -295,10 +231,6 @@ ___
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[Slot](react_umg.PanelWidgetProps.md#slot)
 
-#### Defined in
-
-[react-umg/index.d.ts:129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L129)
-
 ___
 
 ### ToolTipText
@@ -308,10 +240,6 @@ ___
 #### Inherited from
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[ToolTipText](react_umg.PanelWidgetProps.md#tooltiptext)
-
-#### Defined in
-
-[react-umg/index.d.ts:134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L134)
 
 ___
 
@@ -331,10 +259,6 @@ ___
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[ToolTipTextDelegate](react_umg.PanelWidgetProps.md#tooltiptextdelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L135)
-
 ___
 
 ### Visibility
@@ -344,10 +268,6 @@ ___
 #### Inherited from
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[Visibility](react_umg.PanelWidgetProps.md#visibility)
-
-#### Defined in
-
-[react-umg/index.d.ts:157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L157)
 
 ___
 
@@ -367,19 +287,11 @@ ___
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[VisibilityDelegate](react_umg.PanelWidgetProps.md#visibilitydelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L136)
-
 ___
 
 ### WrapWidth
 
 • `Optional` **WrapWidth**: `number`
-
-#### Defined in
-
-[react-umg/index.d.ts:887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L887)
 
 ___
 
@@ -391,10 +303,6 @@ ___
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[bCanChildrenBeAccessible](react_umg.PanelWidgetProps.md#bcanchildrenbeaccessible)
 
-#### Defined in
-
-[react-umg/index.d.ts:144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L144)
-
 ___
 
 ### bCreatedByConstructionScript
@@ -404,10 +312,6 @@ ___
 #### Inherited from
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[bCreatedByConstructionScript](react_umg.PanelWidgetProps.md#bcreatedbyconstructionscript)
-
-#### Defined in
-
-[react-umg/index.d.ts:140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L140)
 
 ___
 
@@ -419,19 +323,11 @@ ___
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[bExpandedInDesigner](react_umg.PanelWidgetProps.md#bexpandedindesigner)
 
-#### Defined in
-
-[react-umg/index.d.ts:153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L153)
-
 ___
 
 ### bExplicitWrapWidth
 
 • `Optional` **bExplicitWrapWidth**: `boolean`
-
-#### Defined in
-
-[react-umg/index.d.ts:888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L888)
 
 ___
 
@@ -443,10 +339,6 @@ ___
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[bHiddenInDesigner](react_umg.PanelWidgetProps.md#bhiddenindesigner)
 
-#### Defined in
-
-[react-umg/index.d.ts:152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L152)
-
 ___
 
 ### bIsEnabled
@@ -456,10 +348,6 @@ ___
 #### Inherited from
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[bIsEnabled](react_umg.PanelWidgetProps.md#bisenabled)
-
-#### Defined in
-
-[react-umg/index.d.ts:141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L141)
 
 ___
 
@@ -479,10 +367,6 @@ ___
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[bIsEnabledDelegate](react_umg.PanelWidgetProps.md#bisenableddelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L133)
-
 ___
 
 ### bIsVariable
@@ -492,10 +376,6 @@ ___
 #### Inherited from
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[bIsVariable](react_umg.PanelWidgetProps.md#bisvariable)
-
-#### Defined in
-
-[react-umg/index.d.ts:139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L139)
 
 ___
 
@@ -507,10 +387,6 @@ ___
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[bIsVolatile](react_umg.PanelWidgetProps.md#bisvolatile)
 
-#### Defined in
-
-[react-umg/index.d.ts:151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L151)
-
 ___
 
 ### bLockedInDesigner
@@ -520,10 +396,6 @@ ___
 #### Inherited from
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[bLockedInDesigner](react_umg.PanelWidgetProps.md#blockedindesigner)
-
-#### Defined in
-
-[react-umg/index.d.ts:154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L154)
 
 ___
 
@@ -535,10 +407,6 @@ ___
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[bOverrideAccessibleDefaults](react_umg.PanelWidgetProps.md#boverrideaccessibledefaults)
 
-#### Defined in
-
-[react-umg/index.d.ts:143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L143)
-
 ___
 
 ### bOverride\_Cursor
@@ -548,7 +416,3 @@ ___
 #### Inherited from
 
 [PanelWidgetProps](react_umg.PanelWidgetProps.md).[bOverride_Cursor](react_umg.PanelWidgetProps.md#boverride_cursor)
-
-#### Defined in
-
-[react-umg/index.d.ts:142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L142)

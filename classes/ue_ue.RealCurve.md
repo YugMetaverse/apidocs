@@ -41,10 +41,6 @@
 
 [IndexedCurve](ue_ue.IndexedCurve.md).[constructor](ue_ue.IndexedCurve.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:1619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1619)
-
 • **new RealCurve**(`DefaultValue`, `PreInfinityExtrap`, `PostInfinityExtrap`)
 
 #### Parameters
@@ -59,19 +55,11 @@
 
 [IndexedCurve](ue_ue.IndexedCurve.md).[constructor](ue_ue.IndexedCurve.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:1620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1620)
-
 ## Properties
 
 ### DefaultValue
 
 • **DefaultValue**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1621)
 
 ___
 
@@ -83,19 +71,11 @@ ___
 
 [IndexedCurve](ue_ue.IndexedCurve.md).[KeyHandlesToIndices](ue_ue.IndexedCurve.md#keyhandlestoindices)
 
-#### Defined in
-
-[ue/ue.d.ts:1608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1608)
-
 ___
 
 ### PostInfinityExtrap
 
 • **PostInfinityExtrap**: [`ERichCurveExtrapolation`](../enums/ue_ue.ERichCurveExtrapolation.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1623)
 
 ___
 
@@ -103,19 +83,11 @@ ___
 
 • **PreInfinityExtrap**: [`ERichCurveExtrapolation`](../enums/ue_ue.ERichCurveExtrapolation.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1622)
-
 ___
 
 ### \_\_tid\_RealCurve\_\_
 
 • `Private` **\_\_tid\_RealCurve\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1629)
 
 ## Methods
 
@@ -135,10 +107,6 @@ use StaticStruct instead.
 
 [IndexedCurve](ue_ue.IndexedCurve.md).[StaticClass](ue_ue.IndexedCurve.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:1627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1627)
-
 ___
 
 ### StaticStruct
@@ -152,7 +120,3 @@ ___
 #### Overrides
 
 [IndexedCurve](ue_ue.IndexedCurve.md).[StaticStruct](ue_ue.IndexedCurve.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:1628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1628)

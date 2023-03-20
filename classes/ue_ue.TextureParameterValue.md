@@ -29,10 +29,6 @@
 
 • **new TextureParameterValue**()
 
-#### Defined in
-
-[ue/ue.d.ts:1761](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1761)
-
 • **new TextureParameterValue**(`ParameterName`, `ParameterInfo`, `ParameterValue`, `ExpressionGUID`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `ParameterValue` | [`Texture`](ue_ue.Texture.md) |
 | `ExpressionGUID` | [`Guid`](ue_ue_s.Guid.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:1762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1762)
-
 ## Properties
 
 ### ExpressionGUID
 
 • **ExpressionGUID**: [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1766)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **ParameterInfo**: [`MaterialParameterInfo`](ue_ue.MaterialParameterInfo.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1764)
-
 ___
 
 ### ParameterName
 
 • **ParameterName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:1763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1763)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **ParameterValue**: [`Texture`](ue_ue.Texture.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1765)
-
 ___
 
 ### \_\_tid\_TextureParameterValue\_\_
 
 • `Private` **\_\_tid\_TextureParameterValue\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1772)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1770)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1771)

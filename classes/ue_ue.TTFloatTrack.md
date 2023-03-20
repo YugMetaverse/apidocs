@@ -39,10 +39,6 @@
 
 [TTPropertyTrack](ue_ue.TTPropertyTrack.md).[constructor](ue_ue.TTPropertyTrack.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:4234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4234)
-
 • **new TTFloatTrack**(`CurveFloat`)
 
 #### Parameters
@@ -55,19 +51,11 @@
 
 [TTPropertyTrack](ue_ue.TTPropertyTrack.md).[constructor](ue_ue.TTPropertyTrack.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:4235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4235)
-
 ## Properties
 
 ### CurveFloat
 
 • **CurveFloat**: [`CurveFloat`](ue_ue.CurveFloat.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4236)
 
 ___
 
@@ -79,10 +67,6 @@ ___
 
 [TTPropertyTrack](ue_ue.TTPropertyTrack.md).[PropertyName](ue_ue.TTPropertyTrack.md#propertyname)
 
-#### Defined in
-
-[ue/ue.d.ts:4224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4224)
-
 ___
 
 ### TrackName
@@ -93,19 +77,11 @@ ___
 
 [TTPropertyTrack](ue_ue.TTPropertyTrack.md).[TrackName](ue_ue.TTPropertyTrack.md#trackname)
 
-#### Defined in
-
-[ue/ue.d.ts:4198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4198)
-
 ___
 
 ### \_\_tid\_TTFloatTrack\_\_
 
 • `Private` **\_\_tid\_TTFloatTrack\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4242)
 
 ___
 
@@ -116,10 +92,6 @@ ___
 #### Inherited from
 
 [TTPropertyTrack](ue_ue.TTPropertyTrack.md).[bIsExternalCurve](ue_ue.TTPropertyTrack.md#bisexternalcurve)
-
-#### Defined in
-
-[ue/ue.d.ts:4199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4199)
 
 ## Methods
 
@@ -139,10 +111,6 @@ use StaticStruct instead.
 
 [TTPropertyTrack](ue_ue.TTPropertyTrack.md).[StaticClass](ue_ue.TTPropertyTrack.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:4240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4240)
-
 ___
 
 ### StaticStruct
@@ -156,7 +124,3 @@ ___
 #### Overrides
 
 [TTPropertyTrack](ue_ue.TTPropertyTrack.md).[StaticStruct](ue_ue.TTPropertyTrack.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:4241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4241)

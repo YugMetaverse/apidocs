@@ -20,19 +20,11 @@
 
 • **Always** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33914)
-
 ___
 
 ### EIOSCloudKitSyncStrategy\_MAX
 
 • **EIOSCloudKitSyncStrategy\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33914)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33914)
-
 ___
 
 ### OnlyAtGameStart
 
 • **OnlyAtGameStart** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33914)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33914)

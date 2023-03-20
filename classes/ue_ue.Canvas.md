@@ -78,19 +78,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:6108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6108)
-
 ## Properties
 
 ### ClipX
 
 • **ClipX**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6111)
 
 ___
 
@@ -98,19 +90,11 @@ ___
 
 • **ClipY**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6112)
-
 ___
 
 ### ColorModulate
 
 • **ColorModulate**: [`Plane`](ue_ue.Plane.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6119)
 
 ___
 
@@ -118,19 +102,11 @@ ___
 
 • **DefaultTexture**: [`Texture2D`](ue_ue.Texture2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6120)
-
 ___
 
 ### DrawColor
 
 • **DrawColor**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6113)
 
 ___
 
@@ -138,19 +114,11 @@ ___
 
 • **GradientTexture0**: [`Texture2D`](ue_ue.Texture2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6121)
-
 ___
 
 ### OrgX
 
 • **OrgX**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6109](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6109)
 
 ___
 
@@ -158,19 +126,11 @@ ___
 
 • **OrgY**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6110)
-
 ___
 
 ### ReporterGraph
 
 • **ReporterGraph**: [`ReporterGraph`](ue_ue.ReporterGraph.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6122)
 
 ___
 
@@ -178,29 +138,17 @@ ___
 
 • **SizeX**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6117)
-
 ___
 
 ### SizeY
 
 • **SizeY**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6118)
-
 ___
 
 ### \_\_tid\_Canvas\_\_
 
 • **\_\_tid\_Canvas\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6140)
 
 ___
 
@@ -212,19 +160,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bCenterX
 
 • **bCenterX**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6114](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6114)
 
 ___
 
@@ -232,19 +172,11 @@ ___
 
 • **bCenterY**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6115)
-
 ___
 
 ### bNoSmooth
 
 • **bNoSmooth**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6116)
 
 ## Methods
 
@@ -270,10 +202,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -294,10 +222,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -311,10 +235,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -330,10 +250,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -348,10 +264,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -365,10 +277,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -387,10 +295,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:6123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6123)
 
 ___
 
@@ -423,10 +327,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:6124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6124)
-
 ___
 
 ### K2\_DrawBox
@@ -446,10 +346,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:6125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6125)
-
 ___
 
 ### K2\_DrawLine
@@ -468,10 +364,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:6126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6126)
 
 ___
 
@@ -495,10 +387,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:6127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6127)
-
 ___
 
 ### K2\_DrawMaterialTriangle
@@ -515,10 +403,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:6128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6128)
 
 ___
 
@@ -539,10 +423,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:6129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6129)
 
 ___
 
@@ -571,10 +451,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:6130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6130)
-
 ___
 
 ### K2\_DrawTexture
@@ -599,10 +475,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:6131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6131)
-
 ___
 
 ### K2\_DrawTriangle
@@ -620,10 +492,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:6132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6132)
-
 ___
 
 ### K2\_Project
@@ -639,10 +507,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6133)
 
 ___
 
@@ -661,10 +525,6 @@ ___
 
 [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6134)
-
 ___
 
 ### K2\_TextSize
@@ -682,10 +542,6 @@ ___
 #### Returns
 
 [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6135)
 
 ___
 
@@ -708,10 +564,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:6137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6137)
-
 ___
 
 ### Load
@@ -732,10 +584,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:6138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6138)
-
 ___
 
 ### StaticClass
@@ -749,7 +597,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:6136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6136)

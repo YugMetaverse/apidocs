@@ -86,10 +86,6 @@
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[constructor](ue_ue.FbxMeshImportData.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:35226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35226)
-
 ## Properties
 
 ### FbxSceneImportDataReference
@@ -99,10 +95,6 @@
 #### Inherited from
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[FbxSceneImportDataReference](ue_ue.FbxMeshImportData.md#fbxsceneimportdatareference)
-
-#### Defined in
-
-[ue/ue.d.ts:35129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35129)
 
 ___
 
@@ -114,10 +106,6 @@ ___
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[ImportMaterialOriginalNameData](ue_ue.FbxMeshImportData.md#importmaterialoriginalnamedata)
 
-#### Defined in
-
-[ue/ue.d.ts:35216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35216)
-
 ___
 
 ### ImportMeshLodData
@@ -127,10 +115,6 @@ ___
 #### Inherited from
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[ImportMeshLodData](ue_ue.FbxMeshImportData.md#importmeshloddata)
-
-#### Defined in
-
-[ue/ue.d.ts:35217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35217)
 
 ___
 
@@ -142,10 +126,6 @@ ___
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[ImportRotation](ue_ue.FbxMeshImportData.md#importrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:35123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35123)
-
 ___
 
 ### ImportTranslation
@@ -155,10 +135,6 @@ ___
 #### Inherited from
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[ImportTranslation](ue_ue.FbxMeshImportData.md#importtranslation)
-
-#### Defined in
-
-[ue/ue.d.ts:35122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35122)
 
 ___
 
@@ -170,10 +146,6 @@ ___
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[ImportUniformScale](ue_ue.FbxMeshImportData.md#importuniformscale)
 
-#### Defined in
-
-[ue/ue.d.ts:35124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35124)
-
 ___
 
 ### NormalGenerationMethod
@@ -183,10 +155,6 @@ ___
 #### Inherited from
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[NormalGenerationMethod](ue_ue.FbxMeshImportData.md#normalgenerationmethod)
-
-#### Defined in
-
-[ue/ue.d.ts:35213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35213)
 
 ___
 
@@ -198,10 +166,6 @@ ___
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[NormalImportMethod](ue_ue.FbxMeshImportData.md#normalimportmethod)
 
-#### Defined in
-
-[ue/ue.d.ts:35212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35212)
-
 ___
 
 ### SourceData
@@ -211,10 +175,6 @@ ___
 #### Inherited from
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[SourceData](ue_ue.FbxMeshImportData.md#sourcedata)
-
-#### Defined in
-
-[ue/ue.d.ts:38](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38)
 
 ___
 
@@ -226,10 +186,6 @@ ___
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[SourceFilePath](ue_ue.FbxMeshImportData.md#sourcefilepath)
 
-#### Defined in
-
-[ue/ue.d.ts:36](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36)
-
 ___
 
 ### SourceFileTimestamp
@@ -240,19 +196,11 @@ ___
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[SourceFileTimestamp](ue_ue.FbxMeshImportData.md#sourcefiletimestamp)
 
-#### Defined in
-
-[ue/ue.d.ts:37](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37)
-
 ___
 
 ### StaticMeshLODGroup
 
 • **StaticMeshLODGroup**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:35227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35227)
 
 ___
 
@@ -260,19 +208,11 @@ ___
 
 • **VertexColorImportOption**: [`EVertexColorImportOption`](../enums/ue_ue.EVertexColorImportOption.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35228)
-
 ___
 
 ### VertexOverrideColor
 
 • **VertexOverrideColor**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35229)
 
 ___
 
@@ -284,10 +224,6 @@ ___
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[__tid_AssetImportData__](ue_ue.FbxMeshImportData.md#__tid_assetimportdata__)
 
-#### Defined in
-
-[ue/ue.d.ts:45](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45)
-
 ___
 
 ### \_\_tid\_FbxAssetImportData\_\_
@@ -297,10 +233,6 @@ ___
 #### Inherited from
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[__tid_FbxAssetImportData__](ue_ue.FbxMeshImportData.md#__tid_fbxassetimportdata__)
-
-#### Defined in
-
-[ue/ue.d.ts:35134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35134)
 
 ___
 
@@ -312,19 +244,11 @@ ___
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[__tid_FbxMeshImportData__](ue_ue.FbxMeshImportData.md#__tid_fbxmeshimportdata__)
 
-#### Defined in
-
-[ue/ue.d.ts:35222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35222)
-
 ___
 
 ### \_\_tid\_FbxStaticMeshImportData\_\_
 
 • **\_\_tid\_FbxStaticMeshImportData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35241)
 
 ___
 
@@ -336,19 +260,11 @@ ___
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[__tid_Object__](ue_ue.FbxMeshImportData.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bAutoGenerateCollision
 
 • **bAutoGenerateCollision**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35235)
 
 ___
 
@@ -360,19 +276,11 @@ ___
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[bBakePivotInVertex](ue_ue.FbxMeshImportData.md#bbakepivotinvertex)
 
-#### Defined in
-
-[ue/ue.d.ts:35210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35210)
-
 ___
 
 ### bBuildAdjacencyBuffer
 
 • **bBuildAdjacencyBuffer**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35231)
 
 ___
 
@@ -380,19 +288,11 @@ ___
 
 • **bBuildReversedIndexBuffer**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35232)
-
 ___
 
 ### bCombineMeshes
 
 • **bCombineMeshes**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35236)
 
 ___
 
@@ -404,10 +304,6 @@ ___
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[bComputeWeightedNormals](ue_ue.FbxMeshImportData.md#bcomputeweightednormals)
 
-#### Defined in
-
-[ue/ue.d.ts:35214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35214)
-
 ___
 
 ### bConvertScene
@@ -417,10 +313,6 @@ ___
 #### Inherited from
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[bConvertScene](ue_ue.FbxMeshImportData.md#bconvertscene)
-
-#### Defined in
-
-[ue/ue.d.ts:35125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35125)
 
 ___
 
@@ -432,10 +324,6 @@ ___
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[bConvertSceneUnit](ue_ue.FbxMeshImportData.md#bconvertsceneunit)
 
-#### Defined in
-
-[ue/ue.d.ts:35127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35127)
-
 ___
 
 ### bForceFrontXAxis
@@ -446,19 +334,11 @@ ___
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[bForceFrontXAxis](ue_ue.FbxMeshImportData.md#bforcefrontxaxis)
 
-#### Defined in
-
-[ue/ue.d.ts:35126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35126)
-
 ___
 
 ### bGenerateLightmapUVs
 
 • **bGenerateLightmapUVs**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35233)
 
 ___
 
@@ -470,10 +350,6 @@ ___
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[bImportAsScene](ue_ue.FbxMeshImportData.md#bimportasscene)
 
-#### Defined in
-
-[ue/ue.d.ts:35128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35128)
-
 ___
 
 ### bImportMeshLODs
@@ -484,29 +360,17 @@ ___
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[bImportMeshLODs](ue_ue.FbxMeshImportData.md#bimportmeshlods)
 
-#### Defined in
-
-[ue/ue.d.ts:35211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35211)
-
 ___
 
 ### bOneConvexHullPerUCX
 
 • **bOneConvexHullPerUCX**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35234)
-
 ___
 
 ### bRemoveDegenerates
 
 • **bRemoveDegenerates**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35230)
 
 ___
 
@@ -518,10 +382,6 @@ ___
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[bReorderMaterialToFbxOrder](ue_ue.FbxMeshImportData.md#breordermaterialtofbxorder)
 
-#### Defined in
-
-[ue/ue.d.ts:35215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35215)
-
 ___
 
 ### bTransformVertexToAbsolute
@@ -531,10 +391,6 @@ ___
 #### Inherited from
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[bTransformVertexToAbsolute](ue_ue.FbxMeshImportData.md#btransformvertextoabsolute)
-
-#### Defined in
-
-[ue/ue.d.ts:35209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35209)
 
 ## Methods
 
@@ -560,10 +416,6 @@ ___
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[CreateDefaultSubobject](ue_ue.FbxMeshImportData.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -584,10 +436,6 @@ ___
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[ExecuteUbergraph](ue_ue.FbxMeshImportData.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -601,10 +449,6 @@ ___
 #### Inherited from
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[GetClass](ue_ue.FbxMeshImportData.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -620,10 +464,6 @@ ___
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[GetName](ue_ue.FbxMeshImportData.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -637,10 +477,6 @@ ___
 #### Inherited from
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[GetOuter](ue_ue.FbxMeshImportData.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -656,10 +492,6 @@ ___
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[GetWorld](ue_ue.FbxMeshImportData.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### K2\_ExtractFilenames
@@ -674,10 +506,6 @@ ___
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[K2_ExtractFilenames](ue_ue.FbxMeshImportData.md#k2_extractfilenames)
 
-#### Defined in
-
-[ue/ue.d.ts:39](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39)
-
 ___
 
 ### K2\_GetFirstFilename
@@ -691,10 +519,6 @@ ___
 #### Inherited from
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[K2_GetFirstFilename](ue_ue.FbxMeshImportData.md#k2_getfirstfilename)
-
-#### Defined in
-
-[ue/ue.d.ts:40](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40)
 
 ___
 
@@ -717,10 +541,6 @@ ___
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[Find](ue_ue.FbxMeshImportData.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:35238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35238)
-
 ___
 
 ### Load
@@ -741,10 +561,6 @@ ___
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[Load](ue_ue.FbxMeshImportData.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:35239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35239)
-
 ___
 
 ### StaticClass
@@ -758,7 +574,3 @@ ___
 #### Overrides
 
 [FbxMeshImportData](ue_ue.FbxMeshImportData.md).[StaticClass](ue_ue.FbxMeshImportData.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:35237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35237)

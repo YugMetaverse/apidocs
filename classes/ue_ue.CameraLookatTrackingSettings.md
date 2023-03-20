@@ -31,10 +31,6 @@
 
 • **new CameraLookatTrackingSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:27224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27224)
-
 • **new CameraLookatTrackingSettings**(`bEnableLookAtTracking`, `bDrawDebugLookAtTrackingPosition`, `LookAtTrackingInterpSpeed`, `ActorToTrack`, `RelativeOffset`, `bAllowRoll`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `RelativeOffset` | [`Vector`](ue_ue_s.Vector.md) |
 | `bAllowRoll` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:27225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27225)
-
 ## Properties
 
 ### ActorToTrack
 
 • **ActorToTrack**: [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`Actor`](ue_ue.Actor.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:27229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27229)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **LookAtTrackingInterpSpeed**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27228)
-
 ___
 
 ### RelativeOffset
 
 • **RelativeOffset**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27230)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • `Private` **\_\_tid\_CameraLookatTrackingSettings\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:27237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27237)
-
 ___
 
 ### bAllowRoll
 
 • **bAllowRoll**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27231)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **bDrawDebugLookAtTrackingPosition**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:27227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27227)
-
 ___
 
 ### bEnableLookAtTracking
 
 • **bEnableLookAtTracking**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27226)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27235)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27236)

@@ -25,19 +25,11 @@
 
 • **new CapturedPixels**()
 
-#### Defined in
-
-[ue/ue.d.ts:64805](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64805)
-
 ## Properties
 
 ### \_\_tid\_CapturedPixels\_\_
 
 • `Private` **\_\_tid\_CapturedPixels\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64811)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64809)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:64810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64810)

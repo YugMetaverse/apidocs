@@ -45,10 +45,6 @@
 
 [AIDataProviderValue](ue_ue.AIDataProviderValue.md).[constructor](ue_ue.AIDataProviderValue.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:15504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15504)
-
 • **new AIDataProviderTypedValue**(`PropertyType`)
 
 #### Parameters
@@ -61,10 +57,6 @@
 
 [AIDataProviderValue](ue_ue.AIDataProviderValue.md).[constructor](ue_ue.AIDataProviderValue.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:15505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15505)
-
 ## Properties
 
 ### CachedProperty
@@ -74,10 +66,6 @@
 #### Inherited from
 
 [AIDataProviderValue](ue_ue.AIDataProviderValue.md).[CachedProperty](ue_ue.AIDataProviderValue.md#cachedproperty)
-
-#### Defined in
-
-[ue/ue.d.ts:15492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15492)
 
 ___
 
@@ -89,10 +77,6 @@ ___
 
 [AIDataProviderValue](ue_ue.AIDataProviderValue.md).[DataBinding](ue_ue.AIDataProviderValue.md#databinding)
 
-#### Defined in
-
-[ue/ue.d.ts:15493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15493)
-
 ___
 
 ### DataField
@@ -103,29 +87,17 @@ ___
 
 [AIDataProviderValue](ue_ue.AIDataProviderValue.md).[DataField](ue_ue.AIDataProviderValue.md#datafield)
 
-#### Defined in
-
-[ue/ue.d.ts:15494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15494)
-
 ___
 
 ### PropertyType
 
 • **PropertyType**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15506)
-
 ___
 
 ### \_\_tid\_AIDataProviderTypedValue\_\_
 
 • `Private` **\_\_tid\_AIDataProviderTypedValue\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15512)
 
 ## Methods
 
@@ -145,10 +117,6 @@ use StaticStruct instead.
 
 [AIDataProviderValue](ue_ue.AIDataProviderValue.md).[StaticClass](ue_ue.AIDataProviderValue.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:15510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15510)
-
 ___
 
 ### StaticStruct
@@ -162,7 +130,3 @@ ___
 #### Overrides
 
 [AIDataProviderValue](ue_ue.AIDataProviderValue.md).[StaticStruct](ue_ue.AIDataProviderValue.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:15511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15511)

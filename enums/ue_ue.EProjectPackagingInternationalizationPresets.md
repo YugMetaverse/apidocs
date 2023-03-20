@@ -22,19 +22,11 @@
 
 • **All** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34690)
-
 ___
 
 ### CJK
 
 • **CJK** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34690)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **EFIGS** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34690)
-
 ___
 
 ### EFIGSCJK
 
 • **EFIGSCJK** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34690)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **EProjectPackagingInternationalizationPresets\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34690)
-
 ___
 
 ### English
 
 • **English** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34690)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34690)

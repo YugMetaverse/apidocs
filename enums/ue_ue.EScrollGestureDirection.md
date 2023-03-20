@@ -20,19 +20,11 @@
 
 • **EScrollGestureDirection\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34756)
-
 ___
 
 ### Natural
 
 • **Natural** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34756)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Standard** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34756)
-
 ___
 
 ### UseSystemSetting
 
 • **UseSystemSetting** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34756)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34756)

@@ -24,19 +24,11 @@
 
 • **All** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30587)
-
 ___
 
 ### ETemplateSetting\_MAX
 
 • **ETemplateSetting\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30587)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **GraphicsPreset** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30587)
-
 ___
 
 ### HardwareTarget
 
 • **HardwareTarget** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30587)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **Languages** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30587)
-
 ___
 
 ### Raytracing
 
 • **Raytracing** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30587)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **StarterContent** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30587)
-
 ___
 
 ### XR
 
 • **XR** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30587)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30587)

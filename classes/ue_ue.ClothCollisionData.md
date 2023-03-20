@@ -29,10 +29,6 @@
 
 • **new ClothCollisionData**()
 
-#### Defined in
-
-[ue/ue.d.ts:27725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27725)
-
 • **new ClothCollisionData**(`Spheres`, `SphereConnections`, `Convexes`, `Boxes`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `Convexes` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ClothCollisionPrim_Convex`](ue_ue.ClothCollisionPrim_Convex.md)\> |
 | `Boxes` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ClothCollisionPrim_Box`](ue_ue.ClothCollisionPrim_Box.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:27726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27726)
-
 ## Properties
 
 ### Boxes
 
 • **Boxes**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ClothCollisionPrim_Box`](ue_ue.ClothCollisionPrim_Box.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:27730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27730)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **Convexes**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ClothCollisionPrim_Convex`](ue_ue.ClothCollisionPrim_Convex.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:27729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27729)
-
 ___
 
 ### SphereConnections
 
 • **SphereConnections**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ClothCollisionPrim_SphereConnection`](ue_ue.ClothCollisionPrim_SphereConnection.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:27728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27728)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **Spheres**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ClothCollisionPrim_Sphere`](ue_ue.ClothCollisionPrim_Sphere.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:27727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27727)
-
 ___
 
 ### \_\_tid\_ClothCollisionData\_\_
 
 • `Private` **\_\_tid\_ClothCollisionData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27736)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27734)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27735)

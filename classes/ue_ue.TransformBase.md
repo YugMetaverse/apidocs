@@ -27,10 +27,6 @@
 
 • **new TransformBase**()
 
-#### Defined in
-
-[ue/ue.d.ts:2445](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2445)
-
 • **new TransformBase**(`Node`, `Constraints`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Node` | `string` |
 | `Constraints` | [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<[`TransformBaseConstraint`](ue_ue.TransformBaseConstraint.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:2446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2446)
-
 ## Properties
 
 ### Constraints
 
 • **Constraints**: [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<[`TransformBaseConstraint`](ue_ue.TransformBaseConstraint.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:2448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2448)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Node**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:2447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2447)
-
 ___
 
 ### \_\_tid\_TransformBase\_\_
 
 • `Private` **\_\_tid\_TransformBase\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2454)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2452)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2453)

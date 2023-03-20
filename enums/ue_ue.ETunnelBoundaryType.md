@@ -21,19 +21,11 @@
 
 • **ETunnelBoundaryType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34852)
-
 ___
 
 ### EntrySite
 
 • **EntrySite** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34852)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **InputSite** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34852)
-
 ___
 
 ### OutputSite
 
 • **OutputSite** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34852)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Unknown** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34852)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34852)

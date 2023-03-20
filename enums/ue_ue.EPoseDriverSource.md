@@ -19,19 +19,11 @@
 
 • **EPoseDriverSource\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19203)
-
 ___
 
 ### Rotation
 
 • **Rotation** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19203)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Translation** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19203)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19203)

@@ -32,10 +32,6 @@
 
 • **new SlateFontInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:28285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28285)
-
 • **new SlateFontInfo**(`FontObject`, `FontMaterial`, `OutlineSettings`, `TypefaceFontName`, `Size`, `FontName`, `Hinting`)
 
 #### Parameters
@@ -50,19 +46,11 @@
 | `FontName` | `string` |
 | `Hinting` | [`EFontHinting`](../enums/ue_ue.EFontHinting.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:28286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28286)
-
 ## Properties
 
 ### FontMaterial
 
 • **FontMaterial**: [`Object`](ue_ue.Object.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28288)
 
 ___
 
@@ -70,19 +58,11 @@ ___
 
 • **FontName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:28292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28292)
-
 ___
 
 ### FontObject
 
 • **FontObject**: [`Object`](ue_ue.Object.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28287)
 
 ___
 
@@ -90,19 +70,11 @@ ___
 
 • **Hinting**: [`EFontHinting`](../enums/ue_ue.EFontHinting.md)
 
-#### Defined in
-
-[ue/ue.d.ts:28293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28293)
-
 ___
 
 ### OutlineSettings
 
 • **OutlineSettings**: [`FontOutlineSettings`](ue_ue.FontOutlineSettings.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28289)
 
 ___
 
@@ -110,29 +82,17 @@ ___
 
 • **Size**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28291)
-
 ___
 
 ### TypefaceFontName
 
 • **TypefaceFontName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:28290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28290)
-
 ___
 
 ### \_\_tid\_SlateFontInfo\_\_
 
 • `Private` **\_\_tid\_SlateFontInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:28299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28299)
 
 ## Methods
 
@@ -148,10 +108,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:28297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28297)
-
 ___
 
 ### StaticStruct
@@ -161,7 +117,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28298)

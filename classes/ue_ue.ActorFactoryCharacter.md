@@ -59,10 +59,6 @@
 
 [ActorFactory](ue_ue.ActorFactory.md).[constructor](ue_ue.ActorFactory.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:13614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13614)
-
 ## Properties
 
 ### DisplayName
@@ -72,10 +68,6 @@
 #### Inherited from
 
 [ActorFactory](ue_ue.ActorFactory.md).[DisplayName](ue_ue.ActorFactory.md#displayname)
-
-#### Defined in
-
-[ue/ue.d.ts:13500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13500)
 
 ___
 
@@ -87,10 +79,6 @@ ___
 
 [ActorFactory](ue_ue.ActorFactory.md).[MenuPriority](ue_ue.ActorFactory.md#menupriority)
 
-#### Defined in
-
-[ue/ue.d.ts:13501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13501)
-
 ___
 
 ### NewActorClass
@@ -100,10 +88,6 @@ ___
 #### Inherited from
 
 [ActorFactory](ue_ue.ActorFactory.md).[NewActorClass](ue_ue.ActorFactory.md#newactorclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13503)
 
 ___
 
@@ -115,10 +99,6 @@ ___
 
 [ActorFactory](ue_ue.ActorFactory.md).[NewActorClassName](ue_ue.ActorFactory.md#newactorclassname)
 
-#### Defined in
-
-[ue/ue.d.ts:13502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13502)
-
 ___
 
 ### SpawnPositionOffset
@@ -129,19 +109,11 @@ ___
 
 [ActorFactory](ue_ue.ActorFactory.md).[SpawnPositionOffset](ue_ue.ActorFactory.md#spawnpositionoffset)
 
-#### Defined in
-
-[ue/ue.d.ts:13506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13506)
-
 ___
 
 ### \_\_tid\_ActorFactoryCharacter\_\_
 
 • **\_\_tid\_ActorFactoryCharacter\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:13619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13619)
 
 ___
 
@@ -153,10 +125,6 @@ ___
 
 [ActorFactory](ue_ue.ActorFactory.md).[__tid_ActorFactory__](ue_ue.ActorFactory.md#__tid_actorfactory__)
 
-#### Defined in
-
-[ue/ue.d.ts:13511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13511)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -166,10 +134,6 @@ ___
 #### Inherited from
 
 [ActorFactory](ue_ue.ActorFactory.md).[__tid_Object__](ue_ue.ActorFactory.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -181,10 +145,6 @@ ___
 
 [ActorFactory](ue_ue.ActorFactory.md).[bShowInEditorQuickMenu](ue_ue.ActorFactory.md#bshowineditorquickmenu)
 
-#### Defined in
-
-[ue/ue.d.ts:13504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13504)
-
 ___
 
 ### bUseSurfaceOrientation
@@ -194,10 +154,6 @@ ___
 #### Inherited from
 
 [ActorFactory](ue_ue.ActorFactory.md).[bUseSurfaceOrientation](ue_ue.ActorFactory.md#busesurfaceorientation)
-
-#### Defined in
-
-[ue/ue.d.ts:13505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13505)
 
 ## Methods
 
@@ -223,10 +179,6 @@ ___
 
 [ActorFactory](ue_ue.ActorFactory.md).[CreateDefaultSubobject](ue_ue.ActorFactory.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -247,10 +199,6 @@ ___
 
 [ActorFactory](ue_ue.ActorFactory.md).[ExecuteUbergraph](ue_ue.ActorFactory.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -264,10 +212,6 @@ ___
 #### Inherited from
 
 [ActorFactory](ue_ue.ActorFactory.md).[GetClass](ue_ue.ActorFactory.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -283,10 +227,6 @@ ___
 
 [ActorFactory](ue_ue.ActorFactory.md).[GetName](ue_ue.ActorFactory.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -301,10 +241,6 @@ ___
 
 [ActorFactory](ue_ue.ActorFactory.md).[GetOuter](ue_ue.ActorFactory.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -318,10 +254,6 @@ ___
 #### Inherited from
 
 [ActorFactory](ue_ue.ActorFactory.md).[GetWorld](ue_ue.ActorFactory.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -344,10 +276,6 @@ ___
 
 [ActorFactory](ue_ue.ActorFactory.md).[Find](ue_ue.ActorFactory.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:13616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13616)
-
 ___
 
 ### Load
@@ -368,10 +296,6 @@ ___
 
 [ActorFactory](ue_ue.ActorFactory.md).[Load](ue_ue.ActorFactory.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:13617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13617)
-
 ___
 
 ### StaticClass
@@ -385,7 +309,3 @@ ___
 #### Overrides
 
 [ActorFactory](ue_ue.ActorFactory.md).[StaticClass](ue_ue.ActorFactory.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13615)

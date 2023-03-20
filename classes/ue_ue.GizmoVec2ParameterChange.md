@@ -27,10 +27,6 @@
 
 • **new GizmoVec2ParameterChange**()
 
-#### Defined in
-
-[ue/ue.d.ts:38092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38092)
-
 • **new GizmoVec2ParameterChange**(`InitialValue`, `CurrentValue`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `InitialValue` | [`Vector2D`](ue_ue_s.Vector2D.md) |
 | `CurrentValue` | [`Vector2D`](ue_ue_s.Vector2D.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:38093](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38093)
-
 ## Properties
 
 ### CurrentValue
 
 • **CurrentValue**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38095](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38095)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **InitialValue**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38094](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38094)
-
 ___
 
 ### \_\_tid\_GizmoVec2ParameterChange\_\_
 
 • `Private` **\_\_tid\_GizmoVec2ParameterChange\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38101)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38099](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38099)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38100](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38100)

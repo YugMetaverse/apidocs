@@ -55,10 +55,6 @@
 
 • **new MeshProxySettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:8965](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8965)
-
 • **new MeshProxySettings**(`ScreenSize`, `VoxelSize`, `MaterialSettings`, `TextureWidth`, `TextureHeight`, `bExportNormalMap`, `bExportMetallicMap`, `bExportRoughnessMap`, `bExportSpecularMap`, `bBakeVertexData`, `MergeDistance`, `UnresolvedGeometryColor`, `MaxRayCastDist`, `HardAngleThreshold`, `LightMapResolution`, `NormalCalculationMethod`, `LandscapeCullingPrecision`, `bCalculateCorrectLODModel`, `bOverrideVoxelSize`, `bOverrideTransferDistance`, `bUseHardAngleThreshold`, `bComputeLightMapResolution`, `bRecalculateNormals`, `bUseLandscapeCulling`, `bAllowAdjacency`, `bAllowDistanceField`, `bReuseMeshLightmapUVs`, `bCreateCollision`, `bAllowVertexColors`, `bGenerateLightmapUVs`)
 
 #### Parameters
@@ -96,19 +92,11 @@
 | `bAllowVertexColors` | `boolean` |
 | `bGenerateLightmapUVs` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:8966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8966)
-
 ## Properties
 
 ### HardAngleThreshold
 
 • **HardAngleThreshold**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8980)
 
 ___
 
@@ -116,19 +104,11 @@ ___
 
 • **LandscapeCullingPrecision**: [`ELandscapeCullingPrecision`](../enums/ue_ue.ELandscapeCullingPrecision.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8983)
-
 ___
 
 ### LightMapResolution
 
 • **LightMapResolution**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8981)
 
 ___
 
@@ -136,19 +116,11 @@ ___
 
 • **MaterialSettings**: [`MaterialProxySettings`](ue_ue.MaterialProxySettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8969)
-
 ___
 
 ### MaxRayCastDist
 
 • **MaxRayCastDist**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8979)
 
 ___
 
@@ -156,19 +128,11 @@ ___
 
 • **MergeDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8977)
-
 ___
 
 ### NormalCalculationMethod
 
 • **NormalCalculationMethod**: [`EProxyNormalComputationMethod`](../enums/ue_ue.EProxyNormalComputationMethod.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8982)
 
 ___
 
@@ -176,19 +140,11 @@ ___
 
 • **ScreenSize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8967)
-
 ___
 
 ### TextureHeight
 
 • **TextureHeight**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8971)
 
 ___
 
@@ -196,19 +152,11 @@ ___
 
 • **TextureWidth**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8970)
-
 ___
 
 ### UnresolvedGeometryColor
 
 • **UnresolvedGeometryColor**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8978)
 
 ___
 
@@ -216,19 +164,11 @@ ___
 
 • **VoxelSize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8968)
-
 ___
 
 ### \_\_tid\_MeshProxySettings\_\_
 
 • `Private` **\_\_tid\_MeshProxySettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9002)
 
 ___
 
@@ -236,19 +176,11 @@ ___
 
 • **bAllowAdjacency**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8991)
-
 ___
 
 ### bAllowDistanceField
 
 • **bAllowDistanceField**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8992)
 
 ___
 
@@ -256,19 +188,11 @@ ___
 
 • **bAllowVertexColors**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8995)
-
 ___
 
 ### bBakeVertexData
 
 • **bBakeVertexData**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8976)
 
 ___
 
@@ -276,19 +200,11 @@ ___
 
 • **bCalculateCorrectLODModel**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8984)
-
 ___
 
 ### bComputeLightMapResolution
 
 • **bComputeLightMapResolution**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8988)
 
 ___
 
@@ -296,19 +212,11 @@ ___
 
 • **bCreateCollision**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8994)
-
 ___
 
 ### bExportMetallicMap
 
 • **bExportMetallicMap**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8973)
 
 ___
 
@@ -316,19 +224,11 @@ ___
 
 • **bExportNormalMap**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8972)
-
 ___
 
 ### bExportRoughnessMap
 
 • **bExportRoughnessMap**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8974)
 
 ___
 
@@ -336,19 +236,11 @@ ___
 
 • **bExportSpecularMap**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8975](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8975)
-
 ___
 
 ### bGenerateLightmapUVs
 
 • **bGenerateLightmapUVs**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8996)
 
 ___
 
@@ -356,19 +248,11 @@ ___
 
 • **bOverrideTransferDistance**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8986](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8986)
-
 ___
 
 ### bOverrideVoxelSize
 
 • **bOverrideVoxelSize**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8985)
 
 ___
 
@@ -376,19 +260,11 @@ ___
 
 • **bRecalculateNormals**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8989)
-
 ___
 
 ### bReuseMeshLightmapUVs
 
 • **bReuseMeshLightmapUVs**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8993)
 
 ___
 
@@ -396,19 +272,11 @@ ___
 
 • **bUseHardAngleThreshold**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8987)
-
 ___
 
 ### bUseLandscapeCulling
 
 • **bUseLandscapeCulling**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8990)
 
 ## Methods
 
@@ -424,10 +292,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9000)
-
 ___
 
 ### StaticStruct
@@ -437,7 +301,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9001)

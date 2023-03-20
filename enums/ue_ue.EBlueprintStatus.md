@@ -23,19 +23,11 @@
 
 • **BS\_BeingCreated** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4088)
-
 ___
 
 ### BS\_Dirty
 
 • **BS\_Dirty** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4088)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **BS\_Error** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4088)
-
 ___
 
 ### BS\_MAX
 
 • **BS\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4088)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **BS\_Unknown** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4088)
-
 ___
 
 ### BS\_UpToDate
 
 • **BS\_UpToDate** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4088)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **BS\_UpToDateWithWarnings** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4088)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4088)

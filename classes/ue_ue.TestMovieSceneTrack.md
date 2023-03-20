@@ -62,10 +62,6 @@
 
 [MovieSceneTrack](ue_ue.MovieSceneTrack.md).[constructor](ue_ue.MovieSceneTrack.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:62962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62962)
-
 ## Properties
 
 ### DisplayOptions
@@ -75,10 +71,6 @@
 #### Inherited from
 
 [MovieSceneTrack](ue_ue.MovieSceneTrack.md).[DisplayOptions](ue_ue.MovieSceneTrack.md#displayoptions)
-
-#### Defined in
-
-[ue/ue.d.ts:11109](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11109)
 
 ___
 
@@ -90,19 +82,11 @@ ___
 
 [MovieSceneTrack](ue_ue.MovieSceneTrack.md).[EvalOptions](ue_ue.MovieSceneTrack.md#evaloptions)
 
-#### Defined in
-
-[ue/ue.d.ts:11108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11108)
-
 ___
 
 ### SectionArray
 
 • **SectionArray**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MovieSceneSection`](ue_ue.MovieSceneSection.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:62964](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62964)
 
 ___
 
@@ -114,10 +98,6 @@ ___
 
 [MovieSceneTrack](ue_ue.MovieSceneTrack.md).[Signature](ue_ue.MovieSceneTrack.md#signature)
 
-#### Defined in
-
-[ue/ue.d.ts:11034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11034)
-
 ___
 
 ### SortingOrder
@@ -127,10 +107,6 @@ ___
 #### Inherited from
 
 [MovieSceneTrack](ue_ue.MovieSceneTrack.md).[SortingOrder](ue_ue.MovieSceneTrack.md#sortingorder)
-
-#### Defined in
-
-[ue/ue.d.ts:11112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11112)
 
 ___
 
@@ -142,10 +118,6 @@ ___
 
 [MovieSceneTrack](ue_ue.MovieSceneTrack.md).[TrackTint](ue_ue.MovieSceneTrack.md#tracktint)
 
-#### Defined in
-
-[ue/ue.d.ts:11111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11111)
-
 ___
 
 ### \_\_tid\_MovieSceneSignedObject\_\_
@@ -155,10 +127,6 @@ ___
 #### Inherited from
 
 [MovieSceneTrack](ue_ue.MovieSceneTrack.md).[__tid_MovieSceneSignedObject__](ue_ue.MovieSceneTrack.md#__tid_moviescenesignedobject__)
-
-#### Defined in
-
-[ue/ue.d.ts:11039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11039)
 
 ___
 
@@ -170,10 +138,6 @@ ___
 
 [MovieSceneTrack](ue_ue.MovieSceneTrack.md).[__tid_MovieSceneTrack__](ue_ue.MovieSceneTrack.md#__tid_moviescenetrack__)
 
-#### Defined in
-
-[ue/ue.d.ts:11118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11118)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -184,29 +148,17 @@ ___
 
 [MovieSceneTrack](ue_ue.MovieSceneTrack.md).[__tid_Object__](ue_ue.MovieSceneTrack.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_TestMovieSceneTrack\_\_
 
 • **\_\_tid\_TestMovieSceneTrack\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:62969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62969)
-
 ___
 
 ### bHighPassFilter
 
 • **bHighPassFilter**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:62963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62963)
 
 ___
 
@@ -218,10 +170,6 @@ ___
 
 [MovieSceneTrack](ue_ue.MovieSceneTrack.md).[bIsEvalDisabled](ue_ue.MovieSceneTrack.md#bisevaldisabled)
 
-#### Defined in
-
-[ue/ue.d.ts:11110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11110)
-
 ___
 
 ### bSupportsDefaultSections
@@ -231,10 +179,6 @@ ___
 #### Inherited from
 
 [MovieSceneTrack](ue_ue.MovieSceneTrack.md).[bSupportsDefaultSections](ue_ue.MovieSceneTrack.md#bsupportsdefaultsections)
-
-#### Defined in
-
-[ue/ue.d.ts:11113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11113)
 
 ## Methods
 
@@ -260,10 +204,6 @@ ___
 
 [MovieSceneTrack](ue_ue.MovieSceneTrack.md).[CreateDefaultSubobject](ue_ue.MovieSceneTrack.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -284,10 +224,6 @@ ___
 
 [MovieSceneTrack](ue_ue.MovieSceneTrack.md).[ExecuteUbergraph](ue_ue.MovieSceneTrack.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -301,10 +237,6 @@ ___
 #### Inherited from
 
 [MovieSceneTrack](ue_ue.MovieSceneTrack.md).[GetClass](ue_ue.MovieSceneTrack.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -320,10 +252,6 @@ ___
 
 [MovieSceneTrack](ue_ue.MovieSceneTrack.md).[GetName](ue_ue.MovieSceneTrack.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -338,10 +266,6 @@ ___
 
 [MovieSceneTrack](ue_ue.MovieSceneTrack.md).[GetOuter](ue_ue.MovieSceneTrack.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -355,10 +279,6 @@ ___
 #### Inherited from
 
 [MovieSceneTrack](ue_ue.MovieSceneTrack.md).[GetWorld](ue_ue.MovieSceneTrack.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -381,10 +301,6 @@ ___
 
 [MovieSceneTrack](ue_ue.MovieSceneTrack.md).[Find](ue_ue.MovieSceneTrack.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:62966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62966)
-
 ___
 
 ### Load
@@ -405,10 +321,6 @@ ___
 
 [MovieSceneTrack](ue_ue.MovieSceneTrack.md).[Load](ue_ue.MovieSceneTrack.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:62967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62967)
-
 ___
 
 ### StaticClass
@@ -422,7 +334,3 @@ ___
 #### Overrides
 
 [MovieSceneTrack](ue_ue.MovieSceneTrack.md).[StaticClass](ue_ue.MovieSceneTrack.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:62965](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62965)

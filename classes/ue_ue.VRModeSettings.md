@@ -68,19 +68,11 @@
 
 [VISettings](ue_ue.VISettings.md).[constructor](ue_ue.VISettings.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:65973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65973)
-
 ## Properties
 
 ### DoubleClickTime
 
 • **DoubleClickTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:65982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65982)
 
 ___
 
@@ -88,19 +80,11 @@ ___
 
 • **GizmoScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:65981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65981)
-
 ___
 
 ### InteractorClass
 
 • **InteractorClass**: [`TSoftClassPtr`](../modules/ue_puerts.md#tsoftclassptr)<[`VREditorInteractor`](ue_ue.VREditorInteractor.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:65985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65985)
 
 ___
 
@@ -108,19 +92,11 @@ ___
 
 • **InteractorHand**: [`EInteractorHand`](../enums/ue_ue.EInteractorHand.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65976)
-
 ___
 
 ### TeleporterClass
 
 • **TeleporterClass**: [`TSoftClassPtr`](../modules/ue_puerts.md#tsoftclassptr)<[`VREditorTeleporter`](ue_ue.VREditorTeleporter.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:65986](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65986)
 
 ___
 
@@ -128,29 +104,17 @@ ___
 
 • **TriggerPressedThreshold\_Rift**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:65984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65984)
-
 ___
 
 ### TriggerPressedThreshold\_Vive
 
 • **TriggerPressedThreshold\_Vive**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:65983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65983)
-
 ___
 
 ### UIBrightness
 
 • **UIBrightness**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:65980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65980)
 
 ___
 
@@ -162,10 +126,6 @@ ___
 
 [VISettings](ue_ue.VISettings.md).[__tid_Object__](ue_ue.VISettings.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_VISettings\_\_
@@ -176,19 +136,11 @@ ___
 
 [VISettings](ue_ue.VISettings.md).[__tid_VISettings__](ue_ue.VISettings.md#__tid_visettings__)
 
-#### Defined in
-
-[ue/ue.d.ts:65269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65269)
-
 ___
 
 ### \_\_tid\_VRModeSettings\_\_
 
 • **\_\_tid\_VRModeSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:65991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65991)
 
 ___
 
@@ -200,29 +152,17 @@ ___
 
 [VISettings](ue_ue.VISettings.md).[bAllowSimultaneousWorldScalingAndRotation](ue_ue.VISettings.md#ballowsimultaneousworldscalingandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:65264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65264)
-
 ___
 
 ### bAutokeySequences
 
 • **bAutokeySequences**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:65975](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65975)
-
 ___
 
 ### bEnableAutoVREditMode
 
 • **bEnableAutoVREditMode**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:65974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65974)
 
 ___
 
@@ -234,10 +174,6 @@ ___
 
 [VISettings](ue_ue.VISettings.md).[bScaleWorldFromFloor](ue_ue.VISettings.md#bscaleworldfromfloor)
 
-#### Defined in
-
-[ue/ue.d.ts:65262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65262)
-
 ___
 
 ### bScaleWorldWithDynamicPivot
@@ -248,19 +184,11 @@ ___
 
 [VISettings](ue_ue.VISettings.md).[bScaleWorldWithDynamicPivot](ue_ue.VISettings.md#bscaleworldwithdynamicpivot)
 
-#### Defined in
-
-[ue/ue.d.ts:65263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65263)
-
 ___
 
 ### bShowWorldMovementGrid
 
 • **bShowWorldMovementGrid**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:65977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65977)
 
 ___
 
@@ -268,19 +196,11 @@ ___
 
 • **bShowWorldMovementPostProcess**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:65978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65978)
-
 ___
 
 ### bShowWorldScaleProgressBar
 
 • **bShowWorldScaleProgressBar**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:65979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65979)
 
 ## Methods
 
@@ -306,10 +226,6 @@ ___
 
 [VISettings](ue_ue.VISettings.md).[CreateDefaultSubobject](ue_ue.VISettings.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -330,10 +246,6 @@ ___
 
 [VISettings](ue_ue.VISettings.md).[ExecuteUbergraph](ue_ue.VISettings.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -347,10 +259,6 @@ ___
 #### Inherited from
 
 [VISettings](ue_ue.VISettings.md).[GetClass](ue_ue.VISettings.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -366,10 +274,6 @@ ___
 
 [VISettings](ue_ue.VISettings.md).[GetName](ue_ue.VISettings.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -384,10 +288,6 @@ ___
 
 [VISettings](ue_ue.VISettings.md).[GetOuter](ue_ue.VISettings.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -401,10 +301,6 @@ ___
 #### Inherited from
 
 [VISettings](ue_ue.VISettings.md).[GetWorld](ue_ue.VISettings.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -427,10 +323,6 @@ ___
 
 [VISettings](ue_ue.VISettings.md).[Find](ue_ue.VISettings.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:65988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65988)
-
 ___
 
 ### Load
@@ -451,10 +343,6 @@ ___
 
 [VISettings](ue_ue.VISettings.md).[Load](ue_ue.VISettings.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:65989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65989)
-
 ___
 
 ### StaticClass
@@ -468,7 +356,3 @@ ___
 #### Overrides
 
 [VISettings](ue_ue.VISettings.md).[StaticClass](ue_ue.VISettings.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:65987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65987)

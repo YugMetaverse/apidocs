@@ -28,19 +28,11 @@
 
 • **C** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33999)
-
 ___
 
 ### EMagicLeapHandTrackingGesture\_MAX
 
 • **EMagicLeapHandTrackingGesture\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33999)
 
 ___
 
@@ -48,19 +40,11 @@ ___
 
 • **Finger** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33999)
-
 ___
 
 ### Fist
 
 • **Fist** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33999)
 
 ___
 
@@ -68,19 +52,11 @@ ___
 
 • **L** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33999)
-
 ___
 
 ### NoHand
 
 • **NoHand** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33999)
 
 ___
 
@@ -88,19 +64,11 @@ ___
 
 • **NoPose** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33999)
-
 ___
 
 ### Ok
 
 • **Ok** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33999)
 
 ___
 
@@ -108,19 +76,11 @@ ___
 
 • **OpenHand** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33999)
-
 ___
 
 ### OpenHandBack
 
 • **OpenHandBack** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33999)
 
 ___
 
@@ -128,26 +88,14 @@ ___
 
 • **Pinch** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33999)
-
 ___
 
 ### Thumb
 
 • **Thumb** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33999)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33999)

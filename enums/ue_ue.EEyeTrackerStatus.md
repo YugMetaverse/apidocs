@@ -20,19 +20,11 @@
 
 • **EEyeTrackerStatus\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33846)
-
 ___
 
 ### NotConnected
 
 • **NotConnected** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33846)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **NotTracking** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33846)
-
 ___
 
 ### Tracking
 
 • **Tracking** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33846)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33846)

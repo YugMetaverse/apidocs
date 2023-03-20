@@ -30,10 +30,6 @@
 
 • **new SplineCurves**()
 
-#### Defined in
-
-[ue/ue.d.ts:25877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25877)
-
 • **new SplineCurves**(`Position`, `Rotation`, `Scale`, `ReparamTable`, `Metadata`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `ReparamTable` | [`InterpCurveFloat`](ue_ue.InterpCurveFloat.md) |
 | `Metadata` | [`SplineMetadata`](ue_ue.SplineMetadata.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:25878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25878)
-
 ## Properties
 
 ### Metadata
 
 • **Metadata**: [`SplineMetadata`](ue_ue.SplineMetadata.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25883)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **Position**: [`InterpCurveVector`](ue_ue.InterpCurveVector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25879)
-
 ___
 
 ### ReparamTable
 
 • **ReparamTable**: [`InterpCurveFloat`](ue_ue.InterpCurveFloat.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25882)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **Rotation**: [`InterpCurveQuat`](ue_ue.InterpCurveQuat.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25880)
-
 ___
 
 ### Scale
 
 • **Scale**: [`InterpCurveVector`](ue_ue.InterpCurveVector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25881)
-
 ___
 
 ### \_\_tid\_SplineCurves\_\_
 
 • `Private` **\_\_tid\_SplineCurves\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:25889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25889)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25887)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25888)

@@ -21,19 +21,11 @@
 
 • **EARTrackingState\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20837)
-
 ___
 
 ### NotTracking
 
 • **NotTracking** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20837)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **StoppedTracking** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20837)
-
 ___
 
 ### Tracking
 
 • **Tracking** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20837)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Unknown** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20837)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20837)

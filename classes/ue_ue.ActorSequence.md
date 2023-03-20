@@ -63,10 +63,6 @@
 
 [MovieSceneSequence](ue_ue.MovieSceneSequence.md).[constructor](ue_ue.MovieSceneSequence.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:14123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14123)
-
 ## Properties
 
 ### DefaultCompletionMode
@@ -77,29 +73,17 @@
 
 [MovieSceneSequence](ue_ue.MovieSceneSequence.md).[DefaultCompletionMode](ue_ue.MovieSceneSequence.md#defaultcompletionmode)
 
-#### Defined in
-
-[ue/ue.d.ts:11511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11511)
-
 ___
 
 ### MovieScene
 
 • **MovieScene**: [`MovieScene`](ue_ue.MovieScene.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14124)
-
 ___
 
 ### ObjectReferences
 
 • **ObjectReferences**: [`ActorSequenceObjectReferenceMap`](ue_ue.ActorSequenceObjectReferenceMap.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14125)
 
 ___
 
@@ -111,10 +95,6 @@ ___
 
 [MovieSceneSequence](ue_ue.MovieSceneSequence.md).[PrecompiledEvaluationTemplate](ue_ue.MovieSceneSequence.md#precompiledevaluationtemplate)
 
-#### Defined in
-
-[ue/ue.d.ts:11510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11510)
-
 ___
 
 ### Signature
@@ -125,19 +105,11 @@ ___
 
 [MovieSceneSequence](ue_ue.MovieSceneSequence.md).[Signature](ue_ue.MovieSceneSequence.md#signature)
 
-#### Defined in
-
-[ue/ue.d.ts:11034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11034)
-
 ___
 
 ### \_\_tid\_ActorSequence\_\_
 
 • **\_\_tid\_ActorSequence\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14131)
 
 ___
 
@@ -149,10 +121,6 @@ ___
 
 [MovieSceneSequence](ue_ue.MovieSceneSequence.md).[__tid_MovieSceneSequence__](ue_ue.MovieSceneSequence.md#__tid_moviescenesequence__)
 
-#### Defined in
-
-[ue/ue.d.ts:11520](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11520)
-
 ___
 
 ### \_\_tid\_MovieSceneSignedObject\_\_
@@ -162,10 +130,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequence](ue_ue.MovieSceneSequence.md).[__tid_MovieSceneSignedObject__](ue_ue.MovieSceneSequence.md#__tid_moviescenesignedobject__)
-
-#### Defined in
-
-[ue/ue.d.ts:11039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11039)
 
 ___
 
@@ -177,19 +141,11 @@ ___
 
 [MovieSceneSequence](ue_ue.MovieSceneSequence.md).[__tid_Object__](ue_ue.MovieSceneSequence.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bHasBeenInitialized
 
 • **bHasBeenInitialized**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14126)
 
 ___
 
@@ -201,10 +157,6 @@ ___
 
 [MovieSceneSequence](ue_ue.MovieSceneSequence.md).[bParentContextsAreSignificant](ue_ue.MovieSceneSequence.md#bparentcontextsaresignificant)
 
-#### Defined in
-
-[ue/ue.d.ts:11512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11512)
-
 ___
 
 ### bPlayableDirectly
@@ -214,10 +166,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequence](ue_ue.MovieSceneSequence.md).[bPlayableDirectly](ue_ue.MovieSceneSequence.md#bplayabledirectly)
-
-#### Defined in
-
-[ue/ue.d.ts:11513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11513)
 
 ## Methods
 
@@ -243,10 +191,6 @@ ___
 
 [MovieSceneSequence](ue_ue.MovieSceneSequence.md).[CreateDefaultSubobject](ue_ue.MovieSceneSequence.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -266,10 +210,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequence](ue_ue.MovieSceneSequence.md).[ExecuteUbergraph](ue_ue.MovieSceneSequence.md#executeubergraph)
-
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
 
 ___
 
@@ -291,10 +231,6 @@ ___
 
 [MovieSceneSequence](ue_ue.MovieSceneSequence.md).[FindBindingByTag](ue_ue.MovieSceneSequence.md#findbindingbytag)
 
-#### Defined in
-
-[ue/ue.d.ts:11514](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11514)
-
 ___
 
 ### FindBindingsByTag
@@ -315,10 +251,6 @@ ___
 
 [MovieSceneSequence](ue_ue.MovieSceneSequence.md).[FindBindingsByTag](ue_ue.MovieSceneSequence.md#findbindingsbytag)
 
-#### Defined in
-
-[ue/ue.d.ts:11515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11515)
-
 ___
 
 ### GetClass
@@ -332,10 +264,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequence](ue_ue.MovieSceneSequence.md).[GetClass](ue_ue.MovieSceneSequence.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -351,10 +279,6 @@ ___
 
 [MovieSceneSequence](ue_ue.MovieSceneSequence.md).[GetName](ue_ue.MovieSceneSequence.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -369,10 +293,6 @@ ___
 
 [MovieSceneSequence](ue_ue.MovieSceneSequence.md).[GetOuter](ue_ue.MovieSceneSequence.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -386,10 +306,6 @@ ___
 #### Inherited from
 
 [MovieSceneSequence](ue_ue.MovieSceneSequence.md).[GetWorld](ue_ue.MovieSceneSequence.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -412,10 +328,6 @@ ___
 
 [MovieSceneSequence](ue_ue.MovieSceneSequence.md).[Find](ue_ue.MovieSceneSequence.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:14128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14128)
-
 ___
 
 ### Load
@@ -436,10 +348,6 @@ ___
 
 [MovieSceneSequence](ue_ue.MovieSceneSequence.md).[Load](ue_ue.MovieSceneSequence.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:14129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14129)
-
 ___
 
 ### StaticClass
@@ -453,7 +361,3 @@ ___
 #### Overrides
 
 [MovieSceneSequence](ue_ue.MovieSceneSequence.md).[StaticClass](ue_ue.MovieSceneSequence.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:14127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14127)

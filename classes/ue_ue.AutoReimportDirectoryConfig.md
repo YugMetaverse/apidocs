@@ -28,10 +28,6 @@
 
 • **new AutoReimportDirectoryConfig**()
 
-#### Defined in
-
-[ue/ue.d.ts:33099](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33099)
-
 • **new AutoReimportDirectoryConfig**(`SourceDirectory`, `MountPoint`, `Wildcards`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `MountPoint` | `string` |
 | `Wildcards` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AutoReimportWildcard`](ue_ue.AutoReimportWildcard.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:33100](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33100)
-
 ## Properties
 
 ### MountPoint
 
 • **MountPoint**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:33102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33102)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **SourceDirectory**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:33101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33101)
-
 ___
 
 ### Wildcards
 
 • **Wildcards**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AutoReimportWildcard`](ue_ue.AutoReimportWildcard.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:33103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33103)
-
 ___
 
 ### \_\_tid\_AutoReimportDirectoryConfig\_\_
 
 • `Private` **\_\_tid\_AutoReimportDirectoryConfig\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33109](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33109)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33107](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33107)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33108)

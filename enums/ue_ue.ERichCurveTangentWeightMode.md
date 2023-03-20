@@ -21,19 +21,11 @@
 
 • **RCTWM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1634)
-
 ___
 
 ### RCTWM\_WeightedArrive
 
 • **RCTWM\_WeightedArrive** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1634)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **RCTWM\_WeightedBoth** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1634)
-
 ___
 
 ### RCTWM\_WeightedLeave
 
 • **RCTWM\_WeightedLeave** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1634)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **RCTWM\_WeightedNone** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1634)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1634)

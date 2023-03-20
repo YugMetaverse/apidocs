@@ -27,10 +27,6 @@
 
 • **new DebugDisplayProperty**()
 
-#### Defined in
-
-[ue/ue.d.ts:10134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10134)
-
 • **new DebugDisplayProperty**(`Obj`, `WithinClass`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Obj` | [`Object`](ue_ue.Object.md) |
 | `WithinClass` | [`Class`](ue_ue.Class.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:10135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10135)
-
 ## Properties
 
 ### Obj
 
 • **Obj**: [`Object`](ue_ue.Object.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10136)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **WithinClass**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10137)
-
 ___
 
 ### \_\_tid\_DebugDisplayProperty\_\_
 
 • `Private` **\_\_tid\_DebugDisplayProperty\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10143)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10141)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10142)

@@ -20,19 +20,11 @@
 
 • **Default** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1090)
-
 ___
 
 ### EMaterialFunctionUsage\_MAX
 
 • **EMaterialFunctionUsage\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1090)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **MaterialLayer** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1090)
-
 ___
 
 ### MaterialLayerBlend
 
 • **MaterialLayerBlend** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1090)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1090)

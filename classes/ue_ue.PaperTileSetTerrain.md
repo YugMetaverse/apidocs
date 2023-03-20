@@ -27,10 +27,6 @@
 
 • **new PaperTileSetTerrain**()
 
-#### Defined in
-
-[ue/ue.d.ts:55035](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55035)
-
 • **new PaperTileSetTerrain**(`TerrainName`, `CenterTileIndex`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `TerrainName` | `string` |
 | `CenterTileIndex` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:55036](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55036)
-
 ## Properties
 
 ### CenterTileIndex
 
 • **CenterTileIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:55038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55038)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **TerrainName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:55037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55037)
-
 ___
 
 ### \_\_tid\_PaperTileSetTerrain\_\_
 
 • `Private` **\_\_tid\_PaperTileSetTerrain\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55044)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:55042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55042)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:55043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55043)

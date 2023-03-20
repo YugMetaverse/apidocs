@@ -38,10 +38,6 @@
 
 [MovieSceneChannel](ue_ue.MovieSceneChannel.md).[constructor](ue_ue.MovieSceneChannel.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:51782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51782)
-
 • **new MovieSceneEventSectionData**(`Times`, `KeyValues`, `KeyTimes`)
 
 #### Parameters
@@ -56,19 +52,11 @@
 
 UE.MovieSceneChannel.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:51783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51783)
-
 ## Properties
 
 ### KeyTimes
 
 • **KeyTimes**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:51786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51786)
 
 ___
 
@@ -76,29 +64,17 @@ ___
 
 • **KeyValues**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`EventPayload`](ue_ue.EventPayload.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:51785](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51785)
-
 ___
 
 ### Times
 
 • **Times**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`FrameNumber`](ue_ue.FrameNumber.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:51784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51784)
-
 ___
 
 ### \_\_tid\_MovieSceneEventSectionData\_\_
 
 • `Private` **\_\_tid\_MovieSceneEventSectionData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:51792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51792)
 
 ## Methods
 
@@ -118,10 +94,6 @@ use StaticStruct instead.
 
 [MovieSceneChannel](ue_ue.MovieSceneChannel.md).[StaticClass](ue_ue.MovieSceneChannel.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:51790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51790)
-
 ___
 
 ### StaticStruct
@@ -135,7 +107,3 @@ ___
 #### Overrides
 
 [MovieSceneChannel](ue_ue.MovieSceneChannel.md).[StaticStruct](ue_ue.MovieSceneChannel.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:51791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51791)

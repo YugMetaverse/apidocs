@@ -22,19 +22,11 @@
 
 • **NS\_BalloonPrompted** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34653)
-
 ___
 
 ### NS\_DialogPrompted
 
 • **NS\_DialogPrompted** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34653)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **NS\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34653)
-
 ___
 
 ### NS\_PendingPrompt
 
 • **NS\_PendingPrompt** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34653)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **NS\_PendingWarning** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34653)
-
 ___
 
 ### NS\_Updating
 
 • **NS\_Updating** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34653)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34653)

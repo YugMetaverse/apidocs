@@ -19,19 +19,11 @@
 
 • **Angular** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17734)
-
 ___
 
 ### AnimPhysAngularConstraintType\_MAX
 
 • **AnimPhysAngularConstraintType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17734)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Cone** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17734)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17734)

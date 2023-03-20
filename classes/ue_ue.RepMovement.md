@@ -34,10 +34,6 @@
 
 • **new RepMovement**()
 
-#### Defined in
-
-[ue/ue.d.ts:223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L223)
-
 • **new RepMovement**(`LinearVelocity`, `AngularVelocity`, `Location`, `Rotation`, `bSimulatedPhysicSleep`, `bRepPhysics`, `LocationQuantizationLevel`, `VelocityQuantizationLevel`, `RotationQuantizationLevel`)
 
 #### Parameters
@@ -54,19 +50,11 @@
 | `VelocityQuantizationLevel` | [`EVectorQuantization`](../enums/ue_ue.EVectorQuantization.md) |
 | `RotationQuantizationLevel` | [`ERotatorQuantization`](../enums/ue_ue.ERotatorQuantization.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L224)
-
 ## Properties
 
 ### AngularVelocity
 
 • **AngularVelocity**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L226)
 
 ___
 
@@ -74,19 +62,11 @@ ___
 
 • **LinearVelocity**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L225)
-
 ___
 
 ### Location
 
 • **Location**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L227)
 
 ___
 
@@ -94,19 +74,11 @@ ___
 
 • **LocationQuantizationLevel**: [`EVectorQuantization`](../enums/ue_ue.EVectorQuantization.md)
 
-#### Defined in
-
-[ue/ue.d.ts:231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L231)
-
 ___
 
 ### Rotation
 
 • **Rotation**: [`Rotator`](ue_ue_s.Rotator.md)
-
-#### Defined in
-
-[ue/ue.d.ts:228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L228)
 
 ___
 
@@ -114,19 +86,11 @@ ___
 
 • **RotationQuantizationLevel**: [`ERotatorQuantization`](../enums/ue_ue.ERotatorQuantization.md)
 
-#### Defined in
-
-[ue/ue.d.ts:233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L233)
-
 ___
 
 ### VelocityQuantizationLevel
 
 • **VelocityQuantizationLevel**: [`EVectorQuantization`](../enums/ue_ue.EVectorQuantization.md)
-
-#### Defined in
-
-[ue/ue.d.ts:232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L232)
 
 ___
 
@@ -134,29 +98,17 @@ ___
 
 • `Private` **\_\_tid\_RepMovement\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L239)
-
 ___
 
 ### bRepPhysics
 
 • **bRepPhysics**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L230)
-
 ___
 
 ### bSimulatedPhysicSleep
 
 • **bSimulatedPhysicSleep**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L229)
 
 ## Methods
 
@@ -172,10 +124,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L237)
-
 ___
 
 ### StaticStruct
@@ -185,7 +133,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L238)

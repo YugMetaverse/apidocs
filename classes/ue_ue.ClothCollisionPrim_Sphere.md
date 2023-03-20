@@ -28,10 +28,6 @@
 
 • **new ClothCollisionPrim_Sphere**()
 
-#### Defined in
-
-[ue/ue.d.ts:27672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27672)
-
 • **new ClothCollisionPrim_Sphere**(`BoneIndex`, `Radius`, `LocalPosition`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Radius` | `number` |
 | `LocalPosition` | [`Vector`](ue_ue_s.Vector.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:27673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27673)
-
 ## Properties
 
 ### BoneIndex
 
 • **BoneIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27674)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **LocalPosition**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27676)
-
 ___
 
 ### Radius
 
 • **Radius**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27675)
-
 ___
 
 ### \_\_tid\_ClothCollisionPrim\_Sphere\_\_
 
 • `Private` **\_\_tid\_ClothCollisionPrim\_Sphere\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27682)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27680)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27681)

@@ -20,19 +20,11 @@
 
 • **IMR\_Ignore** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7609)
-
 ___
 
 ### IMR\_Keyframed
 
 • **IMR\_Keyframed** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7609)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **IMR\_LookAtGroup** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7609)
-
 ___
 
 ### IMR\_MAX
 
 • **IMR\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7609)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7609)

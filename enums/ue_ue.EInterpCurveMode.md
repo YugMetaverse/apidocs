@@ -23,19 +23,11 @@
 
 • **CIM\_Constant** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7553)
-
 ___
 
 ### CIM\_CurveAuto
 
 • **CIM\_CurveAuto** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7553)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **CIM\_CurveAutoClamped** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7553)
-
 ___
 
 ### CIM\_CurveBreak
 
 • **CIM\_CurveBreak** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7553)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **CIM\_CurveUser** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7553)
-
 ___
 
 ### CIM\_Linear
 
 • **CIM\_Linear** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7553)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **CIM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7553)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7553)

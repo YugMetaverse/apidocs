@@ -27,19 +27,11 @@
 
 • **ERSM\_1** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L368)
-
 ___
 
 ### ERSM\_128
 
 • **ERSM\_128** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L368)
 
 ___
 
@@ -47,19 +39,11 @@ ___
 
 • **ERSM\_16** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L368)
-
 ___
 
 ### ERSM\_2
 
 • **ERSM\_2** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L368)
 
 ___
 
@@ -67,19 +51,11 @@ ___
 
 • **ERSM\_255** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L368)
-
 ___
 
 ### ERSM\_32
 
 • **ERSM\_32** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L368)
 
 ___
 
@@ -87,19 +63,11 @@ ___
 
 • **ERSM\_4** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L368)
-
 ___
 
 ### ERSM\_64
 
 • **ERSM\_64** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L368)
 
 ___
 
@@ -107,19 +75,11 @@ ___
 
 • **ERSM\_8** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L368)
-
 ___
 
 ### ERSM\_Default
 
 • **ERSM\_Default** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L368)
 
 ___
 
@@ -127,16 +87,8 @@ ___
 
 • **ERSM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L368)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L368)

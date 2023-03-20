@@ -20,19 +20,11 @@
 
 • **ESpawnOwnership\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11552)
-
 ___
 
 ### External
 
 • **External** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11552)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **InnerSequence** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11552)
-
 ___
 
 ### MasterSequence
 
 • **MasterSequence** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11552)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11552)

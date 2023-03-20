@@ -43,10 +43,6 @@
 
 `void`
 
-#### Defined in
-
-[ue/puerts.d.ts:65](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L65)
-
 ___
 
 ### Empty
@@ -56,10 +52,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/puerts.d.ts:73](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L73)
 
 ___
 
@@ -77,10 +69,6 @@ ___
 
 `undefined` \| `TValue`
 
-#### Defined in
-
-[ue/puerts.d.ts:66](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L66)
-
 ___
 
 ### GetKey
@@ -97,10 +85,6 @@ ___
 
 `TKey`
 
-#### Defined in
-
-[ue/puerts.d.ts:72](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L72)
-
 ___
 
 ### GetMaxIndex
@@ -110,10 +94,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/puerts.d.ts:70](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L70)
 
 ___
 
@@ -131,10 +111,6 @@ ___
 
 `undefined` \| `TValue`
 
-#### Defined in
-
-[ue/puerts.d.ts:67](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L67)
-
 ___
 
 ### IsValidIndex
@@ -151,10 +127,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/puerts.d.ts:71](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L71)
-
 ___
 
 ### Num
@@ -164,10 +136,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/puerts.d.ts:64](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L64)
 
 ___
 
@@ -185,10 +153,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/puerts.d.ts:69](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L69)
-
 ___
 
 ### Set
@@ -205,7 +169,3 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/puerts.d.ts:68](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L68)

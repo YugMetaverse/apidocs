@@ -26,10 +26,6 @@
 
 • **new BandwidthTestGenerator**()
 
-#### Defined in
-
-[ue/ue.d.ts:23469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23469)
-
 • **new BandwidthTestGenerator**(`ReplicatedBuffers`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `ReplicatedBuffers` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BandwidthTestItem`](ue_ue.BandwidthTestItem.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:23470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23470)
-
 ## Properties
 
 ### ReplicatedBuffers
 
 • **ReplicatedBuffers**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BandwidthTestItem`](ue_ue.BandwidthTestItem.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:23471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23471)
-
 ___
 
 ### \_\_tid\_BandwidthTestGenerator\_\_
 
 • `Private` **\_\_tid\_BandwidthTestGenerator\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:23477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23477)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23475)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:23476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23476)

@@ -34,10 +34,6 @@
 
 • **new ParticleEvent_GenerateInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:6953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6953)
-
 • **new ParticleEvent_GenerateInfo**(`Type`, `Frequency`, `ParticleFrequency`, `FirstTimeOnly`, `LastTimeOnly`, `UseReflectedImpactVector`, `bUseOrbitOffset`, `CustomName`, `ParticleModuleEventsToSendToGame`)
 
 #### Parameters
@@ -54,19 +50,11 @@
 | `CustomName` | `string` |
 | `ParticleModuleEventsToSendToGame` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ParticleModuleEventSendToGame`](ue_ue.ParticleModuleEventSendToGame.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:6954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6954)
-
 ## Properties
 
 ### CustomName
 
 • **CustomName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:6962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6962)
 
 ___
 
@@ -74,19 +62,11 @@ ___
 
 • **FirstTimeOnly**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6958)
-
 ___
 
 ### Frequency
 
 • **Frequency**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6956)
 
 ___
 
@@ -94,19 +74,11 @@ ___
 
 • **LastTimeOnly**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6959)
-
 ___
 
 ### ParticleFrequency
 
 • **ParticleFrequency**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6957)
 
 ___
 
@@ -114,19 +86,11 @@ ___
 
 • **ParticleModuleEventsToSendToGame**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ParticleModuleEventSendToGame`](ue_ue.ParticleModuleEventSendToGame.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:6963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6963)
-
 ___
 
 ### Type
 
 • **Type**: [`EParticleEventType`](../enums/ue_ue.EParticleEventType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6955)
 
 ___
 
@@ -134,29 +98,17 @@ ___
 
 • **UseReflectedImpactVector**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6960)
-
 ___
 
 ### \_\_tid\_ParticleEvent\_GenerateInfo\_\_
 
 • `Private` **\_\_tid\_ParticleEvent\_GenerateInfo\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6969)
-
 ___
 
 ### bUseOrbitOffset
 
 • **bUseOrbitOffset**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6961)
 
 ## Methods
 
@@ -172,10 +124,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6967)
-
 ___
 
 ### StaticStruct
@@ -185,7 +133,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6968)

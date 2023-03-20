@@ -21,19 +21,11 @@
 
 • **Disabled** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31425)
-
 ___
 
 ### ECustomDepthStencil\_MAX
 
 • **ECustomDepthStencil\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31425)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Enabled** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31425)
-
 ___
 
 ### EnabledOnDemand
 
 • **EnabledOnDemand** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31425)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **EnabledWithStencil** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31425)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31425)

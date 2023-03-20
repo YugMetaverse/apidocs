@@ -27,10 +27,6 @@
 
 • **new MovieSceneEventPtrs**()
 
-#### Defined in
-
-[ue/ue.d.ts:51680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51680)
-
 • **new MovieSceneEventPtrs**(`Function`, `BoundObjectProperty`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Function` | [`Function`](ue_ue.Function.md) |
 | `BoundObjectProperty` | [`Property`](ue_ue.Property.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:51681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51681)
-
 ## Properties
 
 ### BoundObjectProperty
 
 • **BoundObjectProperty**: [`Property`](ue_ue.Property.md)
-
-#### Defined in
-
-[ue/ue.d.ts:51683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51683)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Function**: [`Function`](ue_ue.Function.md)
 
-#### Defined in
-
-[ue/ue.d.ts:51682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51682)
-
 ___
 
 ### \_\_tid\_MovieSceneEventPtrs\_\_
 
 • `Private` **\_\_tid\_MovieSceneEventPtrs\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:51689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51689)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:51687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51687)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:51688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51688)

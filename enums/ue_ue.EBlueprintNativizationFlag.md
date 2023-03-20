@@ -20,19 +20,11 @@
 
 • **Dependency** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4086](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4086)
-
 ___
 
 ### Disabled
 
 • **Disabled** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4086](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4086)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **EBlueprintNativizationFlag\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4086](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4086)
-
 ___
 
 ### ExplicitlyEnabled
 
 • **ExplicitlyEnabled** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4086](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4086)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4086](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4086)

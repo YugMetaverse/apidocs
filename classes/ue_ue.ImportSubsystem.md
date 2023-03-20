@@ -62,19 +62,11 @@
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[constructor](ue_ue.EditorSubsystem.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:38924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38924)
-
 ## Properties
 
 ### OnAssetPostImport\_BP
 
 • **OnAssetPostImport\_BP**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`InFactory`: [`$Nullable`](../modules/puerts.md#$nullable)<[`Factory`](ue_ue.Factory.md)\>, `InCreatedObject`: [`$Nullable`](../modules/puerts.md#$nullable)<[`Object`](ue_ue.Object.md)\>) => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:38926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38926)
 
 ___
 
@@ -82,29 +74,17 @@ ___
 
 • **OnAssetPostLODImport\_BP**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`InObject`: [`$Nullable`](../modules/puerts.md#$nullable)<[`Object`](ue_ue.Object.md)\>, `InLODIndex`: `number`) => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:38928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38928)
-
 ___
 
 ### OnAssetPreImport\_BP
 
 • **OnAssetPreImport\_BP**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`InFactory`: [`$Nullable`](../modules/puerts.md#$nullable)<[`Factory`](ue_ue.Factory.md)\>, `InClass`: [`$Nullable`](../modules/puerts.md#$nullable)<[`Class`](ue_ue.Class.md)\>, `InParent`: [`$Nullable`](../modules/puerts.md#$nullable)<[`Object`](ue_ue.Object.md)\>, `Name`: `string`, `Type`: `string`) => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:38925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38925)
-
 ___
 
 ### OnAssetReimport\_BP
 
 • **OnAssetReimport\_BP**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`InCreatedObject`: [`$Nullable`](../modules/puerts.md#$nullable)<[`Object`](ue_ue.Object.md)\>) => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:38927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38927)
 
 ___
 
@@ -116,10 +96,6 @@ ___
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[__tid_DynamicSubsystem__](ue_ue.EditorSubsystem.md#__tid_dynamicsubsystem__)
 
-#### Defined in
-
-[ue/ue.d.ts:21573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21573)
-
 ___
 
 ### \_\_tid\_EditorSubsystem\_\_
@@ -130,19 +106,11 @@ ___
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[__tid_EditorSubsystem__](ue_ue.EditorSubsystem.md#__tid_editorsubsystem__)
 
-#### Defined in
-
-[ue/ue.d.ts:21582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21582)
-
 ___
 
 ### \_\_tid\_ImportSubsystem\_\_
 
 • **\_\_tid\_ImportSubsystem\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38937)
 
 ___
 
@@ -154,10 +122,6 @@ ___
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[__tid_Object__](ue_ue.EditorSubsystem.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_Subsystem\_\_
@@ -167,10 +131,6 @@ ___
 #### Inherited from
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[__tid_Subsystem__](ue_ue.EditorSubsystem.md#__tid_subsystem__)
-
-#### Defined in
-
-[ue/ue.d.ts:21564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21564)
 
 ## Methods
 
@@ -196,10 +156,6 @@ ___
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[CreateDefaultSubobject](ue_ue.EditorSubsystem.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -220,10 +176,6 @@ ___
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[ExecuteUbergraph](ue_ue.EditorSubsystem.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -237,10 +189,6 @@ ___
 #### Inherited from
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[GetClass](ue_ue.EditorSubsystem.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -256,10 +204,6 @@ ___
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[GetName](ue_ue.EditorSubsystem.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -274,10 +218,6 @@ ___
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[GetOuter](ue_ue.EditorSubsystem.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -291,10 +231,6 @@ ___
 #### Inherited from
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[GetWorld](ue_ue.EditorSubsystem.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -313,10 +249,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:38929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38929)
-
 ___
 
 ### OnAssetPostLODImport\_Dyn\_\_DelegateSignature
@@ -333,10 +265,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:38930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38930)
 
 ___
 
@@ -358,10 +286,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:38931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38931)
-
 ___
 
 ### OnAssetReimport\_Dyn\_\_DelegateSignature
@@ -377,10 +301,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:38932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38932)
 
 ___
 
@@ -403,10 +323,6 @@ ___
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[Find](ue_ue.EditorSubsystem.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:38934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38934)
-
 ___
 
 ### Load
@@ -427,10 +343,6 @@ ___
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[Load](ue_ue.EditorSubsystem.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:38935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38935)
-
 ___
 
 ### StaticClass
@@ -444,7 +356,3 @@ ___
 #### Overrides
 
 [EditorSubsystem](ue_ue.EditorSubsystem.md).[StaticClass](ue_ue.EditorSubsystem.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:38933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38933)

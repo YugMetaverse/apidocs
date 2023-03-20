@@ -35,10 +35,6 @@
 
 • **new SplineMeshParams**()
 
-#### Defined in
-
-[ue/ue.d.ts:26038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26038)
-
 • **new SplineMeshParams**(`StartPos`, `StartTangent`, `StartScale`, `StartRoll`, `StartOffset`, `EndPos`, `EndScale`, `EndTangent`, `EndRoll`, `EndOffset`)
 
 #### Parameters
@@ -56,19 +52,11 @@
 | `EndRoll` | `number` |
 | `EndOffset` | [`Vector2D`](ue_ue_s.Vector2D.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:26039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26039)
-
 ## Properties
 
 ### EndOffset
 
 • **EndOffset**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26049)
 
 ___
 
@@ -76,19 +64,11 @@ ___
 
 • **EndPos**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26045)
-
 ___
 
 ### EndRoll
 
 • **EndRoll**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26048](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26048)
 
 ___
 
@@ -96,19 +76,11 @@ ___
 
 • **EndScale**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26046](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26046)
-
 ___
 
 ### EndTangent
 
 • **EndTangent**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26047)
 
 ___
 
@@ -116,19 +88,11 @@ ___
 
 • **StartOffset**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26044)
-
 ___
 
 ### StartPos
 
 • **StartPos**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26040](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26040)
 
 ___
 
@@ -136,19 +100,11 @@ ___
 
 • **StartRoll**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26043)
-
 ___
 
 ### StartScale
 
 • **StartScale**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26042)
 
 ___
 
@@ -156,19 +112,11 @@ ___
 
 • **StartTangent**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26041](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26041)
-
 ___
 
 ### \_\_tid\_SplineMeshParams\_\_
 
 • `Private` **\_\_tid\_SplineMeshParams\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26055)
 
 ## Methods
 
@@ -184,10 +132,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26053)
-
 ___
 
 ### StaticStruct
@@ -197,7 +141,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26054)

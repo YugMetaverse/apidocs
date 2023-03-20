@@ -19,19 +19,11 @@
 
 • **CABM\_Cubic** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31390)
-
 ___
 
 ### CABM\_Linear
 
 • **CABM\_Linear** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31390)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **CABM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31390)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31390)

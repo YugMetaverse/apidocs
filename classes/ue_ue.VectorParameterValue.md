@@ -29,10 +29,6 @@
 
 • **new VectorParameterValue**()
 
-#### Defined in
-
-[ue/ue.d.ts:1746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1746)
-
 • **new VectorParameterValue**(`ParameterName`, `ParameterInfo`, `ParameterValue`, `ExpressionGUID`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `ParameterValue` | [`LinearColor`](ue_ue_s.LinearColor.md) |
 | `ExpressionGUID` | [`Guid`](ue_ue_s.Guid.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:1747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1747)
-
 ## Properties
 
 ### ExpressionGUID
 
 • **ExpressionGUID**: [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1751)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **ParameterInfo**: [`MaterialParameterInfo`](ue_ue.MaterialParameterInfo.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1749)
-
 ___
 
 ### ParameterName
 
 • **ParameterName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:1748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1748)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **ParameterValue**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1750)
-
 ___
 
 ### \_\_tid\_VectorParameterValue\_\_
 
 • `Private` **\_\_tid\_VectorParameterValue\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1757)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1755)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1756)

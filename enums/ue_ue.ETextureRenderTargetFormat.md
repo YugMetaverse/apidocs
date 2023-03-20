@@ -28,19 +28,11 @@
 
 • **RTF\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26195)
-
 ___
 
 ### RTF\_R16f
 
 • **RTF\_R16f** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26195)
 
 ___
 
@@ -48,19 +40,11 @@ ___
 
 • **RTF\_R32f** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26195)
-
 ___
 
 ### RTF\_R8
 
 • **RTF\_R8** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26195)
 
 ___
 
@@ -68,19 +52,11 @@ ___
 
 • **RTF\_RG16f** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26195)
-
 ___
 
 ### RTF\_RG32f
 
 • **RTF\_RG32f** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26195)
 
 ___
 
@@ -88,19 +64,11 @@ ___
 
 • **RTF\_RG8** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26195)
-
 ___
 
 ### RTF\_RGB10A2
 
 • **RTF\_RGB10A2** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26195)
 
 ___
 
@@ -108,19 +76,11 @@ ___
 
 • **RTF\_RGBA16f** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26195)
-
 ___
 
 ### RTF\_RGBA32f
 
 • **RTF\_RGBA32f** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26195)
 
 ___
 
@@ -128,26 +88,14 @@ ___
 
 • **RTF\_RGBA8** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26195)
-
 ___
 
 ### RTF\_RGBA8\_SRGB
 
 • **RTF\_RGBA8\_SRGB** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26195)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26195)

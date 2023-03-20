@@ -41,10 +41,6 @@
 
 • **new LevelSimplificationDetails**()
 
-#### Defined in
-
-[ue/ue.d.ts:8643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8643)
-
 • **new LevelSimplificationDetails**(`bCreatePackagePerAsset`, `DetailsPercentage`, `StaticMeshMaterialSettings`, `bOverrideLandscapeExportLOD`, `LandscapeExportLOD`, `LandscapeMaterialSettings`, `bBakeFoliageToLandscape`, `bBakeGrassToLandscape`, `bGenerateMeshNormalMap`, `bGenerateMeshMetallicMap`, `bGenerateMeshRoughnessMap`, `bGenerateMeshSpecularMap`, `bGenerateLandscapeNormalMap`, `bGenerateLandscapeMetallicMap`, `bGenerateLandscapeRoughnessMap`, `bGenerateLandscapeSpecularMap`)
 
 #### Parameters
@@ -68,19 +64,11 @@
 | `bGenerateLandscapeRoughnessMap` | `boolean` |
 | `bGenerateLandscapeSpecularMap` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:8644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8644)
-
 ## Properties
 
 ### DetailsPercentage
 
 • **DetailsPercentage**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8646)
 
 ___
 
@@ -88,19 +76,11 @@ ___
 
 • **LandscapeExportLOD**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8649)
-
 ___
 
 ### LandscapeMaterialSettings
 
 • **LandscapeMaterialSettings**: [`MaterialProxySettings`](ue_ue.MaterialProxySettings.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8650)
 
 ___
 
@@ -108,19 +88,11 @@ ___
 
 • **StaticMeshMaterialSettings**: [`MaterialProxySettings`](ue_ue.MaterialProxySettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8647)
-
 ___
 
 ### \_\_tid\_LevelSimplificationDetails\_\_
 
 • `Private` **\_\_tid\_LevelSimplificationDetails\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8666)
 
 ___
 
@@ -128,19 +100,11 @@ ___
 
 • **bBakeFoliageToLandscape**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8651)
-
 ___
 
 ### bBakeGrassToLandscape
 
 • **bBakeGrassToLandscape**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8652)
 
 ___
 
@@ -148,19 +112,11 @@ ___
 
 • **bCreatePackagePerAsset**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8645)
-
 ___
 
 ### bGenerateLandscapeMetallicMap
 
 • **bGenerateLandscapeMetallicMap**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8658)
 
 ___
 
@@ -168,19 +124,11 @@ ___
 
 • **bGenerateLandscapeNormalMap**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8657)
-
 ___
 
 ### bGenerateLandscapeRoughnessMap
 
 • **bGenerateLandscapeRoughnessMap**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8659)
 
 ___
 
@@ -188,19 +136,11 @@ ___
 
 • **bGenerateLandscapeSpecularMap**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8660)
-
 ___
 
 ### bGenerateMeshMetallicMap
 
 • **bGenerateMeshMetallicMap**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8654)
 
 ___
 
@@ -208,19 +148,11 @@ ___
 
 • **bGenerateMeshNormalMap**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8653)
-
 ___
 
 ### bGenerateMeshRoughnessMap
 
 • **bGenerateMeshRoughnessMap**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8655)
 
 ___
 
@@ -228,19 +160,11 @@ ___
 
 • **bGenerateMeshSpecularMap**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8656)
-
 ___
 
 ### bOverrideLandscapeExportLOD
 
 • **bOverrideLandscapeExportLOD**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8648)
 
 ## Methods
 
@@ -256,10 +180,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8664)
-
 ___
 
 ### StaticStruct
@@ -269,7 +189,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8665)

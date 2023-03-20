@@ -82,19 +82,11 @@
 
 [GameInstance](ue_ue.GameInstance.md).[constructor](ue_ue.GameInstance.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:58037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58037)
-
 ## Properties
 
 ### ApplicationFailedToRegisterForRemoteNotificationsDelegate
 
 • **ApplicationFailedToRegisterForRemoteNotificationsDelegate**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`inString`: `string`) => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:58047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58047)
 
 ___
 
@@ -102,19 +94,11 @@ ___
 
 • **ApplicationHasEnteredForegroundDelegate**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<() => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:58041](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58041)
-
 ___
 
 ### ApplicationHasReactivatedDelegate
 
 • **ApplicationHasReactivatedDelegate**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<() => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:58039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58039)
 
 ___
 
@@ -122,19 +106,11 @@ ___
 
 • **ApplicationReceivedLocalNotificationDelegate**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`inString`: `string`, `inInt`: `number`, `inAppState`: [`EApplicationState`](../enums/ue_ue.EApplicationState.md)) => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:58049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58049)
-
 ___
 
 ### ApplicationReceivedRemoteNotificationDelegate
 
 • **ApplicationReceivedRemoteNotificationDelegate**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`inString`: `string`, `inAppState`: [`EApplicationState`](../enums/ue_ue.EApplicationState.md)) => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:58048](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58048)
 
 ___
 
@@ -142,19 +118,11 @@ ___
 
 • **ApplicationReceivedScreenOrientationChangedNotificationDelegate**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`inScreenOrientation`: [`EScreenOrientation`](../enums/ue_ue.EScreenOrientation.md)) => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:58050](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58050)
-
 ___
 
 ### ApplicationReceivedStartupArgumentsDelegate
 
 • **ApplicationReceivedStartupArgumentsDelegate**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`StartupArguments`: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>) => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:58044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58044)
 
 ___
 
@@ -162,19 +130,11 @@ ___
 
 • **ApplicationRegisteredForRemoteNotificationsDelegate**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`inArray`: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>) => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:58045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58045)
-
 ___
 
 ### ApplicationRegisteredForUserNotificationsDelegate
 
 • **ApplicationRegisteredForUserNotificationsDelegate**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`inInt`: `number`) => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:58046](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58046)
 
 ___
 
@@ -182,19 +142,11 @@ ___
 
 • **ApplicationShouldUnloadResourcesDelegate**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<() => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:58043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58043)
-
 ___
 
 ### ApplicationWillDeactivateDelegate
 
 • **ApplicationWillDeactivateDelegate**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<() => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:58038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58038)
 
 ___
 
@@ -202,19 +154,11 @@ ___
 
 • **ApplicationWillEnterBackgroundDelegate**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<() => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:58040](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58040)
-
 ___
 
 ### ApplicationWillTerminateDelegate
 
 • **ApplicationWillTerminateDelegate**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<() => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:58042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58042)
 
 ___
 
@@ -226,10 +170,6 @@ ___
 
 [GameInstance](ue_ue.GameInstance.md).[LocalPlayers](ue_ue.GameInstance.md#localplayers)
 
-#### Defined in
-
-[ue/ue.d.ts:10190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10190)
-
 ___
 
 ### OnlineSession
@@ -239,10 +179,6 @@ ___
 #### Inherited from
 
 [GameInstance](ue_ue.GameInstance.md).[OnlineSession](ue_ue.GameInstance.md#onlinesession)
-
-#### Defined in
-
-[ue/ue.d.ts:10191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10191)
 
 ___
 
@@ -254,10 +190,6 @@ ___
 
 [GameInstance](ue_ue.GameInstance.md).[ReferencedObjects](ue_ue.GameInstance.md#referencedobjects)
 
-#### Defined in
-
-[ue/ue.d.ts:10192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10192)
-
 ___
 
 ### \_\_tid\_GameInstance\_\_
@@ -267,10 +199,6 @@ ___
 #### Inherited from
 
 [GameInstance](ue_ue.GameInstance.md).[__tid_GameInstance__](ue_ue.GameInstance.md#__tid_gameinstance__)
-
-#### Defined in
-
-[ue/ue.d.ts:10203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10203)
 
 ___
 
@@ -282,19 +210,11 @@ ___
 
 [GameInstance](ue_ue.GameInstance.md).[__tid_Object__](ue_ue.GameInstance.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PlatformGameInstance\_\_
 
 • **\_\_tid\_PlatformGameInstance\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58063)
 
 ## Methods
 
@@ -320,10 +240,6 @@ ___
 
 [GameInstance](ue_ue.GameInstance.md).[CreateDefaultSubobject](ue_ue.GameInstance.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### DebugCreatePlayer
@@ -343,10 +259,6 @@ ___
 #### Inherited from
 
 [GameInstance](ue_ue.GameInstance.md).[DebugCreatePlayer](ue_ue.GameInstance.md#debugcreateplayer)
-
-#### Defined in
-
-[ue/ue.d.ts:10193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10193)
 
 ___
 
@@ -368,10 +280,6 @@ ___
 
 [GameInstance](ue_ue.GameInstance.md).[DebugRemovePlayer](ue_ue.GameInstance.md#debugremoveplayer)
 
-#### Defined in
-
-[ue/ue.d.ts:10194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10194)
-
 ___
 
 ### ExecuteUbergraph
@@ -392,10 +300,6 @@ ___
 
 [GameInstance](ue_ue.GameInstance.md).[ExecuteUbergraph](ue_ue.GameInstance.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -409,10 +313,6 @@ ___
 #### Inherited from
 
 [GameInstance](ue_ue.GameInstance.md).[GetClass](ue_ue.GameInstance.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -428,10 +328,6 @@ ___
 
 [GameInstance](ue_ue.GameInstance.md).[GetName](ue_ue.GameInstance.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -446,10 +342,6 @@ ___
 
 [GameInstance](ue_ue.GameInstance.md).[GetOuter](ue_ue.GameInstance.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -463,10 +355,6 @@ ___
 #### Inherited from
 
 [GameInstance](ue_ue.GameInstance.md).[GetWorld](ue_ue.GameInstance.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -489,10 +377,6 @@ ___
 
 [GameInstance](ue_ue.GameInstance.md).[HandleNetworkError](ue_ue.GameInstance.md#handlenetworkerror)
 
-#### Defined in
-
-[ue/ue.d.ts:10195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10195)
-
 ___
 
 ### HandleTravelError
@@ -513,10 +397,6 @@ ___
 
 [GameInstance](ue_ue.GameInstance.md).[HandleTravelError](ue_ue.GameInstance.md#handletravelerror)
 
-#### Defined in
-
-[ue/ue.d.ts:10196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10196)
-
 ___
 
 ### PlatformDelegate\_\_DelegateSignature
@@ -526,10 +406,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:58051](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58051)
 
 ___
 
@@ -546,10 +422,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:58052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58052)
 
 ___
 
@@ -569,10 +441,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:58053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58053)
-
 ___
 
 ### PlatformReceivedRemoteNotificationDelegate\_\_DelegateSignature
@@ -590,10 +458,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:58054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58054)
-
 ___
 
 ### PlatformRegisteredForRemoteNotificationsDelegate\_\_DelegateSignature
@@ -609,10 +473,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:58055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58055)
 
 ___
 
@@ -630,10 +490,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:58056](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58056)
-
 ___
 
 ### PlatformScreenOrientationChangedDelegate\_\_DelegateSignature
@@ -649,10 +505,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:58057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58057)
 
 ___
 
@@ -670,10 +522,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:58058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58058)
-
 ___
 
 ### ReceiveInit
@@ -688,10 +536,6 @@ ___
 
 [GameInstance](ue_ue.GameInstance.md).[ReceiveInit](ue_ue.GameInstance.md#receiveinit)
 
-#### Defined in
-
-[ue/ue.d.ts:10197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10197)
-
 ___
 
 ### ReceiveShutdown
@@ -705,10 +549,6 @@ ___
 #### Inherited from
 
 [GameInstance](ue_ue.GameInstance.md).[ReceiveShutdown](ue_ue.GameInstance.md#receiveshutdown)
-
-#### Defined in
-
-[ue/ue.d.ts:10198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10198)
 
 ___
 
@@ -731,10 +571,6 @@ ___
 
 [GameInstance](ue_ue.GameInstance.md).[Find](ue_ue.GameInstance.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:58060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58060)
-
 ___
 
 ### Load
@@ -755,10 +591,6 @@ ___
 
 [GameInstance](ue_ue.GameInstance.md).[Load](ue_ue.GameInstance.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:58061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58061)
-
 ___
 
 ### StaticClass
@@ -772,7 +604,3 @@ ___
 #### Overrides
 
 [GameInstance](ue_ue.GameInstance.md).[StaticClass](ue_ue.GameInstance.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:58059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58059)

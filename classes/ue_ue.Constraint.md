@@ -29,10 +29,6 @@
 
 • **new Constraint**()
 
-#### Defined in
-
-[ue/ue.d.ts:18297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18297)
-
 • **new Constraint**(`TargetBone`, `OffsetOption`, `TransformType`, `PerAxis`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `TransformType` | [`ETransformConstraintType`](../enums/ue_ue.ETransformConstraintType.md) |
 | `PerAxis` | [`FilterOptionPerAxis`](ue_ue.FilterOptionPerAxis.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:18298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18298)
-
 ## Properties
 
 ### OffsetOption
 
 • **OffsetOption**: [`EConstraintOffsetOption`](../enums/ue_ue.EConstraintOffsetOption.md)
-
-#### Defined in
-
-[ue/ue.d.ts:18300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18300)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **PerAxis**: [`FilterOptionPerAxis`](ue_ue.FilterOptionPerAxis.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18302)
-
 ___
 
 ### TargetBone
 
 • **TargetBone**: [`BoneReference`](ue_ue.BoneReference.md)
-
-#### Defined in
-
-[ue/ue.d.ts:18299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18299)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **TransformType**: [`ETransformConstraintType`](../enums/ue_ue.ETransformConstraintType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18301)
-
 ___
 
 ### \_\_tid\_Constraint\_\_
 
 • `Private` **\_\_tid\_Constraint\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18308)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18306)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:18307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18307)

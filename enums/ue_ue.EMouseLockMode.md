@@ -21,19 +21,11 @@
 
 • **DoNotLock** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34064)
-
 ___
 
 ### EMouseLockMode\_MAX
 
 • **EMouseLockMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34064)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **LockAlways** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34064)
-
 ___
 
 ### LockInFullscreen
 
 • **LockInFullscreen** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34064)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **LockOnCapture** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34064)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34064)

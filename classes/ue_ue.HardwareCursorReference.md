@@ -27,10 +27,6 @@
 
 • **new HardwareCursorReference**()
 
-#### Defined in
-
-[ue/ue.d.ts:64925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64925)
-
 • **new HardwareCursorReference**(`CursorPath`, `HotSpot`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `CursorPath` | `string` |
 | `HotSpot` | [`Vector2D`](ue_ue_s.Vector2D.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:64926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64926)
-
 ## Properties
 
 ### CursorPath
 
 • **CursorPath**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:64927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64927)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **HotSpot**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64928)
-
 ___
 
 ### \_\_tid\_HardwareCursorReference\_\_
 
 • `Private` **\_\_tid\_HardwareCursorReference\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64934)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64932)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:64933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64933)

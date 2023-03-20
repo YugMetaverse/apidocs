@@ -29,10 +29,6 @@
 
 • **new LatentActionInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:12218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12218)
-
 • **new LatentActionInfo**(`Linkage`, `UUID`, `ExecutionFunction`, `CallbackTarget`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `ExecutionFunction` | `string` |
 | `CallbackTarget` | [`Object`](ue_ue.Object.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:12219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12219)
-
 ## Properties
 
 ### CallbackTarget
 
 • **CallbackTarget**: [`Object`](ue_ue.Object.md)
-
-#### Defined in
-
-[ue/ue.d.ts:12223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12223)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **ExecutionFunction**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:12222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12222)
-
 ___
 
 ### Linkage
 
 • **Linkage**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12220)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **UUID**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12221)
-
 ___
 
 ### \_\_tid\_LatentActionInfo\_\_
 
 • `Private` **\_\_tid\_LatentActionInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:12229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12229)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:12227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12227)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:12228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12228)

@@ -19,19 +19,11 @@
 
 • **EMPT\_AllSections** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20286)
-
 ___
 
 ### EMPT\_MAX
 
 • **EMPT\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20286)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **EMPT\_Normal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20286)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20286)

@@ -35,10 +35,6 @@
 
 • **new CollectionParameterBase**()
 
-#### Defined in
-
-[ue/ue.d.ts:1345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1345)
-
 • **new CollectionParameterBase**(`ParameterName`, `Id`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `ParameterName` | `string` |
 | `Id` | [`Guid`](ue_ue_s.Guid.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:1346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1346)
-
 ## Properties
 
 ### Id
 
 • **Id**: [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1348)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **ParameterName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:1347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1347)
-
 ___
 
 ### \_\_tid\_CollectionParameterBase\_\_
 
 • `Private` **\_\_tid\_CollectionParameterBase\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1354)
 
 ## Methods
 
@@ -96,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1352)
-
 ___
 
 ### StaticStruct
@@ -109,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1353)

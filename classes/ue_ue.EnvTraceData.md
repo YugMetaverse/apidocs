@@ -43,10 +43,6 @@
 
 • **new EnvTraceData**()
 
-#### Defined in
-
-[ue/ue.d.ts:34284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34284)
-
 • **new EnvTraceData**(`VersionNum`, `NavigationFilter`, `ProjectDown`, `ProjectUp`, `ExtentX`, `ExtentY`, `ExtentZ`, `PostProjectionVerticalOffset`, `TraceChannel`, `SerializedChannel`, `TraceShape`, `TraceMode`, `bTraceComplex`, `bOnlyBlockingHits`, `bCanTraceOnNavMesh`, `bCanTraceOnGeometry`, `bCanDisableTrace`, `bCanProjectDown`)
 
 #### Parameters
@@ -72,19 +68,11 @@
 | `bCanDisableTrace` | `boolean` |
 | `bCanProjectDown` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:34285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34285)
-
 ## Properties
 
 ### ExtentX
 
 • **ExtentX**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34290)
 
 ___
 
@@ -92,19 +80,11 @@ ___
 
 • **ExtentY**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34291)
-
 ___
 
 ### ExtentZ
 
 • **ExtentZ**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34292)
 
 ___
 
@@ -112,19 +92,11 @@ ___
 
 • **NavigationFilter**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:34287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34287)
-
 ___
 
 ### PostProjectionVerticalOffset
 
 • **PostProjectionVerticalOffset**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34293)
 
 ___
 
@@ -132,19 +104,11 @@ ___
 
 • **ProjectDown**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34288)
-
 ___
 
 ### ProjectUp
 
 • **ProjectUp**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34289)
 
 ___
 
@@ -152,19 +116,11 @@ ___
 
 • **SerializedChannel**: [`ECollisionChannel`](../enums/ue_ue.ECollisionChannel.md)
 
-#### Defined in
-
-[ue/ue.d.ts:34295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34295)
-
 ___
 
 ### TraceChannel
 
 • **TraceChannel**: [`ETraceTypeQuery`](../enums/ue_ue.ETraceTypeQuery.md)
-
-#### Defined in
-
-[ue/ue.d.ts:34294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34294)
 
 ___
 
@@ -172,19 +128,11 @@ ___
 
 • **TraceMode**: [`EEnvQueryTrace`](../enums/ue_ue.EEnvQueryTrace.md)
 
-#### Defined in
-
-[ue/ue.d.ts:34297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34297)
-
 ___
 
 ### TraceShape
 
 • **TraceShape**: [`EEnvTraceShape`](../enums/ue_ue.EEnvTraceShape.md)
-
-#### Defined in
-
-[ue/ue.d.ts:34296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34296)
 
 ___
 
@@ -192,19 +140,11 @@ ___
 
 • **VersionNum**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34286)
-
 ___
 
 ### \_\_tid\_EnvTraceData\_\_
 
 • `Private` **\_\_tid\_EnvTraceData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:34309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34309)
 
 ___
 
@@ -212,19 +152,11 @@ ___
 
 • **bCanDisableTrace**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:34302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34302)
-
 ___
 
 ### bCanProjectDown
 
 • **bCanProjectDown**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:34303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34303)
 
 ___
 
@@ -232,19 +164,11 @@ ___
 
 • **bCanTraceOnGeometry**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:34301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34301)
-
 ___
 
 ### bCanTraceOnNavMesh
 
 • **bCanTraceOnNavMesh**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:34300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34300)
 
 ___
 
@@ -252,19 +176,11 @@ ___
 
 • **bOnlyBlockingHits**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:34299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34299)
-
 ___
 
 ### bTraceComplex
 
 • **bTraceComplex**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:34298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34298)
 
 ## Methods
 
@@ -280,10 +196,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:34307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34307)
-
 ___
 
 ### StaticStruct
@@ -293,7 +205,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:34308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34308)

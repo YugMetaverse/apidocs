@@ -22,19 +22,11 @@
 
 • **Any** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33908)
-
 ___
 
 ### Both
 
 • **Both** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33908)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **EInputCaptureSide\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33908)
-
 ___
 
 ### Left
 
 • **Left** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33908)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33908)
-
 ___
 
 ### Right
 
 • **Right** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33908)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33908)

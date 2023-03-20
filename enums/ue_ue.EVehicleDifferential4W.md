@@ -23,19 +23,11 @@
 
 • **EVehicleDifferential4W\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34868)
-
 ___
 
 ### LimitedSlip\_4W
 
 • **LimitedSlip\_4W** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34868)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **LimitedSlip\_FrontDrive** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34868)
-
 ___
 
 ### LimitedSlip\_RearDrive
 
 • **LimitedSlip\_RearDrive** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34868)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **Open\_4W** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34868)
-
 ___
 
 ### Open\_FrontDrive
 
 • **Open\_FrontDrive** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34868)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **Open\_RearDrive** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34868)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34868)

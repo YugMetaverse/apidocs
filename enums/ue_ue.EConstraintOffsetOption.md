@@ -19,19 +19,11 @@
 
 • **EConstraintOffsetOption\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18280)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18280)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Offset\_RefPose** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18280)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18280)

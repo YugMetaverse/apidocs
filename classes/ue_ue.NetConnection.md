@@ -77,29 +77,17 @@
 
 [Player](ue_ue.Player.md).[constructor](ue_ue.Player.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:10436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10436)
-
 ## Properties
 
 ### ChannelsToTick
 
 • **ChannelsToTick**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Channel`](ue_ue.Channel.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:10449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10449)
-
 ___
 
 ### Children
 
 • **Children**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ChildConnection`](ue_ue.ChildConnection.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:10437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10437)
 
 ___
 
@@ -111,10 +99,6 @@ ___
 
 [Player](ue_ue.Player.md).[ConfiguredInternetSpeed](ue_ue.Player.md#configuredinternetspeed)
 
-#### Defined in
-
-[ue/ue.d.ts:6041](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6041)
-
 ___
 
 ### ConfiguredLanSpeed
@@ -124,10 +108,6 @@ ___
 #### Inherited from
 
 [Player](ue_ue.Player.md).[ConfiguredLanSpeed](ue_ue.Player.md#configuredlanspeed)
-
-#### Defined in
-
-[ue/ue.d.ts:6042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6042)
 
 ___
 
@@ -139,19 +119,11 @@ ___
 
 [Player](ue_ue.Player.md).[CurrentNetSpeed](ue_ue.Player.md#currentnetspeed)
 
-#### Defined in
-
-[ue/ue.d.ts:6040](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6040)
-
 ___
 
 ### Driver
 
 • **Driver**: [`NetDriver`](ue_ue.NetDriver.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10438)
 
 ___
 
@@ -159,19 +131,11 @@ ___
 
 • **InternalAck**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:10446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10446)
-
 ___
 
 ### LastReceiveTime
 
 • **LastReceiveTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10448)
 
 ___
 
@@ -179,19 +143,11 @@ ___
 
 • **MaxPacket**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10445](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10445)
-
 ___
 
 ### OpenChannels
 
 • **OpenChannels**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Channel`](ue_ue.Channel.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:10441](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10441)
 
 ___
 
@@ -199,29 +155,17 @@ ___
 
 • **OwningActor**: [`Actor`](ue_ue.Actor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10444](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10444)
-
 ___
 
 ### PackageMap
 
 • **PackageMap**: [`PackageMap`](ue_ue.PackageMap.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10440)
-
 ___
 
 ### PackageMapClass
 
 • **PackageMapClass**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10439)
 
 ___
 
@@ -233,19 +177,11 @@ ___
 
 [Player](ue_ue.Player.md).[PlayerController](ue_ue.Player.md#playercontroller)
 
-#### Defined in
-
-[ue/ue.d.ts:6039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6039)
-
 ___
 
 ### PlayerId
 
 • **PlayerId**: [`UniqueNetIdRepl`](ue_ue.UniqueNetIdRepl.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10447)
 
 ___
 
@@ -253,29 +189,17 @@ ___
 
 • **SentTemporaries**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Actor`](ue_ue.Actor.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:10442](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10442)
-
 ___
 
 ### ViewTarget
 
 • **ViewTarget**: [`Actor`](ue_ue.Actor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10443](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10443)
-
 ___
 
 ### \_\_tid\_NetConnection\_\_
 
 • **\_\_tid\_NetConnection\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10454)
 
 ___
 
@@ -287,10 +211,6 @@ ___
 
 [Player](ue_ue.Player.md).[__tid_Object__](ue_ue.Player.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_Player\_\_
@@ -300,10 +220,6 @@ ___
 #### Inherited from
 
 [Player](ue_ue.Player.md).[__tid_Player__](ue_ue.Player.md#__tid_player__)
-
-#### Defined in
-
-[ue/ue.d.ts:6047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6047)
 
 ## Methods
 
@@ -329,10 +245,6 @@ ___
 
 [Player](ue_ue.Player.md).[CreateDefaultSubobject](ue_ue.Player.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -353,10 +265,6 @@ ___
 
 [Player](ue_ue.Player.md).[ExecuteUbergraph](ue_ue.Player.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -370,10 +278,6 @@ ___
 #### Inherited from
 
 [Player](ue_ue.Player.md).[GetClass](ue_ue.Player.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -389,10 +293,6 @@ ___
 
 [Player](ue_ue.Player.md).[GetName](ue_ue.Player.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -407,10 +307,6 @@ ___
 
 [Player](ue_ue.Player.md).[GetOuter](ue_ue.Player.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -424,10 +320,6 @@ ___
 #### Inherited from
 
 [Player](ue_ue.Player.md).[GetWorld](ue_ue.Player.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -450,10 +342,6 @@ ___
 
 [Player](ue_ue.Player.md).[Find](ue_ue.Player.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:10451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10451)
-
 ___
 
 ### Load
@@ -474,10 +362,6 @@ ___
 
 [Player](ue_ue.Player.md).[Load](ue_ue.Player.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:10452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10452)
-
 ___
 
 ### StaticClass
@@ -491,7 +375,3 @@ ___
 #### Overrides
 
 [Player](ue_ue.Player.md).[StaticClass](ue_ue.Player.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:10450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10450)

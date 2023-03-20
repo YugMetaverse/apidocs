@@ -56,10 +56,6 @@
 
 [PropertyBinding](ue_ue.PropertyBinding.md).[constructor](ue_ue.PropertyBinding.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:39462](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39462)
-
 ## Properties
 
 ### DestinationProperty
@@ -69,10 +65,6 @@
 #### Inherited from
 
 [PropertyBinding](ue_ue.PropertyBinding.md).[DestinationProperty](ue_ue.PropertyBinding.md#destinationproperty)
-
-#### Defined in
-
-[ue/ue.d.ts:10817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10817)
 
 ___
 
@@ -84,10 +76,6 @@ ___
 
 [PropertyBinding](ue_ue.PropertyBinding.md).[SourceObject](ue_ue.PropertyBinding.md#sourceobject)
 
-#### Defined in
-
-[ue/ue.d.ts:10815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10815)
-
 ___
 
 ### SourcePath
@@ -98,19 +86,11 @@ ___
 
 [PropertyBinding](ue_ue.PropertyBinding.md).[SourcePath](ue_ue.PropertyBinding.md#sourcepath)
 
-#### Defined in
-
-[ue/ue.d.ts:10816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10816)
-
 ___
 
 ### \_\_tid\_Int32Binding\_\_
 
 • **\_\_tid\_Int32Binding\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39468)
 
 ___
 
@@ -122,10 +102,6 @@ ___
 
 [PropertyBinding](ue_ue.PropertyBinding.md).[__tid_Object__](ue_ue.PropertyBinding.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PropertyBinding\_\_
@@ -135,10 +111,6 @@ ___
 #### Inherited from
 
 [PropertyBinding](ue_ue.PropertyBinding.md).[__tid_PropertyBinding__](ue_ue.PropertyBinding.md#__tid_propertybinding__)
-
-#### Defined in
-
-[ue/ue.d.ts:10822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10822)
 
 ## Methods
 
@@ -164,10 +136,6 @@ ___
 
 [PropertyBinding](ue_ue.PropertyBinding.md).[CreateDefaultSubobject](ue_ue.PropertyBinding.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -188,10 +156,6 @@ ___
 
 [PropertyBinding](ue_ue.PropertyBinding.md).[ExecuteUbergraph](ue_ue.PropertyBinding.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -205,10 +169,6 @@ ___
 #### Inherited from
 
 [PropertyBinding](ue_ue.PropertyBinding.md).[GetClass](ue_ue.PropertyBinding.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -224,10 +184,6 @@ ___
 
 [PropertyBinding](ue_ue.PropertyBinding.md).[GetName](ue_ue.PropertyBinding.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -242,10 +198,6 @@ ___
 
 [PropertyBinding](ue_ue.PropertyBinding.md).[GetOuter](ue_ue.PropertyBinding.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetValue
@@ -255,10 +207,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:39463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39463)
 
 ___
 
@@ -273,10 +221,6 @@ ___
 #### Inherited from
 
 [PropertyBinding](ue_ue.PropertyBinding.md).[GetWorld](ue_ue.PropertyBinding.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -299,10 +243,6 @@ ___
 
 [PropertyBinding](ue_ue.PropertyBinding.md).[Find](ue_ue.PropertyBinding.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:39465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39465)
-
 ___
 
 ### Load
@@ -323,10 +263,6 @@ ___
 
 [PropertyBinding](ue_ue.PropertyBinding.md).[Load](ue_ue.PropertyBinding.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:39466](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39466)
-
 ___
 
 ### StaticClass
@@ -340,7 +276,3 @@ ___
 #### Overrides
 
 [PropertyBinding](ue_ue.PropertyBinding.md).[StaticClass](ue_ue.PropertyBinding.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:39464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39464)

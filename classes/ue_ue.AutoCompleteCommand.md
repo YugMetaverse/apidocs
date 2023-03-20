@@ -27,10 +27,6 @@
 
 • **new AutoCompleteCommand**()
 
-#### Defined in
-
-[ue/ue.d.ts:28601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28601)
-
 • **new AutoCompleteCommand**(`Command`, `Desc`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Command` | `string` |
 | `Desc` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:28602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28602)
-
 ## Properties
 
 ### Command
 
 • **Command**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:28603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28603)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Desc**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:28604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28604)
-
 ___
 
 ### \_\_tid\_AutoCompleteCommand\_\_
 
 • `Private` **\_\_tid\_AutoCompleteCommand\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:28610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28610)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:28608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28608)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28609)

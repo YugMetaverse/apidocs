@@ -21,19 +21,11 @@
 
 • **AppendAfter** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21177)
-
 ___
 
 ### AppendBefore
 
 • **AppendBefore** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21177)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **EShapeAddMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21177)
-
 ___
 
 ### InsertAfter
 
 • **InsertAfter** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21177)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **InsertBefore** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21177)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21177)

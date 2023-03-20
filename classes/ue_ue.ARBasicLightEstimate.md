@@ -58,19 +58,11 @@
 
 [ARLightEstimate](ue_ue.ARLightEstimate.md).[constructor](ue_ue.ARLightEstimate.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:20694](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20694)
-
 ## Properties
 
 ### AmbientColor
 
 • **AmbientColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:20697](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20697)
 
 ___
 
@@ -78,29 +70,17 @@ ___
 
 • **AmbientColorTemperatureKelvin**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20696](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20696)
-
 ___
 
 ### AmbientIntensityLumens
 
 • **AmbientIntensityLumens**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20695)
-
 ___
 
 ### \_\_tid\_ARBasicLightEstimate\_\_
 
 • **\_\_tid\_ARBasicLightEstimate\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:20705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20705)
 
 ___
 
@@ -112,10 +92,6 @@ ___
 
 [ARLightEstimate](ue_ue.ARLightEstimate.md).[__tid_ARLightEstimate__](ue_ue.ARLightEstimate.md#__tid_arlightestimate__)
 
-#### Defined in
-
-[ue/ue.d.ts:20690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20690)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -125,10 +101,6 @@ ___
 #### Inherited from
 
 [ARLightEstimate](ue_ue.ARLightEstimate.md).[__tid_Object__](ue_ue.ARLightEstimate.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -154,10 +126,6 @@ ___
 
 [ARLightEstimate](ue_ue.ARLightEstimate.md).[CreateDefaultSubobject](ue_ue.ARLightEstimate.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -178,10 +146,6 @@ ___
 
 [ARLightEstimate](ue_ue.ARLightEstimate.md).[ExecuteUbergraph](ue_ue.ARLightEstimate.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetAmbientColor
@@ -191,10 +155,6 @@ ___
 #### Returns
 
 [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:20698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20698)
 
 ___
 
@@ -206,10 +166,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20699](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20699)
-
 ___
 
 ### GetAmbientIntensityLumens
@@ -219,10 +175,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20700)
 
 ___
 
@@ -238,10 +190,6 @@ ___
 
 [ARLightEstimate](ue_ue.ARLightEstimate.md).[GetClass](ue_ue.ARLightEstimate.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetName
@@ -255,10 +203,6 @@ ___
 #### Inherited from
 
 [ARLightEstimate](ue_ue.ARLightEstimate.md).[GetName](ue_ue.ARLightEstimate.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -274,10 +218,6 @@ ___
 
 [ARLightEstimate](ue_ue.ARLightEstimate.md).[GetOuter](ue_ue.ARLightEstimate.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -291,10 +231,6 @@ ___
 #### Inherited from
 
 [ARLightEstimate](ue_ue.ARLightEstimate.md).[GetWorld](ue_ue.ARLightEstimate.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -317,10 +253,6 @@ ___
 
 [ARLightEstimate](ue_ue.ARLightEstimate.md).[Find](ue_ue.ARLightEstimate.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:20702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20702)
-
 ___
 
 ### Load
@@ -341,10 +273,6 @@ ___
 
 [ARLightEstimate](ue_ue.ARLightEstimate.md).[Load](ue_ue.ARLightEstimate.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:20703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20703)
-
 ___
 
 ### StaticClass
@@ -358,7 +286,3 @@ ___
 #### Overrides
 
 [ARLightEstimate](ue_ue.ARLightEstimate.md).[StaticClass](ue_ue.ARLightEstimate.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:20701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20701)

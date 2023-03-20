@@ -27,10 +27,6 @@
 
 • **new GameNameRedirect**()
 
-#### Defined in
-
-[ue/ue.d.ts:32539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32539)
-
 • **new GameNameRedirect**(`OldGameName`, `NewGameName`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `OldGameName` | `string` |
 | `NewGameName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:32540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32540)
-
 ## Properties
 
 ### NewGameName
 
 • **NewGameName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:32542](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32542)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **OldGameName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:32541](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32541)
-
 ___
 
 ### \_\_tid\_GameNameRedirect\_\_
 
 • `Private` **\_\_tid\_GameNameRedirect\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32548)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32546)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32547)

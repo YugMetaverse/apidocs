@@ -22,19 +22,11 @@
 
 • **AbortDone** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14866)
-
 ___
 
 ### LatentAbortInProgress
 
 • **LatentAbortInProgress** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14866)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14866)
-
 ___
 
 ### MarkPendingAbort
 
 • **MarkPendingAbort** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14866)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **NeverStarted** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14866)
-
 ___
 
 ### NotBeingAborted
 
 • **NotBeingAborted** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14866)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14866)

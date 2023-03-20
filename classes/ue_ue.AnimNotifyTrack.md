@@ -27,10 +27,6 @@
 
 • **new AnimNotifyTrack**()
 
-#### Defined in
-
-[ue/ue.d.ts:3116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3116)
-
 • **new AnimNotifyTrack**(`TrackName`, `TrackColor`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `TrackName` | `string` |
 | `TrackColor` | [`LinearColor`](ue_ue_s.LinearColor.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:3117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3117)
-
 ## Properties
 
 ### TrackColor
 
 • **TrackColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3119)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **TrackName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:3118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3118)
-
 ___
 
 ### \_\_tid\_AnimNotifyTrack\_\_
 
 • `Private` **\_\_tid\_AnimNotifyTrack\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3125)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3123)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3124)

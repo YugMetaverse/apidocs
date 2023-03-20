@@ -28,10 +28,6 @@
 
 • **new LevelSequenceObject**()
 
-#### Defined in
-
-[ue/ue.d.ts:14011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14011)
-
 • **new LevelSequenceObject**(`ObjectOrOwner`, `ComponentName`, `CachedComponent`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `ComponentName` | `string` |
 | `CachedComponent` | [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`Object`](ue_ue.Object.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:14012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14012)
-
 ## Properties
 
 ### CachedComponent
 
 • **CachedComponent**: [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`Object`](ue_ue.Object.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:14015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14015)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **ComponentName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:14014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14014)
-
 ___
 
 ### ObjectOrOwner
 
 • **ObjectOrOwner**: [`TLazyObjectPtr`](../modules/ue_puerts.md#tlazyobjectptr)<[`Object`](ue_ue.Object.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:14013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14013)
-
 ___
 
 ### \_\_tid\_LevelSequenceObject\_\_
 
 • `Private` **\_\_tid\_LevelSequenceObject\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14021)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14019)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14020)

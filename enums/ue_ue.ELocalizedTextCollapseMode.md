@@ -20,19 +20,11 @@
 
 • **ELocalizedTextCollapseMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33971)
-
 ___
 
 ### IdenticalNamespaceAndSource
 
 • **IdenticalNamespaceAndSource** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33971)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **IdenticalPackageIdTextIdAndSource** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33971)
-
 ___
 
 ### IdenticalTextIdAndSource
 
 • **IdenticalTextIdAndSource** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33971)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33971)

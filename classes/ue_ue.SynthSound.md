@@ -123,10 +123,6 @@
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[constructor](ue_ue.SoundWaveProcedural.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:22316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22316)
-
 ## Properties
 
 ### AssetImportData
@@ -136,10 +132,6 @@
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[AssetImportData](ue_ue.SoundWaveProcedural.md#assetimportdata)
-
-#### Defined in
-
-[ue/ue.d.ts:9593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9593)
 
 ___
 
@@ -151,10 +143,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[AttenuationSettings](ue_ue.SoundWaveProcedural.md#attenuationsettings)
 
-#### Defined in
-
-[ue/ue.d.ts:9735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9735)
-
 ___
 
 ### BusSends
@@ -164,10 +152,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[BusSends](ue_ue.SoundWaveProcedural.md#bussends)
-
-#### Defined in
-
-[ue/ue.d.ts:9740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9740)
 
 ___
 
@@ -179,10 +163,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[ChannelOffsets](ue_ue.SoundWaveProcedural.md#channeloffsets)
 
-#### Defined in
-
-[ue/ue.d.ts:9586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9586)
-
 ___
 
 ### ChannelSizes
@@ -192,10 +172,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[ChannelSizes](ue_ue.SoundWaveProcedural.md#channelsizes)
-
-#### Defined in
-
-[ue/ue.d.ts:9587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9587)
 
 ___
 
@@ -207,10 +183,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[Comment](ue_ue.SoundWaveProcedural.md#comment)
 
-#### Defined in
-
-[ue/ue.d.ts:9590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9590)
-
 ___
 
 ### CompressionQuality
@@ -220,10 +192,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[CompressionQuality](ue_ue.SoundWaveProcedural.md#compressionquality)
-
-#### Defined in
-
-[ue/ue.d.ts:9553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9553)
 
 ___
 
@@ -235,10 +203,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[ConcurrencyOverrides](ue_ue.SoundWaveProcedural.md#concurrencyoverrides)
 
-#### Defined in
-
-[ue/ue.d.ts:9729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9729)
-
 ___
 
 ### ConcurrencySet
@@ -248,10 +212,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[ConcurrencySet](ue_ue.SoundWaveProcedural.md#concurrencyset)
-
-#### Defined in
-
-[ue/ue.d.ts:9728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9728)
 
 ___
 
@@ -263,10 +223,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[CookedEnvelopeTimeData](ue_ue.SoundWaveProcedural.md#cookedenvelopetimedata)
 
-#### Defined in
-
-[ue/ue.d.ts:9579](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9579)
-
 ___
 
 ### CookedSpectralTimeData
@@ -276,10 +232,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[CookedSpectralTimeData](ue_ue.SoundWaveProcedural.md#cookedspectraltimedata)
-
-#### Defined in
-
-[ue/ue.d.ts:9578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9578)
 
 ___
 
@@ -291,10 +243,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[Curves](ue_ue.SoundWaveProcedural.md#curves)
 
-#### Defined in
-
-[ue/ue.d.ts:9594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9594)
-
 ___
 
 ### Duration
@@ -304,10 +252,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[Duration](ue_ue.SoundWaveProcedural.md#duration)
-
-#### Defined in
-
-[ue/ue.d.ts:9731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9731)
 
 ___
 
@@ -319,10 +263,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[EnvelopeFollowerAttackTime](ue_ue.SoundWaveProcedural.md#envelopefollowerattacktime)
 
-#### Defined in
-
-[ue/ue.d.ts:9575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9575)
-
 ___
 
 ### EnvelopeFollowerFrameSize
@@ -332,10 +272,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[EnvelopeFollowerFrameSize](ue_ue.SoundWaveProcedural.md#envelopefollowerframesize)
-
-#### Defined in
-
-[ue/ue.d.ts:9574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9574)
 
 ___
 
@@ -347,10 +283,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[EnvelopeFollowerReleaseTime](ue_ue.SoundWaveProcedural.md#envelopefollowerreleasetime)
 
-#### Defined in
-
-[ue/ue.d.ts:9576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9576)
-
 ___
 
 ### FFTAnalysisAttackTime
@@ -360,10 +292,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[FFTAnalysisAttackTime](ue_ue.SoundWaveProcedural.md#fftanalysisattacktime)
-
-#### Defined in
-
-[ue/ue.d.ts:9572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9572)
 
 ___
 
@@ -375,10 +303,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[FFTAnalysisFrameSize](ue_ue.SoundWaveProcedural.md#fftanalysisframesize)
 
-#### Defined in
-
-[ue/ue.d.ts:9571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9571)
-
 ___
 
 ### FFTAnalysisReleaseTime
@@ -388,10 +312,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[FFTAnalysisReleaseTime](ue_ue.SoundWaveProcedural.md#fftanalysisreleasetime)
-
-#### Defined in
-
-[ue/ue.d.ts:9573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9573)
 
 ___
 
@@ -403,10 +323,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[FFTSize](ue_ue.SoundWaveProcedural.md#fftsize)
 
-#### Defined in
-
-[ue/ue.d.ts:9570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9570)
-
 ___
 
 ### FrequenciesToAnalyze
@@ -416,10 +332,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[FrequenciesToAnalyze](ue_ue.SoundWaveProcedural.md#frequenciestoanalyze)
-
-#### Defined in
-
-[ue/ue.d.ts:9577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9577)
 
 ___
 
@@ -431,10 +343,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[InitialChunkSize](ue_ue.SoundWaveProcedural.md#initialchunksize)
 
-#### Defined in
-
-[ue/ue.d.ts:9580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9580)
-
 ___
 
 ### InternalCurves
@@ -444,10 +352,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[InternalCurves](ue_ue.SoundWaveProcedural.md#internalcurves)
-
-#### Defined in
-
-[ue/ue.d.ts:9595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9595)
 
 ___
 
@@ -459,10 +363,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[LoadingBehavior](ue_ue.SoundWaveProcedural.md#loadingbehavior)
 
-#### Defined in
-
-[ue/ue.d.ts:9560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9560)
-
 ___
 
 ### MaxConcurrentPlayCount
@@ -472,10 +372,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[MaxConcurrentPlayCount](ue_ue.SoundWaveProcedural.md#maxconcurrentplaycount)
-
-#### Defined in
-
-[ue/ue.d.ts:9730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9730)
 
 ___
 
@@ -487,10 +383,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[MaxConcurrentResolutionRule](ue_ue.SoundWaveProcedural.md#maxconcurrentresolutionrule)
 
-#### Defined in
-
-[ue/ue.d.ts:9726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9726)
-
 ___
 
 ### MaxDistance
@@ -500,10 +392,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[MaxDistance](ue_ue.SoundWaveProcedural.md#maxdistance)
-
-#### Defined in
-
-[ue/ue.d.ts:9732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9732)
 
 ___
 
@@ -515,10 +403,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[Modulation](ue_ue.SoundWaveProcedural.md#modulation)
 
-#### Defined in
-
-[ue/ue.d.ts:9736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9736)
-
 ___
 
 ### NumChannels
@@ -528,10 +412,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[NumChannels](ue_ue.SoundWaveProcedural.md#numchannels)
-
-#### Defined in
-
-[ue/ue.d.ts:9585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9585)
 
 ___
 
@@ -543,19 +423,11 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[OverrideSoundToUseForAnalysis](ue_ue.SoundWaveProcedural.md#overridesoundtouseforanalysis)
 
-#### Defined in
-
-[ue/ue.d.ts:9566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9566)
-
 ___
 
 ### OwningSynthComponent
 
 • **OwningSynthComponent**: [`SynthComponent`](ue_ue.SynthComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22317)
 
 ___
 
@@ -567,10 +439,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[Pitch](ue_ue.SoundWaveProcedural.md#pitch)
 
-#### Defined in
-
-[ue/ue.d.ts:9584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9584)
-
 ___
 
 ### PreEffectBusSends
@@ -580,10 +448,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[PreEffectBusSends](ue_ue.SoundWaveProcedural.md#preeffectbussends)
-
-#### Defined in
-
-[ue/ue.d.ts:9741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9741)
 
 ___
 
@@ -595,10 +459,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[Priority](ue_ue.SoundWaveProcedural.md#priority)
 
-#### Defined in
-
-[ue/ue.d.ts:9734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9734)
-
 ___
 
 ### SampleRate
@@ -608,10 +468,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[SampleRate](ue_ue.SoundWaveProcedural.md#samplerate)
-
-#### Defined in
-
-[ue/ue.d.ts:9588](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9588)
 
 ___
 
@@ -623,10 +479,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[SampleRateQuality](ue_ue.SoundWaveProcedural.md#sampleratequality)
 
-#### Defined in
-
-[ue/ue.d.ts:9555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9555)
-
 ___
 
 ### SoundClassObject
@@ -636,10 +488,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[SoundClassObject](ue_ue.SoundWaveProcedural.md#soundclassobject)
-
-#### Defined in
-
-[ue/ue.d.ts:9717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9717)
 
 ___
 
@@ -651,10 +499,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[SoundConcurrencySettings](ue_ue.SoundWaveProcedural.md#soundconcurrencysettings)
 
-#### Defined in
-
-[ue/ue.d.ts:9727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9727)
-
 ___
 
 ### SoundGroup
@@ -664,10 +508,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[SoundGroup](ue_ue.SoundWaveProcedural.md#soundgroup)
-
-#### Defined in
-
-[ue/ue.d.ts:9556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9556)
 
 ___
 
@@ -679,10 +519,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[SoundSubmixObject](ue_ue.SoundWaveProcedural.md#soundsubmixobject)
 
-#### Defined in
-
-[ue/ue.d.ts:9737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9737)
-
 ___
 
 ### SoundSubmixSends
@@ -692,10 +528,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[SoundSubmixSends](ue_ue.SoundWaveProcedural.md#soundsubmixsends)
-
-#### Defined in
-
-[ue/ue.d.ts:9738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9738)
 
 ___
 
@@ -707,10 +539,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[SourceEffectChain](ue_ue.SoundWaveProcedural.md#sourceeffectchain)
 
-#### Defined in
-
-[ue/ue.d.ts:9739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9739)
-
 ___
 
 ### SourceFilePath
@@ -720,10 +548,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[SourceFilePath](ue_ue.SoundWaveProcedural.md#sourcefilepath)
-
-#### Defined in
-
-[ue/ue.d.ts:9591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9591)
 
 ___
 
@@ -735,10 +559,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[SourceFileTimestamp](ue_ue.SoundWaveProcedural.md#sourcefiletimestamp)
 
-#### Defined in
-
-[ue/ue.d.ts:9592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9592)
-
 ___
 
 ### SpokenText
@@ -748,10 +568,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[SpokenText](ue_ue.SoundWaveProcedural.md#spokentext)
-
-#### Defined in
-
-[ue/ue.d.ts:9581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9581)
 
 ___
 
@@ -763,10 +579,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[StreamingPriority](ue_ue.SoundWaveProcedural.md#streamingpriority)
 
-#### Defined in
-
-[ue/ue.d.ts:9554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9554)
-
 ___
 
 ### SubtitlePriority
@@ -776,10 +588,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[SubtitlePriority](ue_ue.SoundWaveProcedural.md#subtitlepriority)
-
-#### Defined in
-
-[ue/ue.d.ts:9582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9582)
 
 ___
 
@@ -791,10 +599,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[Subtitles](ue_ue.SoundWaveProcedural.md#subtitles)
 
-#### Defined in
-
-[ue/ue.d.ts:9589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9589)
-
 ___
 
 ### TotalSamples
@@ -804,10 +608,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[TotalSamples](ue_ue.SoundWaveProcedural.md#totalsamples)
-
-#### Defined in
-
-[ue/ue.d.ts:9733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9733)
 
 ___
 
@@ -819,10 +619,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[TreatFileAsLoopingForAnalysis](ue_ue.SoundWaveProcedural.md#treatfileasloopingforanalysis)
 
-#### Defined in
-
-[ue/ue.d.ts:9567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9567)
-
 ___
 
 ### VirtualizationMode
@@ -832,10 +628,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[VirtualizationMode](ue_ue.SoundWaveProcedural.md#virtualizationmode)
-
-#### Defined in
-
-[ue/ue.d.ts:9725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9725)
 
 ___
 
@@ -847,10 +639,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[Volume](ue_ue.SoundWaveProcedural.md#volume)
 
-#### Defined in
-
-[ue/ue.d.ts:9583](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9583)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -860,10 +648,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[__tid_Object__](ue_ue.SoundWaveProcedural.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -875,10 +659,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[__tid_SoundBase__](ue_ue.SoundWaveProcedural.md#__tid_soundbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:9746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9746)
-
 ___
 
 ### \_\_tid\_SoundWaveProcedural\_\_
@@ -888,10 +668,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[__tid_SoundWaveProcedural__](ue_ue.SoundWaveProcedural.md#__tid_soundwaveprocedural__)
-
-#### Defined in
-
-[ue/ue.d.ts:22312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22312)
 
 ___
 
@@ -903,19 +679,11 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[__tid_SoundWave__](ue_ue.SoundWaveProcedural.md#__tid_soundwave__)
 
-#### Defined in
-
-[ue/ue.d.ts:9600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9600)
-
 ___
 
 ### \_\_tid\_SynthSound\_\_
 
 • **\_\_tid\_SynthSound\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22322)
 
 ___
 
@@ -927,10 +695,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[bBypassVolumeScaleForPriority](ue_ue.SoundWaveProcedural.md#bbypassvolumescaleforpriority)
 
-#### Defined in
-
-[ue/ue.d.ts:9724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9724)
-
 ___
 
 ### bDebug
@@ -940,10 +704,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[bDebug](ue_ue.SoundWaveProcedural.md#bdebug)
-
-#### Defined in
-
-[ue/ue.d.ts:9718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9718)
 
 ___
 
@@ -955,10 +715,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[bEnableAmplitudeEnvelopeAnalysis](ue_ue.SoundWaveProcedural.md#benableamplitudeenvelopeanalysis)
 
-#### Defined in
-
-[ue/ue.d.ts:9569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9569)
-
 ___
 
 ### bEnableBakedFFTAnalysis
@@ -968,10 +724,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[bEnableBakedFFTAnalysis](ue_ue.SoundWaveProcedural.md#benablebakedfftanalysis)
-
-#### Defined in
-
-[ue/ue.d.ts:9568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9568)
 
 ___
 
@@ -983,10 +735,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[bHasConcatenatorNode](ue_ue.SoundWaveProcedural.md#bhasconcatenatornode)
 
-#### Defined in
-
-[ue/ue.d.ts:9722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9722)
-
 ___
 
 ### bHasDelayNode
@@ -996,10 +744,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[bHasDelayNode](ue_ue.SoundWaveProcedural.md#bhasdelaynode)
-
-#### Defined in
-
-[ue/ue.d.ts:9721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9721)
 
 ___
 
@@ -1011,10 +755,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[bHasVirtualizeWhenSilent](ue_ue.SoundWaveProcedural.md#bhasvirtualizewhensilent)
 
-#### Defined in
-
-[ue/ue.d.ts:9723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9723)
-
 ___
 
 ### bIsAmbisonics
@@ -1024,10 +764,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[bIsAmbisonics](ue_ue.SoundWaveProcedural.md#bisambisonics)
-
-#### Defined in
-
-[ue/ue.d.ts:9565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9565)
 
 ___
 
@@ -1039,10 +775,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[bLooping](ue_ue.SoundWaveProcedural.md#blooping)
 
-#### Defined in
-
-[ue/ue.d.ts:9557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9557)
-
 ___
 
 ### bManualWordWrap
@@ -1052,10 +784,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[bManualWordWrap](ue_ue.SoundWaveProcedural.md#bmanualwordwrap)
-
-#### Defined in
-
-[ue/ue.d.ts:9562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9562)
 
 ___
 
@@ -1067,10 +795,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[bMature](ue_ue.SoundWaveProcedural.md#bmature)
 
-#### Defined in
-
-[ue/ue.d.ts:9561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9561)
-
 ___
 
 ### bOutputToBusOnly
@@ -1080,10 +804,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[bOutputToBusOnly](ue_ue.SoundWaveProcedural.md#boutputtobusonly)
-
-#### Defined in
-
-[ue/ue.d.ts:9720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9720)
 
 ___
 
@@ -1095,10 +815,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[bOverrideConcurrency](ue_ue.SoundWaveProcedural.md#boverrideconcurrency)
 
-#### Defined in
-
-[ue/ue.d.ts:9719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9719)
-
 ___
 
 ### bSeekableStreaming
@@ -1108,10 +824,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[bSeekableStreaming](ue_ue.SoundWaveProcedural.md#bseekablestreaming)
-
-#### Defined in
-
-[ue/ue.d.ts:9559](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9559)
 
 ___
 
@@ -1123,10 +835,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[bSingleLine](ue_ue.SoundWaveProcedural.md#bsingleline)
 
-#### Defined in
-
-[ue/ue.d.ts:9563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9563)
-
 ___
 
 ### bStreaming
@@ -1137,10 +845,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[bStreaming](ue_ue.SoundWaveProcedural.md#bstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:9558](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9558)
-
 ___
 
 ### bVirtualizeWhenSilent
@@ -1150,10 +854,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[bVirtualizeWhenSilent](ue_ue.SoundWaveProcedural.md#bvirtualizewhensilent)
-
-#### Defined in
-
-[ue/ue.d.ts:9564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9564)
 
 ## Methods
 
@@ -1179,10 +879,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[CreateDefaultSubobject](ue_ue.SoundWaveProcedural.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -1203,10 +899,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[ExecuteUbergraph](ue_ue.SoundWaveProcedural.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -1220,10 +912,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[GetClass](ue_ue.SoundWaveProcedural.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -1239,10 +927,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[GetName](ue_ue.SoundWaveProcedural.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -1257,10 +941,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[GetOuter](ue_ue.SoundWaveProcedural.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -1274,10 +954,6 @@ ___
 #### Inherited from
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[GetWorld](ue_ue.SoundWaveProcedural.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -1300,10 +976,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[Find](ue_ue.SoundWaveProcedural.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:22319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22319)
-
 ___
 
 ### Load
@@ -1324,10 +996,6 @@ ___
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[Load](ue_ue.SoundWaveProcedural.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:22320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22320)
-
 ___
 
 ### StaticClass
@@ -1341,7 +1009,3 @@ ___
 #### Overrides
 
 [SoundWaveProcedural](ue_ue.SoundWaveProcedural.md).[StaticClass](ue_ue.SoundWaveProcedural.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:22318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22318)

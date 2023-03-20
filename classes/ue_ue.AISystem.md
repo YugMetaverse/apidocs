@@ -75,10 +75,6 @@
 
 [AISystemBase](ue_ue.AISystemBase.md).[constructor](ue_ue.AISystemBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:15670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15670)
-
 ## Properties
 
 ### AISystemClassName
@@ -88,10 +84,6 @@
 #### Inherited from
 
 [AISystemBase](ue_ue.AISystemBase.md).[AISystemClassName](ue_ue.AISystemBase.md#aisystemclassname)
-
-#### Defined in
-
-[ue/ue.d.ts:10065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10065)
 
 ___
 
@@ -103,19 +95,11 @@ ___
 
 [AISystemBase](ue_ue.AISystemBase.md).[AISystemModuleName](ue_ue.AISystemBase.md#aisystemmodulename)
 
-#### Defined in
-
-[ue/ue.d.ts:10066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10066)
-
 ___
 
 ### AcceptanceRadius
 
 • **AcceptanceRadius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15673)
 
 ___
 
@@ -123,19 +107,11 @@ ___
 
 • **AllProxyObjects**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AIAsyncTaskBlueprintProxy`](ue_ue.AIAsyncTaskBlueprintProxy.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:15686](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15686)
-
 ___
 
 ### BehaviorTreeManager
 
 • **BehaviorTreeManager**: [`BehaviorTreeManager`](ue_ue.BehaviorTreeManager.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15683)
 
 ___
 
@@ -143,19 +119,11 @@ ___
 
 • **DefaultSightCollisionChannel**: [`ECollisionChannel`](../enums/ue_ue.ECollisionChannel.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15682)
-
 ___
 
 ### EnvironmentQueryManager
 
 • **EnvironmentQueryManager**: [`EnvQueryManager`](ue_ue.EnvQueryManager.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15684)
 
 ___
 
@@ -163,19 +131,11 @@ ___
 
 • **HotSpotManager**: [`AIHotSpotManager`](ue_ue.AIHotSpotManager.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15687)
-
 ___
 
 ### HotSpotManagerClassName
 
 • **HotSpotManagerClassName**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15672)
 
 ___
 
@@ -183,19 +143,11 @@ ___
 
 • **NavLocalGrids**: [`NavLocalGridManager`](ue_ue.NavLocalGridManager.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15688)
-
 ___
 
 ### PathfollowingNavLinkAcceptanceRadius
 
 • **PathfollowingNavLinkAcceptanceRadius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15675)
 
 ___
 
@@ -203,29 +155,17 @@ ___
 
 • **PathfollowingRegularPathPointAcceptanceRadius**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15674)
-
 ___
 
 ### PerceptionSystem
 
 • **PerceptionSystem**: [`AIPerceptionSystem`](ue_ue.AIPerceptionSystem.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15685)
-
 ___
 
 ### PerceptionSystemClassName
 
 • **PerceptionSystemClassName**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15671)
 
 ___
 
@@ -237,19 +177,11 @@ ___
 
 [AISystemBase](ue_ue.AISystemBase.md).[__tid_AISystemBase__](ue_ue.AISystemBase.md#__tid_aisystembase__)
 
-#### Defined in
-
-[ue/ue.d.ts:10072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10072)
-
 ___
 
 ### \_\_tid\_AISystem\_\_
 
 • **\_\_tid\_AISystem\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15695)
 
 ___
 
@@ -261,19 +193,11 @@ ___
 
 [AISystemBase](ue_ue.AISystemBase.md).[__tid_Object__](ue_ue.AISystemBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bAcceptPartialPaths
 
 • **bAcceptPartialPaths**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15677)
 
 ___
 
@@ -281,19 +205,11 @@ ___
 
 • **bAllowControllersAsEQSQuerier**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:15680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15680)
-
 ___
 
 ### bAllowStrafing
 
 • **bAllowStrafing**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15678)
 
 ___
 
@@ -301,29 +217,17 @@ ___
 
 • **bEnableBTAITasks**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:15679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15679)
-
 ___
 
 ### bEnableDebuggerPlugin
 
 • **bEnableDebuggerPlugin**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:15681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15681)
-
 ___
 
 ### bFinishMoveOnGoalOverlap
 
 • **bFinishMoveOnGoalOverlap**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15676)
 
 ___
 
@@ -335,10 +239,6 @@ ___
 
 [AISystemBase](ue_ue.AISystemBase.md).[bInstantiateAISystemOnClient](ue_ue.AISystemBase.md#binstantiateaisystemonclient)
 
-#### Defined in
-
-[ue/ue.d.ts:10067](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10067)
-
 ## Methods
 
 ### AIIgnorePlayers
@@ -349,10 +249,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:15689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15689)
-
 ___
 
 ### AILoggingVerbose
@@ -362,10 +258,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:15690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15690)
 
 ___
 
@@ -391,10 +283,6 @@ ___
 
 [AISystemBase](ue_ue.AISystemBase.md).[CreateDefaultSubobject](ue_ue.AISystemBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -415,10 +303,6 @@ ___
 
 [AISystemBase](ue_ue.AISystemBase.md).[ExecuteUbergraph](ue_ue.AISystemBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -432,10 +316,6 @@ ___
 #### Inherited from
 
 [AISystemBase](ue_ue.AISystemBase.md).[GetClass](ue_ue.AISystemBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -451,10 +331,6 @@ ___
 
 [AISystemBase](ue_ue.AISystemBase.md).[GetName](ue_ue.AISystemBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -469,10 +345,6 @@ ___
 
 [AISystemBase](ue_ue.AISystemBase.md).[GetOuter](ue_ue.AISystemBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -486,10 +358,6 @@ ___
 #### Inherited from
 
 [AISystemBase](ue_ue.AISystemBase.md).[GetWorld](ue_ue.AISystemBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -512,10 +380,6 @@ ___
 
 [AISystemBase](ue_ue.AISystemBase.md).[Find](ue_ue.AISystemBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:15692](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15692)
-
 ___
 
 ### Load
@@ -536,10 +400,6 @@ ___
 
 [AISystemBase](ue_ue.AISystemBase.md).[Load](ue_ue.AISystemBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:15693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15693)
-
 ___
 
 ### StaticClass
@@ -553,7 +413,3 @@ ___
 #### Overrides
 
 [AISystemBase](ue_ue.AISystemBase.md).[StaticClass](ue_ue.AISystemBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15691)

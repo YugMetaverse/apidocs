@@ -19,19 +19,11 @@
 
 • **ECommentBoxMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31404)
-
 ___
 
 ### GroupMovement
 
 • **GroupMovement** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31404)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **NoGroupMovement** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31404)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31404)

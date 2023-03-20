@@ -30,10 +30,6 @@
 
 • **new PEGraphPinType**()
 
-#### Defined in
-
-[ue/ue.d.ts:57067](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57067)
-
 • **new PEGraphPinType**(`PinCategory`, `PinSubCategoryObject`, `PinContainerType`, `bIsReference`, `bIn`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `bIsReference` | `boolean` |
 | `bIn` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:57068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57068)
-
 ## Properties
 
 ### PinCategory
 
 • **PinCategory**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:57069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57069)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **PinContainerType**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57071)
-
 ___
 
 ### PinSubCategoryObject
 
 • **PinSubCategoryObject**: [`Object`](ue_ue.Object.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57070)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • `Private` **\_\_tid\_PEGraphPinType\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:57079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57079)
-
 ___
 
 ### bIn
 
 • **bIn**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:57073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57073)
-
 ___
 
 ### bIsReference
 
 • **bIsReference**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57072)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57077)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57078)

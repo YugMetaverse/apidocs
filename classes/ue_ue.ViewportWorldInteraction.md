@@ -74,19 +74,11 @@
 
 [EditorWorldExtension](ue_ue.EditorWorldExtension.md).[constructor](ue_ue.EditorWorldExtension.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:14477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14477)
-
 ## Properties
 
 ### ActorsToExcludeFromHitTest
 
 • **ActorsToExcludeFromHitTest**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`Actor`](ue_ue.Actor.md)\>\>
-
-#### Defined in
-
-[ue/ue.d.ts:14485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14485)
 
 ___
 
@@ -94,19 +86,11 @@ ___
 
 • **AssetContainer**: [`ViewportInteractionAssetContainer`](ue_ue.ViewportInteractionAssetContainer.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14486)
-
 ___
 
 ### DefaultMouseCursorInteractor
 
 • **DefaultMouseCursorInteractor**: [`MouseCursorInteractor`](ue_ue.MouseCursorInteractor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14484](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14484)
 
 ___
 
@@ -118,19 +102,11 @@ ___
 
 [EditorWorldExtension](ue_ue.EditorWorldExtension.md).[ExtensionActors](ue_ue.EditorWorldExtension.md#extensionactors)
 
-#### Defined in
-
-[ue/ue.d.ts:14324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14324)
-
 ___
 
 ### Interactors
 
 • **Interactors**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ViewportInteractor`](ue_ue.ViewportInteractor.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:14478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14478)
 
 ___
 
@@ -138,19 +114,11 @@ ___
 
 • **SnapGridActor**: [`Actor`](ue_ue.Actor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14481)
-
 ___
 
 ### SnapGridMID
 
 • **SnapGridMID**: [`MaterialInstanceDynamic`](ue_ue.MaterialInstanceDynamic.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14483)
 
 ___
 
@@ -158,29 +126,17 @@ ___
 
 • **SnapGridMeshComponent**: [`StaticMeshComponent`](ue_ue.StaticMeshComponent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14482)
-
 ___
 
 ### TransformGizmoActor
 
 • **TransformGizmoActor**: [`BaseTransformGizmo`](ue_ue.BaseTransformGizmo.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14480)
-
 ___
 
 ### ViewportTransformer
 
 • **ViewportTransformer**: [`ViewportTransformer`](ue_ue.ViewportTransformer.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14479)
 
 ___
 
@@ -192,10 +148,6 @@ ___
 
 [EditorWorldExtension](ue_ue.EditorWorldExtension.md).[__tid_EditorWorldExtension__](ue_ue.EditorWorldExtension.md#__tid_editorworldextension__)
 
-#### Defined in
-
-[ue/ue.d.ts:14329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14329)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -206,19 +158,11 @@ ___
 
 [EditorWorldExtension](ue_ue.EditorWorldExtension.md).[__tid_Object__](ue_ue.EditorWorldExtension.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ViewportWorldInteraction\_\_
 
 • **\_\_tid\_ViewportWorldInteraction\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14503)
 
 ## Methods
 
@@ -236,10 +180,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:14487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14487)
-
 ___
 
 ### AddInteractor
@@ -255,10 +195,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:14488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14488)
 
 ___
 
@@ -284,10 +220,6 @@ ___
 
 [EditorWorldExtension](ue_ue.EditorWorldExtension.md).[CreateDefaultSubobject](ue_ue.EditorWorldExtension.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -308,10 +240,6 @@ ___
 
 [EditorWorldExtension](ue_ue.EditorWorldExtension.md).[ExecuteUbergraph](ue_ue.EditorWorldExtension.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -326,10 +254,6 @@ ___
 
 [EditorWorldExtension](ue_ue.EditorWorldExtension.md).[GetClass](ue_ue.EditorWorldExtension.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetHeadTransform
@@ -340,10 +264,6 @@ ___
 
 [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14489)
-
 ___
 
 ### GetInteractors
@@ -353,10 +273,6 @@ ___
 #### Returns
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ViewportInteractor`](ue_ue.ViewportInteractor.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:14490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14490)
 
 ___
 
@@ -372,10 +288,6 @@ ___
 
 [EditorWorldExtension](ue_ue.EditorWorldExtension.md).[GetName](ue_ue.EditorWorldExtension.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -390,10 +302,6 @@ ___
 
 [EditorWorldExtension](ue_ue.EditorWorldExtension.md).[GetOuter](ue_ue.EditorWorldExtension.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetRoomSpaceHeadTransform
@@ -403,10 +311,6 @@ ___
 #### Returns
 
 [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14491)
 
 ___
 
@@ -418,10 +322,6 @@ ___
 
 [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14492)
-
 ___
 
 ### GetTransformGizmoActor
@@ -431,10 +331,6 @@ ___
 #### Returns
 
 [`BaseTransformGizmo`](ue_ue.BaseTransformGizmo.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14493)
 
 ___
 
@@ -450,10 +346,6 @@ ___
 
 [EditorWorldExtension](ue_ue.EditorWorldExtension.md).[GetWorld](ue_ue.EditorWorldExtension.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### GetWorldScaleFactor
@@ -463,10 +355,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14494)
 
 ___
 
@@ -484,10 +372,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:14495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14495)
-
 ___
 
 ### SetHeadTransform
@@ -503,10 +387,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:14496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14496)
 
 ___
 
@@ -524,10 +404,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:14497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14497)
-
 ___
 
 ### SetWorldToMetersScale
@@ -544,10 +420,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:14498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14498)
 
 ___
 
@@ -570,10 +442,6 @@ ___
 
 [EditorWorldExtension](ue_ue.EditorWorldExtension.md).[Find](ue_ue.EditorWorldExtension.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:14500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14500)
-
 ___
 
 ### Load
@@ -594,10 +462,6 @@ ___
 
 [EditorWorldExtension](ue_ue.EditorWorldExtension.md).[Load](ue_ue.EditorWorldExtension.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:14501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14501)
-
 ___
 
 ### StaticClass
@@ -611,7 +475,3 @@ ___
 #### Overrides
 
 [EditorWorldExtension](ue_ue.EditorWorldExtension.md).[StaticClass](ue_ue.EditorWorldExtension.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:14499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14499)

@@ -57,19 +57,11 @@
 
 [DatasmithObjectTemplate](ue_ue.DatasmithObjectTemplate.md).[constructor](ue_ue.DatasmithObjectTemplate.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:30131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30131)
-
 ## Properties
 
 ### BuildSettings
 
 • **BuildSettings**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`DatasmithMeshBuildSettingsTemplate`](ue_ue.DatasmithMeshBuildSettingsTemplate.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:30135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30135)
 
 ___
 
@@ -77,19 +69,11 @@ ___
 
 • **LightMapCoordinateIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30133)
-
 ___
 
 ### LightMapResolution
 
 • **LightMapResolution**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30134)
 
 ___
 
@@ -97,19 +81,11 @@ ___
 
 • **SectionInfoMap**: [`DatasmithMeshSectionInfoMapTemplate`](ue_ue.DatasmithMeshSectionInfoMapTemplate.md)
 
-#### Defined in
-
-[ue/ue.d.ts:30132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30132)
-
 ___
 
 ### StaticMaterials
 
 • **StaticMaterials**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`DatasmithStaticMaterialTemplate`](ue_ue.DatasmithStaticMaterialTemplate.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:30136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30136)
 
 ___
 
@@ -121,19 +97,11 @@ ___
 
 [DatasmithObjectTemplate](ue_ue.DatasmithObjectTemplate.md).[__tid_DatasmithObjectTemplate__](ue_ue.DatasmithObjectTemplate.md#__tid_datasmithobjecttemplate__)
 
-#### Defined in
-
-[ue/ue.d.ts:29319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29319)
-
 ___
 
 ### \_\_tid\_DatasmithStaticMeshTemplate\_\_
 
 • **\_\_tid\_DatasmithStaticMeshTemplate\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30141)
 
 ___
 
@@ -144,10 +112,6 @@ ___
 #### Inherited from
 
 [DatasmithObjectTemplate](ue_ue.DatasmithObjectTemplate.md).[__tid_Object__](ue_ue.DatasmithObjectTemplate.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -173,10 +137,6 @@ ___
 
 [DatasmithObjectTemplate](ue_ue.DatasmithObjectTemplate.md).[CreateDefaultSubobject](ue_ue.DatasmithObjectTemplate.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -197,10 +157,6 @@ ___
 
 [DatasmithObjectTemplate](ue_ue.DatasmithObjectTemplate.md).[ExecuteUbergraph](ue_ue.DatasmithObjectTemplate.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -214,10 +170,6 @@ ___
 #### Inherited from
 
 [DatasmithObjectTemplate](ue_ue.DatasmithObjectTemplate.md).[GetClass](ue_ue.DatasmithObjectTemplate.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -233,10 +185,6 @@ ___
 
 [DatasmithObjectTemplate](ue_ue.DatasmithObjectTemplate.md).[GetName](ue_ue.DatasmithObjectTemplate.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -251,10 +199,6 @@ ___
 
 [DatasmithObjectTemplate](ue_ue.DatasmithObjectTemplate.md).[GetOuter](ue_ue.DatasmithObjectTemplate.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -268,10 +212,6 @@ ___
 #### Inherited from
 
 [DatasmithObjectTemplate](ue_ue.DatasmithObjectTemplate.md).[GetWorld](ue_ue.DatasmithObjectTemplate.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -294,10 +234,6 @@ ___
 
 [DatasmithObjectTemplate](ue_ue.DatasmithObjectTemplate.md).[Find](ue_ue.DatasmithObjectTemplate.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:30138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30138)
-
 ___
 
 ### Load
@@ -318,10 +254,6 @@ ___
 
 [DatasmithObjectTemplate](ue_ue.DatasmithObjectTemplate.md).[Load](ue_ue.DatasmithObjectTemplate.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:30139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30139)
-
 ___
 
 ### StaticClass
@@ -335,7 +267,3 @@ ___
 #### Overrides
 
 [DatasmithObjectTemplate](ue_ue.DatasmithObjectTemplate.md).[StaticClass](ue_ue.DatasmithObjectTemplate.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:30137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30137)

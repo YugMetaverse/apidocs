@@ -21,19 +21,11 @@
 
 • **Double** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31393)
-
 ___
 
 ### EChaosBufferMode\_MAX
 
 • **EChaosBufferMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31393)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Invalid** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31393)
-
 ___
 
 ### Num
 
 • **Num** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31393)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Triple** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31393)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31393)

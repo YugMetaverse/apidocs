@@ -27,10 +27,6 @@
 
 • **new TemplateFolderRename**()
 
-#### Defined in
-
-[ue/ue.d.ts:30560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30560)
-
 • **new TemplateFolderRename**(`From`, `To`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `From` | `string` |
 | `To` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:30561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30561)
-
 ## Properties
 
 ### From
 
 • **From**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:30562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30562)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **To**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:30563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30563)
-
 ___
 
 ### \_\_tid\_TemplateFolderRename\_\_
 
 • `Private` **\_\_tid\_TemplateFolderRename\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30569)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:30567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30567)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:30568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30568)

@@ -27,10 +27,6 @@
 
 • **new AnimGroupInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:4695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4695)
-
 • **new AnimGroupInfo**(`Name`, `Color`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Name` | `string` |
 | `Color` | [`LinearColor`](ue_ue_s.LinearColor.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:4696](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4696)
-
 ## Properties
 
 ### Color
 
 • **Color**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4698)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:4697](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4697)
-
 ___
 
 ### \_\_tid\_AnimGroupInfo\_\_
 
 • `Private` **\_\_tid\_AnimGroupInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4704)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4702)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4703)

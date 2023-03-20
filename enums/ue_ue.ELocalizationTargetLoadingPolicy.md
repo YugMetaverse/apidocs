@@ -23,19 +23,11 @@
 
 • **Always** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33970)
-
 ___
 
 ### ELocalizationTargetLoadingPolicy\_MAX
 
 • **ELocalizationTargetLoadingPolicy\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33970)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **Editor** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33970)
-
 ___
 
 ### Game
 
 • **Game** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33970)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **Never** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33970)
-
 ___
 
 ### PropertyNames
 
 • **PropertyNames** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33970)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **ToolTips** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33970)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33970)

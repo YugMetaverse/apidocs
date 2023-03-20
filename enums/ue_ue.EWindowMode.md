@@ -20,19 +20,11 @@
 
 • **EWindowMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32402)
-
 ___
 
 ### Fullscreen
 
 • **Fullscreen** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32402)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Windowed** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32402)
-
 ___
 
 ### WindowedFullscreen
 
 • **WindowedFullscreen** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32402)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32402)

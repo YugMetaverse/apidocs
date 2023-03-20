@@ -97,19 +97,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:9777](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9777)
-
 ## Properties
 
 ### DrawColor
 
 • **DrawColor**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9794)
 
 ___
 
@@ -117,19 +109,11 @@ ___
 
 • **EditorStreamingVolumes**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`LevelStreamingVolume`](ue_ue.LevelStreamingVolume.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:9796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9796)
-
 ___
 
 ### FolderPath
 
 • **FolderPath**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:9805](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9805)
 
 ___
 
@@ -137,19 +121,11 @@ ___
 
 • **Keywords**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:9798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9798)
-
 ___
 
 ### LODPackageNames
 
 • **LODPackageNames**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:9781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9781)
 
 ___
 
@@ -157,19 +133,11 @@ ___
 
 • **LevelColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9795)
-
 ___
 
 ### LevelLODIndex
 
 • **LevelLODIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9783)
 
 ___
 
@@ -177,19 +145,11 @@ ___
 
 • **LevelTransform**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9782)
-
 ___
 
 ### LoadedLevel
 
 • **LoadedLevel**: [`Level`](ue_ue.Level.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9803)
 
 ___
 
@@ -197,19 +157,11 @@ ___
 
 • **MinTimeBetweenVolumeUnloadRequests**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9797](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9797)
-
 ___
 
 ### OnLevelHidden
 
 • **OnLevelHidden**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<() => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:9802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9802)
 
 ___
 
@@ -217,19 +169,11 @@ ___
 
 • **OnLevelLoaded**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<() => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:9799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9799)
-
 ___
 
 ### OnLevelShown
 
 • **OnLevelShown**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<() => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:9801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9801)
 
 ___
 
@@ -237,19 +181,11 @@ ___
 
 • **OnLevelUnloaded**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<() => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:9800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9800)
-
 ___
 
 ### PackageName
 
 • **PackageName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:9778](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9778)
 
 ___
 
@@ -257,19 +193,11 @@ ___
 
 • **PackageNameToLoad**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:9780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9780)
-
 ___
 
 ### PendingUnloadLevel
 
 • **PendingUnloadLevel**: [`Level`](ue_ue.Level.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9804)
 
 ___
 
@@ -277,29 +205,17 @@ ___
 
 • **StreamingPriority**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9784)
-
 ___
 
 ### WorldAsset
 
 • **WorldAsset**: [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`World`](ue_ue.World.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:9779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9779)
-
 ___
 
 ### \_\_tid\_LevelStreaming\_\_
 
 • **\_\_tid\_LevelStreaming\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9822)
 
 ___
 
@@ -311,19 +227,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bDisableDistanceStreaming
 
 • **bDisableDistanceStreaming**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9792)
 
 ___
 
@@ -331,19 +239,11 @@ ___
 
 • **bDrawOnLevelStatusMap**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9793)
-
 ___
 
 ### bIsStatic
 
 • **bIsStatic**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9789)
 
 ___
 
@@ -351,19 +251,11 @@ ___
 
 • **bLocked**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9788)
-
 ___
 
 ### bShouldBeLoaded
 
 • **bShouldBeLoaded**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9787)
 
 ___
 
@@ -371,19 +263,11 @@ ___
 
 • **bShouldBeVisible**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9786)
-
 ___
 
 ### bShouldBeVisibleInEditor
 
 • **bShouldBeVisibleInEditor**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9785](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9785)
 
 ___
 
@@ -391,19 +275,11 @@ ___
 
 • **bShouldBlockOnLoad**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9790)
-
 ___
 
 ### bShouldBlockOnUnload
 
 • **bShouldBlockOnUnload**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9791)
 
 ## Methods
 
@@ -429,10 +305,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### CreateInstance
@@ -448,10 +320,6 @@ ___
 #### Returns
 
 [`LevelStreaming`](ue_ue.LevelStreaming.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9806)
 
 ___
 
@@ -473,10 +341,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -491,10 +355,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetLevelScriptActor
@@ -505,10 +365,6 @@ ___
 
 [`LevelScriptActor`](ue_ue.LevelScriptActor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9807)
-
 ___
 
 ### GetLoadedLevel
@@ -518,10 +374,6 @@ ___
 #### Returns
 
 [`Level`](ue_ue.Level.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9808](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9808)
 
 ___
 
@@ -537,10 +389,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -554,10 +402,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -573,10 +417,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### GetWorldAssetPackageFName
@@ -586,10 +426,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:9809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9809)
 
 ___
 
@@ -601,10 +437,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9810)
-
 ___
 
 ### IsLevelVisible
@@ -615,10 +447,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9811)
-
 ___
 
 ### IsStreamingStatePending
@@ -628,10 +456,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9812](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9812)
 
 ___
 
@@ -649,10 +473,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:9813](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9813)
-
 ___
 
 ### SetPriority
@@ -668,10 +488,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:9814](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9814)
 
 ___
 
@@ -689,10 +505,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:9815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9815)
-
 ___
 
 ### SetShouldBeVisible
@@ -709,10 +521,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:9816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9816)
-
 ___
 
 ### ShouldBeLoaded
@@ -722,10 +530,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9817)
 
 ___
 
@@ -748,10 +552,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:9819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9819)
-
 ___
 
 ### Load
@@ -772,10 +572,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:9820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9820)
-
 ___
 
 ### StaticClass
@@ -789,7 +585,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:9818](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9818)

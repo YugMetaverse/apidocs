@@ -20,19 +20,11 @@
 
 • **Any** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44863)
-
 ___
 
 ### Client
 
 • **Client** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44863)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **NetworkEmulationTarget\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44863)
-
 ___
 
 ### Server
 
 • **Server** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44863)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44863)

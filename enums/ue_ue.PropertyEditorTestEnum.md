@@ -23,19 +23,11 @@
 
 • **PropertyEditorTest\_Enum1** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:58705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58705)
-
 ___
 
 ### PropertyEditorTest\_Enum2
 
 • **PropertyEditorTest\_Enum2** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:58705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58705)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **PropertyEditorTest\_Enum3** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:58705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58705)
-
 ___
 
 ### PropertyEditorTest\_Enum4
 
 • **PropertyEditorTest\_Enum4** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:58705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58705)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **PropertyEditorTest\_Enum5** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:58705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58705)
-
 ___
 
 ### PropertyEditorTest\_Enum6
 
 • **PropertyEditorTest\_Enum6** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:58705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58705)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **PropertyEditorTest\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:58705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58705)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:58705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58705)

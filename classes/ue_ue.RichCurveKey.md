@@ -34,10 +34,6 @@
 
 • **new RichCurveKey**()
 
-#### Defined in
-
-[ue/ue.d.ts:1636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1636)
-
 • **new RichCurveKey**(`InterpMode`, `TangentMode`, `TangentWeightMode`, `Time`, `Value`, `ArriveTangent`, `ArriveTangentWeight`, `LeaveTangent`, `LeaveTangentWeight`)
 
 #### Parameters
@@ -54,19 +50,11 @@
 | `LeaveTangent` | `number` |
 | `LeaveTangentWeight` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:1637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1637)
-
 ## Properties
 
 ### ArriveTangent
 
 • **ArriveTangent**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1643)
 
 ___
 
@@ -74,19 +62,11 @@ ___
 
 • **ArriveTangentWeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1644)
-
 ___
 
 ### InterpMode
 
 • **InterpMode**: [`ERichCurveInterpMode`](../enums/ue_ue.ERichCurveInterpMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1638)
 
 ___
 
@@ -94,19 +74,11 @@ ___
 
 • **LeaveTangent**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1645)
-
 ___
 
 ### LeaveTangentWeight
 
 • **LeaveTangentWeight**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1646)
 
 ___
 
@@ -114,19 +86,11 @@ ___
 
 • **TangentMode**: [`ERichCurveTangentMode`](../enums/ue_ue.ERichCurveTangentMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1639)
-
 ___
 
 ### TangentWeightMode
 
 • **TangentWeightMode**: [`ERichCurveTangentWeightMode`](../enums/ue_ue.ERichCurveTangentWeightMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1640)
 
 ___
 
@@ -134,29 +98,17 @@ ___
 
 • **Time**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1641)
-
 ___
 
 ### Value
 
 • **Value**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1642)
-
 ___
 
 ### \_\_tid\_RichCurveKey\_\_
 
 • `Private` **\_\_tid\_RichCurveKey\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1652)
 
 ## Methods
 
@@ -172,10 +124,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1650)
-
 ___
 
 ### StaticStruct
@@ -185,7 +133,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1651)

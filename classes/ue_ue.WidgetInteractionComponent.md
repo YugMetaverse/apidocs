@@ -216,19 +216,11 @@
 
 [SceneComponent](ue_ue.SceneComponent.md).[constructor](ue_ue.SceneComponent.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:66294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66294)
-
 ## Properties
 
 ### ArrowComponent
 
 • **ArrowComponent**: [`ArrowComponent`](ue_ue.ArrowComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66312)
 
 ___
 
@@ -240,10 +232,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[AssetUserData](ue_ue.SceneComponent.md#assetuserdata)
 
-#### Defined in
-
-[ue/ue.d.ts:291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L291)
-
 ___
 
 ### AttachChildren
@@ -253,10 +241,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[AttachChildren](ue_ue.SceneComponent.md#attachchildren)
-
-#### Defined in
-
-[ue/ue.d.ts:12873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12873)
 
 ___
 
@@ -268,10 +252,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[AttachParent](ue_ue.SceneComponent.md#attachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12871)
-
 ___
 
 ### AttachSocketName
@@ -281,10 +261,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[AttachSocketName](ue_ue.SceneComponent.md#attachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12872)
 
 ___
 
@@ -296,10 +272,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[ClientAttachedChildren](ue_ue.SceneComponent.md#clientattachedchildren)
 
-#### Defined in
-
-[ue/ue.d.ts:12874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12874)
-
 ___
 
 ### ComponentTags
@@ -309,10 +281,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[ComponentTags](ue_ue.SceneComponent.md#componenttags)
-
-#### Defined in
-
-[ue/ue.d.ts:290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L290)
 
 ___
 
@@ -324,10 +292,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[ComponentVelocity](ue_ue.SceneComponent.md#componentvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12878)
-
 ___
 
 ### CreationMethod
@@ -338,29 +302,17 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[CreationMethod](ue_ue.SceneComponent.md#creationmethod)
 
-#### Defined in
-
-[ue/ue.d.ts:302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L302)
-
 ___
 
 ### CustomHitResult
 
 • **CustomHitResult**: [`HitResult`](ue_ue.HitResult.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66304)
-
 ___
 
 ### DebugColor
 
 • **DebugColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66303)
 
 ___
 
@@ -372,19 +324,11 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[DetailMode](ue_ue.SceneComponent.md#detailmode)
 
-#### Defined in
-
-[ue/ue.d.ts:12893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12893)
-
 ___
 
 ### HoveredWidgetComponent
 
 • **HoveredWidgetComponent**: [`WidgetComponent`](ue_ue.WidgetComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66307)
 
 ___
 
@@ -392,19 +336,11 @@ ___
 
 • **InteractionDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:66299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66299)
-
 ___
 
 ### InteractionSource
 
 • **InteractionSource**: [`EWidgetInteractionSource`](../enums/ue_ue.EWidgetInteractionSource.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66300)
 
 ___
 
@@ -412,29 +348,17 @@ ___
 
 • **LastHitResult**: [`HitResult`](ue_ue.HitResult.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66308)
-
 ___
 
 ### LastLocalHitLocation
 
 • **LastLocalHitLocation**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66306)
-
 ___
 
 ### LocalHitLocation
 
 • **LocalHitLocation**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66305)
 
 ___
 
@@ -446,10 +370,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[Mobility](ue_ue.SceneComponent.md#mobility)
 
-#### Defined in
-
-[ue/ue.d.ts:12892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12892)
-
 ___
 
 ### OnComponentActivated
@@ -459,10 +379,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[OnComponentActivated](ue_ue.SceneComponent.md#oncomponentactivated)
-
-#### Defined in
-
-[ue/ue.d.ts:303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L303)
 
 ___
 
@@ -474,19 +390,11 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[OnComponentDeactivated](ue_ue.SceneComponent.md#oncomponentdeactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L304)
-
 ___
 
 ### OnHoveredWidgetChanged
 
 • **OnHoveredWidgetChanged**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`WidgetComponent`: [`$Nullable`](../modules/puerts.md#$nullable)<[`WidgetComponent`](ue_ue.WidgetComponent.md)\>, `PreviousWidgetComponent`: [`$Nullable`](../modules/puerts.md#$nullable)<[`WidgetComponent`](ue_ue.WidgetComponent.md)\>) => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:66295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66295)
 
 ___
 
@@ -498,10 +406,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[PhysicsVolume](ue_ue.SceneComponent.md#physicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12870)
-
 ___
 
 ### PhysicsVolumeChangedDelegate
@@ -512,19 +416,11 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[PhysicsVolumeChangedDelegate](ue_ue.SceneComponent.md#physicsvolumechangeddelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:12894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12894)
-
 ___
 
 ### PointerIndex
 
 • **PointerIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:66297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66297)
 
 ___
 
@@ -536,10 +432,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[PrimaryComponentTick](ue_ue.SceneComponent.md#primarycomponenttick)
 
-#### Defined in
-
-[ue/ue.d.ts:289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L289)
-
 ___
 
 ### RelativeLocation
@@ -549,10 +441,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[RelativeLocation](ue_ue.SceneComponent.md#relativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12875)
 
 ___
 
@@ -564,10 +452,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[RelativeRotation](ue_ue.SceneComponent.md#relativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12876)
-
 ___
 
 ### RelativeScale3D
@@ -578,19 +462,11 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[RelativeScale3D](ue_ue.SceneComponent.md#relativescale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:12877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12877)
-
 ___
 
 ### TraceChannel
 
 • **TraceChannel**: [`ECollisionChannel`](../enums/ue_ue.ECollisionChannel.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66298)
 
 ___
 
@@ -602,19 +478,11 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[UCSModifiedProperties](ue_ue.SceneComponent.md#ucsmodifiedproperties)
 
-#### Defined in
-
-[ue/ue.d.ts:305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L305)
-
 ___
 
 ### VirtualUserIndex
 
 • **VirtualUserIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:66296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66296)
 
 ___
 
@@ -626,10 +494,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[__tid_ActorComponent__](ue_ue.SceneComponent.md#__tid_actorcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L336)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -639,10 +503,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[__tid_Object__](ue_ue.SceneComponent.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -654,19 +514,11 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[__tid_SceneComponent__](ue_ue.SceneComponent.md#__tid_scenecomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:12961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12961)
-
 ___
 
 ### \_\_tid\_WidgetInteractionComponent\_\_
 
 • **\_\_tid\_WidgetInteractionComponent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:66332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66332)
 
 ___
 
@@ -678,10 +530,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[bAbsoluteLocation](ue_ue.SceneComponent.md#babsolutelocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12880)
-
 ___
 
 ### bAbsoluteRotation
@@ -691,10 +539,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[bAbsoluteRotation](ue_ue.SceneComponent.md#babsoluterotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12881)
 
 ___
 
@@ -706,10 +550,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[bAbsoluteScale](ue_ue.SceneComponent.md#babsolutescale)
 
-#### Defined in
-
-[ue/ue.d.ts:12882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12882)
-
 ___
 
 ### bAutoActivate
@@ -719,10 +559,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[bAutoActivate](ue_ue.SceneComponent.md#bautoactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L296)
 
 ___
 
@@ -734,10 +570,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[bBoundsChangeTriggersStreamingDataRebuild](ue_ue.SceneComponent.md#bboundschangetriggersstreamingdatarebuild)
 
-#### Defined in
-
-[ue/ue.d.ts:12889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12889)
-
 ___
 
 ### bCanEverAffectNavigation
@@ -747,10 +579,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[bCanEverAffectNavigation](ue_ue.SceneComponent.md#bcaneveraffectnavigation)
-
-#### Defined in
-
-[ue/ue.d.ts:299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L299)
 
 ___
 
@@ -762,10 +590,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[bComponentToWorldUpdated](ue_ue.SceneComponent.md#bcomponenttoworldupdated)
 
-#### Defined in
-
-[ue/ue.d.ts:12879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12879)
-
 ___
 
 ### bCreatedByConstructionScript
@@ -775,10 +599,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[bCreatedByConstructionScript](ue_ue.SceneComponent.md#bcreatedbyconstructionscript)
-
-#### Defined in
-
-[ue/ue.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L294)
 
 ___
 
@@ -790,19 +610,11 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[bEditableWhenInherited](ue_ue.SceneComponent.md#beditablewheninherited)
 
-#### Defined in
-
-[ue/ue.d.ts:298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L298)
-
 ___
 
 ### bEnableHitTesting
 
 • **bEnableHitTesting**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:66301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66301)
 
 ___
 
@@ -814,10 +626,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[bHiddenInGame](ue_ue.SceneComponent.md#bhiddeningame)
 
-#### Defined in
-
-[ue/ue.d.ts:12884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12884)
-
 ___
 
 ### bInstanceComponent
@@ -827,10 +635,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[bInstanceComponent](ue_ue.SceneComponent.md#binstancecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L295)
 
 ___
 
@@ -842,10 +646,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[bIsActive](ue_ue.SceneComponent.md#bisactive)
 
-#### Defined in
-
-[ue/ue.d.ts:297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L297)
-
 ___
 
 ### bIsEditorOnly
@@ -856,19 +656,11 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[bIsEditorOnly](ue_ue.SceneComponent.md#biseditoronly)
 
-#### Defined in
-
-[ue/ue.d.ts:300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L300)
-
 ___
 
 ### bIsHoveredWidgetFocusable
 
 • **bIsHoveredWidgetFocusable**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:66310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66310)
 
 ___
 
@@ -876,19 +668,11 @@ ___
 
 • **bIsHoveredWidgetHitTestVisible**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:66311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66311)
-
 ___
 
 ### bIsHoveredWidgetInteractable
 
 • **bIsHoveredWidgetInteractable**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:66309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66309)
 
 ___
 
@@ -900,10 +684,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[bIsVisualizationComponent](ue_ue.SceneComponent.md#bisvisualizationcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L301)
-
 ___
 
 ### bNetAddressable
@@ -913,10 +693,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[bNetAddressable](ue_ue.SceneComponent.md#bnetaddressable)
-
-#### Defined in
-
-[ue/ue.d.ts:293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L293)
 
 ___
 
@@ -928,10 +704,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[bReplicates](ue_ue.SceneComponent.md#breplicates)
 
-#### Defined in
-
-[ue/ue.d.ts:292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L292)
-
 ___
 
 ### bShouldBeAttached
@@ -941,10 +713,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[bShouldBeAttached](ue_ue.SceneComponent.md#bshouldbeattached)
-
-#### Defined in
-
-[ue/ue.d.ts:12885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12885)
 
 ___
 
@@ -956,10 +724,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[bShouldSnapLocationWhenAttached](ue_ue.SceneComponent.md#bshouldsnaplocationwhenattached)
 
-#### Defined in
-
-[ue/ue.d.ts:12886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12886)
-
 ___
 
 ### bShouldSnapRotationWhenAttached
@@ -969,10 +733,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[bShouldSnapRotationWhenAttached](ue_ue.SceneComponent.md#bshouldsnaprotationwhenattached)
-
-#### Defined in
-
-[ue/ue.d.ts:12887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12887)
 
 ___
 
@@ -984,19 +744,11 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[bShouldUpdatePhysicsVolume](ue_ue.SceneComponent.md#bshouldupdatephysicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12888)
-
 ___
 
 ### bShowDebug
 
 • **bShowDebug**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:66302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66302)
 
 ___
 
@@ -1008,10 +760,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[bUseAttachParentBound](ue_ue.SceneComponent.md#buseattachparentbound)
 
-#### Defined in
-
-[ue/ue.d.ts:12890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12890)
-
 ___
 
 ### bVisible
@@ -1022,10 +770,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[bVisible](ue_ue.SceneComponent.md#bvisible)
 
-#### Defined in
-
-[ue/ue.d.ts:12883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12883)
-
 ___
 
 ### bVisualizeComponent
@@ -1035,10 +779,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[bVisualizeComponent](ue_ue.SceneComponent.md#bvisualizecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12891)
 
 ## Methods
 
@@ -1060,10 +800,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[Activate](ue_ue.SceneComponent.md#activate)
 
-#### Defined in
-
-[ue/ue.d.ts:306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L306)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -1083,10 +819,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[AddTickPrerequisiteActor](ue_ue.SceneComponent.md#addtickprerequisiteactor)
-
-#### Defined in
-
-[ue/ue.d.ts:307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L307)
 
 ___
 
@@ -1108,10 +840,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[AddTickPrerequisiteComponent](ue_ue.SceneComponent.md#addtickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L308)
-
 ___
 
 ### ComponentHasTag
@@ -1131,10 +859,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[ComponentHasTag](ue_ue.SceneComponent.md#componenthastag)
-
-#### Defined in
-
-[ue/ue.d.ts:309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L309)
 
 ___
 
@@ -1160,10 +884,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[CreateDefaultSubobject](ue_ue.SceneComponent.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### Deactivate
@@ -1177,10 +897,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[Deactivate](ue_ue.SceneComponent.md#deactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L310)
 
 ___
 
@@ -1203,10 +919,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[DetachFromParent](ue_ue.SceneComponent.md#detachfromparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12895)
-
 ___
 
 ### DoesSocketExist
@@ -1226,10 +938,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[DoesSocketExist](ue_ue.SceneComponent.md#doessocketexist)
-
-#### Defined in
-
-[ue/ue.d.ts:12896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12896)
 
 ___
 
@@ -1251,10 +959,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[ExecuteUbergraph](ue_ue.SceneComponent.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### Get2DHitLocation
@@ -1264,10 +968,6 @@ ___
 #### Returns
 
 [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66313)
 
 ___
 
@@ -1283,10 +983,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[GetAllSocketNames](ue_ue.SceneComponent.md#getallsocketnames)
 
-#### Defined in
-
-[ue/ue.d.ts:12897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12897)
-
 ___
 
 ### GetAttachParent
@@ -1301,10 +997,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[GetAttachParent](ue_ue.SceneComponent.md#getattachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12898)
-
 ___
 
 ### GetAttachSocketName
@@ -1318,10 +1010,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[GetAttachSocketName](ue_ue.SceneComponent.md#getattachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12899)
 
 ___
 
@@ -1342,10 +1030,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[GetChildComponent](ue_ue.SceneComponent.md#getchildcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12900)
 
 ___
 
@@ -1368,10 +1052,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[GetChildrenComponents](ue_ue.SceneComponent.md#getchildrencomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12901)
-
 ___
 
 ### GetClass
@@ -1385,10 +1065,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[GetClass](ue_ue.SceneComponent.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -1404,10 +1080,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[GetComponentTickInterval](ue_ue.SceneComponent.md#getcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L311)
-
 ___
 
 ### GetComponentVelocity
@@ -1421,10 +1093,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[GetComponentVelocity](ue_ue.SceneComponent.md#getcomponentvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12902)
 
 ___
 
@@ -1440,10 +1108,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[GetForwardVector](ue_ue.SceneComponent.md#getforwardvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12903)
-
 ___
 
 ### GetHoveredWidgetComponent
@@ -1454,10 +1118,6 @@ ___
 
 [`WidgetComponent`](ue_ue.WidgetComponent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66314)
-
 ___
 
 ### GetLastHitResult
@@ -1467,10 +1127,6 @@ ___
 #### Returns
 
 [`HitResult`](ue_ue.HitResult.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66315)
 
 ___
 
@@ -1486,10 +1142,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[GetName](ue_ue.SceneComponent.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetNumChildrenComponents
@@ -1503,10 +1155,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[GetNumChildrenComponents](ue_ue.SceneComponent.md#getnumchildrencomponents)
-
-#### Defined in
-
-[ue/ue.d.ts:12904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12904)
 
 ___
 
@@ -1522,10 +1170,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[GetOuter](ue_ue.SceneComponent.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetOwner
@@ -1539,10 +1183,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[GetOwner](ue_ue.SceneComponent.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L312)
 
 ___
 
@@ -1564,10 +1204,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[GetParentComponents](ue_ue.SceneComponent.md#getparentcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12905)
-
 ___
 
 ### GetPhysicsVolume
@@ -1581,10 +1217,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[GetPhysicsVolume](ue_ue.SceneComponent.md#getphysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12906)
 
 ___
 
@@ -1600,10 +1232,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[GetRelativeTransform](ue_ue.SceneComponent.md#getrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12907)
-
 ___
 
 ### GetRightVector
@@ -1618,10 +1246,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[GetRightVector](ue_ue.SceneComponent.md#getrightvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12908)
-
 ___
 
 ### GetShouldUpdatePhysicsVolume
@@ -1635,10 +1259,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[GetShouldUpdatePhysicsVolume](ue_ue.SceneComponent.md#getshouldupdatephysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12909)
 
 ___
 
@@ -1660,10 +1280,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[GetSocketLocation](ue_ue.SceneComponent.md#getsocketlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12910)
-
 ___
 
 ### GetSocketQuaternion
@@ -1684,10 +1300,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[GetSocketQuaternion](ue_ue.SceneComponent.md#getsocketquaternion)
 
-#### Defined in
-
-[ue/ue.d.ts:12911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12911)
-
 ___
 
 ### GetSocketRotation
@@ -1707,10 +1319,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[GetSocketRotation](ue_ue.SceneComponent.md#getsocketrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12912)
 
 ___
 
@@ -1733,10 +1341,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[GetSocketTransform](ue_ue.SceneComponent.md#getsockettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12913)
-
 ___
 
 ### GetUpVector
@@ -1750,10 +1354,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[GetUpVector](ue_ue.SceneComponent.md#getupvector)
-
-#### Defined in
-
-[ue/ue.d.ts:12914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12914)
 
 ___
 
@@ -1769,10 +1369,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[GetWorld](ue_ue.SceneComponent.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### IsActive
@@ -1786,10 +1382,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[IsActive](ue_ue.SceneComponent.md#isactive)
-
-#### Defined in
-
-[ue/ue.d.ts:313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L313)
 
 ___
 
@@ -1805,10 +1397,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[IsAnySimulatingPhysics](ue_ue.SceneComponent.md#isanysimulatingphysics)
 
-#### Defined in
-
-[ue/ue.d.ts:12915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12915)
-
 ___
 
 ### IsBeingDestroyed
@@ -1822,10 +1410,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[IsBeingDestroyed](ue_ue.SceneComponent.md#isbeingdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L314)
 
 ___
 
@@ -1841,10 +1425,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[IsComponentTickEnabled](ue_ue.SceneComponent.md#iscomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L315)
-
 ___
 
 ### IsOverFocusableWidget
@@ -1854,10 +1434,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:66316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66316)
 
 ___
 
@@ -1869,10 +1445,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:66317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66317)
-
 ___
 
 ### IsOverInteractableWidget
@@ -1882,10 +1454,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:66318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66318)
 
 ___
 
@@ -1907,10 +1475,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[IsSimulatingPhysics](ue_ue.SceneComponent.md#issimulatingphysics)
 
-#### Defined in
-
-[ue/ue.d.ts:12916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12916)
-
 ___
 
 ### IsVisible
@@ -1924,10 +1488,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[IsVisible](ue_ue.SceneComponent.md#isvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:12917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12917)
 
 ___
 
@@ -1952,10 +1512,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[K2_AddLocalOffset](ue_ue.SceneComponent.md#k2_addlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:12918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12918)
-
 ___
 
 ### K2\_AddLocalRotation
@@ -1978,10 +1534,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[K2_AddLocalRotation](ue_ue.SceneComponent.md#k2_addlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12919)
 
 ___
 
@@ -2006,10 +1558,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[K2_AddLocalTransform](ue_ue.SceneComponent.md#k2_addlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12920)
-
 ___
 
 ### K2\_AddRelativeLocation
@@ -2032,10 +1580,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[K2_AddRelativeLocation](ue_ue.SceneComponent.md#k2_addrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12921)
 
 ___
 
@@ -2060,10 +1604,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[K2_AddRelativeRotation](ue_ue.SceneComponent.md#k2_addrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12922)
-
 ___
 
 ### K2\_AddWorldOffset
@@ -2086,10 +1626,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[K2_AddWorldOffset](ue_ue.SceneComponent.md#k2_addworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:12923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12923)
 
 ___
 
@@ -2114,10 +1650,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[K2_AddWorldRotation](ue_ue.SceneComponent.md#k2_addworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12924)
-
 ___
 
 ### K2\_AddWorldTransform
@@ -2141,10 +1673,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[K2_AddWorldTransform](ue_ue.SceneComponent.md#k2_addworldtransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12925)
-
 ___
 
 ### K2\_AttachTo
@@ -2167,10 +1695,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[K2_AttachTo](ue_ue.SceneComponent.md#k2_attachto)
-
-#### Defined in
-
-[ue/ue.d.ts:12926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12926)
 
 ___
 
@@ -2197,10 +1721,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[K2_AttachToComponent](ue_ue.SceneComponent.md#k2_attachtocomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12927)
-
 ___
 
 ### K2\_DestroyComponent
@@ -2220,10 +1740,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[K2_DestroyComponent](ue_ue.SceneComponent.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L316)
 
 ___
 
@@ -2248,10 +1764,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[K2_DetachFromComponent](ue_ue.SceneComponent.md#k2_detachfromcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12928)
-
 ___
 
 ### K2\_GetComponentLocation
@@ -2265,10 +1777,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[K2_GetComponentLocation](ue_ue.SceneComponent.md#k2_getcomponentlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12929)
 
 ___
 
@@ -2284,10 +1792,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[K2_GetComponentRotation](ue_ue.SceneComponent.md#k2_getcomponentrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12930)
-
 ___
 
 ### K2\_GetComponentScale
@@ -2302,10 +1806,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[K2_GetComponentScale](ue_ue.SceneComponent.md#k2_getcomponentscale)
 
-#### Defined in
-
-[ue/ue.d.ts:12931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12931)
-
 ___
 
 ### K2\_GetComponentToWorld
@@ -2319,10 +1819,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[K2_GetComponentToWorld](ue_ue.SceneComponent.md#k2_getcomponenttoworld)
-
-#### Defined in
-
-[ue/ue.d.ts:12932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12932)
 
 ___
 
@@ -2346,10 +1842,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[K2_SetRelativeLocation](ue_ue.SceneComponent.md#k2_setrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12933)
 
 ___
 
@@ -2375,10 +1867,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[K2_SetRelativeLocationAndRotation](ue_ue.SceneComponent.md#k2_setrelativelocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12934)
-
 ___
 
 ### K2\_SetRelativeRotation
@@ -2401,10 +1889,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[K2_SetRelativeRotation](ue_ue.SceneComponent.md#k2_setrelativerotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12935)
 
 ___
 
@@ -2429,10 +1913,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[K2_SetRelativeTransform](ue_ue.SceneComponent.md#k2_setrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12936)
-
 ___
 
 ### K2\_SetWorldLocation
@@ -2455,10 +1935,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[K2_SetWorldLocation](ue_ue.SceneComponent.md#k2_setworldlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12937)
 
 ___
 
@@ -2484,10 +1960,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[K2_SetWorldLocationAndRotation](ue_ue.SceneComponent.md#k2_setworldlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12938)
-
 ___
 
 ### K2\_SetWorldRotation
@@ -2510,10 +1982,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[K2_SetWorldRotation](ue_ue.SceneComponent.md#k2_setworldrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12939)
 
 ___
 
@@ -2538,10 +2006,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[K2_SetWorldTransform](ue_ue.SceneComponent.md#k2_setworldtransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12940)
-
 ___
 
 ### OnRep\_AttachChildren
@@ -2555,10 +2019,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[OnRep_AttachChildren](ue_ue.SceneComponent.md#onrep_attachchildren)
-
-#### Defined in
-
-[ue/ue.d.ts:12941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12941)
 
 ___
 
@@ -2574,10 +2034,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[OnRep_AttachParent](ue_ue.SceneComponent.md#onrep_attachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12942)
-
 ___
 
 ### OnRep\_AttachSocketName
@@ -2591,10 +2047,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[OnRep_AttachSocketName](ue_ue.SceneComponent.md#onrep_attachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12943)
 
 ___
 
@@ -2610,10 +2062,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[OnRep_IsActive](ue_ue.SceneComponent.md#onrep_isactive)
 
-#### Defined in
-
-[ue/ue.d.ts:317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L317)
-
 ___
 
 ### OnRep\_Transform
@@ -2627,10 +2075,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[OnRep_Transform](ue_ue.SceneComponent.md#onrep_transform)
-
-#### Defined in
-
-[ue/ue.d.ts:12944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12944)
 
 ___
 
@@ -2652,10 +2096,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[OnRep_Visibility](ue_ue.SceneComponent.md#onrep_visibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12945)
-
 ___
 
 ### PressAndReleaseKey
@@ -2671,10 +2111,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:66319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66319)
 
 ___
 
@@ -2693,10 +2129,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:66320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66320)
-
 ___
 
 ### PressPointerKey
@@ -2713,10 +2145,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:66321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66321)
-
 ___
 
 ### ReceiveBeginPlay
@@ -2730,10 +2158,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[ReceiveBeginPlay](ue_ue.SceneComponent.md#receivebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L318)
 
 ___
 
@@ -2755,10 +2179,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[ReceiveEndPlay](ue_ue.SceneComponent.md#receiveendplay)
 
-#### Defined in
-
-[ue/ue.d.ts:319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L319)
-
 ___
 
 ### ReceiveTick
@@ -2779,10 +2199,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[ReceiveTick](ue_ue.SceneComponent.md#receivetick)
 
-#### Defined in
-
-[ue/ue.d.ts:320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L320)
-
 ___
 
 ### RegisterComponent
@@ -2796,10 +2212,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[RegisterComponent](ue_ue.SceneComponent.md#registercomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L321)
 
 ___
 
@@ -2817,10 +2229,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:66322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66322)
-
 ___
 
 ### ReleasePointerKey
@@ -2836,10 +2244,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:66323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66323)
 
 ___
 
@@ -2861,10 +2265,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[RemoveTickPrerequisiteActor](ue_ue.SceneComponent.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -2885,10 +2285,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[RemoveTickPrerequisiteComponent](ue_ue.SceneComponent.md#removetickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L323)
-
 ___
 
 ### ResetRelativeTransform
@@ -2902,10 +2298,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[ResetRelativeTransform](ue_ue.SceneComponent.md#resetrelativetransform)
-
-#### Defined in
-
-[ue/ue.d.ts:12946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12946)
 
 ___
 
@@ -2923,10 +2315,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:66324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66324)
-
 ___
 
 ### SendKeyChar
@@ -2943,10 +2331,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:66325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66325)
 
 ___
 
@@ -2970,10 +2354,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[SetAbsolute](ue_ue.SceneComponent.md#setabsolute)
 
-#### Defined in
-
-[ue/ue.d.ts:12947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12947)
-
 ___
 
 ### SetActive
@@ -2995,10 +2375,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[SetActive](ue_ue.SceneComponent.md#setactive)
 
-#### Defined in
-
-[ue/ue.d.ts:324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L324)
-
 ___
 
 ### SetAutoActivate
@@ -3018,10 +2394,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[SetAutoActivate](ue_ue.SceneComponent.md#setautoactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L325)
 
 ___
 
@@ -3043,10 +2415,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[SetComponentTickEnabled](ue_ue.SceneComponent.md#setcomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L326)
-
 ___
 
 ### SetComponentTickInterval
@@ -3067,10 +2435,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[SetComponentTickInterval](ue_ue.SceneComponent.md#setcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L327)
-
 ___
 
 ### SetCustomHitResult
@@ -3087,10 +2451,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:66326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66326)
-
 ___
 
 ### SetFocus
@@ -3106,10 +2466,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:66327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66327)
 
 ___
 
@@ -3132,10 +2488,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[SetHiddenInGame](ue_ue.SceneComponent.md#sethiddeningame)
 
-#### Defined in
-
-[ue/ue.d.ts:12948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12948)
-
 ___
 
 ### SetIsReplicated
@@ -3155,10 +2507,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[SetIsReplicated](ue_ue.SceneComponent.md#setisreplicated)
-
-#### Defined in
-
-[ue/ue.d.ts:328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L328)
 
 ___
 
@@ -3180,10 +2528,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[SetMobility](ue_ue.SceneComponent.md#setmobility)
 
-#### Defined in
-
-[ue/ue.d.ts:12949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12949)
-
 ___
 
 ### SetRelativeScale3D
@@ -3203,10 +2547,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[SetRelativeScale3D](ue_ue.SceneComponent.md#setrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:12950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12950)
 
 ___
 
@@ -3228,10 +2568,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[SetShouldUpdatePhysicsVolume](ue_ue.SceneComponent.md#setshouldupdatephysicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12951)
-
 ___
 
 ### SetTickGroup
@@ -3252,10 +2588,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[SetTickGroup](ue_ue.SceneComponent.md#settickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L330)
-
 ___
 
 ### SetTickableWhenPaused
@@ -3275,10 +2607,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[SetTickableWhenPaused](ue_ue.SceneComponent.md#settickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L329)
 
 ___
 
@@ -3301,10 +2629,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[SetVisibility](ue_ue.SceneComponent.md#setvisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12953)
-
 ___
 
 ### SetWorldScale3D
@@ -3324,10 +2648,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[SetWorldScale3D](ue_ue.SceneComponent.md#setworldscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:12954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12954)
 
 ___
 
@@ -3350,10 +2670,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[SetupAttachment](ue_ue.SceneComponent.md#setupattachment)
 
-#### Defined in
-
-[ue/ue.d.ts:12952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12952)
-
 ___
 
 ### SnapTo
@@ -3375,10 +2691,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[SnapTo](ue_ue.SceneComponent.md#snapto)
 
-#### Defined in
-
-[ue/ue.d.ts:12955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12955)
-
 ___
 
 ### ToggleActive
@@ -3392,10 +2704,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[ToggleActive](ue_ue.SceneComponent.md#toggleactive)
-
-#### Defined in
-
-[ue/ue.d.ts:331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L331)
 
 ___
 
@@ -3416,10 +2724,6 @@ ___
 #### Inherited from
 
 [SceneComponent](ue_ue.SceneComponent.md).[ToggleVisibility](ue_ue.SceneComponent.md#togglevisibility)
-
-#### Defined in
-
-[ue/ue.d.ts:12956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12956)
 
 ___
 
@@ -3442,10 +2746,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[Find](ue_ue.SceneComponent.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:66329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66329)
-
 ___
 
 ### Load
@@ -3466,10 +2766,6 @@ ___
 
 [SceneComponent](ue_ue.SceneComponent.md).[Load](ue_ue.SceneComponent.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:66330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66330)
-
 ___
 
 ### StaticClass
@@ -3483,7 +2779,3 @@ ___
 #### Overrides
 
 [SceneComponent](ue_ue.SceneComponent.md).[StaticClass](ue_ue.SceneComponent.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:66328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66328)

@@ -55,19 +55,11 @@
 
 [SaveGame](ue_ue.SaveGame.md).[constructor](ue_ue.SaveGame.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:46534](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46534)
-
 ## Properties
 
 ### ComponentWorldTransform
 
 • **ComponentWorldTransform**: [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46536](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46536)
 
 ___
 
@@ -75,29 +67,17 @@ ___
 
 • **PinTransform**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46537)
-
 ___
 
 ### PinnedID
 
 • **PinnedID**: [`Guid`](ue_ue_s.Guid.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46535)
-
 ___
 
 ### \_\_tid\_MagicLeapARPinSaveGame\_\_
 
 • **\_\_tid\_MagicLeapARPinSaveGame\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46542](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46542)
 
 ___
 
@@ -109,10 +89,6 @@ ___
 
 [SaveGame](ue_ue.SaveGame.md).[__tid_Object__](ue_ue.SaveGame.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_SaveGame\_\_
@@ -122,10 +98,6 @@ ___
 #### Inherited from
 
 [SaveGame](ue_ue.SaveGame.md).[__tid_SaveGame__](ue_ue.SaveGame.md#__tid_savegame__)
-
-#### Defined in
-
-[ue/ue.d.ts:22075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22075)
 
 ## Methods
 
@@ -151,10 +123,6 @@ ___
 
 [SaveGame](ue_ue.SaveGame.md).[CreateDefaultSubobject](ue_ue.SaveGame.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -175,10 +143,6 @@ ___
 
 [SaveGame](ue_ue.SaveGame.md).[ExecuteUbergraph](ue_ue.SaveGame.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -192,10 +156,6 @@ ___
 #### Inherited from
 
 [SaveGame](ue_ue.SaveGame.md).[GetClass](ue_ue.SaveGame.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -211,10 +171,6 @@ ___
 
 [SaveGame](ue_ue.SaveGame.md).[GetName](ue_ue.SaveGame.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -229,10 +185,6 @@ ___
 
 [SaveGame](ue_ue.SaveGame.md).[GetOuter](ue_ue.SaveGame.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -246,10 +198,6 @@ ___
 #### Inherited from
 
 [SaveGame](ue_ue.SaveGame.md).[GetWorld](ue_ue.SaveGame.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -272,10 +220,6 @@ ___
 
 [SaveGame](ue_ue.SaveGame.md).[Find](ue_ue.SaveGame.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:46539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46539)
-
 ___
 
 ### Load
@@ -296,10 +240,6 @@ ___
 
 [SaveGame](ue_ue.SaveGame.md).[Load](ue_ue.SaveGame.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:46540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46540)
-
 ___
 
 ### StaticClass
@@ -313,7 +253,3 @@ ___
 #### Overrides
 
 [SaveGame](ue_ue.SaveGame.md).[StaticClass](ue_ue.SaveGame.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:46538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46538)

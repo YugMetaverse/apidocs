@@ -26,10 +26,6 @@
 
 • **new DelegateArray**()
 
-#### Defined in
-
-[ue/ue.d.ts:28072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28072)
-
 • **new DelegateArray**(`Delegates`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Delegates` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`$Delegate`](../interfaces/ue_puerts._Delegate.md)<(`Result`: [`PlatformInterfaceDelegateResult`](ue_ue.PlatformInterfaceDelegateResult.md)) => `void`\>\> |
 
-#### Defined in
-
-[ue/ue.d.ts:28073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28073)
-
 ## Properties
 
 ### Delegates
 
 • **Delegates**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`$Delegate`](../interfaces/ue_puerts._Delegate.md)<(`Result`: [`PlatformInterfaceDelegateResult`](ue_ue.PlatformInterfaceDelegateResult.md)) => `void`\>\>
 
-#### Defined in
-
-[ue/ue.d.ts:28074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28074)
-
 ___
 
 ### \_\_tid\_DelegateArray\_\_
 
 • `Private` **\_\_tid\_DelegateArray\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:28080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28080)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:28078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28078)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28079)

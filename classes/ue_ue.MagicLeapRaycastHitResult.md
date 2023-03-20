@@ -30,10 +30,6 @@
 
 • **new MagicLeapRaycastHitResult**()
 
-#### Defined in
-
-[ue/ue.d.ts:47033](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47033)
-
 • **new MagicLeapRaycastHitResult**(`HitState`, `HitPoint`, `Normal`, `Confidence`, `UserData`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `Confidence` | `number` |
 | `UserData` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:47034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47034)
-
 ## Properties
 
 ### Confidence
 
 • **Confidence**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:47038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47038)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **HitPoint**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:47036](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47036)
-
 ___
 
 ### HitState
 
 • **HitState**: [`EMagicLeapRaycastResultState`](../enums/ue_ue.EMagicLeapRaycastResultState.md)
-
-#### Defined in
-
-[ue/ue.d.ts:47035](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47035)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **Normal**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:47037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47037)
-
 ___
 
 ### UserData
 
 • **UserData**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:47039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47039)
-
 ___
 
 ### \_\_tid\_MagicLeapRaycastHitResult\_\_
 
 • `Private` **\_\_tid\_MagicLeapRaycastHitResult\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:47045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47045)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:47043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47043)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:47044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47044)

@@ -47,10 +47,6 @@
 
 [MaterialInput](ue_ue.MaterialInput.md).[constructor](ue_ue.MaterialInput.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:1261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1261)
-
 • **new Vector2MaterialInput**(`UseConstant`, `ConstantX`, `ConstantY`)
 
 #### Parameters
@@ -65,29 +61,17 @@
 
 [MaterialInput](ue_ue.MaterialInput.md).[constructor](ue_ue.MaterialInput.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:1262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1262)
-
 ## Properties
 
 ### ConstantX
 
 • **ConstantX**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1264)
-
 ___
 
 ### ConstantY
 
 • **ConstantY**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1265)
 
 ___
 
@@ -99,10 +83,6 @@ ___
 
 [MaterialInput](ue_ue.MaterialInput.md).[Expression](ue_ue.MaterialInput.md#expression)
 
-#### Defined in
-
-[ue/ue.d.ts:1187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1187)
-
 ___
 
 ### ExpressionName
@@ -112,10 +92,6 @@ ___
 #### Inherited from
 
 [MaterialInput](ue_ue.MaterialInput.md).[ExpressionName](ue_ue.MaterialInput.md#expressionname)
-
-#### Defined in
-
-[ue/ue.d.ts:1195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1195)
 
 ___
 
@@ -127,10 +103,6 @@ ___
 
 [MaterialInput](ue_ue.MaterialInput.md).[InputName](ue_ue.MaterialInput.md#inputname)
 
-#### Defined in
-
-[ue/ue.d.ts:1189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1189)
-
 ___
 
 ### Mask
@@ -140,10 +112,6 @@ ___
 #### Inherited from
 
 [MaterialInput](ue_ue.MaterialInput.md).[Mask](ue_ue.MaterialInput.md#mask)
-
-#### Defined in
-
-[ue/ue.d.ts:1190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1190)
 
 ___
 
@@ -155,10 +123,6 @@ ___
 
 [MaterialInput](ue_ue.MaterialInput.md).[MaskA](ue_ue.MaterialInput.md#maska)
 
-#### Defined in
-
-[ue/ue.d.ts:1194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1194)
-
 ___
 
 ### MaskB
@@ -168,10 +132,6 @@ ___
 #### Inherited from
 
 [MaterialInput](ue_ue.MaterialInput.md).[MaskB](ue_ue.MaterialInput.md#maskb)
-
-#### Defined in
-
-[ue/ue.d.ts:1193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1193)
 
 ___
 
@@ -183,10 +143,6 @@ ___
 
 [MaterialInput](ue_ue.MaterialInput.md).[MaskG](ue_ue.MaterialInput.md#maskg)
 
-#### Defined in
-
-[ue/ue.d.ts:1192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1192)
-
 ___
 
 ### MaskR
@@ -196,10 +152,6 @@ ___
 #### Inherited from
 
 [MaterialInput](ue_ue.MaterialInput.md).[MaskR](ue_ue.MaterialInput.md#maskr)
-
-#### Defined in
-
-[ue/ue.d.ts:1191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1191)
 
 ___
 
@@ -211,29 +163,17 @@ ___
 
 [MaterialInput](ue_ue.MaterialInput.md).[OutputIndex](ue_ue.MaterialInput.md#outputindex)
 
-#### Defined in
-
-[ue/ue.d.ts:1188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1188)
-
 ___
 
 ### UseConstant
 
 • **UseConstant**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:1263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1263)
-
 ___
 
 ### \_\_tid\_Vector2MaterialInput\_\_
 
 • `Private` **\_\_tid\_Vector2MaterialInput\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1271)
 
 ## Methods
 
@@ -253,10 +193,6 @@ use StaticStruct instead.
 
 [MaterialInput](ue_ue.MaterialInput.md).[StaticClass](ue_ue.MaterialInput.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:1269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1269)
-
 ___
 
 ### StaticStruct
@@ -270,7 +206,3 @@ ___
 #### Overrides
 
 [MaterialInput](ue_ue.MaterialInput.md).[StaticStruct](ue_ue.MaterialInput.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:1270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1270)

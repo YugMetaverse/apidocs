@@ -53,10 +53,6 @@
 
 [PersonaPreviewSceneController](ue_ue.PersonaPreviewSceneController.md).[constructor](ue_ue.PersonaPreviewSceneController.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:57302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57302)
-
 ## Properties
 
 ### \_\_tid\_Object\_\_
@@ -66,10 +62,6 @@
 #### Inherited from
 
 [PersonaPreviewSceneController](ue_ue.PersonaPreviewSceneController.md).[__tid_Object__](ue_ue.PersonaPreviewSceneController.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -81,29 +73,17 @@ ___
 
 [PersonaPreviewSceneController](ue_ue.PersonaPreviewSceneController.md).[__tid_PersonaPreviewSceneController__](ue_ue.PersonaPreviewSceneController.md#__tid_personapreviewscenecontroller__)
 
-#### Defined in
-
-[ue/ue.d.ts:57238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57238)
-
 ___
 
 ### \_\_tid\_PersonaPreviewSceneRefPoseController\_\_
 
 • **\_\_tid\_PersonaPreviewSceneRefPoseController\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:57308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57308)
-
 ___
 
 ### bResetBoneTransforms
 
 • **bResetBoneTransforms**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57303)
 
 ## Methods
 
@@ -129,10 +109,6 @@ ___
 
 [PersonaPreviewSceneController](ue_ue.PersonaPreviewSceneController.md).[CreateDefaultSubobject](ue_ue.PersonaPreviewSceneController.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -153,10 +129,6 @@ ___
 
 [PersonaPreviewSceneController](ue_ue.PersonaPreviewSceneController.md).[ExecuteUbergraph](ue_ue.PersonaPreviewSceneController.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -170,10 +142,6 @@ ___
 #### Inherited from
 
 [PersonaPreviewSceneController](ue_ue.PersonaPreviewSceneController.md).[GetClass](ue_ue.PersonaPreviewSceneController.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -189,10 +157,6 @@ ___
 
 [PersonaPreviewSceneController](ue_ue.PersonaPreviewSceneController.md).[GetName](ue_ue.PersonaPreviewSceneController.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -207,10 +171,6 @@ ___
 
 [PersonaPreviewSceneController](ue_ue.PersonaPreviewSceneController.md).[GetOuter](ue_ue.PersonaPreviewSceneController.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -224,10 +184,6 @@ ___
 #### Inherited from
 
 [PersonaPreviewSceneController](ue_ue.PersonaPreviewSceneController.md).[GetWorld](ue_ue.PersonaPreviewSceneController.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -250,10 +206,6 @@ ___
 
 [PersonaPreviewSceneController](ue_ue.PersonaPreviewSceneController.md).[Find](ue_ue.PersonaPreviewSceneController.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:57305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57305)
-
 ___
 
 ### Load
@@ -274,10 +226,6 @@ ___
 
 [PersonaPreviewSceneController](ue_ue.PersonaPreviewSceneController.md).[Load](ue_ue.PersonaPreviewSceneController.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:57306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57306)
-
 ___
 
 ### StaticClass
@@ -291,7 +239,3 @@ ___
 #### Overrides
 
 [PersonaPreviewSceneController](ue_ue.PersonaPreviewSceneController.md).[StaticClass](ue_ue.PersonaPreviewSceneController.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:57304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57304)

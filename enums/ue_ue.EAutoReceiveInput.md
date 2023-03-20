@@ -26,19 +26,11 @@
 
 • **Disabled** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2175)
-
 ___
 
 ### EAutoReceiveInput\_MAX
 
 • **EAutoReceiveInput\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2175)
 
 ___
 
@@ -46,19 +38,11 @@ ___
 
 • **Player0** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2175)
-
 ___
 
 ### Player1
 
 • **Player1** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2175)
 
 ___
 
@@ -66,19 +50,11 @@ ___
 
 • **Player2** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2175)
-
 ___
 
 ### Player3
 
 • **Player3** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2175)
 
 ___
 
@@ -86,19 +62,11 @@ ___
 
 • **Player4** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2175)
-
 ___
 
 ### Player5
 
 • **Player5** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2175)
 
 ___
 
@@ -106,26 +74,14 @@ ___
 
 • **Player6** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2175)
-
 ___
 
 ### Player7
 
 • **Player7** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2175)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2175)

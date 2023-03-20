@@ -22,19 +22,11 @@
 
 • **CTM\_Disabled** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L450)
-
 ___
 
 ### CTM\_MAX
 
 • **CTM\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L450)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **CTM\_NormalRoughnessToAlpha** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L450)
-
 ___
 
 ### CTM\_NormalRoughnessToBlue
 
 • **CTM\_NormalRoughnessToBlue** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L450)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **CTM\_NormalRoughnessToGreen** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L450)
-
 ___
 
 ### CTM\_NormalRoughnessToRed
 
 • **CTM\_NormalRoughnessToRed** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L450)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L450)

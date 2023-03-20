@@ -27,10 +27,6 @@
 
 • **new AutomatedTestGroup**()
 
-#### Defined in
-
-[ue/ue.d.ts:22930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22930)
-
 • **new AutomatedTestGroup**(`Name`, `Filters`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Name` | `string` |
 | `Filters` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AutomatedTestFilter`](ue_ue.AutomatedTestFilter.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:22931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22931)
-
 ## Properties
 
 ### Filters
 
 • **Filters**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AutomatedTestFilter`](ue_ue.AutomatedTestFilter.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:22933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22933)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:22932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22932)
-
 ___
 
 ### \_\_tid\_AutomatedTestGroup\_\_
 
 • `Private` **\_\_tid\_AutomatedTestGroup\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22939)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22937)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22938)

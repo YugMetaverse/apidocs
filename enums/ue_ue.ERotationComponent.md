@@ -23,19 +23,11 @@
 
 • **ERotationComponent\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17793)
-
 ___
 
 ### EulerX
 
 • **EulerX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17793)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **EulerY** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17793)
-
 ___
 
 ### EulerZ
 
 • **EulerZ** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17793)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **QuaternionAngle** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17793)
-
 ___
 
 ### SwingAngle
 
 • **SwingAngle** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17793)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **TwistAngle** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17793)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17793)

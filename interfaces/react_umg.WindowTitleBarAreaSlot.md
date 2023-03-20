@@ -24,26 +24,14 @@
 
 • `Optional` **HorizontalAlignment**: [`EHorizontalAlignment`](../enums/ue_ue.EHorizontalAlignment.md)
 
-#### Defined in
-
-[react-umg/index.d.ts:116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L116)
-
 ___
 
 ### Padding
 
 • `Optional` **Padding**: [`RecursivePartial`](../modules/react_umg.md#recursivepartial)<[`Margin`](../classes/ue_ue.Margin.md)\>
 
-#### Defined in
-
-[react-umg/index.d.ts:115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L115)
-
 ___
 
 ### VerticalAlignment
 
 • `Optional` **VerticalAlignment**: [`EVerticalAlignment`](../enums/ue_ue.EVerticalAlignment.md)
-
-#### Defined in
-
-[react-umg/index.d.ts:117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L117)

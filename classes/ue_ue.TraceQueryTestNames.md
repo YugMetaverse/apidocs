@@ -28,10 +28,6 @@
 
 • **new TraceQueryTestNames**()
 
-#### Defined in
-
-[ue/ue.d.ts:36253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36253)
-
 • **new TraceQueryTestNames**(`ComponentName`, `PhysicalMaterialName`, `ActorName`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `PhysicalMaterialName` | `string` |
 | `ActorName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:36254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36254)
-
 ## Properties
 
 ### ActorName
 
 • **ActorName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:36257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36257)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **ComponentName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:36255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36255)
-
 ___
 
 ### PhysicalMaterialName
 
 • **PhysicalMaterialName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:36256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36256)
-
 ___
 
 ### \_\_tid\_TraceQueryTestNames\_\_
 
 • `Private` **\_\_tid\_TraceQueryTestNames\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36263)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36261)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36262)

@@ -23,19 +23,11 @@
 
 • **Blink** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33991)
-
 ___
 
 ### EMagicLeapControllerLEDEffect\_MAX
 
 • **EMagicLeapControllerLEDEffect\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33991)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **PaintCCW** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33991)
-
 ___
 
 ### PaintCW
 
 • **PaintCW** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33991)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **Pulse** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33991)
-
 ___
 
 ### RotateCCW
 
 • **RotateCCW** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33991)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **RotateCW** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33991)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33991)

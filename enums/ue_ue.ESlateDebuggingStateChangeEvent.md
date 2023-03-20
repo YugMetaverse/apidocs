@@ -19,19 +19,11 @@
 
 • **ESlateDebuggingStateChangeEvent\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34781)
-
 ___
 
 ### MouseCaptureGained
 
 • **MouseCaptureGained** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34781)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **MouseCaptureLost** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34781)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34781)

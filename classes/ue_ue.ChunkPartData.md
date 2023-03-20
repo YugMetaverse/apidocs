@@ -28,10 +28,6 @@
 
 • **new ChunkPartData**()
 
-#### Defined in
-
-[ue/ue.d.ts:25481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25481)
-
 • **new ChunkPartData**(`Guid`, `Offset`, `Size`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Offset` | `number` |
 | `Size` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:25482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25482)
-
 ## Properties
 
 ### Guid
 
 • **Guid**: [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25483)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Offset**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25484](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25484)
-
 ___
 
 ### Size
 
 • **Size**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25485)
-
 ___
 
 ### \_\_tid\_ChunkPartData\_\_
 
 • `Private` **\_\_tid\_ChunkPartData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:25491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25491)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25489)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25490)

@@ -21,19 +21,11 @@
 
 • **ETutorialContent\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33345)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33345)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **RichText** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33345)
-
 ___
 
 ### Text
 
 • **Text** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33345)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **UDNExcerpt** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33345)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33345)

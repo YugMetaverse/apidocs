@@ -30,10 +30,6 @@
 
 • **new AIDamageEvent**()
 
-#### Defined in
-
-[ue/ue.d.ts:15807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15807)
-
 • **new AIDamageEvent**(`Amount`, `Location`, `HitLocation`, `DamagedActor`, `Instigator`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `DamagedActor` | [`Actor`](ue_ue.Actor.md) |
 | `Instigator` | [`Actor`](ue_ue.Actor.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:15808](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15808)
-
 ## Properties
 
 ### Amount
 
 • **Amount**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15809)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **DamagedActor**: [`Actor`](ue_ue.Actor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15812](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15812)
-
 ___
 
 ### HitLocation
 
 • **HitLocation**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15811)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **Instigator**: [`Actor`](ue_ue.Actor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15813](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15813)
-
 ___
 
 ### Location
 
 • **Location**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15810)
-
 ___
 
 ### \_\_tid\_AIDamageEvent\_\_
 
 • `Private` **\_\_tid\_AIDamageEvent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15819)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15817)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15818](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15818)

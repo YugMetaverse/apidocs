@@ -20,19 +20,11 @@
 
 • **EAlembicSamplingType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:48](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48)
-
 ___
 
 ### PerFrame
 
 • **PerFrame** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:48](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **PerTimeStep** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:48](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48)
-
 ___
 
 ### PerXFrames
 
 • **PerXFrames** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:48](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:48](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48)

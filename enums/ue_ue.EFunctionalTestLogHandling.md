@@ -20,19 +20,11 @@
 
 • **EFunctionalTestLogHandling\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33875)
-
 ___
 
 ### OutputIgnored
 
 • **OutputIgnored** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33875)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **OutputIsError** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33875)
-
 ___
 
 ### ProjectDefault
 
 • **ProjectDefault** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33875)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33875)

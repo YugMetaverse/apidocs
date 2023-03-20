@@ -71,10 +71,6 @@
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[constructor](ue_ue.ParticleModuleEventReceiverBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:55631](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55631)
-
 ## Properties
 
 ### EventGeneratorType
@@ -84,10 +80,6 @@
 #### Inherited from
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[EventGeneratorType](ue_ue.ParticleModuleEventReceiverBase.md#eventgeneratortype)
-
-#### Defined in
-
-[ue/ue.d.ts:7053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7053)
 
 ___
 
@@ -99,10 +91,6 @@ ___
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[EventName](ue_ue.ParticleModuleEventReceiverBase.md#eventname)
 
-#### Defined in
-
-[ue/ue.d.ts:7054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7054)
-
 ___
 
 ### LODDuplicate
@@ -112,10 +100,6 @@ ___
 #### Inherited from
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[LODDuplicate](ue_ue.ParticleModuleEventReceiverBase.md#lodduplicate)
-
-#### Defined in
-
-[ue/ue.d.ts:6745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6745)
 
 ___
 
@@ -127,10 +111,6 @@ ___
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[LODValidity](ue_ue.ParticleModuleEventReceiverBase.md#lodvalidity)
 
-#### Defined in
-
-[ue/ue.d.ts:6748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6748)
-
 ___
 
 ### ModuleEditorColor
@@ -140,10 +120,6 @@ ___
 #### Inherited from
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[ModuleEditorColor](ue_ue.ParticleModuleEventReceiverBase.md#moduleeditorcolor)
-
-#### Defined in
-
-[ue/ue.d.ts:6749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6749)
 
 ___
 
@@ -155,10 +131,6 @@ ___
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[__tid_Object__](ue_ue.ParticleModuleEventReceiverBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ParticleModuleEventBase\_\_
@@ -168,10 +140,6 @@ ___
 #### Inherited from
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[__tid_ParticleModuleEventBase__](ue_ue.ParticleModuleEventReceiverBase.md#__tid_particlemoduleeventbase__)
-
-#### Defined in
-
-[ue/ue.d.ts:6939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6939)
 
 ___
 
@@ -183,19 +151,11 @@ ___
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[__tid_ParticleModuleEventReceiverBase__](ue_ue.ParticleModuleEventReceiverBase.md#__tid_particlemoduleeventreceiverbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:7059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7059)
-
 ___
 
 ### \_\_tid\_ParticleModuleEventReceiverKillParticles\_\_
 
 • **\_\_tid\_ParticleModuleEventReceiverKillParticles\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55637)
 
 ___
 
@@ -207,10 +167,6 @@ ___
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[__tid_ParticleModule__](ue_ue.ParticleModuleEventReceiverBase.md#__tid_particlemodule__)
 
-#### Defined in
-
-[ue/ue.d.ts:6754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6754)
-
 ___
 
 ### b3DDrawMode
@@ -220,10 +176,6 @@ ___
 #### Inherited from
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[b3DDrawMode](ue_ue.ParticleModuleEventReceiverBase.md#b3ddrawmode)
-
-#### Defined in
-
-[ue/ue.d.ts:6741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6741)
 
 ___
 
@@ -235,10 +187,6 @@ ___
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[bCurvesAsColor](ue_ue.ParticleModuleEventReceiverBase.md#bcurvesascolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6740)
-
 ___
 
 ### bEditable
@@ -248,10 +196,6 @@ ___
 #### Inherited from
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[bEditable](ue_ue.ParticleModuleEventReceiverBase.md#beditable)
-
-#### Defined in
-
-[ue/ue.d.ts:6744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6744)
 
 ___
 
@@ -263,10 +207,6 @@ ___
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[bEnabled](ue_ue.ParticleModuleEventReceiverBase.md#benabled)
 
-#### Defined in
-
-[ue/ue.d.ts:6743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6743)
-
 ___
 
 ### bFinalUpdateModule
@@ -276,10 +216,6 @@ ___
 #### Inherited from
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[bFinalUpdateModule](ue_ue.ParticleModuleEventReceiverBase.md#bfinalupdatemodule)
-
-#### Defined in
-
-[ue/ue.d.ts:6738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6738)
 
 ___
 
@@ -291,10 +227,6 @@ ___
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[bRequiresLoopingNotification](ue_ue.ParticleModuleEventReceiverBase.md#brequiresloopingnotification)
 
-#### Defined in
-
-[ue/ue.d.ts:6747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6747)
-
 ___
 
 ### bSpawnModule
@@ -305,19 +237,11 @@ ___
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[bSpawnModule](ue_ue.ParticleModuleEventReceiverBase.md#bspawnmodule)
 
-#### Defined in
-
-[ue/ue.d.ts:6736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6736)
-
 ___
 
 ### bStopSpawning
 
 • **bStopSpawning**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55632)
 
 ___
 
@@ -329,10 +253,6 @@ ___
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[bSupported3DDrawMode](ue_ue.ParticleModuleEventReceiverBase.md#bsupported3ddrawmode)
 
-#### Defined in
-
-[ue/ue.d.ts:6742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6742)
-
 ___
 
 ### bSupportsRandomSeed
@@ -342,10 +262,6 @@ ___
 #### Inherited from
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[bSupportsRandomSeed](ue_ue.ParticleModuleEventReceiverBase.md#bsupportsrandomseed)
-
-#### Defined in
-
-[ue/ue.d.ts:6746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6746)
 
 ___
 
@@ -357,10 +273,6 @@ ___
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[bUpdateForGPUEmitter](ue_ue.ParticleModuleEventReceiverBase.md#bupdateforgpuemitter)
 
-#### Defined in
-
-[ue/ue.d.ts:6739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6739)
-
 ___
 
 ### bUpdateModule
@@ -370,10 +282,6 @@ ___
 #### Inherited from
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[bUpdateModule](ue_ue.ParticleModuleEventReceiverBase.md#bupdatemodule)
-
-#### Defined in
-
-[ue/ue.d.ts:6737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6737)
 
 ## Methods
 
@@ -399,10 +307,6 @@ ___
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[CreateDefaultSubobject](ue_ue.ParticleModuleEventReceiverBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -423,10 +327,6 @@ ___
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[ExecuteUbergraph](ue_ue.ParticleModuleEventReceiverBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -440,10 +340,6 @@ ___
 #### Inherited from
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[GetClass](ue_ue.ParticleModuleEventReceiverBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -459,10 +355,6 @@ ___
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[GetName](ue_ue.ParticleModuleEventReceiverBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -477,10 +369,6 @@ ___
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[GetOuter](ue_ue.ParticleModuleEventReceiverBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -494,10 +382,6 @@ ___
 #### Inherited from
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[GetWorld](ue_ue.ParticleModuleEventReceiverBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -520,10 +404,6 @@ ___
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[Find](ue_ue.ParticleModuleEventReceiverBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:55634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55634)
-
 ___
 
 ### Load
@@ -544,10 +424,6 @@ ___
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[Load](ue_ue.ParticleModuleEventReceiverBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:55635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55635)
-
 ___
 
 ### StaticClass
@@ -561,7 +437,3 @@ ___
 #### Overrides
 
 [ParticleModuleEventReceiverBase](ue_ue.ParticleModuleEventReceiverBase.md).[StaticClass](ue_ue.ParticleModuleEventReceiverBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:55633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55633)

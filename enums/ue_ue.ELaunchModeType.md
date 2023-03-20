@@ -18,26 +18,14 @@
 
 • **LaunchMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33941)
-
 ___
 
 ### LaunchMode\_OnDevice
 
 • **LaunchMode\_OnDevice** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33941)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33941)

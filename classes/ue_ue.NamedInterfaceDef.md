@@ -27,10 +27,6 @@
 
 • **new NamedInterfaceDef**()
 
-#### Defined in
-
-[ue/ue.d.ts:52674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52674)
-
 • **new NamedInterfaceDef**(`InterfaceName`, `InterfaceClassName`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `InterfaceName` | `string` |
 | `InterfaceClassName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:52675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52675)
-
 ## Properties
 
 ### InterfaceClassName
 
 • **InterfaceClassName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:52677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52677)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **InterfaceName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:52676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52676)
-
 ___
 
 ### \_\_tid\_NamedInterfaceDef\_\_
 
 • `Private` **\_\_tid\_NamedInterfaceDef\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52683)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:52681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52681)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:52682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52682)

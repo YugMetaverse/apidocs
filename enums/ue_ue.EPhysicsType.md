@@ -20,19 +20,11 @@
 
 • **PhysType\_Default** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3505)
-
 ___
 
 ### PhysType\_Kinematic
 
 • **PhysType\_Kinematic** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3505)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **PhysType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3505)
-
 ___
 
 ### PhysType\_Simulated
 
 • **PhysType\_Simulated** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3505)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3505)

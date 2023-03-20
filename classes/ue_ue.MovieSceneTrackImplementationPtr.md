@@ -25,19 +25,11 @@
 
 • **new MovieSceneTrackImplementationPtr**()
 
-#### Defined in
-
-[ue/ue.d.ts:11142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11142)
-
 ## Properties
 
 ### \_\_tid\_MovieSceneTrackImplementationPtr\_\_
 
 • `Private` **\_\_tid\_MovieSceneTrackImplementationPtr\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11148)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11146)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11147)

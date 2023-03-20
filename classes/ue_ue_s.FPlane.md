@@ -25,19 +25,11 @@
 
 • **new FPlane**()
 
-#### Defined in
-
-[ue/ue_s.d.ts:745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L745)
-
 ## Properties
 
 ### \_\_tid\_FPlane\_\_
 
 • `Private` **\_\_tid\_FPlane\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L753)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L750)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L751)

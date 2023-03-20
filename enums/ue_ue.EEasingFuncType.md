@@ -32,19 +32,11 @@
 
 • **CircularIn** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17794)
-
 ___
 
 ### CircularInOut
 
 • **CircularInOut** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17794)
 
 ___
 
@@ -52,19 +44,11 @@ ___
 
 • **CircularOut** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17794)
-
 ___
 
 ### Cubic
 
 • **Cubic** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17794)
 
 ___
 
@@ -72,19 +56,11 @@ ___
 
 • **CubicInOut** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17794)
-
 ___
 
 ### CustomCurve
 
 • **CustomCurve** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17794)
 
 ___
 
@@ -92,19 +68,11 @@ ___
 
 • **EEasingFuncType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17794)
-
 ___
 
 ### ExpIn
 
 • **ExpIn** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17794)
 
 ___
 
@@ -112,19 +80,11 @@ ___
 
 • **ExpInOut** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17794)
-
 ___
 
 ### ExpOut
 
 • **ExpOut** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17794)
 
 ___
 
@@ -132,19 +92,11 @@ ___
 
 • **HermiteCubic** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17794)
-
 ___
 
 ### Linear
 
 • **Linear** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17794)
 
 ___
 
@@ -152,19 +104,11 @@ ___
 
 • **QuadraticInOut** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17794)
-
 ___
 
 ### QuarticInOut
 
 • **QuarticInOut** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17794)
 
 ___
 
@@ -172,26 +116,14 @@ ___
 
 • **QuinticInOut** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17794)
-
 ___
 
 ### Sinusoidal
 
 • **Sinusoidal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17794)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17794)

@@ -64,10 +64,6 @@
 
 [EditorBrushBuilder](ue_ue.EditorBrushBuilder.md).[constructor](ue_ue.EditorBrushBuilder.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:65509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65509)
-
 ## Properties
 
 ### BitmapFilename
@@ -78,19 +74,11 @@
 
 [EditorBrushBuilder](ue_ue.EditorBrushBuilder.md).[BitmapFilename](ue_ue.EditorBrushBuilder.md#bitmapfilename)
 
-#### Defined in
-
-[ue/ue.d.ts:12793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12793)
-
 ___
 
 ### GroupName
 
 • **GroupName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:65513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65513)
 
 ___
 
@@ -102,10 +90,6 @@ ___
 
 [EditorBrushBuilder](ue_ue.EditorBrushBuilder.md).[Layer](ue_ue.EditorBrushBuilder.md#layer)
 
-#### Defined in
-
-[ue/ue.d.ts:12798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12798)
-
 ___
 
 ### MergeCoplanars
@@ -115,10 +99,6 @@ ___
 #### Inherited from
 
 [EditorBrushBuilder](ue_ue.EditorBrushBuilder.md).[MergeCoplanars](ue_ue.EditorBrushBuilder.md#mergecoplanars)
-
-#### Defined in
-
-[ue/ue.d.ts:12799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12799)
 
 ___
 
@@ -130,19 +110,11 @@ ___
 
 [EditorBrushBuilder](ue_ue.EditorBrushBuilder.md).[NotifyBadParams](ue_ue.EditorBrushBuilder.md#notifybadparams)
 
-#### Defined in
-
-[ue/ue.d.ts:12795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12795)
-
 ___
 
 ### NumSheets
 
 • **NumSheets**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:65512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65512)
 
 ___
 
@@ -154,19 +126,11 @@ ___
 
 [EditorBrushBuilder](ue_ue.EditorBrushBuilder.md).[Polys](ue_ue.EditorBrushBuilder.md#polys)
 
-#### Defined in
-
-[ue/ue.d.ts:12797](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12797)
-
 ___
 
 ### Radius
 
 • **Radius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:65511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65511)
 
 ___
 
@@ -178,10 +142,6 @@ ___
 
 [EditorBrushBuilder](ue_ue.EditorBrushBuilder.md).[ToolTip](ue_ue.EditorBrushBuilder.md#tooltip)
 
-#### Defined in
-
-[ue/ue.d.ts:12794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12794)
-
 ___
 
 ### Vertices
@@ -192,19 +152,11 @@ ___
 
 [EditorBrushBuilder](ue_ue.EditorBrushBuilder.md).[Vertices](ue_ue.EditorBrushBuilder.md#vertices)
 
-#### Defined in
-
-[ue/ue.d.ts:12796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12796)
-
 ___
 
 ### Z
 
 • **Z**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:65510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65510)
 
 ___
 
@@ -216,10 +168,6 @@ ___
 
 [EditorBrushBuilder](ue_ue.EditorBrushBuilder.md).[__tid_BrushBuilder__](ue_ue.EditorBrushBuilder.md#__tid_brushbuilder__)
 
-#### Defined in
-
-[ue/ue.d.ts:12804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12804)
-
 ___
 
 ### \_\_tid\_EditorBrushBuilder\_\_
@@ -229,10 +177,6 @@ ___
 #### Inherited from
 
 [EditorBrushBuilder](ue_ue.EditorBrushBuilder.md).[__tid_EditorBrushBuilder__](ue_ue.EditorBrushBuilder.md#__tid_editorbrushbuilder__)
-
-#### Defined in
-
-[ue/ue.d.ts:28545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28545)
 
 ___
 
@@ -244,19 +188,11 @@ ___
 
 [EditorBrushBuilder](ue_ue.EditorBrushBuilder.md).[__tid_Object__](ue_ue.EditorBrushBuilder.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_VolumetricBuilder\_\_
 
 • **\_\_tid\_VolumetricBuilder\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:65518](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65518)
 
 ## Methods
 
@@ -282,10 +218,6 @@ ___
 
 [EditorBrushBuilder](ue_ue.EditorBrushBuilder.md).[CreateDefaultSubobject](ue_ue.EditorBrushBuilder.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -306,10 +238,6 @@ ___
 
 [EditorBrushBuilder](ue_ue.EditorBrushBuilder.md).[ExecuteUbergraph](ue_ue.EditorBrushBuilder.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -323,10 +251,6 @@ ___
 #### Inherited from
 
 [EditorBrushBuilder](ue_ue.EditorBrushBuilder.md).[GetClass](ue_ue.EditorBrushBuilder.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -342,10 +266,6 @@ ___
 
 [EditorBrushBuilder](ue_ue.EditorBrushBuilder.md).[GetName](ue_ue.EditorBrushBuilder.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -360,10 +280,6 @@ ___
 
 [EditorBrushBuilder](ue_ue.EditorBrushBuilder.md).[GetOuter](ue_ue.EditorBrushBuilder.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -377,10 +293,6 @@ ___
 #### Inherited from
 
 [EditorBrushBuilder](ue_ue.EditorBrushBuilder.md).[GetWorld](ue_ue.EditorBrushBuilder.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -403,10 +315,6 @@ ___
 
 [EditorBrushBuilder](ue_ue.EditorBrushBuilder.md).[Find](ue_ue.EditorBrushBuilder.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:65515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65515)
-
 ___
 
 ### Load
@@ -427,10 +335,6 @@ ___
 
 [EditorBrushBuilder](ue_ue.EditorBrushBuilder.md).[Load](ue_ue.EditorBrushBuilder.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:65516](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65516)
-
 ___
 
 ### StaticClass
@@ -444,7 +348,3 @@ ___
 #### Overrides
 
 [EditorBrushBuilder](ue_ue.EditorBrushBuilder.md).[StaticClass](ue_ue.EditorBrushBuilder.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:65514](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65514)

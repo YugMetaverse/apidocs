@@ -24,19 +24,11 @@
 
 • **ERoundingMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34745)
-
 ___
 
 ### FromZero
 
 • **FromZero** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34745)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **HalfFromZero** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34745)
-
 ___
 
 ### HalfToEven
 
 • **HalfToEven** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34745)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **HalfToZero** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34745)
-
 ___
 
 ### ToNegativeInfinity
 
 • **ToNegativeInfinity** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34745)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **ToPositiveInfinity** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34745)
-
 ___
 
 ### ToZero
 
 • **ToZero** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34745)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34745)

@@ -194,10 +194,6 @@
 
 [Material](ue_ue.Material.md).[constructor](ue_ue.Material.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:58325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58325)
-
 ## Properties
 
 ### AllowTranslucentCustomDepthWrites
@@ -207,10 +203,6 @@
 #### Inherited from
 
 [Material](ue_ue.Material.md).[AllowTranslucentCustomDepthWrites](ue_ue.Material.md#allowtranslucentcustomdepthwrites)
-
-#### Defined in
-
-[ue/ue.d.ts:1498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1498)
 
 ___
 
@@ -222,10 +214,6 @@ ___
 
 [Material](ue_ue.Material.md).[AmbientOcclusion](ue_ue.Material.md#ambientocclusion)
 
-#### Defined in
-
-[ue/ue.d.ts:1437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1437)
-
 ___
 
 ### AssetImportData
@@ -235,10 +223,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[AssetImportData](ue_ue.Material.md#assetimportdata)
-
-#### Defined in
-
-[ue/ue.d.ts:1556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1556)
 
 ___
 
@@ -250,10 +234,6 @@ ___
 
 [Material](ue_ue.Material.md).[AssetUserData](ue_ue.Material.md#assetuserdata)
 
-#### Defined in
-
-[ue/ue.d.ts:1550](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1550)
-
 ___
 
 ### BaseColor
@@ -263,10 +243,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[BaseColor](ue_ue.Material.md#basecolor)
-
-#### Defined in
-
-[ue/ue.d.ts:1414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1414)
 
 ___
 
@@ -278,10 +254,6 @@ ___
 
 [Material](ue_ue.Material.md).[BlendMode](ue_ue.Material.md#blendmode)
 
-#### Defined in
-
-[ue/ue.d.ts:1423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1423)
-
 ___
 
 ### BlendableLocation
@@ -291,10 +263,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[BlendableLocation](ue_ue.Material.md#blendablelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:1522](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1522)
 
 ___
 
@@ -306,10 +274,6 @@ ___
 
 [Material](ue_ue.Material.md).[BlendableOutputAlpha](ue_ue.Material.md#blendableoutputalpha)
 
-#### Defined in
-
-[ue/ue.d.ts:1523](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1523)
-
 ___
 
 ### BlendablePriority
@@ -319,10 +283,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[BlendablePriority](ue_ue.Material.md#blendablepriority)
-
-#### Defined in
-
-[ue/ue.d.ts:1528](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1528)
 
 ___
 
@@ -334,10 +294,6 @@ ___
 
 [Material](ue_ue.Material.md).[CachedQualityLevelsUsed](ue_ue.Material.md#cachedqualitylevelsused)
 
-#### Defined in
-
-[ue/ue.d.ts:1533](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1533)
-
 ___
 
 ### ClearCoat
@@ -347,10 +303,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[ClearCoat](ue_ue.Material.md#clearcoat)
-
-#### Defined in
-
-[ue/ue.d.ts:1435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1435)
 
 ___
 
@@ -362,10 +314,6 @@ ___
 
 [Material](ue_ue.Material.md).[ClearCoatRoughness](ue_ue.Material.md#clearcoatroughness)
 
-#### Defined in
-
-[ue/ue.d.ts:1436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1436)
-
 ___
 
 ### CustomizedUVs
@@ -375,10 +323,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[CustomizedUVs](ue_ue.Material.md#customizeduvs)
-
-#### Defined in
-
-[ue/ue.d.ts:1439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1439)
 
 ___
 
@@ -390,10 +334,6 @@ ___
 
 [Material](ue_ue.Material.md).[D3D11TessellationMode](ue_ue.Material.md#d3d11tessellationmode)
 
-#### Defined in
-
-[ue/ue.d.ts:1495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1495)
-
 ___
 
 ### DecalBlendMode
@@ -403,10 +343,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[DecalBlendMode](ue_ue.Material.md#decalblendmode)
-
-#### Defined in
-
-[ue/ue.d.ts:1424](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1424)
 
 ___
 
@@ -418,10 +354,6 @@ ___
 
 [Material](ue_ue.Material.md).[DiffuseColor](ue_ue.Material.md#diffusecolor)
 
-#### Defined in
-
-[ue/ue.d.ts:1412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1412)
-
 ___
 
 ### DitherOpacityMask
@@ -431,10 +363,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[DitherOpacityMask](ue_ue.Material.md#ditheropacitymask)
-
-#### Defined in
-
-[ue/ue.d.ts:1449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1449)
 
 ___
 
@@ -446,10 +374,6 @@ ___
 
 [Material](ue_ue.Material.md).[DitheredLODTransition](ue_ue.Material.md#ditheredlodtransition)
 
-#### Defined in
-
-[ue/ue.d.ts:1448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1448)
-
 ___
 
 ### EditorComments
@@ -459,10 +383,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[EditorComments](ue_ue.Material.md#editorcomments)
-
-#### Defined in
-
-[ue/ue.d.ts:1506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1506)
 
 ___
 
@@ -474,10 +394,6 @@ ___
 
 [Material](ue_ue.Material.md).[EditorPitch](ue_ue.Material.md#editorpitch)
 
-#### Defined in
-
-[ue/ue.d.ts:1503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1503)
-
 ___
 
 ### EditorX
@@ -487,10 +403,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[EditorX](ue_ue.Material.md#editorx)
-
-#### Defined in
-
-[ue/ue.d.ts:1501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1501)
 
 ___
 
@@ -502,10 +414,6 @@ ___
 
 [Material](ue_ue.Material.md).[EditorY](ue_ue.Material.md#editory)
 
-#### Defined in
-
-[ue/ue.d.ts:1502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1502)
-
 ___
 
 ### EditorYaw
@@ -515,10 +423,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[EditorYaw](ue_ue.Material.md#editoryaw)
-
-#### Defined in
-
-[ue/ue.d.ts:1504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1504)
 
 ___
 
@@ -530,10 +434,6 @@ ___
 
 [Material](ue_ue.Material.md).[EmissiveColor](ue_ue.Material.md#emissivecolor)
 
-#### Defined in
-
-[ue/ue.d.ts:1419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1419)
-
 ___
 
 ### ExpressionTextureReferences
@@ -543,10 +443,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[ExpressionTextureReferences](ue_ue.Material.md#expressiontexturereferences)
-
-#### Defined in
-
-[ue/ue.d.ts:1534](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1534)
 
 ___
 
@@ -558,10 +454,6 @@ ___
 
 [Material](ue_ue.Material.md).[Expressions](ue_ue.Material.md#expressions)
 
-#### Defined in
-
-[ue/ue.d.ts:1505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1505)
-
 ___
 
 ### LayerParameterExpansion
@@ -571,10 +463,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[LayerParameterExpansion](ue_ue.Material.md#layerparameterexpansion)
-
-#### Defined in
-
-[ue/ue.d.ts:1554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1554)
 
 ___
 
@@ -586,10 +474,6 @@ ___
 
 [Material](ue_ue.Material.md).[LightingGuid](ue_ue.Material.md#lightingguid)
 
-#### Defined in
-
-[ue/ue.d.ts:1557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1557)
-
 ___
 
 ### LightmassSettings
@@ -599,10 +483,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[LightmassSettings](ue_ue.Material.md#lightmasssettings)
-
-#### Defined in
-
-[ue/ue.d.ts:1546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1546)
 
 ___
 
@@ -614,10 +494,6 @@ ___
 
 [Material](ue_ue.Material.md).[MaterialAttributes](ue_ue.Material.md#materialattributes)
 
-#### Defined in
-
-[ue/ue.d.ts:1440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1440)
-
 ___
 
 ### MaterialDecalResponse
@@ -627,10 +503,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[MaterialDecalResponse](ue_ue.Material.md#materialdecalresponse)
-
-#### Defined in
-
-[ue/ue.d.ts:1425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1425)
 
 ___
 
@@ -642,10 +514,6 @@ ___
 
 [Material](ue_ue.Material.md).[MaterialDomain](ue_ue.Material.md#materialdomain)
 
-#### Defined in
-
-[ue/ue.d.ts:1422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1422)
-
 ___
 
 ### MaterialFunctionInfos
@@ -655,10 +523,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[MaterialFunctionInfos](ue_ue.Material.md#materialfunctioninfos)
-
-#### Defined in
-
-[ue/ue.d.ts:1508](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1508)
 
 ___
 
@@ -670,10 +534,6 @@ ___
 
 [Material](ue_ue.Material.md).[MaterialParameterCollectionInfos](ue_ue.Material.md#materialparametercollectioninfos)
 
-#### Defined in
-
-[ue/ue.d.ts:1509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1509)
-
 ___
 
 ### MaxDisplacement
@@ -683,10 +543,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[MaxDisplacement](ue_ue.Material.md#maxdisplacement)
-
-#### Defined in
-
-[ue/ue.d.ts:1532](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1532)
 
 ___
 
@@ -698,10 +554,6 @@ ___
 
 [Material](ue_ue.Material.md).[Metallic](ue_ue.Material.md#metallic)
 
-#### Defined in
-
-[ue/ue.d.ts:1415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1415)
-
 ___
 
 ### Normal
@@ -711,10 +563,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[Normal](ue_ue.Material.md#normal)
-
-#### Defined in
-
-[ue/ue.d.ts:1418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1418)
 
 ___
 
@@ -726,10 +574,6 @@ ___
 
 [Material](ue_ue.Material.md).[NumCustomizedUVs](ue_ue.Material.md#numcustomizeduvs)
 
-#### Defined in
-
-[ue/ue.d.ts:1453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1453)
-
 ___
 
 ### Opacity
@@ -739,10 +583,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[Opacity](ue_ue.Material.md#opacity)
-
-#### Defined in
-
-[ue/ue.d.ts:1420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1420)
 
 ___
 
@@ -754,10 +594,6 @@ ___
 
 [Material](ue_ue.Material.md).[OpacityMask](ue_ue.Material.md#opacitymask)
 
-#### Defined in
-
-[ue/ue.d.ts:1421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1421)
-
 ___
 
 ### OpacityMaskClipValue
@@ -767,10 +603,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[OpacityMaskClipValue](ue_ue.Material.md#opacitymaskclipvalue)
-
-#### Defined in
-
-[ue/ue.d.ts:1430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1430)
 
 ___
 
@@ -782,10 +614,6 @@ ___
 
 [Material](ue_ue.Material.md).[ParameterGroupData](ue_ue.Material.md#parametergroupdata)
 
-#### Defined in
-
-[ue/ue.d.ts:1507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1507)
-
 ___
 
 ### ParameterOverviewExpansion
@@ -795,10 +623,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[ParameterOverviewExpansion](ue_ue.Material.md#parameteroverviewexpansion)
-
-#### Defined in
-
-[ue/ue.d.ts:1555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1555)
 
 ___
 
@@ -810,10 +634,6 @@ ___
 
 [Material](ue_ue.Material.md).[PhysMaterial](ue_ue.Material.md#physmaterial)
 
-#### Defined in
-
-[ue/ue.d.ts:1411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1411)
-
 ___
 
 ### PixelDepthOffset
@@ -823,10 +643,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[PixelDepthOffset](ue_ue.Material.md#pixeldepthoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:1441](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1441)
 
 ___
 
@@ -838,10 +654,6 @@ ___
 
 [Material](ue_ue.Material.md).[PreviewMesh](ue_ue.Material.md#previewmesh)
 
-#### Defined in
-
-[ue/ue.d.ts:1552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1552)
-
 ___
 
 ### ReferencedTextureGuids
@@ -851,10 +663,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[ReferencedTextureGuids](ue_ue.Material.md#referencedtextureguids)
-
-#### Defined in
-
-[ue/ue.d.ts:1535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1535)
 
 ___
 
@@ -866,10 +674,6 @@ ___
 
 [Material](ue_ue.Material.md).[Refraction](ue_ue.Material.md#refraction)
 
-#### Defined in
-
-[ue/ue.d.ts:1438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1438)
-
 ___
 
 ### RefractionDepthBias
@@ -879,10 +683,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[RefractionDepthBias](ue_ue.Material.md#refractiondepthbias)
-
-#### Defined in
-
-[ue/ue.d.ts:1530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1530)
 
 ___
 
@@ -894,10 +694,6 @@ ___
 
 [Material](ue_ue.Material.md).[RefractionMode](ue_ue.Material.md#refractionmode)
 
-#### Defined in
-
-[ue/ue.d.ts:1527](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1527)
-
 ___
 
 ### Roughness
@@ -907,10 +703,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[Roughness](ue_ue.Material.md#roughness)
-
-#### Defined in
-
-[ue/ue.d.ts:1417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1417)
 
 ___
 
@@ -922,10 +714,6 @@ ___
 
 [Material](ue_ue.Material.md).[ShadingModel](ue_ue.Material.md#shadingmodel)
 
-#### Defined in
-
-[ue/ue.d.ts:1426](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1426)
-
 ___
 
 ### ShadingModelFromMaterialExpression
@@ -935,10 +723,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[ShadingModelFromMaterialExpression](ue_ue.Material.md#shadingmodelfrommaterialexpression)
-
-#### Defined in
-
-[ue/ue.d.ts:1442](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1442)
 
 ___
 
@@ -950,10 +734,6 @@ ___
 
 [Material](ue_ue.Material.md).[ShadingModels](ue_ue.Material.md#shadingmodels)
 
-#### Defined in
-
-[ue/ue.d.ts:1428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1428)
-
 ___
 
 ### Specular
@@ -963,10 +743,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[Specular](ue_ue.Material.md#specular)
-
-#### Defined in
-
-[ue/ue.d.ts:1416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1416)
 
 ___
 
@@ -978,10 +754,6 @@ ___
 
 [Material](ue_ue.Material.md).[SpecularColor](ue_ue.Material.md#specularcolor)
 
-#### Defined in
-
-[ue/ue.d.ts:1413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1413)
-
 ___
 
 ### StateId
@@ -991,10 +763,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[StateId](ue_ue.Material.md#stateid)
-
-#### Defined in
-
-[ue/ue.d.ts:1531](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1531)
 
 ___
 
@@ -1006,10 +774,6 @@ ___
 
 [Material](ue_ue.Material.md).[StencilCompare](ue_ue.Material.md#stencilcompare)
 
-#### Defined in
-
-[ue/ue.d.ts:1525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1525)
-
 ___
 
 ### StencilRefValue
@@ -1019,10 +783,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[StencilRefValue](ue_ue.Material.md#stencilrefvalue)
-
-#### Defined in
-
-[ue/ue.d.ts:1526](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1526)
 
 ___
 
@@ -1034,10 +794,6 @@ ___
 
 [Material](ue_ue.Material.md).[SubsurfaceColor](ue_ue.Material.md#subsurfacecolor)
 
-#### Defined in
-
-[ue/ue.d.ts:1434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1434)
-
 ___
 
 ### SubsurfaceProfile
@@ -1047,10 +803,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[SubsurfaceProfile](ue_ue.Material.md#subsurfaceprofile)
-
-#### Defined in
-
-[ue/ue.d.ts:1545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1545)
 
 ___
 
@@ -1062,10 +814,6 @@ ___
 
 [Material](ue_ue.Material.md).[TessellationMultiplier](ue_ue.Material.md#tessellationmultiplier)
 
-#### Defined in
-
-[ue/ue.d.ts:1433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1433)
-
 ___
 
 ### TextureStreamingData
@@ -1075,10 +823,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[TextureStreamingData](ue_ue.Material.md#texturestreamingdata)
-
-#### Defined in
-
-[ue/ue.d.ts:1549](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1549)
 
 ___
 
@@ -1090,10 +834,6 @@ ___
 
 [Material](ue_ue.Material.md).[TextureStreamingDataMissingEntries](ue_ue.Material.md#texturestreamingdatamissingentries)
 
-#### Defined in
-
-[ue/ue.d.ts:1551](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1551)
-
 ___
 
 ### TextureStreamingDataVersion
@@ -1103,10 +843,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[TextureStreamingDataVersion](ue_ue.Material.md#texturestreamingdataversion)
-
-#### Defined in
-
-[ue/ue.d.ts:1548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1548)
 
 ___
 
@@ -1118,10 +854,6 @@ ___
 
 [Material](ue_ue.Material.md).[ThumbnailInfo](ue_ue.Material.md#thumbnailinfo)
 
-#### Defined in
-
-[ue/ue.d.ts:1553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1553)
-
 ___
 
 ### TranslucencyDirectionalLightingIntensity
@@ -1131,10 +863,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[TranslucencyDirectionalLightingIntensity](ue_ue.Material.md#translucencydirectionallightingintensity)
-
-#### Defined in
-
-[ue/ue.d.ts:1454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1454)
 
 ___
 
@@ -1146,10 +874,6 @@ ___
 
 [Material](ue_ue.Material.md).[TranslucencyLightingMode](ue_ue.Material.md#translucencylightingmode)
 
-#### Defined in
-
-[ue/ue.d.ts:1451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1451)
-
 ___
 
 ### TranslucentBackscatteringExponent
@@ -1159,10 +883,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[TranslucentBackscatteringExponent](ue_ue.Material.md#translucentbackscatteringexponent)
-
-#### Defined in
-
-[ue/ue.d.ts:1459](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1459)
 
 ___
 
@@ -1174,10 +894,6 @@ ___
 
 [Material](ue_ue.Material.md).[TranslucentMultipleScatteringExtinction](ue_ue.Material.md#translucentmultiplescatteringextinction)
 
-#### Defined in
-
-[ue/ue.d.ts:1460](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1460)
-
 ___
 
 ### TranslucentSelfShadowDensityScale
@@ -1187,10 +903,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[TranslucentSelfShadowDensityScale](ue_ue.Material.md#translucentselfshadowdensityscale)
-
-#### Defined in
-
-[ue/ue.d.ts:1456](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1456)
 
 ___
 
@@ -1202,10 +914,6 @@ ___
 
 [Material](ue_ue.Material.md).[TranslucentSelfShadowSecondDensityScale](ue_ue.Material.md#translucentselfshadowseconddensityscale)
 
-#### Defined in
-
-[ue/ue.d.ts:1457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1457)
-
 ___
 
 ### TranslucentSelfShadowSecondOpacity
@@ -1215,10 +923,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[TranslucentSelfShadowSecondOpacity](ue_ue.Material.md#translucentselfshadowsecondopacity)
-
-#### Defined in
-
-[ue/ue.d.ts:1458](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1458)
 
 ___
 
@@ -1230,10 +934,6 @@ ___
 
 [Material](ue_ue.Material.md).[TranslucentShadowDensityScale](ue_ue.Material.md#translucentshadowdensityscale)
 
-#### Defined in
-
-[ue/ue.d.ts:1455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1455)
-
 ___
 
 ### TranslucentShadowStartOffset
@@ -1243,10 +943,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[TranslucentShadowStartOffset](ue_ue.Material.md#translucentshadowstartoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:1461](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1461)
 
 ___
 
@@ -1258,10 +954,6 @@ ___
 
 [Material](ue_ue.Material.md).[TwoSided](ue_ue.Material.md#twosided)
 
-#### Defined in
-
-[ue/ue.d.ts:1447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1447)
-
 ___
 
 ### UsageFlagWarnings
@@ -1271,10 +963,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[UsageFlagWarnings](ue_ue.Material.md#usageflagwarnings)
-
-#### Defined in
-
-[ue/ue.d.ts:1529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1529)
 
 ___
 
@@ -1286,10 +974,6 @@ ___
 
 [Material](ue_ue.Material.md).[UsedShadingModels](ue_ue.Material.md#usedshadingmodels)
 
-#### Defined in
-
-[ue/ue.d.ts:1429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1429)
-
 ___
 
 ### Wireframe
@@ -1299,10 +983,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[Wireframe](ue_ue.Material.md#wireframe)
-
-#### Defined in
-
-[ue/ue.d.ts:1499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1499)
 
 ___
 
@@ -1314,10 +994,6 @@ ___
 
 [Material](ue_ue.Material.md).[WorldDisplacement](ue_ue.Material.md#worlddisplacement)
 
-#### Defined in
-
-[ue/ue.d.ts:1432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1432)
-
 ___
 
 ### WorldPositionOffset
@@ -1327,10 +1003,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[WorldPositionOffset](ue_ue.Material.md#worldpositionoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:1431](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1431)
 
 ___
 
@@ -1342,10 +1014,6 @@ ___
 
 [Material](ue_ue.Material.md).[__tid_MaterialInterface__](ue_ue.Material.md#__tid_materialinterface__)
 
-#### Defined in
-
-[ue/ue.d.ts:1565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1565)
-
 ___
 
 ### \_\_tid\_Material\_\_
@@ -1355,10 +1023,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[__tid_Material__](ue_ue.Material.md#__tid_material__)
-
-#### Defined in
-
-[ue/ue.d.ts:1540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1540)
 
 ___
 
@@ -1370,19 +1034,11 @@ ___
 
 [Material](ue_ue.Material.md).[__tid_Object__](ue_ue.Material.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PreviewMaterial\_\_
 
 • **\_\_tid\_PreviewMaterial\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58330)
 
 ___
 
@@ -1394,10 +1050,6 @@ ___
 
 [Material](ue_ue.Material.md).[bAllowDevelopmentShaderCompile](ue_ue.Material.md#ballowdevelopmentshadercompile)
 
-#### Defined in
-
-[ue/ue.d.ts:1520](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1520)
-
 ___
 
 ### bAllowNegativeEmissiveColor
@@ -1407,10 +1059,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bAllowNegativeEmissiveColor](ue_ue.Material.md#ballownegativeemissivecolor)
-
-#### Defined in
-
-[ue/ue.d.ts:1450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1450)
 
 ___
 
@@ -1422,10 +1070,6 @@ ___
 
 [Material](ue_ue.Material.md).[bAutomaticallySetUsageInEditor](ue_ue.Material.md#bautomaticallysetusageineditor)
 
-#### Defined in
-
-[ue/ue.d.ts:1488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1488)
-
 ___
 
 ### bBlockGI
@@ -1435,10 +1079,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bBlockGI](ue_ue.Material.md#bblockgi)
-
-#### Defined in
-
-[ue/ue.d.ts:1467](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1467)
 
 ___
 
@@ -1450,10 +1090,6 @@ ___
 
 [Material](ue_ue.Material.md).[bCanMaskedBeAssumedOpaque](ue_ue.Material.md#bcanmaskedbeassumedopaque)
 
-#### Defined in
-
-[ue/ue.d.ts:1510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1510)
-
 ___
 
 ### bCastDynamicShadowAsMasked
@@ -1463,10 +1099,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bCastDynamicShadowAsMasked](ue_ue.Material.md#bcastdynamicshadowasmasked)
-
-#### Defined in
-
-[ue/ue.d.ts:1427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1427)
 
 ___
 
@@ -1478,10 +1110,6 @@ ___
 
 [Material](ue_ue.Material.md).[bCastRayTracedShadows](ue_ue.Material.md#bcastraytracedshadows)
 
-#### Defined in
-
-[ue/ue.d.ts:1515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1515)
-
 ___
 
 ### bComputeFogPerPixel
@@ -1491,10 +1119,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bComputeFogPerPixel](ue_ue.Material.md#bcomputefogperpixel)
-
-#### Defined in
-
-[ue/ue.d.ts:1518](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1518)
 
 ___
 
@@ -1506,10 +1130,6 @@ ___
 
 [Material](ue_ue.Material.md).[bContactShadows](ue_ue.Material.md#bcontactshadows)
 
-#### Defined in
-
-[ue/ue.d.ts:1446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1446)
-
 ___
 
 ### bDisableDepthTest
@@ -1519,10 +1139,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bDisableDepthTest](ue_ue.Material.md#bdisabledepthtest)
-
-#### Defined in
-
-[ue/ue.d.ts:1462](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1462)
 
 ___
 
@@ -1534,10 +1150,6 @@ ___
 
 [Material](ue_ue.Material.md).[bEnableAdaptiveTessellation](ue_ue.Material.md#benableadaptivetessellation)
 
-#### Defined in
-
-[ue/ue.d.ts:1497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1497)
-
 ___
 
 ### bEnableCrackFreeDisplacement
@@ -1547,10 +1159,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bEnableCrackFreeDisplacement](ue_ue.Material.md#benablecrackfreedisplacement)
-
-#### Defined in
-
-[ue/ue.d.ts:1496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1496)
 
 ___
 
@@ -1562,10 +1170,6 @@ ___
 
 [Material](ue_ue.Material.md).[bEnableMobileSeparateTranslucency](ue_ue.Material.md#benablemobileseparatetranslucency)
 
-#### Defined in
-
-[ue/ue.d.ts:1452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1452)
-
 ___
 
 ### bEnableResponsiveAA
@@ -1575,10 +1179,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bEnableResponsiveAA](ue_ue.Material.md#benableresponsiveaa)
-
-#### Defined in
-
-[ue/ue.d.ts:1444](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1444)
 
 ___
 
@@ -1590,10 +1190,6 @@ ___
 
 [Material](ue_ue.Material.md).[bEnableSeparateTranslucency](ue_ue.Material.md#benableseparatetranslucency)
 
-#### Defined in
-
-[ue/ue.d.ts:1443](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1443)
-
 ___
 
 ### bEnableStencilTest
@@ -1603,10 +1199,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bEnableStencilTest](ue_ue.Material.md#benablestenciltest)
-
-#### Defined in
-
-[ue/ue.d.ts:1524](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1524)
 
 ___
 
@@ -1618,10 +1210,6 @@ ___
 
 [Material](ue_ue.Material.md).[bFullyRough](ue_ue.Material.md#bfullyrough)
 
-#### Defined in
-
-[ue/ue.d.ts:1489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1489)
-
 ___
 
 ### bGenerateSphericalParticleNormals
@@ -1631,10 +1219,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bGenerateSphericalParticleNormals](ue_ue.Material.md#bgeneratesphericalparticlenormals)
-
-#### Defined in
-
-[ue/ue.d.ts:1464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1464)
 
 ___
 
@@ -1646,10 +1230,6 @@ ___
 
 [Material](ue_ue.Material.md).[bIsFunctionPreviewMaterial](ue_ue.Material.md#bisfunctionpreviewmaterial)
 
-#### Defined in
-
-[ue/ue.d.ts:1513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1513)
-
 ___
 
 ### bIsMasked
@@ -1659,10 +1239,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bIsMasked](ue_ue.Material.md#bismasked)
-
-#### Defined in
-
-[ue/ue.d.ts:1511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1511)
 
 ___
 
@@ -1674,10 +1250,6 @@ ___
 
 [Material](ue_ue.Material.md).[bIsMaterialEditorStatsMaterial](ue_ue.Material.md#bismaterialeditorstatsmaterial)
 
-#### Defined in
-
-[ue/ue.d.ts:1521](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1521)
-
 ___
 
 ### bIsPreviewMaterial
@@ -1687,10 +1259,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bIsPreviewMaterial](ue_ue.Material.md#bispreviewmaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:1512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1512)
 
 ___
 
@@ -1702,10 +1270,6 @@ ___
 
 [Material](ue_ue.Material.md).[bIsSky](ue_ue.Material.md#bissky)
 
-#### Defined in
-
-[ue/ue.d.ts:1517](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1517)
-
 ___
 
 ### bNormalCurvatureToRoughness
@@ -1715,10 +1279,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bNormalCurvatureToRoughness](ue_ue.Material.md#bnormalcurvaturetoroughness)
-
-#### Defined in
-
-[ue/ue.d.ts:1494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1494)
 
 ___
 
@@ -1730,10 +1290,6 @@ ___
 
 [Material](ue_ue.Material.md).[bOutputTranslucentVelocity](ue_ue.Material.md#boutputtranslucentvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:1519](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1519)
-
 ___
 
 ### bOutputVelocityOnBasePass
@@ -1743,10 +1299,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bOutputVelocityOnBasePass](ue_ue.Material.md#boutputvelocityonbasepass)
-
-#### Defined in
-
-[ue/ue.d.ts:1500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1500)
 
 ___
 
@@ -1758,10 +1310,6 @@ ___
 
 [Material](ue_ue.Material.md).[bScreenSpaceReflections](ue_ue.Material.md#bscreenspacereflections)
 
-#### Defined in
-
-[ue/ue.d.ts:1445](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1445)
-
 ___
 
 ### bTangentSpaceNormal
@@ -1771,10 +1319,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bTangentSpaceNormal](ue_ue.Material.md#btangentspacenormal)
-
-#### Defined in
-
-[ue/ue.d.ts:1465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1465)
 
 ___
 
@@ -1786,10 +1330,6 @@ ___
 
 [Material](ue_ue.Material.md).[bTextureStreamingDataSorted](ue_ue.Material.md#btexturestreamingdatasorted)
 
-#### Defined in
-
-[ue/ue.d.ts:1547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1547)
-
 ___
 
 ### bUseEmissiveForDynamicAreaLighting
@@ -1799,10 +1339,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bUseEmissiveForDynamicAreaLighting](ue_ue.Material.md#buseemissivefordynamicarealighting)
-
-#### Defined in
-
-[ue/ue.d.ts:1466](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1466)
 
 ___
 
@@ -1814,10 +1350,6 @@ ___
 
 [Material](ue_ue.Material.md).[bUseFullPrecision](ue_ue.Material.md#busefullprecision)
 
-#### Defined in
-
-[ue/ue.d.ts:1490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1490)
-
 ___
 
 ### bUseHQForwardReflections
@@ -1827,10 +1359,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bUseHQForwardReflections](ue_ue.Material.md#busehqforwardreflections)
-
-#### Defined in
-
-[ue/ue.d.ts:1492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1492)
 
 ___
 
@@ -1842,10 +1370,6 @@ ___
 
 [Material](ue_ue.Material.md).[bUseLightmapDirectionality](ue_ue.Material.md#buselightmapdirectionality)
 
-#### Defined in
-
-[ue/ue.d.ts:1491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1491)
-
 ___
 
 ### bUseMaterialAttributes
@@ -1855,10 +1379,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bUseMaterialAttributes](ue_ue.Material.md#busematerialattributes)
-
-#### Defined in
-
-[ue/ue.d.ts:1514](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1514)
 
 ___
 
@@ -1870,10 +1390,6 @@ ___
 
 [Material](ue_ue.Material.md).[bUsePlanarForwardReflections](ue_ue.Material.md#buseplanarforwardreflections)
 
-#### Defined in
-
-[ue/ue.d.ts:1493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1493)
-
 ___
 
 ### bUseTranslucencyVertexFog
@@ -1883,10 +1399,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bUseTranslucencyVertexFog](ue_ue.Material.md#busetranslucencyvertexfog)
-
-#### Defined in
-
-[ue/ue.d.ts:1516](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1516)
 
 ___
 
@@ -1898,10 +1410,6 @@ ___
 
 [Material](ue_ue.Material.md).[bUsedAsSpecialEngineMaterial](ue_ue.Material.md#busedasspecialenginematerial)
 
-#### Defined in
-
-[ue/ue.d.ts:1468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1468)
-
 ___
 
 ### bUsedWithBeamTrails
@@ -1911,10 +1419,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bUsedWithBeamTrails](ue_ue.Material.md#busedwithbeamtrails)
-
-#### Defined in
-
-[ue/ue.d.ts:1472](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1472)
 
 ___
 
@@ -1926,10 +1430,6 @@ ___
 
 [Material](ue_ue.Material.md).[bUsedWithClothing](ue_ue.Material.md#busedwithclothing)
 
-#### Defined in
-
-[ue/ue.d.ts:1484](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1484)
-
 ___
 
 ### bUsedWithEditorCompositing
@@ -1939,10 +1439,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bUsedWithEditorCompositing](ue_ue.Material.md#busedwitheditorcompositing)
-
-#### Defined in
-
-[ue/ue.d.ts:1470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1470)
 
 ___
 
@@ -1954,10 +1450,6 @@ ___
 
 [Material](ue_ue.Material.md).[bUsedWithGeometryCache](ue_ue.Material.md#busedwithgeometrycache)
 
-#### Defined in
-
-[ue/ue.d.ts:1477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1477)
-
 ___
 
 ### bUsedWithGeometryCollections
@@ -1967,10 +1459,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bUsedWithGeometryCollections](ue_ue.Material.md#busedwithgeometrycollections)
-
-#### Defined in
-
-[ue/ue.d.ts:1482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1482)
 
 ___
 
@@ -1982,10 +1470,6 @@ ___
 
 [Material](ue_ue.Material.md).[bUsedWithHairStrands](ue_ue.Material.md#busedwithhairstrands)
 
-#### Defined in
-
-[ue/ue.d.ts:1486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1486)
-
 ___
 
 ### bUsedWithInstancedStaticMeshes
@@ -1995,10 +1479,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bUsedWithInstancedStaticMeshes](ue_ue.Material.md#busedwithinstancedstaticmeshes)
-
-#### Defined in
-
-[ue/ue.d.ts:1481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1481)
 
 ___
 
@@ -2010,10 +1490,6 @@ ___
 
 [Material](ue_ue.Material.md).[bUsedWithMeshParticles](ue_ue.Material.md#busedwithmeshparticles)
 
-#### Defined in
-
-[ue/ue.d.ts:1473](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1473)
-
 ___
 
 ### bUsedWithMorphTargets
@@ -2023,10 +1499,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bUsedWithMorphTargets](ue_ue.Material.md#busedwithmorphtargets)
-
-#### Defined in
-
-[ue/ue.d.ts:1479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1479)
 
 ___
 
@@ -2038,10 +1510,6 @@ ___
 
 [Material](ue_ue.Material.md).[bUsedWithNiagaraMeshParticles](ue_ue.Material.md#busedwithniagarameshparticles)
 
-#### Defined in
-
-[ue/ue.d.ts:1476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1476)
-
 ___
 
 ### bUsedWithNiagaraRibbons
@@ -2051,10 +1519,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bUsedWithNiagaraRibbons](ue_ue.Material.md#busedwithniagararibbons)
-
-#### Defined in
-
-[ue/ue.d.ts:1475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1475)
 
 ___
 
@@ -2066,10 +1530,6 @@ ___
 
 [Material](ue_ue.Material.md).[bUsedWithNiagaraSprites](ue_ue.Material.md#busedwithniagarasprites)
 
-#### Defined in
-
-[ue/ue.d.ts:1474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1474)
-
 ___
 
 ### bUsedWithParticleSprites
@@ -2079,10 +1539,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bUsedWithParticleSprites](ue_ue.Material.md#busedwithparticlesprites)
-
-#### Defined in
-
-[ue/ue.d.ts:1471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1471)
 
 ___
 
@@ -2094,10 +1550,6 @@ ___
 
 [Material](ue_ue.Material.md).[bUsedWithSkeletalMesh](ue_ue.Material.md#busedwithskeletalmesh)
 
-#### Defined in
-
-[ue/ue.d.ts:1469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1469)
-
 ___
 
 ### bUsedWithSplineMeshes
@@ -2107,10 +1559,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bUsedWithSplineMeshes](ue_ue.Material.md#busedwithsplinemeshes)
-
-#### Defined in
-
-[ue/ue.d.ts:1480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1480)
 
 ___
 
@@ -2122,10 +1570,6 @@ ___
 
 [Material](ue_ue.Material.md).[bUsedWithStaticLighting](ue_ue.Material.md#busedwithstaticlighting)
 
-#### Defined in
-
-[ue/ue.d.ts:1478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1478)
-
 ___
 
 ### bUsedWithUI
@@ -2135,10 +1579,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bUsedWithUI](ue_ue.Material.md#busedwithui)
-
-#### Defined in
-
-[ue/ue.d.ts:1487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1487)
 
 ___
 
@@ -2150,10 +1590,6 @@ ___
 
 [Material](ue_ue.Material.md).[bUsedWithWater](ue_ue.Material.md#busedwithwater)
 
-#### Defined in
-
-[ue/ue.d.ts:1485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1485)
-
 ___
 
 ### bUsesDistortion
@@ -2164,10 +1600,6 @@ ___
 
 [Material](ue_ue.Material.md).[bUsesDistortion](ue_ue.Material.md#busesdistortion)
 
-#### Defined in
-
-[ue/ue.d.ts:1483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1483)
-
 ___
 
 ### bWriteOnlyAlpha
@@ -2177,10 +1609,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[bWriteOnlyAlpha](ue_ue.Material.md#bwriteonlyalpha)
-
-#### Defined in
-
-[ue/ue.d.ts:1463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1463)
 
 ## Methods
 
@@ -2206,10 +1634,6 @@ ___
 
 [Material](ue_ue.Material.md).[CreateDefaultSubobject](ue_ue.Material.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -2230,10 +1654,6 @@ ___
 
 [Material](ue_ue.Material.md).[ExecuteUbergraph](ue_ue.Material.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetBaseMaterial
@@ -2247,10 +1667,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[GetBaseMaterial](ue_ue.Material.md#getbasematerial)
-
-#### Defined in
-
-[ue/ue.d.ts:1558](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1558)
 
 ___
 
@@ -2266,10 +1682,6 @@ ___
 
 [Material](ue_ue.Material.md).[GetClass](ue_ue.Material.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetName
@@ -2283,10 +1695,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[GetName](ue_ue.Material.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -2302,10 +1710,6 @@ ___
 
 [Material](ue_ue.Material.md).[GetOuter](ue_ue.Material.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetPhysicalMaterial
@@ -2320,10 +1724,6 @@ ___
 
 [Material](ue_ue.Material.md).[GetPhysicalMaterial](ue_ue.Material.md#getphysicalmaterial)
 
-#### Defined in
-
-[ue/ue.d.ts:1559](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1559)
-
 ___
 
 ### GetWorld
@@ -2337,10 +1737,6 @@ ___
 #### Inherited from
 
 [Material](ue_ue.Material.md).[GetWorld](ue_ue.Material.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -2366,10 +1762,6 @@ ___
 
 [Material](ue_ue.Material.md).[SetForceMipLevelsToBeResident](ue_ue.Material.md#setforcemiplevelstoberesident)
 
-#### Defined in
-
-[ue/ue.d.ts:1560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1560)
-
 ___
 
 ### Find
@@ -2391,10 +1783,6 @@ ___
 
 [Material](ue_ue.Material.md).[Find](ue_ue.Material.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:58327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58327)
-
 ___
 
 ### Load
@@ -2415,10 +1803,6 @@ ___
 
 [Material](ue_ue.Material.md).[Load](ue_ue.Material.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:58328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58328)
-
 ___
 
 ### StaticClass
@@ -2432,7 +1816,3 @@ ___
 #### Overrides
 
 [Material](ue_ue.Material.md).[StaticClass](ue_ue.Material.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:58326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58326)

@@ -32,10 +32,6 @@
 
 • **new BasedMovementInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:5891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5891)
-
 • **new BasedMovementInfo**(`MovementBase`, `BoneName`, `Location`, `Rotation`, `bServerHasBaseComponent`, `bRelativeRotation`, `bServerHasVelocity`)
 
 #### Parameters
@@ -50,19 +46,11 @@
 | `bRelativeRotation` | `boolean` |
 | `bServerHasVelocity` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:5892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5892)
-
 ## Properties
 
 ### BoneName
 
 • **BoneName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:5894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5894)
 
 ___
 
@@ -70,19 +58,11 @@ ___
 
 • **Location**: [`Vector_NetQuantize100`](ue_ue.Vector_NetQuantize100.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5895)
-
 ___
 
 ### MovementBase
 
 • **MovementBase**: [`PrimitiveComponent`](ue_ue.PrimitiveComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5893)
 
 ___
 
@@ -90,19 +70,11 @@ ___
 
 • **Rotation**: [`Rotator`](ue_ue_s.Rotator.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5896)
-
 ___
 
 ### \_\_tid\_BasedMovementInfo\_\_
 
 • `Private` **\_\_tid\_BasedMovementInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5905)
 
 ___
 
@@ -110,29 +82,17 @@ ___
 
 • **bRelativeRotation**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5898)
-
 ___
 
 ### bServerHasBaseComponent
 
 • **bServerHasBaseComponent**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5897)
-
 ___
 
 ### bServerHasVelocity
 
 • **bServerHasVelocity**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5899)
 
 ## Methods
 
@@ -148,10 +108,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5903)
-
 ___
 
 ### StaticStruct
@@ -161,7 +117,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5904)

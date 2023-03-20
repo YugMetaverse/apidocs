@@ -60,10 +60,6 @@
 
 [DatasmithSceneImportData](ue_ue.DatasmithSceneImportData.md).[constructor](ue_ue.DatasmithSceneImportData.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:30145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30145)
-
 ## Properties
 
 ### BaseOptions
@@ -74,19 +70,11 @@
 
 [DatasmithSceneImportData](ue_ue.DatasmithSceneImportData.md).[BaseOptions](ue_ue.DatasmithSceneImportData.md#baseoptions)
 
-#### Defined in
-
-[ue/ue.d.ts:29466](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29466)
-
 ___
 
 ### OriginFactory
 
 • **OriginFactory**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:30146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30146)
 
 ___
 
@@ -98,10 +86,6 @@ ___
 
 [DatasmithSceneImportData](ue_ue.DatasmithSceneImportData.md).[SourceData](ue_ue.DatasmithSceneImportData.md#sourcedata)
 
-#### Defined in
-
-[ue/ue.d.ts:38](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38)
-
 ___
 
 ### SourceFilePath
@@ -111,10 +95,6 @@ ___
 #### Inherited from
 
 [DatasmithSceneImportData](ue_ue.DatasmithSceneImportData.md).[SourceFilePath](ue_ue.DatasmithSceneImportData.md#sourcefilepath)
-
-#### Defined in
-
-[ue/ue.d.ts:36](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36)
 
 ___
 
@@ -126,10 +106,6 @@ ___
 
 [DatasmithSceneImportData](ue_ue.DatasmithSceneImportData.md).[SourceFileTimestamp](ue_ue.DatasmithSceneImportData.md#sourcefiletimestamp)
 
-#### Defined in
-
-[ue/ue.d.ts:37](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37)
-
 ___
 
 ### \_\_tid\_AssetImportData\_\_
@@ -139,10 +115,6 @@ ___
 #### Inherited from
 
 [DatasmithSceneImportData](ue_ue.DatasmithSceneImportData.md).[__tid_AssetImportData__](ue_ue.DatasmithSceneImportData.md#__tid_assetimportdata__)
-
-#### Defined in
-
-[ue/ue.d.ts:45](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45)
 
 ___
 
@@ -154,19 +126,11 @@ ___
 
 [DatasmithSceneImportData](ue_ue.DatasmithSceneImportData.md).[__tid_DatasmithSceneImportData__](ue_ue.DatasmithSceneImportData.md#__tid_datasmithsceneimportdata__)
 
-#### Defined in
-
-[ue/ue.d.ts:29471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29471)
-
 ___
 
 ### \_\_tid\_DatasmithTranslatedSceneImportData\_\_
 
 • **\_\_tid\_DatasmithTranslatedSceneImportData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30151)
 
 ___
 
@@ -177,10 +141,6 @@ ___
 #### Inherited from
 
 [DatasmithSceneImportData](ue_ue.DatasmithSceneImportData.md).[__tid_Object__](ue_ue.DatasmithSceneImportData.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -206,10 +166,6 @@ ___
 
 [DatasmithSceneImportData](ue_ue.DatasmithSceneImportData.md).[CreateDefaultSubobject](ue_ue.DatasmithSceneImportData.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -230,10 +186,6 @@ ___
 
 [DatasmithSceneImportData](ue_ue.DatasmithSceneImportData.md).[ExecuteUbergraph](ue_ue.DatasmithSceneImportData.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -247,10 +199,6 @@ ___
 #### Inherited from
 
 [DatasmithSceneImportData](ue_ue.DatasmithSceneImportData.md).[GetClass](ue_ue.DatasmithSceneImportData.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -266,10 +214,6 @@ ___
 
 [DatasmithSceneImportData](ue_ue.DatasmithSceneImportData.md).[GetName](ue_ue.DatasmithSceneImportData.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -283,10 +227,6 @@ ___
 #### Inherited from
 
 [DatasmithSceneImportData](ue_ue.DatasmithSceneImportData.md).[GetOuter](ue_ue.DatasmithSceneImportData.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -302,10 +242,6 @@ ___
 
 [DatasmithSceneImportData](ue_ue.DatasmithSceneImportData.md).[GetWorld](ue_ue.DatasmithSceneImportData.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### K2\_ExtractFilenames
@@ -320,10 +256,6 @@ ___
 
 [DatasmithSceneImportData](ue_ue.DatasmithSceneImportData.md).[K2_ExtractFilenames](ue_ue.DatasmithSceneImportData.md#k2_extractfilenames)
 
-#### Defined in
-
-[ue/ue.d.ts:39](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39)
-
 ___
 
 ### K2\_GetFirstFilename
@@ -337,10 +269,6 @@ ___
 #### Inherited from
 
 [DatasmithSceneImportData](ue_ue.DatasmithSceneImportData.md).[K2_GetFirstFilename](ue_ue.DatasmithSceneImportData.md#k2_getfirstfilename)
-
-#### Defined in
-
-[ue/ue.d.ts:40](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40)
 
 ___
 
@@ -363,10 +291,6 @@ ___
 
 [DatasmithSceneImportData](ue_ue.DatasmithSceneImportData.md).[Find](ue_ue.DatasmithSceneImportData.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:30148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30148)
-
 ___
 
 ### Load
@@ -387,10 +311,6 @@ ___
 
 [DatasmithSceneImportData](ue_ue.DatasmithSceneImportData.md).[Load](ue_ue.DatasmithSceneImportData.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:30149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30149)
-
 ___
 
 ### StaticClass
@@ -404,7 +324,3 @@ ___
 #### Overrides
 
 [DatasmithSceneImportData](ue_ue.DatasmithSceneImportData.md).[StaticClass](ue_ue.DatasmithSceneImportData.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:30147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30147)

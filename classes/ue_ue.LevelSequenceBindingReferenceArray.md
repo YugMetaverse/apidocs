@@ -26,10 +26,6 @@
 
 • **new LevelSequenceBindingReferenceArray**()
 
-#### Defined in
-
-[ue/ue.d.ts:13986](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13986)
-
 • **new LevelSequenceBindingReferenceArray**(`References`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `References` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`LevelSequenceBindingReference`](ue_ue.LevelSequenceBindingReference.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:13987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13987)
-
 ## Properties
 
 ### References
 
 • **References**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`LevelSequenceBindingReference`](ue_ue.LevelSequenceBindingReference.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:13988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13988)
-
 ___
 
 ### \_\_tid\_LevelSequenceBindingReferenceArray\_\_
 
 • `Private` **\_\_tid\_LevelSequenceBindingReferenceArray\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:13994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13994)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:13992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13992)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:13993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13993)

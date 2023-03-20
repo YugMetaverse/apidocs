@@ -21,19 +21,11 @@
 
 • **Density** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5202)
-
 ___
 
 ### EClothMassMode\_MAX
 
 • **EClothMassMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5202)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **MaxClothMassMode** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5202)
-
 ___
 
 ### TotalMass
 
 • **TotalMass** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5202)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **UniformMass** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5202)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5202)

@@ -26,10 +26,6 @@
 
 • **new RecordedTransformTrack**()
 
-#### Defined in
-
-[ue/ue.d.ts:26694](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26694)
-
 • **new RecordedTransformTrack**(`Records`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Records` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`RecordedFrame`](ue_ue.RecordedFrame.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:26695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26695)
-
 ## Properties
 
 ### Records
 
 • **Records**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`RecordedFrame`](ue_ue.RecordedFrame.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:26696](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26696)
-
 ___
 
 ### \_\_tid\_RecordedTransformTrack\_\_
 
 • `Private` **\_\_tid\_RecordedTransformTrack\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26702)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26700)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26701)

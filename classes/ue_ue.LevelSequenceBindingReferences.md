@@ -27,10 +27,6 @@
 
 • **new LevelSequenceBindingReferences**()
 
-#### Defined in
-
-[ue/ue.d.ts:13998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13998)
-
 • **new LevelSequenceBindingReferences**(`BindingIdToReferences`, `AnimSequenceInstances`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `BindingIdToReferences` | [`TMap`](../interfaces/ue_puerts.TMap.md)<[`Guid`](ue_ue_s.Guid.md), [`LevelSequenceBindingReferenceArray`](ue_ue.LevelSequenceBindingReferenceArray.md)\> |
 | `AnimSequenceInstances` | [`TSet`](../interfaces/ue_puerts.TSet.md)<[`Guid`](ue_ue_s.Guid.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:13999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13999)
-
 ## Properties
 
 ### AnimSequenceInstances
 
 • **AnimSequenceInstances**: [`TSet`](../interfaces/ue_puerts.TSet.md)<[`Guid`](ue_ue_s.Guid.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:14001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14001)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **BindingIdToReferences**: [`TMap`](../interfaces/ue_puerts.TMap.md)<[`Guid`](ue_ue_s.Guid.md), [`LevelSequenceBindingReferenceArray`](ue_ue.LevelSequenceBindingReferenceArray.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:14000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14000)
-
 ___
 
 ### \_\_tid\_LevelSequenceBindingReferences\_\_
 
 • `Private` **\_\_tid\_LevelSequenceBindingReferences\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14007)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14005)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14006)

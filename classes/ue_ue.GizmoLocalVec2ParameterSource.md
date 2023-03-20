@@ -54,29 +54,17 @@
 
 [GizmoBaseVec2ParameterSource](ue_ue.GizmoBaseVec2ParameterSource.md).[constructor](ue_ue.GizmoBaseVec2ParameterSource.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:38105](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38105)
-
 ## Properties
 
 ### LastChange
 
 • **LastChange**: [`GizmoVec2ParameterChange`](ue_ue.GizmoVec2ParameterChange.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38107](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38107)
-
 ___
 
 ### Value
 
 • **Value**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38106](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38106)
 
 ___
 
@@ -88,19 +76,11 @@ ___
 
 [GizmoBaseVec2ParameterSource](ue_ue.GizmoBaseVec2ParameterSource.md).[__tid_GizmoBaseVec2ParameterSource__](ue_ue.GizmoBaseVec2ParameterSource.md#__tid_gizmobasevec2parametersource__)
 
-#### Defined in
-
-[ue/ue.d.ts:37991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37991)
-
 ___
 
 ### \_\_tid\_GizmoLocalVec2ParameterSource\_\_
 
 • **\_\_tid\_GizmoLocalVec2ParameterSource\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38112)
 
 ___
 
@@ -111,10 +91,6 @@ ___
 #### Inherited from
 
 [GizmoBaseVec2ParameterSource](ue_ue.GizmoBaseVec2ParameterSource.md).[__tid_Object__](ue_ue.GizmoBaseVec2ParameterSource.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -140,10 +116,6 @@ ___
 
 [GizmoBaseVec2ParameterSource](ue_ue.GizmoBaseVec2ParameterSource.md).[CreateDefaultSubobject](ue_ue.GizmoBaseVec2ParameterSource.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -164,10 +136,6 @@ ___
 
 [GizmoBaseVec2ParameterSource](ue_ue.GizmoBaseVec2ParameterSource.md).[ExecuteUbergraph](ue_ue.GizmoBaseVec2ParameterSource.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -181,10 +149,6 @@ ___
 #### Inherited from
 
 [GizmoBaseVec2ParameterSource](ue_ue.GizmoBaseVec2ParameterSource.md).[GetClass](ue_ue.GizmoBaseVec2ParameterSource.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -200,10 +164,6 @@ ___
 
 [GizmoBaseVec2ParameterSource](ue_ue.GizmoBaseVec2ParameterSource.md).[GetName](ue_ue.GizmoBaseVec2ParameterSource.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -218,10 +178,6 @@ ___
 
 [GizmoBaseVec2ParameterSource](ue_ue.GizmoBaseVec2ParameterSource.md).[GetOuter](ue_ue.GizmoBaseVec2ParameterSource.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -235,10 +191,6 @@ ___
 #### Inherited from
 
 [GizmoBaseVec2ParameterSource](ue_ue.GizmoBaseVec2ParameterSource.md).[GetWorld](ue_ue.GizmoBaseVec2ParameterSource.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -261,10 +213,6 @@ ___
 
 [GizmoBaseVec2ParameterSource](ue_ue.GizmoBaseVec2ParameterSource.md).[Find](ue_ue.GizmoBaseVec2ParameterSource.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:38109](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38109)
-
 ___
 
 ### Load
@@ -285,10 +233,6 @@ ___
 
 [GizmoBaseVec2ParameterSource](ue_ue.GizmoBaseVec2ParameterSource.md).[Load](ue_ue.GizmoBaseVec2ParameterSource.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:38110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38110)
-
 ___
 
 ### StaticClass
@@ -302,7 +246,3 @@ ___
 #### Overrides
 
 [GizmoBaseVec2ParameterSource](ue_ue.GizmoBaseVec2ParameterSource.md).[StaticClass](ue_ue.GizmoBaseVec2ParameterSource.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:38108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38108)

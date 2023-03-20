@@ -27,10 +27,6 @@
 
 • **new PaperSpriteSocket**()
 
-#### Defined in
-
-[ue/ue.d.ts:54456](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54456)
-
 • **new PaperSpriteSocket**(`LocalTransform`, `SocketName`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `LocalTransform` | [`Transform`](ue_ue_s.Transform.md) |
 | `SocketName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:54457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54457)
-
 ## Properties
 
 ### LocalTransform
 
 • **LocalTransform**: [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54458](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54458)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **SocketName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:54459](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54459)
-
 ___
 
 ### \_\_tid\_PaperSpriteSocket\_\_
 
 • `Private` **\_\_tid\_PaperSpriteSocket\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54465)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54463)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54464)

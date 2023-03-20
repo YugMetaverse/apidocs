@@ -21,19 +21,11 @@
 
 • **TCMT\_Auto** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34815)
-
 ___
 
 ### TCMT\_MAX
 
 • **TCMT\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34815)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **TCMT\_XY** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34815)
-
 ___
 
 ### TCMT\_XZ
 
 • **TCMT\_XZ** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34815)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **TCMT\_YZ** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34815)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34815)

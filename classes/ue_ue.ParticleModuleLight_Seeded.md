@@ -81,10 +81,6 @@
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[constructor](ue_ue.ParticleModuleLight.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:55752](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55752)
-
 ## Properties
 
 ### BrightnessOverLife
@@ -94,10 +90,6 @@
 #### Inherited from
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[BrightnessOverLife](ue_ue.ParticleModuleLight.md#brightnessoverlife)
-
-#### Defined in
-
-[ue/ue.d.ts:55737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55737)
 
 ___
 
@@ -109,10 +101,6 @@ ___
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[ColorScaleOverLife](ue_ue.ParticleModuleLight.md#colorscaleoverlife)
 
-#### Defined in
-
-[ue/ue.d.ts:55736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55736)
-
 ___
 
 ### LODDuplicate
@@ -122,10 +110,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[LODDuplicate](ue_ue.ParticleModuleLight.md#lodduplicate)
-
-#### Defined in
-
-[ue/ue.d.ts:6745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6745)
 
 ___
 
@@ -137,10 +121,6 @@ ___
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[LODValidity](ue_ue.ParticleModuleLight.md#lodvalidity)
 
-#### Defined in
-
-[ue/ue.d.ts:6748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6748)
-
 ___
 
 ### LightExponent
@@ -150,10 +130,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[LightExponent](ue_ue.ParticleModuleLight.md#lightexponent)
-
-#### Defined in
-
-[ue/ue.d.ts:55739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55739)
 
 ___
 
@@ -165,10 +141,6 @@ ___
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[LightingChannels](ue_ue.ParticleModuleLight.md#lightingchannels)
 
-#### Defined in
-
-[ue/ue.d.ts:55740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55740)
-
 ___
 
 ### ModuleEditorColor
@@ -178,10 +150,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[ModuleEditorColor](ue_ue.ParticleModuleLight.md#moduleeditorcolor)
-
-#### Defined in
-
-[ue/ue.d.ts:6749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6749)
 
 ___
 
@@ -193,19 +161,11 @@ ___
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[RadiusScale](ue_ue.ParticleModuleLight.md#radiusscale)
 
-#### Defined in
-
-[ue/ue.d.ts:55738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55738)
-
 ___
 
 ### RandomSeedInfo
 
 • **RandomSeedInfo**: [`ParticleRandomSeedInfo`](ue_ue.ParticleRandomSeedInfo.md)
-
-#### Defined in
-
-[ue/ue.d.ts:55753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55753)
 
 ___
 
@@ -217,10 +177,6 @@ ___
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[SpawnFraction](ue_ue.ParticleModuleLight.md#spawnfraction)
 
-#### Defined in
-
-[ue/ue.d.ts:55735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55735)
-
 ___
 
 ### VolumetricScatteringIntensity
@@ -230,10 +186,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[VolumetricScatteringIntensity](ue_ue.ParticleModuleLight.md#volumetricscatteringintensity)
-
-#### Defined in
-
-[ue/ue.d.ts:55741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55741)
 
 ___
 
@@ -245,10 +197,6 @@ ___
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[__tid_Object__](ue_ue.ParticleModuleLight.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ParticleModuleLightBase\_\_
@@ -259,19 +207,11 @@ ___
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[__tid_ParticleModuleLightBase__](ue_ue.ParticleModuleLight.md#__tid_particlemodulelightbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:55727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55727)
-
 ___
 
 ### \_\_tid\_ParticleModuleLight\_Seeded\_\_
 
 • **\_\_tid\_ParticleModuleLight\_Seeded\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55758](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55758)
 
 ___
 
@@ -283,10 +223,6 @@ ___
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[__tid_ParticleModuleLight__](ue_ue.ParticleModuleLight.md#__tid_particlemodulelight__)
 
-#### Defined in
-
-[ue/ue.d.ts:55748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55748)
-
 ___
 
 ### \_\_tid\_ParticleModule\_\_
@@ -296,10 +232,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[__tid_ParticleModule__](ue_ue.ParticleModuleLight.md#__tid_particlemodule__)
-
-#### Defined in
-
-[ue/ue.d.ts:6754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6754)
 
 ___
 
@@ -311,10 +243,6 @@ ___
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[b3DDrawMode](ue_ue.ParticleModuleLight.md#b3ddrawmode)
 
-#### Defined in
-
-[ue/ue.d.ts:6741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6741)
-
 ___
 
 ### bAffectsTranslucency
@@ -324,10 +252,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[bAffectsTranslucency](ue_ue.ParticleModuleLight.md#baffectstranslucency)
-
-#### Defined in
-
-[ue/ue.d.ts:55733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55733)
 
 ___
 
@@ -339,10 +263,6 @@ ___
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[bCurvesAsColor](ue_ue.ParticleModuleLight.md#bcurvesascolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6740)
-
 ___
 
 ### bEditable
@@ -352,10 +272,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[bEditable](ue_ue.ParticleModuleLight.md#beditable)
-
-#### Defined in
-
-[ue/ue.d.ts:6744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6744)
 
 ___
 
@@ -367,10 +283,6 @@ ___
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[bEnabled](ue_ue.ParticleModuleLight.md#benabled)
 
-#### Defined in
-
-[ue/ue.d.ts:6743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6743)
-
 ___
 
 ### bFinalUpdateModule
@@ -380,10 +292,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[bFinalUpdateModule](ue_ue.ParticleModuleLight.md#bfinalupdatemodule)
-
-#### Defined in
-
-[ue/ue.d.ts:6738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6738)
 
 ___
 
@@ -395,10 +303,6 @@ ___
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[bHighQualityLights](ue_ue.ParticleModuleLight.md#bhighqualitylights)
 
-#### Defined in
-
-[ue/ue.d.ts:55742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55742)
-
 ___
 
 ### bPreviewLightRadius
@@ -408,10 +312,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[bPreviewLightRadius](ue_ue.ParticleModuleLight.md#bpreviewlightradius)
-
-#### Defined in
-
-[ue/ue.d.ts:55734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55734)
 
 ___
 
@@ -423,10 +323,6 @@ ___
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[bRequiresLoopingNotification](ue_ue.ParticleModuleLight.md#brequiresloopingnotification)
 
-#### Defined in
-
-[ue/ue.d.ts:6747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6747)
-
 ___
 
 ### bShadowCastingLights
@@ -436,10 +332,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[bShadowCastingLights](ue_ue.ParticleModuleLight.md#bshadowcastinglights)
-
-#### Defined in
-
-[ue/ue.d.ts:55743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55743)
 
 ___
 
@@ -451,10 +343,6 @@ ___
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[bSpawnModule](ue_ue.ParticleModuleLight.md#bspawnmodule)
 
-#### Defined in
-
-[ue/ue.d.ts:6736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6736)
-
 ___
 
 ### bSupported3DDrawMode
@@ -464,10 +352,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[bSupported3DDrawMode](ue_ue.ParticleModuleLight.md#bsupported3ddrawmode)
-
-#### Defined in
-
-[ue/ue.d.ts:6742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6742)
 
 ___
 
@@ -479,10 +363,6 @@ ___
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[bSupportsRandomSeed](ue_ue.ParticleModuleLight.md#bsupportsrandomseed)
 
-#### Defined in
-
-[ue/ue.d.ts:6746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6746)
-
 ___
 
 ### bUpdateForGPUEmitter
@@ -492,10 +372,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[bUpdateForGPUEmitter](ue_ue.ParticleModuleLight.md#bupdateforgpuemitter)
-
-#### Defined in
-
-[ue/ue.d.ts:6739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6739)
 
 ___
 
@@ -507,10 +383,6 @@ ___
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[bUpdateModule](ue_ue.ParticleModuleLight.md#bupdatemodule)
 
-#### Defined in
-
-[ue/ue.d.ts:6737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6737)
-
 ___
 
 ### bUseInverseSquaredFalloff
@@ -520,10 +392,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[bUseInverseSquaredFalloff](ue_ue.ParticleModuleLight.md#buseinversesquaredfalloff)
-
-#### Defined in
-
-[ue/ue.d.ts:55732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55732)
 
 ## Methods
 
@@ -549,10 +417,6 @@ ___
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[CreateDefaultSubobject](ue_ue.ParticleModuleLight.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -573,10 +437,6 @@ ___
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[ExecuteUbergraph](ue_ue.ParticleModuleLight.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -590,10 +450,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[GetClass](ue_ue.ParticleModuleLight.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -609,10 +465,6 @@ ___
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[GetName](ue_ue.ParticleModuleLight.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -627,10 +479,6 @@ ___
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[GetOuter](ue_ue.ParticleModuleLight.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -644,10 +492,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[GetWorld](ue_ue.ParticleModuleLight.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -670,10 +514,6 @@ ___
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[Find](ue_ue.ParticleModuleLight.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:55755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55755)
-
 ___
 
 ### Load
@@ -694,10 +534,6 @@ ___
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[Load](ue_ue.ParticleModuleLight.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:55756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55756)
-
 ___
 
 ### StaticClass
@@ -711,7 +547,3 @@ ___
 #### Overrides
 
 [ParticleModuleLight](ue_ue.ParticleModuleLight.md).[StaticClass](ue_ue.ParticleModuleLight.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:55754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55754)

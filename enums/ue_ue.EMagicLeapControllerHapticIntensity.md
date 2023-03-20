@@ -20,19 +20,11 @@
 
 • **EMagicLeapControllerHapticIntensity\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33988)
-
 ___
 
 ### High
 
 • **High** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33988)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Low** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33988)
-
 ___
 
 ### Medium
 
 • **Medium** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33988)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33988)

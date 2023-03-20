@@ -37,10 +37,6 @@
 
 • **new PhysAssetCreateParams**()
 
-#### Defined in
-
-[ue/ue.d.ts:57396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57396)
-
 • **new PhysAssetCreateParams**(`MinBoneSize`, `MinWeldSize`, `GeomType`, `VertWeight`, `bAutoOrientToBone`, `bCreateConstraints`, `bWalkPastSmall`, `bBodyForAll`, `bDisableCollisionsByDefault`, `AngularConstraintMode`, `HullCount`, `MaxHullVerts`)
 
 #### Parameters
@@ -60,19 +56,11 @@
 | `HullCount` | `number` |
 | `MaxHullVerts` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:57397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57397)
-
 ## Properties
 
 ### AngularConstraintMode
 
 • **AngularConstraintMode**: [`EAngularConstraintMotion`](../enums/ue_ue.EAngularConstraintMotion.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57407)
 
 ___
 
@@ -80,19 +68,11 @@ ___
 
 • **GeomType**: [`EPhysAssetFitGeomType`](../enums/ue_ue.EPhysAssetFitGeomType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57400)
-
 ___
 
 ### HullCount
 
 • **HullCount**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57408)
 
 ___
 
@@ -100,19 +80,11 @@ ___
 
 • **MaxHullVerts**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57409)
-
 ___
 
 ### MinBoneSize
 
 • **MinBoneSize**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57398)
 
 ___
 
@@ -120,19 +92,11 @@ ___
 
 • **MinWeldSize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57399)
-
 ___
 
 ### VertWeight
 
 • **VertWeight**: [`EPhysAssetFitVertWeight`](../enums/ue_ue.EPhysAssetFitVertWeight.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57401)
 
 ___
 
@@ -140,19 +104,11 @@ ___
 
 • `Private` **\_\_tid\_PhysAssetCreateParams\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:57415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57415)
-
 ___
 
 ### bAutoOrientToBone
 
 • **bAutoOrientToBone**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57402)
 
 ___
 
@@ -160,19 +116,11 @@ ___
 
 • **bBodyForAll**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:57405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57405)
-
 ___
 
 ### bCreateConstraints
 
 • **bCreateConstraints**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57403)
 
 ___
 
@@ -180,19 +128,11 @@ ___
 
 • **bDisableCollisionsByDefault**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:57406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57406)
-
 ___
 
 ### bWalkPastSmall
 
 • **bWalkPastSmall**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57404)
 
 ## Methods
 
@@ -208,10 +148,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57413)
-
 ___
 
 ### StaticStruct
@@ -221,7 +157,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57414)

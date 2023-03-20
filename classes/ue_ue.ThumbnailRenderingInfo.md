@@ -29,10 +29,6 @@
 
 • **new ThumbnailRenderingInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:63399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63399)
-
 • **new ThumbnailRenderingInfo**(`ClassNeedingThumbnailName`, `ClassNeedingThumbnail`, `RendererClassName`, `Renderer`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `RendererClassName` | `string` |
 | `Renderer` | [`ThumbnailRenderer`](ue_ue.ThumbnailRenderer.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:63400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63400)
-
 ## Properties
 
 ### ClassNeedingThumbnail
 
 • **ClassNeedingThumbnail**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63402)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **ClassNeedingThumbnailName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:63401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63401)
-
 ___
 
 ### Renderer
 
 • **Renderer**: [`ThumbnailRenderer`](ue_ue.ThumbnailRenderer.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63404)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **RendererClassName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:63403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63403)
-
 ___
 
 ### \_\_tid\_ThumbnailRenderingInfo\_\_
 
 • `Private` **\_\_tid\_ThumbnailRenderingInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:63410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63410)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63408)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63409)

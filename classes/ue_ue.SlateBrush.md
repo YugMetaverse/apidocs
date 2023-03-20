@@ -38,10 +38,6 @@
 
 • **new SlateBrush**()
 
-#### Defined in
-
-[ue/ue.d.ts:10899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10899)
-
 • **new SlateBrush**(`ImageSize`, `Margin`, `Tint`, `TintColor`, `ResourceObject`, `ResourceName`, `UVRegion`, `DrawAs`, `Tiling`, `Mirroring`, `ImageType`, `bIsDynamicallyLoaded`, `bHasUObject`)
 
 #### Parameters
@@ -62,19 +58,11 @@
 | `bIsDynamicallyLoaded` | `boolean` |
 | `bHasUObject` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:10900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10900)
-
 ## Properties
 
 ### DrawAs
 
 • **DrawAs**: [`ESlateBrushDrawType`](../enums/ue_ue.ESlateBrushDrawType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10908)
 
 ___
 
@@ -82,19 +70,11 @@ ___
 
 • **ImageSize**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10901)
-
 ___
 
 ### ImageType
 
 • **ImageType**: [`ESlateBrushImageType`](../enums/ue_ue.ESlateBrushImageType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10911)
 
 ___
 
@@ -102,19 +82,11 @@ ___
 
 • **Margin**: [`Margin`](ue_ue.Margin.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10902)
-
 ___
 
 ### Mirroring
 
 • **Mirroring**: [`ESlateBrushMirrorType`](../enums/ue_ue.ESlateBrushMirrorType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10910)
 
 ___
 
@@ -122,19 +94,11 @@ ___
 
 • **ResourceName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:10906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10906)
-
 ___
 
 ### ResourceObject
 
 • **ResourceObject**: [`Object`](ue_ue.Object.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10905)
 
 ___
 
@@ -142,19 +106,11 @@ ___
 
 • **Tiling**: [`ESlateBrushTileType`](../enums/ue_ue.ESlateBrushTileType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10909)
-
 ___
 
 ### Tint
 
 • **Tint**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10903)
 
 ___
 
@@ -162,19 +118,11 @@ ___
 
 • **TintColor**: [`SlateColor`](ue_ue.SlateColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10904)
-
 ___
 
 ### UVRegion
 
 • **UVRegion**: [`Box2D`](ue_ue_s.Box2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10907)
 
 ___
 
@@ -182,29 +130,17 @@ ___
 
 • `Private` **\_\_tid\_SlateBrush\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:10919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10919)
-
 ___
 
 ### bHasUObject
 
 • **bHasUObject**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:10913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10913)
-
 ___
 
 ### bIsDynamicallyLoaded
 
 • **bIsDynamicallyLoaded**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10912)
 
 ## Methods
 
@@ -220,10 +156,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10917)
-
 ___
 
 ### StaticStruct
@@ -233,7 +165,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10918)

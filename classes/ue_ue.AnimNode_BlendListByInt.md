@@ -43,10 +43,6 @@
 
 [AnimNode_BlendListBase](ue_ue.AnimNode_BlendListBase.md).[constructor](ue_ue.AnimNode_BlendListBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:18101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18101)
-
 • **new AnimNode_BlendListByInt**(`ActiveChildIndex`)
 
 #### Parameters
@@ -59,19 +55,11 @@
 
 [AnimNode_BlendListBase](ue_ue.AnimNode_BlendListBase.md).[constructor](ue_ue.AnimNode_BlendListBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:18102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18102)
-
 ## Properties
 
 ### ActiveChildIndex
 
 • **ActiveChildIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18103)
 
 ___
 
@@ -83,10 +71,6 @@ ___
 
 [AnimNode_BlendListBase](ue_ue.AnimNode_BlendListBase.md).[BlendPose](ue_ue.AnimNode_BlendListBase.md#blendpose)
 
-#### Defined in
-
-[ue/ue.d.ts:18038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18038)
-
 ___
 
 ### BlendProfile
@@ -96,10 +80,6 @@ ___
 #### Inherited from
 
 [AnimNode_BlendListBase](ue_ue.AnimNode_BlendListBase.md).[BlendProfile](ue_ue.AnimNode_BlendListBase.md#blendprofile)
-
-#### Defined in
-
-[ue/ue.d.ts:18044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18044)
 
 ___
 
@@ -111,10 +91,6 @@ ___
 
 [AnimNode_BlendListBase](ue_ue.AnimNode_BlendListBase.md).[BlendTime](ue_ue.AnimNode_BlendListBase.md#blendtime)
 
-#### Defined in
-
-[ue/ue.d.ts:18039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18039)
-
 ___
 
 ### BlendType
@@ -124,10 +100,6 @@ ___
 #### Inherited from
 
 [AnimNode_BlendListBase](ue_ue.AnimNode_BlendListBase.md).[BlendType](ue_ue.AnimNode_BlendListBase.md#blendtype)
-
-#### Defined in
-
-[ue/ue.d.ts:18041](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18041)
 
 ___
 
@@ -139,10 +111,6 @@ ___
 
 [AnimNode_BlendListBase](ue_ue.AnimNode_BlendListBase.md).[CustomBlendCurve](ue_ue.AnimNode_BlendListBase.md#customblendcurve)
 
-#### Defined in
-
-[ue/ue.d.ts:18043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18043)
-
 ___
 
 ### TransitionType
@@ -153,19 +121,11 @@ ___
 
 [AnimNode_BlendListBase](ue_ue.AnimNode_BlendListBase.md).[TransitionType](ue_ue.AnimNode_BlendListBase.md#transitiontype)
 
-#### Defined in
-
-[ue/ue.d.ts:18040](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18040)
-
 ___
 
 ### \_\_tid\_AnimNode\_BlendListByInt\_\_
 
 • `Private` **\_\_tid\_AnimNode\_BlendListByInt\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18109](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18109)
 
 ___
 
@@ -176,10 +136,6 @@ ___
 #### Inherited from
 
 [AnimNode_BlendListBase](ue_ue.AnimNode_BlendListBase.md).[bResetChildOnActivation](ue_ue.AnimNode_BlendListBase.md#bresetchildonactivation)
-
-#### Defined in
-
-[ue/ue.d.ts:18042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18042)
 
 ## Methods
 
@@ -199,10 +155,6 @@ use StaticStruct instead.
 
 [AnimNode_BlendListBase](ue_ue.AnimNode_BlendListBase.md).[StaticClass](ue_ue.AnimNode_BlendListBase.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:18107](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18107)
-
 ___
 
 ### StaticStruct
@@ -216,7 +168,3 @@ ___
 #### Overrides
 
 [AnimNode_BlendListBase](ue_ue.AnimNode_BlendListBase.md).[StaticStruct](ue_ue.AnimNode_BlendListBase.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:18108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18108)

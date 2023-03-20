@@ -21,19 +21,11 @@
 
 • **VIS\_LeastAggressive** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8669)
-
 ___
 
 ### VIS\_MAX
 
 • **VIS\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8669)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **VIS\_Max** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8669)
-
 ___
 
 ### VIS\_ModeratelyAggressive
 
 • **VIS\_ModeratelyAggressive** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8669)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **VIS\_MostAggressive** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8669)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8669)

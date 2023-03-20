@@ -35,19 +35,11 @@
 
 [InputEvent](ue_ue.InputEvent.md).[constructor](ue_ue.InputEvent.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:12018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12018)
-
 ## Properties
 
 ### \_\_tid\_CharacterEvent\_\_
 
 • `Private` **\_\_tid\_CharacterEvent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:12024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12024)
 
 ## Methods
 
@@ -67,10 +59,6 @@ use StaticStruct instead.
 
 [InputEvent](ue_ue.InputEvent.md).[StaticClass](ue_ue.InputEvent.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:12022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12022)
-
 ___
 
 ### StaticStruct
@@ -84,7 +72,3 @@ ___
 #### Overrides
 
 [InputEvent](ue_ue.InputEvent.md).[StaticStruct](ue_ue.InputEvent.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:12023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12023)

@@ -21,19 +21,11 @@
 
 • **All** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31374](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31374)
-
 ___
 
 ### AutoKey
 
 • **AutoKey** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31374](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31374)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **AutoTrack** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31374](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31374)
-
 ___
 
 ### EAutoChangeMode\_MAX
 
 • **EAutoChangeMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31374](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31374)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31374](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31374)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31374](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31374)

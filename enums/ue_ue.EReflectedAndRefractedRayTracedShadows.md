@@ -20,19 +20,11 @@
 
 • **Area\_shadows** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6236)
-
 ___
 
 ### Disabled
 
 • **Disabled** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6236)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **EReflectedAndRefractedRayTracedShadows\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6236)
-
 ___
 
 ### Hard\_shadows
 
 • **Hard\_shadows** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6236)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6236)

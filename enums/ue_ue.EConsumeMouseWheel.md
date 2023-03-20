@@ -20,19 +20,11 @@
 
 • **Always** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31414)
-
 ___
 
 ### EConsumeMouseWheel\_MAX
 
 • **EConsumeMouseWheel\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31414)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Never** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31414)
-
 ___
 
 ### WhenScrollingPossible
 
 • **WhenScrollingPossible** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31414)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31414)

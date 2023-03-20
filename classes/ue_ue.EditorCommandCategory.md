@@ -27,10 +27,6 @@
 
 • **new EditorCommandCategory**()
 
-#### Defined in
-
-[ue/ue.d.ts:64650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64650)
-
 • **new EditorCommandCategory**(`Parent`, `Name`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Parent` | `string` |
 | `Name` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:64651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64651)
-
 ## Properties
 
 ### Name
 
 • **Name**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:64653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64653)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Parent**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:64652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64652)
-
 ___
 
 ### \_\_tid\_EditorCommandCategory\_\_
 
 • `Private` **\_\_tid\_EditorCommandCategory\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64659)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64657)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:64658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64658)

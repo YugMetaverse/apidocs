@@ -26,10 +26,6 @@
 
 • **new ReplicatedStaticActorDestructionInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:9195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9195)
-
 • **new ReplicatedStaticActorDestructionInfo**(`ObjClass`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `ObjClass` | [`Class`](ue_ue.Class.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:9196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9196)
-
 ## Properties
 
 ### ObjClass
 
 • **ObjClass**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9197)
-
 ___
 
 ### \_\_tid\_ReplicatedStaticActorDestructionInfo\_\_
 
 • `Private` **\_\_tid\_ReplicatedStaticActorDestructionInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9203)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9201)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9202)

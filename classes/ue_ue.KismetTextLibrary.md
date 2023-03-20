@@ -97,10 +97,6 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[constructor](ue_ue.BlueprintFunctionLibrary.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:43550](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43550)
-
 ## Properties
 
 ### \_\_tid\_BlueprintFunctionLibrary\_\_
@@ -111,19 +107,11 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_BlueprintFunctionLibrary__](ue_ue.BlueprintFunctionLibrary.md#__tid_blueprintfunctionlibrary__)
 
-#### Defined in
-
-[ue/ue.d.ts:13418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13418)
-
 ___
 
 ### \_\_tid\_KismetTextLibrary\_\_
 
 • **\_\_tid\_KismetTextLibrary\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43600)
 
 ___
 
@@ -134,10 +122,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_Object__](ue_ue.BlueprintFunctionLibrary.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -163,10 +147,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[CreateDefaultSubobject](ue_ue.BlueprintFunctionLibrary.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -187,10 +167,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[ExecuteUbergraph](ue_ue.BlueprintFunctionLibrary.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -204,10 +180,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetClass](ue_ue.BlueprintFunctionLibrary.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -223,10 +195,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetName](ue_ue.BlueprintFunctionLibrary.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -241,10 +209,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetOuter](ue_ue.BlueprintFunctionLibrary.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -258,10 +222,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetWorld](ue_ue.BlueprintFunctionLibrary.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -279,10 +239,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43553)
 
 ___
 
@@ -308,10 +264,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43551](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43551)
-
 ___
 
 ### AsCurrency\_Integer
@@ -336,10 +288,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43552)
-
 ___
 
 ### AsDateTime\_DateTime
@@ -356,10 +304,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43555)
-
 ___
 
 ### AsDate\_DateTime
@@ -375,10 +319,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43554)
 
 ___
 
@@ -403,10 +343,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43556)
-
 ___
 
 ### AsTimeZoneDateTime\_DateTime
@@ -423,10 +359,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43560)
 
 ___
 
@@ -445,10 +377,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43559](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43559)
-
 ___
 
 ### AsTimeZoneTime\_DateTime
@@ -466,10 +394,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43561)
-
 ___
 
 ### AsTime\_DateTime
@@ -485,10 +409,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43557)
 
 ___
 
@@ -506,10 +426,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43558](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43558)
-
 ___
 
 ### Conv\_BoolToText
@@ -525,10 +441,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43562)
 
 ___
 
@@ -546,10 +458,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43563)
-
 ___
 
 ### Conv\_ColorToText
@@ -565,10 +473,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43564)
 
 ___
 
@@ -593,10 +497,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43565)
-
 ___
 
 ### Conv\_Int64ToText
@@ -616,10 +516,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43566)
 
 ___
 
@@ -641,10 +537,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43567)
-
 ___
 
 ### Conv\_NameToText
@@ -660,10 +552,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43568)
 
 ___
 
@@ -681,10 +569,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43569)
-
 ___
 
 ### Conv\_RotatorToText
@@ -700,10 +584,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43570)
 
 ___
 
@@ -721,10 +601,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43571)
-
 ___
 
 ### Conv\_TextToString
@@ -740,10 +616,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43572)
 
 ___
 
@@ -761,10 +633,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43573)
-
 ___
 
 ### Conv\_Vector2dToText
@@ -781,10 +649,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43574)
-
 ___
 
 ### Conv\_VectorToText
@@ -800,10 +664,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43575)
 
 ___
 
@@ -822,10 +682,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43576)
-
 ___
 
 ### EqualEqual\_TextText
@@ -842,10 +698,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43577)
 
 ___
 
@@ -868,10 +720,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Find](ue_ue.BlueprintFunctionLibrary.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:43597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43597)
-
 ___
 
 ### FindTextInLocalizationTable
@@ -890,10 +738,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43578)
-
 ___
 
 ### Format
@@ -911,10 +755,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43579](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43579)
-
 ___
 
 ### GetEmptyText
@@ -924,10 +764,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43580)
 
 ___
 
@@ -946,10 +782,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:43581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43581)
 
 ___
 
@@ -971,10 +803,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Load](ue_ue.BlueprintFunctionLibrary.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:43598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43598)
-
 ___
 
 ### NotEqual\_IgnoreCase\_TextText
@@ -991,10 +819,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43582)
 
 ___
 
@@ -1013,10 +837,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43583](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43583)
-
 ___
 
 ### PolyglotDataToText
@@ -1033,10 +853,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43584)
-
 ___
 
 ### StaticClass
@@ -1050,10 +866,6 @@ ___
 #### Overrides
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[StaticClass](ue_ue.BlueprintFunctionLibrary.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:43596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43596)
 
 ___
 
@@ -1073,10 +885,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43585)
-
 ___
 
 ### TextFromStringTable
@@ -1094,10 +902,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43586)
-
 ___
 
 ### TextIsCultureInvariant
@@ -1113,10 +917,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43587)
 
 ___
 
@@ -1134,10 +934,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43588](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43588)
-
 ___
 
 ### TextIsFromStringTable
@@ -1153,10 +949,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43589)
 
 ___
 
@@ -1174,10 +966,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43590)
-
 ___
 
 ### TextToLower
@@ -1193,10 +981,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43591)
 
 ___
 
@@ -1214,10 +998,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43592)
-
 ___
 
 ### TextTrimPreceding
@@ -1233,10 +1013,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43593)
 
 ___
 
@@ -1254,10 +1030,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43594)
-
 ___
 
 ### TextTrimTrailing
@@ -1273,7 +1045,3 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43595)

@@ -29,10 +29,6 @@
 
 • **new TemplateReplacement**()
 
-#### Defined in
-
-[ue/ue.d.ts:30573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30573)
-
 • **new TemplateReplacement**(`Extensions`, `From`, `To`, `bCaseSensitive`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `To` | `string` |
 | `bCaseSensitive` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:30574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30574)
-
 ## Properties
 
 ### Extensions
 
 • **Extensions**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:30575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30575)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **From**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:30576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30576)
-
 ___
 
 ### To
 
 • **To**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:30577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30577)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • `Private` **\_\_tid\_TemplateReplacement\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:30584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30584)
-
 ___
 
 ### bCaseSensitive
 
 • **bCaseSensitive**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30578)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:30582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30582)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:30583](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30583)

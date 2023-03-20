@@ -20,19 +20,11 @@
 
 • **EMagicLeapGestureTransformSpace\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33998)
-
 ___
 
 ### Hand
 
 • **Hand** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33998)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Tracking** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33998)
-
 ___
 
 ### World
 
 • **World** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33998)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33998)

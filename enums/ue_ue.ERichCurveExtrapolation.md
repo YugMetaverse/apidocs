@@ -23,19 +23,11 @@
 
 • **RCCE\_Constant** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1617)
-
 ___
 
 ### RCCE\_Cycle
 
 • **RCCE\_Cycle** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1617)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **RCCE\_CycleWithOffset** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1617)
-
 ___
 
 ### RCCE\_Linear
 
 • **RCCE\_Linear** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1617)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **RCCE\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1617)
-
 ___
 
 ### RCCE\_None
 
 • **RCCE\_None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1617)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **RCCE\_Oscillate** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1617)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1617)

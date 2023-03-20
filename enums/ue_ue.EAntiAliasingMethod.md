@@ -21,19 +21,11 @@
 
 • **AAM\_FXAA** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31367)
-
 ___
 
 ### AAM\_MAX
 
 • **AAM\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31367)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **AAM\_MSAA** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31367)
-
 ___
 
 ### AAM\_None
 
 • **AAM\_None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31367)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **AAM\_TemporalAA** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31367)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31367)

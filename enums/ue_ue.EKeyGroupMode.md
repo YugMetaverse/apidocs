@@ -20,19 +20,11 @@
 
 • **EKeyGroupMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33918)
-
 ___
 
 ### KeyAll
 
 • **KeyAll** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33918)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **KeyChanged** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33918)
-
 ___
 
 ### KeyGroup
 
 • **KeyGroup** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33918)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33918)

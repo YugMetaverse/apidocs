@@ -36,10 +36,6 @@
 
 • **new PrimaryAssetTypeInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:21644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21644)
-
 • **new PrimaryAssetTypeInfo**(`PrimaryAssetType`, `AssetBaseClass`, `AssetBaseClassLoaded`, `bHasBlueprintClasses`, `bIsEditorOnly`, `Directories`, `SpecificAssets`, `Rules`, `AssetScanPaths`, `bIsDynamicAsset`, `NumberOfAssets`)
 
 #### Parameters
@@ -58,19 +54,11 @@
 | `bIsDynamicAsset` | `boolean` |
 | `NumberOfAssets` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:21645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21645)
-
 ## Properties
 
 ### AssetBaseClass
 
 • **AssetBaseClass**: [`TSoftClassPtr`](../modules/ue_puerts.md#tsoftclassptr)<[`Object`](ue_ue.Object.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:21647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21647)
 
 ___
 
@@ -78,19 +66,11 @@ ___
 
 • **AssetBaseClassLoaded**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21648)
-
 ___
 
 ### AssetScanPaths
 
 • **AssetScanPaths**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:21654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21654)
 
 ___
 
@@ -98,19 +78,11 @@ ___
 
 • **Directories**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`DirectoryPath`](ue_ue.DirectoryPath.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:21651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21651)
-
 ___
 
 ### NumberOfAssets
 
 • **NumberOfAssets**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21656)
 
 ___
 
@@ -118,19 +90,11 @@ ___
 
 • **PrimaryAssetType**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:21646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21646)
-
 ___
 
 ### Rules
 
 • **Rules**: [`PrimaryAssetRules`](ue_ue.PrimaryAssetRules.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21653)
 
 ___
 
@@ -138,19 +102,11 @@ ___
 
 • **SpecificAssets**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SoftObjectPath`](ue_ue.SoftObjectPath.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:21652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21652)
-
 ___
 
 ### \_\_tid\_PrimaryAssetTypeInfo\_\_
 
 • `Private` **\_\_tid\_PrimaryAssetTypeInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21662)
 
 ___
 
@@ -158,29 +114,17 @@ ___
 
 • **bHasBlueprintClasses**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:21649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21649)
-
 ___
 
 ### bIsDynamicAsset
 
 • **bIsDynamicAsset**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:21655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21655)
-
 ___
 
 ### bIsEditorOnly
 
 • **bIsEditorOnly**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21650)
 
 ## Methods
 
@@ -196,10 +140,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21660)
-
 ___
 
 ### StaticStruct
@@ -209,7 +149,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21661)

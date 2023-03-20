@@ -27,10 +27,6 @@
 
 • **new SimulatedRootMotionReplicatedMove**()
 
-#### Defined in
-
-[ue/ue.d.ts:5932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5932)
-
 • **new SimulatedRootMotionReplicatedMove**(`Time`, `RootMotion`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Time` | `number` |
 | `RootMotion` | [`RepRootMotionMontage`](ue_ue.RepRootMotionMontage.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:5933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5933)
-
 ## Properties
 
 ### RootMotion
 
 • **RootMotion**: [`RepRootMotionMontage`](ue_ue.RepRootMotionMontage.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5935)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Time**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5934)
-
 ___
 
 ### \_\_tid\_SimulatedRootMotionReplicatedMove\_\_
 
 • `Private` **\_\_tid\_SimulatedRootMotionReplicatedMove\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5941)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5939)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5940)

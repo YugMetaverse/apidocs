@@ -48,10 +48,6 @@
 
 [AnimLinkableElement](ue_ue.AnimLinkableElement.md).[constructor](ue_ue.AnimLinkableElement.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:2841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2841)
-
 • **new CompositeSection**(`SectionName`, `StartTime`, `NextSectionName`, `MetaData`)
 
 #### Parameters
@@ -67,10 +63,6 @@
 
 [AnimLinkableElement](ue_ue.AnimLinkableElement.md).[constructor](ue_ue.AnimLinkableElement.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:2842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2842)
-
 ## Properties
 
 ### CachedLinkMethod
@@ -80,10 +72,6 @@
 #### Inherited from
 
 [AnimLinkableElement](ue_ue.AnimLinkableElement.md).[CachedLinkMethod](ue_ue.AnimLinkableElement.md#cachedlinkmethod)
-
-#### Defined in
-
-[ue/ue.d.ts:2993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2993)
 
 ___
 
@@ -95,10 +83,6 @@ ___
 
 [AnimLinkableElement](ue_ue.AnimLinkableElement.md).[LinkMethod](ue_ue.AnimLinkableElement.md#linkmethod)
 
-#### Defined in
-
-[ue/ue.d.ts:2992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2992)
-
 ___
 
 ### LinkValue
@@ -108,10 +92,6 @@ ___
 #### Inherited from
 
 [AnimLinkableElement](ue_ue.AnimLinkableElement.md).[LinkValue](ue_ue.AnimLinkableElement.md#linkvalue)
-
-#### Defined in
-
-[ue/ue.d.ts:2996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2996)
 
 ___
 
@@ -123,10 +103,6 @@ ___
 
 [AnimLinkableElement](ue_ue.AnimLinkableElement.md).[LinkedMontage](ue_ue.AnimLinkableElement.md#linkedmontage)
 
-#### Defined in
-
-[ue/ue.d.ts:2989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2989)
-
 ___
 
 ### LinkedSequence
@@ -137,19 +113,11 @@ ___
 
 [AnimLinkableElement](ue_ue.AnimLinkableElement.md).[LinkedSequence](ue_ue.AnimLinkableElement.md#linkedsequence)
 
-#### Defined in
-
-[ue/ue.d.ts:2997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2997)
-
 ___
 
 ### MetaData
 
 • **MetaData**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AnimMetaData`](ue_ue.AnimMetaData.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:2846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2846)
 
 ___
 
@@ -157,19 +125,11 @@ ___
 
 • **NextSectionName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:2845](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2845)
-
 ___
 
 ### SectionName
 
 • **SectionName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:2843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2843)
 
 ___
 
@@ -181,10 +141,6 @@ ___
 
 [AnimLinkableElement](ue_ue.AnimLinkableElement.md).[SegmentBeginTime](ue_ue.AnimLinkableElement.md#segmentbegintime)
 
-#### Defined in
-
-[ue/ue.d.ts:2994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2994)
-
 ___
 
 ### SegmentIndex
@@ -194,10 +150,6 @@ ___
 #### Inherited from
 
 [AnimLinkableElement](ue_ue.AnimLinkableElement.md).[SegmentIndex](ue_ue.AnimLinkableElement.md#segmentindex)
-
-#### Defined in
-
-[ue/ue.d.ts:2991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2991)
 
 ___
 
@@ -209,10 +161,6 @@ ___
 
 [AnimLinkableElement](ue_ue.AnimLinkableElement.md).[SegmentLength](ue_ue.AnimLinkableElement.md#segmentlength)
 
-#### Defined in
-
-[ue/ue.d.ts:2995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2995)
-
 ___
 
 ### SlotIndex
@@ -223,29 +171,17 @@ ___
 
 [AnimLinkableElement](ue_ue.AnimLinkableElement.md).[SlotIndex](ue_ue.AnimLinkableElement.md#slotindex)
 
-#### Defined in
-
-[ue/ue.d.ts:2990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2990)
-
 ___
 
 ### StartTime
 
 • **StartTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2844)
-
 ___
 
 ### \_\_tid\_CompositeSection\_\_
 
 • `Private` **\_\_tid\_CompositeSection\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2852)
 
 ## Methods
 
@@ -265,10 +201,6 @@ use StaticStruct instead.
 
 [AnimLinkableElement](ue_ue.AnimLinkableElement.md).[StaticClass](ue_ue.AnimLinkableElement.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:2850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2850)
-
 ___
 
 ### StaticStruct
@@ -282,7 +214,3 @@ ___
 #### Overrides
 
 [AnimLinkableElement](ue_ue.AnimLinkableElement.md).[StaticStruct](ue_ue.AnimLinkableElement.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:2851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2851)

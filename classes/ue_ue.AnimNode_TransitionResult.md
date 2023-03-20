@@ -36,10 +36,6 @@
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[constructor](ue_ue.AnimNode_Base.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:17206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17206)
-
 • **new AnimNode_TransitionResult**(`bCanEnterTransition`)
 
 #### Parameters
@@ -52,29 +48,17 @@
 
 UE.AnimNode\_Base.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:17207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17207)
-
 ## Properties
 
 ### \_\_tid\_AnimNode\_TransitionResult\_\_
 
 • `Private` **\_\_tid\_AnimNode\_TransitionResult\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:17214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17214)
-
 ___
 
 ### bCanEnterTransition
 
 • **bCanEnterTransition**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17208)
 
 ## Methods
 
@@ -94,10 +78,6 @@ use StaticStruct instead.
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticClass](ue_ue.AnimNode_Base.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:17212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17212)
-
 ___
 
 ### StaticStruct
@@ -111,7 +91,3 @@ ___
 #### Overrides
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticStruct](ue_ue.AnimNode_Base.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:17213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17213)

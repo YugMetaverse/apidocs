@@ -19,19 +19,11 @@
 
 • **EReflectionsType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6235)
-
 ___
 
 ### RayTracing
 
 • **RayTracing** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6235)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **ScreenSpace** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6235)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6235)

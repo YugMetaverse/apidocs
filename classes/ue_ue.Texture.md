@@ -126,19 +126,11 @@
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[constructor](ue_ue.StreamableRenderAsset.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:472](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L472)
-
 ## Properties
 
 ### AdjustBrightness
 
 • **AdjustBrightness**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L477)
 
 ___
 
@@ -146,19 +138,11 @@ ___
 
 • **AdjustBrightnessCurve**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L478)
-
 ___
 
 ### AdjustHue
 
 • **AdjustHue**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L482)
 
 ___
 
@@ -166,19 +150,11 @@ ___
 
 • **AdjustMaxAlpha**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:484](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L484)
-
 ___
 
 ### AdjustMinAlpha
 
 • **AdjustMinAlpha**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L483)
 
 ___
 
@@ -186,19 +162,11 @@ ___
 
 • **AdjustRGBCurve**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L481)
-
 ___
 
 ### AdjustSaturation
 
 • **AdjustSaturation**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L480)
 
 ___
 
@@ -206,19 +174,11 @@ ___
 
 • **AdjustVibrance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L479)
-
 ___
 
 ### AlphaCoverageThresholds
 
 • **AlphaCoverageThresholds**: [`Vector4`](ue_ue_s.Vector4.md)
-
-#### Defined in
-
-[ue/ue.d.ts:492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L492)
 
 ___
 
@@ -226,19 +186,11 @@ ___
 
 • **AssetImportData**: [`AssetImportData`](ue_ue.AssetImportData.md)
 
-#### Defined in
-
-[ue/ue.d.ts:476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L476)
-
 ___
 
 ### AssetUserData
 
 • **AssetUserData**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AssetUserData`](ue_ue.AssetUserData.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:517](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L517)
 
 ___
 
@@ -250,10 +202,6 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[CachedCombinedLODBias](ue_ue.StreamableRenderAsset.md#cachedcombinedlodbias)
 
-#### Defined in
-
-[ue/ue.d.ts:387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L387)
-
 ___
 
 ### CachedNumResidentLODs
@@ -264,19 +212,11 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[CachedNumResidentLODs](ue_ue.StreamableRenderAsset.md#cachednumresidentlods)
 
-#### Defined in
-
-[ue/ue.d.ts:388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L388)
-
 ___
 
 ### ChromaKeyColor
 
 • **ChromaKeyColor**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L500)
 
 ___
 
@@ -284,19 +224,11 @@ ___
 
 • **ChromaKeyThreshold**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L499)
-
 ___
 
 ### CompositePower
 
 • **CompositePower**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L504)
 
 ___
 
@@ -304,19 +236,11 @@ ___
 
 • **CompositeTexture**: [`Texture`](ue_ue.Texture.md)
 
-#### Defined in
-
-[ue/ue.d.ts:502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L502)
-
 ___
 
 ### CompositeTextureMode
 
 • **CompositeTextureMode**: [`ECompositeTextureMode`](../enums/ue_ue.ECompositeTextureMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L503)
 
 ___
 
@@ -324,19 +248,11 @@ ___
 
 • **CompressionNoAlpha**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L485)
-
 ___
 
 ### CompressionNone
 
 • **CompressionNone**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L486)
 
 ___
 
@@ -344,19 +260,11 @@ ___
 
 • **CompressionQuality**: [`ETextureCompressionQuality`](../enums/ue_ue.ETextureCompressionQuality.md)
 
-#### Defined in
-
-[ue/ue.d.ts:490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L490)
-
 ___
 
 ### CompressionSettings
 
 • **CompressionSettings**: [`TextureCompressionSettings`](../enums/ue_ue.TextureCompressionSettings.md)
-
-#### Defined in
-
-[ue/ue.d.ts:507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L507)
 
 ___
 
@@ -364,29 +272,17 @@ ___
 
 • **CompressionYCoCg**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L515)
-
 ___
 
 ### DeferCompression
 
 • **DeferCompression**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L487)
-
 ___
 
 ### Filter
 
 • **Filter**: [`TextureFilter`](../enums/ue_ue.TextureFilter.md)
-
-#### Defined in
-
-[ue/ue.d.ts:508](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L508)
 
 ___
 
@@ -398,19 +294,11 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[ForceMipLevelsToBeResidentTimestamp](ue_ue.StreamableRenderAsset.md#forcemiplevelstoberesidenttimestamp)
 
-#### Defined in
-
-[ue/ue.d.ts:384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L384)
-
 ___
 
 ### LODBias
 
 • **LODBias**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L506)
 
 ___
 
@@ -418,19 +306,11 @@ ___
 
 • **LODGroup**: [`TextureGroup`](../enums/ue_ue.TextureGroup.md)
 
-#### Defined in
-
-[ue/ue.d.ts:510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L510)
-
 ___
 
 ### LayerFormatSettings
 
 • **LayerFormatSettings**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`TextureFormatSettings`](ue_ue.TextureFormatSettings.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L505)
 
 ___
 
@@ -438,19 +318,11 @@ ___
 
 • **LightingGuid**: [`Guid`](ue_ue_s.Guid.md)
 
-#### Defined in
-
-[ue/ue.d.ts:474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L474)
-
 ___
 
 ### LossyCompressionAmount
 
 • **LossyCompressionAmount**: [`ETextureLossyCompressionAmount`](../enums/ue_ue.ETextureLossyCompressionAmount.md)
-
-#### Defined in
-
-[ue/ue.d.ts:488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L488)
 
 ___
 
@@ -458,29 +330,17 @@ ___
 
 • **MaxTextureSize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L489)
-
 ___
 
 ### MipGenSettings
 
 • **MipGenSettings**: [`TextureMipGenSettings`](../enums/ue_ue.TextureMipGenSettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L501)
-
 ___
 
 ### MipLoadOptions
 
 • **MipLoadOptions**: [`ETextureMipLoadOptions`](../enums/ue_ue.ETextureMipLoadOptions.md)
-
-#### Defined in
-
-[ue/ue.d.ts:509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L509)
 
 ___
 
@@ -492,10 +352,6 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[NeverStream](ue_ue.StreamableRenderAsset.md#neverstream)
 
-#### Defined in
-
-[ue/ue.d.ts:390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L390)
-
 ___
 
 ### NumCinematicMipLevels
@@ -506,19 +362,11 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[NumCinematicMipLevels](ue_ue.StreamableRenderAsset.md#numcinematicmiplevels)
 
-#### Defined in
-
-[ue/ue.d.ts:385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L385)
-
 ___
 
 ### PaddingColor
 
 • **PaddingColor**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L497)
 
 ___
 
@@ -526,19 +374,11 @@ ___
 
 • **PowerOfTwoMode**: [`ETexturePowerOfTwoSetting`](../enums/ue_ue.ETexturePowerOfTwoSetting.md)
 
-#### Defined in
-
-[ue/ue.d.ts:496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L496)
-
 ___
 
 ### SRGB
 
 • **SRGB**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L511)
 
 ___
 
@@ -546,19 +386,11 @@ ___
 
 • **Source**: [`TextureSource`](ue_ue.TextureSource.md)
 
-#### Defined in
-
-[ue/ue.d.ts:473](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L473)
-
 ___
 
 ### SourceFilePath
 
 • **SourceFilePath**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L475)
 
 ___
 
@@ -570,19 +402,11 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[StreamingIndex](ue_ue.StreamableRenderAsset.md#streamingindex)
 
-#### Defined in
-
-[ue/ue.d.ts:386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L386)
-
 ___
 
 ### VirtualTextureStreaming
 
 • **VirtualTextureStreaming**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:514](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L514)
 
 ___
 
@@ -594,10 +418,6 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[__tid_Object__](ue_ue.StreamableRenderAsset.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_StreamableRenderAsset\_\_
@@ -608,29 +428,17 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[__tid_StreamableRenderAsset__](ue_ue.StreamableRenderAsset.md#__tid_streamablerenderasset__)
 
-#### Defined in
-
-[ue/ue.d.ts:401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L401)
-
 ___
 
 ### \_\_tid\_Texture\_\_
 
 • **\_\_tid\_Texture\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:522](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L522)
-
 ___
 
 ### bAsyncResourceReleaseHasBeenStarted
 
 • **bAsyncResourceReleaseHasBeenStarted**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:516](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L516)
 
 ___
 
@@ -642,19 +450,11 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[bCachedReadyForStreaming](ue_ue.StreamableRenderAsset.md#bcachedreadyforstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L389)
-
 ___
 
 ### bChromaKeyTexture
 
 • **bChromaKeyTexture**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L498)
 
 ___
 
@@ -662,19 +462,11 @@ ___
 
 • **bDitherMipMapAlpha**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L491)
-
 ___
 
 ### bFlipGreenChannel
 
 • **bFlipGreenChannel**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L494)
 
 ___
 
@@ -686,19 +478,11 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[bForceMiplevelsToBeResident](ue_ue.StreamableRenderAsset.md#bforcemiplevelstoberesident)
 
-#### Defined in
-
-[ue/ue.d.ts:394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L394)
-
 ___
 
 ### bForcePVRTC4
 
 • **bForcePVRTC4**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L495)
 
 ___
 
@@ -710,10 +494,6 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[bGlobalForceMipLevelsToBeResident](ue_ue.StreamableRenderAsset.md#bglobalforcemiplevelstoberesident)
 
-#### Defined in
-
-[ue/ue.d.ts:391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L391)
-
 ___
 
 ### bHasStreamingUpdatePending
@@ -723,10 +503,6 @@ ___
 #### Inherited from
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[bHasStreamingUpdatePending](ue_ue.StreamableRenderAsset.md#bhasstreamingupdatepending)
-
-#### Defined in
-
-[ue/ue.d.ts:393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L393)
 
 ___
 
@@ -738,10 +514,6 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[bIgnoreStreamingMipBias](ue_ue.StreamableRenderAsset.md#bignorestreamingmipbias)
 
-#### Defined in
-
-[ue/ue.d.ts:395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L395)
-
 ___
 
 ### bIsStreamable
@@ -752,29 +524,17 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[bIsStreamable](ue_ue.StreamableRenderAsset.md#bisstreamable)
 
-#### Defined in
-
-[ue/ue.d.ts:392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L392)
-
 ___
 
 ### bNoTiling
 
 • **bNoTiling**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L513)
-
 ___
 
 ### bPreserveBorder
 
 • **bPreserveBorder**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L493)
 
 ___
 
@@ -786,19 +546,11 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[bUseCinematicMipLevels](ue_ue.StreamableRenderAsset.md#busecinematicmiplevels)
 
-#### Defined in
-
-[ue/ue.d.ts:396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L396)
-
 ___
 
 ### bUseLegacyGamma
 
 • **bUseLegacyGamma**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L512)
 
 ## Methods
 
@@ -824,10 +576,6 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[CreateDefaultSubobject](ue_ue.StreamableRenderAsset.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -848,10 +596,6 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[ExecuteUbergraph](ue_ue.StreamableRenderAsset.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -865,10 +609,6 @@ ___
 #### Inherited from
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[GetClass](ue_ue.StreamableRenderAsset.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -884,10 +624,6 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[GetName](ue_ue.StreamableRenderAsset.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -902,10 +638,6 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[GetOuter](ue_ue.StreamableRenderAsset.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -919,10 +651,6 @@ ___
 #### Inherited from
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[GetWorld](ue_ue.StreamableRenderAsset.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -945,10 +673,6 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[Find](ue_ue.StreamableRenderAsset.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:519](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L519)
-
 ___
 
 ### Load
@@ -969,10 +693,6 @@ ___
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[Load](ue_ue.StreamableRenderAsset.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:520](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L520)
-
 ___
 
 ### StaticClass
@@ -986,7 +706,3 @@ ___
 #### Overrides
 
 [StreamableRenderAsset](ue_ue.StreamableRenderAsset.md).[StaticClass](ue_ue.StreamableRenderAsset.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:518](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L518)

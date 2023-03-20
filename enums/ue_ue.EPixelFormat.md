@@ -86,19 +86,11 @@
 
 • **PF\_A1** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_A16B16G16R16
 
 • **PF\_A16B16G16R16** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -106,19 +98,11 @@ ___
 
 • **PF\_A2B10G10R10** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_A32B32G32R32F
 
 • **PF\_A32B32G32R32F** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -126,19 +110,11 @@ ___
 
 • **PF\_A8** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_A8R8G8B8
 
 • **PF\_A8R8G8B8** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -146,19 +122,11 @@ ___
 
 • **PF\_ASTC\_10x10** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_ASTC\_12x12
 
 • **PF\_ASTC\_12x12** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -166,19 +134,11 @@ ___
 
 • **PF\_ASTC\_4x4** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_ASTC\_6x6
 
 • **PF\_ASTC\_6x6** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -186,19 +146,11 @@ ___
 
 • **PF\_ASTC\_8x8** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_ATC\_RGB
 
 • **PF\_ATC\_RGB** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -206,19 +158,11 @@ ___
 
 • **PF\_ATC\_RGBA\_E** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_ATC\_RGBA\_I
 
 • **PF\_ATC\_RGBA\_I** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -226,19 +170,11 @@ ___
 
 • **PF\_B8G8R8A8** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_BC4
 
 • **PF\_BC4** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -246,19 +182,11 @@ ___
 
 • **PF\_BC5** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_BC6H
 
 • **PF\_BC6H** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -266,19 +194,11 @@ ___
 
 • **PF\_BC7** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_D24
 
 • **PF\_D24** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -286,19 +206,11 @@ ___
 
 • **PF\_DXT1** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_DXT3
 
 • **PF\_DXT3** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -306,19 +218,11 @@ ___
 
 • **PF\_DXT5** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_DepthStencil
 
 • **PF\_DepthStencil** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -326,19 +230,11 @@ ___
 
 • **PF\_ETC1** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_ETC2\_RGB
 
 • **PF\_ETC2\_RGB** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -346,19 +242,11 @@ ___
 
 • **PF\_ETC2\_RGBA** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_FloatR11G11B10
 
 • **PF\_FloatR11G11B10** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -366,19 +254,11 @@ ___
 
 • **PF\_FloatRGB** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_FloatRGBA
 
 • **PF\_FloatRGBA** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -386,19 +266,11 @@ ___
 
 • **PF\_G16** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_G16R16
 
 • **PF\_G16R16** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -406,19 +278,11 @@ ___
 
 • **PF\_G16R16F** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_G16R16F\_FILTER
 
 • **PF\_G16R16F\_FILTER** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -426,19 +290,11 @@ ___
 
 • **PF\_G32R32F** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_G8
 
 • **PF\_G8** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -446,19 +302,11 @@ ___
 
 • **PF\_L8** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_MAX
 
 • **PF\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -466,19 +314,11 @@ ___
 
 • **PF\_NV12** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_PLATFORM\_HDR\_0
 
 • **PF\_PLATFORM\_HDR\_0** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -486,19 +326,11 @@ ___
 
 • **PF\_PLATFORM\_HDR\_1** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_PLATFORM\_HDR\_2
 
 • **PF\_PLATFORM\_HDR\_2** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -506,19 +338,11 @@ ___
 
 • **PF\_PVRTC2** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_PVRTC4
 
 • **PF\_PVRTC4** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -526,19 +350,11 @@ ___
 
 • **PF\_R16F** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_R16F\_FILTER
 
 • **PF\_R16F\_FILTER** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -546,19 +362,11 @@ ___
 
 • **PF\_R16G16B16A16\_SINT** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_R16G16B16A16\_SNORM
 
 • **PF\_R16G16B16A16\_SNORM** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -566,19 +374,11 @@ ___
 
 • **PF\_R16G16B16A16\_UINT** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_R16G16B16A16\_UNORM
 
 • **PF\_R16G16B16A16\_UNORM** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -586,19 +386,11 @@ ___
 
 • **PF\_R16G16\_UINT** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_R16\_SINT
 
 • **PF\_R16\_SINT** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -606,19 +398,11 @@ ___
 
 • **PF\_R16\_UINT** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_R32G32B32A32\_UINT
 
 • **PF\_R32G32B32A32\_UINT** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -626,19 +410,11 @@ ___
 
 • **PF\_R32G32\_UINT** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_R32\_FLOAT
 
 • **PF\_R32\_FLOAT** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -646,19 +422,11 @@ ___
 
 • **PF\_R32\_SINT** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_R32\_UINT
 
 • **PF\_R32\_UINT** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -666,19 +434,11 @@ ___
 
 • **PF\_R5G6B5\_UNORM** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_R8G8
 
 • **PF\_R8G8** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -686,19 +446,11 @@ ___
 
 • **PF\_R8G8B8A8** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_R8G8B8A8\_SNORM
 
 • **PF\_R8G8B8A8\_SNORM** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -706,19 +458,11 @@ ___
 
 • **PF\_R8G8B8A8\_UINT** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_R8\_UINT
 
 • **PF\_R8\_UINT** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -726,19 +470,11 @@ ___
 
 • **PF\_ShadowDepth** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_UYVY
 
 • **PF\_UYVY** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -746,19 +482,11 @@ ___
 
 • **PF\_Unknown** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_V8U8
 
 • **PF\_V8U8** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
 
 ___
 
@@ -766,26 +494,14 @@ ___
 
 • **PF\_X24\_G8** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### PF\_XGXR8
 
 • **PF\_XGXR8** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22173)

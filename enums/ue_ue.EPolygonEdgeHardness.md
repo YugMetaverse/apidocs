@@ -21,19 +21,11 @@
 
 • **AllEdgesHard** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31861)
-
 ___
 
 ### AllEdgesSoft
 
 • **AllEdgesSoft** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31861)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **EPolygonEdgeHardness\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31861)
-
 ___
 
 ### NewEdgesHard
 
 • **NewEdgesHard** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31861)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **NewEdgesSoft** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31861)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31861)

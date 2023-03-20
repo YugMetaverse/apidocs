@@ -22,19 +22,11 @@
 
 • **Cylinder** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29343)
-
 ___
 
 ### Disc
 
 • **Disc** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29343)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **EDatasmithAreaLightActorShape\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29343)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29343)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **Rectangle** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29343)
-
 ___
 
 ### Sphere
 
 • **Sphere** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29343)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29343)

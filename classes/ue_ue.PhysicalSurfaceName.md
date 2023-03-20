@@ -27,10 +27,6 @@
 
 • **new PhysicalSurfaceName**()
 
-#### Defined in
-
-[ue/ue.d.ts:57578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57578)
-
 • **new PhysicalSurfaceName**(`Type`, `Name`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Type` | [`EPhysicalSurface`](../enums/ue_ue.EPhysicalSurface.md) |
 | `Name` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:57579](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57579)
-
 ## Properties
 
 ### Name
 
 • **Name**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:57581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57581)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Type**: [`EPhysicalSurface`](../enums/ue_ue.EPhysicalSurface.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57580)
-
 ___
 
 ### \_\_tid\_PhysicalSurfaceName\_\_
 
 • `Private` **\_\_tid\_PhysicalSurfaceName\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57587)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57585)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57586)

@@ -28,10 +28,6 @@
 
 • **new VoiceSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:65460](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65460)
-
 • **new VoiceSettings**(`ComponentToAttachTo`, `AttenuationSettings`, `SourceEffectChain`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `AttenuationSettings` | [`SoundAttenuation`](ue_ue.SoundAttenuation.md) |
 | `SourceEffectChain` | [`SoundEffectSourcePresetChain`](ue_ue.SoundEffectSourcePresetChain.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:65461](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65461)
-
 ## Properties
 
 ### AttenuationSettings
 
 • **AttenuationSettings**: [`SoundAttenuation`](ue_ue.SoundAttenuation.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65463)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **ComponentToAttachTo**: [`SceneComponent`](ue_ue.SceneComponent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65462](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65462)
-
 ___
 
 ### SourceEffectChain
 
 • **SourceEffectChain**: [`SoundEffectSourcePresetChain`](ue_ue.SoundEffectSourcePresetChain.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65464)
-
 ___
 
 ### \_\_tid\_VoiceSettings\_\_
 
 • `Private` **\_\_tid\_VoiceSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:65470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65470)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65468)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65469)

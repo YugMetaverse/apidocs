@@ -30,10 +30,6 @@
 
 • **new AssetData**()
 
-#### Defined in
-
-[ue/ue.d.ts:21753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21753)
-
 • **new AssetData**(`ObjectPath`, `PackageName`, `PackagePath`, `AssetName`, `AssetClass`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `AssetName` | `string` |
 | `AssetClass` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:21754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21754)
-
 ## Properties
 
 ### AssetClass
 
 • **AssetClass**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:21759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21759)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **AssetName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:21758](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21758)
-
 ___
 
 ### ObjectPath
 
 • **ObjectPath**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:21755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21755)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **PackageName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:21756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21756)
-
 ___
 
 ### PackagePath
 
 • **PackagePath**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:21757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21757)
-
 ___
 
 ### \_\_tid\_AssetData\_\_
 
 • `Private` **\_\_tid\_AssetData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21765)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21763)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21764)

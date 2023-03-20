@@ -42,10 +42,6 @@
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[constructor](ue_ue.SlateWidgetStyle.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:61897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61897)
-
 • **new SpinBoxStyle**(`BackgroundBrush`, `HoveredBackgroundBrush`, `ActiveFillBrush`, `InactiveFillBrush`, `ArrowsImage`, `ForegroundColor`, `TextPadding`)
 
 #### Parameters
@@ -64,19 +60,11 @@
 
 UE.SlateWidgetStyle.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:61898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61898)
-
 ## Properties
 
 ### ActiveFillBrush
 
 • **ActiveFillBrush**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:61901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61901)
 
 ___
 
@@ -84,19 +72,11 @@ ___
 
 • **ArrowsImage**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:61903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61903)
-
 ___
 
 ### BackgroundBrush
 
 • **BackgroundBrush**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:61899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61899)
 
 ___
 
@@ -104,19 +84,11 @@ ___
 
 • **ForegroundColor**: [`SlateColor`](ue_ue.SlateColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:61904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61904)
-
 ___
 
 ### HoveredBackgroundBrush
 
 • **HoveredBackgroundBrush**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:61900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61900)
 
 ___
 
@@ -124,29 +96,17 @@ ___
 
 • **InactiveFillBrush**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:61902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61902)
-
 ___
 
 ### TextPadding
 
 • **TextPadding**: [`Margin`](ue_ue.Margin.md)
 
-#### Defined in
-
-[ue/ue.d.ts:61905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61905)
-
 ___
 
 ### \_\_tid\_SpinBoxStyle\_\_
 
 • `Private` **\_\_tid\_SpinBoxStyle\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:61911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61911)
 
 ## Methods
 
@@ -166,10 +126,6 @@ use StaticStruct instead.
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[StaticClass](ue_ue.SlateWidgetStyle.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:61909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61909)
-
 ___
 
 ### StaticStruct
@@ -183,7 +139,3 @@ ___
 #### Overrides
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[StaticStruct](ue_ue.SlateWidgetStyle.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:61910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61910)

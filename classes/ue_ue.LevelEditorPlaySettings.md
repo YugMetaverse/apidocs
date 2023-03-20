@@ -107,19 +107,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:44912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44912)
-
 ## Properties
 
 ### AdditionalLaunchOptions
 
 • **AdditionalLaunchOptions**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:44949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44949)
 
 ___
 
@@ -127,19 +119,11 @@ ___
 
 • **AdditionalLaunchParameters**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:44932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44932)
-
 ___
 
 ### AdditionalLaunchParametersForMobile
 
 • **AdditionalLaunchParametersForMobile**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:44933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44933)
 
 ___
 
@@ -147,19 +131,11 @@ ___
 
 • **AdditionalServerGameOptions**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:44948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44948)
-
 ___
 
 ### AutoConnectToServer
 
 • **AutoConnectToServer**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44943)
 
 ___
 
@@ -167,19 +143,11 @@ ___
 
 • **AutoRecompileBlueprints**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44920)
-
 ___
 
 ### BuildGameBeforeLaunch
 
 • **BuildGameBeforeLaunch**: [`EPlayOnBuildMode`](../enums/ue_ue.EPlayOnBuildMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44934)
 
 ___
 
@@ -187,19 +155,11 @@ ___
 
 • **CenterNewWindow**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44929)
-
 ___
 
 ### ClientWindowHeight
 
 • **ClientWindowHeight**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44946)
 
 ___
 
@@ -207,19 +167,11 @@ ___
 
 • **ClientWindowWidth**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44942)
-
 ___
 
 ### CreateAudioDeviceForEveryPlayer
 
 • **CreateAudioDeviceForEveryPlayer**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44945)
 
 ___
 
@@ -227,19 +179,11 @@ ___
 
 • **CustomUnsafeZoneDimensions**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Vector2D`](ue_ue_s.Vector2D.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:44968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44968)
-
 ___
 
 ### CustomUnsafeZoneStarts
 
 • **CustomUnsafeZoneStarts**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Vector2D`](ue_ue_s.Vector2D.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:44967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44967)
 
 ___
 
@@ -247,19 +191,11 @@ ___
 
 • **DeviceToEmulate**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:44965](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44965)
-
 ___
 
 ### DisableStandaloneSound
 
 • **DisableStandaloneSound**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44931)
 
 ___
 
@@ -267,19 +203,11 @@ ___
 
 • **EnableGameSound**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44921)
-
 ___
 
 ### EnablePIEEnterAndExitSounds
 
 • **EnablePIEEnterAndExitSounds**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44922)
 
 ___
 
@@ -287,19 +215,11 @@ ___
 
 • **GameGetsMouseControl**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44914)
-
 ___
 
 ### LaptopScreenResolutions
 
 • **LaptopScreenResolutions**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PlayScreenResolution`](ue_ue.PlayScreenResolution.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:44960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44960)
 
 ___
 
@@ -307,19 +227,11 @@ ___
 
 • **LastExecutedLaunchDevice**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:44954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44954)
-
 ___
 
 ### LastExecutedLaunchModeType
 
 • **LastExecutedLaunchModeType**: [`ELaunchModeType`](../enums/ue_ue.ELaunchModeType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44956)
 
 ___
 
@@ -327,19 +239,11 @@ ___
 
 • **LastExecutedLaunchName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:44955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44955)
-
 ___
 
 ### LastExecutedPIEPreviewDevice
 
 • **LastExecutedPIEPreviewDevice**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:44959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44959)
 
 ___
 
@@ -347,19 +251,11 @@ ___
 
 • **LastExecutedPlayModeLocation**: [`EPlayModeLocations`](../enums/ue_ue.EPlayModeLocations.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44957)
-
 ___
 
 ### LastExecutedPlayModeType
 
 • **LastExecutedPlayModeType**: [`EPlayModeType`](../enums/ue_ue.EPlayModeType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44958)
 
 ___
 
@@ -367,19 +263,11 @@ ___
 
 • **LaunchConfiguration**: [`EPlayOnLaunchConfiguration`](../enums/ue_ue.EPlayOnLaunchConfiguration.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44935)
-
 ___
 
 ### MonitorScreenResolutions
 
 • **MonitorScreenResolutions**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PlayScreenResolution`](ue_ue.PlayScreenResolution.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:44961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44961)
 
 ___
 
@@ -387,19 +275,11 @@ ___
 
 • **MouseControlLabelPosition**: [`ELabelAnchorMode`](../enums/ue_ue.ELabelAnchorMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44917)
-
 ___
 
 ### MultipleInstanceLastHeight
 
 • **MultipleInstanceLastHeight**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44951)
 
 ___
 
@@ -407,19 +287,11 @@ ___
 
 • **MultipleInstanceLastWidth**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44952)
-
 ___
 
 ### MultipleInstancePositions
 
 • **MultipleInstancePositions**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`IntPoint`](ue_ue_s.IntPoint.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:44953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44953)
 
 ___
 
@@ -427,19 +299,11 @@ ___
 
 • **NetworkEmulationSettings**: [`LevelEditorPlayNetworkEmulationSettings`](ue_ue.LevelEditorPlayNetworkEmulationSettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44950)
-
 ___
 
 ### NewWindowHeight
 
 • **NewWindowHeight**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44927)
 
 ___
 
@@ -447,19 +311,11 @@ ___
 
 • **NewWindowPosition**: [`IntPoint`](ue_ue_s.IntPoint.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44928)
-
 ___
 
 ### NewWindowWidth
 
 • **NewWindowWidth**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44926)
 
 ___
 
@@ -467,19 +323,11 @@ ___
 
 • **PIEAlwaysOnTop**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44930)
-
 ___
 
 ### PIESafeZoneOverride
 
 • **PIESafeZoneOverride**: [`Margin`](ue_ue.Margin.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44966)
 
 ___
 
@@ -487,19 +335,11 @@ ___
 
 • **PhoneScreenResolutions**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PlayScreenResolution`](ue_ue.PlayScreenResolution.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:44962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44962)
-
 ___
 
 ### PlayFromHerePlayerStartClassName
 
 • **PlayFromHerePlayerStartClassName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:44913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44913)
 
 ___
 
@@ -507,19 +347,11 @@ ___
 
 • **PlayInEditorSoundQualityLevel**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44923)
-
 ___
 
 ### PlayNetDedicated
 
 • **PlayNetDedicated**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44939)
 
 ___
 
@@ -527,19 +359,11 @@ ___
 
 • **PlayNetMode**: [`EPlayNetMode`](../enums/ue_ue.EPlayNetMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44937)
-
 ___
 
 ### PlayNumberOfClients
 
 • **PlayNumberOfClients**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44940)
 
 ___
 
@@ -547,19 +371,11 @@ ___
 
 • **RouteGamepadToSecondWindow**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44944)
-
 ___
 
 ### RunUnderOneProcess
 
 • **RunUnderOneProcess**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44938)
 
 ___
 
@@ -567,19 +383,11 @@ ___
 
 • **ServerMapNameOverride**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:44947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44947)
-
 ___
 
 ### ServerPort
 
 • **ServerPort**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44941)
 
 ___
 
@@ -587,19 +395,11 @@ ___
 
 • **ShouldMinimizeEditorOnVRPIE**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44919)
-
 ___
 
 ### ShowMouseControlLabel
 
 • **ShowMouseControlLabel**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44916)
 
 ___
 
@@ -607,19 +407,11 @@ ___
 
 • **TabletScreenResolutions**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PlayScreenResolution`](ue_ue.PlayScreenResolution.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:44963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44963)
-
 ___
 
 ### TelevisionScreenResolutions
 
 • **TelevisionScreenResolutions**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PlayScreenResolution`](ue_ue.PlayScreenResolution.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:44964](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44964)
 
 ___
 
@@ -627,29 +419,17 @@ ___
 
 • **UseMouseForTouch**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44915)
-
 ___
 
 ### ViewportGetsHMDControl
 
 • **ViewportGetsHMDControl**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44918)
-
 ___
 
 ### \_\_tid\_LevelEditorPlaySettings\_\_
 
 • **\_\_tid\_LevelEditorPlaySettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44973)
 
 ___
 
@@ -661,19 +441,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bAutoCompileBlueprintsOnLaunch
 
 • **bAutoCompileBlueprintsOnLaunch**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44936)
 
 ___
 
@@ -681,19 +453,11 @@ ___
 
 • **bOnlyLoadVisibleLevelsInPIE**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44924)
-
 ___
 
 ### bPreferToStreamLevelsInPIE
 
 • **bPreferToStreamLevelsInPIE**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44925)
 
 ## Methods
 
@@ -719,10 +483,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -743,10 +503,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -760,10 +516,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -779,10 +531,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -797,10 +545,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -814,10 +558,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -840,10 +580,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:44970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44970)
-
 ___
 
 ### Load
@@ -864,10 +600,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:44971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44971)
-
 ___
 
 ### StaticClass
@@ -881,7 +613,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:44969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44969)

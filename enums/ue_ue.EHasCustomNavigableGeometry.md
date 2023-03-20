@@ -21,19 +21,11 @@
 
 • **DontExport** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L352)
-
 ___
 
 ### EHasCustomNavigableGeometry\_MAX
 
 • **EHasCustomNavigableGeometry\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L352)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **EvenIfNotCollidable** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L352)
-
 ___
 
 ### No
 
 • **No** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L352)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Yes** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L352)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L352)

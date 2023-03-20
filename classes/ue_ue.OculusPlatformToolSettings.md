@@ -68,19 +68,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:54135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54135)
-
 ## Properties
 
 ### OculusApplicationID
 
 • **OculusApplicationID**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:54144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54144)
 
 ___
 
@@ -88,19 +80,11 @@ ___
 
 • **OculusApplicationToken**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:54145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54145)
-
 ___
 
 ### OculusAssetConfigs
 
 • **OculusAssetConfigs**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AssetConfigArray`](ue_ue.AssetConfigArray.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:54152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54152)
 
 ___
 
@@ -108,19 +92,11 @@ ___
 
 • **OculusExpansionFilesPath**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:54151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54151)
-
 ___
 
 ### OculusLanguagePacksPath
 
 • **OculusLanguagePacksPath**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:54150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54150)
 
 ___
 
@@ -128,19 +104,11 @@ ___
 
 • **OculusLaunchFilePath**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:54148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54148)
-
 ___
 
 ### OculusRedistPackages
 
 • **OculusRedistPackages**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`RedistPackage`](ue_ue.RedistPackage.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:54142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54142)
 
 ___
 
@@ -148,19 +116,11 @@ ___
 
 • **OculusReleaseChannel**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:54146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54146)
-
 ___
 
 ### OculusReleaseNote
 
 • **OculusReleaseNote**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:54147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54147)
 
 ___
 
@@ -168,19 +128,11 @@ ___
 
 • **OculusRift2DLaunchParams**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:54141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54141)
-
 ___
 
 ### OculusRift2DLaunchPath
 
 • **OculusRift2DLaunchPath**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:54140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54140)
 
 ___
 
@@ -188,19 +140,11 @@ ___
 
 • **OculusRiftBuildDirectory**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:54136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54136)
-
 ___
 
 ### OculusRiftBuildVersion
 
 • **OculusRiftBuildVersion**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:54137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54137)
 
 ___
 
@@ -208,19 +152,11 @@ ___
 
 • **OculusRiftFireWallException**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:54139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54139)
-
 ___
 
 ### OculusRiftGamepadEmulation
 
 • **OculusRiftGamepadEmulation**: [`EOculusGamepadEmulation`](../enums/ue_ue.EOculusGamepadEmulation.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54149)
 
 ___
 
@@ -228,19 +164,11 @@ ___
 
 • **OculusRiftLaunchParams**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:54138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54138)
-
 ___
 
 ### OculusTargetPlatform
 
 • **OculusTargetPlatform**: [`EOculusPlatformTarget`](../enums/ue_ue.EOculusPlatformTarget.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54143)
 
 ___
 
@@ -252,19 +180,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_OculusPlatformToolSettings\_\_
 
 • **\_\_tid\_OculusPlatformToolSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54157)
 
 ## Methods
 
@@ -290,10 +210,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -314,10 +230,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -331,10 +243,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -350,10 +258,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -368,10 +272,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -385,10 +285,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -411,10 +307,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:54154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54154)
-
 ___
 
 ### Load
@@ -435,10 +327,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:54155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54155)
-
 ___
 
 ### StaticClass
@@ -452,7 +340,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:54153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54153)

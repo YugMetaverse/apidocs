@@ -37,10 +37,6 @@
 
 [SoftObjectPath](ue_ue.SoftObjectPath.md).[constructor](ue_ue.SoftObjectPath.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:5010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5010)
-
 ## Properties
 
 ### AssetPathName
@@ -50,10 +46,6 @@
 #### Inherited from
 
 [SoftObjectPath](ue_ue.SoftObjectPath.md).[AssetPathName](ue_ue.SoftObjectPath.md#assetpathname)
-
-#### Defined in
-
-[ue/ue.d.ts:954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L954)
 
 ___
 
@@ -65,19 +57,11 @@ ___
 
 [SoftObjectPath](ue_ue.SoftObjectPath.md).[SubPathString](ue_ue.SoftObjectPath.md#subpathstring)
 
-#### Defined in
-
-[ue/ue.d.ts:955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L955)
-
 ___
 
 ### \_\_tid\_SoftClassPath\_\_
 
 • `Private` **\_\_tid\_SoftClassPath\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5016)
 
 ## Methods
 
@@ -97,10 +81,6 @@ use StaticStruct instead.
 
 [SoftObjectPath](ue_ue.SoftObjectPath.md).[StaticClass](ue_ue.SoftObjectPath.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:5014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5014)
-
 ___
 
 ### StaticStruct
@@ -114,7 +94,3 @@ ___
 #### Overrides
 
 [SoftObjectPath](ue_ue.SoftObjectPath.md).[StaticStruct](ue_ue.SoftObjectPath.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:5015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5015)

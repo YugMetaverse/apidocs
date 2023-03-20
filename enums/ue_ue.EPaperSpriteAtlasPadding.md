@@ -19,19 +19,11 @@
 
 • **DilateBorder** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34656)
-
 ___
 
 ### EPaperSpriteAtlasPadding\_MAX
 
 • **EPaperSpriteAtlasPadding\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34656)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **PadWithZero** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34656)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34656)

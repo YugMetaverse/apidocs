@@ -21,19 +21,11 @@
 
 • **TDOF\_CircleOfConfusionRadius** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31436)
-
 ___
 
 ### TDOF\_FarMask
 
 • **TDOF\_FarMask** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31436)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **TDOF\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31436)
-
 ___
 
 ### TDOF\_NearAndFarMask
 
 • **TDOF\_NearAndFarMask** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31436)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **TDOF\_NearMask** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31436)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31436)

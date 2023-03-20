@@ -21,19 +21,11 @@
 
 • **All** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33886)
-
 ___
 
 ### EGizmoHandleTypes\_MAX
 
 • **EGizmoHandleTypes\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33886)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Rotate** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33886)
-
 ___
 
 ### Scale
 
 • **Scale** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33886)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Translate** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33886)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33886)

@@ -24,19 +24,11 @@
 
 • **PSA\_AwayFromCenter** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6757)
-
 ___
 
 ### PSA\_FacingCameraDistanceBlend
 
 • **PSA\_FacingCameraDistanceBlend** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6757)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **PSA\_FacingCameraPosition** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6757)
-
 ___
 
 ### PSA\_MAX
 
 • **PSA\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6757)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **PSA\_Rectangle** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6757)
-
 ___
 
 ### PSA\_Square
 
 • **PSA\_Square** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6757)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **PSA\_TypeSpecific** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6757)
-
 ___
 
 ### PSA\_Velocity
 
 • **PSA\_Velocity** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6757)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6757)

@@ -19,19 +19,11 @@
 
 • **EARFrameSyncMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20712)
-
 ___
 
 ### SyncTickWithCameraImage
 
 • **SyncTickWithCameraImage** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20712)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **SyncTickWithoutCameraImage** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20712)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20712)

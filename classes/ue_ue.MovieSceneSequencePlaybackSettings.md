@@ -37,10 +37,6 @@
 
 • **new MovieSceneSequencePlaybackSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:14147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14147)
-
 • **new MovieSceneSequencePlaybackSettings**(`bAutoPlay`, `LoopCount`, `PlayRate`, `StartTime`, `bRandomStartTime`, `bRestoreState`, `bDisableMovementInput`, `bDisableLookAtInput`, `bHidePlayer`, `bHideHud`, `bDisableCameraCuts`, `bPauseAtEnd`)
 
 #### Parameters
@@ -60,19 +56,11 @@
 | `bDisableCameraCuts` | `boolean` |
 | `bPauseAtEnd` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:14148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14148)
-
 ## Properties
 
 ### LoopCount
 
 • **LoopCount**: [`MovieSceneSequenceLoopCount`](ue_ue.MovieSceneSequenceLoopCount.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14150)
 
 ___
 
@@ -80,19 +68,11 @@ ___
 
 • **PlayRate**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14151)
-
 ___
 
 ### StartTime
 
 • **StartTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14152)
 
 ___
 
@@ -100,19 +80,11 @@ ___
 
 • `Private` **\_\_tid\_MovieSceneSequencePlaybackSettings\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:14166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14166)
-
 ___
 
 ### bAutoPlay
 
 • **bAutoPlay**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14149)
 
 ___
 
@@ -120,19 +92,11 @@ ___
 
 • **bDisableCameraCuts**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:14159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14159)
-
 ___
 
 ### bDisableLookAtInput
 
 • **bDisableLookAtInput**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14156)
 
 ___
 
@@ -140,19 +104,11 @@ ___
 
 • **bDisableMovementInput**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:14155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14155)
-
 ___
 
 ### bHideHud
 
 • **bHideHud**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14158)
 
 ___
 
@@ -160,19 +116,11 @@ ___
 
 • **bHidePlayer**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:14157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14157)
-
 ___
 
 ### bPauseAtEnd
 
 • **bPauseAtEnd**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14160)
 
 ___
 
@@ -180,19 +128,11 @@ ___
 
 • **bRandomStartTime**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:14153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14153)
-
 ___
 
 ### bRestoreState
 
 • **bRestoreState**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14154)
 
 ## Methods
 
@@ -208,10 +148,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14164)
-
 ___
 
 ### StaticStruct
@@ -221,7 +157,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14165)

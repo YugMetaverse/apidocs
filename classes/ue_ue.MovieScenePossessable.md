@@ -30,10 +30,6 @@
 
 • **new MovieScenePossessable**()
 
-#### Defined in
-
-[ue/ue.d.ts:11575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11575)
-
 • **new MovieScenePossessable**(`Tags`, `Guid`, `Name`, `PossessedObjectClass`, `ParentGuid`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `PossessedObjectClass` | [`Class`](ue_ue.Class.md) |
 | `ParentGuid` | [`Guid`](ue_ue_s.Guid.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:11576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11576)
-
 ## Properties
 
 ### Guid
 
 • **Guid**: [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11578)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:11579](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11579)
-
 ___
 
 ### ParentGuid
 
 • **ParentGuid**: [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11581)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **PossessedObjectClass**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11580)
-
 ___
 
 ### Tags
 
 • **Tags**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:11577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11577)
-
 ___
 
 ### \_\_tid\_MovieScenePossessable\_\_
 
 • `Private` **\_\_tid\_MovieScenePossessable\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11587)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11585)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11586)

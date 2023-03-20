@@ -97,19 +97,11 @@
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[constructor](ue_ue.DeveloperSettings.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:57605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57605)
-
 ## Properties
 
 ### AnimPhysicsMinDeltaTime
 
 • **AnimPhysicsMinDeltaTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57638)
 
 ___
 
@@ -117,19 +109,11 @@ ___
 
 • **BounceThresholdVelocity**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57620)
-
 ___
 
 ### ChaosSettings
 
 • **ChaosSettings**: [`ChaosPhysicsSettings`](ue_ue.ChaosPhysicsSettings.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57650)
 
 ___
 
@@ -137,19 +121,11 @@ ___
 
 • **ContactOffsetMultiplier**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57625)
-
 ___
 
 ### DefaultBroadphaseSettings
 
 • **DefaultBroadphaseSettings**: [`BroadphaseSettings`](ue_ue.BroadphaseSettings.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57649)
 
 ___
 
@@ -157,19 +133,11 @@ ___
 
 • **DefaultDegreesOfFreedom**: [`ESettingsDOF`](../enums/ue_ue.ESettingsDOF.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57619)
-
 ___
 
 ### DefaultFluidFriction
 
 • **DefaultFluidFriction**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57608)
 
 ___
 
@@ -177,19 +145,11 @@ ___
 
 • **DefaultGravityZ**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57606)
-
 ___
 
 ### DefaultShapeComplexity
 
 • **DefaultShapeComplexity**: [`ECollisionTraceFlag`](../enums/ue_ue.ECollisionTraceFlag.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57629)
 
 ___
 
@@ -197,19 +157,11 @@ ___
 
 • **DefaultTerminalVelocity**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57607)
-
 ___
 
 ### FrictionCombineMode
 
 • **FrictionCombineMode**: [`EFrictionCombineMode`](../enums/ue_ue.EFrictionCombineMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57621)
 
 ___
 
@@ -217,19 +169,11 @@ ___
 
 • **InitialAverageFrameRate**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57646)
-
 ___
 
 ### LockedAxis
 
 • **LockedAxis**: [`ESettingsLockedAxis`](../enums/ue_ue.ESettingsLockedAxis.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57618)
 
 ___
 
@@ -237,19 +181,11 @@ ___
 
 • **MaxAngularVelocity**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57623)
-
 ___
 
 ### MaxContactOffset
 
 • **MaxContactOffset**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57627)
 
 ___
 
@@ -257,19 +193,11 @@ ___
 
 • **MaxDepenetrationVelocity**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57624)
-
 ___
 
 ### MaxPhysicsDeltaTime
 
 • **MaxPhysicsDeltaTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57640)
 
 ___
 
@@ -277,19 +205,11 @@ ___
 
 • **MaxSubstepDeltaTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57643)
-
 ___
 
 ### MaxSubsteps
 
 • **MaxSubsteps**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57644)
 
 ___
 
@@ -297,19 +217,11 @@ ___
 
 • **MinContactOffset**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57626)
-
 ___
 
 ### PhysXTreeRebuildRate
 
 • **PhysXTreeRebuildRate**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57647)
 
 ___
 
@@ -317,19 +229,11 @@ ___
 
 • **PhysicErrorCorrection**: [`RigidBodyErrorCorrection`](ue_ue.RigidBodyErrorCorrection.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57617)
-
 ___
 
 ### PhysicalSurfaces
 
 • **PhysicalSurfaces**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PhysicalSurfaceName`](ue_ue.PhysicalSurfaceName.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:57648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57648)
 
 ___
 
@@ -337,19 +241,11 @@ ___
 
 • **RagdollAggregateThreshold**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57610)
-
 ___
 
 ### RestitutionCombineMode
 
 • **RestitutionCombineMode**: [`EFrictionCombineMode`](../enums/ue_ue.EFrictionCombineMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57622)
 
 ___
 
@@ -357,29 +253,17 @@ ___
 
 • **SimulateScratchMemorySize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57609)
-
 ___
 
 ### SyncSceneSmoothingFactor
 
 • **SyncSceneSmoothingFactor**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57645)
-
 ___
 
 ### TriangleMeshTriangleMinAreaThreshold
 
 • **TriangleMeshTriangleMinAreaThreshold**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57611](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57611)
 
 ___
 
@@ -391,10 +275,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[__tid_DeveloperSettings__](ue_ue.DeveloperSettings.md#__tid_developersettings__)
 
-#### Defined in
-
-[ue/ue.d.ts:16950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16950)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -405,19 +285,11 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[__tid_Object__](ue_ue.DeveloperSettings.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PhysicsSettings\_\_
 
 • **\_\_tid\_PhysicsSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57655)
 
 ___
 
@@ -425,19 +297,11 @@ ___
 
 • **bDefaultHasComplexCollision**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:57630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57630)
-
 ___
 
 ### bDisableActiveActors
 
 • **bDisableActiveActors**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57633)
 
 ___
 
@@ -445,19 +309,11 @@ ___
 
 • **bDisableCCD**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:57636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57636)
-
 ___
 
 ### bDisableKinematicKinematicPairs
 
 • **bDisableKinematicKinematicPairs**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57635)
 
 ___
 
@@ -465,19 +321,11 @@ ___
 
 • **bDisableKinematicStaticPairs**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:57634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57634)
-
 ___
 
 ### bEnable2DPhysics
 
 • **bEnable2DPhysics**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57616)
 
 ___
 
@@ -485,19 +333,11 @@ ___
 
 • **bEnableEnhancedDeterminism**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:57637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57637)
-
 ___
 
 ### bEnablePCM
 
 • **bEnablePCM**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57613)
 
 ___
 
@@ -505,19 +345,11 @@ ___
 
 • **bEnableShapeSharing**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:57612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57612)
-
 ___
 
 ### bEnableStabilization
 
 • **bEnableStabilization**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57614)
 
 ___
 
@@ -525,19 +357,11 @@ ___
 
 • **bSimulateAnimPhysicsAfterReset**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:57639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57639)
-
 ___
 
 ### bSimulateSkeletalMeshOnDedicatedServer
 
 • **bSimulateSkeletalMeshOnDedicatedServer**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57628)
 
 ___
 
@@ -545,19 +369,11 @@ ___
 
 • **bSubstepping**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:57641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57641)
-
 ___
 
 ### bSubsteppingAsync
 
 • **bSubsteppingAsync**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57642)
 
 ___
 
@@ -565,29 +381,17 @@ ___
 
 • **bSupportUVFromHitResults**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:57632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57632)
-
 ___
 
 ### bSuppressFaceRemapTable
 
 • **bSuppressFaceRemapTable**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:57631](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57631)
-
 ___
 
 ### bWarnMissingLocks
 
 • **bWarnMissingLocks**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57615)
 
 ## Methods
 
@@ -613,10 +417,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[CreateDefaultSubobject](ue_ue.DeveloperSettings.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -637,10 +437,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[ExecuteUbergraph](ue_ue.DeveloperSettings.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -654,10 +450,6 @@ ___
 #### Inherited from
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetClass](ue_ue.DeveloperSettings.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -673,10 +465,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetName](ue_ue.DeveloperSettings.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -691,10 +479,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetOuter](ue_ue.DeveloperSettings.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -708,10 +492,6 @@ ___
 #### Inherited from
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetWorld](ue_ue.DeveloperSettings.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -734,10 +514,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[Find](ue_ue.DeveloperSettings.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:57652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57652)
-
 ___
 
 ### Load
@@ -758,10 +534,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[Load](ue_ue.DeveloperSettings.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:57653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57653)
-
 ___
 
 ### StaticClass
@@ -775,7 +547,3 @@ ___
 #### Overrides
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[StaticClass](ue_ue.DeveloperSettings.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:57651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57651)

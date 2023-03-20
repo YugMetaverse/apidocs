@@ -80,10 +80,6 @@
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[constructor](ue_ue.K2Node_Variable.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:42059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42059)
-
 ## Properties
 
 ### AdvancedPinDisplay
@@ -93,10 +89,6 @@
 #### Inherited from
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[AdvancedPinDisplay](ue_ue.K2Node_Variable.md#advancedpindisplay)
-
-#### Defined in
-
-[ue/ue.d.ts:1067](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1067)
 
 ___
 
@@ -108,10 +100,6 @@ ___
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[DeprecatedPins](ue_ue.K2Node_Variable.md#deprecatedpins)
 
-#### Defined in
-
-[ue/ue.d.ts:1062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1062)
-
 ___
 
 ### EnabledState
@@ -121,10 +109,6 @@ ___
 #### Inherited from
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[EnabledState](ue_ue.K2Node_Variable.md#enabledstate)
-
-#### Defined in
-
-[ue/ue.d.ts:1068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1068)
 
 ___
 
@@ -136,10 +120,6 @@ ___
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[ErrorMsg](ue_ue.K2Node_Variable.md#errormsg)
 
-#### Defined in
-
-[ue/ue.d.ts:1081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1081)
-
 ___
 
 ### ErrorType
@@ -149,10 +129,6 @@ ___
 #### Inherited from
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[ErrorType](ue_ue.K2Node_Variable.md#errortype)
-
-#### Defined in
-
-[ue/ue.d.ts:1080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1080)
 
 ___
 
@@ -164,10 +140,6 @@ ___
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[NodeComment](ue_ue.K2Node_Variable.md#nodecomment)
 
-#### Defined in
-
-[ue/ue.d.ts:1079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1079)
-
 ___
 
 ### NodeGuid
@@ -177,10 +149,6 @@ ___
 #### Inherited from
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[NodeGuid](ue_ue.K2Node_Variable.md#nodeguid)
-
-#### Defined in
-
-[ue/ue.d.ts:1082](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1082)
 
 ___
 
@@ -192,10 +160,6 @@ ___
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[NodeHeight](ue_ue.K2Node_Variable.md#nodeheight)
 
-#### Defined in
-
-[ue/ue.d.ts:1066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1066)
-
 ___
 
 ### NodePosX
@@ -205,10 +169,6 @@ ___
 #### Inherited from
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[NodePosX](ue_ue.K2Node_Variable.md#nodeposx)
-
-#### Defined in
-
-[ue/ue.d.ts:1063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1063)
 
 ___
 
@@ -220,10 +180,6 @@ ___
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[NodePosY](ue_ue.K2Node_Variable.md#nodeposy)
 
-#### Defined in
-
-[ue/ue.d.ts:1064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1064)
-
 ___
 
 ### NodeUpgradeMessage
@@ -233,10 +189,6 @@ ___
 #### Inherited from
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[NodeUpgradeMessage](ue_ue.K2Node_Variable.md#nodeupgrademessage)
-
-#### Defined in
-
-[ue/ue.d.ts:1078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1078)
 
 ___
 
@@ -248,10 +200,6 @@ ___
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[NodeWidth](ue_ue.K2Node_Variable.md#nodewidth)
 
-#### Defined in
-
-[ue/ue.d.ts:1065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1065)
-
 ___
 
 ### SelfContextInfo
@@ -261,10 +209,6 @@ ___
 #### Inherited from
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[SelfContextInfo](ue_ue.K2Node_Variable.md#selfcontextinfo)
-
-#### Defined in
-
-[ue/ue.d.ts:40879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40879)
 
 ___
 
@@ -276,10 +220,6 @@ ___
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[VariableName](ue_ue.K2Node_Variable.md#variablename)
 
-#### Defined in
-
-[ue/ue.d.ts:40881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40881)
-
 ___
 
 ### VariableReference
@@ -289,10 +229,6 @@ ___
 #### Inherited from
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[VariableReference](ue_ue.K2Node_Variable.md#variablereference)
-
-#### Defined in
-
-[ue/ue.d.ts:40878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40878)
 
 ___
 
@@ -304,10 +240,6 @@ ___
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[VariableSourceClass](ue_ue.K2Node_Variable.md#variablesourceclass)
 
-#### Defined in
-
-[ue/ue.d.ts:40880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40880)
-
 ___
 
 ### \_\_tid\_EdGraphNode\_\_
@@ -318,19 +250,11 @@ ___
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[__tid_EdGraphNode__](ue_ue.K2Node_Variable.md#__tid_edgraphnode__)
 
-#### Defined in
-
-[ue/ue.d.ts:1087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1087)
-
 ___
 
 ### \_\_tid\_K2Node\_VariableSet\_\_
 
 • **\_\_tid\_K2Node\_VariableSet\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:42064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42064)
 
 ___
 
@@ -342,10 +266,6 @@ ___
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[__tid_K2Node_Variable__](ue_ue.K2Node_Variable.md#__tid_k2node_variable__)
 
-#### Defined in
-
-[ue/ue.d.ts:40887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40887)
-
 ___
 
 ### \_\_tid\_K2Node\_\_
@@ -355,10 +275,6 @@ ___
 #### Inherited from
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[__tid_K2Node__](ue_ue.K2Node_Variable.md#__tid_k2node__)
-
-#### Defined in
-
-[ue/ue.d.ts:16749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16749)
 
 ___
 
@@ -370,10 +286,6 @@ ___
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[__tid_Object__](ue_ue.K2Node_Variable.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bCanRenameNode
@@ -383,10 +295,6 @@ ___
 #### Inherited from
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[bCanRenameNode](ue_ue.K2Node_Variable.md#bcanrenamenode)
-
-#### Defined in
-
-[ue/ue.d.ts:1077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1077)
 
 ___
 
@@ -398,10 +306,6 @@ ___
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[bCanResizeNode](ue_ue.K2Node_Variable.md#bcanresizenode)
 
-#### Defined in
-
-[ue/ue.d.ts:1072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1072)
-
 ___
 
 ### bCommentBubbleMakeVisible
@@ -411,10 +315,6 @@ ___
 #### Inherited from
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[bCommentBubbleMakeVisible](ue_ue.K2Node_Variable.md#bcommentbubblemakevisible)
-
-#### Defined in
-
-[ue/ue.d.ts:1076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1076)
 
 ___
 
@@ -426,10 +326,6 @@ ___
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[bCommentBubblePinned](ue_ue.K2Node_Variable.md#bcommentbubblepinned)
 
-#### Defined in
-
-[ue/ue.d.ts:1074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1074)
-
 ___
 
 ### bCommentBubbleVisible
@@ -439,10 +335,6 @@ ___
 #### Inherited from
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[bCommentBubbleVisible](ue_ue.K2Node_Variable.md#bcommentbubblevisible)
-
-#### Defined in
-
-[ue/ue.d.ts:1075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1075)
 
 ___
 
@@ -454,10 +346,6 @@ ___
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[bDisplayAsDisabled](ue_ue.K2Node_Variable.md#bdisplayasdisabled)
 
-#### Defined in
-
-[ue/ue.d.ts:1069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1069)
-
 ___
 
 ### bHasCompilerMessage
@@ -467,10 +355,6 @@ ___
 #### Inherited from
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[bHasCompilerMessage](ue_ue.K2Node_Variable.md#bhascompilermessage)
-
-#### Defined in
-
-[ue/ue.d.ts:1073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1073)
 
 ___
 
@@ -482,10 +366,6 @@ ___
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[bIsNodeEnabled](ue_ue.K2Node_Variable.md#bisnodeenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:1071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1071)
-
 ___
 
 ### bSelfContext
@@ -496,10 +376,6 @@ ___
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[bSelfContext](ue_ue.K2Node_Variable.md#bselfcontext)
 
-#### Defined in
-
-[ue/ue.d.ts:40882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40882)
-
 ___
 
 ### bUserSetEnabledState
@@ -509,10 +385,6 @@ ___
 #### Inherited from
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[bUserSetEnabledState](ue_ue.K2Node_Variable.md#busersetenabledstate)
-
-#### Defined in
-
-[ue/ue.d.ts:1070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1070)
 
 ## Methods
 
@@ -538,10 +410,6 @@ ___
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[CreateDefaultSubobject](ue_ue.K2Node_Variable.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -562,10 +430,6 @@ ___
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[ExecuteUbergraph](ue_ue.K2Node_Variable.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -579,10 +443,6 @@ ___
 #### Inherited from
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[GetClass](ue_ue.K2Node_Variable.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -598,10 +458,6 @@ ___
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[GetName](ue_ue.K2Node_Variable.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -616,10 +472,6 @@ ___
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[GetOuter](ue_ue.K2Node_Variable.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -633,10 +485,6 @@ ___
 #### Inherited from
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[GetWorld](ue_ue.K2Node_Variable.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -659,10 +507,6 @@ ___
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[Find](ue_ue.K2Node_Variable.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:42061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42061)
-
 ___
 
 ### Load
@@ -683,10 +527,6 @@ ___
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[Load](ue_ue.K2Node_Variable.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:42062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42062)
-
 ___
 
 ### StaticClass
@@ -700,7 +540,3 @@ ___
 #### Overrides
 
 [K2Node_Variable](ue_ue.K2Node_Variable.md).[StaticClass](ue_ue.K2Node_Variable.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:42060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42060)

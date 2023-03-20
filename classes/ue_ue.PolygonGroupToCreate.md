@@ -27,10 +27,6 @@
 
 • **new PolygonGroupToCreate**()
 
-#### Defined in
-
-[ue/ue.d.ts:31878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31878)
-
 • **new PolygonGroupToCreate**(`PolygonGroupAttributes`, `OriginalPolygonGroupID`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `PolygonGroupAttributes` | [`MeshElementAttributeList`](ue_ue.MeshElementAttributeList.md) |
 | `OriginalPolygonGroupID` | [`PolygonGroupID`](ue_ue.PolygonGroupID.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:31879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31879)
-
 ## Properties
 
 ### OriginalPolygonGroupID
 
 • **OriginalPolygonGroupID**: [`PolygonGroupID`](ue_ue.PolygonGroupID.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31881)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **PolygonGroupAttributes**: [`MeshElementAttributeList`](ue_ue.MeshElementAttributeList.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31880)
-
 ___
 
 ### \_\_tid\_PolygonGroupToCreate\_\_
 
 • `Private` **\_\_tid\_PolygonGroupToCreate\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31887)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31885)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31886)

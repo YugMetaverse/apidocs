@@ -26,10 +26,6 @@
 
 • **new LiveLinkSubjectName**()
 
-#### Defined in
-
-[ue/ue.d.ts:45820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45820)
-
 • **new LiveLinkSubjectName**(`Name`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Name` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:45821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45821)
-
 ## Properties
 
 ### Name
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:45822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45822)
-
 ___
 
 ### \_\_tid\_LiveLinkSubjectName\_\_
 
 • `Private` **\_\_tid\_LiveLinkSubjectName\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45828)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:45826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45826)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:45827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45827)

@@ -42,10 +42,6 @@
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[constructor](ue_ue.AnimNode_Base.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:18716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18716)
-
 • **new AnimNode_CustomProperty**(`SourcePropertyNames`, `DestPropertyNames`, `TargetInstance`, `SourceProperties`, `DestProperties`)
 
 #### Parameters
@@ -62,19 +58,11 @@
 
 UE.AnimNode\_Base.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:18717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18717)
-
 ## Properties
 
 ### DestProperties
 
 • **DestProperties**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Property`](ue_ue.Property.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:18722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18722)
 
 ___
 
@@ -82,19 +70,11 @@ ___
 
 • **DestPropertyNames**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:18719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18719)
-
 ___
 
 ### SourceProperties
 
 • **SourceProperties**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Property`](ue_ue.Property.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:18721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18721)
 
 ___
 
@@ -102,29 +82,17 @@ ___
 
 • **SourcePropertyNames**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:18718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18718)
-
 ___
 
 ### TargetInstance
 
 • **TargetInstance**: [`Object`](ue_ue.Object.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18720)
-
 ___
 
 ### \_\_tid\_AnimNode\_CustomProperty\_\_
 
 • `Private` **\_\_tid\_AnimNode\_CustomProperty\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18728)
 
 ## Methods
 
@@ -144,10 +112,6 @@ use StaticStruct instead.
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticClass](ue_ue.AnimNode_Base.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:18726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18726)
-
 ___
 
 ### StaticStruct
@@ -161,7 +125,3 @@ ___
 #### Overrides
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticStruct](ue_ue.AnimNode_Base.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:18727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18727)

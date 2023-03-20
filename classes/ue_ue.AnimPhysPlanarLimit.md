@@ -27,10 +27,6 @@
 
 • **new AnimPhysPlanarLimit**()
 
-#### Defined in
-
-[ue/ue.d.ts:17779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17779)
-
 • **new AnimPhysPlanarLimit**(`DrivingBone`, `PlaneTransform`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `DrivingBone` | [`BoneReference`](ue_ue.BoneReference.md) |
 | `PlaneTransform` | [`Transform`](ue_ue_s.Transform.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:17780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17780)
-
 ## Properties
 
 ### DrivingBone
 
 • **DrivingBone**: [`BoneReference`](ue_ue.BoneReference.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17781)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **PlaneTransform**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17782)
-
 ___
 
 ### \_\_tid\_AnimPhysPlanarLimit\_\_
 
 • `Private` **\_\_tid\_AnimPhysPlanarLimit\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17788)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17786)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17787)

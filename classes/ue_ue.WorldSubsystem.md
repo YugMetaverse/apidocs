@@ -52,10 +52,6 @@
 
 [Subsystem](ue_ue.Subsystem.md).[constructor](ue_ue.Subsystem.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:62682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62682)
-
 ## Properties
 
 ### \_\_tid\_Object\_\_
@@ -65,10 +61,6 @@
 #### Inherited from
 
 [Subsystem](ue_ue.Subsystem.md).[__tid_Object__](ue_ue.Subsystem.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -80,19 +72,11 @@ ___
 
 [Subsystem](ue_ue.Subsystem.md).[__tid_Subsystem__](ue_ue.Subsystem.md#__tid_subsystem__)
 
-#### Defined in
-
-[ue/ue.d.ts:21564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21564)
-
 ___
 
 ### \_\_tid\_WorldSubsystem\_\_
 
 • **\_\_tid\_WorldSubsystem\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:62687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62687)
 
 ## Methods
 
@@ -118,10 +102,6 @@ ___
 
 [Subsystem](ue_ue.Subsystem.md).[CreateDefaultSubobject](ue_ue.Subsystem.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -142,10 +122,6 @@ ___
 
 [Subsystem](ue_ue.Subsystem.md).[ExecuteUbergraph](ue_ue.Subsystem.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -159,10 +135,6 @@ ___
 #### Inherited from
 
 [Subsystem](ue_ue.Subsystem.md).[GetClass](ue_ue.Subsystem.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -178,10 +150,6 @@ ___
 
 [Subsystem](ue_ue.Subsystem.md).[GetName](ue_ue.Subsystem.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -196,10 +164,6 @@ ___
 
 [Subsystem](ue_ue.Subsystem.md).[GetOuter](ue_ue.Subsystem.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -213,10 +177,6 @@ ___
 #### Inherited from
 
 [Subsystem](ue_ue.Subsystem.md).[GetWorld](ue_ue.Subsystem.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -239,10 +199,6 @@ ___
 
 [Subsystem](ue_ue.Subsystem.md).[Find](ue_ue.Subsystem.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:62684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62684)
-
 ___
 
 ### Load
@@ -263,10 +219,6 @@ ___
 
 [Subsystem](ue_ue.Subsystem.md).[Load](ue_ue.Subsystem.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:62685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62685)
-
 ___
 
 ### StaticClass
@@ -280,7 +232,3 @@ ___
 #### Overrides
 
 [Subsystem](ue_ue.Subsystem.md).[StaticClass](ue_ue.Subsystem.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:62683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62683)

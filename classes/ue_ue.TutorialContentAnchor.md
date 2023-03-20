@@ -33,10 +33,6 @@
 
 • **new TutorialContentAnchor**()
 
-#### Defined in
-
-[ue/ue.d.ts:33363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33363)
-
 • **new TutorialContentAnchor**(`Type`, `WrapperIdentifier`, `Asset`, `bDrawHighlight`, `TabToFocusOrOpen`, `FriendlyName`, `GUIDString`, `OuterName`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `GUIDString` | `string` |
 | `OuterName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:33364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33364)
-
 ## Properties
 
 ### Asset
 
 • **Asset**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33367)
 
 ___
 
@@ -72,19 +60,11 @@ ___
 
 • **FriendlyName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:33370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33370)
-
 ___
 
 ### GUIDString
 
 • **GUIDString**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:33371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33371)
 
 ___
 
@@ -92,19 +72,11 @@ ___
 
 • **OuterName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:33372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33372)
-
 ___
 
 ### TabToFocusOrOpen
 
 • **TabToFocusOrOpen**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:33369](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33369)
 
 ___
 
@@ -112,19 +84,11 @@ ___
 
 • **Type**: [`ETutorialAnchorIdentifier`](../enums/ue_ue.ETutorialAnchorIdentifier.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33365)
-
 ___
 
 ### WrapperIdentifier
 
 • **WrapperIdentifier**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:33366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33366)
 
 ___
 
@@ -132,19 +96,11 @@ ___
 
 • `Private` **\_\_tid\_TutorialContentAnchor\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:33378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33378)
-
 ___
 
 ### bDrawHighlight
 
 • **bDrawHighlight**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33368)
 
 ## Methods
 
@@ -160,10 +116,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33376](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33376)
-
 ___
 
 ### StaticStruct
@@ -173,7 +125,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33377](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33377)

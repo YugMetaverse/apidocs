@@ -24,19 +24,11 @@
 
 • **Cubic** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18881)
-
 ___
 
 ### EaseInOutExponent2
 
 • **EaseInOutExponent2** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18881)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **EaseInOutExponent3** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18881)
-
 ___
 
 ### EaseInOutExponent4
 
 • **EaseInOutExponent4** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18881)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **EaseInOutExponent5** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18881)
-
 ___
 
 ### Linear
 
 • **Linear** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18881)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18881)
-
 ___
 
 ### Sinusoidal
 
 • **Sinusoidal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18881)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18881)

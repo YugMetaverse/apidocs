@@ -170,10 +170,6 @@
 
 [PanelWidget](ue_ue.PanelWidget.md).[constructor](ue_ue.PanelWidget.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:66598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66598)
-
 ## Properties
 
 ### AccessibleBehavior
@@ -183,10 +179,6 @@
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[AccessibleBehavior](ue_ue.PanelWidget.md#accessiblebehavior)
-
-#### Defined in
-
-[ue/ue.d.ts:10940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10940)
 
 ___
 
@@ -198,10 +190,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[AccessibleSummaryBehavior](ue_ue.PanelWidget.md#accessiblesummarybehavior)
 
-#### Defined in
-
-[ue/ue.d.ts:10941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10941)
-
 ___
 
 ### AccessibleSummaryText
@@ -211,10 +199,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[AccessibleSummaryText](ue_ue.PanelWidget.md#accessiblesummarytext)
-
-#### Defined in
-
-[ue/ue.d.ts:10944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10944)
 
 ___
 
@@ -226,10 +210,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[AccessibleSummaryTextDelegate](ue_ue.PanelWidget.md#accessiblesummarytextdelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10945)
-
 ___
 
 ### AccessibleText
@@ -239,10 +219,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[AccessibleText](ue_ue.PanelWidget.md#accessibletext)
-
-#### Defined in
-
-[ue/ue.d.ts:10942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10942)
 
 ___
 
@@ -254,10 +230,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[AccessibleTextDelegate](ue_ue.PanelWidget.md#accessibletextdelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10943)
-
 ___
 
 ### AccessibleWidgetData
@@ -267,10 +239,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[AccessibleWidgetData](ue_ue.PanelWidget.md#accessiblewidgetdata)
-
-#### Defined in
-
-[ue/ue.d.ts:10946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10946)
 
 ___
 
@@ -282,10 +250,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[CategoryName](ue_ue.PanelWidget.md#categoryname)
 
-#### Defined in
-
-[ue/ue.d.ts:10960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10960)
-
 ___
 
 ### Clipping
@@ -295,10 +259,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[Clipping](ue_ue.PanelWidget.md#clipping)
-
-#### Defined in
-
-[ue/ue.d.ts:10952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10952)
 
 ___
 
@@ -310,10 +270,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[Cursor](ue_ue.PanelWidget.md#cursor)
 
-#### Defined in
-
-[ue/ue.d.ts:10951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10951)
-
 ___
 
 ### DesignerFlags
@@ -323,10 +279,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[DesignerFlags](ue_ue.PanelWidget.md#designerflags)
-
-#### Defined in
-
-[ue/ue.d.ts:10958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10958)
 
 ___
 
@@ -338,10 +290,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[DisplayLabel](ue_ue.PanelWidget.md#displaylabel)
 
-#### Defined in
-
-[ue/ue.d.ts:10959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10959)
-
 ___
 
 ### FlowDirectionPreference
@@ -352,19 +300,11 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[FlowDirectionPreference](ue_ue.PanelWidget.md#flowdirectionpreference)
 
-#### Defined in
-
-[ue/ue.d.ts:10956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10956)
-
 ___
 
 ### InnerSlotPadding
 
 • **InnerSlotPadding**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66599)
 
 ___
 
@@ -376,10 +316,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[NativeBindings](ue_ue.PanelWidget.md#nativebindings)
 
-#### Defined in
-
-[ue/ue.d.ts:10957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10957)
-
 ___
 
 ### Navigation
@@ -389,10 +325,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[Navigation](ue_ue.PanelWidget.md#navigation)
-
-#### Defined in
-
-[ue/ue.d.ts:10955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10955)
 
 ___
 
@@ -404,10 +336,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[RenderOpacity](ue_ue.PanelWidget.md#renderopacity)
 
-#### Defined in
-
-[ue/ue.d.ts:10954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10954)
-
 ___
 
 ### RenderTransform
@@ -417,10 +345,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[RenderTransform](ue_ue.PanelWidget.md#rendertransform)
-
-#### Defined in
-
-[ue/ue.d.ts:10932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10932)
 
 ___
 
@@ -432,10 +356,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[RenderTransformPivot](ue_ue.PanelWidget.md#rendertransformpivot)
 
-#### Defined in
-
-[ue/ue.d.ts:10933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10933)
-
 ___
 
 ### Slot
@@ -445,10 +365,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[Slot](ue_ue.PanelWidget.md#slot)
-
-#### Defined in
-
-[ue/ue.d.ts:10925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10925)
 
 ___
 
@@ -460,10 +376,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[Slots](ue_ue.PanelWidget.md#slots)
 
-#### Defined in
-
-[ue/ue.d.ts:10678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10678)
-
 ___
 
 ### ToolTipText
@@ -473,10 +385,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[ToolTipText](ue_ue.PanelWidget.md#tooltiptext)
-
-#### Defined in
-
-[ue/ue.d.ts:10927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10927)
 
 ___
 
@@ -488,10 +396,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[ToolTipTextDelegate](ue_ue.PanelWidget.md#tooltiptextdelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10928)
-
 ___
 
 ### ToolTipWidget
@@ -501,10 +405,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[ToolTipWidget](ue_ue.PanelWidget.md#tooltipwidget)
-
-#### Defined in
-
-[ue/ue.d.ts:10929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10929)
 
 ___
 
@@ -516,10 +416,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[ToolTipWidgetDelegate](ue_ue.PanelWidget.md#tooltipwidgetdelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10930)
-
 ___
 
 ### Visibility
@@ -529,10 +425,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[Visibility](ue_ue.PanelWidget.md#visibility)
-
-#### Defined in
-
-[ue/ue.d.ts:10953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10953)
 
 ___
 
@@ -544,19 +436,11 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[VisibilityDelegate](ue_ue.PanelWidget.md#visibilitydelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10931)
-
 ___
 
 ### WrapWidth
 
 • **WrapWidth**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:66600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66600)
 
 ___
 
@@ -568,10 +452,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[__tid_Object__](ue_ue.PanelWidget.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PanelWidget\_\_
@@ -581,10 +461,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[__tid_PanelWidget__](ue_ue.PanelWidget.md#__tid_panelwidget__)
-
-#### Defined in
-
-[ue/ue.d.ts:10693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10693)
 
 ___
 
@@ -596,10 +472,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[__tid_Visual__](ue_ue.PanelWidget.md#__tid_visual__)
 
-#### Defined in
-
-[ue/ue.d.ts:10673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10673)
-
 ___
 
 ### \_\_tid\_Widget\_\_
@@ -610,19 +482,11 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[__tid_Widget__](ue_ue.PanelWidget.md#__tid_widget__)
 
-#### Defined in
-
-[ue/ue.d.ts:11029](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11029)
-
 ___
 
 ### \_\_tid\_WrapBox\_\_
 
 • **\_\_tid\_WrapBox\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:66608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66608)
 
 ___
 
@@ -634,10 +498,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[bCanChildrenBeAccessible](ue_ue.PanelWidget.md#bcanchildrenbeaccessible)
 
-#### Defined in
-
-[ue/ue.d.ts:10939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10939)
-
 ___
 
 ### bCreatedByConstructionScript
@@ -647,10 +507,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[bCreatedByConstructionScript](ue_ue.PanelWidget.md#bcreatedbyconstructionscript)
-
-#### Defined in
-
-[ue/ue.d.ts:10935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10935)
 
 ___
 
@@ -662,19 +518,11 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[bExpandedInDesigner](ue_ue.PanelWidget.md#bexpandedindesigner)
 
-#### Defined in
-
-[ue/ue.d.ts:10949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10949)
-
 ___
 
 ### bExplicitWrapWidth
 
 • **bExplicitWrapWidth**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:66601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66601)
 
 ___
 
@@ -686,10 +534,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[bHiddenInDesigner](ue_ue.PanelWidget.md#bhiddenindesigner)
 
-#### Defined in
-
-[ue/ue.d.ts:10948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10948)
-
 ___
 
 ### bIsEnabled
@@ -699,10 +543,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[bIsEnabled](ue_ue.PanelWidget.md#bisenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:10936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10936)
 
 ___
 
@@ -714,10 +554,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[bIsEnabledDelegate](ue_ue.PanelWidget.md#bisenableddelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10926)
-
 ___
 
 ### bIsVariable
@@ -727,10 +563,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[bIsVariable](ue_ue.PanelWidget.md#bisvariable)
-
-#### Defined in
-
-[ue/ue.d.ts:10934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10934)
 
 ___
 
@@ -742,10 +574,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[bIsVolatile](ue_ue.PanelWidget.md#bisvolatile)
 
-#### Defined in
-
-[ue/ue.d.ts:10947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10947)
-
 ___
 
 ### bLockedInDesigner
@@ -755,10 +583,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[bLockedInDesigner](ue_ue.PanelWidget.md#blockedindesigner)
-
-#### Defined in
-
-[ue/ue.d.ts:10950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10950)
 
 ___
 
@@ -770,10 +594,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[bOverrideAccessibleDefaults](ue_ue.PanelWidget.md#boverrideaccessibledefaults)
 
-#### Defined in
-
-[ue/ue.d.ts:10938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10938)
-
 ___
 
 ### bOverride\_Cursor
@@ -783,10 +603,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[bOverride_Cursor](ue_ue.PanelWidget.md#boverride_cursor)
-
-#### Defined in
-
-[ue/ue.d.ts:10937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10937)
 
 ## Methods
 
@@ -808,10 +624,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[AddChild](ue_ue.PanelWidget.md#addchild)
 
-#### Defined in
-
-[ue/ue.d.ts:10679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10679)
-
 ___
 
 ### AddChildToWrapBox
@@ -828,10 +640,6 @@ ___
 
 [`WrapBoxSlot`](ue_ue.WrapBoxSlot.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66602)
-
 ___
 
 ### ClearChildren
@@ -845,10 +653,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[ClearChildren](ue_ue.PanelWidget.md#clearchildren)
-
-#### Defined in
-
-[ue/ue.d.ts:10680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10680)
 
 ___
 
@@ -874,10 +678,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[CreateDefaultSubobject](ue_ue.PanelWidget.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -898,10 +698,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[ExecuteUbergraph](ue_ue.PanelWidget.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### ForceLayoutPrepass
@@ -915,10 +711,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[ForceLayoutPrepass](ue_ue.PanelWidget.md#forcelayoutprepass)
-
-#### Defined in
-
-[ue/ue.d.ts:10961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10961)
 
 ___
 
@@ -940,10 +732,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[ForceVolatile](ue_ue.PanelWidget.md#forcevolatile)
 
-#### Defined in
-
-[ue/ue.d.ts:10962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10962)
-
 ___
 
 ### GenerateWidgetForObject\_\_DelegateSignature
@@ -963,10 +751,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[GenerateWidgetForObject__DelegateSignature](ue_ue.PanelWidget.md#generatewidgetforobject__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10963)
 
 ___
 
@@ -988,10 +772,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[GenerateWidgetForString__DelegateSignature](ue_ue.PanelWidget.md#generatewidgetforstring__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10964](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10964)
-
 ___
 
 ### GetAllChildren
@@ -1005,10 +785,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetAllChildren](ue_ue.PanelWidget.md#getallchildren)
-
-#### Defined in
-
-[ue/ue.d.ts:10681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10681)
 
 ___
 
@@ -1024,10 +800,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetBool__DelegateSignature](ue_ue.PanelWidget.md#getbool__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10965](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10965)
-
 ___
 
 ### GetCachedGeometry
@@ -1042,10 +814,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetCachedGeometry](ue_ue.PanelWidget.md#getcachedgeometry)
 
-#### Defined in
-
-[ue/ue.d.ts:10966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10966)
-
 ___
 
 ### GetCheckBoxState\_\_DelegateSignature
@@ -1059,10 +827,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetCheckBoxState__DelegateSignature](ue_ue.PanelWidget.md#getcheckboxstate__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10967)
 
 ___
 
@@ -1084,10 +848,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetChildAt](ue_ue.PanelWidget.md#getchildat)
 
-#### Defined in
-
-[ue/ue.d.ts:10682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10682)
-
 ___
 
 ### GetChildIndex
@@ -1108,10 +868,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetChildIndex](ue_ue.PanelWidget.md#getchildindex)
 
-#### Defined in
-
-[ue/ue.d.ts:10683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10683)
-
 ___
 
 ### GetChildrenCount
@@ -1125,10 +881,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetChildrenCount](ue_ue.PanelWidget.md#getchildrencount)
-
-#### Defined in
-
-[ue/ue.d.ts:10684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10684)
 
 ___
 
@@ -1144,10 +896,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetClass](ue_ue.PanelWidget.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetClipping
@@ -1161,10 +909,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetClipping](ue_ue.PanelWidget.md#getclipping)
-
-#### Defined in
-
-[ue/ue.d.ts:10968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10968)
 
 ___
 
@@ -1180,10 +924,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetDesiredSize](ue_ue.PanelWidget.md#getdesiredsize)
 
-#### Defined in
-
-[ue/ue.d.ts:10969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10969)
-
 ___
 
 ### GetFloat\_\_DelegateSignature
@@ -1197,10 +937,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetFloat__DelegateSignature](ue_ue.PanelWidget.md#getfloat__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10970)
 
 ___
 
@@ -1216,10 +952,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetGameInstance](ue_ue.PanelWidget.md#getgameinstance)
 
-#### Defined in
-
-[ue/ue.d.ts:10971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10971)
-
 ___
 
 ### GetInt32\_\_DelegateSignature
@@ -1233,10 +965,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetInt32__DelegateSignature](ue_ue.PanelWidget.md#getint32__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10972)
 
 ___
 
@@ -1252,10 +980,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetIsEnabled](ue_ue.PanelWidget.md#getisenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:10973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10973)
-
 ___
 
 ### GetLinearColor\_\_DelegateSignature
@@ -1269,10 +993,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetLinearColor__DelegateSignature](ue_ue.PanelWidget.md#getlinearcolor__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10974)
 
 ___
 
@@ -1288,10 +1008,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetMouseCursor__DelegateSignature](ue_ue.PanelWidget.md#getmousecursor__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10975](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10975)
-
 ___
 
 ### GetName
@@ -1305,10 +1021,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetName](ue_ue.PanelWidget.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -1324,10 +1036,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetOuter](ue_ue.PanelWidget.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetOwningLocalPlayer
@@ -1341,10 +1049,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetOwningLocalPlayer](ue_ue.PanelWidget.md#getowninglocalplayer)
-
-#### Defined in
-
-[ue/ue.d.ts:10976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10976)
 
 ___
 
@@ -1360,10 +1064,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetOwningPlayer](ue_ue.PanelWidget.md#getowningplayer)
 
-#### Defined in
-
-[ue/ue.d.ts:10977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10977)
-
 ___
 
 ### GetPaintSpaceGeometry
@@ -1377,10 +1077,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetPaintSpaceGeometry](ue_ue.PanelWidget.md#getpaintspacegeometry)
-
-#### Defined in
-
-[ue/ue.d.ts:10978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10978)
 
 ___
 
@@ -1396,10 +1092,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetParent](ue_ue.PanelWidget.md#getparent)
 
-#### Defined in
-
-[ue/ue.d.ts:10979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10979)
-
 ___
 
 ### GetRenderOpacity
@@ -1413,10 +1105,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetRenderOpacity](ue_ue.PanelWidget.md#getrenderopacity)
-
-#### Defined in
-
-[ue/ue.d.ts:10980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10980)
 
 ___
 
@@ -1432,10 +1120,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetRenderTransformAngle](ue_ue.PanelWidget.md#getrendertransformangle)
 
-#### Defined in
-
-[ue/ue.d.ts:10981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10981)
-
 ___
 
 ### GetSlateBrush\_\_DelegateSignature
@@ -1449,10 +1133,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetSlateBrush__DelegateSignature](ue_ue.PanelWidget.md#getslatebrush__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10982)
 
 ___
 
@@ -1468,10 +1148,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetSlateColor__DelegateSignature](ue_ue.PanelWidget.md#getslatecolor__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10983)
-
 ___
 
 ### GetSlateVisibility\_\_DelegateSignature
@@ -1485,10 +1161,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetSlateVisibility__DelegateSignature](ue_ue.PanelWidget.md#getslatevisibility__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10984)
 
 ___
 
@@ -1504,10 +1176,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetText__DelegateSignature](ue_ue.PanelWidget.md#gettext__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10985)
-
 ___
 
 ### GetTickSpaceGeometry
@@ -1521,10 +1189,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetTickSpaceGeometry](ue_ue.PanelWidget.md#gettickspacegeometry)
-
-#### Defined in
-
-[ue/ue.d.ts:10986](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10986)
 
 ___
 
@@ -1540,10 +1204,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetVisibility](ue_ue.PanelWidget.md#getvisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:10987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10987)
-
 ___
 
 ### GetWidget\_\_DelegateSignature
@@ -1557,10 +1217,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetWidget__DelegateSignature](ue_ue.PanelWidget.md#getwidget__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10988)
 
 ___
 
@@ -1576,10 +1232,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[GetWorld](ue_ue.PanelWidget.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### HasAnyChildren
@@ -1594,10 +1246,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[HasAnyChildren](ue_ue.PanelWidget.md#hasanychildren)
 
-#### Defined in
-
-[ue/ue.d.ts:10685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10685)
-
 ___
 
 ### HasAnyUserFocus
@@ -1611,10 +1259,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[HasAnyUserFocus](ue_ue.PanelWidget.md#hasanyuserfocus)
-
-#### Defined in
-
-[ue/ue.d.ts:10989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10989)
 
 ___
 
@@ -1636,10 +1280,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[HasChild](ue_ue.PanelWidget.md#haschild)
 
-#### Defined in
-
-[ue/ue.d.ts:10686](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10686)
-
 ___
 
 ### HasFocusedDescendants
@@ -1653,10 +1293,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[HasFocusedDescendants](ue_ue.PanelWidget.md#hasfocuseddescendants)
-
-#### Defined in
-
-[ue/ue.d.ts:10990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10990)
 
 ___
 
@@ -1672,10 +1308,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[HasKeyboardFocus](ue_ue.PanelWidget.md#haskeyboardfocus)
 
-#### Defined in
-
-[ue/ue.d.ts:10991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10991)
-
 ___
 
 ### HasMouseCapture
@@ -1689,10 +1321,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[HasMouseCapture](ue_ue.PanelWidget.md#hasmousecapture)
-
-#### Defined in
-
-[ue/ue.d.ts:10992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10992)
 
 ___
 
@@ -1715,10 +1343,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[HasMouseCaptureByUser](ue_ue.PanelWidget.md#hasmousecapturebyuser)
 
-#### Defined in
-
-[ue/ue.d.ts:10993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10993)
-
 ___
 
 ### HasUserFocus
@@ -1738,10 +1362,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[HasUserFocus](ue_ue.PanelWidget.md#hasuserfocus)
-
-#### Defined in
-
-[ue/ue.d.ts:10994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10994)
 
 ___
 
@@ -1763,10 +1383,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[HasUserFocusedDescendants](ue_ue.PanelWidget.md#hasuserfocuseddescendants)
 
-#### Defined in
-
-[ue/ue.d.ts:10995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10995)
-
 ___
 
 ### InvalidateLayoutAndVolatility
@@ -1780,10 +1396,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[InvalidateLayoutAndVolatility](ue_ue.PanelWidget.md#invalidatelayoutandvolatility)
-
-#### Defined in
-
-[ue/ue.d.ts:10996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10996)
 
 ___
 
@@ -1799,10 +1411,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[IsHovered](ue_ue.PanelWidget.md#ishovered)
 
-#### Defined in
-
-[ue/ue.d.ts:10997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10997)
-
 ___
 
 ### IsVisible
@@ -1816,10 +1424,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[IsVisible](ue_ue.PanelWidget.md#isvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:10998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10998)
 
 ___
 
@@ -1842,10 +1446,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[OnPointerEvent__DelegateSignature](ue_ue.PanelWidget.md#onpointerevent__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10999)
-
 ___
 
 ### OnReply\_\_DelegateSignature
@@ -1859,10 +1459,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[OnReply__DelegateSignature](ue_ue.PanelWidget.md#onreply__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:11000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11000)
 
 ___
 
@@ -1884,10 +1480,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[RemoveChild](ue_ue.PanelWidget.md#removechild)
 
-#### Defined in
-
-[ue/ue.d.ts:10687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10687)
-
 ___
 
 ### RemoveChildAt
@@ -1908,10 +1500,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[RemoveChildAt](ue_ue.PanelWidget.md#removechildat)
 
-#### Defined in
-
-[ue/ue.d.ts:10688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10688)
-
 ___
 
 ### RemoveFromParent
@@ -1926,10 +1514,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[RemoveFromParent](ue_ue.PanelWidget.md#removefromparent)
 
-#### Defined in
-
-[ue/ue.d.ts:11001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11001)
-
 ___
 
 ### ResetCursor
@@ -1943,10 +1527,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[ResetCursor](ue_ue.PanelWidget.md#resetcursor)
-
-#### Defined in
-
-[ue/ue.d.ts:11002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11002)
 
 ___
 
@@ -1969,10 +1549,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[SetAllNavigationRules](ue_ue.PanelWidget.md#setallnavigationrules)
 
-#### Defined in
-
-[ue/ue.d.ts:11003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11003)
-
 ___
 
 ### SetClipping
@@ -1992,10 +1568,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[SetClipping](ue_ue.PanelWidget.md#setclipping)
-
-#### Defined in
-
-[ue/ue.d.ts:11004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11004)
 
 ___
 
@@ -2017,10 +1589,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[SetCursor](ue_ue.PanelWidget.md#setcursor)
 
-#### Defined in
-
-[ue/ue.d.ts:11005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11005)
-
 ___
 
 ### SetFocus
@@ -2034,10 +1602,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[SetFocus](ue_ue.PanelWidget.md#setfocus)
-
-#### Defined in
-
-[ue/ue.d.ts:11006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11006)
 
 ___
 
@@ -2054,10 +1618,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:66603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66603)
 
 ___
 
@@ -2079,10 +1639,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[SetIsEnabled](ue_ue.PanelWidget.md#setisenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:11007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11007)
-
 ___
 
 ### SetKeyboardFocus
@@ -2096,10 +1652,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[SetKeyboardFocus](ue_ue.PanelWidget.md#setkeyboardfocus)
-
-#### Defined in
-
-[ue/ue.d.ts:11008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11008)
 
 ___
 
@@ -2123,10 +1675,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[SetNavigationRule](ue_ue.PanelWidget.md#setnavigationrule)
 
-#### Defined in
-
-[ue/ue.d.ts:11009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11009)
-
 ___
 
 ### SetNavigationRuleBase
@@ -2147,10 +1695,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[SetNavigationRuleBase](ue_ue.PanelWidget.md#setnavigationrulebase)
-
-#### Defined in
-
-[ue/ue.d.ts:11010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11010)
 
 ___
 
@@ -2173,10 +1717,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[SetNavigationRuleCustom](ue_ue.PanelWidget.md#setnavigationrulecustom)
 
-#### Defined in
-
-[ue/ue.d.ts:11011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11011)
-
 ___
 
 ### SetNavigationRuleCustomBoundary
@@ -2197,10 +1737,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[SetNavigationRuleCustomBoundary](ue_ue.PanelWidget.md#setnavigationrulecustomboundary)
-
-#### Defined in
-
-[ue/ue.d.ts:11012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11012)
 
 ___
 
@@ -2223,10 +1759,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[SetNavigationRuleExplicit](ue_ue.PanelWidget.md#setnavigationruleexplicit)
 
-#### Defined in
-
-[ue/ue.d.ts:11013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11013)
-
 ___
 
 ### SetRenderOpacity
@@ -2246,10 +1778,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[SetRenderOpacity](ue_ue.PanelWidget.md#setrenderopacity)
-
-#### Defined in
-
-[ue/ue.d.ts:11014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11014)
 
 ___
 
@@ -2271,10 +1799,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[SetRenderScale](ue_ue.PanelWidget.md#setrenderscale)
 
-#### Defined in
-
-[ue/ue.d.ts:11015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11015)
-
 ___
 
 ### SetRenderShear
@@ -2294,10 +1818,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[SetRenderShear](ue_ue.PanelWidget.md#setrendershear)
-
-#### Defined in
-
-[ue/ue.d.ts:11016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11016)
 
 ___
 
@@ -2319,10 +1839,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[SetRenderTransform](ue_ue.PanelWidget.md#setrendertransform)
 
-#### Defined in
-
-[ue/ue.d.ts:11017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11017)
-
 ___
 
 ### SetRenderTransformAngle
@@ -2342,10 +1858,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[SetRenderTransformAngle](ue_ue.PanelWidget.md#setrendertransformangle)
-
-#### Defined in
-
-[ue/ue.d.ts:11018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11018)
 
 ___
 
@@ -2367,10 +1879,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[SetRenderTransformPivot](ue_ue.PanelWidget.md#setrendertransformpivot)
 
-#### Defined in
-
-[ue/ue.d.ts:11019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11019)
-
 ___
 
 ### SetRenderTranslation
@@ -2390,10 +1898,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[SetRenderTranslation](ue_ue.PanelWidget.md#setrendertranslation)
-
-#### Defined in
-
-[ue/ue.d.ts:11020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11020)
 
 ___
 
@@ -2415,10 +1919,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[SetToolTip](ue_ue.PanelWidget.md#settooltip)
 
-#### Defined in
-
-[ue/ue.d.ts:11021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11021)
-
 ___
 
 ### SetToolTipText
@@ -2438,10 +1938,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[SetToolTipText](ue_ue.PanelWidget.md#settooltiptext)
-
-#### Defined in
-
-[ue/ue.d.ts:11022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11022)
 
 ___
 
@@ -2463,10 +1959,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[SetUserFocus](ue_ue.PanelWidget.md#setuserfocus)
 
-#### Defined in
-
-[ue/ue.d.ts:11023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11023)
-
 ___
 
 ### SetVisibility
@@ -2486,10 +1978,6 @@ ___
 #### Inherited from
 
 [PanelWidget](ue_ue.PanelWidget.md).[SetVisibility](ue_ue.PanelWidget.md#setvisibility)
-
-#### Defined in
-
-[ue/ue.d.ts:11024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11024)
 
 ___
 
@@ -2512,10 +2000,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[Find](ue_ue.PanelWidget.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:66605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66605)
-
 ___
 
 ### Load
@@ -2536,10 +2020,6 @@ ___
 
 [PanelWidget](ue_ue.PanelWidget.md).[Load](ue_ue.PanelWidget.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:66606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66606)
-
 ___
 
 ### StaticClass
@@ -2553,7 +2033,3 @@ ___
 #### Overrides
 
 [PanelWidget](ue_ue.PanelWidget.md).[StaticClass](ue_ue.PanelWidget.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:66604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66604)

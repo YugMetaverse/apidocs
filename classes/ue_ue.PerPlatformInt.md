@@ -27,10 +27,6 @@
 
 • **new PerPlatformInt**()
 
-#### Defined in
-
-[ue/ue.d.ts:3296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3296)
-
 • **new PerPlatformInt**(`Default`, `PerPlatform`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Default` | `number` |
 | `PerPlatform` | [`TMap`](../interfaces/ue_puerts.TMap.md)<`string`, `number`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:3297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3297)
-
 ## Properties
 
 ### Default
 
 • **Default**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3298)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **PerPlatform**: [`TMap`](../interfaces/ue_puerts.TMap.md)<`string`, `number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:3299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3299)
-
 ___
 
 ### \_\_tid\_PerPlatformInt\_\_
 
 • `Private` **\_\_tid\_PerPlatformInt\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3305)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3303)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3304)

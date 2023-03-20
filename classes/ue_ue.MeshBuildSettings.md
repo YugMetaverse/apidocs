@@ -44,10 +44,6 @@
 
 • **new MeshBuildSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:7718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7718)
-
 • **new MeshBuildSettings**(`bUseMikkTSpace`, `bRecomputeNormals`, `bRecomputeTangents`, `bComputeWeightedNormals`, `bRemoveDegenerates`, `bBuildAdjacencyBuffer`, `bBuildReversedIndexBuffer`, `bUseHighPrecisionTangentBasis`, `bUseFullPrecisionUVs`, `bGenerateLightmapUVs`, `bGenerateDistanceFieldAsIfTwoSided`, `MinLightmapResolution`, `SrcLightmapIndex`, `DstLightmapIndex`, `BuildScale`, `BuildScale3D`, `DistanceFieldResolutionScale`, `DistanceFieldBias`, `DistanceFieldReplacementMesh`)
 
 #### Parameters
@@ -74,19 +70,11 @@
 | `DistanceFieldBias` | `number` |
 | `DistanceFieldReplacementMesh` | [`StaticMesh`](ue_ue.StaticMesh.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:7719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7719)
-
 ## Properties
 
 ### BuildScale
 
 • **BuildScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7734)
 
 ___
 
@@ -94,19 +82,11 @@ ___
 
 • **BuildScale3D**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7735)
-
 ___
 
 ### DistanceFieldBias
 
 • **DistanceFieldBias**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7737)
 
 ___
 
@@ -114,19 +94,11 @@ ___
 
 • **DistanceFieldReplacementMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7738)
-
 ___
 
 ### DistanceFieldResolutionScale
 
 • **DistanceFieldResolutionScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7736)
 
 ___
 
@@ -134,19 +106,11 @@ ___
 
 • **DstLightmapIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7733)
-
 ___
 
 ### MinLightmapResolution
 
 • **MinLightmapResolution**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7731)
 
 ___
 
@@ -154,19 +118,11 @@ ___
 
 • **SrcLightmapIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7732)
-
 ___
 
 ### \_\_tid\_MeshBuildSettings\_\_
 
 • `Private` **\_\_tid\_MeshBuildSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7744)
 
 ___
 
@@ -174,19 +130,11 @@ ___
 
 • **bBuildAdjacencyBuffer**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:7725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7725)
-
 ___
 
 ### bBuildReversedIndexBuffer
 
 • **bBuildReversedIndexBuffer**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7726)
 
 ___
 
@@ -194,19 +142,11 @@ ___
 
 • **bComputeWeightedNormals**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:7723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7723)
-
 ___
 
 ### bGenerateDistanceFieldAsIfTwoSided
 
 • **bGenerateDistanceFieldAsIfTwoSided**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7730)
 
 ___
 
@@ -214,19 +154,11 @@ ___
 
 • **bGenerateLightmapUVs**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:7729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7729)
-
 ___
 
 ### bRecomputeNormals
 
 • **bRecomputeNormals**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7721)
 
 ___
 
@@ -234,19 +166,11 @@ ___
 
 • **bRecomputeTangents**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:7722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7722)
-
 ___
 
 ### bRemoveDegenerates
 
 • **bRemoveDegenerates**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7724)
 
 ___
 
@@ -254,29 +178,17 @@ ___
 
 • **bUseFullPrecisionUVs**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:7728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7728)
-
 ___
 
 ### bUseHighPrecisionTangentBasis
 
 • **bUseHighPrecisionTangentBasis**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:7727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7727)
-
 ___
 
 ### bUseMikkTSpace
 
 • **bUseMikkTSpace**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7720)
 
 ## Methods
 
@@ -292,10 +204,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7742)
-
 ___
 
 ### StaticStruct
@@ -305,7 +213,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7743)

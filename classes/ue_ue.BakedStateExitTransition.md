@@ -31,10 +31,6 @@
 
 • **new BakedStateExitTransition**()
 
-#### Defined in
-
-[ue/ue.d.ts:4827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4827)
-
 • **new BakedStateExitTransition**(`CanTakeDelegateIndex`, `CustomResultNodeIndex`, `TransitionIndex`, `bDesiredTransitionReturnValue`, `bAutomaticRemainingTimeRule`, `PoseEvaluatorLinks`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `bAutomaticRemainingTimeRule` | `boolean` |
 | `PoseEvaluatorLinks` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:4828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4828)
-
 ## Properties
 
 ### CanTakeDelegateIndex
 
 • **CanTakeDelegateIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4829)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **CustomResultNodeIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4830)
-
 ___
 
 ### PoseEvaluatorLinks
 
 • **PoseEvaluatorLinks**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:4834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4834)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **TransitionIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4831)
-
 ___
 
 ### \_\_tid\_BakedStateExitTransition\_\_
 
 • `Private` **\_\_tid\_BakedStateExitTransition\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4840)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **bAutomaticRemainingTimeRule**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:4833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4833)
-
 ___
 
 ### bDesiredTransitionReturnValue
 
 • **bDesiredTransitionReturnValue**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4832)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4838)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4839)

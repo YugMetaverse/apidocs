@@ -288,10 +288,6 @@
 
 [SceneCapture](ue_ue.SceneCapture.md).[constructor](ue_ue.SceneCapture.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:57930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57930)
-
 ## Properties
 
 ### ActorLabel
@@ -301,10 +297,6 @@
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[ActorLabel](ue_ue.SceneCapture.md#actorlabel)
-
-#### Defined in
-
-[ue/ue.d.ts:13176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13176)
 
 ___
 
@@ -316,10 +308,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[AttachmentReplication](ue_ue.SceneCapture.md#attachmentreplication)
 
-#### Defined in
-
-[ue/ue.d.ts:13151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13151)
-
 ___
 
 ### AutoReceiveInput
@@ -329,10 +317,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[AutoReceiveInput](ue_ue.SceneCapture.md#autoreceiveinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13157)
 
 ___
 
@@ -344,10 +328,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[BlueprintCreatedComponents](ue_ue.SceneCapture.md#blueprintcreatedcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13206)
-
 ___
 
 ### Children
@@ -357,10 +337,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[Children](ue_ue.SceneCapture.md#children)
-
-#### Defined in
-
-[ue/ue.d.ts:13166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13166)
 
 ___
 
@@ -372,10 +348,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[ControllingMatineeActors](ue_ue.SceneCapture.md#controllingmatineeactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13169)
-
 ___
 
 ### CustomTimeDilation
@@ -385,10 +357,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[CustomTimeDilation](ue_ue.SceneCapture.md#customtimedilation)
-
-#### Defined in
-
-[ue/ue.d.ts:13150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13150)
 
 ___
 
@@ -400,10 +368,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[DefaultUpdateOverlapsMethodDuringLevelStreaming](ue_ue.SceneCapture.md#defaultupdateoverlapsmethodduringlevelstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:13146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13146)
-
 ___
 
 ### FolderPath
@@ -413,10 +377,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[FolderPath](ue_ue.SceneCapture.md#folderpath)
-
-#### Defined in
-
-[ue/ue.d.ts:13177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13177)
 
 ___
 
@@ -428,10 +388,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GroupActor](ue_ue.SceneCapture.md#groupactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13173)
-
 ___
 
 ### HiddenEditorViews
@@ -441,10 +397,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[HiddenEditorViews](ue_ue.SceneCapture.md#hiddeneditorviews)
-
-#### Defined in
-
-[ue/ue.d.ts:13175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13175)
 
 ___
 
@@ -456,10 +408,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[InitialLifeSpan](ue_ue.SceneCapture.md#initiallifespan)
 
-#### Defined in
-
-[ue/ue.d.ts:13149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13149)
-
 ___
 
 ### InputComponent
@@ -469,10 +417,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[InputComponent](ue_ue.SceneCapture.md#inputcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13159)
 
 ___
 
@@ -484,10 +428,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[InputPriority](ue_ue.SceneCapture.md#inputpriority)
 
-#### Defined in
-
-[ue/ue.d.ts:13158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13158)
-
 ___
 
 ### InstanceComponents
@@ -497,10 +437,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[InstanceComponents](ue_ue.SceneCapture.md#instancecomponents)
-
-#### Defined in
-
-[ue/ue.d.ts:13205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13205)
 
 ___
 
@@ -512,10 +448,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[Instigator](ue_ue.SceneCapture.md#instigator)
 
-#### Defined in
-
-[ue/ue.d.ts:13165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13165)
-
 ___
 
 ### Layers
@@ -525,10 +457,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[Layers](ue_ue.SceneCapture.md#layers)
-
-#### Defined in
-
-[ue/ue.d.ts:13170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13170)
 
 ___
 
@@ -540,10 +468,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[MeshComp](ue_ue.SceneCapture.md#meshcomp)
 
-#### Defined in
-
-[ue/ue.d.ts:53826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53826)
-
 ___
 
 ### MinNetUpdateFrequency
@@ -553,10 +477,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[MinNetUpdateFrequency](ue_ue.SceneCapture.md#minnetupdatefrequency)
-
-#### Defined in
-
-[ue/ue.d.ts:13163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13163)
 
 ___
 
@@ -568,10 +488,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[NetCullDistanceSquared](ue_ue.SceneCapture.md#netculldistancesquared)
 
-#### Defined in
-
-[ue/ue.d.ts:13160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13160)
-
 ___
 
 ### NetDormancy
@@ -581,10 +497,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[NetDormancy](ue_ue.SceneCapture.md#netdormancy)
-
-#### Defined in
-
-[ue/ue.d.ts:13155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13155)
 
 ___
 
@@ -596,10 +508,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[NetDriverName](ue_ue.SceneCapture.md#netdrivername)
 
-#### Defined in
-
-[ue/ue.d.ts:13153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13153)
-
 ___
 
 ### NetPriority
@@ -609,10 +517,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[NetPriority](ue_ue.SceneCapture.md#netpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:13164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13164)
 
 ___
 
@@ -624,10 +528,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[NetTag](ue_ue.SceneCapture.md#nettag)
 
-#### Defined in
-
-[ue/ue.d.ts:13161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13161)
-
 ___
 
 ### NetUpdateFrequency
@@ -637,10 +537,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[NetUpdateFrequency](ue_ue.SceneCapture.md#netupdatefrequency)
-
-#### Defined in
-
-[ue/ue.d.ts:13162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13162)
 
 ___
 
@@ -652,10 +548,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[OnActorBeginOverlap](ue_ue.SceneCapture.md#onactorbeginoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13192)
-
 ___
 
 ### OnActorEndOverlap
@@ -665,10 +557,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[OnActorEndOverlap](ue_ue.SceneCapture.md#onactorendoverlap)
-
-#### Defined in
-
-[ue/ue.d.ts:13193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13193)
 
 ___
 
@@ -680,10 +568,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[OnActorHit](ue_ue.SceneCapture.md#onactorhit)
 
-#### Defined in
-
-[ue/ue.d.ts:13202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13202)
-
 ___
 
 ### OnBeginCursorOver
@@ -693,10 +577,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[OnBeginCursorOver](ue_ue.SceneCapture.md#onbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13194)
 
 ___
 
@@ -708,10 +588,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[OnClicked](ue_ue.SceneCapture.md#onclicked)
 
-#### Defined in
-
-[ue/ue.d.ts:13196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13196)
-
 ___
 
 ### OnDestroyed
@@ -721,10 +597,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[OnDestroyed](ue_ue.SceneCapture.md#ondestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13203)
 
 ___
 
@@ -736,10 +608,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[OnEndCursorOver](ue_ue.SceneCapture.md#onendcursorover)
 
-#### Defined in
-
-[ue/ue.d.ts:13195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13195)
-
 ___
 
 ### OnEndPlay
@@ -749,10 +617,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[OnEndPlay](ue_ue.SceneCapture.md#onendplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13204)
 
 ___
 
@@ -764,10 +628,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[OnInputTouchBegin](ue_ue.SceneCapture.md#oninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:13198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13198)
-
 ___
 
 ### OnInputTouchEnd
@@ -777,10 +637,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[OnInputTouchEnd](ue_ue.SceneCapture.md#oninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:13199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13199)
 
 ___
 
@@ -792,10 +648,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[OnInputTouchEnter](ue_ue.SceneCapture.md#oninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:13200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13200)
-
 ___
 
 ### OnInputTouchLeave
@@ -805,10 +657,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[OnInputTouchLeave](ue_ue.SceneCapture.md#oninputtouchleave)
-
-#### Defined in
-
-[ue/ue.d.ts:13201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13201)
 
 ___
 
@@ -820,10 +668,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[OnReleased](ue_ue.SceneCapture.md#onreleased)
 
-#### Defined in
-
-[ue/ue.d.ts:13197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13197)
-
 ___
 
 ### OnTakeAnyDamage
@@ -833,10 +677,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[OnTakeAnyDamage](ue_ue.SceneCapture.md#ontakeanydamage)
-
-#### Defined in
-
-[ue/ue.d.ts:13189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13189)
 
 ___
 
@@ -848,10 +688,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[OnTakePointDamage](ue_ue.SceneCapture.md#ontakepointdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13190)
-
 ___
 
 ### OnTakeRadialDamage
@@ -861,10 +697,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[OnTakeRadialDamage](ue_ue.SceneCapture.md#ontakeradialdamage)
-
-#### Defined in
-
-[ue/ue.d.ts:13191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13191)
 
 ___
 
@@ -876,10 +708,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[Owner](ue_ue.SceneCapture.md#owner)
 
-#### Defined in
-
-[ue/ue.d.ts:13152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13152)
-
 ___
 
 ### ParentComponent
@@ -889,10 +717,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[ParentComponent](ue_ue.SceneCapture.md#parentcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13172)
 
 ___
 
@@ -904,10 +728,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[ParentComponentActor](ue_ue.SceneCapture.md#parentcomponentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13171)
-
 ___
 
 ### PivotOffset
@@ -918,19 +738,11 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[PivotOffset](ue_ue.SceneCapture.md#pivotoffset)
 
-#### Defined in
-
-[ue/ue.d.ts:13168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13168)
-
 ___
 
 ### PlanarReflectionComponent
 
 • **PlanarReflectionComponent**: [`PlanarReflectionComponent`](ue_ue.PlanarReflectionComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57931)
 
 ___
 
@@ -942,10 +754,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[PrimaryActorTick](ue_ue.SceneCapture.md#primaryactortick)
 
-#### Defined in
-
-[ue/ue.d.ts:13115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13115)
-
 ___
 
 ### RemoteRole
@@ -955,10 +763,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[RemoteRole](ue_ue.SceneCapture.md#remoterole)
-
-#### Defined in
-
-[ue/ue.d.ts:13147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13147)
 
 ___
 
@@ -970,10 +774,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[ReplicatedMovement](ue_ue.SceneCapture.md#replicatedmovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13148)
-
 ___
 
 ### Role
@@ -983,10 +783,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[Role](ue_ue.SceneCapture.md#role)
-
-#### Defined in
-
-[ue/ue.d.ts:13154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13154)
 
 ___
 
@@ -998,10 +794,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[RootComponent](ue_ue.SceneCapture.md#rootcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13167)
-
 ___
 
 ### SceneComponent
@@ -1011,10 +803,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[SceneComponent](ue_ue.SceneCapture.md#scenecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:53827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53827)
 
 ___
 
@@ -1026,19 +814,11 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[SpawnCollisionHandlingMethod](ue_ue.SceneCapture.md#spawncollisionhandlingmethod)
 
-#### Defined in
-
-[ue/ue.d.ts:13156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13156)
-
 ___
 
 ### SpriteComponent
 
 • **SpriteComponent**: [`BillboardComponent`](ue_ue.BillboardComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57932)
 
 ___
 
@@ -1050,10 +830,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[SpriteScale](ue_ue.SceneCapture.md#spritescale)
 
-#### Defined in
-
-[ue/ue.d.ts:13174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13174)
-
 ___
 
 ### Tags
@@ -1063,10 +839,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[Tags](ue_ue.SceneCapture.md#tags)
-
-#### Defined in
-
-[ue/ue.d.ts:13188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13188)
 
 ___
 
@@ -1078,10 +850,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[UpdateOverlapsMethodDuringLevelStreaming](ue_ue.SceneCapture.md#updateoverlapsmethodduringlevelstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:13145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13145)
-
 ___
 
 ### \_\_tid\_Actor\_\_
@@ -1091,10 +859,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[__tid_Actor__](ue_ue.SceneCapture.md#__tid_actor__)
-
-#### Defined in
-
-[ue/ue.d.ts:13348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13348)
 
 ___
 
@@ -1106,19 +870,11 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[__tid_Object__](ue_ue.SceneCapture.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PlanarReflection\_\_
 
 • **\_\_tid\_PlanarReflection\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57939)
 
 ___
 
@@ -1130,10 +886,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[__tid_SceneCapture__](ue_ue.SceneCapture.md#__tid_scenecapture__)
 
-#### Defined in
-
-[ue/ue.d.ts:53832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53832)
-
 ___
 
 ### bActorEnableCollision
@@ -1143,10 +895,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[bActorEnableCollision](ue_ue.SceneCapture.md#bactorenablecollision)
-
-#### Defined in
-
-[ue/ue.d.ts:13143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13143)
 
 ___
 
@@ -1158,10 +906,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[bActorIsBeingDestroyed](ue_ue.SceneCapture.md#bactorisbeingdestroyed)
 
-#### Defined in
-
-[ue/ue.d.ts:13144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13144)
-
 ___
 
 ### bActorLabelEditable
@@ -1171,10 +915,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[bActorLabelEditable](ue_ue.SceneCapture.md#bactorlabeleditable)
-
-#### Defined in
-
-[ue/ue.d.ts:13183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13183)
 
 ___
 
@@ -1186,10 +926,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[bActorSeamlessTraveled](ue_ue.SceneCapture.md#bactorseamlesstraveled)
 
-#### Defined in
-
-[ue/ue.d.ts:13139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13139)
-
 ___
 
 ### bAllowReceiveTickEventOnDedicatedServer
@@ -1199,10 +935,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[bAllowReceiveTickEventOnDedicatedServer](ue_ue.SceneCapture.md#ballowreceivetickeventondedicatedserver)
-
-#### Defined in
-
-[ue/ue.d.ts:13142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13142)
 
 ___
 
@@ -1214,10 +946,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[bAllowTickBeforeBeginPlay](ue_ue.SceneCapture.md#ballowtickbeforebeginplay)
 
-#### Defined in
-
-[ue/ue.d.ts:13129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13129)
-
 ___
 
 ### bAlwaysRelevant
@@ -1227,10 +955,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[bAlwaysRelevant](ue_ue.SceneCapture.md#balwaysrelevant)
-
-#### Defined in
-
-[ue/ue.d.ts:13120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13120)
 
 ___
 
@@ -1242,10 +966,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[bAutoDestroyWhenFinished](ue_ue.SceneCapture.md#bautodestroywhenfinished)
 
-#### Defined in
-
-[ue/ue.d.ts:13130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13130)
-
 ___
 
 ### bBlockInput
@@ -1255,10 +975,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[bBlockInput](ue_ue.SceneCapture.md#bblockinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13131)
 
 ___
 
@@ -1270,10 +986,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[bCanBeDamaged](ue_ue.SceneCapture.md#bcanbedamaged)
 
-#### Defined in
-
-[ue/ue.d.ts:13132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13132)
-
 ___
 
 ### bCanBeInCluster
@@ -1283,10 +995,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[bCanBeInCluster](ue_ue.SceneCapture.md#bcanbeincluster)
-
-#### Defined in
-
-[ue/ue.d.ts:13141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13141)
 
 ___
 
@@ -1298,10 +1006,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[bCollideWhenPlacing](ue_ue.SceneCapture.md#bcollidewhenplacing)
 
-#### Defined in
-
-[ue/ue.d.ts:13133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13133)
-
 ___
 
 ### bEditable
@@ -1311,10 +1015,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[bEditable](ue_ue.SceneCapture.md#beditable)
-
-#### Defined in
-
-[ue/ue.d.ts:13184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13184)
 
 ___
 
@@ -1326,10 +1026,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[bEnableAutoLODGeneration](ue_ue.SceneCapture.md#benableautolodgeneration)
 
-#### Defined in
-
-[ue/ue.d.ts:13137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13137)
-
 ___
 
 ### bExchangedRoles
@@ -1339,10 +1035,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[bExchangedRoles](ue_ue.SceneCapture.md#bexchangedroles)
-
-#### Defined in
-
-[ue/ue.d.ts:13123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13123)
 
 ___
 
@@ -1354,10 +1046,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[bFindCameraComponentWhenViewTarget](ue_ue.SceneCapture.md#bfindcameracomponentwhenviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13134)
-
 ___
 
 ### bGenerateOverlapEventsDuringLevelStreaming
@@ -1367,10 +1055,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[bGenerateOverlapEventsDuringLevelStreaming](ue_ue.SceneCapture.md#bgenerateoverlapeventsduringlevelstreaming)
-
-#### Defined in
-
-[ue/ue.d.ts:13135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13135)
 
 ___
 
@@ -1382,10 +1066,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[bHidden](ue_ue.SceneCapture.md#bhidden)
 
-#### Defined in
-
-[ue/ue.d.ts:13116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13116)
-
 ___
 
 ### bHiddenEd
@@ -1395,10 +1075,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[bHiddenEd](ue_ue.SceneCapture.md#bhiddened)
-
-#### Defined in
-
-[ue/ue.d.ts:13178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13178)
 
 ___
 
@@ -1410,10 +1086,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[bHiddenEdLayer](ue_ue.SceneCapture.md#bhiddenedlayer)
 
-#### Defined in
-
-[ue/ue.d.ts:13180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13180)
-
 ___
 
 ### bHiddenEdLevel
@@ -1423,10 +1095,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[bHiddenEdLevel](ue_ue.SceneCapture.md#bhiddenedlevel)
-
-#### Defined in
-
-[ue/ue.d.ts:13181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13181)
 
 ___
 
@@ -1438,10 +1106,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[bHiddenEdTemporary](ue_ue.SceneCapture.md#bhiddenedtemporary)
 
-#### Defined in
-
-[ue/ue.d.ts:13187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13187)
-
 ___
 
 ### bIgnoresOriginShifting
@@ -1451,10 +1115,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[bIgnoresOriginShifting](ue_ue.SceneCapture.md#bignoresoriginshifting)
-
-#### Defined in
-
-[ue/ue.d.ts:13136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13136)
 
 ___
 
@@ -1466,10 +1126,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[bIsEditorOnlyActor](ue_ue.SceneCapture.md#biseditoronlyactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13138)
-
 ___
 
 ### bIsEditorPreviewActor
@@ -1479,10 +1135,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[bIsEditorPreviewActor](ue_ue.SceneCapture.md#biseditorpreviewactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13179)
 
 ___
 
@@ -1494,10 +1146,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[bListedInSceneOutliner](ue_ue.SceneCapture.md#blistedinsceneoutliner)
 
-#### Defined in
-
-[ue/ue.d.ts:13185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13185)
-
 ___
 
 ### bLockLocation
@@ -1507,10 +1155,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[bLockLocation](ue_ue.SceneCapture.md#blocklocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13182)
 
 ___
 
@@ -1522,10 +1166,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[bNetLoadOnClient](ue_ue.SceneCapture.md#bnetloadonclient)
 
-#### Defined in
-
-[ue/ue.d.ts:13124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13124)
-
 ___
 
 ### bNetStartup
@@ -1535,10 +1175,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[bNetStartup](ue_ue.SceneCapture.md#bnetstartup)
-
-#### Defined in
-
-[ue/ue.d.ts:13118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13118)
 
 ___
 
@@ -1550,10 +1186,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[bNetTemporary](ue_ue.SceneCapture.md#bnettemporary)
 
-#### Defined in
-
-[ue/ue.d.ts:13117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13117)
-
 ___
 
 ### bNetUseOwnerRelevancy
@@ -1563,10 +1195,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[bNetUseOwnerRelevancy](ue_ue.SceneCapture.md#bnetuseownerrelevancy)
-
-#### Defined in
-
-[ue/ue.d.ts:13125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13125)
 
 ___
 
@@ -1578,10 +1206,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[bOnlyRelevantToOwner](ue_ue.SceneCapture.md#bonlyrelevanttoowner)
 
-#### Defined in
-
-[ue/ue.d.ts:13119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13119)
-
 ___
 
 ### bOptimizeBPComponentData
@@ -1591,10 +1215,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[bOptimizeBPComponentData](ue_ue.SceneCapture.md#boptimizebpcomponentdata)
-
-#### Defined in
-
-[ue/ue.d.ts:13186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13186)
 
 ___
 
@@ -1606,10 +1226,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[bRelevantForLevelBounds](ue_ue.SceneCapture.md#brelevantforlevelbounds)
 
-#### Defined in
-
-[ue/ue.d.ts:13127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13127)
-
 ___
 
 ### bRelevantForNetworkReplays
@@ -1619,10 +1235,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[bRelevantForNetworkReplays](ue_ue.SceneCapture.md#brelevantfornetworkreplays)
-
-#### Defined in
-
-[ue/ue.d.ts:13126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13126)
 
 ___
 
@@ -1634,10 +1246,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[bReplayRewindable](ue_ue.SceneCapture.md#breplayrewindable)
 
-#### Defined in
-
-[ue/ue.d.ts:13128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13128)
-
 ___
 
 ### bReplicateMovement
@@ -1647,10 +1255,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[bReplicateMovement](ue_ue.SceneCapture.md#breplicatemovement)
-
-#### Defined in
-
-[ue/ue.d.ts:13121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13121)
 
 ___
 
@@ -1662,19 +1266,11 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[bReplicates](ue_ue.SceneCapture.md#breplicates)
 
-#### Defined in
-
-[ue/ue.d.ts:13140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13140)
-
 ___
 
 ### bShowPreviewPlane
 
 • **bShowPreviewPlane**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57933)
 
 ___
 
@@ -1685,10 +1281,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[bTearOff](ue_ue.SceneCapture.md#btearoff)
-
-#### Defined in
-
-[ue/ue.d.ts:13122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13122)
 
 ## Methods
 
@@ -1709,10 +1301,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[ActorHasTag](ue_ue.SceneCapture.md#actorhastag)
-
-#### Defined in
-
-[ue/ue.d.ts:13207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13207)
 
 ___
 
@@ -1737,10 +1325,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[AddComponent](ue_ue.SceneCapture.md#addcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13208)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -1761,10 +1345,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[AddTickPrerequisiteActor](ue_ue.SceneCapture.md#addtickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13209)
-
 ___
 
 ### AddTickPrerequisiteComponent
@@ -1784,10 +1364,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[AddTickPrerequisiteComponent](ue_ue.SceneCapture.md#addtickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13210)
 
 ___
 
@@ -1813,10 +1389,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[CreateDefaultSubobject](ue_ue.SceneCapture.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### DetachRootComponentFromParent
@@ -1836,10 +1408,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[DetachRootComponentFromParent](ue_ue.SceneCapture.md#detachrootcomponentfromparent)
-
-#### Defined in
-
-[ue/ue.d.ts:13211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13211)
 
 ___
 
@@ -1861,10 +1429,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[DisableInput](ue_ue.SceneCapture.md#disableinput)
 
-#### Defined in
-
-[ue/ue.d.ts:13212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13212)
-
 ___
 
 ### EnableInput
@@ -1884,10 +1448,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[EnableInput](ue_ue.SceneCapture.md#enableinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13213)
 
 ___
 
@@ -1909,10 +1469,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[ExecuteUbergraph](ue_ue.SceneCapture.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### FlushNetDormancy
@@ -1927,10 +1483,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[FlushNetDormancy](ue_ue.SceneCapture.md#flushnetdormancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13214)
-
 ___
 
 ### ForceNetUpdate
@@ -1944,10 +1496,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[ForceNetUpdate](ue_ue.SceneCapture.md#forcenetupdate)
-
-#### Defined in
-
-[ue/ue.d.ts:13215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13215)
 
 ___
 
@@ -1971,10 +1519,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetActorBounds](ue_ue.SceneCapture.md#getactorbounds)
 
-#### Defined in
-
-[ue/ue.d.ts:13216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13216)
-
 ___
 
 ### GetActorEnableCollision
@@ -1988,10 +1532,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetActorEnableCollision](ue_ue.SceneCapture.md#getactorenablecollision)
-
-#### Defined in
-
-[ue/ue.d.ts:13217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13217)
 
 ___
 
@@ -2014,10 +1554,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetActorEyesViewPoint](ue_ue.SceneCapture.md#getactoreyesviewpoint)
 
-#### Defined in
-
-[ue/ue.d.ts:13218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13218)
-
 ___
 
 ### GetActorForwardVector
@@ -2031,10 +1567,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetActorForwardVector](ue_ue.SceneCapture.md#getactorforwardvector)
-
-#### Defined in
-
-[ue/ue.d.ts:13219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13219)
 
 ___
 
@@ -2050,10 +1582,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetActorLabel](ue_ue.SceneCapture.md#getactorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13220)
-
 ___
 
 ### GetActorRelativeScale3D
@@ -2067,10 +1595,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetActorRelativeScale3D](ue_ue.SceneCapture.md#getactorrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13221)
 
 ___
 
@@ -2086,10 +1610,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetActorRightVector](ue_ue.SceneCapture.md#getactorrightvector)
 
-#### Defined in
-
-[ue/ue.d.ts:13222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13222)
-
 ___
 
 ### GetActorScale3D
@@ -2103,10 +1623,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetActorScale3D](ue_ue.SceneCapture.md#getactorscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13223)
 
 ___
 
@@ -2122,10 +1638,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetActorTickInterval](ue_ue.SceneCapture.md#getactortickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:13224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13224)
-
 ___
 
 ### GetActorTimeDilation
@@ -2140,10 +1652,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetActorTimeDilation](ue_ue.SceneCapture.md#getactortimedilation)
 
-#### Defined in
-
-[ue/ue.d.ts:13225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13225)
-
 ___
 
 ### GetActorUpVector
@@ -2157,10 +1665,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetActorUpVector](ue_ue.SceneCapture.md#getactorupvector)
-
-#### Defined in
-
-[ue/ue.d.ts:13226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13226)
 
 ___
 
@@ -2183,10 +1687,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetAllChildActors](ue_ue.SceneCapture.md#getallchildactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13227)
-
 ___
 
 ### GetAttachParentActor
@@ -2201,10 +1701,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetAttachParentActor](ue_ue.SceneCapture.md#getattachparentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13229)
-
 ___
 
 ### GetAttachParentSocketName
@@ -2218,10 +1714,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetAttachParentSocketName](ue_ue.SceneCapture.md#getattachparentsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:13230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13230)
 
 ___
 
@@ -2244,10 +1736,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetAttachedActors](ue_ue.SceneCapture.md#getattachedactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13228)
-
 ___
 
 ### GetClass
@@ -2261,10 +1749,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetClass](ue_ue.SceneCapture.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -2286,10 +1770,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetComponentByClass](ue_ue.SceneCapture.md#getcomponentbyclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13231)
-
 ___
 
 ### GetComponentsByInterface
@@ -2309,10 +1789,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetComponentsByInterface](ue_ue.SceneCapture.md#getcomponentsbyinterface)
-
-#### Defined in
-
-[ue/ue.d.ts:13232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13232)
 
 ___
 
@@ -2335,10 +1811,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetComponentsByTag](ue_ue.SceneCapture.md#getcomponentsbytag)
 
-#### Defined in
-
-[ue/ue.d.ts:13233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13233)
-
 ___
 
 ### GetDistanceTo
@@ -2358,10 +1830,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetDistanceTo](ue_ue.SceneCapture.md#getdistanceto)
-
-#### Defined in
-
-[ue/ue.d.ts:13234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13234)
 
 ___
 
@@ -2383,10 +1851,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetDotProductTo](ue_ue.SceneCapture.md#getdotproductto)
 
-#### Defined in
-
-[ue/ue.d.ts:13235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13235)
-
 ___
 
 ### GetFolderPath
@@ -2401,10 +1865,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetFolderPath](ue_ue.SceneCapture.md#getfolderpath)
 
-#### Defined in
-
-[ue/ue.d.ts:13236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13236)
-
 ___
 
 ### GetGameTimeSinceCreation
@@ -2418,10 +1878,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetGameTimeSinceCreation](ue_ue.SceneCapture.md#getgametimesincecreation)
-
-#### Defined in
-
-[ue/ue.d.ts:13237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13237)
 
 ___
 
@@ -2443,10 +1899,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetHorizontalDistanceTo](ue_ue.SceneCapture.md#gethorizontaldistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13238)
-
 ___
 
 ### GetHorizontalDotProductTo
@@ -2466,10 +1918,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetHorizontalDotProductTo](ue_ue.SceneCapture.md#gethorizontaldotproductto)
-
-#### Defined in
-
-[ue/ue.d.ts:13239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13239)
 
 ___
 
@@ -2491,10 +1939,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetInputAxisKeyValue](ue_ue.SceneCapture.md#getinputaxiskeyvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:13240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13240)
-
 ___
 
 ### GetInputAxisValue
@@ -2514,10 +1958,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetInputAxisValue](ue_ue.SceneCapture.md#getinputaxisvalue)
-
-#### Defined in
-
-[ue/ue.d.ts:13241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13241)
 
 ___
 
@@ -2539,10 +1979,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetInputVectorAxisValue](ue_ue.SceneCapture.md#getinputvectoraxisvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:13242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13242)
-
 ___
 
 ### GetInstigator
@@ -2556,10 +1992,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetInstigator](ue_ue.SceneCapture.md#getinstigator)
-
-#### Defined in
-
-[ue/ue.d.ts:13243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13243)
 
 ___
 
@@ -2575,10 +2007,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetInstigatorController](ue_ue.SceneCapture.md#getinstigatorcontroller)
 
-#### Defined in
-
-[ue/ue.d.ts:13244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13244)
-
 ___
 
 ### GetLifeSpan
@@ -2592,10 +2020,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetLifeSpan](ue_ue.SceneCapture.md#getlifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13245)
 
 ___
 
@@ -2611,10 +2035,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetLocalRole](ue_ue.SceneCapture.md#getlocalrole)
 
-#### Defined in
-
-[ue/ue.d.ts:13246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13246)
-
 ___
 
 ### GetName
@@ -2629,10 +2049,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetName](ue_ue.SceneCapture.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -2646,10 +2062,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetOuter](ue_ue.SceneCapture.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -2672,10 +2084,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetOverlappingActors](ue_ue.SceneCapture.md#getoverlappingactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13247)
-
 ___
 
 ### GetOverlappingComponents
@@ -2696,10 +2104,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetOverlappingComponents](ue_ue.SceneCapture.md#getoverlappingcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13248)
-
 ___
 
 ### GetOwner
@@ -2713,10 +2117,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetOwner](ue_ue.SceneCapture.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13249)
 
 ___
 
@@ -2732,10 +2132,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetParentActor](ue_ue.SceneCapture.md#getparentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13250)
-
 ___
 
 ### GetParentComponent
@@ -2750,10 +2146,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetParentComponent](ue_ue.SceneCapture.md#getparentcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13251)
-
 ___
 
 ### GetRemoteRole
@@ -2767,10 +2159,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetRemoteRole](ue_ue.SceneCapture.md#getremoterole)
-
-#### Defined in
-
-[ue/ue.d.ts:13252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13252)
 
 ___
 
@@ -2792,10 +2180,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetSquaredDistanceTo](ue_ue.SceneCapture.md#getsquareddistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13253)
-
 ___
 
 ### GetTickableWhenPaused
@@ -2809,10 +2193,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetTickableWhenPaused](ue_ue.SceneCapture.md#gettickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:13254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13254)
 
 ___
 
@@ -2828,10 +2208,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetTransform](ue_ue.SceneCapture.md#gettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13255)
-
 ___
 
 ### GetVelocity
@@ -2845,10 +2221,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetVelocity](ue_ue.SceneCapture.md#getvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:13256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13256)
 
 ___
 
@@ -2870,10 +2242,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetVerticalDistanceTo](ue_ue.SceneCapture.md#getverticaldistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13257)
-
 ___
 
 ### GetWorld
@@ -2887,10 +2255,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[GetWorld](ue_ue.SceneCapture.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -2906,10 +2270,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[HasAuthority](ue_ue.SceneCapture.md#hasauthority)
 
-#### Defined in
-
-[ue/ue.d.ts:13258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13258)
-
 ___
 
 ### IsActorBeingDestroyed
@@ -2923,10 +2283,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[IsActorBeingDestroyed](ue_ue.SceneCapture.md#isactorbeingdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13259)
 
 ___
 
@@ -2942,10 +2298,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[IsActorTickEnabled](ue_ue.SceneCapture.md#isactortickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:13260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13260)
-
 ___
 
 ### IsChildActor
@@ -2959,10 +2311,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[IsChildActor](ue_ue.SceneCapture.md#ischildactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13261)
 
 ___
 
@@ -2978,10 +2326,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[IsEditable](ue_ue.SceneCapture.md#iseditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13262)
-
 ___
 
 ### IsHiddenEd
@@ -2996,10 +2340,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[IsHiddenEd](ue_ue.SceneCapture.md#ishiddened)
 
-#### Defined in
-
-[ue/ue.d.ts:13263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13263)
-
 ___
 
 ### IsHiddenEdAtStartup
@@ -3013,10 +2353,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[IsHiddenEdAtStartup](ue_ue.SceneCapture.md#ishiddenedatstartup)
-
-#### Defined in
-
-[ue/ue.d.ts:13264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13264)
 
 ___
 
@@ -3038,10 +2374,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[IsOverlappingActor](ue_ue.SceneCapture.md#isoverlappingactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13265)
-
 ___
 
 ### IsSelectable
@@ -3055,10 +2387,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[IsSelectable](ue_ue.SceneCapture.md#isselectable)
-
-#### Defined in
-
-[ue/ue.d.ts:13266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13266)
 
 ___
 
@@ -3079,10 +2407,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[IsTemporarilyHiddenInEditor](ue_ue.SceneCapture.md#istemporarilyhiddenineditor)
-
-#### Defined in
-
-[ue/ue.d.ts:13267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13267)
 
 ___
 
@@ -3107,10 +2431,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_AddActorLocalOffset](ue_ue.SceneCapture.md#k2_addactorlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:13268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13268)
-
 ___
 
 ### K2\_AddActorLocalRotation
@@ -3133,10 +2453,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_AddActorLocalRotation](ue_ue.SceneCapture.md#k2_addactorlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13269)
 
 ___
 
@@ -3161,10 +2477,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_AddActorLocalTransform](ue_ue.SceneCapture.md#k2_addactorlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13270)
-
 ___
 
 ### K2\_AddActorWorldOffset
@@ -3187,10 +2499,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_AddActorWorldOffset](ue_ue.SceneCapture.md#k2_addactorworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:13271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13271)
 
 ___
 
@@ -3215,10 +2523,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_AddActorWorldRotation](ue_ue.SceneCapture.md#k2_addactorworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13272)
-
 ___
 
 ### K2\_AddActorWorldTransform
@@ -3241,10 +2545,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_AddActorWorldTransform](ue_ue.SceneCapture.md#k2_addactorworldtransform)
-
-#### Defined in
-
-[ue/ue.d.ts:13273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13273)
 
 ___
 
@@ -3269,10 +2569,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_AttachRootComponentTo](ue_ue.SceneCapture.md#k2_attachrootcomponentto)
 
-#### Defined in
-
-[ue/ue.d.ts:13274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13274)
-
 ___
 
 ### K2\_AttachRootComponentToActor
@@ -3295,10 +2591,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_AttachRootComponentToActor](ue_ue.SceneCapture.md#k2_attachrootcomponenttoactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13275)
 
 ___
 
@@ -3325,10 +2617,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_AttachToActor](ue_ue.SceneCapture.md#k2_attachtoactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13276)
-
 ___
 
 ### K2\_AttachToComponent
@@ -3354,10 +2642,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_AttachToComponent](ue_ue.SceneCapture.md#k2_attachtocomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13277)
-
 ___
 
 ### K2\_DestroyActor
@@ -3371,10 +2655,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_DestroyActor](ue_ue.SceneCapture.md#k2_destroyactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13278)
 
 ___
 
@@ -3395,10 +2675,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_DestroyComponent](ue_ue.SceneCapture.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13279)
 
 ___
 
@@ -3422,10 +2698,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_DetachFromActor](ue_ue.SceneCapture.md#k2_detachfromactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13280)
-
 ___
 
 ### K2\_GetActorLocation
@@ -3440,10 +2712,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_GetActorLocation](ue_ue.SceneCapture.md#k2_getactorlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:13281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13281)
-
 ___
 
 ### K2\_GetActorRotation
@@ -3457,10 +2725,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_GetActorRotation](ue_ue.SceneCapture.md#k2_getactorrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13282)
 
 ___
 
@@ -3482,10 +2746,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_GetComponentsByClass](ue_ue.SceneCapture.md#k2_getcomponentsbyclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13283)
-
 ___
 
 ### K2\_GetRootComponent
@@ -3499,10 +2759,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_GetRootComponent](ue_ue.SceneCapture.md#k2_getrootcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13284)
 
 ___
 
@@ -3524,10 +2780,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_OnBecomeViewTarget](ue_ue.SceneCapture.md#k2_onbecomeviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13285)
-
 ___
 
 ### K2\_OnEndViewTarget
@@ -3548,10 +2800,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_OnEndViewTarget](ue_ue.SceneCapture.md#k2_onendviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13286)
-
 ___
 
 ### K2\_OnReset
@@ -3565,10 +2813,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_OnReset](ue_ue.SceneCapture.md#k2_onreset)
-
-#### Defined in
-
-[ue/ue.d.ts:13287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13287)
 
 ___
 
@@ -3592,10 +2836,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_SetActorLocation](ue_ue.SceneCapture.md#k2_setactorlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13288)
 
 ___
 
@@ -3621,10 +2861,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_SetActorLocationAndRotation](ue_ue.SceneCapture.md#k2_setactorlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13289)
-
 ___
 
 ### K2\_SetActorRelativeLocation
@@ -3647,10 +2883,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_SetActorRelativeLocation](ue_ue.SceneCapture.md#k2_setactorrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13290)
 
 ___
 
@@ -3675,10 +2907,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_SetActorRelativeRotation](ue_ue.SceneCapture.md#k2_setactorrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13291)
-
 ___
 
 ### K2\_SetActorRelativeTransform
@@ -3702,10 +2930,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_SetActorRelativeTransform](ue_ue.SceneCapture.md#k2_setactorrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13292)
-
 ___
 
 ### K2\_SetActorRotation
@@ -3726,10 +2950,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_SetActorRotation](ue_ue.SceneCapture.md#k2_setactorrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13293)
 
 ___
 
@@ -3754,10 +2974,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_SetActorTransform](ue_ue.SceneCapture.md#k2_setactortransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13294)
-
 ___
 
 ### K2\_TeleportTo
@@ -3779,10 +2995,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[K2_TeleportTo](ue_ue.SceneCapture.md#k2_teleportto)
 
-#### Defined in
-
-[ue/ue.d.ts:13295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13295)
-
 ___
 
 ### MakeMIDForMaterial
@@ -3802,10 +3014,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[MakeMIDForMaterial](ue_ue.SceneCapture.md#makemidformaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:13296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13296)
 
 ___
 
@@ -3831,10 +3039,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[MakeNoise](ue_ue.SceneCapture.md#makenoise)
 
-#### Defined in
-
-[ue/ue.d.ts:13297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13297)
-
 ___
 
 ### OnInterpToggle
@@ -3851,10 +3055,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:57934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57934)
-
 ___
 
 ### OnRep\_AttachmentReplication
@@ -3868,10 +3068,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[OnRep_AttachmentReplication](ue_ue.SceneCapture.md#onrep_attachmentreplication)
-
-#### Defined in
-
-[ue/ue.d.ts:13298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13298)
 
 ___
 
@@ -3887,10 +3083,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[OnRep_Instigator](ue_ue.SceneCapture.md#onrep_instigator)
 
-#### Defined in
-
-[ue/ue.d.ts:13299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13299)
-
 ___
 
 ### OnRep\_Owner
@@ -3904,10 +3096,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[OnRep_Owner](ue_ue.SceneCapture.md#onrep_owner)
-
-#### Defined in
-
-[ue/ue.d.ts:13300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13300)
 
 ___
 
@@ -3923,10 +3111,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[OnRep_ReplicateMovement](ue_ue.SceneCapture.md#onrep_replicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13302)
-
 ___
 
 ### OnRep\_ReplicatedMovement
@@ -3940,10 +3124,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[OnRep_ReplicatedMovement](ue_ue.SceneCapture.md#onrep_replicatedmovement)
-
-#### Defined in
-
-[ue/ue.d.ts:13301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13301)
 
 ___
 
@@ -3967,10 +3147,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[PrestreamTextures](ue_ue.SceneCapture.md#prestreamtextures)
 
-#### Defined in
-
-[ue/ue.d.ts:13303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13303)
-
 ___
 
 ### ReceiveActorBeginCursorOver
@@ -3984,10 +3160,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[ReceiveActorBeginCursorOver](ue_ue.SceneCapture.md#receiveactorbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13304)
 
 ___
 
@@ -4009,10 +3181,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[ReceiveActorBeginOverlap](ue_ue.SceneCapture.md#receiveactorbeginoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13305)
-
 ___
 
 ### ReceiveActorEndCursorOver
@@ -4026,10 +3194,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[ReceiveActorEndCursorOver](ue_ue.SceneCapture.md#receiveactorendcursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13306)
 
 ___
 
@@ -4051,10 +3215,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[ReceiveActorEndOverlap](ue_ue.SceneCapture.md#receiveactorendoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13307)
-
 ___
 
 ### ReceiveActorOnClicked
@@ -4074,10 +3234,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[ReceiveActorOnClicked](ue_ue.SceneCapture.md#receiveactoronclicked)
-
-#### Defined in
-
-[ue/ue.d.ts:13308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13308)
 
 ___
 
@@ -4099,10 +3255,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[ReceiveActorOnInputTouchBegin](ue_ue.SceneCapture.md#receiveactoroninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:13309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13309)
-
 ___
 
 ### ReceiveActorOnInputTouchEnd
@@ -4122,10 +3274,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[ReceiveActorOnInputTouchEnd](ue_ue.SceneCapture.md#receiveactoroninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:13310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13310)
 
 ___
 
@@ -4147,10 +3295,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[ReceiveActorOnInputTouchEnter](ue_ue.SceneCapture.md#receiveactoroninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:13311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13311)
-
 ___
 
 ### ReceiveActorOnInputTouchLeave
@@ -4171,10 +3315,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[ReceiveActorOnInputTouchLeave](ue_ue.SceneCapture.md#receiveactoroninputtouchleave)
 
-#### Defined in
-
-[ue/ue.d.ts:13312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13312)
-
 ___
 
 ### ReceiveActorOnReleased
@@ -4194,10 +3334,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[ReceiveActorOnReleased](ue_ue.SceneCapture.md#receiveactoronreleased)
-
-#### Defined in
-
-[ue/ue.d.ts:13313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13313)
 
 ___
 
@@ -4222,10 +3358,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[ReceiveAnyDamage](ue_ue.SceneCapture.md#receiveanydamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13314)
-
 ___
 
 ### ReceiveBeginPlay
@@ -4240,10 +3372,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[ReceiveBeginPlay](ue_ue.SceneCapture.md#receivebeginplay)
 
-#### Defined in
-
-[ue/ue.d.ts:13315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13315)
-
 ___
 
 ### ReceiveDestroyed
@@ -4257,10 +3385,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[ReceiveDestroyed](ue_ue.SceneCapture.md#receivedestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13316)
 
 ___
 
@@ -4281,10 +3405,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[ReceiveEndPlay](ue_ue.SceneCapture.md#receiveendplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13317)
 
 ___
 
@@ -4312,10 +3432,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[ReceiveHit](ue_ue.SceneCapture.md#receivehit)
-
-#### Defined in
-
-[ue/ue.d.ts:13318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13318)
 
 ___
 
@@ -4346,10 +3462,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[ReceivePointDamage](ue_ue.SceneCapture.md#receivepointdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13319)
-
 ___
 
 ### ReceiveRadialDamage
@@ -4375,10 +3487,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[ReceiveRadialDamage](ue_ue.SceneCapture.md#receiveradialdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13320)
-
 ___
 
 ### ReceiveTick
@@ -4398,10 +3506,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[ReceiveTick](ue_ue.SceneCapture.md#receivetick)
-
-#### Defined in
-
-[ue/ue.d.ts:13321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13321)
 
 ___
 
@@ -4423,10 +3527,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[RemoveTickPrerequisiteActor](ue_ue.SceneCapture.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -4446,10 +3546,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[RemoveTickPrerequisiteComponent](ue_ue.SceneCapture.md#removetickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13323)
 
 ___
 
@@ -4471,10 +3567,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[SetActorEnableCollision](ue_ue.SceneCapture.md#setactorenablecollision)
 
-#### Defined in
-
-[ue/ue.d.ts:13324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13324)
-
 ___
 
 ### SetActorHiddenInGame
@@ -4494,10 +3586,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[SetActorHiddenInGame](ue_ue.SceneCapture.md#setactorhiddeningame)
-
-#### Defined in
-
-[ue/ue.d.ts:13325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13325)
 
 ___
 
@@ -4520,10 +3608,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[SetActorLabel](ue_ue.SceneCapture.md#setactorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13326)
-
 ___
 
 ### SetActorRelativeScale3D
@@ -4543,10 +3627,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[SetActorRelativeScale3D](ue_ue.SceneCapture.md#setactorrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13327)
 
 ___
 
@@ -4568,10 +3648,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[SetActorScale3D](ue_ue.SceneCapture.md#setactorscale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:13328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13328)
-
 ___
 
 ### SetActorTickEnabled
@@ -4591,10 +3667,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[SetActorTickEnabled](ue_ue.SceneCapture.md#setactortickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:13329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13329)
 
 ___
 
@@ -4616,10 +3688,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[SetActorTickInterval](ue_ue.SceneCapture.md#setactortickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:13330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13330)
-
 ___
 
 ### SetFolderPath
@@ -4639,10 +3707,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[SetFolderPath](ue_ue.SceneCapture.md#setfolderpath)
-
-#### Defined in
-
-[ue/ue.d.ts:13331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13331)
 
 ___
 
@@ -4664,10 +3728,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[SetIsTemporarilyHiddenInEditor](ue_ue.SceneCapture.md#setistemporarilyhiddenineditor)
 
-#### Defined in
-
-[ue/ue.d.ts:13332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13332)
-
 ___
 
 ### SetLifeSpan
@@ -4687,10 +3747,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[SetLifeSpan](ue_ue.SceneCapture.md#setlifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13333)
 
 ___
 
@@ -4712,10 +3768,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[SetNetDormancy](ue_ue.SceneCapture.md#setnetdormancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13334)
-
 ___
 
 ### SetOwner
@@ -4735,10 +3787,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[SetOwner](ue_ue.SceneCapture.md#setowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13335)
 
 ___
 
@@ -4760,10 +3808,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[SetReplicateMovement](ue_ue.SceneCapture.md#setreplicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13336)
-
 ___
 
 ### SetReplicates
@@ -4783,10 +3827,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[SetReplicates](ue_ue.SceneCapture.md#setreplicates)
-
-#### Defined in
-
-[ue/ue.d.ts:13337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13337)
 
 ___
 
@@ -4808,10 +3848,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[SetTickGroup](ue_ue.SceneCapture.md#settickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:13339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13339)
-
 ___
 
 ### SetTickableWhenPaused
@@ -4831,10 +3867,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[SetTickableWhenPaused](ue_ue.SceneCapture.md#settickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:13338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13338)
 
 ___
 
@@ -4857,10 +3889,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[SnapRootComponentTo](ue_ue.SceneCapture.md#snaprootcomponentto)
 
-#### Defined in
-
-[ue/ue.d.ts:13340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13340)
-
 ___
 
 ### TearOff
@@ -4875,10 +3903,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[TearOff](ue_ue.SceneCapture.md#tearoff)
 
-#### Defined in
-
-[ue/ue.d.ts:13341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13341)
-
 ___
 
 ### UserConstructionScript
@@ -4892,10 +3916,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[UserConstructionScript](ue_ue.SceneCapture.md#userconstructionscript)
-
-#### Defined in
-
-[ue/ue.d.ts:13342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13342)
 
 ___
 
@@ -4916,10 +3936,6 @@ ___
 #### Inherited from
 
 [SceneCapture](ue_ue.SceneCapture.md).[WasRecentlyRendered](ue_ue.SceneCapture.md#wasrecentlyrendered)
-
-#### Defined in
-
-[ue/ue.d.ts:13343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13343)
 
 ___
 
@@ -4942,10 +3958,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[Find](ue_ue.SceneCapture.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:57936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57936)
-
 ___
 
 ### Load
@@ -4966,10 +3978,6 @@ ___
 
 [SceneCapture](ue_ue.SceneCapture.md).[Load](ue_ue.SceneCapture.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:57937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57937)
-
 ___
 
 ### StaticClass
@@ -4983,7 +3991,3 @@ ___
 #### Overrides
 
 [SceneCapture](ue_ue.SceneCapture.md).[StaticClass](ue_ue.SceneCapture.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:57935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57935)

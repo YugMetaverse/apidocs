@@ -19,19 +19,11 @@
 
 • **MTD\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34055)
-
 ___
 
 ### MTD\_PurchaseComplete
 
 • **MTD\_PurchaseComplete** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34055)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **MTD\_PurchaseQueryComplete** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34055)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34055)

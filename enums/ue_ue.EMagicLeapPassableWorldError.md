@@ -25,19 +25,11 @@
 
 • **EMagicLeapPassableWorldError\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34012)
-
 ___
 
 ### InvalidParam
 
 • **InvalidParam** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34012)
 
 ___
 
@@ -45,19 +37,11 @@ ___
 
 • **LowMapQuality** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34012)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34012)
 
 ___
 
@@ -65,19 +49,11 @@ ___
 
 • **PrivilegeDenied** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34012)
-
 ___
 
 ### PrivilegeRequestPending
 
 • **PrivilegeRequestPending** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34012)
 
 ___
 
@@ -85,19 +61,11 @@ ___
 
 • **UnableToLocalize** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34012)
-
 ___
 
 ### Unavailable
 
 • **Unavailable** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34012)
 
 ___
 
@@ -105,16 +73,8 @@ ___
 
 • **UnspecifiedFailure** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34012)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34012)

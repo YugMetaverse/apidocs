@@ -62,10 +62,6 @@
 
 [IPClient](ue_ue.IPClient.md).[constructor](ue_ue.IPClient.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:62172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62172)
-
 ## Properties
 
 ### LastExecutionTime
@@ -75,10 +71,6 @@
 #### Inherited from
 
 [IPClient](ue_ue.IPClient.md).[LastExecutionTime](ue_ue.IPClient.md#lastexecutiontime)
-
-#### Defined in
-
-[ue/ue.d.ts:27540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27540)
 
 ___
 
@@ -90,10 +82,6 @@ ___
 
 [IPClient](ue_ue.IPClient.md).[MinClient](ue_ue.IPClient.md#minclient)
 
-#### Defined in
-
-[ue/ue.d.ts:27570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27570)
-
 ___
 
 ### PeakMemoryUsage
@@ -103,10 +91,6 @@ ___
 #### Inherited from
 
 [IPClient](ue_ue.IPClient.md).[PeakMemoryUsage](ue_ue.IPClient.md#peakmemoryusage)
-
-#### Defined in
-
-[ue/ue.d.ts:27538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27538)
 
 ___
 
@@ -118,10 +102,6 @@ ___
 
 [IPClient](ue_ue.IPClient.md).[TimeToPeakMem](ue_ue.IPClient.md#timetopeakmem)
 
-#### Defined in
-
-[ue/ue.d.ts:27539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27539)
-
 ___
 
 ### UnitTasks
@@ -131,10 +111,6 @@ ___
 #### Inherited from
 
 [IPClient](ue_ue.IPClient.md).[UnitTasks](ue_ue.IPClient.md#unittasks)
-
-#### Defined in
-
-[ue/ue.d.ts:27541](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27541)
 
 ___
 
@@ -146,10 +122,6 @@ ___
 
 [IPClient](ue_ue.IPClient.md).[VerificationState](ue_ue.IPClient.md#verificationstate)
 
-#### Defined in
-
-[ue/ue.d.ts:27542](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27542)
-
 ___
 
 ### \_\_tid\_ClientUnitTest\_\_
@@ -159,10 +131,6 @@ ___
 #### Inherited from
 
 [IPClient](ue_ue.IPClient.md).[__tid_ClientUnitTest__](ue_ue.IPClient.md#__tid_clientunittest__)
-
-#### Defined in
-
-[ue/ue.d.ts:27575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27575)
 
 ___
 
@@ -174,10 +142,6 @@ ___
 
 [IPClient](ue_ue.IPClient.md).[__tid_IPClient__](ue_ue.IPClient.md#__tid_ipclient__)
 
-#### Defined in
-
-[ue/ue.d.ts:40565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40565)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -187,10 +151,6 @@ ___
 #### Inherited from
 
 [IPClient](ue_ue.IPClient.md).[__tid_Object__](ue_ue.IPClient.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -202,19 +162,11 @@ ___
 
 [IPClient](ue_ue.IPClient.md).[__tid_ProcessUnitTest__](ue_ue.IPClient.md#__tid_processunittest__)
 
-#### Defined in
-
-[ue/ue.d.ts:27556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27556)
-
 ___
 
 ### \_\_tid\_SteamClient\_\_
 
 • **\_\_tid\_SteamClient\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:62177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62177)
 
 ___
 
@@ -226,10 +178,6 @@ ___
 
 [IPClient](ue_ue.IPClient.md).[__tid_UnitTestBase__](ue_ue.IPClient.md#__tid_unittestbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:27523](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27523)
-
 ___
 
 ### \_\_tid\_UnitTest\_\_
@@ -239,10 +187,6 @@ ___
 #### Inherited from
 
 [IPClient](ue_ue.IPClient.md).[__tid_UnitTest__](ue_ue.IPClient.md#__tid_unittest__)
-
-#### Defined in
-
-[ue/ue.d.ts:27547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27547)
 
 ## Methods
 
@@ -268,10 +212,6 @@ ___
 
 [IPClient](ue_ue.IPClient.md).[CreateDefaultSubobject](ue_ue.IPClient.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -292,10 +232,6 @@ ___
 
 [IPClient](ue_ue.IPClient.md).[ExecuteUbergraph](ue_ue.IPClient.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -309,10 +245,6 @@ ___
 #### Inherited from
 
 [IPClient](ue_ue.IPClient.md).[GetClass](ue_ue.IPClient.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -328,10 +260,6 @@ ___
 
 [IPClient](ue_ue.IPClient.md).[GetName](ue_ue.IPClient.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -346,10 +274,6 @@ ___
 
 [IPClient](ue_ue.IPClient.md).[GetOuter](ue_ue.IPClient.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -363,10 +287,6 @@ ___
 #### Inherited from
 
 [IPClient](ue_ue.IPClient.md).[GetWorld](ue_ue.IPClient.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -389,10 +309,6 @@ ___
 
 [IPClient](ue_ue.IPClient.md).[Find](ue_ue.IPClient.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:62174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62174)
-
 ___
 
 ### Load
@@ -413,10 +329,6 @@ ___
 
 [IPClient](ue_ue.IPClient.md).[Load](ue_ue.IPClient.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:62175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62175)
-
 ___
 
 ### StaticClass
@@ -430,7 +342,3 @@ ___
 #### Overrides
 
 [IPClient](ue_ue.IPClient.md).[StaticClass](ue_ue.IPClient.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:62173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62173)

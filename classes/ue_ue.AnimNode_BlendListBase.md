@@ -48,10 +48,6 @@
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[constructor](ue_ue.AnimNode_Base.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:18036](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18036)
-
 • **new AnimNode_BlendListBase**(`BlendPose`, `BlendTime`, `TransitionType`, `BlendType`, `bResetChildOnActivation`, `CustomBlendCurve`, `BlendProfile`)
 
 #### Parameters
@@ -70,19 +66,11 @@
 
 UE.AnimNode\_Base.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:18037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18037)
-
 ## Properties
 
 ### BlendPose
 
 • **BlendPose**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PoseLink`](ue_ue.PoseLink.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:18038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18038)
 
 ___
 
@@ -90,19 +78,11 @@ ___
 
 • **BlendProfile**: [`BlendProfile`](ue_ue.BlendProfile.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18044)
-
 ___
 
 ### BlendTime
 
 • **BlendTime**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:18039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18039)
 
 ___
 
@@ -110,19 +90,11 @@ ___
 
 • **BlendType**: [`EAlphaBlendOption`](../enums/ue_ue.EAlphaBlendOption.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18041](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18041)
-
 ___
 
 ### CustomBlendCurve
 
 • **CustomBlendCurve**: [`CurveFloat`](ue_ue.CurveFloat.md)
-
-#### Defined in
-
-[ue/ue.d.ts:18043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18043)
 
 ___
 
@@ -130,29 +102,17 @@ ___
 
 • **TransitionType**: [`EBlendListTransitionType`](../enums/ue_ue.EBlendListTransitionType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18040](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18040)
-
 ___
 
 ### \_\_tid\_AnimNode\_BlendListBase\_\_
 
 • `Private` **\_\_tid\_AnimNode\_BlendListBase\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:18050](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18050)
-
 ___
 
 ### bResetChildOnActivation
 
 • **bResetChildOnActivation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18042)
 
 ## Methods
 
@@ -172,10 +132,6 @@ use StaticStruct instead.
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticClass](ue_ue.AnimNode_Base.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:18048](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18048)
-
 ___
 
 ### StaticStruct
@@ -189,7 +145,3 @@ ___
 #### Overrides
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticStruct](ue_ue.AnimNode_Base.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:18049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18049)

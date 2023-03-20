@@ -70,10 +70,6 @@
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[constructor](ue_ue.ParticleModuleLifetime.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:55712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55712)
-
 ## Properties
 
 ### LODDuplicate
@@ -83,10 +79,6 @@
 #### Inherited from
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[LODDuplicate](ue_ue.ParticleModuleLifetime.md#lodduplicate)
-
-#### Defined in
-
-[ue/ue.d.ts:6745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6745)
 
 ___
 
@@ -98,10 +90,6 @@ ___
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[LODValidity](ue_ue.ParticleModuleLifetime.md#lodvalidity)
 
-#### Defined in
-
-[ue/ue.d.ts:6748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6748)
-
 ___
 
 ### Lifetime
@@ -111,10 +99,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[Lifetime](ue_ue.ParticleModuleLifetime.md#lifetime)
-
-#### Defined in
-
-[ue/ue.d.ts:55703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55703)
 
 ___
 
@@ -126,19 +110,11 @@ ___
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[ModuleEditorColor](ue_ue.ParticleModuleLifetime.md#moduleeditorcolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6749)
-
 ___
 
 ### RandomSeedInfo
 
 • **RandomSeedInfo**: [`ParticleRandomSeedInfo`](ue_ue.ParticleRandomSeedInfo.md)
-
-#### Defined in
-
-[ue/ue.d.ts:55713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55713)
 
 ___
 
@@ -150,10 +126,6 @@ ___
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[__tid_Object__](ue_ue.ParticleModuleLifetime.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ParticleModuleLifetimeBase\_\_
@@ -164,19 +136,11 @@ ___
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[__tid_ParticleModuleLifetimeBase__](ue_ue.ParticleModuleLifetime.md#__tid_particlemodulelifetimebase__)
 
-#### Defined in
-
-[ue/ue.d.ts:55698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55698)
-
 ___
 
 ### \_\_tid\_ParticleModuleLifetime\_Seeded\_\_
 
 • **\_\_tid\_ParticleModuleLifetime\_Seeded\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55718)
 
 ___
 
@@ -188,10 +152,6 @@ ___
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[__tid_ParticleModuleLifetime__](ue_ue.ParticleModuleLifetime.md#__tid_particlemodulelifetime__)
 
-#### Defined in
-
-[ue/ue.d.ts:55708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55708)
-
 ___
 
 ### \_\_tid\_ParticleModule\_\_
@@ -201,10 +161,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[__tid_ParticleModule__](ue_ue.ParticleModuleLifetime.md#__tid_particlemodule__)
-
-#### Defined in
-
-[ue/ue.d.ts:6754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6754)
 
 ___
 
@@ -216,10 +172,6 @@ ___
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[b3DDrawMode](ue_ue.ParticleModuleLifetime.md#b3ddrawmode)
 
-#### Defined in
-
-[ue/ue.d.ts:6741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6741)
-
 ___
 
 ### bCurvesAsColor
@@ -229,10 +181,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[bCurvesAsColor](ue_ue.ParticleModuleLifetime.md#bcurvesascolor)
-
-#### Defined in
-
-[ue/ue.d.ts:6740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6740)
 
 ___
 
@@ -244,10 +192,6 @@ ___
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[bEditable](ue_ue.ParticleModuleLifetime.md#beditable)
 
-#### Defined in
-
-[ue/ue.d.ts:6744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6744)
-
 ___
 
 ### bEnabled
@@ -257,10 +201,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[bEnabled](ue_ue.ParticleModuleLifetime.md#benabled)
-
-#### Defined in
-
-[ue/ue.d.ts:6743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6743)
 
 ___
 
@@ -272,10 +212,6 @@ ___
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[bFinalUpdateModule](ue_ue.ParticleModuleLifetime.md#bfinalupdatemodule)
 
-#### Defined in
-
-[ue/ue.d.ts:6738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6738)
-
 ___
 
 ### bRequiresLoopingNotification
@@ -285,10 +221,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[bRequiresLoopingNotification](ue_ue.ParticleModuleLifetime.md#brequiresloopingnotification)
-
-#### Defined in
-
-[ue/ue.d.ts:6747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6747)
 
 ___
 
@@ -300,10 +232,6 @@ ___
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[bSpawnModule](ue_ue.ParticleModuleLifetime.md#bspawnmodule)
 
-#### Defined in
-
-[ue/ue.d.ts:6736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6736)
-
 ___
 
 ### bSupported3DDrawMode
@@ -313,10 +241,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[bSupported3DDrawMode](ue_ue.ParticleModuleLifetime.md#bsupported3ddrawmode)
-
-#### Defined in
-
-[ue/ue.d.ts:6742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6742)
 
 ___
 
@@ -328,10 +252,6 @@ ___
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[bSupportsRandomSeed](ue_ue.ParticleModuleLifetime.md#bsupportsrandomseed)
 
-#### Defined in
-
-[ue/ue.d.ts:6746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6746)
-
 ___
 
 ### bUpdateForGPUEmitter
@@ -342,10 +262,6 @@ ___
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[bUpdateForGPUEmitter](ue_ue.ParticleModuleLifetime.md#bupdateforgpuemitter)
 
-#### Defined in
-
-[ue/ue.d.ts:6739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6739)
-
 ___
 
 ### bUpdateModule
@@ -355,10 +271,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[bUpdateModule](ue_ue.ParticleModuleLifetime.md#bupdatemodule)
-
-#### Defined in
-
-[ue/ue.d.ts:6737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6737)
 
 ## Methods
 
@@ -384,10 +296,6 @@ ___
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[CreateDefaultSubobject](ue_ue.ParticleModuleLifetime.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -408,10 +316,6 @@ ___
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[ExecuteUbergraph](ue_ue.ParticleModuleLifetime.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -425,10 +329,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[GetClass](ue_ue.ParticleModuleLifetime.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -444,10 +344,6 @@ ___
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[GetName](ue_ue.ParticleModuleLifetime.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -462,10 +358,6 @@ ___
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[GetOuter](ue_ue.ParticleModuleLifetime.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -479,10 +371,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[GetWorld](ue_ue.ParticleModuleLifetime.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -505,10 +393,6 @@ ___
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[Find](ue_ue.ParticleModuleLifetime.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:55715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55715)
-
 ___
 
 ### Load
@@ -529,10 +413,6 @@ ___
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[Load](ue_ue.ParticleModuleLifetime.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:55716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55716)
-
 ___
 
 ### StaticClass
@@ -546,7 +426,3 @@ ___
 #### Overrides
 
 [ParticleModuleLifetime](ue_ue.ParticleModuleLifetime.md).[StaticClass](ue_ue.ParticleModuleLifetime.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:55714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55714)

@@ -28,19 +28,11 @@
 
 • **EMagicLeapTouchpadGestureType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34017)
-
 ___
 
 ### ForceDwell
 
 • **ForceDwell** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34017)
 
 ___
 
@@ -48,19 +40,11 @@ ___
 
 • **ForceTapDown** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34017)
-
 ___
 
 ### ForceTapUp
 
 • **ForceTapUp** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34017)
 
 ___
 
@@ -68,19 +52,11 @@ ___
 
 • **LongHold** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34017)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34017)
 
 ___
 
@@ -88,19 +64,11 @@ ___
 
 • **Pinch** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34017)
-
 ___
 
 ### RadialScroll
 
 • **RadialScroll** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34017)
 
 ___
 
@@ -108,19 +76,11 @@ ___
 
 • **Scroll** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34017)
-
 ___
 
 ### SecondForceDown
 
 • **SecondForceDown** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34017)
 
 ___
 
@@ -128,26 +88,14 @@ ___
 
 • **Swipe** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34017)
-
 ___
 
 ### Tap
 
 • **Tap** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34017)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34017)

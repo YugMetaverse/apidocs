@@ -32,10 +32,6 @@
 
 • **new LayerBlendInput**()
 
-#### Defined in
-
-[ue/ue.d.ts:48386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48386)
-
 • **new LayerBlendInput**(`LayerName`, `BlendType`, `LayerInput`, `HeightInput`, `PreviewWeight`, `ConstLayerInput`, `ConstHeightInput`)
 
 #### Parameters
@@ -50,19 +46,11 @@
 | `ConstLayerInput` | [`Vector`](ue_ue_s.Vector.md) |
 | `ConstHeightInput` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:48387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48387)
-
 ## Properties
 
 ### BlendType
 
 • **BlendType**: [`ELandscapeLayerBlendType`](../enums/ue_ue.ELandscapeLayerBlendType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:48389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48389)
 
 ___
 
@@ -70,19 +58,11 @@ ___
 
 • **ConstHeightInput**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:48394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48394)
-
 ___
 
 ### ConstLayerInput
 
 • **ConstLayerInput**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:48393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48393)
 
 ___
 
@@ -90,19 +70,11 @@ ___
 
 • **HeightInput**: [`ExpressionInput`](ue_ue.ExpressionInput.md)
 
-#### Defined in
-
-[ue/ue.d.ts:48391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48391)
-
 ___
 
 ### LayerInput
 
 • **LayerInput**: [`ExpressionInput`](ue_ue.ExpressionInput.md)
-
-#### Defined in
-
-[ue/ue.d.ts:48390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48390)
 
 ___
 
@@ -110,29 +82,17 @@ ___
 
 • **LayerName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:48388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48388)
-
 ___
 
 ### PreviewWeight
 
 • **PreviewWeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:48392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48392)
-
 ___
 
 ### \_\_tid\_LayerBlendInput\_\_
 
 • `Private` **\_\_tid\_LayerBlendInput\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:48400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48400)
 
 ## Methods
 
@@ -148,10 +108,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:48398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48398)
-
 ___
 
 ### StaticStruct
@@ -161,7 +117,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:48399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48399)

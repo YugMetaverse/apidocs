@@ -25,19 +25,11 @@
 
 • **ELandscapeMirrorOperation\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33934)
-
 ___
 
 ### MinusXToPlusX
 
 • **MinusXToPlusX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33934)
 
 ___
 
@@ -45,19 +37,11 @@ ___
 
 • **MinusYToPlusY** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33934)
-
 ___
 
 ### PlusXToMinusX
 
 • **PlusXToMinusX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33934)
 
 ___
 
@@ -65,19 +49,11 @@ ___
 
 • **PlusYToMinusY** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33934)
-
 ___
 
 ### RotateMinusXToPlusX
 
 • **RotateMinusXToPlusX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33934)
 
 ___
 
@@ -85,19 +61,11 @@ ___
 
 • **RotateMinusYToPlusY** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33934)
-
 ___
 
 ### RotatePlusXToMinusX
 
 • **RotatePlusXToMinusX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33934)
 
 ___
 
@@ -105,16 +73,8 @@ ___
 
 • **RotatePlusYToMinusY** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33934)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33934)

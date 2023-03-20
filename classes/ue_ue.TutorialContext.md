@@ -29,10 +29,6 @@
 
 • **new TutorialContext**()
 
-#### Defined in
-
-[ue/ue.d.ts:33487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33487)
-
 • **new TutorialContext**(`Context`, `BrowserFilter`, `AttractTutorial`, `LaunchTutorial`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `AttractTutorial` | [`SoftClassPath`](ue_ue.SoftClassPath.md) |
 | `LaunchTutorial` | [`SoftClassPath`](ue_ue.SoftClassPath.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:33488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33488)
-
 ## Properties
 
 ### AttractTutorial
 
 • **AttractTutorial**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33491)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **BrowserFilter**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:33490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33490)
-
 ___
 
 ### Context
 
 • **Context**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:33489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33489)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **LaunchTutorial**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33492)
-
 ___
 
 ### \_\_tid\_TutorialContext\_\_
 
 • `Private` **\_\_tid\_TutorialContext\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33498)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33496)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33497)

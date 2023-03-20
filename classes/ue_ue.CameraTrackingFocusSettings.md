@@ -28,10 +28,6 @@
 
 • **new CameraTrackingFocusSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:27273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27273)
-
 • **new CameraTrackingFocusSettings**(`ActorToTrack`, `RelativeOffset`, `bDrawDebugTrackingFocusPoint`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `RelativeOffset` | [`Vector`](ue_ue_s.Vector.md) |
 | `bDrawDebugTrackingFocusPoint` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:27274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27274)
-
 ## Properties
 
 ### ActorToTrack
 
 • **ActorToTrack**: [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`Actor`](ue_ue.Actor.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:27275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27275)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **RelativeOffset**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27276)
-
 ___
 
 ### \_\_tid\_CameraTrackingFocusSettings\_\_
 
 • `Private` **\_\_tid\_CameraTrackingFocusSettings\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:27283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27283)
-
 ___
 
 ### bDrawDebugTrackingFocusPoint
 
 • **bDrawDebugTrackingFocusPoint**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27277)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27281)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27282)

@@ -21,19 +21,11 @@
 
 • **VR\_InputString\_All** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34802)
-
 ___
 
 ### VR\_InputString\_ControllerType
 
 • **VR\_InputString\_ControllerType** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34802)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **VR\_InputString\_Hand** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34802)
-
 ___
 
 ### VR\_InputString\_InputSource
 
 • **VR\_InputString\_InputSource** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34802)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **VR\_InputString\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34802)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34802)

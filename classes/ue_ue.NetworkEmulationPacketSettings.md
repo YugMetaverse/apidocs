@@ -28,10 +28,6 @@
 
 • **new NetworkEmulationPacketSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:44865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44865)
-
 • **new NetworkEmulationPacketSettings**(`MinLatency`, `MaxLatency`, `PacketLossPercentage`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `MaxLatency` | `number` |
 | `PacketLossPercentage` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:44866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44866)
-
 ## Properties
 
 ### MaxLatency
 
 • **MaxLatency**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44868)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **MinLatency**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44867)
-
 ___
 
 ### PacketLossPercentage
 
 • **PacketLossPercentage**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44869)
-
 ___
 
 ### \_\_tid\_NetworkEmulationPacketSettings\_\_
 
 • `Private` **\_\_tid\_NetworkEmulationPacketSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44875)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44873)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44874)

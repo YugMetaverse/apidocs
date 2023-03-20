@@ -20,19 +20,11 @@
 
 • **PEB2M\_Branch** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31380](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31380)
-
 ___
 
 ### PEB2M\_Distance
 
 • **PEB2M\_Distance** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31380](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31380)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **PEB2M\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31380](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31380)
-
 ___
 
 ### PEB2M\_Target
 
 • **PEB2M\_Target** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31380](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31380)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31380](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31380)

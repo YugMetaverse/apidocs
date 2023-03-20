@@ -21,19 +21,11 @@
 
 • **Average** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L683)
-
 ___
 
 ### EFrictionCombineMode\_MAX
 
 • **EFrictionCombineMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L683)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Max** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L683)
-
 ___
 
 ### Min
 
 • **Min** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L683)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Multiply** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L683)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L683)

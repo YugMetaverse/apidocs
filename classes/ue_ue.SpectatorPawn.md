@@ -337,10 +337,6 @@
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[constructor](ue_ue.DefaultPawn.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:10657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10657)
-
 ## Properties
 
 ### AIControllerClass
@@ -350,10 +346,6 @@
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[AIControllerClass](ue_ue.DefaultPawn.md#aicontrollerclass)
-
-#### Defined in
-
-[ue/ue.d.ts:12510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12510)
 
 ___
 
@@ -365,10 +357,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ActorLabel](ue_ue.DefaultPawn.md#actorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13176)
-
 ___
 
 ### AttachmentReplication
@@ -378,10 +366,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[AttachmentReplication](ue_ue.DefaultPawn.md#attachmentreplication)
-
-#### Defined in
-
-[ue/ue.d.ts:13151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13151)
 
 ___
 
@@ -393,10 +377,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[AutoPossessAI](ue_ue.DefaultPawn.md#autopossessai)
 
-#### Defined in
-
-[ue/ue.d.ts:12508](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12508)
-
 ___
 
 ### AutoPossessPlayer
@@ -406,10 +386,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[AutoPossessPlayer](ue_ue.DefaultPawn.md#autopossessplayer)
-
-#### Defined in
-
-[ue/ue.d.ts:12507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12507)
 
 ___
 
@@ -421,10 +397,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[AutoReceiveInput](ue_ue.DefaultPawn.md#autoreceiveinput)
 
-#### Defined in
-
-[ue/ue.d.ts:13157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13157)
-
 ___
 
 ### BaseEyeHeight
@@ -434,10 +406,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[BaseEyeHeight](ue_ue.DefaultPawn.md#baseeyeheight)
-
-#### Defined in
-
-[ue/ue.d.ts:12506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12506)
 
 ___
 
@@ -449,10 +417,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[BaseLookUpRate](ue_ue.DefaultPawn.md#baselookuprate)
 
-#### Defined in
-
-[ue/ue.d.ts:10639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10639)
-
 ___
 
 ### BaseTurnRate
@@ -462,10 +426,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[BaseTurnRate](ue_ue.DefaultPawn.md#baseturnrate)
-
-#### Defined in
-
-[ue/ue.d.ts:10638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10638)
 
 ___
 
@@ -477,10 +437,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[BlueprintCreatedComponents](ue_ue.DefaultPawn.md#blueprintcreatedcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13206)
-
 ___
 
 ### Children
@@ -490,10 +446,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[Children](ue_ue.DefaultPawn.md#children)
-
-#### Defined in
-
-[ue/ue.d.ts:13166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13166)
 
 ___
 
@@ -505,10 +457,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[CollisionComponent](ue_ue.DefaultPawn.md#collisioncomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:10641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10641)
-
 ___
 
 ### ControlInputVector
@@ -518,10 +466,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ControlInputVector](ue_ue.DefaultPawn.md#controlinputvector)
-
-#### Defined in
-
-[ue/ue.d.ts:12514](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12514)
 
 ___
 
@@ -533,10 +477,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[Controller](ue_ue.DefaultPawn.md#controller)
 
-#### Defined in
-
-[ue/ue.d.ts:12513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12513)
-
 ___
 
 ### ControllingMatineeActors
@@ -546,10 +486,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ControllingMatineeActors](ue_ue.DefaultPawn.md#controllingmatineeactors)
-
-#### Defined in
-
-[ue/ue.d.ts:13169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13169)
 
 ___
 
@@ -561,10 +497,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[CustomTimeDilation](ue_ue.DefaultPawn.md#customtimedilation)
 
-#### Defined in
-
-[ue/ue.d.ts:13150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13150)
-
 ___
 
 ### DefaultUpdateOverlapsMethodDuringLevelStreaming
@@ -574,10 +506,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[DefaultUpdateOverlapsMethodDuringLevelStreaming](ue_ue.DefaultPawn.md#defaultupdateoverlapsmethodduringlevelstreaming)
-
-#### Defined in
-
-[ue/ue.d.ts:13146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13146)
 
 ___
 
@@ -589,10 +517,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[FolderPath](ue_ue.DefaultPawn.md#folderpath)
 
-#### Defined in
-
-[ue/ue.d.ts:13177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13177)
-
 ___
 
 ### GroupActor
@@ -602,10 +526,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GroupActor](ue_ue.DefaultPawn.md#groupactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13173)
 
 ___
 
@@ -617,10 +537,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[HiddenEditorViews](ue_ue.DefaultPawn.md#hiddeneditorviews)
 
-#### Defined in
-
-[ue/ue.d.ts:13175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13175)
-
 ___
 
 ### InitialLifeSpan
@@ -630,10 +546,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[InitialLifeSpan](ue_ue.DefaultPawn.md#initiallifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13149)
 
 ___
 
@@ -645,10 +557,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[InputComponent](ue_ue.DefaultPawn.md#inputcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13159)
-
 ___
 
 ### InputPriority
@@ -658,10 +566,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[InputPriority](ue_ue.DefaultPawn.md#inputpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:13158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13158)
 
 ___
 
@@ -673,10 +577,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[InstanceComponents](ue_ue.DefaultPawn.md#instancecomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13205)
-
 ___
 
 ### Instigator
@@ -686,10 +586,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[Instigator](ue_ue.DefaultPawn.md#instigator)
-
-#### Defined in
-
-[ue/ue.d.ts:13165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13165)
 
 ___
 
@@ -701,10 +597,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[LastControlInputVector](ue_ue.DefaultPawn.md#lastcontrolinputvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12515)
-
 ___
 
 ### LastHitBy
@@ -714,10 +606,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[LastHitBy](ue_ue.DefaultPawn.md#lasthitby)
-
-#### Defined in
-
-[ue/ue.d.ts:12512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12512)
 
 ___
 
@@ -729,10 +617,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[Layers](ue_ue.DefaultPawn.md#layers)
 
-#### Defined in
-
-[ue/ue.d.ts:13170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13170)
-
 ___
 
 ### MeshComponent
@@ -742,10 +626,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[MeshComponent](ue_ue.DefaultPawn.md#meshcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:10642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10642)
 
 ___
 
@@ -757,10 +637,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[MinNetUpdateFrequency](ue_ue.DefaultPawn.md#minnetupdatefrequency)
 
-#### Defined in
-
-[ue/ue.d.ts:13163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13163)
-
 ___
 
 ### MovementComponent
@@ -770,10 +646,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[MovementComponent](ue_ue.DefaultPawn.md#movementcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:10640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10640)
 
 ___
 
@@ -785,10 +657,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[NetCullDistanceSquared](ue_ue.DefaultPawn.md#netculldistancesquared)
 
-#### Defined in
-
-[ue/ue.d.ts:13160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13160)
-
 ___
 
 ### NetDormancy
@@ -798,10 +666,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[NetDormancy](ue_ue.DefaultPawn.md#netdormancy)
-
-#### Defined in
-
-[ue/ue.d.ts:13155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13155)
 
 ___
 
@@ -813,10 +677,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[NetDriverName](ue_ue.DefaultPawn.md#netdrivername)
 
-#### Defined in
-
-[ue/ue.d.ts:13153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13153)
-
 ___
 
 ### NetPriority
@@ -826,10 +686,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[NetPriority](ue_ue.DefaultPawn.md#netpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:13164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13164)
 
 ___
 
@@ -841,10 +697,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[NetTag](ue_ue.DefaultPawn.md#nettag)
 
-#### Defined in
-
-[ue/ue.d.ts:13161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13161)
-
 ___
 
 ### NetUpdateFrequency
@@ -854,10 +706,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[NetUpdateFrequency](ue_ue.DefaultPawn.md#netupdatefrequency)
-
-#### Defined in
-
-[ue/ue.d.ts:13162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13162)
 
 ___
 
@@ -869,10 +717,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[OnActorBeginOverlap](ue_ue.DefaultPawn.md#onactorbeginoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13192)
-
 ___
 
 ### OnActorEndOverlap
@@ -882,10 +726,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[OnActorEndOverlap](ue_ue.DefaultPawn.md#onactorendoverlap)
-
-#### Defined in
-
-[ue/ue.d.ts:13193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13193)
 
 ___
 
@@ -897,10 +737,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[OnActorHit](ue_ue.DefaultPawn.md#onactorhit)
 
-#### Defined in
-
-[ue/ue.d.ts:13202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13202)
-
 ___
 
 ### OnBeginCursorOver
@@ -910,10 +746,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[OnBeginCursorOver](ue_ue.DefaultPawn.md#onbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13194)
 
 ___
 
@@ -925,10 +757,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[OnClicked](ue_ue.DefaultPawn.md#onclicked)
 
-#### Defined in
-
-[ue/ue.d.ts:13196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13196)
-
 ___
 
 ### OnDestroyed
@@ -938,10 +766,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[OnDestroyed](ue_ue.DefaultPawn.md#ondestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13203)
 
 ___
 
@@ -953,10 +777,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[OnEndCursorOver](ue_ue.DefaultPawn.md#onendcursorover)
 
-#### Defined in
-
-[ue/ue.d.ts:13195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13195)
-
 ___
 
 ### OnEndPlay
@@ -966,10 +786,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[OnEndPlay](ue_ue.DefaultPawn.md#onendplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13204)
 
 ___
 
@@ -981,10 +797,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[OnInputTouchBegin](ue_ue.DefaultPawn.md#oninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:13198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13198)
-
 ___
 
 ### OnInputTouchEnd
@@ -994,10 +806,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[OnInputTouchEnd](ue_ue.DefaultPawn.md#oninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:13199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13199)
 
 ___
 
@@ -1009,10 +817,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[OnInputTouchEnter](ue_ue.DefaultPawn.md#oninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:13200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13200)
-
 ___
 
 ### OnInputTouchLeave
@@ -1022,10 +826,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[OnInputTouchLeave](ue_ue.DefaultPawn.md#oninputtouchleave)
-
-#### Defined in
-
-[ue/ue.d.ts:13201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13201)
 
 ___
 
@@ -1037,10 +837,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[OnReleased](ue_ue.DefaultPawn.md#onreleased)
 
-#### Defined in
-
-[ue/ue.d.ts:13197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13197)
-
 ___
 
 ### OnTakeAnyDamage
@@ -1050,10 +846,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[OnTakeAnyDamage](ue_ue.DefaultPawn.md#ontakeanydamage)
-
-#### Defined in
-
-[ue/ue.d.ts:13189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13189)
 
 ___
 
@@ -1065,10 +857,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[OnTakePointDamage](ue_ue.DefaultPawn.md#ontakepointdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13190)
-
 ___
 
 ### OnTakeRadialDamage
@@ -1078,10 +866,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[OnTakeRadialDamage](ue_ue.DefaultPawn.md#ontakeradialdamage)
-
-#### Defined in
-
-[ue/ue.d.ts:13191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13191)
 
 ___
 
@@ -1093,10 +877,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[Owner](ue_ue.DefaultPawn.md#owner)
 
-#### Defined in
-
-[ue/ue.d.ts:13152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13152)
-
 ___
 
 ### ParentComponent
@@ -1106,10 +886,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ParentComponent](ue_ue.DefaultPawn.md#parentcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13172)
 
 ___
 
@@ -1121,10 +897,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ParentComponentActor](ue_ue.DefaultPawn.md#parentcomponentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13171)
-
 ___
 
 ### PivotOffset
@@ -1134,10 +906,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[PivotOffset](ue_ue.DefaultPawn.md#pivotoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:13168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13168)
 
 ___
 
@@ -1149,10 +917,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[PlayerState](ue_ue.DefaultPawn.md#playerstate)
 
-#### Defined in
-
-[ue/ue.d.ts:12511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12511)
-
 ___
 
 ### PrimaryActorTick
@@ -1162,10 +926,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[PrimaryActorTick](ue_ue.DefaultPawn.md#primaryactortick)
-
-#### Defined in
-
-[ue/ue.d.ts:13115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13115)
 
 ___
 
@@ -1177,10 +937,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[RemoteRole](ue_ue.DefaultPawn.md#remoterole)
 
-#### Defined in
-
-[ue/ue.d.ts:13147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13147)
-
 ___
 
 ### RemoteViewPitch
@@ -1190,10 +946,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[RemoteViewPitch](ue_ue.DefaultPawn.md#remoteviewpitch)
-
-#### Defined in
-
-[ue/ue.d.ts:12509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12509)
 
 ___
 
@@ -1205,10 +957,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ReplicatedMovement](ue_ue.DefaultPawn.md#replicatedmovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13148)
-
 ___
 
 ### Role
@@ -1218,10 +966,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[Role](ue_ue.DefaultPawn.md#role)
-
-#### Defined in
-
-[ue/ue.d.ts:13154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13154)
 
 ___
 
@@ -1233,10 +977,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[RootComponent](ue_ue.DefaultPawn.md#rootcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13167)
-
 ___
 
 ### SpawnCollisionHandlingMethod
@@ -1246,10 +986,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[SpawnCollisionHandlingMethod](ue_ue.DefaultPawn.md#spawncollisionhandlingmethod)
-
-#### Defined in
-
-[ue/ue.d.ts:13156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13156)
 
 ___
 
@@ -1261,10 +997,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[SpriteScale](ue_ue.DefaultPawn.md#spritescale)
 
-#### Defined in
-
-[ue/ue.d.ts:13174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13174)
-
 ___
 
 ### Tags
@@ -1274,10 +1006,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[Tags](ue_ue.DefaultPawn.md#tags)
-
-#### Defined in
-
-[ue/ue.d.ts:13188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13188)
 
 ___
 
@@ -1289,10 +1017,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[UpdateOverlapsMethodDuringLevelStreaming](ue_ue.DefaultPawn.md#updateoverlapsmethodduringlevelstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:13145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13145)
-
 ___
 
 ### \_\_tid\_Actor\_\_
@@ -1302,10 +1026,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[__tid_Actor__](ue_ue.DefaultPawn.md#__tid_actor__)
-
-#### Defined in
-
-[ue/ue.d.ts:13348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13348)
 
 ___
 
@@ -1317,10 +1037,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[__tid_DefaultPawn__](ue_ue.DefaultPawn.md#__tid_defaultpawn__)
 
-#### Defined in
-
-[ue/ue.d.ts:10653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10653)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -1330,10 +1046,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[__tid_Object__](ue_ue.DefaultPawn.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -1345,19 +1057,11 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[__tid_Pawn__](ue_ue.DefaultPawn.md#__tid_pawn__)
 
-#### Defined in
-
-[ue/ue.d.ts:12549](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12549)
-
 ___
 
 ### \_\_tid\_SpectatorPawn\_\_
 
 • **\_\_tid\_SpectatorPawn\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10662)
 
 ___
 
@@ -1369,10 +1073,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bActorEnableCollision](ue_ue.DefaultPawn.md#bactorenablecollision)
 
-#### Defined in
-
-[ue/ue.d.ts:13143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13143)
-
 ___
 
 ### bActorIsBeingDestroyed
@@ -1382,10 +1082,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bActorIsBeingDestroyed](ue_ue.DefaultPawn.md#bactorisbeingdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13144)
 
 ___
 
@@ -1397,10 +1093,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bActorLabelEditable](ue_ue.DefaultPawn.md#bactorlabeleditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13183)
-
 ___
 
 ### bActorSeamlessTraveled
@@ -1410,10 +1102,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bActorSeamlessTraveled](ue_ue.DefaultPawn.md#bactorseamlesstraveled)
-
-#### Defined in
-
-[ue/ue.d.ts:13139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13139)
 
 ___
 
@@ -1425,10 +1113,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bAddDefaultMovementBindings](ue_ue.DefaultPawn.md#badddefaultmovementbindings)
 
-#### Defined in
-
-[ue/ue.d.ts:10643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10643)
-
 ___
 
 ### bAllowReceiveTickEventOnDedicatedServer
@@ -1438,10 +1122,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bAllowReceiveTickEventOnDedicatedServer](ue_ue.DefaultPawn.md#ballowreceivetickeventondedicatedserver)
-
-#### Defined in
-
-[ue/ue.d.ts:13142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13142)
 
 ___
 
@@ -1453,10 +1133,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bAllowTickBeforeBeginPlay](ue_ue.DefaultPawn.md#ballowtickbeforebeginplay)
 
-#### Defined in
-
-[ue/ue.d.ts:13129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13129)
-
 ___
 
 ### bAlwaysRelevant
@@ -1466,10 +1142,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bAlwaysRelevant](ue_ue.DefaultPawn.md#balwaysrelevant)
-
-#### Defined in
-
-[ue/ue.d.ts:13120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13120)
 
 ___
 
@@ -1481,10 +1153,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bAutoDestroyWhenFinished](ue_ue.DefaultPawn.md#bautodestroywhenfinished)
 
-#### Defined in
-
-[ue/ue.d.ts:13130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13130)
-
 ___
 
 ### bBlockInput
@@ -1494,10 +1162,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bBlockInput](ue_ue.DefaultPawn.md#bblockinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13131)
 
 ___
 
@@ -1509,10 +1173,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bCanAffectNavigationGeneration](ue_ue.DefaultPawn.md#bcanaffectnavigationgeneration)
 
-#### Defined in
-
-[ue/ue.d.ts:12505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12505)
-
 ___
 
 ### bCanBeDamaged
@@ -1522,10 +1182,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bCanBeDamaged](ue_ue.DefaultPawn.md#bcanbedamaged)
-
-#### Defined in
-
-[ue/ue.d.ts:13132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13132)
 
 ___
 
@@ -1537,10 +1193,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bCanBeInCluster](ue_ue.DefaultPawn.md#bcanbeincluster)
 
-#### Defined in
-
-[ue/ue.d.ts:13141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13141)
-
 ___
 
 ### bCollideWhenPlacing
@@ -1550,10 +1202,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bCollideWhenPlacing](ue_ue.DefaultPawn.md#bcollidewhenplacing)
-
-#### Defined in
-
-[ue/ue.d.ts:13133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13133)
 
 ___
 
@@ -1565,10 +1213,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bEditable](ue_ue.DefaultPawn.md#beditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13184)
-
 ___
 
 ### bEnableAutoLODGeneration
@@ -1578,10 +1222,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bEnableAutoLODGeneration](ue_ue.DefaultPawn.md#benableautolodgeneration)
-
-#### Defined in
-
-[ue/ue.d.ts:13137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13137)
 
 ___
 
@@ -1593,10 +1233,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bExchangedRoles](ue_ue.DefaultPawn.md#bexchangedroles)
 
-#### Defined in
-
-[ue/ue.d.ts:13123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13123)
-
 ___
 
 ### bFindCameraComponentWhenViewTarget
@@ -1606,10 +1242,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bFindCameraComponentWhenViewTarget](ue_ue.DefaultPawn.md#bfindcameracomponentwhenviewtarget)
-
-#### Defined in
-
-[ue/ue.d.ts:13134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13134)
 
 ___
 
@@ -1621,10 +1253,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bGenerateOverlapEventsDuringLevelStreaming](ue_ue.DefaultPawn.md#bgenerateoverlapeventsduringlevelstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:13135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13135)
-
 ___
 
 ### bHidden
@@ -1634,10 +1262,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bHidden](ue_ue.DefaultPawn.md#bhidden)
-
-#### Defined in
-
-[ue/ue.d.ts:13116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13116)
 
 ___
 
@@ -1649,10 +1273,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bHiddenEd](ue_ue.DefaultPawn.md#bhiddened)
 
-#### Defined in
-
-[ue/ue.d.ts:13178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13178)
-
 ___
 
 ### bHiddenEdLayer
@@ -1662,10 +1282,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bHiddenEdLayer](ue_ue.DefaultPawn.md#bhiddenedlayer)
-
-#### Defined in
-
-[ue/ue.d.ts:13180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13180)
 
 ___
 
@@ -1677,10 +1293,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bHiddenEdLevel](ue_ue.DefaultPawn.md#bhiddenedlevel)
 
-#### Defined in
-
-[ue/ue.d.ts:13181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13181)
-
 ___
 
 ### bHiddenEdTemporary
@@ -1690,10 +1302,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bHiddenEdTemporary](ue_ue.DefaultPawn.md#bhiddenedtemporary)
-
-#### Defined in
-
-[ue/ue.d.ts:13187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13187)
 
 ___
 
@@ -1705,10 +1313,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bIgnoresOriginShifting](ue_ue.DefaultPawn.md#bignoresoriginshifting)
 
-#### Defined in
-
-[ue/ue.d.ts:13136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13136)
-
 ___
 
 ### bIsEditorOnlyActor
@@ -1718,10 +1322,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bIsEditorOnlyActor](ue_ue.DefaultPawn.md#biseditoronlyactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13138)
 
 ___
 
@@ -1733,10 +1333,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bIsEditorPreviewActor](ue_ue.DefaultPawn.md#biseditorpreviewactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13179)
-
 ___
 
 ### bListedInSceneOutliner
@@ -1746,10 +1342,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bListedInSceneOutliner](ue_ue.DefaultPawn.md#blistedinsceneoutliner)
-
-#### Defined in
-
-[ue/ue.d.ts:13185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13185)
 
 ___
 
@@ -1761,10 +1353,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bLockLocation](ue_ue.DefaultPawn.md#blocklocation)
 
-#### Defined in
-
-[ue/ue.d.ts:13182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13182)
-
 ___
 
 ### bNetLoadOnClient
@@ -1774,10 +1362,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bNetLoadOnClient](ue_ue.DefaultPawn.md#bnetloadonclient)
-
-#### Defined in
-
-[ue/ue.d.ts:13124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13124)
 
 ___
 
@@ -1789,10 +1373,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bNetStartup](ue_ue.DefaultPawn.md#bnetstartup)
 
-#### Defined in
-
-[ue/ue.d.ts:13118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13118)
-
 ___
 
 ### bNetTemporary
@@ -1802,10 +1382,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bNetTemporary](ue_ue.DefaultPawn.md#bnettemporary)
-
-#### Defined in
-
-[ue/ue.d.ts:13117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13117)
 
 ___
 
@@ -1817,10 +1393,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bNetUseOwnerRelevancy](ue_ue.DefaultPawn.md#bnetuseownerrelevancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13125)
-
 ___
 
 ### bOnlyRelevantToOwner
@@ -1830,10 +1402,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bOnlyRelevantToOwner](ue_ue.DefaultPawn.md#bonlyrelevanttoowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13119)
 
 ___
 
@@ -1845,10 +1413,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bOptimizeBPComponentData](ue_ue.DefaultPawn.md#boptimizebpcomponentdata)
 
-#### Defined in
-
-[ue/ue.d.ts:13186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13186)
-
 ___
 
 ### bRelevantForLevelBounds
@@ -1858,10 +1422,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bRelevantForLevelBounds](ue_ue.DefaultPawn.md#brelevantforlevelbounds)
-
-#### Defined in
-
-[ue/ue.d.ts:13127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13127)
 
 ___
 
@@ -1873,10 +1433,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bRelevantForNetworkReplays](ue_ue.DefaultPawn.md#brelevantfornetworkreplays)
 
-#### Defined in
-
-[ue/ue.d.ts:13126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13126)
-
 ___
 
 ### bReplayRewindable
@@ -1886,10 +1442,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bReplayRewindable](ue_ue.DefaultPawn.md#breplayrewindable)
-
-#### Defined in
-
-[ue/ue.d.ts:13128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13128)
 
 ___
 
@@ -1901,10 +1453,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bReplicateMovement](ue_ue.DefaultPawn.md#breplicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13121)
-
 ___
 
 ### bReplicates
@@ -1914,10 +1462,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bReplicates](ue_ue.DefaultPawn.md#breplicates)
-
-#### Defined in
-
-[ue/ue.d.ts:13140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13140)
 
 ___
 
@@ -1929,10 +1473,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bTearOff](ue_ue.DefaultPawn.md#btearoff)
 
-#### Defined in
-
-[ue/ue.d.ts:13122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13122)
-
 ___
 
 ### bUseControllerRotationPitch
@@ -1942,10 +1482,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bUseControllerRotationPitch](ue_ue.DefaultPawn.md#busecontrollerrotationpitch)
-
-#### Defined in
-
-[ue/ue.d.ts:12502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12502)
 
 ___
 
@@ -1957,10 +1493,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bUseControllerRotationRoll](ue_ue.DefaultPawn.md#busecontrollerrotationroll)
 
-#### Defined in
-
-[ue/ue.d.ts:12504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12504)
-
 ___
 
 ### bUseControllerRotationYaw
@@ -1970,10 +1502,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[bUseControllerRotationYaw](ue_ue.DefaultPawn.md#busecontrollerrotationyaw)
-
-#### Defined in
-
-[ue/ue.d.ts:12503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12503)
 
 ## Methods
 
@@ -1994,10 +1522,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ActorHasTag](ue_ue.DefaultPawn.md#actorhastag)
-
-#### Defined in
-
-[ue/ue.d.ts:13207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13207)
 
 ___
 
@@ -2022,10 +1546,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[AddComponent](ue_ue.DefaultPawn.md#addcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13208)
-
 ___
 
 ### AddControllerPitchInput
@@ -2045,10 +1565,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[AddControllerPitchInput](ue_ue.DefaultPawn.md#addcontrollerpitchinput)
-
-#### Defined in
-
-[ue/ue.d.ts:12516](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12516)
 
 ___
 
@@ -2070,10 +1586,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[AddControllerRollInput](ue_ue.DefaultPawn.md#addcontrollerrollinput)
 
-#### Defined in
-
-[ue/ue.d.ts:12517](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12517)
-
 ___
 
 ### AddControllerYawInput
@@ -2093,10 +1605,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[AddControllerYawInput](ue_ue.DefaultPawn.md#addcontrolleryawinput)
-
-#### Defined in
-
-[ue/ue.d.ts:12518](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12518)
 
 ___
 
@@ -2120,10 +1628,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[AddMovementInput](ue_ue.DefaultPawn.md#addmovementinput)
 
-#### Defined in
-
-[ue/ue.d.ts:12519](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12519)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -2143,10 +1647,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[AddTickPrerequisiteActor](ue_ue.DefaultPawn.md#addtickprerequisiteactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13209)
 
 ___
 
@@ -2168,10 +1668,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[AddTickPrerequisiteComponent](ue_ue.DefaultPawn.md#addtickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13210)
-
 ___
 
 ### ConsumeMovementInputVector
@@ -2185,10 +1681,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ConsumeMovementInputVector](ue_ue.DefaultPawn.md#consumemovementinputvector)
-
-#### Defined in
-
-[ue/ue.d.ts:12520](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12520)
 
 ___
 
@@ -2214,10 +1706,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[CreateDefaultSubobject](ue_ue.DefaultPawn.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### DetachFromControllerPendingDestroy
@@ -2231,10 +1719,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[DetachFromControllerPendingDestroy](ue_ue.DefaultPawn.md#detachfromcontrollerpendingdestroy)
-
-#### Defined in
-
-[ue/ue.d.ts:12521](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12521)
 
 ___
 
@@ -2256,10 +1740,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[DetachRootComponentFromParent](ue_ue.DefaultPawn.md#detachrootcomponentfromparent)
 
-#### Defined in
-
-[ue/ue.d.ts:13211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13211)
-
 ___
 
 ### DisableInput
@@ -2279,10 +1759,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[DisableInput](ue_ue.DefaultPawn.md#disableinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13212)
 
 ___
 
@@ -2304,10 +1780,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[EnableInput](ue_ue.DefaultPawn.md#enableinput)
 
-#### Defined in
-
-[ue/ue.d.ts:13213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13213)
-
 ___
 
 ### ExecuteUbergraph
@@ -2328,10 +1800,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ExecuteUbergraph](ue_ue.DefaultPawn.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### FlushNetDormancy
@@ -2346,10 +1814,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[FlushNetDormancy](ue_ue.DefaultPawn.md#flushnetdormancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13214)
-
 ___
 
 ### ForceNetUpdate
@@ -2363,10 +1827,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ForceNetUpdate](ue_ue.DefaultPawn.md#forcenetupdate)
-
-#### Defined in
-
-[ue/ue.d.ts:13215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13215)
 
 ___
 
@@ -2390,10 +1850,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetActorBounds](ue_ue.DefaultPawn.md#getactorbounds)
 
-#### Defined in
-
-[ue/ue.d.ts:13216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13216)
-
 ___
 
 ### GetActorEnableCollision
@@ -2407,10 +1863,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetActorEnableCollision](ue_ue.DefaultPawn.md#getactorenablecollision)
-
-#### Defined in
-
-[ue/ue.d.ts:13217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13217)
 
 ___
 
@@ -2433,10 +1885,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetActorEyesViewPoint](ue_ue.DefaultPawn.md#getactoreyesviewpoint)
 
-#### Defined in
-
-[ue/ue.d.ts:13218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13218)
-
 ___
 
 ### GetActorForwardVector
@@ -2450,10 +1898,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetActorForwardVector](ue_ue.DefaultPawn.md#getactorforwardvector)
-
-#### Defined in
-
-[ue/ue.d.ts:13219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13219)
 
 ___
 
@@ -2469,10 +1913,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetActorLabel](ue_ue.DefaultPawn.md#getactorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13220)
-
 ___
 
 ### GetActorRelativeScale3D
@@ -2486,10 +1926,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetActorRelativeScale3D](ue_ue.DefaultPawn.md#getactorrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13221)
 
 ___
 
@@ -2505,10 +1941,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetActorRightVector](ue_ue.DefaultPawn.md#getactorrightvector)
 
-#### Defined in
-
-[ue/ue.d.ts:13222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13222)
-
 ___
 
 ### GetActorScale3D
@@ -2522,10 +1954,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetActorScale3D](ue_ue.DefaultPawn.md#getactorscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13223)
 
 ___
 
@@ -2541,10 +1969,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetActorTickInterval](ue_ue.DefaultPawn.md#getactortickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:13224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13224)
-
 ___
 
 ### GetActorTimeDilation
@@ -2559,10 +1983,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetActorTimeDilation](ue_ue.DefaultPawn.md#getactortimedilation)
 
-#### Defined in
-
-[ue/ue.d.ts:13225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13225)
-
 ___
 
 ### GetActorUpVector
@@ -2576,10 +1996,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetActorUpVector](ue_ue.DefaultPawn.md#getactorupvector)
-
-#### Defined in
-
-[ue/ue.d.ts:13226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13226)
 
 ___
 
@@ -2602,10 +2018,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetAllChildActors](ue_ue.DefaultPawn.md#getallchildactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13227)
-
 ___
 
 ### GetAttachParentActor
@@ -2620,10 +2032,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetAttachParentActor](ue_ue.DefaultPawn.md#getattachparentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13229)
-
 ___
 
 ### GetAttachParentSocketName
@@ -2637,10 +2045,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetAttachParentSocketName](ue_ue.DefaultPawn.md#getattachparentsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:13230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13230)
 
 ___
 
@@ -2663,10 +2067,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetAttachedActors](ue_ue.DefaultPawn.md#getattachedactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13228)
-
 ___
 
 ### GetBaseAimRotation
@@ -2681,10 +2081,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetBaseAimRotation](ue_ue.DefaultPawn.md#getbaseaimrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12522](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12522)
-
 ___
 
 ### GetClass
@@ -2698,10 +2094,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetClass](ue_ue.DefaultPawn.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -2723,10 +2115,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetComponentByClass](ue_ue.DefaultPawn.md#getcomponentbyclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13231)
-
 ___
 
 ### GetComponentsByInterface
@@ -2746,10 +2134,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetComponentsByInterface](ue_ue.DefaultPawn.md#getcomponentsbyinterface)
-
-#### Defined in
-
-[ue/ue.d.ts:13232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13232)
 
 ___
 
@@ -2772,10 +2156,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetComponentsByTag](ue_ue.DefaultPawn.md#getcomponentsbytag)
 
-#### Defined in
-
-[ue/ue.d.ts:13233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13233)
-
 ___
 
 ### GetControlRotation
@@ -2790,10 +2170,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetControlRotation](ue_ue.DefaultPawn.md#getcontrolrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12524](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12524)
-
 ___
 
 ### GetController
@@ -2807,10 +2183,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetController](ue_ue.DefaultPawn.md#getcontroller)
-
-#### Defined in
-
-[ue/ue.d.ts:12523](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12523)
 
 ___
 
@@ -2832,10 +2204,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetDistanceTo](ue_ue.DefaultPawn.md#getdistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13234)
-
 ___
 
 ### GetDotProductTo
@@ -2856,10 +2224,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetDotProductTo](ue_ue.DefaultPawn.md#getdotproductto)
 
-#### Defined in
-
-[ue/ue.d.ts:13235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13235)
-
 ___
 
 ### GetFolderPath
@@ -2874,10 +2238,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetFolderPath](ue_ue.DefaultPawn.md#getfolderpath)
 
-#### Defined in
-
-[ue/ue.d.ts:13236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13236)
-
 ___
 
 ### GetGameTimeSinceCreation
@@ -2891,10 +2251,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetGameTimeSinceCreation](ue_ue.DefaultPawn.md#getgametimesincecreation)
-
-#### Defined in
-
-[ue/ue.d.ts:13237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13237)
 
 ___
 
@@ -2916,10 +2272,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetHorizontalDistanceTo](ue_ue.DefaultPawn.md#gethorizontaldistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13238)
-
 ___
 
 ### GetHorizontalDotProductTo
@@ -2939,10 +2291,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetHorizontalDotProductTo](ue_ue.DefaultPawn.md#gethorizontaldotproductto)
-
-#### Defined in
-
-[ue/ue.d.ts:13239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13239)
 
 ___
 
@@ -2964,10 +2312,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetInputAxisKeyValue](ue_ue.DefaultPawn.md#getinputaxiskeyvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:13240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13240)
-
 ___
 
 ### GetInputAxisValue
@@ -2987,10 +2331,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetInputAxisValue](ue_ue.DefaultPawn.md#getinputaxisvalue)
-
-#### Defined in
-
-[ue/ue.d.ts:13241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13241)
 
 ___
 
@@ -3012,10 +2352,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetInputVectorAxisValue](ue_ue.DefaultPawn.md#getinputvectoraxisvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:13242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13242)
-
 ___
 
 ### GetInstigator
@@ -3029,10 +2365,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetInstigator](ue_ue.DefaultPawn.md#getinstigator)
-
-#### Defined in
-
-[ue/ue.d.ts:13243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13243)
 
 ___
 
@@ -3048,10 +2380,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetInstigatorController](ue_ue.DefaultPawn.md#getinstigatorcontroller)
 
-#### Defined in
-
-[ue/ue.d.ts:13244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13244)
-
 ___
 
 ### GetLastMovementInputVector
@@ -3065,10 +2393,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetLastMovementInputVector](ue_ue.DefaultPawn.md#getlastmovementinputvector)
-
-#### Defined in
-
-[ue/ue.d.ts:12525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12525)
 
 ___
 
@@ -3084,10 +2408,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetLifeSpan](ue_ue.DefaultPawn.md#getlifespan)
 
-#### Defined in
-
-[ue/ue.d.ts:13245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13245)
-
 ___
 
 ### GetLocalRole
@@ -3101,10 +2421,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetLocalRole](ue_ue.DefaultPawn.md#getlocalrole)
-
-#### Defined in
-
-[ue/ue.d.ts:13246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13246)
 
 ___
 
@@ -3120,10 +2436,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetMovementComponent](ue_ue.DefaultPawn.md#getmovementcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12526](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12526)
-
 ___
 
 ### GetName
@@ -3137,10 +2449,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetName](ue_ue.DefaultPawn.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -3156,10 +2464,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetNavAgentLocation](ue_ue.DefaultPawn.md#getnavagentlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12527](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12527)
-
 ___
 
 ### GetOuter
@@ -3173,10 +2477,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetOuter](ue_ue.DefaultPawn.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -3199,10 +2499,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetOverlappingActors](ue_ue.DefaultPawn.md#getoverlappingactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13247)
-
 ___
 
 ### GetOverlappingComponents
@@ -3223,10 +2519,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetOverlappingComponents](ue_ue.DefaultPawn.md#getoverlappingcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13248)
-
 ___
 
 ### GetOwner
@@ -3240,10 +2532,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetOwner](ue_ue.DefaultPawn.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13249)
 
 ___
 
@@ -3259,10 +2547,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetParentActor](ue_ue.DefaultPawn.md#getparentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13250)
-
 ___
 
 ### GetParentComponent
@@ -3276,10 +2560,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetParentComponent](ue_ue.DefaultPawn.md#getparentcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13251)
 
 ___
 
@@ -3295,10 +2575,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetPendingMovementInputVector](ue_ue.DefaultPawn.md#getpendingmovementinputvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12528](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12528)
-
 ___
 
 ### GetRemoteRole
@@ -3312,10 +2588,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetRemoteRole](ue_ue.DefaultPawn.md#getremoterole)
-
-#### Defined in
-
-[ue/ue.d.ts:13252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13252)
 
 ___
 
@@ -3337,10 +2609,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetSquaredDistanceTo](ue_ue.DefaultPawn.md#getsquareddistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13253)
-
 ___
 
 ### GetTickableWhenPaused
@@ -3354,10 +2622,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetTickableWhenPaused](ue_ue.DefaultPawn.md#gettickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:13254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13254)
 
 ___
 
@@ -3373,10 +2637,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetTransform](ue_ue.DefaultPawn.md#gettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13255)
-
 ___
 
 ### GetVelocity
@@ -3390,10 +2650,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetVelocity](ue_ue.DefaultPawn.md#getvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:13256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13256)
 
 ___
 
@@ -3415,10 +2671,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetVerticalDistanceTo](ue_ue.DefaultPawn.md#getverticaldistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13257)
-
 ___
 
 ### GetWorld
@@ -3432,10 +2684,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetWorld](ue_ue.DefaultPawn.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -3451,10 +2699,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[HasAuthority](ue_ue.DefaultPawn.md#hasauthority)
 
-#### Defined in
-
-[ue/ue.d.ts:13258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13258)
-
 ___
 
 ### IsActorBeingDestroyed
@@ -3468,10 +2712,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[IsActorBeingDestroyed](ue_ue.DefaultPawn.md#isactorbeingdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13259)
 
 ___
 
@@ -3487,10 +2727,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[IsActorTickEnabled](ue_ue.DefaultPawn.md#isactortickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:13260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13260)
-
 ___
 
 ### IsBotControlled
@@ -3504,10 +2740,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[IsBotControlled](ue_ue.DefaultPawn.md#isbotcontrolled)
-
-#### Defined in
-
-[ue/ue.d.ts:12529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12529)
 
 ___
 
@@ -3523,10 +2755,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[IsChildActor](ue_ue.DefaultPawn.md#ischildactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13261)
-
 ___
 
 ### IsControlled
@@ -3540,10 +2768,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[IsControlled](ue_ue.DefaultPawn.md#iscontrolled)
-
-#### Defined in
-
-[ue/ue.d.ts:12530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12530)
 
 ___
 
@@ -3559,10 +2783,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[IsEditable](ue_ue.DefaultPawn.md#iseditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13262)
-
 ___
 
 ### IsHiddenEd
@@ -3576,10 +2796,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[IsHiddenEd](ue_ue.DefaultPawn.md#ishiddened)
-
-#### Defined in
-
-[ue/ue.d.ts:13263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13263)
 
 ___
 
@@ -3595,10 +2811,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[IsHiddenEdAtStartup](ue_ue.DefaultPawn.md#ishiddenedatstartup)
 
-#### Defined in
-
-[ue/ue.d.ts:13264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13264)
-
 ___
 
 ### IsLocallyControlled
@@ -3613,10 +2825,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[IsLocallyControlled](ue_ue.DefaultPawn.md#islocallycontrolled)
 
-#### Defined in
-
-[ue/ue.d.ts:12531](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12531)
-
 ___
 
 ### IsMoveInputIgnored
@@ -3630,10 +2838,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[IsMoveInputIgnored](ue_ue.DefaultPawn.md#ismoveinputignored)
-
-#### Defined in
-
-[ue/ue.d.ts:12532](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12532)
 
 ___
 
@@ -3655,10 +2859,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[IsOverlappingActor](ue_ue.DefaultPawn.md#isoverlappingactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13265)
-
 ___
 
 ### IsPawnControlled
@@ -3672,10 +2872,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[IsPawnControlled](ue_ue.DefaultPawn.md#ispawncontrolled)
-
-#### Defined in
-
-[ue/ue.d.ts:12533](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12533)
 
 ___
 
@@ -3691,10 +2887,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[IsPlayerControlled](ue_ue.DefaultPawn.md#isplayercontrolled)
 
-#### Defined in
-
-[ue/ue.d.ts:12534](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12534)
-
 ___
 
 ### IsSelectable
@@ -3708,10 +2900,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[IsSelectable](ue_ue.DefaultPawn.md#isselectable)
-
-#### Defined in
-
-[ue/ue.d.ts:13266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13266)
 
 ___
 
@@ -3732,10 +2920,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[IsTemporarilyHiddenInEditor](ue_ue.DefaultPawn.md#istemporarilyhiddenineditor)
-
-#### Defined in
-
-[ue/ue.d.ts:13267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13267)
 
 ___
 
@@ -3760,10 +2944,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_AddActorLocalOffset](ue_ue.DefaultPawn.md#k2_addactorlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:13268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13268)
-
 ___
 
 ### K2\_AddActorLocalRotation
@@ -3786,10 +2966,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_AddActorLocalRotation](ue_ue.DefaultPawn.md#k2_addactorlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13269)
 
 ___
 
@@ -3814,10 +2990,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_AddActorLocalTransform](ue_ue.DefaultPawn.md#k2_addactorlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13270)
-
 ___
 
 ### K2\_AddActorWorldOffset
@@ -3840,10 +3012,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_AddActorWorldOffset](ue_ue.DefaultPawn.md#k2_addactorworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:13271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13271)
 
 ___
 
@@ -3868,10 +3036,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_AddActorWorldRotation](ue_ue.DefaultPawn.md#k2_addactorworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13272)
-
 ___
 
 ### K2\_AddActorWorldTransform
@@ -3894,10 +3058,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_AddActorWorldTransform](ue_ue.DefaultPawn.md#k2_addactorworldtransform)
-
-#### Defined in
-
-[ue/ue.d.ts:13273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13273)
 
 ___
 
@@ -3922,10 +3082,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_AttachRootComponentTo](ue_ue.DefaultPawn.md#k2_attachrootcomponentto)
 
-#### Defined in
-
-[ue/ue.d.ts:13274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13274)
-
 ___
 
 ### K2\_AttachRootComponentToActor
@@ -3948,10 +3104,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_AttachRootComponentToActor](ue_ue.DefaultPawn.md#k2_attachrootcomponenttoactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13275)
 
 ___
 
@@ -3978,10 +3130,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_AttachToActor](ue_ue.DefaultPawn.md#k2_attachtoactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13276)
-
 ___
 
 ### K2\_AttachToComponent
@@ -4007,10 +3155,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_AttachToComponent](ue_ue.DefaultPawn.md#k2_attachtocomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13277)
-
 ___
 
 ### K2\_DestroyActor
@@ -4024,10 +3168,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_DestroyActor](ue_ue.DefaultPawn.md#k2_destroyactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13278)
 
 ___
 
@@ -4048,10 +3188,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_DestroyComponent](ue_ue.DefaultPawn.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13279)
 
 ___
 
@@ -4075,10 +3211,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_DetachFromActor](ue_ue.DefaultPawn.md#k2_detachfromactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13280)
-
 ___
 
 ### K2\_GetActorLocation
@@ -4093,10 +3225,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_GetActorLocation](ue_ue.DefaultPawn.md#k2_getactorlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:13281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13281)
-
 ___
 
 ### K2\_GetActorRotation
@@ -4110,10 +3238,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_GetActorRotation](ue_ue.DefaultPawn.md#k2_getactorrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13282)
 
 ___
 
@@ -4135,10 +3259,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_GetComponentsByClass](ue_ue.DefaultPawn.md#k2_getcomponentsbyclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13283)
-
 ___
 
 ### K2\_GetMovementInputVector
@@ -4153,10 +3273,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_GetMovementInputVector](ue_ue.DefaultPawn.md#k2_getmovementinputvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12535)
-
 ___
 
 ### K2\_GetRootComponent
@@ -4170,10 +3286,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_GetRootComponent](ue_ue.DefaultPawn.md#k2_getrootcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13284)
 
 ___
 
@@ -4195,10 +3307,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_OnBecomeViewTarget](ue_ue.DefaultPawn.md#k2_onbecomeviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13285)
-
 ___
 
 ### K2\_OnEndViewTarget
@@ -4219,10 +3327,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_OnEndViewTarget](ue_ue.DefaultPawn.md#k2_onendviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13286)
-
 ___
 
 ### K2\_OnReset
@@ -4236,10 +3340,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_OnReset](ue_ue.DefaultPawn.md#k2_onreset)
-
-#### Defined in
-
-[ue/ue.d.ts:13287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13287)
 
 ___
 
@@ -4263,10 +3363,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_SetActorLocation](ue_ue.DefaultPawn.md#k2_setactorlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13288)
 
 ___
 
@@ -4292,10 +3388,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_SetActorLocationAndRotation](ue_ue.DefaultPawn.md#k2_setactorlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13289)
-
 ___
 
 ### K2\_SetActorRelativeLocation
@@ -4318,10 +3410,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_SetActorRelativeLocation](ue_ue.DefaultPawn.md#k2_setactorrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13290)
 
 ___
 
@@ -4346,10 +3434,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_SetActorRelativeRotation](ue_ue.DefaultPawn.md#k2_setactorrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13291)
-
 ___
 
 ### K2\_SetActorRelativeTransform
@@ -4373,10 +3457,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_SetActorRelativeTransform](ue_ue.DefaultPawn.md#k2_setactorrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13292)
-
 ___
 
 ### K2\_SetActorRotation
@@ -4397,10 +3477,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_SetActorRotation](ue_ue.DefaultPawn.md#k2_setactorrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13293)
 
 ___
 
@@ -4425,10 +3501,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_SetActorTransform](ue_ue.DefaultPawn.md#k2_setactortransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13294)
-
 ___
 
 ### K2\_TeleportTo
@@ -4449,10 +3521,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[K2_TeleportTo](ue_ue.DefaultPawn.md#k2_teleportto)
-
-#### Defined in
-
-[ue/ue.d.ts:13295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13295)
 
 ___
 
@@ -4476,10 +3544,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[LaunchPawn](ue_ue.DefaultPawn.md#launchpawn)
 
-#### Defined in
-
-[ue/ue.d.ts:12536](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12536)
-
 ___
 
 ### LookUpAtRate
@@ -4500,10 +3564,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[LookUpAtRate](ue_ue.DefaultPawn.md#lookupatrate)
 
-#### Defined in
-
-[ue/ue.d.ts:10644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10644)
-
 ___
 
 ### MakeMIDForMaterial
@@ -4523,10 +3583,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[MakeMIDForMaterial](ue_ue.DefaultPawn.md#makemidformaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:13296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13296)
 
 ___
 
@@ -4552,10 +3608,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[MakeNoise](ue_ue.DefaultPawn.md#makenoise)
 
-#### Defined in
-
-[ue/ue.d.ts:13297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13297)
-
 ___
 
 ### MoveForward
@@ -4575,10 +3627,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[MoveForward](ue_ue.DefaultPawn.md#moveforward)
-
-#### Defined in
-
-[ue/ue.d.ts:10645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10645)
 
 ___
 
@@ -4600,10 +3648,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[MoveRight](ue_ue.DefaultPawn.md#moveright)
 
-#### Defined in
-
-[ue/ue.d.ts:10646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10646)
-
 ___
 
 ### MoveUp\_World
@@ -4624,10 +3668,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[MoveUp_World](ue_ue.DefaultPawn.md#moveup_world)
 
-#### Defined in
-
-[ue/ue.d.ts:10647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10647)
-
 ___
 
 ### OnRep\_AttachmentReplication
@@ -4641,10 +3681,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[OnRep_AttachmentReplication](ue_ue.DefaultPawn.md#onrep_attachmentreplication)
-
-#### Defined in
-
-[ue/ue.d.ts:13298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13298)
 
 ___
 
@@ -4660,10 +3696,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[OnRep_Controller](ue_ue.DefaultPawn.md#onrep_controller)
 
-#### Defined in
-
-[ue/ue.d.ts:12537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12537)
-
 ___
 
 ### OnRep\_Instigator
@@ -4677,10 +3709,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[OnRep_Instigator](ue_ue.DefaultPawn.md#onrep_instigator)
-
-#### Defined in
-
-[ue/ue.d.ts:13299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13299)
 
 ___
 
@@ -4696,10 +3724,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[OnRep_Owner](ue_ue.DefaultPawn.md#onrep_owner)
 
-#### Defined in
-
-[ue/ue.d.ts:13300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13300)
-
 ___
 
 ### OnRep\_PlayerState
@@ -4713,10 +3737,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[OnRep_PlayerState](ue_ue.DefaultPawn.md#onrep_playerstate)
-
-#### Defined in
-
-[ue/ue.d.ts:12538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12538)
 
 ___
 
@@ -4732,10 +3752,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[OnRep_ReplicateMovement](ue_ue.DefaultPawn.md#onrep_replicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13302)
-
 ___
 
 ### OnRep\_ReplicatedMovement
@@ -4749,10 +3765,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[OnRep_ReplicatedMovement](ue_ue.DefaultPawn.md#onrep_replicatedmovement)
-
-#### Defined in
-
-[ue/ue.d.ts:13301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13301)
 
 ___
 
@@ -4777,10 +3789,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[PawnMakeNoise](ue_ue.DefaultPawn.md#pawnmakenoise)
 
-#### Defined in
-
-[ue/ue.d.ts:12539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12539)
-
 ___
 
 ### PrestreamTextures
@@ -4803,10 +3811,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[PrestreamTextures](ue_ue.DefaultPawn.md#prestreamtextures)
 
-#### Defined in
-
-[ue/ue.d.ts:13303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13303)
-
 ___
 
 ### ReceiveActorBeginCursorOver
@@ -4820,10 +3824,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ReceiveActorBeginCursorOver](ue_ue.DefaultPawn.md#receiveactorbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13304)
 
 ___
 
@@ -4845,10 +3845,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ReceiveActorBeginOverlap](ue_ue.DefaultPawn.md#receiveactorbeginoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13305)
-
 ___
 
 ### ReceiveActorEndCursorOver
@@ -4862,10 +3858,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ReceiveActorEndCursorOver](ue_ue.DefaultPawn.md#receiveactorendcursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13306)
 
 ___
 
@@ -4887,10 +3879,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ReceiveActorEndOverlap](ue_ue.DefaultPawn.md#receiveactorendoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13307)
-
 ___
 
 ### ReceiveActorOnClicked
@@ -4910,10 +3898,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ReceiveActorOnClicked](ue_ue.DefaultPawn.md#receiveactoronclicked)
-
-#### Defined in
-
-[ue/ue.d.ts:13308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13308)
 
 ___
 
@@ -4935,10 +3919,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ReceiveActorOnInputTouchBegin](ue_ue.DefaultPawn.md#receiveactoroninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:13309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13309)
-
 ___
 
 ### ReceiveActorOnInputTouchEnd
@@ -4958,10 +3938,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ReceiveActorOnInputTouchEnd](ue_ue.DefaultPawn.md#receiveactoroninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:13310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13310)
 
 ___
 
@@ -4983,10 +3959,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ReceiveActorOnInputTouchEnter](ue_ue.DefaultPawn.md#receiveactoroninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:13311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13311)
-
 ___
 
 ### ReceiveActorOnInputTouchLeave
@@ -5007,10 +3979,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ReceiveActorOnInputTouchLeave](ue_ue.DefaultPawn.md#receiveactoroninputtouchleave)
 
-#### Defined in
-
-[ue/ue.d.ts:13312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13312)
-
 ___
 
 ### ReceiveActorOnReleased
@@ -5030,10 +3998,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ReceiveActorOnReleased](ue_ue.DefaultPawn.md#receiveactoronreleased)
-
-#### Defined in
-
-[ue/ue.d.ts:13313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13313)
 
 ___
 
@@ -5058,10 +4022,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ReceiveAnyDamage](ue_ue.DefaultPawn.md#receiveanydamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13314)
-
 ___
 
 ### ReceiveBeginPlay
@@ -5076,10 +4036,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ReceiveBeginPlay](ue_ue.DefaultPawn.md#receivebeginplay)
 
-#### Defined in
-
-[ue/ue.d.ts:13315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13315)
-
 ___
 
 ### ReceiveDestroyed
@@ -5093,10 +4049,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ReceiveDestroyed](ue_ue.DefaultPawn.md#receivedestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13316)
 
 ___
 
@@ -5117,10 +4069,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ReceiveEndPlay](ue_ue.DefaultPawn.md#receiveendplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13317)
 
 ___
 
@@ -5148,10 +4096,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ReceiveHit](ue_ue.DefaultPawn.md#receivehit)
-
-#### Defined in
-
-[ue/ue.d.ts:13318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13318)
 
 ___
 
@@ -5182,10 +4126,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ReceivePointDamage](ue_ue.DefaultPawn.md#receivepointdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13319)
-
 ___
 
 ### ReceivePossessed
@@ -5205,10 +4145,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ReceivePossessed](ue_ue.DefaultPawn.md#receivepossessed)
-
-#### Defined in
-
-[ue/ue.d.ts:12540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12540)
 
 ___
 
@@ -5235,10 +4171,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ReceiveRadialDamage](ue_ue.DefaultPawn.md#receiveradialdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13320)
-
 ___
 
 ### ReceiveTick
@@ -5258,10 +4190,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ReceiveTick](ue_ue.DefaultPawn.md#receivetick)
-
-#### Defined in
-
-[ue/ue.d.ts:13321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13321)
 
 ___
 
@@ -5283,10 +4211,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[ReceiveUnpossessed](ue_ue.DefaultPawn.md#receiveunpossessed)
 
-#### Defined in
-
-[ue/ue.d.ts:12541](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12541)
-
 ___
 
 ### RemoveTickPrerequisiteActor
@@ -5306,10 +4230,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[RemoveTickPrerequisiteActor](ue_ue.DefaultPawn.md#removetickprerequisiteactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13322)
 
 ___
 
@@ -5331,10 +4251,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[RemoveTickPrerequisiteComponent](ue_ue.DefaultPawn.md#removetickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13323)
-
 ___
 
 ### SetActorEnableCollision
@@ -5355,10 +4271,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[SetActorEnableCollision](ue_ue.DefaultPawn.md#setactorenablecollision)
 
-#### Defined in
-
-[ue/ue.d.ts:13324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13324)
-
 ___
 
 ### SetActorHiddenInGame
@@ -5378,10 +4290,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[SetActorHiddenInGame](ue_ue.DefaultPawn.md#setactorhiddeningame)
-
-#### Defined in
-
-[ue/ue.d.ts:13325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13325)
 
 ___
 
@@ -5404,10 +4312,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[SetActorLabel](ue_ue.DefaultPawn.md#setactorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13326)
-
 ___
 
 ### SetActorRelativeScale3D
@@ -5427,10 +4331,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[SetActorRelativeScale3D](ue_ue.DefaultPawn.md#setactorrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13327)
 
 ___
 
@@ -5452,10 +4352,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[SetActorScale3D](ue_ue.DefaultPawn.md#setactorscale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:13328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13328)
-
 ___
 
 ### SetActorTickEnabled
@@ -5476,10 +4372,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[SetActorTickEnabled](ue_ue.DefaultPawn.md#setactortickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:13329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13329)
-
 ___
 
 ### SetActorTickInterval
@@ -5499,10 +4391,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[SetActorTickInterval](ue_ue.DefaultPawn.md#setactortickinterval)
-
-#### Defined in
-
-[ue/ue.d.ts:13330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13330)
 
 ___
 
@@ -5525,10 +4413,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[SetCanAffectNavigationGeneration](ue_ue.DefaultPawn.md#setcanaffectnavigationgeneration)
 
-#### Defined in
-
-[ue/ue.d.ts:12542](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12542)
-
 ___
 
 ### SetFolderPath
@@ -5548,10 +4432,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[SetFolderPath](ue_ue.DefaultPawn.md#setfolderpath)
-
-#### Defined in
-
-[ue/ue.d.ts:13331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13331)
 
 ___
 
@@ -5573,10 +4453,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[SetIsTemporarilyHiddenInEditor](ue_ue.DefaultPawn.md#setistemporarilyhiddenineditor)
 
-#### Defined in
-
-[ue/ue.d.ts:13332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13332)
-
 ___
 
 ### SetLifeSpan
@@ -5596,10 +4472,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[SetLifeSpan](ue_ue.DefaultPawn.md#setlifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13333)
 
 ___
 
@@ -5621,10 +4493,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[SetNetDormancy](ue_ue.DefaultPawn.md#setnetdormancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13334)
-
 ___
 
 ### SetOwner
@@ -5644,10 +4512,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[SetOwner](ue_ue.DefaultPawn.md#setowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13335)
 
 ___
 
@@ -5669,10 +4533,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[SetReplicateMovement](ue_ue.DefaultPawn.md#setreplicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13336)
-
 ___
 
 ### SetReplicates
@@ -5692,10 +4552,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[SetReplicates](ue_ue.DefaultPawn.md#setreplicates)
-
-#### Defined in
-
-[ue/ue.d.ts:13337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13337)
 
 ___
 
@@ -5717,10 +4573,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[SetTickGroup](ue_ue.DefaultPawn.md#settickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:13339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13339)
-
 ___
 
 ### SetTickableWhenPaused
@@ -5740,10 +4592,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[SetTickableWhenPaused](ue_ue.DefaultPawn.md#settickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:13338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13338)
 
 ___
 
@@ -5766,10 +4614,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[SnapRootComponentTo](ue_ue.DefaultPawn.md#snaprootcomponentto)
 
-#### Defined in
-
-[ue/ue.d.ts:13340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13340)
-
 ___
 
 ### SpawnDefaultController
@@ -5784,10 +4628,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[SpawnDefaultController](ue_ue.DefaultPawn.md#spawndefaultcontroller)
 
-#### Defined in
-
-[ue/ue.d.ts:12543](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12543)
-
 ___
 
 ### TearOff
@@ -5801,10 +4641,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[TearOff](ue_ue.DefaultPawn.md#tearoff)
-
-#### Defined in
-
-[ue/ue.d.ts:13341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13341)
 
 ___
 
@@ -5826,10 +4662,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[TurnAtRate](ue_ue.DefaultPawn.md#turnatrate)
 
-#### Defined in
-
-[ue/ue.d.ts:10648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10648)
-
 ___
 
 ### UserConstructionScript
@@ -5843,10 +4675,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[UserConstructionScript](ue_ue.DefaultPawn.md#userconstructionscript)
-
-#### Defined in
-
-[ue/ue.d.ts:13342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13342)
 
 ___
 
@@ -5867,10 +4695,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[WasRecentlyRendered](ue_ue.DefaultPawn.md#wasrecentlyrendered)
-
-#### Defined in
-
-[ue/ue.d.ts:13343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13343)
 
 ___
 
@@ -5893,10 +4717,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[Find](ue_ue.DefaultPawn.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:10659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10659)
-
 ___
 
 ### GetMovementBaseActor
@@ -5916,10 +4736,6 @@ ___
 #### Inherited from
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[GetMovementBaseActor](ue_ue.DefaultPawn.md#getmovementbaseactor)
-
-#### Defined in
-
-[ue/ue.d.ts:12544](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12544)
 
 ___
 
@@ -5941,10 +4757,6 @@ ___
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[Load](ue_ue.DefaultPawn.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:10660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10660)
-
 ___
 
 ### StaticClass
@@ -5958,7 +4770,3 @@ ___
 #### Overrides
 
 [DefaultPawn](ue_ue.DefaultPawn.md).[StaticClass](ue_ue.DefaultPawn.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:10658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10658)

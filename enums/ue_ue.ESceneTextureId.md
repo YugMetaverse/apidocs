@@ -46,19 +46,11 @@
 
 • **PPI\_AmbientOcclusion** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
-
 ___
 
 ### PPI\_BaseColor
 
 • **PPI\_BaseColor** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
 
 ___
 
@@ -66,19 +58,11 @@ ___
 
 • **PPI\_CustomDepth** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
-
 ___
 
 ### PPI\_CustomStencil
 
 • **PPI\_CustomStencil** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
 
 ___
 
@@ -86,19 +70,11 @@ ___
 
 • **PPI\_DecalMask** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
-
 ___
 
 ### PPI\_DiffuseColor
 
 • **PPI\_DiffuseColor** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
 
 ___
 
@@ -106,19 +82,11 @@ ___
 
 • **PPI\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
-
 ___
 
 ### PPI\_MaterialAO
 
 • **PPI\_MaterialAO** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
 
 ___
 
@@ -126,19 +94,11 @@ ___
 
 • **PPI\_Metallic** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
-
 ___
 
 ### PPI\_Opacity
 
 • **PPI\_Opacity** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
 
 ___
 
@@ -146,19 +106,11 @@ ___
 
 • **PPI\_PostProcessInput0** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
-
 ___
 
 ### PPI\_PostProcessInput1
 
 • **PPI\_PostProcessInput1** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
 
 ___
 
@@ -166,19 +118,11 @@ ___
 
 • **PPI\_PostProcessInput2** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
-
 ___
 
 ### PPI\_PostProcessInput3
 
 • **PPI\_PostProcessInput3** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
 
 ___
 
@@ -186,19 +130,11 @@ ___
 
 • **PPI\_PostProcessInput4** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
-
 ___
 
 ### PPI\_PostProcessInput5
 
 • **PPI\_PostProcessInput5** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
 
 ___
 
@@ -206,19 +142,11 @@ ___
 
 • **PPI\_PostProcessInput6** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
-
 ___
 
 ### PPI\_Roughness
 
 • **PPI\_Roughness** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
 
 ___
 
@@ -226,19 +154,11 @@ ___
 
 • **PPI\_SceneColor** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
-
 ___
 
 ### PPI\_SceneDepth
 
 • **PPI\_SceneDepth** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
 
 ___
 
@@ -246,19 +166,11 @@ ___
 
 • **PPI\_SeparateTranslucency** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
-
 ___
 
 ### PPI\_ShadingModelColor
 
 • **PPI\_ShadingModelColor** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
 
 ___
 
@@ -266,19 +178,11 @@ ___
 
 • **PPI\_ShadingModelID** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
-
 ___
 
 ### PPI\_Specular
 
 • **PPI\_Specular** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
 
 ___
 
@@ -286,19 +190,11 @@ ___
 
 • **PPI\_SpecularColor** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
-
 ___
 
 ### PPI\_StoredBaseColor
 
 • **PPI\_StoredBaseColor** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
 
 ___
 
@@ -306,19 +202,11 @@ ___
 
 • **PPI\_StoredSpecular** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
-
 ___
 
 ### PPI\_SubsurfaceColor
 
 • **PPI\_SubsurfaceColor** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
 
 ___
 
@@ -326,26 +214,14 @@ ___
 
 • **PPI\_Velocity** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
-
 ___
 
 ### PPI\_WorldNormal
 
 • **PPI\_WorldNormal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34754)

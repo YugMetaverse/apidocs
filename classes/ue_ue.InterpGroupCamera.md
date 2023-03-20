@@ -63,29 +63,17 @@
 
 [InterpGroup](ue_ue.InterpGroup.md).[constructor](ue_ue.InterpGroup.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:39684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39684)
-
 ## Properties
 
 ### CameraAnimInst
 
 • **CameraAnimInst**: [`CameraAnim`](ue_ue.CameraAnim.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39685)
-
 ___
 
 ### CompressTolerance
 
 • **CompressTolerance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:39687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39687)
 
 ___
 
@@ -97,10 +85,6 @@ ___
 
 [InterpGroup](ue_ue.InterpGroup.md).[GroupColor](ue_ue.InterpGroup.md#groupcolor)
 
-#### Defined in
-
-[ue/ue.d.ts:7510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7510)
-
 ___
 
 ### GroupName
@@ -110,10 +94,6 @@ ___
 #### Inherited from
 
 [InterpGroup](ue_ue.InterpGroup.md).[GroupName](ue_ue.InterpGroup.md#groupname)
-
-#### Defined in
-
-[ue/ue.d.ts:7509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7509)
 
 ___
 
@@ -125,29 +105,17 @@ ___
 
 [InterpGroup](ue_ue.InterpGroup.md).[InterpTracks](ue_ue.InterpGroup.md#interptracks)
 
-#### Defined in
-
-[ue/ue.d.ts:7508](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7508)
-
 ___
 
 ### Target
 
 • **Target**: [`CameraPreviewInfo`](ue_ue.CameraPreviewInfo.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39686](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39686)
-
 ___
 
 ### \_\_tid\_InterpGroupCamera\_\_
 
 • **\_\_tid\_InterpGroupCamera\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39692](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39692)
 
 ___
 
@@ -159,10 +127,6 @@ ___
 
 [InterpGroup](ue_ue.InterpGroup.md).[__tid_InterpGroup__](ue_ue.InterpGroup.md#__tid_interpgroup__)
 
-#### Defined in
-
-[ue/ue.d.ts:7520](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7520)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -172,10 +136,6 @@ ___
 #### Inherited from
 
 [InterpGroup](ue_ue.InterpGroup.md).[__tid_Object__](ue_ue.InterpGroup.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -187,10 +147,6 @@ ___
 
 [InterpGroup](ue_ue.InterpGroup.md).[bCollapsed](ue_ue.InterpGroup.md#bcollapsed)
 
-#### Defined in
-
-[ue/ue.d.ts:7511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7511)
-
 ___
 
 ### bIsFolder
@@ -200,10 +156,6 @@ ___
 #### Inherited from
 
 [InterpGroup](ue_ue.InterpGroup.md).[bIsFolder](ue_ue.InterpGroup.md#bisfolder)
-
-#### Defined in
-
-[ue/ue.d.ts:7513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7513)
 
 ___
 
@@ -215,10 +167,6 @@ ___
 
 [InterpGroup](ue_ue.InterpGroup.md).[bIsParented](ue_ue.InterpGroup.md#bisparented)
 
-#### Defined in
-
-[ue/ue.d.ts:7514](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7514)
-
 ___
 
 ### bIsSelected
@@ -229,10 +177,6 @@ ___
 
 [InterpGroup](ue_ue.InterpGroup.md).[bIsSelected](ue_ue.InterpGroup.md#bisselected)
 
-#### Defined in
-
-[ue/ue.d.ts:7515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7515)
-
 ___
 
 ### bVisible
@@ -242,10 +186,6 @@ ___
 #### Inherited from
 
 [InterpGroup](ue_ue.InterpGroup.md).[bVisible](ue_ue.InterpGroup.md#bvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:7512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7512)
 
 ## Methods
 
@@ -271,10 +211,6 @@ ___
 
 [InterpGroup](ue_ue.InterpGroup.md).[CreateDefaultSubobject](ue_ue.InterpGroup.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -295,10 +231,6 @@ ___
 
 [InterpGroup](ue_ue.InterpGroup.md).[ExecuteUbergraph](ue_ue.InterpGroup.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -312,10 +244,6 @@ ___
 #### Inherited from
 
 [InterpGroup](ue_ue.InterpGroup.md).[GetClass](ue_ue.InterpGroup.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -331,10 +259,6 @@ ___
 
 [InterpGroup](ue_ue.InterpGroup.md).[GetName](ue_ue.InterpGroup.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -349,10 +273,6 @@ ___
 
 [InterpGroup](ue_ue.InterpGroup.md).[GetOuter](ue_ue.InterpGroup.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -366,10 +286,6 @@ ___
 #### Inherited from
 
 [InterpGroup](ue_ue.InterpGroup.md).[GetWorld](ue_ue.InterpGroup.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -392,10 +308,6 @@ ___
 
 [InterpGroup](ue_ue.InterpGroup.md).[Find](ue_ue.InterpGroup.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:39689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39689)
-
 ___
 
 ### Load
@@ -416,10 +328,6 @@ ___
 
 [InterpGroup](ue_ue.InterpGroup.md).[Load](ue_ue.InterpGroup.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:39690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39690)
-
 ___
 
 ### StaticClass
@@ -433,7 +341,3 @@ ___
 #### Overrides
 
 [InterpGroup](ue_ue.InterpGroup.md).[StaticClass](ue_ue.InterpGroup.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:39688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39688)

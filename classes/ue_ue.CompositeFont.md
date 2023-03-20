@@ -28,10 +28,6 @@
 
 • **new CompositeFont**()
 
-#### Defined in
-
-[ue/ue.d.ts:1957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1957)
-
 • **new CompositeFont**(`DefaultTypeface`, `FallbackTypeface`, `SubTypefaces`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `FallbackTypeface` | [`CompositeFallbackFont`](ue_ue.CompositeFallbackFont.md) |
 | `SubTypefaces` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`CompositeSubFont`](ue_ue.CompositeSubFont.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:1958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1958)
-
 ## Properties
 
 ### DefaultTypeface
 
 • **DefaultTypeface**: [`Typeface`](ue_ue.Typeface.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1959)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **FallbackTypeface**: [`CompositeFallbackFont`](ue_ue.CompositeFallbackFont.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1960)
-
 ___
 
 ### SubTypefaces
 
 • **SubTypefaces**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`CompositeSubFont`](ue_ue.CompositeSubFont.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:1961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1961)
-
 ___
 
 ### \_\_tid\_CompositeFont\_\_
 
 • `Private` **\_\_tid\_CompositeFont\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1967)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1965](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1965)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1966)

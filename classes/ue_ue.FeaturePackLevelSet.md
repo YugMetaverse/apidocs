@@ -27,10 +27,6 @@
 
 • **new FeaturePackLevelSet**()
 
-#### Defined in
-
-[ue/ue.d.ts:30590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30590)
-
 • **new FeaturePackLevelSet**(`DetailLevels`, `MountName`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `DetailLevels` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`EFeaturePackDetailLevel`](../enums/ue_ue.EFeaturePackDetailLevel.md)\> |
 | `MountName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:30591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30591)
-
 ## Properties
 
 ### DetailLevels
 
 • **DetailLevels**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`EFeaturePackDetailLevel`](../enums/ue_ue.EFeaturePackDetailLevel.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:30592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30592)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **MountName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:30593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30593)
-
 ___
 
 ### \_\_tid\_FeaturePackLevelSet\_\_
 
 • `Private` **\_\_tid\_FeaturePackLevelSet\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30599)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:30597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30597)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:30598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30598)

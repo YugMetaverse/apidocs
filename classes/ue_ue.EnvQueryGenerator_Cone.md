@@ -65,19 +65,11 @@
 
 [EnvQueryGenerator_ProjectedPoints](ue_ue.EnvQueryGenerator_ProjectedPoints.md).[constructor](ue_ue.EnvQueryGenerator_ProjectedPoints.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:34323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34323)
-
 ## Properties
 
 ### AlignedPointsDistance
 
 • **AlignedPointsDistance**: [`AIDataProviderFloatValue`](ue_ue.AIDataProviderFloatValue.md)
-
-#### Defined in
-
-[ue/ue.d.ts:34324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34324)
 
 ___
 
@@ -85,29 +77,17 @@ ___
 
 • **AngleStep**: [`AIDataProviderFloatValue`](ue_ue.AIDataProviderFloatValue.md)
 
-#### Defined in
-
-[ue/ue.d.ts:34326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34326)
-
 ___
 
 ### CenterActor
 
 • **CenterActor**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:34328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34328)
-
 ___
 
 ### ConeDegrees
 
 • **ConeDegrees**: [`AIDataProviderFloatValue`](ue_ue.AIDataProviderFloatValue.md)
-
-#### Defined in
-
-[ue/ue.d.ts:34325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34325)
 
 ___
 
@@ -119,10 +99,6 @@ ___
 
 [EnvQueryGenerator_ProjectedPoints](ue_ue.EnvQueryGenerator_ProjectedPoints.md).[ItemType](ue_ue.EnvQueryGenerator_ProjectedPoints.md#itemtype)
 
-#### Defined in
-
-[ue/ue.d.ts:15476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15476)
-
 ___
 
 ### OptionName
@@ -132,10 +108,6 @@ ___
 #### Inherited from
 
 [EnvQueryGenerator_ProjectedPoints](ue_ue.EnvQueryGenerator_ProjectedPoints.md).[OptionName](ue_ue.EnvQueryGenerator_ProjectedPoints.md#optionname)
-
-#### Defined in
-
-[ue/ue.d.ts:15475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15475)
 
 ___
 
@@ -147,19 +119,11 @@ ___
 
 [EnvQueryGenerator_ProjectedPoints](ue_ue.EnvQueryGenerator_ProjectedPoints.md).[ProjectionData](ue_ue.EnvQueryGenerator_ProjectedPoints.md#projectiondata)
 
-#### Defined in
-
-[ue/ue.d.ts:34314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34314)
-
 ___
 
 ### Range
 
 • **Range**: [`AIDataProviderFloatValue`](ue_ue.AIDataProviderFloatValue.md)
-
-#### Defined in
-
-[ue/ue.d.ts:34327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34327)
 
 ___
 
@@ -171,19 +135,11 @@ ___
 
 [EnvQueryGenerator_ProjectedPoints](ue_ue.EnvQueryGenerator_ProjectedPoints.md).[VerNum](ue_ue.EnvQueryGenerator_ProjectedPoints.md#vernum)
 
-#### Defined in
-
-[ue/ue.d.ts:15465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15465)
-
 ___
 
 ### \_\_tid\_EnvQueryGenerator\_Cone\_\_
 
 • **\_\_tid\_EnvQueryGenerator\_Cone\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:34334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34334)
 
 ___
 
@@ -195,10 +151,6 @@ ___
 
 [EnvQueryGenerator_ProjectedPoints](ue_ue.EnvQueryGenerator_ProjectedPoints.md).[__tid_EnvQueryGenerator_ProjectedPoints__](ue_ue.EnvQueryGenerator_ProjectedPoints.md#__tid_envquerygenerator_projectedpoints__)
 
-#### Defined in
-
-[ue/ue.d.ts:34319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34319)
-
 ___
 
 ### \_\_tid\_EnvQueryGenerator\_\_
@@ -208,10 +160,6 @@ ___
 #### Inherited from
 
 [EnvQueryGenerator_ProjectedPoints](ue_ue.EnvQueryGenerator_ProjectedPoints.md).[__tid_EnvQueryGenerator__](ue_ue.EnvQueryGenerator_ProjectedPoints.md#__tid_envquerygenerator__)
-
-#### Defined in
-
-[ue/ue.d.ts:15482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15482)
 
 ___
 
@@ -223,10 +171,6 @@ ___
 
 [EnvQueryGenerator_ProjectedPoints](ue_ue.EnvQueryGenerator_ProjectedPoints.md).[__tid_EnvQueryNode__](ue_ue.EnvQueryGenerator_ProjectedPoints.md#__tid_envquerynode__)
 
-#### Defined in
-
-[ue/ue.d.ts:15470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15470)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -236,10 +180,6 @@ ___
 #### Inherited from
 
 [EnvQueryGenerator_ProjectedPoints](ue_ue.EnvQueryGenerator_ProjectedPoints.md).[__tid_Object__](ue_ue.EnvQueryGenerator_ProjectedPoints.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -251,19 +191,11 @@ ___
 
 [EnvQueryGenerator_ProjectedPoints](ue_ue.EnvQueryGenerator_ProjectedPoints.md).[bAutoSortTests](ue_ue.EnvQueryGenerator_ProjectedPoints.md#bautosorttests)
 
-#### Defined in
-
-[ue/ue.d.ts:15477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15477)
-
 ___
 
 ### bIncludeContextLocation
 
 • **bIncludeContextLocation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:34329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34329)
 
 ## Methods
 
@@ -289,10 +221,6 @@ ___
 
 [EnvQueryGenerator_ProjectedPoints](ue_ue.EnvQueryGenerator_ProjectedPoints.md).[CreateDefaultSubobject](ue_ue.EnvQueryGenerator_ProjectedPoints.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -313,10 +241,6 @@ ___
 
 [EnvQueryGenerator_ProjectedPoints](ue_ue.EnvQueryGenerator_ProjectedPoints.md).[ExecuteUbergraph](ue_ue.EnvQueryGenerator_ProjectedPoints.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -330,10 +254,6 @@ ___
 #### Inherited from
 
 [EnvQueryGenerator_ProjectedPoints](ue_ue.EnvQueryGenerator_ProjectedPoints.md).[GetClass](ue_ue.EnvQueryGenerator_ProjectedPoints.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -349,10 +269,6 @@ ___
 
 [EnvQueryGenerator_ProjectedPoints](ue_ue.EnvQueryGenerator_ProjectedPoints.md).[GetName](ue_ue.EnvQueryGenerator_ProjectedPoints.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -367,10 +283,6 @@ ___
 
 [EnvQueryGenerator_ProjectedPoints](ue_ue.EnvQueryGenerator_ProjectedPoints.md).[GetOuter](ue_ue.EnvQueryGenerator_ProjectedPoints.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -384,10 +296,6 @@ ___
 #### Inherited from
 
 [EnvQueryGenerator_ProjectedPoints](ue_ue.EnvQueryGenerator_ProjectedPoints.md).[GetWorld](ue_ue.EnvQueryGenerator_ProjectedPoints.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -410,10 +318,6 @@ ___
 
 [EnvQueryGenerator_ProjectedPoints](ue_ue.EnvQueryGenerator_ProjectedPoints.md).[Find](ue_ue.EnvQueryGenerator_ProjectedPoints.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:34331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34331)
-
 ___
 
 ### Load
@@ -434,10 +338,6 @@ ___
 
 [EnvQueryGenerator_ProjectedPoints](ue_ue.EnvQueryGenerator_ProjectedPoints.md).[Load](ue_ue.EnvQueryGenerator_ProjectedPoints.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:34332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34332)
-
 ___
 
 ### StaticClass
@@ -451,7 +351,3 @@ ___
 #### Overrides
 
 [EnvQueryGenerator_ProjectedPoints](ue_ue.EnvQueryGenerator_ProjectedPoints.md).[StaticClass](ue_ue.EnvQueryGenerator_ProjectedPoints.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:34330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34330)

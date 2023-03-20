@@ -22,19 +22,11 @@
 
 • **AssistingLaser** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31419)
-
 ___
 
 ### EControllerType\_MAX
 
 • **EControllerType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31419)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **Laser** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31419)
-
 ___
 
 ### Navigation
 
 • **Navigation** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31419)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **UI** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31419)
-
 ___
 
 ### Unknown
 
 • **Unknown** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31419)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31419)

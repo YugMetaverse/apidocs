@@ -29,10 +29,6 @@
 
 • **new DatasmithTessellationOptions**()
 
-#### Defined in
-
-[ue/ue.d.ts:29476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29476)
-
 • **new DatasmithTessellationOptions**(`ChordTolerance`, `MaxEdgeLength`, `NormalTolerance`, `StitchingTechnique`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `NormalTolerance` | `number` |
 | `StitchingTechnique` | [`EDatasmithCADStitchingTechnique`](../enums/ue_ue.EDatasmithCADStitchingTechnique.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:29477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29477)
-
 ## Properties
 
 ### ChordTolerance
 
 • **ChordTolerance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29478)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **MaxEdgeLength**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29479)
-
 ___
 
 ### NormalTolerance
 
 • **NormalTolerance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29480)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **StitchingTechnique**: [`EDatasmithCADStitchingTechnique`](../enums/ue_ue.EDatasmithCADStitchingTechnique.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29481)
-
 ___
 
 ### \_\_tid\_DatasmithTessellationOptions\_\_
 
 • `Private` **\_\_tid\_DatasmithTessellationOptions\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29487)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29485)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29486)

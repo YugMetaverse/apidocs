@@ -30,10 +30,6 @@
 
 • **new InterpCurvePointFloat**()
 
-#### Defined in
-
-[ue/ue.d.ts:25838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25838)
-
 • **new InterpCurvePointFloat**(`InVal`, `OutVal`, `ArriveTangent`, `LeaveTangent`, `InterpMode`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `LeaveTangent` | `number` |
 | `InterpMode` | [`EInterpCurveMode`](../enums/ue_ue.EInterpCurveMode.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:25839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25839)
-
 ## Properties
 
 ### ArriveTangent
 
 • **ArriveTangent**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:25842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25842)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **InVal**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25840)
-
 ___
 
 ### InterpMode
 
 • **InterpMode**: [`EInterpCurveMode`](../enums/ue_ue.EInterpCurveMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25844)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **LeaveTangent**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25843)
-
 ___
 
 ### OutVal
 
 • **OutVal**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25841)
-
 ___
 
 ### \_\_tid\_InterpCurvePointFloat\_\_
 
 • `Private` **\_\_tid\_InterpCurvePointFloat\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:25850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25850)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25848)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25849)

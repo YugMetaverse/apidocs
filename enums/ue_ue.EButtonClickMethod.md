@@ -21,19 +21,11 @@
 
 • **DownAndUp** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25627)
-
 ___
 
 ### EButtonClickMethod\_MAX
 
 • **EButtonClickMethod\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:25627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25627)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **MouseDown** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25627)
-
 ___
 
 ### MouseUp
 
 • **MouseUp** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:25627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25627)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **PreciseClick** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25627)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:25627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25627)

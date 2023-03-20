@@ -27,10 +27,6 @@
 
 • **new ActorSequenceObjectReferenceMap**()
 
-#### Defined in
-
-[ue/ue.d.ts:14110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14110)
-
 • **new ActorSequenceObjectReferenceMap**(`BindingIds`, `References`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `BindingIds` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Guid`](ue_ue_s.Guid.md)\> |
 | `References` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ActorSequenceObjectReferences`](ue_ue.ActorSequenceObjectReferences.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:14111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14111)
-
 ## Properties
 
 ### BindingIds
 
 • **BindingIds**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Guid`](ue_ue_s.Guid.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:14112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14112)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **References**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ActorSequenceObjectReferences`](ue_ue.ActorSequenceObjectReferences.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:14113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14113)
-
 ___
 
 ### \_\_tid\_ActorSequenceObjectReferenceMap\_\_
 
 • `Private` **\_\_tid\_ActorSequenceObjectReferenceMap\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14119)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14117)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14118)

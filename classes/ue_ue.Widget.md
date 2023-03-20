@@ -194,19 +194,11 @@
 
 [Visual](ue_ue.Visual.md).[constructor](ue_ue.Visual.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:10924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10924)
-
 ## Properties
 
 ### AccessibleBehavior
 
 • **AccessibleBehavior**: [`ESlateAccessibleBehavior`](../enums/ue_ue.ESlateAccessibleBehavior.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10940)
 
 ___
 
@@ -214,19 +206,11 @@ ___
 
 • **AccessibleSummaryBehavior**: [`ESlateAccessibleBehavior`](../enums/ue_ue.ESlateAccessibleBehavior.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10941)
-
 ___
 
 ### AccessibleSummaryText
 
 • **AccessibleSummaryText**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:10944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10944)
 
 ___
 
@@ -234,19 +218,11 @@ ___
 
 • **AccessibleSummaryTextDelegate**: [`$Delegate`](../interfaces/ue_puerts._Delegate.md)<() => `string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:10945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10945)
-
 ___
 
 ### AccessibleText
 
 • **AccessibleText**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:10942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10942)
 
 ___
 
@@ -254,19 +230,11 @@ ___
 
 • **AccessibleTextDelegate**: [`$Delegate`](../interfaces/ue_puerts._Delegate.md)<() => `string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:10943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10943)
-
 ___
 
 ### AccessibleWidgetData
 
 • **AccessibleWidgetData**: [`SlateAccessibleWidgetData`](ue_ue.SlateAccessibleWidgetData.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10946)
 
 ___
 
@@ -274,19 +242,11 @@ ___
 
 • **CategoryName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:10960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10960)
-
 ___
 
 ### Clipping
 
 • **Clipping**: [`EWidgetClipping`](../enums/ue_ue.EWidgetClipping.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10952)
 
 ___
 
@@ -294,19 +254,11 @@ ___
 
 • **Cursor**: [`EMouseCursor`](../enums/ue_ue.EMouseCursor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10951)
-
 ___
 
 ### DesignerFlags
 
 • **DesignerFlags**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10958)
 
 ___
 
@@ -314,19 +266,11 @@ ___
 
 • **DisplayLabel**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:10959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10959)
-
 ___
 
 ### FlowDirectionPreference
 
 • **FlowDirectionPreference**: [`EFlowDirectionPreference`](../enums/ue_ue.EFlowDirectionPreference.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10956)
 
 ___
 
@@ -334,19 +278,11 @@ ___
 
 • **NativeBindings**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PropertyBinding`](ue_ue.PropertyBinding.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:10957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10957)
-
 ___
 
 ### Navigation
 
 • **Navigation**: [`WidgetNavigation`](ue_ue.WidgetNavigation.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10955)
 
 ___
 
@@ -354,19 +290,11 @@ ___
 
 • **RenderOpacity**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10954)
-
 ___
 
 ### RenderTransform
 
 • **RenderTransform**: [`WidgetTransform`](ue_ue.WidgetTransform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10932)
 
 ___
 
@@ -374,19 +302,11 @@ ___
 
 • **RenderTransformPivot**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10933)
-
 ___
 
 ### Slot
 
 • **Slot**: [`PanelSlot`](ue_ue.PanelSlot.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10925)
 
 ___
 
@@ -394,19 +314,11 @@ ___
 
 • **ToolTipText**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:10927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10927)
-
 ___
 
 ### ToolTipTextDelegate
 
 • **ToolTipTextDelegate**: [`$Delegate`](../interfaces/ue_puerts._Delegate.md)<() => `string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:10928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10928)
 
 ___
 
@@ -414,19 +326,11 @@ ___
 
 • **ToolTipWidget**: [`Widget`](ue_ue.Widget.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10929)
-
 ___
 
 ### ToolTipWidgetDelegate
 
 • **ToolTipWidgetDelegate**: [`$Delegate`](../interfaces/ue_puerts._Delegate.md)<() => [`Widget`](ue_ue.Widget.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:10930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10930)
 
 ___
 
@@ -434,19 +338,11 @@ ___
 
 • **Visibility**: [`ESlateVisibility`](../enums/ue_ue.ESlateVisibility.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10953)
-
 ___
 
 ### VisibilityDelegate
 
 • **VisibilityDelegate**: [`$Delegate`](../interfaces/ue_puerts._Delegate.md)<() => [`ESlateVisibility`](../enums/ue_ue.ESlateVisibility.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:10931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10931)
 
 ___
 
@@ -458,10 +354,6 @@ ___
 
 [Visual](ue_ue.Visual.md).[__tid_Object__](ue_ue.Visual.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_Visual\_\_
@@ -472,19 +364,11 @@ ___
 
 [Visual](ue_ue.Visual.md).[__tid_Visual__](ue_ue.Visual.md#__tid_visual__)
 
-#### Defined in
-
-[ue/ue.d.ts:10673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10673)
-
 ___
 
 ### \_\_tid\_Widget\_\_
 
 • **\_\_tid\_Widget\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11029](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11029)
 
 ___
 
@@ -492,19 +376,11 @@ ___
 
 • **bCanChildrenBeAccessible**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:10939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10939)
-
 ___
 
 ### bCreatedByConstructionScript
 
 • **bCreatedByConstructionScript**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10935)
 
 ___
 
@@ -512,19 +388,11 @@ ___
 
 • **bExpandedInDesigner**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:10949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10949)
-
 ___
 
 ### bHiddenInDesigner
 
 • **bHiddenInDesigner**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10948)
 
 ___
 
@@ -532,19 +400,11 @@ ___
 
 • **bIsEnabled**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:10936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10936)
-
 ___
 
 ### bIsEnabledDelegate
 
 • **bIsEnabledDelegate**: [`$Delegate`](../interfaces/ue_puerts._Delegate.md)<() => `boolean`\>
-
-#### Defined in
-
-[ue/ue.d.ts:10926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10926)
 
 ___
 
@@ -552,19 +412,11 @@ ___
 
 • **bIsVariable**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:10934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10934)
-
 ___
 
 ### bIsVolatile
 
 • **bIsVolatile**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10947)
 
 ___
 
@@ -572,29 +424,17 @@ ___
 
 • **bLockedInDesigner**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:10950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10950)
-
 ___
 
 ### bOverrideAccessibleDefaults
 
 • **bOverrideAccessibleDefaults**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:10938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10938)
-
 ___
 
 ### bOverride\_Cursor
 
 • **bOverride\_Cursor**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10937)
 
 ## Methods
 
@@ -620,10 +460,6 @@ ___
 
 [Visual](ue_ue.Visual.md).[CreateDefaultSubobject](ue_ue.Visual.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -644,10 +480,6 @@ ___
 
 [Visual](ue_ue.Visual.md).[ExecuteUbergraph](ue_ue.Visual.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### ForceLayoutPrepass
@@ -657,10 +489,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:10961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10961)
 
 ___
 
@@ -678,10 +506,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:10962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10962)
-
 ___
 
 ### GenerateWidgetForObject\_\_DelegateSignature
@@ -697,10 +521,6 @@ ___
 #### Returns
 
 [`Widget`](ue_ue.Widget.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10963)
 
 ___
 
@@ -718,10 +538,6 @@ ___
 
 [`Widget`](ue_ue.Widget.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10964](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10964)
-
 ___
 
 ### GetBool\_\_DelegateSignature
@@ -731,10 +547,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10965](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10965)
 
 ___
 
@@ -746,10 +558,6 @@ ___
 
 [`Geometry`](ue_ue.Geometry.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10966)
-
 ___
 
 ### GetCheckBoxState\_\_DelegateSignature
@@ -759,10 +567,6 @@ ___
 #### Returns
 
 [`ECheckBoxState`](../enums/ue_ue.ECheckBoxState.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10967)
 
 ___
 
@@ -778,10 +582,6 @@ ___
 
 [Visual](ue_ue.Visual.md).[GetClass](ue_ue.Visual.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetClipping
@@ -791,10 +591,6 @@ ___
 #### Returns
 
 [`EWidgetClipping`](../enums/ue_ue.EWidgetClipping.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10968)
 
 ___
 
@@ -806,10 +602,6 @@ ___
 
 [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10969)
-
 ___
 
 ### GetFloat\_\_DelegateSignature
@@ -819,10 +611,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10970)
 
 ___
 
@@ -834,10 +622,6 @@ ___
 
 [`GameInstance`](ue_ue.GameInstance.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10971)
-
 ___
 
 ### GetInt32\_\_DelegateSignature
@@ -847,10 +631,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10972)
 
 ___
 
@@ -862,10 +642,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:10973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10973)
-
 ___
 
 ### GetLinearColor\_\_DelegateSignature
@@ -876,10 +652,6 @@ ___
 
 [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10974)
-
 ___
 
 ### GetMouseCursor\_\_DelegateSignature
@@ -889,10 +661,6 @@ ___
 #### Returns
 
 [`EMouseCursor`](../enums/ue_ue.EMouseCursor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10975](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10975)
 
 ___
 
@@ -908,10 +676,6 @@ ___
 
 [Visual](ue_ue.Visual.md).[GetName](ue_ue.Visual.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -926,10 +690,6 @@ ___
 
 [Visual](ue_ue.Visual.md).[GetOuter](ue_ue.Visual.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetOwningLocalPlayer
@@ -939,10 +699,6 @@ ___
 #### Returns
 
 [`LocalPlayer`](ue_ue.LocalPlayer.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10976)
 
 ___
 
@@ -954,10 +710,6 @@ ___
 
 [`PlayerController`](ue_ue.PlayerController.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10977)
-
 ___
 
 ### GetPaintSpaceGeometry
@@ -967,10 +719,6 @@ ___
 #### Returns
 
 [`Geometry`](ue_ue.Geometry.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10978)
 
 ___
 
@@ -982,10 +730,6 @@ ___
 
 [`PanelWidget`](ue_ue.PanelWidget.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10979)
-
 ___
 
 ### GetRenderOpacity
@@ -995,10 +739,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10980)
 
 ___
 
@@ -1010,10 +750,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10981)
-
 ___
 
 ### GetSlateBrush\_\_DelegateSignature
@@ -1023,10 +759,6 @@ ___
 #### Returns
 
 [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10982)
 
 ___
 
@@ -1038,10 +770,6 @@ ___
 
 [`SlateColor`](ue_ue.SlateColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10983)
-
 ___
 
 ### GetSlateVisibility\_\_DelegateSignature
@@ -1051,10 +779,6 @@ ___
 #### Returns
 
 [`ESlateVisibility`](../enums/ue_ue.ESlateVisibility.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10984)
 
 ___
 
@@ -1066,10 +790,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:10985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10985)
-
 ___
 
 ### GetTickSpaceGeometry
@@ -1079,10 +799,6 @@ ___
 #### Returns
 
 [`Geometry`](ue_ue.Geometry.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10986](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10986)
 
 ___
 
@@ -1094,10 +810,6 @@ ___
 
 [`ESlateVisibility`](../enums/ue_ue.ESlateVisibility.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10987)
-
 ___
 
 ### GetWidget\_\_DelegateSignature
@@ -1107,10 +819,6 @@ ___
 #### Returns
 
 [`Widget`](ue_ue.Widget.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10988)
 
 ___
 
@@ -1126,10 +834,6 @@ ___
 
 [Visual](ue_ue.Visual.md).[GetWorld](ue_ue.Visual.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### HasAnyUserFocus
@@ -1139,10 +843,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10989)
 
 ___
 
@@ -1154,10 +854,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:10990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10990)
-
 ___
 
 ### HasKeyboardFocus
@@ -1168,10 +864,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:10991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10991)
-
 ___
 
 ### HasMouseCapture
@@ -1181,10 +873,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10992)
 
 ___
 
@@ -1203,10 +891,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:10993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10993)
-
 ___
 
 ### HasUserFocus
@@ -1222,10 +906,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10994)
 
 ___
 
@@ -1243,10 +923,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:10995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10995)
-
 ___
 
 ### InvalidateLayoutAndVolatility
@@ -1256,10 +932,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:10996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10996)
 
 ___
 
@@ -1271,10 +943,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:10997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10997)
-
 ___
 
 ### IsVisible
@@ -1284,10 +952,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10998)
 
 ___
 
@@ -1306,10 +970,6 @@ ___
 
 [`EventReply`](ue_ue.EventReply.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10999)
-
 ___
 
 ### OnReply\_\_DelegateSignature
@@ -1319,10 +979,6 @@ ___
 #### Returns
 
 [`EventReply`](ue_ue.EventReply.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11000)
 
 ___
 
@@ -1334,10 +990,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:11001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11001)
-
 ___
 
 ### ResetCursor
@@ -1347,10 +999,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:11002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11002)
 
 ___
 
@@ -1369,10 +1017,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:11003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11003)
-
 ___
 
 ### SetClipping
@@ -1388,10 +1032,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:11004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11004)
 
 ___
 
@@ -1409,10 +1049,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:11005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11005)
-
 ___
 
 ### SetFocus
@@ -1422,10 +1058,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:11006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11006)
 
 ___
 
@@ -1443,10 +1075,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:11007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11007)
-
 ___
 
 ### SetKeyboardFocus
@@ -1456,10 +1084,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:11008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11008)
 
 ___
 
@@ -1479,10 +1103,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:11009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11009)
-
 ___
 
 ### SetNavigationRuleBase
@@ -1499,10 +1119,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:11010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11010)
 
 ___
 
@@ -1521,10 +1137,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:11011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11011)
-
 ___
 
 ### SetNavigationRuleCustomBoundary
@@ -1541,10 +1153,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:11012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11012)
 
 ___
 
@@ -1563,10 +1171,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:11013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11013)
-
 ___
 
 ### SetRenderOpacity
@@ -1582,10 +1186,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:11014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11014)
 
 ___
 
@@ -1603,10 +1203,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:11015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11015)
-
 ___
 
 ### SetRenderShear
@@ -1622,10 +1218,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:11016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11016)
 
 ___
 
@@ -1643,10 +1235,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:11017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11017)
-
 ___
 
 ### SetRenderTransformAngle
@@ -1662,10 +1250,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:11018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11018)
 
 ___
 
@@ -1683,10 +1267,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:11019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11019)
-
 ___
 
 ### SetRenderTranslation
@@ -1702,10 +1282,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:11020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11020)
 
 ___
 
@@ -1723,10 +1299,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:11021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11021)
-
 ___
 
 ### SetToolTipText
@@ -1742,10 +1314,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:11022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11022)
 
 ___
 
@@ -1763,10 +1331,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:11023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11023)
-
 ___
 
 ### SetVisibility
@@ -1782,10 +1346,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:11024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11024)
 
 ___
 
@@ -1808,10 +1368,6 @@ ___
 
 [Visual](ue_ue.Visual.md).[Find](ue_ue.Visual.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:11026](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11026)
-
 ___
 
 ### Load
@@ -1832,10 +1388,6 @@ ___
 
 [Visual](ue_ue.Visual.md).[Load](ue_ue.Visual.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:11027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11027)
-
 ___
 
 ### StaticClass
@@ -1849,7 +1401,3 @@ ___
 #### Overrides
 
 [Visual](ue_ue.Visual.md).[StaticClass](ue_ue.Visual.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:11025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11025)

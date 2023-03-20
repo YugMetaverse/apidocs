@@ -26,10 +26,6 @@
 
 • **new MovieSceneSegmentIdentifier**()
 
-#### Defined in
-
-[ue/ue.d.ts:11224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11224)
-
 • **new MovieSceneSegmentIdentifier**(`IdentifierIndex`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `IdentifierIndex` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:11225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11225)
-
 ## Properties
 
 ### IdentifierIndex
 
 • **IdentifierIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11226)
-
 ___
 
 ### \_\_tid\_MovieSceneSegmentIdentifier\_\_
 
 • `Private` **\_\_tid\_MovieSceneSegmentIdentifier\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11232)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11230)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11231)

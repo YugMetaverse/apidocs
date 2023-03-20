@@ -41,10 +41,6 @@
 
 • **new TextureLODGroup**()
 
-#### Defined in
-
-[ue/ue.d.ts:30761](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30761)
-
 • **new TextureLODGroup**(`Group`, `LODBias`, `LODBias_Smaller`, `LODBias_Smallest`, `NumStreamedMips`, `MipGenSettings`, `MinLODSize`, `MaxLODSize`, `MaxLODSize_Smaller`, `MaxLODSize_Smallest`, `OptionalLODBias`, `OptionalMaxLODSize`, `MinMagFilter`, `MipFilter`, `MipLoadOptions`, `DuplicateNonOptionalMips`)
 
 #### Parameters
@@ -68,19 +64,11 @@
 | `MipLoadOptions` | [`ETextureMipLoadOptions`](../enums/ue_ue.ETextureMipLoadOptions.md) |
 | `DuplicateNonOptionalMips` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:30762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30762)
-
 ## Properties
 
 ### DuplicateNonOptionalMips
 
 • **DuplicateNonOptionalMips**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30778](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30778)
 
 ___
 
@@ -88,19 +76,11 @@ ___
 
 • **Group**: [`TextureGroup`](../enums/ue_ue.TextureGroup.md)
 
-#### Defined in
-
-[ue/ue.d.ts:30763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30763)
-
 ___
 
 ### LODBias
 
 • **LODBias**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30764)
 
 ___
 
@@ -108,19 +88,11 @@ ___
 
 • **LODBias\_Smaller**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30765)
-
 ___
 
 ### LODBias\_Smallest
 
 • **LODBias\_Smallest**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30766)
 
 ___
 
@@ -128,19 +100,11 @@ ___
 
 • **MaxLODSize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30770)
-
 ___
 
 ### MaxLODSize\_Smaller
 
 • **MaxLODSize\_Smaller**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30771)
 
 ___
 
@@ -148,19 +112,11 @@ ___
 
 • **MaxLODSize\_Smallest**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30772)
-
 ___
 
 ### MinLODSize
 
 • **MinLODSize**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30769)
 
 ___
 
@@ -168,19 +124,11 @@ ___
 
 • **MinMagFilter**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:30775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30775)
-
 ___
 
 ### MipFilter
 
 • **MipFilter**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:30776](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30776)
 
 ___
 
@@ -188,19 +136,11 @@ ___
 
 • **MipGenSettings**: [`TextureMipGenSettings`](../enums/ue_ue.TextureMipGenSettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:30768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30768)
-
 ___
 
 ### MipLoadOptions
 
 • **MipLoadOptions**: [`ETextureMipLoadOptions`](../enums/ue_ue.ETextureMipLoadOptions.md)
-
-#### Defined in
-
-[ue/ue.d.ts:30777](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30777)
 
 ___
 
@@ -208,19 +148,11 @@ ___
 
 • **NumStreamedMips**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30767)
-
 ___
 
 ### OptionalLODBias
 
 • **OptionalLODBias**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30773)
 
 ___
 
@@ -228,19 +160,11 @@ ___
 
 • **OptionalMaxLODSize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30774)
-
 ___
 
 ### \_\_tid\_TextureLODGroup\_\_
 
 • `Private` **\_\_tid\_TextureLODGroup\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30784)
 
 ## Methods
 
@@ -256,10 +180,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:30782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30782)
-
 ___
 
 ### StaticStruct
@@ -269,7 +189,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:30783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30783)

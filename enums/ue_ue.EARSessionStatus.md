@@ -24,19 +24,11 @@
 
 • **EARSessionStatus\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20963)
-
 ___
 
 ### FatalError
 
 • **FatalError** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20963)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **NotStarted** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20963)
-
 ___
 
 ### NotSupported
 
 • **NotSupported** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20963)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **Other** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20963)
-
 ___
 
 ### PermissionNotGranted
 
 • **PermissionNotGranted** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20963)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **Running** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20963)
-
 ___
 
 ### UnsupportedConfiguration
 
 • **UnsupportedConfiguration** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20963)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20963)

@@ -31,10 +31,6 @@
 
 • **new ParticleRandomSeedInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:55580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55580)
-
 • **new ParticleRandomSeedInfo**(`ParameterName`, `bGetSeedFromInstance`, `bInstanceSeedIsIndex`, `bResetSeedOnEmitterLooping`, `bRandomlySelectSeedArray`, `RandomSeeds`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `bRandomlySelectSeedArray` | `boolean` |
 | `RandomSeeds` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:55581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55581)
-
 ## Properties
 
 ### ParameterName
 
 • **ParameterName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:55582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55582)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **RandomSeeds**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:55587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55587)
-
 ___
 
 ### \_\_tid\_ParticleRandomSeedInfo\_\_
 
 • `Private` **\_\_tid\_ParticleRandomSeedInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55593)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **bGetSeedFromInstance**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:55583](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55583)
-
 ___
 
 ### bInstanceSeedIsIndex
 
 • **bInstanceSeedIsIndex**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55584)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **bRandomlySelectSeedArray**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:55586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55586)
-
 ___
 
 ### bResetSeedOnEmitterLooping
 
 • **bResetSeedOnEmitterLooping**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55585)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:55591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55591)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:55592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55592)

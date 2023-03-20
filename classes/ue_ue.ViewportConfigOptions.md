@@ -29,10 +29,6 @@
 
 • **new ViewportConfigOptions**()
 
-#### Defined in
-
-[ue/ue.d.ts:57177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57177)
-
 • **new ViewportConfigOptions**(`ViewModeIndex`, `ViewFOV`, `CameraFollowMode`, `CameraFollowBoneName`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `CameraFollowMode` | [`EAnimationViewportCameraFollowMode`](../enums/ue_ue.EAnimationViewportCameraFollowMode.md) |
 | `CameraFollowBoneName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:57178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57178)
-
 ## Properties
 
 ### CameraFollowBoneName
 
 • **CameraFollowBoneName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:57182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57182)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **CameraFollowMode**: [`EAnimationViewportCameraFollowMode`](../enums/ue_ue.EAnimationViewportCameraFollowMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57181)
-
 ___
 
 ### ViewFOV
 
 • **ViewFOV**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57180)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **ViewModeIndex**: [`EViewModeIndex`](../enums/ue_ue.EViewModeIndex.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57179)
-
 ___
 
 ### \_\_tid\_ViewportConfigOptions\_\_
 
 • `Private` **\_\_tid\_ViewportConfigOptions\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57188)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57186)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57187)

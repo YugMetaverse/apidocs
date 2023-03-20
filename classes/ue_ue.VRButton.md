@@ -26,10 +26,6 @@
 
 • **new VRButton**()
 
-#### Defined in
-
-[ue/ue.d.ts:65852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65852)
-
 • **new VRButton**(`ButtonWidget`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `ButtonWidget` | [`VREditorWidgetComponent`](ue_ue.VREditorWidgetComponent.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:65853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65853)
-
 ## Properties
 
 ### ButtonWidget
 
 • **ButtonWidget**: [`VREditorWidgetComponent`](ue_ue.VREditorWidgetComponent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65854](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65854)
-
 ___
 
 ### \_\_tid\_VRButton\_\_
 
 • `Private` **\_\_tid\_VRButton\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:65860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65860)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65858)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65859](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65859)

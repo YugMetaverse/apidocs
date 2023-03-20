@@ -20,19 +20,11 @@
 
 • **Comparison** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31376](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31376)
-
 ___
 
 ### EAutomationArtifactType\_MAX
 
 • **EAutomationArtifactType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31376](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31376)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Image** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31376](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31376)
-
 ___
 
 ### None
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31376](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31376)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31376](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31376)

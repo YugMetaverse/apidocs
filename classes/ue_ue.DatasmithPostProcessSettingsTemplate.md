@@ -41,10 +41,6 @@
 
 • **new DatasmithPostProcessSettingsTemplate**()
 
-#### Defined in
-
-[ue/ue.d.ts:29563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29563)
-
 • **new DatasmithPostProcessSettingsTemplate**(`bOverride_WhiteTemp`, `bOverride_ColorSaturation`, `bOverride_VignetteIntensity`, `bOverride_FilmWhitePoint`, `bOverride_AutoExposureMethod`, `bOverride_CameraISO`, `bOverride_CameraShutterSpeed`, `bOverride_DepthOfFieldFstop`, `WhiteTemp`, `VignetteIntensity`, `FilmWhitePoint`, `ColorSaturation`, `AutoExposureMethod`, `CameraISO`, `CameraShutterSpeed`, `DepthOfFieldFstop`)
 
 #### Parameters
@@ -68,19 +64,11 @@
 | `CameraShutterSpeed` | `number` |
 | `DepthOfFieldFstop` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:29564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29564)
-
 ## Properties
 
 ### AutoExposureMethod
 
 • **AutoExposureMethod**: [`EAutoExposureMethod`](../enums/ue_ue.EAutoExposureMethod.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29577)
 
 ___
 
@@ -88,19 +76,11 @@ ___
 
 • **CameraISO**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29578)
-
 ___
 
 ### CameraShutterSpeed
 
 • **CameraShutterSpeed**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29579](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29579)
 
 ___
 
@@ -108,19 +88,11 @@ ___
 
 • **ColorSaturation**: [`Vector4`](ue_ue_s.Vector4.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29576)
-
 ___
 
 ### DepthOfFieldFstop
 
 • **DepthOfFieldFstop**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29580)
 
 ___
 
@@ -128,19 +100,11 @@ ___
 
 • **FilmWhitePoint**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29575)
-
 ___
 
 ### VignetteIntensity
 
 • **VignetteIntensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29574)
 
 ___
 
@@ -148,19 +112,11 @@ ___
 
 • **WhiteTemp**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29573)
-
 ___
 
 ### \_\_tid\_DatasmithPostProcessSettingsTemplate\_\_
 
 • `Private` **\_\_tid\_DatasmithPostProcessSettingsTemplate\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29586)
 
 ___
 
@@ -168,19 +124,11 @@ ___
 
 • **bOverride\_AutoExposureMethod**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:29569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29569)
-
 ___
 
 ### bOverride\_CameraISO
 
 • **bOverride\_CameraISO**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29570)
 
 ___
 
@@ -188,19 +136,11 @@ ___
 
 • **bOverride\_CameraShutterSpeed**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:29571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29571)
-
 ___
 
 ### bOverride\_ColorSaturation
 
 • **bOverride\_ColorSaturation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29566)
 
 ___
 
@@ -208,19 +148,11 @@ ___
 
 • **bOverride\_DepthOfFieldFstop**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:29572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29572)
-
 ___
 
 ### bOverride\_FilmWhitePoint
 
 • **bOverride\_FilmWhitePoint**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29568)
 
 ___
 
@@ -228,19 +160,11 @@ ___
 
 • **bOverride\_VignetteIntensity**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:29567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29567)
-
 ___
 
 ### bOverride\_WhiteTemp
 
 • **bOverride\_WhiteTemp**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29565)
 
 ## Methods
 
@@ -256,10 +180,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29584)
-
 ___
 
 ### StaticStruct
@@ -269,7 +189,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29585)

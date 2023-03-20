@@ -25,19 +25,11 @@
 
 • **new PaintContext**()
 
-#### Defined in
-
-[ue/ue.d.ts:11998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11998)
-
 ## Properties
 
 ### \_\_tid\_PaintContext\_\_
 
 • `Private` **\_\_tid\_PaintContext\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:12004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12004)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:12002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12002)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:12003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12003)

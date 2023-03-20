@@ -33,10 +33,6 @@
 
 • **new MovieSceneEvent**()
 
-#### Defined in
-
-[ue/ue.d.ts:51705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51705)
-
 • **new MovieSceneEvent**(`Ptrs`, `PayloadVariables`, `CompiledFunctionName`, `BoundObjectPinName`, `GraphGuid`, `NodeGuid`, `WeakCachedEndpoint`, `FunctionEntry`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `WeakCachedEndpoint` | [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`Object`](ue_ue.Object.md)\> |
 | `FunctionEntry` | [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`Object`](ue_ue.Object.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:51706](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51706)
-
 ## Properties
 
 ### BoundObjectPinName
 
 • **BoundObjectPinName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:51710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51710)
 
 ___
 
@@ -72,19 +60,11 @@ ___
 
 • **CompiledFunctionName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:51709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51709)
-
 ___
 
 ### FunctionEntry
 
 • **FunctionEntry**: [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`Object`](ue_ue.Object.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:51714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51714)
 
 ___
 
@@ -92,19 +72,11 @@ ___
 
 • **GraphGuid**: [`Guid`](ue_ue_s.Guid.md)
 
-#### Defined in
-
-[ue/ue.d.ts:51711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51711)
-
 ___
 
 ### NodeGuid
 
 • **NodeGuid**: [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue.d.ts:51712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51712)
 
 ___
 
@@ -112,19 +84,11 @@ ___
 
 • **PayloadVariables**: [`TMap`](../interfaces/ue_puerts.TMap.md)<`string`, [`MovieSceneEventPayloadVariable`](ue_ue.MovieSceneEventPayloadVariable.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:51708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51708)
-
 ___
 
 ### Ptrs
 
 • **Ptrs**: [`MovieSceneEventPtrs`](ue_ue.MovieSceneEventPtrs.md)
-
-#### Defined in
-
-[ue/ue.d.ts:51707](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51707)
 
 ___
 
@@ -132,19 +96,11 @@ ___
 
 • **WeakCachedEndpoint**: [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`Object`](ue_ue.Object.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:51713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51713)
-
 ___
 
 ### \_\_tid\_MovieSceneEvent\_\_
 
 • `Private` **\_\_tid\_MovieSceneEvent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:51720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51720)
 
 ## Methods
 
@@ -160,10 +116,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:51718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51718)
-
 ___
 
 ### StaticStruct
@@ -173,7 +125,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:51719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51719)

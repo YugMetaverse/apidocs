@@ -241,10 +241,6 @@
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[constructor](ue_ue.LightComponentBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:21396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21396)
-
 ## Properties
 
 ### AssetUserData
@@ -254,10 +250,6 @@
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[AssetUserData](ue_ue.LightComponentBase.md#assetuserdata)
-
-#### Defined in
-
-[ue/ue.d.ts:291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L291)
 
 ___
 
@@ -269,10 +261,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[AttachChildren](ue_ue.LightComponentBase.md#attachchildren)
 
-#### Defined in
-
-[ue/ue.d.ts:12873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12873)
-
 ___
 
 ### AttachParent
@@ -282,10 +270,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[AttachParent](ue_ue.LightComponentBase.md#attachparent)
-
-#### Defined in
-
-[ue/ue.d.ts:12871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12871)
 
 ___
 
@@ -297,19 +281,11 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[AttachSocketName](ue_ue.LightComponentBase.md#attachsocketname)
 
-#### Defined in
-
-[ue/ue.d.ts:12872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12872)
-
 ___
 
 ### BlendDestinationCubemap
 
 • **BlendDestinationCubemap**: [`TextureCube`](ue_ue.TextureCube.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21411)
 
 ___
 
@@ -321,10 +297,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[Brightness](ue_ue.LightComponentBase.md#brightness)
 
-#### Defined in
-
-[ue/ue.d.ts:21357](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21357)
-
 ___
 
 ### CastDynamicShadows
@@ -334,10 +306,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[CastDynamicShadows](ue_ue.LightComponentBase.md#castdynamicshadows)
-
-#### Defined in
-
-[ue/ue.d.ts:21363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21363)
 
 ___
 
@@ -349,10 +317,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[CastShadows](ue_ue.LightComponentBase.md#castshadows)
 
-#### Defined in
-
-[ue/ue.d.ts:21361](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21361)
-
 ___
 
 ### CastStaticShadows
@@ -362,10 +326,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[CastStaticShadows](ue_ue.LightComponentBase.md#caststaticshadows)
-
-#### Defined in
-
-[ue/ue.d.ts:21362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21362)
 
 ___
 
@@ -377,10 +337,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[ClientAttachedChildren](ue_ue.LightComponentBase.md#clientattachedchildren)
 
-#### Defined in
-
-[ue/ue.d.ts:12874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12874)
-
 ___
 
 ### ComponentTags
@@ -390,10 +346,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[ComponentTags](ue_ue.LightComponentBase.md#componenttags)
-
-#### Defined in
-
-[ue/ue.d.ts:290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L290)
 
 ___
 
@@ -405,19 +357,11 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[ComponentVelocity](ue_ue.LightComponentBase.md#componentvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12878)
-
 ___
 
 ### Contrast
 
 • **Contrast**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21406)
 
 ___
 
@@ -429,29 +373,17 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[CreationMethod](ue_ue.LightComponentBase.md#creationmethod)
 
-#### Defined in
-
-[ue/ue.d.ts:302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L302)
-
 ___
 
 ### Cubemap
 
 • **Cubemap**: [`TextureCube`](ue_ue.TextureCube.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21398)
-
 ___
 
 ### CubemapResolution
 
 • **CubemapResolution**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21400)
 
 ___
 
@@ -463,10 +395,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[DetailMode](ue_ue.LightComponentBase.md#detailmode)
 
-#### Defined in
-
-[ue/ue.d.ts:12893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12893)
-
 ___
 
 ### DynamicEditorTexture
@@ -476,10 +404,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[DynamicEditorTexture](ue_ue.LightComponentBase.md#dynamiceditortexture)
-
-#### Defined in
-
-[ue/ue.d.ts:21376](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21376)
 
 ___
 
@@ -491,10 +415,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[DynamicEditorTextureScale](ue_ue.LightComponentBase.md#dynamiceditortexturescale)
 
-#### Defined in
-
-[ue/ue.d.ts:21377](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21377)
-
 ___
 
 ### IndirectLightingIntensity
@@ -504,10 +424,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[IndirectLightingIntensity](ue_ue.LightComponentBase.md#indirectlightingintensity)
-
-#### Defined in
-
-[ue/ue.d.ts:21371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21371)
 
 ___
 
@@ -519,10 +435,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[Intensity](ue_ue.LightComponentBase.md#intensity)
 
-#### Defined in
-
-[ue/ue.d.ts:21358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21358)
-
 ___
 
 ### LightColor
@@ -532,10 +444,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[LightColor](ue_ue.LightComponentBase.md#lightcolor)
-
-#### Defined in
-
-[ue/ue.d.ts:21359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21359)
 
 ___
 
@@ -547,29 +455,17 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[LightGuid](ue_ue.LightComponentBase.md#lightguid)
 
-#### Defined in
-
-[ue/ue.d.ts:21356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21356)
-
 ___
 
 ### LowerHemisphereColor
 
 • **LowerHemisphereColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21404)
-
 ___
 
 ### MinOcclusion
 
 • **MinOcclusion**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21408)
 
 ___
 
@@ -581,19 +477,11 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[Mobility](ue_ue.LightComponentBase.md#mobility)
 
-#### Defined in
-
-[ue/ue.d.ts:12892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12892)
-
 ___
 
 ### OcclusionCombineMode
 
 • **OcclusionCombineMode**: [`EOcclusionCombineMode`](../enums/ue_ue.EOcclusionCombineMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21410)
 
 ___
 
@@ -601,29 +489,17 @@ ___
 
 • **OcclusionExponent**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21407)
-
 ___
 
 ### OcclusionMaxDistance
 
 • **OcclusionMaxDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21405)
-
 ___
 
 ### OcclusionTint
 
 • **OcclusionTint**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21409)
 
 ___
 
@@ -635,10 +511,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[OnComponentActivated](ue_ue.LightComponentBase.md#oncomponentactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L303)
-
 ___
 
 ### OnComponentDeactivated
@@ -648,10 +520,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[OnComponentDeactivated](ue_ue.LightComponentBase.md#oncomponentdeactivated)
-
-#### Defined in
-
-[ue/ue.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L304)
 
 ___
 
@@ -663,10 +531,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[PhysicsVolume](ue_ue.LightComponentBase.md#physicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12870)
-
 ___
 
 ### PhysicsVolumeChangedDelegate
@@ -676,10 +540,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[PhysicsVolumeChangedDelegate](ue_ue.LightComponentBase.md#physicsvolumechangeddelegate)
-
-#### Defined in
-
-[ue/ue.d.ts:12894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12894)
 
 ___
 
@@ -691,10 +551,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[PrimaryComponentTick](ue_ue.LightComponentBase.md#primarycomponenttick)
 
-#### Defined in
-
-[ue/ue.d.ts:289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L289)
-
 ___
 
 ### RelativeLocation
@@ -704,10 +560,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[RelativeLocation](ue_ue.LightComponentBase.md#relativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12875)
 
 ___
 
@@ -719,10 +571,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[RelativeRotation](ue_ue.LightComponentBase.md#relativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12876)
-
 ___
 
 ### RelativeScale3D
@@ -732,10 +580,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[RelativeScale3D](ue_ue.LightComponentBase.md#relativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:12877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12877)
 
 ___
 
@@ -747,19 +591,11 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[SamplesPerPixel](ue_ue.LightComponentBase.md#samplesperpixel)
 
-#### Defined in
-
-[ue/ue.d.ts:21373](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21373)
-
 ___
 
 ### SkyDistanceThreshold
 
 • **SkyDistanceThreshold**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21401)
 
 ___
 
@@ -767,19 +603,11 @@ ___
 
 • **SourceCubemapAngle**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21399)
-
 ___
 
 ### SourceType
 
 • **SourceType**: [`ESkyLightSourceType`](../enums/ue_ue.ESkyLightSourceType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21397)
 
 ___
 
@@ -791,10 +619,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[StaticEditorTexture](ue_ue.LightComponentBase.md#staticeditortexture)
 
-#### Defined in
-
-[ue/ue.d.ts:21374](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21374)
-
 ___
 
 ### StaticEditorTextureScale
@@ -804,10 +628,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[StaticEditorTextureScale](ue_ue.LightComponentBase.md#staticeditortexturescale)
-
-#### Defined in
-
-[ue/ue.d.ts:21375](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21375)
 
 ___
 
@@ -819,10 +639,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[UCSModifiedProperties](ue_ue.LightComponentBase.md#ucsmodifiedproperties)
 
-#### Defined in
-
-[ue/ue.d.ts:305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L305)
-
 ___
 
 ### VolumetricScatteringIntensity
@@ -832,10 +648,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[VolumetricScatteringIntensity](ue_ue.LightComponentBase.md#volumetricscatteringintensity)
-
-#### Defined in
-
-[ue/ue.d.ts:21372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21372)
 
 ___
 
@@ -847,10 +659,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[__tid_ActorComponent__](ue_ue.LightComponentBase.md#__tid_actorcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L336)
-
 ___
 
 ### \_\_tid\_LightComponentBase\_\_
@@ -860,10 +668,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[__tid_LightComponentBase__](ue_ue.LightComponentBase.md#__tid_lightcomponentbase__)
-
-#### Defined in
-
-[ue/ue.d.ts:21390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21390)
 
 ___
 
@@ -875,10 +679,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[__tid_Object__](ue_ue.LightComponentBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_SceneComponent\_\_
@@ -889,19 +689,11 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[__tid_SceneComponent__](ue_ue.LightComponentBase.md#__tid_scenecomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:12961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12961)
-
 ___
 
 ### \_\_tid\_SkyLightComponent\_\_
 
 • **\_\_tid\_SkyLightComponent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21428)
 
 ___
 
@@ -913,10 +705,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bAbsoluteLocation](ue_ue.LightComponentBase.md#babsolutelocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12880)
-
 ___
 
 ### bAbsoluteRotation
@@ -926,10 +714,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bAbsoluteRotation](ue_ue.LightComponentBase.md#babsoluterotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12881)
 
 ___
 
@@ -941,10 +725,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bAbsoluteScale](ue_ue.LightComponentBase.md#babsolutescale)
 
-#### Defined in
-
-[ue/ue.d.ts:12882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12882)
-
 ___
 
 ### bAffectGlobalIllumination
@@ -954,10 +734,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bAffectGlobalIllumination](ue_ue.LightComponentBase.md#baffectglobalillumination)
-
-#### Defined in
-
-[ue/ue.d.ts:21370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21370)
 
 ___
 
@@ -969,10 +745,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bAffectReflection](ue_ue.LightComponentBase.md#baffectreflection)
 
-#### Defined in
-
-[ue/ue.d.ts:21369](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21369)
-
 ___
 
 ### bAffectTranslucentLighting
@@ -982,10 +754,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bAffectTranslucentLighting](ue_ue.LightComponentBase.md#baffecttranslucentlighting)
-
-#### Defined in
-
-[ue/ue.d.ts:21364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21364)
 
 ___
 
@@ -997,10 +765,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bAffectsWorld](ue_ue.LightComponentBase.md#baffectsworld)
 
-#### Defined in
-
-[ue/ue.d.ts:21360](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21360)
-
 ___
 
 ### bAutoActivate
@@ -1010,10 +774,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bAutoActivate](ue_ue.LightComponentBase.md#bautoactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L296)
 
 ___
 
@@ -1025,10 +785,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bBoundsChangeTriggersStreamingDataRebuild](ue_ue.LightComponentBase.md#bboundschangetriggersstreamingdatarebuild)
 
-#### Defined in
-
-[ue/ue.d.ts:12889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12889)
-
 ___
 
 ### bCanEverAffectNavigation
@@ -1039,19 +795,11 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bCanEverAffectNavigation](ue_ue.LightComponentBase.md#bcaneveraffectnavigation)
 
-#### Defined in
-
-[ue/ue.d.ts:299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L299)
-
 ___
 
 ### bCaptureEmissiveOnly
 
 • **bCaptureEmissiveOnly**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21402)
 
 ___
 
@@ -1063,10 +811,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bCastDeepShadow](ue_ue.LightComponentBase.md#bcastdeepshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:21367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21367)
-
 ___
 
 ### bCastRaytracedShadow
@@ -1076,10 +820,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bCastRaytracedShadow](ue_ue.LightComponentBase.md#bcastraytracedshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:21368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21368)
 
 ___
 
@@ -1091,10 +831,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bCastVolumetricShadow](ue_ue.LightComponentBase.md#bcastvolumetricshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:21366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21366)
-
 ___
 
 ### bComponentToWorldUpdated
@@ -1104,10 +840,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bComponentToWorldUpdated](ue_ue.LightComponentBase.md#bcomponenttoworldupdated)
-
-#### Defined in
-
-[ue/ue.d.ts:12879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12879)
 
 ___
 
@@ -1119,10 +851,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bCreatedByConstructionScript](ue_ue.LightComponentBase.md#bcreatedbyconstructionscript)
 
-#### Defined in
-
-[ue/ue.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L294)
-
 ___
 
 ### bEditableWhenInherited
@@ -1132,10 +860,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bEditableWhenInherited](ue_ue.LightComponentBase.md#beditablewheninherited)
-
-#### Defined in
-
-[ue/ue.d.ts:298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L298)
 
 ___
 
@@ -1147,10 +871,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bHiddenInGame](ue_ue.LightComponentBase.md#bhiddeningame)
 
-#### Defined in
-
-[ue/ue.d.ts:12884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12884)
-
 ___
 
 ### bInstanceComponent
@@ -1160,10 +880,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bInstanceComponent](ue_ue.LightComponentBase.md#binstancecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L295)
 
 ___
 
@@ -1175,10 +891,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bIsActive](ue_ue.LightComponentBase.md#bisactive)
 
-#### Defined in
-
-[ue/ue.d.ts:297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L297)
-
 ___
 
 ### bIsEditorOnly
@@ -1188,10 +900,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bIsEditorOnly](ue_ue.LightComponentBase.md#biseditoronly)
-
-#### Defined in
-
-[ue/ue.d.ts:300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L300)
 
 ___
 
@@ -1203,19 +911,11 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bIsVisualizationComponent](ue_ue.LightComponentBase.md#bisvisualizationcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L301)
-
 ___
 
 ### bLowerHemisphereIsBlack
 
 • **bLowerHemisphereIsBlack**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21403)
 
 ___
 
@@ -1227,10 +927,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bNetAddressable](ue_ue.LightComponentBase.md#bnetaddressable)
 
-#### Defined in
-
-[ue/ue.d.ts:293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L293)
-
 ___
 
 ### bReplicates
@@ -1240,10 +936,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bReplicates](ue_ue.LightComponentBase.md#breplicates)
-
-#### Defined in
-
-[ue/ue.d.ts:292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L292)
 
 ___
 
@@ -1255,10 +947,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bShouldBeAttached](ue_ue.LightComponentBase.md#bshouldbeattached)
 
-#### Defined in
-
-[ue/ue.d.ts:12885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12885)
-
 ___
 
 ### bShouldSnapLocationWhenAttached
@@ -1268,10 +956,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bShouldSnapLocationWhenAttached](ue_ue.LightComponentBase.md#bshouldsnaplocationwhenattached)
-
-#### Defined in
-
-[ue/ue.d.ts:12886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12886)
 
 ___
 
@@ -1283,10 +967,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bShouldSnapRotationWhenAttached](ue_ue.LightComponentBase.md#bshouldsnaprotationwhenattached)
 
-#### Defined in
-
-[ue/ue.d.ts:12887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12887)
-
 ___
 
 ### bShouldUpdatePhysicsVolume
@@ -1296,10 +976,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bShouldUpdatePhysicsVolume](ue_ue.LightComponentBase.md#bshouldupdatephysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12888)
 
 ___
 
@@ -1311,10 +987,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bTransmission](ue_ue.LightComponentBase.md#btransmission)
 
-#### Defined in
-
-[ue/ue.d.ts:21365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21365)
-
 ___
 
 ### bUseAttachParentBound
@@ -1324,10 +996,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bUseAttachParentBound](ue_ue.LightComponentBase.md#buseattachparentbound)
-
-#### Defined in
-
-[ue/ue.d.ts:12890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12890)
 
 ___
 
@@ -1339,10 +1007,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bVisible](ue_ue.LightComponentBase.md#bvisible)
 
-#### Defined in
-
-[ue/ue.d.ts:12883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12883)
-
 ___
 
 ### bVisualizeComponent
@@ -1352,10 +1016,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[bVisualizeComponent](ue_ue.LightComponentBase.md#bvisualizecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12891)
 
 ## Methods
 
@@ -1377,10 +1037,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[Activate](ue_ue.LightComponentBase.md#activate)
 
-#### Defined in
-
-[ue/ue.d.ts:306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L306)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -1400,10 +1056,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[AddTickPrerequisiteActor](ue_ue.LightComponentBase.md#addtickprerequisiteactor)
-
-#### Defined in
-
-[ue/ue.d.ts:307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L307)
 
 ___
 
@@ -1425,10 +1077,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[AddTickPrerequisiteComponent](ue_ue.LightComponentBase.md#addtickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L308)
-
 ___
 
 ### ComponentHasTag
@@ -1448,10 +1096,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[ComponentHasTag](ue_ue.LightComponentBase.md#componenthastag)
-
-#### Defined in
-
-[ue/ue.d.ts:309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L309)
 
 ___
 
@@ -1477,10 +1121,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[CreateDefaultSubobject](ue_ue.LightComponentBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### Deactivate
@@ -1494,10 +1134,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[Deactivate](ue_ue.LightComponentBase.md#deactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L310)
 
 ___
 
@@ -1520,10 +1156,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[DetachFromParent](ue_ue.LightComponentBase.md#detachfromparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12895)
-
 ___
 
 ### DoesSocketExist
@@ -1543,10 +1175,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[DoesSocketExist](ue_ue.LightComponentBase.md#doessocketexist)
-
-#### Defined in
-
-[ue/ue.d.ts:12896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12896)
 
 ___
 
@@ -1568,10 +1196,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[ExecuteUbergraph](ue_ue.LightComponentBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetAllSocketNames
@@ -1585,10 +1209,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[GetAllSocketNames](ue_ue.LightComponentBase.md#getallsocketnames)
-
-#### Defined in
-
-[ue/ue.d.ts:12897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12897)
 
 ___
 
@@ -1604,10 +1224,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[GetAttachParent](ue_ue.LightComponentBase.md#getattachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12898)
-
 ___
 
 ### GetAttachSocketName
@@ -1621,10 +1237,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[GetAttachSocketName](ue_ue.LightComponentBase.md#getattachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12899)
 
 ___
 
@@ -1645,10 +1257,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[GetChildComponent](ue_ue.LightComponentBase.md#getchildcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12900)
 
 ___
 
@@ -1671,10 +1279,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[GetChildrenComponents](ue_ue.LightComponentBase.md#getchildrencomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12901)
-
 ___
 
 ### GetClass
@@ -1688,10 +1292,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[GetClass](ue_ue.LightComponentBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -1707,10 +1307,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[GetComponentTickInterval](ue_ue.LightComponentBase.md#getcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L311)
-
 ___
 
 ### GetComponentVelocity
@@ -1724,10 +1320,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[GetComponentVelocity](ue_ue.LightComponentBase.md#getcomponentvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12902)
 
 ___
 
@@ -1743,10 +1335,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[GetForwardVector](ue_ue.LightComponentBase.md#getforwardvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12903)
-
 ___
 
 ### GetLightColor
@@ -1760,10 +1348,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[GetLightColor](ue_ue.LightComponentBase.md#getlightcolor)
-
-#### Defined in
-
-[ue/ue.d.ts:21378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21378)
 
 ___
 
@@ -1779,10 +1363,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[GetName](ue_ue.LightComponentBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetNumChildrenComponents
@@ -1796,10 +1376,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[GetNumChildrenComponents](ue_ue.LightComponentBase.md#getnumchildrencomponents)
-
-#### Defined in
-
-[ue/ue.d.ts:12904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12904)
 
 ___
 
@@ -1815,10 +1391,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[GetOuter](ue_ue.LightComponentBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetOwner
@@ -1832,10 +1404,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[GetOwner](ue_ue.LightComponentBase.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L312)
 
 ___
 
@@ -1857,10 +1425,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[GetParentComponents](ue_ue.LightComponentBase.md#getparentcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12905)
-
 ___
 
 ### GetPhysicsVolume
@@ -1874,10 +1438,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[GetPhysicsVolume](ue_ue.LightComponentBase.md#getphysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12906)
 
 ___
 
@@ -1893,10 +1453,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[GetRelativeTransform](ue_ue.LightComponentBase.md#getrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12907)
-
 ___
 
 ### GetRightVector
@@ -1911,10 +1467,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[GetRightVector](ue_ue.LightComponentBase.md#getrightvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12908)
-
 ___
 
 ### GetShouldUpdatePhysicsVolume
@@ -1928,10 +1480,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[GetShouldUpdatePhysicsVolume](ue_ue.LightComponentBase.md#getshouldupdatephysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12909)
 
 ___
 
@@ -1953,10 +1501,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[GetSocketLocation](ue_ue.LightComponentBase.md#getsocketlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12910)
-
 ___
 
 ### GetSocketQuaternion
@@ -1977,10 +1521,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[GetSocketQuaternion](ue_ue.LightComponentBase.md#getsocketquaternion)
 
-#### Defined in
-
-[ue/ue.d.ts:12911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12911)
-
 ___
 
 ### GetSocketRotation
@@ -2000,10 +1540,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[GetSocketRotation](ue_ue.LightComponentBase.md#getsocketrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12912)
 
 ___
 
@@ -2026,10 +1562,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[GetSocketTransform](ue_ue.LightComponentBase.md#getsockettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12913)
-
 ___
 
 ### GetUpVector
@@ -2043,10 +1575,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[GetUpVector](ue_ue.LightComponentBase.md#getupvector)
-
-#### Defined in
-
-[ue/ue.d.ts:12914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12914)
 
 ___
 
@@ -2062,10 +1590,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[GetWorld](ue_ue.LightComponentBase.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### IsActive
@@ -2079,10 +1603,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[IsActive](ue_ue.LightComponentBase.md#isactive)
-
-#### Defined in
-
-[ue/ue.d.ts:313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L313)
 
 ___
 
@@ -2098,10 +1618,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[IsAnySimulatingPhysics](ue_ue.LightComponentBase.md#isanysimulatingphysics)
 
-#### Defined in
-
-[ue/ue.d.ts:12915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12915)
-
 ___
 
 ### IsBeingDestroyed
@@ -2116,10 +1632,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[IsBeingDestroyed](ue_ue.LightComponentBase.md#isbeingdestroyed)
 
-#### Defined in
-
-[ue/ue.d.ts:314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L314)
-
 ___
 
 ### IsComponentTickEnabled
@@ -2133,10 +1645,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[IsComponentTickEnabled](ue_ue.LightComponentBase.md#iscomponenttickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L315)
 
 ___
 
@@ -2158,10 +1666,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[IsSimulatingPhysics](ue_ue.LightComponentBase.md#issimulatingphysics)
 
-#### Defined in
-
-[ue/ue.d.ts:12916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12916)
-
 ___
 
 ### IsVisible
@@ -2175,10 +1679,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[IsVisible](ue_ue.LightComponentBase.md#isvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:12917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12917)
 
 ___
 
@@ -2203,10 +1703,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[K2_AddLocalOffset](ue_ue.LightComponentBase.md#k2_addlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:12918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12918)
-
 ___
 
 ### K2\_AddLocalRotation
@@ -2229,10 +1725,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[K2_AddLocalRotation](ue_ue.LightComponentBase.md#k2_addlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12919)
 
 ___
 
@@ -2257,10 +1749,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[K2_AddLocalTransform](ue_ue.LightComponentBase.md#k2_addlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12920)
-
 ___
 
 ### K2\_AddRelativeLocation
@@ -2283,10 +1771,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[K2_AddRelativeLocation](ue_ue.LightComponentBase.md#k2_addrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12921)
 
 ___
 
@@ -2311,10 +1795,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[K2_AddRelativeRotation](ue_ue.LightComponentBase.md#k2_addrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12922)
-
 ___
 
 ### K2\_AddWorldOffset
@@ -2337,10 +1817,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[K2_AddWorldOffset](ue_ue.LightComponentBase.md#k2_addworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:12923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12923)
 
 ___
 
@@ -2365,10 +1841,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[K2_AddWorldRotation](ue_ue.LightComponentBase.md#k2_addworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12924)
-
 ___
 
 ### K2\_AddWorldTransform
@@ -2392,10 +1864,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[K2_AddWorldTransform](ue_ue.LightComponentBase.md#k2_addworldtransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12925)
-
 ___
 
 ### K2\_AttachTo
@@ -2418,10 +1886,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[K2_AttachTo](ue_ue.LightComponentBase.md#k2_attachto)
-
-#### Defined in
-
-[ue/ue.d.ts:12926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12926)
 
 ___
 
@@ -2448,10 +1912,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[K2_AttachToComponent](ue_ue.LightComponentBase.md#k2_attachtocomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12927)
-
 ___
 
 ### K2\_DestroyComponent
@@ -2471,10 +1931,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[K2_DestroyComponent](ue_ue.LightComponentBase.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L316)
 
 ___
 
@@ -2499,10 +1955,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[K2_DetachFromComponent](ue_ue.LightComponentBase.md#k2_detachfromcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12928)
-
 ___
 
 ### K2\_GetComponentLocation
@@ -2516,10 +1968,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[K2_GetComponentLocation](ue_ue.LightComponentBase.md#k2_getcomponentlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12929)
 
 ___
 
@@ -2535,10 +1983,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[K2_GetComponentRotation](ue_ue.LightComponentBase.md#k2_getcomponentrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12930)
-
 ___
 
 ### K2\_GetComponentScale
@@ -2553,10 +1997,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[K2_GetComponentScale](ue_ue.LightComponentBase.md#k2_getcomponentscale)
 
-#### Defined in
-
-[ue/ue.d.ts:12931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12931)
-
 ___
 
 ### K2\_GetComponentToWorld
@@ -2570,10 +2010,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[K2_GetComponentToWorld](ue_ue.LightComponentBase.md#k2_getcomponenttoworld)
-
-#### Defined in
-
-[ue/ue.d.ts:12932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12932)
 
 ___
 
@@ -2597,10 +2033,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[K2_SetRelativeLocation](ue_ue.LightComponentBase.md#k2_setrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12933)
 
 ___
 
@@ -2626,10 +2058,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[K2_SetRelativeLocationAndRotation](ue_ue.LightComponentBase.md#k2_setrelativelocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12934)
-
 ___
 
 ### K2\_SetRelativeRotation
@@ -2652,10 +2080,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[K2_SetRelativeRotation](ue_ue.LightComponentBase.md#k2_setrelativerotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12935)
 
 ___
 
@@ -2680,10 +2104,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[K2_SetRelativeTransform](ue_ue.LightComponentBase.md#k2_setrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12936)
-
 ___
 
 ### K2\_SetWorldLocation
@@ -2706,10 +2126,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[K2_SetWorldLocation](ue_ue.LightComponentBase.md#k2_setworldlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12937)
 
 ___
 
@@ -2735,10 +2151,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[K2_SetWorldLocationAndRotation](ue_ue.LightComponentBase.md#k2_setworldlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12938)
-
 ___
 
 ### K2\_SetWorldRotation
@@ -2761,10 +2173,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[K2_SetWorldRotation](ue_ue.LightComponentBase.md#k2_setworldrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12939)
 
 ___
 
@@ -2789,10 +2197,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[K2_SetWorldTransform](ue_ue.LightComponentBase.md#k2_setworldtransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12940)
-
 ___
 
 ### OnRep\_AttachChildren
@@ -2806,10 +2210,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[OnRep_AttachChildren](ue_ue.LightComponentBase.md#onrep_attachchildren)
-
-#### Defined in
-
-[ue/ue.d.ts:12941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12941)
 
 ___
 
@@ -2825,10 +2225,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[OnRep_AttachParent](ue_ue.LightComponentBase.md#onrep_attachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12942)
-
 ___
 
 ### OnRep\_AttachSocketName
@@ -2842,10 +2238,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[OnRep_AttachSocketName](ue_ue.LightComponentBase.md#onrep_attachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12943)
 
 ___
 
@@ -2861,10 +2253,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[OnRep_IsActive](ue_ue.LightComponentBase.md#onrep_isactive)
 
-#### Defined in
-
-[ue/ue.d.ts:317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L317)
-
 ___
 
 ### OnRep\_Transform
@@ -2878,10 +2266,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[OnRep_Transform](ue_ue.LightComponentBase.md#onrep_transform)
-
-#### Defined in
-
-[ue/ue.d.ts:12944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12944)
 
 ___
 
@@ -2903,10 +2287,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[OnRep_Visibility](ue_ue.LightComponentBase.md#onrep_visibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12945)
-
 ___
 
 ### RecaptureSky
@@ -2916,10 +2296,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:21412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21412)
 
 ___
 
@@ -2934,10 +2310,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[ReceiveBeginPlay](ue_ue.LightComponentBase.md#receivebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L318)
 
 ___
 
@@ -2959,10 +2331,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[ReceiveEndPlay](ue_ue.LightComponentBase.md#receiveendplay)
 
-#### Defined in
-
-[ue/ue.d.ts:319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L319)
-
 ___
 
 ### ReceiveTick
@@ -2983,10 +2351,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[ReceiveTick](ue_ue.LightComponentBase.md#receivetick)
 
-#### Defined in
-
-[ue/ue.d.ts:320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L320)
-
 ___
 
 ### RegisterComponent
@@ -3000,10 +2364,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[RegisterComponent](ue_ue.LightComponentBase.md#registercomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L321)
 
 ___
 
@@ -3025,10 +2385,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[RemoveTickPrerequisiteActor](ue_ue.LightComponentBase.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -3049,10 +2405,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[RemoveTickPrerequisiteComponent](ue_ue.LightComponentBase.md#removetickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L323)
-
 ___
 
 ### ResetRelativeTransform
@@ -3066,10 +2418,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[ResetRelativeTransform](ue_ue.LightComponentBase.md#resetrelativetransform)
-
-#### Defined in
-
-[ue/ue.d.ts:12946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12946)
 
 ___
 
@@ -3093,10 +2441,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[SetAbsolute](ue_ue.LightComponentBase.md#setabsolute)
 
-#### Defined in
-
-[ue/ue.d.ts:12947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12947)
-
 ___
 
 ### SetActive
@@ -3118,10 +2462,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[SetActive](ue_ue.LightComponentBase.md#setactive)
 
-#### Defined in
-
-[ue/ue.d.ts:324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L324)
-
 ___
 
 ### SetAffectGlobalIllumination
@@ -3141,10 +2481,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[SetAffectGlobalIllumination](ue_ue.LightComponentBase.md#setaffectglobalillumination)
-
-#### Defined in
-
-[ue/ue.d.ts:21379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21379)
 
 ___
 
@@ -3166,10 +2502,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[SetAffectReflection](ue_ue.LightComponentBase.md#setaffectreflection)
 
-#### Defined in
-
-[ue/ue.d.ts:21380](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21380)
-
 ___
 
 ### SetAutoActivate
@@ -3189,10 +2521,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[SetAutoActivate](ue_ue.LightComponentBase.md#setautoactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L325)
 
 ___
 
@@ -3214,10 +2542,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[SetCastDeepShadow](ue_ue.LightComponentBase.md#setcastdeepshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:21381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21381)
-
 ___
 
 ### SetCastRaytracedShadow
@@ -3237,10 +2561,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[SetCastRaytracedShadow](ue_ue.LightComponentBase.md#setcastraytracedshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:21382](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21382)
 
 ___
 
@@ -3262,10 +2582,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[SetCastShadows](ue_ue.LightComponentBase.md#setcastshadows)
 
-#### Defined in
-
-[ue/ue.d.ts:21383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21383)
-
 ___
 
 ### SetCastVolumetricShadow
@@ -3285,10 +2601,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[SetCastVolumetricShadow](ue_ue.LightComponentBase.md#setcastvolumetricshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:21384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21384)
 
 ___
 
@@ -3310,10 +2622,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[SetComponentTickEnabled](ue_ue.LightComponentBase.md#setcomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L326)
-
 ___
 
 ### SetComponentTickInterval
@@ -3334,10 +2642,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[SetComponentTickInterval](ue_ue.LightComponentBase.md#setcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L327)
-
 ___
 
 ### SetCubemap
@@ -3353,10 +2657,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:21413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21413)
 
 ___
 
@@ -3375,10 +2675,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:21414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21414)
 
 ___
 
@@ -3401,10 +2697,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[SetHiddenInGame](ue_ue.LightComponentBase.md#sethiddeningame)
 
-#### Defined in
-
-[ue/ue.d.ts:12948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12948)
-
 ___
 
 ### SetIndirectLightingIntensity
@@ -3421,10 +2713,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:21415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21415)
-
 ___
 
 ### SetIntensity
@@ -3440,10 +2728,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:21416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21416)
 
 ___
 
@@ -3465,10 +2749,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[SetIsReplicated](ue_ue.LightComponentBase.md#setisreplicated)
 
-#### Defined in
-
-[ue/ue.d.ts:328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L328)
-
 ___
 
 ### SetLightColor
@@ -3484,10 +2764,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:21417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21417)
 
 ___
 
@@ -3505,10 +2781,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:21418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21418)
-
 ___
 
 ### SetMinOcclusion
@@ -3524,10 +2796,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:21419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21419)
 
 ___
 
@@ -3549,10 +2817,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[SetMobility](ue_ue.LightComponentBase.md#setmobility)
 
-#### Defined in
-
-[ue/ue.d.ts:12949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12949)
-
 ___
 
 ### SetOcclusionContrast
@@ -3568,10 +2832,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:21420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21420)
 
 ___
 
@@ -3589,10 +2849,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:21421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21421)
-
 ___
 
 ### SetOcclusionTint
@@ -3608,10 +2864,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:21422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21422)
 
 ___
 
@@ -3633,10 +2885,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[SetRelativeScale3D](ue_ue.LightComponentBase.md#setrelativescale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:12950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12950)
-
 ___
 
 ### SetSamplesPerPixel
@@ -3656,10 +2904,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[SetSamplesPerPixel](ue_ue.LightComponentBase.md#setsamplesperpixel)
-
-#### Defined in
-
-[ue/ue.d.ts:21385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21385)
 
 ___
 
@@ -3681,10 +2925,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[SetShouldUpdatePhysicsVolume](ue_ue.LightComponentBase.md#setshouldupdatephysicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12951)
-
 ___
 
 ### SetTickGroup
@@ -3705,10 +2945,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[SetTickGroup](ue_ue.LightComponentBase.md#settickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L330)
-
 ___
 
 ### SetTickableWhenPaused
@@ -3728,10 +2964,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[SetTickableWhenPaused](ue_ue.LightComponentBase.md#settickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L329)
 
 ___
 
@@ -3754,10 +2986,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[SetVisibility](ue_ue.LightComponentBase.md#setvisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12953)
-
 ___
 
 ### SetVolumetricScatteringIntensity
@@ -3773,10 +3001,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:21423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21423)
 
 ___
 
@@ -3797,10 +3021,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[SetWorldScale3D](ue_ue.LightComponentBase.md#setworldscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:12954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12954)
 
 ___
 
@@ -3823,10 +3043,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[SetupAttachment](ue_ue.LightComponentBase.md#setupattachment)
 
-#### Defined in
-
-[ue/ue.d.ts:12952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12952)
-
 ___
 
 ### SnapTo
@@ -3848,10 +3064,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[SnapTo](ue_ue.LightComponentBase.md#snapto)
 
-#### Defined in
-
-[ue/ue.d.ts:12955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12955)
-
 ___
 
 ### ToggleActive
@@ -3865,10 +3077,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[ToggleActive](ue_ue.LightComponentBase.md#toggleactive)
-
-#### Defined in
-
-[ue/ue.d.ts:331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L331)
 
 ___
 
@@ -3889,10 +3097,6 @@ ___
 #### Inherited from
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[ToggleVisibility](ue_ue.LightComponentBase.md#togglevisibility)
-
-#### Defined in
-
-[ue/ue.d.ts:12956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12956)
 
 ___
 
@@ -3915,10 +3119,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[Find](ue_ue.LightComponentBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:21425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21425)
-
 ___
 
 ### Load
@@ -3939,10 +3139,6 @@ ___
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[Load](ue_ue.LightComponentBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:21426](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21426)
-
 ___
 
 ### StaticClass
@@ -3956,7 +3152,3 @@ ___
 #### Overrides
 
 [LightComponentBase](ue_ue.LightComponentBase.md).[StaticClass](ue_ue.LightComponentBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:21424](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21424)

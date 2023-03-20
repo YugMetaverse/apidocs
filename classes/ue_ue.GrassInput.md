@@ -28,10 +28,6 @@
 
 • **new GrassInput**()
 
-#### Defined in
-
-[ue/ue.d.ts:48362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48362)
-
 • **new GrassInput**(`Name`, `GrassType`, `Input`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `GrassType` | [`LandscapeGrassType`](ue_ue.LandscapeGrassType.md) |
 | `Input` | [`ExpressionInput`](ue_ue.ExpressionInput.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:48363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48363)
-
 ## Properties
 
 ### GrassType
 
 • **GrassType**: [`LandscapeGrassType`](ue_ue.LandscapeGrassType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:48365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48365)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Input**: [`ExpressionInput`](ue_ue.ExpressionInput.md)
 
-#### Defined in
-
-[ue/ue.d.ts:48366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48366)
-
 ___
 
 ### Name
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:48364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48364)
-
 ___
 
 ### \_\_tid\_GrassInput\_\_
 
 • `Private` **\_\_tid\_GrassInput\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:48372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48372)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:48370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48370)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:48371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L48371)

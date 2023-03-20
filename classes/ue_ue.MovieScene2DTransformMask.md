@@ -26,10 +26,6 @@
 
 • **new MovieScene2DTransformMask**()
 
-#### Defined in
-
-[ue/ue.d.ts:50922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50922)
-
 • **new MovieScene2DTransformMask**(`Mask`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Mask` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:50923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50923)
-
 ## Properties
 
 ### Mask
 
 • **Mask**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:50924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50924)
-
 ___
 
 ### \_\_tid\_MovieScene2DTransformMask\_\_
 
 • `Private` **\_\_tid\_MovieScene2DTransformMask\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50930)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:50928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50928)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:50929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50929)

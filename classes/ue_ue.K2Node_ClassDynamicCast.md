@@ -77,10 +77,6 @@
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[constructor](ue_ue.K2Node_DynamicCast.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:40998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40998)
-
 ## Properties
 
 ### AdvancedPinDisplay
@@ -90,10 +86,6 @@
 #### Inherited from
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[AdvancedPinDisplay](ue_ue.K2Node_DynamicCast.md#advancedpindisplay)
-
-#### Defined in
-
-[ue/ue.d.ts:1067](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1067)
 
 ___
 
@@ -105,10 +97,6 @@ ___
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[DeprecatedPins](ue_ue.K2Node_DynamicCast.md#deprecatedpins)
 
-#### Defined in
-
-[ue/ue.d.ts:1062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1062)
-
 ___
 
 ### EnabledState
@@ -118,10 +106,6 @@ ___
 #### Inherited from
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[EnabledState](ue_ue.K2Node_DynamicCast.md#enabledstate)
-
-#### Defined in
-
-[ue/ue.d.ts:1068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1068)
 
 ___
 
@@ -133,10 +117,6 @@ ___
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[ErrorMsg](ue_ue.K2Node_DynamicCast.md#errormsg)
 
-#### Defined in
-
-[ue/ue.d.ts:1081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1081)
-
 ___
 
 ### ErrorType
@@ -146,10 +126,6 @@ ___
 #### Inherited from
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[ErrorType](ue_ue.K2Node_DynamicCast.md#errortype)
-
-#### Defined in
-
-[ue/ue.d.ts:1080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1080)
 
 ___
 
@@ -161,10 +137,6 @@ ___
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[NodeComment](ue_ue.K2Node_DynamicCast.md#nodecomment)
 
-#### Defined in
-
-[ue/ue.d.ts:1079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1079)
-
 ___
 
 ### NodeGuid
@@ -174,10 +146,6 @@ ___
 #### Inherited from
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[NodeGuid](ue_ue.K2Node_DynamicCast.md#nodeguid)
-
-#### Defined in
-
-[ue/ue.d.ts:1082](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1082)
 
 ___
 
@@ -189,10 +157,6 @@ ___
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[NodeHeight](ue_ue.K2Node_DynamicCast.md#nodeheight)
 
-#### Defined in
-
-[ue/ue.d.ts:1066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1066)
-
 ___
 
 ### NodePosX
@@ -202,10 +166,6 @@ ___
 #### Inherited from
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[NodePosX](ue_ue.K2Node_DynamicCast.md#nodeposx)
-
-#### Defined in
-
-[ue/ue.d.ts:1063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1063)
 
 ___
 
@@ -217,10 +177,6 @@ ___
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[NodePosY](ue_ue.K2Node_DynamicCast.md#nodeposy)
 
-#### Defined in
-
-[ue/ue.d.ts:1064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1064)
-
 ___
 
 ### NodeUpgradeMessage
@@ -230,10 +186,6 @@ ___
 #### Inherited from
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[NodeUpgradeMessage](ue_ue.K2Node_DynamicCast.md#nodeupgrademessage)
-
-#### Defined in
-
-[ue/ue.d.ts:1078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1078)
 
 ___
 
@@ -245,10 +197,6 @@ ___
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[NodeWidth](ue_ue.K2Node_DynamicCast.md#nodewidth)
 
-#### Defined in
-
-[ue/ue.d.ts:1065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1065)
-
 ___
 
 ### TargetType
@@ -258,10 +206,6 @@ ___
 #### Inherited from
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[TargetType](ue_ue.K2Node_DynamicCast.md#targettype)
-
-#### Defined in
-
-[ue/ue.d.ts:40988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40988)
 
 ___
 
@@ -273,19 +217,11 @@ ___
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[__tid_EdGraphNode__](ue_ue.K2Node_DynamicCast.md#__tid_edgraphnode__)
 
-#### Defined in
-
-[ue/ue.d.ts:1087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1087)
-
 ___
 
 ### \_\_tid\_K2Node\_ClassDynamicCast\_\_
 
 • **\_\_tid\_K2Node\_ClassDynamicCast\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:41003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41003)
 
 ___
 
@@ -297,10 +233,6 @@ ___
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[__tid_K2Node_DynamicCast__](ue_ue.K2Node_DynamicCast.md#__tid_k2node_dynamiccast__)
 
-#### Defined in
-
-[ue/ue.d.ts:40994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40994)
-
 ___
 
 ### \_\_tid\_K2Node\_\_
@@ -310,10 +242,6 @@ ___
 #### Inherited from
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[__tid_K2Node__](ue_ue.K2Node_DynamicCast.md#__tid_k2node__)
-
-#### Defined in
-
-[ue/ue.d.ts:16749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16749)
 
 ___
 
@@ -325,10 +253,6 @@ ___
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[__tid_Object__](ue_ue.K2Node_DynamicCast.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bCanRenameNode
@@ -338,10 +262,6 @@ ___
 #### Inherited from
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[bCanRenameNode](ue_ue.K2Node_DynamicCast.md#bcanrenamenode)
-
-#### Defined in
-
-[ue/ue.d.ts:1077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1077)
 
 ___
 
@@ -353,10 +273,6 @@ ___
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[bCanResizeNode](ue_ue.K2Node_DynamicCast.md#bcanresizenode)
 
-#### Defined in
-
-[ue/ue.d.ts:1072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1072)
-
 ___
 
 ### bCommentBubbleMakeVisible
@@ -366,10 +282,6 @@ ___
 #### Inherited from
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[bCommentBubbleMakeVisible](ue_ue.K2Node_DynamicCast.md#bcommentbubblemakevisible)
-
-#### Defined in
-
-[ue/ue.d.ts:1076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1076)
 
 ___
 
@@ -381,10 +293,6 @@ ___
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[bCommentBubblePinned](ue_ue.K2Node_DynamicCast.md#bcommentbubblepinned)
 
-#### Defined in
-
-[ue/ue.d.ts:1074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1074)
-
 ___
 
 ### bCommentBubbleVisible
@@ -394,10 +302,6 @@ ___
 #### Inherited from
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[bCommentBubbleVisible](ue_ue.K2Node_DynamicCast.md#bcommentbubblevisible)
-
-#### Defined in
-
-[ue/ue.d.ts:1075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1075)
 
 ___
 
@@ -409,10 +313,6 @@ ___
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[bDisplayAsDisabled](ue_ue.K2Node_DynamicCast.md#bdisplayasdisabled)
 
-#### Defined in
-
-[ue/ue.d.ts:1069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1069)
-
 ___
 
 ### bHasCompilerMessage
@@ -422,10 +322,6 @@ ___
 #### Inherited from
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[bHasCompilerMessage](ue_ue.K2Node_DynamicCast.md#bhascompilermessage)
-
-#### Defined in
-
-[ue/ue.d.ts:1073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1073)
 
 ___
 
@@ -437,10 +333,6 @@ ___
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[bIsNodeEnabled](ue_ue.K2Node_DynamicCast.md#bisnodeenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:1071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1071)
-
 ___
 
 ### bIsPureCast
@@ -451,10 +343,6 @@ ___
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[bIsPureCast](ue_ue.K2Node_DynamicCast.md#bispurecast)
 
-#### Defined in
-
-[ue/ue.d.ts:40989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40989)
-
 ___
 
 ### bUserSetEnabledState
@@ -464,10 +352,6 @@ ___
 #### Inherited from
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[bUserSetEnabledState](ue_ue.K2Node_DynamicCast.md#busersetenabledstate)
-
-#### Defined in
-
-[ue/ue.d.ts:1070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1070)
 
 ## Methods
 
@@ -493,10 +377,6 @@ ___
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[CreateDefaultSubobject](ue_ue.K2Node_DynamicCast.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -517,10 +397,6 @@ ___
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[ExecuteUbergraph](ue_ue.K2Node_DynamicCast.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -534,10 +410,6 @@ ___
 #### Inherited from
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[GetClass](ue_ue.K2Node_DynamicCast.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -553,10 +425,6 @@ ___
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[GetName](ue_ue.K2Node_DynamicCast.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -571,10 +439,6 @@ ___
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[GetOuter](ue_ue.K2Node_DynamicCast.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -588,10 +452,6 @@ ___
 #### Inherited from
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[GetWorld](ue_ue.K2Node_DynamicCast.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -614,10 +474,6 @@ ___
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[Find](ue_ue.K2Node_DynamicCast.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:41000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41000)
-
 ___
 
 ### Load
@@ -638,10 +494,6 @@ ___
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[Load](ue_ue.K2Node_DynamicCast.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:41001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41001)
-
 ___
 
 ### StaticClass
@@ -655,7 +507,3 @@ ___
 #### Overrides
 
 [K2Node_DynamicCast](ue_ue.K2Node_DynamicCast.md).[StaticClass](ue_ue.K2Node_DynamicCast.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:40999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40999)

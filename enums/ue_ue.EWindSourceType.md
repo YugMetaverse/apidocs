@@ -19,19 +19,11 @@
 
 • **Directional** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34888)
-
 ___
 
 ### EWindSourceType\_MAX
 
 • **EWindSourceType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34888)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Point** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34888)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34888)

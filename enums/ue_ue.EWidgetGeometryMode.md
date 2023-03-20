@@ -19,19 +19,11 @@
 
 • **Cylinder** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34881)
-
 ___
 
 ### EWidgetGeometryMode\_MAX
 
 • **EWidgetGeometryMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34881)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Plane** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34881)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34881)

@@ -20,19 +20,11 @@
 
 • **Bool** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25178)
-
 ___
 
 ### Float
 
 • **Float** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:25178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25178)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Int** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25178)
-
 ___
 
 ### MAX
 
 • **MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25178)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:25178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25178)

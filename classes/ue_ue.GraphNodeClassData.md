@@ -29,10 +29,6 @@
 
 • **new GraphNodeClassData**()
 
-#### Defined in
-
-[ue/ue.d.ts:15101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15101)
-
 • **new GraphNodeClassData**(`AssetName`, `GeneratedClassPackage`, `ClassName`, `Category`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `ClassName` | `string` |
 | `Category` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:15102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15102)
-
 ## Properties
 
 ### AssetName
 
 • **AssetName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:15103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15103)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **Category**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:15106](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15106)
-
 ___
 
 ### ClassName
 
 • **ClassName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:15105](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15105)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **GeneratedClassPackage**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:15104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15104)
-
 ___
 
 ### \_\_tid\_GraphNodeClassData\_\_
 
 • `Private` **\_\_tid\_GraphNodeClassData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15112)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15110)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15111)

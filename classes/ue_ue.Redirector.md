@@ -27,10 +27,6 @@
 
 • **new Redirector**()
 
-#### Defined in
-
-[ue/ue.d.ts:28161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28161)
-
 • **new Redirector**(`OldName`, `NewName`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `OldName` | `string` |
 | `NewName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:28162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28162)
-
 ## Properties
 
 ### NewName
 
 • **NewName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:28164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28164)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **OldName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:28163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28163)
-
 ___
 
 ### \_\_tid\_Redirector\_\_
 
 • `Private` **\_\_tid\_Redirector\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:28170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28170)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:28168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28168)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28169)

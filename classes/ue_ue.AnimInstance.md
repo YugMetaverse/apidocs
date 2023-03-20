@@ -148,19 +148,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:5090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5090)
-
 ## Properties
 
 ### ActiveAnimNotifyState
 
 • **ActiveAnimNotifyState**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AnimNotifyEvent`](ue_ue.AnimNotifyEvent.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:5106](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5106)
 
 ___
 
@@ -168,19 +160,11 @@ ___
 
 • **CurrentSkeleton**: [`Skeleton`](ue_ue.Skeleton.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5091)
-
 ___
 
 ### DeltaTime
 
 • **DeltaTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5093](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5093)
 
 ___
 
@@ -188,19 +172,11 @@ ___
 
 • **NotifyQueue**: [`AnimNotifyQueue`](ue_ue.AnimNotifyQueue.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5105](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5105)
-
 ___
 
 ### OnAllMontageInstancesEnded
 
 • **OnAllMontageInstancesEnded**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<() => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:5103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5103)
 
 ___
 
@@ -208,19 +184,11 @@ ___
 
 • **OnMontageBlendingOut**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`Montage`: [`$Nullable`](../modules/puerts.md#$nullable)<[`AnimMontage`](ue_ue.AnimMontage.md)\>, `bInterrupted`: `boolean`) => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:5100](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5100)
-
 ___
 
 ### OnMontageEnded
 
 • **OnMontageEnded**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`Montage`: [`$Nullable`](../modules/puerts.md#$nullable)<[`AnimMontage`](ue_ue.AnimMontage.md)\>, `bInterrupted`: `boolean`) => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:5102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5102)
 
 ___
 
@@ -228,19 +196,11 @@ ___
 
 • **OnMontageStarted**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`Montage`: [`$Nullable`](../modules/puerts.md#$nullable)<[`AnimMontage`](ue_ue.AnimMontage.md)\>) => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:5101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5101)
-
 ___
 
 ### PostCompileValidationClassName
 
 • **PostCompileValidationClassName**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5104)
 
 ___
 
@@ -248,19 +208,11 @@ ___
 
 • **RootMotionMode**: [`ERootMotionMode`](../enums/ue_ue.ERootMotionMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5092)
-
 ___
 
 ### \_\_tid\_AnimInstance\_\_
 
 • **\_\_tid\_AnimInstance\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5180)
 
 ___
 
@@ -272,19 +224,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bCanUseParallelUpdateAnimation
 
 • **bCanUseParallelUpdateAnimation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5095](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5095)
 
 ___
 
@@ -292,19 +236,11 @@ ___
 
 • **bQueueMontageEvents**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5099](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5099)
-
 ___
 
 ### bRunUpdatesInWorkerThreads
 
 • **bRunUpdatesInWorkerThreads**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5094](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5094)
 
 ___
 
@@ -312,29 +248,17 @@ ___
 
 • **bUseMultiThreadedAnimationUpdate**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5097](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5097)
-
 ___
 
 ### bUsingCopyPoseFromMesh
 
 • **bUsingCopyPoseFromMesh**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5098)
-
 ___
 
 ### bWarnAboutBlueprintUsage
 
 • **bWarnAboutBlueprintUsage**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5096](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5096)
 
 ## Methods
 
@@ -346,10 +270,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:5107](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5107)
-
 ___
 
 ### BlueprintInitializeAnimation
@@ -360,10 +280,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:5108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5108)
-
 ___
 
 ### BlueprintPostEvaluateAnimation
@@ -373,10 +289,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:5109](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5109)
 
 ___
 
@@ -393,10 +305,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:5110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5110)
 
 ___
 
@@ -415,10 +323,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5111)
-
 ___
 
 ### ClearMorphTargets
@@ -428,10 +332,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:5112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5112)
 
 ___
 
@@ -457,10 +357,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -481,10 +377,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetActiveCurveNames
@@ -502,10 +394,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:5113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5113)
-
 ___
 
 ### GetAllCurveNames
@@ -522,10 +410,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:5114](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5114)
-
 ___
 
 ### GetClass
@@ -540,10 +424,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetCurrentActiveMontage
@@ -553,10 +433,6 @@ ___
 #### Returns
 
 [`AnimMontage`](ue_ue.AnimMontage.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5115)
 
 ___
 
@@ -574,10 +450,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:5116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5116)
-
 ___
 
 ### GetCurveValue
@@ -593,10 +465,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5117)
 
 ___
 
@@ -614,10 +482,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5118)
-
 ___
 
 ### GetInstanceAssetPlayerTime
@@ -633,10 +497,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5119)
 
 ___
 
@@ -654,10 +514,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5120)
-
 ___
 
 ### GetInstanceAssetPlayerTimeFromEnd
@@ -673,10 +529,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5121)
 
 ___
 
@@ -694,10 +546,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5122)
-
 ___
 
 ### GetInstanceCurrentStateElapsedTime
@@ -714,10 +562,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5123)
-
 ___
 
 ### GetInstanceMachineWeight
@@ -733,10 +577,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5124)
 
 ___
 
@@ -755,10 +595,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5125)
-
 ___
 
 ### GetInstanceTransitionCrossfadeDuration
@@ -775,10 +611,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5126)
 
 ___
 
@@ -797,10 +629,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5127)
-
 ___
 
 ### GetInstanceTransitionTimeElapsedFraction
@@ -818,10 +646,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5128)
-
 ___
 
 ### GetLinkedAnimGraphInstanceByTag
@@ -837,10 +661,6 @@ ___
 #### Returns
 
 [`AnimInstance`](ue_ue.AnimInstance.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5129)
 
 ___
 
@@ -859,10 +679,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:5130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5130)
-
 ___
 
 ### GetLinkedAnimLayerInstanceByClass
@@ -878,10 +694,6 @@ ___
 #### Returns
 
 [`AnimInstance`](ue_ue.AnimInstance.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5131)
 
 ___
 
@@ -899,10 +711,6 @@ ___
 
 [`AnimInstance`](ue_ue.AnimInstance.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5132)
-
 ___
 
 ### GetName
@@ -916,10 +724,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -935,10 +739,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetOwningActor
@@ -949,10 +749,6 @@ ___
 
 [`Actor`](ue_ue.Actor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5133)
-
 ___
 
 ### GetOwningComponent
@@ -962,10 +758,6 @@ ___
 #### Returns
 
 [`SkeletalMeshComponent`](ue_ue.SkeletalMeshComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5134)
 
 ___
 
@@ -984,10 +776,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5135)
-
 ___
 
 ### GetRelevantAnimTime
@@ -1004,10 +792,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5136)
 
 ___
 
@@ -1026,10 +810,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5137)
-
 ___
 
 ### GetRelevantAnimTimeRemaining
@@ -1046,10 +826,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5138)
 
 ___
 
@@ -1068,10 +844,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5139)
-
 ___
 
 ### GetSyncGroupPosition
@@ -1087,10 +859,6 @@ ___
 #### Returns
 
 [`MarkerSyncAnimPosition`](ue_ue.MarkerSyncAnimPosition.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5140)
 
 ___
 
@@ -1110,10 +878,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5141)
-
 ___
 
 ### GetWorld
@@ -1127,10 +891,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -1149,10 +909,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5142)
-
 ___
 
 ### IsAnyMontagePlaying
@@ -1162,10 +918,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5143)
 
 ___
 
@@ -1183,10 +935,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5144)
 
 ___
 
@@ -1207,10 +955,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5145)
-
 ___
 
 ### LinkAnimClassLayers
@@ -1226,10 +970,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:5146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5146)
 
 ___
 
@@ -1248,10 +988,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:5147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5147)
-
 ___
 
 ### LockAIResources
@@ -1269,10 +1005,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:5148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5148)
-
 ___
 
 ### Montage\_GetBlendTime
@@ -1288,10 +1020,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5149)
 
 ___
 
@@ -1309,10 +1037,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:5150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5150)
-
 ___
 
 ### Montage\_GetIsStopped
@@ -1328,10 +1052,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5151)
 
 ___
 
@@ -1349,10 +1069,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5152)
-
 ___
 
 ### Montage\_GetPosition
@@ -1368,10 +1084,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5153)
 
 ___
 
@@ -1389,10 +1101,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5154)
-
 ___
 
 ### Montage\_IsPlaying
@@ -1408,10 +1116,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5155)
 
 ___
 
@@ -1430,10 +1134,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:5156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5156)
-
 ___
 
 ### Montage\_JumpToSectionsEnd
@@ -1451,10 +1151,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:5157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5157)
-
 ___
 
 ### Montage\_Pause
@@ -1470,10 +1166,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:5158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5158)
 
 ___
 
@@ -1495,10 +1187,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5159)
-
 ___
 
 ### Montage\_Resume
@@ -1514,10 +1202,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:5160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5160)
 
 ___
 
@@ -1537,10 +1221,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:5161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5161)
-
 ___
 
 ### Montage\_SetPlayRate
@@ -1557,10 +1237,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:5162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5162)
 
 ___
 
@@ -1579,10 +1255,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:5163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5163)
-
 ___
 
 ### Montage\_Stop
@@ -1599,10 +1271,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:5164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5164)
 
 ___
 
@@ -1624,10 +1292,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5165)
 
 ___
 
@@ -1652,10 +1316,6 @@ ___
 
 [`AnimMontage`](ue_ue.AnimMontage.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5166)
-
 ___
 
 ### ResetDynamics
@@ -1672,10 +1332,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:5167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5167)
-
 ___
 
 ### SavePoseSnapshot
@@ -1691,10 +1347,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:5168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5168)
 
 ___
 
@@ -1713,10 +1365,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:5169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5169)
-
 ___
 
 ### SetRootMotionMode
@@ -1733,10 +1381,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:5170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5170)
-
 ___
 
 ### SnapshotPose
@@ -1752,10 +1396,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:5171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5171)
 
 ___
 
@@ -1774,10 +1414,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:5172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5172)
-
 ___
 
 ### TryGetPawnOwner
@@ -1787,10 +1423,6 @@ ___
 #### Returns
 
 [`Pawn`](ue_ue.Pawn.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5173)
 
 ___
 
@@ -1808,10 +1440,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:5174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5174)
-
 ___
 
 ### UnlockAIResources
@@ -1828,10 +1456,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:5175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5175)
 
 ___
 
@@ -1854,10 +1478,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:5177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5177)
-
 ___
 
 ### Load
@@ -1878,10 +1498,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:5178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5178)
-
 ___
 
 ### StaticClass
@@ -1895,7 +1511,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:5176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5176)

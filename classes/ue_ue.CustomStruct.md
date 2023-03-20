@@ -25,19 +25,11 @@
 
 • **new CustomStruct**()
 
-#### Defined in
-
-[ue/ue.d.ts:63339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63339)
-
 ## Properties
 
 ### \_\_tid\_CustomStruct\_\_
 
 • `Private` **\_\_tid\_CustomStruct\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:63345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63345)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63343)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63344](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63344)

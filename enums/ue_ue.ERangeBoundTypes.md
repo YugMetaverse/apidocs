@@ -20,19 +20,11 @@
 
 • **ERangeBoundTypes\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1915)
-
 ___
 
 ### Exclusive
 
 • **Exclusive** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1915)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Inclusive** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1915)
-
 ___
 
 ### Open
 
 • **Open** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1915)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1915)

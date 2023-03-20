@@ -37,10 +37,6 @@
 
 • **new VertexPaintSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:54401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54401)
-
 • **new VertexPaintSettings**(`MeshPaintMode`, `PaintColor`, `EraseColor`, `bWriteRed`, `bWriteGreen`, `bWriteBlue`, `bWriteAlpha`, `TextureWeightType`, `PaintTextureWeightIndex`, `EraseTextureWeightIndex`, `bPaintOnSpecificLOD`, `LODIndex`)
 
 #### Parameters
@@ -60,19 +56,11 @@
 | `bPaintOnSpecificLOD` | `boolean` |
 | `LODIndex` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:54402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54402)
-
 ## Properties
 
 ### EraseColor
 
 • **EraseColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54405)
 
 ___
 
@@ -80,19 +68,11 @@ ___
 
 • **EraseTextureWeightIndex**: [`ETexturePaintIndex`](../enums/ue_ue.ETexturePaintIndex.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54412)
-
 ___
 
 ### LODIndex
 
 • **LODIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:54414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54414)
 
 ___
 
@@ -100,19 +80,11 @@ ___
 
 • **MeshPaintMode**: [`EMeshPaintMode`](../enums/ue_ue.EMeshPaintMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54403)
-
 ___
 
 ### PaintColor
 
 • **PaintColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54404)
 
 ___
 
@@ -120,19 +92,11 @@ ___
 
 • **PaintTextureWeightIndex**: [`ETexturePaintIndex`](../enums/ue_ue.ETexturePaintIndex.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54411)
-
 ___
 
 ### TextureWeightType
 
 • **TextureWeightType**: [`ETextureWeightTypes`](../enums/ue_ue.ETextureWeightTypes.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54410)
 
 ___
 
@@ -140,19 +104,11 @@ ___
 
 • `Private` **\_\_tid\_VertexPaintSettings\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:54420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54420)
-
 ___
 
 ### bPaintOnSpecificLOD
 
 • **bPaintOnSpecificLOD**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54413)
 
 ___
 
@@ -160,19 +116,11 @@ ___
 
 • **bWriteAlpha**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:54409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54409)
-
 ___
 
 ### bWriteBlue
 
 • **bWriteBlue**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54408)
 
 ___
 
@@ -180,19 +128,11 @@ ___
 
 • **bWriteGreen**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:54407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54407)
-
 ___
 
 ### bWriteRed
 
 • **bWriteRed**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54406)
 
 ## Methods
 
@@ -208,10 +148,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54418)
-
 ___
 
 ### StaticStruct
@@ -221,7 +157,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54419)

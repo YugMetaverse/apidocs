@@ -23,19 +23,11 @@
 
 • **Custom** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9338)
-
 ___
 
 ### EAttenuationDistanceModel\_MAX
 
 • **EAttenuationDistanceModel\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9338)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **Inverse** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9338)
-
 ___
 
 ### Linear
 
 • **Linear** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9338)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **LogReverse** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9338)
-
 ___
 
 ### Logarithmic
 
 • **Logarithmic** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9338)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **NaturalSound** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9338)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9338)

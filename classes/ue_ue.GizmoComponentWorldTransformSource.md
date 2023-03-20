@@ -54,19 +54,11 @@
 
 [GizmoBaseTransformSource](ue_ue.GizmoBaseTransformSource.md).[constructor](ue_ue.GizmoBaseTransformSource.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:38032](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38032)
-
 ## Properties
 
 ### Component
 
 • **Component**: [`SceneComponent`](ue_ue.SceneComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38033](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38033)
 
 ___
 
@@ -78,19 +70,11 @@ ___
 
 [GizmoBaseTransformSource](ue_ue.GizmoBaseTransformSource.md).[__tid_GizmoBaseTransformSource__](ue_ue.GizmoBaseTransformSource.md#__tid_gizmobasetransformsource__)
 
-#### Defined in
-
-[ue/ue.d.ts:37982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37982)
-
 ___
 
 ### \_\_tid\_GizmoComponentWorldTransformSource\_\_
 
 • **\_\_tid\_GizmoComponentWorldTransformSource\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38039)
 
 ___
 
@@ -102,19 +86,11 @@ ___
 
 [GizmoBaseTransformSource](ue_ue.GizmoBaseTransformSource.md).[__tid_Object__](ue_ue.GizmoBaseTransformSource.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bModifyComponentOnTransform
 
 • **bModifyComponentOnTransform**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38034)
 
 ## Methods
 
@@ -140,10 +116,6 @@ ___
 
 [GizmoBaseTransformSource](ue_ue.GizmoBaseTransformSource.md).[CreateDefaultSubobject](ue_ue.GizmoBaseTransformSource.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -164,10 +136,6 @@ ___
 
 [GizmoBaseTransformSource](ue_ue.GizmoBaseTransformSource.md).[ExecuteUbergraph](ue_ue.GizmoBaseTransformSource.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -181,10 +149,6 @@ ___
 #### Inherited from
 
 [GizmoBaseTransformSource](ue_ue.GizmoBaseTransformSource.md).[GetClass](ue_ue.GizmoBaseTransformSource.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -200,10 +164,6 @@ ___
 
 [GizmoBaseTransformSource](ue_ue.GizmoBaseTransformSource.md).[GetName](ue_ue.GizmoBaseTransformSource.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -218,10 +178,6 @@ ___
 
 [GizmoBaseTransformSource](ue_ue.GizmoBaseTransformSource.md).[GetOuter](ue_ue.GizmoBaseTransformSource.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -235,10 +191,6 @@ ___
 #### Inherited from
 
 [GizmoBaseTransformSource](ue_ue.GizmoBaseTransformSource.md).[GetWorld](ue_ue.GizmoBaseTransformSource.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -261,10 +213,6 @@ ___
 
 [GizmoBaseTransformSource](ue_ue.GizmoBaseTransformSource.md).[Find](ue_ue.GizmoBaseTransformSource.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:38036](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38036)
-
 ___
 
 ### Load
@@ -285,10 +233,6 @@ ___
 
 [GizmoBaseTransformSource](ue_ue.GizmoBaseTransformSource.md).[Load](ue_ue.GizmoBaseTransformSource.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:38037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38037)
-
 ___
 
 ### StaticClass
@@ -302,7 +246,3 @@ ___
 #### Overrides
 
 [GizmoBaseTransformSource](ue_ue.GizmoBaseTransformSource.md).[StaticClass](ue_ue.GizmoBaseTransformSource.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:38035](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38035)

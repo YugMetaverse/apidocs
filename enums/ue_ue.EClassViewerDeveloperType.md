@@ -21,19 +21,11 @@
 
 • **CVDT\_All** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27458](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27458)
-
 ___
 
 ### CVDT\_CurrentUser
 
 • **CVDT\_CurrentUser** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27458](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27458)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **CVDT\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27458](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27458)
-
 ___
 
 ### CVDT\_Max
 
 • **CVDT\_Max** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27458](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27458)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **CVDT\_None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27458](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27458)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27458](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27458)

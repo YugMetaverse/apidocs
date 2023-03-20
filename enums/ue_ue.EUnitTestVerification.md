@@ -22,19 +22,11 @@
 
 • **EUnitTestVerification\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27535)
-
 ___
 
 ### Unverified
 
 • **Unverified** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27535)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **VerifiedFixed** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27535)
-
 ___
 
 ### VerifiedNeedsUpdate
 
 • **VerifiedNeedsUpdate** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27535)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **VerifiedNotFixed** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27535)
-
 ___
 
 ### VerifiedUnreliable
 
 • **VerifiedUnreliable** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27535)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27535)

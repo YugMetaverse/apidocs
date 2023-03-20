@@ -20,19 +20,11 @@
 
 • **EVirtualKeyboardDismissAction\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32150)
-
 ___
 
 ### TextChangeOnDismiss
 
 • **TextChangeOnDismiss** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32150)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **TextCommitOnAccept** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32150)
-
 ___
 
 ### TextCommitOnDismiss
 
 • **TextCommitOnDismiss** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32150)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32150)

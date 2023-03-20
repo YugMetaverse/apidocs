@@ -21,19 +21,11 @@
 
 • **ENavigationQueryResult\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34078)
-
 ___
 
 ### Error
 
 • **Error** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34078)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Fail** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34078)
-
 ___
 
 ### Invalid
 
 • **Invalid** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34078)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Success** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34078)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34078)

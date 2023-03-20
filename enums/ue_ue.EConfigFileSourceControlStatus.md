@@ -20,19 +20,11 @@
 
 • **CFSCS\_Locked** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31410)
-
 ___
 
 ### CFSCS\_MAX
 
 • **CFSCS\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31410)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **CFSCS\_Unknown** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31410)
-
 ___
 
 ### CFSCS\_Writable
 
 • **CFSCS\_Writable** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31410)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31410)

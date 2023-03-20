@@ -19,19 +19,11 @@
 
 • **SZP\_CurrentTime** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34766)
-
 ___
 
 ### SZP\_MAX
 
 • **SZP\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34766)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **SZP\_MousePosition** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34766)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34766)

@@ -29,10 +29,6 @@
 
 • **new TutorialContent**()
 
-#### Defined in
-
-[ue/ue.d.ts:33347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33347)
-
 • **new TutorialContent**(`Type`, `Content`, `ExcerptName`, `Text`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `ExcerptName` | `string` |
 | `Text` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:33348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33348)
-
 ## Properties
 
 ### Content
 
 • **Content**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:33350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33350)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **ExcerptName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:33351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33351)
-
 ___
 
 ### Text
 
 • **Text**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:33352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33352)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **Type**: [`ETutorialContent`](../enums/ue_ue.ETutorialContent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33349)
-
 ___
 
 ### \_\_tid\_TutorialContent\_\_
 
 • `Private` **\_\_tid\_TutorialContent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33358)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33356)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33357](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33357)

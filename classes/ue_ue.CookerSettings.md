@@ -72,19 +72,11 @@
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[constructor](ue_ue.DeveloperSettings.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:28754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28754)
-
 ## Properties
 
 ### BlueprintComponentDataCookingMethod
 
 • **BlueprintComponentDataCookingMethod**: [`EBlueprintComponentDataCookingMethod`](../enums/ue_ue.EBlueprintComponentDataCookingMethod.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28764)
 
 ___
 
@@ -92,19 +84,11 @@ ___
 
 • **ClassesExcludedOnDedicatedClient**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:28767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28767)
-
 ___
 
 ### ClassesExcludedOnDedicatedServer
 
 • **ClassesExcludedOnDedicatedServer**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:28765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28765)
 
 ___
 
@@ -112,19 +96,11 @@ ___
 
 • **CookProgressDisplayMode**: [`ECookProgressDisplayMode`](../enums/ue_ue.ECookProgressDisplayMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:28760](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28760)
-
 ___
 
 ### DefaultASTCQualityBySize
 
 • **DefaultASTCQualityBySize**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:28772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28772)
 
 ___
 
@@ -132,19 +108,11 @@ ___
 
 • **DefaultASTCQualityBySpeed**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28771)
-
 ___
 
 ### DefaultPVRTCQuality
 
 • **DefaultPVRTCQuality**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:28770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28770)
 
 ___
 
@@ -152,19 +120,11 @@ ___
 
 • **ModulesExcludedOnDedicatedClient**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:28768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28768)
-
 ___
 
 ### ModulesExcludedOnDedicatedServer
 
 • **ModulesExcludedOnDedicatedServer**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:28766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28766)
 
 ___
 
@@ -172,19 +132,11 @@ ___
 
 • **VersionedIntRValues**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:28769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28769)
-
 ___
 
 ### \_\_tid\_CookerSettings\_\_
 
 • **\_\_tid\_CookerSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:28779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28779)
 
 ___
 
@@ -196,10 +148,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[__tid_DeveloperSettings__](ue_ue.DeveloperSettings.md#__tid_developersettings__)
 
-#### Defined in
-
-[ue/ue.d.ts:16950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16950)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -210,19 +158,11 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[__tid_Object__](ue_ue.DeveloperSettings.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bAllowCookedDataInEditorBuilds
 
 • **bAllowCookedDataInEditorBuilds**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:28773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28773)
 
 ___
 
@@ -230,19 +170,11 @@ ___
 
 • **bCompileBlueprintsInDevelopmentMode**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:28763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28763)
-
 ___
 
 ### bCookBlueprintComponentTemplateData
 
 • **bCookBlueprintComponentTemplateData**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:28774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28774)
 
 ___
 
@@ -250,19 +182,11 @@ ___
 
 • **bCookOnTheFlyForLaunchOn**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:28759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28759)
-
 ___
 
 ### bEnableBuildDDCInBackground
 
 • **bEnableBuildDDCInBackground**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:28756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28756)
 
 ___
 
@@ -270,19 +194,11 @@ ___
 
 • **bEnableCookOnTheSide**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:28755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28755)
-
 ___
 
 ### bIgnoreIniSettingsOutOfDateForIteration
 
 • **bIgnoreIniSettingsOutOfDateForIteration**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:28761](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28761)
 
 ___
 
@@ -290,29 +206,17 @@ ___
 
 • **bIgnoreScriptPackagesOutOfDateForIteration**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:28762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28762)
-
 ___
 
 ### bIterativeCookingForFileCookContent
 
 • **bIterativeCookingForFileCookContent**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:28758](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28758)
-
 ___
 
 ### bIterativeCookingForLaunchOn
 
 • **bIterativeCookingForLaunchOn**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:28757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28757)
 
 ## Methods
 
@@ -338,10 +242,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[CreateDefaultSubobject](ue_ue.DeveloperSettings.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -362,10 +262,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[ExecuteUbergraph](ue_ue.DeveloperSettings.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -379,10 +275,6 @@ ___
 #### Inherited from
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetClass](ue_ue.DeveloperSettings.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -398,10 +290,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetName](ue_ue.DeveloperSettings.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -416,10 +304,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetOuter](ue_ue.DeveloperSettings.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -433,10 +317,6 @@ ___
 #### Inherited from
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetWorld](ue_ue.DeveloperSettings.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -459,10 +339,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[Find](ue_ue.DeveloperSettings.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:28776](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28776)
-
 ___
 
 ### Load
@@ -483,10 +359,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[Load](ue_ue.DeveloperSettings.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:28777](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28777)
-
 ___
 
 ### StaticClass
@@ -500,7 +372,3 @@ ___
 #### Overrides
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[StaticClass](ue_ue.DeveloperSettings.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:28775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28775)

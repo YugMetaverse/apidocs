@@ -19,19 +19,11 @@
 
 • **EInteractorHand\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33911)
-
 ___
 
 ### Left
 
 • **Left** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33911)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Right** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33911)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33911)

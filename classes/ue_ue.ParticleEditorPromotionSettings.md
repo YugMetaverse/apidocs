@@ -26,10 +26,6 @@
 
 • **new ParticleEditorPromotionSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:23115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23115)
-
 • **new ParticleEditorPromotionSettings**(`DefaultParticleAsset`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `DefaultParticleAsset` | [`FilePath`](ue_ue.FilePath.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:23116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23116)
-
 ## Properties
 
 ### DefaultParticleAsset
 
 • **DefaultParticleAsset**: [`FilePath`](ue_ue.FilePath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23117)
-
 ___
 
 ### \_\_tid\_ParticleEditorPromotionSettings\_\_
 
 • `Private` **\_\_tid\_ParticleEditorPromotionSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:23123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23123)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23121)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:23122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23122)

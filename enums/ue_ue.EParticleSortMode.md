@@ -22,19 +22,11 @@
 
 • **PSORTMODE\_Age\_NewestFirst** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6758](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6758)
-
 ___
 
 ### PSORTMODE\_Age\_OldestFirst
 
 • **PSORTMODE\_Age\_OldestFirst** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6758](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6758)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **PSORTMODE\_DistanceToView** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6758](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6758)
-
 ___
 
 ### PSORTMODE\_MAX
 
 • **PSORTMODE\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6758](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6758)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **PSORTMODE\_None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6758](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6758)
-
 ___
 
 ### PSORTMODE\_ViewProjDepth
 
 • **PSORTMODE\_ViewProjDepth** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6758](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6758)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6758](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6758)

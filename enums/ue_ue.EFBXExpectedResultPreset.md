@@ -40,19 +40,11 @@
 
 • **Animation\_Frame\_Number** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33849)
-
 ___
 
 ### Animation\_Length
 
 • **Animation\_Length** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33849)
 
 ___
 
@@ -60,19 +52,11 @@ ___
 
 • **Bone\_Number** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33849)
-
 ___
 
 ### Bone\_Position
 
 • **Bone\_Position** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33849)
 
 ___
 
@@ -80,19 +64,11 @@ ___
 
 • **Created\_Skeletalmesh\_Number** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33849)
-
 ___
 
 ### Created\_Staticmesh\_Number
 
 • **Created\_Staticmesh\_Number** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33849)
 
 ___
 
@@ -100,19 +76,11 @@ ___
 
 • **EFBXExpectedResultPreset\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33849)
-
 ___
 
 ### Error\_Number
 
 • **Error\_Number** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33849)
 
 ___
 
@@ -120,19 +88,11 @@ ___
 
 • **LOD\_UV\_Channel\_Number** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33849)
-
 ___
 
 ### Lod\_Number
 
 • **Lod\_Number** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33849)
 
 ___
 
@@ -140,19 +100,11 @@ ___
 
 • **Material\_Slot\_Imported\_Name** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33849)
-
 ___
 
 ### Materials\_Created\_Number
 
 • **Materials\_Created\_Number** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33849)
 
 ___
 
@@ -160,19 +112,11 @@ ___
 
 • **Mesh\_LOD\_Section\_Material\_Imported\_Name** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33849)
-
 ___
 
 ### Mesh\_LOD\_Section\_Material\_Index
 
 • **Mesh\_LOD\_Section\_Material\_Index** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33849)
 
 ___
 
@@ -180,19 +124,11 @@ ___
 
 • **Mesh\_LOD\_Section\_Material\_Name** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33849)
-
 ___
 
 ### Mesh\_LOD\_Section\_Number
 
 • **Mesh\_LOD\_Section\_Number** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33849)
 
 ___
 
@@ -200,19 +136,11 @@ ___
 
 • **Mesh\_LOD\_Section\_Triangle\_Number** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33849)
-
 ___
 
 ### Mesh\_LOD\_Section\_Vertex\_Number
 
 • **Mesh\_LOD\_Section\_Vertex\_Number** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33849)
 
 ___
 
@@ -220,19 +148,11 @@ ___
 
 • **Mesh\_LOD\_Vertex\_Normal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33849)
-
 ___
 
 ### Mesh\_LOD\_Vertex\_Position
 
 • **Mesh\_LOD\_Vertex\_Position** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33849)
 
 ___
 
@@ -240,19 +160,11 @@ ___
 
 • **Mesh\_Materials\_Number** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33849)
-
 ___
 
 ### Vertex\_Number
 
 • **Vertex\_Number** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33849)
 
 ___
 
@@ -260,26 +172,14 @@ ___
 
 • **Vertex\_Number\_Lod** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33849)
-
 ___
 
 ### Warning\_Number
 
 • **Warning\_Number** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33849)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33849)

@@ -57,19 +57,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:17095](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17095)
-
 ## Properties
 
 ### PerSkeletonData
 
 • **PerSkeletonData**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AnimSharingInstance`](ue_ue.AnimSharingInstance.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:17097](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17097)
 
 ___
 
@@ -77,19 +69,11 @@ ___
 
 • **Skeletons**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Skeleton`](ue_ue.Skeleton.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:17096](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17096)
-
 ___
 
 ### \_\_tid\_AnimationSharingManager\_\_
 
 • **\_\_tid\_AnimationSharingManager\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17106](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17106)
 
 ___
 
@@ -100,10 +84,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -129,10 +109,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -153,10 +129,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -170,10 +142,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -189,10 +157,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -207,10 +171,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -224,10 +184,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -246,10 +202,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:17098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17098)
-
 ___
 
 ### AnimationSharingEnabled
@@ -259,10 +211,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17099](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17099)
 
 ___
 
@@ -280,10 +228,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17100](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17100)
 
 ___
 
@@ -306,10 +250,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:17103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17103)
-
 ___
 
 ### GetAnimationSharingManager
@@ -325,10 +265,6 @@ ___
 #### Returns
 
 [`AnimationSharingManager`](ue_ue.AnimationSharingManager.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17101)
 
 ___
 
@@ -350,10 +286,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:17104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17104)
-
 ___
 
 ### StaticClass
@@ -367,7 +299,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:17102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17102)

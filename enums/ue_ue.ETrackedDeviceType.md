@@ -24,19 +24,11 @@
 
 • **All** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34844)
-
 ___
 
 ### DeviceObjectZero
 
 • **DeviceObjectZero** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34844)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **ETrackedDeviceType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34844)
-
 ___
 
 ### HMD
 
 • **HMD** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34844)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **LTouch** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34844)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34844)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **RTouch** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34844)
-
 ___
 
 ### Touch
 
 • **Touch** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34844)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34844)

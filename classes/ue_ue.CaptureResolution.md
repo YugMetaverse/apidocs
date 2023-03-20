@@ -27,10 +27,6 @@
 
 • **new CaptureResolution**()
 
-#### Defined in
-
-[ue/ue.d.ts:22567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22567)
-
 • **new CaptureResolution**(`ResX`, `ResY`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `ResX` | `number` |
 | `ResY` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:22568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22568)
-
 ## Properties
 
 ### ResX
 
 • **ResX**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22569)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **ResY**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22570)
-
 ___
 
 ### \_\_tid\_CaptureResolution\_\_
 
 • `Private` **\_\_tid\_CaptureResolution\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22576)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22574)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22575)

@@ -44,10 +44,6 @@
 
 [ConstraintBaseParams](ue_ue.ConstraintBaseParams.md).[constructor](ue_ue.ConstraintBaseParams.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:3612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3612)
-
 • **new ConeConstraint**(`Swing1LimitDegrees`, `Swing2LimitDegrees`, `Swing1Motion`, `Swing2Motion`)
 
 #### Parameters
@@ -63,10 +59,6 @@
 
 [ConstraintBaseParams](ue_ue.ConstraintBaseParams.md).[constructor](ue_ue.ConstraintBaseParams.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:3613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3613)
-
 ## Properties
 
 ### ContactDistance
@@ -76,10 +68,6 @@
 #### Inherited from
 
 [ConstraintBaseParams](ue_ue.ConstraintBaseParams.md).[ContactDistance](ue_ue.ConstraintBaseParams.md#contactdistance)
-
-#### Defined in
-
-[ue/ue.d.ts:3584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3584)
 
 ___
 
@@ -91,10 +79,6 @@ ___
 
 [ConstraintBaseParams](ue_ue.ConstraintBaseParams.md).[Damping](ue_ue.ConstraintBaseParams.md#damping)
 
-#### Defined in
-
-[ue/ue.d.ts:3582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3582)
-
 ___
 
 ### Restitution
@@ -104,10 +88,6 @@ ___
 #### Inherited from
 
 [ConstraintBaseParams](ue_ue.ConstraintBaseParams.md).[Restitution](ue_ue.ConstraintBaseParams.md#restitution)
-
-#### Defined in
-
-[ue/ue.d.ts:3583](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3583)
 
 ___
 
@@ -119,19 +99,11 @@ ___
 
 [ConstraintBaseParams](ue_ue.ConstraintBaseParams.md).[Stiffness](ue_ue.ConstraintBaseParams.md#stiffness)
 
-#### Defined in
-
-[ue/ue.d.ts:3581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3581)
-
 ___
 
 ### Swing1LimitDegrees
 
 • **Swing1LimitDegrees**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3614)
 
 ___
 
@@ -139,19 +111,11 @@ ___
 
 • **Swing1Motion**: [`EAngularConstraintMotion`](../enums/ue_ue.EAngularConstraintMotion.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3616)
-
 ___
 
 ### Swing2LimitDegrees
 
 • **Swing2LimitDegrees**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3615)
 
 ___
 
@@ -159,19 +123,11 @@ ___
 
 • **Swing2Motion**: [`EAngularConstraintMotion`](../enums/ue_ue.EAngularConstraintMotion.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3617)
-
 ___
 
 ### \_\_tid\_ConeConstraint\_\_
 
 • `Private` **\_\_tid\_ConeConstraint\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3623)
 
 ___
 
@@ -182,10 +138,6 @@ ___
 #### Inherited from
 
 [ConstraintBaseParams](ue_ue.ConstraintBaseParams.md).[bSoftConstraint](ue_ue.ConstraintBaseParams.md#bsoftconstraint)
-
-#### Defined in
-
-[ue/ue.d.ts:3585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3585)
 
 ## Methods
 
@@ -205,10 +157,6 @@ use StaticStruct instead.
 
 [ConstraintBaseParams](ue_ue.ConstraintBaseParams.md).[StaticClass](ue_ue.ConstraintBaseParams.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:3621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3621)
-
 ___
 
 ### StaticStruct
@@ -222,7 +170,3 @@ ___
 #### Overrides
 
 [ConstraintBaseParams](ue_ue.ConstraintBaseParams.md).[StaticStruct](ue_ue.ConstraintBaseParams.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:3622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3622)

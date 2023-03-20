@@ -27,10 +27,6 @@
 
 • **new WidgetAnimation_DEPRECATED**()
 
-#### Defined in
-
-[ue/ue.d.ts:33632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33632)
-
 • **new WidgetAnimation_DEPRECATED**(`MovieScene`, `AnimationBindings`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `MovieScene` | [`MovieScene`](ue_ue.MovieScene.md) |
 | `AnimationBindings` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`WidgetAnimationBinding`](ue_ue.WidgetAnimationBinding.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:33633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33633)
-
 ## Properties
 
 ### AnimationBindings
 
 • **AnimationBindings**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`WidgetAnimationBinding`](ue_ue.WidgetAnimationBinding.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:33635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33635)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **MovieScene**: [`MovieScene`](ue_ue.MovieScene.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33634)
-
 ___
 
 ### \_\_tid\_WidgetAnimation\_DEPRECATED\_\_
 
 • `Private` **\_\_tid\_WidgetAnimation\_DEPRECATED\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33641)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33639)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33640)

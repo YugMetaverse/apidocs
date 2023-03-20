@@ -31,10 +31,6 @@
 
 • **new ComparisonToleranceAmount**()
 
-#### Defined in
-
-[ue/ue.d.ts:22847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22847)
-
 • **new ComparisonToleranceAmount**(`Red`, `Green`, `Blue`, `Alpha`, `MinBrightness`, `MaxBrightness`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `MinBrightness` | `number` |
 | `MaxBrightness` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:22848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22848)
-
 ## Properties
 
 ### Alpha
 
 • **Alpha**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22852)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **Blue**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22851)
-
 ___
 
 ### Green
 
 • **Green**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22850)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **MaxBrightness**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22854](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22854)
-
 ___
 
 ### MinBrightness
 
 • **MinBrightness**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22853)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **Red**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22849)
-
 ___
 
 ### \_\_tid\_ComparisonToleranceAmount\_\_
 
 • `Private` **\_\_tid\_ComparisonToleranceAmount\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22860)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22858)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22859](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22859)

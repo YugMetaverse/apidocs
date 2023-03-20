@@ -29,10 +29,6 @@
 
 • **new DialogueContextMapping**()
 
-#### Defined in
-
-[ue/ue.d.ts:30866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30866)
-
 • **new DialogueContextMapping**(`Context`, `SoundWave`, `LocalizationKeyFormat`, `Proxy`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `LocalizationKeyFormat` | `string` |
 | `Proxy` | [`DialogueSoundWaveProxy`](ue_ue.DialogueSoundWaveProxy.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:30867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30867)
-
 ## Properties
 
 ### Context
 
 • **Context**: [`DialogueContext`](ue_ue.DialogueContext.md)
-
-#### Defined in
-
-[ue/ue.d.ts:30868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30868)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **LocalizationKeyFormat**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:30870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30870)
-
 ___
 
 ### Proxy
 
 • **Proxy**: [`DialogueSoundWaveProxy`](ue_ue.DialogueSoundWaveProxy.md)
-
-#### Defined in
-
-[ue/ue.d.ts:30871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30871)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **SoundWave**: [`SoundWave`](ue_ue.SoundWave.md)
 
-#### Defined in
-
-[ue/ue.d.ts:30869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30869)
-
 ___
 
 ### \_\_tid\_DialogueContextMapping\_\_
 
 • `Private` **\_\_tid\_DialogueContextMapping\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30877)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:30875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30875)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:30876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30876)

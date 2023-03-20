@@ -21,19 +21,11 @@
 
 • **EARSessionTrackingFeature\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20768)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20768)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **PersonSegmentation** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20768)
-
 ___
 
 ### PersonSegmentationWithDepth
 
 • **PersonSegmentationWithDepth** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20768)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **PoseDetection2D** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20768)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20768)

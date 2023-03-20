@@ -26,10 +26,6 @@
 
 • **new VirtualKeyboardOptions**()
 
-#### Defined in
-
-[ue/ue.d.ts:32139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32139)
-
 • **new VirtualKeyboardOptions**(`bEnableAutocorrect`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `bEnableAutocorrect` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:32140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32140)
-
 ## Properties
 
 ### \_\_tid\_VirtualKeyboardOptions\_\_
 
 • `Private` **\_\_tid\_VirtualKeyboardOptions\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32147)
-
 ___
 
 ### bEnableAutocorrect
 
 • **bEnableAutocorrect**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32141)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32145)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32146)

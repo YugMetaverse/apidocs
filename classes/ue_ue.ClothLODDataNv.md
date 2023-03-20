@@ -55,10 +55,6 @@
 
 [ClothLODDataBase](ue_ue.ClothLODDataBase.md).[constructor](ue_ue.ClothLODDataBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:27947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27947)
-
 ## Properties
 
 ### CollisionData
@@ -68,10 +64,6 @@
 #### Inherited from
 
 [ClothLODDataBase](ue_ue.ClothLODDataBase.md).[CollisionData](ue_ue.ClothLODDataBase.md#collisiondata)
-
-#### Defined in
-
-[ue/ue.d.ts:27757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27757)
 
 ___
 
@@ -83,10 +75,6 @@ ___
 
 [ClothLODDataBase](ue_ue.ClothLODDataBase.md).[ParameterMasks](ue_ue.ClothLODDataBase.md#parametermasks)
 
-#### Defined in
-
-[ue/ue.d.ts:27758](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27758)
-
 ___
 
 ### PhysicalMeshData
@@ -96,10 +84,6 @@ ___
 #### Inherited from
 
 [ClothLODDataBase](ue_ue.ClothLODDataBase.md).[PhysicalMeshData](ue_ue.ClothLODDataBase.md#physicalmeshdata)
-
-#### Defined in
-
-[ue/ue.d.ts:27756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27756)
 
 ___
 
@@ -111,19 +95,11 @@ ___
 
 [ClothLODDataBase](ue_ue.ClothLODDataBase.md).[__tid_ClothLODDataBase__](ue_ue.ClothLODDataBase.md#__tid_clothloddatabase__)
 
-#### Defined in
-
-[ue/ue.d.ts:27763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27763)
-
 ___
 
 ### \_\_tid\_ClothLODDataNv\_\_
 
 • **\_\_tid\_ClothLODDataNv\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27952)
 
 ___
 
@@ -134,10 +110,6 @@ ___
 #### Inherited from
 
 [ClothLODDataBase](ue_ue.ClothLODDataBase.md).[__tid_Object__](ue_ue.ClothLODDataBase.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -163,10 +135,6 @@ ___
 
 [ClothLODDataBase](ue_ue.ClothLODDataBase.md).[CreateDefaultSubobject](ue_ue.ClothLODDataBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -187,10 +155,6 @@ ___
 
 [ClothLODDataBase](ue_ue.ClothLODDataBase.md).[ExecuteUbergraph](ue_ue.ClothLODDataBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -204,10 +168,6 @@ ___
 #### Inherited from
 
 [ClothLODDataBase](ue_ue.ClothLODDataBase.md).[GetClass](ue_ue.ClothLODDataBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -223,10 +183,6 @@ ___
 
 [ClothLODDataBase](ue_ue.ClothLODDataBase.md).[GetName](ue_ue.ClothLODDataBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -241,10 +197,6 @@ ___
 
 [ClothLODDataBase](ue_ue.ClothLODDataBase.md).[GetOuter](ue_ue.ClothLODDataBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -258,10 +210,6 @@ ___
 #### Inherited from
 
 [ClothLODDataBase](ue_ue.ClothLODDataBase.md).[GetWorld](ue_ue.ClothLODDataBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -284,10 +232,6 @@ ___
 
 [ClothLODDataBase](ue_ue.ClothLODDataBase.md).[Find](ue_ue.ClothLODDataBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:27949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27949)
-
 ___
 
 ### Load
@@ -308,10 +252,6 @@ ___
 
 [ClothLODDataBase](ue_ue.ClothLODDataBase.md).[Load](ue_ue.ClothLODDataBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:27950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27950)
-
 ___
 
 ### StaticClass
@@ -325,7 +265,3 @@ ___
 #### Overrides
 
 [ClothLODDataBase](ue_ue.ClothLODDataBase.md).[StaticClass](ue_ue.ClothLODDataBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:27948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27948)

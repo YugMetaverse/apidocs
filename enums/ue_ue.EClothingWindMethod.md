@@ -19,19 +19,11 @@
 
 • **Accurate** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27587)
-
 ___
 
 ### EClothingWindMethod\_MAX
 
 • **EClothingWindMethod\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27587)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Legacy** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27587)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27587)

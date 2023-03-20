@@ -20,19 +20,11 @@
 
 • **ESectionEvaluationFlags\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34759)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34759)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **PostRoll** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34759)
-
 ___
 
 ### PreRoll
 
 • **PreRoll** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34759)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34759)

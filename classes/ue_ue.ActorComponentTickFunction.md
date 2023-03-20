@@ -42,10 +42,6 @@
 
 [TickFunction](ue_ue.TickFunction.md).[constructor](ue_ue.TickFunction.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L253)
-
 ## Properties
 
 ### EndTickGroup
@@ -55,10 +51,6 @@
 #### Inherited from
 
 [TickFunction](ue_ue.TickFunction.md).[EndTickGroup](ue_ue.TickFunction.md#endtickgroup)
-
-#### Defined in
-
-[ue/ue.d.ts:194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L194)
 
 ___
 
@@ -70,10 +62,6 @@ ___
 
 [TickFunction](ue_ue.TickFunction.md).[TickGroup](ue_ue.TickFunction.md#tickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L193)
-
 ___
 
 ### TickInterval
@@ -84,19 +72,11 @@ ___
 
 [TickFunction](ue_ue.TickFunction.md).[TickInterval](ue_ue.TickFunction.md#tickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L199)
-
 ___
 
 ### \_\_tid\_ActorComponentTickFunction\_\_
 
 • `Private` **\_\_tid\_ActorComponentTickFunction\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L259)
 
 ___
 
@@ -108,10 +88,6 @@ ___
 
 [TickFunction](ue_ue.TickFunction.md).[bAllowTickOnDedicatedServer](ue_ue.TickFunction.md#ballowtickondedicatedserver)
 
-#### Defined in
-
-[ue/ue.d.ts:198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L198)
-
 ___
 
 ### bCanEverTick
@@ -121,10 +97,6 @@ ___
 #### Inherited from
 
 [TickFunction](ue_ue.TickFunction.md).[bCanEverTick](ue_ue.TickFunction.md#bcanevertick)
-
-#### Defined in
-
-[ue/ue.d.ts:196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L196)
 
 ___
 
@@ -136,10 +108,6 @@ ___
 
 [TickFunction](ue_ue.TickFunction.md).[bStartWithTickEnabled](ue_ue.TickFunction.md#bstartwithtickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L197)
-
 ___
 
 ### bTickEvenWhenPaused
@@ -149,10 +117,6 @@ ___
 #### Inherited from
 
 [TickFunction](ue_ue.TickFunction.md).[bTickEvenWhenPaused](ue_ue.TickFunction.md#btickevenwhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L195)
 
 ## Methods
 
@@ -172,10 +136,6 @@ use StaticStruct instead.
 
 [TickFunction](ue_ue.TickFunction.md).[StaticClass](ue_ue.TickFunction.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L257)
-
 ___
 
 ### StaticStruct
@@ -189,7 +149,3 @@ ___
 #### Overrides
 
 [TickFunction](ue_ue.TickFunction.md).[StaticStruct](ue_ue.TickFunction.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L258)

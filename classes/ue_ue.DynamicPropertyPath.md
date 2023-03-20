@@ -37,10 +37,6 @@
 
 [CachedPropertyPath](ue_ue.CachedPropertyPath.md).[constructor](ue_ue.CachedPropertyPath.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:10804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10804)
-
 ## Properties
 
 ### CachedFunction
@@ -50,10 +46,6 @@
 #### Inherited from
 
 [CachedPropertyPath](ue_ue.CachedPropertyPath.md).[CachedFunction](ue_ue.CachedPropertyPath.md#cachedfunction)
-
-#### Defined in
-
-[ue/ue.d.ts:10794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10794)
 
 ___
 
@@ -65,19 +57,11 @@ ___
 
 [CachedPropertyPath](ue_ue.CachedPropertyPath.md).[Segments](ue_ue.CachedPropertyPath.md#segments)
 
-#### Defined in
-
-[ue/ue.d.ts:10793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10793)
-
 ___
 
 ### \_\_tid\_DynamicPropertyPath\_\_
 
 • `Private` **\_\_tid\_DynamicPropertyPath\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10810)
 
 ## Methods
 
@@ -97,10 +81,6 @@ use StaticStruct instead.
 
 [CachedPropertyPath](ue_ue.CachedPropertyPath.md).[StaticClass](ue_ue.CachedPropertyPath.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:10808](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10808)
-
 ___
 
 ### StaticStruct
@@ -114,7 +94,3 @@ ___
 #### Overrides
 
 [CachedPropertyPath](ue_ue.CachedPropertyPath.md).[StaticStruct](ue_ue.CachedPropertyPath.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:10809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10809)

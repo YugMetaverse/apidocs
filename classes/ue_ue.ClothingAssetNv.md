@@ -65,10 +65,6 @@
 
 [ClothingAssetCommon](ue_ue.ClothingAssetCommon.md).[constructor](ue_ue.ClothingAssetCommon.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:27905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27905)
-
 ## Properties
 
 ### AssetGuid
@@ -79,19 +75,11 @@
 
 [ClothingAssetCommon](ue_ue.ClothingAssetCommon.md).[AssetGuid](ue_ue.ClothingAssetCommon.md#assetguid)
 
-#### Defined in
-
-[ue/ue.d.ts:3961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3961)
-
 ___
 
 ### ClothConfig
 
 • **ClothConfig**: [`ClothConfig`](ue_ue.ClothConfig.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27906)
 
 ___
 
@@ -103,10 +91,6 @@ ___
 
 [ClothingAssetCommon](ue_ue.ClothingAssetCommon.md).[ClothLodData](ue_ue.ClothingAssetCommon.md#clothloddata)
 
-#### Defined in
-
-[ue/ue.d.ts:27779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27779)
-
 ___
 
 ### ClothSimConfig
@@ -116,10 +100,6 @@ ___
 #### Inherited from
 
 [ClothingAssetCommon](ue_ue.ClothingAssetCommon.md).[ClothSimConfig](ue_ue.ClothingAssetCommon.md#clothsimconfig)
-
-#### Defined in
-
-[ue/ue.d.ts:27778](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27778)
 
 ___
 
@@ -131,10 +111,6 @@ ___
 
 [ClothingAssetCommon](ue_ue.ClothingAssetCommon.md).[CustomData](ue_ue.ClothingAssetCommon.md#customdata)
 
-#### Defined in
-
-[ue/ue.d.ts:27784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27784)
-
 ___
 
 ### ImportedFilePath
@@ -145,19 +121,11 @@ ___
 
 [ClothingAssetCommon](ue_ue.ClothingAssetCommon.md).[ImportedFilePath](ue_ue.ClothingAssetCommon.md#importedfilepath)
 
-#### Defined in
-
-[ue/ue.d.ts:3960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3960)
-
 ___
 
 ### LodData
 
 • **LodData**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ClothLODData`](ue_ue.ClothLODData.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:27907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27907)
 
 ___
 
@@ -169,10 +137,6 @@ ___
 
 [ClothingAssetCommon](ue_ue.ClothingAssetCommon.md).[LodMap](ue_ue.ClothingAssetCommon.md#lodmap)
 
-#### Defined in
-
-[ue/ue.d.ts:27780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27780)
-
 ___
 
 ### PhysicsAsset
@@ -182,10 +146,6 @@ ___
 #### Inherited from
 
 [ClothingAssetCommon](ue_ue.ClothingAssetCommon.md).[PhysicsAsset](ue_ue.ClothingAssetCommon.md#physicsasset)
-
-#### Defined in
-
-[ue/ue.d.ts:27777](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27777)
 
 ___
 
@@ -197,10 +157,6 @@ ___
 
 [ClothingAssetCommon](ue_ue.ClothingAssetCommon.md).[ReferenceBoneIndex](ue_ue.ClothingAssetCommon.md#referenceboneindex)
 
-#### Defined in
-
-[ue/ue.d.ts:27783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27783)
-
 ___
 
 ### UsedBoneIndices
@@ -210,10 +166,6 @@ ___
 #### Inherited from
 
 [ClothingAssetCommon](ue_ue.ClothingAssetCommon.md).[UsedBoneIndices](ue_ue.ClothingAssetCommon.md#usedboneindices)
-
-#### Defined in
-
-[ue/ue.d.ts:27782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27782)
 
 ___
 
@@ -225,10 +177,6 @@ ___
 
 [ClothingAssetCommon](ue_ue.ClothingAssetCommon.md).[UsedBoneNames](ue_ue.ClothingAssetCommon.md#usedbonenames)
 
-#### Defined in
-
-[ue/ue.d.ts:27781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27781)
-
 ___
 
 ### \_\_tid\_ClothingAssetBase\_\_
@@ -238,10 +186,6 @@ ___
 #### Inherited from
 
 [ClothingAssetCommon](ue_ue.ClothingAssetCommon.md).[__tid_ClothingAssetBase__](ue_ue.ClothingAssetCommon.md#__tid_clothingassetbase__)
-
-#### Defined in
-
-[ue/ue.d.ts:3966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3966)
 
 ___
 
@@ -253,19 +197,11 @@ ___
 
 [ClothingAssetCommon](ue_ue.ClothingAssetCommon.md).[__tid_ClothingAssetCommon__](ue_ue.ClothingAssetCommon.md#__tid_clothingassetcommon__)
 
-#### Defined in
-
-[ue/ue.d.ts:27789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27789)
-
 ___
 
 ### \_\_tid\_ClothingAssetNv\_\_
 
 • **\_\_tid\_ClothingAssetNv\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27912)
 
 ___
 
@@ -276,10 +212,6 @@ ___
 #### Inherited from
 
 [ClothingAssetCommon](ue_ue.ClothingAssetCommon.md).[__tid_Object__](ue_ue.ClothingAssetCommon.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -305,10 +237,6 @@ ___
 
 [ClothingAssetCommon](ue_ue.ClothingAssetCommon.md).[CreateDefaultSubobject](ue_ue.ClothingAssetCommon.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -329,10 +257,6 @@ ___
 
 [ClothingAssetCommon](ue_ue.ClothingAssetCommon.md).[ExecuteUbergraph](ue_ue.ClothingAssetCommon.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -346,10 +270,6 @@ ___
 #### Inherited from
 
 [ClothingAssetCommon](ue_ue.ClothingAssetCommon.md).[GetClass](ue_ue.ClothingAssetCommon.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -365,10 +285,6 @@ ___
 
 [ClothingAssetCommon](ue_ue.ClothingAssetCommon.md).[GetName](ue_ue.ClothingAssetCommon.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -383,10 +299,6 @@ ___
 
 [ClothingAssetCommon](ue_ue.ClothingAssetCommon.md).[GetOuter](ue_ue.ClothingAssetCommon.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -400,10 +312,6 @@ ___
 #### Inherited from
 
 [ClothingAssetCommon](ue_ue.ClothingAssetCommon.md).[GetWorld](ue_ue.ClothingAssetCommon.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -426,10 +334,6 @@ ___
 
 [ClothingAssetCommon](ue_ue.ClothingAssetCommon.md).[Find](ue_ue.ClothingAssetCommon.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:27909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27909)
-
 ___
 
 ### Load
@@ -450,10 +354,6 @@ ___
 
 [ClothingAssetCommon](ue_ue.ClothingAssetCommon.md).[Load](ue_ue.ClothingAssetCommon.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:27910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27910)
-
 ___
 
 ### StaticClass
@@ -467,7 +367,3 @@ ___
 #### Overrides
 
 [ClothingAssetCommon](ue_ue.ClothingAssetCommon.md).[StaticClass](ue_ue.ClothingAssetCommon.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:27908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27908)

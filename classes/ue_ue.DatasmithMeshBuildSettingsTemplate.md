@@ -36,10 +36,6 @@
 
 • **new DatasmithMeshBuildSettingsTemplate**()
 
-#### Defined in
-
-[ue/ue.d.ts:30096](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30096)
-
 • **new DatasmithMeshBuildSettingsTemplate**(`bUseMikkTSpace`, `bRecomputeNormals`, `bRecomputeTangents`, `bRemoveDegenerates`, `bBuildAdjacencyBuffer`, `bUseHighPrecisionTangentBasis`, `bUseFullPrecisionUVs`, `bGenerateLightmapUVs`, `MinLightmapResolution`, `SrcLightmapIndex`, `DstLightmapIndex`)
 
 #### Parameters
@@ -58,19 +54,11 @@
 | `SrcLightmapIndex` | `number` |
 | `DstLightmapIndex` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:30097](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30097)
-
 ## Properties
 
 ### DstLightmapIndex
 
 • **DstLightmapIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30108)
 
 ___
 
@@ -78,19 +66,11 @@ ___
 
 • **MinLightmapResolution**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30106](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30106)
-
 ___
 
 ### SrcLightmapIndex
 
 • **SrcLightmapIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30107](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30107)
 
 ___
 
@@ -98,19 +78,11 @@ ___
 
 • `Private` **\_\_tid\_DatasmithMeshBuildSettingsTemplate\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:30114](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30114)
-
 ___
 
 ### bBuildAdjacencyBuffer
 
 • **bBuildAdjacencyBuffer**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30102)
 
 ___
 
@@ -118,19 +90,11 @@ ___
 
 • **bGenerateLightmapUVs**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:30105](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30105)
-
 ___
 
 ### bRecomputeNormals
 
 • **bRecomputeNormals**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30099](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30099)
 
 ___
 
@@ -138,19 +102,11 @@ ___
 
 • **bRecomputeTangents**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:30100](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30100)
-
 ___
 
 ### bRemoveDegenerates
 
 • **bRemoveDegenerates**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30101)
 
 ___
 
@@ -158,29 +114,17 @@ ___
 
 • **bUseFullPrecisionUVs**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:30104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30104)
-
 ___
 
 ### bUseHighPrecisionTangentBasis
 
 • **bUseHighPrecisionTangentBasis**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:30103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30103)
-
 ___
 
 ### bUseMikkTSpace
 
 • **bUseMikkTSpace**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30098)
 
 ## Methods
 
@@ -196,10 +140,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:30112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30112)
-
 ___
 
 ### StaticStruct
@@ -209,7 +149,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:30113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30113)

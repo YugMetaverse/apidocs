@@ -26,10 +26,6 @@
 
 • **new MovieSceneEvaluationTemplateSerialNumber**()
 
-#### Defined in
-
-[ue/ue.d.ts:11428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11428)
-
 • **new MovieSceneEvaluationTemplateSerialNumber**(`Value`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Value` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:11429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11429)
-
 ## Properties
 
 ### Value
 
 • **Value**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11430)
-
 ___
 
 ### \_\_tid\_MovieSceneEvaluationTemplateSerialNumber\_\_
 
 • `Private` **\_\_tid\_MovieSceneEvaluationTemplateSerialNumber\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11436)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11434)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11435)

@@ -56,10 +56,6 @@
 
 [CurveTable](ue_ue.CurveTable.md).[constructor](ue_ue.CurveTable.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:28395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28395)
-
 ## Properties
 
 ### AssetImportData
@@ -69,10 +65,6 @@
 #### Inherited from
 
 [CurveTable](ue_ue.CurveTable.md).[AssetImportData](ue_ue.CurveTable.md#assetimportdata)
-
-#### Defined in
-
-[ue/ue.d.ts:9542](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9542)
 
 ___
 
@@ -84,19 +76,11 @@ ___
 
 [CurveTable](ue_ue.CurveTable.md).[ImportPath](ue_ue.CurveTable.md#importpath)
 
-#### Defined in
-
-[ue/ue.d.ts:9543](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9543)
-
 ___
 
 ### OldParentTables
 
 • **OldParentTables**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`CurveTable`](ue_ue.CurveTable.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:28397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28397)
 
 ___
 
@@ -104,19 +88,11 @@ ___
 
 • **ParentTables**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`CurveTable`](ue_ue.CurveTable.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:28396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28396)
-
 ___
 
 ### \_\_tid\_CompositeCurveTable\_\_
 
 • **\_\_tid\_CompositeCurveTable\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:28402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28402)
 
 ___
 
@@ -128,10 +104,6 @@ ___
 
 [CurveTable](ue_ue.CurveTable.md).[__tid_CurveTable__](ue_ue.CurveTable.md#__tid_curvetable__)
 
-#### Defined in
-
-[ue/ue.d.ts:9548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9548)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -141,10 +113,6 @@ ___
 #### Inherited from
 
 [CurveTable](ue_ue.CurveTable.md).[__tid_Object__](ue_ue.CurveTable.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -170,10 +138,6 @@ ___
 
 [CurveTable](ue_ue.CurveTable.md).[CreateDefaultSubobject](ue_ue.CurveTable.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -194,10 +158,6 @@ ___
 
 [CurveTable](ue_ue.CurveTable.md).[ExecuteUbergraph](ue_ue.CurveTable.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -211,10 +171,6 @@ ___
 #### Inherited from
 
 [CurveTable](ue_ue.CurveTable.md).[GetClass](ue_ue.CurveTable.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -230,10 +186,6 @@ ___
 
 [CurveTable](ue_ue.CurveTable.md).[GetName](ue_ue.CurveTable.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -248,10 +200,6 @@ ___
 
 [CurveTable](ue_ue.CurveTable.md).[GetOuter](ue_ue.CurveTable.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -265,10 +213,6 @@ ___
 #### Inherited from
 
 [CurveTable](ue_ue.CurveTable.md).[GetWorld](ue_ue.CurveTable.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -291,10 +235,6 @@ ___
 
 [CurveTable](ue_ue.CurveTable.md).[Find](ue_ue.CurveTable.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:28399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28399)
-
 ___
 
 ### Load
@@ -315,10 +255,6 @@ ___
 
 [CurveTable](ue_ue.CurveTable.md).[Load](ue_ue.CurveTable.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:28400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28400)
-
 ___
 
 ### StaticClass
@@ -332,7 +268,3 @@ ___
 #### Overrides
 
 [CurveTable](ue_ue.CurveTable.md).[StaticClass](ue_ue.CurveTable.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:28398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28398)

@@ -64,10 +64,6 @@
 
 [ImageProps](react_umg.ImageProps.md).[AccessibleBehavior](react_umg.ImageProps.md#accessiblebehavior)
 
-#### Defined in
-
-[react-umg/index.d.ts:145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L145)
-
 ___
 
 ### AccessibleSummaryBehavior
@@ -78,10 +74,6 @@ ___
 
 [ImageProps](react_umg.ImageProps.md).[AccessibleSummaryBehavior](react_umg.ImageProps.md#accessiblesummarybehavior)
 
-#### Defined in
-
-[react-umg/index.d.ts:146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L146)
-
 ___
 
 ### AccessibleSummaryText
@@ -91,10 +83,6 @@ ___
 #### Inherited from
 
 [ImageProps](react_umg.ImageProps.md).[AccessibleSummaryText](react_umg.ImageProps.md#accessiblesummarytext)
-
-#### Defined in
-
-[react-umg/index.d.ts:149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L149)
 
 ___
 
@@ -114,10 +102,6 @@ ___
 
 [ImageProps](react_umg.ImageProps.md).[AccessibleSummaryTextDelegate](react_umg.ImageProps.md#accessiblesummarytextdelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L150)
-
 ___
 
 ### AccessibleText
@@ -127,10 +111,6 @@ ___
 #### Inherited from
 
 [ImageProps](react_umg.ImageProps.md).[AccessibleText](react_umg.ImageProps.md#accessibletext)
-
-#### Defined in
-
-[react-umg/index.d.ts:147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L147)
 
 ___
 
@@ -150,10 +130,6 @@ ___
 
 [ImageProps](react_umg.ImageProps.md).[AccessibleTextDelegate](react_umg.ImageProps.md#accessibletextdelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L148)
-
 ___
 
 ### Brush
@@ -163,10 +139,6 @@ ___
 #### Inherited from
 
 [ImageProps](react_umg.ImageProps.md).[Brush](react_umg.ImageProps.md#brush)
-
-#### Defined in
-
-[react-umg/index.d.ts:451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L451)
 
 ___
 
@@ -186,10 +158,6 @@ ___
 
 [ImageProps](react_umg.ImageProps.md).[BrushDelegate](react_umg.ImageProps.md#brushdelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L452)
-
 ___
 
 ### CategoryName
@@ -199,10 +167,6 @@ ___
 #### Inherited from
 
 [ImageProps](react_umg.ImageProps.md).[CategoryName](react_umg.ImageProps.md#categoryname)
-
-#### Defined in
-
-[react-umg/index.d.ts:162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L162)
 
 ___
 
@@ -214,10 +178,6 @@ ___
 
 [ImageProps](react_umg.ImageProps.md).[Clipping](react_umg.ImageProps.md#clipping)
 
-#### Defined in
-
-[react-umg/index.d.ts:156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L156)
-
 ___
 
 ### ColorAndOpacity
@@ -227,10 +187,6 @@ ___
 #### Inherited from
 
 [ImageProps](react_umg.ImageProps.md).[ColorAndOpacity](react_umg.ImageProps.md#colorandopacity)
-
-#### Defined in
-
-[react-umg/index.d.ts:453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L453)
 
 ___
 
@@ -250,10 +206,6 @@ ___
 
 [ImageProps](react_umg.ImageProps.md).[ColorAndOpacityDelegate](react_umg.ImageProps.md#colorandopacitydelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L454)
-
 ___
 
 ### Cursor
@@ -263,10 +215,6 @@ ___
 #### Inherited from
 
 [ImageProps](react_umg.ImageProps.md).[Cursor](react_umg.ImageProps.md#cursor)
-
-#### Defined in
-
-[react-umg/index.d.ts:155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L155)
 
 ___
 
@@ -278,10 +226,6 @@ ___
 
 [ImageProps](react_umg.ImageProps.md).[DesignerFlags](react_umg.ImageProps.md#designerflags)
 
-#### Defined in
-
-[react-umg/index.d.ts:160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L160)
-
 ___
 
 ### DisplayLabel
@@ -292,10 +236,6 @@ ___
 
 [ImageProps](react_umg.ImageProps.md).[DisplayLabel](react_umg.ImageProps.md#displaylabel)
 
-#### Defined in
-
-[react-umg/index.d.ts:161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L161)
-
 ___
 
 ### FlowDirectionPreference
@@ -305,10 +245,6 @@ ___
 #### Inherited from
 
 [ImageProps](react_umg.ImageProps.md).[FlowDirectionPreference](react_umg.ImageProps.md#flowdirectionpreference)
-
-#### Defined in
-
-[react-umg/index.d.ts:159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L159)
 
 ___
 
@@ -335,10 +271,6 @@ ___
 
 [ImageProps](react_umg.ImageProps.md).[OnMouseButtonDownEvent](react_umg.ImageProps.md#onmousebuttondownevent)
 
-#### Defined in
-
-[react-umg/index.d.ts:456](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L456)
-
 ___
 
 ### RenderOpacity
@@ -348,10 +280,6 @@ ___
 #### Inherited from
 
 [ImageProps](react_umg.ImageProps.md).[RenderOpacity](react_umg.ImageProps.md#renderopacity)
-
-#### Defined in
-
-[react-umg/index.d.ts:158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L158)
 
 ___
 
@@ -363,10 +291,6 @@ ___
 
 [ImageProps](react_umg.ImageProps.md).[RenderTransform](react_umg.ImageProps.md#rendertransform)
 
-#### Defined in
-
-[react-umg/index.d.ts:137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L137)
-
 ___
 
 ### RenderTransformPivot
@@ -376,10 +300,6 @@ ___
 #### Inherited from
 
 [ImageProps](react_umg.ImageProps.md).[RenderTransformPivot](react_umg.ImageProps.md#rendertransformpivot)
-
-#### Defined in
-
-[react-umg/index.d.ts:138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L138)
 
 ___
 
@@ -391,19 +311,11 @@ ___
 
 [ImageProps](react_umg.ImageProps.md).[Slot](react_umg.ImageProps.md#slot)
 
-#### Defined in
-
-[react-umg/index.d.ts:129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L129)
-
 ___
 
 ### TextureName
 
 • `Optional` **TextureName**: `string`
-
-#### Defined in
-
-[react-umg/index.d.ts:960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L960)
 
 ___
 
@@ -414,10 +326,6 @@ ___
 #### Inherited from
 
 [ImageProps](react_umg.ImageProps.md).[ToolTipText](react_umg.ImageProps.md#tooltiptext)
-
-#### Defined in
-
-[react-umg/index.d.ts:134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L134)
 
 ___
 
@@ -437,10 +345,6 @@ ___
 
 [ImageProps](react_umg.ImageProps.md).[ToolTipTextDelegate](react_umg.ImageProps.md#tooltiptextdelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L135)
-
 ___
 
 ### Visibility
@@ -450,10 +354,6 @@ ___
 #### Inherited from
 
 [ImageProps](react_umg.ImageProps.md).[Visibility](react_umg.ImageProps.md#visibility)
-
-#### Defined in
-
-[react-umg/index.d.ts:157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L157)
 
 ___
 
@@ -473,10 +373,6 @@ ___
 
 [ImageProps](react_umg.ImageProps.md).[VisibilityDelegate](react_umg.ImageProps.md#visibilitydelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L136)
-
 ___
 
 ### bCanChildrenBeAccessible
@@ -486,10 +382,6 @@ ___
 #### Inherited from
 
 [ImageProps](react_umg.ImageProps.md).[bCanChildrenBeAccessible](react_umg.ImageProps.md#bcanchildrenbeaccessible)
-
-#### Defined in
-
-[react-umg/index.d.ts:144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L144)
 
 ___
 
@@ -501,10 +393,6 @@ ___
 
 [ImageProps](react_umg.ImageProps.md).[bCreatedByConstructionScript](react_umg.ImageProps.md#bcreatedbyconstructionscript)
 
-#### Defined in
-
-[react-umg/index.d.ts:140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L140)
-
 ___
 
 ### bExpandedInDesigner
@@ -514,10 +402,6 @@ ___
 #### Inherited from
 
 [ImageProps](react_umg.ImageProps.md).[bExpandedInDesigner](react_umg.ImageProps.md#bexpandedindesigner)
-
-#### Defined in
-
-[react-umg/index.d.ts:153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L153)
 
 ___
 
@@ -529,10 +413,6 @@ ___
 
 [ImageProps](react_umg.ImageProps.md).[bFlipForRightToLeftFlowDirection](react_umg.ImageProps.md#bflipforrighttoleftflowdirection)
 
-#### Defined in
-
-[react-umg/index.d.ts:455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L455)
-
 ___
 
 ### bHiddenInDesigner
@@ -543,10 +423,6 @@ ___
 
 [ImageProps](react_umg.ImageProps.md).[bHiddenInDesigner](react_umg.ImageProps.md#bhiddenindesigner)
 
-#### Defined in
-
-[react-umg/index.d.ts:152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L152)
-
 ___
 
 ### bIsEnabled
@@ -556,10 +432,6 @@ ___
 #### Inherited from
 
 [ImageProps](react_umg.ImageProps.md).[bIsEnabled](react_umg.ImageProps.md#bisenabled)
-
-#### Defined in
-
-[react-umg/index.d.ts:141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L141)
 
 ___
 
@@ -579,10 +451,6 @@ ___
 
 [ImageProps](react_umg.ImageProps.md).[bIsEnabledDelegate](react_umg.ImageProps.md#bisenableddelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L133)
-
 ___
 
 ### bIsVariable
@@ -592,10 +460,6 @@ ___
 #### Inherited from
 
 [ImageProps](react_umg.ImageProps.md).[bIsVariable](react_umg.ImageProps.md#bisvariable)
-
-#### Defined in
-
-[react-umg/index.d.ts:139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L139)
 
 ___
 
@@ -607,10 +471,6 @@ ___
 
 [ImageProps](react_umg.ImageProps.md).[bIsVolatile](react_umg.ImageProps.md#bisvolatile)
 
-#### Defined in
-
-[react-umg/index.d.ts:151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L151)
-
 ___
 
 ### bLockedInDesigner
@@ -621,19 +481,11 @@ ___
 
 [ImageProps](react_umg.ImageProps.md).[bLockedInDesigner](react_umg.ImageProps.md#blockedindesigner)
 
-#### Defined in
-
-[react-umg/index.d.ts:154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L154)
-
 ___
 
 ### bMatchSize
 
 • `Optional` **bMatchSize**: `boolean`
-
-#### Defined in
-
-[react-umg/index.d.ts:959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L959)
 
 ___
 
@@ -645,10 +497,6 @@ ___
 
 [ImageProps](react_umg.ImageProps.md).[bOverrideAccessibleDefaults](react_umg.ImageProps.md#boverrideaccessibledefaults)
 
-#### Defined in
-
-[react-umg/index.d.ts:143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L143)
-
 ___
 
 ### bOverride\_Cursor
@@ -658,7 +506,3 @@ ___
 #### Inherited from
 
 [ImageProps](react_umg.ImageProps.md).[bOverride_Cursor](react_umg.ImageProps.md#boverride_cursor)
-
-#### Defined in
-
-[react-umg/index.d.ts:142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L142)

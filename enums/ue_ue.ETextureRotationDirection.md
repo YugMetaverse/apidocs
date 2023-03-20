@@ -21,19 +21,11 @@
 
 • **Down** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20625)
-
 ___
 
 ### ETextureRotationDirection\_MAX
 
 • **ETextureRotationDirection\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20625)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Left** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20625)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20625)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Right** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20625)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20625)

@@ -27,10 +27,6 @@
 
 • **new SkelMeshSkinWeightInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:4601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4601)
-
 • **new SkelMeshSkinWeightInfo**(`Bones`, `Weights`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Bones` | [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<`number`\> |
 | `Weights` | [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<`number`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:4602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4602)
-
 ## Properties
 
 ### Bones
 
 • **Bones**: [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:4603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4603)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Weights**: [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:4604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4604)
-
 ___
 
 ### \_\_tid\_SkelMeshSkinWeightInfo\_\_
 
 • `Private` **\_\_tid\_SkelMeshSkinWeightInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4610)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4608)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4609)

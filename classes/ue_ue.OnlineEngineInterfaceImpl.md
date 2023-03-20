@@ -53,19 +53,11 @@
 
 [OnlineEngineInterface](ue_ue.OnlineEngineInterface.md).[constructor](ue_ue.OnlineEngineInterface.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:54228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54228)
-
 ## Properties
 
 ### VoiceSubsystemNameOverride
 
 • **VoiceSubsystemNameOverride**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:54229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54229)
 
 ___
 
@@ -77,19 +69,11 @@ ___
 
 [OnlineEngineInterface](ue_ue.OnlineEngineInterface.md).[__tid_Object__](ue_ue.OnlineEngineInterface.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_OnlineEngineInterfaceImpl\_\_
 
 • **\_\_tid\_OnlineEngineInterfaceImpl\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54234)
 
 ___
 
@@ -100,10 +84,6 @@ ___
 #### Inherited from
 
 [OnlineEngineInterface](ue_ue.OnlineEngineInterface.md).[__tid_OnlineEngineInterface__](ue_ue.OnlineEngineInterface.md#__tid_onlineengineinterface__)
-
-#### Defined in
-
-[ue/ue.d.ts:54224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54224)
 
 ## Methods
 
@@ -129,10 +109,6 @@ ___
 
 [OnlineEngineInterface](ue_ue.OnlineEngineInterface.md).[CreateDefaultSubobject](ue_ue.OnlineEngineInterface.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -153,10 +129,6 @@ ___
 
 [OnlineEngineInterface](ue_ue.OnlineEngineInterface.md).[ExecuteUbergraph](ue_ue.OnlineEngineInterface.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -170,10 +142,6 @@ ___
 #### Inherited from
 
 [OnlineEngineInterface](ue_ue.OnlineEngineInterface.md).[GetClass](ue_ue.OnlineEngineInterface.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -189,10 +157,6 @@ ___
 
 [OnlineEngineInterface](ue_ue.OnlineEngineInterface.md).[GetName](ue_ue.OnlineEngineInterface.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -207,10 +171,6 @@ ___
 
 [OnlineEngineInterface](ue_ue.OnlineEngineInterface.md).[GetOuter](ue_ue.OnlineEngineInterface.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -224,10 +184,6 @@ ___
 #### Inherited from
 
 [OnlineEngineInterface](ue_ue.OnlineEngineInterface.md).[GetWorld](ue_ue.OnlineEngineInterface.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -250,10 +206,6 @@ ___
 
 [OnlineEngineInterface](ue_ue.OnlineEngineInterface.md).[Find](ue_ue.OnlineEngineInterface.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:54231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54231)
-
 ___
 
 ### Load
@@ -274,10 +226,6 @@ ___
 
 [OnlineEngineInterface](ue_ue.OnlineEngineInterface.md).[Load](ue_ue.OnlineEngineInterface.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:54232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54232)
-
 ___
 
 ### StaticClass
@@ -291,7 +239,3 @@ ___
 #### Overrides
 
 [OnlineEngineInterface](ue_ue.OnlineEngineInterface.md).[StaticClass](ue_ue.OnlineEngineInterface.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:54230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54230)

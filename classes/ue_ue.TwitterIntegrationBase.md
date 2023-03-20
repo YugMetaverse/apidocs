@@ -60,10 +60,6 @@
 
 [PlatformInterfaceBase](ue_ue.PlatformInterfaceBase.md).[constructor](ue_ue.PlatformInterfaceBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:64328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64328)
-
 ## Properties
 
 ### AllDelegates
@@ -73,10 +69,6 @@
 #### Inherited from
 
 [PlatformInterfaceBase](ue_ue.PlatformInterfaceBase.md).[AllDelegates](ue_ue.PlatformInterfaceBase.md#alldelegates)
-
-#### Defined in
-
-[ue/ue.d.ts:28085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28085)
 
 ___
 
@@ -88,10 +80,6 @@ ___
 
 [PlatformInterfaceBase](ue_ue.PlatformInterfaceBase.md).[__tid_Object__](ue_ue.PlatformInterfaceBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PlatformInterfaceBase\_\_
@@ -102,19 +90,11 @@ ___
 
 [PlatformInterfaceBase](ue_ue.PlatformInterfaceBase.md).[__tid_PlatformInterfaceBase__](ue_ue.PlatformInterfaceBase.md#__tid_platforminterfacebase__)
 
-#### Defined in
-
-[ue/ue.d.ts:28090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28090)
-
 ___
 
 ### \_\_tid\_TwitterIntegrationBase\_\_
 
 • **\_\_tid\_TwitterIntegrationBase\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64340)
 
 ## Methods
 
@@ -126,10 +106,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:64329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64329)
-
 ___
 
 ### CanShowTweetUI
@@ -139,10 +115,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64330)
 
 ___
 
@@ -168,10 +140,6 @@ ___
 
 [PlatformInterfaceBase](ue_ue.PlatformInterfaceBase.md).[CreateDefaultSubobject](ue_ue.PlatformInterfaceBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -192,10 +160,6 @@ ___
 
 [PlatformInterfaceBase](ue_ue.PlatformInterfaceBase.md).[ExecuteUbergraph](ue_ue.PlatformInterfaceBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetAccountName
@@ -212,10 +176,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue.d.ts:64331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64331)
-
 ___
 
 ### GetClass
@@ -229,10 +189,6 @@ ___
 #### Inherited from
 
 [PlatformInterfaceBase](ue_ue.PlatformInterfaceBase.md).[GetClass](ue_ue.PlatformInterfaceBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -248,10 +204,6 @@ ___
 
 [PlatformInterfaceBase](ue_ue.PlatformInterfaceBase.md).[GetName](ue_ue.PlatformInterfaceBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetNumAccounts
@@ -261,10 +213,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:64332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64332)
 
 ___
 
@@ -280,10 +228,6 @@ ___
 
 [PlatformInterfaceBase](ue_ue.PlatformInterfaceBase.md).[GetOuter](ue_ue.PlatformInterfaceBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -298,10 +242,6 @@ ___
 
 [PlatformInterfaceBase](ue_ue.PlatformInterfaceBase.md).[GetWorld](ue_ue.PlatformInterfaceBase.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### Init
@@ -311,10 +251,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:64333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64333)
 
 ___
 
@@ -334,10 +270,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:64334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64334)
-
 ___
 
 ### TwitterRequest
@@ -356,10 +288,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64335)
 
 ___
 
@@ -382,10 +310,6 @@ ___
 
 [PlatformInterfaceBase](ue_ue.PlatformInterfaceBase.md).[Find](ue_ue.PlatformInterfaceBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:64337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64337)
-
 ___
 
 ### Load
@@ -406,10 +330,6 @@ ___
 
 [PlatformInterfaceBase](ue_ue.PlatformInterfaceBase.md).[Load](ue_ue.PlatformInterfaceBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:64338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64338)
-
 ___
 
 ### StaticClass
@@ -423,7 +343,3 @@ ___
 #### Overrides
 
 [PlatformInterfaceBase](ue_ue.PlatformInterfaceBase.md).[StaticClass](ue_ue.PlatformInterfaceBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:64336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64336)

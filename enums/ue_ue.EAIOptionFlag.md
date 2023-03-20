@@ -20,19 +20,11 @@
 
 • **Default** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16130)
-
 ___
 
 ### Disable
 
 • **Disable** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16130)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Enable** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16130)
-
 ___
 
 ### MAX
 
 • **MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16130)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16130)

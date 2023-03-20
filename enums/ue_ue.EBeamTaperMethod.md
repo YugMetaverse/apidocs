@@ -20,19 +20,11 @@
 
 • **PEBTM\_Full** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31381)
-
 ___
 
 ### PEBTM\_MAX
 
 • **PEBTM\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31381)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **PEBTM\_None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31381)
-
 ___
 
 ### PEBTM\_Partial
 
 • **PEBTM\_Partial** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31381)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31381)

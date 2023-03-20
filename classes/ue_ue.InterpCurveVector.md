@@ -28,10 +28,6 @@
 
 • **new InterpCurveVector**()
 
-#### Defined in
-
-[ue/ue.d.ts:7571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7571)
-
 • **new InterpCurveVector**(`Points`, `bIsLooped`, `LoopKeyOffset`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `bIsLooped` | `boolean` |
 | `LoopKeyOffset` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:7572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7572)
-
 ## Properties
 
 ### LoopKeyOffset
 
 • **LoopKeyOffset**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7575)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Points**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`InterpCurvePointVector`](ue_ue.InterpCurvePointVector.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:7573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7573)
-
 ___
 
 ### \_\_tid\_InterpCurveVector\_\_
 
 • `Private` **\_\_tid\_InterpCurveVector\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:7581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7581)
-
 ___
 
 ### bIsLooped
 
 • **bIsLooped**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7574)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7579](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7579)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7580)

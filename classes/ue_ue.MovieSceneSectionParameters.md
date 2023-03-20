@@ -31,10 +31,6 @@
 
 • **new MovieSceneSectionParameters**()
 
-#### Defined in
-
-[ue/ue.d.ts:51484](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51484)
-
 • **new MovieSceneSectionParameters**(`StartFrameOffset`, `TimeScale`, `HierarchicalBias`, `StartOffset`, `PrerollTime`, `PostrollTime`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `PrerollTime` | `number` |
 | `PostrollTime` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:51485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51485)
-
 ## Properties
 
 ### HierarchicalBias
 
 • **HierarchicalBias**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:51488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51488)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **PostrollTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:51491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51491)
-
 ___
 
 ### PrerollTime
 
 • **PrerollTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:51490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51490)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **StartFrameOffset**: [`FrameNumber`](ue_ue.FrameNumber.md)
 
-#### Defined in
-
-[ue/ue.d.ts:51486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51486)
-
 ___
 
 ### StartOffset
 
 • **StartOffset**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:51489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51489)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **TimeScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:51487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51487)
-
 ___
 
 ### \_\_tid\_MovieSceneSectionParameters\_\_
 
 • `Private` **\_\_tid\_MovieSceneSectionParameters\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:51497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51497)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:51495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51495)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:51496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51496)

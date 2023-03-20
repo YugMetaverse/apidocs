@@ -62,19 +62,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:43857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43857)
-
 ## Properties
 
 ### Hardness
 
 • **Hardness**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:43860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43860)
 
 ___
 
@@ -82,19 +74,11 @@ ___
 
 • **IsReferencedFromLoadedData**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43867)
-
 ___
 
 ### LayerName
 
 • **LayerName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43858)
 
 ___
 
@@ -102,19 +86,11 @@ ___
 
 • **LayerUsageDebugColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43868)
-
 ___
 
 ### PhysMaterial
 
 • **PhysMaterial**: [`PhysicalMaterial`](ue_ue.PhysicalMaterial.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43859](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43859)
 
 ___
 
@@ -122,19 +98,11 @@ ___
 
 • **SplineFalloffModulationBias**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:43865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43865)
-
 ___
 
 ### SplineFalloffModulationColorMask
 
 • **SplineFalloffModulationColorMask**: [`ESplineModulationColorMask`](../enums/ue_ue.ESplineModulationColorMask.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43863)
 
 ___
 
@@ -142,19 +110,11 @@ ___
 
 • **SplineFalloffModulationScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:43866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43866)
-
 ___
 
 ### SplineFalloffModulationTexture
 
 • **SplineFalloffModulationTexture**: [`Texture2D`](ue_ue.Texture2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43862)
 
 ___
 
@@ -162,19 +122,11 @@ ___
 
 • **SplineFalloffModulationTiling**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:43864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43864)
-
 ___
 
 ### \_\_tid\_LandscapeLayerInfoObject\_\_
 
 • **\_\_tid\_LandscapeLayerInfoObject\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43873)
 
 ___
 
@@ -186,19 +138,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bNoWeightBlend
 
 • **bNoWeightBlend**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43861)
 
 ## Methods
 
@@ -224,10 +168,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -248,10 +188,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -265,10 +201,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -284,10 +216,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -302,10 +230,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -319,10 +243,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -345,10 +265,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:43870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43870)
-
 ___
 
 ### Load
@@ -369,10 +285,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:43871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43871)
-
 ___
 
 ### StaticClass
@@ -386,7 +298,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:43869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43869)

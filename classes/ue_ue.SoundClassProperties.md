@@ -43,10 +43,6 @@
 
 • **new SoundClassProperties**()
 
-#### Defined in
-
-[ue/ue.d.ts:8850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8850)
-
 • **new SoundClassProperties**(`Volume`, `Pitch`, `LowPassFilterFrequency`, `StereoBleed`, `LFEBleed`, `VoiceCenterChannelVolume`, `RadioFilterVolume`, `RadioFilterVolumeThreshold`, `bApplyEffects`, `bAlwaysPlay`, `bIsUISound`, `bIsMusic`, `bReverb`, `Default2DReverbSendAmount`, `bCenterChannelOnly`, `bApplyAmbientVolumes`, `OutputTarget`, `LoadingBehavior`)
 
 #### Parameters
@@ -72,19 +68,11 @@
 | `OutputTarget` | [`EAudioOutputTarget`](../enums/ue_ue.EAudioOutputTarget.md) |
 | `LoadingBehavior` | [`ESoundWaveLoadingBehavior`](../enums/ue_ue.ESoundWaveLoadingBehavior.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:8851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8851)
-
 ## Properties
 
 ### Default2DReverbSendAmount
 
 • **Default2DReverbSendAmount**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8865)
 
 ___
 
@@ -92,19 +80,11 @@ ___
 
 • **LFEBleed**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8856)
-
 ___
 
 ### LoadingBehavior
 
 • **LoadingBehavior**: [`ESoundWaveLoadingBehavior`](../enums/ue_ue.ESoundWaveLoadingBehavior.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8869)
 
 ___
 
@@ -112,19 +92,11 @@ ___
 
 • **LowPassFilterFrequency**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8854](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8854)
-
 ___
 
 ### OutputTarget
 
 • **OutputTarget**: [`EAudioOutputTarget`](../enums/ue_ue.EAudioOutputTarget.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8868)
 
 ___
 
@@ -132,19 +104,11 @@ ___
 
 • **Pitch**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8853)
-
 ___
 
 ### RadioFilterVolume
 
 • **RadioFilterVolume**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8858)
 
 ___
 
@@ -152,19 +116,11 @@ ___
 
 • **RadioFilterVolumeThreshold**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8859](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8859)
-
 ___
 
 ### StereoBleed
 
 • **StereoBleed**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8855](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8855)
 
 ___
 
@@ -172,19 +128,11 @@ ___
 
 • **VoiceCenterChannelVolume**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8857)
-
 ___
 
 ### Volume
 
 • **Volume**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8852)
 
 ___
 
@@ -192,19 +140,11 @@ ___
 
 • `Private` **\_\_tid\_SoundClassProperties\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8875)
-
 ___
 
 ### bAlwaysPlay
 
 • **bAlwaysPlay**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8861)
 
 ___
 
@@ -212,19 +152,11 @@ ___
 
 • **bApplyAmbientVolumes**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8867)
-
 ___
 
 ### bApplyEffects
 
 • **bApplyEffects**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8860)
 
 ___
 
@@ -232,19 +164,11 @@ ___
 
 • **bCenterChannelOnly**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8866)
-
 ___
 
 ### bIsMusic
 
 • **bIsMusic**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8863)
 
 ___
 
@@ -252,19 +176,11 @@ ___
 
 • **bIsUISound**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8862)
-
 ___
 
 ### bReverb
 
 • **bReverb**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8864)
 
 ## Methods
 
@@ -280,10 +196,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8873)
-
 ___
 
 ### StaticStruct
@@ -293,7 +205,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8874)

@@ -197,10 +197,6 @@
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[constructor](ue_ue.GizmoHandleGroup.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:23366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23366)
-
 ## Properties
 
 ### AssetUserData
@@ -210,10 +206,6 @@
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[AssetUserData](ue_ue.GizmoHandleGroup.md#assetuserdata)
-
-#### Defined in
-
-[ue/ue.d.ts:291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L291)
 
 ___
 
@@ -225,10 +217,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[AttachChildren](ue_ue.GizmoHandleGroup.md#attachchildren)
 
-#### Defined in
-
-[ue/ue.d.ts:12873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12873)
-
 ___
 
 ### AttachParent
@@ -238,10 +226,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[AttachParent](ue_ue.GizmoHandleGroup.md#attachparent)
-
-#### Defined in
-
-[ue/ue.d.ts:12871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12871)
 
 ___
 
@@ -253,10 +237,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[AttachSocketName](ue_ue.GizmoHandleGroup.md#attachsocketname)
 
-#### Defined in
-
-[ue/ue.d.ts:12872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12872)
-
 ___
 
 ### ClientAttachedChildren
@@ -266,10 +246,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[ClientAttachedChildren](ue_ue.GizmoHandleGroup.md#clientattachedchildren)
-
-#### Defined in
-
-[ue/ue.d.ts:12874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12874)
 
 ___
 
@@ -281,10 +257,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[ComponentTags](ue_ue.GizmoHandleGroup.md#componenttags)
 
-#### Defined in
-
-[ue/ue.d.ts:290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L290)
-
 ___
 
 ### ComponentVelocity
@@ -294,10 +266,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[ComponentVelocity](ue_ue.GizmoHandleGroup.md#componentvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12878)
 
 ___
 
@@ -309,10 +277,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[CreationMethod](ue_ue.GizmoHandleGroup.md#creationmethod)
 
-#### Defined in
-
-[ue/ue.d.ts:302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L302)
-
 ___
 
 ### DetailMode
@@ -322,10 +286,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[DetailMode](ue_ue.GizmoHandleGroup.md#detailmode)
-
-#### Defined in
-
-[ue/ue.d.ts:12893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12893)
 
 ___
 
@@ -337,10 +297,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[DragOperationComponent](ue_ue.GizmoHandleGroup.md#dragoperationcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:14416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14416)
-
 ___
 
 ### GizmoMaterial
@@ -350,10 +306,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[GizmoMaterial](ue_ue.GizmoHandleGroup.md#gizmomaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:14412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14412)
 
 ___
 
@@ -365,10 +317,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[Handles](ue_ue.GizmoHandleGroup.md#handles)
 
-#### Defined in
-
-[ue/ue.d.ts:14414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14414)
-
 ___
 
 ### Mobility
@@ -378,10 +326,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[Mobility](ue_ue.GizmoHandleGroup.md#mobility)
-
-#### Defined in
-
-[ue/ue.d.ts:12892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12892)
 
 ___
 
@@ -393,10 +337,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[OnComponentActivated](ue_ue.GizmoHandleGroup.md#oncomponentactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L303)
-
 ___
 
 ### OnComponentDeactivated
@@ -406,10 +346,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[OnComponentDeactivated](ue_ue.GizmoHandleGroup.md#oncomponentdeactivated)
-
-#### Defined in
-
-[ue/ue.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L304)
 
 ___
 
@@ -421,10 +357,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[OwningTransformGizmoActor](ue_ue.GizmoHandleGroup.md#owningtransformgizmoactor)
 
-#### Defined in
-
-[ue/ue.d.ts:14415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14415)
-
 ___
 
 ### PhysicsVolume
@@ -434,10 +366,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[PhysicsVolume](ue_ue.GizmoHandleGroup.md#physicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12870)
 
 ___
 
@@ -449,10 +377,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[PhysicsVolumeChangedDelegate](ue_ue.GizmoHandleGroup.md#physicsvolumechangeddelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:12894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12894)
-
 ___
 
 ### PrimaryComponentTick
@@ -462,10 +386,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[PrimaryComponentTick](ue_ue.GizmoHandleGroup.md#primarycomponenttick)
-
-#### Defined in
-
-[ue/ue.d.ts:289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L289)
 
 ___
 
@@ -477,10 +397,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[RelativeLocation](ue_ue.GizmoHandleGroup.md#relativelocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12875)
-
 ___
 
 ### RelativeRotation
@@ -490,10 +406,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[RelativeRotation](ue_ue.GizmoHandleGroup.md#relativerotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12876)
 
 ___
 
@@ -505,10 +417,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[RelativeScale3D](ue_ue.GizmoHandleGroup.md#relativescale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:12877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12877)
-
 ___
 
 ### TranslucentGizmoMaterial
@@ -518,10 +426,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[TranslucentGizmoMaterial](ue_ue.GizmoHandleGroup.md#translucentgizmomaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:14413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14413)
 
 ___
 
@@ -533,10 +437,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[UCSModifiedProperties](ue_ue.GizmoHandleGroup.md#ucsmodifiedproperties)
 
-#### Defined in
-
-[ue/ue.d.ts:305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L305)
-
 ___
 
 ### \_\_tid\_ActorComponent\_\_
@@ -547,19 +447,11 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[__tid_ActorComponent__](ue_ue.GizmoHandleGroup.md#__tid_actorcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L336)
-
 ___
 
 ### \_\_tid\_AxisGizmoHandleGroup\_\_
 
 • **\_\_tid\_AxisGizmoHandleGroup\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:23371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23371)
 
 ___
 
@@ -571,10 +463,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[__tid_GizmoHandleGroup__](ue_ue.GizmoHandleGroup.md#__tid_gizmohandlegroup__)
 
-#### Defined in
-
-[ue/ue.d.ts:14421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14421)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -584,10 +472,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[__tid_Object__](ue_ue.GizmoHandleGroup.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -599,10 +483,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[__tid_SceneComponent__](ue_ue.GizmoHandleGroup.md#__tid_scenecomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:12961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12961)
-
 ___
 
 ### bAbsoluteLocation
@@ -612,10 +492,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[bAbsoluteLocation](ue_ue.GizmoHandleGroup.md#babsolutelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12880)
 
 ___
 
@@ -627,10 +503,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[bAbsoluteRotation](ue_ue.GizmoHandleGroup.md#babsoluterotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12881)
-
 ___
 
 ### bAbsoluteScale
@@ -640,10 +512,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[bAbsoluteScale](ue_ue.GizmoHandleGroup.md#babsolutescale)
-
-#### Defined in
-
-[ue/ue.d.ts:12882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12882)
 
 ___
 
@@ -655,10 +523,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[bAutoActivate](ue_ue.GizmoHandleGroup.md#bautoactivate)
 
-#### Defined in
-
-[ue/ue.d.ts:296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L296)
-
 ___
 
 ### bBoundsChangeTriggersStreamingDataRebuild
@@ -668,10 +532,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[bBoundsChangeTriggersStreamingDataRebuild](ue_ue.GizmoHandleGroup.md#bboundschangetriggersstreamingdatarebuild)
-
-#### Defined in
-
-[ue/ue.d.ts:12889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12889)
 
 ___
 
@@ -683,10 +543,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[bCanEverAffectNavigation](ue_ue.GizmoHandleGroup.md#bcaneveraffectnavigation)
 
-#### Defined in
-
-[ue/ue.d.ts:299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L299)
-
 ___
 
 ### bComponentToWorldUpdated
@@ -696,10 +552,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[bComponentToWorldUpdated](ue_ue.GizmoHandleGroup.md#bcomponenttoworldupdated)
-
-#### Defined in
-
-[ue/ue.d.ts:12879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12879)
 
 ___
 
@@ -711,10 +563,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[bCreatedByConstructionScript](ue_ue.GizmoHandleGroup.md#bcreatedbyconstructionscript)
 
-#### Defined in
-
-[ue/ue.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L294)
-
 ___
 
 ### bEditableWhenInherited
@@ -724,10 +572,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[bEditableWhenInherited](ue_ue.GizmoHandleGroup.md#beditablewheninherited)
-
-#### Defined in
-
-[ue/ue.d.ts:298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L298)
 
 ___
 
@@ -739,10 +583,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[bHiddenInGame](ue_ue.GizmoHandleGroup.md#bhiddeningame)
 
-#### Defined in
-
-[ue/ue.d.ts:12884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12884)
-
 ___
 
 ### bInstanceComponent
@@ -752,10 +592,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[bInstanceComponent](ue_ue.GizmoHandleGroup.md#binstancecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L295)
 
 ___
 
@@ -767,10 +603,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[bIsActive](ue_ue.GizmoHandleGroup.md#bisactive)
 
-#### Defined in
-
-[ue/ue.d.ts:297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L297)
-
 ___
 
 ### bIsEditorOnly
@@ -780,10 +612,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[bIsEditorOnly](ue_ue.GizmoHandleGroup.md#biseditoronly)
-
-#### Defined in
-
-[ue/ue.d.ts:300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L300)
 
 ___
 
@@ -795,10 +623,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[bIsVisualizationComponent](ue_ue.GizmoHandleGroup.md#bisvisualizationcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L301)
-
 ___
 
 ### bNetAddressable
@@ -808,10 +632,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[bNetAddressable](ue_ue.GizmoHandleGroup.md#bnetaddressable)
-
-#### Defined in
-
-[ue/ue.d.ts:293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L293)
 
 ___
 
@@ -823,10 +643,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[bReplicates](ue_ue.GizmoHandleGroup.md#breplicates)
 
-#### Defined in
-
-[ue/ue.d.ts:292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L292)
-
 ___
 
 ### bShouldBeAttached
@@ -836,10 +652,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[bShouldBeAttached](ue_ue.GizmoHandleGroup.md#bshouldbeattached)
-
-#### Defined in
-
-[ue/ue.d.ts:12885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12885)
 
 ___
 
@@ -851,10 +663,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[bShouldSnapLocationWhenAttached](ue_ue.GizmoHandleGroup.md#bshouldsnaplocationwhenattached)
 
-#### Defined in
-
-[ue/ue.d.ts:12886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12886)
-
 ___
 
 ### bShouldSnapRotationWhenAttached
@@ -864,10 +672,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[bShouldSnapRotationWhenAttached](ue_ue.GizmoHandleGroup.md#bshouldsnaprotationwhenattached)
-
-#### Defined in
-
-[ue/ue.d.ts:12887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12887)
 
 ___
 
@@ -879,10 +683,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[bShouldUpdatePhysicsVolume](ue_ue.GizmoHandleGroup.md#bshouldupdatephysicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12888)
-
 ___
 
 ### bUseAttachParentBound
@@ -892,10 +692,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[bUseAttachParentBound](ue_ue.GizmoHandleGroup.md#buseattachparentbound)
-
-#### Defined in
-
-[ue/ue.d.ts:12890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12890)
 
 ___
 
@@ -907,10 +703,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[bVisible](ue_ue.GizmoHandleGroup.md#bvisible)
 
-#### Defined in
-
-[ue/ue.d.ts:12883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12883)
-
 ___
 
 ### bVisualizeComponent
@@ -920,10 +712,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[bVisualizeComponent](ue_ue.GizmoHandleGroup.md#bvisualizecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12891)
 
 ## Methods
 
@@ -945,10 +733,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[Activate](ue_ue.GizmoHandleGroup.md#activate)
 
-#### Defined in
-
-[ue/ue.d.ts:306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L306)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -968,10 +752,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[AddTickPrerequisiteActor](ue_ue.GizmoHandleGroup.md#addtickprerequisiteactor)
-
-#### Defined in
-
-[ue/ue.d.ts:307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L307)
 
 ___
 
@@ -993,10 +773,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[AddTickPrerequisiteComponent](ue_ue.GizmoHandleGroup.md#addtickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L308)
-
 ___
 
 ### ComponentHasTag
@@ -1016,10 +792,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[ComponentHasTag](ue_ue.GizmoHandleGroup.md#componenthastag)
-
-#### Defined in
-
-[ue/ue.d.ts:309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L309)
 
 ___
 
@@ -1045,10 +817,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[CreateDefaultSubobject](ue_ue.GizmoHandleGroup.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### Deactivate
@@ -1062,10 +830,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[Deactivate](ue_ue.GizmoHandleGroup.md#deactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L310)
 
 ___
 
@@ -1088,10 +852,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[DetachFromParent](ue_ue.GizmoHandleGroup.md#detachfromparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12895)
-
 ___
 
 ### DoesSocketExist
@@ -1111,10 +871,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[DoesSocketExist](ue_ue.GizmoHandleGroup.md#doessocketexist)
-
-#### Defined in
-
-[ue/ue.d.ts:12896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12896)
 
 ___
 
@@ -1136,10 +892,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[ExecuteUbergraph](ue_ue.GizmoHandleGroup.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetAllSocketNames
@@ -1153,10 +905,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[GetAllSocketNames](ue_ue.GizmoHandleGroup.md#getallsocketnames)
-
-#### Defined in
-
-[ue/ue.d.ts:12897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12897)
 
 ___
 
@@ -1172,10 +920,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[GetAttachParent](ue_ue.GizmoHandleGroup.md#getattachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12898)
-
 ___
 
 ### GetAttachSocketName
@@ -1189,10 +933,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[GetAttachSocketName](ue_ue.GizmoHandleGroup.md#getattachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12899)
 
 ___
 
@@ -1213,10 +953,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[GetChildComponent](ue_ue.GizmoHandleGroup.md#getchildcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12900)
 
 ___
 
@@ -1239,10 +975,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[GetChildrenComponents](ue_ue.GizmoHandleGroup.md#getchildrencomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12901)
-
 ___
 
 ### GetClass
@@ -1256,10 +988,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[GetClass](ue_ue.GizmoHandleGroup.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -1275,10 +1003,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[GetComponentTickInterval](ue_ue.GizmoHandleGroup.md#getcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L311)
-
 ___
 
 ### GetComponentVelocity
@@ -1292,10 +1016,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[GetComponentVelocity](ue_ue.GizmoHandleGroup.md#getcomponentvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12902)
 
 ___
 
@@ -1311,10 +1031,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[GetForwardVector](ue_ue.GizmoHandleGroup.md#getforwardvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12903)
-
 ___
 
 ### GetName
@@ -1328,10 +1044,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[GetName](ue_ue.GizmoHandleGroup.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -1347,10 +1059,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[GetNumChildrenComponents](ue_ue.GizmoHandleGroup.md#getnumchildrencomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12904)
-
 ___
 
 ### GetOuter
@@ -1365,10 +1073,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[GetOuter](ue_ue.GizmoHandleGroup.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetOwner
@@ -1382,10 +1086,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[GetOwner](ue_ue.GizmoHandleGroup.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L312)
 
 ___
 
@@ -1407,10 +1107,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[GetParentComponents](ue_ue.GizmoHandleGroup.md#getparentcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12905)
-
 ___
 
 ### GetPhysicsVolume
@@ -1424,10 +1120,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[GetPhysicsVolume](ue_ue.GizmoHandleGroup.md#getphysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12906)
 
 ___
 
@@ -1443,10 +1135,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[GetRelativeTransform](ue_ue.GizmoHandleGroup.md#getrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12907)
-
 ___
 
 ### GetRightVector
@@ -1461,10 +1149,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[GetRightVector](ue_ue.GizmoHandleGroup.md#getrightvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12908)
-
 ___
 
 ### GetShouldUpdatePhysicsVolume
@@ -1478,10 +1162,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[GetShouldUpdatePhysicsVolume](ue_ue.GizmoHandleGroup.md#getshouldupdatephysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12909)
 
 ___
 
@@ -1503,10 +1183,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[GetSocketLocation](ue_ue.GizmoHandleGroup.md#getsocketlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12910)
-
 ___
 
 ### GetSocketQuaternion
@@ -1527,10 +1203,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[GetSocketQuaternion](ue_ue.GizmoHandleGroup.md#getsocketquaternion)
 
-#### Defined in
-
-[ue/ue.d.ts:12911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12911)
-
 ___
 
 ### GetSocketRotation
@@ -1550,10 +1222,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[GetSocketRotation](ue_ue.GizmoHandleGroup.md#getsocketrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12912)
 
 ___
 
@@ -1576,10 +1244,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[GetSocketTransform](ue_ue.GizmoHandleGroup.md#getsockettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12913)
-
 ___
 
 ### GetUpVector
@@ -1593,10 +1257,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[GetUpVector](ue_ue.GizmoHandleGroup.md#getupvector)
-
-#### Defined in
-
-[ue/ue.d.ts:12914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12914)
 
 ___
 
@@ -1612,10 +1272,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[GetWorld](ue_ue.GizmoHandleGroup.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### IsActive
@@ -1629,10 +1285,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[IsActive](ue_ue.GizmoHandleGroup.md#isactive)
-
-#### Defined in
-
-[ue/ue.d.ts:313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L313)
 
 ___
 
@@ -1648,10 +1300,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[IsAnySimulatingPhysics](ue_ue.GizmoHandleGroup.md#isanysimulatingphysics)
 
-#### Defined in
-
-[ue/ue.d.ts:12915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12915)
-
 ___
 
 ### IsBeingDestroyed
@@ -1666,10 +1314,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[IsBeingDestroyed](ue_ue.GizmoHandleGroup.md#isbeingdestroyed)
 
-#### Defined in
-
-[ue/ue.d.ts:314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L314)
-
 ___
 
 ### IsComponentTickEnabled
@@ -1683,10 +1327,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[IsComponentTickEnabled](ue_ue.GizmoHandleGroup.md#iscomponenttickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L315)
 
 ___
 
@@ -1708,10 +1348,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[IsSimulatingPhysics](ue_ue.GizmoHandleGroup.md#issimulatingphysics)
 
-#### Defined in
-
-[ue/ue.d.ts:12916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12916)
-
 ___
 
 ### IsVisible
@@ -1725,10 +1361,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[IsVisible](ue_ue.GizmoHandleGroup.md#isvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:12917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12917)
 
 ___
 
@@ -1753,10 +1385,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[K2_AddLocalOffset](ue_ue.GizmoHandleGroup.md#k2_addlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:12918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12918)
-
 ___
 
 ### K2\_AddLocalRotation
@@ -1779,10 +1407,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[K2_AddLocalRotation](ue_ue.GizmoHandleGroup.md#k2_addlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12919)
 
 ___
 
@@ -1807,10 +1431,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[K2_AddLocalTransform](ue_ue.GizmoHandleGroup.md#k2_addlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12920)
-
 ___
 
 ### K2\_AddRelativeLocation
@@ -1833,10 +1453,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[K2_AddRelativeLocation](ue_ue.GizmoHandleGroup.md#k2_addrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12921)
 
 ___
 
@@ -1861,10 +1477,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[K2_AddRelativeRotation](ue_ue.GizmoHandleGroup.md#k2_addrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12922)
-
 ___
 
 ### K2\_AddWorldOffset
@@ -1887,10 +1499,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[K2_AddWorldOffset](ue_ue.GizmoHandleGroup.md#k2_addworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:12923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12923)
 
 ___
 
@@ -1915,10 +1523,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[K2_AddWorldRotation](ue_ue.GizmoHandleGroup.md#k2_addworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12924)
-
 ___
 
 ### K2\_AddWorldTransform
@@ -1942,10 +1546,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[K2_AddWorldTransform](ue_ue.GizmoHandleGroup.md#k2_addworldtransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12925)
-
 ___
 
 ### K2\_AttachTo
@@ -1968,10 +1568,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[K2_AttachTo](ue_ue.GizmoHandleGroup.md#k2_attachto)
-
-#### Defined in
-
-[ue/ue.d.ts:12926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12926)
 
 ___
 
@@ -1998,10 +1594,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[K2_AttachToComponent](ue_ue.GizmoHandleGroup.md#k2_attachtocomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12927)
-
 ___
 
 ### K2\_DestroyComponent
@@ -2021,10 +1613,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[K2_DestroyComponent](ue_ue.GizmoHandleGroup.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L316)
 
 ___
 
@@ -2049,10 +1637,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[K2_DetachFromComponent](ue_ue.GizmoHandleGroup.md#k2_detachfromcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12928)
-
 ___
 
 ### K2\_GetComponentLocation
@@ -2066,10 +1650,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[K2_GetComponentLocation](ue_ue.GizmoHandleGroup.md#k2_getcomponentlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12929)
 
 ___
 
@@ -2085,10 +1665,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[K2_GetComponentRotation](ue_ue.GizmoHandleGroup.md#k2_getcomponentrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12930)
-
 ___
 
 ### K2\_GetComponentScale
@@ -2103,10 +1679,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[K2_GetComponentScale](ue_ue.GizmoHandleGroup.md#k2_getcomponentscale)
 
-#### Defined in
-
-[ue/ue.d.ts:12931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12931)
-
 ___
 
 ### K2\_GetComponentToWorld
@@ -2120,10 +1692,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[K2_GetComponentToWorld](ue_ue.GizmoHandleGroup.md#k2_getcomponenttoworld)
-
-#### Defined in
-
-[ue/ue.d.ts:12932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12932)
 
 ___
 
@@ -2147,10 +1715,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[K2_SetRelativeLocation](ue_ue.GizmoHandleGroup.md#k2_setrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12933)
 
 ___
 
@@ -2176,10 +1740,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[K2_SetRelativeLocationAndRotation](ue_ue.GizmoHandleGroup.md#k2_setrelativelocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12934)
-
 ___
 
 ### K2\_SetRelativeRotation
@@ -2202,10 +1762,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[K2_SetRelativeRotation](ue_ue.GizmoHandleGroup.md#k2_setrelativerotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12935)
 
 ___
 
@@ -2230,10 +1786,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[K2_SetRelativeTransform](ue_ue.GizmoHandleGroup.md#k2_setrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12936)
-
 ___
 
 ### K2\_SetWorldLocation
@@ -2256,10 +1808,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[K2_SetWorldLocation](ue_ue.GizmoHandleGroup.md#k2_setworldlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12937)
 
 ___
 
@@ -2285,10 +1833,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[K2_SetWorldLocationAndRotation](ue_ue.GizmoHandleGroup.md#k2_setworldlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12938)
-
 ___
 
 ### K2\_SetWorldRotation
@@ -2311,10 +1855,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[K2_SetWorldRotation](ue_ue.GizmoHandleGroup.md#k2_setworldrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12939)
 
 ___
 
@@ -2339,10 +1879,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[K2_SetWorldTransform](ue_ue.GizmoHandleGroup.md#k2_setworldtransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12940)
-
 ___
 
 ### OnRep\_AttachChildren
@@ -2356,10 +1892,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[OnRep_AttachChildren](ue_ue.GizmoHandleGroup.md#onrep_attachchildren)
-
-#### Defined in
-
-[ue/ue.d.ts:12941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12941)
 
 ___
 
@@ -2375,10 +1907,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[OnRep_AttachParent](ue_ue.GizmoHandleGroup.md#onrep_attachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12942)
-
 ___
 
 ### OnRep\_AttachSocketName
@@ -2392,10 +1920,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[OnRep_AttachSocketName](ue_ue.GizmoHandleGroup.md#onrep_attachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12943)
 
 ___
 
@@ -2411,10 +1935,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[OnRep_IsActive](ue_ue.GizmoHandleGroup.md#onrep_isactive)
 
-#### Defined in
-
-[ue/ue.d.ts:317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L317)
-
 ___
 
 ### OnRep\_Transform
@@ -2428,10 +1948,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[OnRep_Transform](ue_ue.GizmoHandleGroup.md#onrep_transform)
-
-#### Defined in
-
-[ue/ue.d.ts:12944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12944)
 
 ___
 
@@ -2453,10 +1969,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[OnRep_Visibility](ue_ue.GizmoHandleGroup.md#onrep_visibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12945)
-
 ___
 
 ### ReceiveBeginPlay
@@ -2470,10 +1982,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[ReceiveBeginPlay](ue_ue.GizmoHandleGroup.md#receivebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L318)
 
 ___
 
@@ -2495,10 +2003,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[ReceiveEndPlay](ue_ue.GizmoHandleGroup.md#receiveendplay)
 
-#### Defined in
-
-[ue/ue.d.ts:319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L319)
-
 ___
 
 ### ReceiveTick
@@ -2519,10 +2023,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[ReceiveTick](ue_ue.GizmoHandleGroup.md#receivetick)
 
-#### Defined in
-
-[ue/ue.d.ts:320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L320)
-
 ___
 
 ### RegisterComponent
@@ -2536,10 +2036,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[RegisterComponent](ue_ue.GizmoHandleGroup.md#registercomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L321)
 
 ___
 
@@ -2561,10 +2057,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[RemoveTickPrerequisiteActor](ue_ue.GizmoHandleGroup.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -2585,10 +2077,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[RemoveTickPrerequisiteComponent](ue_ue.GizmoHandleGroup.md#removetickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L323)
-
 ___
 
 ### ResetRelativeTransform
@@ -2602,10 +2090,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[ResetRelativeTransform](ue_ue.GizmoHandleGroup.md#resetrelativetransform)
-
-#### Defined in
-
-[ue/ue.d.ts:12946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12946)
 
 ___
 
@@ -2629,10 +2113,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[SetAbsolute](ue_ue.GizmoHandleGroup.md#setabsolute)
 
-#### Defined in
-
-[ue/ue.d.ts:12947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12947)
-
 ___
 
 ### SetActive
@@ -2654,10 +2134,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[SetActive](ue_ue.GizmoHandleGroup.md#setactive)
 
-#### Defined in
-
-[ue/ue.d.ts:324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L324)
-
 ___
 
 ### SetAutoActivate
@@ -2677,10 +2153,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[SetAutoActivate](ue_ue.GizmoHandleGroup.md#setautoactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L325)
 
 ___
 
@@ -2702,10 +2174,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[SetComponentTickEnabled](ue_ue.GizmoHandleGroup.md#setcomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L326)
-
 ___
 
 ### SetComponentTickInterval
@@ -2725,10 +2193,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[SetComponentTickInterval](ue_ue.GizmoHandleGroup.md#setcomponenttickinterval)
-
-#### Defined in
-
-[ue/ue.d.ts:327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L327)
 
 ___
 
@@ -2751,10 +2215,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[SetHiddenInGame](ue_ue.GizmoHandleGroup.md#sethiddeningame)
 
-#### Defined in
-
-[ue/ue.d.ts:12948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12948)
-
 ___
 
 ### SetIsReplicated
@@ -2774,10 +2234,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[SetIsReplicated](ue_ue.GizmoHandleGroup.md#setisreplicated)
-
-#### Defined in
-
-[ue/ue.d.ts:328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L328)
 
 ___
 
@@ -2799,10 +2255,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[SetMobility](ue_ue.GizmoHandleGroup.md#setmobility)
 
-#### Defined in
-
-[ue/ue.d.ts:12949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12949)
-
 ___
 
 ### SetRelativeScale3D
@@ -2822,10 +2274,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[SetRelativeScale3D](ue_ue.GizmoHandleGroup.md#setrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:12950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12950)
 
 ___
 
@@ -2847,10 +2295,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[SetShouldUpdatePhysicsVolume](ue_ue.GizmoHandleGroup.md#setshouldupdatephysicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12951)
-
 ___
 
 ### SetTickGroup
@@ -2871,10 +2315,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[SetTickGroup](ue_ue.GizmoHandleGroup.md#settickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L330)
-
 ___
 
 ### SetTickableWhenPaused
@@ -2894,10 +2334,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[SetTickableWhenPaused](ue_ue.GizmoHandleGroup.md#settickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L329)
 
 ___
 
@@ -2920,10 +2356,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[SetVisibility](ue_ue.GizmoHandleGroup.md#setvisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12953)
-
 ___
 
 ### SetWorldScale3D
@@ -2943,10 +2375,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[SetWorldScale3D](ue_ue.GizmoHandleGroup.md#setworldscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:12954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12954)
 
 ___
 
@@ -2969,10 +2397,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[SetupAttachment](ue_ue.GizmoHandleGroup.md#setupattachment)
 
-#### Defined in
-
-[ue/ue.d.ts:12952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12952)
-
 ___
 
 ### SnapTo
@@ -2994,10 +2418,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[SnapTo](ue_ue.GizmoHandleGroup.md#snapto)
 
-#### Defined in
-
-[ue/ue.d.ts:12955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12955)
-
 ___
 
 ### ToggleActive
@@ -3011,10 +2431,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[ToggleActive](ue_ue.GizmoHandleGroup.md#toggleactive)
-
-#### Defined in
-
-[ue/ue.d.ts:331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L331)
 
 ___
 
@@ -3035,10 +2451,6 @@ ___
 #### Inherited from
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[ToggleVisibility](ue_ue.GizmoHandleGroup.md#togglevisibility)
-
-#### Defined in
-
-[ue/ue.d.ts:12956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12956)
 
 ___
 
@@ -3061,10 +2473,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[Find](ue_ue.GizmoHandleGroup.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:23368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23368)
-
 ___
 
 ### Load
@@ -3085,10 +2493,6 @@ ___
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[Load](ue_ue.GizmoHandleGroup.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:23369](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23369)
-
 ___
 
 ### StaticClass
@@ -3102,7 +2506,3 @@ ___
 #### Overrides
 
 [GizmoHandleGroup](ue_ue.GizmoHandleGroup.md).[StaticClass](ue_ue.GizmoHandleGroup.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:23367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23367)

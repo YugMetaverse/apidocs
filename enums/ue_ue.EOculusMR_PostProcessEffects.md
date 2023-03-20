@@ -19,19 +19,11 @@
 
 • **PPE\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34644)
-
 ___
 
 ### PPE\_Off
 
 • **PPE\_Off** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34644)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **PPE\_On** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34644)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34644)

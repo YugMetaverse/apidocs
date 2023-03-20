@@ -35,10 +35,6 @@
 
 • **new CrowdAvoidanceConfig**()
 
-#### Defined in
-
-[ue/ue.d.ts:28872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28872)
-
 • **new CrowdAvoidanceConfig**(`VelocityBias`, `DesiredVelocityWeight`, `CurrentVelocityWeight`, `SideBiasWeight`, `ImpactTimeWeight`, `ImpactTimeRange`, `CustomPatternIdx`, `AdaptiveDivisions`, `AdaptiveRings`, `AdaptiveDepth`)
 
 #### Parameters
@@ -56,19 +52,11 @@
 | `AdaptiveRings` | `number` |
 | `AdaptiveDepth` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:28873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28873)
-
 ## Properties
 
 ### AdaptiveDepth
 
 • **AdaptiveDepth**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:28883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28883)
 
 ___
 
@@ -76,19 +64,11 @@ ___
 
 • **AdaptiveDivisions**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28881)
-
 ___
 
 ### AdaptiveRings
 
 • **AdaptiveRings**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:28882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28882)
 
 ___
 
@@ -96,19 +76,11 @@ ___
 
 • **CurrentVelocityWeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28876)
-
 ___
 
 ### CustomPatternIdx
 
 • **CustomPatternIdx**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:28880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28880)
 
 ___
 
@@ -116,19 +88,11 @@ ___
 
 • **DesiredVelocityWeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28875)
-
 ___
 
 ### ImpactTimeRange
 
 • **ImpactTimeRange**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:28879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28879)
 
 ___
 
@@ -136,19 +100,11 @@ ___
 
 • **ImpactTimeWeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28878)
-
 ___
 
 ### SideBiasWeight
 
 • **SideBiasWeight**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:28877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28877)
 
 ___
 
@@ -156,19 +112,11 @@ ___
 
 • **VelocityBias**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28874)
-
 ___
 
 ### \_\_tid\_CrowdAvoidanceConfig\_\_
 
 • `Private` **\_\_tid\_CrowdAvoidanceConfig\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:28889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28889)
 
 ## Methods
 
@@ -184,10 +132,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:28887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28887)
-
 ___
 
 ### StaticStruct
@@ -197,7 +141,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28888)

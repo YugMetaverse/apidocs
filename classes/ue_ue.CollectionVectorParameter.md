@@ -38,10 +38,6 @@
 
 [CollectionParameterBase](ue_ue.CollectionParameterBase.md).[constructor](ue_ue.CollectionParameterBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:1370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1370)
-
 • **new CollectionVectorParameter**(`DefaultValue`)
 
 #### Parameters
@@ -54,19 +50,11 @@
 
 [CollectionParameterBase](ue_ue.CollectionParameterBase.md).[constructor](ue_ue.CollectionParameterBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:1371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1371)
-
 ## Properties
 
 ### DefaultValue
 
 • **DefaultValue**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1372)
 
 ___
 
@@ -78,10 +66,6 @@ ___
 
 [CollectionParameterBase](ue_ue.CollectionParameterBase.md).[Id](ue_ue.CollectionParameterBase.md#id)
 
-#### Defined in
-
-[ue/ue.d.ts:1348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1348)
-
 ___
 
 ### ParameterName
@@ -92,19 +76,11 @@ ___
 
 [CollectionParameterBase](ue_ue.CollectionParameterBase.md).[ParameterName](ue_ue.CollectionParameterBase.md#parametername)
 
-#### Defined in
-
-[ue/ue.d.ts:1347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1347)
-
 ___
 
 ### \_\_tid\_CollectionVectorParameter\_\_
 
 • `Private` **\_\_tid\_CollectionVectorParameter\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1378)
 
 ## Methods
 
@@ -124,10 +100,6 @@ use StaticStruct instead.
 
 [CollectionParameterBase](ue_ue.CollectionParameterBase.md).[StaticClass](ue_ue.CollectionParameterBase.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:1376](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1376)
-
 ___
 
 ### StaticStruct
@@ -141,7 +113,3 @@ ___
 #### Overrides
 
 [CollectionParameterBase](ue_ue.CollectionParameterBase.md).[StaticStruct](ue_ue.CollectionParameterBase.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:1377](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1377)

@@ -113,10 +113,6 @@
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[constructor](ue_ue.ApplicationLifecycleComponent.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:46400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46400)
-
 ## Properties
 
 ### ApplicationHasEnteredForegroundDelegate
@@ -126,10 +122,6 @@
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[ApplicationHasEnteredForegroundDelegate](ue_ue.ApplicationLifecycleComponent.md#applicationhasenteredforegrounddelegate)
-
-#### Defined in
-
-[ue/ue.d.ts:20648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20648)
 
 ___
 
@@ -141,10 +133,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[ApplicationHasReactivatedDelegate](ue_ue.ApplicationLifecycleComponent.md#applicationhasreactivateddelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:20646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20646)
-
 ___
 
 ### ApplicationReceivedStartupArgumentsDelegate
@@ -154,10 +142,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[ApplicationReceivedStartupArgumentsDelegate](ue_ue.ApplicationLifecycleComponent.md#applicationreceivedstartupargumentsdelegate)
-
-#### Defined in
-
-[ue/ue.d.ts:20651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20651)
 
 ___
 
@@ -169,10 +153,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[ApplicationShouldUnloadResourcesDelegate](ue_ue.ApplicationLifecycleComponent.md#applicationshouldunloadresourcesdelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:20650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20650)
-
 ___
 
 ### ApplicationWillDeactivateDelegate
@@ -182,10 +162,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[ApplicationWillDeactivateDelegate](ue_ue.ApplicationLifecycleComponent.md#applicationwilldeactivatedelegate)
-
-#### Defined in
-
-[ue/ue.d.ts:20645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20645)
 
 ___
 
@@ -197,10 +173,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[ApplicationWillEnterBackgroundDelegate](ue_ue.ApplicationLifecycleComponent.md#applicationwillenterbackgrounddelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:20647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20647)
-
 ___
 
 ### ApplicationWillTerminateDelegate
@@ -210,10 +182,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[ApplicationWillTerminateDelegate](ue_ue.ApplicationLifecycleComponent.md#applicationwillterminatedelegate)
-
-#### Defined in
-
-[ue/ue.d.ts:20649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20649)
 
 ___
 
@@ -225,10 +193,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[AssetUserData](ue_ue.ApplicationLifecycleComponent.md#assetuserdata)
 
-#### Defined in
-
-[ue/ue.d.ts:291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L291)
-
 ___
 
 ### ComponentTags
@@ -238,10 +202,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[ComponentTags](ue_ue.ApplicationLifecycleComponent.md#componenttags)
-
-#### Defined in
-
-[ue/ue.d.ts:290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L290)
 
 ___
 
@@ -253,19 +213,11 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[CreationMethod](ue_ue.ApplicationLifecycleComponent.md#creationmethod)
 
-#### Defined in
-
-[ue/ue.d.ts:302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L302)
-
 ___
 
 ### DeviceHasReactivatedDelegate
 
 • **DeviceHasReactivatedDelegate**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<() => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:46401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46401)
 
 ___
 
@@ -273,19 +225,11 @@ ___
 
 • **DeviceWillEnterRealityModeDelegate**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<() => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:46402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46402)
-
 ___
 
 ### DeviceWillGoInStandbyDelegate
 
 • **DeviceWillGoInStandbyDelegate**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<() => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:46403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46403)
 
 ___
 
@@ -297,10 +241,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[OnComponentActivated](ue_ue.ApplicationLifecycleComponent.md#oncomponentactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L303)
-
 ___
 
 ### OnComponentDeactivated
@@ -310,10 +250,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[OnComponentDeactivated](ue_ue.ApplicationLifecycleComponent.md#oncomponentdeactivated)
-
-#### Defined in
-
-[ue/ue.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L304)
 
 ___
 
@@ -325,10 +261,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[OnLowPowerModeDelegate](ue_ue.ApplicationLifecycleComponent.md#onlowpowermodedelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:20653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20653)
-
 ___
 
 ### OnTemperatureChangeDelegate
@@ -338,10 +270,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[OnTemperatureChangeDelegate](ue_ue.ApplicationLifecycleComponent.md#ontemperaturechangedelegate)
-
-#### Defined in
-
-[ue/ue.d.ts:20652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20652)
 
 ___
 
@@ -353,10 +281,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[PrimaryComponentTick](ue_ue.ApplicationLifecycleComponent.md#primarycomponenttick)
 
-#### Defined in
-
-[ue/ue.d.ts:289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L289)
-
 ___
 
 ### UCSModifiedProperties
@@ -366,10 +290,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[UCSModifiedProperties](ue_ue.ApplicationLifecycleComponent.md#ucsmodifiedproperties)
-
-#### Defined in
-
-[ue/ue.d.ts:305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L305)
 
 ___
 
@@ -381,10 +301,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[__tid_ActorComponent__](ue_ue.ApplicationLifecycleComponent.md#__tid_actorcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L336)
-
 ___
 
 ### \_\_tid\_ApplicationLifecycleComponent\_\_
@@ -395,19 +311,11 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[__tid_ApplicationLifecycleComponent__](ue_ue.ApplicationLifecycleComponent.md#__tid_applicationlifecyclecomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:20662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20662)
-
 ___
 
 ### \_\_tid\_LuminApplicationLifecycleComponent\_\_
 
 • **\_\_tid\_LuminApplicationLifecycleComponent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46409)
 
 ___
 
@@ -419,10 +327,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[__tid_Object__](ue_ue.ApplicationLifecycleComponent.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bAutoActivate
@@ -432,10 +336,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[bAutoActivate](ue_ue.ApplicationLifecycleComponent.md#bautoactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L296)
 
 ___
 
@@ -447,10 +347,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[bCanEverAffectNavigation](ue_ue.ApplicationLifecycleComponent.md#bcaneveraffectnavigation)
 
-#### Defined in
-
-[ue/ue.d.ts:299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L299)
-
 ___
 
 ### bCreatedByConstructionScript
@@ -460,10 +356,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[bCreatedByConstructionScript](ue_ue.ApplicationLifecycleComponent.md#bcreatedbyconstructionscript)
-
-#### Defined in
-
-[ue/ue.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L294)
 
 ___
 
@@ -475,10 +367,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[bEditableWhenInherited](ue_ue.ApplicationLifecycleComponent.md#beditablewheninherited)
 
-#### Defined in
-
-[ue/ue.d.ts:298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L298)
-
 ___
 
 ### bInstanceComponent
@@ -488,10 +376,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[bInstanceComponent](ue_ue.ApplicationLifecycleComponent.md#binstancecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L295)
 
 ___
 
@@ -503,10 +387,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[bIsActive](ue_ue.ApplicationLifecycleComponent.md#bisactive)
 
-#### Defined in
-
-[ue/ue.d.ts:297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L297)
-
 ___
 
 ### bIsEditorOnly
@@ -516,10 +396,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[bIsEditorOnly](ue_ue.ApplicationLifecycleComponent.md#biseditoronly)
-
-#### Defined in
-
-[ue/ue.d.ts:300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L300)
 
 ___
 
@@ -531,10 +407,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[bIsVisualizationComponent](ue_ue.ApplicationLifecycleComponent.md#bisvisualizationcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L301)
-
 ___
 
 ### bNetAddressable
@@ -545,10 +417,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[bNetAddressable](ue_ue.ApplicationLifecycleComponent.md#bnetaddressable)
 
-#### Defined in
-
-[ue/ue.d.ts:293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L293)
-
 ___
 
 ### bReplicates
@@ -558,10 +426,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[bReplicates](ue_ue.ApplicationLifecycleComponent.md#breplicates)
-
-#### Defined in
-
-[ue/ue.d.ts:292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L292)
 
 ## Methods
 
@@ -583,10 +447,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[Activate](ue_ue.ApplicationLifecycleComponent.md#activate)
 
-#### Defined in
-
-[ue/ue.d.ts:306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L306)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -606,10 +466,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[AddTickPrerequisiteActor](ue_ue.ApplicationLifecycleComponent.md#addtickprerequisiteactor)
-
-#### Defined in
-
-[ue/ue.d.ts:307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L307)
 
 ___
 
@@ -631,10 +487,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[AddTickPrerequisiteComponent](ue_ue.ApplicationLifecycleComponent.md#addtickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L308)
-
 ___
 
 ### ApplicationLifetimeDelegate\_\_DelegateSignature
@@ -648,10 +500,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[ApplicationLifetimeDelegate__DelegateSignature](ue_ue.ApplicationLifecycleComponent.md#applicationlifetimedelegate__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:20654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20654)
 
 ___
 
@@ -673,10 +521,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[ApplicationStartupArgumentsDelegate__DelegateSignature](ue_ue.ApplicationLifecycleComponent.md#applicationstartupargumentsdelegate__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:20655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20655)
-
 ___
 
 ### ComponentHasTag
@@ -696,10 +540,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[ComponentHasTag](ue_ue.ApplicationLifecycleComponent.md#componenthastag)
-
-#### Defined in
-
-[ue/ue.d.ts:309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L309)
 
 ___
 
@@ -725,10 +565,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[CreateDefaultSubobject](ue_ue.ApplicationLifecycleComponent.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### Deactivate
@@ -742,10 +578,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[Deactivate](ue_ue.ApplicationLifecycleComponent.md#deactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L310)
 
 ___
 
@@ -767,10 +599,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[ExecuteUbergraph](ue_ue.ApplicationLifecycleComponent.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -784,10 +612,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[GetClass](ue_ue.ApplicationLifecycleComponent.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -803,10 +627,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[GetComponentTickInterval](ue_ue.ApplicationLifecycleComponent.md#getcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L311)
-
 ___
 
 ### GetName
@@ -820,10 +640,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[GetName](ue_ue.ApplicationLifecycleComponent.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -839,10 +655,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[GetOuter](ue_ue.ApplicationLifecycleComponent.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetOwner
@@ -856,10 +668,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[GetOwner](ue_ue.ApplicationLifecycleComponent.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L312)
 
 ___
 
@@ -875,10 +683,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[GetWorld](ue_ue.ApplicationLifecycleComponent.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### IsActive
@@ -892,10 +696,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[IsActive](ue_ue.ApplicationLifecycleComponent.md#isactive)
-
-#### Defined in
-
-[ue/ue.d.ts:313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L313)
 
 ___
 
@@ -911,10 +711,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[IsBeingDestroyed](ue_ue.ApplicationLifecycleComponent.md#isbeingdestroyed)
 
-#### Defined in
-
-[ue/ue.d.ts:314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L314)
-
 ___
 
 ### IsComponentTickEnabled
@@ -928,10 +724,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[IsComponentTickEnabled](ue_ue.ApplicationLifecycleComponent.md#iscomponenttickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L315)
 
 ___
 
@@ -953,10 +745,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[K2_DestroyComponent](ue_ue.ApplicationLifecycleComponent.md#k2_destroycomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L316)
-
 ___
 
 ### LuminApplicationLifetimeDelegate\_\_DelegateSignature
@@ -966,10 +754,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:46404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46404)
 
 ___
 
@@ -991,10 +775,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[OnLowPowerModeDelegate__DelegateSignature](ue_ue.ApplicationLifecycleComponent.md#onlowpowermodedelegate__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:20656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20656)
-
 ___
 
 ### OnRep\_IsActive
@@ -1008,10 +788,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[OnRep_IsActive](ue_ue.ApplicationLifecycleComponent.md#onrep_isactive)
-
-#### Defined in
-
-[ue/ue.d.ts:317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L317)
 
 ___
 
@@ -1033,10 +809,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[OnTemperatureChangeDelegate__DelegateSignature](ue_ue.ApplicationLifecycleComponent.md#ontemperaturechangedelegate__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:20657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20657)
-
 ___
 
 ### ReceiveBeginPlay
@@ -1050,10 +822,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[ReceiveBeginPlay](ue_ue.ApplicationLifecycleComponent.md#receivebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L318)
 
 ___
 
@@ -1075,10 +843,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[ReceiveEndPlay](ue_ue.ApplicationLifecycleComponent.md#receiveendplay)
 
-#### Defined in
-
-[ue/ue.d.ts:319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L319)
-
 ___
 
 ### ReceiveTick
@@ -1099,10 +863,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[ReceiveTick](ue_ue.ApplicationLifecycleComponent.md#receivetick)
 
-#### Defined in
-
-[ue/ue.d.ts:320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L320)
-
 ___
 
 ### RegisterComponent
@@ -1116,10 +876,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[RegisterComponent](ue_ue.ApplicationLifecycleComponent.md#registercomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L321)
 
 ___
 
@@ -1141,10 +897,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[RemoveTickPrerequisiteActor](ue_ue.ApplicationLifecycleComponent.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -1164,10 +916,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[RemoveTickPrerequisiteComponent](ue_ue.ApplicationLifecycleComponent.md#removetickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L323)
 
 ___
 
@@ -1190,10 +938,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[SetActive](ue_ue.ApplicationLifecycleComponent.md#setactive)
 
-#### Defined in
-
-[ue/ue.d.ts:324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L324)
-
 ___
 
 ### SetAutoActivate
@@ -1213,10 +957,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[SetAutoActivate](ue_ue.ApplicationLifecycleComponent.md#setautoactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L325)
 
 ___
 
@@ -1238,10 +978,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[SetComponentTickEnabled](ue_ue.ApplicationLifecycleComponent.md#setcomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L326)
-
 ___
 
 ### SetComponentTickInterval
@@ -1261,10 +997,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[SetComponentTickInterval](ue_ue.ApplicationLifecycleComponent.md#setcomponenttickinterval)
-
-#### Defined in
-
-[ue/ue.d.ts:327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L327)
 
 ___
 
@@ -1286,10 +1018,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[SetIsReplicated](ue_ue.ApplicationLifecycleComponent.md#setisreplicated)
 
-#### Defined in
-
-[ue/ue.d.ts:328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L328)
-
 ___
 
 ### SetTickGroup
@@ -1309,10 +1037,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[SetTickGroup](ue_ue.ApplicationLifecycleComponent.md#settickgroup)
-
-#### Defined in
-
-[ue/ue.d.ts:330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L330)
 
 ___
 
@@ -1334,10 +1058,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[SetTickableWhenPaused](ue_ue.ApplicationLifecycleComponent.md#settickablewhenpaused)
 
-#### Defined in
-
-[ue/ue.d.ts:329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L329)
-
 ___
 
 ### ToggleActive
@@ -1351,10 +1071,6 @@ ___
 #### Inherited from
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[ToggleActive](ue_ue.ApplicationLifecycleComponent.md#toggleactive)
-
-#### Defined in
-
-[ue/ue.d.ts:331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L331)
 
 ___
 
@@ -1377,10 +1093,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[Find](ue_ue.ApplicationLifecycleComponent.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:46406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46406)
-
 ___
 
 ### Load
@@ -1401,10 +1113,6 @@ ___
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[Load](ue_ue.ApplicationLifecycleComponent.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:46407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46407)
-
 ___
 
 ### StaticClass
@@ -1418,7 +1126,3 @@ ___
 #### Overrides
 
 [ApplicationLifecycleComponent](ue_ue.ApplicationLifecycleComponent.md).[StaticClass](ue_ue.ApplicationLifecycleComponent.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:46405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46405)

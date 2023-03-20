@@ -28,10 +28,6 @@
 
 • **new BoneSocketTarget**()
 
-#### Defined in
-
-[ue/ue.d.ts:18214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18214)
-
 • **new BoneSocketTarget**(`bUseSocket`, `BoneReference`, `SocketReference`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `BoneReference` | [`BoneReference`](ue_ue.BoneReference.md) |
 | `SocketReference` | [`SocketReference`](ue_ue.SocketReference.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:18215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18215)
-
 ## Properties
 
 ### BoneReference
 
 • **BoneReference**: [`BoneReference`](ue_ue.BoneReference.md)
-
-#### Defined in
-
-[ue/ue.d.ts:18217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18217)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **SocketReference**: [`SocketReference`](ue_ue.SocketReference.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18218)
-
 ___
 
 ### \_\_tid\_BoneSocketTarget\_\_
 
 • `Private` **\_\_tid\_BoneSocketTarget\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:18224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18224)
-
 ___
 
 ### bUseSocket
 
 • **bUseSocket**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18216)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18222)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:18223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18223)

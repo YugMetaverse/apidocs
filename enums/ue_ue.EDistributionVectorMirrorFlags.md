@@ -20,19 +20,11 @@
 
 • **EDVMF\_Different** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31098)
-
 ___
 
 ### EDVMF\_MAX
 
 • **EDVMF\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31098)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **EDVMF\_Mirror** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31098)
-
 ___
 
 ### EDVMF\_Same
 
 • **EDVMF\_Same** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31098)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31098)

@@ -19,19 +19,11 @@
 
 • **VLM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8710)
-
 ___
 
 ### VLM\_SparseVolumeLightingSamples
 
 • **VLM\_SparseVolumeLightingSamples** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8710)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **VLM\_VolumetricLightmap** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8710)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8710)

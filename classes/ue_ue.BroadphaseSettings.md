@@ -31,10 +31,6 @@
 
 • **new BroadphaseSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:9091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9091)
-
 • **new BroadphaseSettings**(`bUseMBPOnClient`, `bUseMBPOnServer`, `bUseMBPOuterBounds`, `MBPBounds`, `MBPOuterBounds`, `MBPNumSubdivs`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `MBPOuterBounds` | [`Box`](ue_ue.Box.md) |
 | `MBPNumSubdivs` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:9092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9092)
-
 ## Properties
 
 ### MBPBounds
 
 • **MBPBounds**: [`Box`](ue_ue.Box.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9096](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9096)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **MBPNumSubdivs**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9098)
-
 ___
 
 ### MBPOuterBounds
 
 • **MBPOuterBounds**: [`Box`](ue_ue.Box.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9097](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9097)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • `Private` **\_\_tid\_BroadphaseSettings\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9104)
-
 ___
 
 ### bUseMBPOnClient
 
 • **bUseMBPOnClient**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9093](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9093)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **bUseMBPOnServer**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9094](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9094)
-
 ___
 
 ### bUseMBPOuterBounds
 
 • **bUseMBPOuterBounds**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9095](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9095)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9102)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9103)

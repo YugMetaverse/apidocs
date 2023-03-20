@@ -65,19 +65,11 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[constructor](ue_ue.BlueprintFunctionLibrary.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:15035](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15035)
-
 ## Properties
 
 ### \_\_tid\_AIBlueprintHelperLibrary\_\_
 
 • **\_\_tid\_AIBlueprintHelperLibrary\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15053)
 
 ___
 
@@ -89,10 +81,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_BlueprintFunctionLibrary__](ue_ue.BlueprintFunctionLibrary.md#__tid_blueprintfunctionlibrary__)
 
-#### Defined in
-
-[ue/ue.d.ts:13418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13418)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -102,10 +90,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_Object__](ue_ue.BlueprintFunctionLibrary.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -131,10 +115,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[CreateDefaultSubobject](ue_ue.BlueprintFunctionLibrary.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -155,10 +135,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[ExecuteUbergraph](ue_ue.BlueprintFunctionLibrary.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -172,10 +148,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetClass](ue_ue.BlueprintFunctionLibrary.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -191,10 +163,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetName](ue_ue.BlueprintFunctionLibrary.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -209,10 +177,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetOuter](ue_ue.BlueprintFunctionLibrary.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -226,10 +190,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetWorld](ue_ue.BlueprintFunctionLibrary.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -252,10 +212,6 @@ ___
 
 [`AIAsyncTaskBlueprintProxy`](ue_ue.AIAsyncTaskBlueprintProxy.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15036](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15036)
-
 ___
 
 ### Find
@@ -277,10 +233,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Find](ue_ue.BlueprintFunctionLibrary.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:15050](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15050)
-
 ___
 
 ### GetAIController
@@ -296,10 +248,6 @@ ___
 #### Returns
 
 [`AIController`](ue_ue.AIController.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15037)
 
 ___
 
@@ -317,10 +265,6 @@ ___
 
 [`BlackboardComponent`](ue_ue.BlackboardComponent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15038)
-
 ___
 
 ### GetCurrentPath
@@ -336,10 +280,6 @@ ___
 #### Returns
 
 [`NavigationPath`](ue_ue.NavigationPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15039)
 
 ___
 
@@ -357,10 +297,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:15040](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15040)
-
 ___
 
 ### IsValidAILocation
@@ -377,10 +313,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:15041](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15041)
-
 ___
 
 ### IsValidAIRotation
@@ -396,10 +328,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15042)
 
 ___
 
@@ -421,10 +349,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Load](ue_ue.BlueprintFunctionLibrary.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:15051](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15051)
-
 ___
 
 ### LockAIResourcesWithAnimation
@@ -442,10 +366,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:15043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15043)
 
 ___
 
@@ -466,10 +386,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:15044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15044)
-
 ___
 
 ### SimpleMoveToActor
@@ -487,10 +403,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:15045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15045)
-
 ___
 
 ### SimpleMoveToLocation
@@ -507,10 +419,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:15046](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15046)
 
 ___
 
@@ -533,10 +441,6 @@ ___
 
 [`Pawn`](ue_ue.Pawn.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15047)
-
 ___
 
 ### StaticClass
@@ -550,10 +454,6 @@ ___
 #### Overrides
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[StaticClass](ue_ue.BlueprintFunctionLibrary.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15049)
 
 ___
 
@@ -572,7 +472,3 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:15048](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15048)

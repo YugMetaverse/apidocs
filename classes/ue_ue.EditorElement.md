@@ -27,10 +27,6 @@
 
 • **new EditorElement**()
 
-#### Defined in
-
-[ue/ue.d.ts:15204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15204)
-
 • **new EditorElement**(`Indices`, `Weights`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Indices` | [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<`number`\> |
 | `Weights` | [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<`number`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:15205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15205)
-
 ## Properties
 
 ### Indices
 
 • **Indices**: [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:15206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15206)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Weights**: [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:15207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15207)
-
 ___
 
 ### \_\_tid\_EditorElement\_\_
 
 • `Private` **\_\_tid\_EditorElement\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15213)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15211)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15212)

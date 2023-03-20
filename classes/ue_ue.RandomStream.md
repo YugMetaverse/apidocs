@@ -27,10 +27,6 @@
 
 • **new RandomStream**()
 
-#### Defined in
-
-[ue/ue.d.ts:36240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36240)
-
 • **new RandomStream**(`InitialSeed`, `Seed`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `InitialSeed` | `number` |
 | `Seed` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:36241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36241)
-
 ## Properties
 
 ### InitialSeed
 
 • **InitialSeed**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:36242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36242)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Seed**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:36243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36243)
-
 ___
 
 ### \_\_tid\_RandomStream\_\_
 
 • `Private` **\_\_tid\_RandomStream\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36249)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36247)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36248)

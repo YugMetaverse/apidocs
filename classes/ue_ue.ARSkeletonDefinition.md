@@ -28,10 +28,6 @@
 
 • **new ARSkeletonDefinition**()
 
-#### Defined in
-
-[ue/ue.d.ts:20978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20978)
-
 • **new ARSkeletonDefinition**(`NumJoints`, `JointNames`, `ParentIndices`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `JointNames` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\> |
 | `ParentIndices` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:20979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20979)
-
 ## Properties
 
 ### JointNames
 
 • **JointNames**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:20981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20981)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **NumJoints**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20980)
-
 ___
 
 ### ParentIndices
 
 • **ParentIndices**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:20982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20982)
-
 ___
 
 ### \_\_tid\_ARSkeletonDefinition\_\_
 
 • `Private` **\_\_tid\_ARSkeletonDefinition\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:20988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20988)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:20986](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20986)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:20987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20987)

@@ -36,10 +36,6 @@
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[constructor](ue_ue.AnimNode_Base.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:18539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18539)
-
 • **new AnimNode_RefPose**(`RefPoseType`)
 
 #### Parameters
@@ -52,29 +48,17 @@
 
 UE.AnimNode\_Base.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:18540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18540)
-
 ## Properties
 
 ### RefPoseType
 
 • **RefPoseType**: [`ERefPoseType`](../enums/ue_ue.ERefPoseType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18541](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18541)
-
 ___
 
 ### \_\_tid\_AnimNode\_RefPose\_\_
 
 • `Private` **\_\_tid\_AnimNode\_RefPose\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18547)
 
 ## Methods
 
@@ -94,10 +78,6 @@ use StaticStruct instead.
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticClass](ue_ue.AnimNode_Base.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:18545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18545)
-
 ___
 
 ### StaticStruct
@@ -111,7 +91,3 @@ ___
 #### Overrides
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticStruct](ue_ue.AnimNode_Base.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:18546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18546)

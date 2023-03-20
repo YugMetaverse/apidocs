@@ -20,19 +20,11 @@
 
 • **Default** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34075)
-
 ___
 
 ### ENavDataGatheringMode\_MAX
 
 • **ENavDataGatheringMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34075)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Instant** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34075)
-
 ___
 
 ### Lazy
 
 • **Lazy** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34075)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34075)

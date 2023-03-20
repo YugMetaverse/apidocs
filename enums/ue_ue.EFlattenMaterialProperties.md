@@ -28,19 +28,11 @@
 
 • **AmbientOcclusion** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33866)
-
 ___
 
 ### Diffuse
 
 • **Diffuse** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33866)
 
 ___
 
@@ -48,19 +40,11 @@ ___
 
 • **EFlattenMaterialProperties\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33866)
-
 ___
 
 ### Emissive
 
 • **Emissive** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33866)
 
 ___
 
@@ -68,19 +52,11 @@ ___
 
 • **Metallic** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33866)
-
 ___
 
 ### Normal
 
 • **Normal** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33866)
 
 ___
 
@@ -88,19 +64,11 @@ ___
 
 • **NumFlattenMaterialProperties** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33866)
-
 ___
 
 ### Opacity
 
 • **Opacity** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33866)
 
 ___
 
@@ -108,19 +76,11 @@ ___
 
 • **OpacityMask** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33866)
-
 ___
 
 ### Roughness
 
 • **Roughness** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33866)
 
 ___
 
@@ -128,26 +88,14 @@ ___
 
 • **Specular** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33866)
-
 ___
 
 ### SubSurface
 
 • **SubSurface** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33866)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33866)

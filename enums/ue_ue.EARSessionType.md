@@ -24,19 +24,11 @@
 
 • **EARSessionType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20709)
-
 ___
 
 ### Face
 
 • **Face** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20709)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **Image** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20709)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20709)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **ObjectScanning** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20709)
-
 ___
 
 ### Orientation
 
 • **Orientation** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20709)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **PoseTracking** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20709)
-
 ___
 
 ### World
 
 • **World** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20709)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20709)

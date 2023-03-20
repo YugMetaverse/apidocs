@@ -19,19 +19,11 @@
 
 • **EGPD\_Input** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L989)
-
 ___
 
 ### EGPD\_MAX
 
 • **EGPD\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L989)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **EGPD\_Output** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L989)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L989)

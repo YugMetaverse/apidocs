@@ -24,19 +24,11 @@
 
 • **AllExprMatch** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33880)
-
 ___
 
 ### AllTagsMatch
 
 • **AllTagsMatch** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33880)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **AnyExprMatch** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33880)
-
 ___
 
 ### AnyTagsMatch
 
 • **AnyTagsMatch** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33880)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **EGameplayTagQueryExprType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33880)
-
 ___
 
 ### NoExprMatch
 
 • **NoExprMatch** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33880)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **NoTagsMatch** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33880)
-
 ___
 
 ### Undefined
 
 • **Undefined** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33880)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33880)

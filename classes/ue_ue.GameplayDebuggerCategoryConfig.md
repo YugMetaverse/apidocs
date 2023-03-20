@@ -32,10 +32,6 @@
 
 • **new GameplayDebuggerCategoryConfig**()
 
-#### Defined in
-
-[ue/ue.d.ts:36705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36705)
-
 • **new GameplayDebuggerCategoryConfig**(`CategoryName`, `SlotIdx`, `ActiveInGame`, `ActiveInSimulate`, `Hidden`, `bOverrideSlotIdx`, `InputHandlers`)
 
 #### Parameters
@@ -50,19 +46,11 @@
 | `bOverrideSlotIdx` | `boolean` |
 | `InputHandlers` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`GameplayDebuggerInputConfig`](ue_ue.GameplayDebuggerInputConfig.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:36706](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36706)
-
 ## Properties
 
 ### ActiveInGame
 
 • **ActiveInGame**: [`EGameplayDebuggerOverrideMode`](../enums/ue_ue.EGameplayDebuggerOverrideMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36709)
 
 ___
 
@@ -70,19 +58,11 @@ ___
 
 • **ActiveInSimulate**: [`EGameplayDebuggerOverrideMode`](../enums/ue_ue.EGameplayDebuggerOverrideMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36710)
-
 ___
 
 ### CategoryName
 
 • **CategoryName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:36707](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36707)
 
 ___
 
@@ -90,19 +70,11 @@ ___
 
 • **Hidden**: [`EGameplayDebuggerOverrideMode`](../enums/ue_ue.EGameplayDebuggerOverrideMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36711)
-
 ___
 
 ### InputHandlers
 
 • **InputHandlers**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`GameplayDebuggerInputConfig`](ue_ue.GameplayDebuggerInputConfig.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:36713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36713)
 
 ___
 
@@ -110,29 +82,17 @@ ___
 
 • **SlotIdx**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:36708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36708)
-
 ___
 
 ### \_\_tid\_GameplayDebuggerCategoryConfig\_\_
 
 • `Private` **\_\_tid\_GameplayDebuggerCategoryConfig\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:36719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36719)
-
 ___
 
 ### bOverrideSlotIdx
 
 • **bOverrideSlotIdx**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36712)
 
 ## Methods
 
@@ -148,10 +108,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36717)
-
 ___
 
 ### StaticStruct
@@ -161,7 +117,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36718)

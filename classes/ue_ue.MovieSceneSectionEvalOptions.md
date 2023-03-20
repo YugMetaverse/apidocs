@@ -27,10 +27,6 @@
 
 • **new MovieSceneSectionEvalOptions**()
 
-#### Defined in
-
-[ue/ue.d.ts:11719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11719)
-
 • **new MovieSceneSectionEvalOptions**(`bCanEditCompletionMode`, `CompletionMode`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `bCanEditCompletionMode` | `boolean` |
 | `CompletionMode` | [`EMovieSceneCompletionMode`](../enums/ue_ue.EMovieSceneCompletionMode.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:11720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11720)
-
 ## Properties
 
 ### CompletionMode
 
 • **CompletionMode**: [`EMovieSceneCompletionMode`](../enums/ue_ue.EMovieSceneCompletionMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11722)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • `Private` **\_\_tid\_MovieSceneSectionEvalOptions\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:11728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11728)
-
 ___
 
 ### bCanEditCompletionMode
 
 • **bCanEditCompletionMode**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11721)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11726)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11727)

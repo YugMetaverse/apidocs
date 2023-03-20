@@ -28,19 +28,11 @@
 
 • **FunctionInput\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33877)
-
 ___
 
 ### FunctionInput\_MaterialAttributes
 
 • **FunctionInput\_MaterialAttributes** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33877)
 
 ___
 
@@ -48,19 +40,11 @@ ___
 
 • **FunctionInput\_Scalar** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33877)
-
 ___
 
 ### FunctionInput\_StaticBool
 
 • **FunctionInput\_StaticBool** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33877)
 
 ___
 
@@ -68,19 +52,11 @@ ___
 
 • **FunctionInput\_Texture2D** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33877)
-
 ___
 
 ### FunctionInput\_Texture2DArray
 
 • **FunctionInput\_Texture2DArray** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33877)
 
 ___
 
@@ -88,19 +64,11 @@ ___
 
 • **FunctionInput\_TextureCube** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33877)
-
 ___
 
 ### FunctionInput\_TextureExternal
 
 • **FunctionInput\_TextureExternal** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33877)
 
 ___
 
@@ -108,19 +76,11 @@ ___
 
 • **FunctionInput\_Vector2** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33877)
-
 ___
 
 ### FunctionInput\_Vector3
 
 • **FunctionInput\_Vector3** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33877)
 
 ___
 
@@ -128,26 +88,14 @@ ___
 
 • **FunctionInput\_Vector4** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33877)
-
 ___
 
 ### FunctionInput\_VolumeTexture
 
 • **FunctionInput\_VolumeTexture** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33877)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33877)

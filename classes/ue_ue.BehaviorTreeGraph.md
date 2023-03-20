@@ -64,10 +64,6 @@
 
 [AIGraph](ue_ue.AIGraph.md).[constructor](ue_ue.AIGraph.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:23651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23651)
-
 ## Properties
 
 ### GraphGuid
@@ -77,10 +73,6 @@
 #### Inherited from
 
 [AIGraph](ue_ue.AIGraph.md).[GraphGuid](ue_ue.AIGraph.md#graphguid)
-
-#### Defined in
-
-[ue/ue.d.ts:4175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4175)
 
 ___
 
@@ -92,10 +84,6 @@ ___
 
 [AIGraph](ue_ue.AIGraph.md).[GraphVersion](ue_ue.AIGraph.md#graphversion)
 
-#### Defined in
-
-[ue/ue.d.ts:15092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15092)
-
 ___
 
 ### InterfaceGuid
@@ -106,19 +94,11 @@ ___
 
 [AIGraph](ue_ue.AIGraph.md).[InterfaceGuid](ue_ue.AIGraph.md#interfaceguid)
 
-#### Defined in
-
-[ue/ue.d.ts:4176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4176)
-
 ___
 
 ### ModCounter
 
 • **ModCounter**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:23652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23652)
 
 ___
 
@@ -130,10 +110,6 @@ ___
 
 [AIGraph](ue_ue.AIGraph.md).[Nodes](ue_ue.AIGraph.md#nodes)
 
-#### Defined in
-
-[ue/ue.d.ts:4170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4170)
-
 ___
 
 ### Schema
@@ -143,10 +119,6 @@ ___
 #### Inherited from
 
 [AIGraph](ue_ue.AIGraph.md).[Schema](ue_ue.AIGraph.md#schema)
-
-#### Defined in
-
-[ue/ue.d.ts:4169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4169)
 
 ___
 
@@ -158,10 +130,6 @@ ___
 
 [AIGraph](ue_ue.AIGraph.md).[SubGraphs](ue_ue.AIGraph.md#subgraphs)
 
-#### Defined in
-
-[ue/ue.d.ts:4174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4174)
-
 ___
 
 ### \_\_tid\_AIGraph\_\_
@@ -172,19 +140,11 @@ ___
 
 [AIGraph](ue_ue.AIGraph.md).[__tid_AIGraph__](ue_ue.AIGraph.md#__tid_aigraph__)
 
-#### Defined in
-
-[ue/ue.d.ts:15097](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15097)
-
 ___
 
 ### \_\_tid\_BehaviorTreeGraph\_\_
 
 • **\_\_tid\_BehaviorTreeGraph\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:23658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23658)
 
 ___
 
@@ -196,10 +156,6 @@ ___
 
 [AIGraph](ue_ue.AIGraph.md).[__tid_EdGraph__](ue_ue.AIGraph.md#__tid_edgraph__)
 
-#### Defined in
-
-[ue/ue.d.ts:4181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4181)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -209,10 +165,6 @@ ___
 #### Inherited from
 
 [AIGraph](ue_ue.AIGraph.md).[__tid_Object__](ue_ue.AIGraph.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -224,10 +176,6 @@ ___
 
 [AIGraph](ue_ue.AIGraph.md).[bAllowDeletion](ue_ue.AIGraph.md#ballowdeletion)
 
-#### Defined in
-
-[ue/ue.d.ts:4172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4172)
-
 ___
 
 ### bAllowRenaming
@@ -237,10 +185,6 @@ ___
 #### Inherited from
 
 [AIGraph](ue_ue.AIGraph.md).[bAllowRenaming](ue_ue.AIGraph.md#ballowrenaming)
-
-#### Defined in
-
-[ue/ue.d.ts:4173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4173)
 
 ___
 
@@ -252,19 +196,11 @@ ___
 
 [AIGraph](ue_ue.AIGraph.md).[bEditable](ue_ue.AIGraph.md#beditable)
 
-#### Defined in
-
-[ue/ue.d.ts:4171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4171)
-
 ___
 
 ### bIsUsingModCounter
 
 • **bIsUsingModCounter**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:23653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23653)
 
 ## Methods
 
@@ -290,10 +226,6 @@ ___
 
 [AIGraph](ue_ue.AIGraph.md).[CreateDefaultSubobject](ue_ue.AIGraph.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -314,10 +246,6 @@ ___
 
 [AIGraph](ue_ue.AIGraph.md).[ExecuteUbergraph](ue_ue.AIGraph.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -331,10 +259,6 @@ ___
 #### Inherited from
 
 [AIGraph](ue_ue.AIGraph.md).[GetClass](ue_ue.AIGraph.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -350,10 +274,6 @@ ___
 
 [AIGraph](ue_ue.AIGraph.md).[GetName](ue_ue.AIGraph.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -368,10 +288,6 @@ ___
 
 [AIGraph](ue_ue.AIGraph.md).[GetOuter](ue_ue.AIGraph.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -385,10 +301,6 @@ ___
 #### Inherited from
 
 [AIGraph](ue_ue.AIGraph.md).[GetWorld](ue_ue.AIGraph.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -411,10 +323,6 @@ ___
 
 [AIGraph](ue_ue.AIGraph.md).[Find](ue_ue.AIGraph.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:23655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23655)
-
 ___
 
 ### Load
@@ -435,10 +343,6 @@ ___
 
 [AIGraph](ue_ue.AIGraph.md).[Load](ue_ue.AIGraph.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:23656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23656)
-
 ___
 
 ### StaticClass
@@ -452,7 +356,3 @@ ___
 #### Overrides
 
 [AIGraph](ue_ue.AIGraph.md).[StaticClass](ue_ue.AIGraph.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:23654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23654)

@@ -20,19 +20,11 @@
 
 • **EPSOBM\_CustomBounds** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7174)
-
 ___
 
 ### EPSOBM\_MAX
 
 • **EPSOBM\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7174)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **EPSOBM\_None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7174)
-
 ___
 
 ### EPSOBM\_ParticleBounds
 
 • **EPSOBM\_ParticleBounds** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7174)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7174)

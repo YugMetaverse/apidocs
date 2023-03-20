@@ -27,10 +27,6 @@
 
 • **new ScalarParameterNameAndCurve**()
 
-#### Defined in
-
-[ue/ue.d.ts:52111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52111)
-
 • **new ScalarParameterNameAndCurve**(`ParameterName`, `ParameterCurve`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `ParameterName` | `string` |
 | `ParameterCurve` | [`MovieSceneFloatChannel`](ue_ue.MovieSceneFloatChannel.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:52112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52112)
-
 ## Properties
 
 ### ParameterCurve
 
 • **ParameterCurve**: [`MovieSceneFloatChannel`](ue_ue.MovieSceneFloatChannel.md)
-
-#### Defined in
-
-[ue/ue.d.ts:52114](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52114)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **ParameterName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:52113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52113)
-
 ___
 
 ### \_\_tid\_ScalarParameterNameAndCurve\_\_
 
 • `Private` **\_\_tid\_ScalarParameterNameAndCurve\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52120)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:52118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52118)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:52119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52119)

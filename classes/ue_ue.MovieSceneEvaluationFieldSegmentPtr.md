@@ -38,10 +38,6 @@
 
 [MovieSceneEvaluationFieldTrackPtr](ue_ue.MovieSceneEvaluationFieldTrackPtr.md).[constructor](ue_ue.MovieSceneEvaluationFieldTrackPtr.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:11236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11236)
-
 • **new MovieSceneEvaluationFieldSegmentPtr**(`SegmentID`)
 
 #### Parameters
@@ -54,19 +50,11 @@
 
 [MovieSceneEvaluationFieldTrackPtr](ue_ue.MovieSceneEvaluationFieldTrackPtr.md).[constructor](ue_ue.MovieSceneEvaluationFieldTrackPtr.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:11237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11237)
-
 ## Properties
 
 ### SegmentID
 
 • **SegmentID**: [`MovieSceneSegmentIdentifier`](ue_ue.MovieSceneSegmentIdentifier.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11238)
 
 ___
 
@@ -78,10 +66,6 @@ ___
 
 [MovieSceneEvaluationFieldTrackPtr](ue_ue.MovieSceneEvaluationFieldTrackPtr.md).[SequenceID](ue_ue.MovieSceneEvaluationFieldTrackPtr.md#sequenceid)
 
-#### Defined in
-
-[ue/ue.d.ts:11213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11213)
-
 ___
 
 ### TrackIdentifier
@@ -92,19 +76,11 @@ ___
 
 [MovieSceneEvaluationFieldTrackPtr](ue_ue.MovieSceneEvaluationFieldTrackPtr.md).[TrackIdentifier](ue_ue.MovieSceneEvaluationFieldTrackPtr.md#trackidentifier)
 
-#### Defined in
-
-[ue/ue.d.ts:11214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11214)
-
 ___
 
 ### \_\_tid\_MovieSceneEvaluationFieldSegmentPtr\_\_
 
 • `Private` **\_\_tid\_MovieSceneEvaluationFieldSegmentPtr\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11244)
 
 ## Methods
 
@@ -124,10 +100,6 @@ use StaticStruct instead.
 
 [MovieSceneEvaluationFieldTrackPtr](ue_ue.MovieSceneEvaluationFieldTrackPtr.md).[StaticClass](ue_ue.MovieSceneEvaluationFieldTrackPtr.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:11242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11242)
-
 ___
 
 ### StaticStruct
@@ -141,7 +113,3 @@ ___
 #### Overrides
 
 [MovieSceneEvaluationFieldTrackPtr](ue_ue.MovieSceneEvaluationFieldTrackPtr.md).[StaticStruct](ue_ue.MovieSceneEvaluationFieldTrackPtr.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:11243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11243)

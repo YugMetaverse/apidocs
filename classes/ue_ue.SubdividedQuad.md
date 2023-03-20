@@ -29,10 +29,6 @@
 
 • **new SubdividedQuad**()
 
-#### Defined in
-
-[ue/ue.d.ts:31767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31767)
-
 • **new SubdividedQuad**(`QuadVertex0`, `QuadVertex1`, `QuadVertex2`, `QuadVertex3`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `QuadVertex2` | [`SubdividedQuadVertex`](ue_ue.SubdividedQuadVertex.md) |
 | `QuadVertex3` | [`SubdividedQuadVertex`](ue_ue.SubdividedQuadVertex.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:31768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31768)
-
 ## Properties
 
 ### QuadVertex0
 
 • **QuadVertex0**: [`SubdividedQuadVertex`](ue_ue.SubdividedQuadVertex.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31769)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **QuadVertex1**: [`SubdividedQuadVertex`](ue_ue.SubdividedQuadVertex.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31770)
-
 ___
 
 ### QuadVertex2
 
 • **QuadVertex2**: [`SubdividedQuadVertex`](ue_ue.SubdividedQuadVertex.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31771)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **QuadVertex3**: [`SubdividedQuadVertex`](ue_ue.SubdividedQuadVertex.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31772)
-
 ___
 
 ### \_\_tid\_SubdividedQuad\_\_
 
 • `Private` **\_\_tid\_SubdividedQuad\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31778](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31778)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31776](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31776)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31777](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31777)

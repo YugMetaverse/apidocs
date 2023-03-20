@@ -20,19 +20,11 @@
 
 • **ECR\_Block** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L599)
-
 ___
 
 ### ECR\_Ignore
 
 • **ECR\_Ignore** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L599)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **ECR\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L599)
-
 ___
 
 ### ECR\_Overlap
 
 • **ECR\_Overlap** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L599)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L599)

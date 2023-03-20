@@ -75,19 +75,11 @@
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[constructor](ue_ue.ParticleModuleOrbitBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:7036](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7036)
-
 ## Properties
 
 ### ChainMode
 
 • **ChainMode**: [`EOrbitChainMode`](../enums/ue_ue.EOrbitChainMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7037)
 
 ___
 
@@ -99,10 +91,6 @@ ___
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[LODDuplicate](ue_ue.ParticleModuleOrbitBase.md#lodduplicate)
 
-#### Defined in
-
-[ue/ue.d.ts:6745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6745)
-
 ___
 
 ### LODValidity
@@ -112,10 +100,6 @@ ___
 #### Inherited from
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[LODValidity](ue_ue.ParticleModuleOrbitBase.md#lodvalidity)
-
-#### Defined in
-
-[ue/ue.d.ts:6748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6748)
 
 ___
 
@@ -127,19 +111,11 @@ ___
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[ModuleEditorColor](ue_ue.ParticleModuleOrbitBase.md#moduleeditorcolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6749)
-
 ___
 
 ### OffsetAmount
 
 • **OffsetAmount**: [`RawDistributionVector`](ue_ue.RawDistributionVector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7038)
 
 ___
 
@@ -147,19 +123,11 @@ ___
 
 • **OffsetOptions**: [`OrbitOptions`](ue_ue.OrbitOptions.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7039)
-
 ___
 
 ### RotationAmount
 
 • **RotationAmount**: [`RawDistributionVector`](ue_ue.RawDistributionVector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7040](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7040)
 
 ___
 
@@ -167,29 +135,17 @@ ___
 
 • **RotationOptions**: [`OrbitOptions`](ue_ue.OrbitOptions.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7041](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7041)
-
 ___
 
 ### RotationRateAmount
 
 • **RotationRateAmount**: [`RawDistributionVector`](ue_ue.RawDistributionVector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7042)
-
 ___
 
 ### RotationRateOptions
 
 • **RotationRateOptions**: [`OrbitOptions`](ue_ue.OrbitOptions.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7043)
 
 ___
 
@@ -201,10 +157,6 @@ ___
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[__tid_Object__](ue_ue.ParticleModuleOrbitBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ParticleModuleOrbitBase\_\_
@@ -215,19 +167,11 @@ ___
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[__tid_ParticleModuleOrbitBase__](ue_ue.ParticleModuleOrbitBase.md#__tid_particlemoduleorbitbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:6989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6989)
-
 ___
 
 ### \_\_tid\_ParticleModuleOrbit\_\_
 
 • **\_\_tid\_ParticleModuleOrbit\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7048](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7048)
 
 ___
 
@@ -239,10 +183,6 @@ ___
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[__tid_ParticleModule__](ue_ue.ParticleModuleOrbitBase.md#__tid_particlemodule__)
 
-#### Defined in
-
-[ue/ue.d.ts:6754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6754)
-
 ___
 
 ### b3DDrawMode
@@ -252,10 +192,6 @@ ___
 #### Inherited from
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[b3DDrawMode](ue_ue.ParticleModuleOrbitBase.md#b3ddrawmode)
-
-#### Defined in
-
-[ue/ue.d.ts:6741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6741)
 
 ___
 
@@ -267,10 +203,6 @@ ___
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[bCurvesAsColor](ue_ue.ParticleModuleOrbitBase.md#bcurvesascolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6740)
-
 ___
 
 ### bEditable
@@ -280,10 +212,6 @@ ___
 #### Inherited from
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[bEditable](ue_ue.ParticleModuleOrbitBase.md#beditable)
-
-#### Defined in
-
-[ue/ue.d.ts:6744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6744)
 
 ___
 
@@ -295,10 +223,6 @@ ___
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[bEnabled](ue_ue.ParticleModuleOrbitBase.md#benabled)
 
-#### Defined in
-
-[ue/ue.d.ts:6743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6743)
-
 ___
 
 ### bFinalUpdateModule
@@ -308,10 +232,6 @@ ___
 #### Inherited from
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[bFinalUpdateModule](ue_ue.ParticleModuleOrbitBase.md#bfinalupdatemodule)
-
-#### Defined in
-
-[ue/ue.d.ts:6738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6738)
 
 ___
 
@@ -323,10 +243,6 @@ ___
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[bRequiresLoopingNotification](ue_ue.ParticleModuleOrbitBase.md#brequiresloopingnotification)
 
-#### Defined in
-
-[ue/ue.d.ts:6747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6747)
-
 ___
 
 ### bSpawnModule
@@ -336,10 +252,6 @@ ___
 #### Inherited from
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[bSpawnModule](ue_ue.ParticleModuleOrbitBase.md#bspawnmodule)
-
-#### Defined in
-
-[ue/ue.d.ts:6736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6736)
 
 ___
 
@@ -351,10 +263,6 @@ ___
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[bSupported3DDrawMode](ue_ue.ParticleModuleOrbitBase.md#bsupported3ddrawmode)
 
-#### Defined in
-
-[ue/ue.d.ts:6742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6742)
-
 ___
 
 ### bSupportsRandomSeed
@@ -364,10 +272,6 @@ ___
 #### Inherited from
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[bSupportsRandomSeed](ue_ue.ParticleModuleOrbitBase.md#bsupportsrandomseed)
-
-#### Defined in
-
-[ue/ue.d.ts:6746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6746)
 
 ___
 
@@ -379,10 +283,6 @@ ___
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[bUpdateForGPUEmitter](ue_ue.ParticleModuleOrbitBase.md#bupdateforgpuemitter)
 
-#### Defined in
-
-[ue/ue.d.ts:6739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6739)
-
 ___
 
 ### bUpdateModule
@@ -393,10 +293,6 @@ ___
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[bUpdateModule](ue_ue.ParticleModuleOrbitBase.md#bupdatemodule)
 
-#### Defined in
-
-[ue/ue.d.ts:6737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6737)
-
 ___
 
 ### bUseEmitterTime
@@ -406,10 +302,6 @@ ___
 #### Inherited from
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[bUseEmitterTime](ue_ue.ParticleModuleOrbitBase.md#buseemittertime)
-
-#### Defined in
-
-[ue/ue.d.ts:6984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6984)
 
 ## Methods
 
@@ -435,10 +327,6 @@ ___
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[CreateDefaultSubobject](ue_ue.ParticleModuleOrbitBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -459,10 +347,6 @@ ___
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[ExecuteUbergraph](ue_ue.ParticleModuleOrbitBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -476,10 +360,6 @@ ___
 #### Inherited from
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[GetClass](ue_ue.ParticleModuleOrbitBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -495,10 +375,6 @@ ___
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[GetName](ue_ue.ParticleModuleOrbitBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -513,10 +389,6 @@ ___
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[GetOuter](ue_ue.ParticleModuleOrbitBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -530,10 +402,6 @@ ___
 #### Inherited from
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[GetWorld](ue_ue.ParticleModuleOrbitBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -556,10 +424,6 @@ ___
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[Find](ue_ue.ParticleModuleOrbitBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:7045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7045)
-
 ___
 
 ### Load
@@ -580,10 +444,6 @@ ___
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[Load](ue_ue.ParticleModuleOrbitBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:7046](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7046)
-
 ___
 
 ### StaticClass
@@ -597,7 +457,3 @@ ___
 #### Overrides
 
 [ParticleModuleOrbitBase](ue_ue.ParticleModuleOrbitBase.md).[StaticClass](ue_ue.ParticleModuleOrbitBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:7044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7044)

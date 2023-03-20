@@ -34,10 +34,6 @@
 
 • **new InteriorSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:8805](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8805)
-
 • **new InteriorSettings**(`bIsWorldSettings`, `ExteriorVolume`, `ExteriorTime`, `ExteriorLPF`, `ExteriorLPFTime`, `InteriorVolume`, `InteriorTime`, `InteriorLPF`, `InteriorLPFTime`)
 
 #### Parameters
@@ -54,19 +50,11 @@
 | `InteriorLPF` | `number` |
 | `InteriorLPFTime` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:8806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8806)
-
 ## Properties
 
 ### ExteriorLPF
 
 • **ExteriorLPF**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8810)
 
 ___
 
@@ -74,19 +62,11 @@ ___
 
 • **ExteriorLPFTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8811)
-
 ___
 
 ### ExteriorTime
 
 • **ExteriorTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8809)
 
 ___
 
@@ -94,19 +74,11 @@ ___
 
 • **ExteriorVolume**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8808](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8808)
-
 ___
 
 ### InteriorLPF
 
 • **InteriorLPF**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8814](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8814)
 
 ___
 
@@ -114,19 +86,11 @@ ___
 
 • **InteriorLPFTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8815)
-
 ___
 
 ### InteriorTime
 
 • **InteriorTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8813](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8813)
 
 ___
 
@@ -134,29 +98,17 @@ ___
 
 • **InteriorVolume**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8812](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8812)
-
 ___
 
 ### \_\_tid\_InteriorSettings\_\_
 
 • `Private` **\_\_tid\_InteriorSettings\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8821)
-
 ___
 
 ### bIsWorldSettings
 
 • **bIsWorldSettings**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8807)
 
 ## Methods
 
@@ -172,10 +124,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8819)
-
 ___
 
 ### StaticStruct
@@ -185,7 +133,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8820)

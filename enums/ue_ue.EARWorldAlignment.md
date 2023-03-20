@@ -20,19 +20,11 @@
 
 • **Camera** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20708)
-
 ___
 
 ### EARWorldAlignment\_MAX
 
 • **EARWorldAlignment\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20708)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Gravity** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20708)
-
 ___
 
 ### GravityAndHeading
 
 • **GravityAndHeading** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20708)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20708)

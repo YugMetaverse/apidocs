@@ -32,10 +32,6 @@
 
 • **new MediaPlayerRecordingSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:50323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50323)
-
 • **new MediaPlayerRecordingSettings**(`bActive`, `bRecordMediaFrame`, `BaseFilename`, `NumerationStyle`, `ImageFormat`, `CompressionQuality`, `bResetAlpha`)
 
 #### Parameters
@@ -50,19 +46,11 @@
 | `CompressionQuality` | `number` |
 | `bResetAlpha` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:50324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50324)
-
 ## Properties
 
 ### BaseFilename
 
 • **BaseFilename**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:50327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50327)
 
 ___
 
@@ -70,19 +58,11 @@ ___
 
 • **CompressionQuality**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:50330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50330)
-
 ___
 
 ### ImageFormat
 
 • **ImageFormat**: [`EMediaPlayerRecordingImageFormat`](../enums/ue_ue.EMediaPlayerRecordingImageFormat.md)
-
-#### Defined in
-
-[ue/ue.d.ts:50329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50329)
 
 ___
 
@@ -90,19 +70,11 @@ ___
 
 • **NumerationStyle**: [`EMediaPlayerRecordingNumerationStyle`](../enums/ue_ue.EMediaPlayerRecordingNumerationStyle.md)
 
-#### Defined in
-
-[ue/ue.d.ts:50328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50328)
-
 ___
 
 ### \_\_tid\_MediaPlayerRecordingSettings\_\_
 
 • `Private` **\_\_tid\_MediaPlayerRecordingSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50337)
 
 ___
 
@@ -110,29 +82,17 @@ ___
 
 • **bActive**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:50325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50325)
-
 ___
 
 ### bRecordMediaFrame
 
 • **bRecordMediaFrame**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:50326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50326)
-
 ___
 
 ### bResetAlpha
 
 • **bResetAlpha**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50331)
 
 ## Methods
 
@@ -148,10 +108,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:50335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50335)
-
 ___
 
 ### StaticStruct
@@ -161,7 +117,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:50336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50336)

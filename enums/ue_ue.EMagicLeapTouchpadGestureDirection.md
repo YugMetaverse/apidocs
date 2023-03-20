@@ -26,19 +26,11 @@
 
 • **Clockwise** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34016)
-
 ___
 
 ### CounterClockwise
 
 • **CounterClockwise** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34016)
 
 ___
 
@@ -46,19 +38,11 @@ ___
 
 • **Down** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34016)
-
 ___
 
 ### EMagicLeapTouchpadGestureDirection\_MAX
 
 • **EMagicLeapTouchpadGestureDirection\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34016)
 
 ___
 
@@ -66,19 +50,11 @@ ___
 
 • **In** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34016)
-
 ___
 
 ### Left
 
 • **Left** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34016)
 
 ___
 
@@ -86,19 +62,11 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34016)
-
 ___
 
 ### Out
 
 • **Out** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34016)
 
 ___
 
@@ -106,26 +74,14 @@ ___
 
 • **Right** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34016)
-
 ___
 
 ### Up
 
 • **Up** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34016)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34016)

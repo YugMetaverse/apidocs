@@ -22,19 +22,11 @@
 
 • **Custom** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34858)
-
 ___
 
 ### EUIScalingRule\_MAX
 
 • **EUIScalingRule\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34858)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **Horizontal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34858)
-
 ___
 
 ### LongestSide
 
 • **LongestSide** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34858)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **ShortestSide** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34858)
-
 ___
 
 ### Vertical
 
 • **Vertical** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34858)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34858)

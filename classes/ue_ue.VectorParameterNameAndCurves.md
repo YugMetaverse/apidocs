@@ -29,10 +29,6 @@
 
 • **new VectorParameterNameAndCurves**()
 
-#### Defined in
-
-[ue/ue.d.ts:52124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52124)
-
 • **new VectorParameterNameAndCurves**(`ParameterName`, `XCurve`, `YCurve`, `ZCurve`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `YCurve` | [`MovieSceneFloatChannel`](ue_ue.MovieSceneFloatChannel.md) |
 | `ZCurve` | [`MovieSceneFloatChannel`](ue_ue.MovieSceneFloatChannel.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:52125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52125)
-
 ## Properties
 
 ### ParameterName
 
 • **ParameterName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:52126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52126)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **XCurve**: [`MovieSceneFloatChannel`](ue_ue.MovieSceneFloatChannel.md)
 
-#### Defined in
-
-[ue/ue.d.ts:52127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52127)
-
 ___
 
 ### YCurve
 
 • **YCurve**: [`MovieSceneFloatChannel`](ue_ue.MovieSceneFloatChannel.md)
-
-#### Defined in
-
-[ue/ue.d.ts:52128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52128)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **ZCurve**: [`MovieSceneFloatChannel`](ue_ue.MovieSceneFloatChannel.md)
 
-#### Defined in
-
-[ue/ue.d.ts:52129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52129)
-
 ___
 
 ### \_\_tid\_VectorParameterNameAndCurves\_\_
 
 • `Private` **\_\_tid\_VectorParameterNameAndCurves\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52135)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:52133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52133)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:52134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52134)

@@ -29,10 +29,6 @@
 
 • **new EditorPropertyPathSegment**()
 
-#### Defined in
-
-[ue/ue.d.ts:33587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33587)
-
 • **new EditorPropertyPathSegment**(`Struct`, `MemberName`, `MemberGuid`, `IsProperty`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `MemberGuid` | [`Guid`](ue_ue_s.Guid.md) |
 | `IsProperty` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:33588](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33588)
-
 ## Properties
 
 ### IsProperty
 
 • **IsProperty**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33592)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **MemberGuid**: [`Guid`](ue_ue_s.Guid.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33591)
-
 ___
 
 ### MemberName
 
 • **MemberName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:33590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33590)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **Struct**: [`Struct`](ue_ue.Struct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33589)
-
 ___
 
 ### \_\_tid\_EditorPropertyPathSegment\_\_
 
 • `Private` **\_\_tid\_EditorPropertyPathSegment\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33598)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33596)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33597)

@@ -26,10 +26,6 @@
 
 • **new TransformBaseConstraint**()
 
-#### Defined in
-
-[ue/ue.d.ts:2433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2433)
-
 • **new TransformBaseConstraint**(`TransformConstraints`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `TransformConstraints` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`RigTransformConstraint`](ue_ue.RigTransformConstraint.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:2434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2434)
-
 ## Properties
 
 ### TransformConstraints
 
 • **TransformConstraints**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`RigTransformConstraint`](ue_ue.RigTransformConstraint.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:2435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2435)
-
 ___
 
 ### \_\_tid\_TransformBaseConstraint\_\_
 
 • `Private` **\_\_tid\_TransformBaseConstraint\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2441](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2441)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2439)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2440)

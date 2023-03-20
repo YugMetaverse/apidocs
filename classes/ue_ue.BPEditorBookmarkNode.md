@@ -28,10 +28,6 @@
 
 • **new BPEditorBookmarkNode**()
 
-#### Defined in
-
-[ue/ue.d.ts:4409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4409)
-
 • **new BPEditorBookmarkNode**(`NodeGuid`, `ParentGuid`, `DisplayName`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `ParentGuid` | [`Guid`](ue_ue_s.Guid.md) |
 | `DisplayName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:4410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4410)
-
 ## Properties
 
 ### DisplayName
 
 • **DisplayName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:4413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4413)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **NodeGuid**: [`Guid`](ue_ue_s.Guid.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4411)
-
 ___
 
 ### ParentGuid
 
 • **ParentGuid**: [`Guid`](ue_ue_s.Guid.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4412)
-
 ___
 
 ### \_\_tid\_BPEditorBookmarkNode\_\_
 
 • `Private` **\_\_tid\_BPEditorBookmarkNode\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4419)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4417)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4418)

@@ -81,19 +81,11 @@
 
 • **EPhysicalSurface\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType1
 
 • **SurfaceType1** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -101,19 +93,11 @@ ___
 
 • **SurfaceType10** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType11
 
 • **SurfaceType11** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -121,19 +105,11 @@ ___
 
 • **SurfaceType12** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType13
 
 • **SurfaceType13** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -141,19 +117,11 @@ ___
 
 • **SurfaceType14** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType15
 
 • **SurfaceType15** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -161,19 +129,11 @@ ___
 
 • **SurfaceType16** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType17
 
 • **SurfaceType17** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -181,19 +141,11 @@ ___
 
 • **SurfaceType18** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType19
 
 • **SurfaceType19** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -201,19 +153,11 @@ ___
 
 • **SurfaceType2** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType20
 
 • **SurfaceType20** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -221,19 +165,11 @@ ___
 
 • **SurfaceType21** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType22
 
 • **SurfaceType22** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -241,19 +177,11 @@ ___
 
 • **SurfaceType23** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType24
 
 • **SurfaceType24** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -261,19 +189,11 @@ ___
 
 • **SurfaceType25** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType26
 
 • **SurfaceType26** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -281,19 +201,11 @@ ___
 
 • **SurfaceType27** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType28
 
 • **SurfaceType28** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -301,19 +213,11 @@ ___
 
 • **SurfaceType29** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType3
 
 • **SurfaceType3** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -321,19 +225,11 @@ ___
 
 • **SurfaceType30** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType31
 
 • **SurfaceType31** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -341,19 +237,11 @@ ___
 
 • **SurfaceType32** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType33
 
 • **SurfaceType33** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -361,19 +249,11 @@ ___
 
 • **SurfaceType34** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType35
 
 • **SurfaceType35** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -381,19 +261,11 @@ ___
 
 • **SurfaceType36** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType37
 
 • **SurfaceType37** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -401,19 +273,11 @@ ___
 
 • **SurfaceType38** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType39
 
 • **SurfaceType39** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -421,19 +285,11 @@ ___
 
 • **SurfaceType4** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType40
 
 • **SurfaceType40** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -441,19 +297,11 @@ ___
 
 • **SurfaceType41** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType42
 
 • **SurfaceType42** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -461,19 +309,11 @@ ___
 
 • **SurfaceType43** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType44
 
 • **SurfaceType44** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -481,19 +321,11 @@ ___
 
 • **SurfaceType45** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType46
 
 • **SurfaceType46** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -501,19 +333,11 @@ ___
 
 • **SurfaceType47** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType48
 
 • **SurfaceType48** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -521,19 +345,11 @@ ___
 
 • **SurfaceType49** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType5
 
 • **SurfaceType5** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -541,19 +357,11 @@ ___
 
 • **SurfaceType50** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType51
 
 • **SurfaceType51** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -561,19 +369,11 @@ ___
 
 • **SurfaceType52** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType53
 
 • **SurfaceType53** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -581,19 +381,11 @@ ___
 
 • **SurfaceType54** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType55
 
 • **SurfaceType55** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -601,19 +393,11 @@ ___
 
 • **SurfaceType56** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType57
 
 • **SurfaceType57** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -621,19 +405,11 @@ ___
 
 • **SurfaceType58** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType59
 
 • **SurfaceType59** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -641,19 +417,11 @@ ___
 
 • **SurfaceType6** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType60
 
 • **SurfaceType60** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -661,19 +429,11 @@ ___
 
 • **SurfaceType61** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType62
 
 • **SurfaceType62** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -681,19 +441,11 @@ ___
 
 • **SurfaceType7** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType8
 
 • **SurfaceType8** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -701,19 +453,11 @@ ___
 
 • **SurfaceType9** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### SurfaceType\_Default
 
 • **SurfaceType\_Default** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
 
 ___
 
@@ -721,16 +465,8 @@ ___
 
 • **SurfaceType\_Max** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L693)

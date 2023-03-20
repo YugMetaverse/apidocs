@@ -24,19 +24,11 @@
 
 • **CenterAligned** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33949)
-
 ___
 
 ### EListItemAlignment\_MAX
 
 • **EListItemAlignment\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33949)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **EvenlyDistributed** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33949)
-
 ___
 
 ### EvenlySize
 
 • **EvenlySize** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33949)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **EvenlyWide** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33949)
-
 ___
 
 ### Fill
 
 • **Fill** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33949)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **LeftAligned** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33949)
-
 ___
 
 ### RightAligned
 
 • **RightAligned** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33949)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33949)

@@ -28,10 +28,6 @@
 
 • **new NavCollisionCylinder**()
 
-#### Defined in
-
-[ue/ue.d.ts:52860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52860)
-
 • **new NavCollisionCylinder**(`Offset`, `Radius`, `Height`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Radius` | `number` |
 | `Height` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:52861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52861)
-
 ## Properties
 
 ### Height
 
 • **Height**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:52864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52864)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Offset**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:52862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52862)
-
 ___
 
 ### Radius
 
 • **Radius**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:52863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52863)
-
 ___
 
 ### \_\_tid\_NavCollisionCylinder\_\_
 
 • `Private` **\_\_tid\_NavCollisionCylinder\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52870)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:52868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52868)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:52869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52869)

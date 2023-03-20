@@ -29,10 +29,6 @@
 
 • **new OverlayItem**()
 
-#### Defined in
-
-[ue/ue.d.ts:23546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23546)
-
 • **new OverlayItem**(`StartTime`, `EndTime`, `Text`, `Position`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `Text` | `string` |
 | `Position` | [`Vector2D`](ue_ue_s.Vector2D.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:23547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23547)
-
 ## Properties
 
 ### EndTime
 
 • **EndTime**: [`Timespan`](ue_ue.Timespan.md)
-
-#### Defined in
-
-[ue/ue.d.ts:23549](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23549)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **Position**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23551](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23551)
-
 ___
 
 ### StartTime
 
 • **StartTime**: [`Timespan`](ue_ue.Timespan.md)
-
-#### Defined in
-
-[ue/ue.d.ts:23548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23548)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **Text**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:23550](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23550)
-
 ___
 
 ### \_\_tid\_OverlayItem\_\_
 
 • `Private` **\_\_tid\_OverlayItem\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:23557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23557)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23555)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:23556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23556)

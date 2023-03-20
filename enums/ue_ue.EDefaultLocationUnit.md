@@ -27,19 +27,11 @@
 
 • **Centimeters** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31434)
-
 ___
 
 ### EDefaultLocationUnit\_MAX
 
 • **EDefaultLocationUnit\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31434)
 
 ___
 
@@ -47,19 +39,11 @@ ___
 
 • **Feet** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31434)
-
 ___
 
 ### Inches
 
 • **Inches** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31434)
 
 ___
 
@@ -67,19 +51,11 @@ ___
 
 • **Invalid** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31434)
-
 ___
 
 ### Kilometers
 
 • **Kilometers** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31434)
 
 ___
 
@@ -87,19 +63,11 @@ ___
 
 • **Meters** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31434)
-
 ___
 
 ### Micrometers
 
 • **Micrometers** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31434)
 
 ___
 
@@ -107,19 +75,11 @@ ___
 
 • **Miles** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31434)
-
 ___
 
 ### Millimeters
 
 • **Millimeters** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31434)
 
 ___
 
@@ -127,16 +87,8 @@ ___
 
 • **Yards** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31434)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31434)

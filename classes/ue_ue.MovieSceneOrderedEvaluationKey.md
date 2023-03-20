@@ -28,10 +28,6 @@
 
 • **new MovieSceneOrderedEvaluationKey**()
 
-#### Defined in
-
-[ue/ue.d.ts:11275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11275)
-
 • **new MovieSceneOrderedEvaluationKey**(`Key`, `SetupIndex`, `TearDownIndex`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `SetupIndex` | `number` |
 | `TearDownIndex` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:11276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11276)
-
 ## Properties
 
 ### Key
 
 • **Key**: [`MovieSceneEvaluationKey`](ue_ue.MovieSceneEvaluationKey.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11277)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **SetupIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11278)
-
 ___
 
 ### TearDownIndex
 
 • **TearDownIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11279)
-
 ___
 
 ### \_\_tid\_MovieSceneOrderedEvaluationKey\_\_
 
 • `Private` **\_\_tid\_MovieSceneOrderedEvaluationKey\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11285)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11283)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11284)

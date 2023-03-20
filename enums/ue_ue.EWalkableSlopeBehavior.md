@@ -22,19 +22,11 @@
 
 • **WalkableSlope\_Decrease** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L669)
-
 ___
 
 ### WalkableSlope\_Default
 
 • **WalkableSlope\_Default** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L669)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **WalkableSlope\_Increase** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L669)
-
 ___
 
 ### WalkableSlope\_MAX
 
 • **WalkableSlope\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L669)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **WalkableSlope\_Max** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L669)
-
 ___
 
 ### WalkableSlope\_Unwalkable
 
 • **WalkableSlope\_Unwalkable** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L669)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L669)

@@ -20,19 +20,11 @@
 
 • **Always** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L594)
-
 ___
 
 ### ERuntimeVirtualTextureMainPassType\_MAX
 
 • **ERuntimeVirtualTextureMainPassType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L594)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Exclusive** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L594)
-
 ___
 
 ### Never
 
 • **Never** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L594)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L594)

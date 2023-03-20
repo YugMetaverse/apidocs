@@ -33,10 +33,6 @@
 
 • **new CachedPropertyPath**()
 
-#### Defined in
-
-[ue/ue.d.ts:10791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10791)
-
 • **new CachedPropertyPath**(`Segments`, `CachedFunction`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `Segments` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PropertyPathSegment`](ue_ue.PropertyPathSegment.md)\> |
 | `CachedFunction` | [`Function`](ue_ue.Function.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:10792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10792)
-
 ## Properties
 
 ### CachedFunction
 
 • **CachedFunction**: [`Function`](ue_ue.Function.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10794)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **Segments**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PropertyPathSegment`](ue_ue.PropertyPathSegment.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:10793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10793)
-
 ___
 
 ### \_\_tid\_CachedPropertyPath\_\_
 
 • `Private` **\_\_tid\_CachedPropertyPath\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10800)
 
 ## Methods
 
@@ -94,10 +74,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10798)
-
 ___
 
 ### StaticStruct
@@ -107,7 +83,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10799)

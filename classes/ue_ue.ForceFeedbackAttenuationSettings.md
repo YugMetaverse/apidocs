@@ -42,10 +42,6 @@
 
 [BaseAttenuationSettings](ue_ue.BaseAttenuationSettings.md).[constructor](ue_ue.BaseAttenuationSettings.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:36159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36159)
-
 ## Properties
 
 ### AttenuationShape
@@ -55,10 +51,6 @@
 #### Inherited from
 
 [BaseAttenuationSettings](ue_ue.BaseAttenuationSettings.md).[AttenuationShape](ue_ue.BaseAttenuationSettings.md#attenuationshape)
-
-#### Defined in
-
-[ue/ue.d.ts:9344](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9344)
 
 ___
 
@@ -70,10 +62,6 @@ ___
 
 [BaseAttenuationSettings](ue_ue.BaseAttenuationSettings.md).[AttenuationShapeExtents](ue_ue.BaseAttenuationSettings.md#attenuationshapeextents)
 
-#### Defined in
-
-[ue/ue.d.ts:9346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9346)
-
 ___
 
 ### ConeOffset
@@ -83,10 +71,6 @@ ___
 #### Inherited from
 
 [BaseAttenuationSettings](ue_ue.BaseAttenuationSettings.md).[ConeOffset](ue_ue.BaseAttenuationSettings.md#coneoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:9347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9347)
 
 ___
 
@@ -98,10 +82,6 @@ ___
 
 [BaseAttenuationSettings](ue_ue.BaseAttenuationSettings.md).[CustomAttenuationCurve](ue_ue.BaseAttenuationSettings.md#customattenuationcurve)
 
-#### Defined in
-
-[ue/ue.d.ts:9349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9349)
-
 ___
 
 ### DistanceAlgorithm
@@ -111,10 +91,6 @@ ___
 #### Inherited from
 
 [BaseAttenuationSettings](ue_ue.BaseAttenuationSettings.md).[DistanceAlgorithm](ue_ue.BaseAttenuationSettings.md#distancealgorithm)
-
-#### Defined in
-
-[ue/ue.d.ts:9343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9343)
 
 ___
 
@@ -126,19 +102,11 @@ ___
 
 [BaseAttenuationSettings](ue_ue.BaseAttenuationSettings.md).[FalloffDistance](ue_ue.BaseAttenuationSettings.md#falloffdistance)
 
-#### Defined in
-
-[ue/ue.d.ts:9348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9348)
-
 ___
 
 ### \_\_tid\_ForceFeedbackAttenuationSettings\_\_
 
 • `Private` **\_\_tid\_ForceFeedbackAttenuationSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36165)
 
 ___
 
@@ -149,10 +117,6 @@ ___
 #### Inherited from
 
 [BaseAttenuationSettings](ue_ue.BaseAttenuationSettings.md).[dBAttenuationAtMax](ue_ue.BaseAttenuationSettings.md#dbattenuationatmax)
-
-#### Defined in
-
-[ue/ue.d.ts:9345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9345)
 
 ## Methods
 
@@ -172,10 +136,6 @@ use StaticStruct instead.
 
 [BaseAttenuationSettings](ue_ue.BaseAttenuationSettings.md).[StaticClass](ue_ue.BaseAttenuationSettings.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:36163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36163)
-
 ___
 
 ### StaticStruct
@@ -189,7 +149,3 @@ ___
 #### Overrides
 
 [BaseAttenuationSettings](ue_ue.BaseAttenuationSettings.md).[StaticStruct](ue_ue.BaseAttenuationSettings.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:36164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36164)

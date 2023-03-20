@@ -32,10 +32,6 @@
 
 • **new RandomPlayerSequenceEntry**()
 
-#### Defined in
-
-[ue/ue.d.ts:19269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19269)
-
 • **new RandomPlayerSequenceEntry**(`Sequence`, `ChanceToPlay`, `MinLoopCount`, `MaxLoopCount`, `MinPlayRate`, `MaxPlayRate`, `BlendIn`)
 
 #### Parameters
@@ -50,19 +46,11 @@
 | `MaxPlayRate` | `number` |
 | `BlendIn` | [`AlphaBlend`](ue_ue.AlphaBlend.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:19270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19270)
-
 ## Properties
 
 ### BlendIn
 
 • **BlendIn**: [`AlphaBlend`](ue_ue.AlphaBlend.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19277)
 
 ___
 
@@ -70,19 +58,11 @@ ___
 
 • **ChanceToPlay**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19272)
-
 ___
 
 ### MaxLoopCount
 
 • **MaxLoopCount**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19274)
 
 ___
 
@@ -90,19 +70,11 @@ ___
 
 • **MaxPlayRate**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19276)
-
 ___
 
 ### MinLoopCount
 
 • **MinLoopCount**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19273)
 
 ___
 
@@ -110,29 +82,17 @@ ___
 
 • **MinPlayRate**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19275)
-
 ___
 
 ### Sequence
 
 • **Sequence**: [`AnimSequence`](ue_ue.AnimSequence.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19271)
-
 ___
 
 ### \_\_tid\_RandomPlayerSequenceEntry\_\_
 
 • `Private` **\_\_tid\_RandomPlayerSequenceEntry\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:19283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19283)
 
 ## Methods
 
@@ -148,10 +108,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19281)
-
 ___
 
 ### StaticStruct
@@ -161,7 +117,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19282)

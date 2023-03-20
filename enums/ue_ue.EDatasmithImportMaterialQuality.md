@@ -20,19 +20,11 @@
 
 • **EDatasmithImportMaterialQuality\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29715)
-
 ___
 
 ### UseNoFresnelCurves
 
 • **UseNoFresnelCurves** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29715)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **UseRealFresnelCurves** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29715)
-
 ___
 
 ### UseSimplifierFresnelCurves
 
 • **UseSimplifierFresnelCurves** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29715)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29715)

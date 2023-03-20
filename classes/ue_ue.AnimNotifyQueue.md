@@ -27,10 +27,6 @@
 
 • **new AnimNotifyQueue**()
 
-#### Defined in
-
-[ue/ue.d.ts:5044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5044)
-
 • **new AnimNotifyQueue**(`AnimNotifies`, `UnfilteredMontageAnimNotifies`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `AnimNotifies` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AnimNotifyEventReference`](ue_ue.AnimNotifyEventReference.md)\> |
 | `UnfilteredMontageAnimNotifies` | [`TMap`](../interfaces/ue_puerts.TMap.md)<`string`, [`AnimNotifyArray`](ue_ue.AnimNotifyArray.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:5045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5045)
-
 ## Properties
 
 ### AnimNotifies
 
 • **AnimNotifies**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AnimNotifyEventReference`](ue_ue.AnimNotifyEventReference.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:5046](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5046)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **UnfilteredMontageAnimNotifies**: [`TMap`](../interfaces/ue_puerts.TMap.md)<`string`, [`AnimNotifyArray`](ue_ue.AnimNotifyArray.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:5047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5047)
-
 ___
 
 ### \_\_tid\_AnimNotifyQueue\_\_
 
 • `Private` **\_\_tid\_AnimNotifyQueue\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5053)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5051](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5051)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5052)

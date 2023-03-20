@@ -20,19 +20,11 @@
 
 • **AtlasMaterial** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34020)
-
 ___
 
 ### BinnedMaterial
 
 • **BinnedMaterial** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34020)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **EMaterialBakeMethod\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34020)
-
 ___
 
 ### IndividualMaterial
 
 • **IndividualMaterial** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34020)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34020)

@@ -27,10 +27,6 @@
 
 • **new PurchaseConfirmation**()
 
-#### Defined in
-
-[ue/ue.d.ts:39003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39003)
-
 • **new PurchaseConfirmation**(`PackageName`, `Type`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `PackageName` | `string` |
 | `Type` | [`PurchaseType`](../enums/ue_ue.PurchaseType.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:39004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39004)
-
 ## Properties
 
 ### PackageName
 
 • **PackageName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:39005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39005)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Type**: [`PurchaseType`](../enums/ue_ue.PurchaseType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39006)
-
 ___
 
 ### \_\_tid\_PurchaseConfirmation\_\_
 
 • `Private` **\_\_tid\_PurchaseConfirmation\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39012)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39010)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:39011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39011)

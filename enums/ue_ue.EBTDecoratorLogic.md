@@ -22,19 +22,11 @@
 
 • **And** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14622)
-
 ___
 
 ### EBTDecoratorLogic\_MAX
 
 • **EBTDecoratorLogic\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14622)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **Invalid** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14622)
-
 ___
 
 ### Not
 
 • **Not** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14622)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **Or** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14622)
-
 ___
 
 ### Test
 
 • **Test** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14622)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14622)

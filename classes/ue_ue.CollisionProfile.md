@@ -57,19 +57,11 @@
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[constructor](ue_ue.DeveloperSettings.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:28174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28174)
-
 ## Properties
 
 ### CollisionChannelRedirects
 
 • **CollisionChannelRedirects**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Redirector`](ue_ue.Redirector.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:28179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28179)
 
 ___
 
@@ -77,19 +69,11 @@ ___
 
 • **DefaultChannelResponses**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`CustomChannelSetup`](ue_ue.CustomChannelSetup.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:28176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28176)
-
 ___
 
 ### EditProfiles
 
 • **EditProfiles**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`CustomProfile`](ue_ue.CustomProfile.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:28177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28177)
 
 ___
 
@@ -97,29 +81,17 @@ ___
 
 • **ProfileRedirects**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Redirector`](ue_ue.Redirector.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:28178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28178)
-
 ___
 
 ### Profiles
 
 • **Profiles**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`CollisionResponseTemplate`](ue_ue.CollisionResponseTemplate.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:28175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28175)
-
 ___
 
 ### \_\_tid\_CollisionProfile\_\_
 
 • **\_\_tid\_CollisionProfile\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:28184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28184)
 
 ___
 
@@ -131,10 +103,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[__tid_DeveloperSettings__](ue_ue.DeveloperSettings.md#__tid_developersettings__)
 
-#### Defined in
-
-[ue/ue.d.ts:16950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16950)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -144,10 +112,6 @@ ___
 #### Inherited from
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[__tid_Object__](ue_ue.DeveloperSettings.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -173,10 +137,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[CreateDefaultSubobject](ue_ue.DeveloperSettings.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -197,10 +157,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[ExecuteUbergraph](ue_ue.DeveloperSettings.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -214,10 +170,6 @@ ___
 #### Inherited from
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetClass](ue_ue.DeveloperSettings.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -233,10 +185,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetName](ue_ue.DeveloperSettings.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -251,10 +199,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetOuter](ue_ue.DeveloperSettings.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -268,10 +212,6 @@ ___
 #### Inherited from
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetWorld](ue_ue.DeveloperSettings.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -294,10 +234,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[Find](ue_ue.DeveloperSettings.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:28181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28181)
-
 ___
 
 ### Load
@@ -318,10 +254,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[Load](ue_ue.DeveloperSettings.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:28182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28182)
-
 ___
 
 ### StaticClass
@@ -335,7 +267,3 @@ ___
 #### Overrides
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[StaticClass](ue_ue.DeveloperSettings.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:28180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28180)

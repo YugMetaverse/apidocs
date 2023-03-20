@@ -19,19 +19,11 @@
 
 • **ESnapshotSourceMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19243)
-
 ___
 
 ### NamedSnapshot
 
 • **NamedSnapshot** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19243)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **SnapshotPin** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19243)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19243)

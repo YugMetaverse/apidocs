@@ -30,10 +30,6 @@
 
 • **new ColorParameterNameAndCurves**()
 
-#### Defined in
-
-[ue/ue.d.ts:52139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52139)
-
 • **new ColorParameterNameAndCurves**(`ParameterName`, `RedCurve`, `GreenCurve`, `BlueCurve`, `AlphaCurve`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `BlueCurve` | [`MovieSceneFloatChannel`](ue_ue.MovieSceneFloatChannel.md) |
 | `AlphaCurve` | [`MovieSceneFloatChannel`](ue_ue.MovieSceneFloatChannel.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:52140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52140)
-
 ## Properties
 
 ### AlphaCurve
 
 • **AlphaCurve**: [`MovieSceneFloatChannel`](ue_ue.MovieSceneFloatChannel.md)
-
-#### Defined in
-
-[ue/ue.d.ts:52145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52145)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **BlueCurve**: [`MovieSceneFloatChannel`](ue_ue.MovieSceneFloatChannel.md)
 
-#### Defined in
-
-[ue/ue.d.ts:52144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52144)
-
 ___
 
 ### GreenCurve
 
 • **GreenCurve**: [`MovieSceneFloatChannel`](ue_ue.MovieSceneFloatChannel.md)
-
-#### Defined in
-
-[ue/ue.d.ts:52143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52143)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **ParameterName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:52141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52141)
-
 ___
 
 ### RedCurve
 
 • **RedCurve**: [`MovieSceneFloatChannel`](ue_ue.MovieSceneFloatChannel.md)
 
-#### Defined in
-
-[ue/ue.d.ts:52142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52142)
-
 ___
 
 ### \_\_tid\_ColorParameterNameAndCurves\_\_
 
 • `Private` **\_\_tid\_ColorParameterNameAndCurves\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52151)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:52149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52149)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:52150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52150)

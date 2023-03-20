@@ -30,10 +30,6 @@
 
 • **new MovieSceneTrackEvalOptions**()
 
-#### Defined in
-
-[ue/ue.d.ts:11079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11079)
-
 • **new MovieSceneTrackEvalOptions**(`bCanEvaluateNearestSection`, `bEvalNearestSection`, `bEvaluateInPreroll`, `bEvaluateInPostroll`, `bEvaluateNearestSection`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `bEvaluateInPostroll` | `boolean` |
 | `bEvaluateNearestSection` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:11080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11080)
-
 ## Properties
 
 ### \_\_tid\_MovieSceneTrackEvalOptions\_\_
 
 • `Private` **\_\_tid\_MovieSceneTrackEvalOptions\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11091)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **bCanEvaluateNearestSection**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:11081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11081)
-
 ___
 
 ### bEvalNearestSection
 
 • **bEvalNearestSection**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11082](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11082)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **bEvaluateInPostroll**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:11084](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11084)
-
 ___
 
 ### bEvaluateInPreroll
 
 • **bEvaluateInPreroll**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:11083](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11083)
-
 ___
 
 ### bEvaluateNearestSection
 
 • **bEvaluateNearestSection**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11085)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11089](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11089)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11090)

@@ -21,19 +21,11 @@
 
 • **ERootMotionMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5008)
-
 ___
 
 ### IgnoreRootMotion
 
 • **IgnoreRootMotion** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5008)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **NoRootMotionExtraction** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5008)
-
 ___
 
 ### RootMotionFromEverything
 
 • **RootMotionFromEverything** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5008)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **RootMotionFromMontagesOnly** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5008)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5008)

@@ -35,10 +35,6 @@
 
 `T`
 
-#### Defined in
-
-[ue/puerts.d.ts:31](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L31)
-
 ___
 
 ### GetRef
@@ -55,10 +51,6 @@ ___
 
 `T`
 
-#### Defined in
-
-[ue/puerts.d.ts:32](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L32)
-
 ___
 
 ### Num
@@ -68,10 +60,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/puerts.d.ts:30](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L30)
 
 ___
 
@@ -89,7 +77,3 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/puerts.d.ts:33](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L33)

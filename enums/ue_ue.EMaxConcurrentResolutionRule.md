@@ -24,19 +24,11 @@
 
 • **EMaxConcurrentResolutionRule\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9308)
-
 ___
 
 ### PreventNew
 
 • **PreventNew** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9308)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **StopFarthestThenOldest** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9308)
-
 ___
 
 ### StopFarthestThenPreventNew
 
 • **StopFarthestThenPreventNew** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9308)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **StopLowestPriority** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9308)
-
 ___
 
 ### StopLowestPriorityThenPreventNew
 
 • **StopLowestPriorityThenPreventNew** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9308)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **StopOldest** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9308)
-
 ___
 
 ### StopQuietest
 
 • **StopQuietest** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9308)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9308)

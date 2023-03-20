@@ -20,19 +20,11 @@
 
 • **WASD\_Always** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34877)
-
 ___
 
 ### WASD\_MAX
 
 • **WASD\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34877)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **WASD\_Never** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34877)
-
 ___
 
 ### WASD\_RMBOnly
 
 • **WASD\_RMBOnly** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34877)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34877)

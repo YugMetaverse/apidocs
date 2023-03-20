@@ -95,10 +95,6 @@
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[constructor](ue_ue.MovieSceneSection.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:52036](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52036)
-
 ## Properties
 
 ### BlendType
@@ -108,10 +104,6 @@
 #### Inherited from
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[BlendType](ue_ue.MovieSceneSection.md#blendtype)
-
-#### Defined in
-
-[ue/ue.d.ts:11796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11796)
 
 ___
 
@@ -123,10 +115,6 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[Easing](ue_ue.MovieSceneSection.md#easing)
 
-#### Defined in
-
-[ue/ue.d.ts:11781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11781)
-
 ___
 
 ### EndTime
@@ -136,10 +124,6 @@ ___
 #### Inherited from
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[EndTime](ue_ue.MovieSceneSection.md#endtime)
-
-#### Defined in
-
-[ue/ue.d.ts:11791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11791)
 
 ___
 
@@ -151,19 +135,11 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[EvalOptions](ue_ue.MovieSceneSection.md#evaloptions)
 
-#### Defined in
-
-[ue/ue.d.ts:11780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11780)
-
 ___
 
 ### ExternalMediaPlayer
 
 • **ExternalMediaPlayer**: [`MediaPlayer`](ue_ue.MediaPlayer.md)
-
-#### Defined in
-
-[ue/ue.d.ts:52043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52043)
 
 ___
 
@@ -171,29 +147,17 @@ ___
 
 • **MediaSoundComponent**: [`MediaSoundComponent`](ue_ue.MediaSoundComponent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:52041](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52041)
-
 ___
 
 ### MediaSource
 
 • **MediaSource**: [`MediaSource`](ue_ue.MediaSource.md)
 
-#### Defined in
-
-[ue/ue.d.ts:52037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52037)
-
 ___
 
 ### MediaTexture
 
 • **MediaTexture**: [`MediaTexture`](ue_ue.MediaTexture.md)
-
-#### Defined in
-
-[ue/ue.d.ts:52040](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52040)
 
 ___
 
@@ -205,10 +169,6 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[OverlapPriority](ue_ue.MovieSceneSection.md#overlappriority)
 
-#### Defined in
-
-[ue/ue.d.ts:11787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11787)
-
 ___
 
 ### PostRollFrames
@@ -218,10 +178,6 @@ ___
 #### Inherited from
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[PostRollFrames](ue_ue.MovieSceneSection.md#postrollframes)
-
-#### Defined in
-
-[ue/ue.d.ts:11785](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11785)
 
 ___
 
@@ -233,10 +189,6 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[PostRollTime](ue_ue.MovieSceneSection.md#postrolltime)
 
-#### Defined in
-
-[ue/ue.d.ts:11793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11793)
-
 ___
 
 ### PreRollFrames
@@ -246,10 +198,6 @@ ___
 #### Inherited from
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[PreRollFrames](ue_ue.MovieSceneSection.md#prerollframes)
-
-#### Defined in
-
-[ue/ue.d.ts:11784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11784)
 
 ___
 
@@ -261,10 +209,6 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[PreRollTime](ue_ue.MovieSceneSection.md#prerolltime)
 
-#### Defined in
-
-[ue/ue.d.ts:11792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11792)
-
 ___
 
 ### RowIndex
@@ -274,10 +218,6 @@ ___
 #### Inherited from
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[RowIndex](ue_ue.MovieSceneSection.md#rowindex)
-
-#### Defined in
-
-[ue/ue.d.ts:11786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11786)
 
 ___
 
@@ -289,10 +229,6 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[SectionRange](ue_ue.MovieSceneSection.md#sectionrange)
 
-#### Defined in
-
-[ue/ue.d.ts:11782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11782)
-
 ___
 
 ### Signature
@@ -303,19 +239,11 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[Signature](ue_ue.MovieSceneSection.md#signature)
 
-#### Defined in
-
-[ue/ue.d.ts:11034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11034)
-
 ___
 
 ### StartFrameOffset
 
 • **StartFrameOffset**: [`FrameNumber`](ue_ue.FrameNumber.md)
-
-#### Defined in
-
-[ue/ue.d.ts:52039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52039)
 
 ___
 
@@ -327,19 +255,11 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[StartTime](ue_ue.MovieSceneSection.md#starttime)
 
-#### Defined in
-
-[ue/ue.d.ts:11790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11790)
-
 ___
 
 ### ThumbnailReferenceOffset
 
 • **ThumbnailReferenceOffset**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:52044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52044)
 
 ___
 
@@ -351,19 +271,11 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[TimecodeSource](ue_ue.MovieSceneSection.md#timecodesource)
 
-#### Defined in
-
-[ue/ue.d.ts:11783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11783)
-
 ___
 
 ### \_\_tid\_MovieSceneMediaSection\_\_
 
 • **\_\_tid\_MovieSceneMediaSection\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52049)
 
 ___
 
@@ -375,10 +287,6 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[__tid_MovieSceneSection__](ue_ue.MovieSceneSection.md#__tid_moviescenesection__)
 
-#### Defined in
-
-[ue/ue.d.ts:11817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11817)
-
 ___
 
 ### \_\_tid\_MovieSceneSignedObject\_\_
@@ -388,10 +296,6 @@ ___
 #### Inherited from
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[__tid_MovieSceneSignedObject__](ue_ue.MovieSceneSection.md#__tid_moviescenesignedobject__)
-
-#### Defined in
-
-[ue/ue.d.ts:11039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11039)
 
 ___
 
@@ -403,10 +307,6 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[__tid_Object__](ue_ue.MovieSceneSection.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bIsActive
@@ -416,10 +316,6 @@ ___
 #### Inherited from
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[bIsActive](ue_ue.MovieSceneSection.md#bisactive)
-
-#### Defined in
-
-[ue/ue.d.ts:11788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11788)
 
 ___
 
@@ -431,10 +327,6 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[bIsInfinite](ue_ue.MovieSceneSection.md#bisinfinite)
 
-#### Defined in
-
-[ue/ue.d.ts:11794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11794)
-
 ___
 
 ### bIsLocked
@@ -445,19 +337,11 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[bIsLocked](ue_ue.MovieSceneSection.md#bislocked)
 
-#### Defined in
-
-[ue/ue.d.ts:11789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11789)
-
 ___
 
 ### bLooping
 
 • **bLooping**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52038)
 
 ___
 
@@ -469,19 +353,11 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[bSupportsInfiniteRange](ue_ue.MovieSceneSection.md#bsupportsinfiniterange)
 
-#### Defined in
-
-[ue/ue.d.ts:11795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11795)
-
 ___
 
 ### bUseExternalMediaPlayer
 
 • **bUseExternalMediaPlayer**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52042)
 
 ## Methods
 
@@ -507,10 +383,6 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[CreateDefaultSubobject](ue_ue.MovieSceneSection.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -531,10 +403,6 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[ExecuteUbergraph](ue_ue.MovieSceneSection.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetBlendType
@@ -548,10 +416,6 @@ ___
 #### Inherited from
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[GetBlendType](ue_ue.MovieSceneSection.md#getblendtype)
-
-#### Defined in
-
-[ue/ue.d.ts:11797](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11797)
 
 ___
 
@@ -567,10 +431,6 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[GetClass](ue_ue.MovieSceneSection.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetCompletionMode
@@ -584,10 +444,6 @@ ___
 #### Inherited from
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[GetCompletionMode](ue_ue.MovieSceneSection.md#getcompletionmode)
-
-#### Defined in
-
-[ue/ue.d.ts:11798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11798)
 
 ___
 
@@ -603,10 +459,6 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[GetName](ue_ue.MovieSceneSection.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -620,10 +472,6 @@ ___
 #### Inherited from
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[GetOuter](ue_ue.MovieSceneSection.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -639,10 +487,6 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[GetOverlapPriority](ue_ue.MovieSceneSection.md#getoverlappriority)
 
-#### Defined in
-
-[ue/ue.d.ts:11799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11799)
-
 ___
 
 ### GetPostRollFrames
@@ -656,10 +500,6 @@ ___
 #### Inherited from
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[GetPostRollFrames](ue_ue.MovieSceneSection.md#getpostrollframes)
-
-#### Defined in
-
-[ue/ue.d.ts:11800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11800)
 
 ___
 
@@ -675,10 +515,6 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[GetPreRollFrames](ue_ue.MovieSceneSection.md#getprerollframes)
 
-#### Defined in
-
-[ue/ue.d.ts:11801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11801)
-
 ___
 
 ### GetRowIndex
@@ -692,10 +528,6 @@ ___
 #### Inherited from
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[GetRowIndex](ue_ue.MovieSceneSection.md#getrowindex)
-
-#### Defined in
-
-[ue/ue.d.ts:11802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11802)
 
 ___
 
@@ -711,10 +543,6 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[GetWorld](ue_ue.MovieSceneSection.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### IsActive
@@ -729,10 +557,6 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[IsActive](ue_ue.MovieSceneSection.md#isactive)
 
-#### Defined in
-
-[ue/ue.d.ts:11803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11803)
-
 ___
 
 ### IsLocked
@@ -746,10 +570,6 @@ ___
 #### Inherited from
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[IsLocked](ue_ue.MovieSceneSection.md#islocked)
-
-#### Defined in
-
-[ue/ue.d.ts:11804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11804)
 
 ___
 
@@ -771,10 +591,6 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[SetBlendType](ue_ue.MovieSceneSection.md#setblendtype)
 
-#### Defined in
-
-[ue/ue.d.ts:11805](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11805)
-
 ___
 
 ### SetCompletionMode
@@ -794,10 +610,6 @@ ___
 #### Inherited from
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[SetCompletionMode](ue_ue.MovieSceneSection.md#setcompletionmode)
-
-#### Defined in
-
-[ue/ue.d.ts:11806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11806)
 
 ___
 
@@ -819,10 +631,6 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[SetIsActive](ue_ue.MovieSceneSection.md#setisactive)
 
-#### Defined in
-
-[ue/ue.d.ts:11807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11807)
-
 ___
 
 ### SetIsLocked
@@ -842,10 +650,6 @@ ___
 #### Inherited from
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[SetIsLocked](ue_ue.MovieSceneSection.md#setislocked)
-
-#### Defined in
-
-[ue/ue.d.ts:11808](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11808)
 
 ___
 
@@ -867,10 +671,6 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[SetOverlapPriority](ue_ue.MovieSceneSection.md#setoverlappriority)
 
-#### Defined in
-
-[ue/ue.d.ts:11809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11809)
-
 ___
 
 ### SetPostRollFrames
@@ -890,10 +690,6 @@ ___
 #### Inherited from
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[SetPostRollFrames](ue_ue.MovieSceneSection.md#setpostrollframes)
-
-#### Defined in
-
-[ue/ue.d.ts:11810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11810)
 
 ___
 
@@ -915,10 +711,6 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[SetPreRollFrames](ue_ue.MovieSceneSection.md#setprerollframes)
 
-#### Defined in
-
-[ue/ue.d.ts:11811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11811)
-
 ___
 
 ### SetRowIndex
@@ -938,10 +730,6 @@ ___
 #### Inherited from
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[SetRowIndex](ue_ue.MovieSceneSection.md#setrowindex)
-
-#### Defined in
-
-[ue/ue.d.ts:11812](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11812)
 
 ___
 
@@ -964,10 +752,6 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[Find](ue_ue.MovieSceneSection.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:52046](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52046)
-
 ___
 
 ### Load
@@ -988,10 +772,6 @@ ___
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[Load](ue_ue.MovieSceneSection.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:52047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52047)
-
 ___
 
 ### StaticClass
@@ -1005,7 +785,3 @@ ___
 #### Overrides
 
 [MovieSceneSection](ue_ue.MovieSceneSection.md).[StaticClass](ue_ue.MovieSceneSection.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:52045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52045)

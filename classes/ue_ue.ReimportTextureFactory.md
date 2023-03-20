@@ -88,10 +88,6 @@
 
 [TextureFactory](ue_ue.TextureFactory.md).[constructor](ue_ue.TextureFactory.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:59405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59405)
-
 ## Properties
 
 ### AlphaCoverageThresholds
@@ -101,10 +97,6 @@
 #### Inherited from
 
 [TextureFactory](ue_ue.TextureFactory.md).[AlphaCoverageThresholds](ue_ue.TextureFactory.md#alphacoveragethresholds)
-
-#### Defined in
-
-[ue/ue.d.ts:59393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59393)
 
 ___
 
@@ -116,10 +108,6 @@ ___
 
 [TextureFactory](ue_ue.TextureFactory.md).[AssetImportTask](ue_ue.TextureFactory.md#assetimporttask)
 
-#### Defined in
-
-[ue/ue.d.ts:15338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15338)
-
 ___
 
 ### AutomatedImportData
@@ -129,10 +117,6 @@ ___
 #### Inherited from
 
 [TextureFactory](ue_ue.TextureFactory.md).[AutomatedImportData](ue_ue.TextureFactory.md#automatedimportdata)
-
-#### Defined in
-
-[ue/ue.d.ts:15337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15337)
 
 ___
 
@@ -144,10 +128,6 @@ ___
 
 [TextureFactory](ue_ue.TextureFactory.md).[Blending](ue_ue.TextureFactory.md#blending)
 
-#### Defined in
-
-[ue/ue.d.ts:59388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59388)
-
 ___
 
 ### CompressionSettings
@@ -157,10 +137,6 @@ ___
 #### Inherited from
 
 [TextureFactory](ue_ue.TextureFactory.md).[CompressionSettings](ue_ue.TextureFactory.md#compressionsettings)
-
-#### Defined in
-
-[ue/ue.d.ts:59379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59379)
 
 ___
 
@@ -172,10 +148,6 @@ ___
 
 [TextureFactory](ue_ue.TextureFactory.md).[ContextClass](ue_ue.TextureFactory.md#contextclass)
 
-#### Defined in
-
-[ue/ue.d.ts:15331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15331)
-
 ___
 
 ### Formats
@@ -185,10 +157,6 @@ ___
 #### Inherited from
 
 [TextureFactory](ue_ue.TextureFactory.md).[Formats](ue_ue.TextureFactory.md#formats)
-
-#### Defined in
-
-[ue/ue.d.ts:15332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15332)
 
 ___
 
@@ -200,10 +168,6 @@ ___
 
 [TextureFactory](ue_ue.TextureFactory.md).[ImportPriority](ue_ue.TextureFactory.md#importpriority)
 
-#### Defined in
-
-[ue/ue.d.ts:15336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15336)
-
 ___
 
 ### LODGroup
@@ -213,10 +177,6 @@ ___
 #### Inherited from
 
 [TextureFactory](ue_ue.TextureFactory.md).[LODGroup](ue_ue.TextureFactory.md#lodgroup)
-
-#### Defined in
-
-[ue/ue.d.ts:59391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59391)
 
 ___
 
@@ -228,10 +188,6 @@ ___
 
 [TextureFactory](ue_ue.TextureFactory.md).[MipGenSettings](ue_ue.TextureFactory.md#mipgensettings)
 
-#### Defined in
-
-[ue/ue.d.ts:59390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59390)
-
 ___
 
 ### NoAlpha
@@ -241,10 +197,6 @@ ___
 #### Inherited from
 
 [TextureFactory](ue_ue.TextureFactory.md).[NoAlpha](ue_ue.TextureFactory.md#noalpha)
-
-#### Defined in
-
-[ue/ue.d.ts:59377](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59377)
 
 ___
 
@@ -256,10 +208,6 @@ ___
 
 [TextureFactory](ue_ue.TextureFactory.md).[NoCompression](ue_ue.TextureFactory.md#nocompression)
 
-#### Defined in
-
-[ue/ue.d.ts:59376](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59376)
-
 ___
 
 ### OverwriteYesOrNoToAllState
@@ -269,10 +217,6 @@ ___
 #### Inherited from
 
 [TextureFactory](ue_ue.TextureFactory.md).[OverwriteYesOrNoToAllState](ue_ue.TextureFactory.md#overwriteyesornotoallstate)
-
-#### Defined in
-
-[ue/ue.d.ts:15339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15339)
 
 ___
 
@@ -284,10 +228,6 @@ ___
 
 [TextureFactory](ue_ue.TextureFactory.md).[ShadingModel](ue_ue.TextureFactory.md#shadingmodel)
 
-#### Defined in
-
-[ue/ue.d.ts:59389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59389)
-
 ___
 
 ### SupportedClass
@@ -297,10 +237,6 @@ ___
 #### Inherited from
 
 [TextureFactory](ue_ue.TextureFactory.md).[SupportedClass](ue_ue.TextureFactory.md#supportedclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15330)
 
 ___
 
@@ -312,10 +248,6 @@ ___
 
 [TextureFactory](ue_ue.TextureFactory.md).[__tid_Factory__](ue_ue.TextureFactory.md#__tid_factory__)
 
-#### Defined in
-
-[ue/ue.d.ts:15346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15346)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -326,19 +258,11 @@ ___
 
 [TextureFactory](ue_ue.TextureFactory.md).[__tid_Object__](ue_ue.TextureFactory.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ReimportTextureFactory\_\_
 
 • **\_\_tid\_ReimportTextureFactory\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59411)
 
 ___
 
@@ -350,10 +274,6 @@ ___
 
 [TextureFactory](ue_ue.TextureFactory.md).[__tid_TextureFactory__](ue_ue.TextureFactory.md#__tid_texturefactory__)
 
-#### Defined in
-
-[ue/ue.d.ts:59401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59401)
-
 ___
 
 ### bAlphaToEmissive
@@ -363,10 +283,6 @@ ___
 #### Inherited from
 
 [TextureFactory](ue_ue.TextureFactory.md).[bAlphaToEmissive](ue_ue.TextureFactory.md#balphatoemissive)
-
-#### Defined in
-
-[ue/ue.d.ts:59384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59384)
 
 ___
 
@@ -378,10 +294,6 @@ ___
 
 [TextureFactory](ue_ue.TextureFactory.md).[bAlphaToOpacity](ue_ue.TextureFactory.md#balphatoopacity)
 
-#### Defined in
-
-[ue/ue.d.ts:59385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59385)
-
 ___
 
 ### bAlphaToOpacityMask
@@ -391,10 +303,6 @@ ___
 #### Inherited from
 
 [TextureFactory](ue_ue.TextureFactory.md).[bAlphaToOpacityMask](ue_ue.TextureFactory.md#balphatoopacitymask)
-
-#### Defined in
-
-[ue/ue.d.ts:59386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59386)
 
 ___
 
@@ -406,10 +314,6 @@ ___
 
 [TextureFactory](ue_ue.TextureFactory.md).[bAlphaToRoughness](ue_ue.TextureFactory.md#balphatoroughness)
 
-#### Defined in
-
-[ue/ue.d.ts:59383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59383)
-
 ___
 
 ### bCreateMaterial
@@ -419,10 +323,6 @@ ___
 #### Inherited from
 
 [TextureFactory](ue_ue.TextureFactory.md).[bCreateMaterial](ue_ue.TextureFactory.md#bcreatematerial)
-
-#### Defined in
-
-[ue/ue.d.ts:59380](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59380)
 
 ___
 
@@ -434,10 +334,6 @@ ___
 
 [TextureFactory](ue_ue.TextureFactory.md).[bCreateNew](ue_ue.TextureFactory.md#bcreatenew)
 
-#### Defined in
-
-[ue/ue.d.ts:15329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15329)
-
 ___
 
 ### bDeferCompression
@@ -447,10 +343,6 @@ ___
 #### Inherited from
 
 [TextureFactory](ue_ue.TextureFactory.md).[bDeferCompression](ue_ue.TextureFactory.md#bdefercompression)
-
-#### Defined in
-
-[ue/ue.d.ts:59378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59378)
 
 ___
 
@@ -462,10 +354,6 @@ ___
 
 [TextureFactory](ue_ue.TextureFactory.md).[bDitherMipMapAlpha](ue_ue.TextureFactory.md#bdithermipmapalpha)
 
-#### Defined in
-
-[ue/ue.d.ts:59392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59392)
-
 ___
 
 ### bEditAfterNew
@@ -475,10 +363,6 @@ ___
 #### Inherited from
 
 [TextureFactory](ue_ue.TextureFactory.md).[bEditAfterNew](ue_ue.TextureFactory.md#beditafternew)
-
-#### Defined in
-
-[ue/ue.d.ts:15333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15333)
 
 ___
 
@@ -490,10 +374,6 @@ ___
 
 [TextureFactory](ue_ue.TextureFactory.md).[bEditorImport](ue_ue.TextureFactory.md#beditorimport)
 
-#### Defined in
-
-[ue/ue.d.ts:15334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15334)
-
 ___
 
 ### bFlipNormalMapGreenChannel
@@ -503,10 +383,6 @@ ___
 #### Inherited from
 
 [TextureFactory](ue_ue.TextureFactory.md).[bFlipNormalMapGreenChannel](ue_ue.TextureFactory.md#bflipnormalmapgreenchannel)
-
-#### Defined in
-
-[ue/ue.d.ts:59395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59395)
 
 ___
 
@@ -518,10 +394,6 @@ ___
 
 [TextureFactory](ue_ue.TextureFactory.md).[bPreserveBorder](ue_ue.TextureFactory.md#bpreserveborder)
 
-#### Defined in
-
-[ue/ue.d.ts:59394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59394)
-
 ___
 
 ### bRGBToBaseColor
@@ -531,10 +403,6 @@ ___
 #### Inherited from
 
 [TextureFactory](ue_ue.TextureFactory.md).[bRGBToBaseColor](ue_ue.TextureFactory.md#brgbtobasecolor)
-
-#### Defined in
-
-[ue/ue.d.ts:59381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59381)
 
 ___
 
@@ -546,10 +414,6 @@ ___
 
 [TextureFactory](ue_ue.TextureFactory.md).[bRGBToEmissive](ue_ue.TextureFactory.md#brgbtoemissive)
 
-#### Defined in
-
-[ue/ue.d.ts:59382](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59382)
-
 ___
 
 ### bText
@@ -559,10 +423,6 @@ ___
 #### Inherited from
 
 [TextureFactory](ue_ue.TextureFactory.md).[bText](ue_ue.TextureFactory.md#btext)
-
-#### Defined in
-
-[ue/ue.d.ts:15335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15335)
 
 ___
 
@@ -574,10 +434,6 @@ ___
 
 [TextureFactory](ue_ue.TextureFactory.md).[bTwoSided](ue_ue.TextureFactory.md#btwosided)
 
-#### Defined in
-
-[ue/ue.d.ts:59387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59387)
-
 ___
 
 ### bUsingExistingSettings
@@ -588,19 +444,11 @@ ___
 
 [TextureFactory](ue_ue.TextureFactory.md).[bUsingExistingSettings](ue_ue.TextureFactory.md#busingexistingsettings)
 
-#### Defined in
-
-[ue/ue.d.ts:59396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59396)
-
 ___
 
 ### pOriginalTex
 
 • **pOriginalTex**: [`Texture`](ue_ue.Texture.md)
-
-#### Defined in
-
-[ue/ue.d.ts:59406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59406)
 
 ## Methods
 
@@ -626,10 +474,6 @@ ___
 
 [TextureFactory](ue_ue.TextureFactory.md).[CreateDefaultSubobject](ue_ue.TextureFactory.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -650,10 +494,6 @@ ___
 
 [TextureFactory](ue_ue.TextureFactory.md).[ExecuteUbergraph](ue_ue.TextureFactory.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -667,10 +507,6 @@ ___
 #### Inherited from
 
 [TextureFactory](ue_ue.TextureFactory.md).[GetClass](ue_ue.TextureFactory.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -686,10 +522,6 @@ ___
 
 [TextureFactory](ue_ue.TextureFactory.md).[GetName](ue_ue.TextureFactory.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -704,10 +536,6 @@ ___
 
 [TextureFactory](ue_ue.TextureFactory.md).[GetOuter](ue_ue.TextureFactory.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -721,10 +549,6 @@ ___
 #### Inherited from
 
 [TextureFactory](ue_ue.TextureFactory.md).[GetWorld](ue_ue.TextureFactory.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -746,10 +570,6 @@ ___
 
 [TextureFactory](ue_ue.TextureFactory.md).[ScriptFactoryCanImport](ue_ue.TextureFactory.md#scriptfactorycanimport)
 
-#### Defined in
-
-[ue/ue.d.ts:15340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15340)
-
 ___
 
 ### ScriptFactoryCreateFile
@@ -769,10 +589,6 @@ ___
 #### Inherited from
 
 [TextureFactory](ue_ue.TextureFactory.md).[ScriptFactoryCreateFile](ue_ue.TextureFactory.md#scriptfactorycreatefile)
-
-#### Defined in
-
-[ue/ue.d.ts:15341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15341)
 
 ___
 
@@ -795,10 +611,6 @@ ___
 
 [TextureFactory](ue_ue.TextureFactory.md).[Find](ue_ue.TextureFactory.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:59408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59408)
-
 ___
 
 ### Load
@@ -819,10 +631,6 @@ ___
 
 [TextureFactory](ue_ue.TextureFactory.md).[Load](ue_ue.TextureFactory.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:59409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59409)
-
 ___
 
 ### StaticClass
@@ -836,7 +644,3 @@ ___
 #### Overrides
 
 [TextureFactory](ue_ue.TextureFactory.md).[StaticClass](ue_ue.TextureFactory.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:59407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59407)

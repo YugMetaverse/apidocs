@@ -53,19 +53,11 @@
 
 [LiveLinkBasicRole](ue_ue.LiveLinkBasicRole.md).[constructor](ue_ue.LiveLinkBasicRole.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:45763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45763)
-
 ## Properties
 
 ### \_\_tid\_LiveLinkAnimationRole\_\_
 
 • **\_\_tid\_LiveLinkAnimationRole\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45768)
 
 ___
 
@@ -77,10 +69,6 @@ ___
 
 [LiveLinkBasicRole](ue_ue.LiveLinkBasicRole.md).[__tid_LiveLinkBasicRole__](ue_ue.LiveLinkBasicRole.md#__tid_livelinkbasicrole__)
 
-#### Defined in
-
-[ue/ue.d.ts:45759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45759)
-
 ___
 
 ### \_\_tid\_LiveLinkRole\_\_
@@ -91,10 +79,6 @@ ___
 
 [LiveLinkBasicRole](ue_ue.LiveLinkBasicRole.md).[__tid_LiveLinkRole__](ue_ue.LiveLinkBasicRole.md#__tid_livelinkrole__)
 
-#### Defined in
-
-[ue/ue.d.ts:45750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45750)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -104,10 +88,6 @@ ___
 #### Inherited from
 
 [LiveLinkBasicRole](ue_ue.LiveLinkBasicRole.md).[__tid_Object__](ue_ue.LiveLinkBasicRole.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -133,10 +113,6 @@ ___
 
 [LiveLinkBasicRole](ue_ue.LiveLinkBasicRole.md).[CreateDefaultSubobject](ue_ue.LiveLinkBasicRole.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -157,10 +133,6 @@ ___
 
 [LiveLinkBasicRole](ue_ue.LiveLinkBasicRole.md).[ExecuteUbergraph](ue_ue.LiveLinkBasicRole.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -174,10 +146,6 @@ ___
 #### Inherited from
 
 [LiveLinkBasicRole](ue_ue.LiveLinkBasicRole.md).[GetClass](ue_ue.LiveLinkBasicRole.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -193,10 +161,6 @@ ___
 
 [LiveLinkBasicRole](ue_ue.LiveLinkBasicRole.md).[GetName](ue_ue.LiveLinkBasicRole.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -211,10 +175,6 @@ ___
 
 [LiveLinkBasicRole](ue_ue.LiveLinkBasicRole.md).[GetOuter](ue_ue.LiveLinkBasicRole.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -228,10 +188,6 @@ ___
 #### Inherited from
 
 [LiveLinkBasicRole](ue_ue.LiveLinkBasicRole.md).[GetWorld](ue_ue.LiveLinkBasicRole.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -254,10 +210,6 @@ ___
 
 [LiveLinkBasicRole](ue_ue.LiveLinkBasicRole.md).[Find](ue_ue.LiveLinkBasicRole.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:45765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45765)
-
 ___
 
 ### Load
@@ -278,10 +230,6 @@ ___
 
 [LiveLinkBasicRole](ue_ue.LiveLinkBasicRole.md).[Load](ue_ue.LiveLinkBasicRole.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:45766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45766)
-
 ___
 
 ### StaticClass
@@ -295,7 +243,3 @@ ___
 #### Overrides
 
 [LiveLinkBasicRole](ue_ue.LiveLinkBasicRole.md).[StaticClass](ue_ue.LiveLinkBasicRole.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:45764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45764)

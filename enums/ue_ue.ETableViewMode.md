@@ -20,19 +20,11 @@
 
 • **ETableViewMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34813](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34813)
-
 ___
 
 ### List
 
 • **List** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34813](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34813)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Tile** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34813](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34813)
-
 ___
 
 ### Tree
 
 • **Tree** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34813](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34813)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34813](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34813)

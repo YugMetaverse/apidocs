@@ -157,19 +157,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:16463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16463)
-
 ## Properties
 
 ### AchievementMap
 
 • **AchievementMap**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`GooglePlayAchievementMapping`](ue_ue.GooglePlayAchievementMapping.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:16518](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16518)
 
 ___
 
@@ -177,19 +169,11 @@ ___
 
 • **AdMobAdUnitID**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:16522](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16522)
-
 ___
 
 ### AdMobAdUnitIDs
 
 • **AdMobAdUnitIDs**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:16523](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16523)
 
 ___
 
@@ -197,19 +181,11 @@ ___
 
 • **AndroidAudio**: [`EAndroidAudio`](../enums/ue_ue.EAndroidAudio.md)
 
-#### Defined in
-
-[ue/ue.d.ts:16530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16530)
-
 ___
 
 ### AndroidGraphicsDebugger
 
 • **AndroidGraphicsDebugger**: [`EAndroidGraphicsDebugger`](../enums/ue_ue.EAndroidGraphicsDebugger.md)
-
-#### Defined in
-
-[ue/ue.d.ts:16552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16552)
 
 ___
 
@@ -217,19 +193,11 @@ ___
 
 • **ApplicationDisplayName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:16469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16469)
-
 ___
 
 ### AudioCallbackBufferFrameSize
 
 • **AudioCallbackBufferFrameSize**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16532](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16532)
 
 ___
 
@@ -237,19 +205,11 @@ ___
 
 • **AudioMaxChannels**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16534](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16534)
-
 ___
 
 ### AudioNumBuffersToEnqueue
 
 • **AudioNumBuffersToEnqueue**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16533](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16533)
 
 ___
 
@@ -257,19 +217,11 @@ ___
 
 • **AudioNumSourceWorkers**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16535)
-
 ___
 
 ### AudioSampleRate
 
 • **AudioSampleRate**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16531](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16531)
 
 ___
 
@@ -277,19 +229,11 @@ ___
 
 • **AutoStreamingThreshold**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16551](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16551)
-
 ___
 
 ### CacheSizeKB
 
 • **CacheSizeKB**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16542](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16542)
 
 ___
 
@@ -297,19 +241,11 @@ ___
 
 • **ChunkSizeKB**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16540)
-
 ___
 
 ### CompressionOverrides
 
 • **CompressionOverrides**: [`PlatformRuntimeAudioCompressionOverrides`](ue_ue.PlatformRuntimeAudioCompressionOverrides.md)
-
-#### Defined in
-
-[ue/ue.d.ts:16539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16539)
 
 ___
 
@@ -317,19 +253,11 @@ ___
 
 • **CompressionQualityModifier**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16550](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16550)
-
 ___
 
 ### DepthBufferPreference
 
 • **DepthBufferPreference**: [`EAndroidDepthBufferPreference`](../enums/ue_ue.EAndroidDepthBufferPreference.md)
-
-#### Defined in
-
-[ue/ue.d.ts:16489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16489)
 
 ___
 
@@ -337,19 +265,11 @@ ___
 
 • **ExtraActivityNodeTags**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:16494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16494)
-
 ___
 
 ### ExtraActivitySettings
 
 • **ExtraActivitySettings**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:16495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16495)
 
 ___
 
@@ -357,19 +277,11 @@ ___
 
 • **ExtraApplicationNodeTags**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:16492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16492)
-
 ___
 
 ### ExtraApplicationSettings
 
 • **ExtraApplicationSettings**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:16493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16493)
 
 ___
 
@@ -377,19 +289,11 @@ ___
 
 • **ExtraManifestNodeTags**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:16491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16491)
-
 ___
 
 ### ExtraPermissions
 
 • **ExtraPermissions**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:16496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16496)
 
 ___
 
@@ -397,19 +301,11 @@ ___
 
 • **GCMClientSenderID**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:16525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16525)
-
 ___
 
 ### GamesAppID
 
 • **GamesAppID**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:16517](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16517)
 
 ___
 
@@ -417,19 +313,11 @@ ___
 
 • **GooglePlayLicenseKey**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:16524](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16524)
-
 ___
 
 ### GoogleVRCaps
 
 • **GoogleVRCaps**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`EGoogleVRCaps`](../enums/ue_ue.EGoogleVRCaps.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:16500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16500)
 
 ___
 
@@ -437,19 +325,11 @@ ___
 
 • **HighSampleRate**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16546)
-
 ___
 
 ### InstallLocation
 
 • **InstallLocation**: [`EAndroidInstallLocation`](../enums/ue_ue.EAndroidInstallLocation.md)
-
-#### Defined in
-
-[ue/ue.d.ts:16473](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16473)
 
 ___
 
@@ -457,19 +337,11 @@ ___
 
 • **KeyAlias**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:16503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16503)
-
 ___
 
 ### KeyPassword
 
 • **KeyPassword**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:16505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16505)
 
 ___
 
@@ -477,19 +349,11 @@ ___
 
 • **KeyStore**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:16502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16502)
-
 ___
 
 ### KeyStorePassword
 
 • **KeyStorePassword**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:16504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16504)
 
 ___
 
@@ -497,19 +361,11 @@ ___
 
 • **LeaderboardMap**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`GooglePlayLeaderboardMapping`](ue_ue.GooglePlayLeaderboardMapping.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:16519](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16519)
-
 ___
 
 ### LowSampleRate
 
 • **LowSampleRate**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16548)
 
 ___
 
@@ -517,19 +373,11 @@ ___
 
 • **MaliGraphicsDebuggerPath**: [`DirectoryPath`](ue_ue.DirectoryPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:16553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16553)
-
 ___
 
 ### MaxAspectRatio
 
 • **MaxAspectRatio**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16484](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16484)
 
 ___
 
@@ -537,19 +385,11 @@ ___
 
 • **MaxSampleRate**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16545)
-
 ___
 
 ### MedSampleRate
 
 • **MedSampleRate**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16547)
 
 ___
 
@@ -557,19 +397,11 @@ ___
 
 • **MinSDKVersion**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16471)
-
 ___
 
 ### MinSampleRate
 
 • **MinSampleRate**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16549](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16549)
 
 ___
 
@@ -577,19 +409,11 @@ ___
 
 • **NDKAPILevelOverride**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:16569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16569)
-
 ___
 
 ### OcclusionPlugin
 
 • **OcclusionPlugin**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:16538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16538)
 
 ___
 
@@ -597,19 +421,11 @@ ___
 
 • **Orientation**: [`EAndroidScreenOrientation`](../enums/ue_ue.EAndroidScreenOrientation.md)
 
-#### Defined in
-
-[ue/ue.d.ts:16483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16483)
-
 ___
 
 ### PackageForOculusMobile
 
 • **PackageForOculusMobile**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`EOculusMobileDevice`](../enums/ue_ue.EOculusMobileDevice.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:16498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16498)
 
 ___
 
@@ -617,19 +433,11 @@ ___
 
 • **PackageName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:16464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16464)
-
 ___
 
 ### ReverbPlugin
 
 • **ReverbPlugin**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:16537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16537)
 
 ___
 
@@ -637,19 +445,11 @@ ___
 
 • **SDKAPILevelOverride**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:16568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16568)
-
 ___
 
 ### SoundCueCookQualityIndex
 
 • **SoundCueCookQualityIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16544](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16544)
 
 ___
 
@@ -657,19 +457,11 @@ ___
 
 • **SpatializationPlugin**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:16536](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16536)
-
 ___
 
 ### StoreVersion
 
 • **StoreVersion**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16465)
 
 ___
 
@@ -677,19 +469,11 @@ ___
 
 • **StoreVersionOffsetArm64**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16467](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16467)
-
 ___
 
 ### StoreVersionOffsetArmV7
 
 • **StoreVersionOffsetArmV7**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16466](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16466)
 
 ___
 
@@ -697,19 +481,11 @@ ___
 
 • **StoreVersionOffsetX8664**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16468)
-
 ___
 
 ### TargetSDKVersion
 
 • **TargetSDKVersion**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16472](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16472)
 
 ___
 
@@ -717,19 +493,11 @@ ___
 
 • **TextureFormatPriority\_ASTC**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16567)
-
 ___
 
 ### TextureFormatPriority\_ATC
 
 • **TextureFormatPriority\_ATC**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16566)
 
 ___
 
@@ -737,19 +505,11 @@ ___
 
 • **TextureFormatPriority\_DXT**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16564)
-
 ___
 
 ### TextureFormatPriority\_ETC1
 
 • **TextureFormatPriority\_ETC1**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16561)
 
 ___
 
@@ -757,19 +517,11 @@ ___
 
 • **TextureFormatPriority\_ETC1a**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16562)
-
 ___
 
 ### TextureFormatPriority\_ETC2
 
 • **TextureFormatPriority\_ETC2**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16563)
 
 ___
 
@@ -777,29 +529,17 @@ ___
 
 • **TextureFormatPriority\_PVRTC**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16565)
-
 ___
 
 ### VersionDisplayName
 
 • **VersionDisplayName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:16470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16470)
-
 ___
 
 ### \_\_tid\_AndroidRuntimeSettings\_\_
 
 • **\_\_tid\_AndroidRuntimeSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16574)
 
 ___
 
@@ -811,19 +551,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bAllowControllers
 
 • **bAllowControllers**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16528](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16528)
 
 ___
 
@@ -831,19 +563,11 @@ ___
 
 • **bAllowIMU**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16527](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16527)
-
 ___
 
 ### bAllowLargeOBBFiles
 
 • **bAllowLargeOBBFiles**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16479)
 
 ___
 
@@ -851,19 +575,11 @@ ___
 
 • **bAllowPatchOBBFile**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16480)
-
 ___
 
 ### bAndroidVoiceEnabled
 
 • **bAndroidVoiceEnabled**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16497)
 
 ___
 
@@ -871,19 +587,11 @@ ___
 
 • **bBlockAndroidKeysOnControllers**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16529)
-
 ___
 
 ### bBuildForArm64
 
 • **bBuildForArm64**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16507)
 
 ___
 
@@ -891,19 +599,11 @@ ___
 
 • **bBuildForArmV7**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16506)
-
 ___
 
 ### bBuildForES2
 
 • **bBuildForES2**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16509)
 
 ___
 
@@ -911,19 +611,11 @@ ___
 
 • **bBuildForES31**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16510)
-
 ___
 
 ### bBuildForX8664
 
 • **bBuildForX8664**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16508](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16508)
 
 ___
 
@@ -931,19 +623,11 @@ ___
 
 • **bBuildWithHiddenSymbolVisibility**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16513)
-
 ___
 
 ### bCreateAllPlatformsInstall
 
 • **bCreateAllPlatformsInstall**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16477)
 
 ___
 
@@ -951,19 +635,11 @@ ___
 
 • **bDetectVulkanByDefault**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16512)
-
 ___
 
 ### bDisableVerifyOBBOnStartUp
 
 • **bDisableVerifyOBBOnStartUp**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16478)
 
 ___
 
@@ -971,19 +647,11 @@ ___
 
 • **bEnableGooglePlaySupport**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16515)
-
 ___
 
 ### bEnableGradle
 
 • **bEnableGradle**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16474)
 
 ___
 
@@ -991,19 +659,11 @@ ___
 
 • **bEnableLint**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16475)
-
 ___
 
 ### bEnableNewKeyboard
 
 • **bEnableNewKeyboard**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16488)
 
 ___
 
@@ -1011,19 +671,11 @@ ___
 
 • **bEnableSnapshots**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16520](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16520)
-
 ___
 
 ### bFullScreen
 
 • **bFullScreen**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16487)
 
 ___
 
@@ -1031,19 +683,11 @@ ___
 
 • **bGoogleVRSustainedPerformance**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16501)
-
 ___
 
 ### bMultiTargetFormat\_ASTC
 
 • **bMultiTargetFormat\_ASTC**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16560)
 
 ___
 
@@ -1051,19 +695,11 @@ ___
 
 • **bMultiTargetFormat\_ATC**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16559](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16559)
-
 ___
 
 ### bMultiTargetFormat\_DXT
 
 • **bMultiTargetFormat\_DXT**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16557)
 
 ___
 
@@ -1071,19 +707,11 @@ ___
 
 • **bMultiTargetFormat\_ETC1**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16554)
-
 ___
 
 ### bMultiTargetFormat\_ETC1a
 
 • **bMultiTargetFormat\_ETC1a**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16555)
 
 ___
 
@@ -1091,19 +719,11 @@ ___
 
 • **bMultiTargetFormat\_ETC2**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16556)
-
 ___
 
 ### bMultiTargetFormat\_PVRTC
 
 • **bMultiTargetFormat\_PVRTC**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16558](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16558)
 
 ___
 
@@ -1111,19 +731,11 @@ ___
 
 • **bPackageDataInsideApk**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16476)
-
 ___
 
 ### bPublicLogFiles
 
 • **bPublicLogFiles**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16482)
 
 ___
 
@@ -1131,19 +743,11 @@ ___
 
 • **bRemoveOSIG**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16499)
-
 ___
 
 ### bResampleForDevice
 
 • **bResampleForDevice**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16543](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16543)
 
 ___
 
@@ -1151,19 +755,11 @@ ___
 
 • **bRestoreNotificationsOnReboot**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16486)
-
 ___
 
 ### bSaveSymbols
 
 • **bSaveSymbols**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16514](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16514)
 
 ___
 
@@ -1171,19 +767,11 @@ ___
 
 • **bShowLaunchImage**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16526](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16526)
-
 ___
 
 ### bSupportAdMob
 
 • **bSupportAdMob**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16521](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16521)
 
 ___
 
@@ -1191,19 +779,11 @@ ___
 
 • **bSupportsVulkan**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16511)
-
 ___
 
 ### bUseAudioStreamCaching
 
 • **bUseAudioStreamCaching**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16541](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16541)
 
 ___
 
@@ -1211,19 +791,11 @@ ___
 
 • **bUseDisplayCutout**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16485)
-
 ___
 
 ### bUseExternalFilesDir
 
 • **bUseExternalFilesDir**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16481)
 
 ___
 
@@ -1231,19 +803,11 @@ ___
 
 • **bUseGetAccounts**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:16516](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16516)
-
 ___
 
 ### bValidateTextureFormats
 
 • **bValidateTextureFormats**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16490)
 
 ## Methods
 
@@ -1269,10 +833,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -1293,10 +853,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -1310,10 +866,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -1329,10 +881,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -1347,10 +895,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -1364,10 +908,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -1390,10 +930,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:16571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16571)
-
 ___
 
 ### Load
@@ -1414,10 +950,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:16572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16572)
-
 ___
 
 ### StaticClass
@@ -1431,7 +963,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:16570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16570)

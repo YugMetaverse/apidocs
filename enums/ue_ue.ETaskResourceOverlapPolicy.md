@@ -19,19 +19,11 @@
 
 • **ETaskResourceOverlapPolicy\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14884)
-
 ___
 
 ### StartAtEnd
 
 • **StartAtEnd** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14884)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **StartOnTop** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14884)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14884)

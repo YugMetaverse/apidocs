@@ -62,19 +62,11 @@
 
 [EditorWorldExtension](ue_ue.EditorWorldExtension.md).[constructor](ue_ue.EditorWorldExtension.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:65906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65906)
-
 ## Properties
 
 ### AssetContainer
 
 • **AssetContainer**: [`VREditorAssetContainer`](ue_ue.VREditorAssetContainer.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65914)
 
 ___
 
@@ -82,19 +74,11 @@ ___
 
 • **AutoScalerSystem**: [`VREditorAutoScaler`](ue_ue.VREditorAutoScaler.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65910)
-
 ___
 
 ### AvatarActor
 
 • **AvatarActor**: [`VREditorAvatarActor`](ue_ue.VREditorAvatarActor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65907)
 
 ___
 
@@ -106,19 +90,11 @@ ___
 
 [EditorWorldExtension](ue_ue.EditorWorldExtension.md).[ExtensionActors](ue_ue.EditorWorldExtension.md#extensionactors)
 
-#### Defined in
-
-[ue/ue.d.ts:14324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14324)
-
 ___
 
 ### Interactors
 
 • **Interactors**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`VREditorInteractor`](ue_ue.VREditorInteractor.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:65913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65913)
 
 ___
 
@@ -126,19 +102,11 @@ ___
 
 • **PlacementSystem**: [`VREditorPlacement`](ue_ue.VREditorPlacement.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65912)
-
 ___
 
 ### TeleportActor
 
 • **TeleportActor**: [`VREditorTeleporter`](ue_ue.VREditorTeleporter.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65909)
 
 ___
 
@@ -146,19 +114,11 @@ ___
 
 • **UISystem**: [`VREditorUISystem`](ue_ue.VREditorUISystem.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65908)
-
 ___
 
 ### WorldInteraction
 
 • **WorldInteraction**: [`ViewportWorldInteraction`](ue_ue.ViewportWorldInteraction.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65911)
 
 ___
 
@@ -170,10 +130,6 @@ ___
 
 [EditorWorldExtension](ue_ue.EditorWorldExtension.md).[__tid_EditorWorldExtension__](ue_ue.EditorWorldExtension.md#__tid_editorworldextension__)
 
-#### Defined in
-
-[ue/ue.d.ts:14329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14329)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -184,19 +140,11 @@ ___
 
 [EditorWorldExtension](ue_ue.EditorWorldExtension.md).[__tid_Object__](ue_ue.EditorWorldExtension.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_VREditorMode\_\_
 
 • **\_\_tid\_VREditorMode\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:65920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65920)
 
 ## Methods
 
@@ -222,10 +170,6 @@ ___
 
 [EditorWorldExtension](ue_ue.EditorWorldExtension.md).[CreateDefaultSubobject](ue_ue.EditorWorldExtension.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -246,10 +190,6 @@ ___
 
 [EditorWorldExtension](ue_ue.EditorWorldExtension.md).[ExecuteUbergraph](ue_ue.EditorWorldExtension.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -263,10 +203,6 @@ ___
 #### Inherited from
 
 [EditorWorldExtension](ue_ue.EditorWorldExtension.md).[GetClass](ue_ue.EditorWorldExtension.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -282,10 +218,6 @@ ___
 
 [EditorWorldExtension](ue_ue.EditorWorldExtension.md).[GetName](ue_ue.EditorWorldExtension.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -299,10 +231,6 @@ ___
 #### Inherited from
 
 [EditorWorldExtension](ue_ue.EditorWorldExtension.md).[GetOuter](ue_ue.EditorWorldExtension.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -318,10 +246,6 @@ ___
 
 [EditorWorldExtension](ue_ue.EditorWorldExtension.md).[GetWorld](ue_ue.EditorWorldExtension.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### GetWorldScaleFactor
@@ -331,10 +255,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:65915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65915)
 
 ___
 
@@ -357,10 +277,6 @@ ___
 
 [EditorWorldExtension](ue_ue.EditorWorldExtension.md).[Find](ue_ue.EditorWorldExtension.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:65917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65917)
-
 ___
 
 ### Load
@@ -381,10 +297,6 @@ ___
 
 [EditorWorldExtension](ue_ue.EditorWorldExtension.md).[Load](ue_ue.EditorWorldExtension.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:65918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65918)
-
 ___
 
 ### StaticClass
@@ -398,7 +310,3 @@ ___
 #### Overrides
 
 [EditorWorldExtension](ue_ue.EditorWorldExtension.md).[StaticClass](ue_ue.EditorWorldExtension.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:65916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65916)

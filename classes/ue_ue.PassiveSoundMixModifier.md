@@ -28,10 +28,6 @@
 
 • **new PassiveSoundMixModifier**()
 
-#### Defined in
-
-[ue/ue.d.ts:8879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8879)
-
 • **new PassiveSoundMixModifier**(`SoundMix`, `MinVolumeThreshold`, `MaxVolumeThreshold`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `MinVolumeThreshold` | `number` |
 | `MaxVolumeThreshold` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:8880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8880)
-
 ## Properties
 
 ### MaxVolumeThreshold
 
 • **MaxVolumeThreshold**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8883)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **MinVolumeThreshold**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8882)
-
 ___
 
 ### SoundMix
 
 • **SoundMix**: [`SoundMix`](ue_ue.SoundMix.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8881)
-
 ___
 
 ### \_\_tid\_PassiveSoundMixModifier\_\_
 
 • `Private` **\_\_tid\_PassiveSoundMixModifier\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8889)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8887)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8888)

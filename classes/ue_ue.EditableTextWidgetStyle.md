@@ -53,29 +53,17 @@
 
 [SlateWidgetStyleContainerBase](ue_ue.SlateWidgetStyleContainerBase.md).[constructor](ue_ue.SlateWidgetStyleContainerBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:32315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32315)
-
 ## Properties
 
 ### EditableTextStyle
 
 • **EditableTextStyle**: [`EditableTextStyle`](ue_ue.EditableTextStyle.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32316)
-
 ___
 
 ### \_\_tid\_EditableTextWidgetStyle\_\_
 
 • **\_\_tid\_EditableTextWidgetStyle\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32321)
 
 ___
 
@@ -87,10 +75,6 @@ ___
 
 [SlateWidgetStyleContainerBase](ue_ue.SlateWidgetStyleContainerBase.md).[__tid_Object__](ue_ue.SlateWidgetStyleContainerBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_SlateWidgetStyleContainerBase\_\_
@@ -100,10 +84,6 @@ ___
 #### Inherited from
 
 [SlateWidgetStyleContainerBase](ue_ue.SlateWidgetStyleContainerBase.md).[__tid_SlateWidgetStyleContainerBase__](ue_ue.SlateWidgetStyleContainerBase.md#__tid_slatewidgetstylecontainerbase__)
-
-#### Defined in
-
-[ue/ue.d.ts:25571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25571)
 
 ## Methods
 
@@ -129,10 +109,6 @@ ___
 
 [SlateWidgetStyleContainerBase](ue_ue.SlateWidgetStyleContainerBase.md).[CreateDefaultSubobject](ue_ue.SlateWidgetStyleContainerBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -153,10 +129,6 @@ ___
 
 [SlateWidgetStyleContainerBase](ue_ue.SlateWidgetStyleContainerBase.md).[ExecuteUbergraph](ue_ue.SlateWidgetStyleContainerBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -170,10 +142,6 @@ ___
 #### Inherited from
 
 [SlateWidgetStyleContainerBase](ue_ue.SlateWidgetStyleContainerBase.md).[GetClass](ue_ue.SlateWidgetStyleContainerBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -189,10 +157,6 @@ ___
 
 [SlateWidgetStyleContainerBase](ue_ue.SlateWidgetStyleContainerBase.md).[GetName](ue_ue.SlateWidgetStyleContainerBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -207,10 +171,6 @@ ___
 
 [SlateWidgetStyleContainerBase](ue_ue.SlateWidgetStyleContainerBase.md).[GetOuter](ue_ue.SlateWidgetStyleContainerBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -224,10 +184,6 @@ ___
 #### Inherited from
 
 [SlateWidgetStyleContainerBase](ue_ue.SlateWidgetStyleContainerBase.md).[GetWorld](ue_ue.SlateWidgetStyleContainerBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -250,10 +206,6 @@ ___
 
 [SlateWidgetStyleContainerBase](ue_ue.SlateWidgetStyleContainerBase.md).[Find](ue_ue.SlateWidgetStyleContainerBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:32318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32318)
-
 ___
 
 ### Load
@@ -274,10 +226,6 @@ ___
 
 [SlateWidgetStyleContainerBase](ue_ue.SlateWidgetStyleContainerBase.md).[Load](ue_ue.SlateWidgetStyleContainerBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:32319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32319)
-
 ___
 
 ### StaticClass
@@ -291,7 +239,3 @@ ___
 #### Overrides
 
 [SlateWidgetStyleContainerBase](ue_ue.SlateWidgetStyleContainerBase.md).[StaticClass](ue_ue.SlateWidgetStyleContainerBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:32317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32317)

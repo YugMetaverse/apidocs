@@ -357,10 +357,6 @@
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[constructor](ue_ue.CharacterMovementComponent.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:21161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21161)
-
 ## Properties
 
 ### Acceleration
@@ -370,10 +366,6 @@
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[Acceleration](ue_ue.CharacterMovementComponent.md#acceleration)
-
-#### Defined in
-
-[ue/ue.d.ts:5702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5702)
 
 ___
 
@@ -385,10 +377,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[AirControl](ue_ue.CharacterMovementComponent.md#aircontrol)
 
-#### Defined in
-
-[ue/ue.d.ts:5656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5656)
-
 ___
 
 ### AirControlBoostMultiplier
@@ -398,10 +386,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[AirControlBoostMultiplier](ue_ue.CharacterMovementComponent.md#aircontrolboostmultiplier)
-
-#### Defined in
-
-[ue/ue.d.ts:5657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5657)
 
 ___
 
@@ -413,10 +397,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[AirControlBoostVelocityThreshold](ue_ue.CharacterMovementComponent.md#aircontrolboostvelocitythreshold)
 
-#### Defined in
-
-[ue/ue.d.ts:5658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5658)
-
 ___
 
 ### AnalogInputModifier
@@ -426,10 +406,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[AnalogInputModifier](ue_ue.CharacterMovementComponent.md#analoginputmodifier)
-
-#### Defined in
-
-[ue/ue.d.ts:5711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5711)
 
 ___
 
@@ -441,10 +417,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[AnimRootMotionVelocity](ue_ue.CharacterMovementComponent.md#animrootmotionvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:5784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5784)
-
 ___
 
 ### AssetUserData
@@ -454,10 +426,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[AssetUserData](ue_ue.CharacterMovementComponent.md#assetuserdata)
-
-#### Defined in
-
-[ue/ue.d.ts:291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L291)
 
 ___
 
@@ -469,10 +437,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[AvoidanceConsiderationRadius](ue_ue.CharacterMovementComponent.md#avoidanceconsiderationradius)
 
-#### Defined in
-
-[ue/ue.d.ts:5766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5766)
-
 ___
 
 ### AvoidanceGroup
@@ -482,10 +446,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[AvoidanceGroup](ue_ue.CharacterMovementComponent.md#avoidancegroup)
-
-#### Defined in
-
-[ue/ue.d.ts:5769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5769)
 
 ___
 
@@ -497,10 +457,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[AvoidanceUID](ue_ue.CharacterMovementComponent.md#avoidanceuid)
 
-#### Defined in
-
-[ue/ue.d.ts:5768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5768)
-
 ___
 
 ### AvoidanceWeight
@@ -510,10 +466,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[AvoidanceWeight](ue_ue.CharacterMovementComponent.md#avoidanceweight)
-
-#### Defined in
-
-[ue/ue.d.ts:5772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5772)
 
 ___
 
@@ -525,10 +477,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[BrakingDecelerationFalling](ue_ue.CharacterMovementComponent.md#brakingdecelerationfalling)
 
-#### Defined in
-
-[ue/ue.d.ts:5653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5653)
-
 ___
 
 ### BrakingDecelerationFlying
@@ -538,10 +486,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[BrakingDecelerationFlying](ue_ue.CharacterMovementComponent.md#brakingdecelerationflying)
-
-#### Defined in
-
-[ue/ue.d.ts:5655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5655)
 
 ___
 
@@ -553,10 +497,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[BrakingDecelerationSwimming](ue_ue.CharacterMovementComponent.md#brakingdecelerationswimming)
 
-#### Defined in
-
-[ue/ue.d.ts:5654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5654)
-
 ___
 
 ### BrakingDecelerationWalking
@@ -566,10 +506,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[BrakingDecelerationWalking](ue_ue.CharacterMovementComponent.md#brakingdecelerationwalking)
-
-#### Defined in
-
-[ue/ue.d.ts:5652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5652)
 
 ___
 
@@ -581,10 +517,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[BrakingFriction](ue_ue.CharacterMovementComponent.md#brakingfriction)
 
-#### Defined in
-
-[ue/ue.d.ts:5650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5650)
-
 ___
 
 ### BrakingFrictionFactor
@@ -594,10 +526,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[BrakingFrictionFactor](ue_ue.CharacterMovementComponent.md#brakingfrictionfactor)
-
-#### Defined in
-
-[ue/ue.d.ts:5649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5649)
 
 ___
 
@@ -609,10 +537,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[BrakingSubStepTime](ue_ue.CharacterMovementComponent.md#brakingsubsteptime)
 
-#### Defined in
-
-[ue/ue.d.ts:5651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5651)
-
 ___
 
 ### Buoyancy
@@ -622,10 +546,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[Buoyancy](ue_ue.CharacterMovementComponent.md#buoyancy)
-
-#### Defined in
-
-[ue/ue.d.ts:5661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5661)
 
 ___
 
@@ -637,10 +557,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[CharacterOwner](ue_ue.CharacterMovementComponent.md#characterowner)
 
-#### Defined in
-
-[ue/ue.d.ts:5631](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5631)
-
 ___
 
 ### ComponentTags
@@ -650,10 +566,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[ComponentTags](ue_ue.CharacterMovementComponent.md#componenttags)
-
-#### Defined in
-
-[ue/ue.d.ts:290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L290)
 
 ___
 
@@ -665,10 +577,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[CreationMethod](ue_ue.CharacterMovementComponent.md#creationmethod)
 
-#### Defined in
-
-[ue/ue.d.ts:302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L302)
-
 ___
 
 ### CrouchedHalfHeight
@@ -678,10 +586,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[CrouchedHalfHeight](ue_ue.CharacterMovementComponent.md#crouchedhalfheight)
-
-#### Defined in
-
-[ue/ue.d.ts:5660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5660)
 
 ___
 
@@ -693,10 +597,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[CrouchedSpeedMultiplier](ue_ue.CharacterMovementComponent.md#crouchedspeedmultiplier)
 
-#### Defined in
-
-[ue/ue.d.ts:5700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5700)
-
 ___
 
 ### CurrentFloor
@@ -706,10 +606,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[CurrentFloor](ue_ue.CharacterMovementComponent.md#currentfloor)
-
-#### Defined in
-
-[ue/ue.d.ts:5733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5733)
 
 ___
 
@@ -721,10 +617,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[CurrentRootMotion](ue_ue.CharacterMovementComponent.md#currentrootmotion)
 
-#### Defined in
-
-[ue/ue.d.ts:5782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5782)
-
 ___
 
 ### CustomMovementMode
@@ -734,10 +626,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[CustomMovementMode](ue_ue.CharacterMovementComponent.md#custommovementmode)
-
-#### Defined in
-
-[ue/ue.d.ts:5639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5639)
 
 ___
 
@@ -749,10 +637,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[DefaultLandMovementMode](ue_ue.CharacterMovementComponent.md#defaultlandmovementmode)
 
-#### Defined in
-
-[ue/ue.d.ts:5734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5734)
-
 ___
 
 ### DefaultWaterMovementMode
@@ -762,10 +646,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[DefaultWaterMovementMode](ue_ue.CharacterMovementComponent.md#defaultwatermovementmode)
-
-#### Defined in
-
-[ue/ue.d.ts:5735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5735)
 
 ___
 
@@ -777,10 +657,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[DeferredUpdatedMoveComponent](ue_ue.CharacterMovementComponent.md#deferredupdatedmovecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:5687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5687)
-
 ___
 
 ### FallingLateralFriction
@@ -790,10 +666,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[FallingLateralFriction](ue_ue.CharacterMovementComponent.md#fallinglateralfriction)
-
-#### Defined in
-
-[ue/ue.d.ts:5659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5659)
 
 ___
 
@@ -805,10 +677,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[FixedPathBrakingDistance](ue_ue.CharacterMovementComponent.md#fixedpathbrakingdistance)
 
-#### Defined in
-
-[ue/ue.d.ts:5468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5468)
-
 ___
 
 ### GravityScale
@@ -818,10 +686,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GravityScale](ue_ue.CharacterMovementComponent.md#gravityscale)
-
-#### Defined in
-
-[ue/ue.d.ts:5632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5632)
 
 ___
 
@@ -833,10 +697,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GroundFriction](ue_ue.CharacterMovementComponent.md#groundfriction)
 
-#### Defined in
-
-[ue/ue.d.ts:5641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5641)
-
 ___
 
 ### GroundMovementMode
@@ -846,10 +706,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GroundMovementMode](ue_ue.CharacterMovementComponent.md#groundmovementmode)
-
-#### Defined in
-
-[ue/ue.d.ts:5736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5736)
 
 ___
 
@@ -861,10 +717,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GroupsToAvoid](ue_ue.CharacterMovementComponent.md#groupstoavoid)
 
-#### Defined in
-
-[ue/ue.d.ts:5770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5770)
-
 ___
 
 ### GroupsToIgnore
@@ -874,10 +726,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GroupsToIgnore](ue_ue.CharacterMovementComponent.md#groupstoignore)
-
-#### Defined in
-
-[ue/ue.d.ts:5771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5771)
 
 ___
 
@@ -889,10 +737,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[InitialPushForceFactor](ue_ue.CharacterMovementComponent.md#initialpushforcefactor)
 
-#### Defined in
-
-[ue/ue.d.ts:5692](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5692)
-
 ___
 
 ### JumpOffJumpZFactor
@@ -902,10 +746,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[JumpOffJumpZFactor](ue_ue.CharacterMovementComponent.md#jumpoffjumpzfactor)
-
-#### Defined in
-
-[ue/ue.d.ts:5635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5635)
 
 ___
 
@@ -917,10 +757,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[JumpOutOfWaterPitch](ue_ue.CharacterMovementComponent.md#jumpoutofwaterpitch)
 
-#### Defined in
-
-[ue/ue.d.ts:5732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5732)
-
 ___
 
 ### JumpZVelocity
@@ -930,10 +766,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[JumpZVelocity](ue_ue.CharacterMovementComponent.md#jumpzvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:5634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5634)
 
 ___
 
@@ -945,10 +777,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[LastUpdateLocation](ue_ue.CharacterMovementComponent.md#lastupdatelocation)
 
-#### Defined in
-
-[ue/ue.d.ts:5704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5704)
-
 ___
 
 ### LastUpdateRotation
@@ -958,10 +786,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[LastUpdateRotation](ue_ue.CharacterMovementComponent.md#lastupdaterotation)
-
-#### Defined in
-
-[ue/ue.d.ts:5703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5703)
 
 ___
 
@@ -973,10 +797,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[LastUpdateVelocity](ue_ue.CharacterMovementComponent.md#lastupdatevelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:5705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5705)
-
 ___
 
 ### LedgeCheckThreshold
@@ -986,10 +806,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[LedgeCheckThreshold](ue_ue.CharacterMovementComponent.md#ledgecheckthreshold)
-
-#### Defined in
-
-[ue/ue.d.ts:5731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5731)
 
 ___
 
@@ -1001,10 +817,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[ListenServerNetworkSimulatedSmoothLocationTime](ue_ue.CharacterMovementComponent.md#listenservernetworksimulatedsmoothlocationtime)
 
-#### Defined in
-
-[ue/ue.d.ts:5721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5721)
-
 ___
 
 ### ListenServerNetworkSimulatedSmoothRotationTime
@@ -1014,10 +826,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[ListenServerNetworkSimulatedSmoothRotationTime](ue_ue.CharacterMovementComponent.md#listenservernetworksimulatedsmoothrotationtime)
-
-#### Defined in
-
-[ue/ue.d.ts:5722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5722)
 
 ___
 
@@ -1029,10 +837,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[Mass](ue_ue.CharacterMovementComponent.md#mass)
 
-#### Defined in
-
-[ue/ue.d.ts:5690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5690)
-
 ___
 
 ### MaxAcceleration
@@ -1042,10 +846,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[MaxAcceleration](ue_ue.CharacterMovementComponent.md#maxacceleration)
-
-#### Defined in
-
-[ue/ue.d.ts:5647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5647)
 
 ___
 
@@ -1057,10 +857,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[MaxCustomMovementSpeed](ue_ue.CharacterMovementComponent.md#maxcustommovementspeed)
 
-#### Defined in
-
-[ue/ue.d.ts:5646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5646)
-
 ___
 
 ### MaxDepenetrationWithGeometry
@@ -1070,10 +866,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[MaxDepenetrationWithGeometry](ue_ue.CharacterMovementComponent.md#maxdepenetrationwithgeometry)
-
-#### Defined in
-
-[ue/ue.d.ts:5715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5715)
 
 ___
 
@@ -1085,10 +877,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[MaxDepenetrationWithGeometryAsProxy](ue_ue.CharacterMovementComponent.md#maxdepenetrationwithgeometryasproxy)
 
-#### Defined in
-
-[ue/ue.d.ts:5716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5716)
-
 ___
 
 ### MaxDepenetrationWithPawn
@@ -1098,10 +886,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[MaxDepenetrationWithPawn](ue_ue.CharacterMovementComponent.md#maxdepenetrationwithpawn)
-
-#### Defined in
-
-[ue/ue.d.ts:5717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5717)
 
 ___
 
@@ -1113,10 +897,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[MaxDepenetrationWithPawnAsProxy](ue_ue.CharacterMovementComponent.md#maxdepenetrationwithpawnasproxy)
 
-#### Defined in
-
-[ue/ue.d.ts:5718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5718)
-
 ___
 
 ### MaxFlySpeed
@@ -1126,10 +906,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[MaxFlySpeed](ue_ue.CharacterMovementComponent.md#maxflyspeed)
-
-#### Defined in
-
-[ue/ue.d.ts:5645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5645)
 
 ___
 
@@ -1141,10 +917,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[MaxJumpApexAttemptsPerSimulation](ue_ue.CharacterMovementComponent.md#maxjumpapexattemptspersimulation)
 
-#### Defined in
-
-[ue/ue.d.ts:5714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5714)
-
 ___
 
 ### MaxOutOfWaterStepHeight
@@ -1155,29 +927,17 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[MaxOutOfWaterStepHeight](ue_ue.CharacterMovementComponent.md#maxoutofwaterstepheight)
 
-#### Defined in
-
-[ue/ue.d.ts:5688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5688)
-
 ___
 
 ### MaxPitch
 
 • **MaxPitch**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21166)
-
 ___
 
 ### MaxRotationalVelocity
 
 • **MaxRotationalVelocity**: [`Rotator`](ue_ue_s.Rotator.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21164)
 
 ___
 
@@ -1189,10 +949,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[MaxSimulationIterations](ue_ue.CharacterMovementComponent.md#maxsimulationiterations)
 
-#### Defined in
-
-[ue/ue.d.ts:5713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5713)
-
 ___
 
 ### MaxSimulationTimeStep
@@ -1202,10 +958,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[MaxSimulationTimeStep](ue_ue.CharacterMovementComponent.md#maxsimulationtimestep)
-
-#### Defined in
-
-[ue/ue.d.ts:5712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5712)
 
 ___
 
@@ -1217,10 +969,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[MaxStepHeight](ue_ue.CharacterMovementComponent.md#maxstepheight)
 
-#### Defined in
-
-[ue/ue.d.ts:5633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5633)
-
 ___
 
 ### MaxSwimSpeed
@@ -1230,10 +978,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[MaxSwimSpeed](ue_ue.CharacterMovementComponent.md#maxswimspeed)
-
-#### Defined in
-
-[ue/ue.d.ts:5644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5644)
 
 ___
 
@@ -1245,10 +989,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[MaxTouchForce](ue_ue.CharacterMovementComponent.md#maxtouchforce)
 
-#### Defined in
-
-[ue/ue.d.ts:5697](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5697)
-
 ___
 
 ### MaxWalkSpeed
@@ -1258,10 +998,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[MaxWalkSpeed](ue_ue.CharacterMovementComponent.md#maxwalkspeed)
-
-#### Defined in
-
-[ue/ue.d.ts:5642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5642)
 
 ___
 
@@ -1273,10 +1009,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[MaxWalkSpeedCrouched](ue_ue.CharacterMovementComponent.md#maxwalkspeedcrouched)
 
-#### Defined in
-
-[ue/ue.d.ts:5643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5643)
-
 ___
 
 ### MinAnalogWalkSpeed
@@ -1287,19 +1019,11 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[MinAnalogWalkSpeed](ue_ue.CharacterMovementComponent.md#minanalogwalkspeed)
 
-#### Defined in
-
-[ue/ue.d.ts:5648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5648)
-
 ___
 
 ### MinPitch
 
 • **MinPitch**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21165)
 
 ___
 
@@ -1311,10 +1035,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[MinTimeBetweenTimeStampResets](ue_ue.CharacterMovementComponent.md#mintimebetweentimestampresets)
 
-#### Defined in
-
-[ue/ue.d.ts:5781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5781)
-
 ___
 
 ### MinTouchForce
@@ -1324,10 +1044,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[MinTouchForce](ue_ue.CharacterMovementComponent.md#mintouchforce)
-
-#### Defined in
-
-[ue/ue.d.ts:5696](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5696)
 
 ___
 
@@ -1339,10 +1055,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[MovementMode](ue_ue.CharacterMovementComponent.md#movementmode)
 
-#### Defined in
-
-[ue/ue.d.ts:5638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5638)
-
 ___
 
 ### MovementState
@@ -1352,10 +1064,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[MovementState](ue_ue.CharacterMovementComponent.md#movementstate)
-
-#### Defined in
-
-[ue/ue.d.ts:5472](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5472)
 
 ___
 
@@ -1367,10 +1075,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[NavAgentProps](ue_ue.CharacterMovementComponent.md#navagentprops)
 
-#### Defined in
-
-[ue/ue.d.ts:5467](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5467)
-
 ___
 
 ### NavMeshProjectionHeightScaleDown
@@ -1380,10 +1084,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[NavMeshProjectionHeightScaleDown](ue_ue.CharacterMovementComponent.md#navmeshprojectionheightscaledown)
-
-#### Defined in
-
-[ue/ue.d.ts:5778](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5778)
 
 ___
 
@@ -1395,10 +1095,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[NavMeshProjectionHeightScaleUp](ue_ue.CharacterMovementComponent.md#navmeshprojectionheightscaleup)
 
-#### Defined in
-
-[ue/ue.d.ts:5777](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5777)
-
 ___
 
 ### NavMeshProjectionInterpSpeed
@@ -1408,10 +1104,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[NavMeshProjectionInterpSpeed](ue_ue.CharacterMovementComponent.md#navmeshprojectioninterpspeed)
-
-#### Defined in
-
-[ue/ue.d.ts:5776](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5776)
 
 ___
 
@@ -1423,10 +1115,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[NavMeshProjectionInterval](ue_ue.CharacterMovementComponent.md#navmeshprojectioninterval)
 
-#### Defined in
-
-[ue/ue.d.ts:5774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5774)
-
 ___
 
 ### NavMeshProjectionTimer
@@ -1436,10 +1124,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[NavMeshProjectionTimer](ue_ue.CharacterMovementComponent.md#navmeshprojectiontimer)
-
-#### Defined in
-
-[ue/ue.d.ts:5775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5775)
 
 ___
 
@@ -1451,10 +1135,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[NavWalkingFloorDistTolerance](ue_ue.CharacterMovementComponent.md#navwalkingfloordisttolerance)
 
-#### Defined in
-
-[ue/ue.d.ts:5779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5779)
-
 ___
 
 ### NetProxyShrinkHalfHeight
@@ -1464,10 +1144,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[NetProxyShrinkHalfHeight](ue_ue.CharacterMovementComponent.md#netproxyshrinkhalfheight)
-
-#### Defined in
-
-[ue/ue.d.ts:5724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5724)
 
 ___
 
@@ -1479,10 +1155,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[NetProxyShrinkRadius](ue_ue.CharacterMovementComponent.md#netproxyshrinkradius)
 
-#### Defined in
-
-[ue/ue.d.ts:5723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5723)
-
 ___
 
 ### NetworkLargeClientCorrectionDistance
@@ -1492,10 +1164,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[NetworkLargeClientCorrectionDistance](ue_ue.CharacterMovementComponent.md#networklargeclientcorrectiondistance)
-
-#### Defined in
-
-[ue/ue.d.ts:5730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5730)
 
 ___
 
@@ -1507,10 +1175,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[NetworkMaxSmoothUpdateDistance](ue_ue.CharacterMovementComponent.md#networkmaxsmoothupdatedistance)
 
-#### Defined in
-
-[ue/ue.d.ts:5725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5725)
-
 ___
 
 ### NetworkMinTimeBetweenClientAckGoodMoves
@@ -1520,10 +1184,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[NetworkMinTimeBetweenClientAckGoodMoves](ue_ue.CharacterMovementComponent.md#networkmintimebetweenclientackgoodmoves)
-
-#### Defined in
-
-[ue/ue.d.ts:5727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5727)
 
 ___
 
@@ -1535,10 +1195,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[NetworkMinTimeBetweenClientAdjustments](ue_ue.CharacterMovementComponent.md#networkmintimebetweenclientadjustments)
 
-#### Defined in
-
-[ue/ue.d.ts:5728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5728)
-
 ___
 
 ### NetworkMinTimeBetweenClientAdjustmentsLargeCorrection
@@ -1548,10 +1204,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[NetworkMinTimeBetweenClientAdjustmentsLargeCorrection](ue_ue.CharacterMovementComponent.md#networkmintimebetweenclientadjustmentslargecorrection)
-
-#### Defined in
-
-[ue/ue.d.ts:5729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5729)
 
 ___
 
@@ -1563,10 +1215,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[NetworkNoSmoothUpdateDistance](ue_ue.CharacterMovementComponent.md#networknosmoothupdatedistance)
 
-#### Defined in
-
-[ue/ue.d.ts:5726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5726)
-
 ___
 
 ### NetworkSimulatedSmoothLocationTime
@@ -1576,10 +1224,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[NetworkSimulatedSmoothLocationTime](ue_ue.CharacterMovementComponent.md#networksimulatedsmoothlocationtime)
-
-#### Defined in
-
-[ue/ue.d.ts:5719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5719)
 
 ___
 
@@ -1591,10 +1235,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[NetworkSimulatedSmoothRotationTime](ue_ue.CharacterMovementComponent.md#networksimulatedsmoothrotationtime)
 
-#### Defined in
-
-[ue/ue.d.ts:5720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5720)
-
 ___
 
 ### NetworkSmoothingMode
@@ -1604,10 +1244,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[NetworkSmoothingMode](ue_ue.CharacterMovementComponent.md#networksmoothingmode)
-
-#### Defined in
-
-[ue/ue.d.ts:5640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5640)
 
 ___
 
@@ -1619,10 +1255,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[OnComponentActivated](ue_ue.CharacterMovementComponent.md#oncomponentactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L303)
-
 ___
 
 ### OnComponentDeactivated
@@ -1632,10 +1264,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[OnComponentDeactivated](ue_ue.CharacterMovementComponent.md#oncomponentdeactivated)
-
-#### Defined in
-
-[ue/ue.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L304)
 
 ___
 
@@ -1647,10 +1275,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[OutofWaterZ](ue_ue.CharacterMovementComponent.md#outofwaterz)
 
-#### Defined in
-
-[ue/ue.d.ts:5689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5689)
-
 ___
 
 ### PathFollowingComp
@@ -1660,10 +1284,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[PathFollowingComp](ue_ue.CharacterMovementComponent.md#pathfollowingcomp)
-
-#### Defined in
-
-[ue/ue.d.ts:5473](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5473)
 
 ___
 
@@ -1675,10 +1295,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[PawnOwner](ue_ue.CharacterMovementComponent.md#pawnowner)
 
-#### Defined in
-
-[ue/ue.d.ts:5490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5490)
-
 ___
 
 ### PendingForceToApply
@@ -1688,10 +1304,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[PendingForceToApply](ue_ue.CharacterMovementComponent.md#pendingforcetoapply)
-
-#### Defined in
-
-[ue/ue.d.ts:5710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5710)
 
 ___
 
@@ -1703,10 +1315,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[PendingImpulseToApply](ue_ue.CharacterMovementComponent.md#pendingimpulsetoapply)
 
-#### Defined in
-
-[ue/ue.d.ts:5709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5709)
-
 ___
 
 ### PendingLaunchVelocity
@@ -1716,10 +1324,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[PendingLaunchVelocity](ue_ue.CharacterMovementComponent.md#pendinglaunchvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:5773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5773)
 
 ___
 
@@ -1731,10 +1335,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[PerchAdditionalHeight](ue_ue.CharacterMovementComponent.md#perchadditionalheight)
 
-#### Defined in
-
-[ue/ue.d.ts:5663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5663)
-
 ___
 
 ### PerchRadiusThreshold
@@ -1744,10 +1344,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[PerchRadiusThreshold](ue_ue.CharacterMovementComponent.md#perchradiusthreshold)
-
-#### Defined in
-
-[ue/ue.d.ts:5662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5662)
 
 ___
 
@@ -1759,10 +1355,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[PlaneConstraintAxisSetting](ue_ue.CharacterMovementComponent.md#planeconstraintaxissetting)
 
-#### Defined in
-
-[ue/ue.d.ts:5403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5403)
-
 ___
 
 ### PlaneConstraintNormal
@@ -1772,10 +1364,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[PlaneConstraintNormal](ue_ue.CharacterMovementComponent.md#planeconstraintnormal)
-
-#### Defined in
-
-[ue/ue.d.ts:5393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5393)
 
 ___
 
@@ -1787,10 +1375,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[PlaneConstraintOrigin](ue_ue.CharacterMovementComponent.md#planeconstraintorigin)
 
-#### Defined in
-
-[ue/ue.d.ts:5394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5394)
-
 ___
 
 ### PostPhysicsTickFunction
@@ -1800,10 +1384,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[PostPhysicsTickFunction](ue_ue.CharacterMovementComponent.md#postphysicstickfunction)
-
-#### Defined in
-
-[ue/ue.d.ts:5780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5780)
 
 ___
 
@@ -1815,10 +1395,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[PrimaryComponentTick](ue_ue.CharacterMovementComponent.md#primarycomponenttick)
 
-#### Defined in
-
-[ue/ue.d.ts:289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L289)
-
 ___
 
 ### PushForceFactor
@@ -1828,10 +1404,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[PushForceFactor](ue_ue.CharacterMovementComponent.md#pushforcefactor)
-
-#### Defined in
-
-[ue/ue.d.ts:5693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5693)
 
 ___
 
@@ -1843,10 +1415,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[PushForcePointZOffsetFactor](ue_ue.CharacterMovementComponent.md#pushforcepointzoffsetfactor)
 
-#### Defined in
-
-[ue/ue.d.ts:5694](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5694)
-
 ___
 
 ### RepulsionForce
@@ -1856,10 +1424,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[RepulsionForce](ue_ue.CharacterMovementComponent.md#repulsionforce)
-
-#### Defined in
-
-[ue/ue.d.ts:5698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5698)
 
 ___
 
@@ -1871,10 +1435,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[RequestedVelocity](ue_ue.CharacterMovementComponent.md#requestedvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:5767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5767)
-
 ___
 
 ### RootMotionParams
@@ -1884,10 +1444,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[RootMotionParams](ue_ue.CharacterMovementComponent.md#rootmotionparams)
-
-#### Defined in
-
-[ue/ue.d.ts:5783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5783)
 
 ___
 
@@ -1899,29 +1455,17 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[RotationRate](ue_ue.CharacterMovementComponent.md#rotationrate)
 
-#### Defined in
-
-[ue/ue.d.ts:5664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5664)
-
 ___
 
 ### RotationalAcceleration
 
 • **RotationalAcceleration**: [`Rotator`](ue_ue_s.Rotator.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21162)
-
 ___
 
 ### RotationalDeceleration
 
 • **RotationalDeceleration**: [`Rotator`](ue_ue_s.Rotator.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21163)
 
 ___
 
@@ -1933,10 +1477,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[ServerLastClientAdjustmentTime](ue_ue.CharacterMovementComponent.md#serverlastclientadjustmenttime)
 
-#### Defined in
-
-[ue/ue.d.ts:5708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5708)
-
 ___
 
 ### ServerLastClientGoodMoveAckTime
@@ -1946,10 +1486,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[ServerLastClientGoodMoveAckTime](ue_ue.CharacterMovementComponent.md#serverlastclientgoodmoveacktime)
-
-#### Defined in
-
-[ue/ue.d.ts:5707](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5707)
 
 ___
 
@@ -1961,10 +1497,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[ServerLastTransformUpdateTimeStamp](ue_ue.CharacterMovementComponent.md#serverlasttransformupdatetimestamp)
 
-#### Defined in
-
-[ue/ue.d.ts:5706](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5706)
-
 ___
 
 ### StandingDownwardForceScale
@@ -1974,10 +1506,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[StandingDownwardForceScale](ue_ue.CharacterMovementComponent.md#standingdownwardforcescale)
-
-#### Defined in
-
-[ue/ue.d.ts:5691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5691)
 
 ___
 
@@ -1989,10 +1517,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[TouchForceFactor](ue_ue.CharacterMovementComponent.md#touchforcefactor)
 
-#### Defined in
-
-[ue/ue.d.ts:5695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5695)
-
 ___
 
 ### UCSModifiedProperties
@@ -2002,10 +1526,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[UCSModifiedProperties](ue_ue.CharacterMovementComponent.md#ucsmodifiedproperties)
-
-#### Defined in
-
-[ue/ue.d.ts:305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L305)
 
 ___
 
@@ -2017,10 +1537,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[UpdatedComponent](ue_ue.CharacterMovementComponent.md#updatedcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:5390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5390)
-
 ___
 
 ### UpdatedPrimitive
@@ -2030,10 +1546,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[UpdatedPrimitive](ue_ue.CharacterMovementComponent.md#updatedprimitive)
-
-#### Defined in
-
-[ue/ue.d.ts:5391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5391)
 
 ___
 
@@ -2045,10 +1557,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[UpperImpactNormalScale](ue_ue.CharacterMovementComponent.md#upperimpactnormalscale)
 
-#### Defined in
-
-[ue/ue.d.ts:5701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5701)
-
 ___
 
 ### Velocity
@@ -2058,10 +1566,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[Velocity](ue_ue.CharacterMovementComponent.md#velocity)
-
-#### Defined in
-
-[ue/ue.d.ts:5392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5392)
 
 ___
 
@@ -2073,10 +1577,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[WalkableFloorAngle](ue_ue.CharacterMovementComponent.md#walkablefloorangle)
 
-#### Defined in
-
-[ue/ue.d.ts:5636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5636)
-
 ___
 
 ### WalkableFloorZ
@@ -2087,19 +1587,11 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[WalkableFloorZ](ue_ue.CharacterMovementComponent.md#walkablefloorz)
 
-#### Defined in
-
-[ue/ue.d.ts:5637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5637)
-
 ___
 
 ### WalkingAcceleration
 
 • **WalkingAcceleration**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21169)
 
 ___
 
@@ -2107,19 +1599,11 @@ ___
 
 • **WalkingFriction**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21167)
-
 ___
 
 ### WalkingSpeed
 
 • **WalkingSpeed**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21168)
 
 ___
 
@@ -2131,19 +1615,11 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[__tid_ActorComponent__](ue_ue.CharacterMovementComponent.md#__tid_actorcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L336)
-
 ___
 
 ### \_\_tid\_ArchVisCharMovementComponent\_\_
 
 • **\_\_tid\_ArchVisCharMovementComponent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21174)
 
 ___
 
@@ -2155,10 +1631,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[__tid_CharacterMovementComponent__](ue_ue.CharacterMovementComponent.md#__tid_charactermovementcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:5827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5827)
-
 ___
 
 ### \_\_tid\_MovementComponent\_\_
@@ -2168,10 +1640,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[__tid_MovementComponent__](ue_ue.CharacterMovementComponent.md#__tid_movementcomponent__)
-
-#### Defined in
-
-[ue/ue.d.ts:5430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5430)
 
 ___
 
@@ -2183,10 +1651,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[__tid_NavMovementComponent__](ue_ue.CharacterMovementComponent.md#__tid_navmovementcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:5485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5485)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -2196,10 +1660,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[__tid_Object__](ue_ue.CharacterMovementComponent.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -2211,10 +1671,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[__tid_PawnMovementComponent__](ue_ue.CharacterMovementComponent.md#__tid_pawnmovementcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:5502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5502)
-
 ___
 
 ### bAllowPhysicsRotationDuringAnimRootMotion
@@ -2224,10 +1680,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bAllowPhysicsRotationDuringAnimRootMotion](ue_ue.CharacterMovementComponent.md#ballowphysicsrotationduringanimrootmotion)
-
-#### Defined in
-
-[ue/ue.d.ts:5760](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5760)
 
 ___
 
@@ -2239,10 +1691,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bAlwaysCheckFloor](ue_ue.CharacterMovementComponent.md#balwayscheckfloor)
 
-#### Defined in
-
-[ue/ue.d.ts:5753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5753)
-
 ___
 
 ### bApplyGravityWhileJumping
@@ -2252,10 +1700,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bApplyGravityWhileJumping](ue_ue.CharacterMovementComponent.md#bapplygravitywhilejumping)
-
-#### Defined in
-
-[ue/ue.d.ts:5666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5666)
 
 ___
 
@@ -2267,10 +1711,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bAutoActivate](ue_ue.CharacterMovementComponent.md#bautoactivate)
 
-#### Defined in
-
-[ue/ue.d.ts:296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L296)
-
 ___
 
 ### bAutoRegisterPhysicsVolumeUpdates
@@ -2280,10 +1720,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bAutoRegisterPhysicsVolumeUpdates](ue_ue.CharacterMovementComponent.md#bautoregisterphysicsvolumeupdates)
-
-#### Defined in
-
-[ue/ue.d.ts:5401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5401)
 
 ___
 
@@ -2295,10 +1731,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bAutoRegisterUpdatedComponent](ue_ue.CharacterMovementComponent.md#bautoregisterupdatedcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:5398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5398)
-
 ___
 
 ### bAutoUpdateTickRegistration
@@ -2308,10 +1740,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bAutoUpdateTickRegistration](ue_ue.CharacterMovementComponent.md#bautoupdatetickregistration)
-
-#### Defined in
-
-[ue/ue.d.ts:5396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5396)
 
 ___
 
@@ -2323,10 +1751,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bCanEverAffectNavigation](ue_ue.CharacterMovementComponent.md#bcaneveraffectnavigation)
 
-#### Defined in
-
-[ue/ue.d.ts:299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L299)
-
 ___
 
 ### bCanWalkOffLedges
@@ -2336,10 +1760,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bCanWalkOffLedges](ue_ue.CharacterMovementComponent.md#bcanwalkoffledges)
-
-#### Defined in
-
-[ue/ue.d.ts:5677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5677)
 
 ___
 
@@ -2351,10 +1771,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bCanWalkOffLedgesWhenCrouching](ue_ue.CharacterMovementComponent.md#bcanwalkoffledgeswhencrouching)
 
-#### Defined in
-
-[ue/ue.d.ts:5678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5678)
-
 ___
 
 ### bCheatFlying
@@ -2364,10 +1780,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bCheatFlying](ue_ue.CharacterMovementComponent.md#bcheatflying)
-
-#### Defined in
-
-[ue/ue.d.ts:5748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5748)
 
 ___
 
@@ -2379,10 +1791,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bComponentShouldUpdatePhysicsVolume](ue_ue.CharacterMovementComponent.md#bcomponentshouldupdatephysicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:5402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5402)
-
 ___
 
 ### bConstrainToPlane
@@ -2392,10 +1800,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bConstrainToPlane](ue_ue.CharacterMovementComponent.md#bconstraintoplane)
-
-#### Defined in
-
-[ue/ue.d.ts:5399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5399)
 
 ___
 
@@ -2407,10 +1811,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bCreatedByConstructionScript](ue_ue.CharacterMovementComponent.md#bcreatedbyconstructionscript)
 
-#### Defined in
-
-[ue/ue.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L294)
-
 ___
 
 ### bCrouchMaintainsBaseLocation
@@ -2420,10 +1820,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bCrouchMaintainsBaseLocation](ue_ue.CharacterMovementComponent.md#bcrouchmaintainsbaselocation)
-
-#### Defined in
-
-[ue/ue.d.ts:5750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5750)
 
 ___
 
@@ -2435,10 +1831,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bDeferUpdateMoveComponent](ue_ue.CharacterMovementComponent.md#bdeferupdatemovecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:5681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5681)
-
 ___
 
 ### bEditableWhenInherited
@@ -2448,10 +1840,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bEditableWhenInherited](ue_ue.CharacterMovementComponent.md#beditablewheninherited)
-
-#### Defined in
-
-[ue/ue.d.ts:298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L298)
 
 ___
 
@@ -2463,10 +1851,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bEnablePhysicsInteraction](ue_ue.CharacterMovementComponent.md#benablephysicsinteraction)
 
-#### Defined in
-
-[ue/ue.d.ts:5682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5682)
-
 ___
 
 ### bEnableScopedMovementUpdates
@@ -2476,10 +1860,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bEnableScopedMovementUpdates](ue_ue.CharacterMovementComponent.md#benablescopedmovementupdates)
-
-#### Defined in
-
-[ue/ue.d.ts:5671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5671)
 
 ___
 
@@ -2491,10 +1871,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bEnableServerDualMoveScopedMovementUpdates](ue_ue.CharacterMovementComponent.md#benableserverdualmovescopedmovementupdates)
 
-#### Defined in
-
-[ue/ue.d.ts:5672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5672)
-
 ___
 
 ### bFastAttachedMove
@@ -2504,10 +1880,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bFastAttachedMove](ue_ue.CharacterMovementComponent.md#bfastattachedmove)
-
-#### Defined in
-
-[ue/ue.d.ts:5752](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5752)
 
 ___
 
@@ -2519,10 +1891,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bForceBraking](ue_ue.CharacterMovementComponent.md#bforcebraking)
 
-#### Defined in
-
-[ue/ue.d.ts:5699](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5699)
-
 ___
 
 ### bForceMaxAccel
@@ -2532,10 +1900,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bForceMaxAccel](ue_ue.CharacterMovementComponent.md#bforcemaxaccel)
-
-#### Defined in
-
-[ue/ue.d.ts:5673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5673)
 
 ___
 
@@ -2547,10 +1911,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bForceNextFloorCheck](ue_ue.CharacterMovementComponent.md#bforcenextfloorcheck)
 
-#### Defined in
-
-[ue/ue.d.ts:5675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5675)
-
 ___
 
 ### bHasRequestedVelocity
@@ -2560,10 +1920,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bHasRequestedVelocity](ue_ue.CharacterMovementComponent.md#bhasrequestedvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:5761](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5761)
 
 ___
 
@@ -2575,10 +1931,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bIgnoreBaseRotation](ue_ue.CharacterMovementComponent.md#bignorebaserotation)
 
-#### Defined in
-
-[ue/ue.d.ts:5751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5751)
-
 ___
 
 ### bIgnoreClientMovementErrorChecksAndCorrection
@@ -2588,10 +1940,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bIgnoreClientMovementErrorChecksAndCorrection](ue_ue.CharacterMovementComponent.md#bignoreclientmovementerrorchecksandcorrection)
-
-#### Defined in
-
-[ue/ue.d.ts:5745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5745)
 
 ___
 
@@ -2603,10 +1951,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bImpartBaseAngularVelocity](ue_ue.CharacterMovementComponent.md#bimpartbaseangularvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:5741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5741)
-
 ___
 
 ### bImpartBaseVelocityX
@@ -2616,10 +1960,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bImpartBaseVelocityX](ue_ue.CharacterMovementComponent.md#bimpartbasevelocityx)
-
-#### Defined in
-
-[ue/ue.d.ts:5738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5738)
 
 ___
 
@@ -2631,10 +1971,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bImpartBaseVelocityY](ue_ue.CharacterMovementComponent.md#bimpartbasevelocityy)
 
-#### Defined in
-
-[ue/ue.d.ts:5739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5739)
-
 ___
 
 ### bImpartBaseVelocityZ
@@ -2644,10 +1980,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bImpartBaseVelocityZ](ue_ue.CharacterMovementComponent.md#bimpartbasevelocityz)
-
-#### Defined in
-
-[ue/ue.d.ts:5740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5740)
 
 ___
 
@@ -2659,10 +1991,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bInstanceComponent](ue_ue.CharacterMovementComponent.md#binstancecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L295)
-
 ___
 
 ### bIsActive
@@ -2672,10 +2000,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bIsActive](ue_ue.CharacterMovementComponent.md#bisactive)
-
-#### Defined in
-
-[ue/ue.d.ts:297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L297)
 
 ___
 
@@ -2687,10 +2011,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bIsEditorOnly](ue_ue.CharacterMovementComponent.md#biseditoronly)
 
-#### Defined in
-
-[ue/ue.d.ts:300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L300)
-
 ___
 
 ### bIsVisualizationComponent
@@ -2700,10 +2020,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bIsVisualizationComponent](ue_ue.CharacterMovementComponent.md#bisvisualizationcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L301)
 
 ___
 
@@ -2715,10 +2031,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bJustTeleported](ue_ue.CharacterMovementComponent.md#bjustteleported)
 
-#### Defined in
-
-[ue/ue.d.ts:5742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5742)
-
 ___
 
 ### bMaintainHorizontalGroundVelocity
@@ -2728,10 +2040,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bMaintainHorizontalGroundVelocity](ue_ue.CharacterMovementComponent.md#bmaintainhorizontalgroundvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:5737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5737)
 
 ___
 
@@ -2743,10 +2051,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bMovementInProgress](ue_ue.CharacterMovementComponent.md#bmovementinprogress)
 
-#### Defined in
-
-[ue/ue.d.ts:5670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5670)
-
 ___
 
 ### bNetAddressable
@@ -2756,10 +2060,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bNetAddressable](ue_ue.CharacterMovementComponent.md#bnetaddressable)
-
-#### Defined in
-
-[ue/ue.d.ts:293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L293)
 
 ___
 
@@ -2771,10 +2071,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bNetworkAlwaysReplicateTransformUpdateTimestamp](ue_ue.CharacterMovementComponent.md#bnetworkalwaysreplicatetransformupdatetimestamp)
 
-#### Defined in
-
-[ue/ue.d.ts:5680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5680)
-
 ___
 
 ### bNetworkMovementModeChanged
@@ -2784,10 +2080,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bNetworkMovementModeChanged](ue_ue.CharacterMovementComponent.md#bnetworkmovementmodechanged)
-
-#### Defined in
-
-[ue/ue.d.ts:5744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5744)
 
 ___
 
@@ -2799,10 +2091,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bNetworkSkipProxyPredictionOnNetUpdate](ue_ue.CharacterMovementComponent.md#bnetworkskipproxypredictiononnetupdate)
 
-#### Defined in
-
-[ue/ue.d.ts:5679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5679)
-
 ___
 
 ### bNetworkUpdateReceived
@@ -2812,10 +2100,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bNetworkUpdateReceived](ue_ue.CharacterMovementComponent.md#bnetworkupdatereceived)
-
-#### Defined in
-
-[ue/ue.d.ts:5743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5743)
 
 ___
 
@@ -2827,10 +2111,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bNotifyApex](ue_ue.CharacterMovementComponent.md#bnotifyapex)
 
-#### Defined in
-
-[ue/ue.d.ts:5747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5747)
-
 ___
 
 ### bOrientRotationToMovement
@@ -2840,10 +2120,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bOrientRotationToMovement](ue_ue.CharacterMovementComponent.md#borientrotationtomovement)
-
-#### Defined in
-
-[ue/ue.d.ts:5668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5668)
 
 ___
 
@@ -2855,10 +2131,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bPerformingJumpOff](ue_ue.CharacterMovementComponent.md#bperformingjumpoff)
 
-#### Defined in
-
-[ue/ue.d.ts:5755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5755)
-
 ___
 
 ### bProjectNavMeshOnBothWorldChannels
@@ -2868,10 +2140,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bProjectNavMeshOnBothWorldChannels](ue_ue.CharacterMovementComponent.md#bprojectnavmeshonbothworldchannels)
-
-#### Defined in
-
-[ue/ue.d.ts:5765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5765)
 
 ___
 
@@ -2883,10 +2151,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bProjectNavMeshWalking](ue_ue.CharacterMovementComponent.md#bprojectnavmeshwalking)
 
-#### Defined in
-
-[ue/ue.d.ts:5764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5764)
-
 ___
 
 ### bPushForceScaledToMass
@@ -2896,10 +2160,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bPushForceScaledToMass](ue_ue.CharacterMovementComponent.md#bpushforcescaledtomass)
-
-#### Defined in
-
-[ue/ue.d.ts:5684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5684)
 
 ___
 
@@ -2911,10 +2171,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bPushForceUsingZOffset](ue_ue.CharacterMovementComponent.md#bpushforceusingzoffset)
 
-#### Defined in
-
-[ue/ue.d.ts:5685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5685)
-
 ___
 
 ### bReplicates
@@ -2924,10 +2180,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bReplicates](ue_ue.CharacterMovementComponent.md#breplicates)
-
-#### Defined in
-
-[ue/ue.d.ts:292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L292)
 
 ___
 
@@ -2939,10 +2191,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bRequestedMoveUseAcceleration](ue_ue.CharacterMovementComponent.md#brequestedmoveuseacceleration)
 
-#### Defined in
-
-[ue/ue.d.ts:5758](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5758)
-
 ___
 
 ### bRequestedMoveWithMaxSpeed
@@ -2952,10 +2200,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bRequestedMoveWithMaxSpeed](ue_ue.CharacterMovementComponent.md#brequestedmovewithmaxspeed)
-
-#### Defined in
-
-[ue/ue.d.ts:5762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5762)
 
 ___
 
@@ -2967,10 +2211,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bRunPhysicsWithNoController](ue_ue.CharacterMovementComponent.md#brunphysicswithnocontroller)
 
-#### Defined in
-
-[ue/ue.d.ts:5674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5674)
-
 ___
 
 ### bScalePushForceToVelocity
@@ -2980,10 +2220,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bScalePushForceToVelocity](ue_ue.CharacterMovementComponent.md#bscalepushforcetovelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:5686](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5686)
 
 ___
 
@@ -2995,10 +2231,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bServerAcceptClientAuthoritativePosition](ue_ue.CharacterMovementComponent.md#bserveracceptclientauthoritativeposition)
 
-#### Defined in
-
-[ue/ue.d.ts:5746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5746)
-
 ___
 
 ### bShrinkProxyCapsule
@@ -3008,10 +2240,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bShrinkProxyCapsule](ue_ue.CharacterMovementComponent.md#bshrinkproxycapsule)
-
-#### Defined in
-
-[ue/ue.d.ts:5676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5676)
 
 ___
 
@@ -3023,10 +2251,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bSnapToPlaneAtStart](ue_ue.CharacterMovementComponent.md#bsnaptoplaneatstart)
 
-#### Defined in
-
-[ue/ue.d.ts:5400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5400)
-
 ___
 
 ### bSweepWhileNavWalking
@@ -3036,10 +2260,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bSweepWhileNavWalking](ue_ue.CharacterMovementComponent.md#bsweepwhilenavwalking)
-
-#### Defined in
-
-[ue/ue.d.ts:5669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5669)
 
 ___
 
@@ -3051,10 +2271,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bTickBeforeOwner](ue_ue.CharacterMovementComponent.md#btickbeforeowner)
 
-#### Defined in
-
-[ue/ue.d.ts:5397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5397)
-
 ___
 
 ### bTouchForceScaledToMass
@@ -3064,10 +2280,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bTouchForceScaledToMass](ue_ue.CharacterMovementComponent.md#btouchforcescaledtomass)
-
-#### Defined in
-
-[ue/ue.d.ts:5683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5683)
 
 ___
 
@@ -3079,10 +2291,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bUpdateNavAgentWithOwnersCollision](ue_ue.CharacterMovementComponent.md#bupdatenavagentwithownerscollision)
 
-#### Defined in
-
-[ue/ue.d.ts:5469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5469)
-
 ___
 
 ### bUpdateOnlyIfRendered
@@ -3092,10 +2300,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bUpdateOnlyIfRendered](ue_ue.CharacterMovementComponent.md#bupdateonlyifrendered)
-
-#### Defined in
-
-[ue/ue.d.ts:5395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5395)
 
 ___
 
@@ -3107,10 +2311,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bUseAccelerationForPaths](ue_ue.CharacterMovementComponent.md#buseaccelerationforpaths)
 
-#### Defined in
-
-[ue/ue.d.ts:5470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5470)
-
 ___
 
 ### bUseControllerDesiredRotation
@@ -3120,10 +2320,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bUseControllerDesiredRotation](ue_ue.CharacterMovementComponent.md#busecontrollerdesiredrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:5667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5667)
 
 ___
 
@@ -3135,10 +2331,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bUseFixedBrakingDistanceForPaths](ue_ue.CharacterMovementComponent.md#busefixedbrakingdistanceforpaths)
 
-#### Defined in
-
-[ue/ue.d.ts:5471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5471)
-
 ___
 
 ### bUseFlatBaseForFloorChecks
@@ -3148,10 +2340,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bUseFlatBaseForFloorChecks](ue_ue.CharacterMovementComponent.md#buseflatbaseforfloorchecks)
-
-#### Defined in
-
-[ue/ue.d.ts:5754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5754)
 
 ___
 
@@ -3163,10 +2351,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bUseRVOAvoidance](ue_ue.CharacterMovementComponent.md#buservoavoidance)
 
-#### Defined in
-
-[ue/ue.d.ts:5757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5757)
-
 ___
 
 ### bUseSeparateBrakingFriction
@@ -3176,10 +2360,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bUseSeparateBrakingFriction](ue_ue.CharacterMovementComponent.md#buseseparatebrakingfriction)
-
-#### Defined in
-
-[ue/ue.d.ts:5665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5665)
 
 ___
 
@@ -3191,10 +2371,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bWantsToCrouch](ue_ue.CharacterMovementComponent.md#bwantstocrouch)
 
-#### Defined in
-
-[ue/ue.d.ts:5749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5749)
-
 ___
 
 ### bWantsToLeaveNavWalking
@@ -3204,10 +2380,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bWantsToLeaveNavWalking](ue_ue.CharacterMovementComponent.md#bwantstoleavenavwalking)
-
-#### Defined in
-
-[ue/ue.d.ts:5756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5756)
 
 ___
 
@@ -3219,10 +2391,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bWasAvoidanceUpdated](ue_ue.CharacterMovementComponent.md#bwasavoidanceupdated)
 
-#### Defined in
-
-[ue/ue.d.ts:5763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5763)
-
 ___
 
 ### bWasSimulatingRootMotion
@@ -3232,10 +2400,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[bWasSimulatingRootMotion](ue_ue.CharacterMovementComponent.md#bwassimulatingrootmotion)
-
-#### Defined in
-
-[ue/ue.d.ts:5759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5759)
 
 ## Methods
 
@@ -3257,10 +2421,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[Activate](ue_ue.CharacterMovementComponent.md#activate)
 
-#### Defined in
-
-[ue/ue.d.ts:306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L306)
-
 ___
 
 ### AddForce
@@ -3280,10 +2440,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[AddForce](ue_ue.CharacterMovementComponent.md#addforce)
-
-#### Defined in
-
-[ue/ue.d.ts:5785](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5785)
 
 ___
 
@@ -3306,10 +2462,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[AddImpulse](ue_ue.CharacterMovementComponent.md#addimpulse)
 
-#### Defined in
-
-[ue/ue.d.ts:5786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5786)
-
 ___
 
 ### AddInputVector
@@ -3331,10 +2483,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[AddInputVector](ue_ue.CharacterMovementComponent.md#addinputvector)
 
-#### Defined in
-
-[ue/ue.d.ts:5491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5491)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -3355,10 +2503,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[AddTickPrerequisiteActor](ue_ue.CharacterMovementComponent.md#addtickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L307)
-
 ___
 
 ### AddTickPrerequisiteComponent
@@ -3378,10 +2522,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[AddTickPrerequisiteComponent](ue_ue.CharacterMovementComponent.md#addtickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L308)
 
 ___
 
@@ -3405,10 +2545,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[CalcVelocity](ue_ue.CharacterMovementComponent.md#calcvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:5787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5787)
 
 ___
 
@@ -3435,10 +2571,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[CapsuleTouched](ue_ue.CharacterMovementComponent.md#capsuletouched)
 
-#### Defined in
-
-[ue/ue.d.ts:5788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5788)
-
 ___
 
 ### ClearAccumulatedForces
@@ -3452,10 +2584,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[ClearAccumulatedForces](ue_ue.CharacterMovementComponent.md#clearaccumulatedforces)
-
-#### Defined in
-
-[ue/ue.d.ts:5789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5789)
 
 ___
 
@@ -3477,10 +2605,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[ComponentHasTag](ue_ue.CharacterMovementComponent.md#componenthastag)
 
-#### Defined in
-
-[ue/ue.d.ts:309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L309)
-
 ___
 
 ### ConstrainDirectionToPlane
@@ -3500,10 +2624,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[ConstrainDirectionToPlane](ue_ue.CharacterMovementComponent.md#constraindirectiontoplane)
-
-#### Defined in
-
-[ue/ue.d.ts:5404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5404)
 
 ___
 
@@ -3525,10 +2645,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[ConstrainLocationToPlane](ue_ue.CharacterMovementComponent.md#constrainlocationtoplane)
 
-#### Defined in
-
-[ue/ue.d.ts:5405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5405)
-
 ___
 
 ### ConstrainNormalToPlane
@@ -3549,10 +2665,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[ConstrainNormalToPlane](ue_ue.CharacterMovementComponent.md#constrainnormaltoplane)
 
-#### Defined in
-
-[ue/ue.d.ts:5406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5406)
-
 ___
 
 ### ConsumeInputVector
@@ -3566,10 +2678,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[ConsumeInputVector](ue_ue.CharacterMovementComponent.md#consumeinputvector)
-
-#### Defined in
-
-[ue/ue.d.ts:5492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5492)
 
 ___
 
@@ -3595,10 +2703,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[CreateDefaultSubobject](ue_ue.CharacterMovementComponent.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### Deactivate
@@ -3613,10 +2717,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[Deactivate](ue_ue.CharacterMovementComponent.md#deactivate)
 
-#### Defined in
-
-[ue/ue.d.ts:310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L310)
-
 ___
 
 ### DisableMovement
@@ -3630,10 +2730,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[DisableMovement](ue_ue.CharacterMovementComponent.md#disablemovement)
-
-#### Defined in
-
-[ue/ue.d.ts:5790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5790)
 
 ___
 
@@ -3655,10 +2751,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[ExecuteUbergraph](ue_ue.CharacterMovementComponent.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetAnalogInputModifier
@@ -3672,10 +2764,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetAnalogInputModifier](ue_ue.CharacterMovementComponent.md#getanaloginputmodifier)
-
-#### Defined in
-
-[ue/ue.d.ts:5791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5791)
 
 ___
 
@@ -3691,10 +2779,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetCharacterOwner](ue_ue.CharacterMovementComponent.md#getcharacterowner)
 
-#### Defined in
-
-[ue/ue.d.ts:5792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5792)
-
 ___
 
 ### GetClass
@@ -3708,10 +2792,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetClass](ue_ue.CharacterMovementComponent.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -3727,10 +2807,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetComponentTickInterval](ue_ue.CharacterMovementComponent.md#getcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L311)
-
 ___
 
 ### GetCurrentAcceleration
@@ -3744,10 +2820,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetCurrentAcceleration](ue_ue.CharacterMovementComponent.md#getcurrentacceleration)
-
-#### Defined in
-
-[ue/ue.d.ts:5793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5793)
 
 ___
 
@@ -3763,10 +2835,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetGravityZ](ue_ue.CharacterMovementComponent.md#getgravityz)
 
-#### Defined in
-
-[ue/ue.d.ts:5407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5407)
-
 ___
 
 ### GetImpartedMovementBaseVelocity
@@ -3780,10 +2848,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetImpartedMovementBaseVelocity](ue_ue.CharacterMovementComponent.md#getimpartedmovementbasevelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:5794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5794)
 
 ___
 
@@ -3799,10 +2863,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetLastInputVector](ue_ue.CharacterMovementComponent.md#getlastinputvector)
 
-#### Defined in
-
-[ue/ue.d.ts:5493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5493)
-
 ___
 
 ### GetLastUpdateLocation
@@ -3816,10 +2876,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetLastUpdateLocation](ue_ue.CharacterMovementComponent.md#getlastupdatelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:5795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5795)
 
 ___
 
@@ -3835,10 +2891,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetLastUpdateRotation](ue_ue.CharacterMovementComponent.md#getlastupdaterotation)
 
-#### Defined in
-
-[ue/ue.d.ts:5796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5796)
-
 ___
 
 ### GetLastUpdateVelocity
@@ -3852,10 +2904,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetLastUpdateVelocity](ue_ue.CharacterMovementComponent.md#getlastupdatevelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:5797](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5797)
 
 ___
 
@@ -3871,10 +2919,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetMaxAcceleration](ue_ue.CharacterMovementComponent.md#getmaxacceleration)
 
-#### Defined in
-
-[ue/ue.d.ts:5798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5798)
-
 ___
 
 ### GetMaxBrakingDeceleration
@@ -3888,10 +2932,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetMaxBrakingDeceleration](ue_ue.CharacterMovementComponent.md#getmaxbrakingdeceleration)
-
-#### Defined in
-
-[ue/ue.d.ts:5799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5799)
 
 ___
 
@@ -3907,10 +2947,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetMaxJumpHeight](ue_ue.CharacterMovementComponent.md#getmaxjumpheight)
 
-#### Defined in
-
-[ue/ue.d.ts:5800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5800)
-
 ___
 
 ### GetMaxJumpHeightWithJumpTime
@@ -3924,10 +2960,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetMaxJumpHeightWithJumpTime](ue_ue.CharacterMovementComponent.md#getmaxjumpheightwithjumptime)
-
-#### Defined in
-
-[ue/ue.d.ts:5801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5801)
 
 ___
 
@@ -3943,10 +2975,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetMaxSpeed](ue_ue.CharacterMovementComponent.md#getmaxspeed)
 
-#### Defined in
-
-[ue/ue.d.ts:5408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5408)
-
 ___
 
 ### GetMinAnalogSpeed
@@ -3960,10 +2988,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetMinAnalogSpeed](ue_ue.CharacterMovementComponent.md#getminanalogspeed)
-
-#### Defined in
-
-[ue/ue.d.ts:5802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5802)
 
 ___
 
@@ -3979,10 +3003,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetMovementBase](ue_ue.CharacterMovementComponent.md#getmovementbase)
 
-#### Defined in
-
-[ue/ue.d.ts:5803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5803)
-
 ___
 
 ### GetName
@@ -3996,10 +3016,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetName](ue_ue.CharacterMovementComponent.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -4015,10 +3031,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetOuter](ue_ue.CharacterMovementComponent.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetOwner
@@ -4032,10 +3044,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetOwner](ue_ue.CharacterMovementComponent.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L312)
 
 ___
 
@@ -4051,10 +3059,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetPawnOwner](ue_ue.CharacterMovementComponent.md#getpawnowner)
 
-#### Defined in
-
-[ue/ue.d.ts:5494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5494)
-
 ___
 
 ### GetPendingInputVector
@@ -4068,10 +3072,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetPendingInputVector](ue_ue.CharacterMovementComponent.md#getpendinginputvector)
-
-#### Defined in
-
-[ue/ue.d.ts:5495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5495)
 
 ___
 
@@ -4087,10 +3087,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetPerchRadiusThreshold](ue_ue.CharacterMovementComponent.md#getperchradiusthreshold)
 
-#### Defined in
-
-[ue/ue.d.ts:5804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5804)
-
 ___
 
 ### GetPhysicsVolume
@@ -4104,10 +3100,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetPhysicsVolume](ue_ue.CharacterMovementComponent.md#getphysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:5409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5409)
 
 ___
 
@@ -4123,10 +3115,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetPlaneConstraintAxisSetting](ue_ue.CharacterMovementComponent.md#getplaneconstraintaxissetting)
 
-#### Defined in
-
-[ue/ue.d.ts:5410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5410)
-
 ___
 
 ### GetPlaneConstraintNormal
@@ -4140,10 +3128,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetPlaneConstraintNormal](ue_ue.CharacterMovementComponent.md#getplaneconstraintnormal)
-
-#### Defined in
-
-[ue/ue.d.ts:5411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5411)
 
 ___
 
@@ -4159,10 +3143,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetPlaneConstraintOrigin](ue_ue.CharacterMovementComponent.md#getplaneconstraintorigin)
 
-#### Defined in
-
-[ue/ue.d.ts:5412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5412)
-
 ___
 
 ### GetValidPerchRadius
@@ -4176,10 +3156,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetValidPerchRadius](ue_ue.CharacterMovementComponent.md#getvalidperchradius)
-
-#### Defined in
-
-[ue/ue.d.ts:5805](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5805)
 
 ___
 
@@ -4195,10 +3171,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[GetWorld](ue_ue.CharacterMovementComponent.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### IsActive
@@ -4212,10 +3184,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[IsActive](ue_ue.CharacterMovementComponent.md#isactive)
-
-#### Defined in
-
-[ue/ue.d.ts:313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L313)
 
 ___
 
@@ -4231,10 +3199,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[IsBeingDestroyed](ue_ue.CharacterMovementComponent.md#isbeingdestroyed)
 
-#### Defined in
-
-[ue/ue.d.ts:314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L314)
-
 ___
 
 ### IsComponentTickEnabled
@@ -4249,10 +3213,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[IsComponentTickEnabled](ue_ue.CharacterMovementComponent.md#iscomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L315)
-
 ___
 
 ### IsCrouching
@@ -4266,10 +3226,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[IsCrouching](ue_ue.CharacterMovementComponent.md#iscrouching)
-
-#### Defined in
-
-[ue/ue.d.ts:5474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5474)
 
 ___
 
@@ -4291,10 +3247,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[IsExceedingMaxSpeed](ue_ue.CharacterMovementComponent.md#isexceedingmaxspeed)
 
-#### Defined in
-
-[ue/ue.d.ts:5413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5413)
-
 ___
 
 ### IsFalling
@@ -4308,10 +3260,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[IsFalling](ue_ue.CharacterMovementComponent.md#isfalling)
-
-#### Defined in
-
-[ue/ue.d.ts:5475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5475)
 
 ___
 
@@ -4327,10 +3275,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[IsFlying](ue_ue.CharacterMovementComponent.md#isflying)
 
-#### Defined in
-
-[ue/ue.d.ts:5476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5476)
-
 ___
 
 ### IsMoveInputIgnored
@@ -4344,10 +3288,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[IsMoveInputIgnored](ue_ue.CharacterMovementComponent.md#ismoveinputignored)
-
-#### Defined in
-
-[ue/ue.d.ts:5496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5496)
 
 ___
 
@@ -4363,10 +3303,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[IsMovingOnGround](ue_ue.CharacterMovementComponent.md#ismovingonground)
 
-#### Defined in
-
-[ue/ue.d.ts:5477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5477)
-
 ___
 
 ### IsSwimming
@@ -4380,10 +3316,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[IsSwimming](ue_ue.CharacterMovementComponent.md#isswimming)
-
-#### Defined in
-
-[ue/ue.d.ts:5478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5478)
 
 ___
 
@@ -4405,10 +3337,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[IsWalkable](ue_ue.CharacterMovementComponent.md#iswalkable)
 
-#### Defined in
-
-[ue/ue.d.ts:5806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5806)
-
 ___
 
 ### IsWalking
@@ -4422,10 +3350,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[IsWalking](ue_ue.CharacterMovementComponent.md#iswalking)
-
-#### Defined in
-
-[ue/ue.d.ts:5807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5807)
 
 ___
 
@@ -4451,10 +3375,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[K2_ComputeFloorDist](ue_ue.CharacterMovementComponent.md#k2_computefloordist)
 
-#### Defined in
-
-[ue/ue.d.ts:5808](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5808)
-
 ___
 
 ### K2\_DestroyComponent
@@ -4474,10 +3394,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[K2_DestroyComponent](ue_ue.CharacterMovementComponent.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L316)
 
 ___
 
@@ -4500,10 +3416,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[K2_FindFloor](ue_ue.CharacterMovementComponent.md#k2_findfloor)
 
-#### Defined in
-
-[ue/ue.d.ts:5809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5809)
-
 ___
 
 ### K2\_GetInputVector
@@ -4517,10 +3429,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[K2_GetInputVector](ue_ue.CharacterMovementComponent.md#k2_getinputvector)
-
-#### Defined in
-
-[ue/ue.d.ts:5497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5497)
 
 ___
 
@@ -4536,10 +3444,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[K2_GetMaxSpeedModifier](ue_ue.CharacterMovementComponent.md#k2_getmaxspeedmodifier)
 
-#### Defined in
-
-[ue/ue.d.ts:5414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5414)
-
 ___
 
 ### K2\_GetModifiedMaxAcceleration
@@ -4553,10 +3457,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[K2_GetModifiedMaxAcceleration](ue_ue.CharacterMovementComponent.md#k2_getmodifiedmaxacceleration)
-
-#### Defined in
-
-[ue/ue.d.ts:5810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5810)
 
 ___
 
@@ -4572,10 +3472,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[K2_GetModifiedMaxSpeed](ue_ue.CharacterMovementComponent.md#k2_getmodifiedmaxspeed)
 
-#### Defined in
-
-[ue/ue.d.ts:5415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5415)
-
 ___
 
 ### K2\_GetWalkableFloorAngle
@@ -4590,10 +3486,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[K2_GetWalkableFloorAngle](ue_ue.CharacterMovementComponent.md#k2_getwalkablefloorangle)
 
-#### Defined in
-
-[ue/ue.d.ts:5811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5811)
-
 ___
 
 ### K2\_GetWalkableFloorZ
@@ -4607,10 +3499,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[K2_GetWalkableFloorZ](ue_ue.CharacterMovementComponent.md#k2_getwalkablefloorz)
-
-#### Defined in
-
-[ue/ue.d.ts:5812](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5812)
 
 ___
 
@@ -4636,10 +3524,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[K2_MoveUpdatedComponent](ue_ue.CharacterMovementComponent.md#k2_moveupdatedcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:5416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5416)
-
 ___
 
 ### OnRep\_IsActive
@@ -4653,10 +3537,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[OnRep_IsActive](ue_ue.CharacterMovementComponent.md#onrep_isactive)
-
-#### Defined in
-
-[ue/ue.d.ts:317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L317)
 
 ___
 
@@ -4678,10 +3558,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[PhysicsVolumeChanged](ue_ue.CharacterMovementComponent.md#physicsvolumechanged)
 
-#### Defined in
-
-[ue/ue.d.ts:5417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5417)
-
 ___
 
 ### ReceiveBeginPlay
@@ -4695,10 +3571,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[ReceiveBeginPlay](ue_ue.CharacterMovementComponent.md#receivebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L318)
 
 ___
 
@@ -4720,10 +3592,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[ReceiveEndPlay](ue_ue.CharacterMovementComponent.md#receiveendplay)
 
-#### Defined in
-
-[ue/ue.d.ts:319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L319)
-
 ___
 
 ### ReceiveTick
@@ -4744,10 +3612,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[ReceiveTick](ue_ue.CharacterMovementComponent.md#receivetick)
 
-#### Defined in
-
-[ue/ue.d.ts:320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L320)
-
 ___
 
 ### RegisterComponent
@@ -4761,10 +3625,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[RegisterComponent](ue_ue.CharacterMovementComponent.md#registercomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L321)
 
 ___
 
@@ -4786,10 +3646,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[RemoveTickPrerequisiteActor](ue_ue.CharacterMovementComponent.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -4809,10 +3665,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[RemoveTickPrerequisiteComponent](ue_ue.CharacterMovementComponent.md#removetickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L323)
 
 ___
 
@@ -4835,10 +3687,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[SetActive](ue_ue.CharacterMovementComponent.md#setactive)
 
-#### Defined in
-
-[ue/ue.d.ts:324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L324)
-
 ___
 
 ### SetAutoActivate
@@ -4858,10 +3706,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[SetAutoActivate](ue_ue.CharacterMovementComponent.md#setautoactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L325)
 
 ___
 
@@ -4883,10 +3727,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[SetAvoidanceEnabled](ue_ue.CharacterMovementComponent.md#setavoidanceenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:5813](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5813)
-
 ___
 
 ### SetAvoidanceGroup
@@ -4906,10 +3746,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[SetAvoidanceGroup](ue_ue.CharacterMovementComponent.md#setavoidancegroup)
-
-#### Defined in
-
-[ue/ue.d.ts:5814](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5814)
 
 ___
 
@@ -4931,10 +3767,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[SetAvoidanceGroupMask](ue_ue.CharacterMovementComponent.md#setavoidancegroupmask)
 
-#### Defined in
-
-[ue/ue.d.ts:5815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5815)
-
 ___
 
 ### SetComponentTickEnabled
@@ -4954,10 +3786,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[SetComponentTickEnabled](ue_ue.CharacterMovementComponent.md#setcomponenttickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L326)
 
 ___
 
@@ -4979,10 +3807,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[SetComponentTickInterval](ue_ue.CharacterMovementComponent.md#setcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L327)
-
 ___
 
 ### SetGroupsToAvoid
@@ -5002,10 +3826,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[SetGroupsToAvoid](ue_ue.CharacterMovementComponent.md#setgroupstoavoid)
-
-#### Defined in
-
-[ue/ue.d.ts:5816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5816)
 
 ___
 
@@ -5027,10 +3847,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[SetGroupsToAvoidMask](ue_ue.CharacterMovementComponent.md#setgroupstoavoidmask)
 
-#### Defined in
-
-[ue/ue.d.ts:5817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5817)
-
 ___
 
 ### SetGroupsToIgnore
@@ -5050,10 +3866,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[SetGroupsToIgnore](ue_ue.CharacterMovementComponent.md#setgroupstoignore)
-
-#### Defined in
-
-[ue/ue.d.ts:5818](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5818)
 
 ___
 
@@ -5075,10 +3887,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[SetGroupsToIgnoreMask](ue_ue.CharacterMovementComponent.md#setgroupstoignoremask)
 
-#### Defined in
-
-[ue/ue.d.ts:5819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5819)
-
 ___
 
 ### SetIsReplicated
@@ -5098,10 +3906,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[SetIsReplicated](ue_ue.CharacterMovementComponent.md#setisreplicated)
-
-#### Defined in
-
-[ue/ue.d.ts:328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L328)
 
 ___
 
@@ -5124,10 +3928,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[SetMovementMode](ue_ue.CharacterMovementComponent.md#setmovementmode)
 
-#### Defined in
-
-[ue/ue.d.ts:5820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5820)
-
 ___
 
 ### SetPlaneConstraintAxisSetting
@@ -5148,10 +3948,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[SetPlaneConstraintAxisSetting](ue_ue.CharacterMovementComponent.md#setplaneconstraintaxissetting)
 
-#### Defined in
-
-[ue/ue.d.ts:5418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5418)
-
 ___
 
 ### SetPlaneConstraintEnabled
@@ -5171,10 +3967,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[SetPlaneConstraintEnabled](ue_ue.CharacterMovementComponent.md#setplaneconstraintenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:5419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5419)
 
 ___
 
@@ -5197,10 +3989,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[SetPlaneConstraintFromVectors](ue_ue.CharacterMovementComponent.md#setplaneconstraintfromvectors)
 
-#### Defined in
-
-[ue/ue.d.ts:5420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5420)
-
 ___
 
 ### SetPlaneConstraintNormal
@@ -5220,10 +4008,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[SetPlaneConstraintNormal](ue_ue.CharacterMovementComponent.md#setplaneconstraintnormal)
-
-#### Defined in
-
-[ue/ue.d.ts:5421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5421)
 
 ___
 
@@ -5245,10 +4029,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[SetPlaneConstraintOrigin](ue_ue.CharacterMovementComponent.md#setplaneconstraintorigin)
 
-#### Defined in
-
-[ue/ue.d.ts:5422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5422)
-
 ___
 
 ### SetTickGroup
@@ -5268,10 +4048,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[SetTickGroup](ue_ue.CharacterMovementComponent.md#settickgroup)
-
-#### Defined in
-
-[ue/ue.d.ts:330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L330)
 
 ___
 
@@ -5293,10 +4069,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[SetTickableWhenPaused](ue_ue.CharacterMovementComponent.md#settickablewhenpaused)
 
-#### Defined in
-
-[ue/ue.d.ts:329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L329)
-
 ___
 
 ### SetUpdatedComponent
@@ -5316,10 +4088,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[SetUpdatedComponent](ue_ue.CharacterMovementComponent.md#setupdatedcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:5423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5423)
 
 ___
 
@@ -5341,10 +4109,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[SetWalkableFloorAngle](ue_ue.CharacterMovementComponent.md#setwalkablefloorangle)
 
-#### Defined in
-
-[ue/ue.d.ts:5821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5821)
-
 ___
 
 ### SetWalkableFloorZ
@@ -5365,10 +4129,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[SetWalkableFloorZ](ue_ue.CharacterMovementComponent.md#setwalkablefloorz)
 
-#### Defined in
-
-[ue/ue.d.ts:5822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5822)
-
 ___
 
 ### SnapUpdatedComponentToPlane
@@ -5382,10 +4142,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[SnapUpdatedComponentToPlane](ue_ue.CharacterMovementComponent.md#snapupdatedcomponenttoplane)
-
-#### Defined in
-
-[ue/ue.d.ts:5424](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5424)
 
 ___
 
@@ -5401,10 +4157,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[StopActiveMovement](ue_ue.CharacterMovementComponent.md#stopactivemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:5479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5479)
-
 ___
 
 ### StopMovementImmediately
@@ -5418,10 +4170,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[StopMovementImmediately](ue_ue.CharacterMovementComponent.md#stopmovementimmediately)
-
-#### Defined in
-
-[ue/ue.d.ts:5425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5425)
 
 ___
 
@@ -5437,10 +4185,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[StopMovementKeepPathing](ue_ue.CharacterMovementComponent.md#stopmovementkeeppathing)
 
-#### Defined in
-
-[ue/ue.d.ts:5480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5480)
-
 ___
 
 ### ToggleActive
@@ -5454,10 +4198,6 @@ ___
 #### Inherited from
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[ToggleActive](ue_ue.CharacterMovementComponent.md#toggleactive)
-
-#### Defined in
-
-[ue/ue.d.ts:331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L331)
 
 ___
 
@@ -5480,10 +4220,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[Find](ue_ue.CharacterMovementComponent.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:21171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21171)
-
 ___
 
 ### Load
@@ -5504,10 +4240,6 @@ ___
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[Load](ue_ue.CharacterMovementComponent.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:21172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21172)
-
 ___
 
 ### StaticClass
@@ -5521,7 +4253,3 @@ ___
 #### Overrides
 
 [CharacterMovementComponent](ue_ue.CharacterMovementComponent.md).[StaticClass](ue_ue.CharacterMovementComponent.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:21170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21170)

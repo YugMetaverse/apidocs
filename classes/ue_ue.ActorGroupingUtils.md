@@ -62,19 +62,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:13921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13921)
-
 ## Properties
 
 ### \_\_tid\_ActorGroupingUtils\_\_
 
 • **\_\_tid\_ActorGroupingUtils\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:13937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13937)
 
 ___
 
@@ -86,10 +78,6 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ## Methods
 
 ### AddSelectedToGroup
@@ -99,10 +87,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:13922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13922)
 
 ___
 
@@ -128,10 +112,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -152,10 +132,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -169,10 +145,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -188,10 +160,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -206,10 +174,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -223,10 +187,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -244,10 +204,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:13923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13923)
-
 ___
 
 ### GroupSelected
@@ -257,10 +213,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:13924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13924)
 
 ___
 
@@ -272,10 +224,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:13925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13925)
-
 ___
 
 ### RemoveSelectedFromGroup
@@ -285,10 +233,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:13926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13926)
 
 ___
 
@@ -306,10 +250,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:13927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13927)
-
 ___
 
 ### UngroupSelected
@@ -320,10 +260,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:13928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13928)
-
 ___
 
 ### UnlockSelectedGroups
@@ -333,10 +269,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:13929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13929)
 
 ___
 
@@ -359,10 +291,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:13934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13934)
-
 ___
 
 ### Get
@@ -373,10 +301,6 @@ ___
 
 [`ActorGroupingUtils`](ue_ue.ActorGroupingUtils.md)
 
-#### Defined in
-
-[ue/ue.d.ts:13930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13930)
-
 ___
 
 ### IsGroupingActive
@@ -386,10 +310,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:13931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13931)
 
 ___
 
@@ -411,10 +331,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:13935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13935)
-
 ___
 
 ### SetGroupingActive
@@ -431,10 +347,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:13932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13932)
-
 ___
 
 ### StaticClass
@@ -448,7 +360,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13933)

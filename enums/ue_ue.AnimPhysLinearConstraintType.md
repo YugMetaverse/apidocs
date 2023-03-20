@@ -19,19 +19,11 @@
 
 • **AnimPhysLinearConstraintType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17733)
-
 ___
 
 ### Free
 
 • **Free** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17733)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Limited** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17733)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17733)

@@ -19,19 +19,11 @@
 
 • **EMovieSceneObjectBindingSpace\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11493)
-
 ___
 
 ### Local
 
 • **Local** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11493)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Root** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11493)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11493)

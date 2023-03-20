@@ -42,10 +42,6 @@
 
 • **new TickFunction**()
 
-#### Defined in
-
-[ue/ue.d.ts:191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L191)
-
 • **new TickFunction**(`TickGroup`, `EndTickGroup`, `bTickEvenWhenPaused`, `bCanEverTick`, `bStartWithTickEnabled`, `bAllowTickOnDedicatedServer`, `TickInterval`)
 
 #### Parameters
@@ -60,19 +56,11 @@
 | `bAllowTickOnDedicatedServer` | `boolean` |
 | `TickInterval` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L192)
-
 ## Properties
 
 ### EndTickGroup
 
 • **EndTickGroup**: [`ETickingGroup`](../enums/ue_ue.ETickingGroup.md)
-
-#### Defined in
-
-[ue/ue.d.ts:194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L194)
 
 ___
 
@@ -80,19 +68,11 @@ ___
 
 • **TickGroup**: [`ETickingGroup`](../enums/ue_ue.ETickingGroup.md)
 
-#### Defined in
-
-[ue/ue.d.ts:193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L193)
-
 ___
 
 ### TickInterval
 
 • **TickInterval**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L199)
 
 ___
 
@@ -100,19 +80,11 @@ ___
 
 • `Private` **\_\_tid\_TickFunction\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L205)
-
 ___
 
 ### bAllowTickOnDedicatedServer
 
 • **bAllowTickOnDedicatedServer**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L198)
 
 ___
 
@@ -120,29 +92,17 @@ ___
 
 • **bCanEverTick**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L196)
-
 ___
 
 ### bStartWithTickEnabled
 
 • **bStartWithTickEnabled**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L197)
-
 ___
 
 ### bTickEvenWhenPaused
 
 • **bTickEvenWhenPaused**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L195)
 
 ## Methods
 
@@ -158,10 +118,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L203)
-
 ___
 
 ### StaticStruct
@@ -171,7 +127,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L204)

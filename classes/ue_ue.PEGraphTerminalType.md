@@ -27,10 +27,6 @@
 
 • **new PEGraphTerminalType**()
 
-#### Defined in
-
-[ue/ue.d.ts:57083](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57083)
-
 • **new PEGraphTerminalType**(`PinCategory`, `PinSubCategoryObject`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `PinCategory` | `string` |
 | `PinSubCategoryObject` | [`Object`](ue_ue.Object.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:57084](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57084)
-
 ## Properties
 
 ### PinCategory
 
 • **PinCategory**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:57085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57085)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **PinSubCategoryObject**: [`Object`](ue_ue.Object.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57086](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57086)
-
 ___
 
 ### \_\_tid\_PEGraphTerminalType\_\_
 
 • `Private` **\_\_tid\_PEGraphTerminalType\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57092)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57090)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57091)

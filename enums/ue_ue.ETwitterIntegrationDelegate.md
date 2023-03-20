@@ -20,19 +20,11 @@
 
 • **TID\_AuthorizeComplete** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34853)
-
 ___
 
 ### TID\_MAX
 
 • **TID\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34853)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **TID\_RequestComplete** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34853)
-
 ___
 
 ### TID\_TweetUIComplete
 
 • **TID\_TweetUIComplete** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34853)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34853)

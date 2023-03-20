@@ -27,10 +27,6 @@
 
 • **new DatasmithCameraFilmbackSettingsTemplate**()
 
-#### Defined in
-
-[ue/ue.d.ts:29525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29525)
-
 • **new DatasmithCameraFilmbackSettingsTemplate**(`SensorWidth`, `SensorHeight`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `SensorWidth` | `number` |
 | `SensorHeight` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:29526](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29526)
-
 ## Properties
 
 ### SensorHeight
 
 • **SensorHeight**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29528](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29528)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **SensorWidth**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29527](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29527)
-
 ___
 
 ### \_\_tid\_DatasmithCameraFilmbackSettingsTemplate\_\_
 
 • `Private` **\_\_tid\_DatasmithCameraFilmbackSettingsTemplate\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29534](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29534)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29532](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29532)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29533](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29533)

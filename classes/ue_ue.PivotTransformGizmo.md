@@ -292,10 +292,6 @@
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[constructor](ue_ue.BaseTransformGizmo.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:57829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57829)
-
 ## Properties
 
 ### ActorLabel
@@ -305,10 +301,6 @@
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[ActorLabel](ue_ue.BaseTransformGizmo.md#actorlabel)
-
-#### Defined in
-
-[ue/ue.d.ts:13176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13176)
 
 ___
 
@@ -320,10 +312,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[AllHandleGroups](ue_ue.BaseTransformGizmo.md#allhandlegroups)
 
-#### Defined in
-
-[ue/ue.d.ts:14427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14427)
-
 ___
 
 ### AttachmentReplication
@@ -333,10 +321,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[AttachmentReplication](ue_ue.BaseTransformGizmo.md#attachmentreplication)
-
-#### Defined in
-
-[ue/ue.d.ts:13151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13151)
 
 ___
 
@@ -348,10 +332,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[AutoReceiveInput](ue_ue.BaseTransformGizmo.md#autoreceiveinput)
 
-#### Defined in
-
-[ue/ue.d.ts:13157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13157)
-
 ___
 
 ### BlueprintCreatedComponents
@@ -361,10 +341,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[BlueprintCreatedComponents](ue_ue.BaseTransformGizmo.md#blueprintcreatedcomponents)
-
-#### Defined in
-
-[ue/ue.d.ts:13206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13206)
 
 ___
 
@@ -376,10 +352,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[Children](ue_ue.BaseTransformGizmo.md#children)
 
-#### Defined in
-
-[ue/ue.d.ts:13166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13166)
-
 ___
 
 ### ControllingMatineeActors
@@ -389,10 +361,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[ControllingMatineeActors](ue_ue.BaseTransformGizmo.md#controllingmatineeactors)
-
-#### Defined in
-
-[ue/ue.d.ts:13169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13169)
 
 ___
 
@@ -404,10 +372,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[CustomTimeDilation](ue_ue.BaseTransformGizmo.md#customtimedilation)
 
-#### Defined in
-
-[ue/ue.d.ts:13150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13150)
-
 ___
 
 ### DefaultUpdateOverlapsMethodDuringLevelStreaming
@@ -417,10 +381,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[DefaultUpdateOverlapsMethodDuringLevelStreaming](ue_ue.BaseTransformGizmo.md#defaultupdateoverlapsmethodduringlevelstreaming)
-
-#### Defined in
-
-[ue/ue.d.ts:13146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13146)
 
 ___
 
@@ -432,10 +392,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[FolderPath](ue_ue.BaseTransformGizmo.md#folderpath)
 
-#### Defined in
-
-[ue/ue.d.ts:13177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13177)
-
 ___
 
 ### GroupActor
@@ -445,10 +401,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GroupActor](ue_ue.BaseTransformGizmo.md#groupactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13173)
 
 ___
 
@@ -460,10 +412,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[HiddenEditorViews](ue_ue.BaseTransformGizmo.md#hiddeneditorviews)
 
-#### Defined in
-
-[ue/ue.d.ts:13175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13175)
-
 ___
 
 ### InitialLifeSpan
@@ -473,10 +421,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[InitialLifeSpan](ue_ue.BaseTransformGizmo.md#initiallifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13149)
 
 ___
 
@@ -488,10 +432,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[InputComponent](ue_ue.BaseTransformGizmo.md#inputcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13159)
-
 ___
 
 ### InputPriority
@@ -501,10 +441,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[InputPriority](ue_ue.BaseTransformGizmo.md#inputpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:13158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13158)
 
 ___
 
@@ -516,10 +452,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[InstanceComponents](ue_ue.BaseTransformGizmo.md#instancecomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13205)
-
 ___
 
 ### Instigator
@@ -530,19 +462,11 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[Instigator](ue_ue.BaseTransformGizmo.md#instigator)
 
-#### Defined in
-
-[ue/ue.d.ts:13165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13165)
-
 ___
 
 ### LastDraggingHandle
 
 • **LastDraggingHandle**: [`ActorComponent`](ue_ue.ActorComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57836)
 
 ___
 
@@ -554,10 +478,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[Layers](ue_ue.BaseTransformGizmo.md#layers)
 
-#### Defined in
-
-[ue/ue.d.ts:13170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13170)
-
 ___
 
 ### MinNetUpdateFrequency
@@ -567,10 +487,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[MinNetUpdateFrequency](ue_ue.BaseTransformGizmo.md#minnetupdatefrequency)
-
-#### Defined in
-
-[ue/ue.d.ts:13163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13163)
 
 ___
 
@@ -582,10 +498,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[NetCullDistanceSquared](ue_ue.BaseTransformGizmo.md#netculldistancesquared)
 
-#### Defined in
-
-[ue/ue.d.ts:13160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13160)
-
 ___
 
 ### NetDormancy
@@ -595,10 +507,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[NetDormancy](ue_ue.BaseTransformGizmo.md#netdormancy)
-
-#### Defined in
-
-[ue/ue.d.ts:13155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13155)
 
 ___
 
@@ -610,10 +518,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[NetDriverName](ue_ue.BaseTransformGizmo.md#netdrivername)
 
-#### Defined in
-
-[ue/ue.d.ts:13153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13153)
-
 ___
 
 ### NetPriority
@@ -623,10 +527,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[NetPriority](ue_ue.BaseTransformGizmo.md#netpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:13164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13164)
 
 ___
 
@@ -638,10 +538,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[NetTag](ue_ue.BaseTransformGizmo.md#nettag)
 
-#### Defined in
-
-[ue/ue.d.ts:13161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13161)
-
 ___
 
 ### NetUpdateFrequency
@@ -651,10 +547,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[NetUpdateFrequency](ue_ue.BaseTransformGizmo.md#netupdatefrequency)
-
-#### Defined in
-
-[ue/ue.d.ts:13162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13162)
 
 ___
 
@@ -666,10 +558,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[OnActorBeginOverlap](ue_ue.BaseTransformGizmo.md#onactorbeginoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13192)
-
 ___
 
 ### OnActorEndOverlap
@@ -679,10 +567,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[OnActorEndOverlap](ue_ue.BaseTransformGizmo.md#onactorendoverlap)
-
-#### Defined in
-
-[ue/ue.d.ts:13193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13193)
 
 ___
 
@@ -694,10 +578,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[OnActorHit](ue_ue.BaseTransformGizmo.md#onactorhit)
 
-#### Defined in
-
-[ue/ue.d.ts:13202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13202)
-
 ___
 
 ### OnBeginCursorOver
@@ -707,10 +587,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[OnBeginCursorOver](ue_ue.BaseTransformGizmo.md#onbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13194)
 
 ___
 
@@ -722,10 +598,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[OnClicked](ue_ue.BaseTransformGizmo.md#onclicked)
 
-#### Defined in
-
-[ue/ue.d.ts:13196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13196)
-
 ___
 
 ### OnDestroyed
@@ -735,10 +607,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[OnDestroyed](ue_ue.BaseTransformGizmo.md#ondestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13203)
 
 ___
 
@@ -750,10 +618,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[OnEndCursorOver](ue_ue.BaseTransformGizmo.md#onendcursorover)
 
-#### Defined in
-
-[ue/ue.d.ts:13195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13195)
-
 ___
 
 ### OnEndPlay
@@ -763,10 +627,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[OnEndPlay](ue_ue.BaseTransformGizmo.md#onendplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13204)
 
 ___
 
@@ -778,10 +638,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[OnInputTouchBegin](ue_ue.BaseTransformGizmo.md#oninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:13198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13198)
-
 ___
 
 ### OnInputTouchEnd
@@ -791,10 +647,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[OnInputTouchEnd](ue_ue.BaseTransformGizmo.md#oninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:13199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13199)
 
 ___
 
@@ -806,10 +658,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[OnInputTouchEnter](ue_ue.BaseTransformGizmo.md#oninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:13200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13200)
-
 ___
 
 ### OnInputTouchLeave
@@ -819,10 +667,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[OnInputTouchLeave](ue_ue.BaseTransformGizmo.md#oninputtouchleave)
-
-#### Defined in
-
-[ue/ue.d.ts:13201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13201)
 
 ___
 
@@ -834,10 +678,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[OnReleased](ue_ue.BaseTransformGizmo.md#onreleased)
 
-#### Defined in
-
-[ue/ue.d.ts:13197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13197)
-
 ___
 
 ### OnTakeAnyDamage
@@ -847,10 +687,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[OnTakeAnyDamage](ue_ue.BaseTransformGizmo.md#ontakeanydamage)
-
-#### Defined in
-
-[ue/ue.d.ts:13189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13189)
 
 ___
 
@@ -862,10 +698,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[OnTakePointDamage](ue_ue.BaseTransformGizmo.md#ontakepointdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13190)
-
 ___
 
 ### OnTakeRadialDamage
@@ -875,10 +707,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[OnTakeRadialDamage](ue_ue.BaseTransformGizmo.md#ontakeradialdamage)
-
-#### Defined in
-
-[ue/ue.d.ts:13191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13191)
 
 ___
 
@@ -890,10 +718,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[Owner](ue_ue.BaseTransformGizmo.md#owner)
 
-#### Defined in
-
-[ue/ue.d.ts:13152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13152)
-
 ___
 
 ### ParentComponent
@@ -903,10 +727,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[ParentComponent](ue_ue.BaseTransformGizmo.md#parentcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13172)
 
 ___
 
@@ -918,10 +738,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[ParentComponentActor](ue_ue.BaseTransformGizmo.md#parentcomponentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13171)
-
 ___
 
 ### PivotOffset
@@ -932,19 +748,11 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[PivotOffset](ue_ue.BaseTransformGizmo.md#pivotoffset)
 
-#### Defined in
-
-[ue/ue.d.ts:13168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13168)
-
 ___
 
 ### PlaneTranslationGizmoHandleGroup
 
 • **PlaneTranslationGizmoHandleGroup**: [`PivotPlaneTranslationGizmoHandleGroup`](ue_ue.PivotPlaneTranslationGizmoHandleGroup.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57833)
 
 ___
 
@@ -956,10 +764,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[PrimaryActorTick](ue_ue.BaseTransformGizmo.md#primaryactortick)
 
-#### Defined in
-
-[ue/ue.d.ts:13115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13115)
-
 ___
 
 ### RemoteRole
@@ -969,10 +773,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[RemoteRole](ue_ue.BaseTransformGizmo.md#remoterole)
-
-#### Defined in
-
-[ue/ue.d.ts:13147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13147)
 
 ___
 
@@ -984,10 +784,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[ReplicatedMovement](ue_ue.BaseTransformGizmo.md#replicatedmovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13148)
-
 ___
 
 ### Role
@@ -997,10 +793,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[Role](ue_ue.BaseTransformGizmo.md#role)
-
-#### Defined in
-
-[ue/ue.d.ts:13154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13154)
 
 ___
 
@@ -1012,29 +804,17 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[RootComponent](ue_ue.BaseTransformGizmo.md#rootcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13167)
-
 ___
 
 ### RotationGizmoHandleGroup
 
 • **RotationGizmoHandleGroup**: [`PivotRotationGizmoHandleGroup`](ue_ue.PivotRotationGizmoHandleGroup.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57834)
-
 ___
 
 ### ScaleGizmoHandleGroup
 
 • **ScaleGizmoHandleGroup**: [`PivotScaleGizmoHandleGroup`](ue_ue.PivotScaleGizmoHandleGroup.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57832)
 
 ___
 
@@ -1046,10 +826,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[SceneComponent](ue_ue.BaseTransformGizmo.md#scenecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:14426](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14426)
-
 ___
 
 ### SpawnCollisionHandlingMethod
@@ -1059,10 +835,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[SpawnCollisionHandlingMethod](ue_ue.BaseTransformGizmo.md#spawncollisionhandlingmethod)
-
-#### Defined in
-
-[ue/ue.d.ts:13156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13156)
 
 ___
 
@@ -1074,19 +846,11 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[SpriteScale](ue_ue.BaseTransformGizmo.md#spritescale)
 
-#### Defined in
-
-[ue/ue.d.ts:13174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13174)
-
 ___
 
 ### StretchGizmoHandleGroup
 
 • **StretchGizmoHandleGroup**: [`StretchGizmoHandleGroup`](ue_ue.StretchGizmoHandleGroup.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57835](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57835)
 
 ___
 
@@ -1098,29 +862,17 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[Tags](ue_ue.BaseTransformGizmo.md#tags)
 
-#### Defined in
-
-[ue/ue.d.ts:13188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13188)
-
 ___
 
 ### TranslationGizmoHandleGroup
 
 • **TranslationGizmoHandleGroup**: [`PivotTranslationGizmoHandleGroup`](ue_ue.PivotTranslationGizmoHandleGroup.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57831)
-
 ___
 
 ### UniformScaleGizmoHandleGroup
 
 • **UniformScaleGizmoHandleGroup**: [`UniformScaleGizmoHandleGroup`](ue_ue.UniformScaleGizmoHandleGroup.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57830)
 
 ___
 
@@ -1132,10 +884,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[UpdateOverlapsMethodDuringLevelStreaming](ue_ue.BaseTransformGizmo.md#updateoverlapsmethodduringlevelstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:13145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13145)
-
 ___
 
 ### WorldInteraction
@@ -1145,10 +893,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[WorldInteraction](ue_ue.BaseTransformGizmo.md#worldinteraction)
-
-#### Defined in
-
-[ue/ue.d.ts:14428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14428)
 
 ___
 
@@ -1160,10 +904,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[__tid_Actor__](ue_ue.BaseTransformGizmo.md#__tid_actor__)
 
-#### Defined in
-
-[ue/ue.d.ts:13348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13348)
-
 ___
 
 ### \_\_tid\_BaseTransformGizmo\_\_
@@ -1173,10 +913,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[__tid_BaseTransformGizmo__](ue_ue.BaseTransformGizmo.md#__tid_basetransformgizmo__)
-
-#### Defined in
-
-[ue/ue.d.ts:14433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14433)
 
 ___
 
@@ -1188,19 +924,11 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[__tid_Object__](ue_ue.BaseTransformGizmo.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PivotTransformGizmo\_\_
 
 • **\_\_tid\_PivotTransformGizmo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57841)
 
 ___
 
@@ -1212,10 +940,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bActorEnableCollision](ue_ue.BaseTransformGizmo.md#bactorenablecollision)
 
-#### Defined in
-
-[ue/ue.d.ts:13143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13143)
-
 ___
 
 ### bActorIsBeingDestroyed
@@ -1225,10 +949,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bActorIsBeingDestroyed](ue_ue.BaseTransformGizmo.md#bactorisbeingdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13144)
 
 ___
 
@@ -1240,10 +960,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bActorLabelEditable](ue_ue.BaseTransformGizmo.md#bactorlabeleditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13183)
-
 ___
 
 ### bActorSeamlessTraveled
@@ -1253,10 +969,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bActorSeamlessTraveled](ue_ue.BaseTransformGizmo.md#bactorseamlesstraveled)
-
-#### Defined in
-
-[ue/ue.d.ts:13139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13139)
 
 ___
 
@@ -1268,10 +980,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bAllowReceiveTickEventOnDedicatedServer](ue_ue.BaseTransformGizmo.md#ballowreceivetickeventondedicatedserver)
 
-#### Defined in
-
-[ue/ue.d.ts:13142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13142)
-
 ___
 
 ### bAllowTickBeforeBeginPlay
@@ -1281,10 +989,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bAllowTickBeforeBeginPlay](ue_ue.BaseTransformGizmo.md#ballowtickbeforebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13129)
 
 ___
 
@@ -1296,10 +1000,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bAlwaysRelevant](ue_ue.BaseTransformGizmo.md#balwaysrelevant)
 
-#### Defined in
-
-[ue/ue.d.ts:13120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13120)
-
 ___
 
 ### bAutoDestroyWhenFinished
@@ -1309,10 +1009,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bAutoDestroyWhenFinished](ue_ue.BaseTransformGizmo.md#bautodestroywhenfinished)
-
-#### Defined in
-
-[ue/ue.d.ts:13130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13130)
 
 ___
 
@@ -1324,10 +1020,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bBlockInput](ue_ue.BaseTransformGizmo.md#bblockinput)
 
-#### Defined in
-
-[ue/ue.d.ts:13131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13131)
-
 ___
 
 ### bCanBeDamaged
@@ -1337,10 +1029,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bCanBeDamaged](ue_ue.BaseTransformGizmo.md#bcanbedamaged)
-
-#### Defined in
-
-[ue/ue.d.ts:13132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13132)
 
 ___
 
@@ -1352,10 +1040,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bCanBeInCluster](ue_ue.BaseTransformGizmo.md#bcanbeincluster)
 
-#### Defined in
-
-[ue/ue.d.ts:13141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13141)
-
 ___
 
 ### bCollideWhenPlacing
@@ -1365,10 +1049,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bCollideWhenPlacing](ue_ue.BaseTransformGizmo.md#bcollidewhenplacing)
-
-#### Defined in
-
-[ue/ue.d.ts:13133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13133)
 
 ___
 
@@ -1380,10 +1060,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bEditable](ue_ue.BaseTransformGizmo.md#beditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13184)
-
 ___
 
 ### bEnableAutoLODGeneration
@@ -1393,10 +1069,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bEnableAutoLODGeneration](ue_ue.BaseTransformGizmo.md#benableautolodgeneration)
-
-#### Defined in
-
-[ue/ue.d.ts:13137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13137)
 
 ___
 
@@ -1408,10 +1080,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bExchangedRoles](ue_ue.BaseTransformGizmo.md#bexchangedroles)
 
-#### Defined in
-
-[ue/ue.d.ts:13123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13123)
-
 ___
 
 ### bFindCameraComponentWhenViewTarget
@@ -1421,10 +1089,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bFindCameraComponentWhenViewTarget](ue_ue.BaseTransformGizmo.md#bfindcameracomponentwhenviewtarget)
-
-#### Defined in
-
-[ue/ue.d.ts:13134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13134)
 
 ___
 
@@ -1436,10 +1100,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bGenerateOverlapEventsDuringLevelStreaming](ue_ue.BaseTransformGizmo.md#bgenerateoverlapeventsduringlevelstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:13135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13135)
-
 ___
 
 ### bHidden
@@ -1449,10 +1109,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bHidden](ue_ue.BaseTransformGizmo.md#bhidden)
-
-#### Defined in
-
-[ue/ue.d.ts:13116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13116)
 
 ___
 
@@ -1464,10 +1120,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bHiddenEd](ue_ue.BaseTransformGizmo.md#bhiddened)
 
-#### Defined in
-
-[ue/ue.d.ts:13178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13178)
-
 ___
 
 ### bHiddenEdLayer
@@ -1477,10 +1129,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bHiddenEdLayer](ue_ue.BaseTransformGizmo.md#bhiddenedlayer)
-
-#### Defined in
-
-[ue/ue.d.ts:13180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13180)
 
 ___
 
@@ -1492,10 +1140,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bHiddenEdLevel](ue_ue.BaseTransformGizmo.md#bhiddenedlevel)
 
-#### Defined in
-
-[ue/ue.d.ts:13181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13181)
-
 ___
 
 ### bHiddenEdTemporary
@@ -1505,10 +1149,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bHiddenEdTemporary](ue_ue.BaseTransformGizmo.md#bhiddenedtemporary)
-
-#### Defined in
-
-[ue/ue.d.ts:13187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13187)
 
 ___
 
@@ -1520,10 +1160,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bIgnoresOriginShifting](ue_ue.BaseTransformGizmo.md#bignoresoriginshifting)
 
-#### Defined in
-
-[ue/ue.d.ts:13136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13136)
-
 ___
 
 ### bIsEditorOnlyActor
@@ -1533,10 +1169,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bIsEditorOnlyActor](ue_ue.BaseTransformGizmo.md#biseditoronlyactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13138)
 
 ___
 
@@ -1548,10 +1180,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bIsEditorPreviewActor](ue_ue.BaseTransformGizmo.md#biseditorpreviewactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13179)
-
 ___
 
 ### bListedInSceneOutliner
@@ -1561,10 +1189,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bListedInSceneOutliner](ue_ue.BaseTransformGizmo.md#blistedinsceneoutliner)
-
-#### Defined in
-
-[ue/ue.d.ts:13185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13185)
 
 ___
 
@@ -1576,10 +1200,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bLockLocation](ue_ue.BaseTransformGizmo.md#blocklocation)
 
-#### Defined in
-
-[ue/ue.d.ts:13182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13182)
-
 ___
 
 ### bNetLoadOnClient
@@ -1589,10 +1209,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bNetLoadOnClient](ue_ue.BaseTransformGizmo.md#bnetloadonclient)
-
-#### Defined in
-
-[ue/ue.d.ts:13124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13124)
 
 ___
 
@@ -1604,10 +1220,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bNetStartup](ue_ue.BaseTransformGizmo.md#bnetstartup)
 
-#### Defined in
-
-[ue/ue.d.ts:13118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13118)
-
 ___
 
 ### bNetTemporary
@@ -1617,10 +1229,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bNetTemporary](ue_ue.BaseTransformGizmo.md#bnettemporary)
-
-#### Defined in
-
-[ue/ue.d.ts:13117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13117)
 
 ___
 
@@ -1632,10 +1240,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bNetUseOwnerRelevancy](ue_ue.BaseTransformGizmo.md#bnetuseownerrelevancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13125)
-
 ___
 
 ### bOnlyRelevantToOwner
@@ -1645,10 +1249,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bOnlyRelevantToOwner](ue_ue.BaseTransformGizmo.md#bonlyrelevanttoowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13119)
 
 ___
 
@@ -1660,10 +1260,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bOptimizeBPComponentData](ue_ue.BaseTransformGizmo.md#boptimizebpcomponentdata)
 
-#### Defined in
-
-[ue/ue.d.ts:13186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13186)
-
 ___
 
 ### bRelevantForLevelBounds
@@ -1673,10 +1269,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bRelevantForLevelBounds](ue_ue.BaseTransformGizmo.md#brelevantforlevelbounds)
-
-#### Defined in
-
-[ue/ue.d.ts:13127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13127)
 
 ___
 
@@ -1688,10 +1280,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bRelevantForNetworkReplays](ue_ue.BaseTransformGizmo.md#brelevantfornetworkreplays)
 
-#### Defined in
-
-[ue/ue.d.ts:13126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13126)
-
 ___
 
 ### bReplayRewindable
@@ -1701,10 +1289,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bReplayRewindable](ue_ue.BaseTransformGizmo.md#breplayrewindable)
-
-#### Defined in
-
-[ue/ue.d.ts:13128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13128)
 
 ___
 
@@ -1716,10 +1300,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bReplicateMovement](ue_ue.BaseTransformGizmo.md#breplicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13121)
-
 ___
 
 ### bReplicates
@@ -1730,10 +1310,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bReplicates](ue_ue.BaseTransformGizmo.md#breplicates)
 
-#### Defined in
-
-[ue/ue.d.ts:13140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13140)
-
 ___
 
 ### bTearOff
@@ -1743,10 +1319,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[bTearOff](ue_ue.BaseTransformGizmo.md#btearoff)
-
-#### Defined in
-
-[ue/ue.d.ts:13122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13122)
 
 ## Methods
 
@@ -1767,10 +1339,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[ActorHasTag](ue_ue.BaseTransformGizmo.md#actorhastag)
-
-#### Defined in
-
-[ue/ue.d.ts:13207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13207)
 
 ___
 
@@ -1795,10 +1363,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[AddComponent](ue_ue.BaseTransformGizmo.md#addcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13208)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -1819,10 +1383,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[AddTickPrerequisiteActor](ue_ue.BaseTransformGizmo.md#addtickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13209)
-
 ___
 
 ### AddTickPrerequisiteComponent
@@ -1842,10 +1402,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[AddTickPrerequisiteComponent](ue_ue.BaseTransformGizmo.md#addtickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13210)
 
 ___
 
@@ -1871,10 +1427,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[CreateDefaultSubobject](ue_ue.BaseTransformGizmo.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### DetachRootComponentFromParent
@@ -1894,10 +1446,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[DetachRootComponentFromParent](ue_ue.BaseTransformGizmo.md#detachrootcomponentfromparent)
-
-#### Defined in
-
-[ue/ue.d.ts:13211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13211)
 
 ___
 
@@ -1919,10 +1467,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[DisableInput](ue_ue.BaseTransformGizmo.md#disableinput)
 
-#### Defined in
-
-[ue/ue.d.ts:13212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13212)
-
 ___
 
 ### EnableInput
@@ -1942,10 +1486,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[EnableInput](ue_ue.BaseTransformGizmo.md#enableinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13213)
 
 ___
 
@@ -1967,10 +1507,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[ExecuteUbergraph](ue_ue.BaseTransformGizmo.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### FlushNetDormancy
@@ -1985,10 +1521,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[FlushNetDormancy](ue_ue.BaseTransformGizmo.md#flushnetdormancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13214)
-
 ___
 
 ### ForceNetUpdate
@@ -2002,10 +1534,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[ForceNetUpdate](ue_ue.BaseTransformGizmo.md#forcenetupdate)
-
-#### Defined in
-
-[ue/ue.d.ts:13215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13215)
 
 ___
 
@@ -2029,10 +1557,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetActorBounds](ue_ue.BaseTransformGizmo.md#getactorbounds)
 
-#### Defined in
-
-[ue/ue.d.ts:13216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13216)
-
 ___
 
 ### GetActorEnableCollision
@@ -2046,10 +1570,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetActorEnableCollision](ue_ue.BaseTransformGizmo.md#getactorenablecollision)
-
-#### Defined in
-
-[ue/ue.d.ts:13217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13217)
 
 ___
 
@@ -2072,10 +1592,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetActorEyesViewPoint](ue_ue.BaseTransformGizmo.md#getactoreyesviewpoint)
 
-#### Defined in
-
-[ue/ue.d.ts:13218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13218)
-
 ___
 
 ### GetActorForwardVector
@@ -2089,10 +1605,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetActorForwardVector](ue_ue.BaseTransformGizmo.md#getactorforwardvector)
-
-#### Defined in
-
-[ue/ue.d.ts:13219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13219)
 
 ___
 
@@ -2108,10 +1620,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetActorLabel](ue_ue.BaseTransformGizmo.md#getactorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13220)
-
 ___
 
 ### GetActorRelativeScale3D
@@ -2125,10 +1633,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetActorRelativeScale3D](ue_ue.BaseTransformGizmo.md#getactorrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13221)
 
 ___
 
@@ -2144,10 +1648,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetActorRightVector](ue_ue.BaseTransformGizmo.md#getactorrightvector)
 
-#### Defined in
-
-[ue/ue.d.ts:13222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13222)
-
 ___
 
 ### GetActorScale3D
@@ -2161,10 +1661,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetActorScale3D](ue_ue.BaseTransformGizmo.md#getactorscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13223)
 
 ___
 
@@ -2180,10 +1676,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetActorTickInterval](ue_ue.BaseTransformGizmo.md#getactortickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:13224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13224)
-
 ___
 
 ### GetActorTimeDilation
@@ -2198,10 +1690,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetActorTimeDilation](ue_ue.BaseTransformGizmo.md#getactortimedilation)
 
-#### Defined in
-
-[ue/ue.d.ts:13225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13225)
-
 ___
 
 ### GetActorUpVector
@@ -2215,10 +1703,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetActorUpVector](ue_ue.BaseTransformGizmo.md#getactorupvector)
-
-#### Defined in
-
-[ue/ue.d.ts:13226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13226)
 
 ___
 
@@ -2241,10 +1725,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetAllChildActors](ue_ue.BaseTransformGizmo.md#getallchildactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13227)
-
 ___
 
 ### GetAttachParentActor
@@ -2259,10 +1739,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetAttachParentActor](ue_ue.BaseTransformGizmo.md#getattachparentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13229)
-
 ___
 
 ### GetAttachParentSocketName
@@ -2276,10 +1752,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetAttachParentSocketName](ue_ue.BaseTransformGizmo.md#getattachparentsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:13230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13230)
 
 ___
 
@@ -2302,10 +1774,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetAttachedActors](ue_ue.BaseTransformGizmo.md#getattachedactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13228)
-
 ___
 
 ### GetClass
@@ -2319,10 +1787,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetClass](ue_ue.BaseTransformGizmo.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -2344,10 +1808,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetComponentByClass](ue_ue.BaseTransformGizmo.md#getcomponentbyclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13231)
-
 ___
 
 ### GetComponentsByInterface
@@ -2367,10 +1827,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetComponentsByInterface](ue_ue.BaseTransformGizmo.md#getcomponentsbyinterface)
-
-#### Defined in
-
-[ue/ue.d.ts:13232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13232)
 
 ___
 
@@ -2393,10 +1849,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetComponentsByTag](ue_ue.BaseTransformGizmo.md#getcomponentsbytag)
 
-#### Defined in
-
-[ue/ue.d.ts:13233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13233)
-
 ___
 
 ### GetDistanceTo
@@ -2416,10 +1868,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetDistanceTo](ue_ue.BaseTransformGizmo.md#getdistanceto)
-
-#### Defined in
-
-[ue/ue.d.ts:13234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13234)
 
 ___
 
@@ -2441,10 +1889,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetDotProductTo](ue_ue.BaseTransformGizmo.md#getdotproductto)
 
-#### Defined in
-
-[ue/ue.d.ts:13235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13235)
-
 ___
 
 ### GetFolderPath
@@ -2459,10 +1903,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetFolderPath](ue_ue.BaseTransformGizmo.md#getfolderpath)
 
-#### Defined in
-
-[ue/ue.d.ts:13236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13236)
-
 ___
 
 ### GetGameTimeSinceCreation
@@ -2476,10 +1916,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetGameTimeSinceCreation](ue_ue.BaseTransformGizmo.md#getgametimesincecreation)
-
-#### Defined in
-
-[ue/ue.d.ts:13237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13237)
 
 ___
 
@@ -2501,10 +1937,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetHorizontalDistanceTo](ue_ue.BaseTransformGizmo.md#gethorizontaldistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13238)
-
 ___
 
 ### GetHorizontalDotProductTo
@@ -2524,10 +1956,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetHorizontalDotProductTo](ue_ue.BaseTransformGizmo.md#gethorizontaldotproductto)
-
-#### Defined in
-
-[ue/ue.d.ts:13239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13239)
 
 ___
 
@@ -2549,10 +1977,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetInputAxisKeyValue](ue_ue.BaseTransformGizmo.md#getinputaxiskeyvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:13240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13240)
-
 ___
 
 ### GetInputAxisValue
@@ -2572,10 +1996,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetInputAxisValue](ue_ue.BaseTransformGizmo.md#getinputaxisvalue)
-
-#### Defined in
-
-[ue/ue.d.ts:13241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13241)
 
 ___
 
@@ -2597,10 +2017,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetInputVectorAxisValue](ue_ue.BaseTransformGizmo.md#getinputvectoraxisvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:13242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13242)
-
 ___
 
 ### GetInstigator
@@ -2614,10 +2030,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetInstigator](ue_ue.BaseTransformGizmo.md#getinstigator)
-
-#### Defined in
-
-[ue/ue.d.ts:13243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13243)
 
 ___
 
@@ -2633,10 +2045,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetInstigatorController](ue_ue.BaseTransformGizmo.md#getinstigatorcontroller)
 
-#### Defined in
-
-[ue/ue.d.ts:13244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13244)
-
 ___
 
 ### GetLifeSpan
@@ -2650,10 +2058,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetLifeSpan](ue_ue.BaseTransformGizmo.md#getlifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13245)
 
 ___
 
@@ -2669,10 +2073,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetLocalRole](ue_ue.BaseTransformGizmo.md#getlocalrole)
 
-#### Defined in
-
-[ue/ue.d.ts:13246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13246)
-
 ___
 
 ### GetName
@@ -2687,10 +2087,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetName](ue_ue.BaseTransformGizmo.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -2704,10 +2100,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetOuter](ue_ue.BaseTransformGizmo.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -2730,10 +2122,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetOverlappingActors](ue_ue.BaseTransformGizmo.md#getoverlappingactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13247)
-
 ___
 
 ### GetOverlappingComponents
@@ -2754,10 +2142,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetOverlappingComponents](ue_ue.BaseTransformGizmo.md#getoverlappingcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13248)
-
 ___
 
 ### GetOwner
@@ -2771,10 +2155,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetOwner](ue_ue.BaseTransformGizmo.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13249)
 
 ___
 
@@ -2790,10 +2170,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetParentActor](ue_ue.BaseTransformGizmo.md#getparentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13250)
-
 ___
 
 ### GetParentComponent
@@ -2808,10 +2184,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetParentComponent](ue_ue.BaseTransformGizmo.md#getparentcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13251)
-
 ___
 
 ### GetRemoteRole
@@ -2825,10 +2197,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetRemoteRole](ue_ue.BaseTransformGizmo.md#getremoterole)
-
-#### Defined in
-
-[ue/ue.d.ts:13252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13252)
 
 ___
 
@@ -2850,10 +2218,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetSquaredDistanceTo](ue_ue.BaseTransformGizmo.md#getsquareddistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13253)
-
 ___
 
 ### GetTickableWhenPaused
@@ -2867,10 +2231,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetTickableWhenPaused](ue_ue.BaseTransformGizmo.md#gettickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:13254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13254)
 
 ___
 
@@ -2886,10 +2246,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetTransform](ue_ue.BaseTransformGizmo.md#gettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13255)
-
 ___
 
 ### GetVelocity
@@ -2903,10 +2259,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetVelocity](ue_ue.BaseTransformGizmo.md#getvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:13256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13256)
 
 ___
 
@@ -2928,10 +2280,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetVerticalDistanceTo](ue_ue.BaseTransformGizmo.md#getverticaldistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13257)
-
 ___
 
 ### GetWorld
@@ -2945,10 +2293,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[GetWorld](ue_ue.BaseTransformGizmo.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -2964,10 +2308,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[HasAuthority](ue_ue.BaseTransformGizmo.md#hasauthority)
 
-#### Defined in
-
-[ue/ue.d.ts:13258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13258)
-
 ___
 
 ### IsActorBeingDestroyed
@@ -2981,10 +2321,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[IsActorBeingDestroyed](ue_ue.BaseTransformGizmo.md#isactorbeingdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13259)
 
 ___
 
@@ -3000,10 +2336,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[IsActorTickEnabled](ue_ue.BaseTransformGizmo.md#isactortickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:13260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13260)
-
 ___
 
 ### IsChildActor
@@ -3017,10 +2349,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[IsChildActor](ue_ue.BaseTransformGizmo.md#ischildactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13261)
 
 ___
 
@@ -3036,10 +2364,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[IsEditable](ue_ue.BaseTransformGizmo.md#iseditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13262)
-
 ___
 
 ### IsHiddenEd
@@ -3054,10 +2378,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[IsHiddenEd](ue_ue.BaseTransformGizmo.md#ishiddened)
 
-#### Defined in
-
-[ue/ue.d.ts:13263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13263)
-
 ___
 
 ### IsHiddenEdAtStartup
@@ -3071,10 +2391,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[IsHiddenEdAtStartup](ue_ue.BaseTransformGizmo.md#ishiddenedatstartup)
-
-#### Defined in
-
-[ue/ue.d.ts:13264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13264)
 
 ___
 
@@ -3096,10 +2412,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[IsOverlappingActor](ue_ue.BaseTransformGizmo.md#isoverlappingactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13265)
-
 ___
 
 ### IsSelectable
@@ -3113,10 +2425,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[IsSelectable](ue_ue.BaseTransformGizmo.md#isselectable)
-
-#### Defined in
-
-[ue/ue.d.ts:13266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13266)
 
 ___
 
@@ -3137,10 +2445,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[IsTemporarilyHiddenInEditor](ue_ue.BaseTransformGizmo.md#istemporarilyhiddenineditor)
-
-#### Defined in
-
-[ue/ue.d.ts:13267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13267)
 
 ___
 
@@ -3165,10 +2469,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_AddActorLocalOffset](ue_ue.BaseTransformGizmo.md#k2_addactorlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:13268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13268)
-
 ___
 
 ### K2\_AddActorLocalRotation
@@ -3191,10 +2491,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_AddActorLocalRotation](ue_ue.BaseTransformGizmo.md#k2_addactorlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13269)
 
 ___
 
@@ -3219,10 +2515,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_AddActorLocalTransform](ue_ue.BaseTransformGizmo.md#k2_addactorlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13270)
-
 ___
 
 ### K2\_AddActorWorldOffset
@@ -3245,10 +2537,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_AddActorWorldOffset](ue_ue.BaseTransformGizmo.md#k2_addactorworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:13271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13271)
 
 ___
 
@@ -3273,10 +2561,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_AddActorWorldRotation](ue_ue.BaseTransformGizmo.md#k2_addactorworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13272)
-
 ___
 
 ### K2\_AddActorWorldTransform
@@ -3299,10 +2583,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_AddActorWorldTransform](ue_ue.BaseTransformGizmo.md#k2_addactorworldtransform)
-
-#### Defined in
-
-[ue/ue.d.ts:13273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13273)
 
 ___
 
@@ -3327,10 +2607,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_AttachRootComponentTo](ue_ue.BaseTransformGizmo.md#k2_attachrootcomponentto)
 
-#### Defined in
-
-[ue/ue.d.ts:13274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13274)
-
 ___
 
 ### K2\_AttachRootComponentToActor
@@ -3353,10 +2629,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_AttachRootComponentToActor](ue_ue.BaseTransformGizmo.md#k2_attachrootcomponenttoactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13275)
 
 ___
 
@@ -3383,10 +2655,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_AttachToActor](ue_ue.BaseTransformGizmo.md#k2_attachtoactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13276)
-
 ___
 
 ### K2\_AttachToComponent
@@ -3412,10 +2680,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_AttachToComponent](ue_ue.BaseTransformGizmo.md#k2_attachtocomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13277)
-
 ___
 
 ### K2\_DestroyActor
@@ -3429,10 +2693,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_DestroyActor](ue_ue.BaseTransformGizmo.md#k2_destroyactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13278)
 
 ___
 
@@ -3453,10 +2713,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_DestroyComponent](ue_ue.BaseTransformGizmo.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13279)
 
 ___
 
@@ -3480,10 +2736,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_DetachFromActor](ue_ue.BaseTransformGizmo.md#k2_detachfromactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13280)
-
 ___
 
 ### K2\_GetActorLocation
@@ -3498,10 +2750,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_GetActorLocation](ue_ue.BaseTransformGizmo.md#k2_getactorlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:13281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13281)
-
 ___
 
 ### K2\_GetActorRotation
@@ -3515,10 +2763,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_GetActorRotation](ue_ue.BaseTransformGizmo.md#k2_getactorrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13282)
 
 ___
 
@@ -3540,10 +2784,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_GetComponentsByClass](ue_ue.BaseTransformGizmo.md#k2_getcomponentsbyclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13283)
-
 ___
 
 ### K2\_GetRootComponent
@@ -3557,10 +2797,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_GetRootComponent](ue_ue.BaseTransformGizmo.md#k2_getrootcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13284)
 
 ___
 
@@ -3582,10 +2818,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_OnBecomeViewTarget](ue_ue.BaseTransformGizmo.md#k2_onbecomeviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13285)
-
 ___
 
 ### K2\_OnEndViewTarget
@@ -3606,10 +2838,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_OnEndViewTarget](ue_ue.BaseTransformGizmo.md#k2_onendviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13286)
-
 ___
 
 ### K2\_OnReset
@@ -3623,10 +2851,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_OnReset](ue_ue.BaseTransformGizmo.md#k2_onreset)
-
-#### Defined in
-
-[ue/ue.d.ts:13287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13287)
 
 ___
 
@@ -3650,10 +2874,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_SetActorLocation](ue_ue.BaseTransformGizmo.md#k2_setactorlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13288)
 
 ___
 
@@ -3679,10 +2899,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_SetActorLocationAndRotation](ue_ue.BaseTransformGizmo.md#k2_setactorlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13289)
-
 ___
 
 ### K2\_SetActorRelativeLocation
@@ -3705,10 +2921,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_SetActorRelativeLocation](ue_ue.BaseTransformGizmo.md#k2_setactorrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13290)
 
 ___
 
@@ -3733,10 +2945,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_SetActorRelativeRotation](ue_ue.BaseTransformGizmo.md#k2_setactorrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13291)
-
 ___
 
 ### K2\_SetActorRelativeTransform
@@ -3760,10 +2968,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_SetActorRelativeTransform](ue_ue.BaseTransformGizmo.md#k2_setactorrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13292)
-
 ___
 
 ### K2\_SetActorRotation
@@ -3784,10 +2988,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_SetActorRotation](ue_ue.BaseTransformGizmo.md#k2_setactorrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13293)
 
 ___
 
@@ -3812,10 +3012,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_SetActorTransform](ue_ue.BaseTransformGizmo.md#k2_setactortransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13294)
-
 ___
 
 ### K2\_TeleportTo
@@ -3837,10 +3033,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[K2_TeleportTo](ue_ue.BaseTransformGizmo.md#k2_teleportto)
 
-#### Defined in
-
-[ue/ue.d.ts:13295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13295)
-
 ___
 
 ### MakeMIDForMaterial
@@ -3860,10 +3052,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[MakeMIDForMaterial](ue_ue.BaseTransformGizmo.md#makemidformaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:13296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13296)
 
 ___
 
@@ -3889,10 +3077,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[MakeNoise](ue_ue.BaseTransformGizmo.md#makenoise)
 
-#### Defined in
-
-[ue/ue.d.ts:13297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13297)
-
 ___
 
 ### OnRep\_AttachmentReplication
@@ -3906,10 +3090,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[OnRep_AttachmentReplication](ue_ue.BaseTransformGizmo.md#onrep_attachmentreplication)
-
-#### Defined in
-
-[ue/ue.d.ts:13298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13298)
 
 ___
 
@@ -3925,10 +3105,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[OnRep_Instigator](ue_ue.BaseTransformGizmo.md#onrep_instigator)
 
-#### Defined in
-
-[ue/ue.d.ts:13299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13299)
-
 ___
 
 ### OnRep\_Owner
@@ -3942,10 +3118,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[OnRep_Owner](ue_ue.BaseTransformGizmo.md#onrep_owner)
-
-#### Defined in
-
-[ue/ue.d.ts:13300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13300)
 
 ___
 
@@ -3961,10 +3133,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[OnRep_ReplicateMovement](ue_ue.BaseTransformGizmo.md#onrep_replicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13302)
-
 ___
 
 ### OnRep\_ReplicatedMovement
@@ -3978,10 +3146,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[OnRep_ReplicatedMovement](ue_ue.BaseTransformGizmo.md#onrep_replicatedmovement)
-
-#### Defined in
-
-[ue/ue.d.ts:13301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13301)
 
 ___
 
@@ -4005,10 +3169,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[PrestreamTextures](ue_ue.BaseTransformGizmo.md#prestreamtextures)
 
-#### Defined in
-
-[ue/ue.d.ts:13303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13303)
-
 ___
 
 ### ReceiveActorBeginCursorOver
@@ -4022,10 +3182,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[ReceiveActorBeginCursorOver](ue_ue.BaseTransformGizmo.md#receiveactorbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13304)
 
 ___
 
@@ -4047,10 +3203,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[ReceiveActorBeginOverlap](ue_ue.BaseTransformGizmo.md#receiveactorbeginoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13305)
-
 ___
 
 ### ReceiveActorEndCursorOver
@@ -4064,10 +3216,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[ReceiveActorEndCursorOver](ue_ue.BaseTransformGizmo.md#receiveactorendcursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13306)
 
 ___
 
@@ -4089,10 +3237,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[ReceiveActorEndOverlap](ue_ue.BaseTransformGizmo.md#receiveactorendoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13307)
-
 ___
 
 ### ReceiveActorOnClicked
@@ -4112,10 +3256,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[ReceiveActorOnClicked](ue_ue.BaseTransformGizmo.md#receiveactoronclicked)
-
-#### Defined in
-
-[ue/ue.d.ts:13308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13308)
 
 ___
 
@@ -4137,10 +3277,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[ReceiveActorOnInputTouchBegin](ue_ue.BaseTransformGizmo.md#receiveactoroninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:13309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13309)
-
 ___
 
 ### ReceiveActorOnInputTouchEnd
@@ -4160,10 +3296,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[ReceiveActorOnInputTouchEnd](ue_ue.BaseTransformGizmo.md#receiveactoroninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:13310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13310)
 
 ___
 
@@ -4185,10 +3317,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[ReceiveActorOnInputTouchEnter](ue_ue.BaseTransformGizmo.md#receiveactoroninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:13311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13311)
-
 ___
 
 ### ReceiveActorOnInputTouchLeave
@@ -4209,10 +3337,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[ReceiveActorOnInputTouchLeave](ue_ue.BaseTransformGizmo.md#receiveactoroninputtouchleave)
 
-#### Defined in
-
-[ue/ue.d.ts:13312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13312)
-
 ___
 
 ### ReceiveActorOnReleased
@@ -4232,10 +3356,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[ReceiveActorOnReleased](ue_ue.BaseTransformGizmo.md#receiveactoronreleased)
-
-#### Defined in
-
-[ue/ue.d.ts:13313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13313)
 
 ___
 
@@ -4260,10 +3380,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[ReceiveAnyDamage](ue_ue.BaseTransformGizmo.md#receiveanydamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13314)
-
 ___
 
 ### ReceiveBeginPlay
@@ -4278,10 +3394,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[ReceiveBeginPlay](ue_ue.BaseTransformGizmo.md#receivebeginplay)
 
-#### Defined in
-
-[ue/ue.d.ts:13315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13315)
-
 ___
 
 ### ReceiveDestroyed
@@ -4295,10 +3407,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[ReceiveDestroyed](ue_ue.BaseTransformGizmo.md#receivedestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13316)
 
 ___
 
@@ -4319,10 +3427,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[ReceiveEndPlay](ue_ue.BaseTransformGizmo.md#receiveendplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13317)
 
 ___
 
@@ -4350,10 +3454,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[ReceiveHit](ue_ue.BaseTransformGizmo.md#receivehit)
-
-#### Defined in
-
-[ue/ue.d.ts:13318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13318)
 
 ___
 
@@ -4384,10 +3484,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[ReceivePointDamage](ue_ue.BaseTransformGizmo.md#receivepointdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13319)
-
 ___
 
 ### ReceiveRadialDamage
@@ -4413,10 +3509,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[ReceiveRadialDamage](ue_ue.BaseTransformGizmo.md#receiveradialdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13320)
-
 ___
 
 ### ReceiveTick
@@ -4436,10 +3528,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[ReceiveTick](ue_ue.BaseTransformGizmo.md#receivetick)
-
-#### Defined in
-
-[ue/ue.d.ts:13321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13321)
 
 ___
 
@@ -4461,10 +3549,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[RemoveTickPrerequisiteActor](ue_ue.BaseTransformGizmo.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -4484,10 +3568,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[RemoveTickPrerequisiteComponent](ue_ue.BaseTransformGizmo.md#removetickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13323)
 
 ___
 
@@ -4509,10 +3589,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[SetActorEnableCollision](ue_ue.BaseTransformGizmo.md#setactorenablecollision)
 
-#### Defined in
-
-[ue/ue.d.ts:13324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13324)
-
 ___
 
 ### SetActorHiddenInGame
@@ -4532,10 +3608,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[SetActorHiddenInGame](ue_ue.BaseTransformGizmo.md#setactorhiddeningame)
-
-#### Defined in
-
-[ue/ue.d.ts:13325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13325)
 
 ___
 
@@ -4558,10 +3630,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[SetActorLabel](ue_ue.BaseTransformGizmo.md#setactorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13326)
-
 ___
 
 ### SetActorRelativeScale3D
@@ -4581,10 +3649,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[SetActorRelativeScale3D](ue_ue.BaseTransformGizmo.md#setactorrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13327)
 
 ___
 
@@ -4606,10 +3670,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[SetActorScale3D](ue_ue.BaseTransformGizmo.md#setactorscale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:13328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13328)
-
 ___
 
 ### SetActorTickEnabled
@@ -4629,10 +3689,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[SetActorTickEnabled](ue_ue.BaseTransformGizmo.md#setactortickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:13329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13329)
 
 ___
 
@@ -4654,10 +3710,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[SetActorTickInterval](ue_ue.BaseTransformGizmo.md#setactortickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:13330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13330)
-
 ___
 
 ### SetFolderPath
@@ -4677,10 +3729,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[SetFolderPath](ue_ue.BaseTransformGizmo.md#setfolderpath)
-
-#### Defined in
-
-[ue/ue.d.ts:13331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13331)
 
 ___
 
@@ -4702,10 +3750,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[SetIsTemporarilyHiddenInEditor](ue_ue.BaseTransformGizmo.md#setistemporarilyhiddenineditor)
 
-#### Defined in
-
-[ue/ue.d.ts:13332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13332)
-
 ___
 
 ### SetLifeSpan
@@ -4725,10 +3769,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[SetLifeSpan](ue_ue.BaseTransformGizmo.md#setlifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13333)
 
 ___
 
@@ -4750,10 +3790,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[SetNetDormancy](ue_ue.BaseTransformGizmo.md#setnetdormancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13334)
-
 ___
 
 ### SetOwner
@@ -4773,10 +3809,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[SetOwner](ue_ue.BaseTransformGizmo.md#setowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13335)
 
 ___
 
@@ -4798,10 +3830,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[SetReplicateMovement](ue_ue.BaseTransformGizmo.md#setreplicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13336)
-
 ___
 
 ### SetReplicates
@@ -4821,10 +3849,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[SetReplicates](ue_ue.BaseTransformGizmo.md#setreplicates)
-
-#### Defined in
-
-[ue/ue.d.ts:13337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13337)
 
 ___
 
@@ -4846,10 +3870,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[SetTickGroup](ue_ue.BaseTransformGizmo.md#settickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:13339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13339)
-
 ___
 
 ### SetTickableWhenPaused
@@ -4869,10 +3889,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[SetTickableWhenPaused](ue_ue.BaseTransformGizmo.md#settickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:13338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13338)
 
 ___
 
@@ -4895,10 +3911,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[SnapRootComponentTo](ue_ue.BaseTransformGizmo.md#snaprootcomponentto)
 
-#### Defined in
-
-[ue/ue.d.ts:13340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13340)
-
 ___
 
 ### TearOff
@@ -4913,10 +3925,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[TearOff](ue_ue.BaseTransformGizmo.md#tearoff)
 
-#### Defined in
-
-[ue/ue.d.ts:13341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13341)
-
 ___
 
 ### UserConstructionScript
@@ -4930,10 +3938,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[UserConstructionScript](ue_ue.BaseTransformGizmo.md#userconstructionscript)
-
-#### Defined in
-
-[ue/ue.d.ts:13342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13342)
 
 ___
 
@@ -4954,10 +3958,6 @@ ___
 #### Inherited from
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[WasRecentlyRendered](ue_ue.BaseTransformGizmo.md#wasrecentlyrendered)
-
-#### Defined in
-
-[ue/ue.d.ts:13343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13343)
 
 ___
 
@@ -4980,10 +3980,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[Find](ue_ue.BaseTransformGizmo.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:57838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57838)
-
 ___
 
 ### Load
@@ -5004,10 +4000,6 @@ ___
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[Load](ue_ue.BaseTransformGizmo.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:57839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57839)
-
 ___
 
 ### StaticClass
@@ -5021,7 +4013,3 @@ ___
 #### Overrides
 
 [BaseTransformGizmo](ue_ue.BaseTransformGizmo.md).[StaticClass](ue_ue.BaseTransformGizmo.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:57837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57837)

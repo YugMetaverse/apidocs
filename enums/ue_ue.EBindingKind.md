@@ -19,19 +19,11 @@
 
 • **EBindingKind\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31382](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31382)
-
 ___
 
 ### Function
 
 • **Function** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31382](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31382)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Property** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31382](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31382)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31382](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31382)

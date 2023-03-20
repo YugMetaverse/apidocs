@@ -20,19 +20,11 @@
 
 • **FBXSOCHT\_CreateActorComponents** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33857)
-
 ___
 
 ### FBXSOCHT\_CreateBlueprint
 
 • **FBXSOCHT\_CreateBlueprint** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33857)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **FBXSOCHT\_CreateLevelActors** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33857)
-
 ___
 
 ### FBXSOCHT\_MAX
 
 • **FBXSOCHT\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33857)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33857)

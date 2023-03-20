@@ -19,19 +19,11 @@
 
 • **EAudioRecordingExportType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9603)
-
 ___
 
 ### SoundWave
 
 • **SoundWave** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9603)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **WavFile** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9603)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9603)

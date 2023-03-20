@@ -26,10 +26,6 @@
 
 • **new Typeface**()
 
-#### Defined in
-
-[ue/ue.d.ts:1891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1891)
-
 • **new Typeface**(`Fonts`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Fonts` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`TypefaceEntry`](ue_ue.TypefaceEntry.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:1892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1892)
-
 ## Properties
 
 ### Fonts
 
 • **Fonts**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`TypefaceEntry`](ue_ue.TypefaceEntry.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:1893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1893)
-
 ___
 
 ### \_\_tid\_Typeface\_\_
 
 • `Private` **\_\_tid\_Typeface\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1899)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1897)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1898)

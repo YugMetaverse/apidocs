@@ -27,19 +27,11 @@
 
 • **ButtonRow** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34070)
-
 ___
 
 ### EMultiBlockType\_MAX
 
 • **EMultiBlockType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34070)
 
 ___
 
@@ -47,19 +39,11 @@ ___
 
 • **EditableText** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34070)
-
 ___
 
 ### Heading
 
 • **Heading** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34070)
 
 ___
 
@@ -67,19 +51,11 @@ ___
 
 • **MenuEntry** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34070)
-
 ___
 
 ### MenuSeparator
 
 • **MenuSeparator** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34070)
 
 ___
 
@@ -87,19 +63,11 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34070)
-
 ___
 
 ### ToolBarButton
 
 • **ToolBarButton** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34070)
 
 ___
 
@@ -107,19 +75,11 @@ ___
 
 • **ToolBarComboButton** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34070)
-
 ___
 
 ### ToolBarSeparator
 
 • **ToolBarSeparator** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34070)
 
 ___
 
@@ -127,16 +87,8 @@ ___
 
 • **Widget** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34070)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34070)

@@ -91,19 +91,11 @@
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[constructor](ue_ue.MaterialExpressionTextureBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:47524](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47524)
-
 ## Properties
 
 ### AutomaticViewMipBias
 
 • **AutomaticViewMipBias**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:47533](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47533)
 
 ___
 
@@ -111,19 +103,11 @@ ___
 
 • **AutomaticViewMipBiasValue**: [`ExpressionInput`](ue_ue.ExpressionInput.md)
 
-#### Defined in
-
-[ue/ue.d.ts:47530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47530)
-
 ___
 
 ### ConstCoordinate
 
 • **ConstCoordinate**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:47534](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47534)
 
 ___
 
@@ -131,19 +115,11 @@ ___
 
 • **ConstMipValue**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:47535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47535)
-
 ___
 
 ### Coordinates
 
 • **Coordinates**: [`ExpressionInput`](ue_ue.ExpressionInput.md)
-
-#### Defined in
-
-[ue/ue.d.ts:47525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47525)
 
 ___
 
@@ -151,19 +127,11 @@ ___
 
 • **CoordinatesDX**: [`ExpressionInput`](ue_ue.ExpressionInput.md)
 
-#### Defined in
-
-[ue/ue.d.ts:47528](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47528)
-
 ___
 
 ### CoordinatesDY
 
 • **CoordinatesDY**: [`ExpressionInput`](ue_ue.ExpressionInput.md)
-
-#### Defined in
-
-[ue/ue.d.ts:47529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47529)
 
 ___
 
@@ -175,10 +143,6 @@ ___
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[Desc](ue_ue.MaterialExpressionTextureBase.md#desc)
 
-#### Defined in
-
-[ue/ue.d.ts:1163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1163)
-
 ___
 
 ### Function
@@ -188,10 +152,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[Function](ue_ue.MaterialExpressionTextureBase.md#function)
-
-#### Defined in
-
-[ue/ue.d.ts:1162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1162)
 
 ___
 
@@ -203,10 +163,6 @@ ___
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[GraphNode](ue_ue.MaterialExpressionTextureBase.md#graphnode)
 
-#### Defined in
-
-[ue/ue.d.ts:1159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1159)
-
 ___
 
 ### IsDefaultMeshpaintTexture
@@ -216,10 +172,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[IsDefaultMeshpaintTexture](ue_ue.MaterialExpressionTextureBase.md#isdefaultmeshpainttexture)
-
-#### Defined in
-
-[ue/ue.d.ts:47515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47515)
 
 ___
 
@@ -231,10 +183,6 @@ ___
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[Material](ue_ue.MaterialExpressionTextureBase.md#material)
 
-#### Defined in
-
-[ue/ue.d.ts:1161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1161)
-
 ___
 
 ### MaterialExpressionEditorX
@@ -244,10 +192,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[MaterialExpressionEditorX](ue_ue.MaterialExpressionTextureBase.md#materialexpressioneditorx)
-
-#### Defined in
-
-[ue/ue.d.ts:1157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1157)
 
 ___
 
@@ -259,10 +203,6 @@ ___
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[MaterialExpressionEditorY](ue_ue.MaterialExpressionTextureBase.md#materialexpressioneditory)
 
-#### Defined in
-
-[ue/ue.d.ts:1158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1158)
-
 ___
 
 ### MaterialExpressionGuid
@@ -272,10 +212,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[MaterialExpressionGuid](ue_ue.MaterialExpressionTextureBase.md#materialexpressionguid)
-
-#### Defined in
-
-[ue/ue.d.ts:1160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1160)
 
 ___
 
@@ -287,29 +223,17 @@ ___
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[MenuCategories](ue_ue.MaterialExpressionTextureBase.md#menucategories)
 
-#### Defined in
-
-[ue/ue.d.ts:1175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1175)
-
 ___
 
 ### MipValue
 
 • **MipValue**: [`ExpressionInput`](ue_ue.ExpressionInput.md)
 
-#### Defined in
-
-[ue/ue.d.ts:47527](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47527)
-
 ___
 
 ### MipValueMode
 
 • **MipValueMode**: [`ETextureMipValueMode`](../enums/ue_ue.ETextureMipValueMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:47531](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47531)
 
 ___
 
@@ -321,19 +245,11 @@ ___
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[Outputs](ue_ue.MaterialExpressionTextureBase.md#outputs)
 
-#### Defined in
-
-[ue/ue.d.ts:1176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1176)
-
 ___
 
 ### SamplerSource
 
 • **SamplerSource**: [`ESamplerSourceMode`](../enums/ue_ue.ESamplerSourceMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:47532](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47532)
 
 ___
 
@@ -345,10 +261,6 @@ ___
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[SamplerType](ue_ue.MaterialExpressionTextureBase.md#samplertype)
 
-#### Defined in
-
-[ue/ue.d.ts:47514](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47514)
-
 ___
 
 ### Texture
@@ -359,19 +271,11 @@ ___
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[Texture](ue_ue.MaterialExpressionTextureBase.md#texture)
 
-#### Defined in
-
-[ue/ue.d.ts:47513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47513)
-
 ___
 
 ### TextureObject
 
 • **TextureObject**: [`ExpressionInput`](ue_ue.ExpressionInput.md)
-
-#### Defined in
-
-[ue/ue.d.ts:47526](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47526)
 
 ___
 
@@ -383,19 +287,11 @@ ___
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[__tid_MaterialExpressionTextureBase__](ue_ue.MaterialExpressionTextureBase.md#__tid_materialexpressiontexturebase__)
 
-#### Defined in
-
-[ue/ue.d.ts:47520](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47520)
-
 ___
 
 ### \_\_tid\_MaterialExpressionTextureSample\_\_
 
 • **\_\_tid\_MaterialExpressionTextureSample\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:47540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47540)
 
 ___
 
@@ -407,10 +303,6 @@ ___
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[__tid_MaterialExpression__](ue_ue.MaterialExpressionTextureBase.md#__tid_materialexpression__)
 
-#### Defined in
-
-[ue/ue.d.ts:1181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1181)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -420,10 +312,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[__tid_Object__](ue_ue.MaterialExpressionTextureBase.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -435,10 +323,6 @@ ___
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[bCollapsed](ue_ue.MaterialExpressionTextureBase.md#bcollapsed)
 
-#### Defined in
-
-[ue/ue.d.ts:1171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1171)
-
 ___
 
 ### bCommentBubbleVisible
@@ -448,10 +332,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[bCommentBubbleVisible](ue_ue.MaterialExpressionTextureBase.md#bcommentbubblevisible)
-
-#### Defined in
-
-[ue/ue.d.ts:1167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1167)
 
 ___
 
@@ -463,10 +343,6 @@ ___
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[bHidePreviewWindow](ue_ue.MaterialExpressionTextureBase.md#bhidepreviewwindow)
 
-#### Defined in
-
-[ue/ue.d.ts:1170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1170)
-
 ___
 
 ### bIsParameterExpression
@@ -476,10 +352,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[bIsParameterExpression](ue_ue.MaterialExpressionTextureBase.md#bisparameterexpression)
-
-#### Defined in
-
-[ue/ue.d.ts:1166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1166)
 
 ___
 
@@ -491,10 +363,6 @@ ___
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[bNeedToUpdatePreview](ue_ue.MaterialExpressionTextureBase.md#bneedtoupdatepreview)
 
-#### Defined in
-
-[ue/ue.d.ts:1165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1165)
-
 ___
 
 ### bRealtimePreview
@@ -504,10 +372,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[bRealtimePreview](ue_ue.MaterialExpressionTextureBase.md#brealtimepreview)
-
-#### Defined in
-
-[ue/ue.d.ts:1164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1164)
 
 ___
 
@@ -519,10 +383,6 @@ ___
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[bShaderInputData](ue_ue.MaterialExpressionTextureBase.md#bshaderinputdata)
 
-#### Defined in
-
-[ue/ue.d.ts:1172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1172)
-
 ___
 
 ### bShowInputs
@@ -532,10 +392,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[bShowInputs](ue_ue.MaterialExpressionTextureBase.md#bshowinputs)
-
-#### Defined in
-
-[ue/ue.d.ts:1173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1173)
 
 ___
 
@@ -547,10 +403,6 @@ ___
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[bShowMaskColorsOnPin](ue_ue.MaterialExpressionTextureBase.md#bshowmaskcolorsonpin)
 
-#### Defined in
-
-[ue/ue.d.ts:1169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1169)
-
 ___
 
 ### bShowOutputNameOnPin
@@ -561,10 +413,6 @@ ___
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[bShowOutputNameOnPin](ue_ue.MaterialExpressionTextureBase.md#bshowoutputnameonpin)
 
-#### Defined in
-
-[ue/ue.d.ts:1168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1168)
-
 ___
 
 ### bShowOutputs
@@ -574,10 +422,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[bShowOutputs](ue_ue.MaterialExpressionTextureBase.md#bshowoutputs)
-
-#### Defined in
-
-[ue/ue.d.ts:1174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1174)
 
 ## Methods
 
@@ -603,10 +447,6 @@ ___
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[CreateDefaultSubobject](ue_ue.MaterialExpressionTextureBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -627,10 +467,6 @@ ___
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[ExecuteUbergraph](ue_ue.MaterialExpressionTextureBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -644,10 +480,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[GetClass](ue_ue.MaterialExpressionTextureBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -663,10 +495,6 @@ ___
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[GetName](ue_ue.MaterialExpressionTextureBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -681,10 +509,6 @@ ___
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[GetOuter](ue_ue.MaterialExpressionTextureBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -698,10 +522,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[GetWorld](ue_ue.MaterialExpressionTextureBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -724,10 +544,6 @@ ___
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[Find](ue_ue.MaterialExpressionTextureBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:47537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47537)
-
 ___
 
 ### Load
@@ -748,10 +564,6 @@ ___
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[Load](ue_ue.MaterialExpressionTextureBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:47538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47538)
-
 ___
 
 ### StaticClass
@@ -765,7 +577,3 @@ ___
 #### Overrides
 
 [MaterialExpressionTextureBase](ue_ue.MaterialExpressionTextureBase.md).[StaticClass](ue_ue.MaterialExpressionTextureBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:47536](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47536)

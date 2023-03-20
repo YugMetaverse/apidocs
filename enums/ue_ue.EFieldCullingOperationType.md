@@ -20,19 +20,11 @@
 
 • **Field\_Culling\_Inside** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29034)
-
 ___
 
 ### Field\_Culling\_MAX
 
 • **Field\_Culling\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29034)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Field\_Culling\_Operation\_Max** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29034)
-
 ___
 
 ### Field\_Culling\_Outside
 
 • **Field\_Culling\_Outside** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29034)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29034)

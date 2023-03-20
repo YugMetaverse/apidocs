@@ -21,19 +21,11 @@
 
 • **EMagicLeapHeadTrackingMapEvent\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34004)
-
 ___
 
 ### Lost
 
 • **Lost** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34004)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **NewSession** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34004)
-
 ___
 
 ### Recovered
 
 • **Recovered** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34004)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **RecoveryFailed** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34004)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34004)

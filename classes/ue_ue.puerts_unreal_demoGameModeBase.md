@@ -329,10 +329,6 @@
 
 [GameModeBase](ue_ue.GameModeBase.md).[constructor](ue_ue.GameModeBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:58954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58954)
-
 ## Properties
 
 ### ActorLabel
@@ -342,10 +338,6 @@
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[ActorLabel](ue_ue.GameModeBase.md#actorlabel)
-
-#### Defined in
-
-[ue/ue.d.ts:13176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13176)
 
 ___
 
@@ -357,10 +349,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[AttachmentReplication](ue_ue.GameModeBase.md#attachmentreplication)
 
-#### Defined in
-
-[ue/ue.d.ts:13151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13151)
-
 ___
 
 ### AutoReceiveInput
@@ -370,10 +358,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[AutoReceiveInput](ue_ue.GameModeBase.md#autoreceiveinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13157)
 
 ___
 
@@ -385,10 +369,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[BlueprintCreatedComponents](ue_ue.GameModeBase.md#blueprintcreatedcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13206)
-
 ___
 
 ### Children
@@ -398,10 +378,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[Children](ue_ue.GameModeBase.md#children)
-
-#### Defined in
-
-[ue/ue.d.ts:13166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13166)
 
 ___
 
@@ -413,10 +389,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[ControllingMatineeActors](ue_ue.GameModeBase.md#controllingmatineeactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13169)
-
 ___
 
 ### CustomTimeDilation
@@ -426,10 +398,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[CustomTimeDilation](ue_ue.GameModeBase.md#customtimedilation)
-
-#### Defined in
-
-[ue/ue.d.ts:13150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13150)
 
 ___
 
@@ -441,10 +409,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[DefaultPawnClass](ue_ue.GameModeBase.md#defaultpawnclass)
 
-#### Defined in
-
-[ue/ue.d.ts:10017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10017)
-
 ___
 
 ### DefaultPlayerName
@@ -454,10 +418,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[DefaultPlayerName](ue_ue.GameModeBase.md#defaultplayername)
-
-#### Defined in
-
-[ue/ue.d.ts:10024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10024)
 
 ___
 
@@ -469,10 +429,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[DefaultUpdateOverlapsMethodDuringLevelStreaming](ue_ue.GameModeBase.md#defaultupdateoverlapsmethodduringlevelstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:13146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13146)
-
 ___
 
 ### FolderPath
@@ -482,10 +438,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[FolderPath](ue_ue.GameModeBase.md#folderpath)
-
-#### Defined in
-
-[ue/ue.d.ts:13177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13177)
 
 ___
 
@@ -497,10 +449,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GameSession](ue_ue.GameModeBase.md#gamesession)
 
-#### Defined in
-
-[ue/ue.d.ts:10021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10021)
-
 ___
 
 ### GameSessionClass
@@ -510,10 +458,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[GameSessionClass](ue_ue.GameModeBase.md#gamesessionclass)
-
-#### Defined in
-
-[ue/ue.d.ts:10012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10012)
 
 ___
 
@@ -525,10 +469,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GameState](ue_ue.GameModeBase.md#gamestate)
 
-#### Defined in
-
-[ue/ue.d.ts:10022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10022)
-
 ___
 
 ### GameStateClass
@@ -538,10 +478,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[GameStateClass](ue_ue.GameModeBase.md#gamestateclass)
-
-#### Defined in
-
-[ue/ue.d.ts:10013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10013)
 
 ___
 
@@ -553,10 +489,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GroupActor](ue_ue.GameModeBase.md#groupactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13173)
-
 ___
 
 ### HUDClass
@@ -566,10 +498,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[HUDClass](ue_ue.GameModeBase.md#hudclass)
-
-#### Defined in
-
-[ue/ue.d.ts:10016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10016)
 
 ___
 
@@ -581,10 +509,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[HiddenEditorViews](ue_ue.GameModeBase.md#hiddeneditorviews)
 
-#### Defined in
-
-[ue/ue.d.ts:13175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13175)
-
 ___
 
 ### InitialLifeSpan
@@ -594,10 +518,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[InitialLifeSpan](ue_ue.GameModeBase.md#initiallifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13149)
 
 ___
 
@@ -609,10 +529,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[InputComponent](ue_ue.GameModeBase.md#inputcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13159)
-
 ___
 
 ### InputPriority
@@ -622,10 +538,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[InputPriority](ue_ue.GameModeBase.md#inputpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:13158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13158)
 
 ___
 
@@ -637,10 +549,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[InstanceComponents](ue_ue.GameModeBase.md#instancecomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13205)
-
 ___
 
 ### Instigator
@@ -650,10 +558,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[Instigator](ue_ue.GameModeBase.md#instigator)
-
-#### Defined in
-
-[ue/ue.d.ts:13165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13165)
 
 ___
 
@@ -665,10 +569,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[Layers](ue_ue.GameModeBase.md#layers)
 
-#### Defined in
-
-[ue/ue.d.ts:13170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13170)
-
 ___
 
 ### MinNetUpdateFrequency
@@ -678,10 +578,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[MinNetUpdateFrequency](ue_ue.GameModeBase.md#minnetupdatefrequency)
-
-#### Defined in
-
-[ue/ue.d.ts:13163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13163)
 
 ___
 
@@ -693,10 +589,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[NetCullDistanceSquared](ue_ue.GameModeBase.md#netculldistancesquared)
 
-#### Defined in
-
-[ue/ue.d.ts:13160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13160)
-
 ___
 
 ### NetDormancy
@@ -706,10 +598,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[NetDormancy](ue_ue.GameModeBase.md#netdormancy)
-
-#### Defined in
-
-[ue/ue.d.ts:13155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13155)
 
 ___
 
@@ -721,10 +609,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[NetDriverName](ue_ue.GameModeBase.md#netdrivername)
 
-#### Defined in
-
-[ue/ue.d.ts:13153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13153)
-
 ___
 
 ### NetPriority
@@ -734,10 +618,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[NetPriority](ue_ue.GameModeBase.md#netpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:13164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13164)
 
 ___
 
@@ -749,10 +629,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[NetTag](ue_ue.GameModeBase.md#nettag)
 
-#### Defined in
-
-[ue/ue.d.ts:13161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13161)
-
 ___
 
 ### NetUpdateFrequency
@@ -762,10 +638,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[NetUpdateFrequency](ue_ue.GameModeBase.md#netupdatefrequency)
-
-#### Defined in
-
-[ue/ue.d.ts:13162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13162)
 
 ___
 
@@ -777,10 +649,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[OnActorBeginOverlap](ue_ue.GameModeBase.md#onactorbeginoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13192)
-
 ___
 
 ### OnActorEndOverlap
@@ -790,10 +658,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[OnActorEndOverlap](ue_ue.GameModeBase.md#onactorendoverlap)
-
-#### Defined in
-
-[ue/ue.d.ts:13193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13193)
 
 ___
 
@@ -805,10 +669,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[OnActorHit](ue_ue.GameModeBase.md#onactorhit)
 
-#### Defined in
-
-[ue/ue.d.ts:13202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13202)
-
 ___
 
 ### OnBeginCursorOver
@@ -818,10 +678,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[OnBeginCursorOver](ue_ue.GameModeBase.md#onbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13194)
 
 ___
 
@@ -833,10 +689,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[OnClicked](ue_ue.GameModeBase.md#onclicked)
 
-#### Defined in
-
-[ue/ue.d.ts:13196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13196)
-
 ___
 
 ### OnDestroyed
@@ -846,10 +698,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[OnDestroyed](ue_ue.GameModeBase.md#ondestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13203)
 
 ___
 
@@ -861,10 +709,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[OnEndCursorOver](ue_ue.GameModeBase.md#onendcursorover)
 
-#### Defined in
-
-[ue/ue.d.ts:13195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13195)
-
 ___
 
 ### OnEndPlay
@@ -874,10 +718,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[OnEndPlay](ue_ue.GameModeBase.md#onendplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13204)
 
 ___
 
@@ -889,10 +729,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[OnInputTouchBegin](ue_ue.GameModeBase.md#oninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:13198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13198)
-
 ___
 
 ### OnInputTouchEnd
@@ -902,10 +738,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[OnInputTouchEnd](ue_ue.GameModeBase.md#oninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:13199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13199)
 
 ___
 
@@ -917,10 +749,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[OnInputTouchEnter](ue_ue.GameModeBase.md#oninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:13200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13200)
-
 ___
 
 ### OnInputTouchLeave
@@ -930,10 +758,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[OnInputTouchLeave](ue_ue.GameModeBase.md#oninputtouchleave)
-
-#### Defined in
-
-[ue/ue.d.ts:13201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13201)
 
 ___
 
@@ -945,10 +769,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[OnReleased](ue_ue.GameModeBase.md#onreleased)
 
-#### Defined in
-
-[ue/ue.d.ts:13197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13197)
-
 ___
 
 ### OnTakeAnyDamage
@@ -958,10 +778,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[OnTakeAnyDamage](ue_ue.GameModeBase.md#ontakeanydamage)
-
-#### Defined in
-
-[ue/ue.d.ts:13189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13189)
 
 ___
 
@@ -973,10 +789,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[OnTakePointDamage](ue_ue.GameModeBase.md#ontakepointdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13190)
-
 ___
 
 ### OnTakeRadialDamage
@@ -986,10 +798,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[OnTakeRadialDamage](ue_ue.GameModeBase.md#ontakeradialdamage)
-
-#### Defined in
-
-[ue/ue.d.ts:13191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13191)
 
 ___
 
@@ -1001,10 +809,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[OptionsString](ue_ue.GameModeBase.md#optionsstring)
 
-#### Defined in
-
-[ue/ue.d.ts:10011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10011)
-
 ___
 
 ### Owner
@@ -1014,10 +818,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[Owner](ue_ue.GameModeBase.md#owner)
-
-#### Defined in
-
-[ue/ue.d.ts:13152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13152)
 
 ___
 
@@ -1029,10 +829,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[ParentComponent](ue_ue.GameModeBase.md#parentcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13172)
-
 ___
 
 ### ParentComponentActor
@@ -1042,10 +838,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[ParentComponentActor](ue_ue.GameModeBase.md#parentcomponentactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13171)
 
 ___
 
@@ -1057,10 +849,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[PivotOffset](ue_ue.GameModeBase.md#pivotoffset)
 
-#### Defined in
-
-[ue/ue.d.ts:13168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13168)
-
 ___
 
 ### PlayerControllerClass
@@ -1070,10 +858,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[PlayerControllerClass](ue_ue.GameModeBase.md#playercontrollerclass)
-
-#### Defined in
-
-[ue/ue.d.ts:10014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10014)
 
 ___
 
@@ -1085,10 +869,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[PlayerStateClass](ue_ue.GameModeBase.md#playerstateclass)
 
-#### Defined in
-
-[ue/ue.d.ts:10015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10015)
-
 ___
 
 ### PrimaryActorTick
@@ -1098,10 +878,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[PrimaryActorTick](ue_ue.GameModeBase.md#primaryactortick)
-
-#### Defined in
-
-[ue/ue.d.ts:13115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13115)
 
 ___
 
@@ -1113,10 +889,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[RemoteRole](ue_ue.GameModeBase.md#remoterole)
 
-#### Defined in
-
-[ue/ue.d.ts:13147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13147)
-
 ___
 
 ### ReplaySpectatorPlayerControllerClass
@@ -1126,10 +898,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[ReplaySpectatorPlayerControllerClass](ue_ue.GameModeBase.md#replayspectatorplayercontrollerclass)
-
-#### Defined in
-
-[ue/ue.d.ts:10019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10019)
 
 ___
 
@@ -1141,10 +909,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[ReplicatedMovement](ue_ue.GameModeBase.md#replicatedmovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13148)
-
 ___
 
 ### Role
@@ -1154,10 +918,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[Role](ue_ue.GameModeBase.md#role)
-
-#### Defined in
-
-[ue/ue.d.ts:13154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13154)
 
 ___
 
@@ -1169,10 +929,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[RootComponent](ue_ue.GameModeBase.md#rootcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13167)
-
 ___
 
 ### ServerStatReplicator
@@ -1182,10 +938,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[ServerStatReplicator](ue_ue.GameModeBase.md#serverstatreplicator)
-
-#### Defined in
-
-[ue/ue.d.ts:10023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10023)
 
 ___
 
@@ -1197,10 +949,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[ServerStatReplicatorClass](ue_ue.GameModeBase.md#serverstatreplicatorclass)
 
-#### Defined in
-
-[ue/ue.d.ts:10020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10020)
-
 ___
 
 ### SpawnCollisionHandlingMethod
@@ -1210,10 +958,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[SpawnCollisionHandlingMethod](ue_ue.GameModeBase.md#spawncollisionhandlingmethod)
-
-#### Defined in
-
-[ue/ue.d.ts:13156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13156)
 
 ___
 
@@ -1225,10 +969,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[SpectatorClass](ue_ue.GameModeBase.md#spectatorclass)
 
-#### Defined in
-
-[ue/ue.d.ts:10018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10018)
-
 ___
 
 ### SpriteComponent
@@ -1238,10 +978,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[SpriteComponent](ue_ue.GameModeBase.md#spritecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:2215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2215)
 
 ___
 
@@ -1253,10 +989,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[SpriteScale](ue_ue.GameModeBase.md#spritescale)
 
-#### Defined in
-
-[ue/ue.d.ts:13174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13174)
-
 ___
 
 ### Tags
@@ -1266,10 +998,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[Tags](ue_ue.GameModeBase.md#tags)
-
-#### Defined in
-
-[ue/ue.d.ts:13188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13188)
 
 ___
 
@@ -1281,10 +1009,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[UpdateOverlapsMethodDuringLevelStreaming](ue_ue.GameModeBase.md#updateoverlapsmethodduringlevelstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:13145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13145)
-
 ___
 
 ### \_\_tid\_Actor\_\_
@@ -1294,10 +1018,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[__tid_Actor__](ue_ue.GameModeBase.md#__tid_actor__)
-
-#### Defined in
-
-[ue/ue.d.ts:13348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13348)
 
 ___
 
@@ -1309,10 +1029,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[__tid_GameModeBase__](ue_ue.GameModeBase.md#__tid_gamemodebase__)
 
-#### Defined in
-
-[ue/ue.d.ts:10060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10060)
-
 ___
 
 ### \_\_tid\_Info\_\_
@@ -1322,10 +1038,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[__tid_Info__](ue_ue.GameModeBase.md#__tid_info__)
-
-#### Defined in
-
-[ue/ue.d.ts:2220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2220)
 
 ___
 
@@ -1337,19 +1049,11 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[__tid_Object__](ue_ue.GameModeBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_puerts\_unreal\_demoGameModeBase\_\_
 
 • **\_\_tid\_puerts\_unreal\_demoGameModeBase\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58959)
 
 ___
 
@@ -1361,10 +1065,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[bActorEnableCollision](ue_ue.GameModeBase.md#bactorenablecollision)
 
-#### Defined in
-
-[ue/ue.d.ts:13143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13143)
-
 ___
 
 ### bActorIsBeingDestroyed
@@ -1374,10 +1074,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[bActorIsBeingDestroyed](ue_ue.GameModeBase.md#bactorisbeingdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13144)
 
 ___
 
@@ -1389,10 +1085,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[bActorLabelEditable](ue_ue.GameModeBase.md#bactorlabeleditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13183)
-
 ___
 
 ### bActorSeamlessTraveled
@@ -1402,10 +1094,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[bActorSeamlessTraveled](ue_ue.GameModeBase.md#bactorseamlesstraveled)
-
-#### Defined in
-
-[ue/ue.d.ts:13139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13139)
 
 ___
 
@@ -1417,10 +1105,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[bAllowReceiveTickEventOnDedicatedServer](ue_ue.GameModeBase.md#ballowreceivetickeventondedicatedserver)
 
-#### Defined in
-
-[ue/ue.d.ts:13142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13142)
-
 ___
 
 ### bAllowTickBeforeBeginPlay
@@ -1430,10 +1114,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[bAllowTickBeforeBeginPlay](ue_ue.GameModeBase.md#ballowtickbeforebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13129)
 
 ___
 
@@ -1445,10 +1125,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[bAlwaysRelevant](ue_ue.GameModeBase.md#balwaysrelevant)
 
-#### Defined in
-
-[ue/ue.d.ts:13120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13120)
-
 ___
 
 ### bAutoDestroyWhenFinished
@@ -1458,10 +1134,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[bAutoDestroyWhenFinished](ue_ue.GameModeBase.md#bautodestroywhenfinished)
-
-#### Defined in
-
-[ue/ue.d.ts:13130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13130)
 
 ___
 
@@ -1473,10 +1145,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[bBlockInput](ue_ue.GameModeBase.md#bblockinput)
 
-#### Defined in
-
-[ue/ue.d.ts:13131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13131)
-
 ___
 
 ### bCanBeDamaged
@@ -1486,10 +1154,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[bCanBeDamaged](ue_ue.GameModeBase.md#bcanbedamaged)
-
-#### Defined in
-
-[ue/ue.d.ts:13132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13132)
 
 ___
 
@@ -1501,10 +1165,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[bCanBeInCluster](ue_ue.GameModeBase.md#bcanbeincluster)
 
-#### Defined in
-
-[ue/ue.d.ts:13141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13141)
-
 ___
 
 ### bCollideWhenPlacing
@@ -1514,10 +1174,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[bCollideWhenPlacing](ue_ue.GameModeBase.md#bcollidewhenplacing)
-
-#### Defined in
-
-[ue/ue.d.ts:13133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13133)
 
 ___
 
@@ -1529,10 +1185,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[bEditable](ue_ue.GameModeBase.md#beditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13184)
-
 ___
 
 ### bEnableAutoLODGeneration
@@ -1542,10 +1194,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[bEnableAutoLODGeneration](ue_ue.GameModeBase.md#benableautolodgeneration)
-
-#### Defined in
-
-[ue/ue.d.ts:13137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13137)
 
 ___
 
@@ -1557,10 +1205,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[bExchangedRoles](ue_ue.GameModeBase.md#bexchangedroles)
 
-#### Defined in
-
-[ue/ue.d.ts:13123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13123)
-
 ___
 
 ### bFindCameraComponentWhenViewTarget
@@ -1570,10 +1214,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[bFindCameraComponentWhenViewTarget](ue_ue.GameModeBase.md#bfindcameracomponentwhenviewtarget)
-
-#### Defined in
-
-[ue/ue.d.ts:13134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13134)
 
 ___
 
@@ -1585,10 +1225,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[bGenerateOverlapEventsDuringLevelStreaming](ue_ue.GameModeBase.md#bgenerateoverlapeventsduringlevelstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:13135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13135)
-
 ___
 
 ### bHidden
@@ -1598,10 +1234,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[bHidden](ue_ue.GameModeBase.md#bhidden)
-
-#### Defined in
-
-[ue/ue.d.ts:13116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13116)
 
 ___
 
@@ -1613,10 +1245,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[bHiddenEd](ue_ue.GameModeBase.md#bhiddened)
 
-#### Defined in
-
-[ue/ue.d.ts:13178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13178)
-
 ___
 
 ### bHiddenEdLayer
@@ -1626,10 +1254,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[bHiddenEdLayer](ue_ue.GameModeBase.md#bhiddenedlayer)
-
-#### Defined in
-
-[ue/ue.d.ts:13180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13180)
 
 ___
 
@@ -1641,10 +1265,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[bHiddenEdLevel](ue_ue.GameModeBase.md#bhiddenedlevel)
 
-#### Defined in
-
-[ue/ue.d.ts:13181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13181)
-
 ___
 
 ### bHiddenEdTemporary
@@ -1654,10 +1274,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[bHiddenEdTemporary](ue_ue.GameModeBase.md#bhiddenedtemporary)
-
-#### Defined in
-
-[ue/ue.d.ts:13187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13187)
 
 ___
 
@@ -1669,10 +1285,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[bIgnoresOriginShifting](ue_ue.GameModeBase.md#bignoresoriginshifting)
 
-#### Defined in
-
-[ue/ue.d.ts:13136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13136)
-
 ___
 
 ### bIsEditorOnlyActor
@@ -1682,10 +1294,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[bIsEditorOnlyActor](ue_ue.GameModeBase.md#biseditoronlyactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13138)
 
 ___
 
@@ -1697,10 +1305,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[bIsEditorPreviewActor](ue_ue.GameModeBase.md#biseditorpreviewactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13179)
-
 ___
 
 ### bListedInSceneOutliner
@@ -1710,10 +1314,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[bListedInSceneOutliner](ue_ue.GameModeBase.md#blistedinsceneoutliner)
-
-#### Defined in
-
-[ue/ue.d.ts:13185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13185)
 
 ___
 
@@ -1725,10 +1325,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[bLockLocation](ue_ue.GameModeBase.md#blocklocation)
 
-#### Defined in
-
-[ue/ue.d.ts:13182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13182)
-
 ___
 
 ### bNetLoadOnClient
@@ -1738,10 +1334,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[bNetLoadOnClient](ue_ue.GameModeBase.md#bnetloadonclient)
-
-#### Defined in
-
-[ue/ue.d.ts:13124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13124)
 
 ___
 
@@ -1753,10 +1345,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[bNetStartup](ue_ue.GameModeBase.md#bnetstartup)
 
-#### Defined in
-
-[ue/ue.d.ts:13118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13118)
-
 ___
 
 ### bNetTemporary
@@ -1766,10 +1354,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[bNetTemporary](ue_ue.GameModeBase.md#bnettemporary)
-
-#### Defined in
-
-[ue/ue.d.ts:13117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13117)
 
 ___
 
@@ -1781,10 +1365,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[bNetUseOwnerRelevancy](ue_ue.GameModeBase.md#bnetuseownerrelevancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13125)
-
 ___
 
 ### bOnlyRelevantToOwner
@@ -1794,10 +1374,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[bOnlyRelevantToOwner](ue_ue.GameModeBase.md#bonlyrelevanttoowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13119)
 
 ___
 
@@ -1809,10 +1385,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[bOptimizeBPComponentData](ue_ue.GameModeBase.md#boptimizebpcomponentdata)
 
-#### Defined in
-
-[ue/ue.d.ts:13186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13186)
-
 ___
 
 ### bPauseable
@@ -1822,10 +1394,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[bPauseable](ue_ue.GameModeBase.md#bpauseable)
-
-#### Defined in
-
-[ue/ue.d.ts:10027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10027)
 
 ___
 
@@ -1837,10 +1405,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[bRelevantForLevelBounds](ue_ue.GameModeBase.md#brelevantforlevelbounds)
 
-#### Defined in
-
-[ue/ue.d.ts:13127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13127)
-
 ___
 
 ### bRelevantForNetworkReplays
@@ -1850,10 +1414,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[bRelevantForNetworkReplays](ue_ue.GameModeBase.md#brelevantfornetworkreplays)
-
-#### Defined in
-
-[ue/ue.d.ts:13126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13126)
 
 ___
 
@@ -1865,10 +1425,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[bReplayRewindable](ue_ue.GameModeBase.md#breplayrewindable)
 
-#### Defined in
-
-[ue/ue.d.ts:13128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13128)
-
 ___
 
 ### bReplicateMovement
@@ -1878,10 +1434,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[bReplicateMovement](ue_ue.GameModeBase.md#breplicatemovement)
-
-#### Defined in
-
-[ue/ue.d.ts:13121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13121)
 
 ___
 
@@ -1893,10 +1445,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[bReplicates](ue_ue.GameModeBase.md#breplicates)
 
-#### Defined in
-
-[ue/ue.d.ts:13140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13140)
-
 ___
 
 ### bStartPlayersAsSpectators
@@ -1906,10 +1454,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[bStartPlayersAsSpectators](ue_ue.GameModeBase.md#bstartplayersasspectators)
-
-#### Defined in
-
-[ue/ue.d.ts:10026](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10026)
 
 ___
 
@@ -1921,10 +1465,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[bTearOff](ue_ue.GameModeBase.md#btearoff)
 
-#### Defined in
-
-[ue/ue.d.ts:13122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13122)
-
 ___
 
 ### bUseSeamlessTravel
@@ -1934,10 +1474,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[bUseSeamlessTravel](ue_ue.GameModeBase.md#buseseamlesstravel)
-
-#### Defined in
-
-[ue/ue.d.ts:10025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10025)
 
 ## Methods
 
@@ -1958,10 +1494,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[ActorHasTag](ue_ue.GameModeBase.md#actorhastag)
-
-#### Defined in
-
-[ue/ue.d.ts:13207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13207)
 
 ___
 
@@ -1986,10 +1518,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[AddComponent](ue_ue.GameModeBase.md#addcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13208)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -2009,10 +1537,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[AddTickPrerequisiteActor](ue_ue.GameModeBase.md#addtickprerequisiteactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13209)
 
 ___
 
@@ -2034,10 +1558,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[AddTickPrerequisiteComponent](ue_ue.GameModeBase.md#addtickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13210)
-
 ___
 
 ### CanSpectate
@@ -2058,10 +1578,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[CanSpectate](ue_ue.GameModeBase.md#canspectate)
-
-#### Defined in
-
-[ue/ue.d.ts:10028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10028)
 
 ___
 
@@ -2085,10 +1601,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[ChangeName](ue_ue.GameModeBase.md#changename)
 
-#### Defined in
-
-[ue/ue.d.ts:10029](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10029)
-
 ___
 
 ### ChoosePlayerStart
@@ -2108,10 +1620,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[ChoosePlayerStart](ue_ue.GameModeBase.md#chooseplayerstart)
-
-#### Defined in
-
-[ue/ue.d.ts:10030](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10030)
 
 ___
 
@@ -2137,10 +1645,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[CreateDefaultSubobject](ue_ue.GameModeBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### DetachRootComponentFromParent
@@ -2160,10 +1664,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[DetachRootComponentFromParent](ue_ue.GameModeBase.md#detachrootcomponentfromparent)
-
-#### Defined in
-
-[ue/ue.d.ts:13211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13211)
 
 ___
 
@@ -2185,10 +1685,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[DisableInput](ue_ue.GameModeBase.md#disableinput)
 
-#### Defined in
-
-[ue/ue.d.ts:13212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13212)
-
 ___
 
 ### EnableInput
@@ -2209,10 +1705,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[EnableInput](ue_ue.GameModeBase.md#enableinput)
 
-#### Defined in
-
-[ue/ue.d.ts:13213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13213)
-
 ___
 
 ### ExecuteUbergraph
@@ -2232,10 +1724,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[ExecuteUbergraph](ue_ue.GameModeBase.md#executeubergraph)
-
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
 
 ___
 
@@ -2258,10 +1746,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[FindPlayerStart](ue_ue.GameModeBase.md#findplayerstart)
 
-#### Defined in
-
-[ue/ue.d.ts:10031](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10031)
-
 ___
 
 ### FlushNetDormancy
@@ -2276,10 +1760,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[FlushNetDormancy](ue_ue.GameModeBase.md#flushnetdormancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13214)
-
 ___
 
 ### ForceNetUpdate
@@ -2293,10 +1773,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[ForceNetUpdate](ue_ue.GameModeBase.md#forcenetupdate)
-
-#### Defined in
-
-[ue/ue.d.ts:13215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13215)
 
 ___
 
@@ -2320,10 +1796,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetActorBounds](ue_ue.GameModeBase.md#getactorbounds)
 
-#### Defined in
-
-[ue/ue.d.ts:13216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13216)
-
 ___
 
 ### GetActorEnableCollision
@@ -2337,10 +1809,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetActorEnableCollision](ue_ue.GameModeBase.md#getactorenablecollision)
-
-#### Defined in
-
-[ue/ue.d.ts:13217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13217)
 
 ___
 
@@ -2363,10 +1831,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetActorEyesViewPoint](ue_ue.GameModeBase.md#getactoreyesviewpoint)
 
-#### Defined in
-
-[ue/ue.d.ts:13218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13218)
-
 ___
 
 ### GetActorForwardVector
@@ -2380,10 +1844,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetActorForwardVector](ue_ue.GameModeBase.md#getactorforwardvector)
-
-#### Defined in
-
-[ue/ue.d.ts:13219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13219)
 
 ___
 
@@ -2399,10 +1859,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetActorLabel](ue_ue.GameModeBase.md#getactorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13220)
-
 ___
 
 ### GetActorRelativeScale3D
@@ -2416,10 +1872,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetActorRelativeScale3D](ue_ue.GameModeBase.md#getactorrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13221)
 
 ___
 
@@ -2435,10 +1887,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetActorRightVector](ue_ue.GameModeBase.md#getactorrightvector)
 
-#### Defined in
-
-[ue/ue.d.ts:13222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13222)
-
 ___
 
 ### GetActorScale3D
@@ -2452,10 +1900,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetActorScale3D](ue_ue.GameModeBase.md#getactorscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13223)
 
 ___
 
@@ -2471,10 +1915,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetActorTickInterval](ue_ue.GameModeBase.md#getactortickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:13224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13224)
-
 ___
 
 ### GetActorTimeDilation
@@ -2489,10 +1929,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetActorTimeDilation](ue_ue.GameModeBase.md#getactortimedilation)
 
-#### Defined in
-
-[ue/ue.d.ts:13225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13225)
-
 ___
 
 ### GetActorUpVector
@@ -2506,10 +1942,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetActorUpVector](ue_ue.GameModeBase.md#getactorupvector)
-
-#### Defined in
-
-[ue/ue.d.ts:13226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13226)
 
 ___
 
@@ -2532,10 +1964,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetAllChildActors](ue_ue.GameModeBase.md#getallchildactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13227)
-
 ___
 
 ### GetAttachParentActor
@@ -2550,10 +1978,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetAttachParentActor](ue_ue.GameModeBase.md#getattachparentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13229)
-
 ___
 
 ### GetAttachParentSocketName
@@ -2567,10 +1991,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetAttachParentSocketName](ue_ue.GameModeBase.md#getattachparentsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:13230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13230)
 
 ___
 
@@ -2593,10 +2013,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetAttachedActors](ue_ue.GameModeBase.md#getattachedactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13228)
-
 ___
 
 ### GetClass
@@ -2610,10 +2026,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetClass](ue_ue.GameModeBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -2635,10 +2047,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetComponentByClass](ue_ue.GameModeBase.md#getcomponentbyclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13231)
-
 ___
 
 ### GetComponentsByInterface
@@ -2658,10 +2066,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetComponentsByInterface](ue_ue.GameModeBase.md#getcomponentsbyinterface)
-
-#### Defined in
-
-[ue/ue.d.ts:13232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13232)
 
 ___
 
@@ -2684,10 +2088,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetComponentsByTag](ue_ue.GameModeBase.md#getcomponentsbytag)
 
-#### Defined in
-
-[ue/ue.d.ts:13233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13233)
-
 ___
 
 ### GetDefaultPawnClassForController
@@ -2707,10 +2107,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetDefaultPawnClassForController](ue_ue.GameModeBase.md#getdefaultpawnclassforcontroller)
-
-#### Defined in
-
-[ue/ue.d.ts:10032](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10032)
 
 ___
 
@@ -2732,10 +2128,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetDistanceTo](ue_ue.GameModeBase.md#getdistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13234)
-
 ___
 
 ### GetDotProductTo
@@ -2756,10 +2148,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetDotProductTo](ue_ue.GameModeBase.md#getdotproductto)
 
-#### Defined in
-
-[ue/ue.d.ts:13235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13235)
-
 ___
 
 ### GetFolderPath
@@ -2774,10 +2162,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetFolderPath](ue_ue.GameModeBase.md#getfolderpath)
 
-#### Defined in
-
-[ue/ue.d.ts:13236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13236)
-
 ___
 
 ### GetGameTimeSinceCreation
@@ -2791,10 +2175,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetGameTimeSinceCreation](ue_ue.GameModeBase.md#getgametimesincecreation)
-
-#### Defined in
-
-[ue/ue.d.ts:13237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13237)
 
 ___
 
@@ -2816,10 +2196,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetHorizontalDistanceTo](ue_ue.GameModeBase.md#gethorizontaldistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13238)
-
 ___
 
 ### GetHorizontalDotProductTo
@@ -2839,10 +2215,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetHorizontalDotProductTo](ue_ue.GameModeBase.md#gethorizontaldotproductto)
-
-#### Defined in
-
-[ue/ue.d.ts:13239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13239)
 
 ___
 
@@ -2864,10 +2236,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetInputAxisKeyValue](ue_ue.GameModeBase.md#getinputaxiskeyvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:13240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13240)
-
 ___
 
 ### GetInputAxisValue
@@ -2887,10 +2255,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetInputAxisValue](ue_ue.GameModeBase.md#getinputaxisvalue)
-
-#### Defined in
-
-[ue/ue.d.ts:13241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13241)
 
 ___
 
@@ -2912,10 +2276,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetInputVectorAxisValue](ue_ue.GameModeBase.md#getinputvectoraxisvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:13242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13242)
-
 ___
 
 ### GetInstigator
@@ -2929,10 +2289,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetInstigator](ue_ue.GameModeBase.md#getinstigator)
-
-#### Defined in
-
-[ue/ue.d.ts:13243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13243)
 
 ___
 
@@ -2948,10 +2304,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetInstigatorController](ue_ue.GameModeBase.md#getinstigatorcontroller)
 
-#### Defined in
-
-[ue/ue.d.ts:13244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13244)
-
 ___
 
 ### GetLifeSpan
@@ -2965,10 +2317,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetLifeSpan](ue_ue.GameModeBase.md#getlifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13245)
 
 ___
 
@@ -2984,10 +2332,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetLocalRole](ue_ue.GameModeBase.md#getlocalrole)
 
-#### Defined in
-
-[ue/ue.d.ts:13246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13246)
-
 ___
 
 ### GetName
@@ -3001,10 +2345,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetName](ue_ue.GameModeBase.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -3020,10 +2360,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetNumPlayers](ue_ue.GameModeBase.md#getnumplayers)
 
-#### Defined in
-
-[ue/ue.d.ts:10033](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10033)
-
 ___
 
 ### GetNumSpectators
@@ -3038,10 +2374,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetNumSpectators](ue_ue.GameModeBase.md#getnumspectators)
 
-#### Defined in
-
-[ue/ue.d.ts:10034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10034)
-
 ___
 
 ### GetOuter
@@ -3055,10 +2387,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetOuter](ue_ue.GameModeBase.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -3081,10 +2409,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetOverlappingActors](ue_ue.GameModeBase.md#getoverlappingactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13247)
-
 ___
 
 ### GetOverlappingComponents
@@ -3105,10 +2429,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetOverlappingComponents](ue_ue.GameModeBase.md#getoverlappingcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13248)
-
 ___
 
 ### GetOwner
@@ -3122,10 +2442,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetOwner](ue_ue.GameModeBase.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13249)
 
 ___
 
@@ -3141,10 +2457,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetParentActor](ue_ue.GameModeBase.md#getparentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13250)
-
 ___
 
 ### GetParentComponent
@@ -3159,10 +2471,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetParentComponent](ue_ue.GameModeBase.md#getparentcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13251)
-
 ___
 
 ### GetRemoteRole
@@ -3176,10 +2484,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetRemoteRole](ue_ue.GameModeBase.md#getremoterole)
-
-#### Defined in
-
-[ue/ue.d.ts:13252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13252)
 
 ___
 
@@ -3201,10 +2505,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetSquaredDistanceTo](ue_ue.GameModeBase.md#getsquareddistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13253)
-
 ___
 
 ### GetTickableWhenPaused
@@ -3218,10 +2518,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetTickableWhenPaused](ue_ue.GameModeBase.md#gettickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:13254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13254)
 
 ___
 
@@ -3237,10 +2533,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetTransform](ue_ue.GameModeBase.md#gettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13255)
-
 ___
 
 ### GetVelocity
@@ -3254,10 +2546,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetVelocity](ue_ue.GameModeBase.md#getvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:13256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13256)
 
 ___
 
@@ -3279,10 +2567,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetVerticalDistanceTo](ue_ue.GameModeBase.md#getverticaldistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13257)
-
 ___
 
 ### GetWorld
@@ -3296,10 +2580,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[GetWorld](ue_ue.GameModeBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -3321,10 +2601,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[HandleStartingNewPlayer](ue_ue.GameModeBase.md#handlestartingnewplayer)
 
-#### Defined in
-
-[ue/ue.d.ts:10035](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10035)
-
 ___
 
 ### HasAuthority
@@ -3339,10 +2615,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[HasAuthority](ue_ue.GameModeBase.md#hasauthority)
 
-#### Defined in
-
-[ue/ue.d.ts:13258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13258)
-
 ___
 
 ### HasMatchStarted
@@ -3356,10 +2628,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[HasMatchStarted](ue_ue.GameModeBase.md#hasmatchstarted)
-
-#### Defined in
-
-[ue/ue.d.ts:10036](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10036)
 
 ___
 
@@ -3382,10 +2650,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[InitStartSpot](ue_ue.GameModeBase.md#initstartspot)
 
-#### Defined in
-
-[ue/ue.d.ts:10038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10038)
-
 ___
 
 ### InitializeHUDForPlayer
@@ -3406,10 +2670,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[InitializeHUDForPlayer](ue_ue.GameModeBase.md#initializehudforplayer)
 
-#### Defined in
-
-[ue/ue.d.ts:10037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10037)
-
 ___
 
 ### IsActorBeingDestroyed
@@ -3423,10 +2683,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[IsActorBeingDestroyed](ue_ue.GameModeBase.md#isactorbeingdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13259)
 
 ___
 
@@ -3442,10 +2698,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[IsActorTickEnabled](ue_ue.GameModeBase.md#isactortickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:13260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13260)
-
 ___
 
 ### IsChildActor
@@ -3459,10 +2711,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[IsChildActor](ue_ue.GameModeBase.md#ischildactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13261)
 
 ___
 
@@ -3478,10 +2726,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[IsEditable](ue_ue.GameModeBase.md#iseditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13262)
-
 ___
 
 ### IsHiddenEd
@@ -3496,10 +2740,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[IsHiddenEd](ue_ue.GameModeBase.md#ishiddened)
 
-#### Defined in
-
-[ue/ue.d.ts:13263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13263)
-
 ___
 
 ### IsHiddenEdAtStartup
@@ -3513,10 +2753,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[IsHiddenEdAtStartup](ue_ue.GameModeBase.md#ishiddenedatstartup)
-
-#### Defined in
-
-[ue/ue.d.ts:13264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13264)
 
 ___
 
@@ -3538,10 +2774,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[IsOverlappingActor](ue_ue.GameModeBase.md#isoverlappingactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13265)
-
 ___
 
 ### IsSelectable
@@ -3555,10 +2787,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[IsSelectable](ue_ue.GameModeBase.md#isselectable)
-
-#### Defined in
-
-[ue/ue.d.ts:13266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13266)
 
 ___
 
@@ -3579,10 +2807,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[IsTemporarilyHiddenInEditor](ue_ue.GameModeBase.md#istemporarilyhiddenineditor)
-
-#### Defined in
-
-[ue/ue.d.ts:13267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13267)
 
 ___
 
@@ -3607,10 +2831,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_AddActorLocalOffset](ue_ue.GameModeBase.md#k2_addactorlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:13268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13268)
-
 ___
 
 ### K2\_AddActorLocalRotation
@@ -3633,10 +2853,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_AddActorLocalRotation](ue_ue.GameModeBase.md#k2_addactorlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13269)
 
 ___
 
@@ -3661,10 +2877,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_AddActorLocalTransform](ue_ue.GameModeBase.md#k2_addactorlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13270)
-
 ___
 
 ### K2\_AddActorWorldOffset
@@ -3687,10 +2899,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_AddActorWorldOffset](ue_ue.GameModeBase.md#k2_addactorworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:13271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13271)
 
 ___
 
@@ -3715,10 +2923,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_AddActorWorldRotation](ue_ue.GameModeBase.md#k2_addactorworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13272)
-
 ___
 
 ### K2\_AddActorWorldTransform
@@ -3741,10 +2945,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_AddActorWorldTransform](ue_ue.GameModeBase.md#k2_addactorworldtransform)
-
-#### Defined in
-
-[ue/ue.d.ts:13273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13273)
 
 ___
 
@@ -3769,10 +2969,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_AttachRootComponentTo](ue_ue.GameModeBase.md#k2_attachrootcomponentto)
 
-#### Defined in
-
-[ue/ue.d.ts:13274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13274)
-
 ___
 
 ### K2\_AttachRootComponentToActor
@@ -3795,10 +2991,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_AttachRootComponentToActor](ue_ue.GameModeBase.md#k2_attachrootcomponenttoactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13275)
 
 ___
 
@@ -3825,10 +3017,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_AttachToActor](ue_ue.GameModeBase.md#k2_attachtoactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13276)
-
 ___
 
 ### K2\_AttachToComponent
@@ -3854,10 +3042,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_AttachToComponent](ue_ue.GameModeBase.md#k2_attachtocomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13277)
-
 ___
 
 ### K2\_DestroyActor
@@ -3871,10 +3055,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_DestroyActor](ue_ue.GameModeBase.md#k2_destroyactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13278)
 
 ___
 
@@ -3895,10 +3075,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_DestroyComponent](ue_ue.GameModeBase.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13279)
 
 ___
 
@@ -3922,10 +3098,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_DetachFromActor](ue_ue.GameModeBase.md#k2_detachfromactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13280)
-
 ___
 
 ### K2\_FindPlayerStart
@@ -3947,10 +3119,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_FindPlayerStart](ue_ue.GameModeBase.md#k2_findplayerstart)
 
-#### Defined in
-
-[ue/ue.d.ts:10039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10039)
-
 ___
 
 ### K2\_GetActorLocation
@@ -3965,10 +3133,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_GetActorLocation](ue_ue.GameModeBase.md#k2_getactorlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:13281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13281)
-
 ___
 
 ### K2\_GetActorRotation
@@ -3982,10 +3146,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_GetActorRotation](ue_ue.GameModeBase.md#k2_getactorrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13282)
 
 ___
 
@@ -4007,10 +3167,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_GetComponentsByClass](ue_ue.GameModeBase.md#k2_getcomponentsbyclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13283)
-
 ___
 
 ### K2\_GetRootComponent
@@ -4024,10 +3180,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_GetRootComponent](ue_ue.GameModeBase.md#k2_getrootcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13284)
 
 ___
 
@@ -4048,10 +3200,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_OnBecomeViewTarget](ue_ue.GameModeBase.md#k2_onbecomeviewtarget)
-
-#### Defined in
-
-[ue/ue.d.ts:13285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13285)
 
 ___
 
@@ -4075,10 +3223,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_OnChangeName](ue_ue.GameModeBase.md#k2_onchangename)
 
-#### Defined in
-
-[ue/ue.d.ts:10040](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10040)
-
 ___
 
 ### K2\_OnEndViewTarget
@@ -4098,10 +3242,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_OnEndViewTarget](ue_ue.GameModeBase.md#k2_onendviewtarget)
-
-#### Defined in
-
-[ue/ue.d.ts:13286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13286)
 
 ___
 
@@ -4123,10 +3263,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_OnLogout](ue_ue.GameModeBase.md#k2_onlogout)
 
-#### Defined in
-
-[ue/ue.d.ts:10041](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10041)
-
 ___
 
 ### K2\_OnReset
@@ -4140,10 +3276,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_OnReset](ue_ue.GameModeBase.md#k2_onreset)
-
-#### Defined in
-
-[ue/ue.d.ts:13287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13287)
 
 ___
 
@@ -4164,10 +3296,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_OnRestartPlayer](ue_ue.GameModeBase.md#k2_onrestartplayer)
-
-#### Defined in
-
-[ue/ue.d.ts:10042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10042)
 
 ___
 
@@ -4190,10 +3318,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_OnSwapPlayerControllers](ue_ue.GameModeBase.md#k2_onswapplayercontrollers)
 
-#### Defined in
-
-[ue/ue.d.ts:10043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10043)
-
 ___
 
 ### K2\_PostLogin
@@ -4213,10 +3337,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_PostLogin](ue_ue.GameModeBase.md#k2_postlogin)
-
-#### Defined in
-
-[ue/ue.d.ts:10044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10044)
 
 ___
 
@@ -4240,10 +3360,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_SetActorLocation](ue_ue.GameModeBase.md#k2_setactorlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13288)
 
 ___
 
@@ -4269,10 +3385,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_SetActorLocationAndRotation](ue_ue.GameModeBase.md#k2_setactorlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13289)
-
 ___
 
 ### K2\_SetActorRelativeLocation
@@ -4295,10 +3407,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_SetActorRelativeLocation](ue_ue.GameModeBase.md#k2_setactorrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13290)
 
 ___
 
@@ -4323,10 +3431,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_SetActorRelativeRotation](ue_ue.GameModeBase.md#k2_setactorrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13291)
-
 ___
 
 ### K2\_SetActorRelativeTransform
@@ -4350,10 +3454,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_SetActorRelativeTransform](ue_ue.GameModeBase.md#k2_setactorrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13292)
-
 ___
 
 ### K2\_SetActorRotation
@@ -4374,10 +3474,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_SetActorRotation](ue_ue.GameModeBase.md#k2_setactorrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13293)
 
 ___
 
@@ -4402,10 +3498,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_SetActorTransform](ue_ue.GameModeBase.md#k2_setactortransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13294)
-
 ___
 
 ### K2\_TeleportTo
@@ -4427,10 +3519,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[K2_TeleportTo](ue_ue.GameModeBase.md#k2_teleportto)
 
-#### Defined in
-
-[ue/ue.d.ts:13295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13295)
-
 ___
 
 ### MakeMIDForMaterial
@@ -4450,10 +3538,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[MakeMIDForMaterial](ue_ue.GameModeBase.md#makemidformaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:13296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13296)
 
 ___
 
@@ -4479,10 +3563,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[MakeNoise](ue_ue.GameModeBase.md#makenoise)
 
-#### Defined in
-
-[ue/ue.d.ts:13297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13297)
-
 ___
 
 ### MustSpectate
@@ -4503,10 +3583,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[MustSpectate](ue_ue.GameModeBase.md#mustspectate)
 
-#### Defined in
-
-[ue/ue.d.ts:10045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10045)
-
 ___
 
 ### OnRep\_AttachmentReplication
@@ -4520,10 +3596,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[OnRep_AttachmentReplication](ue_ue.GameModeBase.md#onrep_attachmentreplication)
-
-#### Defined in
-
-[ue/ue.d.ts:13298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13298)
 
 ___
 
@@ -4539,10 +3611,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[OnRep_Instigator](ue_ue.GameModeBase.md#onrep_instigator)
 
-#### Defined in
-
-[ue/ue.d.ts:13299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13299)
-
 ___
 
 ### OnRep\_Owner
@@ -4556,10 +3624,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[OnRep_Owner](ue_ue.GameModeBase.md#onrep_owner)
-
-#### Defined in
-
-[ue/ue.d.ts:13300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13300)
 
 ___
 
@@ -4575,10 +3639,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[OnRep_ReplicateMovement](ue_ue.GameModeBase.md#onrep_replicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13302)
-
 ___
 
 ### OnRep\_ReplicatedMovement
@@ -4592,10 +3652,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[OnRep_ReplicatedMovement](ue_ue.GameModeBase.md#onrep_replicatedmovement)
-
-#### Defined in
-
-[ue/ue.d.ts:13301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13301)
 
 ___
 
@@ -4616,10 +3672,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[PlayerCanRestart](ue_ue.GameModeBase.md#playercanrestart)
-
-#### Defined in
-
-[ue/ue.d.ts:10046](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10046)
 
 ___
 
@@ -4643,10 +3695,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[PrestreamTextures](ue_ue.GameModeBase.md#prestreamtextures)
 
-#### Defined in
-
-[ue/ue.d.ts:13303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13303)
-
 ___
 
 ### ReceiveActorBeginCursorOver
@@ -4660,10 +3708,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[ReceiveActorBeginCursorOver](ue_ue.GameModeBase.md#receiveactorbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13304)
 
 ___
 
@@ -4685,10 +3729,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[ReceiveActorBeginOverlap](ue_ue.GameModeBase.md#receiveactorbeginoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13305)
-
 ___
 
 ### ReceiveActorEndCursorOver
@@ -4702,10 +3742,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[ReceiveActorEndCursorOver](ue_ue.GameModeBase.md#receiveactorendcursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13306)
 
 ___
 
@@ -4727,10 +3763,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[ReceiveActorEndOverlap](ue_ue.GameModeBase.md#receiveactorendoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13307)
-
 ___
 
 ### ReceiveActorOnClicked
@@ -4750,10 +3782,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[ReceiveActorOnClicked](ue_ue.GameModeBase.md#receiveactoronclicked)
-
-#### Defined in
-
-[ue/ue.d.ts:13308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13308)
 
 ___
 
@@ -4775,10 +3803,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[ReceiveActorOnInputTouchBegin](ue_ue.GameModeBase.md#receiveactoroninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:13309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13309)
-
 ___
 
 ### ReceiveActorOnInputTouchEnd
@@ -4798,10 +3822,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[ReceiveActorOnInputTouchEnd](ue_ue.GameModeBase.md#receiveactoroninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:13310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13310)
 
 ___
 
@@ -4823,10 +3843,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[ReceiveActorOnInputTouchEnter](ue_ue.GameModeBase.md#receiveactoroninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:13311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13311)
-
 ___
 
 ### ReceiveActorOnInputTouchLeave
@@ -4847,10 +3863,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[ReceiveActorOnInputTouchLeave](ue_ue.GameModeBase.md#receiveactoroninputtouchleave)
 
-#### Defined in
-
-[ue/ue.d.ts:13312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13312)
-
 ___
 
 ### ReceiveActorOnReleased
@@ -4870,10 +3882,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[ReceiveActorOnReleased](ue_ue.GameModeBase.md#receiveactoronreleased)
-
-#### Defined in
-
-[ue/ue.d.ts:13313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13313)
 
 ___
 
@@ -4898,10 +3906,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[ReceiveAnyDamage](ue_ue.GameModeBase.md#receiveanydamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13314)
-
 ___
 
 ### ReceiveBeginPlay
@@ -4916,10 +3920,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[ReceiveBeginPlay](ue_ue.GameModeBase.md#receivebeginplay)
 
-#### Defined in
-
-[ue/ue.d.ts:13315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13315)
-
 ___
 
 ### ReceiveDestroyed
@@ -4933,10 +3933,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[ReceiveDestroyed](ue_ue.GameModeBase.md#receivedestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13316)
 
 ___
 
@@ -4957,10 +3953,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[ReceiveEndPlay](ue_ue.GameModeBase.md#receiveendplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13317)
 
 ___
 
@@ -4988,10 +3980,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[ReceiveHit](ue_ue.GameModeBase.md#receivehit)
-
-#### Defined in
-
-[ue/ue.d.ts:13318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13318)
 
 ___
 
@@ -5022,10 +4010,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[ReceivePointDamage](ue_ue.GameModeBase.md#receivepointdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13319)
-
 ___
 
 ### ReceiveRadialDamage
@@ -5051,10 +4035,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[ReceiveRadialDamage](ue_ue.GameModeBase.md#receiveradialdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13320)
-
 ___
 
 ### ReceiveTick
@@ -5074,10 +4054,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[ReceiveTick](ue_ue.GameModeBase.md#receivetick)
-
-#### Defined in
-
-[ue/ue.d.ts:13321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13321)
 
 ___
 
@@ -5099,10 +4075,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[RemoveTickPrerequisiteActor](ue_ue.GameModeBase.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -5123,10 +4095,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[RemoveTickPrerequisiteComponent](ue_ue.GameModeBase.md#removetickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13323)
-
 ___
 
 ### ResetLevel
@@ -5140,10 +4108,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[ResetLevel](ue_ue.GameModeBase.md#resetlevel)
-
-#### Defined in
-
-[ue/ue.d.ts:10047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10047)
 
 ___
 
@@ -5164,10 +4128,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[RestartPlayer](ue_ue.GameModeBase.md#restartplayer)
-
-#### Defined in
-
-[ue/ue.d.ts:10048](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10048)
 
 ___
 
@@ -5190,10 +4150,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[RestartPlayerAtPlayerStart](ue_ue.GameModeBase.md#restartplayeratplayerstart)
 
-#### Defined in
-
-[ue/ue.d.ts:10049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10049)
-
 ___
 
 ### RestartPlayerAtTransform
@@ -5215,10 +4171,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[RestartPlayerAtTransform](ue_ue.GameModeBase.md#restartplayerattransform)
 
-#### Defined in
-
-[ue/ue.d.ts:10050](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10050)
-
 ___
 
 ### ReturnToMainMenuHost
@@ -5232,10 +4184,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[ReturnToMainMenuHost](ue_ue.GameModeBase.md#returntomainmenuhost)
-
-#### Defined in
-
-[ue/ue.d.ts:10051](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10051)
 
 ___
 
@@ -5257,10 +4205,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[SetActorEnableCollision](ue_ue.GameModeBase.md#setactorenablecollision)
 
-#### Defined in
-
-[ue/ue.d.ts:13324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13324)
-
 ___
 
 ### SetActorHiddenInGame
@@ -5280,10 +4224,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[SetActorHiddenInGame](ue_ue.GameModeBase.md#setactorhiddeningame)
-
-#### Defined in
-
-[ue/ue.d.ts:13325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13325)
 
 ___
 
@@ -5306,10 +4246,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[SetActorLabel](ue_ue.GameModeBase.md#setactorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13326)
-
 ___
 
 ### SetActorRelativeScale3D
@@ -5329,10 +4265,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[SetActorRelativeScale3D](ue_ue.GameModeBase.md#setactorrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13327)
 
 ___
 
@@ -5354,10 +4286,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[SetActorScale3D](ue_ue.GameModeBase.md#setactorscale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:13328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13328)
-
 ___
 
 ### SetActorTickEnabled
@@ -5377,10 +4305,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[SetActorTickEnabled](ue_ue.GameModeBase.md#setactortickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:13329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13329)
 
 ___
 
@@ -5402,10 +4326,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[SetActorTickInterval](ue_ue.GameModeBase.md#setactortickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:13330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13330)
-
 ___
 
 ### SetFolderPath
@@ -5425,10 +4345,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[SetFolderPath](ue_ue.GameModeBase.md#setfolderpath)
-
-#### Defined in
-
-[ue/ue.d.ts:13331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13331)
 
 ___
 
@@ -5450,10 +4366,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[SetIsTemporarilyHiddenInEditor](ue_ue.GameModeBase.md#setistemporarilyhiddenineditor)
 
-#### Defined in
-
-[ue/ue.d.ts:13332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13332)
-
 ___
 
 ### SetLifeSpan
@@ -5473,10 +4385,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[SetLifeSpan](ue_ue.GameModeBase.md#setlifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13333)
 
 ___
 
@@ -5498,10 +4406,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[SetNetDormancy](ue_ue.GameModeBase.md#setnetdormancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13334)
-
 ___
 
 ### SetOwner
@@ -5521,10 +4425,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[SetOwner](ue_ue.GameModeBase.md#setowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13335)
 
 ___
 
@@ -5546,10 +4446,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[SetReplicateMovement](ue_ue.GameModeBase.md#setreplicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13336)
-
 ___
 
 ### SetReplicates
@@ -5569,10 +4465,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[SetReplicates](ue_ue.GameModeBase.md#setreplicates)
-
-#### Defined in
-
-[ue/ue.d.ts:13337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13337)
 
 ___
 
@@ -5594,10 +4486,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[SetTickGroup](ue_ue.GameModeBase.md#settickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:13339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13339)
-
 ___
 
 ### SetTickableWhenPaused
@@ -5618,10 +4506,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[SetTickableWhenPaused](ue_ue.GameModeBase.md#settickablewhenpaused)
 
-#### Defined in
-
-[ue/ue.d.ts:13338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13338)
-
 ___
 
 ### ShouldReset
@@ -5641,10 +4525,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[ShouldReset](ue_ue.GameModeBase.md#shouldreset)
-
-#### Defined in
-
-[ue/ue.d.ts:10052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10052)
 
 ___
 
@@ -5667,10 +4547,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[SnapRootComponentTo](ue_ue.GameModeBase.md#snaprootcomponentto)
 
-#### Defined in
-
-[ue/ue.d.ts:13340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13340)
-
 ___
 
 ### SpawnDefaultPawnAtTransform
@@ -5691,10 +4567,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[SpawnDefaultPawnAtTransform](ue_ue.GameModeBase.md#spawndefaultpawnattransform)
-
-#### Defined in
-
-[ue/ue.d.ts:10053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10053)
 
 ___
 
@@ -5717,10 +4589,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[SpawnDefaultPawnFor](ue_ue.GameModeBase.md#spawndefaultpawnfor)
 
-#### Defined in
-
-[ue/ue.d.ts:10054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10054)
-
 ___
 
 ### StartPlay
@@ -5734,10 +4602,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[StartPlay](ue_ue.GameModeBase.md#startplay)
-
-#### Defined in
-
-[ue/ue.d.ts:10055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10055)
 
 ___
 
@@ -5753,10 +4617,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[TearOff](ue_ue.GameModeBase.md#tearoff)
 
-#### Defined in
-
-[ue/ue.d.ts:13341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13341)
-
 ___
 
 ### UserConstructionScript
@@ -5770,10 +4630,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[UserConstructionScript](ue_ue.GameModeBase.md#userconstructionscript)
-
-#### Defined in
-
-[ue/ue.d.ts:13342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13342)
 
 ___
 
@@ -5794,10 +4650,6 @@ ___
 #### Inherited from
 
 [GameModeBase](ue_ue.GameModeBase.md).[WasRecentlyRendered](ue_ue.GameModeBase.md#wasrecentlyrendered)
-
-#### Defined in
-
-[ue/ue.d.ts:13343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13343)
 
 ___
 
@@ -5820,10 +4672,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[Find](ue_ue.GameModeBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:58956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58956)
-
 ___
 
 ### Load
@@ -5844,10 +4692,6 @@ ___
 
 [GameModeBase](ue_ue.GameModeBase.md).[Load](ue_ue.GameModeBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:58957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58957)
-
 ___
 
 ### StaticClass
@@ -5861,7 +4705,3 @@ ___
 #### Overrides
 
 [GameModeBase](ue_ue.GameModeBase.md).[StaticClass](ue_ue.GameModeBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:58955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58955)

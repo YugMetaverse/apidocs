@@ -27,10 +27,6 @@
 
 • **new BoneFilter**()
 
-#### Defined in
-
-[ue/ue.d.ts:3323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3323)
-
 • **new BoneFilter**(`bExcludeSelf`, `BoneName`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `bExcludeSelf` | `boolean` |
 | `BoneName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:3324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3324)
-
 ## Properties
 
 ### BoneName
 
 • **BoneName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:3326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3326)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • `Private` **\_\_tid\_BoneFilter\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3332)
-
 ___
 
 ### bExcludeSelf
 
 • **bExcludeSelf**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3325)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3330)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3331)

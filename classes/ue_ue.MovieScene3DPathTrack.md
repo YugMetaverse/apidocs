@@ -62,10 +62,6 @@
 
 [MovieScene3DConstraintTrack](ue_ue.MovieScene3DConstraintTrack.md).[constructor](ue_ue.MovieScene3DConstraintTrack.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:51097](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51097)
-
 ## Properties
 
 ### ConstraintSections
@@ -75,10 +71,6 @@
 #### Inherited from
 
 [MovieScene3DConstraintTrack](ue_ue.MovieScene3DConstraintTrack.md).[ConstraintSections](ue_ue.MovieScene3DConstraintTrack.md#constraintsections)
-
-#### Defined in
-
-[ue/ue.d.ts:51063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51063)
 
 ___
 
@@ -90,10 +82,6 @@ ___
 
 [MovieScene3DConstraintTrack](ue_ue.MovieScene3DConstraintTrack.md).[DisplayOptions](ue_ue.MovieScene3DConstraintTrack.md#displayoptions)
 
-#### Defined in
-
-[ue/ue.d.ts:11109](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11109)
-
 ___
 
 ### EvalOptions
@@ -103,10 +91,6 @@ ___
 #### Inherited from
 
 [MovieScene3DConstraintTrack](ue_ue.MovieScene3DConstraintTrack.md).[EvalOptions](ue_ue.MovieScene3DConstraintTrack.md#evaloptions)
-
-#### Defined in
-
-[ue/ue.d.ts:11108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11108)
 
 ___
 
@@ -118,10 +102,6 @@ ___
 
 [MovieScene3DConstraintTrack](ue_ue.MovieScene3DConstraintTrack.md).[Signature](ue_ue.MovieScene3DConstraintTrack.md#signature)
 
-#### Defined in
-
-[ue/ue.d.ts:11034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11034)
-
 ___
 
 ### SortingOrder
@@ -131,10 +111,6 @@ ___
 #### Inherited from
 
 [MovieScene3DConstraintTrack](ue_ue.MovieScene3DConstraintTrack.md).[SortingOrder](ue_ue.MovieScene3DConstraintTrack.md#sortingorder)
-
-#### Defined in
-
-[ue/ue.d.ts:11112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11112)
 
 ___
 
@@ -146,10 +122,6 @@ ___
 
 [MovieScene3DConstraintTrack](ue_ue.MovieScene3DConstraintTrack.md).[TrackTint](ue_ue.MovieScene3DConstraintTrack.md#tracktint)
 
-#### Defined in
-
-[ue/ue.d.ts:11111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11111)
-
 ___
 
 ### \_\_tid\_MovieScene3DConstraintTrack\_\_
@@ -160,19 +132,11 @@ ___
 
 [MovieScene3DConstraintTrack](ue_ue.MovieScene3DConstraintTrack.md).[__tid_MovieScene3DConstraintTrack__](ue_ue.MovieScene3DConstraintTrack.md#__tid_moviescene3dconstrainttrack__)
 
-#### Defined in
-
-[ue/ue.d.ts:51068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51068)
-
 ___
 
 ### \_\_tid\_MovieScene3DPathTrack\_\_
 
 • **\_\_tid\_MovieScene3DPathTrack\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:51102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51102)
 
 ___
 
@@ -184,10 +148,6 @@ ___
 
 [MovieScene3DConstraintTrack](ue_ue.MovieScene3DConstraintTrack.md).[__tid_MovieSceneSignedObject__](ue_ue.MovieScene3DConstraintTrack.md#__tid_moviescenesignedobject__)
 
-#### Defined in
-
-[ue/ue.d.ts:11039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11039)
-
 ___
 
 ### \_\_tid\_MovieSceneTrack\_\_
@@ -197,10 +157,6 @@ ___
 #### Inherited from
 
 [MovieScene3DConstraintTrack](ue_ue.MovieScene3DConstraintTrack.md).[__tid_MovieSceneTrack__](ue_ue.MovieScene3DConstraintTrack.md#__tid_moviescenetrack__)
-
-#### Defined in
-
-[ue/ue.d.ts:11118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11118)
 
 ___
 
@@ -212,10 +168,6 @@ ___
 
 [MovieScene3DConstraintTrack](ue_ue.MovieScene3DConstraintTrack.md).[__tid_Object__](ue_ue.MovieScene3DConstraintTrack.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bIsEvalDisabled
@@ -226,10 +178,6 @@ ___
 
 [MovieScene3DConstraintTrack](ue_ue.MovieScene3DConstraintTrack.md).[bIsEvalDisabled](ue_ue.MovieScene3DConstraintTrack.md#bisevaldisabled)
 
-#### Defined in
-
-[ue/ue.d.ts:11110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11110)
-
 ___
 
 ### bSupportsDefaultSections
@@ -239,10 +187,6 @@ ___
 #### Inherited from
 
 [MovieScene3DConstraintTrack](ue_ue.MovieScene3DConstraintTrack.md).[bSupportsDefaultSections](ue_ue.MovieScene3DConstraintTrack.md#bsupportsdefaultsections)
-
-#### Defined in
-
-[ue/ue.d.ts:11113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11113)
 
 ## Methods
 
@@ -268,10 +212,6 @@ ___
 
 [MovieScene3DConstraintTrack](ue_ue.MovieScene3DConstraintTrack.md).[CreateDefaultSubobject](ue_ue.MovieScene3DConstraintTrack.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -292,10 +232,6 @@ ___
 
 [MovieScene3DConstraintTrack](ue_ue.MovieScene3DConstraintTrack.md).[ExecuteUbergraph](ue_ue.MovieScene3DConstraintTrack.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -309,10 +245,6 @@ ___
 #### Inherited from
 
 [MovieScene3DConstraintTrack](ue_ue.MovieScene3DConstraintTrack.md).[GetClass](ue_ue.MovieScene3DConstraintTrack.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -328,10 +260,6 @@ ___
 
 [MovieScene3DConstraintTrack](ue_ue.MovieScene3DConstraintTrack.md).[GetName](ue_ue.MovieScene3DConstraintTrack.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -346,10 +274,6 @@ ___
 
 [MovieScene3DConstraintTrack](ue_ue.MovieScene3DConstraintTrack.md).[GetOuter](ue_ue.MovieScene3DConstraintTrack.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -363,10 +287,6 @@ ___
 #### Inherited from
 
 [MovieScene3DConstraintTrack](ue_ue.MovieScene3DConstraintTrack.md).[GetWorld](ue_ue.MovieScene3DConstraintTrack.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -389,10 +309,6 @@ ___
 
 [MovieScene3DConstraintTrack](ue_ue.MovieScene3DConstraintTrack.md).[Find](ue_ue.MovieScene3DConstraintTrack.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:51099](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51099)
-
 ___
 
 ### Load
@@ -413,10 +329,6 @@ ___
 
 [MovieScene3DConstraintTrack](ue_ue.MovieScene3DConstraintTrack.md).[Load](ue_ue.MovieScene3DConstraintTrack.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:51100](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51100)
-
 ___
 
 ### StaticClass
@@ -430,7 +342,3 @@ ___
 #### Overrides
 
 [MovieScene3DConstraintTrack](ue_ue.MovieScene3DConstraintTrack.md).[StaticClass](ue_ue.MovieScene3DConstraintTrack.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:51098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51098)

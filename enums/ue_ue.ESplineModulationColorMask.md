@@ -21,19 +21,11 @@
 
 • **Alpha** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34792)
-
 ___
 
 ### Blue
 
 • **Blue** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34792)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **ESplineModulationColorMask\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34792)
-
 ___
 
 ### Green
 
 • **Green** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34792)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Red** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34792)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34792)

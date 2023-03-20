@@ -25,19 +25,11 @@
 
 • **new GizmoHandle**()
 
-#### Defined in
-
-[ue/ue.d.ts:14381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14381)
-
 ## Properties
 
 ### \_\_tid\_GizmoHandle\_\_
 
 • `Private` **\_\_tid\_GizmoHandle\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14387)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14385)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14386)

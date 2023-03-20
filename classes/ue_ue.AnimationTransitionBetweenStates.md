@@ -46,10 +46,6 @@
 
 [AnimationStateBase](ue_ue.AnimationStateBase.md).[constructor](ue_ue.AnimationStateBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:4879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4879)
-
 • **new AnimationTransitionBetweenStates**(`PreviousState`, `NextState`, `CrossfadeDuration`, `StartNotify`, `EndNotify`, `InterruptNotify`, `BlendMode`, `CustomCurve`, `BlendProfile`, `LogicType`)
 
 #### Parameters
@@ -71,19 +67,11 @@
 
 [AnimationStateBase](ue_ue.AnimationStateBase.md).[constructor](ue_ue.AnimationStateBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:4880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4880)
-
 ## Properties
 
 ### BlendMode
 
 • **BlendMode**: [`EAlphaBlendOption`](../enums/ue_ue.EAlphaBlendOption.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4887)
 
 ___
 
@@ -91,19 +79,11 @@ ___
 
 • **BlendProfile**: [`BlendProfile`](ue_ue.BlendProfile.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4889)
-
 ___
 
 ### CrossfadeDuration
 
 • **CrossfadeDuration**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4883)
 
 ___
 
@@ -111,19 +91,11 @@ ___
 
 • **CustomCurve**: [`CurveFloat`](ue_ue.CurveFloat.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4888)
-
 ___
 
 ### EndNotify
 
 • **EndNotify**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4885)
 
 ___
 
@@ -131,19 +103,11 @@ ___
 
 • **InterruptNotify**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4886)
-
 ___
 
 ### LogicType
 
 • **LogicType**: [`ETransitionLogicType`](../enums/ue_ue.ETransitionLogicType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4890)
 
 ___
 
@@ -151,29 +115,17 @@ ___
 
 • **NextState**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4882)
-
 ___
 
 ### PreviousState
 
 • **PreviousState**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4881)
-
 ___
 
 ### StartNotify
 
 • **StartNotify**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4884)
 
 ___
 
@@ -185,19 +137,11 @@ ___
 
 [AnimationStateBase](ue_ue.AnimationStateBase.md).[StateName](ue_ue.AnimationStateBase.md#statename)
 
-#### Defined in
-
-[ue/ue.d.ts:4868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4868)
-
 ___
 
 ### \_\_tid\_AnimationTransitionBetweenStates\_\_
 
 • `Private` **\_\_tid\_AnimationTransitionBetweenStates\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4896)
 
 ## Methods
 
@@ -217,10 +161,6 @@ use StaticStruct instead.
 
 [AnimationStateBase](ue_ue.AnimationStateBase.md).[StaticClass](ue_ue.AnimationStateBase.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:4894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4894)
-
 ___
 
 ### StaticStruct
@@ -234,7 +174,3 @@ ___
 #### Overrides
 
 [AnimationStateBase](ue_ue.AnimationStateBase.md).[StaticStruct](ue_ue.AnimationStateBase.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:4895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4895)

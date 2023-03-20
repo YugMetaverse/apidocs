@@ -29,10 +29,6 @@
 
 • **new MovieSceneBinding**()
 
-#### Defined in
-
-[ue/ue.d.ts:11591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11591)
-
 • **new MovieSceneBinding**(`ObjectGuid`, `BindingName`, `Tracks`, `SortingOrder`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `Tracks` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MovieSceneTrack`](ue_ue.MovieSceneTrack.md)\> |
 | `SortingOrder` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:11592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11592)
-
 ## Properties
 
 ### BindingName
 
 • **BindingName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:11594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11594)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **ObjectGuid**: [`Guid`](ue_ue_s.Guid.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11593)
-
 ___
 
 ### SortingOrder
 
 • **SortingOrder**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11596)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **Tracks**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MovieSceneTrack`](ue_ue.MovieSceneTrack.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:11595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11595)
-
 ___
 
 ### \_\_tid\_MovieSceneBinding\_\_
 
 • `Private` **\_\_tid\_MovieSceneBinding\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11602)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11600)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11601)

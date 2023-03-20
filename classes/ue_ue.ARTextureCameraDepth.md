@@ -119,10 +119,6 @@
 
 [ARTexture](ue_ue.ARTexture.md).[constructor](ue_ue.ARTexture.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:20952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20952)
-
 ## Properties
 
 ### AdjustBrightness
@@ -132,10 +128,6 @@
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[AdjustBrightness](ue_ue.ARTexture.md#adjustbrightness)
-
-#### Defined in
-
-[ue/ue.d.ts:477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L477)
 
 ___
 
@@ -147,10 +139,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[AdjustBrightnessCurve](ue_ue.ARTexture.md#adjustbrightnesscurve)
 
-#### Defined in
-
-[ue/ue.d.ts:478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L478)
-
 ___
 
 ### AdjustHue
@@ -160,10 +148,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[AdjustHue](ue_ue.ARTexture.md#adjusthue)
-
-#### Defined in
-
-[ue/ue.d.ts:482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L482)
 
 ___
 
@@ -175,10 +159,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[AdjustMaxAlpha](ue_ue.ARTexture.md#adjustmaxalpha)
 
-#### Defined in
-
-[ue/ue.d.ts:484](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L484)
-
 ___
 
 ### AdjustMinAlpha
@@ -188,10 +168,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[AdjustMinAlpha](ue_ue.ARTexture.md#adjustminalpha)
-
-#### Defined in
-
-[ue/ue.d.ts:483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L483)
 
 ___
 
@@ -203,10 +179,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[AdjustRGBCurve](ue_ue.ARTexture.md#adjustrgbcurve)
 
-#### Defined in
-
-[ue/ue.d.ts:481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L481)
-
 ___
 
 ### AdjustSaturation
@@ -216,10 +188,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[AdjustSaturation](ue_ue.ARTexture.md#adjustsaturation)
-
-#### Defined in
-
-[ue/ue.d.ts:480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L480)
 
 ___
 
@@ -231,10 +199,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[AdjustVibrance](ue_ue.ARTexture.md#adjustvibrance)
 
-#### Defined in
-
-[ue/ue.d.ts:479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L479)
-
 ___
 
 ### AlphaCoverageThresholds
@@ -244,10 +208,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[AlphaCoverageThresholds](ue_ue.ARTexture.md#alphacoveragethresholds)
-
-#### Defined in
-
-[ue/ue.d.ts:492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L492)
 
 ___
 
@@ -259,10 +219,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[AssetImportData](ue_ue.ARTexture.md#assetimportdata)
 
-#### Defined in
-
-[ue/ue.d.ts:476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L476)
-
 ___
 
 ### AssetUserData
@@ -272,10 +228,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[AssetUserData](ue_ue.ARTexture.md#assetuserdata)
-
-#### Defined in
-
-[ue/ue.d.ts:517](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L517)
 
 ___
 
@@ -287,10 +239,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[CachedCombinedLODBias](ue_ue.ARTexture.md#cachedcombinedlodbias)
 
-#### Defined in
-
-[ue/ue.d.ts:387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L387)
-
 ___
 
 ### CachedNumResidentLODs
@@ -300,10 +248,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[CachedNumResidentLODs](ue_ue.ARTexture.md#cachednumresidentlods)
-
-#### Defined in
-
-[ue/ue.d.ts:388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L388)
 
 ___
 
@@ -315,10 +259,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[ChromaKeyColor](ue_ue.ARTexture.md#chromakeycolor)
 
-#### Defined in
-
-[ue/ue.d.ts:500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L500)
-
 ___
 
 ### ChromaKeyThreshold
@@ -328,10 +268,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[ChromaKeyThreshold](ue_ue.ARTexture.md#chromakeythreshold)
-
-#### Defined in
-
-[ue/ue.d.ts:499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L499)
 
 ___
 
@@ -343,10 +279,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[CompositePower](ue_ue.ARTexture.md#compositepower)
 
-#### Defined in
-
-[ue/ue.d.ts:504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L504)
-
 ___
 
 ### CompositeTexture
@@ -356,10 +288,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[CompositeTexture](ue_ue.ARTexture.md#compositetexture)
-
-#### Defined in
-
-[ue/ue.d.ts:502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L502)
 
 ___
 
@@ -371,10 +299,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[CompositeTextureMode](ue_ue.ARTexture.md#compositetexturemode)
 
-#### Defined in
-
-[ue/ue.d.ts:503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L503)
-
 ___
 
 ### CompressionNoAlpha
@@ -384,10 +308,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[CompressionNoAlpha](ue_ue.ARTexture.md#compressionnoalpha)
-
-#### Defined in
-
-[ue/ue.d.ts:485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L485)
 
 ___
 
@@ -399,10 +319,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[CompressionNone](ue_ue.ARTexture.md#compressionnone)
 
-#### Defined in
-
-[ue/ue.d.ts:486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L486)
-
 ___
 
 ### CompressionQuality
@@ -412,10 +328,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[CompressionQuality](ue_ue.ARTexture.md#compressionquality)
-
-#### Defined in
-
-[ue/ue.d.ts:490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L490)
 
 ___
 
@@ -427,10 +339,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[CompressionSettings](ue_ue.ARTexture.md#compressionsettings)
 
-#### Defined in
-
-[ue/ue.d.ts:507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L507)
-
 ___
 
 ### CompressionYCoCg
@@ -440,10 +348,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[CompressionYCoCg](ue_ue.ARTexture.md#compressionycocg)
-
-#### Defined in
-
-[ue/ue.d.ts:515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L515)
 
 ___
 
@@ -455,29 +359,17 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[DeferCompression](ue_ue.ARTexture.md#defercompression)
 
-#### Defined in
-
-[ue/ue.d.ts:487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L487)
-
 ___
 
 ### DepthAccuracy
 
 • **DepthAccuracy**: [`EARDepthAccuracy`](../enums/ue_ue.EARDepthAccuracy.md)
 
-#### Defined in
-
-[ue/ue.d.ts:20954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20954)
-
 ___
 
 ### DepthQuality
 
 • **DepthQuality**: [`EARDepthQuality`](../enums/ue_ue.EARDepthQuality.md)
-
-#### Defined in
-
-[ue/ue.d.ts:20953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20953)
 
 ___
 
@@ -489,10 +381,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[ExternalTextureGuid](ue_ue.ARTexture.md#externaltextureguid)
 
-#### Defined in
-
-[ue/ue.d.ts:20931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20931)
-
 ___
 
 ### Filter
@@ -502,10 +390,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[Filter](ue_ue.ARTexture.md#filter)
-
-#### Defined in
-
-[ue/ue.d.ts:508](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L508)
 
 ___
 
@@ -517,10 +401,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[ForceMipLevelsToBeResidentTimestamp](ue_ue.ARTexture.md#forcemiplevelstoberesidenttimestamp)
 
-#### Defined in
-
-[ue/ue.d.ts:384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L384)
-
 ___
 
 ### LODBias
@@ -530,10 +410,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[LODBias](ue_ue.ARTexture.md#lodbias)
-
-#### Defined in
-
-[ue/ue.d.ts:506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L506)
 
 ___
 
@@ -545,10 +421,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[LODGroup](ue_ue.ARTexture.md#lodgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L510)
-
 ___
 
 ### LayerFormatSettings
@@ -558,10 +430,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[LayerFormatSettings](ue_ue.ARTexture.md#layerformatsettings)
-
-#### Defined in
-
-[ue/ue.d.ts:505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L505)
 
 ___
 
@@ -573,10 +441,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[LightingGuid](ue_ue.ARTexture.md#lightingguid)
 
-#### Defined in
-
-[ue/ue.d.ts:474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L474)
-
 ___
 
 ### LossyCompressionAmount
@@ -586,10 +450,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[LossyCompressionAmount](ue_ue.ARTexture.md#lossycompressionamount)
-
-#### Defined in
-
-[ue/ue.d.ts:488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L488)
 
 ___
 
@@ -601,10 +461,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[MaxTextureSize](ue_ue.ARTexture.md#maxtexturesize)
 
-#### Defined in
-
-[ue/ue.d.ts:489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L489)
-
 ___
 
 ### MipGenSettings
@@ -614,10 +470,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[MipGenSettings](ue_ue.ARTexture.md#mipgensettings)
-
-#### Defined in
-
-[ue/ue.d.ts:501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L501)
 
 ___
 
@@ -629,10 +481,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[MipLoadOptions](ue_ue.ARTexture.md#miploadoptions)
 
-#### Defined in
-
-[ue/ue.d.ts:509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L509)
-
 ___
 
 ### NeverStream
@@ -642,10 +490,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[NeverStream](ue_ue.ARTexture.md#neverstream)
-
-#### Defined in
-
-[ue/ue.d.ts:390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L390)
 
 ___
 
@@ -657,10 +501,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[NumCinematicMipLevels](ue_ue.ARTexture.md#numcinematicmiplevels)
 
-#### Defined in
-
-[ue/ue.d.ts:385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L385)
-
 ___
 
 ### PaddingColor
@@ -670,10 +510,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[PaddingColor](ue_ue.ARTexture.md#paddingcolor)
-
-#### Defined in
-
-[ue/ue.d.ts:497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L497)
 
 ___
 
@@ -685,10 +521,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[PowerOfTwoMode](ue_ue.ARTexture.md#poweroftwomode)
 
-#### Defined in
-
-[ue/ue.d.ts:496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L496)
-
 ___
 
 ### SRGB
@@ -698,10 +530,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[SRGB](ue_ue.ARTexture.md#srgb)
-
-#### Defined in
-
-[ue/ue.d.ts:511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L511)
 
 ___
 
@@ -713,10 +541,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[Size](ue_ue.ARTexture.md#size)
 
-#### Defined in
-
-[ue/ue.d.ts:20932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20932)
-
 ___
 
 ### Source
@@ -726,10 +550,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[Source](ue_ue.ARTexture.md#source)
-
-#### Defined in
-
-[ue/ue.d.ts:473](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L473)
 
 ___
 
@@ -741,10 +561,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[SourceFilePath](ue_ue.ARTexture.md#sourcefilepath)
 
-#### Defined in
-
-[ue/ue.d.ts:475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L475)
-
 ___
 
 ### StreamingIndex
@@ -754,10 +570,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[StreamingIndex](ue_ue.ARTexture.md#streamingindex)
-
-#### Defined in
-
-[ue/ue.d.ts:386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L386)
 
 ___
 
@@ -769,10 +581,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[TextureType](ue_ue.ARTexture.md#texturetype)
 
-#### Defined in
-
-[ue/ue.d.ts:20929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20929)
-
 ___
 
 ### Timestamp
@@ -782,10 +590,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[Timestamp](ue_ue.ARTexture.md#timestamp)
-
-#### Defined in
-
-[ue/ue.d.ts:20930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20930)
 
 ___
 
@@ -797,19 +601,11 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[VirtualTextureStreaming](ue_ue.ARTexture.md#virtualtexturestreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:514](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L514)
-
 ___
 
 ### \_\_tid\_ARTextureCameraDepth\_\_
 
 • **\_\_tid\_ARTextureCameraDepth\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:20960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20960)
 
 ___
 
@@ -821,10 +617,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[__tid_ARTexture__](ue_ue.ARTexture.md#__tid_artexture__)
 
-#### Defined in
-
-[ue/ue.d.ts:20937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20937)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -834,10 +626,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[__tid_Object__](ue_ue.ARTexture.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -849,10 +637,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[__tid_StreamableRenderAsset__](ue_ue.ARTexture.md#__tid_streamablerenderasset__)
 
-#### Defined in
-
-[ue/ue.d.ts:401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L401)
-
 ___
 
 ### \_\_tid\_Texture\_\_
@@ -862,10 +646,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[__tid_Texture__](ue_ue.ARTexture.md#__tid_texture__)
-
-#### Defined in
-
-[ue/ue.d.ts:522](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L522)
 
 ___
 
@@ -877,10 +657,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[bAsyncResourceReleaseHasBeenStarted](ue_ue.ARTexture.md#basyncresourcereleasehasbeenstarted)
 
-#### Defined in
-
-[ue/ue.d.ts:516](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L516)
-
 ___
 
 ### bCachedReadyForStreaming
@@ -890,10 +666,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[bCachedReadyForStreaming](ue_ue.ARTexture.md#bcachedreadyforstreaming)
-
-#### Defined in
-
-[ue/ue.d.ts:389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L389)
 
 ___
 
@@ -905,10 +677,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[bChromaKeyTexture](ue_ue.ARTexture.md#bchromakeytexture)
 
-#### Defined in
-
-[ue/ue.d.ts:498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L498)
-
 ___
 
 ### bDitherMipMapAlpha
@@ -918,10 +686,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[bDitherMipMapAlpha](ue_ue.ARTexture.md#bdithermipmapalpha)
-
-#### Defined in
-
-[ue/ue.d.ts:491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L491)
 
 ___
 
@@ -933,10 +697,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[bFlipGreenChannel](ue_ue.ARTexture.md#bflipgreenchannel)
 
-#### Defined in
-
-[ue/ue.d.ts:494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L494)
-
 ___
 
 ### bForceMiplevelsToBeResident
@@ -946,10 +706,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[bForceMiplevelsToBeResident](ue_ue.ARTexture.md#bforcemiplevelstoberesident)
-
-#### Defined in
-
-[ue/ue.d.ts:394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L394)
 
 ___
 
@@ -961,10 +717,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[bForcePVRTC4](ue_ue.ARTexture.md#bforcepvrtc4)
 
-#### Defined in
-
-[ue/ue.d.ts:495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L495)
-
 ___
 
 ### bGlobalForceMipLevelsToBeResident
@@ -974,10 +726,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[bGlobalForceMipLevelsToBeResident](ue_ue.ARTexture.md#bglobalforcemiplevelstoberesident)
-
-#### Defined in
-
-[ue/ue.d.ts:391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L391)
 
 ___
 
@@ -989,10 +737,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[bHasStreamingUpdatePending](ue_ue.ARTexture.md#bhasstreamingupdatepending)
 
-#### Defined in
-
-[ue/ue.d.ts:393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L393)
-
 ___
 
 ### bIgnoreStreamingMipBias
@@ -1002,10 +746,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[bIgnoreStreamingMipBias](ue_ue.ARTexture.md#bignorestreamingmipbias)
-
-#### Defined in
-
-[ue/ue.d.ts:395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L395)
 
 ___
 
@@ -1017,19 +757,11 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[bIsStreamable](ue_ue.ARTexture.md#bisstreamable)
 
-#### Defined in
-
-[ue/ue.d.ts:392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L392)
-
 ___
 
 ### bIsTemporallySmoothed
 
 • **bIsTemporallySmoothed**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:20955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20955)
 
 ___
 
@@ -1041,10 +773,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[bNoTiling](ue_ue.ARTexture.md#bnotiling)
 
-#### Defined in
-
-[ue/ue.d.ts:513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L513)
-
 ___
 
 ### bPreserveBorder
@@ -1054,10 +782,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[bPreserveBorder](ue_ue.ARTexture.md#bpreserveborder)
-
-#### Defined in
-
-[ue/ue.d.ts:493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L493)
 
 ___
 
@@ -1069,10 +793,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[bUseCinematicMipLevels](ue_ue.ARTexture.md#busecinematicmiplevels)
 
-#### Defined in
-
-[ue/ue.d.ts:396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L396)
-
 ___
 
 ### bUseLegacyGamma
@@ -1082,10 +802,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[bUseLegacyGamma](ue_ue.ARTexture.md#buselegacygamma)
-
-#### Defined in
-
-[ue/ue.d.ts:512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L512)
 
 ## Methods
 
@@ -1111,10 +827,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[CreateDefaultSubobject](ue_ue.ARTexture.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -1135,10 +847,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[ExecuteUbergraph](ue_ue.ARTexture.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -1152,10 +860,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[GetClass](ue_ue.ARTexture.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -1171,10 +875,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[GetName](ue_ue.ARTexture.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -1189,10 +889,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[GetOuter](ue_ue.ARTexture.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -1206,10 +902,6 @@ ___
 #### Inherited from
 
 [ARTexture](ue_ue.ARTexture.md).[GetWorld](ue_ue.ARTexture.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -1232,10 +924,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[Find](ue_ue.ARTexture.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:20957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20957)
-
 ___
 
 ### Load
@@ -1256,10 +944,6 @@ ___
 
 [ARTexture](ue_ue.ARTexture.md).[Load](ue_ue.ARTexture.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:20958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20958)
-
 ___
 
 ### StaticClass
@@ -1273,7 +957,3 @@ ___
 #### Overrides
 
 [ARTexture](ue_ue.ARTexture.md).[StaticClass](ue_ue.ARTexture.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:20956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20956)

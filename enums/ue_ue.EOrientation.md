@@ -19,19 +19,11 @@
 
 • **Orient\_Horizontal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34649)
-
 ___
 
 ### Orient\_MAX
 
 • **Orient\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34649)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Orient\_Vertical** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34649)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34649)

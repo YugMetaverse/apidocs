@@ -44,10 +44,6 @@
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[constructor](ue_ue.SlateWidgetStyle.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:32215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32215)
-
 • **new ScrollBarStyle**(`HorizontalBackgroundImage`, `VerticalBackgroundImage`, `VerticalTopSlotImage`, `HorizontalTopSlotImage`, `VerticalBottomSlotImage`, `HorizontalBottomSlotImage`, `NormalThumbImage`, `HoveredThumbImage`, `DraggedThumbImage`)
 
 #### Parameters
@@ -68,19 +64,11 @@
 
 UE.SlateWidgetStyle.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:32216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32216)
-
 ## Properties
 
 ### DraggedThumbImage
 
 • **DraggedThumbImage**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32225)
 
 ___
 
@@ -88,19 +76,11 @@ ___
 
 • **HorizontalBackgroundImage**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32217)
-
 ___
 
 ### HorizontalBottomSlotImage
 
 • **HorizontalBottomSlotImage**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32222)
 
 ___
 
@@ -108,19 +88,11 @@ ___
 
 • **HorizontalTopSlotImage**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32220)
-
 ___
 
 ### HoveredThumbImage
 
 • **HoveredThumbImage**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32224)
 
 ___
 
@@ -128,19 +100,11 @@ ___
 
 • **NormalThumbImage**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32223)
-
 ___
 
 ### VerticalBackgroundImage
 
 • **VerticalBackgroundImage**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32218)
 
 ___
 
@@ -148,29 +112,17 @@ ___
 
 • **VerticalBottomSlotImage**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32221)
-
 ___
 
 ### VerticalTopSlotImage
 
 • **VerticalTopSlotImage**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32219)
-
 ___
 
 ### \_\_tid\_ScrollBarStyle\_\_
 
 • `Private` **\_\_tid\_ScrollBarStyle\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32231)
 
 ## Methods
 
@@ -190,10 +142,6 @@ use StaticStruct instead.
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[StaticClass](ue_ue.SlateWidgetStyle.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:32229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32229)
-
 ___
 
 ### StaticStruct
@@ -207,7 +155,3 @@ ___
 #### Overrides
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[StaticStruct](ue_ue.SlateWidgetStyle.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:32230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32230)

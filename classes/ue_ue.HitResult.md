@@ -43,10 +43,6 @@
 
 • **new HitResult**()
 
-#### Defined in
-
-[ue/ue.d.ts:853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L853)
-
 • **new HitResult**(`bBlockingHit`, `bStartPenetrating`, `FaceIndex`, `Time`, `Distance`, `Location`, `ImpactPoint`, `Normal`, `ImpactNormal`, `TraceStart`, `TraceEnd`, `PenetrationDepth`, `Item`, `PhysMaterial`, `Actor`, `Component`, `BoneName`, `MyBoneName`)
 
 #### Parameters
@@ -72,19 +68,11 @@
 | `BoneName` | `string` |
 | `MyBoneName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:854](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L854)
-
 ## Properties
 
 ### Actor
 
 • **Actor**: [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`Actor`](ue_ue.Actor.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L869)
 
 ___
 
@@ -92,19 +80,11 @@ ___
 
 • **BoneName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L871)
-
 ___
 
 ### Component
 
 • **Component**: [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`PrimitiveComponent`](ue_ue.PrimitiveComponent.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L870)
 
 ___
 
@@ -112,19 +92,11 @@ ___
 
 • **Distance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:859](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L859)
-
 ___
 
 ### FaceIndex
 
 • **FaceIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L857)
 
 ___
 
@@ -132,19 +104,11 @@ ___
 
 • **ImpactNormal**: [`Vector_NetQuantizeNormal`](ue_ue.Vector_NetQuantizeNormal.md)
 
-#### Defined in
-
-[ue/ue.d.ts:863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L863)
-
 ___
 
 ### ImpactPoint
 
 • **ImpactPoint**: [`Vector_NetQuantize`](ue_ue.Vector_NetQuantize.md)
-
-#### Defined in
-
-[ue/ue.d.ts:861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L861)
 
 ___
 
@@ -152,19 +116,11 @@ ___
 
 • **Item**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L867)
-
 ___
 
 ### Location
 
 • **Location**: [`Vector_NetQuantize`](ue_ue.Vector_NetQuantize.md)
-
-#### Defined in
-
-[ue/ue.d.ts:860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L860)
 
 ___
 
@@ -172,19 +128,11 @@ ___
 
 • **MyBoneName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L872)
-
 ___
 
 ### Normal
 
 • **Normal**: [`Vector_NetQuantizeNormal`](ue_ue.Vector_NetQuantizeNormal.md)
-
-#### Defined in
-
-[ue/ue.d.ts:862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L862)
 
 ___
 
@@ -192,19 +140,11 @@ ___
 
 • **PenetrationDepth**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L866)
-
 ___
 
 ### PhysMaterial
 
 • **PhysMaterial**: [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`PhysicalMaterial`](ue_ue.PhysicalMaterial.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L868)
 
 ___
 
@@ -212,19 +152,11 @@ ___
 
 • **Time**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L858)
-
 ___
 
 ### TraceEnd
 
 • **TraceEnd**: [`Vector_NetQuantize`](ue_ue.Vector_NetQuantize.md)
-
-#### Defined in
-
-[ue/ue.d.ts:865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L865)
 
 ___
 
@@ -232,19 +164,11 @@ ___
 
 • **TraceStart**: [`Vector_NetQuantize`](ue_ue.Vector_NetQuantize.md)
 
-#### Defined in
-
-[ue/ue.d.ts:864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L864)
-
 ___
 
 ### \_\_tid\_HitResult\_\_
 
 • `Private` **\_\_tid\_HitResult\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L878)
 
 ___
 
@@ -252,19 +176,11 @@ ___
 
 • **bBlockingHit**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:855](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L855)
-
 ___
 
 ### bStartPenetrating
 
 • **bStartPenetrating**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L856)
 
 ## Methods
 
@@ -280,10 +196,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L876)
-
 ___
 
 ### StaticStruct
@@ -293,7 +205,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L877)

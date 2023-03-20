@@ -22,19 +22,11 @@
 
 • **PPBC\_Debug** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34689)
-
 ___
 
 ### PPBC\_DebugGame
 
 • **PPBC\_DebugGame** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34689)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **PPBC\_Development** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34689)
-
 ___
 
 ### PPBC\_MAX
 
 • **PPBC\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34689)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **PPBC\_Shipping** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34689)
-
 ___
 
 ### PPBC\_Test
 
 • **PPBC\_Test** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34689)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34689)

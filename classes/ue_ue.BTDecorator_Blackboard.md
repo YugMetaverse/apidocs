@@ -72,29 +72,17 @@
 
 [BTDecorator_BlackboardBase](ue_ue.BTDecorator_BlackboardBase.md).[constructor](ue_ue.BTDecorator_BlackboardBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:24874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24874)
-
 ## Properties
 
 ### ArithmeticOperation
 
 • **ArithmeticOperation**: [`EArithmeticKeyOperation`](../enums/ue_ue.EArithmeticKeyOperation.md)
 
-#### Defined in
-
-[ue/ue.d.ts:24882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24882)
-
 ___
 
 ### BasicOperation
 
 • **BasicOperation**: [`EBasicKeyOperation`](../enums/ue_ue.EBasicKeyOperation.md)
-
-#### Defined in
-
-[ue/ue.d.ts:24881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24881)
 
 ___
 
@@ -106,29 +94,17 @@ ___
 
 [BTDecorator_BlackboardBase](ue_ue.BTDecorator_BlackboardBase.md).[BlackboardKey](ue_ue.BTDecorator_BlackboardBase.md#blackboardkey)
 
-#### Defined in
-
-[ue/ue.d.ts:24861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24861)
-
 ___
 
 ### CachedDescription
 
 • **CachedDescription**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24878)
-
 ___
 
 ### FloatValue
 
 • **FloatValue**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:24876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24876)
 
 ___
 
@@ -140,19 +116,11 @@ ___
 
 [BTDecorator_BlackboardBase](ue_ue.BTDecorator_BlackboardBase.md).[FlowAbortMode](ue_ue.BTDecorator_BlackboardBase.md#flowabortmode)
 
-#### Defined in
-
-[ue/ue.d.ts:14614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14614)
-
 ___
 
 ### IntValue
 
 • **IntValue**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:24875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24875)
 
 ___
 
@@ -164,29 +132,17 @@ ___
 
 [BTDecorator_BlackboardBase](ue_ue.BTDecorator_BlackboardBase.md).[NodeName](ue_ue.BTDecorator_BlackboardBase.md#nodename)
 
-#### Defined in
-
-[ue/ue.d.ts:14567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14567)
-
 ___
 
 ### NotifyObserver
 
 • **NotifyObserver**: [`EBTBlackboardRestart`](../enums/ue_ue.EBTBlackboardRestart.md)
 
-#### Defined in
-
-[ue/ue.d.ts:24880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24880)
-
 ___
 
 ### OperationType
 
 • **OperationType**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:24879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24879)
 
 ___
 
@@ -198,29 +154,17 @@ ___
 
 [BTDecorator_BlackboardBase](ue_ue.BTDecorator_BlackboardBase.md).[ParentNode](ue_ue.BTDecorator_BlackboardBase.md#parentnode)
 
-#### Defined in
-
-[ue/ue.d.ts:14569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14569)
-
 ___
 
 ### StringValue
 
 • **StringValue**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:24877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24877)
-
 ___
 
 ### TextOperation
 
 • **TextOperation**: [`ETextKeyOperation`](../enums/ue_ue.ETextKeyOperation.md)
-
-#### Defined in
-
-[ue/ue.d.ts:24883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24883)
 
 ___
 
@@ -232,10 +176,6 @@ ___
 
 [BTDecorator_BlackboardBase](ue_ue.BTDecorator_BlackboardBase.md).[TreeAsset](ue_ue.BTDecorator_BlackboardBase.md#treeasset)
 
-#### Defined in
-
-[ue/ue.d.ts:14568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14568)
-
 ___
 
 ### \_\_tid\_BTAuxiliaryNode\_\_
@@ -245,10 +185,6 @@ ___
 #### Inherited from
 
 [BTDecorator_BlackboardBase](ue_ue.BTDecorator_BlackboardBase.md).[__tid_BTAuxiliaryNode__](ue_ue.BTDecorator_BlackboardBase.md#__tid_btauxiliarynode__)
-
-#### Defined in
-
-[ue/ue.d.ts:14583](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14583)
 
 ___
 
@@ -260,19 +196,11 @@ ___
 
 [BTDecorator_BlackboardBase](ue_ue.BTDecorator_BlackboardBase.md).[__tid_BTDecorator_BlackboardBase__](ue_ue.BTDecorator_BlackboardBase.md#__tid_btdecorator_blackboardbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:24866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24866)
-
 ___
 
 ### \_\_tid\_BTDecorator\_Blackboard\_\_
 
 • **\_\_tid\_BTDecorator\_Blackboard\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:24888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24888)
 
 ___
 
@@ -284,10 +212,6 @@ ___
 
 [BTDecorator_BlackboardBase](ue_ue.BTDecorator_BlackboardBase.md).[__tid_BTDecorator__](ue_ue.BTDecorator_BlackboardBase.md#__tid_btdecorator__)
 
-#### Defined in
-
-[ue/ue.d.ts:14619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14619)
-
 ___
 
 ### \_\_tid\_BTNode\_\_
@@ -297,10 +221,6 @@ ___
 #### Inherited from
 
 [BTDecorator_BlackboardBase](ue_ue.BTDecorator_BlackboardBase.md).[__tid_BTNode__](ue_ue.BTDecorator_BlackboardBase.md#__tid_btnode__)
-
-#### Defined in
-
-[ue/ue.d.ts:14574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14574)
 
 ___
 
@@ -312,10 +232,6 @@ ___
 
 [BTDecorator_BlackboardBase](ue_ue.BTDecorator_BlackboardBase.md).[__tid_Object__](ue_ue.BTDecorator_BlackboardBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bInverseCondition
@@ -325,10 +241,6 @@ ___
 #### Inherited from
 
 [BTDecorator_BlackboardBase](ue_ue.BTDecorator_BlackboardBase.md).[bInverseCondition](ue_ue.BTDecorator_BlackboardBase.md#binversecondition)
-
-#### Defined in
-
-[ue/ue.d.ts:14613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14613)
 
 ## Methods
 
@@ -354,10 +266,6 @@ ___
 
 [BTDecorator_BlackboardBase](ue_ue.BTDecorator_BlackboardBase.md).[CreateDefaultSubobject](ue_ue.BTDecorator_BlackboardBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -378,10 +286,6 @@ ___
 
 [BTDecorator_BlackboardBase](ue_ue.BTDecorator_BlackboardBase.md).[ExecuteUbergraph](ue_ue.BTDecorator_BlackboardBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -395,10 +299,6 @@ ___
 #### Inherited from
 
 [BTDecorator_BlackboardBase](ue_ue.BTDecorator_BlackboardBase.md).[GetClass](ue_ue.BTDecorator_BlackboardBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -414,10 +314,6 @@ ___
 
 [BTDecorator_BlackboardBase](ue_ue.BTDecorator_BlackboardBase.md).[GetName](ue_ue.BTDecorator_BlackboardBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -432,10 +328,6 @@ ___
 
 [BTDecorator_BlackboardBase](ue_ue.BTDecorator_BlackboardBase.md).[GetOuter](ue_ue.BTDecorator_BlackboardBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -449,10 +341,6 @@ ___
 #### Inherited from
 
 [BTDecorator_BlackboardBase](ue_ue.BTDecorator_BlackboardBase.md).[GetWorld](ue_ue.BTDecorator_BlackboardBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -475,10 +363,6 @@ ___
 
 [BTDecorator_BlackboardBase](ue_ue.BTDecorator_BlackboardBase.md).[Find](ue_ue.BTDecorator_BlackboardBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:24885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24885)
-
 ___
 
 ### Load
@@ -499,10 +383,6 @@ ___
 
 [BTDecorator_BlackboardBase](ue_ue.BTDecorator_BlackboardBase.md).[Load](ue_ue.BTDecorator_BlackboardBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:24886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24886)
-
 ___
 
 ### StaticClass
@@ -516,7 +396,3 @@ ___
 #### Overrides
 
 [BTDecorator_BlackboardBase](ue_ue.BTDecorator_BlackboardBase.md).[StaticClass](ue_ue.BTDecorator_BlackboardBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:24884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24884)

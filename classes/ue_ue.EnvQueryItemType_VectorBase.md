@@ -58,19 +58,11 @@
 
 [EnvQueryItemType](ue_ue.EnvQueryItemType.md).[constructor](ue_ue.EnvQueryItemType.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:34448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34448)
-
 ## Properties
 
 ### \_\_tid\_EnvQueryItemType\_VectorBase\_\_
 
 • **\_\_tid\_EnvQueryItemType\_VectorBase\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:34453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34453)
 
 ___
 
@@ -82,10 +74,6 @@ ___
 
 [EnvQueryItemType](ue_ue.EnvQueryItemType.md).[__tid_EnvQueryItemType__](ue_ue.EnvQueryItemType.md#__tid_envqueryitemtype__)
 
-#### Defined in
-
-[ue/ue.d.ts:34444](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34444)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -95,10 +83,6 @@ ___
 #### Inherited from
 
 [EnvQueryItemType](ue_ue.EnvQueryItemType.md).[__tid_Object__](ue_ue.EnvQueryItemType.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -124,10 +108,6 @@ ___
 
 [EnvQueryItemType](ue_ue.EnvQueryItemType.md).[CreateDefaultSubobject](ue_ue.EnvQueryItemType.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -148,10 +128,6 @@ ___
 
 [EnvQueryItemType](ue_ue.EnvQueryItemType.md).[ExecuteUbergraph](ue_ue.EnvQueryItemType.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -165,10 +141,6 @@ ___
 #### Inherited from
 
 [EnvQueryItemType](ue_ue.EnvQueryItemType.md).[GetClass](ue_ue.EnvQueryItemType.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -184,10 +156,6 @@ ___
 
 [EnvQueryItemType](ue_ue.EnvQueryItemType.md).[GetName](ue_ue.EnvQueryItemType.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -202,10 +170,6 @@ ___
 
 [EnvQueryItemType](ue_ue.EnvQueryItemType.md).[GetOuter](ue_ue.EnvQueryItemType.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -219,10 +183,6 @@ ___
 #### Inherited from
 
 [EnvQueryItemType](ue_ue.EnvQueryItemType.md).[GetWorld](ue_ue.EnvQueryItemType.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -245,10 +205,6 @@ ___
 
 [EnvQueryItemType](ue_ue.EnvQueryItemType.md).[Find](ue_ue.EnvQueryItemType.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:34450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34450)
-
 ___
 
 ### Load
@@ -269,10 +225,6 @@ ___
 
 [EnvQueryItemType](ue_ue.EnvQueryItemType.md).[Load](ue_ue.EnvQueryItemType.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:34451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34451)
-
 ___
 
 ### StaticClass
@@ -286,7 +238,3 @@ ___
 #### Overrides
 
 [EnvQueryItemType](ue_ue.EnvQueryItemType.md).[StaticClass](ue_ue.EnvQueryItemType.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:34449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34449)

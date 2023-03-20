@@ -26,10 +26,6 @@
 
 • **new MaterialShadingModelField**()
 
-#### Defined in
-
-[ue/ue.d.ts:1249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1249)
-
 • **new MaterialShadingModelField**(`ShadingModelField`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `ShadingModelField` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:1250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1250)
-
 ## Properties
 
 ### ShadingModelField
 
 • **ShadingModelField**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1251)
-
 ___
 
 ### \_\_tid\_MaterialShadingModelField\_\_
 
 • `Private` **\_\_tid\_MaterialShadingModelField\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1257)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1255)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1256)

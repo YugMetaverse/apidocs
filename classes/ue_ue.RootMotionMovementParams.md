@@ -28,10 +28,6 @@
 
 • **new RootMotionMovementParams**()
 
-#### Defined in
-
-[ue/ue.d.ts:5616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5616)
-
 • **new RootMotionMovementParams**(`bHasRootMotion`, `BlendWeight`, `RootMotionTransform`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `BlendWeight` | `number` |
 | `RootMotionTransform` | [`Transform`](ue_ue_s.Transform.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:5617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5617)
-
 ## Properties
 
 ### BlendWeight
 
 • **BlendWeight**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5619)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **RootMotionTransform**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5620)
-
 ___
 
 ### \_\_tid\_RootMotionMovementParams\_\_
 
 • `Private` **\_\_tid\_RootMotionMovementParams\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5626)
-
 ___
 
 ### bHasRootMotion
 
 • **bHasRootMotion**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5618)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5624)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5625)

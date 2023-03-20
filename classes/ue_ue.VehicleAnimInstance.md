@@ -139,10 +139,6 @@
 
 [AnimInstance](ue_ue.AnimInstance.md).[constructor](ue_ue.AnimInstance.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:65143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65143)
-
 ## Properties
 
 ### ActiveAnimNotifyState
@@ -152,10 +148,6 @@
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[ActiveAnimNotifyState](ue_ue.AnimInstance.md#activeanimnotifystate)
-
-#### Defined in
-
-[ue/ue.d.ts:5106](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5106)
 
 ___
 
@@ -167,10 +159,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[CurrentSkeleton](ue_ue.AnimInstance.md#currentskeleton)
 
-#### Defined in
-
-[ue/ue.d.ts:5091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5091)
-
 ___
 
 ### DeltaTime
@@ -180,10 +168,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[DeltaTime](ue_ue.AnimInstance.md#deltatime)
-
-#### Defined in
-
-[ue/ue.d.ts:5093](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5093)
 
 ___
 
@@ -195,10 +179,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[NotifyQueue](ue_ue.AnimInstance.md#notifyqueue)
 
-#### Defined in
-
-[ue/ue.d.ts:5105](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5105)
-
 ___
 
 ### OnAllMontageInstancesEnded
@@ -208,10 +188,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[OnAllMontageInstancesEnded](ue_ue.AnimInstance.md#onallmontageinstancesended)
-
-#### Defined in
-
-[ue/ue.d.ts:5103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5103)
 
 ___
 
@@ -223,10 +199,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[OnMontageBlendingOut](ue_ue.AnimInstance.md#onmontageblendingout)
 
-#### Defined in
-
-[ue/ue.d.ts:5100](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5100)
-
 ___
 
 ### OnMontageEnded
@@ -236,10 +208,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[OnMontageEnded](ue_ue.AnimInstance.md#onmontageended)
-
-#### Defined in
-
-[ue/ue.d.ts:5102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5102)
 
 ___
 
@@ -251,10 +219,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[OnMontageStarted](ue_ue.AnimInstance.md#onmontagestarted)
 
-#### Defined in
-
-[ue/ue.d.ts:5101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5101)
-
 ___
 
 ### PostCompileValidationClassName
@@ -264,10 +228,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[PostCompileValidationClassName](ue_ue.AnimInstance.md#postcompilevalidationclassname)
-
-#### Defined in
-
-[ue/ue.d.ts:5104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5104)
 
 ___
 
@@ -279,19 +239,11 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[RootMotionMode](ue_ue.AnimInstance.md#rootmotionmode)
 
-#### Defined in
-
-[ue/ue.d.ts:5092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5092)
-
 ___
 
 ### WheeledVehicleMovementComponent
 
 • **WheeledVehicleMovementComponent**: [`WheeledVehicleMovementComponent`](ue_ue.WheeledVehicleMovementComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65144)
 
 ___
 
@@ -303,10 +255,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[__tid_AnimInstance__](ue_ue.AnimInstance.md#__tid_animinstance__)
 
-#### Defined in
-
-[ue/ue.d.ts:5180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5180)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -317,19 +265,11 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[__tid_Object__](ue_ue.AnimInstance.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_VehicleAnimInstance\_\_
 
 • **\_\_tid\_VehicleAnimInstance\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:65150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65150)
 
 ___
 
@@ -341,10 +281,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[bCanUseParallelUpdateAnimation](ue_ue.AnimInstance.md#bcanuseparallelupdateanimation)
 
-#### Defined in
-
-[ue/ue.d.ts:5095](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5095)
-
 ___
 
 ### bQueueMontageEvents
@@ -354,10 +290,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[bQueueMontageEvents](ue_ue.AnimInstance.md#bqueuemontageevents)
-
-#### Defined in
-
-[ue/ue.d.ts:5099](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5099)
 
 ___
 
@@ -369,10 +301,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[bRunUpdatesInWorkerThreads](ue_ue.AnimInstance.md#brunupdatesinworkerthreads)
 
-#### Defined in
-
-[ue/ue.d.ts:5094](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5094)
-
 ___
 
 ### bUseMultiThreadedAnimationUpdate
@@ -382,10 +310,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[bUseMultiThreadedAnimationUpdate](ue_ue.AnimInstance.md#busemultithreadedanimationupdate)
-
-#### Defined in
-
-[ue/ue.d.ts:5097](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5097)
 
 ___
 
@@ -397,10 +321,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[bUsingCopyPoseFromMesh](ue_ue.AnimInstance.md#busingcopyposefrommesh)
 
-#### Defined in
-
-[ue/ue.d.ts:5098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5098)
-
 ___
 
 ### bWarnAboutBlueprintUsage
@@ -410,10 +330,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[bWarnAboutBlueprintUsage](ue_ue.AnimInstance.md#bwarnaboutblueprintusage)
-
-#### Defined in
-
-[ue/ue.d.ts:5096](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5096)
 
 ## Methods
 
@@ -429,10 +345,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[BlueprintBeginPlay](ue_ue.AnimInstance.md#blueprintbeginplay)
 
-#### Defined in
-
-[ue/ue.d.ts:5107](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5107)
-
 ___
 
 ### BlueprintInitializeAnimation
@@ -447,10 +359,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[BlueprintInitializeAnimation](ue_ue.AnimInstance.md#blueprintinitializeanimation)
 
-#### Defined in
-
-[ue/ue.d.ts:5108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5108)
-
 ___
 
 ### BlueprintPostEvaluateAnimation
@@ -464,10 +372,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[BlueprintPostEvaluateAnimation](ue_ue.AnimInstance.md#blueprintpostevaluateanimation)
-
-#### Defined in
-
-[ue/ue.d.ts:5109](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5109)
 
 ___
 
@@ -488,10 +392,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[BlueprintUpdateAnimation](ue_ue.AnimInstance.md#blueprintupdateanimation)
-
-#### Defined in
-
-[ue/ue.d.ts:5110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5110)
 
 ___
 
@@ -514,10 +414,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[CalculateDirection](ue_ue.AnimInstance.md#calculatedirection)
 
-#### Defined in
-
-[ue/ue.d.ts:5111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5111)
-
 ___
 
 ### ClearMorphTargets
@@ -531,10 +427,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[ClearMorphTargets](ue_ue.AnimInstance.md#clearmorphtargets)
-
-#### Defined in
-
-[ue/ue.d.ts:5112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5112)
 
 ___
 
@@ -560,10 +452,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[CreateDefaultSubobject](ue_ue.AnimInstance.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -583,10 +471,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[ExecuteUbergraph](ue_ue.AnimInstance.md#executeubergraph)
-
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
 
 ___
 
@@ -609,10 +493,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetActiveCurveNames](ue_ue.AnimInstance.md#getactivecurvenames)
 
-#### Defined in
-
-[ue/ue.d.ts:5113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5113)
-
 ___
 
 ### GetAllCurveNames
@@ -633,10 +513,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetAllCurveNames](ue_ue.AnimInstance.md#getallcurvenames)
 
-#### Defined in
-
-[ue/ue.d.ts:5114](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5114)
-
 ___
 
 ### GetClass
@@ -651,10 +527,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetClass](ue_ue.AnimInstance.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetCurrentActiveMontage
@@ -668,10 +540,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetCurrentActiveMontage](ue_ue.AnimInstance.md#getcurrentactivemontage)
-
-#### Defined in
-
-[ue/ue.d.ts:5115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5115)
 
 ___
 
@@ -693,10 +561,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetCurrentStateName](ue_ue.AnimInstance.md#getcurrentstatename)
 
-#### Defined in
-
-[ue/ue.d.ts:5116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5116)
-
 ___
 
 ### GetCurveValue
@@ -716,10 +580,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetCurveValue](ue_ue.AnimInstance.md#getcurvevalue)
-
-#### Defined in
-
-[ue/ue.d.ts:5117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5117)
 
 ___
 
@@ -741,10 +601,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetInstanceAssetPlayerLength](ue_ue.AnimInstance.md#getinstanceassetplayerlength)
 
-#### Defined in
-
-[ue/ue.d.ts:5118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5118)
-
 ___
 
 ### GetInstanceAssetPlayerTime
@@ -764,10 +620,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetInstanceAssetPlayerTime](ue_ue.AnimInstance.md#getinstanceassetplayertime)
-
-#### Defined in
-
-[ue/ue.d.ts:5119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5119)
 
 ___
 
@@ -789,10 +641,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetInstanceAssetPlayerTimeFraction](ue_ue.AnimInstance.md#getinstanceassetplayertimefraction)
 
-#### Defined in
-
-[ue/ue.d.ts:5120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5120)
-
 ___
 
 ### GetInstanceAssetPlayerTimeFromEnd
@@ -812,10 +660,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetInstanceAssetPlayerTimeFromEnd](ue_ue.AnimInstance.md#getinstanceassetplayertimefromend)
-
-#### Defined in
-
-[ue/ue.d.ts:5121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5121)
 
 ___
 
@@ -837,10 +681,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetInstanceAssetPlayerTimeFromEndFraction](ue_ue.AnimInstance.md#getinstanceassetplayertimefromendfraction)
 
-#### Defined in
-
-[ue/ue.d.ts:5122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5122)
-
 ___
 
 ### GetInstanceCurrentStateElapsedTime
@@ -861,10 +701,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetInstanceCurrentStateElapsedTime](ue_ue.AnimInstance.md#getinstancecurrentstateelapsedtime)
 
-#### Defined in
-
-[ue/ue.d.ts:5123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5123)
-
 ___
 
 ### GetInstanceMachineWeight
@@ -884,10 +720,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetInstanceMachineWeight](ue_ue.AnimInstance.md#getinstancemachineweight)
-
-#### Defined in
-
-[ue/ue.d.ts:5124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5124)
 
 ___
 
@@ -910,10 +742,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetInstanceStateWeight](ue_ue.AnimInstance.md#getinstancestateweight)
 
-#### Defined in
-
-[ue/ue.d.ts:5125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5125)
-
 ___
 
 ### GetInstanceTransitionCrossfadeDuration
@@ -934,10 +762,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetInstanceTransitionCrossfadeDuration](ue_ue.AnimInstance.md#getinstancetransitioncrossfadeduration)
-
-#### Defined in
-
-[ue/ue.d.ts:5126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5126)
 
 ___
 
@@ -960,10 +784,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetInstanceTransitionTimeElapsed](ue_ue.AnimInstance.md#getinstancetransitiontimeelapsed)
 
-#### Defined in
-
-[ue/ue.d.ts:5127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5127)
-
 ___
 
 ### GetInstanceTransitionTimeElapsedFraction
@@ -985,10 +805,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetInstanceTransitionTimeElapsedFraction](ue_ue.AnimInstance.md#getinstancetransitiontimeelapsedfraction)
 
-#### Defined in
-
-[ue/ue.d.ts:5128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5128)
-
 ___
 
 ### GetLinkedAnimGraphInstanceByTag
@@ -1008,10 +824,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetLinkedAnimGraphInstanceByTag](ue_ue.AnimInstance.md#getlinkedanimgraphinstancebytag)
-
-#### Defined in
-
-[ue/ue.d.ts:5129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5129)
 
 ___
 
@@ -1034,10 +846,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetLinkedAnimGraphInstancesByTag](ue_ue.AnimInstance.md#getlinkedanimgraphinstancesbytag)
 
-#### Defined in
-
-[ue/ue.d.ts:5130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5130)
-
 ___
 
 ### GetLinkedAnimLayerInstanceByClass
@@ -1057,10 +865,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetLinkedAnimLayerInstanceByClass](ue_ue.AnimInstance.md#getlinkedanimlayerinstancebyclass)
-
-#### Defined in
-
-[ue/ue.d.ts:5131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5131)
 
 ___
 
@@ -1082,10 +886,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetLinkedAnimLayerInstanceByGroup](ue_ue.AnimInstance.md#getlinkedanimlayerinstancebygroup)
 
-#### Defined in
-
-[ue/ue.d.ts:5132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5132)
-
 ___
 
 ### GetName
@@ -1099,10 +899,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetName](ue_ue.AnimInstance.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -1118,10 +914,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetOuter](ue_ue.AnimInstance.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetOwningActor
@@ -1136,10 +928,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetOwningActor](ue_ue.AnimInstance.md#getowningactor)
 
-#### Defined in
-
-[ue/ue.d.ts:5133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5133)
-
 ___
 
 ### GetOwningComponent
@@ -1153,10 +941,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetOwningComponent](ue_ue.AnimInstance.md#getowningcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:5134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5134)
 
 ___
 
@@ -1179,10 +963,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetRelevantAnimLength](ue_ue.AnimInstance.md#getrelevantanimlength)
 
-#### Defined in
-
-[ue/ue.d.ts:5135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5135)
-
 ___
 
 ### GetRelevantAnimTime
@@ -1203,10 +983,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetRelevantAnimTime](ue_ue.AnimInstance.md#getrelevantanimtime)
-
-#### Defined in
-
-[ue/ue.d.ts:5136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5136)
 
 ___
 
@@ -1229,10 +1005,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetRelevantAnimTimeFraction](ue_ue.AnimInstance.md#getrelevantanimtimefraction)
 
-#### Defined in
-
-[ue/ue.d.ts:5137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5137)
-
 ___
 
 ### GetRelevantAnimTimeRemaining
@@ -1253,10 +1025,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetRelevantAnimTimeRemaining](ue_ue.AnimInstance.md#getrelevantanimtimeremaining)
-
-#### Defined in
-
-[ue/ue.d.ts:5138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5138)
 
 ___
 
@@ -1279,10 +1047,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetRelevantAnimTimeRemainingFraction](ue_ue.AnimInstance.md#getrelevantanimtimeremainingfraction)
 
-#### Defined in
-
-[ue/ue.d.ts:5139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5139)
-
 ___
 
 ### GetSyncGroupPosition
@@ -1302,10 +1066,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetSyncGroupPosition](ue_ue.AnimInstance.md#getsyncgroupposition)
-
-#### Defined in
-
-[ue/ue.d.ts:5140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5140)
 
 ___
 
@@ -1329,10 +1089,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetTimeToClosestMarker](ue_ue.AnimInstance.md#gettimetoclosestmarker)
 
-#### Defined in
-
-[ue/ue.d.ts:5141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5141)
-
 ___
 
 ### GetVehicle
@@ -1342,10 +1098,6 @@ ___
 #### Returns
 
 [`WheeledVehicle`](ue_ue.WheeledVehicle.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65145)
 
 ___
 
@@ -1360,10 +1112,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[GetWorld](ue_ue.AnimInstance.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -1386,10 +1134,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[HasMarkerBeenHitThisFrame](ue_ue.AnimInstance.md#hasmarkerbeenhitthisframe)
 
-#### Defined in
-
-[ue/ue.d.ts:5142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5142)
-
 ___
 
 ### IsAnyMontagePlaying
@@ -1403,10 +1147,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[IsAnyMontagePlaying](ue_ue.AnimInstance.md#isanymontageplaying)
-
-#### Defined in
-
-[ue/ue.d.ts:5143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5143)
 
 ___
 
@@ -1428,10 +1168,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[IsPlayingSlotAnimation](ue_ue.AnimInstance.md#isplayingslotanimation)
-
-#### Defined in
-
-[ue/ue.d.ts:5144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5144)
 
 ___
 
@@ -1456,10 +1192,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[IsSyncGroupBetweenMarkers](ue_ue.AnimInstance.md#issyncgroupbetweenmarkers)
 
-#### Defined in
-
-[ue/ue.d.ts:5145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5145)
-
 ___
 
 ### LinkAnimClassLayers
@@ -1479,10 +1211,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[LinkAnimClassLayers](ue_ue.AnimInstance.md#linkanimclasslayers)
-
-#### Defined in
-
-[ue/ue.d.ts:5146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5146)
 
 ___
 
@@ -1505,10 +1233,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[LinkAnimGraphByTag](ue_ue.AnimInstance.md#linkanimgraphbytag)
 
-#### Defined in
-
-[ue/ue.d.ts:5147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5147)
-
 ___
 
 ### LockAIResources
@@ -1530,10 +1254,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[LockAIResources](ue_ue.AnimInstance.md#lockairesources)
 
-#### Defined in
-
-[ue/ue.d.ts:5148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5148)
-
 ___
 
 ### Montage\_GetBlendTime
@@ -1553,10 +1273,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[Montage_GetBlendTime](ue_ue.AnimInstance.md#montage_getblendtime)
-
-#### Defined in
-
-[ue/ue.d.ts:5149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5149)
 
 ___
 
@@ -1578,10 +1294,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[Montage_GetCurrentSection](ue_ue.AnimInstance.md#montage_getcurrentsection)
 
-#### Defined in
-
-[ue/ue.d.ts:5150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5150)
-
 ___
 
 ### Montage\_GetIsStopped
@@ -1601,10 +1313,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[Montage_GetIsStopped](ue_ue.AnimInstance.md#montage_getisstopped)
-
-#### Defined in
-
-[ue/ue.d.ts:5151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5151)
 
 ___
 
@@ -1626,10 +1334,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[Montage_GetPlayRate](ue_ue.AnimInstance.md#montage_getplayrate)
 
-#### Defined in
-
-[ue/ue.d.ts:5152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5152)
-
 ___
 
 ### Montage\_GetPosition
@@ -1649,10 +1353,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[Montage_GetPosition](ue_ue.AnimInstance.md#montage_getposition)
-
-#### Defined in
-
-[ue/ue.d.ts:5153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5153)
 
 ___
 
@@ -1674,10 +1374,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[Montage_IsActive](ue_ue.AnimInstance.md#montage_isactive)
 
-#### Defined in
-
-[ue/ue.d.ts:5154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5154)
-
 ___
 
 ### Montage\_IsPlaying
@@ -1697,10 +1393,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[Montage_IsPlaying](ue_ue.AnimInstance.md#montage_isplaying)
-
-#### Defined in
-
-[ue/ue.d.ts:5155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5155)
 
 ___
 
@@ -1723,10 +1415,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[Montage_JumpToSection](ue_ue.AnimInstance.md#montage_jumptosection)
 
-#### Defined in
-
-[ue/ue.d.ts:5156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5156)
-
 ___
 
 ### Montage\_JumpToSectionsEnd
@@ -1748,10 +1436,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[Montage_JumpToSectionsEnd](ue_ue.AnimInstance.md#montage_jumptosectionsend)
 
-#### Defined in
-
-[ue/ue.d.ts:5157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5157)
-
 ___
 
 ### Montage\_Pause
@@ -1771,10 +1455,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[Montage_Pause](ue_ue.AnimInstance.md#montage_pause)
-
-#### Defined in
-
-[ue/ue.d.ts:5158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5158)
 
 ___
 
@@ -1800,10 +1480,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[Montage_Play](ue_ue.AnimInstance.md#montage_play)
 
-#### Defined in
-
-[ue/ue.d.ts:5159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5159)
-
 ___
 
 ### Montage\_Resume
@@ -1823,10 +1499,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[Montage_Resume](ue_ue.AnimInstance.md#montage_resume)
-
-#### Defined in
-
-[ue/ue.d.ts:5160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5160)
 
 ___
 
@@ -1850,10 +1522,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[Montage_SetNextSection](ue_ue.AnimInstance.md#montage_setnextsection)
 
-#### Defined in
-
-[ue/ue.d.ts:5161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5161)
-
 ___
 
 ### Montage\_SetPlayRate
@@ -1874,10 +1542,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[Montage_SetPlayRate](ue_ue.AnimInstance.md#montage_setplayrate)
-
-#### Defined in
-
-[ue/ue.d.ts:5162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5162)
 
 ___
 
@@ -1900,10 +1564,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[Montage_SetPosition](ue_ue.AnimInstance.md#montage_setposition)
 
-#### Defined in
-
-[ue/ue.d.ts:5163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5163)
-
 ___
 
 ### Montage\_Stop
@@ -1924,10 +1584,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[Montage_Stop](ue_ue.AnimInstance.md#montage_stop)
-
-#### Defined in
-
-[ue/ue.d.ts:5164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5164)
 
 ___
 
@@ -1953,10 +1609,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[PlaySlotAnimation](ue_ue.AnimInstance.md#playslotanimation)
-
-#### Defined in
-
-[ue/ue.d.ts:5165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5165)
 
 ___
 
@@ -1985,10 +1637,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[PlaySlotAnimationAsDynamicMontage](ue_ue.AnimInstance.md#playslotanimationasdynamicmontage)
 
-#### Defined in
-
-[ue/ue.d.ts:5166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5166)
-
 ___
 
 ### ResetDynamics
@@ -2009,10 +1657,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[ResetDynamics](ue_ue.AnimInstance.md#resetdynamics)
 
-#### Defined in
-
-[ue/ue.d.ts:5167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5167)
-
 ___
 
 ### SavePoseSnapshot
@@ -2032,10 +1676,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[SavePoseSnapshot](ue_ue.AnimInstance.md#saveposesnapshot)
-
-#### Defined in
-
-[ue/ue.d.ts:5168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5168)
 
 ___
 
@@ -2058,10 +1698,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[SetMorphTarget](ue_ue.AnimInstance.md#setmorphtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:5169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5169)
-
 ___
 
 ### SetRootMotionMode
@@ -2082,10 +1718,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[SetRootMotionMode](ue_ue.AnimInstance.md#setrootmotionmode)
 
-#### Defined in
-
-[ue/ue.d.ts:5170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5170)
-
 ___
 
 ### SnapshotPose
@@ -2105,10 +1737,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[SnapshotPose](ue_ue.AnimInstance.md#snapshotpose)
-
-#### Defined in
-
-[ue/ue.d.ts:5171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5171)
 
 ___
 
@@ -2131,10 +1759,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[StopSlotAnimation](ue_ue.AnimInstance.md#stopslotanimation)
 
-#### Defined in
-
-[ue/ue.d.ts:5172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5172)
-
 ___
 
 ### TryGetPawnOwner
@@ -2148,10 +1772,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[TryGetPawnOwner](ue_ue.AnimInstance.md#trygetpawnowner)
-
-#### Defined in
-
-[ue/ue.d.ts:5173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5173)
 
 ___
 
@@ -2172,10 +1792,6 @@ ___
 #### Inherited from
 
 [AnimInstance](ue_ue.AnimInstance.md).[UnlinkAnimClassLayers](ue_ue.AnimInstance.md#unlinkanimclasslayers)
-
-#### Defined in
-
-[ue/ue.d.ts:5174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5174)
 
 ___
 
@@ -2198,10 +1814,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[UnlockAIResources](ue_ue.AnimInstance.md#unlockairesources)
 
-#### Defined in
-
-[ue/ue.d.ts:5175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5175)
-
 ___
 
 ### Find
@@ -2223,10 +1835,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[Find](ue_ue.AnimInstance.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:65147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65147)
-
 ___
 
 ### Load
@@ -2247,10 +1855,6 @@ ___
 
 [AnimInstance](ue_ue.AnimInstance.md).[Load](ue_ue.AnimInstance.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:65148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65148)
-
 ___
 
 ### StaticClass
@@ -2264,7 +1868,3 @@ ___
 #### Overrides
 
 [AnimInstance](ue_ue.AnimInstance.md).[StaticClass](ue_ue.AnimInstance.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:65146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65146)

@@ -20,19 +20,11 @@
 
 • **AllowThroughTonemapper** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31364)
-
 ___
 
 ### Disabled
 
 • **Disabled** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31364)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **EAlphaChannelMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31364)
-
 ___
 
 ### LinearColorSpaceOnly
 
 • **LinearColorSpaceOnly** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31364)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31364)

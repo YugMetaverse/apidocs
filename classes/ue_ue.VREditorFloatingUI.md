@@ -292,10 +292,6 @@
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[constructor](ue_ue.VREditorBaseActor.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:65731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65731)
-
 ## Properties
 
 ### ActorLabel
@@ -305,10 +301,6 @@
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[ActorLabel](ue_ue.VREditorBaseActor.md#actorlabel)
-
-#### Defined in
-
-[ue/ue.d.ts:13176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13176)
 
 ___
 
@@ -320,10 +312,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[AttachmentReplication](ue_ue.VREditorBaseActor.md#attachmentreplication)
 
-#### Defined in
-
-[ue/ue.d.ts:13151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13151)
-
 ___
 
 ### AutoReceiveInput
@@ -333,10 +321,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[AutoReceiveInput](ue_ue.VREditorBaseActor.md#autoreceiveinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13157)
 
 ___
 
@@ -348,10 +332,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[BlueprintCreatedComponents](ue_ue.VREditorBaseActor.md#blueprintcreatedcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13206)
-
 ___
 
 ### Children
@@ -361,10 +341,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[Children](ue_ue.VREditorBaseActor.md#children)
-
-#### Defined in
-
-[ue/ue.d.ts:13166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13166)
 
 ___
 
@@ -376,19 +352,11 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[ControllingMatineeActors](ue_ue.VREditorBaseActor.md#controllingmatineeactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13169)
-
 ___
 
 ### CreationContext
 
 • **CreationContext**: [`VREditorFloatingUICreationContext`](ue_ue.VREditorFloatingUICreationContext.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65732)
 
 ___
 
@@ -400,10 +368,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[CustomTimeDilation](ue_ue.VREditorBaseActor.md#customtimedilation)
 
-#### Defined in
-
-[ue/ue.d.ts:13150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13150)
-
 ___
 
 ### DefaultUpdateOverlapsMethodDuringLevelStreaming
@@ -413,10 +377,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[DefaultUpdateOverlapsMethodDuringLevelStreaming](ue_ue.VREditorBaseActor.md#defaultupdateoverlapsmethodduringlevelstreaming)
-
-#### Defined in
-
-[ue/ue.d.ts:13146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13146)
 
 ___
 
@@ -428,10 +388,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[FolderPath](ue_ue.VREditorBaseActor.md#folderpath)
 
-#### Defined in
-
-[ue/ue.d.ts:13177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13177)
-
 ___
 
 ### GroupActor
@@ -441,10 +397,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GroupActor](ue_ue.VREditorBaseActor.md#groupactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13173)
 
 ___
 
@@ -456,10 +408,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[HiddenEditorViews](ue_ue.VREditorBaseActor.md#hiddeneditorviews)
 
-#### Defined in
-
-[ue/ue.d.ts:13175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13175)
-
 ___
 
 ### InitialLifeSpan
@@ -469,10 +417,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[InitialLifeSpan](ue_ue.VREditorBaseActor.md#initiallifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13149)
 
 ___
 
@@ -484,10 +428,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[InputComponent](ue_ue.VREditorBaseActor.md#inputcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13159)
-
 ___
 
 ### InputPriority
@@ -497,10 +437,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[InputPriority](ue_ue.VREditorBaseActor.md#inputpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:13158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13158)
 
 ___
 
@@ -512,10 +448,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[InstanceComponents](ue_ue.VREditorBaseActor.md#instancecomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13205)
-
 ___
 
 ### Instigator
@@ -525,10 +457,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[Instigator](ue_ue.VREditorBaseActor.md#instigator)
-
-#### Defined in
-
-[ue/ue.d.ts:13165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13165)
 
 ___
 
@@ -540,10 +468,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[Layers](ue_ue.VREditorBaseActor.md#layers)
 
-#### Defined in
-
-[ue/ue.d.ts:13170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13170)
-
 ___
 
 ### MinNetUpdateFrequency
@@ -553,10 +477,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[MinNetUpdateFrequency](ue_ue.VREditorBaseActor.md#minnetupdatefrequency)
-
-#### Defined in
-
-[ue/ue.d.ts:13163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13163)
 
 ___
 
@@ -568,10 +488,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[NetCullDistanceSquared](ue_ue.VREditorBaseActor.md#netculldistancesquared)
 
-#### Defined in
-
-[ue/ue.d.ts:13160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13160)
-
 ___
 
 ### NetDormancy
@@ -581,10 +497,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[NetDormancy](ue_ue.VREditorBaseActor.md#netdormancy)
-
-#### Defined in
-
-[ue/ue.d.ts:13155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13155)
 
 ___
 
@@ -596,10 +508,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[NetDriverName](ue_ue.VREditorBaseActor.md#netdrivername)
 
-#### Defined in
-
-[ue/ue.d.ts:13153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13153)
-
 ___
 
 ### NetPriority
@@ -609,10 +517,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[NetPriority](ue_ue.VREditorBaseActor.md#netpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:13164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13164)
 
 ___
 
@@ -624,10 +528,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[NetTag](ue_ue.VREditorBaseActor.md#nettag)
 
-#### Defined in
-
-[ue/ue.d.ts:13161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13161)
-
 ___
 
 ### NetUpdateFrequency
@@ -637,10 +537,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[NetUpdateFrequency](ue_ue.VREditorBaseActor.md#netupdatefrequency)
-
-#### Defined in
-
-[ue/ue.d.ts:13162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13162)
 
 ___
 
@@ -652,10 +548,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[OnActorBeginOverlap](ue_ue.VREditorBaseActor.md#onactorbeginoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13192)
-
 ___
 
 ### OnActorEndOverlap
@@ -665,10 +557,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[OnActorEndOverlap](ue_ue.VREditorBaseActor.md#onactorendoverlap)
-
-#### Defined in
-
-[ue/ue.d.ts:13193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13193)
 
 ___
 
@@ -680,10 +568,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[OnActorHit](ue_ue.VREditorBaseActor.md#onactorhit)
 
-#### Defined in
-
-[ue/ue.d.ts:13202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13202)
-
 ___
 
 ### OnBeginCursorOver
@@ -693,10 +577,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[OnBeginCursorOver](ue_ue.VREditorBaseActor.md#onbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13194)
 
 ___
 
@@ -708,10 +588,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[OnClicked](ue_ue.VREditorBaseActor.md#onclicked)
 
-#### Defined in
-
-[ue/ue.d.ts:13196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13196)
-
 ___
 
 ### OnDestroyed
@@ -721,10 +597,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[OnDestroyed](ue_ue.VREditorBaseActor.md#ondestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13203)
 
 ___
 
@@ -736,10 +608,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[OnEndCursorOver](ue_ue.VREditorBaseActor.md#onendcursorover)
 
-#### Defined in
-
-[ue/ue.d.ts:13195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13195)
-
 ___
 
 ### OnEndPlay
@@ -749,10 +617,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[OnEndPlay](ue_ue.VREditorBaseActor.md#onendplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13204)
 
 ___
 
@@ -764,10 +628,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[OnInputTouchBegin](ue_ue.VREditorBaseActor.md#oninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:13198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13198)
-
 ___
 
 ### OnInputTouchEnd
@@ -777,10 +637,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[OnInputTouchEnd](ue_ue.VREditorBaseActor.md#oninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:13199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13199)
 
 ___
 
@@ -792,10 +648,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[OnInputTouchEnter](ue_ue.VREditorBaseActor.md#oninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:13200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13200)
-
 ___
 
 ### OnInputTouchLeave
@@ -805,10 +657,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[OnInputTouchLeave](ue_ue.VREditorBaseActor.md#oninputtouchleave)
-
-#### Defined in
-
-[ue/ue.d.ts:13201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13201)
 
 ___
 
@@ -820,10 +668,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[OnReleased](ue_ue.VREditorBaseActor.md#onreleased)
 
-#### Defined in
-
-[ue/ue.d.ts:13197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13197)
-
 ___
 
 ### OnTakeAnyDamage
@@ -833,10 +677,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[OnTakeAnyDamage](ue_ue.VREditorBaseActor.md#ontakeanydamage)
-
-#### Defined in
-
-[ue/ue.d.ts:13189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13189)
 
 ___
 
@@ -848,10 +688,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[OnTakePointDamage](ue_ue.VREditorBaseActor.md#ontakepointdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13190)
-
 ___
 
 ### OnTakeRadialDamage
@@ -861,10 +697,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[OnTakeRadialDamage](ue_ue.VREditorBaseActor.md#ontakeradialdamage)
-
-#### Defined in
-
-[ue/ue.d.ts:13191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13191)
 
 ___
 
@@ -876,10 +708,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[Owner](ue_ue.VREditorBaseActor.md#owner)
 
-#### Defined in
-
-[ue/ue.d.ts:13152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13152)
-
 ___
 
 ### ParentComponent
@@ -889,10 +717,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[ParentComponent](ue_ue.VREditorBaseActor.md#parentcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13172)
 
 ___
 
@@ -904,10 +728,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[ParentComponentActor](ue_ue.VREditorBaseActor.md#parentcomponentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13171)
-
 ___
 
 ### PivotOffset
@@ -917,10 +737,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[PivotOffset](ue_ue.VREditorBaseActor.md#pivotoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:13168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13168)
 
 ___
 
@@ -932,10 +748,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[PrimaryActorTick](ue_ue.VREditorBaseActor.md#primaryactortick)
 
-#### Defined in
-
-[ue/ue.d.ts:13115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13115)
-
 ___
 
 ### RemoteRole
@@ -945,10 +757,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[RemoteRole](ue_ue.VREditorBaseActor.md#remoterole)
-
-#### Defined in
-
-[ue/ue.d.ts:13147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13147)
 
 ___
 
@@ -960,10 +768,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[ReplicatedMovement](ue_ue.VREditorBaseActor.md#replicatedmovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13148)
-
 ___
 
 ### Role
@@ -973,10 +777,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[Role](ue_ue.VREditorBaseActor.md#role)
-
-#### Defined in
-
-[ue/ue.d.ts:13154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13154)
 
 ___
 
@@ -988,10 +788,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[RootComponent](ue_ue.VREditorBaseActor.md#rootcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13167)
-
 ___
 
 ### SpawnCollisionHandlingMethod
@@ -1001,10 +797,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[SpawnCollisionHandlingMethod](ue_ue.VREditorBaseActor.md#spawncollisionhandlingmethod)
-
-#### Defined in
-
-[ue/ue.d.ts:13156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13156)
 
 ___
 
@@ -1016,10 +808,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[SpriteScale](ue_ue.VREditorBaseActor.md#spritescale)
 
-#### Defined in
-
-[ue/ue.d.ts:13174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13174)
-
 ___
 
 ### Tags
@@ -1029,10 +817,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[Tags](ue_ue.VREditorBaseActor.md#tags)
-
-#### Defined in
-
-[ue/ue.d.ts:13188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13188)
 
 ___
 
@@ -1044,29 +828,17 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[UpdateOverlapsMethodDuringLevelStreaming](ue_ue.VREditorBaseActor.md#updateoverlapsmethodduringlevelstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:13145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13145)
-
 ___
 
 ### UserWidget
 
 • **UserWidget**: [`UserWidget`](ue_ue.UserWidget.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65733)
-
 ___
 
 ### UserWidgetClass
 
 • **UserWidgetClass**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65736)
 
 ___
 
@@ -1078,29 +850,17 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[VRMode](ue_ue.VREditorBaseActor.md#vrmode)
 
-#### Defined in
-
-[ue/ue.d.ts:65609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65609)
-
 ___
 
 ### WidgetComponent
 
 • **WidgetComponent**: [`VREditorWidgetComponent`](ue_ue.VREditorWidgetComponent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65734)
-
 ___
 
 ### WindowMeshComponent
 
 • **WindowMeshComponent**: [`StaticMeshComponent`](ue_ue.StaticMeshComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65735)
 
 ___
 
@@ -1112,10 +872,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[__tid_Actor__](ue_ue.VREditorBaseActor.md#__tid_actor__)
 
-#### Defined in
-
-[ue/ue.d.ts:13348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13348)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -1125,10 +881,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[__tid_Object__](ue_ue.VREditorBaseActor.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -1140,19 +892,11 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[__tid_VREditorBaseActor__](ue_ue.VREditorBaseActor.md#__tid_vreditorbaseactor__)
 
-#### Defined in
-
-[ue/ue.d.ts:65614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65614)
-
 ___
 
 ### \_\_tid\_VREditorFloatingUI\_\_
 
 • **\_\_tid\_VREditorFloatingUI\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:65741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65741)
 
 ___
 
@@ -1164,10 +908,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bActorEnableCollision](ue_ue.VREditorBaseActor.md#bactorenablecollision)
 
-#### Defined in
-
-[ue/ue.d.ts:13143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13143)
-
 ___
 
 ### bActorIsBeingDestroyed
@@ -1177,10 +917,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bActorIsBeingDestroyed](ue_ue.VREditorBaseActor.md#bactorisbeingdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13144)
 
 ___
 
@@ -1192,10 +928,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bActorLabelEditable](ue_ue.VREditorBaseActor.md#bactorlabeleditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13183)
-
 ___
 
 ### bActorSeamlessTraveled
@@ -1205,10 +937,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bActorSeamlessTraveled](ue_ue.VREditorBaseActor.md#bactorseamlesstraveled)
-
-#### Defined in
-
-[ue/ue.d.ts:13139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13139)
 
 ___
 
@@ -1220,10 +948,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bAllowReceiveTickEventOnDedicatedServer](ue_ue.VREditorBaseActor.md#ballowreceivetickeventondedicatedserver)
 
-#### Defined in
-
-[ue/ue.d.ts:13142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13142)
-
 ___
 
 ### bAllowTickBeforeBeginPlay
@@ -1233,10 +957,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bAllowTickBeforeBeginPlay](ue_ue.VREditorBaseActor.md#ballowtickbeforebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13129)
 
 ___
 
@@ -1248,10 +968,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bAlwaysRelevant](ue_ue.VREditorBaseActor.md#balwaysrelevant)
 
-#### Defined in
-
-[ue/ue.d.ts:13120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13120)
-
 ___
 
 ### bAutoDestroyWhenFinished
@@ -1261,10 +977,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bAutoDestroyWhenFinished](ue_ue.VREditorBaseActor.md#bautodestroywhenfinished)
-
-#### Defined in
-
-[ue/ue.d.ts:13130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13130)
 
 ___
 
@@ -1276,10 +988,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bBlockInput](ue_ue.VREditorBaseActor.md#bblockinput)
 
-#### Defined in
-
-[ue/ue.d.ts:13131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13131)
-
 ___
 
 ### bCanBeDamaged
@@ -1289,10 +997,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bCanBeDamaged](ue_ue.VREditorBaseActor.md#bcanbedamaged)
-
-#### Defined in
-
-[ue/ue.d.ts:13132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13132)
 
 ___
 
@@ -1304,10 +1008,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bCanBeInCluster](ue_ue.VREditorBaseActor.md#bcanbeincluster)
 
-#### Defined in
-
-[ue/ue.d.ts:13141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13141)
-
 ___
 
 ### bCollideWhenPlacing
@@ -1317,10 +1017,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bCollideWhenPlacing](ue_ue.VREditorBaseActor.md#bcollidewhenplacing)
-
-#### Defined in
-
-[ue/ue.d.ts:13133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13133)
 
 ___
 
@@ -1332,10 +1028,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bEditable](ue_ue.VREditorBaseActor.md#beditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13184)
-
 ___
 
 ### bEnableAutoLODGeneration
@@ -1345,10 +1037,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bEnableAutoLODGeneration](ue_ue.VREditorBaseActor.md#benableautolodgeneration)
-
-#### Defined in
-
-[ue/ue.d.ts:13137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13137)
 
 ___
 
@@ -1360,10 +1048,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bExchangedRoles](ue_ue.VREditorBaseActor.md#bexchangedroles)
 
-#### Defined in
-
-[ue/ue.d.ts:13123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13123)
-
 ___
 
 ### bFindCameraComponentWhenViewTarget
@@ -1373,10 +1057,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bFindCameraComponentWhenViewTarget](ue_ue.VREditorBaseActor.md#bfindcameracomponentwhenviewtarget)
-
-#### Defined in
-
-[ue/ue.d.ts:13134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13134)
 
 ___
 
@@ -1388,10 +1068,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bGenerateOverlapEventsDuringLevelStreaming](ue_ue.VREditorBaseActor.md#bgenerateoverlapeventsduringlevelstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:13135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13135)
-
 ___
 
 ### bHidden
@@ -1401,10 +1077,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bHidden](ue_ue.VREditorBaseActor.md#bhidden)
-
-#### Defined in
-
-[ue/ue.d.ts:13116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13116)
 
 ___
 
@@ -1416,10 +1088,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bHiddenEd](ue_ue.VREditorBaseActor.md#bhiddened)
 
-#### Defined in
-
-[ue/ue.d.ts:13178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13178)
-
 ___
 
 ### bHiddenEdLayer
@@ -1429,10 +1097,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bHiddenEdLayer](ue_ue.VREditorBaseActor.md#bhiddenedlayer)
-
-#### Defined in
-
-[ue/ue.d.ts:13180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13180)
 
 ___
 
@@ -1444,10 +1108,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bHiddenEdLevel](ue_ue.VREditorBaseActor.md#bhiddenedlevel)
 
-#### Defined in
-
-[ue/ue.d.ts:13181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13181)
-
 ___
 
 ### bHiddenEdTemporary
@@ -1457,10 +1117,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bHiddenEdTemporary](ue_ue.VREditorBaseActor.md#bhiddenedtemporary)
-
-#### Defined in
-
-[ue/ue.d.ts:13187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13187)
 
 ___
 
@@ -1472,10 +1128,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bIgnoresOriginShifting](ue_ue.VREditorBaseActor.md#bignoresoriginshifting)
 
-#### Defined in
-
-[ue/ue.d.ts:13136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13136)
-
 ___
 
 ### bIsEditorOnlyActor
@@ -1485,10 +1137,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bIsEditorOnlyActor](ue_ue.VREditorBaseActor.md#biseditoronlyactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13138)
 
 ___
 
@@ -1500,10 +1148,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bIsEditorPreviewActor](ue_ue.VREditorBaseActor.md#biseditorpreviewactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13179)
-
 ___
 
 ### bListedInSceneOutliner
@@ -1513,10 +1157,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bListedInSceneOutliner](ue_ue.VREditorBaseActor.md#blistedinsceneoutliner)
-
-#### Defined in
-
-[ue/ue.d.ts:13185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13185)
 
 ___
 
@@ -1528,10 +1168,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bLockLocation](ue_ue.VREditorBaseActor.md#blocklocation)
 
-#### Defined in
-
-[ue/ue.d.ts:13182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13182)
-
 ___
 
 ### bNetLoadOnClient
@@ -1541,10 +1177,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bNetLoadOnClient](ue_ue.VREditorBaseActor.md#bnetloadonclient)
-
-#### Defined in
-
-[ue/ue.d.ts:13124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13124)
 
 ___
 
@@ -1556,10 +1188,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bNetStartup](ue_ue.VREditorBaseActor.md#bnetstartup)
 
-#### Defined in
-
-[ue/ue.d.ts:13118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13118)
-
 ___
 
 ### bNetTemporary
@@ -1569,10 +1197,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bNetTemporary](ue_ue.VREditorBaseActor.md#bnettemporary)
-
-#### Defined in
-
-[ue/ue.d.ts:13117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13117)
 
 ___
 
@@ -1584,10 +1208,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bNetUseOwnerRelevancy](ue_ue.VREditorBaseActor.md#bnetuseownerrelevancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13125)
-
 ___
 
 ### bOnlyRelevantToOwner
@@ -1597,10 +1217,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bOnlyRelevantToOwner](ue_ue.VREditorBaseActor.md#bonlyrelevanttoowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13119)
 
 ___
 
@@ -1612,10 +1228,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bOptimizeBPComponentData](ue_ue.VREditorBaseActor.md#boptimizebpcomponentdata)
 
-#### Defined in
-
-[ue/ue.d.ts:13186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13186)
-
 ___
 
 ### bRelevantForLevelBounds
@@ -1625,10 +1237,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bRelevantForLevelBounds](ue_ue.VREditorBaseActor.md#brelevantforlevelbounds)
-
-#### Defined in
-
-[ue/ue.d.ts:13127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13127)
 
 ___
 
@@ -1640,10 +1248,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bRelevantForNetworkReplays](ue_ue.VREditorBaseActor.md#brelevantfornetworkreplays)
 
-#### Defined in
-
-[ue/ue.d.ts:13126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13126)
-
 ___
 
 ### bReplayRewindable
@@ -1653,10 +1257,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bReplayRewindable](ue_ue.VREditorBaseActor.md#breplayrewindable)
-
-#### Defined in
-
-[ue/ue.d.ts:13128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13128)
 
 ___
 
@@ -1668,10 +1268,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bReplicateMovement](ue_ue.VREditorBaseActor.md#breplicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13121)
-
 ___
 
 ### bReplicates
@@ -1682,10 +1278,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bReplicates](ue_ue.VREditorBaseActor.md#breplicates)
 
-#### Defined in
-
-[ue/ue.d.ts:13140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13140)
-
 ___
 
 ### bTearOff
@@ -1695,10 +1287,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[bTearOff](ue_ue.VREditorBaseActor.md#btearoff)
-
-#### Defined in
-
-[ue/ue.d.ts:13122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13122)
 
 ## Methods
 
@@ -1719,10 +1307,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[ActorHasTag](ue_ue.VREditorBaseActor.md#actorhastag)
-
-#### Defined in
-
-[ue/ue.d.ts:13207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13207)
 
 ___
 
@@ -1747,10 +1331,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[AddComponent](ue_ue.VREditorBaseActor.md#addcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13208)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -1771,10 +1351,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[AddTickPrerequisiteActor](ue_ue.VREditorBaseActor.md#addtickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13209)
-
 ___
 
 ### AddTickPrerequisiteComponent
@@ -1794,10 +1370,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[AddTickPrerequisiteComponent](ue_ue.VREditorBaseActor.md#addtickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13210)
 
 ___
 
@@ -1823,10 +1395,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[CreateDefaultSubobject](ue_ue.VREditorBaseActor.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### DetachRootComponentFromParent
@@ -1846,10 +1414,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[DetachRootComponentFromParent](ue_ue.VREditorBaseActor.md#detachrootcomponentfromparent)
-
-#### Defined in
-
-[ue/ue.d.ts:13211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13211)
 
 ___
 
@@ -1871,10 +1435,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[DisableInput](ue_ue.VREditorBaseActor.md#disableinput)
 
-#### Defined in
-
-[ue/ue.d.ts:13212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13212)
-
 ___
 
 ### EnableInput
@@ -1894,10 +1454,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[EnableInput](ue_ue.VREditorBaseActor.md#enableinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13213)
 
 ___
 
@@ -1919,10 +1475,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[ExecuteUbergraph](ue_ue.VREditorBaseActor.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### FlushNetDormancy
@@ -1937,10 +1489,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[FlushNetDormancy](ue_ue.VREditorBaseActor.md#flushnetdormancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13214)
-
 ___
 
 ### ForceNetUpdate
@@ -1954,10 +1502,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[ForceNetUpdate](ue_ue.VREditorBaseActor.md#forcenetupdate)
-
-#### Defined in
-
-[ue/ue.d.ts:13215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13215)
 
 ___
 
@@ -1981,10 +1525,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetActorBounds](ue_ue.VREditorBaseActor.md#getactorbounds)
 
-#### Defined in
-
-[ue/ue.d.ts:13216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13216)
-
 ___
 
 ### GetActorEnableCollision
@@ -1998,10 +1538,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetActorEnableCollision](ue_ue.VREditorBaseActor.md#getactorenablecollision)
-
-#### Defined in
-
-[ue/ue.d.ts:13217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13217)
 
 ___
 
@@ -2024,10 +1560,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetActorEyesViewPoint](ue_ue.VREditorBaseActor.md#getactoreyesviewpoint)
 
-#### Defined in
-
-[ue/ue.d.ts:13218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13218)
-
 ___
 
 ### GetActorForwardVector
@@ -2041,10 +1573,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetActorForwardVector](ue_ue.VREditorBaseActor.md#getactorforwardvector)
-
-#### Defined in
-
-[ue/ue.d.ts:13219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13219)
 
 ___
 
@@ -2060,10 +1588,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetActorLabel](ue_ue.VREditorBaseActor.md#getactorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13220)
-
 ___
 
 ### GetActorRelativeScale3D
@@ -2077,10 +1601,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetActorRelativeScale3D](ue_ue.VREditorBaseActor.md#getactorrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13221)
 
 ___
 
@@ -2096,10 +1616,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetActorRightVector](ue_ue.VREditorBaseActor.md#getactorrightvector)
 
-#### Defined in
-
-[ue/ue.d.ts:13222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13222)
-
 ___
 
 ### GetActorScale3D
@@ -2113,10 +1629,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetActorScale3D](ue_ue.VREditorBaseActor.md#getactorscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13223)
 
 ___
 
@@ -2132,10 +1644,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetActorTickInterval](ue_ue.VREditorBaseActor.md#getactortickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:13224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13224)
-
 ___
 
 ### GetActorTimeDilation
@@ -2150,10 +1658,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetActorTimeDilation](ue_ue.VREditorBaseActor.md#getactortimedilation)
 
-#### Defined in
-
-[ue/ue.d.ts:13225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13225)
-
 ___
 
 ### GetActorUpVector
@@ -2167,10 +1671,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetActorUpVector](ue_ue.VREditorBaseActor.md#getactorupvector)
-
-#### Defined in
-
-[ue/ue.d.ts:13226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13226)
 
 ___
 
@@ -2193,10 +1693,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetAllChildActors](ue_ue.VREditorBaseActor.md#getallchildactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13227)
-
 ___
 
 ### GetAttachParentActor
@@ -2211,10 +1707,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetAttachParentActor](ue_ue.VREditorBaseActor.md#getattachparentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13229)
-
 ___
 
 ### GetAttachParentSocketName
@@ -2228,10 +1720,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetAttachParentSocketName](ue_ue.VREditorBaseActor.md#getattachparentsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:13230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13230)
 
 ___
 
@@ -2254,10 +1742,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetAttachedActors](ue_ue.VREditorBaseActor.md#getattachedactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13228)
-
 ___
 
 ### GetClass
@@ -2271,10 +1755,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetClass](ue_ue.VREditorBaseActor.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -2296,10 +1776,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetComponentByClass](ue_ue.VREditorBaseActor.md#getcomponentbyclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13231)
-
 ___
 
 ### GetComponentsByInterface
@@ -2319,10 +1795,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetComponentsByInterface](ue_ue.VREditorBaseActor.md#getcomponentsbyinterface)
-
-#### Defined in
-
-[ue/ue.d.ts:13232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13232)
 
 ___
 
@@ -2345,10 +1817,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetComponentsByTag](ue_ue.VREditorBaseActor.md#getcomponentsbytag)
 
-#### Defined in
-
-[ue/ue.d.ts:13233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13233)
-
 ___
 
 ### GetDistanceTo
@@ -2368,10 +1836,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetDistanceTo](ue_ue.VREditorBaseActor.md#getdistanceto)
-
-#### Defined in
-
-[ue/ue.d.ts:13234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13234)
 
 ___
 
@@ -2393,10 +1857,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetDotProductTo](ue_ue.VREditorBaseActor.md#getdotproductto)
 
-#### Defined in
-
-[ue/ue.d.ts:13235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13235)
-
 ___
 
 ### GetFolderPath
@@ -2411,10 +1871,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetFolderPath](ue_ue.VREditorBaseActor.md#getfolderpath)
 
-#### Defined in
-
-[ue/ue.d.ts:13236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13236)
-
 ___
 
 ### GetGameTimeSinceCreation
@@ -2428,10 +1884,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetGameTimeSinceCreation](ue_ue.VREditorBaseActor.md#getgametimesincecreation)
-
-#### Defined in
-
-[ue/ue.d.ts:13237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13237)
 
 ___
 
@@ -2453,10 +1905,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetHorizontalDistanceTo](ue_ue.VREditorBaseActor.md#gethorizontaldistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13238)
-
 ___
 
 ### GetHorizontalDotProductTo
@@ -2476,10 +1924,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetHorizontalDotProductTo](ue_ue.VREditorBaseActor.md#gethorizontaldotproductto)
-
-#### Defined in
-
-[ue/ue.d.ts:13239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13239)
 
 ___
 
@@ -2501,10 +1945,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetInputAxisKeyValue](ue_ue.VREditorBaseActor.md#getinputaxiskeyvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:13240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13240)
-
 ___
 
 ### GetInputAxisValue
@@ -2524,10 +1964,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetInputAxisValue](ue_ue.VREditorBaseActor.md#getinputaxisvalue)
-
-#### Defined in
-
-[ue/ue.d.ts:13241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13241)
 
 ___
 
@@ -2549,10 +1985,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetInputVectorAxisValue](ue_ue.VREditorBaseActor.md#getinputvectoraxisvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:13242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13242)
-
 ___
 
 ### GetInstigator
@@ -2566,10 +1998,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetInstigator](ue_ue.VREditorBaseActor.md#getinstigator)
-
-#### Defined in
-
-[ue/ue.d.ts:13243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13243)
 
 ___
 
@@ -2585,10 +2013,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetInstigatorController](ue_ue.VREditorBaseActor.md#getinstigatorcontroller)
 
-#### Defined in
-
-[ue/ue.d.ts:13244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13244)
-
 ___
 
 ### GetLifeSpan
@@ -2602,10 +2026,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetLifeSpan](ue_ue.VREditorBaseActor.md#getlifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13245)
 
 ___
 
@@ -2621,10 +2041,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetLocalRole](ue_ue.VREditorBaseActor.md#getlocalrole)
 
-#### Defined in
-
-[ue/ue.d.ts:13246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13246)
-
 ___
 
 ### GetName
@@ -2639,10 +2055,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetName](ue_ue.VREditorBaseActor.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -2656,10 +2068,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetOuter](ue_ue.VREditorBaseActor.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -2682,10 +2090,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetOverlappingActors](ue_ue.VREditorBaseActor.md#getoverlappingactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13247)
-
 ___
 
 ### GetOverlappingComponents
@@ -2706,10 +2110,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetOverlappingComponents](ue_ue.VREditorBaseActor.md#getoverlappingcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13248)
-
 ___
 
 ### GetOwner
@@ -2723,10 +2123,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetOwner](ue_ue.VREditorBaseActor.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13249)
 
 ___
 
@@ -2742,10 +2138,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetParentActor](ue_ue.VREditorBaseActor.md#getparentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13250)
-
 ___
 
 ### GetParentComponent
@@ -2760,10 +2152,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetParentComponent](ue_ue.VREditorBaseActor.md#getparentcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13251)
-
 ___
 
 ### GetRemoteRole
@@ -2777,10 +2165,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetRemoteRole](ue_ue.VREditorBaseActor.md#getremoterole)
-
-#### Defined in
-
-[ue/ue.d.ts:13252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13252)
 
 ___
 
@@ -2802,10 +2186,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetSquaredDistanceTo](ue_ue.VREditorBaseActor.md#getsquareddistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13253)
-
 ___
 
 ### GetTickableWhenPaused
@@ -2819,10 +2199,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetTickableWhenPaused](ue_ue.VREditorBaseActor.md#gettickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:13254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13254)
 
 ___
 
@@ -2838,10 +2214,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetTransform](ue_ue.VREditorBaseActor.md#gettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13255)
-
 ___
 
 ### GetVelocity
@@ -2855,10 +2227,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetVelocity](ue_ue.VREditorBaseActor.md#getvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:13256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13256)
 
 ___
 
@@ -2880,10 +2248,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetVerticalDistanceTo](ue_ue.VREditorBaseActor.md#getverticaldistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13257)
-
 ___
 
 ### GetWorld
@@ -2897,10 +2261,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[GetWorld](ue_ue.VREditorBaseActor.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -2916,10 +2276,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[HasAuthority](ue_ue.VREditorBaseActor.md#hasauthority)
 
-#### Defined in
-
-[ue/ue.d.ts:13258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13258)
-
 ___
 
 ### IsActorBeingDestroyed
@@ -2933,10 +2289,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[IsActorBeingDestroyed](ue_ue.VREditorBaseActor.md#isactorbeingdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13259)
 
 ___
 
@@ -2952,10 +2304,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[IsActorTickEnabled](ue_ue.VREditorBaseActor.md#isactortickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:13260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13260)
-
 ___
 
 ### IsChildActor
@@ -2969,10 +2317,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[IsChildActor](ue_ue.VREditorBaseActor.md#ischildactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13261)
 
 ___
 
@@ -2988,10 +2332,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[IsEditable](ue_ue.VREditorBaseActor.md#iseditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13262)
-
 ___
 
 ### IsHiddenEd
@@ -3006,10 +2346,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[IsHiddenEd](ue_ue.VREditorBaseActor.md#ishiddened)
 
-#### Defined in
-
-[ue/ue.d.ts:13263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13263)
-
 ___
 
 ### IsHiddenEdAtStartup
@@ -3023,10 +2359,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[IsHiddenEdAtStartup](ue_ue.VREditorBaseActor.md#ishiddenedatstartup)
-
-#### Defined in
-
-[ue/ue.d.ts:13264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13264)
 
 ___
 
@@ -3048,10 +2380,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[IsOverlappingActor](ue_ue.VREditorBaseActor.md#isoverlappingactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13265)
-
 ___
 
 ### IsSelectable
@@ -3065,10 +2393,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[IsSelectable](ue_ue.VREditorBaseActor.md#isselectable)
-
-#### Defined in
-
-[ue/ue.d.ts:13266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13266)
 
 ___
 
@@ -3089,10 +2413,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[IsTemporarilyHiddenInEditor](ue_ue.VREditorBaseActor.md#istemporarilyhiddenineditor)
-
-#### Defined in
-
-[ue/ue.d.ts:13267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13267)
 
 ___
 
@@ -3117,10 +2437,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_AddActorLocalOffset](ue_ue.VREditorBaseActor.md#k2_addactorlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:13268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13268)
-
 ___
 
 ### K2\_AddActorLocalRotation
@@ -3143,10 +2459,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_AddActorLocalRotation](ue_ue.VREditorBaseActor.md#k2_addactorlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13269)
 
 ___
 
@@ -3171,10 +2483,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_AddActorLocalTransform](ue_ue.VREditorBaseActor.md#k2_addactorlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13270)
-
 ___
 
 ### K2\_AddActorWorldOffset
@@ -3197,10 +2505,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_AddActorWorldOffset](ue_ue.VREditorBaseActor.md#k2_addactorworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:13271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13271)
 
 ___
 
@@ -3225,10 +2529,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_AddActorWorldRotation](ue_ue.VREditorBaseActor.md#k2_addactorworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13272)
-
 ___
 
 ### K2\_AddActorWorldTransform
@@ -3251,10 +2551,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_AddActorWorldTransform](ue_ue.VREditorBaseActor.md#k2_addactorworldtransform)
-
-#### Defined in
-
-[ue/ue.d.ts:13273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13273)
 
 ___
 
@@ -3279,10 +2575,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_AttachRootComponentTo](ue_ue.VREditorBaseActor.md#k2_attachrootcomponentto)
 
-#### Defined in
-
-[ue/ue.d.ts:13274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13274)
-
 ___
 
 ### K2\_AttachRootComponentToActor
@@ -3305,10 +2597,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_AttachRootComponentToActor](ue_ue.VREditorBaseActor.md#k2_attachrootcomponenttoactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13275)
 
 ___
 
@@ -3335,10 +2623,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_AttachToActor](ue_ue.VREditorBaseActor.md#k2_attachtoactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13276)
-
 ___
 
 ### K2\_AttachToComponent
@@ -3364,10 +2648,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_AttachToComponent](ue_ue.VREditorBaseActor.md#k2_attachtocomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13277)
-
 ___
 
 ### K2\_DestroyActor
@@ -3381,10 +2661,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_DestroyActor](ue_ue.VREditorBaseActor.md#k2_destroyactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13278)
 
 ___
 
@@ -3405,10 +2681,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_DestroyComponent](ue_ue.VREditorBaseActor.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13279)
 
 ___
 
@@ -3432,10 +2704,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_DetachFromActor](ue_ue.VREditorBaseActor.md#k2_detachfromactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13280)
-
 ___
 
 ### K2\_GetActorLocation
@@ -3450,10 +2718,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_GetActorLocation](ue_ue.VREditorBaseActor.md#k2_getactorlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:13281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13281)
-
 ___
 
 ### K2\_GetActorRotation
@@ -3467,10 +2731,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_GetActorRotation](ue_ue.VREditorBaseActor.md#k2_getactorrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13282)
 
 ___
 
@@ -3492,10 +2752,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_GetComponentsByClass](ue_ue.VREditorBaseActor.md#k2_getcomponentsbyclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13283)
-
 ___
 
 ### K2\_GetRootComponent
@@ -3509,10 +2765,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_GetRootComponent](ue_ue.VREditorBaseActor.md#k2_getrootcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13284)
 
 ___
 
@@ -3534,10 +2786,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_OnBecomeViewTarget](ue_ue.VREditorBaseActor.md#k2_onbecomeviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13285)
-
 ___
 
 ### K2\_OnEndViewTarget
@@ -3558,10 +2806,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_OnEndViewTarget](ue_ue.VREditorBaseActor.md#k2_onendviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13286)
-
 ___
 
 ### K2\_OnReset
@@ -3575,10 +2819,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_OnReset](ue_ue.VREditorBaseActor.md#k2_onreset)
-
-#### Defined in
-
-[ue/ue.d.ts:13287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13287)
 
 ___
 
@@ -3602,10 +2842,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_SetActorLocation](ue_ue.VREditorBaseActor.md#k2_setactorlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13288)
 
 ___
 
@@ -3631,10 +2867,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_SetActorLocationAndRotation](ue_ue.VREditorBaseActor.md#k2_setactorlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13289)
-
 ___
 
 ### K2\_SetActorRelativeLocation
@@ -3657,10 +2889,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_SetActorRelativeLocation](ue_ue.VREditorBaseActor.md#k2_setactorrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13290)
 
 ___
 
@@ -3685,10 +2913,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_SetActorRelativeRotation](ue_ue.VREditorBaseActor.md#k2_setactorrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13291)
-
 ___
 
 ### K2\_SetActorRelativeTransform
@@ -3712,10 +2936,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_SetActorRelativeTransform](ue_ue.VREditorBaseActor.md#k2_setactorrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13292)
-
 ___
 
 ### K2\_SetActorRotation
@@ -3736,10 +2956,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_SetActorRotation](ue_ue.VREditorBaseActor.md#k2_setactorrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13293)
 
 ___
 
@@ -3764,10 +2980,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_SetActorTransform](ue_ue.VREditorBaseActor.md#k2_setactortransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13294)
-
 ___
 
 ### K2\_TeleportTo
@@ -3789,10 +3001,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[K2_TeleportTo](ue_ue.VREditorBaseActor.md#k2_teleportto)
 
-#### Defined in
-
-[ue/ue.d.ts:13295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13295)
-
 ___
 
 ### MakeMIDForMaterial
@@ -3812,10 +3020,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[MakeMIDForMaterial](ue_ue.VREditorBaseActor.md#makemidformaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:13296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13296)
 
 ___
 
@@ -3841,10 +3045,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[MakeNoise](ue_ue.VREditorBaseActor.md#makenoise)
 
-#### Defined in
-
-[ue/ue.d.ts:13297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13297)
-
 ___
 
 ### OnRep\_AttachmentReplication
@@ -3858,10 +3058,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[OnRep_AttachmentReplication](ue_ue.VREditorBaseActor.md#onrep_attachmentreplication)
-
-#### Defined in
-
-[ue/ue.d.ts:13298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13298)
 
 ___
 
@@ -3877,10 +3073,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[OnRep_Instigator](ue_ue.VREditorBaseActor.md#onrep_instigator)
 
-#### Defined in
-
-[ue/ue.d.ts:13299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13299)
-
 ___
 
 ### OnRep\_Owner
@@ -3894,10 +3086,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[OnRep_Owner](ue_ue.VREditorBaseActor.md#onrep_owner)
-
-#### Defined in
-
-[ue/ue.d.ts:13300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13300)
 
 ___
 
@@ -3913,10 +3101,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[OnRep_ReplicateMovement](ue_ue.VREditorBaseActor.md#onrep_replicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13302)
-
 ___
 
 ### OnRep\_ReplicatedMovement
@@ -3930,10 +3114,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[OnRep_ReplicatedMovement](ue_ue.VREditorBaseActor.md#onrep_replicatedmovement)
-
-#### Defined in
-
-[ue/ue.d.ts:13301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13301)
 
 ___
 
@@ -3957,10 +3137,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[PrestreamTextures](ue_ue.VREditorBaseActor.md#prestreamtextures)
 
-#### Defined in
-
-[ue/ue.d.ts:13303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13303)
-
 ___
 
 ### ReceiveActorBeginCursorOver
@@ -3974,10 +3150,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[ReceiveActorBeginCursorOver](ue_ue.VREditorBaseActor.md#receiveactorbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13304)
 
 ___
 
@@ -3999,10 +3171,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[ReceiveActorBeginOverlap](ue_ue.VREditorBaseActor.md#receiveactorbeginoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13305)
-
 ___
 
 ### ReceiveActorEndCursorOver
@@ -4016,10 +3184,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[ReceiveActorEndCursorOver](ue_ue.VREditorBaseActor.md#receiveactorendcursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13306)
 
 ___
 
@@ -4041,10 +3205,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[ReceiveActorEndOverlap](ue_ue.VREditorBaseActor.md#receiveactorendoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13307)
-
 ___
 
 ### ReceiveActorOnClicked
@@ -4064,10 +3224,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[ReceiveActorOnClicked](ue_ue.VREditorBaseActor.md#receiveactoronclicked)
-
-#### Defined in
-
-[ue/ue.d.ts:13308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13308)
 
 ___
 
@@ -4089,10 +3245,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[ReceiveActorOnInputTouchBegin](ue_ue.VREditorBaseActor.md#receiveactoroninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:13309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13309)
-
 ___
 
 ### ReceiveActorOnInputTouchEnd
@@ -4112,10 +3264,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[ReceiveActorOnInputTouchEnd](ue_ue.VREditorBaseActor.md#receiveactoroninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:13310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13310)
 
 ___
 
@@ -4137,10 +3285,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[ReceiveActorOnInputTouchEnter](ue_ue.VREditorBaseActor.md#receiveactoroninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:13311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13311)
-
 ___
 
 ### ReceiveActorOnInputTouchLeave
@@ -4161,10 +3305,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[ReceiveActorOnInputTouchLeave](ue_ue.VREditorBaseActor.md#receiveactoroninputtouchleave)
 
-#### Defined in
-
-[ue/ue.d.ts:13312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13312)
-
 ___
 
 ### ReceiveActorOnReleased
@@ -4184,10 +3324,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[ReceiveActorOnReleased](ue_ue.VREditorBaseActor.md#receiveactoronreleased)
-
-#### Defined in
-
-[ue/ue.d.ts:13313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13313)
 
 ___
 
@@ -4212,10 +3348,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[ReceiveAnyDamage](ue_ue.VREditorBaseActor.md#receiveanydamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13314)
-
 ___
 
 ### ReceiveBeginPlay
@@ -4230,10 +3362,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[ReceiveBeginPlay](ue_ue.VREditorBaseActor.md#receivebeginplay)
 
-#### Defined in
-
-[ue/ue.d.ts:13315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13315)
-
 ___
 
 ### ReceiveDestroyed
@@ -4247,10 +3375,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[ReceiveDestroyed](ue_ue.VREditorBaseActor.md#receivedestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13316)
 
 ___
 
@@ -4271,10 +3395,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[ReceiveEndPlay](ue_ue.VREditorBaseActor.md#receiveendplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13317)
 
 ___
 
@@ -4302,10 +3422,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[ReceiveHit](ue_ue.VREditorBaseActor.md#receivehit)
-
-#### Defined in
-
-[ue/ue.d.ts:13318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13318)
 
 ___
 
@@ -4336,10 +3452,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[ReceivePointDamage](ue_ue.VREditorBaseActor.md#receivepointdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13319)
-
 ___
 
 ### ReceiveRadialDamage
@@ -4365,10 +3477,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[ReceiveRadialDamage](ue_ue.VREditorBaseActor.md#receiveradialdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13320)
-
 ___
 
 ### ReceiveTick
@@ -4388,10 +3496,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[ReceiveTick](ue_ue.VREditorBaseActor.md#receivetick)
-
-#### Defined in
-
-[ue/ue.d.ts:13321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13321)
 
 ___
 
@@ -4413,10 +3517,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[RemoveTickPrerequisiteActor](ue_ue.VREditorBaseActor.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -4436,10 +3536,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[RemoveTickPrerequisiteComponent](ue_ue.VREditorBaseActor.md#removetickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13323)
 
 ___
 
@@ -4461,10 +3557,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[SetActorEnableCollision](ue_ue.VREditorBaseActor.md#setactorenablecollision)
 
-#### Defined in
-
-[ue/ue.d.ts:13324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13324)
-
 ___
 
 ### SetActorHiddenInGame
@@ -4484,10 +3576,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[SetActorHiddenInGame](ue_ue.VREditorBaseActor.md#setactorhiddeningame)
-
-#### Defined in
-
-[ue/ue.d.ts:13325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13325)
 
 ___
 
@@ -4510,10 +3598,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[SetActorLabel](ue_ue.VREditorBaseActor.md#setactorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13326)
-
 ___
 
 ### SetActorRelativeScale3D
@@ -4533,10 +3617,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[SetActorRelativeScale3D](ue_ue.VREditorBaseActor.md#setactorrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13327)
 
 ___
 
@@ -4558,10 +3638,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[SetActorScale3D](ue_ue.VREditorBaseActor.md#setactorscale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:13328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13328)
-
 ___
 
 ### SetActorTickEnabled
@@ -4581,10 +3657,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[SetActorTickEnabled](ue_ue.VREditorBaseActor.md#setactortickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:13329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13329)
 
 ___
 
@@ -4606,10 +3678,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[SetActorTickInterval](ue_ue.VREditorBaseActor.md#setactortickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:13330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13330)
-
 ___
 
 ### SetFolderPath
@@ -4629,10 +3697,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[SetFolderPath](ue_ue.VREditorBaseActor.md#setfolderpath)
-
-#### Defined in
-
-[ue/ue.d.ts:13331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13331)
 
 ___
 
@@ -4654,10 +3718,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[SetIsTemporarilyHiddenInEditor](ue_ue.VREditorBaseActor.md#setistemporarilyhiddenineditor)
 
-#### Defined in
-
-[ue/ue.d.ts:13332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13332)
-
 ___
 
 ### SetLifeSpan
@@ -4677,10 +3737,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[SetLifeSpan](ue_ue.VREditorBaseActor.md#setlifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13333)
 
 ___
 
@@ -4702,10 +3758,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[SetNetDormancy](ue_ue.VREditorBaseActor.md#setnetdormancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13334)
-
 ___
 
 ### SetOwner
@@ -4725,10 +3777,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[SetOwner](ue_ue.VREditorBaseActor.md#setowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13335)
 
 ___
 
@@ -4750,10 +3798,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[SetReplicateMovement](ue_ue.VREditorBaseActor.md#setreplicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13336)
-
 ___
 
 ### SetReplicates
@@ -4773,10 +3817,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[SetReplicates](ue_ue.VREditorBaseActor.md#setreplicates)
-
-#### Defined in
-
-[ue/ue.d.ts:13337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13337)
 
 ___
 
@@ -4798,10 +3838,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[SetTickGroup](ue_ue.VREditorBaseActor.md#settickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:13339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13339)
-
 ___
 
 ### SetTickableWhenPaused
@@ -4821,10 +3857,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[SetTickableWhenPaused](ue_ue.VREditorBaseActor.md#settickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:13338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13338)
 
 ___
 
@@ -4847,10 +3879,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[SnapRootComponentTo](ue_ue.VREditorBaseActor.md#snaprootcomponentto)
 
-#### Defined in
-
-[ue/ue.d.ts:13340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13340)
-
 ___
 
 ### TearOff
@@ -4865,10 +3893,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[TearOff](ue_ue.VREditorBaseActor.md#tearoff)
 
-#### Defined in
-
-[ue/ue.d.ts:13341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13341)
-
 ___
 
 ### UserConstructionScript
@@ -4882,10 +3906,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[UserConstructionScript](ue_ue.VREditorBaseActor.md#userconstructionscript)
-
-#### Defined in
-
-[ue/ue.d.ts:13342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13342)
 
 ___
 
@@ -4906,10 +3926,6 @@ ___
 #### Inherited from
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[WasRecentlyRendered](ue_ue.VREditorBaseActor.md#wasrecentlyrendered)
-
-#### Defined in
-
-[ue/ue.d.ts:13343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13343)
 
 ___
 
@@ -4932,10 +3948,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[Find](ue_ue.VREditorBaseActor.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:65738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65738)
-
 ___
 
 ### Load
@@ -4956,10 +3968,6 @@ ___
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[Load](ue_ue.VREditorBaseActor.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:65739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65739)
-
 ___
 
 ### StaticClass
@@ -4973,7 +3981,3 @@ ___
 #### Overrides
 
 [VREditorBaseActor](ue_ue.VREditorBaseActor.md).[StaticClass](ue_ue.VREditorBaseActor.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:65737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65737)

@@ -20,19 +20,11 @@
 
 • **AngleWeighted** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8962)
-
 ___
 
 ### AreaWeighted
 
 • **AreaWeighted** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8962)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **EProxyNormalComputationMethod\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8962)
-
 ___
 
 ### EqualWeighted
 
 • **EqualWeighted** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8962)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8962)

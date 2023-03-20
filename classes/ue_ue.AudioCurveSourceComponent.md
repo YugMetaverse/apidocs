@@ -260,10 +260,6 @@
 
 [AudioComponent](ue_ue.AudioComponent.md).[constructor](ue_ue.AudioComponent.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:22383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22383)
-
 ## Properties
 
 ### AssetUserData
@@ -273,10 +269,6 @@
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[AssetUserData](ue_ue.AudioComponent.md#assetuserdata)
-
-#### Defined in
-
-[ue/ue.d.ts:291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L291)
 
 ___
 
@@ -288,10 +280,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[AttachChildren](ue_ue.AudioComponent.md#attachchildren)
 
-#### Defined in
-
-[ue/ue.d.ts:12873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12873)
-
 ___
 
 ### AttachParent
@@ -301,10 +289,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[AttachParent](ue_ue.AudioComponent.md#attachparent)
-
-#### Defined in
-
-[ue/ue.d.ts:12871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12871)
 
 ___
 
@@ -316,10 +300,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[AttachSocketName](ue_ue.AudioComponent.md#attachsocketname)
 
-#### Defined in
-
-[ue/ue.d.ts:12872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12872)
-
 ___
 
 ### AttenuationOverrides
@@ -329,10 +309,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[AttenuationOverrides](ue_ue.AudioComponent.md#attenuationoverrides)
-
-#### Defined in
-
-[ue/ue.d.ts:16286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16286)
 
 ___
 
@@ -344,10 +320,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[AttenuationSettings](ue_ue.AudioComponent.md#attenuationsettings)
 
-#### Defined in
-
-[ue/ue.d.ts:16285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16285)
-
 ___
 
 ### AudioComponentUserID
@@ -357,10 +329,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[AudioComponentUserID](ue_ue.AudioComponent.md#audiocomponentuserid)
-
-#### Defined in
-
-[ue/ue.d.ts:16270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16270)
 
 ___
 
@@ -372,10 +340,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[AutoAttachLocationRule](ue_ue.AudioComponent.md#autoattachlocationrule)
 
-#### Defined in
-
-[ue/ue.d.ts:16289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16289)
-
 ___
 
 ### AutoAttachParent
@@ -385,10 +349,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[AutoAttachParent](ue_ue.AudioComponent.md#autoattachparent)
-
-#### Defined in
-
-[ue/ue.d.ts:16298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16298)
 
 ___
 
@@ -400,10 +360,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[AutoAttachRotationRule](ue_ue.AudioComponent.md#autoattachrotationrule)
 
-#### Defined in
-
-[ue/ue.d.ts:16290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16290)
-
 ___
 
 ### AutoAttachScaleRule
@@ -413,10 +369,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[AutoAttachScaleRule](ue_ue.AudioComponent.md#autoattachscalerule)
-
-#### Defined in
-
-[ue/ue.d.ts:16291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16291)
 
 ___
 
@@ -428,10 +380,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[AutoAttachSocketName](ue_ue.AudioComponent.md#autoattachsocketname)
 
-#### Defined in
-
-[ue/ue.d.ts:16299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16299)
-
 ___
 
 ### ClientAttachedChildren
@@ -441,10 +389,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[ClientAttachedChildren](ue_ue.AudioComponent.md#clientattachedchildren)
-
-#### Defined in
-
-[ue/ue.d.ts:12874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12874)
 
 ___
 
@@ -456,10 +400,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[ComponentTags](ue_ue.AudioComponent.md#componenttags)
 
-#### Defined in
-
-[ue/ue.d.ts:290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L290)
-
 ___
 
 ### ComponentVelocity
@@ -469,10 +409,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[ComponentVelocity](ue_ue.AudioComponent.md#componentvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12878)
 
 ___
 
@@ -484,10 +420,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[ConcurrencySet](ue_ue.AudioComponent.md#concurrencyset)
 
-#### Defined in
-
-[ue/ue.d.ts:16288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16288)
-
 ___
 
 ### ConcurrencySettings
@@ -497,10 +429,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[ConcurrencySettings](ue_ue.AudioComponent.md#concurrencysettings)
-
-#### Defined in
-
-[ue/ue.d.ts:16287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16287)
 
 ___
 
@@ -512,29 +440,17 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[CreationMethod](ue_ue.AudioComponent.md#creationmethod)
 
-#### Defined in
-
-[ue/ue.d.ts:302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L302)
-
 ___
 
 ### CurveSourceBindingName
 
 • **CurveSourceBindingName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:22384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22384)
-
 ___
 
 ### CurveSyncOffset
 
 • **CurveSyncOffset**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22385)
 
 ___
 
@@ -546,10 +462,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[DetailMode](ue_ue.AudioComponent.md#detailmode)
 
-#### Defined in
-
-[ue/ue.d.ts:12893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12893)
-
 ___
 
 ### EnvelopeFollowerAttackTime
@@ -559,10 +471,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[EnvelopeFollowerAttackTime](ue_ue.AudioComponent.md#envelopefollowerattacktime)
-
-#### Defined in
-
-[ue/ue.d.ts:16276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16276)
 
 ___
 
@@ -574,10 +482,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[EnvelopeFollowerReleaseTime](ue_ue.AudioComponent.md#envelopefollowerreleasetime)
 
-#### Defined in
-
-[ue/ue.d.ts:16277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16277)
-
 ___
 
 ### HighFrequencyGainMultiplier
@@ -587,10 +491,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[HighFrequencyGainMultiplier](ue_ue.AudioComponent.md#highfrequencygainmultiplier)
-
-#### Defined in
-
-[ue/ue.d.ts:16282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16282)
 
 ___
 
@@ -602,10 +502,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[InstanceParameters](ue_ue.AudioComponent.md#instanceparameters)
 
-#### Defined in
-
-[ue/ue.d.ts:16257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16257)
-
 ___
 
 ### LowPassFilterFrequency
@@ -615,10 +511,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[LowPassFilterFrequency](ue_ue.AudioComponent.md#lowpassfilterfrequency)
-
-#### Defined in
-
-[ue/ue.d.ts:16284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16284)
 
 ___
 
@@ -630,10 +522,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[Mobility](ue_ue.AudioComponent.md#mobility)
 
-#### Defined in
-
-[ue/ue.d.ts:12892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12892)
-
 ___
 
 ### Modulation
@@ -643,10 +531,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[Modulation](ue_ue.AudioComponent.md#modulation)
-
-#### Defined in
-
-[ue/ue.d.ts:16296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16296)
 
 ___
 
@@ -658,10 +542,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[OnAudioFinished](ue_ue.AudioComponent.md#onaudiofinished)
 
-#### Defined in
-
-[ue/ue.d.ts:16292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16292)
-
 ___
 
 ### OnAudioMultiEnvelopeValue
@@ -671,10 +551,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[OnAudioMultiEnvelopeValue](ue_ue.AudioComponent.md#onaudiomultienvelopevalue)
-
-#### Defined in
-
-[ue/ue.d.ts:16295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16295)
 
 ___
 
@@ -686,10 +562,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[OnAudioPlaybackPercent](ue_ue.AudioComponent.md#onaudioplaybackpercent)
 
-#### Defined in
-
-[ue/ue.d.ts:16293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16293)
-
 ___
 
 ### OnAudioSingleEnvelopeValue
@@ -699,10 +571,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[OnAudioSingleEnvelopeValue](ue_ue.AudioComponent.md#onaudiosingleenvelopevalue)
-
-#### Defined in
-
-[ue/ue.d.ts:16294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16294)
 
 ___
 
@@ -714,10 +582,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[OnComponentActivated](ue_ue.AudioComponent.md#oncomponentactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L303)
-
 ___
 
 ### OnComponentDeactivated
@@ -727,10 +591,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[OnComponentDeactivated](ue_ue.AudioComponent.md#oncomponentdeactivated)
-
-#### Defined in
-
-[ue/ue.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L304)
 
 ___
 
@@ -742,10 +602,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[OnQueueSubtitles](ue_ue.AudioComponent.md#onqueuesubtitles)
 
-#### Defined in
-
-[ue/ue.d.ts:16297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16297)
-
 ___
 
 ### PhysicsVolume
@@ -755,10 +611,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[PhysicsVolume](ue_ue.AudioComponent.md#physicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12870)
 
 ___
 
@@ -770,10 +622,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[PhysicsVolumeChangedDelegate](ue_ue.AudioComponent.md#physicsvolumechangeddelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:12894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12894)
-
 ___
 
 ### PitchModulationMax
@@ -783,10 +631,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[PitchModulationMax](ue_ue.AudioComponent.md#pitchmodulationmax)
-
-#### Defined in
-
-[ue/ue.d.ts:16272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16272)
 
 ___
 
@@ -798,10 +642,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[PitchModulationMin](ue_ue.AudioComponent.md#pitchmodulationmin)
 
-#### Defined in
-
-[ue/ue.d.ts:16271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16271)
-
 ___
 
 ### PitchMultiplier
@@ -811,10 +651,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[PitchMultiplier](ue_ue.AudioComponent.md#pitchmultiplier)
-
-#### Defined in
-
-[ue/ue.d.ts:16283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16283)
 
 ___
 
@@ -826,10 +662,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[PrimaryComponentTick](ue_ue.AudioComponent.md#primarycomponenttick)
 
-#### Defined in
-
-[ue/ue.d.ts:289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L289)
-
 ___
 
 ### Priority
@@ -839,10 +671,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[Priority](ue_ue.AudioComponent.md#priority)
-
-#### Defined in
-
-[ue/ue.d.ts:16278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16278)
 
 ___
 
@@ -854,10 +682,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[RelativeLocation](ue_ue.AudioComponent.md#relativelocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12875)
-
 ___
 
 ### RelativeRotation
@@ -867,10 +691,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[RelativeRotation](ue_ue.AudioComponent.md#relativerotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12876)
 
 ___
 
@@ -882,10 +702,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[RelativeScale3D](ue_ue.AudioComponent.md#relativescale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:12877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12877)
-
 ___
 
 ### Sound
@@ -895,10 +711,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[Sound](ue_ue.AudioComponent.md#sound)
-
-#### Defined in
-
-[ue/ue.d.ts:16256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16256)
 
 ___
 
@@ -910,10 +722,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[SoundClassOverride](ue_ue.AudioComponent.md#soundclassoverride)
 
-#### Defined in
-
-[ue/ue.d.ts:16258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16258)
-
 ___
 
 ### SourceEffectChain
@@ -923,10 +731,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[SourceEffectChain](ue_ue.AudioComponent.md#sourceeffectchain)
-
-#### Defined in
-
-[ue/ue.d.ts:16280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16280)
 
 ___
 
@@ -938,10 +742,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[SubtitlePriority](ue_ue.AudioComponent.md#subtitlepriority)
 
-#### Defined in
-
-[ue/ue.d.ts:16279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16279)
-
 ___
 
 ### UCSModifiedProperties
@@ -951,10 +751,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[UCSModifiedProperties](ue_ue.AudioComponent.md#ucsmodifiedproperties)
-
-#### Defined in
-
-[ue/ue.d.ts:305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L305)
 
 ___
 
@@ -966,10 +762,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[VolumeModulationMax](ue_ue.AudioComponent.md#volumemodulationmax)
 
-#### Defined in
-
-[ue/ue.d.ts:16274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16274)
-
 ___
 
 ### VolumeModulationMin
@@ -979,10 +771,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[VolumeModulationMin](ue_ue.AudioComponent.md#volumemodulationmin)
-
-#### Defined in
-
-[ue/ue.d.ts:16273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16273)
 
 ___
 
@@ -994,10 +782,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[VolumeMultiplier](ue_ue.AudioComponent.md#volumemultiplier)
 
-#### Defined in
-
-[ue/ue.d.ts:16275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16275)
-
 ___
 
 ### VolumeWeightedPriorityScale
@@ -1007,10 +791,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[VolumeWeightedPriorityScale](ue_ue.AudioComponent.md#volumeweightedpriorityscale)
-
-#### Defined in
-
-[ue/ue.d.ts:16281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16281)
 
 ___
 
@@ -1022,10 +802,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[__tid_ActorComponent__](ue_ue.AudioComponent.md#__tid_actorcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L336)
-
 ___
 
 ### \_\_tid\_AudioComponent\_\_
@@ -1036,19 +812,11 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[__tid_AudioComponent__](ue_ue.AudioComponent.md#__tid_audiocomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:16334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16334)
-
 ___
 
 ### \_\_tid\_AudioCurveSourceComponent\_\_
 
 • **\_\_tid\_AudioCurveSourceComponent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22390)
 
 ___
 
@@ -1060,10 +828,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[__tid_Object__](ue_ue.AudioComponent.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_SceneComponent\_\_
@@ -1073,10 +837,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[__tid_SceneComponent__](ue_ue.AudioComponent.md#__tid_scenecomponent__)
-
-#### Defined in
-
-[ue/ue.d.ts:12961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12961)
 
 ___
 
@@ -1088,10 +848,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[bAbsoluteLocation](ue_ue.AudioComponent.md#babsolutelocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12880)
-
 ___
 
 ### bAbsoluteRotation
@@ -1101,10 +857,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[bAbsoluteRotation](ue_ue.AudioComponent.md#babsoluterotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12881)
 
 ___
 
@@ -1116,10 +868,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[bAbsoluteScale](ue_ue.AudioComponent.md#babsolutescale)
 
-#### Defined in
-
-[ue/ue.d.ts:12882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12882)
-
 ___
 
 ### bAllowSpatialization
@@ -1129,10 +877,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[bAllowSpatialization](ue_ue.AudioComponent.md#ballowspatialization)
-
-#### Defined in
-
-[ue/ue.d.ts:16262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16262)
 
 ___
 
@@ -1144,10 +888,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[bAutoActivate](ue_ue.AudioComponent.md#bautoactivate)
 
-#### Defined in
-
-[ue/ue.d.ts:296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L296)
-
 ___
 
 ### bAutoDestroy
@@ -1157,10 +897,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[bAutoDestroy](ue_ue.AudioComponent.md#bautodestroy)
-
-#### Defined in
-
-[ue/ue.d.ts:16259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16259)
 
 ___
 
@@ -1172,10 +908,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[bAutoManageAttachment](ue_ue.AudioComponent.md#bautomanageattachment)
 
-#### Defined in
-
-[ue/ue.d.ts:16269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16269)
-
 ___
 
 ### bBoundsChangeTriggersStreamingDataRebuild
@@ -1185,10 +917,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[bBoundsChangeTriggersStreamingDataRebuild](ue_ue.AudioComponent.md#bboundschangetriggersstreamingdatarebuild)
-
-#### Defined in
-
-[ue/ue.d.ts:12889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12889)
 
 ___
 
@@ -1200,10 +928,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[bCanEverAffectNavigation](ue_ue.AudioComponent.md#bcaneveraffectnavigation)
 
-#### Defined in
-
-[ue/ue.d.ts:299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L299)
-
 ___
 
 ### bComponentToWorldUpdated
@@ -1213,10 +937,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[bComponentToWorldUpdated](ue_ue.AudioComponent.md#bcomponenttoworldupdated)
-
-#### Defined in
-
-[ue/ue.d.ts:12879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12879)
 
 ___
 
@@ -1228,10 +948,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[bCreatedByConstructionScript](ue_ue.AudioComponent.md#bcreatedbyconstructionscript)
 
-#### Defined in
-
-[ue/ue.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L294)
-
 ___
 
 ### bEditableWhenInherited
@@ -1241,10 +957,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[bEditableWhenInherited](ue_ue.AudioComponent.md#beditablewheninherited)
-
-#### Defined in
-
-[ue/ue.d.ts:298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L298)
 
 ___
 
@@ -1256,10 +968,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[bEnableLowPassFilter](ue_ue.AudioComponent.md#benablelowpassfilter)
 
-#### Defined in
-
-[ue/ue.d.ts:16266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16266)
-
 ___
 
 ### bHiddenInGame
@@ -1269,10 +977,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[bHiddenInGame](ue_ue.AudioComponent.md#bhiddeningame)
-
-#### Defined in
-
-[ue/ue.d.ts:12884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12884)
 
 ___
 
@@ -1284,10 +988,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[bInstanceComponent](ue_ue.AudioComponent.md#binstancecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L295)
-
 ___
 
 ### bIsActive
@@ -1297,10 +997,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[bIsActive](ue_ue.AudioComponent.md#bisactive)
-
-#### Defined in
-
-[ue/ue.d.ts:297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L297)
 
 ___
 
@@ -1312,10 +1008,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[bIsEditorOnly](ue_ue.AudioComponent.md#biseditoronly)
 
-#### Defined in
-
-[ue/ue.d.ts:300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L300)
-
 ___
 
 ### bIsUISound
@@ -1325,10 +1017,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[bIsUISound](ue_ue.AudioComponent.md#bisuisound)
-
-#### Defined in
-
-[ue/ue.d.ts:16265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16265)
 
 ___
 
@@ -1340,10 +1028,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[bIsVisualizationComponent](ue_ue.AudioComponent.md#bisvisualizationcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L301)
-
 ___
 
 ### bNetAddressable
@@ -1353,10 +1037,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[bNetAddressable](ue_ue.AudioComponent.md#bnetaddressable)
-
-#### Defined in
-
-[ue/ue.d.ts:293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L293)
 
 ___
 
@@ -1368,10 +1048,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[bOverrideAttenuation](ue_ue.AudioComponent.md#boverrideattenuation)
 
-#### Defined in
-
-[ue/ue.d.ts:16263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16263)
-
 ___
 
 ### bOverridePriority
@@ -1381,10 +1057,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[bOverridePriority](ue_ue.AudioComponent.md#boverridepriority)
-
-#### Defined in
-
-[ue/ue.d.ts:16267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16267)
 
 ___
 
@@ -1396,10 +1068,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[bOverrideSubtitlePriority](ue_ue.AudioComponent.md#boverridesubtitlepriority)
 
-#### Defined in
-
-[ue/ue.d.ts:16264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16264)
-
 ___
 
 ### bReplicates
@@ -1409,10 +1077,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[bReplicates](ue_ue.AudioComponent.md#breplicates)
-
-#### Defined in
-
-[ue/ue.d.ts:292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L292)
 
 ___
 
@@ -1424,10 +1088,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[bShouldBeAttached](ue_ue.AudioComponent.md#bshouldbeattached)
 
-#### Defined in
-
-[ue/ue.d.ts:12885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12885)
-
 ___
 
 ### bShouldRemainActiveIfDropped
@@ -1437,10 +1097,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[bShouldRemainActiveIfDropped](ue_ue.AudioComponent.md#bshouldremainactiveifdropped)
-
-#### Defined in
-
-[ue/ue.d.ts:16261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16261)
 
 ___
 
@@ -1452,10 +1108,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[bShouldSnapLocationWhenAttached](ue_ue.AudioComponent.md#bshouldsnaplocationwhenattached)
 
-#### Defined in
-
-[ue/ue.d.ts:12886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12886)
-
 ___
 
 ### bShouldSnapRotationWhenAttached
@@ -1465,10 +1117,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[bShouldSnapRotationWhenAttached](ue_ue.AudioComponent.md#bshouldsnaprotationwhenattached)
-
-#### Defined in
-
-[ue/ue.d.ts:12887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12887)
 
 ___
 
@@ -1480,10 +1128,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[bShouldUpdatePhysicsVolume](ue_ue.AudioComponent.md#bshouldupdatephysicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12888)
-
 ___
 
 ### bStopWhenOwnerDestroyed
@@ -1493,10 +1137,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[bStopWhenOwnerDestroyed](ue_ue.AudioComponent.md#bstopwhenownerdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:16260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16260)
 
 ___
 
@@ -1508,10 +1148,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[bSuppressSubtitles](ue_ue.AudioComponent.md#bsuppresssubtitles)
 
-#### Defined in
-
-[ue/ue.d.ts:16268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16268)
-
 ___
 
 ### bUseAttachParentBound
@@ -1521,10 +1157,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[bUseAttachParentBound](ue_ue.AudioComponent.md#buseattachparentbound)
-
-#### Defined in
-
-[ue/ue.d.ts:12890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12890)
 
 ___
 
@@ -1536,10 +1168,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[bVisible](ue_ue.AudioComponent.md#bvisible)
 
-#### Defined in
-
-[ue/ue.d.ts:12883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12883)
-
 ___
 
 ### bVisualizeComponent
@@ -1549,10 +1177,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[bVisualizeComponent](ue_ue.AudioComponent.md#bvisualizecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12891)
 
 ## Methods
 
@@ -1574,10 +1198,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[Activate](ue_ue.AudioComponent.md#activate)
 
-#### Defined in
-
-[ue/ue.d.ts:306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L306)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -1597,10 +1217,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[AddTickPrerequisiteActor](ue_ue.AudioComponent.md#addtickprerequisiteactor)
-
-#### Defined in
-
-[ue/ue.d.ts:307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L307)
 
 ___
 
@@ -1622,10 +1238,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[AddTickPrerequisiteComponent](ue_ue.AudioComponent.md#addtickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L308)
-
 ___
 
 ### AdjustAttenuation
@@ -1645,10 +1257,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[AdjustAttenuation](ue_ue.AudioComponent.md#adjustattenuation)
-
-#### Defined in
-
-[ue/ue.d.ts:16300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16300)
 
 ___
 
@@ -1672,10 +1280,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[AdjustVolume](ue_ue.AudioComponent.md#adjustvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:16301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16301)
-
 ___
 
 ### BP\_GetAttenuationSettingsToApply
@@ -1696,10 +1300,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[BP_GetAttenuationSettingsToApply](ue_ue.AudioComponent.md#bp_getattenuationsettingstoapply)
 
-#### Defined in
-
-[ue/ue.d.ts:16302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16302)
-
 ___
 
 ### ComponentHasTag
@@ -1719,10 +1319,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[ComponentHasTag](ue_ue.AudioComponent.md#componenthastag)
-
-#### Defined in
-
-[ue/ue.d.ts:309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L309)
 
 ___
 
@@ -1748,10 +1344,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[CreateDefaultSubobject](ue_ue.AudioComponent.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### Deactivate
@@ -1765,10 +1357,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[Deactivate](ue_ue.AudioComponent.md#deactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L310)
 
 ___
 
@@ -1791,10 +1379,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[DetachFromParent](ue_ue.AudioComponent.md#detachfromparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12895)
-
 ___
 
 ### DoesSocketExist
@@ -1815,10 +1399,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[DoesSocketExist](ue_ue.AudioComponent.md#doessocketexist)
 
-#### Defined in
-
-[ue/ue.d.ts:12896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12896)
-
 ___
 
 ### ExecuteUbergraph
@@ -1838,10 +1418,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[ExecuteUbergraph](ue_ue.AudioComponent.md#executeubergraph)
-
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
 
 ___
 
@@ -1866,10 +1442,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[FadeIn](ue_ue.AudioComponent.md#fadein)
 
-#### Defined in
-
-[ue/ue.d.ts:16303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16303)
-
 ___
 
 ### FadeOut
@@ -1892,10 +1464,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[FadeOut](ue_ue.AudioComponent.md#fadeout)
 
-#### Defined in
-
-[ue/ue.d.ts:16304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16304)
-
 ___
 
 ### GetAllSocketNames
@@ -1909,10 +1477,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetAllSocketNames](ue_ue.AudioComponent.md#getallsocketnames)
-
-#### Defined in
-
-[ue/ue.d.ts:12897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12897)
 
 ___
 
@@ -1928,10 +1492,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetAttachParent](ue_ue.AudioComponent.md#getattachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12898)
-
 ___
 
 ### GetAttachSocketName
@@ -1945,10 +1505,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetAttachSocketName](ue_ue.AudioComponent.md#getattachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12899)
 
 ___
 
@@ -1969,10 +1525,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetChildComponent](ue_ue.AudioComponent.md#getchildcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12900)
 
 ___
 
@@ -1995,10 +1547,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetChildrenComponents](ue_ue.AudioComponent.md#getchildrencomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12901)
-
 ___
 
 ### GetClass
@@ -2012,10 +1560,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetClass](ue_ue.AudioComponent.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -2031,10 +1575,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetComponentTickInterval](ue_ue.AudioComponent.md#getcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L311)
-
 ___
 
 ### GetComponentVelocity
@@ -2048,10 +1588,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetComponentVelocity](ue_ue.AudioComponent.md#getcomponentvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12902)
 
 ___
 
@@ -2073,10 +1609,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetCookedEnvelopeData](ue_ue.AudioComponent.md#getcookedenvelopedata)
 
-#### Defined in
-
-[ue/ue.d.ts:16305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16305)
-
 ___
 
 ### GetCookedEnvelopeDataForAllPlayingSounds
@@ -2096,10 +1628,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetCookedEnvelopeDataForAllPlayingSounds](ue_ue.AudioComponent.md#getcookedenvelopedataforallplayingsounds)
-
-#### Defined in
-
-[ue/ue.d.ts:16306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16306)
 
 ___
 
@@ -2122,10 +1650,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetCookedFFTData](ue_ue.AudioComponent.md#getcookedfftdata)
 
-#### Defined in
-
-[ue/ue.d.ts:16307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16307)
-
 ___
 
 ### GetCookedFFTDataForAllPlayingSounds
@@ -2146,10 +1670,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetCookedFFTDataForAllPlayingSounds](ue_ue.AudioComponent.md#getcookedfftdataforallplayingsounds)
 
-#### Defined in
-
-[ue/ue.d.ts:16308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16308)
-
 ___
 
 ### GetForwardVector
@@ -2163,10 +1683,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetForwardVector](ue_ue.AudioComponent.md#getforwardvector)
-
-#### Defined in
-
-[ue/ue.d.ts:12903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12903)
 
 ___
 
@@ -2182,10 +1698,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetName](ue_ue.AudioComponent.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetNumChildrenComponents
@@ -2199,10 +1711,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetNumChildrenComponents](ue_ue.AudioComponent.md#getnumchildrencomponents)
-
-#### Defined in
-
-[ue/ue.d.ts:12904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12904)
 
 ___
 
@@ -2218,10 +1726,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetOuter](ue_ue.AudioComponent.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetOwner
@@ -2235,10 +1739,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetOwner](ue_ue.AudioComponent.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L312)
 
 ___
 
@@ -2260,10 +1760,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetParentComponents](ue_ue.AudioComponent.md#getparentcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12905)
-
 ___
 
 ### GetPhysicsVolume
@@ -2277,10 +1773,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetPhysicsVolume](ue_ue.AudioComponent.md#getphysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12906)
 
 ___
 
@@ -2296,10 +1788,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetPlayState](ue_ue.AudioComponent.md#getplaystate)
 
-#### Defined in
-
-[ue/ue.d.ts:16309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16309)
-
 ___
 
 ### GetRelativeTransform
@@ -2313,10 +1801,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetRelativeTransform](ue_ue.AudioComponent.md#getrelativetransform)
-
-#### Defined in
-
-[ue/ue.d.ts:12907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12907)
 
 ___
 
@@ -2332,10 +1816,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetRightVector](ue_ue.AudioComponent.md#getrightvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12908)
-
 ___
 
 ### GetShouldUpdatePhysicsVolume
@@ -2349,10 +1829,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetShouldUpdatePhysicsVolume](ue_ue.AudioComponent.md#getshouldupdatephysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12909)
 
 ___
 
@@ -2374,10 +1850,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetSocketLocation](ue_ue.AudioComponent.md#getsocketlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12910)
-
 ___
 
 ### GetSocketQuaternion
@@ -2398,10 +1870,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetSocketQuaternion](ue_ue.AudioComponent.md#getsocketquaternion)
 
-#### Defined in
-
-[ue/ue.d.ts:12911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12911)
-
 ___
 
 ### GetSocketRotation
@@ -2421,10 +1889,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetSocketRotation](ue_ue.AudioComponent.md#getsocketrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12912)
 
 ___
 
@@ -2447,10 +1911,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetSocketTransform](ue_ue.AudioComponent.md#getsockettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12913)
-
 ___
 
 ### GetUpVector
@@ -2464,10 +1924,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetUpVector](ue_ue.AudioComponent.md#getupvector)
-
-#### Defined in
-
-[ue/ue.d.ts:12914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12914)
 
 ___
 
@@ -2483,10 +1939,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[GetWorld](ue_ue.AudioComponent.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### HasCookedAmplitudeEnvelopeData
@@ -2500,10 +1952,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[HasCookedAmplitudeEnvelopeData](ue_ue.AudioComponent.md#hascookedamplitudeenvelopedata)
-
-#### Defined in
-
-[ue/ue.d.ts:16310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16310)
 
 ___
 
@@ -2519,10 +1967,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[HasCookedFFTData](ue_ue.AudioComponent.md#hascookedfftdata)
 
-#### Defined in
-
-[ue/ue.d.ts:16311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16311)
-
 ___
 
 ### IsActive
@@ -2536,10 +1980,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[IsActive](ue_ue.AudioComponent.md#isactive)
-
-#### Defined in
-
-[ue/ue.d.ts:313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L313)
 
 ___
 
@@ -2555,10 +1995,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[IsAnySimulatingPhysics](ue_ue.AudioComponent.md#isanysimulatingphysics)
 
-#### Defined in
-
-[ue/ue.d.ts:12915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12915)
-
 ___
 
 ### IsBeingDestroyed
@@ -2572,10 +2008,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[IsBeingDestroyed](ue_ue.AudioComponent.md#isbeingdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L314)
 
 ___
 
@@ -2591,10 +2023,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[IsComponentTickEnabled](ue_ue.AudioComponent.md#iscomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L315)
-
 ___
 
 ### IsPlaying
@@ -2608,10 +2036,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[IsPlaying](ue_ue.AudioComponent.md#isplaying)
-
-#### Defined in
-
-[ue/ue.d.ts:16312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16312)
 
 ___
 
@@ -2633,10 +2057,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[IsSimulatingPhysics](ue_ue.AudioComponent.md#issimulatingphysics)
 
-#### Defined in
-
-[ue/ue.d.ts:12916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12916)
-
 ___
 
 ### IsVisible
@@ -2650,10 +2070,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[IsVisible](ue_ue.AudioComponent.md#isvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:12917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12917)
 
 ___
 
@@ -2678,10 +2094,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[K2_AddLocalOffset](ue_ue.AudioComponent.md#k2_addlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:12918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12918)
-
 ___
 
 ### K2\_AddLocalRotation
@@ -2704,10 +2116,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[K2_AddLocalRotation](ue_ue.AudioComponent.md#k2_addlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12919)
 
 ___
 
@@ -2732,10 +2140,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[K2_AddLocalTransform](ue_ue.AudioComponent.md#k2_addlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12920)
-
 ___
 
 ### K2\_AddRelativeLocation
@@ -2758,10 +2162,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[K2_AddRelativeLocation](ue_ue.AudioComponent.md#k2_addrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12921)
 
 ___
 
@@ -2786,10 +2186,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[K2_AddRelativeRotation](ue_ue.AudioComponent.md#k2_addrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12922)
-
 ___
 
 ### K2\_AddWorldOffset
@@ -2812,10 +2208,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[K2_AddWorldOffset](ue_ue.AudioComponent.md#k2_addworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:12923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12923)
 
 ___
 
@@ -2840,10 +2232,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[K2_AddWorldRotation](ue_ue.AudioComponent.md#k2_addworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12924)
-
 ___
 
 ### K2\_AddWorldTransform
@@ -2867,10 +2255,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[K2_AddWorldTransform](ue_ue.AudioComponent.md#k2_addworldtransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12925)
-
 ___
 
 ### K2\_AttachTo
@@ -2893,10 +2277,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[K2_AttachTo](ue_ue.AudioComponent.md#k2_attachto)
-
-#### Defined in
-
-[ue/ue.d.ts:12926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12926)
 
 ___
 
@@ -2923,10 +2303,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[K2_AttachToComponent](ue_ue.AudioComponent.md#k2_attachtocomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12927)
-
 ___
 
 ### K2\_DestroyComponent
@@ -2946,10 +2322,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[K2_DestroyComponent](ue_ue.AudioComponent.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L316)
 
 ___
 
@@ -2974,10 +2346,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[K2_DetachFromComponent](ue_ue.AudioComponent.md#k2_detachfromcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12928)
-
 ___
 
 ### K2\_GetComponentLocation
@@ -2991,10 +2359,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[K2_GetComponentLocation](ue_ue.AudioComponent.md#k2_getcomponentlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12929)
 
 ___
 
@@ -3010,10 +2374,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[K2_GetComponentRotation](ue_ue.AudioComponent.md#k2_getcomponentrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12930)
-
 ___
 
 ### K2\_GetComponentScale
@@ -3028,10 +2388,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[K2_GetComponentScale](ue_ue.AudioComponent.md#k2_getcomponentscale)
 
-#### Defined in
-
-[ue/ue.d.ts:12931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12931)
-
 ___
 
 ### K2\_GetComponentToWorld
@@ -3045,10 +2401,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[K2_GetComponentToWorld](ue_ue.AudioComponent.md#k2_getcomponenttoworld)
-
-#### Defined in
-
-[ue/ue.d.ts:12932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12932)
 
 ___
 
@@ -3072,10 +2424,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[K2_SetRelativeLocation](ue_ue.AudioComponent.md#k2_setrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12933)
 
 ___
 
@@ -3101,10 +2449,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[K2_SetRelativeLocationAndRotation](ue_ue.AudioComponent.md#k2_setrelativelocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12934)
-
 ___
 
 ### K2\_SetRelativeRotation
@@ -3127,10 +2471,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[K2_SetRelativeRotation](ue_ue.AudioComponent.md#k2_setrelativerotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12935)
 
 ___
 
@@ -3155,10 +2495,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[K2_SetRelativeTransform](ue_ue.AudioComponent.md#k2_setrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12936)
-
 ___
 
 ### K2\_SetWorldLocation
@@ -3181,10 +2517,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[K2_SetWorldLocation](ue_ue.AudioComponent.md#k2_setworldlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12937)
 
 ___
 
@@ -3210,10 +2542,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[K2_SetWorldLocationAndRotation](ue_ue.AudioComponent.md#k2_setworldlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12938)
-
 ___
 
 ### K2\_SetWorldRotation
@@ -3236,10 +2564,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[K2_SetWorldRotation](ue_ue.AudioComponent.md#k2_setworldrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12939)
 
 ___
 
@@ -3264,10 +2588,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[K2_SetWorldTransform](ue_ue.AudioComponent.md#k2_setworldtransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12940)
-
 ___
 
 ### OnRep\_AttachChildren
@@ -3281,10 +2601,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[OnRep_AttachChildren](ue_ue.AudioComponent.md#onrep_attachchildren)
-
-#### Defined in
-
-[ue/ue.d.ts:12941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12941)
 
 ___
 
@@ -3300,10 +2616,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[OnRep_AttachParent](ue_ue.AudioComponent.md#onrep_attachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12942)
-
 ___
 
 ### OnRep\_AttachSocketName
@@ -3317,10 +2629,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[OnRep_AttachSocketName](ue_ue.AudioComponent.md#onrep_attachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12943)
 
 ___
 
@@ -3336,10 +2644,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[OnRep_IsActive](ue_ue.AudioComponent.md#onrep_isactive)
 
-#### Defined in
-
-[ue/ue.d.ts:317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L317)
-
 ___
 
 ### OnRep\_Transform
@@ -3353,10 +2657,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[OnRep_Transform](ue_ue.AudioComponent.md#onrep_transform)
-
-#### Defined in
-
-[ue/ue.d.ts:12944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12944)
 
 ___
 
@@ -3378,10 +2678,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[OnRep_Visibility](ue_ue.AudioComponent.md#onrep_visibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12945)
-
 ___
 
 ### Play
@@ -3402,10 +2698,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[Play](ue_ue.AudioComponent.md#play)
 
-#### Defined in
-
-[ue/ue.d.ts:16313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16313)
-
 ___
 
 ### ReceiveBeginPlay
@@ -3419,10 +2711,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[ReceiveBeginPlay](ue_ue.AudioComponent.md#receivebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L318)
 
 ___
 
@@ -3444,10 +2732,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[ReceiveEndPlay](ue_ue.AudioComponent.md#receiveendplay)
 
-#### Defined in
-
-[ue/ue.d.ts:319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L319)
-
 ___
 
 ### ReceiveTick
@@ -3468,10 +2752,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[ReceiveTick](ue_ue.AudioComponent.md#receivetick)
 
-#### Defined in
-
-[ue/ue.d.ts:320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L320)
-
 ___
 
 ### RegisterComponent
@@ -3485,10 +2765,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[RegisterComponent](ue_ue.AudioComponent.md#registercomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L321)
 
 ___
 
@@ -3510,10 +2786,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[RemoveTickPrerequisiteActor](ue_ue.AudioComponent.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -3534,10 +2806,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[RemoveTickPrerequisiteComponent](ue_ue.AudioComponent.md#removetickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L323)
-
 ___
 
 ### ResetRelativeTransform
@@ -3551,10 +2819,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[ResetRelativeTransform](ue_ue.AudioComponent.md#resetrelativetransform)
-
-#### Defined in
-
-[ue/ue.d.ts:12946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12946)
 
 ___
 
@@ -3578,10 +2842,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetAbsolute](ue_ue.AudioComponent.md#setabsolute)
 
-#### Defined in
-
-[ue/ue.d.ts:12947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12947)
-
 ___
 
 ### SetActive
@@ -3603,10 +2863,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetActive](ue_ue.AudioComponent.md#setactive)
 
-#### Defined in
-
-[ue/ue.d.ts:324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L324)
-
 ___
 
 ### SetAutoActivate
@@ -3626,10 +2882,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetAutoActivate](ue_ue.AudioComponent.md#setautoactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L325)
 
 ___
 
@@ -3652,10 +2904,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetBoolParameter](ue_ue.AudioComponent.md#setboolparameter)
 
-#### Defined in
-
-[ue/ue.d.ts:16314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16314)
-
 ___
 
 ### SetComponentTickEnabled
@@ -3676,10 +2924,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetComponentTickEnabled](ue_ue.AudioComponent.md#setcomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L326)
-
 ___
 
 ### SetComponentTickInterval
@@ -3699,10 +2943,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetComponentTickInterval](ue_ue.AudioComponent.md#setcomponenttickinterval)
-
-#### Defined in
-
-[ue/ue.d.ts:327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L327)
 
 ___
 
@@ -3725,10 +2965,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetFloatParameter](ue_ue.AudioComponent.md#setfloatparameter)
 
-#### Defined in
-
-[ue/ue.d.ts:16315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16315)
-
 ___
 
 ### SetHiddenInGame
@@ -3749,10 +2985,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetHiddenInGame](ue_ue.AudioComponent.md#sethiddeningame)
-
-#### Defined in
-
-[ue/ue.d.ts:12948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12948)
 
 ___
 
@@ -3775,10 +3007,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetIntParameter](ue_ue.AudioComponent.md#setintparameter)
 
-#### Defined in
-
-[ue/ue.d.ts:16316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16316)
-
 ___
 
 ### SetIsReplicated
@@ -3798,10 +3026,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetIsReplicated](ue_ue.AudioComponent.md#setisreplicated)
-
-#### Defined in
-
-[ue/ue.d.ts:328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L328)
 
 ___
 
@@ -3823,10 +3047,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetLowPassFilterEnabled](ue_ue.AudioComponent.md#setlowpassfilterenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:16317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16317)
-
 ___
 
 ### SetLowPassFilterFrequency
@@ -3846,10 +3066,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetLowPassFilterFrequency](ue_ue.AudioComponent.md#setlowpassfilterfrequency)
-
-#### Defined in
-
-[ue/ue.d.ts:16318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16318)
 
 ___
 
@@ -3871,10 +3087,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetMobility](ue_ue.AudioComponent.md#setmobility)
 
-#### Defined in
-
-[ue/ue.d.ts:12949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12949)
-
 ___
 
 ### SetPaused
@@ -3894,10 +3106,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetPaused](ue_ue.AudioComponent.md#setpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:16319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16319)
 
 ___
 
@@ -3919,10 +3127,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetPitchMultiplier](ue_ue.AudioComponent.md#setpitchmultiplier)
 
-#### Defined in
-
-[ue/ue.d.ts:16320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16320)
-
 ___
 
 ### SetRelativeScale3D
@@ -3942,10 +3146,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetRelativeScale3D](ue_ue.AudioComponent.md#setrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:12950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12950)
 
 ___
 
@@ -3967,10 +3167,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetShouldUpdatePhysicsVolume](ue_ue.AudioComponent.md#setshouldupdatephysicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12951)
-
 ___
 
 ### SetSound
@@ -3990,10 +3186,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetSound](ue_ue.AudioComponent.md#setsound)
-
-#### Defined in
-
-[ue/ue.d.ts:16321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16321)
 
 ___
 
@@ -4016,10 +3208,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetSourceBusSendPostEffect](ue_ue.AudioComponent.md#setsourcebussendposteffect)
 
-#### Defined in
-
-[ue/ue.d.ts:16322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16322)
-
 ___
 
 ### SetSourceBusSendPreEffect
@@ -4040,10 +3228,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetSourceBusSendPreEffect](ue_ue.AudioComponent.md#setsourcebussendpreeffect)
-
-#### Defined in
-
-[ue/ue.d.ts:16323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16323)
 
 ___
 
@@ -4066,10 +3250,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetSubmixSend](ue_ue.AudioComponent.md#setsubmixsend)
 
-#### Defined in
-
-[ue/ue.d.ts:16324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16324)
-
 ___
 
 ### SetTickGroup
@@ -4089,10 +3269,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetTickGroup](ue_ue.AudioComponent.md#settickgroup)
-
-#### Defined in
-
-[ue/ue.d.ts:330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L330)
 
 ___
 
@@ -4114,10 +3290,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetTickableWhenPaused](ue_ue.AudioComponent.md#settickablewhenpaused)
 
-#### Defined in
-
-[ue/ue.d.ts:329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L329)
-
 ___
 
 ### SetUISound
@@ -4137,10 +3309,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetUISound](ue_ue.AudioComponent.md#setuisound)
-
-#### Defined in
-
-[ue/ue.d.ts:16325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16325)
 
 ___
 
@@ -4163,10 +3331,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetVisibility](ue_ue.AudioComponent.md#setvisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12953)
-
 ___
 
 ### SetVolumeMultiplier
@@ -4186,10 +3350,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetVolumeMultiplier](ue_ue.AudioComponent.md#setvolumemultiplier)
-
-#### Defined in
-
-[ue/ue.d.ts:16326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16326)
 
 ___
 
@@ -4212,10 +3372,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetWaveParameter](ue_ue.AudioComponent.md#setwaveparameter)
 
-#### Defined in
-
-[ue/ue.d.ts:16327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16327)
-
 ___
 
 ### SetWorldScale3D
@@ -4235,10 +3391,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetWorldScale3D](ue_ue.AudioComponent.md#setworldscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:12954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12954)
 
 ___
 
@@ -4261,10 +3413,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[SetupAttachment](ue_ue.AudioComponent.md#setupattachment)
 
-#### Defined in
-
-[ue/ue.d.ts:12952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12952)
-
 ___
 
 ### SnapTo
@@ -4286,10 +3434,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[SnapTo](ue_ue.AudioComponent.md#snapto)
 
-#### Defined in
-
-[ue/ue.d.ts:12955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12955)
-
 ___
 
 ### Stop
@@ -4303,10 +3447,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[Stop](ue_ue.AudioComponent.md#stop)
-
-#### Defined in
-
-[ue/ue.d.ts:16328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16328)
 
 ___
 
@@ -4328,10 +3468,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[StopDelayed](ue_ue.AudioComponent.md#stopdelayed)
 
-#### Defined in
-
-[ue/ue.d.ts:16329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16329)
-
 ___
 
 ### ToggleActive
@@ -4345,10 +3481,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[ToggleActive](ue_ue.AudioComponent.md#toggleactive)
-
-#### Defined in
-
-[ue/ue.d.ts:331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L331)
 
 ___
 
@@ -4369,10 +3501,6 @@ ___
 #### Inherited from
 
 [AudioComponent](ue_ue.AudioComponent.md).[ToggleVisibility](ue_ue.AudioComponent.md#togglevisibility)
-
-#### Defined in
-
-[ue/ue.d.ts:12956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12956)
 
 ___
 
@@ -4395,10 +3523,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[Find](ue_ue.AudioComponent.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:22387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22387)
-
 ___
 
 ### Load
@@ -4419,10 +3543,6 @@ ___
 
 [AudioComponent](ue_ue.AudioComponent.md).[Load](ue_ue.AudioComponent.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:22388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22388)
-
 ___
 
 ### StaticClass
@@ -4436,7 +3556,3 @@ ___
 #### Overrides
 
 [AudioComponent](ue_ue.AudioComponent.md).[StaticClass](ue_ue.AudioComponent.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:22386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22386)

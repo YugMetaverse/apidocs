@@ -27,10 +27,6 @@
 
 • **new IntegralKey**()
 
-#### Defined in
-
-[ue/ue.d.ts:51178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51178)
-
 • **new IntegralKey**(`Time`, `Value`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Time` | `number` |
 | `Value` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:51179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51179)
-
 ## Properties
 
 ### Time
 
 • **Time**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:51180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51180)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Value**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:51181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51181)
-
 ___
 
 ### \_\_tid\_IntegralKey\_\_
 
 • `Private` **\_\_tid\_IntegralKey\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:51187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51187)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:51185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51185)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:51186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51186)

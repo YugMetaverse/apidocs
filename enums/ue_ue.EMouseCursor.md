@@ -31,19 +31,11 @@
 
 • **CardinalCross** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10457)
-
 ___
 
 ### Crosshairs
 
 • **Crosshairs** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10457)
 
 ___
 
@@ -51,19 +43,11 @@ ___
 
 • **Default** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10457)
-
 ___
 
 ### EMouseCursor\_MAX
 
 • **EMouseCursor\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10457)
 
 ___
 
@@ -71,19 +55,11 @@ ___
 
 • **EyeDropper** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10457)
-
 ___
 
 ### GrabHand
 
 • **GrabHand** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10457)
 
 ___
 
@@ -91,19 +67,11 @@ ___
 
 • **GrabHandClosed** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10457)
-
 ___
 
 ### Hand
 
 • **Hand** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10457)
 
 ___
 
@@ -111,19 +79,11 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10457)
-
 ___
 
 ### ResizeLeftRight
 
 • **ResizeLeftRight** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10457)
 
 ___
 
@@ -131,19 +91,11 @@ ___
 
 • **ResizeSouthEast** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10457)
-
 ___
 
 ### ResizeSouthWest
 
 • **ResizeSouthWest** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10457)
 
 ___
 
@@ -151,19 +103,11 @@ ___
 
 • **ResizeUpDown** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10457)
-
 ___
 
 ### SlashedCircle
 
 • **SlashedCircle** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10457)
 
 ___
 
@@ -171,16 +115,8 @@ ___
 
 • **TextEditBeam** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10457)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10457)

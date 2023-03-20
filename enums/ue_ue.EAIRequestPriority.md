@@ -22,19 +22,11 @@
 
 • **HardScript** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14819)
-
 ___
 
 ### Logic
 
 • **Logic** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14819)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14819)
-
 ___
 
 ### Reaction
 
 • **Reaction** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14819)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **SoftScript** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14819)
-
 ___
 
 ### Ultimate
 
 • **Ultimate** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14819)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14819)

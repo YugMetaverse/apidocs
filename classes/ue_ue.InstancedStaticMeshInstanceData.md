@@ -26,10 +26,6 @@
 
 • **new InstancedStaticMeshInstanceData**()
 
-#### Defined in
-
-[ue/ue.d.ts:35783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35783)
-
 • **new InstancedStaticMeshInstanceData**(`Transform`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Transform` | [`Matrix`](ue_ue.Matrix.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:35784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35784)
-
 ## Properties
 
 ### Transform
 
 • **Transform**: [`Matrix`](ue_ue.Matrix.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35785](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35785)
-
 ___
 
 ### \_\_tid\_InstancedStaticMeshInstanceData\_\_
 
 • `Private` **\_\_tid\_InstancedStaticMeshInstanceData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35791)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35789)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35790)

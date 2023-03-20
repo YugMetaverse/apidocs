@@ -26,10 +26,6 @@
 
 • **new MagicLeapPolygon**()
 
-#### Defined in
-
-[ue/ue.d.ts:46932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46932)
-
 • **new MagicLeapPolygon**(`Vertices`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Vertices` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Vector`](ue_ue_s.Vector.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:46933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46933)
-
 ## Properties
 
 ### Vertices
 
 • **Vertices**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Vector`](ue_ue_s.Vector.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:46934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46934)
-
 ___
 
 ### \_\_tid\_MagicLeapPolygon\_\_
 
 • `Private` **\_\_tid\_MagicLeapPolygon\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46940)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46938)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46939)

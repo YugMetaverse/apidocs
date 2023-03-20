@@ -21,19 +21,11 @@
 
 • **Box** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9339)
-
 ___
 
 ### Capsule
 
 • **Capsule** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9339)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Cone** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9339)
-
 ___
 
 ### EAttenuationShape\_MAX
 
 • **EAttenuationShape\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9339)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Sphere** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9339)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9339)

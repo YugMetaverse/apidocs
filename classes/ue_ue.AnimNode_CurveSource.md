@@ -39,10 +39,6 @@
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[constructor](ue_ue.AnimNode_Base.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:18443](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18443)
-
 • **new AnimNode_CurveSource**(`SourcePose`, `SourceBinding`, `Alpha`, `CurveSource`)
 
 #### Parameters
@@ -58,19 +54,11 @@
 
 UE.AnimNode\_Base.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:18444](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18444)
-
 ## Properties
 
 ### Alpha
 
 • **Alpha**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18447)
 
 ___
 
@@ -78,19 +66,11 @@ ___
 
 • **CurveSource**: [`CurveSourceInterface`](ue_ue.CurveSourceInterface.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18448)
-
 ___
 
 ### SourceBinding
 
 • **SourceBinding**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:18446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18446)
 
 ___
 
@@ -98,19 +78,11 @@ ___
 
 • **SourcePose**: [`PoseLink`](ue_ue.PoseLink.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18445](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18445)
-
 ___
 
 ### \_\_tid\_AnimNode\_CurveSource\_\_
 
 • `Private` **\_\_tid\_AnimNode\_CurveSource\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18454)
 
 ## Methods
 
@@ -130,10 +102,6 @@ use StaticStruct instead.
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticClass](ue_ue.AnimNode_Base.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:18452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18452)
-
 ___
 
 ### StaticStruct
@@ -147,7 +115,3 @@ ___
 #### Overrides
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticStruct](ue_ue.AnimNode_Base.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:18453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18453)

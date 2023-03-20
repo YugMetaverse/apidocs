@@ -67,10 +67,6 @@
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[constructor](ue_ue.DataTableFactory.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:28455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28455)
-
 ## Properties
 
 ### AssetImportTask
@@ -80,10 +76,6 @@
 #### Inherited from
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[AssetImportTask](ue_ue.DataTableFactory.md#assetimporttask)
-
-#### Defined in
-
-[ue/ue.d.ts:15338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15338)
 
 ___
 
@@ -95,10 +87,6 @@ ___
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[AutomatedImportData](ue_ue.DataTableFactory.md#automatedimportdata)
 
-#### Defined in
-
-[ue/ue.d.ts:15337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15337)
-
 ___
 
 ### ContextClass
@@ -108,10 +96,6 @@ ___
 #### Inherited from
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[ContextClass](ue_ue.DataTableFactory.md#contextclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15331)
 
 ___
 
@@ -123,10 +107,6 @@ ___
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[Formats](ue_ue.DataTableFactory.md#formats)
 
-#### Defined in
-
-[ue/ue.d.ts:15332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15332)
-
 ___
 
 ### ImportPriority
@@ -136,10 +116,6 @@ ___
 #### Inherited from
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[ImportPriority](ue_ue.DataTableFactory.md#importpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:15336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15336)
 
 ___
 
@@ -151,10 +127,6 @@ ___
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[OverwriteYesOrNoToAllState](ue_ue.DataTableFactory.md#overwriteyesornotoallstate)
 
-#### Defined in
-
-[ue/ue.d.ts:15339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15339)
-
 ___
 
 ### Struct
@@ -164,10 +136,6 @@ ___
 #### Inherited from
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[Struct](ue_ue.DataTableFactory.md#struct)
-
-#### Defined in
-
-[ue/ue.d.ts:28446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28446)
 
 ___
 
@@ -179,19 +147,11 @@ ___
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[SupportedClass](ue_ue.DataTableFactory.md#supportedclass)
 
-#### Defined in
-
-[ue/ue.d.ts:15330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15330)
-
 ___
 
 ### \_\_tid\_CompositeDataTableFactory\_\_
 
 • **\_\_tid\_CompositeDataTableFactory\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:28460](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28460)
 
 ___
 
@@ -203,10 +163,6 @@ ___
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[__tid_DataTableFactory__](ue_ue.DataTableFactory.md#__tid_datatablefactory__)
 
-#### Defined in
-
-[ue/ue.d.ts:28451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28451)
-
 ___
 
 ### \_\_tid\_Factory\_\_
@@ -216,10 +172,6 @@ ___
 #### Inherited from
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[__tid_Factory__](ue_ue.DataTableFactory.md#__tid_factory__)
-
-#### Defined in
-
-[ue/ue.d.ts:15346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15346)
 
 ___
 
@@ -231,10 +183,6 @@ ___
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[__tid_Object__](ue_ue.DataTableFactory.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bCreateNew
@@ -244,10 +192,6 @@ ___
 #### Inherited from
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[bCreateNew](ue_ue.DataTableFactory.md#bcreatenew)
-
-#### Defined in
-
-[ue/ue.d.ts:15329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15329)
 
 ___
 
@@ -259,10 +203,6 @@ ___
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[bEditAfterNew](ue_ue.DataTableFactory.md#beditafternew)
 
-#### Defined in
-
-[ue/ue.d.ts:15333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15333)
-
 ___
 
 ### bEditorImport
@@ -273,10 +213,6 @@ ___
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[bEditorImport](ue_ue.DataTableFactory.md#beditorimport)
 
-#### Defined in
-
-[ue/ue.d.ts:15334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15334)
-
 ___
 
 ### bText
@@ -286,10 +222,6 @@ ___
 #### Inherited from
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[bText](ue_ue.DataTableFactory.md#btext)
-
-#### Defined in
-
-[ue/ue.d.ts:15335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15335)
 
 ## Methods
 
@@ -315,10 +247,6 @@ ___
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[CreateDefaultSubobject](ue_ue.DataTableFactory.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -339,10 +267,6 @@ ___
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[ExecuteUbergraph](ue_ue.DataTableFactory.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -356,10 +280,6 @@ ___
 #### Inherited from
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[GetClass](ue_ue.DataTableFactory.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -375,10 +295,6 @@ ___
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[GetName](ue_ue.DataTableFactory.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -393,10 +309,6 @@ ___
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[GetOuter](ue_ue.DataTableFactory.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -410,10 +322,6 @@ ___
 #### Inherited from
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[GetWorld](ue_ue.DataTableFactory.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -435,10 +343,6 @@ ___
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[ScriptFactoryCanImport](ue_ue.DataTableFactory.md#scriptfactorycanimport)
 
-#### Defined in
-
-[ue/ue.d.ts:15340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15340)
-
 ___
 
 ### ScriptFactoryCreateFile
@@ -458,10 +362,6 @@ ___
 #### Inherited from
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[ScriptFactoryCreateFile](ue_ue.DataTableFactory.md#scriptfactorycreatefile)
-
-#### Defined in
-
-[ue/ue.d.ts:15341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15341)
 
 ___
 
@@ -484,10 +384,6 @@ ___
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[Find](ue_ue.DataTableFactory.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:28457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28457)
-
 ___
 
 ### Load
@@ -508,10 +404,6 @@ ___
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[Load](ue_ue.DataTableFactory.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:28458](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28458)
-
 ___
 
 ### StaticClass
@@ -525,7 +417,3 @@ ___
 #### Overrides
 
 [DataTableFactory](ue_ue.DataTableFactory.md).[StaticClass](ue_ue.DataTableFactory.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:28456](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28456)

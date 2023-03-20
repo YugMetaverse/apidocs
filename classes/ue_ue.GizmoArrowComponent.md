@@ -396,10 +396,6 @@
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[constructor](ue_ue.GizmoBaseComponent.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:37899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37899)
-
 ## Properties
 
 ### AlwaysLoadOnClient
@@ -409,10 +405,6 @@
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[AlwaysLoadOnClient](ue_ue.GizmoBaseComponent.md#alwaysloadonclient)
-
-#### Defined in
-
-[ue/ue.d.ts:12608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12608)
 
 ___
 
@@ -424,10 +416,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[AlwaysLoadOnServer](ue_ue.GizmoBaseComponent.md#alwaysloadonserver)
 
-#### Defined in
-
-[ue/ue.d.ts:12609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12609)
-
 ___
 
 ### AssetUserData
@@ -437,10 +425,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[AssetUserData](ue_ue.GizmoBaseComponent.md#assetuserdata)
-
-#### Defined in
-
-[ue/ue.d.ts:291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L291)
 
 ___
 
@@ -452,10 +436,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[AttachChildren](ue_ue.GizmoBaseComponent.md#attachchildren)
 
-#### Defined in
-
-[ue/ue.d.ts:12873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12873)
-
 ___
 
 ### AttachParent
@@ -465,10 +445,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[AttachParent](ue_ue.GizmoBaseComponent.md#attachparent)
-
-#### Defined in
-
-[ue/ue.d.ts:12871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12871)
 
 ___
 
@@ -480,10 +456,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[AttachSocketName](ue_ue.GizmoBaseComponent.md#attachsocketname)
 
-#### Defined in
-
-[ue/ue.d.ts:12872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12872)
-
 ___
 
 ### BodyInstance
@@ -493,10 +465,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[BodyInstance](ue_ue.GizmoBaseComponent.md#bodyinstance)
-
-#### Defined in
-
-[ue/ue.d.ts:12630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12630)
 
 ___
 
@@ -508,10 +476,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[BoundsScale](ue_ue.GizmoBaseComponent.md#boundsscale)
 
-#### Defined in
-
-[ue/ue.d.ts:12627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12627)
-
 ___
 
 ### CachedMaxDrawDistance
@@ -521,10 +485,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[CachedMaxDrawDistance](ue_ue.GizmoBaseComponent.md#cachedmaxdrawdistance)
-
-#### Defined in
-
-[ue/ue.d.ts:12557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12557)
 
 ___
 
@@ -536,10 +496,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[CanBeCharacterBase](ue_ue.GizmoBaseComponent.md#canbecharacterbase)
 
-#### Defined in
-
-[ue/ue.d.ts:12613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12613)
-
 ___
 
 ### CanCharacterStepUpOn
@@ -549,10 +505,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[CanCharacterStepUpOn](ue_ue.GizmoBaseComponent.md#cancharacterstepupon)
-
-#### Defined in
-
-[ue/ue.d.ts:12614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12614)
 
 ___
 
@@ -564,10 +516,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[CastShadow](ue_ue.GizmoBaseComponent.md#castshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12587)
-
 ___
 
 ### ClientAttachedChildren
@@ -577,10 +525,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[ClientAttachedChildren](ue_ue.GizmoBaseComponent.md#clientattachedchildren)
-
-#### Defined in
-
-[ue/ue.d.ts:12874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12874)
 
 ___
 
@@ -592,10 +536,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[Color](ue_ue.GizmoBaseComponent.md#color)
 
-#### Defined in
-
-[ue/ue.d.ts:37886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37886)
-
 ___
 
 ### ComponentTags
@@ -605,10 +545,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[ComponentTags](ue_ue.GizmoBaseComponent.md#componenttags)
-
-#### Defined in
-
-[ue/ue.d.ts:290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L290)
 
 ___
 
@@ -620,10 +556,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[ComponentVelocity](ue_ue.GizmoBaseComponent.md#componentvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12878)
-
 ___
 
 ### CreationMethod
@@ -633,10 +565,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[CreationMethod](ue_ue.GizmoBaseComponent.md#creationmethod)
-
-#### Defined in
-
-[ue/ue.d.ts:302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L302)
 
 ___
 
@@ -648,10 +576,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[CustomDepthStencilValue](ue_ue.GizmoBaseComponent.md#customdepthstencilvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:12617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12617)
-
 ___
 
 ### CustomDepthStencilWriteMask
@@ -661,10 +585,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[CustomDepthStencilWriteMask](ue_ue.GizmoBaseComponent.md#customdepthstencilwritemask)
-
-#### Defined in
-
-[ue/ue.d.ts:12616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12616)
 
 ___
 
@@ -676,10 +596,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[CustomPrimitiveData](ue_ue.GizmoBaseComponent.md#customprimitivedata)
 
-#### Defined in
-
-[ue/ue.d.ts:12618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12618)
-
 ___
 
 ### DepthPriorityGroup
@@ -689,10 +605,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[DepthPriorityGroup](ue_ue.GizmoBaseComponent.md#depthprioritygroup)
-
-#### Defined in
-
-[ue/ue.d.ts:12558](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12558)
 
 ___
 
@@ -704,19 +616,11 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[DetailMode](ue_ue.GizmoBaseComponent.md#detailmode)
 
-#### Defined in
-
-[ue/ue.d.ts:12893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12893)
-
 ___
 
 ### Direction
 
 • **Direction**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:37900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37900)
 
 ___
 
@@ -728,19 +632,11 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[ExcludeForSpecificHLODLevels](ue_ue.GizmoBaseComponent.md#excludeforspecifichlodlevels)
 
-#### Defined in
-
-[ue/ue.d.ts:12562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12562)
-
 ___
 
 ### Gap
 
 • **Gap**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:37901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37901)
 
 ___
 
@@ -752,10 +648,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[HoverSizeMultiplier](ue_ue.GizmoBaseComponent.md#hoversizemultiplier)
 
-#### Defined in
-
-[ue/ue.d.ts:37887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37887)
-
 ___
 
 ### IndirectLightingCacheQuality
@@ -765,10 +657,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[IndirectLightingCacheQuality](ue_ue.GizmoBaseComponent.md#indirectlightingcachequality)
-
-#### Defined in
-
-[ue/ue.d.ts:12560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12560)
 
 ___
 
@@ -780,10 +668,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[LDMaxDrawDistance](ue_ue.GizmoBaseComponent.md#ldmaxdrawdistance)
 
-#### Defined in
-
-[ue/ue.d.ts:12556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12556)
-
 ___
 
 ### LODParentPrimitive
@@ -794,19 +678,11 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[LODParentPrimitive](ue_ue.GizmoBaseComponent.md#lodparentprimitive)
 
-#### Defined in
-
-[ue/ue.d.ts:12644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12644)
-
 ___
 
 ### Length
 
 • **Length**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:37902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37902)
 
 ___
 
@@ -818,10 +694,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[LightingChannels](ue_ue.GizmoBaseComponent.md#lightingchannels)
 
-#### Defined in
-
-[ue/ue.d.ts:12615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12615)
-
 ___
 
 ### LightmapType
@@ -831,10 +703,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[LightmapType](ue_ue.GizmoBaseComponent.md#lightmaptype)
-
-#### Defined in
-
-[ue/ue.d.ts:12561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12561)
 
 ___
 
@@ -846,10 +714,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[LpvBiasMultiplier](ue_ue.GizmoBaseComponent.md#lpvbiasmultiplier)
 
-#### Defined in
-
-[ue/ue.d.ts:12626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12626)
-
 ___
 
 ### MinDrawDistance
@@ -859,10 +723,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[MinDrawDistance](ue_ue.GizmoBaseComponent.md#mindrawdistance)
-
-#### Defined in
-
-[ue/ue.d.ts:12555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12555)
 
 ___
 
@@ -874,10 +734,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[Mobility](ue_ue.GizmoBaseComponent.md#mobility)
 
-#### Defined in
-
-[ue/ue.d.ts:12892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12892)
-
 ___
 
 ### MoveIgnoreActors
@@ -887,10 +743,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[MoveIgnoreActors](ue_ue.GizmoBaseComponent.md#moveignoreactors)
-
-#### Defined in
-
-[ue/ue.d.ts:12628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12628)
 
 ___
 
@@ -902,10 +754,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[MoveIgnoreComponents](ue_ue.GizmoBaseComponent.md#moveignorecomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12629)
-
 ___
 
 ### OnBeginCursorOver
@@ -915,10 +763,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[OnBeginCursorOver](ue_ue.GizmoBaseComponent.md#onbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:12636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12636)
 
 ___
 
@@ -930,10 +774,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[OnClicked](ue_ue.GizmoBaseComponent.md#onclicked)
 
-#### Defined in
-
-[ue/ue.d.ts:12638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12638)
-
 ___
 
 ### OnComponentActivated
@@ -943,10 +783,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[OnComponentActivated](ue_ue.GizmoBaseComponent.md#oncomponentactivated)
-
-#### Defined in
-
-[ue/ue.d.ts:303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L303)
 
 ___
 
@@ -958,10 +794,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[OnComponentBeginOverlap](ue_ue.GizmoBaseComponent.md#oncomponentbeginoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:12632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12632)
-
 ___
 
 ### OnComponentDeactivated
@@ -971,10 +803,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[OnComponentDeactivated](ue_ue.GizmoBaseComponent.md#oncomponentdeactivated)
-
-#### Defined in
-
-[ue/ue.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L304)
 
 ___
 
@@ -986,10 +814,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[OnComponentEndOverlap](ue_ue.GizmoBaseComponent.md#oncomponentendoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:12633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12633)
-
 ___
 
 ### OnComponentHit
@@ -999,10 +823,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[OnComponentHit](ue_ue.GizmoBaseComponent.md#oncomponenthit)
-
-#### Defined in
-
-[ue/ue.d.ts:12631](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12631)
 
 ___
 
@@ -1014,10 +834,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[OnComponentSleep](ue_ue.GizmoBaseComponent.md#oncomponentsleep)
 
-#### Defined in
-
-[ue/ue.d.ts:12635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12635)
-
 ___
 
 ### OnComponentWake
@@ -1027,10 +843,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[OnComponentWake](ue_ue.GizmoBaseComponent.md#oncomponentwake)
-
-#### Defined in
-
-[ue/ue.d.ts:12634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12634)
 
 ___
 
@@ -1042,10 +854,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[OnEndCursorOver](ue_ue.GizmoBaseComponent.md#onendcursorover)
 
-#### Defined in
-
-[ue/ue.d.ts:12637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12637)
-
 ___
 
 ### OnInputTouchBegin
@@ -1055,10 +863,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[OnInputTouchBegin](ue_ue.GizmoBaseComponent.md#oninputtouchbegin)
-
-#### Defined in
-
-[ue/ue.d.ts:12640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12640)
 
 ___
 
@@ -1070,10 +874,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[OnInputTouchEnd](ue_ue.GizmoBaseComponent.md#oninputtouchend)
 
-#### Defined in
-
-[ue/ue.d.ts:12641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12641)
-
 ___
 
 ### OnInputTouchEnter
@@ -1083,10 +883,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[OnInputTouchEnter](ue_ue.GizmoBaseComponent.md#oninputtouchenter)
-
-#### Defined in
-
-[ue/ue.d.ts:12642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12642)
 
 ___
 
@@ -1098,10 +894,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[OnInputTouchLeave](ue_ue.GizmoBaseComponent.md#oninputtouchleave)
 
-#### Defined in
-
-[ue/ue.d.ts:12643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12643)
-
 ___
 
 ### OnReleased
@@ -1111,10 +903,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[OnReleased](ue_ue.GizmoBaseComponent.md#onreleased)
-
-#### Defined in
-
-[ue/ue.d.ts:12639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12639)
 
 ___
 
@@ -1126,10 +914,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[PhysicsVolume](ue_ue.GizmoBaseComponent.md#physicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12870)
-
 ___
 
 ### PhysicsVolumeChangedDelegate
@@ -1139,10 +923,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[PhysicsVolumeChangedDelegate](ue_ue.GizmoBaseComponent.md#physicsvolumechangeddelegate)
-
-#### Defined in
-
-[ue/ue.d.ts:12894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12894)
 
 ___
 
@@ -1154,10 +934,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[PixelHitDistanceThreshold](ue_ue.GizmoBaseComponent.md#pixelhitdistancethreshold)
 
-#### Defined in
-
-[ue/ue.d.ts:37888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37888)
-
 ___
 
 ### PrimaryComponentTick
@@ -1167,10 +943,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[PrimaryComponentTick](ue_ue.GizmoBaseComponent.md#primarycomponenttick)
-
-#### Defined in
-
-[ue/ue.d.ts:289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L289)
 
 ___
 
@@ -1182,10 +954,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[RelativeLocation](ue_ue.GizmoBaseComponent.md#relativelocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12875)
-
 ___
 
 ### RelativeRotation
@@ -1195,10 +963,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[RelativeRotation](ue_ue.GizmoBaseComponent.md#relativerotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12876)
 
 ___
 
@@ -1210,10 +974,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[RelativeScale3D](ue_ue.GizmoBaseComponent.md#relativescale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:12877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12877)
-
 ___
 
 ### RuntimeVirtualTextures
@@ -1224,19 +984,11 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[RuntimeVirtualTextures](ue_ue.GizmoBaseComponent.md#runtimevirtualtextures)
 
-#### Defined in
-
-[ue/ue.d.ts:12621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12621)
-
 ___
 
 ### Thickness
 
 • **Thickness**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:37903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37903)
 
 ___
 
@@ -1248,10 +1000,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[TranslucencySortPriority](ue_ue.GizmoBaseComponent.md#translucencysortpriority)
 
-#### Defined in
-
-[ue/ue.d.ts:12619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12619)
-
 ___
 
 ### UCSModifiedProperties
@@ -1261,10 +1009,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[UCSModifiedProperties](ue_ue.GizmoBaseComponent.md#ucsmodifiedproperties)
-
-#### Defined in
-
-[ue/ue.d.ts:305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L305)
 
 ___
 
@@ -1276,10 +1020,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[ViewOwnerDepthPriorityGroup](ue_ue.GizmoBaseComponent.md#viewownerdepthprioritygroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12559](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12559)
-
 ___
 
 ### VirtualTextureCullMips
@@ -1289,10 +1029,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[VirtualTextureCullMips](ue_ue.GizmoBaseComponent.md#virtualtexturecullmips)
-
-#### Defined in
-
-[ue/ue.d.ts:12623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12623)
 
 ___
 
@@ -1304,10 +1040,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[VirtualTextureLodBias](ue_ue.GizmoBaseComponent.md#virtualtexturelodbias)
 
-#### Defined in
-
-[ue/ue.d.ts:12622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12622)
-
 ___
 
 ### VirtualTextureMinCoverage
@@ -1317,10 +1049,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[VirtualTextureMinCoverage](ue_ue.GizmoBaseComponent.md#virtualtexturemincoverage)
-
-#### Defined in
-
-[ue/ue.d.ts:12624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12624)
 
 ___
 
@@ -1332,10 +1060,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[VirtualTextureRenderPassType](ue_ue.GizmoBaseComponent.md#virtualtexturerenderpasstype)
 
-#### Defined in
-
-[ue/ue.d.ts:12625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12625)
-
 ___
 
 ### VisibilityId
@@ -1345,10 +1069,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[VisibilityId](ue_ue.GizmoBaseComponent.md#visibilityid)
-
-#### Defined in
-
-[ue/ue.d.ts:12620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12620)
 
 ___
 
@@ -1360,19 +1080,11 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[__tid_ActorComponent__](ue_ue.GizmoBaseComponent.md#__tid_actorcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L336)
-
 ___
 
 ### \_\_tid\_GizmoArrowComponent\_\_
 
 • **\_\_tid\_GizmoArrowComponent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:37908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37908)
 
 ___
 
@@ -1384,10 +1096,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[__tid_GizmoBaseComponent__](ue_ue.GizmoBaseComponent.md#__tid_gizmobasecomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:37895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37895)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -1397,10 +1105,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[__tid_Object__](ue_ue.GizmoBaseComponent.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -1412,10 +1116,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[__tid_PrimitiveComponent__](ue_ue.GizmoBaseComponent.md#__tid_primitivecomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:12761](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12761)
-
 ___
 
 ### \_\_tid\_SceneComponent\_\_
@@ -1425,10 +1125,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[__tid_SceneComponent__](ue_ue.GizmoBaseComponent.md#__tid_scenecomponent__)
-
-#### Defined in
-
-[ue/ue.d.ts:12961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12961)
 
 ___
 
@@ -1440,10 +1136,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bAbsoluteLocation](ue_ue.GizmoBaseComponent.md#babsolutelocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12880)
-
 ___
 
 ### bAbsoluteRotation
@@ -1453,10 +1145,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bAbsoluteRotation](ue_ue.GizmoBaseComponent.md#babsoluterotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12881)
 
 ___
 
@@ -1468,10 +1156,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bAbsoluteScale](ue_ue.GizmoBaseComponent.md#babsolutescale)
 
-#### Defined in
-
-[ue/ue.d.ts:12882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12882)
-
 ___
 
 ### bAffectDistanceFieldLighting
@@ -1481,10 +1165,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bAffectDistanceFieldLighting](ue_ue.GizmoBaseComponent.md#baffectdistancefieldlighting)
-
-#### Defined in
-
-[ue/ue.d.ts:12589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12589)
 
 ___
 
@@ -1496,10 +1176,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bAffectDynamicIndirectLighting](ue_ue.GizmoBaseComponent.md#baffectdynamicindirectlighting)
 
-#### Defined in
-
-[ue/ue.d.ts:12588](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12588)
-
 ___
 
 ### bAllowCullDistanceVolume
@@ -1509,10 +1185,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bAllowCullDistanceVolume](ue_ue.GizmoBaseComponent.md#ballowculldistancevolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12573)
 
 ___
 
@@ -1524,10 +1196,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bAlwaysCreatePhysicsState](ue_ue.GizmoBaseComponent.md#balwayscreatephysicsstate)
 
-#### Defined in
-
-[ue/ue.d.ts:12567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12567)
-
 ___
 
 ### bApplyImpulseOnDamage
@@ -1537,10 +1205,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bApplyImpulseOnDamage](ue_ue.GizmoBaseComponent.md#bapplyimpulseondamage)
-
-#### Defined in
-
-[ue/ue.d.ts:12606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12606)
 
 ___
 
@@ -1552,10 +1216,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bAutoActivate](ue_ue.GizmoBaseComponent.md#bautoactivate)
 
-#### Defined in
-
-[ue/ue.d.ts:296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L296)
-
 ___
 
 ### bBatchImpostersAsInstances
@@ -1565,10 +1225,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bBatchImpostersAsInstances](ue_ue.GizmoBaseComponent.md#bbatchimpostersasinstances)
-
-#### Defined in
-
-[ue/ue.d.ts:12565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12565)
 
 ___
 
@@ -1580,10 +1236,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bBoundsChangeTriggersStreamingDataRebuild](ue_ue.GizmoBaseComponent.md#bboundschangetriggersstreamingdatarebuild)
 
-#### Defined in
-
-[ue/ue.d.ts:12889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12889)
-
 ___
 
 ### bCanEverAffectNavigation
@@ -1593,10 +1245,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bCanEverAffectNavigation](ue_ue.GizmoBaseComponent.md#bcaneveraffectnavigation)
-
-#### Defined in
-
-[ue/ue.d.ts:299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L299)
 
 ___
 
@@ -1608,10 +1256,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bCastCinematicShadow](ue_ue.GizmoBaseComponent.md#bcastcinematicshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12596)
-
 ___
 
 ### bCastDynamicShadow
@@ -1621,10 +1265,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bCastDynamicShadow](ue_ue.GizmoBaseComponent.md#bcastdynamicshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12590)
 
 ___
 
@@ -1636,10 +1276,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bCastFarShadow](ue_ue.GizmoBaseComponent.md#bcastfarshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12594)
-
 ___
 
 ### bCastHiddenShadow
@@ -1649,10 +1285,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bCastHiddenShadow](ue_ue.GizmoBaseComponent.md#bcasthiddenshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12597)
 
 ___
 
@@ -1664,10 +1296,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bCastInsetShadow](ue_ue.GizmoBaseComponent.md#bcastinsetshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12595)
-
 ___
 
 ### bCastShadowAsTwoSided
@@ -1677,10 +1305,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bCastShadowAsTwoSided](ue_ue.GizmoBaseComponent.md#bcastshadowastwosided)
-
-#### Defined in
-
-[ue/ue.d.ts:12598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12598)
 
 ___
 
@@ -1692,10 +1316,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bCastStaticShadow](ue_ue.GizmoBaseComponent.md#bcaststaticshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12591)
-
 ___
 
 ### bCastVolumetricTranslucentShadow
@@ -1705,10 +1325,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bCastVolumetricTranslucentShadow](ue_ue.GizmoBaseComponent.md#bcastvolumetrictranslucentshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12592)
 
 ___
 
@@ -1720,10 +1336,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bComponentToWorldUpdated](ue_ue.GizmoBaseComponent.md#bcomponenttoworldupdated)
 
-#### Defined in
-
-[ue/ue.d.ts:12879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12879)
-
 ___
 
 ### bCreatedByConstructionScript
@@ -1733,10 +1345,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bCreatedByConstructionScript](ue_ue.GizmoBaseComponent.md#bcreatedbyconstructionscript)
-
-#### Defined in
-
-[ue/ue.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L294)
 
 ___
 
@@ -1748,10 +1356,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bEditableWhenInherited](ue_ue.GizmoBaseComponent.md#beditablewheninherited)
 
-#### Defined in
-
-[ue/ue.d.ts:298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L298)
-
 ___
 
 ### bEnableAutoLODGeneration
@@ -1761,10 +1365,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bEnableAutoLODGeneration](ue_ue.GizmoBaseComponent.md#benableautolodgeneration)
-
-#### Defined in
-
-[ue/ue.d.ts:12563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12563)
 
 ___
 
@@ -1776,10 +1376,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bExcludeFromLightAttachmentGroup](ue_ue.GizmoBaseComponent.md#bexcludefromlightattachmentgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12601)
-
 ___
 
 ### bForceMipStreaming
@@ -1789,10 +1385,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bForceMipStreaming](ue_ue.GizmoBaseComponent.md#bforcemipstreaming)
-
-#### Defined in
-
-[ue/ue.d.ts:12585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12585)
 
 ___
 
@@ -1804,10 +1396,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bGenerateOverlapEvents](ue_ue.GizmoBaseComponent.md#bgenerateoverlapevents)
 
-#### Defined in
-
-[ue/ue.d.ts:12568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12568)
-
 ___
 
 ### bHasCustomNavigableGeometry
@@ -1817,10 +1405,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bHasCustomNavigableGeometry](ue_ue.GizmoBaseComponent.md#bhascustomnavigablegeometry)
-
-#### Defined in
-
-[ue/ue.d.ts:12612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12612)
 
 ___
 
@@ -1832,10 +1416,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bHasMotionBlurVelocityMeshes](ue_ue.GizmoBaseComponent.md#bhasmotionblurvelocitymeshes)
 
-#### Defined in
-
-[ue/ue.d.ts:12574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12574)
-
 ___
 
 ### bHasPerInstanceHitProxies
@@ -1845,10 +1425,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bHasPerInstanceHitProxies](ue_ue.GizmoBaseComponent.md#bhasperinstancehitproxies)
-
-#### Defined in
-
-[ue/ue.d.ts:12586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12586)
 
 ___
 
@@ -1860,10 +1436,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bHiddenInGame](ue_ue.GizmoBaseComponent.md#bhiddeningame)
 
-#### Defined in
-
-[ue/ue.d.ts:12884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12884)
-
 ___
 
 ### bIgnoreRadialForce
@@ -1873,10 +1445,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bIgnoreRadialForce](ue_ue.GizmoBaseComponent.md#bignoreradialforce)
-
-#### Defined in
-
-[ue/ue.d.ts:12605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12605)
 
 ___
 
@@ -1888,10 +1456,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bIgnoreRadialImpulse](ue_ue.GizmoBaseComponent.md#bignoreradialimpulse)
 
-#### Defined in
-
-[ue/ue.d.ts:12604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12604)
-
 ___
 
 ### bInstanceComponent
@@ -1901,10 +1465,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bInstanceComponent](ue_ue.GizmoBaseComponent.md#binstancecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L295)
 
 ___
 
@@ -1916,10 +1476,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bIsActive](ue_ue.GizmoBaseComponent.md#bisactive)
 
-#### Defined in
-
-[ue/ue.d.ts:297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L297)
-
 ___
 
 ### bIsEditorOnly
@@ -1929,10 +1485,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bIsEditorOnly](ue_ue.GizmoBaseComponent.md#biseditoronly)
-
-#### Defined in
-
-[ue/ue.d.ts:300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L300)
 
 ___
 
@@ -1944,10 +1496,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bIsVisualizationComponent](ue_ue.GizmoBaseComponent.md#bisvisualizationcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L301)
-
 ___
 
 ### bLightAsIfStatic
@@ -1957,10 +1505,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bLightAsIfStatic](ue_ue.GizmoBaseComponent.md#blightasifstatic)
-
-#### Defined in
-
-[ue/ue.d.ts:12599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12599)
 
 ___
 
@@ -1972,10 +1516,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bLightAttachmentsAsGroup](ue_ue.GizmoBaseComponent.md#blightattachmentsasgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12600)
-
 ___
 
 ### bMultiBodyOverlap
@@ -1985,10 +1525,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bMultiBodyOverlap](ue_ue.GizmoBaseComponent.md#bmultibodyoverlap)
-
-#### Defined in
-
-[ue/ue.d.ts:12569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12569)
 
 ___
 
@@ -2000,10 +1536,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bNetAddressable](ue_ue.GizmoBaseComponent.md#bnetaddressable)
 
-#### Defined in
-
-[ue/ue.d.ts:293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L293)
-
 ___
 
 ### bNeverDistanceCull
@@ -2013,10 +1545,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bNeverDistanceCull](ue_ue.GizmoBaseComponent.md#bneverdistancecull)
-
-#### Defined in
-
-[ue/ue.d.ts:12566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12566)
 
 ___
 
@@ -2028,10 +1556,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bOnlyOwnerSee](ue_ue.GizmoBaseComponent.md#bonlyownersee)
 
-#### Defined in
-
-[ue/ue.d.ts:12581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12581)
-
 ___
 
 ### bOwnerNoSee
@@ -2041,10 +1565,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bOwnerNoSee](ue_ue.GizmoBaseComponent.md#bownernosee)
-
-#### Defined in
-
-[ue/ue.d.ts:12580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12580)
 
 ___
 
@@ -2056,10 +1576,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bReceiveMobileCSMShadows](ue_ue.GizmoBaseComponent.md#breceivemobilecsmshadows)
 
-#### Defined in
-
-[ue/ue.d.ts:12602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12602)
-
 ___
 
 ### bReceivesDecals
@@ -2069,10 +1585,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bReceivesDecals](ue_ue.GizmoBaseComponent.md#breceivesdecals)
-
-#### Defined in
-
-[ue/ue.d.ts:12579](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12579)
 
 ___
 
@@ -2084,10 +1596,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bRenderCustomDepth](ue_ue.GizmoBaseComponent.md#brendercustomdepth)
 
-#### Defined in
-
-[ue/ue.d.ts:12611](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12611)
-
 ___
 
 ### bRenderInDepthPass
@@ -2097,10 +1605,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bRenderInDepthPass](ue_ue.GizmoBaseComponent.md#brenderindepthpass)
-
-#### Defined in
-
-[ue/ue.d.ts:12578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12578)
 
 ___
 
@@ -2112,10 +1616,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bRenderInMainPass](ue_ue.GizmoBaseComponent.md#brenderinmainpass)
 
-#### Defined in
-
-[ue/ue.d.ts:12577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12577)
-
 ___
 
 ### bReplicatePhysicsToAutonomousProxy
@@ -2125,10 +1625,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bReplicatePhysicsToAutonomousProxy](ue_ue.GizmoBaseComponent.md#breplicatephysicstoautonomousproxy)
-
-#### Defined in
-
-[ue/ue.d.ts:12607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12607)
 
 ___
 
@@ -2140,10 +1636,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bReplicates](ue_ue.GizmoBaseComponent.md#breplicates)
 
-#### Defined in
-
-[ue/ue.d.ts:292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L292)
-
 ___
 
 ### bReturnMaterialOnMove
@@ -2153,10 +1645,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bReturnMaterialOnMove](ue_ue.GizmoBaseComponent.md#breturnmaterialonmove)
-
-#### Defined in
-
-[ue/ue.d.ts:12571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12571)
 
 ___
 
@@ -2168,10 +1656,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bSelectable](ue_ue.GizmoBaseComponent.md#bselectable)
 
-#### Defined in
-
-[ue/ue.d.ts:12584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12584)
-
 ___
 
 ### bSelfShadowOnly
@@ -2181,10 +1665,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bSelfShadowOnly](ue_ue.GizmoBaseComponent.md#bselfshadowonly)
-
-#### Defined in
-
-[ue/ue.d.ts:12593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12593)
 
 ___
 
@@ -2196,10 +1676,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bShouldBeAttached](ue_ue.GizmoBaseComponent.md#bshouldbeattached)
 
-#### Defined in
-
-[ue/ue.d.ts:12885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12885)
-
 ___
 
 ### bShouldSnapLocationWhenAttached
@@ -2209,10 +1685,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bShouldSnapLocationWhenAttached](ue_ue.GizmoBaseComponent.md#bshouldsnaplocationwhenattached)
-
-#### Defined in
-
-[ue/ue.d.ts:12886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12886)
 
 ___
 
@@ -2224,10 +1696,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bShouldSnapRotationWhenAttached](ue_ue.GizmoBaseComponent.md#bshouldsnaprotationwhenattached)
 
-#### Defined in
-
-[ue/ue.d.ts:12887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12887)
-
 ___
 
 ### bShouldUpdatePhysicsVolume
@@ -2237,10 +1705,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bShouldUpdatePhysicsVolume](ue_ue.GizmoBaseComponent.md#bshouldupdatephysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12888)
 
 ___
 
@@ -2252,10 +1716,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bSingleSampleShadowFromStationaryLights](ue_ue.GizmoBaseComponent.md#bsinglesampleshadowfromstationarylights)
 
-#### Defined in
-
-[ue/ue.d.ts:12603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12603)
-
 ___
 
 ### bTraceComplexOnMove
@@ -2265,10 +1725,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bTraceComplexOnMove](ue_ue.GizmoBaseComponent.md#btracecomplexonmove)
-
-#### Defined in
-
-[ue/ue.d.ts:12570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12570)
 
 ___
 
@@ -2280,10 +1736,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bTreatAsBackgroundForOcclusion](ue_ue.GizmoBaseComponent.md#btreatasbackgroundforocclusion)
 
-#### Defined in
-
-[ue/ue.d.ts:12582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12582)
-
 ___
 
 ### bUseAsOccluder
@@ -2293,10 +1745,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bUseAsOccluder](ue_ue.GizmoBaseComponent.md#buseasoccluder)
-
-#### Defined in
-
-[ue/ue.d.ts:12583](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12583)
 
 ___
 
@@ -2308,10 +1756,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bUseAttachParentBound](ue_ue.GizmoBaseComponent.md#buseattachparentbound)
 
-#### Defined in
-
-[ue/ue.d.ts:12890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12890)
-
 ___
 
 ### bUseEditorCompositing
@@ -2321,10 +1765,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bUseEditorCompositing](ue_ue.GizmoBaseComponent.md#buseeditorcompositing)
-
-#### Defined in
-
-[ue/ue.d.ts:12610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12610)
 
 ___
 
@@ -2336,10 +1776,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bUseMaxLODAsImposter](ue_ue.GizmoBaseComponent.md#busemaxlodasimposter)
 
-#### Defined in
-
-[ue/ue.d.ts:12564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12564)
-
 ___
 
 ### bUseViewOwnerDepthPriorityGroup
@@ -2349,10 +1785,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bUseViewOwnerDepthPriorityGroup](ue_ue.GizmoBaseComponent.md#buseviewownerdepthprioritygroup)
-
-#### Defined in
-
-[ue/ue.d.ts:12572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12572)
 
 ___
 
@@ -2364,10 +1796,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bVisible](ue_ue.GizmoBaseComponent.md#bvisible)
 
-#### Defined in
-
-[ue/ue.d.ts:12883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12883)
-
 ___
 
 ### bVisibleInRayTracing
@@ -2377,10 +1805,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bVisibleInRayTracing](ue_ue.GizmoBaseComponent.md#bvisibleinraytracing)
-
-#### Defined in
-
-[ue/ue.d.ts:12576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12576)
 
 ___
 
@@ -2392,10 +1816,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bVisibleInReflectionCaptures](ue_ue.GizmoBaseComponent.md#bvisibleinreflectioncaptures)
 
-#### Defined in
-
-[ue/ue.d.ts:12575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12575)
-
 ___
 
 ### bVisualizeComponent
@@ -2405,10 +1825,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[bVisualizeComponent](ue_ue.GizmoBaseComponent.md#bvisualizecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12891)
 
 ## Methods
 
@@ -2429,10 +1845,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[Activate](ue_ue.GizmoBaseComponent.md#activate)
-
-#### Defined in
-
-[ue/ue.d.ts:306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L306)
 
 ___
 
@@ -2456,10 +1868,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[AddAngularImpulse](ue_ue.GizmoBaseComponent.md#addangularimpulse)
 
-#### Defined in
-
-[ue/ue.d.ts:12645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12645)
-
 ___
 
 ### AddAngularImpulseInDegrees
@@ -2481,10 +1889,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[AddAngularImpulseInDegrees](ue_ue.GizmoBaseComponent.md#addangularimpulseindegrees)
-
-#### Defined in
-
-[ue/ue.d.ts:12646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12646)
 
 ___
 
@@ -2508,10 +1912,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[AddAngularImpulseInRadians](ue_ue.GizmoBaseComponent.md#addangularimpulseinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12647)
-
 ___
 
 ### AddForce
@@ -2533,10 +1933,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[AddForce](ue_ue.GizmoBaseComponent.md#addforce)
-
-#### Defined in
-
-[ue/ue.d.ts:12648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12648)
 
 ___
 
@@ -2560,10 +1956,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[AddForceAtLocation](ue_ue.GizmoBaseComponent.md#addforceatlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12649)
-
 ___
 
 ### AddForceAtLocationLocal
@@ -2585,10 +1977,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[AddForceAtLocationLocal](ue_ue.GizmoBaseComponent.md#addforceatlocationlocal)
-
-#### Defined in
-
-[ue/ue.d.ts:12650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12650)
 
 ___
 
@@ -2612,10 +2000,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[AddImpulse](ue_ue.GizmoBaseComponent.md#addimpulse)
 
-#### Defined in
-
-[ue/ue.d.ts:12651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12651)
-
 ___
 
 ### AddImpulseAtLocation
@@ -2637,10 +2021,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[AddImpulseAtLocation](ue_ue.GizmoBaseComponent.md#addimpulseatlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12652)
 
 ___
 
@@ -2666,10 +2046,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[AddRadialForce](ue_ue.GizmoBaseComponent.md#addradialforce)
 
-#### Defined in
-
-[ue/ue.d.ts:12653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12653)
-
 ___
 
 ### AddRadialImpulse
@@ -2694,10 +2070,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[AddRadialImpulse](ue_ue.GizmoBaseComponent.md#addradialimpulse)
 
-#### Defined in
-
-[ue/ue.d.ts:12654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12654)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -2718,10 +2090,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[AddTickPrerequisiteActor](ue_ue.GizmoBaseComponent.md#addtickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L307)
-
 ___
 
 ### AddTickPrerequisiteComponent
@@ -2741,10 +2109,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[AddTickPrerequisiteComponent](ue_ue.GizmoBaseComponent.md#addtickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L308)
 
 ___
 
@@ -2768,10 +2132,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[AddTorque](ue_ue.GizmoBaseComponent.md#addtorque)
 
-#### Defined in
-
-[ue/ue.d.ts:12655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12655)
-
 ___
 
 ### AddTorqueInDegrees
@@ -2793,10 +2153,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[AddTorqueInDegrees](ue_ue.GizmoBaseComponent.md#addtorqueindegrees)
-
-#### Defined in
-
-[ue/ue.d.ts:12656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12656)
 
 ___
 
@@ -2820,10 +2176,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[AddTorqueInRadians](ue_ue.GizmoBaseComponent.md#addtorqueinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12657)
-
 ___
 
 ### CanCharacterStepUp
@@ -2844,10 +2196,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[CanCharacterStepUp](ue_ue.GizmoBaseComponent.md#cancharacterstepup)
 
-#### Defined in
-
-[ue/ue.d.ts:12658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12658)
-
 ___
 
 ### ClearMoveIgnoreActors
@@ -2862,10 +2210,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[ClearMoveIgnoreActors](ue_ue.GizmoBaseComponent.md#clearmoveignoreactors)
 
-#### Defined in
-
-[ue/ue.d.ts:12659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12659)
-
 ___
 
 ### ClearMoveIgnoreComponents
@@ -2879,10 +2223,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[ClearMoveIgnoreComponents](ue_ue.GizmoBaseComponent.md#clearmoveignorecomponents)
-
-#### Defined in
-
-[ue/ue.d.ts:12660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12660)
 
 ___
 
@@ -2904,10 +2244,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[ComponentHasTag](ue_ue.GizmoBaseComponent.md#componenthastag)
 
-#### Defined in
-
-[ue/ue.d.ts:309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L309)
-
 ___
 
 ### CopyArrayOfMoveIgnoreActors
@@ -2922,10 +2258,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[CopyArrayOfMoveIgnoreActors](ue_ue.GizmoBaseComponent.md#copyarrayofmoveignoreactors)
 
-#### Defined in
-
-[ue/ue.d.ts:12661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12661)
-
 ___
 
 ### CopyArrayOfMoveIgnoreComponents
@@ -2939,10 +2271,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[CopyArrayOfMoveIgnoreComponents](ue_ue.GizmoBaseComponent.md#copyarrayofmoveignorecomponents)
-
-#### Defined in
-
-[ue/ue.d.ts:12662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12662)
 
 ___
 
@@ -2964,10 +2292,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[CreateAndSetMaterialInstanceDynamic](ue_ue.GizmoBaseComponent.md#createandsetmaterialinstancedynamic)
 
-#### Defined in
-
-[ue/ue.d.ts:12663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12663)
-
 ___
 
 ### CreateAndSetMaterialInstanceDynamicFromMaterial
@@ -2988,10 +2312,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[CreateAndSetMaterialInstanceDynamicFromMaterial](ue_ue.GizmoBaseComponent.md#createandsetmaterialinstancedynamicfrommaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:12664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12664)
 
 ___
 
@@ -3017,10 +2337,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[CreateDefaultSubobject](ue_ue.GizmoBaseComponent.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### CreateDynamicMaterialInstance
@@ -3043,10 +2359,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[CreateDynamicMaterialInstance](ue_ue.GizmoBaseComponent.md#createdynamicmaterialinstance)
 
-#### Defined in
-
-[ue/ue.d.ts:12665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12665)
-
 ___
 
 ### Deactivate
@@ -3060,10 +2372,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[Deactivate](ue_ue.GizmoBaseComponent.md#deactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L310)
 
 ___
 
@@ -3086,10 +2394,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[DetachFromParent](ue_ue.GizmoBaseComponent.md#detachfromparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12895)
-
 ___
 
 ### DoesSocketExist
@@ -3109,10 +2413,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[DoesSocketExist](ue_ue.GizmoBaseComponent.md#doessocketexist)
-
-#### Defined in
-
-[ue/ue.d.ts:12896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12896)
 
 ___
 
@@ -3134,10 +2434,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[ExecuteUbergraph](ue_ue.GizmoBaseComponent.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetAllSocketNames
@@ -3151,10 +2447,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetAllSocketNames](ue_ue.GizmoBaseComponent.md#getallsocketnames)
-
-#### Defined in
-
-[ue/ue.d.ts:12897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12897)
 
 ___
 
@@ -3170,10 +2462,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetAngularDamping](ue_ue.GizmoBaseComponent.md#getangulardamping)
 
-#### Defined in
-
-[ue/ue.d.ts:12666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12666)
-
 ___
 
 ### GetAttachParent
@@ -3188,10 +2476,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetAttachParent](ue_ue.GizmoBaseComponent.md#getattachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12898)
-
 ___
 
 ### GetAttachSocketName
@@ -3205,10 +2489,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetAttachSocketName](ue_ue.GizmoBaseComponent.md#getattachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12899)
 
 ___
 
@@ -3230,10 +2510,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetCenterOfMass](ue_ue.GizmoBaseComponent.md#getcenterofmass)
 
-#### Defined in
-
-[ue/ue.d.ts:12667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12667)
-
 ___
 
 ### GetChildComponent
@@ -3253,10 +2529,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetChildComponent](ue_ue.GizmoBaseComponent.md#getchildcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12900)
 
 ___
 
@@ -3279,10 +2551,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetChildrenComponents](ue_ue.GizmoBaseComponent.md#getchildrencomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12901)
-
 ___
 
 ### GetClass
@@ -3296,10 +2564,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetClass](ue_ue.GizmoBaseComponent.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -3323,10 +2587,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetClosestPointOnCollision](ue_ue.GizmoBaseComponent.md#getclosestpointoncollision)
 
-#### Defined in
-
-[ue/ue.d.ts:12668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12668)
-
 ___
 
 ### GetCollisionEnabled
@@ -3340,10 +2600,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetCollisionEnabled](ue_ue.GizmoBaseComponent.md#getcollisionenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12669)
 
 ___
 
@@ -3359,10 +2615,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetCollisionObjectType](ue_ue.GizmoBaseComponent.md#getcollisionobjecttype)
 
-#### Defined in
-
-[ue/ue.d.ts:12670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12670)
-
 ___
 
 ### GetCollisionProfileName
@@ -3376,10 +2628,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetCollisionProfileName](ue_ue.GizmoBaseComponent.md#getcollisionprofilename)
-
-#### Defined in
-
-[ue/ue.d.ts:12671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12671)
 
 ___
 
@@ -3401,10 +2649,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetCollisionResponseToChannel](ue_ue.GizmoBaseComponent.md#getcollisionresponsetochannel)
 
-#### Defined in
-
-[ue/ue.d.ts:12672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12672)
-
 ___
 
 ### GetComponentTickInterval
@@ -3418,10 +2662,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetComponentTickInterval](ue_ue.GizmoBaseComponent.md#getcomponenttickinterval)
-
-#### Defined in
-
-[ue/ue.d.ts:311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L311)
 
 ___
 
@@ -3437,10 +2677,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetComponentVelocity](ue_ue.GizmoBaseComponent.md#getcomponentvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12902)
-
 ___
 
 ### GetForwardVector
@@ -3455,10 +2691,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetForwardVector](ue_ue.GizmoBaseComponent.md#getforwardvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12903)
-
 ___
 
 ### GetGenerateOverlapEvents
@@ -3472,10 +2704,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetGenerateOverlapEvents](ue_ue.GizmoBaseComponent.md#getgenerateoverlapevents)
-
-#### Defined in
-
-[ue/ue.d.ts:12673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12673)
 
 ___
 
@@ -3497,10 +2725,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetInertiaTensor](ue_ue.GizmoBaseComponent.md#getinertiatensor)
 
-#### Defined in
-
-[ue/ue.d.ts:12674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12674)
-
 ___
 
 ### GetLinearDamping
@@ -3515,10 +2739,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetLinearDamping](ue_ue.GizmoBaseComponent.md#getlineardamping)
 
-#### Defined in
-
-[ue/ue.d.ts:12675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12675)
-
 ___
 
 ### GetMass
@@ -3532,10 +2752,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetMass](ue_ue.GizmoBaseComponent.md#getmass)
-
-#### Defined in
-
-[ue/ue.d.ts:12676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12676)
 
 ___
 
@@ -3557,10 +2773,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetMassScale](ue_ue.GizmoBaseComponent.md#getmassscale)
 
-#### Defined in
-
-[ue/ue.d.ts:12677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12677)
-
 ___
 
 ### GetMaterial
@@ -3580,10 +2792,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetMaterial](ue_ue.GizmoBaseComponent.md#getmaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:12678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12678)
 
 ___
 
@@ -3606,10 +2814,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetMaterialFromCollisionFaceIndex](ue_ue.GizmoBaseComponent.md#getmaterialfromcollisionfaceindex)
 
-#### Defined in
-
-[ue/ue.d.ts:12679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12679)
-
 ___
 
 ### GetName
@@ -3623,10 +2827,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetName](ue_ue.GizmoBaseComponent.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -3642,10 +2842,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetNumChildrenComponents](ue_ue.GizmoBaseComponent.md#getnumchildrencomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12904)
-
 ___
 
 ### GetNumMaterials
@@ -3660,10 +2856,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetNumMaterials](ue_ue.GizmoBaseComponent.md#getnummaterials)
 
-#### Defined in
-
-[ue/ue.d.ts:12680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12680)
-
 ___
 
 ### GetOuter
@@ -3677,10 +2869,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetOuter](ue_ue.GizmoBaseComponent.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -3703,10 +2891,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetOverlappingActors](ue_ue.GizmoBaseComponent.md#getoverlappingactors)
 
-#### Defined in
-
-[ue/ue.d.ts:12681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12681)
-
 ___
 
 ### GetOverlappingComponents
@@ -3727,10 +2911,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetOverlappingComponents](ue_ue.GizmoBaseComponent.md#getoverlappingcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12682)
-
 ___
 
 ### GetOwner
@@ -3744,10 +2924,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetOwner](ue_ue.GizmoBaseComponent.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L312)
 
 ___
 
@@ -3769,10 +2945,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetParentComponents](ue_ue.GizmoBaseComponent.md#getparentcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12905)
-
 ___
 
 ### GetPhysicsAngularVelocity
@@ -3792,10 +2964,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetPhysicsAngularVelocity](ue_ue.GizmoBaseComponent.md#getphysicsangularvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12683)
 
 ___
 
@@ -3817,10 +2985,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetPhysicsAngularVelocityInDegrees](ue_ue.GizmoBaseComponent.md#getphysicsangularvelocityindegrees)
 
-#### Defined in
-
-[ue/ue.d.ts:12684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12684)
-
 ___
 
 ### GetPhysicsAngularVelocityInRadians
@@ -3841,10 +3005,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetPhysicsAngularVelocityInRadians](ue_ue.GizmoBaseComponent.md#getphysicsangularvelocityinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12685)
-
 ___
 
 ### GetPhysicsLinearVelocity
@@ -3864,10 +3024,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetPhysicsLinearVelocity](ue_ue.GizmoBaseComponent.md#getphysicslinearvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12686](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12686)
 
 ___
 
@@ -3890,10 +3046,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetPhysicsLinearVelocityAtPoint](ue_ue.GizmoBaseComponent.md#getphysicslinearvelocityatpoint)
 
-#### Defined in
-
-[ue/ue.d.ts:12687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12687)
-
 ___
 
 ### GetPhysicsVolume
@@ -3907,10 +3059,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetPhysicsVolume](ue_ue.GizmoBaseComponent.md#getphysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12906)
 
 ___
 
@@ -3926,10 +3074,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetRelativeTransform](ue_ue.GizmoBaseComponent.md#getrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12907)
-
 ___
 
 ### GetRightVector
@@ -3944,10 +3088,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetRightVector](ue_ue.GizmoBaseComponent.md#getrightvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12908)
-
 ___
 
 ### GetShouldUpdatePhysicsVolume
@@ -3961,10 +3101,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetShouldUpdatePhysicsVolume](ue_ue.GizmoBaseComponent.md#getshouldupdatephysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12909)
 
 ___
 
@@ -3986,10 +3122,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetSocketLocation](ue_ue.GizmoBaseComponent.md#getsocketlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12910)
-
 ___
 
 ### GetSocketQuaternion
@@ -4010,10 +3142,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetSocketQuaternion](ue_ue.GizmoBaseComponent.md#getsocketquaternion)
 
-#### Defined in
-
-[ue/ue.d.ts:12911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12911)
-
 ___
 
 ### GetSocketRotation
@@ -4033,10 +3161,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetSocketRotation](ue_ue.GizmoBaseComponent.md#getsocketrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12912)
 
 ___
 
@@ -4059,10 +3183,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetSocketTransform](ue_ue.GizmoBaseComponent.md#getsockettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12913)
-
 ___
 
 ### GetUpVector
@@ -4076,10 +3196,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetUpVector](ue_ue.GizmoBaseComponent.md#getupvector)
-
-#### Defined in
-
-[ue/ue.d.ts:12914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12914)
 
 ___
 
@@ -4095,10 +3211,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetWalkableSlopeOverride](ue_ue.GizmoBaseComponent.md#getwalkableslopeoverride)
 
-#### Defined in
-
-[ue/ue.d.ts:12688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12688)
-
 ___
 
 ### GetWorld
@@ -4112,10 +3224,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[GetWorld](ue_ue.GizmoBaseComponent.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -4138,10 +3246,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[IgnoreActorWhenMoving](ue_ue.GizmoBaseComponent.md#ignoreactorwhenmoving)
 
-#### Defined in
-
-[ue/ue.d.ts:12689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12689)
-
 ___
 
 ### IgnoreComponentWhenMoving
@@ -4163,10 +3267,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[IgnoreComponentWhenMoving](ue_ue.GizmoBaseComponent.md#ignorecomponentwhenmoving)
 
-#### Defined in
-
-[ue/ue.d.ts:12690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12690)
-
 ___
 
 ### IsActive
@@ -4180,10 +3280,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[IsActive](ue_ue.GizmoBaseComponent.md#isactive)
-
-#### Defined in
-
-[ue/ue.d.ts:313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L313)
 
 ___
 
@@ -4199,10 +3295,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[IsAnyRigidBodyAwake](ue_ue.GizmoBaseComponent.md#isanyrigidbodyawake)
 
-#### Defined in
-
-[ue/ue.d.ts:12691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12691)
-
 ___
 
 ### IsAnySimulatingPhysics
@@ -4216,10 +3308,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[IsAnySimulatingPhysics](ue_ue.GizmoBaseComponent.md#isanysimulatingphysics)
-
-#### Defined in
-
-[ue/ue.d.ts:12915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12915)
 
 ___
 
@@ -4235,10 +3323,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[IsBeingDestroyed](ue_ue.GizmoBaseComponent.md#isbeingdestroyed)
 
-#### Defined in
-
-[ue/ue.d.ts:314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L314)
-
 ___
 
 ### IsComponentTickEnabled
@@ -4253,10 +3337,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[IsComponentTickEnabled](ue_ue.GizmoBaseComponent.md#iscomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L315)
-
 ___
 
 ### IsGravityEnabled
@@ -4270,10 +3350,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[IsGravityEnabled](ue_ue.GizmoBaseComponent.md#isgravityenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12692](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12692)
 
 ___
 
@@ -4295,10 +3371,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[IsOverlappingActor](ue_ue.GizmoBaseComponent.md#isoverlappingactor)
 
-#### Defined in
-
-[ue/ue.d.ts:12693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12693)
-
 ___
 
 ### IsOverlappingComponent
@@ -4318,10 +3390,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[IsOverlappingComponent](ue_ue.GizmoBaseComponent.md#isoverlappingcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12694](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12694)
 
 ___
 
@@ -4343,10 +3411,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[IsSimulatingPhysics](ue_ue.GizmoBaseComponent.md#issimulatingphysics)
 
-#### Defined in
-
-[ue/ue.d.ts:12916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12916)
-
 ___
 
 ### IsVisible
@@ -4360,10 +3424,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[IsVisible](ue_ue.GizmoBaseComponent.md#isvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:12917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12917)
 
 ___
 
@@ -4388,10 +3448,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_AddLocalOffset](ue_ue.GizmoBaseComponent.md#k2_addlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:12918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12918)
-
 ___
 
 ### K2\_AddLocalRotation
@@ -4414,10 +3470,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_AddLocalRotation](ue_ue.GizmoBaseComponent.md#k2_addlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12919)
 
 ___
 
@@ -4442,10 +3494,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_AddLocalTransform](ue_ue.GizmoBaseComponent.md#k2_addlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12920)
-
 ___
 
 ### K2\_AddRelativeLocation
@@ -4468,10 +3516,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_AddRelativeLocation](ue_ue.GizmoBaseComponent.md#k2_addrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12921)
 
 ___
 
@@ -4496,10 +3540,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_AddRelativeRotation](ue_ue.GizmoBaseComponent.md#k2_addrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12922)
-
 ___
 
 ### K2\_AddWorldOffset
@@ -4522,10 +3562,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_AddWorldOffset](ue_ue.GizmoBaseComponent.md#k2_addworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:12923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12923)
 
 ___
 
@@ -4550,10 +3586,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_AddWorldRotation](ue_ue.GizmoBaseComponent.md#k2_addworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12924)
-
 ___
 
 ### K2\_AddWorldTransform
@@ -4577,10 +3609,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_AddWorldTransform](ue_ue.GizmoBaseComponent.md#k2_addworldtransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12925)
-
 ___
 
 ### K2\_AttachTo
@@ -4603,10 +3631,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_AttachTo](ue_ue.GizmoBaseComponent.md#k2_attachto)
-
-#### Defined in
-
-[ue/ue.d.ts:12926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12926)
 
 ___
 
@@ -4632,10 +3656,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_AttachToComponent](ue_ue.GizmoBaseComponent.md#k2_attachtocomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12927)
 
 ___
 
@@ -4665,10 +3685,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_BoxOverlapComponent](ue_ue.GizmoBaseComponent.md#k2_boxoverlapcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12695)
-
 ___
 
 ### K2\_DestroyComponent
@@ -4688,10 +3704,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_DestroyComponent](ue_ue.GizmoBaseComponent.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L316)
 
 ___
 
@@ -4716,10 +3728,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_DetachFromComponent](ue_ue.GizmoBaseComponent.md#k2_detachfromcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12928)
-
 ___
 
 ### K2\_GetComponentLocation
@@ -4733,10 +3741,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_GetComponentLocation](ue_ue.GizmoBaseComponent.md#k2_getcomponentlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12929)
 
 ___
 
@@ -4752,10 +3756,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_GetComponentRotation](ue_ue.GizmoBaseComponent.md#k2_getcomponentrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12930)
-
 ___
 
 ### K2\_GetComponentScale
@@ -4769,10 +3769,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_GetComponentScale](ue_ue.GizmoBaseComponent.md#k2_getcomponentscale)
-
-#### Defined in
-
-[ue/ue.d.ts:12931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12931)
 
 ___
 
@@ -4788,10 +3784,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_GetComponentToWorld](ue_ue.GizmoBaseComponent.md#k2_getcomponenttoworld)
 
-#### Defined in
-
-[ue/ue.d.ts:12932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12932)
-
 ___
 
 ### K2\_IsCollisionEnabled
@@ -4805,10 +3797,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_IsCollisionEnabled](ue_ue.GizmoBaseComponent.md#k2_iscollisionenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12696](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12696)
 
 ___
 
@@ -4824,10 +3812,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_IsPhysicsCollisionEnabled](ue_ue.GizmoBaseComponent.md#k2_isphysicscollisionenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:12697](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12697)
-
 ___
 
 ### K2\_IsQueryCollisionEnabled
@@ -4841,10 +3825,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_IsQueryCollisionEnabled](ue_ue.GizmoBaseComponent.md#k2_isquerycollisionenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12698)
 
 ___
 
@@ -4874,10 +3854,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_LineTraceComponent](ue_ue.GizmoBaseComponent.md#k2_linetracecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12699](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12699)
-
 ___
 
 ### K2\_SetRelativeLocation
@@ -4900,10 +3876,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_SetRelativeLocation](ue_ue.GizmoBaseComponent.md#k2_setrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12933)
 
 ___
 
@@ -4929,10 +3901,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_SetRelativeLocationAndRotation](ue_ue.GizmoBaseComponent.md#k2_setrelativelocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12934)
-
 ___
 
 ### K2\_SetRelativeRotation
@@ -4955,10 +3923,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_SetRelativeRotation](ue_ue.GizmoBaseComponent.md#k2_setrelativerotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12935)
 
 ___
 
@@ -4983,10 +3947,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_SetRelativeTransform](ue_ue.GizmoBaseComponent.md#k2_setrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12936)
-
 ___
 
 ### K2\_SetWorldLocation
@@ -5009,10 +3969,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_SetWorldLocation](ue_ue.GizmoBaseComponent.md#k2_setworldlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12937)
 
 ___
 
@@ -5038,10 +3994,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_SetWorldLocationAndRotation](ue_ue.GizmoBaseComponent.md#k2_setworldlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12938)
-
 ___
 
 ### K2\_SetWorldRotation
@@ -5065,10 +4017,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_SetWorldRotation](ue_ue.GizmoBaseComponent.md#k2_setworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12939)
-
 ___
 
 ### K2\_SetWorldTransform
@@ -5091,10 +4039,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_SetWorldTransform](ue_ue.GizmoBaseComponent.md#k2_setworldtransform)
-
-#### Defined in
-
-[ue/ue.d.ts:12940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12940)
 
 ___
 
@@ -5123,10 +4067,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_SphereOverlapComponent](ue_ue.GizmoBaseComponent.md#k2_sphereoverlapcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12700)
 
 ___
 
@@ -5157,10 +4097,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[K2_SphereTraceComponent](ue_ue.GizmoBaseComponent.md#k2_spheretracecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12701)
-
 ___
 
 ### OnRep\_AttachChildren
@@ -5174,10 +4110,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[OnRep_AttachChildren](ue_ue.GizmoBaseComponent.md#onrep_attachchildren)
-
-#### Defined in
-
-[ue/ue.d.ts:12941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12941)
 
 ___
 
@@ -5193,10 +4125,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[OnRep_AttachParent](ue_ue.GizmoBaseComponent.md#onrep_attachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12942)
-
 ___
 
 ### OnRep\_AttachSocketName
@@ -5210,10 +4138,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[OnRep_AttachSocketName](ue_ue.GizmoBaseComponent.md#onrep_attachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12943)
 
 ___
 
@@ -5229,10 +4153,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[OnRep_IsActive](ue_ue.GizmoBaseComponent.md#onrep_isactive)
 
-#### Defined in
-
-[ue/ue.d.ts:317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L317)
-
 ___
 
 ### OnRep\_Transform
@@ -5246,10 +4166,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[OnRep_Transform](ue_ue.GizmoBaseComponent.md#onrep_transform)
-
-#### Defined in
-
-[ue/ue.d.ts:12944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12944)
 
 ___
 
@@ -5271,10 +4187,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[OnRep_Visibility](ue_ue.GizmoBaseComponent.md#onrep_visibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12945)
-
 ___
 
 ### PutRigidBodyToSleep
@@ -5295,10 +4207,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[PutRigidBodyToSleep](ue_ue.GizmoBaseComponent.md#putrigidbodytosleep)
 
-#### Defined in
-
-[ue/ue.d.ts:12702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12702)
-
 ___
 
 ### ReceiveBeginPlay
@@ -5312,10 +4220,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[ReceiveBeginPlay](ue_ue.GizmoBaseComponent.md#receivebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L318)
 
 ___
 
@@ -5337,10 +4241,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[ReceiveEndPlay](ue_ue.GizmoBaseComponent.md#receiveendplay)
 
-#### Defined in
-
-[ue/ue.d.ts:319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L319)
-
 ___
 
 ### ReceiveTick
@@ -5361,10 +4261,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[ReceiveTick](ue_ue.GizmoBaseComponent.md#receivetick)
 
-#### Defined in
-
-[ue/ue.d.ts:320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L320)
-
 ___
 
 ### RegisterComponent
@@ -5378,10 +4274,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[RegisterComponent](ue_ue.GizmoBaseComponent.md#registercomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L321)
 
 ___
 
@@ -5403,10 +4295,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[RemoveTickPrerequisiteActor](ue_ue.GizmoBaseComponent.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -5427,10 +4315,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[RemoveTickPrerequisiteComponent](ue_ue.GizmoBaseComponent.md#removetickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L323)
-
 ___
 
 ### ResetRelativeTransform
@@ -5444,10 +4328,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[ResetRelativeTransform](ue_ue.GizmoBaseComponent.md#resetrelativetransform)
-
-#### Defined in
-
-[ue/ue.d.ts:12946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12946)
 
 ___
 
@@ -5469,10 +4349,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[ScaleByMomentOfInertia](ue_ue.GizmoBaseComponent.md#scalebymomentofinertia)
-
-#### Defined in
-
-[ue/ue.d.ts:12703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12703)
 
 ___
 
@@ -5496,10 +4372,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetAbsolute](ue_ue.GizmoBaseComponent.md#setabsolute)
 
-#### Defined in
-
-[ue/ue.d.ts:12947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12947)
-
 ___
 
 ### SetActive
@@ -5521,10 +4393,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetActive](ue_ue.GizmoBaseComponent.md#setactive)
 
-#### Defined in
-
-[ue/ue.d.ts:324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L324)
-
 ___
 
 ### SetAllMassScale
@@ -5544,10 +4412,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetAllMassScale](ue_ue.GizmoBaseComponent.md#setallmassscale)
-
-#### Defined in
-
-[ue/ue.d.ts:12704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12704)
 
 ___
 
@@ -5570,10 +4434,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetAllPhysicsAngularVelocityInDegrees](ue_ue.GizmoBaseComponent.md#setallphysicsangularvelocityindegrees)
 
-#### Defined in
-
-[ue/ue.d.ts:12705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12705)
-
 ___
 
 ### SetAllPhysicsAngularVelocityInRadians
@@ -5594,10 +4454,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetAllPhysicsAngularVelocityInRadians](ue_ue.GizmoBaseComponent.md#setallphysicsangularvelocityinradians)
-
-#### Defined in
-
-[ue/ue.d.ts:12706](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12706)
 
 ___
 
@@ -5620,10 +4476,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetAllPhysicsLinearVelocity](ue_ue.GizmoBaseComponent.md#setallphysicslinearvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12707](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12707)
-
 ___
 
 ### SetAllUseCCD
@@ -5643,10 +4495,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetAllUseCCD](ue_ue.GizmoBaseComponent.md#setalluseccd)
-
-#### Defined in
-
-[ue/ue.d.ts:12708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12708)
 
 ___
 
@@ -5668,10 +4516,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetAngularDamping](ue_ue.GizmoBaseComponent.md#setangulardamping)
 
-#### Defined in
-
-[ue/ue.d.ts:12709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12709)
-
 ___
 
 ### SetAutoActivate
@@ -5691,10 +4535,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetAutoActivate](ue_ue.GizmoBaseComponent.md#setautoactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L325)
 
 ___
 
@@ -5716,10 +4556,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetBoundsScale](ue_ue.GizmoBaseComponent.md#setboundsscale)
 
-#### Defined in
-
-[ue/ue.d.ts:12710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12710)
-
 ___
 
 ### SetCastInsetShadow
@@ -5740,10 +4576,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetCastInsetShadow](ue_ue.GizmoBaseComponent.md#setcastinsetshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12711)
-
 ___
 
 ### SetCastShadow
@@ -5763,10 +4595,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetCastShadow](ue_ue.GizmoBaseComponent.md#setcastshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12712)
 
 ___
 
@@ -5789,10 +4617,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetCenterOfMass](ue_ue.GizmoBaseComponent.md#setcenterofmass)
 
-#### Defined in
-
-[ue/ue.d.ts:12713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12713)
-
 ___
 
 ### SetCollisionEnabled
@@ -5812,10 +4636,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetCollisionEnabled](ue_ue.GizmoBaseComponent.md#setcollisionenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12714)
 
 ___
 
@@ -5837,10 +4657,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetCollisionObjectType](ue_ue.GizmoBaseComponent.md#setcollisionobjecttype)
 
-#### Defined in
-
-[ue/ue.d.ts:12715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12715)
-
 ___
 
 ### SetCollisionProfileName
@@ -5861,10 +4677,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetCollisionProfileName](ue_ue.GizmoBaseComponent.md#setcollisionprofilename)
 
-#### Defined in
-
-[ue/ue.d.ts:12716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12716)
-
 ___
 
 ### SetCollisionResponseToAllChannels
@@ -5884,10 +4696,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetCollisionResponseToAllChannels](ue_ue.GizmoBaseComponent.md#setcollisionresponsetoallchannels)
-
-#### Defined in
-
-[ue/ue.d.ts:12717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12717)
 
 ___
 
@@ -5910,10 +4718,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetCollisionResponseToChannel](ue_ue.GizmoBaseComponent.md#setcollisionresponsetochannel)
 
-#### Defined in
-
-[ue/ue.d.ts:12718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12718)
-
 ___
 
 ### SetComponentTickEnabled
@@ -5933,10 +4737,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetComponentTickEnabled](ue_ue.GizmoBaseComponent.md#setcomponenttickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L326)
 
 ___
 
@@ -5958,10 +4758,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetComponentTickInterval](ue_ue.GizmoBaseComponent.md#setcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L327)
-
 ___
 
 ### SetConstraintMode
@@ -5981,10 +4777,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetConstraintMode](ue_ue.GizmoBaseComponent.md#setconstraintmode)
-
-#### Defined in
-
-[ue/ue.d.ts:12719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12719)
 
 ___
 
@@ -6006,10 +4798,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetCullDistance](ue_ue.GizmoBaseComponent.md#setculldistance)
 
-#### Defined in
-
-[ue/ue.d.ts:12720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12720)
-
 ___
 
 ### SetCustomDepthStencilValue
@@ -6030,10 +4818,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetCustomDepthStencilValue](ue_ue.GizmoBaseComponent.md#setcustomdepthstencilvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:12721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12721)
-
 ___
 
 ### SetCustomDepthStencilWriteMask
@@ -6053,10 +4837,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetCustomDepthStencilWriteMask](ue_ue.GizmoBaseComponent.md#setcustomdepthstencilwritemask)
-
-#### Defined in
-
-[ue/ue.d.ts:12722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12722)
 
 ___
 
@@ -6079,10 +4859,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetCustomPrimitiveDataFloat](ue_ue.GizmoBaseComponent.md#setcustomprimitivedatafloat)
 
-#### Defined in
-
-[ue/ue.d.ts:12723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12723)
-
 ___
 
 ### SetCustomPrimitiveDataVector2
@@ -6103,10 +4879,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetCustomPrimitiveDataVector2](ue_ue.GizmoBaseComponent.md#setcustomprimitivedatavector2)
-
-#### Defined in
-
-[ue/ue.d.ts:12724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12724)
 
 ___
 
@@ -6129,10 +4901,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetCustomPrimitiveDataVector3](ue_ue.GizmoBaseComponent.md#setcustomprimitivedatavector3)
 
-#### Defined in
-
-[ue/ue.d.ts:12725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12725)
-
 ___
 
 ### SetCustomPrimitiveDataVector4
@@ -6154,10 +4922,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetCustomPrimitiveDataVector4](ue_ue.GizmoBaseComponent.md#setcustomprimitivedatavector4)
 
-#### Defined in
-
-[ue/ue.d.ts:12726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12726)
-
 ___
 
 ### SetEnableGravity
@@ -6177,10 +4941,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetEnableGravity](ue_ue.GizmoBaseComponent.md#setenablegravity)
-
-#### Defined in
-
-[ue/ue.d.ts:12727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12727)
 
 ___
 
@@ -6202,10 +4962,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetExcludeFromLightAttachmentGroup](ue_ue.GizmoBaseComponent.md#setexcludefromlightattachmentgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12728)
-
 ___
 
 ### SetGenerateOverlapEvents
@@ -6225,10 +4981,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetGenerateOverlapEvents](ue_ue.GizmoBaseComponent.md#setgenerateoverlapevents)
-
-#### Defined in
-
-[ue/ue.d.ts:12729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12729)
 
 ___
 
@@ -6251,10 +5003,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetHiddenInGame](ue_ue.GizmoBaseComponent.md#sethiddeningame)
 
-#### Defined in
-
-[ue/ue.d.ts:12948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12948)
-
 ___
 
 ### SetIsReplicated
@@ -6274,10 +5022,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetIsReplicated](ue_ue.GizmoBaseComponent.md#setisreplicated)
-
-#### Defined in
-
-[ue/ue.d.ts:328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L328)
 
 ___
 
@@ -6299,10 +5043,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetLightAttachmentsAsGroup](ue_ue.GizmoBaseComponent.md#setlightattachmentsasgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12730)
-
 ___
 
 ### SetLinearDamping
@@ -6322,10 +5062,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetLinearDamping](ue_ue.GizmoBaseComponent.md#setlineardamping)
-
-#### Defined in
-
-[ue/ue.d.ts:12731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12731)
 
 ___
 
@@ -6349,10 +5085,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetMassOverrideInKg](ue_ue.GizmoBaseComponent.md#setmassoverrideinkg)
 
-#### Defined in
-
-[ue/ue.d.ts:12732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12732)
-
 ___
 
 ### SetMassScale
@@ -6373,10 +5105,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetMassScale](ue_ue.GizmoBaseComponent.md#setmassscale)
-
-#### Defined in
-
-[ue/ue.d.ts:12733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12733)
 
 ___
 
@@ -6399,10 +5127,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetMaterial](ue_ue.GizmoBaseComponent.md#setmaterial)
 
-#### Defined in
-
-[ue/ue.d.ts:12734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12734)
-
 ___
 
 ### SetMaterialByName
@@ -6424,10 +5148,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetMaterialByName](ue_ue.GizmoBaseComponent.md#setmaterialbyname)
 
-#### Defined in
-
-[ue/ue.d.ts:12735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12735)
-
 ___
 
 ### SetMobility
@@ -6447,10 +5167,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetMobility](ue_ue.GizmoBaseComponent.md#setmobility)
-
-#### Defined in
-
-[ue/ue.d.ts:12949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12949)
 
 ___
 
@@ -6472,10 +5188,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetNotifyRigidBodyCollision](ue_ue.GizmoBaseComponent.md#setnotifyrigidbodycollision)
 
-#### Defined in
-
-[ue/ue.d.ts:12736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12736)
-
 ___
 
 ### SetOnlyOwnerSee
@@ -6495,10 +5207,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetOnlyOwnerSee](ue_ue.GizmoBaseComponent.md#setonlyownersee)
-
-#### Defined in
-
-[ue/ue.d.ts:12737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12737)
 
 ___
 
@@ -6520,10 +5228,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetOwnerNoSee](ue_ue.GizmoBaseComponent.md#setownernosee)
 
-#### Defined in
-
-[ue/ue.d.ts:12738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12738)
-
 ___
 
 ### SetPhysMaterialOverride
@@ -6543,10 +5247,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetPhysMaterialOverride](ue_ue.GizmoBaseComponent.md#setphysmaterialoverride)
-
-#### Defined in
-
-[ue/ue.d.ts:12746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12746)
 
 ___
 
@@ -6570,10 +5270,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetPhysicsAngularVelocity](ue_ue.GizmoBaseComponent.md#setphysicsangularvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12739)
-
 ___
 
 ### SetPhysicsAngularVelocityInDegrees
@@ -6595,10 +5291,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetPhysicsAngularVelocityInDegrees](ue_ue.GizmoBaseComponent.md#setphysicsangularvelocityindegrees)
-
-#### Defined in
-
-[ue/ue.d.ts:12740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12740)
 
 ___
 
@@ -6622,10 +5314,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetPhysicsAngularVelocityInRadians](ue_ue.GizmoBaseComponent.md#setphysicsangularvelocityinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12741)
-
 ___
 
 ### SetPhysicsLinearVelocity
@@ -6647,10 +5335,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetPhysicsLinearVelocity](ue_ue.GizmoBaseComponent.md#setphysicslinearvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12742)
 
 ___
 
@@ -6674,10 +5358,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetPhysicsMaxAngularVelocity](ue_ue.GizmoBaseComponent.md#setphysicsmaxangularvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12743)
-
 ___
 
 ### SetPhysicsMaxAngularVelocityInDegrees
@@ -6699,10 +5379,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetPhysicsMaxAngularVelocityInDegrees](ue_ue.GizmoBaseComponent.md#setphysicsmaxangularvelocityindegrees)
-
-#### Defined in
-
-[ue/ue.d.ts:12744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12744)
 
 ___
 
@@ -6726,10 +5402,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetPhysicsMaxAngularVelocityInRadians](ue_ue.GizmoBaseComponent.md#setphysicsmaxangularvelocityinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12745)
-
 ___
 
 ### SetReceivesDecals
@@ -6749,10 +5421,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetReceivesDecals](ue_ue.GizmoBaseComponent.md#setreceivesdecals)
-
-#### Defined in
-
-[ue/ue.d.ts:12747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12747)
 
 ___
 
@@ -6774,10 +5442,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetRelativeScale3D](ue_ue.GizmoBaseComponent.md#setrelativescale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:12950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12950)
-
 ___
 
 ### SetRenderCustomDepth
@@ -6797,10 +5461,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetRenderCustomDepth](ue_ue.GizmoBaseComponent.md#setrendercustomdepth)
-
-#### Defined in
-
-[ue/ue.d.ts:12748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12748)
 
 ___
 
@@ -6822,10 +5482,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetRenderInMainPass](ue_ue.GizmoBaseComponent.md#setrenderinmainpass)
 
-#### Defined in
-
-[ue/ue.d.ts:12749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12749)
-
 ___
 
 ### SetShouldUpdatePhysicsVolume
@@ -6845,10 +5501,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetShouldUpdatePhysicsVolume](ue_ue.GizmoBaseComponent.md#setshouldupdatephysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12951)
 
 ___
 
@@ -6870,10 +5522,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetSimulatePhysics](ue_ue.GizmoBaseComponent.md#setsimulatephysics)
 
-#### Defined in
-
-[ue/ue.d.ts:12750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12750)
-
 ___
 
 ### SetSingleSampleShadowFromStationaryLights
@@ -6893,10 +5541,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetSingleSampleShadowFromStationaryLights](ue_ue.GizmoBaseComponent.md#setsinglesampleshadowfromstationarylights)
-
-#### Defined in
-
-[ue/ue.d.ts:12751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12751)
 
 ___
 
@@ -6918,10 +5562,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetTickGroup](ue_ue.GizmoBaseComponent.md#settickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L330)
-
 ___
 
 ### SetTickableWhenPaused
@@ -6942,10 +5582,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetTickableWhenPaused](ue_ue.GizmoBaseComponent.md#settickablewhenpaused)
 
-#### Defined in
-
-[ue/ue.d.ts:329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L329)
-
 ___
 
 ### SetTranslucentSortPriority
@@ -6965,10 +5601,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetTranslucentSortPriority](ue_ue.GizmoBaseComponent.md#settranslucentsortpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:12752](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12752)
 
 ___
 
@@ -6991,10 +5623,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetUseCCD](ue_ue.GizmoBaseComponent.md#setuseccd)
 
-#### Defined in
-
-[ue/ue.d.ts:12753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12753)
-
 ___
 
 ### SetVisibility
@@ -7016,10 +5644,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetVisibility](ue_ue.GizmoBaseComponent.md#setvisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12953)
-
 ___
 
 ### SetWalkableSlopeOverride
@@ -7040,10 +5664,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetWalkableSlopeOverride](ue_ue.GizmoBaseComponent.md#setwalkableslopeoverride)
 
-#### Defined in
-
-[ue/ue.d.ts:12754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12754)
-
 ___
 
 ### SetWorldScale3D
@@ -7063,10 +5683,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetWorldScale3D](ue_ue.GizmoBaseComponent.md#setworldscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:12954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12954)
 
 ___
 
@@ -7089,10 +5705,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SetupAttachment](ue_ue.GizmoBaseComponent.md#setupattachment)
 
-#### Defined in
-
-[ue/ue.d.ts:12952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12952)
-
 ___
 
 ### SnapTo
@@ -7114,10 +5726,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[SnapTo](ue_ue.GizmoBaseComponent.md#snapto)
 
-#### Defined in
-
-[ue/ue.d.ts:12955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12955)
-
 ___
 
 ### ToggleActive
@@ -7131,10 +5739,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[ToggleActive](ue_ue.GizmoBaseComponent.md#toggleactive)
-
-#### Defined in
-
-[ue/ue.d.ts:331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L331)
 
 ___
 
@@ -7156,10 +5760,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[ToggleVisibility](ue_ue.GizmoBaseComponent.md#togglevisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12956)
-
 ___
 
 ### UpdateHoverState
@@ -7179,10 +5779,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[UpdateHoverState](ue_ue.GizmoBaseComponent.md#updatehoverstate)
-
-#### Defined in
-
-[ue/ue.d.ts:37889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37889)
 
 ___
 
@@ -7204,10 +5800,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[UpdateWorldLocalState](ue_ue.GizmoBaseComponent.md#updateworldlocalstate)
 
-#### Defined in
-
-[ue/ue.d.ts:37890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37890)
-
 ___
 
 ### WakeAllRigidBodies
@@ -7221,10 +5813,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[WakeAllRigidBodies](ue_ue.GizmoBaseComponent.md#wakeallrigidbodies)
-
-#### Defined in
-
-[ue/ue.d.ts:12755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12755)
 
 ___
 
@@ -7245,10 +5833,6 @@ ___
 #### Inherited from
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[WakeRigidBody](ue_ue.GizmoBaseComponent.md#wakerigidbody)
-
-#### Defined in
-
-[ue/ue.d.ts:12756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12756)
 
 ___
 
@@ -7271,10 +5855,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[Find](ue_ue.GizmoBaseComponent.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:37905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37905)
-
 ___
 
 ### Load
@@ -7295,10 +5875,6 @@ ___
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[Load](ue_ue.GizmoBaseComponent.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:37906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37906)
-
 ___
 
 ### StaticClass
@@ -7312,7 +5888,3 @@ ___
 #### Overrides
 
 [GizmoBaseComponent](ue_ue.GizmoBaseComponent.md).[StaticClass](ue_ue.GizmoBaseComponent.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:37904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37904)

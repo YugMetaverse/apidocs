@@ -41,10 +41,6 @@
 
 [AnimCurveBase](ue_ue.AnimCurveBase.md).[constructor](ue_ue.AnimCurveBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:3088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3088)
-
 • **new TransformCurve**(`TranslationCurve`, `RotationCurve`, `ScaleCurve`)
 
 #### Parameters
@@ -59,10 +55,6 @@
 
 [AnimCurveBase](ue_ue.AnimCurveBase.md).[constructor](ue_ue.AnimCurveBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:3089](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3089)
-
 ## Properties
 
 ### CurveTypeFlags
@@ -72,10 +64,6 @@
 #### Inherited from
 
 [AnimCurveBase](ue_ue.AnimCurveBase.md).[CurveTypeFlags](ue_ue.AnimCurveBase.md#curvetypeflags)
-
-#### Defined in
-
-[ue/ue.d.ts:2721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2721)
 
 ___
 
@@ -87,10 +75,6 @@ ___
 
 [AnimCurveBase](ue_ue.AnimCurveBase.md).[LastObservedName](ue_ue.AnimCurveBase.md#lastobservedname)
 
-#### Defined in
-
-[ue/ue.d.ts:2719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2719)
-
 ___
 
 ### Name
@@ -101,19 +85,11 @@ ___
 
 [AnimCurveBase](ue_ue.AnimCurveBase.md).[Name](ue_ue.AnimCurveBase.md#name)
 
-#### Defined in
-
-[ue/ue.d.ts:2720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2720)
-
 ___
 
 ### RotationCurve
 
 • **RotationCurve**: [`VectorCurve`](ue_ue.VectorCurve.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3091)
 
 ___
 
@@ -121,29 +97,17 @@ ___
 
 • **ScaleCurve**: [`VectorCurve`](ue_ue.VectorCurve.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3092)
-
 ___
 
 ### TranslationCurve
 
 • **TranslationCurve**: [`VectorCurve`](ue_ue.VectorCurve.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3090)
-
 ___
 
 ### \_\_tid\_TransformCurve\_\_
 
 • `Private` **\_\_tid\_TransformCurve\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3098)
 
 ## Methods
 
@@ -163,10 +127,6 @@ use StaticStruct instead.
 
 [AnimCurveBase](ue_ue.AnimCurveBase.md).[StaticClass](ue_ue.AnimCurveBase.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:3096](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3096)
-
 ___
 
 ### StaticStruct
@@ -180,7 +140,3 @@ ___
 #### Overrides
 
 [AnimCurveBase](ue_ue.AnimCurveBase.md).[StaticStruct](ue_ue.AnimCurveBase.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:3097](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3097)

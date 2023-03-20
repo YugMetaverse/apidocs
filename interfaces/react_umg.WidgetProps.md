@@ -94,29 +94,17 @@
 
 • `Optional` **AccessibleBehavior**: [`ESlateAccessibleBehavior`](../enums/ue_ue.ESlateAccessibleBehavior.md)
 
-#### Defined in
-
-[react-umg/index.d.ts:145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L145)
-
 ___
 
 ### AccessibleSummaryBehavior
 
 • `Optional` **AccessibleSummaryBehavior**: [`ESlateAccessibleBehavior`](../enums/ue_ue.ESlateAccessibleBehavior.md)
 
-#### Defined in
-
-[react-umg/index.d.ts:146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L146)
-
 ___
 
 ### AccessibleSummaryText
 
 • `Optional` **AccessibleSummaryText**: `string`
-
-#### Defined in
-
-[react-umg/index.d.ts:149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L149)
 
 ___
 
@@ -132,19 +120,11 @@ ___
 
 `string`
 
-#### Defined in
-
-[react-umg/index.d.ts:150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L150)
-
 ___
 
 ### AccessibleText
 
 • `Optional` **AccessibleText**: `string`
-
-#### Defined in
-
-[react-umg/index.d.ts:147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L147)
 
 ___
 
@@ -160,19 +140,11 @@ ___
 
 `string`
 
-#### Defined in
-
-[react-umg/index.d.ts:148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L148)
-
 ___
 
 ### CategoryName
 
 • `Optional` **CategoryName**: `string`
-
-#### Defined in
-
-[react-umg/index.d.ts:162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L162)
 
 ___
 
@@ -180,19 +152,11 @@ ___
 
 • `Optional` **Clipping**: [`EWidgetClipping`](../enums/ue_ue.EWidgetClipping.md)
 
-#### Defined in
-
-[react-umg/index.d.ts:156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L156)
-
 ___
 
 ### Cursor
 
 • `Optional` **Cursor**: [`EMouseCursor`](../enums/ue_ue.EMouseCursor.md)
-
-#### Defined in
-
-[react-umg/index.d.ts:155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L155)
 
 ___
 
@@ -200,19 +164,11 @@ ___
 
 • `Optional` **DesignerFlags**: `number`
 
-#### Defined in
-
-[react-umg/index.d.ts:160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L160)
-
 ___
 
 ### DisplayLabel
 
 • `Optional` **DisplayLabel**: `string`
-
-#### Defined in
-
-[react-umg/index.d.ts:161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L161)
 
 ___
 
@@ -220,19 +176,11 @@ ___
 
 • `Optional` **FlowDirectionPreference**: [`EFlowDirectionPreference`](../enums/ue_ue.EFlowDirectionPreference.md)
 
-#### Defined in
-
-[react-umg/index.d.ts:159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L159)
-
 ___
 
 ### RenderOpacity
 
 • `Optional` **RenderOpacity**: `number`
-
-#### Defined in
-
-[react-umg/index.d.ts:158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L158)
 
 ___
 
@@ -240,19 +188,11 @@ ___
 
 • `Optional` **RenderTransform**: [`RecursivePartial`](../modules/react_umg.md#recursivepartial)<[`WidgetTransform`](../classes/ue_ue.WidgetTransform.md)\>
 
-#### Defined in
-
-[react-umg/index.d.ts:137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L137)
-
 ___
 
 ### RenderTransformPivot
 
 • `Optional` **RenderTransformPivot**: [`RecursivePartial`](../modules/react_umg.md#recursivepartial)<[`Vector2D`](../classes/ue_ue_s.Vector2D.md)\>
-
-#### Defined in
-
-[react-umg/index.d.ts:138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L138)
 
 ___
 
@@ -264,19 +204,11 @@ ___
 
 [Props](react_umg.Props.md).[Slot](react_umg.Props.md#slot)
 
-#### Defined in
-
-[react-umg/index.d.ts:129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L129)
-
 ___
 
 ### ToolTipText
 
 • `Optional` **ToolTipText**: `string`
-
-#### Defined in
-
-[react-umg/index.d.ts:134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L134)
 
 ___
 
@@ -292,19 +224,11 @@ ___
 
 `string`
 
-#### Defined in
-
-[react-umg/index.d.ts:135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L135)
-
 ___
 
 ### Visibility
 
 • `Optional` **Visibility**: [`ESlateVisibility`](../enums/ue_ue.ESlateVisibility.md)
-
-#### Defined in
-
-[react-umg/index.d.ts:157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L157)
 
 ___
 
@@ -320,19 +244,11 @@ ___
 
 [`ESlateVisibility`](../enums/ue_ue.ESlateVisibility.md)
 
-#### Defined in
-
-[react-umg/index.d.ts:136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L136)
-
 ___
 
 ### bCanChildrenBeAccessible
 
 • `Optional` **bCanChildrenBeAccessible**: `boolean`
-
-#### Defined in
-
-[react-umg/index.d.ts:144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L144)
 
 ___
 
@@ -340,19 +256,11 @@ ___
 
 • `Optional` **bCreatedByConstructionScript**: `boolean`
 
-#### Defined in
-
-[react-umg/index.d.ts:140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L140)
-
 ___
 
 ### bExpandedInDesigner
 
 • `Optional` **bExpandedInDesigner**: `boolean`
-
-#### Defined in
-
-[react-umg/index.d.ts:153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L153)
 
 ___
 
@@ -360,19 +268,11 @@ ___
 
 • `Optional` **bHiddenInDesigner**: `boolean`
 
-#### Defined in
-
-[react-umg/index.d.ts:152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L152)
-
 ___
 
 ### bIsEnabled
 
 • `Optional` **bIsEnabled**: `boolean`
-
-#### Defined in
-
-[react-umg/index.d.ts:141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L141)
 
 ___
 
@@ -388,19 +288,11 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[react-umg/index.d.ts:133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L133)
-
 ___
 
 ### bIsVariable
 
 • `Optional` **bIsVariable**: `boolean`
-
-#### Defined in
-
-[react-umg/index.d.ts:139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L139)
 
 ___
 
@@ -408,19 +300,11 @@ ___
 
 • `Optional` **bIsVolatile**: `boolean`
 
-#### Defined in
-
-[react-umg/index.d.ts:151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L151)
-
 ___
 
 ### bLockedInDesigner
 
 • `Optional` **bLockedInDesigner**: `boolean`
-
-#### Defined in
-
-[react-umg/index.d.ts:154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L154)
 
 ___
 
@@ -428,16 +312,8 @@ ___
 
 • `Optional` **bOverrideAccessibleDefaults**: `boolean`
 
-#### Defined in
-
-[react-umg/index.d.ts:143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L143)
-
 ___
 
 ### bOverride\_Cursor
 
 • `Optional` **bOverride\_Cursor**: `boolean`
-
-#### Defined in
-
-[react-umg/index.d.ts:142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L142)

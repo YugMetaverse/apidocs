@@ -110,10 +110,6 @@
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[constructor](ue_ue.VRNotificationsComponent.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:46750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46750)
-
 ## Properties
 
 ### AssetUserData
@@ -123,10 +119,6 @@
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[AssetUserData](ue_ue.VRNotificationsComponent.md#assetuserdata)
-
-#### Defined in
-
-[ue/ue.d.ts:291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L291)
 
 ___
 
@@ -138,10 +130,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[ComponentTags](ue_ue.VRNotificationsComponent.md#componenttags)
 
-#### Defined in
-
-[ue/ue.d.ts:290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L290)
-
 ___
 
 ### CreationMethod
@@ -151,10 +139,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[CreationMethod](ue_ue.VRNotificationsComponent.md#creationmethod)
-
-#### Defined in
-
-[ue/ue.d.ts:302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L302)
 
 ___
 
@@ -166,10 +150,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[HMDConnectCanceledDelegate](ue_ue.VRNotificationsComponent.md#hmdconnectcanceleddelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:46737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46737)
-
 ___
 
 ### HMDLostDelegate
@@ -179,10 +159,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[HMDLostDelegate](ue_ue.VRNotificationsComponent.md#hmdlostdelegate)
-
-#### Defined in
-
-[ue/ue.d.ts:46735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46735)
 
 ___
 
@@ -194,10 +170,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[HMDPutOnHeadDelegate](ue_ue.VRNotificationsComponent.md#hmdputonheaddelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:46738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46738)
-
 ___
 
 ### HMDRecenteredDelegate
@@ -207,10 +179,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[HMDRecenteredDelegate](ue_ue.VRNotificationsComponent.md#hmdrecentereddelegate)
-
-#### Defined in
-
-[ue/ue.d.ts:46734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46734)
 
 ___
 
@@ -222,10 +190,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[HMDReconnectedDelegate](ue_ue.VRNotificationsComponent.md#hmdreconnecteddelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:46736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46736)
-
 ___
 
 ### HMDRemovedFromHeadDelegate
@@ -235,10 +199,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[HMDRemovedFromHeadDelegate](ue_ue.VRNotificationsComponent.md#hmdremovedfromheaddelegate)
-
-#### Defined in
-
-[ue/ue.d.ts:46739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46739)
 
 ___
 
@@ -250,10 +210,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[HMDTrackingInitializedDelegate](ue_ue.VRNotificationsComponent.md#hmdtrackinginitializeddelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:46733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46733)
-
 ___
 
 ### HMDTrackingInitializingAndNeedsHMDToBeTrackedDelegate
@@ -263,10 +219,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[HMDTrackingInitializingAndNeedsHMDToBeTrackedDelegate](ue_ue.VRNotificationsComponent.md#hmdtrackinginitializingandneedshmdtobetrackeddelegate)
-
-#### Defined in
-
-[ue/ue.d.ts:46732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46732)
 
 ___
 
@@ -278,10 +230,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[OnComponentActivated](ue_ue.VRNotificationsComponent.md#oncomponentactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L303)
-
 ___
 
 ### OnComponentDeactivated
@@ -292,19 +240,11 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[OnComponentDeactivated](ue_ue.VRNotificationsComponent.md#oncomponentdeactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L304)
-
 ___
 
 ### OnHeadTrackingLost
 
 • **OnHeadTrackingLost**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<() => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:46751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46751)
 
 ___
 
@@ -312,29 +252,17 @@ ___
 
 • **OnHeadTrackingNewSessionStarted**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<() => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:46754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46754)
-
 ___
 
 ### OnHeadTrackingRecovered
 
 • **OnHeadTrackingRecovered**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<() => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:46752](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46752)
-
 ___
 
 ### OnHeadTrackingRecoveryFailed
 
 • **OnHeadTrackingRecoveryFailed**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<() => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:46753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46753)
 
 ___
 
@@ -346,10 +274,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[PrimaryComponentTick](ue_ue.VRNotificationsComponent.md#primarycomponenttick)
 
-#### Defined in
-
-[ue/ue.d.ts:289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L289)
-
 ___
 
 ### UCSModifiedProperties
@@ -359,10 +283,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[UCSModifiedProperties](ue_ue.VRNotificationsComponent.md#ucsmodifiedproperties)
-
-#### Defined in
-
-[ue/ue.d.ts:305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L305)
 
 ___
 
@@ -374,10 +294,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[VRControllerRecenteredDelegate](ue_ue.VRNotificationsComponent.md#vrcontrollerrecentereddelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:46740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46740)
-
 ___
 
 ### \_\_tid\_ActorComponent\_\_
@@ -388,19 +304,11 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[__tid_ActorComponent__](ue_ue.VRNotificationsComponent.md#__tid_actorcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L336)
-
 ___
 
 ### \_\_tid\_MagicLeapHeadTrackingNotificationsComponent\_\_
 
 • **\_\_tid\_MagicLeapHeadTrackingNotificationsComponent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46759)
 
 ___
 
@@ -412,10 +320,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[__tid_Object__](ue_ue.VRNotificationsComponent.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_VRNotificationsComponent\_\_
@@ -425,10 +329,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[__tid_VRNotificationsComponent__](ue_ue.VRNotificationsComponent.md#__tid_vrnotificationscomponent__)
-
-#### Defined in
-
-[ue/ue.d.ts:46746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46746)
 
 ___
 
@@ -440,10 +340,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[bAutoActivate](ue_ue.VRNotificationsComponent.md#bautoactivate)
 
-#### Defined in
-
-[ue/ue.d.ts:296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L296)
-
 ___
 
 ### bCanEverAffectNavigation
@@ -453,10 +349,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[bCanEverAffectNavigation](ue_ue.VRNotificationsComponent.md#bcaneveraffectnavigation)
-
-#### Defined in
-
-[ue/ue.d.ts:299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L299)
 
 ___
 
@@ -468,10 +360,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[bCreatedByConstructionScript](ue_ue.VRNotificationsComponent.md#bcreatedbyconstructionscript)
 
-#### Defined in
-
-[ue/ue.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L294)
-
 ___
 
 ### bEditableWhenInherited
@@ -481,10 +369,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[bEditableWhenInherited](ue_ue.VRNotificationsComponent.md#beditablewheninherited)
-
-#### Defined in
-
-[ue/ue.d.ts:298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L298)
 
 ___
 
@@ -496,10 +380,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[bInstanceComponent](ue_ue.VRNotificationsComponent.md#binstancecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L295)
-
 ___
 
 ### bIsActive
@@ -509,10 +389,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[bIsActive](ue_ue.VRNotificationsComponent.md#bisactive)
-
-#### Defined in
-
-[ue/ue.d.ts:297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L297)
 
 ___
 
@@ -524,10 +400,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[bIsEditorOnly](ue_ue.VRNotificationsComponent.md#biseditoronly)
 
-#### Defined in
-
-[ue/ue.d.ts:300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L300)
-
 ___
 
 ### bIsVisualizationComponent
@@ -537,10 +409,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[bIsVisualizationComponent](ue_ue.VRNotificationsComponent.md#bisvisualizationcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L301)
 
 ___
 
@@ -552,10 +420,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[bNetAddressable](ue_ue.VRNotificationsComponent.md#bnetaddressable)
 
-#### Defined in
-
-[ue/ue.d.ts:293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L293)
-
 ___
 
 ### bReplicates
@@ -565,10 +429,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[bReplicates](ue_ue.VRNotificationsComponent.md#breplicates)
-
-#### Defined in
-
-[ue/ue.d.ts:292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L292)
 
 ## Methods
 
@@ -590,10 +450,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[Activate](ue_ue.VRNotificationsComponent.md#activate)
 
-#### Defined in
-
-[ue/ue.d.ts:306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L306)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -613,10 +469,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[AddTickPrerequisiteActor](ue_ue.VRNotificationsComponent.md#addtickprerequisiteactor)
-
-#### Defined in
-
-[ue/ue.d.ts:307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L307)
 
 ___
 
@@ -638,10 +490,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[AddTickPrerequisiteComponent](ue_ue.VRNotificationsComponent.md#addtickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L308)
-
 ___
 
 ### ComponentHasTag
@@ -661,10 +509,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[ComponentHasTag](ue_ue.VRNotificationsComponent.md#componenthastag)
-
-#### Defined in
-
-[ue/ue.d.ts:309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L309)
 
 ___
 
@@ -690,10 +534,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[CreateDefaultSubobject](ue_ue.VRNotificationsComponent.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### Deactivate
@@ -707,10 +547,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[Deactivate](ue_ue.VRNotificationsComponent.md#deactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L310)
 
 ___
 
@@ -732,10 +568,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[ExecuteUbergraph](ue_ue.VRNotificationsComponent.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -749,10 +581,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[GetClass](ue_ue.VRNotificationsComponent.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -768,10 +596,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[GetComponentTickInterval](ue_ue.VRNotificationsComponent.md#getcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L311)
-
 ___
 
 ### GetName
@@ -785,10 +609,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[GetName](ue_ue.VRNotificationsComponent.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -804,10 +624,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[GetOuter](ue_ue.VRNotificationsComponent.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetOwner
@@ -821,10 +637,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[GetOwner](ue_ue.VRNotificationsComponent.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L312)
 
 ___
 
@@ -840,10 +652,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[GetWorld](ue_ue.VRNotificationsComponent.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### IsActive
@@ -857,10 +665,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[IsActive](ue_ue.VRNotificationsComponent.md#isactive)
-
-#### Defined in
-
-[ue/ue.d.ts:313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L313)
 
 ___
 
@@ -876,10 +680,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[IsBeingDestroyed](ue_ue.VRNotificationsComponent.md#isbeingdestroyed)
 
-#### Defined in
-
-[ue/ue.d.ts:314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L314)
-
 ___
 
 ### IsComponentTickEnabled
@@ -893,10 +693,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[IsComponentTickEnabled](ue_ue.VRNotificationsComponent.md#iscomponenttickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L315)
 
 ___
 
@@ -918,10 +714,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[K2_DestroyComponent](ue_ue.VRNotificationsComponent.md#k2_destroycomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L316)
-
 ___
 
 ### OnRep\_IsActive
@@ -936,10 +728,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[OnRep_IsActive](ue_ue.VRNotificationsComponent.md#onrep_isactive)
 
-#### Defined in
-
-[ue/ue.d.ts:317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L317)
-
 ___
 
 ### ReceiveBeginPlay
@@ -953,10 +741,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[ReceiveBeginPlay](ue_ue.VRNotificationsComponent.md#receivebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L318)
 
 ___
 
@@ -978,10 +762,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[ReceiveEndPlay](ue_ue.VRNotificationsComponent.md#receiveendplay)
 
-#### Defined in
-
-[ue/ue.d.ts:319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L319)
-
 ___
 
 ### ReceiveTick
@@ -1002,10 +782,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[ReceiveTick](ue_ue.VRNotificationsComponent.md#receivetick)
 
-#### Defined in
-
-[ue/ue.d.ts:320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L320)
-
 ___
 
 ### RegisterComponent
@@ -1019,10 +795,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[RegisterComponent](ue_ue.VRNotificationsComponent.md#registercomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L321)
 
 ___
 
@@ -1044,10 +816,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[RemoveTickPrerequisiteActor](ue_ue.VRNotificationsComponent.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -1067,10 +835,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[RemoveTickPrerequisiteComponent](ue_ue.VRNotificationsComponent.md#removetickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L323)
 
 ___
 
@@ -1093,10 +857,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[SetActive](ue_ue.VRNotificationsComponent.md#setactive)
 
-#### Defined in
-
-[ue/ue.d.ts:324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L324)
-
 ___
 
 ### SetAutoActivate
@@ -1116,10 +876,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[SetAutoActivate](ue_ue.VRNotificationsComponent.md#setautoactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L325)
 
 ___
 
@@ -1141,10 +897,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[SetComponentTickEnabled](ue_ue.VRNotificationsComponent.md#setcomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L326)
-
 ___
 
 ### SetComponentTickInterval
@@ -1164,10 +916,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[SetComponentTickInterval](ue_ue.VRNotificationsComponent.md#setcomponenttickinterval)
-
-#### Defined in
-
-[ue/ue.d.ts:327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L327)
 
 ___
 
@@ -1189,10 +937,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[SetIsReplicated](ue_ue.VRNotificationsComponent.md#setisreplicated)
 
-#### Defined in
-
-[ue/ue.d.ts:328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L328)
-
 ___
 
 ### SetTickGroup
@@ -1212,10 +956,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[SetTickGroup](ue_ue.VRNotificationsComponent.md#settickgroup)
-
-#### Defined in
-
-[ue/ue.d.ts:330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L330)
 
 ___
 
@@ -1237,10 +977,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[SetTickableWhenPaused](ue_ue.VRNotificationsComponent.md#settickablewhenpaused)
 
-#### Defined in
-
-[ue/ue.d.ts:329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L329)
-
 ___
 
 ### ToggleActive
@@ -1255,10 +991,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[ToggleActive](ue_ue.VRNotificationsComponent.md#toggleactive)
 
-#### Defined in
-
-[ue/ue.d.ts:331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L331)
-
 ___
 
 ### VRNotificationsDelegate\_\_DelegateSignature
@@ -1272,10 +1004,6 @@ ___
 #### Inherited from
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[VRNotificationsDelegate__DelegateSignature](ue_ue.VRNotificationsComponent.md#vrnotificationsdelegate__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:46741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46741)
 
 ___
 
@@ -1298,10 +1026,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[Find](ue_ue.VRNotificationsComponent.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:46756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46756)
-
 ___
 
 ### Load
@@ -1322,10 +1046,6 @@ ___
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[Load](ue_ue.VRNotificationsComponent.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:46757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46757)
-
 ___
 
 ### StaticClass
@@ -1339,7 +1059,3 @@ ___
 #### Overrides
 
 [VRNotificationsComponent](ue_ue.VRNotificationsComponent.md).[StaticClass](ue_ue.VRNotificationsComponent.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:46755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46755)

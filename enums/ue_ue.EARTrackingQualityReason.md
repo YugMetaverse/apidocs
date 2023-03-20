@@ -22,19 +22,11 @@
 
 • **EARTrackingQualityReason\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20924)
-
 ___
 
 ### ExcessiveMotion
 
 • **ExcessiveMotion** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20924)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **Initializing** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20924)
-
 ___
 
 ### InsufficientFeatures
 
 • **InsufficientFeatures** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20924)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20924)
-
 ___
 
 ### Relocalizing
 
 • **Relocalizing** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20924)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20924)

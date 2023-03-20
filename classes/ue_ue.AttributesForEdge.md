@@ -27,10 +27,6 @@
 
 • **new AttributesForEdge**()
 
-#### Defined in
-
-[ue/ue.d.ts:31722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31722)
-
 • **new AttributesForEdge**(`EdgeID`, `EdgeAttributes`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `EdgeID` | [`EdgeID`](ue_ue.EdgeID.md) |
 | `EdgeAttributes` | [`MeshElementAttributeList`](ue_ue.MeshElementAttributeList.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:31723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31723)
-
 ## Properties
 
 ### EdgeAttributes
 
 • **EdgeAttributes**: [`MeshElementAttributeList`](ue_ue.MeshElementAttributeList.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31725)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **EdgeID**: [`EdgeID`](ue_ue.EdgeID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31724)
-
 ___
 
 ### \_\_tid\_AttributesForEdge\_\_
 
 • `Private` **\_\_tid\_AttributesForEdge\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31731)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31729)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31730)

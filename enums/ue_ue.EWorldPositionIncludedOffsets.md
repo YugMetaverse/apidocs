@@ -21,19 +21,11 @@
 
 • **WPT\_CameraRelative** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34889)
-
 ___
 
 ### WPT\_CameraRelativeNoOffsets
 
 • **WPT\_CameraRelativeNoOffsets** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34889)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **WPT\_Default** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34889)
-
 ___
 
 ### WPT\_ExcludeAllShaderOffsets
 
 • **WPT\_ExcludeAllShaderOffsets** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34889)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **WPT\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34889)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34889)

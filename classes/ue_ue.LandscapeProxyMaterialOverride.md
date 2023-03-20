@@ -27,10 +27,6 @@
 
 • **new LandscapeProxyMaterialOverride**()
 
-#### Defined in
-
-[ue/ue.d.ts:43818](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43818)
-
 • **new LandscapeProxyMaterialOverride**(`LODIndex`, `Material`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `LODIndex` | [`PerPlatformInt`](ue_ue.PerPlatformInt.md) |
 | `Material` | [`MaterialInterface`](ue_ue.MaterialInterface.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:43819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43819)
-
 ## Properties
 
 ### LODIndex
 
 • **LODIndex**: [`PerPlatformInt`](ue_ue.PerPlatformInt.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43820)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Material**: [`MaterialInterface`](ue_ue.MaterialInterface.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43821)
-
 ___
 
 ### \_\_tid\_LandscapeProxyMaterialOverride\_\_
 
 • `Private` **\_\_tid\_LandscapeProxyMaterialOverride\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43827)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43825](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43825)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43826)

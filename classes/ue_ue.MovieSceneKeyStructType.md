@@ -59,19 +59,11 @@
 
 [ScriptStruct](ue_ue.ScriptStruct.md).[constructor](ue_ue.ScriptStruct.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:51966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51966)
-
 ## Properties
 
 ### DestTimeProperty
 
 • **DestTimeProperty**: [`StructProperty`](ue_ue.StructProperty.md)
-
-#### Defined in
-
-[ue/ue.d.ts:51969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51969)
 
 ___
 
@@ -79,29 +71,17 @@ ___
 
 • **DestValueProperty**: [`Property`](ue_ue.Property.md)
 
-#### Defined in
-
-[ue/ue.d.ts:51970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51970)
-
 ___
 
 ### SourceTimesProperty
 
 • **SourceTimesProperty**: [`ArrayProperty`](ue_ue.ArrayProperty.md)
 
-#### Defined in
-
-[ue/ue.d.ts:51967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51967)
-
 ___
 
 ### SourceValuesProperty
 
 • **SourceValuesProperty**: [`ArrayProperty`](ue_ue.ArrayProperty.md)
-
-#### Defined in
-
-[ue/ue.d.ts:51968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51968)
 
 ___
 
@@ -113,19 +93,11 @@ ___
 
 [ScriptStruct](ue_ue.ScriptStruct.md).[__tid_Field__](ue_ue.ScriptStruct.md#__tid_field__)
 
-#### Defined in
-
-[ue/ue.d.ts:700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L700)
-
 ___
 
 ### \_\_tid\_MovieSceneKeyStructType\_\_
 
 • **\_\_tid\_MovieSceneKeyStructType\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:51975](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51975)
 
 ___
 
@@ -137,10 +109,6 @@ ___
 
 [ScriptStruct](ue_ue.ScriptStruct.md).[__tid_Object__](ue_ue.ScriptStruct.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ScriptStruct\_\_
@@ -151,10 +119,6 @@ ___
 
 [ScriptStruct](ue_ue.ScriptStruct.md).[__tid_ScriptStruct__](ue_ue.ScriptStruct.md#__tid_scriptstruct__)
 
-#### Defined in
-
-[ue/ue.d.ts:15953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15953)
-
 ___
 
 ### \_\_tid\_Struct\_\_
@@ -164,10 +128,6 @@ ___
 #### Inherited from
 
 [ScriptStruct](ue_ue.ScriptStruct.md).[__tid_Struct__](ue_ue.ScriptStruct.md#__tid_struct__)
-
-#### Defined in
-
-[ue/ue.d.ts:710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L710)
 
 ## Methods
 
@@ -193,10 +153,6 @@ ___
 
 [ScriptStruct](ue_ue.ScriptStruct.md).[CreateDefaultSubobject](ue_ue.ScriptStruct.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -217,10 +173,6 @@ ___
 
 [ScriptStruct](ue_ue.ScriptStruct.md).[ExecuteUbergraph](ue_ue.ScriptStruct.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -234,10 +186,6 @@ ___
 #### Inherited from
 
 [ScriptStruct](ue_ue.ScriptStruct.md).[GetClass](ue_ue.ScriptStruct.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -253,10 +201,6 @@ ___
 
 [ScriptStruct](ue_ue.ScriptStruct.md).[GetName](ue_ue.ScriptStruct.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -271,10 +215,6 @@ ___
 
 [ScriptStruct](ue_ue.ScriptStruct.md).[GetOuter](ue_ue.ScriptStruct.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -288,10 +228,6 @@ ___
 #### Inherited from
 
 [ScriptStruct](ue_ue.ScriptStruct.md).[GetWorld](ue_ue.ScriptStruct.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -312,10 +248,6 @@ ___
 #### Inherited from
 
 [ScriptStruct](ue_ue.ScriptStruct.md).[IsChildOf](ue_ue.ScriptStruct.md#ischildof)
-
-#### Defined in
-
-[ue/ue.d.ts:705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L705)
 
 ___
 
@@ -338,10 +270,6 @@ ___
 
 [ScriptStruct](ue_ue.ScriptStruct.md).[Find](ue_ue.ScriptStruct.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:51972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51972)
-
 ___
 
 ### Load
@@ -362,10 +290,6 @@ ___
 
 [ScriptStruct](ue_ue.ScriptStruct.md).[Load](ue_ue.ScriptStruct.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:51973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51973)
-
 ___
 
 ### StaticClass
@@ -379,7 +303,3 @@ ___
 #### Overrides
 
 [ScriptStruct](ue_ue.ScriptStruct.md).[StaticClass](ue_ue.ScriptStruct.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:51971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51971)

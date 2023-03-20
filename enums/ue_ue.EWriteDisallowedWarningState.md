@@ -20,19 +20,11 @@
 
 • **WDWS\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34890)
-
 ___
 
 ### WDWS\_PendingWarn
 
 • **WDWS\_PendingWarn** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34890)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **WDWS\_Warned** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34890)
-
 ___
 
 ### WDWS\_WarningUnnecessary
 
 • **WDWS\_WarningUnnecessary** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34890)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34890)

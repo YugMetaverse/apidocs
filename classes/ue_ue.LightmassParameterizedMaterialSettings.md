@@ -29,10 +29,6 @@
 
 • **new LightmassParameterizedMaterialSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:47387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47387)
-
 • **new LightmassParameterizedMaterialSettings**(`CastShadowAsMasked`, `EmissiveBoost`, `DiffuseBoost`, `ExportResolutionScale`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `DiffuseBoost` | [`LightmassScalarParameterValue`](ue_ue.LightmassScalarParameterValue.md) |
 | `ExportResolutionScale` | [`LightmassScalarParameterValue`](ue_ue.LightmassScalarParameterValue.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:47388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47388)
-
 ## Properties
 
 ### CastShadowAsMasked
 
 • **CastShadowAsMasked**: [`LightmassBooleanParameterValue`](ue_ue.LightmassBooleanParameterValue.md)
-
-#### Defined in
-
-[ue/ue.d.ts:47389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47389)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **DiffuseBoost**: [`LightmassScalarParameterValue`](ue_ue.LightmassScalarParameterValue.md)
 
-#### Defined in
-
-[ue/ue.d.ts:47391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47391)
-
 ___
 
 ### EmissiveBoost
 
 • **EmissiveBoost**: [`LightmassScalarParameterValue`](ue_ue.LightmassScalarParameterValue.md)
-
-#### Defined in
-
-[ue/ue.d.ts:47390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47390)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **ExportResolutionScale**: [`LightmassScalarParameterValue`](ue_ue.LightmassScalarParameterValue.md)
 
-#### Defined in
-
-[ue/ue.d.ts:47392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47392)
-
 ___
 
 ### \_\_tid\_LightmassParameterizedMaterialSettings\_\_
 
 • `Private` **\_\_tid\_LightmassParameterizedMaterialSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:47398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47398)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:47396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47396)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:47397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47397)

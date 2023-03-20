@@ -27,10 +27,6 @@
 
 • **new RuntimeFloatCurve**()
 
-#### Defined in
-
-[ue/ue.d.ts:8436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8436)
-
 • **new RuntimeFloatCurve**(`EditorCurveData`, `ExternalCurve`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `EditorCurveData` | [`RichCurve`](ue_ue.RichCurve.md) |
 | `ExternalCurve` | [`CurveFloat`](ue_ue.CurveFloat.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:8437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8437)
-
 ## Properties
 
 ### EditorCurveData
 
 • **EditorCurveData**: [`RichCurve`](ue_ue.RichCurve.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8438)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **ExternalCurve**: [`CurveFloat`](ue_ue.CurveFloat.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8439)
-
 ___
 
 ### \_\_tid\_RuntimeFloatCurve\_\_
 
 • `Private` **\_\_tid\_RuntimeFloatCurve\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8445](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8445)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8443](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8443)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8444](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8444)

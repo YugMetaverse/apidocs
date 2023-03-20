@@ -22,19 +22,11 @@
 
 • **Field\_FallOff\_None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:24512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24512)
-
 ___
 
 ### Field\_Falloff\_Inverse
 
 • **Field\_Falloff\_Inverse** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:24512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24512)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **Field\_Falloff\_Linear** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:24512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24512)
-
 ___
 
 ### Field\_Falloff\_Logarithmic
 
 • **Field\_Falloff\_Logarithmic** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:24512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24512)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **Field\_Falloff\_Max** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:24512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24512)
-
 ___
 
 ### Field\_Falloff\_Squared
 
 • **Field\_Falloff\_Squared** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:24512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24512)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:24512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24512)

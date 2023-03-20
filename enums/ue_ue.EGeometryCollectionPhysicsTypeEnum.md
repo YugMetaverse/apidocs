@@ -26,19 +26,11 @@
 
 • **Chaos\_AngularTorque** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26786)
-
 ___
 
 ### Chaos\_AngularVelocity
 
 • **Chaos\_AngularVelocity** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26786)
 
 ___
 
@@ -46,19 +38,11 @@ ___
 
 • **Chaos\_CollisionGroup** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26786)
-
 ___
 
 ### Chaos\_DynamicState
 
 • **Chaos\_DynamicState** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26786)
 
 ___
 
@@ -66,19 +50,11 @@ ___
 
 • **Chaos\_InitialAngularVelocity** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26786)
-
 ___
 
 ### Chaos\_InitialLinearVelocity
 
 • **Chaos\_InitialLinearVelocity** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26786)
 
 ___
 
@@ -86,19 +62,11 @@ ___
 
 • **Chaos\_LinearForce** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26786)
-
 ___
 
 ### Chaos\_LinearVelocity
 
 • **Chaos\_LinearVelocity** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26786)
 
 ___
 
@@ -106,26 +74,14 @@ ___
 
 • **Chaos\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26786)
-
 ___
 
 ### Chaos\_Max
 
 • **Chaos\_Max** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26786)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26786)

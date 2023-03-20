@@ -31,10 +31,6 @@
 
 • **new EquirectProps**()
 
-#### Defined in
-
-[ue/ue.d.ts:62343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62343)
-
 • **new EquirectProps**(`LeftUVRect`, `RightUVRect`, `LeftScale`, `RightScale`, `LeftBias`, `RightBias`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `LeftBias` | [`Vector2D`](ue_ue_s.Vector2D.md) |
 | `RightBias` | [`Vector2D`](ue_ue_s.Vector2D.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:62344](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62344)
-
 ## Properties
 
 ### LeftBias
 
 • **LeftBias**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:62349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62349)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **LeftScale**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:62347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62347)
-
 ___
 
 ### LeftUVRect
 
 • **LeftUVRect**: [`Box2D`](ue_ue_s.Box2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:62345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62345)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **RightBias**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:62350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62350)
-
 ___
 
 ### RightScale
 
 • **RightScale**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:62348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62348)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **RightUVRect**: [`Box2D`](ue_ue_s.Box2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:62346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62346)
-
 ___
 
 ### \_\_tid\_EquirectProps\_\_
 
 • `Private` **\_\_tid\_EquirectProps\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:62356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62356)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:62354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62354)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:62355](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62355)

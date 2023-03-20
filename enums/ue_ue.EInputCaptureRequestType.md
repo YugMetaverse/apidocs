@@ -19,19 +19,11 @@
 
 • **Begin** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33907)
-
 ___
 
 ### EInputCaptureRequestType\_MAX
 
 • **EInputCaptureRequestType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33907)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Ignore** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33907)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33907)

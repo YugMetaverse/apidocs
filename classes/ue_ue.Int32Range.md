@@ -27,10 +27,6 @@
 
 • **new Int32Range**()
 
-#### Defined in
-
-[ue/ue.d.ts:1930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1930)
-
 • **new Int32Range**(`LowerBound`, `UpperBound`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `LowerBound` | [`Int32RangeBound`](ue_ue.Int32RangeBound.md) |
 | `UpperBound` | [`Int32RangeBound`](ue_ue.Int32RangeBound.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:1931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1931)
-
 ## Properties
 
 ### LowerBound
 
 • **LowerBound**: [`Int32RangeBound`](ue_ue.Int32RangeBound.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1932)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **UpperBound**: [`Int32RangeBound`](ue_ue.Int32RangeBound.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1933)
-
 ___
 
 ### \_\_tid\_Int32Range\_\_
 
 • `Private` **\_\_tid\_Int32Range\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1939)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1937)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1938)

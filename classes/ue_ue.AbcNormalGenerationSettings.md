@@ -29,10 +29,6 @@
 
 • **new AbcNormalGenerationSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:79](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L79)
-
 • **new AbcNormalGenerationSettings**(`bForceOneSmoothingGroupPerObject`, `HardEdgeAngleThreshold`, `bRecomputeNormals`, `bIgnoreDegenerateTriangles`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `bRecomputeNormals` | `boolean` |
 | `bIgnoreDegenerateTriangles` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:80](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L80)
-
 ## Properties
 
 ### HardEdgeAngleThreshold
 
 • **HardEdgeAngleThreshold**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:82](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L82)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • `Private` **\_\_tid\_AbcNormalGenerationSettings\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:90](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L90)
-
 ___
 
 ### bForceOneSmoothingGroupPerObject
 
 • **bForceOneSmoothingGroupPerObject**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:81](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L81)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **bIgnoreDegenerateTriangles**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:84](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L84)
-
 ___
 
 ### bRecomputeNormals
 
 • **bRecomputeNormals**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:83](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L83)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:88](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L88)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:89](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L89)

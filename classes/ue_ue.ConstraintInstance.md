@@ -93,10 +93,6 @@
 
 • **new ConstraintInstance**()
 
-#### Defined in
-
-[ue/ue.d.ts:3716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3716)
-
 • **new ConstraintInstance**(`JointName`, `ConstraintBone1`, `ConstraintBone2`, `Pos1`, `PriAxis1`, `SecAxis1`, `Pos2`, `PriAxis2`, `SecAxis2`, `AngularRotationOffset`, `bScaleLinearLimits`, `ProfileInstance`, `bDisableCollision`, `bEnableProjection`, `ProjectionLinearTolerance`, `ProjectionAngularTolerance`, `LinearXMotion`, `LinearYMotion`, `LinearZMotion`, `LinearLimitSize`, `bLinearLimitSoft`, `LinearLimitStiffness`, `LinearLimitDamping`, `bLinearBreakable`, `LinearBreakThreshold`, `AngularSwing1Motion`, `AngularTwistMotion`, `AngularSwing2Motion`, `bSwingLimitSoft`, `bTwistLimitSoft`, `Swing1LimitAngle`, `TwistLimitAngle`, `Swing2LimitAngle`, `SwingLimitStiffness`, `SwingLimitDamping`, `TwistLimitStiffness`, `TwistLimitDamping`, `bAngularBreakable`, `AngularBreakThreshold`, `bLinearXPositionDrive`, `bLinearXVelocityDrive`, `bLinearYPositionDrive`, `bLinearYVelocityDrive`, `bLinearZPositionDrive`, `bLinearZVelocityDrive`, `bLinearPositionDrive`, `bLinearVelocityDrive`, `LinearPositionTarget`, `LinearVelocityTarget`, `LinearDriveSpring`, `LinearDriveDamping`, `LinearDriveForceLimit`, `bSwingPositionDrive`, `bSwingVelocityDrive`, `bTwistPositionDrive`, `bTwistVelocityDrive`, `bAngularSlerpDrive`, `bAngularOrientationDrive`, `bEnableSwingDrive`, `bEnableTwistDrive`, `bAngularVelocityDrive`, `AngularPositionTarget`, `AngularDriveMode`, `AngularOrientationTarget`, `AngularVelocityTarget`, `AngularDriveSpring`, `AngularDriveDamping`, `AngularDriveForceLimit`)
 
 #### Parameters
@@ -172,19 +168,11 @@
 | `AngularDriveDamping` | `number` |
 | `AngularDriveForceLimit` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:3717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3717)
-
 ## Properties
 
 ### AngularBreakThreshold
 
 • **AngularBreakThreshold**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3756)
 
 ___
 
@@ -192,19 +180,11 @@ ___
 
 • **AngularDriveDamping**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3784)
-
 ___
 
 ### AngularDriveForceLimit
 
 • **AngularDriveForceLimit**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3785](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3785)
 
 ___
 
@@ -212,19 +192,11 @@ ___
 
 • **AngularDriveMode**: [`EAngularDriveMode`](../enums/ue_ue.EAngularDriveMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3780)
-
 ___
 
 ### AngularDriveSpring
 
 • **AngularDriveSpring**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3783)
 
 ___
 
@@ -232,19 +204,11 @@ ___
 
 • **AngularOrientationTarget**: [`Rotator`](ue_ue_s.Rotator.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3781)
-
 ___
 
 ### AngularPositionTarget
 
 • **AngularPositionTarget**: [`Quat`](ue_ue_s.Quat.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3779)
 
 ___
 
@@ -252,19 +216,11 @@ ___
 
 • **AngularRotationOffset**: [`Rotator`](ue_ue_s.Rotator.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3727)
-
 ___
 
 ### AngularSwing1Motion
 
 • **AngularSwing1Motion**: [`EAngularConstraintMotion`](../enums/ue_ue.EAngularConstraintMotion.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3743)
 
 ___
 
@@ -272,19 +228,11 @@ ___
 
 • **AngularSwing2Motion**: [`EAngularConstraintMotion`](../enums/ue_ue.EAngularConstraintMotion.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3745)
-
 ___
 
 ### AngularTwistMotion
 
 • **AngularTwistMotion**: [`EAngularConstraintMotion`](../enums/ue_ue.EAngularConstraintMotion.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3744)
 
 ___
 
@@ -292,19 +240,11 @@ ___
 
 • **AngularVelocityTarget**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3782)
-
 ___
 
 ### ConstraintBone1
 
 • **ConstraintBone1**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:3719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3719)
 
 ___
 
@@ -312,19 +252,11 @@ ___
 
 • **ConstraintBone2**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:3720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3720)
-
 ___
 
 ### JointName
 
 • **JointName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:3718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3718)
 
 ___
 
@@ -332,19 +264,11 @@ ___
 
 • **LinearBreakThreshold**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3742)
-
 ___
 
 ### LinearDriveDamping
 
 • **LinearDriveDamping**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3768)
 
 ___
 
@@ -352,19 +276,11 @@ ___
 
 • **LinearDriveForceLimit**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3769)
-
 ___
 
 ### LinearDriveSpring
 
 • **LinearDriveSpring**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3767)
 
 ___
 
@@ -372,19 +288,11 @@ ___
 
 • **LinearLimitDamping**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3740)
-
 ___
 
 ### LinearLimitSize
 
 • **LinearLimitSize**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3737)
 
 ___
 
@@ -392,19 +300,11 @@ ___
 
 • **LinearLimitStiffness**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3739)
-
 ___
 
 ### LinearPositionTarget
 
 • **LinearPositionTarget**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3765)
 
 ___
 
@@ -412,19 +312,11 @@ ___
 
 • **LinearVelocityTarget**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3766)
-
 ___
 
 ### LinearXMotion
 
 • **LinearXMotion**: [`ELinearConstraintMotion`](../enums/ue_ue.ELinearConstraintMotion.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3734)
 
 ___
 
@@ -432,19 +324,11 @@ ___
 
 • **LinearYMotion**: [`ELinearConstraintMotion`](../enums/ue_ue.ELinearConstraintMotion.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3735)
-
 ___
 
 ### LinearZMotion
 
 • **LinearZMotion**: [`ELinearConstraintMotion`](../enums/ue_ue.ELinearConstraintMotion.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3736)
 
 ___
 
@@ -452,19 +336,11 @@ ___
 
 • **Pos1**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3721)
-
 ___
 
 ### Pos2
 
 • **Pos2**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3724)
 
 ___
 
@@ -472,19 +348,11 @@ ___
 
 • **PriAxis1**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3722)
-
 ___
 
 ### PriAxis2
 
 • **PriAxis2**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3725)
 
 ___
 
@@ -492,19 +360,11 @@ ___
 
 • **ProfileInstance**: [`ConstraintProfileProperties`](ue_ue.ConstraintProfileProperties.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3729)
-
 ___
 
 ### ProjectionAngularTolerance
 
 • **ProjectionAngularTolerance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3733)
 
 ___
 
@@ -512,19 +372,11 @@ ___
 
 • **ProjectionLinearTolerance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3732)
-
 ___
 
 ### SecAxis1
 
 • **SecAxis1**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3723)
 
 ___
 
@@ -532,19 +384,11 @@ ___
 
 • **SecAxis2**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3726)
-
 ___
 
 ### Swing1LimitAngle
 
 • **Swing1LimitAngle**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3748)
 
 ___
 
@@ -552,19 +396,11 @@ ___
 
 • **Swing2LimitAngle**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3750)
-
 ___
 
 ### SwingLimitDamping
 
 • **SwingLimitDamping**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3752](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3752)
 
 ___
 
@@ -572,19 +408,11 @@ ___
 
 • **SwingLimitStiffness**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3751)
-
 ___
 
 ### TwistLimitAngle
 
 • **TwistLimitAngle**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3749)
 
 ___
 
@@ -592,19 +420,11 @@ ___
 
 • **TwistLimitDamping**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3754)
-
 ___
 
 ### TwistLimitStiffness
 
 • **TwistLimitStiffness**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3753)
 
 ___
 
@@ -612,19 +432,11 @@ ___
 
 • `Private` **\_\_tid\_ConstraintInstance\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3791)
-
 ___
 
 ### bAngularBreakable
 
 • **bAngularBreakable**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3755)
 
 ___
 
@@ -632,19 +444,11 @@ ___
 
 • **bAngularOrientationDrive**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3775)
-
 ___
 
 ### bAngularSlerpDrive
 
 • **bAngularSlerpDrive**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3774)
 
 ___
 
@@ -652,19 +456,11 @@ ___
 
 • **bAngularVelocityDrive**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3778](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3778)
-
 ___
 
 ### bDisableCollision
 
 • **bDisableCollision**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3730)
 
 ___
 
@@ -672,19 +468,11 @@ ___
 
 • **bEnableProjection**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3731)
-
 ___
 
 ### bEnableSwingDrive
 
 • **bEnableSwingDrive**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3776](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3776)
 
 ___
 
@@ -692,19 +480,11 @@ ___
 
 • **bEnableTwistDrive**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3777](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3777)
-
 ___
 
 ### bLinearBreakable
 
 • **bLinearBreakable**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3741)
 
 ___
 
@@ -712,19 +492,11 @@ ___
 
 • **bLinearLimitSoft**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3738)
-
 ___
 
 ### bLinearPositionDrive
 
 • **bLinearPositionDrive**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3763)
 
 ___
 
@@ -732,19 +504,11 @@ ___
 
 • **bLinearVelocityDrive**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3764)
-
 ___
 
 ### bLinearXPositionDrive
 
 • **bLinearXPositionDrive**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3757)
 
 ___
 
@@ -752,19 +516,11 @@ ___
 
 • **bLinearXVelocityDrive**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3758](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3758)
-
 ___
 
 ### bLinearYPositionDrive
 
 • **bLinearYPositionDrive**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3759)
 
 ___
 
@@ -772,19 +528,11 @@ ___
 
 • **bLinearYVelocityDrive**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3760](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3760)
-
 ___
 
 ### bLinearZPositionDrive
 
 • **bLinearZPositionDrive**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3761](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3761)
 
 ___
 
@@ -792,19 +540,11 @@ ___
 
 • **bLinearZVelocityDrive**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3762)
-
 ___
 
 ### bScaleLinearLimits
 
 • **bScaleLinearLimits**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3728)
 
 ___
 
@@ -812,19 +552,11 @@ ___
 
 • **bSwingLimitSoft**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3746)
-
 ___
 
 ### bSwingPositionDrive
 
 • **bSwingPositionDrive**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3770)
 
 ___
 
@@ -832,19 +564,11 @@ ___
 
 • **bSwingVelocityDrive**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3771)
-
 ___
 
 ### bTwistLimitSoft
 
 • **bTwistLimitSoft**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3747)
 
 ___
 
@@ -852,19 +576,11 @@ ___
 
 • **bTwistPositionDrive**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3772)
-
 ___
 
 ### bTwistVelocityDrive
 
 • **bTwistVelocityDrive**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3773)
 
 ## Methods
 
@@ -880,10 +596,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3789)
-
 ___
 
 ### StaticStruct
@@ -893,7 +605,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3790)

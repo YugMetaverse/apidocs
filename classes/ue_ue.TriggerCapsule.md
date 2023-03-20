@@ -284,10 +284,6 @@
 
 [TriggerBase](ue_ue.TriggerBase.md).[constructor](ue_ue.TriggerBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:64231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64231)
-
 ## Properties
 
 ### ActorLabel
@@ -297,10 +293,6 @@
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[ActorLabel](ue_ue.TriggerBase.md#actorlabel)
-
-#### Defined in
-
-[ue/ue.d.ts:13176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13176)
 
 ___
 
@@ -312,10 +304,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[AttachmentReplication](ue_ue.TriggerBase.md#attachmentreplication)
 
-#### Defined in
-
-[ue/ue.d.ts:13151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13151)
-
 ___
 
 ### AutoReceiveInput
@@ -325,10 +313,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[AutoReceiveInput](ue_ue.TriggerBase.md#autoreceiveinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13157)
 
 ___
 
@@ -340,10 +324,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[BlueprintCreatedComponents](ue_ue.TriggerBase.md#blueprintcreatedcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13206)
-
 ___
 
 ### Children
@@ -353,10 +333,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[Children](ue_ue.TriggerBase.md#children)
-
-#### Defined in
-
-[ue/ue.d.ts:13166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13166)
 
 ___
 
@@ -368,10 +344,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[CollisionComponent](ue_ue.TriggerBase.md#collisioncomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:64212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64212)
-
 ___
 
 ### ControllingMatineeActors
@@ -381,10 +353,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[ControllingMatineeActors](ue_ue.TriggerBase.md#controllingmatineeactors)
-
-#### Defined in
-
-[ue/ue.d.ts:13169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13169)
 
 ___
 
@@ -396,10 +364,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[CustomTimeDilation](ue_ue.TriggerBase.md#customtimedilation)
 
-#### Defined in
-
-[ue/ue.d.ts:13150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13150)
-
 ___
 
 ### DefaultUpdateOverlapsMethodDuringLevelStreaming
@@ -409,10 +373,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[DefaultUpdateOverlapsMethodDuringLevelStreaming](ue_ue.TriggerBase.md#defaultupdateoverlapsmethodduringlevelstreaming)
-
-#### Defined in
-
-[ue/ue.d.ts:13146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13146)
 
 ___
 
@@ -424,10 +384,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[FolderPath](ue_ue.TriggerBase.md#folderpath)
 
-#### Defined in
-
-[ue/ue.d.ts:13177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13177)
-
 ___
 
 ### GroupActor
@@ -437,10 +393,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[GroupActor](ue_ue.TriggerBase.md#groupactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13173)
 
 ___
 
@@ -452,10 +404,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[HiddenEditorViews](ue_ue.TriggerBase.md#hiddeneditorviews)
 
-#### Defined in
-
-[ue/ue.d.ts:13175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13175)
-
 ___
 
 ### InitialLifeSpan
@@ -465,10 +413,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[InitialLifeSpan](ue_ue.TriggerBase.md#initiallifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13149)
 
 ___
 
@@ -480,10 +424,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[InputComponent](ue_ue.TriggerBase.md#inputcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13159)
-
 ___
 
 ### InputPriority
@@ -493,10 +433,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[InputPriority](ue_ue.TriggerBase.md#inputpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:13158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13158)
 
 ___
 
@@ -508,10 +444,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[InstanceComponents](ue_ue.TriggerBase.md#instancecomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13205)
-
 ___
 
 ### Instigator
@@ -521,10 +453,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[Instigator](ue_ue.TriggerBase.md#instigator)
-
-#### Defined in
-
-[ue/ue.d.ts:13165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13165)
 
 ___
 
@@ -536,10 +464,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[Layers](ue_ue.TriggerBase.md#layers)
 
-#### Defined in
-
-[ue/ue.d.ts:13170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13170)
-
 ___
 
 ### MinNetUpdateFrequency
@@ -549,10 +473,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[MinNetUpdateFrequency](ue_ue.TriggerBase.md#minnetupdatefrequency)
-
-#### Defined in
-
-[ue/ue.d.ts:13163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13163)
 
 ___
 
@@ -564,10 +484,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[NetCullDistanceSquared](ue_ue.TriggerBase.md#netculldistancesquared)
 
-#### Defined in
-
-[ue/ue.d.ts:13160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13160)
-
 ___
 
 ### NetDormancy
@@ -577,10 +493,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[NetDormancy](ue_ue.TriggerBase.md#netdormancy)
-
-#### Defined in
-
-[ue/ue.d.ts:13155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13155)
 
 ___
 
@@ -592,10 +504,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[NetDriverName](ue_ue.TriggerBase.md#netdrivername)
 
-#### Defined in
-
-[ue/ue.d.ts:13153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13153)
-
 ___
 
 ### NetPriority
@@ -605,10 +513,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[NetPriority](ue_ue.TriggerBase.md#netpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:13164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13164)
 
 ___
 
@@ -620,10 +524,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[NetTag](ue_ue.TriggerBase.md#nettag)
 
-#### Defined in
-
-[ue/ue.d.ts:13161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13161)
-
 ___
 
 ### NetUpdateFrequency
@@ -633,10 +533,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[NetUpdateFrequency](ue_ue.TriggerBase.md#netupdatefrequency)
-
-#### Defined in
-
-[ue/ue.d.ts:13162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13162)
 
 ___
 
@@ -648,10 +544,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[OnActorBeginOverlap](ue_ue.TriggerBase.md#onactorbeginoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13192)
-
 ___
 
 ### OnActorEndOverlap
@@ -661,10 +553,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[OnActorEndOverlap](ue_ue.TriggerBase.md#onactorendoverlap)
-
-#### Defined in
-
-[ue/ue.d.ts:13193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13193)
 
 ___
 
@@ -676,10 +564,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[OnActorHit](ue_ue.TriggerBase.md#onactorhit)
 
-#### Defined in
-
-[ue/ue.d.ts:13202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13202)
-
 ___
 
 ### OnBeginCursorOver
@@ -689,10 +573,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[OnBeginCursorOver](ue_ue.TriggerBase.md#onbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13194)
 
 ___
 
@@ -704,10 +584,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[OnClicked](ue_ue.TriggerBase.md#onclicked)
 
-#### Defined in
-
-[ue/ue.d.ts:13196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13196)
-
 ___
 
 ### OnDestroyed
@@ -717,10 +593,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[OnDestroyed](ue_ue.TriggerBase.md#ondestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13203)
 
 ___
 
@@ -732,10 +604,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[OnEndCursorOver](ue_ue.TriggerBase.md#onendcursorover)
 
-#### Defined in
-
-[ue/ue.d.ts:13195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13195)
-
 ___
 
 ### OnEndPlay
@@ -745,10 +613,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[OnEndPlay](ue_ue.TriggerBase.md#onendplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13204)
 
 ___
 
@@ -760,10 +624,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[OnInputTouchBegin](ue_ue.TriggerBase.md#oninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:13198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13198)
-
 ___
 
 ### OnInputTouchEnd
@@ -773,10 +633,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[OnInputTouchEnd](ue_ue.TriggerBase.md#oninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:13199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13199)
 
 ___
 
@@ -788,10 +644,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[OnInputTouchEnter](ue_ue.TriggerBase.md#oninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:13200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13200)
-
 ___
 
 ### OnInputTouchLeave
@@ -801,10 +653,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[OnInputTouchLeave](ue_ue.TriggerBase.md#oninputtouchleave)
-
-#### Defined in
-
-[ue/ue.d.ts:13201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13201)
 
 ___
 
@@ -816,10 +664,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[OnReleased](ue_ue.TriggerBase.md#onreleased)
 
-#### Defined in
-
-[ue/ue.d.ts:13197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13197)
-
 ___
 
 ### OnTakeAnyDamage
@@ -829,10 +673,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[OnTakeAnyDamage](ue_ue.TriggerBase.md#ontakeanydamage)
-
-#### Defined in
-
-[ue/ue.d.ts:13189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13189)
 
 ___
 
@@ -844,10 +684,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[OnTakePointDamage](ue_ue.TriggerBase.md#ontakepointdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13190)
-
 ___
 
 ### OnTakeRadialDamage
@@ -857,10 +693,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[OnTakeRadialDamage](ue_ue.TriggerBase.md#ontakeradialdamage)
-
-#### Defined in
-
-[ue/ue.d.ts:13191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13191)
 
 ___
 
@@ -872,10 +704,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[Owner](ue_ue.TriggerBase.md#owner)
 
-#### Defined in
-
-[ue/ue.d.ts:13152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13152)
-
 ___
 
 ### ParentComponent
@@ -885,10 +713,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[ParentComponent](ue_ue.TriggerBase.md#parentcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13172)
 
 ___
 
@@ -900,10 +724,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[ParentComponentActor](ue_ue.TriggerBase.md#parentcomponentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13171)
-
 ___
 
 ### PivotOffset
@@ -913,10 +733,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[PivotOffset](ue_ue.TriggerBase.md#pivotoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:13168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13168)
 
 ___
 
@@ -928,10 +744,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[PrimaryActorTick](ue_ue.TriggerBase.md#primaryactortick)
 
-#### Defined in
-
-[ue/ue.d.ts:13115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13115)
-
 ___
 
 ### RemoteRole
@@ -941,10 +753,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[RemoteRole](ue_ue.TriggerBase.md#remoterole)
-
-#### Defined in
-
-[ue/ue.d.ts:13147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13147)
 
 ___
 
@@ -956,10 +764,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[ReplicatedMovement](ue_ue.TriggerBase.md#replicatedmovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13148)
-
 ___
 
 ### Role
@@ -969,10 +773,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[Role](ue_ue.TriggerBase.md#role)
-
-#### Defined in
-
-[ue/ue.d.ts:13154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13154)
 
 ___
 
@@ -984,10 +784,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[RootComponent](ue_ue.TriggerBase.md#rootcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13167)
-
 ___
 
 ### SpawnCollisionHandlingMethod
@@ -997,10 +793,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[SpawnCollisionHandlingMethod](ue_ue.TriggerBase.md#spawncollisionhandlingmethod)
-
-#### Defined in
-
-[ue/ue.d.ts:13156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13156)
 
 ___
 
@@ -1012,10 +804,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[SpriteComponent](ue_ue.TriggerBase.md#spritecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:64213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64213)
-
 ___
 
 ### SpriteScale
@@ -1025,10 +813,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[SpriteScale](ue_ue.TriggerBase.md#spritescale)
-
-#### Defined in
-
-[ue/ue.d.ts:13174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13174)
 
 ___
 
@@ -1040,10 +824,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[Tags](ue_ue.TriggerBase.md#tags)
 
-#### Defined in
-
-[ue/ue.d.ts:13188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13188)
-
 ___
 
 ### UpdateOverlapsMethodDuringLevelStreaming
@@ -1053,10 +833,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[UpdateOverlapsMethodDuringLevelStreaming](ue_ue.TriggerBase.md#updateoverlapsmethodduringlevelstreaming)
-
-#### Defined in
-
-[ue/ue.d.ts:13145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13145)
 
 ___
 
@@ -1068,10 +844,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[__tid_Actor__](ue_ue.TriggerBase.md#__tid_actor__)
 
-#### Defined in
-
-[ue/ue.d.ts:13348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13348)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -1081,10 +853,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[__tid_Object__](ue_ue.TriggerBase.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -1096,19 +864,11 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[__tid_TriggerBase__](ue_ue.TriggerBase.md#__tid_triggerbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:64218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64218)
-
 ___
 
 ### \_\_tid\_TriggerCapsule\_\_
 
 • **\_\_tid\_TriggerCapsule\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64236)
 
 ___
 
@@ -1120,10 +880,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[bActorEnableCollision](ue_ue.TriggerBase.md#bactorenablecollision)
 
-#### Defined in
-
-[ue/ue.d.ts:13143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13143)
-
 ___
 
 ### bActorIsBeingDestroyed
@@ -1133,10 +889,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[bActorIsBeingDestroyed](ue_ue.TriggerBase.md#bactorisbeingdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13144)
 
 ___
 
@@ -1148,10 +900,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[bActorLabelEditable](ue_ue.TriggerBase.md#bactorlabeleditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13183)
-
 ___
 
 ### bActorSeamlessTraveled
@@ -1161,10 +909,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[bActorSeamlessTraveled](ue_ue.TriggerBase.md#bactorseamlesstraveled)
-
-#### Defined in
-
-[ue/ue.d.ts:13139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13139)
 
 ___
 
@@ -1176,10 +920,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[bAllowReceiveTickEventOnDedicatedServer](ue_ue.TriggerBase.md#ballowreceivetickeventondedicatedserver)
 
-#### Defined in
-
-[ue/ue.d.ts:13142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13142)
-
 ___
 
 ### bAllowTickBeforeBeginPlay
@@ -1189,10 +929,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[bAllowTickBeforeBeginPlay](ue_ue.TriggerBase.md#ballowtickbeforebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13129)
 
 ___
 
@@ -1204,10 +940,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[bAlwaysRelevant](ue_ue.TriggerBase.md#balwaysrelevant)
 
-#### Defined in
-
-[ue/ue.d.ts:13120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13120)
-
 ___
 
 ### bAutoDestroyWhenFinished
@@ -1217,10 +949,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[bAutoDestroyWhenFinished](ue_ue.TriggerBase.md#bautodestroywhenfinished)
-
-#### Defined in
-
-[ue/ue.d.ts:13130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13130)
 
 ___
 
@@ -1232,10 +960,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[bBlockInput](ue_ue.TriggerBase.md#bblockinput)
 
-#### Defined in
-
-[ue/ue.d.ts:13131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13131)
-
 ___
 
 ### bCanBeDamaged
@@ -1245,10 +969,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[bCanBeDamaged](ue_ue.TriggerBase.md#bcanbedamaged)
-
-#### Defined in
-
-[ue/ue.d.ts:13132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13132)
 
 ___
 
@@ -1260,10 +980,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[bCanBeInCluster](ue_ue.TriggerBase.md#bcanbeincluster)
 
-#### Defined in
-
-[ue/ue.d.ts:13141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13141)
-
 ___
 
 ### bCollideWhenPlacing
@@ -1273,10 +989,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[bCollideWhenPlacing](ue_ue.TriggerBase.md#bcollidewhenplacing)
-
-#### Defined in
-
-[ue/ue.d.ts:13133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13133)
 
 ___
 
@@ -1288,10 +1000,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[bEditable](ue_ue.TriggerBase.md#beditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13184)
-
 ___
 
 ### bEnableAutoLODGeneration
@@ -1301,10 +1009,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[bEnableAutoLODGeneration](ue_ue.TriggerBase.md#benableautolodgeneration)
-
-#### Defined in
-
-[ue/ue.d.ts:13137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13137)
 
 ___
 
@@ -1316,10 +1020,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[bExchangedRoles](ue_ue.TriggerBase.md#bexchangedroles)
 
-#### Defined in
-
-[ue/ue.d.ts:13123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13123)
-
 ___
 
 ### bFindCameraComponentWhenViewTarget
@@ -1329,10 +1029,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[bFindCameraComponentWhenViewTarget](ue_ue.TriggerBase.md#bfindcameracomponentwhenviewtarget)
-
-#### Defined in
-
-[ue/ue.d.ts:13134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13134)
 
 ___
 
@@ -1344,10 +1040,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[bGenerateOverlapEventsDuringLevelStreaming](ue_ue.TriggerBase.md#bgenerateoverlapeventsduringlevelstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:13135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13135)
-
 ___
 
 ### bHidden
@@ -1357,10 +1049,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[bHidden](ue_ue.TriggerBase.md#bhidden)
-
-#### Defined in
-
-[ue/ue.d.ts:13116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13116)
 
 ___
 
@@ -1372,10 +1060,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[bHiddenEd](ue_ue.TriggerBase.md#bhiddened)
 
-#### Defined in
-
-[ue/ue.d.ts:13178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13178)
-
 ___
 
 ### bHiddenEdLayer
@@ -1385,10 +1069,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[bHiddenEdLayer](ue_ue.TriggerBase.md#bhiddenedlayer)
-
-#### Defined in
-
-[ue/ue.d.ts:13180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13180)
 
 ___
 
@@ -1400,10 +1080,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[bHiddenEdLevel](ue_ue.TriggerBase.md#bhiddenedlevel)
 
-#### Defined in
-
-[ue/ue.d.ts:13181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13181)
-
 ___
 
 ### bHiddenEdTemporary
@@ -1413,10 +1089,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[bHiddenEdTemporary](ue_ue.TriggerBase.md#bhiddenedtemporary)
-
-#### Defined in
-
-[ue/ue.d.ts:13187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13187)
 
 ___
 
@@ -1428,10 +1100,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[bIgnoresOriginShifting](ue_ue.TriggerBase.md#bignoresoriginshifting)
 
-#### Defined in
-
-[ue/ue.d.ts:13136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13136)
-
 ___
 
 ### bIsEditorOnlyActor
@@ -1441,10 +1109,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[bIsEditorOnlyActor](ue_ue.TriggerBase.md#biseditoronlyactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13138)
 
 ___
 
@@ -1456,10 +1120,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[bIsEditorPreviewActor](ue_ue.TriggerBase.md#biseditorpreviewactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13179)
-
 ___
 
 ### bListedInSceneOutliner
@@ -1469,10 +1129,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[bListedInSceneOutliner](ue_ue.TriggerBase.md#blistedinsceneoutliner)
-
-#### Defined in
-
-[ue/ue.d.ts:13185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13185)
 
 ___
 
@@ -1484,10 +1140,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[bLockLocation](ue_ue.TriggerBase.md#blocklocation)
 
-#### Defined in
-
-[ue/ue.d.ts:13182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13182)
-
 ___
 
 ### bNetLoadOnClient
@@ -1497,10 +1149,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[bNetLoadOnClient](ue_ue.TriggerBase.md#bnetloadonclient)
-
-#### Defined in
-
-[ue/ue.d.ts:13124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13124)
 
 ___
 
@@ -1512,10 +1160,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[bNetStartup](ue_ue.TriggerBase.md#bnetstartup)
 
-#### Defined in
-
-[ue/ue.d.ts:13118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13118)
-
 ___
 
 ### bNetTemporary
@@ -1525,10 +1169,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[bNetTemporary](ue_ue.TriggerBase.md#bnettemporary)
-
-#### Defined in
-
-[ue/ue.d.ts:13117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13117)
 
 ___
 
@@ -1540,10 +1180,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[bNetUseOwnerRelevancy](ue_ue.TriggerBase.md#bnetuseownerrelevancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13125)
-
 ___
 
 ### bOnlyRelevantToOwner
@@ -1553,10 +1189,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[bOnlyRelevantToOwner](ue_ue.TriggerBase.md#bonlyrelevanttoowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13119)
 
 ___
 
@@ -1568,10 +1200,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[bOptimizeBPComponentData](ue_ue.TriggerBase.md#boptimizebpcomponentdata)
 
-#### Defined in
-
-[ue/ue.d.ts:13186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13186)
-
 ___
 
 ### bRelevantForLevelBounds
@@ -1581,10 +1209,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[bRelevantForLevelBounds](ue_ue.TriggerBase.md#brelevantforlevelbounds)
-
-#### Defined in
-
-[ue/ue.d.ts:13127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13127)
 
 ___
 
@@ -1596,10 +1220,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[bRelevantForNetworkReplays](ue_ue.TriggerBase.md#brelevantfornetworkreplays)
 
-#### Defined in
-
-[ue/ue.d.ts:13126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13126)
-
 ___
 
 ### bReplayRewindable
@@ -1609,10 +1229,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[bReplayRewindable](ue_ue.TriggerBase.md#breplayrewindable)
-
-#### Defined in
-
-[ue/ue.d.ts:13128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13128)
 
 ___
 
@@ -1624,10 +1240,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[bReplicateMovement](ue_ue.TriggerBase.md#breplicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13121)
-
 ___
 
 ### bReplicates
@@ -1638,10 +1250,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[bReplicates](ue_ue.TriggerBase.md#breplicates)
 
-#### Defined in
-
-[ue/ue.d.ts:13140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13140)
-
 ___
 
 ### bTearOff
@@ -1651,10 +1259,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[bTearOff](ue_ue.TriggerBase.md#btearoff)
-
-#### Defined in
-
-[ue/ue.d.ts:13122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13122)
 
 ## Methods
 
@@ -1675,10 +1279,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[ActorHasTag](ue_ue.TriggerBase.md#actorhastag)
-
-#### Defined in
-
-[ue/ue.d.ts:13207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13207)
 
 ___
 
@@ -1703,10 +1303,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[AddComponent](ue_ue.TriggerBase.md#addcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13208)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -1727,10 +1323,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[AddTickPrerequisiteActor](ue_ue.TriggerBase.md#addtickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13209)
-
 ___
 
 ### AddTickPrerequisiteComponent
@@ -1750,10 +1342,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[AddTickPrerequisiteComponent](ue_ue.TriggerBase.md#addtickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13210)
 
 ___
 
@@ -1779,10 +1367,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[CreateDefaultSubobject](ue_ue.TriggerBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### DetachRootComponentFromParent
@@ -1802,10 +1386,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[DetachRootComponentFromParent](ue_ue.TriggerBase.md#detachrootcomponentfromparent)
-
-#### Defined in
-
-[ue/ue.d.ts:13211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13211)
 
 ___
 
@@ -1827,10 +1407,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[DisableInput](ue_ue.TriggerBase.md#disableinput)
 
-#### Defined in
-
-[ue/ue.d.ts:13212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13212)
-
 ___
 
 ### EnableInput
@@ -1850,10 +1426,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[EnableInput](ue_ue.TriggerBase.md#enableinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13213)
 
 ___
 
@@ -1875,10 +1447,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[ExecuteUbergraph](ue_ue.TriggerBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### FlushNetDormancy
@@ -1893,10 +1461,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[FlushNetDormancy](ue_ue.TriggerBase.md#flushnetdormancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13214)
-
 ___
 
 ### ForceNetUpdate
@@ -1910,10 +1474,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[ForceNetUpdate](ue_ue.TriggerBase.md#forcenetupdate)
-
-#### Defined in
-
-[ue/ue.d.ts:13215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13215)
 
 ___
 
@@ -1937,10 +1497,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetActorBounds](ue_ue.TriggerBase.md#getactorbounds)
 
-#### Defined in
-
-[ue/ue.d.ts:13216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13216)
-
 ___
 
 ### GetActorEnableCollision
@@ -1954,10 +1510,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetActorEnableCollision](ue_ue.TriggerBase.md#getactorenablecollision)
-
-#### Defined in
-
-[ue/ue.d.ts:13217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13217)
 
 ___
 
@@ -1980,10 +1532,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetActorEyesViewPoint](ue_ue.TriggerBase.md#getactoreyesviewpoint)
 
-#### Defined in
-
-[ue/ue.d.ts:13218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13218)
-
 ___
 
 ### GetActorForwardVector
@@ -1997,10 +1545,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetActorForwardVector](ue_ue.TriggerBase.md#getactorforwardvector)
-
-#### Defined in
-
-[ue/ue.d.ts:13219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13219)
 
 ___
 
@@ -2016,10 +1560,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetActorLabel](ue_ue.TriggerBase.md#getactorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13220)
-
 ___
 
 ### GetActorRelativeScale3D
@@ -2033,10 +1573,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetActorRelativeScale3D](ue_ue.TriggerBase.md#getactorrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13221)
 
 ___
 
@@ -2052,10 +1588,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetActorRightVector](ue_ue.TriggerBase.md#getactorrightvector)
 
-#### Defined in
-
-[ue/ue.d.ts:13222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13222)
-
 ___
 
 ### GetActorScale3D
@@ -2069,10 +1601,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetActorScale3D](ue_ue.TriggerBase.md#getactorscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13223)
 
 ___
 
@@ -2088,10 +1616,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetActorTickInterval](ue_ue.TriggerBase.md#getactortickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:13224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13224)
-
 ___
 
 ### GetActorTimeDilation
@@ -2106,10 +1630,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetActorTimeDilation](ue_ue.TriggerBase.md#getactortimedilation)
 
-#### Defined in
-
-[ue/ue.d.ts:13225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13225)
-
 ___
 
 ### GetActorUpVector
@@ -2123,10 +1643,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetActorUpVector](ue_ue.TriggerBase.md#getactorupvector)
-
-#### Defined in
-
-[ue/ue.d.ts:13226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13226)
 
 ___
 
@@ -2149,10 +1665,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetAllChildActors](ue_ue.TriggerBase.md#getallchildactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13227)
-
 ___
 
 ### GetAttachParentActor
@@ -2167,10 +1679,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetAttachParentActor](ue_ue.TriggerBase.md#getattachparentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13229)
-
 ___
 
 ### GetAttachParentSocketName
@@ -2184,10 +1692,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetAttachParentSocketName](ue_ue.TriggerBase.md#getattachparentsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:13230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13230)
 
 ___
 
@@ -2210,10 +1714,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetAttachedActors](ue_ue.TriggerBase.md#getattachedactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13228)
-
 ___
 
 ### GetClass
@@ -2227,10 +1727,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetClass](ue_ue.TriggerBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -2252,10 +1748,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetComponentByClass](ue_ue.TriggerBase.md#getcomponentbyclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13231)
-
 ___
 
 ### GetComponentsByInterface
@@ -2275,10 +1767,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetComponentsByInterface](ue_ue.TriggerBase.md#getcomponentsbyinterface)
-
-#### Defined in
-
-[ue/ue.d.ts:13232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13232)
 
 ___
 
@@ -2301,10 +1789,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetComponentsByTag](ue_ue.TriggerBase.md#getcomponentsbytag)
 
-#### Defined in
-
-[ue/ue.d.ts:13233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13233)
-
 ___
 
 ### GetDistanceTo
@@ -2324,10 +1808,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetDistanceTo](ue_ue.TriggerBase.md#getdistanceto)
-
-#### Defined in
-
-[ue/ue.d.ts:13234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13234)
 
 ___
 
@@ -2349,10 +1829,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetDotProductTo](ue_ue.TriggerBase.md#getdotproductto)
 
-#### Defined in
-
-[ue/ue.d.ts:13235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13235)
-
 ___
 
 ### GetFolderPath
@@ -2367,10 +1843,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetFolderPath](ue_ue.TriggerBase.md#getfolderpath)
 
-#### Defined in
-
-[ue/ue.d.ts:13236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13236)
-
 ___
 
 ### GetGameTimeSinceCreation
@@ -2384,10 +1856,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetGameTimeSinceCreation](ue_ue.TriggerBase.md#getgametimesincecreation)
-
-#### Defined in
-
-[ue/ue.d.ts:13237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13237)
 
 ___
 
@@ -2409,10 +1877,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetHorizontalDistanceTo](ue_ue.TriggerBase.md#gethorizontaldistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13238)
-
 ___
 
 ### GetHorizontalDotProductTo
@@ -2432,10 +1896,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetHorizontalDotProductTo](ue_ue.TriggerBase.md#gethorizontaldotproductto)
-
-#### Defined in
-
-[ue/ue.d.ts:13239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13239)
 
 ___
 
@@ -2457,10 +1917,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetInputAxisKeyValue](ue_ue.TriggerBase.md#getinputaxiskeyvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:13240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13240)
-
 ___
 
 ### GetInputAxisValue
@@ -2480,10 +1936,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetInputAxisValue](ue_ue.TriggerBase.md#getinputaxisvalue)
-
-#### Defined in
-
-[ue/ue.d.ts:13241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13241)
 
 ___
 
@@ -2505,10 +1957,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetInputVectorAxisValue](ue_ue.TriggerBase.md#getinputvectoraxisvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:13242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13242)
-
 ___
 
 ### GetInstigator
@@ -2522,10 +1970,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetInstigator](ue_ue.TriggerBase.md#getinstigator)
-
-#### Defined in
-
-[ue/ue.d.ts:13243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13243)
 
 ___
 
@@ -2541,10 +1985,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetInstigatorController](ue_ue.TriggerBase.md#getinstigatorcontroller)
 
-#### Defined in
-
-[ue/ue.d.ts:13244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13244)
-
 ___
 
 ### GetLifeSpan
@@ -2558,10 +1998,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetLifeSpan](ue_ue.TriggerBase.md#getlifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13245)
 
 ___
 
@@ -2577,10 +2013,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetLocalRole](ue_ue.TriggerBase.md#getlocalrole)
 
-#### Defined in
-
-[ue/ue.d.ts:13246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13246)
-
 ___
 
 ### GetName
@@ -2595,10 +2027,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetName](ue_ue.TriggerBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -2612,10 +2040,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetOuter](ue_ue.TriggerBase.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -2638,10 +2062,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetOverlappingActors](ue_ue.TriggerBase.md#getoverlappingactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13247)
-
 ___
 
 ### GetOverlappingComponents
@@ -2662,10 +2082,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetOverlappingComponents](ue_ue.TriggerBase.md#getoverlappingcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13248)
-
 ___
 
 ### GetOwner
@@ -2679,10 +2095,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetOwner](ue_ue.TriggerBase.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13249)
 
 ___
 
@@ -2698,10 +2110,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetParentActor](ue_ue.TriggerBase.md#getparentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13250)
-
 ___
 
 ### GetParentComponent
@@ -2716,10 +2124,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetParentComponent](ue_ue.TriggerBase.md#getparentcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13251)
-
 ___
 
 ### GetRemoteRole
@@ -2733,10 +2137,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetRemoteRole](ue_ue.TriggerBase.md#getremoterole)
-
-#### Defined in
-
-[ue/ue.d.ts:13252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13252)
 
 ___
 
@@ -2758,10 +2158,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetSquaredDistanceTo](ue_ue.TriggerBase.md#getsquareddistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13253)
-
 ___
 
 ### GetTickableWhenPaused
@@ -2775,10 +2171,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetTickableWhenPaused](ue_ue.TriggerBase.md#gettickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:13254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13254)
 
 ___
 
@@ -2794,10 +2186,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetTransform](ue_ue.TriggerBase.md#gettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13255)
-
 ___
 
 ### GetVelocity
@@ -2811,10 +2199,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetVelocity](ue_ue.TriggerBase.md#getvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:13256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13256)
 
 ___
 
@@ -2836,10 +2220,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetVerticalDistanceTo](ue_ue.TriggerBase.md#getverticaldistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13257)
-
 ___
 
 ### GetWorld
@@ -2853,10 +2233,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[GetWorld](ue_ue.TriggerBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -2872,10 +2248,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[HasAuthority](ue_ue.TriggerBase.md#hasauthority)
 
-#### Defined in
-
-[ue/ue.d.ts:13258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13258)
-
 ___
 
 ### IsActorBeingDestroyed
@@ -2889,10 +2261,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[IsActorBeingDestroyed](ue_ue.TriggerBase.md#isactorbeingdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13259)
 
 ___
 
@@ -2908,10 +2276,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[IsActorTickEnabled](ue_ue.TriggerBase.md#isactortickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:13260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13260)
-
 ___
 
 ### IsChildActor
@@ -2925,10 +2289,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[IsChildActor](ue_ue.TriggerBase.md#ischildactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13261)
 
 ___
 
@@ -2944,10 +2304,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[IsEditable](ue_ue.TriggerBase.md#iseditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13262)
-
 ___
 
 ### IsHiddenEd
@@ -2962,10 +2318,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[IsHiddenEd](ue_ue.TriggerBase.md#ishiddened)
 
-#### Defined in
-
-[ue/ue.d.ts:13263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13263)
-
 ___
 
 ### IsHiddenEdAtStartup
@@ -2979,10 +2331,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[IsHiddenEdAtStartup](ue_ue.TriggerBase.md#ishiddenedatstartup)
-
-#### Defined in
-
-[ue/ue.d.ts:13264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13264)
 
 ___
 
@@ -3004,10 +2352,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[IsOverlappingActor](ue_ue.TriggerBase.md#isoverlappingactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13265)
-
 ___
 
 ### IsSelectable
@@ -3021,10 +2365,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[IsSelectable](ue_ue.TriggerBase.md#isselectable)
-
-#### Defined in
-
-[ue/ue.d.ts:13266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13266)
 
 ___
 
@@ -3045,10 +2385,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[IsTemporarilyHiddenInEditor](ue_ue.TriggerBase.md#istemporarilyhiddenineditor)
-
-#### Defined in
-
-[ue/ue.d.ts:13267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13267)
 
 ___
 
@@ -3073,10 +2409,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_AddActorLocalOffset](ue_ue.TriggerBase.md#k2_addactorlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:13268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13268)
-
 ___
 
 ### K2\_AddActorLocalRotation
@@ -3099,10 +2431,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_AddActorLocalRotation](ue_ue.TriggerBase.md#k2_addactorlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13269)
 
 ___
 
@@ -3127,10 +2455,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_AddActorLocalTransform](ue_ue.TriggerBase.md#k2_addactorlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13270)
-
 ___
 
 ### K2\_AddActorWorldOffset
@@ -3153,10 +2477,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_AddActorWorldOffset](ue_ue.TriggerBase.md#k2_addactorworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:13271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13271)
 
 ___
 
@@ -3181,10 +2501,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_AddActorWorldRotation](ue_ue.TriggerBase.md#k2_addactorworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13272)
-
 ___
 
 ### K2\_AddActorWorldTransform
@@ -3207,10 +2523,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_AddActorWorldTransform](ue_ue.TriggerBase.md#k2_addactorworldtransform)
-
-#### Defined in
-
-[ue/ue.d.ts:13273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13273)
 
 ___
 
@@ -3235,10 +2547,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_AttachRootComponentTo](ue_ue.TriggerBase.md#k2_attachrootcomponentto)
 
-#### Defined in
-
-[ue/ue.d.ts:13274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13274)
-
 ___
 
 ### K2\_AttachRootComponentToActor
@@ -3261,10 +2569,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_AttachRootComponentToActor](ue_ue.TriggerBase.md#k2_attachrootcomponenttoactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13275)
 
 ___
 
@@ -3291,10 +2595,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_AttachToActor](ue_ue.TriggerBase.md#k2_attachtoactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13276)
-
 ___
 
 ### K2\_AttachToComponent
@@ -3320,10 +2620,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_AttachToComponent](ue_ue.TriggerBase.md#k2_attachtocomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13277)
-
 ___
 
 ### K2\_DestroyActor
@@ -3337,10 +2633,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_DestroyActor](ue_ue.TriggerBase.md#k2_destroyactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13278)
 
 ___
 
@@ -3361,10 +2653,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_DestroyComponent](ue_ue.TriggerBase.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13279)
 
 ___
 
@@ -3388,10 +2676,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_DetachFromActor](ue_ue.TriggerBase.md#k2_detachfromactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13280)
-
 ___
 
 ### K2\_GetActorLocation
@@ -3406,10 +2690,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_GetActorLocation](ue_ue.TriggerBase.md#k2_getactorlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:13281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13281)
-
 ___
 
 ### K2\_GetActorRotation
@@ -3423,10 +2703,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_GetActorRotation](ue_ue.TriggerBase.md#k2_getactorrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13282)
 
 ___
 
@@ -3448,10 +2724,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_GetComponentsByClass](ue_ue.TriggerBase.md#k2_getcomponentsbyclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13283)
-
 ___
 
 ### K2\_GetRootComponent
@@ -3465,10 +2737,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_GetRootComponent](ue_ue.TriggerBase.md#k2_getrootcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13284)
 
 ___
 
@@ -3490,10 +2758,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_OnBecomeViewTarget](ue_ue.TriggerBase.md#k2_onbecomeviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13285)
-
 ___
 
 ### K2\_OnEndViewTarget
@@ -3514,10 +2778,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_OnEndViewTarget](ue_ue.TriggerBase.md#k2_onendviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13286)
-
 ___
 
 ### K2\_OnReset
@@ -3531,10 +2791,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_OnReset](ue_ue.TriggerBase.md#k2_onreset)
-
-#### Defined in
-
-[ue/ue.d.ts:13287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13287)
 
 ___
 
@@ -3558,10 +2814,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_SetActorLocation](ue_ue.TriggerBase.md#k2_setactorlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13288)
 
 ___
 
@@ -3587,10 +2839,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_SetActorLocationAndRotation](ue_ue.TriggerBase.md#k2_setactorlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13289)
-
 ___
 
 ### K2\_SetActorRelativeLocation
@@ -3613,10 +2861,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_SetActorRelativeLocation](ue_ue.TriggerBase.md#k2_setactorrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13290)
 
 ___
 
@@ -3641,10 +2885,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_SetActorRelativeRotation](ue_ue.TriggerBase.md#k2_setactorrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13291)
-
 ___
 
 ### K2\_SetActorRelativeTransform
@@ -3668,10 +2908,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_SetActorRelativeTransform](ue_ue.TriggerBase.md#k2_setactorrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13292)
-
 ___
 
 ### K2\_SetActorRotation
@@ -3692,10 +2928,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_SetActorRotation](ue_ue.TriggerBase.md#k2_setactorrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13293)
 
 ___
 
@@ -3720,10 +2952,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_SetActorTransform](ue_ue.TriggerBase.md#k2_setactortransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13294)
-
 ___
 
 ### K2\_TeleportTo
@@ -3745,10 +2973,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[K2_TeleportTo](ue_ue.TriggerBase.md#k2_teleportto)
 
-#### Defined in
-
-[ue/ue.d.ts:13295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13295)
-
 ___
 
 ### MakeMIDForMaterial
@@ -3768,10 +2992,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[MakeMIDForMaterial](ue_ue.TriggerBase.md#makemidformaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:13296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13296)
 
 ___
 
@@ -3797,10 +3017,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[MakeNoise](ue_ue.TriggerBase.md#makenoise)
 
-#### Defined in
-
-[ue/ue.d.ts:13297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13297)
-
 ___
 
 ### OnRep\_AttachmentReplication
@@ -3814,10 +3030,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[OnRep_AttachmentReplication](ue_ue.TriggerBase.md#onrep_attachmentreplication)
-
-#### Defined in
-
-[ue/ue.d.ts:13298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13298)
 
 ___
 
@@ -3833,10 +3045,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[OnRep_Instigator](ue_ue.TriggerBase.md#onrep_instigator)
 
-#### Defined in
-
-[ue/ue.d.ts:13299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13299)
-
 ___
 
 ### OnRep\_Owner
@@ -3850,10 +3058,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[OnRep_Owner](ue_ue.TriggerBase.md#onrep_owner)
-
-#### Defined in
-
-[ue/ue.d.ts:13300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13300)
 
 ___
 
@@ -3869,10 +3073,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[OnRep_ReplicateMovement](ue_ue.TriggerBase.md#onrep_replicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13302)
-
 ___
 
 ### OnRep\_ReplicatedMovement
@@ -3886,10 +3086,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[OnRep_ReplicatedMovement](ue_ue.TriggerBase.md#onrep_replicatedmovement)
-
-#### Defined in
-
-[ue/ue.d.ts:13301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13301)
 
 ___
 
@@ -3913,10 +3109,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[PrestreamTextures](ue_ue.TriggerBase.md#prestreamtextures)
 
-#### Defined in
-
-[ue/ue.d.ts:13303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13303)
-
 ___
 
 ### ReceiveActorBeginCursorOver
@@ -3930,10 +3122,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[ReceiveActorBeginCursorOver](ue_ue.TriggerBase.md#receiveactorbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13304)
 
 ___
 
@@ -3955,10 +3143,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[ReceiveActorBeginOverlap](ue_ue.TriggerBase.md#receiveactorbeginoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13305)
-
 ___
 
 ### ReceiveActorEndCursorOver
@@ -3972,10 +3156,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[ReceiveActorEndCursorOver](ue_ue.TriggerBase.md#receiveactorendcursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13306)
 
 ___
 
@@ -3997,10 +3177,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[ReceiveActorEndOverlap](ue_ue.TriggerBase.md#receiveactorendoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13307)
-
 ___
 
 ### ReceiveActorOnClicked
@@ -4020,10 +3196,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[ReceiveActorOnClicked](ue_ue.TriggerBase.md#receiveactoronclicked)
-
-#### Defined in
-
-[ue/ue.d.ts:13308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13308)
 
 ___
 
@@ -4045,10 +3217,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[ReceiveActorOnInputTouchBegin](ue_ue.TriggerBase.md#receiveactoroninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:13309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13309)
-
 ___
 
 ### ReceiveActorOnInputTouchEnd
@@ -4068,10 +3236,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[ReceiveActorOnInputTouchEnd](ue_ue.TriggerBase.md#receiveactoroninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:13310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13310)
 
 ___
 
@@ -4093,10 +3257,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[ReceiveActorOnInputTouchEnter](ue_ue.TriggerBase.md#receiveactoroninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:13311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13311)
-
 ___
 
 ### ReceiveActorOnInputTouchLeave
@@ -4117,10 +3277,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[ReceiveActorOnInputTouchLeave](ue_ue.TriggerBase.md#receiveactoroninputtouchleave)
 
-#### Defined in
-
-[ue/ue.d.ts:13312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13312)
-
 ___
 
 ### ReceiveActorOnReleased
@@ -4140,10 +3296,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[ReceiveActorOnReleased](ue_ue.TriggerBase.md#receiveactoronreleased)
-
-#### Defined in
-
-[ue/ue.d.ts:13313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13313)
 
 ___
 
@@ -4168,10 +3320,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[ReceiveAnyDamage](ue_ue.TriggerBase.md#receiveanydamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13314)
-
 ___
 
 ### ReceiveBeginPlay
@@ -4186,10 +3334,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[ReceiveBeginPlay](ue_ue.TriggerBase.md#receivebeginplay)
 
-#### Defined in
-
-[ue/ue.d.ts:13315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13315)
-
 ___
 
 ### ReceiveDestroyed
@@ -4203,10 +3347,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[ReceiveDestroyed](ue_ue.TriggerBase.md#receivedestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13316)
 
 ___
 
@@ -4227,10 +3367,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[ReceiveEndPlay](ue_ue.TriggerBase.md#receiveendplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13317)
 
 ___
 
@@ -4258,10 +3394,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[ReceiveHit](ue_ue.TriggerBase.md#receivehit)
-
-#### Defined in
-
-[ue/ue.d.ts:13318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13318)
 
 ___
 
@@ -4292,10 +3424,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[ReceivePointDamage](ue_ue.TriggerBase.md#receivepointdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13319)
-
 ___
 
 ### ReceiveRadialDamage
@@ -4321,10 +3449,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[ReceiveRadialDamage](ue_ue.TriggerBase.md#receiveradialdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13320)
-
 ___
 
 ### ReceiveTick
@@ -4344,10 +3468,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[ReceiveTick](ue_ue.TriggerBase.md#receivetick)
-
-#### Defined in
-
-[ue/ue.d.ts:13321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13321)
 
 ___
 
@@ -4369,10 +3489,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[RemoveTickPrerequisiteActor](ue_ue.TriggerBase.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -4392,10 +3508,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[RemoveTickPrerequisiteComponent](ue_ue.TriggerBase.md#removetickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13323)
 
 ___
 
@@ -4417,10 +3529,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[SetActorEnableCollision](ue_ue.TriggerBase.md#setactorenablecollision)
 
-#### Defined in
-
-[ue/ue.d.ts:13324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13324)
-
 ___
 
 ### SetActorHiddenInGame
@@ -4440,10 +3548,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[SetActorHiddenInGame](ue_ue.TriggerBase.md#setactorhiddeningame)
-
-#### Defined in
-
-[ue/ue.d.ts:13325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13325)
 
 ___
 
@@ -4466,10 +3570,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[SetActorLabel](ue_ue.TriggerBase.md#setactorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13326)
-
 ___
 
 ### SetActorRelativeScale3D
@@ -4489,10 +3589,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[SetActorRelativeScale3D](ue_ue.TriggerBase.md#setactorrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13327)
 
 ___
 
@@ -4514,10 +3610,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[SetActorScale3D](ue_ue.TriggerBase.md#setactorscale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:13328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13328)
-
 ___
 
 ### SetActorTickEnabled
@@ -4537,10 +3629,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[SetActorTickEnabled](ue_ue.TriggerBase.md#setactortickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:13329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13329)
 
 ___
 
@@ -4562,10 +3650,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[SetActorTickInterval](ue_ue.TriggerBase.md#setactortickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:13330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13330)
-
 ___
 
 ### SetFolderPath
@@ -4585,10 +3669,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[SetFolderPath](ue_ue.TriggerBase.md#setfolderpath)
-
-#### Defined in
-
-[ue/ue.d.ts:13331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13331)
 
 ___
 
@@ -4610,10 +3690,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[SetIsTemporarilyHiddenInEditor](ue_ue.TriggerBase.md#setistemporarilyhiddenineditor)
 
-#### Defined in
-
-[ue/ue.d.ts:13332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13332)
-
 ___
 
 ### SetLifeSpan
@@ -4633,10 +3709,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[SetLifeSpan](ue_ue.TriggerBase.md#setlifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13333)
 
 ___
 
@@ -4658,10 +3730,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[SetNetDormancy](ue_ue.TriggerBase.md#setnetdormancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13334)
-
 ___
 
 ### SetOwner
@@ -4681,10 +3749,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[SetOwner](ue_ue.TriggerBase.md#setowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13335)
 
 ___
 
@@ -4706,10 +3770,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[SetReplicateMovement](ue_ue.TriggerBase.md#setreplicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13336)
-
 ___
 
 ### SetReplicates
@@ -4729,10 +3789,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[SetReplicates](ue_ue.TriggerBase.md#setreplicates)
-
-#### Defined in
-
-[ue/ue.d.ts:13337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13337)
 
 ___
 
@@ -4754,10 +3810,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[SetTickGroup](ue_ue.TriggerBase.md#settickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:13339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13339)
-
 ___
 
 ### SetTickableWhenPaused
@@ -4777,10 +3829,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[SetTickableWhenPaused](ue_ue.TriggerBase.md#settickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:13338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13338)
 
 ___
 
@@ -4803,10 +3851,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[SnapRootComponentTo](ue_ue.TriggerBase.md#snaprootcomponentto)
 
-#### Defined in
-
-[ue/ue.d.ts:13340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13340)
-
 ___
 
 ### TearOff
@@ -4821,10 +3865,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[TearOff](ue_ue.TriggerBase.md#tearoff)
 
-#### Defined in
-
-[ue/ue.d.ts:13341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13341)
-
 ___
 
 ### UserConstructionScript
@@ -4838,10 +3878,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[UserConstructionScript](ue_ue.TriggerBase.md#userconstructionscript)
-
-#### Defined in
-
-[ue/ue.d.ts:13342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13342)
 
 ___
 
@@ -4862,10 +3898,6 @@ ___
 #### Inherited from
 
 [TriggerBase](ue_ue.TriggerBase.md).[WasRecentlyRendered](ue_ue.TriggerBase.md#wasrecentlyrendered)
-
-#### Defined in
-
-[ue/ue.d.ts:13343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13343)
 
 ___
 
@@ -4888,10 +3920,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[Find](ue_ue.TriggerBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:64233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64233)
-
 ___
 
 ### Load
@@ -4912,10 +3940,6 @@ ___
 
 [TriggerBase](ue_ue.TriggerBase.md).[Load](ue_ue.TriggerBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:64234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64234)
-
 ___
 
 ### StaticClass
@@ -4929,7 +3953,3 @@ ___
 #### Overrides
 
 [TriggerBase](ue_ue.TriggerBase.md).[StaticClass](ue_ue.TriggerBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:64232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64232)

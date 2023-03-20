@@ -28,10 +28,6 @@
 
 • **new VertexInstanceToCreate**()
 
-#### Defined in
-
-[ue/ue.d.ts:31834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31834)
-
 • **new VertexInstanceToCreate**(`VertexID`, `VertexInstanceAttributes`, `OriginalVertexInstanceID`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `VertexInstanceAttributes` | [`MeshElementAttributeList`](ue_ue.MeshElementAttributeList.md) |
 | `OriginalVertexInstanceID` | [`VertexInstanceID`](ue_ue.VertexInstanceID.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:31835](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31835)
-
 ## Properties
 
 ### OriginalVertexInstanceID
 
 • **OriginalVertexInstanceID**: [`VertexInstanceID`](ue_ue.VertexInstanceID.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31838)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **VertexID**: [`VertexID`](ue_ue.VertexID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31836)
-
 ___
 
 ### VertexInstanceAttributes
 
 • **VertexInstanceAttributes**: [`MeshElementAttributeList`](ue_ue.MeshElementAttributeList.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31837)
-
 ___
 
 ### \_\_tid\_VertexInstanceToCreate\_\_
 
 • `Private` **\_\_tid\_VertexInstanceToCreate\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31844)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31842)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31843)

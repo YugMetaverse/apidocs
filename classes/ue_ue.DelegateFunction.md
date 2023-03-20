@@ -57,19 +57,11 @@
 
 [Function](ue_ue.Function.md).[constructor](ue_ue.Function.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:30639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30639)
-
 ## Properties
 
 ### \_\_tid\_DelegateFunction\_\_
 
 • **\_\_tid\_DelegateFunction\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30644)
 
 ___
 
@@ -81,10 +73,6 @@ ___
 
 [Function](ue_ue.Function.md).[__tid_Field__](ue_ue.Function.md#__tid_field__)
 
-#### Defined in
-
-[ue/ue.d.ts:700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L700)
-
 ___
 
 ### \_\_tid\_Function\_\_
@@ -94,10 +82,6 @@ ___
 #### Inherited from
 
 [Function](ue_ue.Function.md).[__tid_Function__](ue_ue.Function.md#__tid_function__)
-
-#### Defined in
-
-[ue/ue.d.ts:4784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4784)
 
 ___
 
@@ -109,10 +93,6 @@ ___
 
 [Function](ue_ue.Function.md).[__tid_Object__](ue_ue.Function.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_Struct\_\_
@@ -122,10 +102,6 @@ ___
 #### Inherited from
 
 [Function](ue_ue.Function.md).[__tid_Struct__](ue_ue.Function.md#__tid_struct__)
-
-#### Defined in
-
-[ue/ue.d.ts:710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L710)
 
 ## Methods
 
@@ -151,10 +127,6 @@ ___
 
 [Function](ue_ue.Function.md).[CreateDefaultSubobject](ue_ue.Function.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -175,10 +147,6 @@ ___
 
 [Function](ue_ue.Function.md).[ExecuteUbergraph](ue_ue.Function.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -192,10 +160,6 @@ ___
 #### Inherited from
 
 [Function](ue_ue.Function.md).[GetClass](ue_ue.Function.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -211,10 +175,6 @@ ___
 
 [Function](ue_ue.Function.md).[GetName](ue_ue.Function.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -229,10 +189,6 @@ ___
 
 [Function](ue_ue.Function.md).[GetOuter](ue_ue.Function.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -246,10 +202,6 @@ ___
 #### Inherited from
 
 [Function](ue_ue.Function.md).[GetWorld](ue_ue.Function.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -270,10 +222,6 @@ ___
 #### Inherited from
 
 [Function](ue_ue.Function.md).[IsChildOf](ue_ue.Function.md#ischildof)
-
-#### Defined in
-
-[ue/ue.d.ts:705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L705)
 
 ___
 
@@ -296,10 +244,6 @@ ___
 
 [Function](ue_ue.Function.md).[Find](ue_ue.Function.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:30641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30641)
-
 ___
 
 ### Load
@@ -320,10 +264,6 @@ ___
 
 [Function](ue_ue.Function.md).[Load](ue_ue.Function.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:30642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30642)
-
 ___
 
 ### StaticClass
@@ -337,7 +277,3 @@ ___
 #### Overrides
 
 [Function](ue_ue.Function.md).[StaticClass](ue_ue.Function.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:30640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30640)

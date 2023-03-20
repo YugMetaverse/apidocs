@@ -37,10 +37,6 @@
 
 • **new MovieSceneSkeletalAnimationParams**()
 
-#### Defined in
-
-[ue/ue.d.ts:52253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52253)
-
 • **new MovieSceneSkeletalAnimationParams**(`Animation`, `FirstLoopStartFrameOffset`, `StartFrameOffset`, `EndFrameOffset`, `PlayRate`, `bReverse`, `SlotName`, `Weight`, `bSkipAnimNotifiers`, `bForceCustomMode`, `StartOffset`, `EndOffset`)
 
 #### Parameters
@@ -60,19 +56,11 @@
 | `StartOffset` | `number` |
 | `EndOffset` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:52254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52254)
-
 ## Properties
 
 ### Animation
 
 • **Animation**: [`AnimSequenceBase`](ue_ue.AnimSequenceBase.md)
-
-#### Defined in
-
-[ue/ue.d.ts:52255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52255)
 
 ___
 
@@ -80,19 +68,11 @@ ___
 
 • **EndFrameOffset**: [`FrameNumber`](ue_ue.FrameNumber.md)
 
-#### Defined in
-
-[ue/ue.d.ts:52258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52258)
-
 ___
 
 ### EndOffset
 
 • **EndOffset**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:52266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52266)
 
 ___
 
@@ -100,19 +80,11 @@ ___
 
 • **FirstLoopStartFrameOffset**: [`FrameNumber`](ue_ue.FrameNumber.md)
 
-#### Defined in
-
-[ue/ue.d.ts:52256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52256)
-
 ___
 
 ### PlayRate
 
 • **PlayRate**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:52259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52259)
 
 ___
 
@@ -120,19 +92,11 @@ ___
 
 • **SlotName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:52261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52261)
-
 ___
 
 ### StartFrameOffset
 
 • **StartFrameOffset**: [`FrameNumber`](ue_ue.FrameNumber.md)
-
-#### Defined in
-
-[ue/ue.d.ts:52257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52257)
 
 ___
 
@@ -140,19 +104,11 @@ ___
 
 • **StartOffset**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:52265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52265)
-
 ___
 
 ### Weight
 
 • **Weight**: [`MovieSceneFloatChannel`](ue_ue.MovieSceneFloatChannel.md)
-
-#### Defined in
-
-[ue/ue.d.ts:52262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52262)
 
 ___
 
@@ -160,19 +116,11 @@ ___
 
 • `Private` **\_\_tid\_MovieSceneSkeletalAnimationParams\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:52272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52272)
-
 ___
 
 ### bForceCustomMode
 
 • **bForceCustomMode**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52264)
 
 ___
 
@@ -180,19 +128,11 @@ ___
 
 • **bReverse**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:52260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52260)
-
 ___
 
 ### bSkipAnimNotifiers
 
 • **bSkipAnimNotifiers**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52263)
 
 ## Methods
 
@@ -208,10 +148,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:52270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52270)
-
 ___
 
 ### StaticStruct
@@ -221,7 +157,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:52271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52271)

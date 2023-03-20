@@ -20,19 +20,11 @@
 
 • **AllLimits** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34673)
-
 ___
 
 ### AllPositions
 
 • **AllPositions** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34673)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **EPhysicsAssetEditorConstraintViewMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34673)
-
 ___
 
 ### None
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34673)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34673)

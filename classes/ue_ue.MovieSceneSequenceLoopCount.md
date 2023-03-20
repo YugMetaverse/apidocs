@@ -26,10 +26,6 @@
 
 • **new MovieSceneSequenceLoopCount**()
 
-#### Defined in
-
-[ue/ue.d.ts:14135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14135)
-
 • **new MovieSceneSequenceLoopCount**(`Value`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Value` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:14136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14136)
-
 ## Properties
 
 ### Value
 
 • **Value**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14137)
-
 ___
 
 ### \_\_tid\_MovieSceneSequenceLoopCount\_\_
 
 • `Private` **\_\_tid\_MovieSceneSequenceLoopCount\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14143)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14141)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14142)

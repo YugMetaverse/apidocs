@@ -19,19 +19,11 @@
 
 • **Boundary\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31388)
-
 ___
 
 ### Boundary\_Outer
 
 • **Boundary\_Outer** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31388)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Boundary\_PlayArea** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31388)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31388)

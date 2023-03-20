@@ -19,19 +19,11 @@
 
 • **PEB2MT\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:23591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23591)
-
 ___
 
 ### PEB2MT\_Source
 
 • **PEB2MT\_Source** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:23591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23591)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **PEB2MT\_Target** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:23591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23591)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:23591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23591)

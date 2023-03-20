@@ -26,10 +26,6 @@
 
 • **new PooledCameraShakes**()
 
-#### Defined in
-
-[ue/ue.d.ts:7694](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7694)
-
 • **new PooledCameraShakes**(`PooledShakes`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `PooledShakes` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`CameraShake`](ue_ue.CameraShake.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:7695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7695)
-
 ## Properties
 
 ### PooledShakes
 
 • **PooledShakes**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`CameraShake`](ue_ue.CameraShake.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:7696](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7696)
-
 ___
 
 ### \_\_tid\_PooledCameraShakes\_\_
 
 • `Private` **\_\_tid\_PooledCameraShakes\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7702)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7700)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7701)

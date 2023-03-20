@@ -34,10 +34,6 @@
 
 • **new MovieSceneEditorData**()
 
-#### Defined in
-
-[ue/ue.d.ts:11684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11684)
-
 • **new MovieSceneEditorData**(`ExpansionStates`, `PinnedNodes`, `ViewStart`, `ViewEnd`, `WorkStart`, `WorkEnd`, `MarkedFrames`, `WorkingRange`, `ViewRange`)
 
 #### Parameters
@@ -54,19 +50,11 @@
 | `WorkingRange` | [`FloatRange`](ue_ue.FloatRange.md) |
 | `ViewRange` | [`FloatRange`](ue_ue.FloatRange.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:11685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11685)
-
 ## Properties
 
 ### ExpansionStates
 
 • **ExpansionStates**: [`TMap`](../interfaces/ue_puerts.TMap.md)<`string`, [`MovieSceneExpansionState`](ue_ue.MovieSceneExpansionState.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:11686](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11686)
 
 ___
 
@@ -74,19 +62,11 @@ ___
 
 • **MarkedFrames**: [`TSet`](../interfaces/ue_puerts.TSet.md)<[`FrameNumber`](ue_ue.FrameNumber.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:11692](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11692)
-
 ___
 
 ### PinnedNodes
 
 • **PinnedNodes**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:11687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11687)
 
 ___
 
@@ -94,19 +74,11 @@ ___
 
 • **ViewEnd**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11689)
-
 ___
 
 ### ViewRange
 
 • **ViewRange**: [`FloatRange`](ue_ue.FloatRange.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11694](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11694)
 
 ___
 
@@ -114,19 +86,11 @@ ___
 
 • **ViewStart**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11688)
-
 ___
 
 ### WorkEnd
 
 • **WorkEnd**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11691)
 
 ___
 
@@ -134,29 +98,17 @@ ___
 
 • **WorkStart**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11690)
-
 ___
 
 ### WorkingRange
 
 • **WorkingRange**: [`FloatRange`](ue_ue.FloatRange.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11693)
-
 ___
 
 ### \_\_tid\_MovieSceneEditorData\_\_
 
 • `Private` **\_\_tid\_MovieSceneEditorData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11700)
 
 ## Methods
 
@@ -172,10 +124,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11698)
-
 ___
 
 ### StaticStruct
@@ -185,7 +133,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11699](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11699)

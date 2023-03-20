@@ -29,10 +29,6 @@
 
 • **new MaterialParameterInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:1715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1715)
-
 • **new MaterialParameterInfo**(`Name`, `Association`, `Index`, `ParameterLocation`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `Index` | `number` |
 | `ParameterLocation` | [`SoftObjectPath`](ue_ue.SoftObjectPath.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:1716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1716)
-
 ## Properties
 
 ### Association
 
 • **Association**: [`EMaterialParameterAssociation`](../enums/ue_ue.EMaterialParameterAssociation.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1718)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **Index**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1719)
-
 ___
 
 ### Name
 
 • **Name**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:1717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1717)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **ParameterLocation**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1720)
-
 ___
 
 ### \_\_tid\_MaterialParameterInfo\_\_
 
 • `Private` **\_\_tid\_MaterialParameterInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1726)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1724)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1725)

@@ -29,10 +29,6 @@
 
 • **new TimeStretchCurve**()
 
-#### Defined in
-
-[ue/ue.d.ts:2941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2941)
-
 • **new TimeStretchCurve**(`SamplingRate`, `CurveValueMinPrecision`, `Markers`, `Sum_dT_i_by_C_i`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `Markers` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`TimeStretchCurveMarker`](ue_ue.TimeStretchCurveMarker.md)\> |
 | `Sum_dT_i_by_C_i` | [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<`number`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:2942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2942)
-
 ## Properties
 
 ### CurveValueMinPrecision
 
 • **CurveValueMinPrecision**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2944)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **Markers**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`TimeStretchCurveMarker`](ue_ue.TimeStretchCurveMarker.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:2945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2945)
-
 ___
 
 ### SamplingRate
 
 • **SamplingRate**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2943)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **Sum\_dT\_i\_by\_C\_i**: [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:2946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2946)
-
 ___
 
 ### \_\_tid\_TimeStretchCurve\_\_
 
 • `Private` **\_\_tid\_TimeStretchCurve\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2952)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2950)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2951)

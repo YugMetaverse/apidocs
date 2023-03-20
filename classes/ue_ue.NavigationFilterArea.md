@@ -31,10 +31,6 @@
 
 • **new NavigationFilterArea**()
 
-#### Defined in
-
-[ue/ue.d.ts:52910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52910)
-
 • **new NavigationFilterArea**(`AreaClass`, `TravelCostOverride`, `EnteringCostOverride`, `bIsExcluded`, `bOverrideTravelCost`, `bOverrideEnteringCost`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `bOverrideTravelCost` | `boolean` |
 | `bOverrideEnteringCost` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:52911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52911)
-
 ## Properties
 
 ### AreaClass
 
 • **AreaClass**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:52912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52912)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **EnteringCostOverride**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:52914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52914)
-
 ___
 
 ### TravelCostOverride
 
 • **TravelCostOverride**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:52913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52913)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • `Private` **\_\_tid\_NavigationFilterArea\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:52923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52923)
-
 ___
 
 ### bIsExcluded
 
 • **bIsExcluded**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52915)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **bOverrideEnteringCost**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:52917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52917)
-
 ___
 
 ### bOverrideTravelCost
 
 • **bOverrideTravelCost**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52916)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:52921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52921)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:52922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52922)

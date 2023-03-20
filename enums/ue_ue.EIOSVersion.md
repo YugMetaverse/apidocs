@@ -24,19 +24,11 @@
 
 • **IOS\_10** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33917)
-
 ___
 
 ### IOS\_11
 
 • **IOS\_11** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33917)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **IOS\_12** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33917)
-
 ___
 
 ### IOS\_61
 
 • **IOS\_61** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33917)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **IOS\_7** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33917)
-
 ___
 
 ### IOS\_8
 
 • **IOS\_8** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33917)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **IOS\_9** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33917)
-
 ___
 
 ### IOS\_MAX
 
 • **IOS\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33917)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33917)

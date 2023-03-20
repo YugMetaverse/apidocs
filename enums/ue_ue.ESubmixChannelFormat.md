@@ -24,19 +24,11 @@
 
 • **Ambisonics** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9475)
-
 ___
 
 ### Count
 
 • **Count** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9475)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **Device** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9475)
-
 ___
 
 ### ESubmixChannelFormat\_MAX
 
 • **ESubmixChannelFormat\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9475)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **FiveDotOne** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9475)
-
 ___
 
 ### Quad
 
 • **Quad** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9475)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **SevenDotOne** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9475)
-
 ___
 
 ### Stereo
 
 • **Stereo** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9475)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9475)

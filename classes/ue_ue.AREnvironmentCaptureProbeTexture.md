@@ -116,10 +116,6 @@
 
 [TextureCube](ue_ue.TextureCube.md).[constructor](ue_ue.TextureCube.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:21059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21059)
-
 ## Properties
 
 ### AdjustBrightness
@@ -129,10 +125,6 @@
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[AdjustBrightness](ue_ue.TextureCube.md#adjustbrightness)
-
-#### Defined in
-
-[ue/ue.d.ts:477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L477)
 
 ___
 
@@ -144,10 +136,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[AdjustBrightnessCurve](ue_ue.TextureCube.md#adjustbrightnesscurve)
 
-#### Defined in
-
-[ue/ue.d.ts:478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L478)
-
 ___
 
 ### AdjustHue
@@ -157,10 +145,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[AdjustHue](ue_ue.TextureCube.md#adjusthue)
-
-#### Defined in
-
-[ue/ue.d.ts:482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L482)
 
 ___
 
@@ -172,10 +156,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[AdjustMaxAlpha](ue_ue.TextureCube.md#adjustmaxalpha)
 
-#### Defined in
-
-[ue/ue.d.ts:484](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L484)
-
 ___
 
 ### AdjustMinAlpha
@@ -185,10 +165,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[AdjustMinAlpha](ue_ue.TextureCube.md#adjustminalpha)
-
-#### Defined in
-
-[ue/ue.d.ts:483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L483)
 
 ___
 
@@ -200,10 +176,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[AdjustRGBCurve](ue_ue.TextureCube.md#adjustrgbcurve)
 
-#### Defined in
-
-[ue/ue.d.ts:481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L481)
-
 ___
 
 ### AdjustSaturation
@@ -213,10 +185,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[AdjustSaturation](ue_ue.TextureCube.md#adjustsaturation)
-
-#### Defined in
-
-[ue/ue.d.ts:480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L480)
 
 ___
 
@@ -228,10 +196,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[AdjustVibrance](ue_ue.TextureCube.md#adjustvibrance)
 
-#### Defined in
-
-[ue/ue.d.ts:479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L479)
-
 ___
 
 ### AlphaCoverageThresholds
@@ -241,10 +205,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[AlphaCoverageThresholds](ue_ue.TextureCube.md#alphacoveragethresholds)
-
-#### Defined in
-
-[ue/ue.d.ts:492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L492)
 
 ___
 
@@ -256,10 +216,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[AssetImportData](ue_ue.TextureCube.md#assetimportdata)
 
-#### Defined in
-
-[ue/ue.d.ts:476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L476)
-
 ___
 
 ### AssetUserData
@@ -269,10 +225,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[AssetUserData](ue_ue.TextureCube.md#assetuserdata)
-
-#### Defined in
-
-[ue/ue.d.ts:517](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L517)
 
 ___
 
@@ -284,10 +236,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[CachedCombinedLODBias](ue_ue.TextureCube.md#cachedcombinedlodbias)
 
-#### Defined in
-
-[ue/ue.d.ts:387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L387)
-
 ___
 
 ### CachedNumResidentLODs
@@ -297,10 +245,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[CachedNumResidentLODs](ue_ue.TextureCube.md#cachednumresidentlods)
-
-#### Defined in
-
-[ue/ue.d.ts:388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L388)
 
 ___
 
@@ -312,10 +256,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[ChromaKeyColor](ue_ue.TextureCube.md#chromakeycolor)
 
-#### Defined in
-
-[ue/ue.d.ts:500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L500)
-
 ___
 
 ### ChromaKeyThreshold
@@ -325,10 +265,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[ChromaKeyThreshold](ue_ue.TextureCube.md#chromakeythreshold)
-
-#### Defined in
-
-[ue/ue.d.ts:499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L499)
 
 ___
 
@@ -340,10 +276,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[CompositePower](ue_ue.TextureCube.md#compositepower)
 
-#### Defined in
-
-[ue/ue.d.ts:504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L504)
-
 ___
 
 ### CompositeTexture
@@ -353,10 +285,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[CompositeTexture](ue_ue.TextureCube.md#compositetexture)
-
-#### Defined in
-
-[ue/ue.d.ts:502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L502)
 
 ___
 
@@ -368,10 +296,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[CompositeTextureMode](ue_ue.TextureCube.md#compositetexturemode)
 
-#### Defined in
-
-[ue/ue.d.ts:503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L503)
-
 ___
 
 ### CompressionNoAlpha
@@ -381,10 +305,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[CompressionNoAlpha](ue_ue.TextureCube.md#compressionnoalpha)
-
-#### Defined in
-
-[ue/ue.d.ts:485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L485)
 
 ___
 
@@ -396,10 +316,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[CompressionNone](ue_ue.TextureCube.md#compressionnone)
 
-#### Defined in
-
-[ue/ue.d.ts:486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L486)
-
 ___
 
 ### CompressionQuality
@@ -409,10 +325,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[CompressionQuality](ue_ue.TextureCube.md#compressionquality)
-
-#### Defined in
-
-[ue/ue.d.ts:490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L490)
 
 ___
 
@@ -424,10 +336,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[CompressionSettings](ue_ue.TextureCube.md#compressionsettings)
 
-#### Defined in
-
-[ue/ue.d.ts:507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L507)
-
 ___
 
 ### CompressionYCoCg
@@ -437,10 +345,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[CompressionYCoCg](ue_ue.TextureCube.md#compressionycocg)
-
-#### Defined in
-
-[ue/ue.d.ts:515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L515)
 
 ___
 
@@ -452,19 +356,11 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[DeferCompression](ue_ue.TextureCube.md#defercompression)
 
-#### Defined in
-
-[ue/ue.d.ts:487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L487)
-
 ___
 
 ### ExternalTextureGuid
 
 • **ExternalTextureGuid**: [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21062)
 
 ___
 
@@ -476,10 +372,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[Filter](ue_ue.TextureCube.md#filter)
 
-#### Defined in
-
-[ue/ue.d.ts:508](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L508)
-
 ___
 
 ### ForceMipLevelsToBeResidentTimestamp
@@ -489,10 +381,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[ForceMipLevelsToBeResidentTimestamp](ue_ue.TextureCube.md#forcemiplevelstoberesidenttimestamp)
-
-#### Defined in
-
-[ue/ue.d.ts:384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L384)
 
 ___
 
@@ -504,10 +392,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[LODBias](ue_ue.TextureCube.md#lodbias)
 
-#### Defined in
-
-[ue/ue.d.ts:506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L506)
-
 ___
 
 ### LODGroup
@@ -517,10 +401,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[LODGroup](ue_ue.TextureCube.md#lodgroup)
-
-#### Defined in
-
-[ue/ue.d.ts:510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L510)
 
 ___
 
@@ -532,10 +412,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[LayerFormatSettings](ue_ue.TextureCube.md#layerformatsettings)
 
-#### Defined in
-
-[ue/ue.d.ts:505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L505)
-
 ___
 
 ### LightingGuid
@@ -545,10 +421,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[LightingGuid](ue_ue.TextureCube.md#lightingguid)
-
-#### Defined in
-
-[ue/ue.d.ts:474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L474)
 
 ___
 
@@ -560,10 +432,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[LossyCompressionAmount](ue_ue.TextureCube.md#lossycompressionamount)
 
-#### Defined in
-
-[ue/ue.d.ts:488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L488)
-
 ___
 
 ### MaxTextureSize
@@ -573,10 +441,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[MaxTextureSize](ue_ue.TextureCube.md#maxtexturesize)
-
-#### Defined in
-
-[ue/ue.d.ts:489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L489)
 
 ___
 
@@ -588,10 +452,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[MipGenSettings](ue_ue.TextureCube.md#mipgensettings)
 
-#### Defined in
-
-[ue/ue.d.ts:501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L501)
-
 ___
 
 ### MipLoadOptions
@@ -601,10 +461,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[MipLoadOptions](ue_ue.TextureCube.md#miploadoptions)
-
-#### Defined in
-
-[ue/ue.d.ts:509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L509)
 
 ___
 
@@ -616,10 +472,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[NeverStream](ue_ue.TextureCube.md#neverstream)
 
-#### Defined in
-
-[ue/ue.d.ts:390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L390)
-
 ___
 
 ### NumCinematicMipLevels
@@ -629,10 +481,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[NumCinematicMipLevels](ue_ue.TextureCube.md#numcinematicmiplevels)
-
-#### Defined in
-
-[ue/ue.d.ts:385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L385)
 
 ___
 
@@ -644,10 +492,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[PaddingColor](ue_ue.TextureCube.md#paddingcolor)
 
-#### Defined in
-
-[ue/ue.d.ts:497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L497)
-
 ___
 
 ### PowerOfTwoMode
@@ -657,10 +501,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[PowerOfTwoMode](ue_ue.TextureCube.md#poweroftwomode)
-
-#### Defined in
-
-[ue/ue.d.ts:496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L496)
 
 ___
 
@@ -672,19 +512,11 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[SRGB](ue_ue.TextureCube.md#srgb)
 
-#### Defined in
-
-[ue/ue.d.ts:511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L511)
-
 ___
 
 ### Size
 
 • **Size**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21063)
 
 ___
 
@@ -696,10 +528,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[Source](ue_ue.TextureCube.md#source)
 
-#### Defined in
-
-[ue/ue.d.ts:473](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L473)
-
 ___
 
 ### SourceFilePath
@@ -709,10 +537,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[SourceFilePath](ue_ue.TextureCube.md#sourcefilepath)
-
-#### Defined in
-
-[ue/ue.d.ts:475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L475)
 
 ___
 
@@ -724,29 +548,17 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[StreamingIndex](ue_ue.TextureCube.md#streamingindex)
 
-#### Defined in
-
-[ue/ue.d.ts:386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L386)
-
 ___
 
 ### TextureType
 
 • **TextureType**: [`EARTextureType`](../enums/ue_ue.EARTextureType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21060)
-
 ___
 
 ### Timestamp
 
 • **Timestamp**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21061)
 
 ___
 
@@ -758,19 +570,11 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[VirtualTextureStreaming](ue_ue.TextureCube.md#virtualtexturestreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:514](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L514)
-
 ___
 
 ### \_\_tid\_AREnvironmentCaptureProbeTexture\_\_
 
 • **\_\_tid\_AREnvironmentCaptureProbeTexture\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21068)
 
 ___
 
@@ -782,10 +586,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[__tid_Object__](ue_ue.TextureCube.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_StreamableRenderAsset\_\_
@@ -795,10 +595,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[__tid_StreamableRenderAsset__](ue_ue.TextureCube.md#__tid_streamablerenderasset__)
-
-#### Defined in
-
-[ue/ue.d.ts:401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L401)
 
 ___
 
@@ -810,10 +606,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[__tid_TextureCube__](ue_ue.TextureCube.md#__tid_texturecube__)
 
-#### Defined in
-
-[ue/ue.d.ts:6231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6231)
-
 ___
 
 ### \_\_tid\_Texture\_\_
@@ -823,10 +615,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[__tid_Texture__](ue_ue.TextureCube.md#__tid_texture__)
-
-#### Defined in
-
-[ue/ue.d.ts:522](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L522)
 
 ___
 
@@ -838,10 +626,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[bAsyncResourceReleaseHasBeenStarted](ue_ue.TextureCube.md#basyncresourcereleasehasbeenstarted)
 
-#### Defined in
-
-[ue/ue.d.ts:516](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L516)
-
 ___
 
 ### bCachedReadyForStreaming
@@ -851,10 +635,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[bCachedReadyForStreaming](ue_ue.TextureCube.md#bcachedreadyforstreaming)
-
-#### Defined in
-
-[ue/ue.d.ts:389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L389)
 
 ___
 
@@ -866,10 +646,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[bChromaKeyTexture](ue_ue.TextureCube.md#bchromakeytexture)
 
-#### Defined in
-
-[ue/ue.d.ts:498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L498)
-
 ___
 
 ### bDitherMipMapAlpha
@@ -879,10 +655,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[bDitherMipMapAlpha](ue_ue.TextureCube.md#bdithermipmapalpha)
-
-#### Defined in
-
-[ue/ue.d.ts:491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L491)
 
 ___
 
@@ -894,10 +666,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[bFlipGreenChannel](ue_ue.TextureCube.md#bflipgreenchannel)
 
-#### Defined in
-
-[ue/ue.d.ts:494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L494)
-
 ___
 
 ### bForceMiplevelsToBeResident
@@ -907,10 +675,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[bForceMiplevelsToBeResident](ue_ue.TextureCube.md#bforcemiplevelstoberesident)
-
-#### Defined in
-
-[ue/ue.d.ts:394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L394)
 
 ___
 
@@ -922,10 +686,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[bForcePVRTC4](ue_ue.TextureCube.md#bforcepvrtc4)
 
-#### Defined in
-
-[ue/ue.d.ts:495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L495)
-
 ___
 
 ### bGlobalForceMipLevelsToBeResident
@@ -935,10 +695,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[bGlobalForceMipLevelsToBeResident](ue_ue.TextureCube.md#bglobalforcemiplevelstoberesident)
-
-#### Defined in
-
-[ue/ue.d.ts:391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L391)
 
 ___
 
@@ -950,10 +706,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[bHasStreamingUpdatePending](ue_ue.TextureCube.md#bhasstreamingupdatepending)
 
-#### Defined in
-
-[ue/ue.d.ts:393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L393)
-
 ___
 
 ### bIgnoreStreamingMipBias
@@ -963,10 +715,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[bIgnoreStreamingMipBias](ue_ue.TextureCube.md#bignorestreamingmipbias)
-
-#### Defined in
-
-[ue/ue.d.ts:395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L395)
 
 ___
 
@@ -978,10 +726,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[bIsStreamable](ue_ue.TextureCube.md#bisstreamable)
 
-#### Defined in
-
-[ue/ue.d.ts:392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L392)
-
 ___
 
 ### bNoTiling
@@ -991,10 +735,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[bNoTiling](ue_ue.TextureCube.md#bnotiling)
-
-#### Defined in
-
-[ue/ue.d.ts:513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L513)
 
 ___
 
@@ -1006,10 +746,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[bPreserveBorder](ue_ue.TextureCube.md#bpreserveborder)
 
-#### Defined in
-
-[ue/ue.d.ts:493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L493)
-
 ___
 
 ### bUseCinematicMipLevels
@@ -1020,10 +756,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[bUseCinematicMipLevels](ue_ue.TextureCube.md#busecinematicmiplevels)
 
-#### Defined in
-
-[ue/ue.d.ts:396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L396)
-
 ___
 
 ### bUseLegacyGamma
@@ -1033,10 +765,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[bUseLegacyGamma](ue_ue.TextureCube.md#buselegacygamma)
-
-#### Defined in
-
-[ue/ue.d.ts:512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L512)
 
 ## Methods
 
@@ -1062,10 +790,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[CreateDefaultSubobject](ue_ue.TextureCube.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -1086,10 +810,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[ExecuteUbergraph](ue_ue.TextureCube.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -1103,10 +823,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[GetClass](ue_ue.TextureCube.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -1122,10 +838,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[GetName](ue_ue.TextureCube.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -1140,10 +852,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[GetOuter](ue_ue.TextureCube.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -1157,10 +865,6 @@ ___
 #### Inherited from
 
 [TextureCube](ue_ue.TextureCube.md).[GetWorld](ue_ue.TextureCube.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -1183,10 +887,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[Find](ue_ue.TextureCube.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:21065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21065)
-
 ___
 
 ### Load
@@ -1207,10 +907,6 @@ ___
 
 [TextureCube](ue_ue.TextureCube.md).[Load](ue_ue.TextureCube.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:21066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21066)
-
 ___
 
 ### StaticClass
@@ -1224,7 +920,3 @@ ___
 #### Overrides
 
 [TextureCube](ue_ue.TextureCube.md).[StaticClass](ue_ue.TextureCube.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:21064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21064)

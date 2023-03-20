@@ -54,19 +54,11 @@
 
 [BookmarkBase](ue_ue.BookmarkBase.md).[constructor](ue_ue.BookmarkBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:24389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24389)
-
 ## Properties
 
 ### Location
 
 • **Location**: [`IntPoint`](ue_ue_s.IntPoint.md)
-
-#### Defined in
-
-[ue/ue.d.ts:24391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24391)
 
 ___
 
@@ -74,19 +66,11 @@ ___
 
 • **Zoom2D**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:24390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24390)
-
 ___
 
 ### \_\_tid\_BookMark2D\_\_
 
 • **\_\_tid\_BookMark2D\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:24396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24396)
 
 ___
 
@@ -98,10 +82,6 @@ ___
 
 [BookmarkBase](ue_ue.BookmarkBase.md).[__tid_BookmarkBase__](ue_ue.BookmarkBase.md#__tid_bookmarkbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:9075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9075)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -111,10 +91,6 @@ ___
 #### Inherited from
 
 [BookmarkBase](ue_ue.BookmarkBase.md).[__tid_Object__](ue_ue.BookmarkBase.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -140,10 +116,6 @@ ___
 
 [BookmarkBase](ue_ue.BookmarkBase.md).[CreateDefaultSubobject](ue_ue.BookmarkBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -164,10 +136,6 @@ ___
 
 [BookmarkBase](ue_ue.BookmarkBase.md).[ExecuteUbergraph](ue_ue.BookmarkBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -181,10 +149,6 @@ ___
 #### Inherited from
 
 [BookmarkBase](ue_ue.BookmarkBase.md).[GetClass](ue_ue.BookmarkBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -200,10 +164,6 @@ ___
 
 [BookmarkBase](ue_ue.BookmarkBase.md).[GetName](ue_ue.BookmarkBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -218,10 +178,6 @@ ___
 
 [BookmarkBase](ue_ue.BookmarkBase.md).[GetOuter](ue_ue.BookmarkBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -235,10 +191,6 @@ ___
 #### Inherited from
 
 [BookmarkBase](ue_ue.BookmarkBase.md).[GetWorld](ue_ue.BookmarkBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -261,10 +213,6 @@ ___
 
 [BookmarkBase](ue_ue.BookmarkBase.md).[Find](ue_ue.BookmarkBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:24393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24393)
-
 ___
 
 ### Load
@@ -285,10 +233,6 @@ ___
 
 [BookmarkBase](ue_ue.BookmarkBase.md).[Load](ue_ue.BookmarkBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:24394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24394)
-
 ___
 
 ### StaticClass
@@ -302,7 +246,3 @@ ___
 #### Overrides
 
 [BookmarkBase](ue_ue.BookmarkBase.md).[StaticClass](ue_ue.BookmarkBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:24392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24392)

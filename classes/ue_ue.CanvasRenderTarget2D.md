@@ -135,10 +135,6 @@
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[constructor](ue_ue.TextureRenderTarget2D.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:26220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26220)
-
 ## Properties
 
 ### AddressX
@@ -148,10 +144,6 @@
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[AddressX](ue_ue.TextureRenderTarget2D.md#addressx)
-
-#### Defined in
-
-[ue/ue.d.ts:26201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26201)
 
 ___
 
@@ -163,10 +155,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[AddressY](ue_ue.TextureRenderTarget2D.md#addressy)
 
-#### Defined in
-
-[ue/ue.d.ts:26202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26202)
-
 ___
 
 ### AdjustBrightness
@@ -176,10 +164,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[AdjustBrightness](ue_ue.TextureRenderTarget2D.md#adjustbrightness)
-
-#### Defined in
-
-[ue/ue.d.ts:477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L477)
 
 ___
 
@@ -191,10 +175,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[AdjustBrightnessCurve](ue_ue.TextureRenderTarget2D.md#adjustbrightnesscurve)
 
-#### Defined in
-
-[ue/ue.d.ts:478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L478)
-
 ___
 
 ### AdjustHue
@@ -204,10 +184,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[AdjustHue](ue_ue.TextureRenderTarget2D.md#adjusthue)
-
-#### Defined in
-
-[ue/ue.d.ts:482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L482)
 
 ___
 
@@ -219,10 +195,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[AdjustMaxAlpha](ue_ue.TextureRenderTarget2D.md#adjustmaxalpha)
 
-#### Defined in
-
-[ue/ue.d.ts:484](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L484)
-
 ___
 
 ### AdjustMinAlpha
@@ -232,10 +204,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[AdjustMinAlpha](ue_ue.TextureRenderTarget2D.md#adjustminalpha)
-
-#### Defined in
-
-[ue/ue.d.ts:483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L483)
 
 ___
 
@@ -247,10 +215,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[AdjustRGBCurve](ue_ue.TextureRenderTarget2D.md#adjustrgbcurve)
 
-#### Defined in
-
-[ue/ue.d.ts:481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L481)
-
 ___
 
 ### AdjustSaturation
@@ -260,10 +224,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[AdjustSaturation](ue_ue.TextureRenderTarget2D.md#adjustsaturation)
-
-#### Defined in
-
-[ue/ue.d.ts:480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L480)
 
 ___
 
@@ -275,10 +235,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[AdjustVibrance](ue_ue.TextureRenderTarget2D.md#adjustvibrance)
 
-#### Defined in
-
-[ue/ue.d.ts:479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L479)
-
 ___
 
 ### AlphaCoverageThresholds
@@ -288,10 +244,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[AlphaCoverageThresholds](ue_ue.TextureRenderTarget2D.md#alphacoveragethresholds)
-
-#### Defined in
-
-[ue/ue.d.ts:492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L492)
 
 ___
 
@@ -303,10 +255,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[AssetImportData](ue_ue.TextureRenderTarget2D.md#assetimportdata)
 
-#### Defined in
-
-[ue/ue.d.ts:476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L476)
-
 ___
 
 ### AssetUserData
@@ -316,10 +264,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[AssetUserData](ue_ue.TextureRenderTarget2D.md#assetuserdata)
-
-#### Defined in
-
-[ue/ue.d.ts:517](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L517)
 
 ___
 
@@ -331,10 +275,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[CachedCombinedLODBias](ue_ue.TextureRenderTarget2D.md#cachedcombinedlodbias)
 
-#### Defined in
-
-[ue/ue.d.ts:387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L387)
-
 ___
 
 ### CachedNumResidentLODs
@@ -344,10 +284,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[CachedNumResidentLODs](ue_ue.TextureRenderTarget2D.md#cachednumresidentlods)
-
-#### Defined in
-
-[ue/ue.d.ts:388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L388)
 
 ___
 
@@ -359,10 +295,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[ChromaKeyColor](ue_ue.TextureRenderTarget2D.md#chromakeycolor)
 
-#### Defined in
-
-[ue/ue.d.ts:500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L500)
-
 ___
 
 ### ChromaKeyThreshold
@@ -372,10 +304,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[ChromaKeyThreshold](ue_ue.TextureRenderTarget2D.md#chromakeythreshold)
-
-#### Defined in
-
-[ue/ue.d.ts:499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L499)
 
 ___
 
@@ -387,10 +315,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[ClearColor](ue_ue.TextureRenderTarget2D.md#clearcolor)
 
-#### Defined in
-
-[ue/ue.d.ts:26200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26200)
-
 ___
 
 ### CompositePower
@@ -400,10 +324,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[CompositePower](ue_ue.TextureRenderTarget2D.md#compositepower)
-
-#### Defined in
-
-[ue/ue.d.ts:504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L504)
 
 ___
 
@@ -415,10 +335,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[CompositeTexture](ue_ue.TextureRenderTarget2D.md#compositetexture)
 
-#### Defined in
-
-[ue/ue.d.ts:502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L502)
-
 ___
 
 ### CompositeTextureMode
@@ -428,10 +344,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[CompositeTextureMode](ue_ue.TextureRenderTarget2D.md#compositetexturemode)
-
-#### Defined in
-
-[ue/ue.d.ts:503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L503)
 
 ___
 
@@ -443,10 +355,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[CompressionNoAlpha](ue_ue.TextureRenderTarget2D.md#compressionnoalpha)
 
-#### Defined in
-
-[ue/ue.d.ts:485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L485)
-
 ___
 
 ### CompressionNone
@@ -456,10 +364,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[CompressionNone](ue_ue.TextureRenderTarget2D.md#compressionnone)
-
-#### Defined in
-
-[ue/ue.d.ts:486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L486)
 
 ___
 
@@ -471,10 +375,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[CompressionQuality](ue_ue.TextureRenderTarget2D.md#compressionquality)
 
-#### Defined in
-
-[ue/ue.d.ts:490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L490)
-
 ___
 
 ### CompressionSettings
@@ -484,10 +384,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[CompressionSettings](ue_ue.TextureRenderTarget2D.md#compressionsettings)
-
-#### Defined in
-
-[ue/ue.d.ts:507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L507)
 
 ___
 
@@ -499,10 +395,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[CompressionYCoCg](ue_ue.TextureRenderTarget2D.md#compressionycocg)
 
-#### Defined in
-
-[ue/ue.d.ts:515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L515)
-
 ___
 
 ### DeferCompression
@@ -512,10 +404,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[DeferCompression](ue_ue.TextureRenderTarget2D.md#defercompression)
-
-#### Defined in
-
-[ue/ue.d.ts:487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L487)
 
 ___
 
@@ -527,10 +415,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[Filter](ue_ue.TextureRenderTarget2D.md#filter)
 
-#### Defined in
-
-[ue/ue.d.ts:508](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L508)
-
 ___
 
 ### ForceMipLevelsToBeResidentTimestamp
@@ -540,10 +424,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[ForceMipLevelsToBeResidentTimestamp](ue_ue.TextureRenderTarget2D.md#forcemiplevelstoberesidenttimestamp)
-
-#### Defined in
-
-[ue/ue.d.ts:384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L384)
 
 ___
 
@@ -555,10 +435,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[LODBias](ue_ue.TextureRenderTarget2D.md#lodbias)
 
-#### Defined in
-
-[ue/ue.d.ts:506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L506)
-
 ___
 
 ### LODGroup
@@ -568,10 +444,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[LODGroup](ue_ue.TextureRenderTarget2D.md#lodgroup)
-
-#### Defined in
-
-[ue/ue.d.ts:510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L510)
 
 ___
 
@@ -583,10 +455,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[LayerFormatSettings](ue_ue.TextureRenderTarget2D.md#layerformatsettings)
 
-#### Defined in
-
-[ue/ue.d.ts:505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L505)
-
 ___
 
 ### LightingGuid
@@ -596,10 +464,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[LightingGuid](ue_ue.TextureRenderTarget2D.md#lightingguid)
-
-#### Defined in
-
-[ue/ue.d.ts:474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L474)
 
 ___
 
@@ -611,10 +475,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[LossyCompressionAmount](ue_ue.TextureRenderTarget2D.md#lossycompressionamount)
 
-#### Defined in
-
-[ue/ue.d.ts:488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L488)
-
 ___
 
 ### MaxTextureSize
@@ -624,10 +484,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[MaxTextureSize](ue_ue.TextureRenderTarget2D.md#maxtexturesize)
-
-#### Defined in
-
-[ue/ue.d.ts:489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L489)
 
 ___
 
@@ -639,10 +495,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[MipGenSettings](ue_ue.TextureRenderTarget2D.md#mipgensettings)
 
-#### Defined in
-
-[ue/ue.d.ts:501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L501)
-
 ___
 
 ### MipLoadOptions
@@ -652,10 +504,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[MipLoadOptions](ue_ue.TextureRenderTarget2D.md#miploadoptions)
-
-#### Defined in
-
-[ue/ue.d.ts:509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L509)
 
 ___
 
@@ -667,10 +515,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[MipsAddressU](ue_ue.TextureRenderTarget2D.md#mipsaddressu)
 
-#### Defined in
-
-[ue/ue.d.ts:26209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26209)
-
 ___
 
 ### MipsAddressV
@@ -680,10 +524,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[MipsAddressV](ue_ue.TextureRenderTarget2D.md#mipsaddressv)
-
-#### Defined in
-
-[ue/ue.d.ts:26210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26210)
 
 ___
 
@@ -695,10 +535,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[MipsSamplerFilter](ue_ue.TextureRenderTarget2D.md#mipssamplerfilter)
 
-#### Defined in
-
-[ue/ue.d.ts:26208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26208)
-
 ___
 
 ### NeverStream
@@ -708,10 +544,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[NeverStream](ue_ue.TextureRenderTarget2D.md#neverstream)
-
-#### Defined in
-
-[ue/ue.d.ts:390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L390)
 
 ___
 
@@ -723,19 +555,11 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[NumCinematicMipLevels](ue_ue.TextureRenderTarget2D.md#numcinematicmiplevels)
 
-#### Defined in
-
-[ue/ue.d.ts:385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L385)
-
 ___
 
 ### OnCanvasRenderTargetUpdate
 
 • **OnCanvasRenderTargetUpdate**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`Canvas`: [`$Nullable`](../modules/puerts.md#$nullable)<[`Canvas`](ue_ue.Canvas.md)\>, `Width`: `number`, `Height`: `number`) => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:26221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26221)
 
 ___
 
@@ -747,10 +571,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[OverrideFormat](ue_ue.TextureRenderTarget2D.md#overrideformat)
 
-#### Defined in
-
-[ue/ue.d.ts:26211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26211)
-
 ___
 
 ### PaddingColor
@@ -760,10 +580,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[PaddingColor](ue_ue.TextureRenderTarget2D.md#paddingcolor)
-
-#### Defined in
-
-[ue/ue.d.ts:497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L497)
 
 ___
 
@@ -775,10 +591,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[PowerOfTwoMode](ue_ue.TextureRenderTarget2D.md#poweroftwomode)
 
-#### Defined in
-
-[ue/ue.d.ts:496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L496)
-
 ___
 
 ### RenderTargetFormat
@@ -788,10 +600,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[RenderTargetFormat](ue_ue.TextureRenderTarget2D.md#rendertargetformat)
-
-#### Defined in
-
-[ue/ue.d.ts:26206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26206)
 
 ___
 
@@ -803,10 +611,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[SRGB](ue_ue.TextureRenderTarget2D.md#srgb)
 
-#### Defined in
-
-[ue/ue.d.ts:511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L511)
-
 ___
 
 ### SizeX
@@ -816,10 +620,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[SizeX](ue_ue.TextureRenderTarget2D.md#sizex)
-
-#### Defined in
-
-[ue/ue.d.ts:26198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26198)
 
 ___
 
@@ -831,10 +631,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[SizeY](ue_ue.TextureRenderTarget2D.md#sizey)
 
-#### Defined in
-
-[ue/ue.d.ts:26199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26199)
-
 ___
 
 ### Source
@@ -844,10 +640,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[Source](ue_ue.TextureRenderTarget2D.md#source)
-
-#### Defined in
-
-[ue/ue.d.ts:473](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L473)
 
 ___
 
@@ -859,10 +651,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[SourceFilePath](ue_ue.TextureRenderTarget2D.md#sourcefilepath)
 
-#### Defined in
-
-[ue/ue.d.ts:475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L475)
-
 ___
 
 ### StreamingIndex
@@ -872,10 +660,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[StreamingIndex](ue_ue.TextureRenderTarget2D.md#streamingindex)
-
-#### Defined in
-
-[ue/ue.d.ts:386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L386)
 
 ___
 
@@ -887,10 +671,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[TargetGamma](ue_ue.TextureRenderTarget2D.md#targetgamma)
 
-#### Defined in
-
-[ue/ue.d.ts:26187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26187)
-
 ___
 
 ### VirtualTextureStreaming
@@ -901,29 +681,17 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[VirtualTextureStreaming](ue_ue.TextureRenderTarget2D.md#virtualtexturestreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:514](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L514)
-
 ___
 
 ### World
 
 • **World**: [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`World`](ue_ue.World.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:26222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26222)
-
 ___
 
 ### \_\_tid\_CanvasRenderTarget2D\_\_
 
 • **\_\_tid\_CanvasRenderTarget2D\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26232)
 
 ___
 
@@ -935,10 +703,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[__tid_Object__](ue_ue.TextureRenderTarget2D.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_StreamableRenderAsset\_\_
@@ -948,10 +712,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[__tid_StreamableRenderAsset__](ue_ue.TextureRenderTarget2D.md#__tid_streamablerenderasset__)
-
-#### Defined in
-
-[ue/ue.d.ts:401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L401)
 
 ___
 
@@ -963,10 +723,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[__tid_TextureRenderTarget2D__](ue_ue.TextureRenderTarget2D.md#__tid_texturerendertarget2d__)
 
-#### Defined in
-
-[ue/ue.d.ts:26216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26216)
-
 ___
 
 ### \_\_tid\_TextureRenderTarget\_\_
@@ -976,10 +732,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[__tid_TextureRenderTarget__](ue_ue.TextureRenderTarget2D.md#__tid_texturerendertarget__)
-
-#### Defined in
-
-[ue/ue.d.ts:26192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26192)
 
 ___
 
@@ -991,10 +743,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[__tid_Texture__](ue_ue.TextureRenderTarget2D.md#__tid_texture__)
 
-#### Defined in
-
-[ue/ue.d.ts:522](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L522)
-
 ___
 
 ### bAsyncResourceReleaseHasBeenStarted
@@ -1004,10 +752,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[bAsyncResourceReleaseHasBeenStarted](ue_ue.TextureRenderTarget2D.md#basyncresourcereleasehasbeenstarted)
-
-#### Defined in
-
-[ue/ue.d.ts:516](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L516)
 
 ___
 
@@ -1019,10 +763,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[bAutoGenerateMips](ue_ue.TextureRenderTarget2D.md#bautogeneratemips)
 
-#### Defined in
-
-[ue/ue.d.ts:26207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26207)
-
 ___
 
 ### bCachedReadyForStreaming
@@ -1032,10 +772,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[bCachedReadyForStreaming](ue_ue.TextureRenderTarget2D.md#bcachedreadyforstreaming)
-
-#### Defined in
-
-[ue/ue.d.ts:389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L389)
 
 ___
 
@@ -1047,10 +783,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[bChromaKeyTexture](ue_ue.TextureRenderTarget2D.md#bchromakeytexture)
 
-#### Defined in
-
-[ue/ue.d.ts:498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L498)
-
 ___
 
 ### bDitherMipMapAlpha
@@ -1060,10 +792,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[bDitherMipMapAlpha](ue_ue.TextureRenderTarget2D.md#bdithermipmapalpha)
-
-#### Defined in
-
-[ue/ue.d.ts:491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L491)
 
 ___
 
@@ -1075,10 +803,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[bFlipGreenChannel](ue_ue.TextureRenderTarget2D.md#bflipgreenchannel)
 
-#### Defined in
-
-[ue/ue.d.ts:494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L494)
-
 ___
 
 ### bForceLinearGamma
@@ -1088,10 +812,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[bForceLinearGamma](ue_ue.TextureRenderTarget2D.md#bforcelineargamma)
-
-#### Defined in
-
-[ue/ue.d.ts:26203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26203)
 
 ___
 
@@ -1103,10 +823,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[bForceMiplevelsToBeResident](ue_ue.TextureRenderTarget2D.md#bforcemiplevelstoberesident)
 
-#### Defined in
-
-[ue/ue.d.ts:394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L394)
-
 ___
 
 ### bForcePVRTC4
@@ -1116,10 +832,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[bForcePVRTC4](ue_ue.TextureRenderTarget2D.md#bforcepvrtc4)
-
-#### Defined in
-
-[ue/ue.d.ts:495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L495)
 
 ___
 
@@ -1131,10 +843,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[bGPUSharedFlag](ue_ue.TextureRenderTarget2D.md#bgpusharedflag)
 
-#### Defined in
-
-[ue/ue.d.ts:26205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26205)
-
 ___
 
 ### bGlobalForceMipLevelsToBeResident
@@ -1144,10 +852,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[bGlobalForceMipLevelsToBeResident](ue_ue.TextureRenderTarget2D.md#bglobalforcemiplevelstoberesident)
-
-#### Defined in
-
-[ue/ue.d.ts:391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L391)
 
 ___
 
@@ -1159,10 +863,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[bHDR](ue_ue.TextureRenderTarget2D.md#bhdr)
 
-#### Defined in
-
-[ue/ue.d.ts:26204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26204)
-
 ___
 
 ### bHasStreamingUpdatePending
@@ -1172,10 +872,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[bHasStreamingUpdatePending](ue_ue.TextureRenderTarget2D.md#bhasstreamingupdatepending)
-
-#### Defined in
-
-[ue/ue.d.ts:393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L393)
 
 ___
 
@@ -1187,10 +883,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[bIgnoreStreamingMipBias](ue_ue.TextureRenderTarget2D.md#bignorestreamingmipbias)
 
-#### Defined in
-
-[ue/ue.d.ts:395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L395)
-
 ___
 
 ### bIsStreamable
@@ -1200,10 +892,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[bIsStreamable](ue_ue.TextureRenderTarget2D.md#bisstreamable)
-
-#### Defined in
-
-[ue/ue.d.ts:392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L392)
 
 ___
 
@@ -1215,10 +903,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[bNoTiling](ue_ue.TextureRenderTarget2D.md#bnotiling)
 
-#### Defined in
-
-[ue/ue.d.ts:513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L513)
-
 ___
 
 ### bPreserveBorder
@@ -1229,19 +913,11 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[bPreserveBorder](ue_ue.TextureRenderTarget2D.md#bpreserveborder)
 
-#### Defined in
-
-[ue/ue.d.ts:493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L493)
-
 ___
 
 ### bShouldClearRenderTargetOnReceiveUpdate
 
 • **bShouldClearRenderTargetOnReceiveUpdate**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26223)
 
 ___
 
@@ -1253,10 +929,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[bUseCinematicMipLevels](ue_ue.TextureRenderTarget2D.md#busecinematicmiplevels)
 
-#### Defined in
-
-[ue/ue.d.ts:396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L396)
-
 ___
 
 ### bUseLegacyGamma
@@ -1266,10 +938,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[bUseLegacyGamma](ue_ue.TextureRenderTarget2D.md#buselegacygamma)
-
-#### Defined in
-
-[ue/ue.d.ts:512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L512)
 
 ## Methods
 
@@ -1295,10 +963,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[CreateDefaultSubobject](ue_ue.TextureRenderTarget2D.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -1319,10 +983,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[ExecuteUbergraph](ue_ue.TextureRenderTarget2D.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -1336,10 +996,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[GetClass](ue_ue.TextureRenderTarget2D.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -1355,10 +1011,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[GetName](ue_ue.TextureRenderTarget2D.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -1372,10 +1024,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[GetOuter](ue_ue.TextureRenderTarget2D.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -1394,10 +1042,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:26224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26224)
-
 ___
 
 ### GetWorld
@@ -1411,10 +1055,6 @@ ___
 #### Inherited from
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[GetWorld](ue_ue.TextureRenderTarget2D.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -1434,10 +1074,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:26225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26225)
-
 ___
 
 ### UpdateResource
@@ -1447,10 +1083,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:26226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26226)
 
 ___
 
@@ -1470,10 +1102,6 @@ ___
 #### Returns
 
 [`CanvasRenderTarget2D`](ue_ue.CanvasRenderTarget2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26227)
 
 ___
 
@@ -1496,10 +1124,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[Find](ue_ue.TextureRenderTarget2D.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:26229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26229)
-
 ___
 
 ### Load
@@ -1520,10 +1144,6 @@ ___
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[Load](ue_ue.TextureRenderTarget2D.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:26230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26230)
-
 ___
 
 ### StaticClass
@@ -1537,7 +1157,3 @@ ___
 #### Overrides
 
 [TextureRenderTarget2D](ue_ue.TextureRenderTarget2D.md).[StaticClass](ue_ue.TextureRenderTarget2D.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:26228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26228)

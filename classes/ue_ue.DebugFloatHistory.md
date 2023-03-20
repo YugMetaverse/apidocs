@@ -30,10 +30,6 @@
 
 • **new DebugFloatHistory**()
 
-#### Defined in
-
-[ue/ue.d.ts:43248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43248)
-
 • **new DebugFloatHistory**(`Samples`, `MaxSamples`, `MinValue`, `MaxValue`, `bAutoAdjustMinMax`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `MaxValue` | `number` |
 | `bAutoAdjustMinMax` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:43249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43249)
-
 ## Properties
 
 ### MaxSamples
 
 • **MaxSamples**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:43251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43251)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **MaxValue**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:43253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43253)
-
 ___
 
 ### MinValue
 
 • **MinValue**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:43252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43252)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **Samples**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:43250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43250)
-
 ___
 
 ### \_\_tid\_DebugFloatHistory\_\_
 
 • `Private` **\_\_tid\_DebugFloatHistory\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43260)
-
 ___
 
 ### bAutoAdjustMinMax
 
 • **bAutoAdjustMinMax**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43254)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43258)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43259)

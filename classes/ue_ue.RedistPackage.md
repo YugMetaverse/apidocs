@@ -28,10 +28,6 @@
 
 • **new RedistPackage**()
 
-#### Defined in
-
-[ue/ue.d.ts:54094](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54094)
-
 • **new RedistPackage**(`Included`, `Name`, `Id`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Name` | `string` |
 | `Id` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:54095](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54095)
-
 ## Properties
 
 ### Id
 
 • **Id**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:54098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54098)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Included**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:54096](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54096)
-
 ___
 
 ### Name
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:54097](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54097)
-
 ___
 
 ### \_\_tid\_RedistPackage\_\_
 
 • `Private` **\_\_tid\_RedistPackage\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54104)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54102)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54103)

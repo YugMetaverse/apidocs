@@ -29,10 +29,6 @@
 
 • **new ShapedTextOptions**()
 
-#### Defined in
-
-[ue/ue.d.ts:32155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32155)
-
 • **new ShapedTextOptions**(`bOverride_TextShapingMethod`, `bOverride_TextFlowDirection`, `TextShapingMethod`, `TextFlowDirection`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `TextShapingMethod` | [`ETextShapingMethod`](../enums/ue_ue.ETextShapingMethod.md) |
 | `TextFlowDirection` | [`ETextFlowDirection`](../enums/ue_ue.ETextFlowDirection.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:32156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32156)
-
 ## Properties
 
 ### TextFlowDirection
 
 • **TextFlowDirection**: [`ETextFlowDirection`](../enums/ue_ue.ETextFlowDirection.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32160)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **TextShapingMethod**: [`ETextShapingMethod`](../enums/ue_ue.ETextShapingMethod.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32159)
-
 ___
 
 ### \_\_tid\_ShapedTextOptions\_\_
 
 • `Private` **\_\_tid\_ShapedTextOptions\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32166)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **bOverride\_TextFlowDirection**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32158)
-
 ___
 
 ### bOverride\_TextShapingMethod
 
 • **bOverride\_TextShapingMethod**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32157)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32164)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32165)

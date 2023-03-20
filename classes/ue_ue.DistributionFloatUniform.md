@@ -57,19 +57,11 @@
 
 [DistributionFloat](ue_ue.DistributionFloat.md).[constructor](ue_ue.DistributionFloat.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:30999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30999)
-
 ## Properties
 
 ### Max
 
 • **Max**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31001)
 
 ___
 
@@ -77,19 +69,11 @@ ___
 
 • **Min**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31000)
-
 ___
 
 ### \_\_tid\_DistributionFloatUniform\_\_
 
 • **\_\_tid\_DistributionFloatUniform\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31006)
 
 ___
 
@@ -101,10 +85,6 @@ ___
 
 [DistributionFloat](ue_ue.DistributionFloat.md).[__tid_DistributionFloat__](ue_ue.DistributionFloat.md#__tid_distributionfloat__)
 
-#### Defined in
-
-[ue/ue.d.ts:6807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6807)
-
 ___
 
 ### \_\_tid\_Distribution\_\_
@@ -114,10 +94,6 @@ ___
 #### Inherited from
 
 [DistributionFloat](ue_ue.DistributionFloat.md).[__tid_Distribution__](ue_ue.DistributionFloat.md#__tid_distribution__)
-
-#### Defined in
-
-[ue/ue.d.ts:6796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6796)
 
 ___
 
@@ -129,10 +105,6 @@ ___
 
 [DistributionFloat](ue_ue.DistributionFloat.md).[__tid_Object__](ue_ue.DistributionFloat.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bBakedDataSuccesfully
@@ -143,10 +115,6 @@ ___
 
 [DistributionFloat](ue_ue.DistributionFloat.md).[bBakedDataSuccesfully](ue_ue.DistributionFloat.md#bbakeddatasuccesfully)
 
-#### Defined in
-
-[ue/ue.d.ts:6802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6802)
-
 ___
 
 ### bCanBeBaked
@@ -156,10 +124,6 @@ ___
 #### Inherited from
 
 [DistributionFloat](ue_ue.DistributionFloat.md).[bCanBeBaked](ue_ue.DistributionFloat.md#bcanbebaked)
-
-#### Defined in
-
-[ue/ue.d.ts:6801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6801)
 
 ## Methods
 
@@ -185,10 +149,6 @@ ___
 
 [DistributionFloat](ue_ue.DistributionFloat.md).[CreateDefaultSubobject](ue_ue.DistributionFloat.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -209,10 +169,6 @@ ___
 
 [DistributionFloat](ue_ue.DistributionFloat.md).[ExecuteUbergraph](ue_ue.DistributionFloat.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -226,10 +182,6 @@ ___
 #### Inherited from
 
 [DistributionFloat](ue_ue.DistributionFloat.md).[GetClass](ue_ue.DistributionFloat.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -245,10 +197,6 @@ ___
 
 [DistributionFloat](ue_ue.DistributionFloat.md).[GetName](ue_ue.DistributionFloat.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -263,10 +211,6 @@ ___
 
 [DistributionFloat](ue_ue.DistributionFloat.md).[GetOuter](ue_ue.DistributionFloat.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -280,10 +224,6 @@ ___
 #### Inherited from
 
 [DistributionFloat](ue_ue.DistributionFloat.md).[GetWorld](ue_ue.DistributionFloat.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -306,10 +246,6 @@ ___
 
 [DistributionFloat](ue_ue.DistributionFloat.md).[Find](ue_ue.DistributionFloat.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:31003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31003)
-
 ___
 
 ### Load
@@ -330,10 +266,6 @@ ___
 
 [DistributionFloat](ue_ue.DistributionFloat.md).[Load](ue_ue.DistributionFloat.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:31004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31004)
-
 ___
 
 ### StaticClass
@@ -347,7 +279,3 @@ ___
 #### Overrides
 
 [DistributionFloat](ue_ue.DistributionFloat.md).[StaticClass](ue_ue.DistributionFloat.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:31002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31002)

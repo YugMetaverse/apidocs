@@ -26,10 +26,6 @@
 
 • **new ImportMeshLodSectionsData**()
 
-#### Defined in
-
-[ue/ue.d.ts:35196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35196)
-
 • **new ImportMeshLodSectionsData**(`SectionOriginalMaterialName`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `SectionOriginalMaterialName` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:35197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35197)
-
 ## Properties
 
 ### SectionOriginalMaterialName
 
 • **SectionOriginalMaterialName**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:35198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35198)
-
 ___
 
 ### \_\_tid\_ImportMeshLodSectionsData\_\_
 
 • `Private` **\_\_tid\_ImportMeshLodSectionsData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35204)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35202)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35203)

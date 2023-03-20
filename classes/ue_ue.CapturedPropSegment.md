@@ -28,10 +28,6 @@
 
 • **new CapturedPropSegment**()
 
-#### Defined in
-
-[ue/ue.d.ts:29840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29840)
-
 • **new CapturedPropSegment**(`PropertyName`, `PropertyIndex`, `ComponentName`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `PropertyIndex` | `number` |
 | `ComponentName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:29841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29841)
-
 ## Properties
 
 ### ComponentName
 
 • **ComponentName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:29844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29844)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **PropertyIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29843)
-
 ___
 
 ### PropertyName
 
 • **PropertyName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:29842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29842)
-
 ___
 
 ### \_\_tid\_CapturedPropSegment\_\_
 
 • `Private` **\_\_tid\_CapturedPropSegment\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29850)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29848)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29849)

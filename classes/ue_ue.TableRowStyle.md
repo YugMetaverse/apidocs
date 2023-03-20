@@ -51,10 +51,6 @@
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[constructor](ue_ue.SlateWidgetStyle.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:28242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28242)
-
 • **new TableRowStyle**(`SelectorFocusedBrush`, `ActiveHoveredBrush`, `ActiveBrush`, `InactiveHoveredBrush`, `InactiveBrush`, `EvenRowBackgroundHoveredBrush`, `EvenRowBackgroundBrush`, `OddRowBackgroundHoveredBrush`, `OddRowBackgroundBrush`, `TextColor`, `SelectedTextColor`, `DropIndicator_Above`, `DropIndicator_Onto`, `DropIndicator_Below`, `ActiveHighlightedBrush`, `InactiveHighlightedBrush`)
 
 #### Parameters
@@ -82,19 +78,11 @@
 
 UE.SlateWidgetStyle.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:28243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28243)
-
 ## Properties
 
 ### ActiveBrush
 
 • **ActiveBrush**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28246)
 
 ___
 
@@ -102,19 +90,11 @@ ___
 
 • **ActiveHighlightedBrush**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:28258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28258)
-
 ___
 
 ### ActiveHoveredBrush
 
 • **ActiveHoveredBrush**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28245)
 
 ___
 
@@ -122,19 +102,11 @@ ___
 
 • **DropIndicator\_Above**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:28255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28255)
-
 ___
 
 ### DropIndicator\_Below
 
 • **DropIndicator\_Below**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28257)
 
 ___
 
@@ -142,19 +114,11 @@ ___
 
 • **DropIndicator\_Onto**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:28256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28256)
-
 ___
 
 ### EvenRowBackgroundBrush
 
 • **EvenRowBackgroundBrush**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28250)
 
 ___
 
@@ -162,19 +126,11 @@ ___
 
 • **EvenRowBackgroundHoveredBrush**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:28249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28249)
-
 ___
 
 ### InactiveBrush
 
 • **InactiveBrush**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28248)
 
 ___
 
@@ -182,19 +138,11 @@ ___
 
 • **InactiveHighlightedBrush**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:28259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28259)
-
 ___
 
 ### InactiveHoveredBrush
 
 • **InactiveHoveredBrush**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28247)
 
 ___
 
@@ -202,19 +150,11 @@ ___
 
 • **OddRowBackgroundBrush**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:28252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28252)
-
 ___
 
 ### OddRowBackgroundHoveredBrush
 
 • **OddRowBackgroundHoveredBrush**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28251)
 
 ___
 
@@ -222,19 +162,11 @@ ___
 
 • **SelectedTextColor**: [`SlateColor`](ue_ue.SlateColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:28254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28254)
-
 ___
 
 ### SelectorFocusedBrush
 
 • **SelectorFocusedBrush**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28244)
 
 ___
 
@@ -242,19 +174,11 @@ ___
 
 • **TextColor**: [`SlateColor`](ue_ue.SlateColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:28253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28253)
-
 ___
 
 ### \_\_tid\_TableRowStyle\_\_
 
 • `Private` **\_\_tid\_TableRowStyle\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:28265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28265)
 
 ## Methods
 
@@ -274,10 +198,6 @@ use StaticStruct instead.
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[StaticClass](ue_ue.SlateWidgetStyle.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:28263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28263)
-
 ___
 
 ### StaticStruct
@@ -291,7 +211,3 @@ ___
 #### Overrides
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[StaticStruct](ue_ue.SlateWidgetStyle.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:28264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28264)

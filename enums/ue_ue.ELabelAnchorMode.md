@@ -26,19 +26,11 @@
 
 • **LabelAnchorMode\_BottomCenter** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33919)
-
 ___
 
 ### LabelAnchorMode\_BottomLeft
 
 • **LabelAnchorMode\_BottomLeft** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33919)
 
 ___
 
@@ -46,19 +38,11 @@ ___
 
 • **LabelAnchorMode\_BottomRight** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33919)
-
 ___
 
 ### LabelAnchorMode\_CenterLeft
 
 • **LabelAnchorMode\_CenterLeft** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33919)
 
 ___
 
@@ -66,19 +50,11 @@ ___
 
 • **LabelAnchorMode\_CenterRight** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33919)
-
 ___
 
 ### LabelAnchorMode\_Centered
 
 • **LabelAnchorMode\_Centered** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33919)
 
 ___
 
@@ -86,19 +62,11 @@ ___
 
 • **LabelAnchorMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33919)
-
 ___
 
 ### LabelAnchorMode\_TopCenter
 
 • **LabelAnchorMode\_TopCenter** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33919)
 
 ___
 
@@ -106,26 +74,14 @@ ___
 
 • **LabelAnchorMode\_TopLeft** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33919)
-
 ___
 
 ### LabelAnchorMode\_TopRight
 
 • **LabelAnchorMode\_TopRight** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33919)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33919)

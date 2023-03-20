@@ -65,10 +65,6 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[constructor](ue_ue.BlueprintFunctionLibrary.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:46709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46709)
-
 ## Properties
 
 ### \_\_tid\_BlueprintFunctionLibrary\_\_
@@ -79,19 +75,11 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_BlueprintFunctionLibrary__](ue_ue.BlueprintFunctionLibrary.md#__tid_blueprintfunctionlibrary__)
 
-#### Defined in
-
-[ue/ue.d.ts:13418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13418)
-
 ___
 
 ### \_\_tid\_MagicLeapHandTrackingFunctionLibrary\_\_
 
 • **\_\_tid\_MagicLeapHandTrackingFunctionLibrary\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46727)
 
 ___
 
@@ -102,10 +90,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_Object__](ue_ue.BlueprintFunctionLibrary.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -131,10 +115,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[CreateDefaultSubobject](ue_ue.BlueprintFunctionLibrary.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -155,10 +135,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[ExecuteUbergraph](ue_ue.BlueprintFunctionLibrary.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -172,10 +148,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetClass](ue_ue.BlueprintFunctionLibrary.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -191,10 +163,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetName](ue_ue.BlueprintFunctionLibrary.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -209,10 +177,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetOuter](ue_ue.BlueprintFunctionLibrary.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -226,10 +190,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetWorld](ue_ue.BlueprintFunctionLibrary.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -252,10 +212,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Find](ue_ue.BlueprintFunctionLibrary.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:46724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46724)
-
 ___
 
 ### GetConfiguration
@@ -275,10 +231,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46710)
-
 ___
 
 ### GetCurrentGesture
@@ -296,10 +248,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46711)
-
 ___
 
 ### GetCurrentGestureConfidence
@@ -316,10 +264,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46712)
 
 ___
 
@@ -340,10 +284,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46714)
-
 ___
 
 ### GetGestureKeypoints
@@ -360,10 +300,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46713)
 
 ___
 
@@ -382,10 +318,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46715)
-
 ___
 
 ### GetHandCenterNormalized
@@ -402,10 +334,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46716)
 
 ___
 
@@ -425,10 +353,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46717)
-
 ___
 
 ### GetHandThumbTip
@@ -447,10 +371,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46718)
-
 ___
 
 ### GetMagicLeapHandTrackingLiveLinkSource
@@ -467,10 +387,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46719)
-
 ___
 
 ### GetStaticGestureConfidenceThreshold
@@ -486,10 +402,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:46720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46720)
 
 ___
 
@@ -511,10 +423,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Load](ue_ue.BlueprintFunctionLibrary.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:46725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46725)
-
 ___
 
 ### SetConfiguration
@@ -534,10 +442,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46721)
-
 ___
 
 ### SetStaticGestureConfidenceThreshold
@@ -555,10 +459,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:46722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46722)
-
 ___
 
 ### StaticClass
@@ -572,7 +472,3 @@ ___
 #### Overrides
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[StaticClass](ue_ue.BlueprintFunctionLibrary.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:46723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46723)

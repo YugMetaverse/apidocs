@@ -35,19 +35,11 @@
 
 [KeyEvent](ue_ue.KeyEvent.md).[constructor](ue_ue.KeyEvent.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:12049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12049)
-
 ## Properties
 
 ### \_\_tid\_AnalogInputEvent\_\_
 
 • `Private` **\_\_tid\_AnalogInputEvent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:12055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12055)
 
 ## Methods
 
@@ -67,10 +59,6 @@ use StaticStruct instead.
 
 [KeyEvent](ue_ue.KeyEvent.md).[StaticClass](ue_ue.KeyEvent.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:12053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12053)
-
 ___
 
 ### StaticStruct
@@ -84,7 +72,3 @@ ___
 #### Overrides
 
 [KeyEvent](ue_ue.KeyEvent.md).[StaticStruct](ue_ue.KeyEvent.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:12054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12054)

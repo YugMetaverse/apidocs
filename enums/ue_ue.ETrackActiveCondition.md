@@ -20,19 +20,11 @@
 
 • **ETAC\_Always** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7480)
-
 ___
 
 ### ETAC\_GoreDisabled
 
 • **ETAC\_GoreDisabled** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7480)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **ETAC\_GoreEnabled** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7480)
-
 ___
 
 ### ETAC\_MAX
 
 • **ETAC\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7480)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7480)

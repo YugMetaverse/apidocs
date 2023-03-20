@@ -27,10 +27,6 @@
 
 • **new PinnedCommandListContext**()
 
-#### Defined in
-
-[ue/ue.d.ts:57746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57746)
-
 • **new PinnedCommandListContext**(`Name`, `Commands`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Name` | `string` |
 | `Commands` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PinnedCommandListCommand`](ue_ue.PinnedCommandListCommand.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:57747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57747)
-
 ## Properties
 
 ### Commands
 
 • **Commands**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PinnedCommandListCommand`](ue_ue.PinnedCommandListCommand.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:57749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57749)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:57748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57748)
-
 ___
 
 ### \_\_tid\_PinnedCommandListContext\_\_
 
 • `Private` **\_\_tid\_PinnedCommandListContext\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57755)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57753)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57754)

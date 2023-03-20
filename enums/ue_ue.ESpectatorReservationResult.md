@@ -33,19 +33,11 @@
 
 • **BadSessionId** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34787)
-
 ___
 
 ### ESpectatorReservationResult\_MAX
 
 • **ESpectatorReservationResult\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34787)
 
 ___
 
@@ -53,19 +45,11 @@ ___
 
 • **GeneralError** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34787)
-
 ___
 
 ### IncorrectPlayerCount
 
 • **IncorrectPlayerCount** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34787)
 
 ___
 
@@ -73,19 +57,11 @@ ___
 
 • **NoResult** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34787)
-
 ___
 
 ### RequestPending
 
 • **RequestPending** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34787)
 
 ___
 
@@ -93,19 +69,11 @@ ___
 
 • **RequestTimedOut** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34787)
-
 ___
 
 ### ReservationAccepted
 
 • **ReservationAccepted** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34787)
 
 ___
 
@@ -113,19 +81,11 @@ ___
 
 • **ReservationDenied** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34787)
-
 ___
 
 ### ReservationDenied\_Banned
 
 • **ReservationDenied\_Banned** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34787)
 
 ___
 
@@ -133,19 +93,11 @@ ___
 
 • **ReservationDenied\_ContainsExistingPlayers** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34787)
-
 ___
 
 ### ReservationDenied\_CrossPlayRestriction
 
 • **ReservationDenied\_CrossPlayRestriction** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34787)
 
 ___
 
@@ -153,19 +105,11 @@ ___
 
 • **ReservationDuplicate** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34787)
-
 ___
 
 ### ReservationInvalid
 
 • **ReservationInvalid** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34787)
 
 ___
 
@@ -173,19 +117,11 @@ ___
 
 • **ReservationNotFound** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34787)
-
 ___
 
 ### ReservationRequestCanceled
 
 • **ReservationRequestCanceled** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34787)
 
 ___
 
@@ -193,16 +129,8 @@ ___
 
 • **SpectatorLimitReached** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34787)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34787)

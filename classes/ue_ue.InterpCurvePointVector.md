@@ -30,10 +30,6 @@
 
 • **new InterpCurvePointVector**()
 
-#### Defined in
-
-[ue/ue.d.ts:7555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7555)
-
 • **new InterpCurvePointVector**(`InVal`, `OutVal`, `ArriveTangent`, `LeaveTangent`, `InterpMode`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `LeaveTangent` | [`Vector`](ue_ue_s.Vector.md) |
 | `InterpMode` | [`EInterpCurveMode`](../enums/ue_ue.EInterpCurveMode.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:7556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7556)
-
 ## Properties
 
 ### ArriveTangent
 
 • **ArriveTangent**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7559](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7559)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **InVal**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7557)
-
 ___
 
 ### InterpMode
 
 • **InterpMode**: [`EInterpCurveMode`](../enums/ue_ue.EInterpCurveMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7561)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **LeaveTangent**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7560)
-
 ___
 
 ### OutVal
 
 • **OutVal**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7558](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7558)
-
 ___
 
 ### \_\_tid\_InterpCurvePointVector\_\_
 
 • `Private` **\_\_tid\_InterpCurvePointVector\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7567)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7565)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7566)

@@ -30,10 +30,6 @@
 
 • **new ConstraintDrive**()
 
-#### Defined in
-
-[ue/ue.d.ts:3640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3640)
-
 • **new ConstraintDrive**(`Stiffness`, `Damping`, `MaxForce`, `bEnablePositionDrive`, `bEnableVelocityDrive`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `bEnablePositionDrive` | `boolean` |
 | `bEnableVelocityDrive` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:3641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3641)
-
 ## Properties
 
 ### Damping
 
 • **Damping**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3643)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **MaxForce**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3644)
-
 ___
 
 ### Stiffness
 
 • **Stiffness**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3642)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • `Private` **\_\_tid\_ConstraintDrive\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3652)
-
 ___
 
 ### bEnablePositionDrive
 
 • **bEnablePositionDrive**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3645)
-
 ___
 
 ### bEnableVelocityDrive
 
 • **bEnableVelocityDrive**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3646)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3650)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3651)

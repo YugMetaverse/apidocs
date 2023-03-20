@@ -90,19 +90,11 @@
 
 [EnvQueryNode](ue_ue.EnvQueryNode.md).[constructor](ue_ue.EnvQueryNode.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:15543](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15543)
-
 ## Properties
 
 ### BoolValue
 
 • **BoolValue**: [`AIDataProviderBoolValue`](ue_ue.AIDataProviderBoolValue.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15550](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15550)
 
 ___
 
@@ -110,19 +102,11 @@ ___
 
 • **ClampMaxType**: [`EEnvQueryTestClamping`](../enums/ue_ue.EEnvQueryTestClamping.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15555)
-
 ___
 
 ### ClampMinType
 
 • **ClampMinType**: [`EEnvQueryTestClamping`](../enums/ue_ue.EEnvQueryTestClamping.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15554)
 
 ___
 
@@ -130,19 +114,11 @@ ___
 
 • **FilterType**: [`EEnvTestFilterType`](../enums/ue_ue.EEnvTestFilterType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15549](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15549)
-
 ___
 
 ### FloatValueMax
 
 • **FloatValueMax**: [`AIDataProviderFloatValue`](ue_ue.AIDataProviderFloatValue.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15552)
 
 ___
 
@@ -150,19 +126,11 @@ ___
 
 • **FloatValueMin**: [`AIDataProviderFloatValue`](ue_ue.AIDataProviderFloatValue.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15551](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15551)
-
 ___
 
 ### MultipleContextFilterOp
 
 • **MultipleContextFilterOp**: [`EEnvTestFilterOperator`](../enums/ue_ue.EEnvTestFilterOperator.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15547)
 
 ___
 
@@ -170,19 +138,11 @@ ___
 
 • **MultipleContextScoreOp**: [`EEnvTestScoreOperator`](../enums/ue_ue.EEnvTestScoreOperator.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15548)
-
 ___
 
 ### NormalizationType
 
 • **NormalizationType**: [`EEQSNormalizationType`](../enums/ue_ue.EEQSNormalizationType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15556)
 
 ___
 
@@ -190,19 +150,11 @@ ___
 
 • **ReferenceValue**: [`AIDataProviderFloatValue`](ue_ue.AIDataProviderFloatValue.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15560)
-
 ___
 
 ### ScoreClampMax
 
 • **ScoreClampMax**: [`AIDataProviderFloatValue`](ue_ue.AIDataProviderFloatValue.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15558](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15558)
 
 ___
 
@@ -210,19 +162,11 @@ ___
 
 • **ScoreClampMin**: [`AIDataProviderFloatValue`](ue_ue.AIDataProviderFloatValue.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15557)
-
 ___
 
 ### ScoringEquation
 
 • **ScoringEquation**: [`EEnvTestScoreEquation`](../enums/ue_ue.EEnvTestScoreEquation.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15553)
 
 ___
 
@@ -230,19 +174,11 @@ ___
 
 • **ScoringFactor**: [`AIDataProviderFloatValue`](ue_ue.AIDataProviderFloatValue.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15559](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15559)
-
 ___
 
 ### TestComment
 
 • **TestComment**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:15546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15546)
 
 ___
 
@@ -250,19 +186,11 @@ ___
 
 • **TestOrder**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15544](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15544)
-
 ___
 
 ### TestPurpose
 
 • **TestPurpose**: [`EEnvTestPurpose`](../enums/ue_ue.EEnvTestPurpose.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15545)
 
 ___
 
@@ -274,10 +202,6 @@ ___
 
 [EnvQueryNode](ue_ue.EnvQueryNode.md).[VerNum](ue_ue.EnvQueryNode.md#vernum)
 
-#### Defined in
-
-[ue/ue.d.ts:15465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15465)
-
 ___
 
 ### \_\_tid\_EnvQueryNode\_\_
@@ -288,19 +212,11 @@ ___
 
 [EnvQueryNode](ue_ue.EnvQueryNode.md).[__tid_EnvQueryNode__](ue_ue.EnvQueryNode.md#__tid_envquerynode__)
 
-#### Defined in
-
-[ue/ue.d.ts:15470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15470)
-
 ___
 
 ### \_\_tid\_EnvQueryTest\_\_
 
 • **\_\_tid\_EnvQueryTest\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15567)
 
 ___
 
@@ -312,29 +228,17 @@ ___
 
 [EnvQueryNode](ue_ue.EnvQueryNode.md).[__tid_Object__](ue_ue.EnvQueryNode.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bDefineReferenceValue
 
 • **bDefineReferenceValue**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:15561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15561)
-
 ___
 
 ### bWorkOnFloatValues
 
 • **bWorkOnFloatValues**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15562)
 
 ## Methods
 
@@ -360,10 +264,6 @@ ___
 
 [EnvQueryNode](ue_ue.EnvQueryNode.md).[CreateDefaultSubobject](ue_ue.EnvQueryNode.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -384,10 +284,6 @@ ___
 
 [EnvQueryNode](ue_ue.EnvQueryNode.md).[ExecuteUbergraph](ue_ue.EnvQueryNode.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -401,10 +297,6 @@ ___
 #### Inherited from
 
 [EnvQueryNode](ue_ue.EnvQueryNode.md).[GetClass](ue_ue.EnvQueryNode.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -420,10 +312,6 @@ ___
 
 [EnvQueryNode](ue_ue.EnvQueryNode.md).[GetName](ue_ue.EnvQueryNode.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -438,10 +326,6 @@ ___
 
 [EnvQueryNode](ue_ue.EnvQueryNode.md).[GetOuter](ue_ue.EnvQueryNode.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -455,10 +339,6 @@ ___
 #### Inherited from
 
 [EnvQueryNode](ue_ue.EnvQueryNode.md).[GetWorld](ue_ue.EnvQueryNode.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -481,10 +361,6 @@ ___
 
 [EnvQueryNode](ue_ue.EnvQueryNode.md).[Find](ue_ue.EnvQueryNode.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:15564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15564)
-
 ___
 
 ### Load
@@ -505,10 +381,6 @@ ___
 
 [EnvQueryNode](ue_ue.EnvQueryNode.md).[Load](ue_ue.EnvQueryNode.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:15565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15565)
-
 ___
 
 ### StaticClass
@@ -522,7 +394,3 @@ ___
 #### Overrides
 
 [EnvQueryNode](ue_ue.EnvQueryNode.md).[StaticClass](ue_ue.EnvQueryNode.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15563)

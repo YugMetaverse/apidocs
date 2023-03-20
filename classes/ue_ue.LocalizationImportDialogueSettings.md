@@ -28,10 +28,6 @@
 
 • **new LocalizationImportDialogueSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:46146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46146)
-
 • **new LocalizationImportDialogueSettings**(`RawAudioPath`, `ImportedDialogueFolder`, `bImportNativeAsSource`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `ImportedDialogueFolder` | `string` |
 | `bImportNativeAsSource` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:46147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46147)
-
 ## Properties
 
 ### ImportedDialogueFolder
 
 • **ImportedDialogueFolder**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:46149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46149)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **RawAudioPath**: [`DirectoryPath`](ue_ue.DirectoryPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46148)
-
 ___
 
 ### \_\_tid\_LocalizationImportDialogueSettings\_\_
 
 • `Private` **\_\_tid\_LocalizationImportDialogueSettings\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46156)
-
 ___
 
 ### bImportNativeAsSource
 
 • **bImportNativeAsSource**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46150)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46154)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46155)

@@ -28,10 +28,6 @@
 
 • **new PredictProjectilePathResult**()
 
-#### Defined in
-
-[ue/ue.d.ts:36841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36841)
-
 • **new PredictProjectilePathResult**(`PathData`, `LastTraceDestination`, `HitResult`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `LastTraceDestination` | [`PredictProjectilePathPointData`](ue_ue.PredictProjectilePathPointData.md) |
 | `HitResult` | [`HitResult`](ue_ue.HitResult.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:36842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36842)
-
 ## Properties
 
 ### HitResult
 
 • **HitResult**: [`HitResult`](ue_ue.HitResult.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36845](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36845)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **LastTraceDestination**: [`PredictProjectilePathPointData`](ue_ue.PredictProjectilePathPointData.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36844)
-
 ___
 
 ### PathData
 
 • **PathData**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PredictProjectilePathPointData`](ue_ue.PredictProjectilePathPointData.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:36843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36843)
-
 ___
 
 ### \_\_tid\_PredictProjectilePathResult\_\_
 
 • `Private` **\_\_tid\_PredictProjectilePathResult\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36851)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36849)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36850)

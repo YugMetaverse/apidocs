@@ -30,10 +30,6 @@
 
 • **new TimelineLinearColorTrack**()
 
-#### Defined in
-
-[ue/ue.d.ts:63585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63585)
-
 • **new TimelineLinearColorTrack**(`LinearColorCurve`, `InterpFunc`, `TrackName`, `LinearColorPropertyName`, `LinearColorProperty`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `LinearColorPropertyName` | `string` |
 | `LinearColorProperty` | [`StructProperty`](ue_ue.StructProperty.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:63586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63586)
-
 ## Properties
 
 ### InterpFunc
 
 • **InterpFunc**: [`$Delegate`](../interfaces/ue_puerts._Delegate.md)<(`Output`: [`LinearColor`](ue_ue_s.LinearColor.md)) => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:63588](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63588)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **LinearColorCurve**: [`CurveLinearColor`](ue_ue.CurveLinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63587)
-
 ___
 
 ### LinearColorProperty
 
 • **LinearColorProperty**: [`StructProperty`](ue_ue.StructProperty.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63591)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **LinearColorPropertyName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:63590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63590)
-
 ___
 
 ### TrackName
 
 • **TrackName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:63589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63589)
-
 ___
 
 ### \_\_tid\_TimelineLinearColorTrack\_\_
 
 • `Private` **\_\_tid\_TimelineLinearColorTrack\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:63597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63597)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63595)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63596)

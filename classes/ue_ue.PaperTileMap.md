@@ -78,19 +78,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:55112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55112)
-
 ## Properties
 
 ### AssetImportData
 
 • **AssetImportData**: [`AssetImportData`](ue_ue.AssetImportData.md)
-
-#### Defined in
-
-[ue/ue.d.ts:55129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55129)
 
 ___
 
@@ -98,19 +90,11 @@ ___
 
 • **BackgroundColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:55131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55131)
-
 ___
 
 ### BodySetup
 
 • **BodySetup**: [`BodySetup`](ue_ue.BodySetup.md)
-
-#### Defined in
-
-[ue/ue.d.ts:55128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55128)
 
 ___
 
@@ -118,19 +102,11 @@ ___
 
 • **CollisionThickness**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:55124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55124)
-
 ___
 
 ### HexSideLength
 
 • **HexSideLength**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:55127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55127)
 
 ___
 
@@ -138,19 +114,11 @@ ___
 
 • **LayerGridColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:55138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55138)
-
 ___
 
 ### LayerNameIndex
 
 • **LayerNameIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:55139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55139)
 
 ___
 
@@ -158,19 +126,11 @@ ___
 
 • **MapHeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:55114](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55114)
-
 ___
 
 ### MapWidth
 
 • **MapWidth**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:55113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55113)
 
 ___
 
@@ -178,19 +138,11 @@ ___
 
 • **Material**: [`MaterialInterface`](ue_ue.MaterialInterface.md)
 
-#### Defined in
-
-[ue/ue.d.ts:55122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55122)
-
 ___
 
 ### MultiTileGridColor
 
 • **MultiTileGridColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:55133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55133)
 
 ___
 
@@ -198,19 +150,11 @@ ___
 
 • **MultiTileGridHeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:55135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55135)
-
 ___
 
 ### MultiTileGridOffsetX
 
 • **MultiTileGridOffsetX**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:55136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55136)
 
 ___
 
@@ -218,19 +162,11 @@ ___
 
 • **MultiTileGridOffsetY**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:55137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55137)
-
 ___
 
 ### MultiTileGridWidth
 
 • **MultiTileGridWidth**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:55134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55134)
 
 ___
 
@@ -238,19 +174,11 @@ ___
 
 • **PixelsPerUnrealUnit**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:55117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55117)
-
 ___
 
 ### ProjectionMode
 
 • **ProjectionMode**: [`ETileMapProjectionMode`](../enums/ue_ue.ETileMapProjectionMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:55126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55126)
 
 ___
 
@@ -258,19 +186,11 @@ ___
 
 • **SelectedLayerIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:55130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55130)
-
 ___
 
 ### SelectedTileSet
 
 • **SelectedTileSet**: [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`PaperTileSet`](ue_ue.PaperTileSet.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:55121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55121)
 
 ___
 
@@ -278,19 +198,11 @@ ___
 
 • **SeparationPerLayer**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:55120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55120)
-
 ___
 
 ### SeparationPerTileX
 
 • **SeparationPerTileX**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:55118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55118)
 
 ___
 
@@ -298,19 +210,11 @@ ___
 
 • **SeparationPerTileY**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:55119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55119)
-
 ___
 
 ### SpriteCollisionDomain
 
 • **SpriteCollisionDomain**: [`ESpriteCollisionMode`](../enums/ue_ue.ESpriteCollisionMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:55125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55125)
 
 ___
 
@@ -318,19 +222,11 @@ ___
 
 • **TileGridColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:55132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55132)
-
 ___
 
 ### TileHeight
 
 • **TileHeight**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:55116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55116)
 
 ___
 
@@ -338,19 +234,11 @@ ___
 
 • **TileLayers**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PaperTileLayer`](ue_ue.PaperTileLayer.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:55123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55123)
-
 ___
 
 ### TileWidth
 
 • **TileWidth**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:55115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55115)
 
 ___
 
@@ -362,19 +250,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PaperTileMap\_\_
 
 • **\_\_tid\_PaperTileMap\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55144)
 
 ## Methods
 
@@ -400,10 +280,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -424,10 +300,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -441,10 +313,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -460,10 +328,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -478,10 +342,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -495,10 +355,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -521,10 +377,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:55141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55141)
-
 ___
 
 ### Load
@@ -545,10 +397,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:55142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55142)
-
 ___
 
 ### StaticClass
@@ -562,7 +410,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:55140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55140)

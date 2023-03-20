@@ -29,10 +29,6 @@
 
 • **new SubmixEffectEQBand**()
 
-#### Defined in
-
-[ue/ue.d.ts:62626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62626)
-
 • **new SubmixEffectEQBand**(`Frequency`, `Bandwidth`, `GainDb`, `bEnabled`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `GainDb` | `number` |
 | `bEnabled` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:62627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62627)
-
 ## Properties
 
 ### Bandwidth
 
 • **Bandwidth**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:62629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62629)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **Frequency**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:62628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62628)
-
 ___
 
 ### GainDb
 
 • **GainDb**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:62630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62630)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • `Private` **\_\_tid\_SubmixEffectEQBand\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:62637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62637)
-
 ___
 
 ### bEnabled
 
 • **bEnabled**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:62631](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62631)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:62635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62635)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:62636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62636)

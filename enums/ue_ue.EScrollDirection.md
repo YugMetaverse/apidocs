@@ -19,19 +19,11 @@
 
 • **Scroll\_Down** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34755)
-
 ___
 
 ### Scroll\_MAX
 
 • **Scroll\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34755)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Scroll\_Up** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34755)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34755)

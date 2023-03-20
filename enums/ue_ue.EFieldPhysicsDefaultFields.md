@@ -23,19 +23,11 @@
 
 • **Field\_EFieldPhysicsDefaultFields\_Max** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33862)
-
 ___
 
 ### Field\_MAX
 
 • **Field\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33862)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **Field\_RadialFalloff** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33862)
-
 ___
 
 ### Field\_RadialIntMask
 
 • **Field\_RadialIntMask** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33862)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **Field\_RadialVector** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33862)
-
 ___
 
 ### Field\_RadialVectorFalloff
 
 • **Field\_RadialVectorFalloff** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33862)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **Field\_UniformVector** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33862)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33862)

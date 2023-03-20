@@ -56,19 +56,11 @@
 
 [Enum](ue_ue.Enum.md).[constructor](ue_ue.Enum.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:64856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64856)
-
 ## Properties
 
 ### DisplayNameMap
 
 • **DisplayNameMap**: [`TMap`](../interfaces/ue_puerts.TMap.md)<`string`, `string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:64859](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64859)
 
 ___
 
@@ -76,19 +68,11 @@ ___
 
 • **EnumDescription**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:64858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64858)
-
 ___
 
 ### UniqueNameIndex
 
 • **UniqueNameIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:64857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64857)
 
 ___
 
@@ -100,10 +84,6 @@ ___
 
 [Enum](ue_ue.Enum.md).[__tid_Enum__](ue_ue.Enum.md#__tid_enum__)
 
-#### Defined in
-
-[ue/ue.d.ts:16985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16985)
-
 ___
 
 ### \_\_tid\_Field\_\_
@@ -113,10 +93,6 @@ ___
 #### Inherited from
 
 [Enum](ue_ue.Enum.md).[__tid_Field__](ue_ue.Enum.md#__tid_field__)
-
-#### Defined in
-
-[ue/ue.d.ts:700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L700)
 
 ___
 
@@ -128,19 +104,11 @@ ___
 
 [Enum](ue_ue.Enum.md).[__tid_Object__](ue_ue.Enum.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_UserDefinedEnum\_\_
 
 • **\_\_tid\_UserDefinedEnum\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64864)
 
 ## Methods
 
@@ -166,10 +134,6 @@ ___
 
 [Enum](ue_ue.Enum.md).[CreateDefaultSubobject](ue_ue.Enum.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -190,10 +154,6 @@ ___
 
 [Enum](ue_ue.Enum.md).[ExecuteUbergraph](ue_ue.Enum.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -207,10 +167,6 @@ ___
 #### Inherited from
 
 [Enum](ue_ue.Enum.md).[GetClass](ue_ue.Enum.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -226,10 +182,6 @@ ___
 
 [Enum](ue_ue.Enum.md).[GetName](ue_ue.Enum.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -244,10 +196,6 @@ ___
 
 [Enum](ue_ue.Enum.md).[GetOuter](ue_ue.Enum.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -261,10 +209,6 @@ ___
 #### Inherited from
 
 [Enum](ue_ue.Enum.md).[GetWorld](ue_ue.Enum.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -287,10 +231,6 @@ ___
 
 [Enum](ue_ue.Enum.md).[Find](ue_ue.Enum.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:64861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64861)
-
 ___
 
 ### Load
@@ -311,10 +251,6 @@ ___
 
 [Enum](ue_ue.Enum.md).[Load](ue_ue.Enum.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:64862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64862)
-
 ___
 
 ### StaticClass
@@ -328,7 +264,3 @@ ___
 #### Overrides
 
 [Enum](ue_ue.Enum.md).[StaticClass](ue_ue.Enum.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:64860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64860)

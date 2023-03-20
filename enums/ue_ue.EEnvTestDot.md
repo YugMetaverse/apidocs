@@ -19,19 +19,11 @@
 
 • **Dot2D** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33842)
-
 ___
 
 ### Dot3D
 
 • **Dot3D** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33842)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **EEnvTestDot\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33842)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33842)

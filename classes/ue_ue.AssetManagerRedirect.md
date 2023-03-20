@@ -27,10 +27,6 @@
 
 • **new AssetManagerRedirect**()
 
-#### Defined in
-
-[ue/ue.d.ts:21719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21719)
-
 • **new AssetManagerRedirect**(`Old`, `New`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Old` | `string` |
 | `New` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:21720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21720)
-
 ## Properties
 
 ### New
 
 • **New**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:21722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21722)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Old**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:21721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21721)
-
 ___
 
 ### \_\_tid\_AssetManagerRedirect\_\_
 
 • `Private` **\_\_tid\_AssetManagerRedirect\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21728)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21726)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21727)

@@ -20,19 +20,11 @@
 
 • **All** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33837)
-
 ___
 
 ### Best25Pct
 
 • **Best25Pct** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33837)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Best5Pct** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33837)
-
 ___
 
 ### EEnvQueryHightlightMode\_MAX
 
 • **EEnvQueryHightlightMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33837)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33837)

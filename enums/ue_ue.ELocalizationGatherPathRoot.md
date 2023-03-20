@@ -20,19 +20,11 @@
 
 • **Auto** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33968)
-
 ___
 
 ### ELocalizationGatherPathRoot\_MAX
 
 • **ELocalizationGatherPathRoot\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33968)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Engine** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33968)
-
 ___
 
 ### Project
 
 • **Project** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33968)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33968)

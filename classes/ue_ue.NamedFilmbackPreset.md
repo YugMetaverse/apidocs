@@ -27,10 +27,6 @@
 
 • **new NamedFilmbackPreset**()
 
-#### Defined in
-
-[ue/ue.d.ts:27306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27306)
-
 • **new NamedFilmbackPreset**(`Name`, `FilmbackSettings`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Name` | `string` |
 | `FilmbackSettings` | [`CameraFilmbackSettings`](ue_ue.CameraFilmbackSettings.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:27307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27307)
-
 ## Properties
 
 ### FilmbackSettings
 
 • **FilmbackSettings**: [`CameraFilmbackSettings`](ue_ue.CameraFilmbackSettings.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27309)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:27308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27308)
-
 ___
 
 ### \_\_tid\_NamedFilmbackPreset\_\_
 
 • `Private` **\_\_tid\_NamedFilmbackPreset\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27315)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27313)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27314)

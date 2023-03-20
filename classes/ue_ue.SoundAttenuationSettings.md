@@ -93,10 +93,6 @@
 
 [BaseAttenuationSettings](ue_ue.BaseAttenuationSettings.md).[constructor](ue_ue.BaseAttenuationSettings.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:9404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9404)
-
 • **new SoundAttenuationSettings**(`bAttenuate`, `bSpatialize`, `bAttenuateWithLPF`, `bEnableListenerFocus`, `bEnableFocusInterpolation`, `bEnableOcclusion`, `bUseComplexCollisionForOcclusion`, `bEnableReverbSend`, `bApplyNormalizationToStereoSounds`, `bEnableLogFrequencyScaling`, `SpatializationAlgorithm`, `BinauralRadius`, `AbsorptionMethod`, `OcclusionTraceChannel`, `ReverbSendMethod`, `DistanceType`, `OmniRadius`, `StereoSpread`, `SpatializationPluginSettings`, `RadiusMin`, `RadiusMax`, `LPFRadiusMin`, `LPFRadiusMax`, `CustomLowpassAirAbsorptionCurve`, `CustomHighpassAirAbsorptionCurve`, `LPFFrequencyAtMin`, `LPFFrequencyAtMax`, `HPFFrequencyAtMin`, `HPFFrequencyAtMax`, `FocusAzimuth`, `NonFocusAzimuth`, `FocusDistanceScale`, `NonFocusDistanceScale`, `FocusPriorityScale`, `NonFocusPriorityScale`, `FocusVolumeAttenuation`, `NonFocusVolumeAttenuation`, `FocusAttackInterpSpeed`, `FocusReleaseInterpSpeed`, `OcclusionLowPassFilterFrequency`, `OcclusionVolumeAttenuation`, `OcclusionInterpolationTime`, `OcclusionPluginSettings`, `ReverbPluginSettings`, `ReverbWetLevelMin`, `ReverbWetLevelMax`, `ReverbDistanceMin`, `ReverbDistanceMax`, `ManualReverbSendLevel`, `CustomReverbSendCurve`, `PluginSettings`)
 
 #### Parameters
@@ -159,19 +155,11 @@
 
 [BaseAttenuationSettings](ue_ue.BaseAttenuationSettings.md).[constructor](ue_ue.BaseAttenuationSettings.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:9405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9405)
-
 ## Properties
 
 ### AbsorptionMethod
 
 • **AbsorptionMethod**: [`EAirAbsorptionMethod`](../enums/ue_ue.EAirAbsorptionMethod.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9418)
 
 ___
 
@@ -183,10 +171,6 @@ ___
 
 [BaseAttenuationSettings](ue_ue.BaseAttenuationSettings.md).[AttenuationShape](ue_ue.BaseAttenuationSettings.md#attenuationshape)
 
-#### Defined in
-
-[ue/ue.d.ts:9344](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9344)
-
 ___
 
 ### AttenuationShapeExtents
@@ -197,19 +181,11 @@ ___
 
 [BaseAttenuationSettings](ue_ue.BaseAttenuationSettings.md).[AttenuationShapeExtents](ue_ue.BaseAttenuationSettings.md#attenuationshapeextents)
 
-#### Defined in
-
-[ue/ue.d.ts:9346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9346)
-
 ___
 
 ### BinauralRadius
 
 • **BinauralRadius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9417)
 
 ___
 
@@ -221,10 +197,6 @@ ___
 
 [BaseAttenuationSettings](ue_ue.BaseAttenuationSettings.md).[ConeOffset](ue_ue.BaseAttenuationSettings.md#coneoffset)
 
-#### Defined in
-
-[ue/ue.d.ts:9347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9347)
-
 ___
 
 ### CustomAttenuationCurve
@@ -235,19 +207,11 @@ ___
 
 [BaseAttenuationSettings](ue_ue.BaseAttenuationSettings.md).[CustomAttenuationCurve](ue_ue.BaseAttenuationSettings.md#customattenuationcurve)
 
-#### Defined in
-
-[ue/ue.d.ts:9349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9349)
-
 ___
 
 ### CustomHighpassAirAbsorptionCurve
 
 • **CustomHighpassAirAbsorptionCurve**: [`RuntimeFloatCurve`](ue_ue.RuntimeFloatCurve.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9430)
 
 ___
 
@@ -255,19 +219,11 @@ ___
 
 • **CustomLowpassAirAbsorptionCurve**: [`RuntimeFloatCurve`](ue_ue.RuntimeFloatCurve.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9429)
-
 ___
 
 ### CustomReverbSendCurve
 
 • **CustomReverbSendCurve**: [`RuntimeFloatCurve`](ue_ue.RuntimeFloatCurve.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9455)
 
 ___
 
@@ -279,19 +235,11 @@ ___
 
 [BaseAttenuationSettings](ue_ue.BaseAttenuationSettings.md).[DistanceAlgorithm](ue_ue.BaseAttenuationSettings.md#distancealgorithm)
 
-#### Defined in
-
-[ue/ue.d.ts:9343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9343)
-
 ___
 
 ### DistanceType
 
 • **DistanceType**: [`ESoundDistanceCalc`](../enums/ue_ue.ESoundDistanceCalc.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9421)
 
 ___
 
@@ -303,19 +251,11 @@ ___
 
 [BaseAttenuationSettings](ue_ue.BaseAttenuationSettings.md).[FalloffDistance](ue_ue.BaseAttenuationSettings.md#falloffdistance)
 
-#### Defined in
-
-[ue/ue.d.ts:9348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9348)
-
 ___
 
 ### FocusAttackInterpSpeed
 
 • **FocusAttackInterpSpeed**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9443](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9443)
 
 ___
 
@@ -323,19 +263,11 @@ ___
 
 • **FocusAzimuth**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9435)
-
 ___
 
 ### FocusDistanceScale
 
 • **FocusDistanceScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9437)
 
 ___
 
@@ -343,19 +275,11 @@ ___
 
 • **FocusPriorityScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9439)
-
 ___
 
 ### FocusReleaseInterpSpeed
 
 • **FocusReleaseInterpSpeed**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9444](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9444)
 
 ___
 
@@ -363,19 +287,11 @@ ___
 
 • **FocusVolumeAttenuation**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9441](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9441)
-
 ___
 
 ### HPFFrequencyAtMax
 
 • **HPFFrequencyAtMax**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9434)
 
 ___
 
@@ -383,19 +299,11 @@ ___
 
 • **HPFFrequencyAtMin**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9433)
-
 ___
 
 ### LPFFrequencyAtMax
 
 • **LPFFrequencyAtMax**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9432)
 
 ___
 
@@ -403,19 +311,11 @@ ___
 
 • **LPFFrequencyAtMin**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9431](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9431)
-
 ___
 
 ### LPFRadiusMax
 
 • **LPFRadiusMax**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9428)
 
 ___
 
@@ -423,19 +323,11 @@ ___
 
 • **LPFRadiusMin**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9427)
-
 ___
 
 ### ManualReverbSendLevel
 
 • **ManualReverbSendLevel**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9454)
 
 ___
 
@@ -443,19 +335,11 @@ ___
 
 • **NonFocusAzimuth**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9436)
-
 ___
 
 ### NonFocusDistanceScale
 
 • **NonFocusDistanceScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9438)
 
 ___
 
@@ -463,19 +347,11 @@ ___
 
 • **NonFocusPriorityScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9440)
-
 ___
 
 ### NonFocusVolumeAttenuation
 
 • **NonFocusVolumeAttenuation**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9442](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9442)
 
 ___
 
@@ -483,19 +359,11 @@ ___
 
 • **OcclusionInterpolationTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9447)
-
 ___
 
 ### OcclusionLowPassFilterFrequency
 
 • **OcclusionLowPassFilterFrequency**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9445](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9445)
 
 ___
 
@@ -503,19 +371,11 @@ ___
 
 • **OcclusionPluginSettings**: [`OcclusionPluginSourceSettingsBase`](ue_ue.OcclusionPluginSourceSettingsBase.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9448)
-
 ___
 
 ### OcclusionTraceChannel
 
 • **OcclusionTraceChannel**: [`ECollisionChannel`](../enums/ue_ue.ECollisionChannel.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9419)
 
 ___
 
@@ -523,19 +383,11 @@ ___
 
 • **OcclusionVolumeAttenuation**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9446)
-
 ___
 
 ### OmniRadius
 
 • **OmniRadius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9422)
 
 ___
 
@@ -543,19 +395,11 @@ ___
 
 • **PluginSettings**: [`SoundAttenuationPluginSettings`](ue_ue.SoundAttenuationPluginSettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9456](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9456)
-
 ___
 
 ### RadiusMax
 
 • **RadiusMax**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9426](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9426)
 
 ___
 
@@ -563,19 +407,11 @@ ___
 
 • **RadiusMin**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9425)
-
 ___
 
 ### ReverbDistanceMax
 
 • **ReverbDistanceMax**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9453)
 
 ___
 
@@ -583,19 +419,11 @@ ___
 
 • **ReverbDistanceMin**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9452)
-
 ___
 
 ### ReverbPluginSettings
 
 • **ReverbPluginSettings**: [`ReverbPluginSourceSettingsBase`](ue_ue.ReverbPluginSourceSettingsBase.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9449)
 
 ___
 
@@ -603,19 +431,11 @@ ___
 
 • **ReverbSendMethod**: [`EReverbSendMethod`](../enums/ue_ue.EReverbSendMethod.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9420)
-
 ___
 
 ### ReverbWetLevelMax
 
 • **ReverbWetLevelMax**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9451)
 
 ___
 
@@ -623,19 +443,11 @@ ___
 
 • **ReverbWetLevelMin**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9450)
-
 ___
 
 ### SpatializationAlgorithm
 
 • **SpatializationAlgorithm**: [`ESoundSpatializationAlgorithm`](../enums/ue_ue.ESoundSpatializationAlgorithm.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9416)
 
 ___
 
@@ -643,19 +455,11 @@ ___
 
 • **SpatializationPluginSettings**: [`SpatializationPluginSourceSettingsBase`](ue_ue.SpatializationPluginSourceSettingsBase.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9424](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9424)
-
 ___
 
 ### StereoSpread
 
 • **StereoSpread**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9423)
 
 ___
 
@@ -663,19 +467,11 @@ ___
 
 • `Private` **\_\_tid\_SoundAttenuationSettings\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9462](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9462)
-
 ___
 
 ### bApplyNormalizationToStereoSounds
 
 • **bApplyNormalizationToStereoSounds**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9414)
 
 ___
 
@@ -683,19 +479,11 @@ ___
 
 • **bAttenuate**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9406)
-
 ___
 
 ### bAttenuateWithLPF
 
 • **bAttenuateWithLPF**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9408)
 
 ___
 
@@ -703,19 +491,11 @@ ___
 
 • **bEnableFocusInterpolation**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9410)
-
 ___
 
 ### bEnableListenerFocus
 
 • **bEnableListenerFocus**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9409)
 
 ___
 
@@ -723,19 +503,11 @@ ___
 
 • **bEnableLogFrequencyScaling**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9415)
-
 ___
 
 ### bEnableOcclusion
 
 • **bEnableOcclusion**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9411)
 
 ___
 
@@ -743,29 +515,17 @@ ___
 
 • **bEnableReverbSend**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9413)
-
 ___
 
 ### bSpatialize
 
 • **bSpatialize**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9407)
-
 ___
 
 ### bUseComplexCollisionForOcclusion
 
 • **bUseComplexCollisionForOcclusion**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9412)
 
 ___
 
@@ -776,10 +536,6 @@ ___
 #### Inherited from
 
 [BaseAttenuationSettings](ue_ue.BaseAttenuationSettings.md).[dBAttenuationAtMax](ue_ue.BaseAttenuationSettings.md#dbattenuationatmax)
-
-#### Defined in
-
-[ue/ue.d.ts:9345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9345)
 
 ## Methods
 
@@ -799,10 +555,6 @@ use StaticStruct instead.
 
 [BaseAttenuationSettings](ue_ue.BaseAttenuationSettings.md).[StaticClass](ue_ue.BaseAttenuationSettings.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:9460](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9460)
-
 ___
 
 ### StaticStruct
@@ -816,7 +568,3 @@ ___
 #### Overrides
 
 [BaseAttenuationSettings](ue_ue.BaseAttenuationSettings.md).[StaticStruct](ue_ue.BaseAttenuationSettings.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:9461](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9461)

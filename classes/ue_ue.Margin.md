@@ -29,10 +29,6 @@
 
 • **new Margin**()
 
-#### Defined in
-
-[ue/ue.d.ts:10880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10880)
-
 • **new Margin**(`Left`, `Top`, `Right`, `Bottom`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `Right` | `number` |
 | `Bottom` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:10881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10881)
-
 ## Properties
 
 ### Bottom
 
 • **Bottom**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10885)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **Left**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10882)
-
 ___
 
 ### Right
 
 • **Right**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10884)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **Top**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10883)
-
 ___
 
 ### \_\_tid\_Margin\_\_
 
 • `Private` **\_\_tid\_Margin\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10891)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10889)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10890)

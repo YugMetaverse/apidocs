@@ -75,10 +75,6 @@
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[constructor](ue_ue.SoundCueGraphNode_Base.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:61177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61177)
-
 ## Properties
 
 ### AdvancedPinDisplay
@@ -88,10 +84,6 @@
 #### Inherited from
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[AdvancedPinDisplay](ue_ue.SoundCueGraphNode_Base.md#advancedpindisplay)
-
-#### Defined in
-
-[ue/ue.d.ts:1067](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1067)
 
 ___
 
@@ -103,10 +95,6 @@ ___
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[DeprecatedPins](ue_ue.SoundCueGraphNode_Base.md#deprecatedpins)
 
-#### Defined in
-
-[ue/ue.d.ts:1062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1062)
-
 ___
 
 ### EnabledState
@@ -116,10 +104,6 @@ ___
 #### Inherited from
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[EnabledState](ue_ue.SoundCueGraphNode_Base.md#enabledstate)
-
-#### Defined in
-
-[ue/ue.d.ts:1068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1068)
 
 ___
 
@@ -131,10 +115,6 @@ ___
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[ErrorMsg](ue_ue.SoundCueGraphNode_Base.md#errormsg)
 
-#### Defined in
-
-[ue/ue.d.ts:1081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1081)
-
 ___
 
 ### ErrorType
@@ -144,10 +124,6 @@ ___
 #### Inherited from
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[ErrorType](ue_ue.SoundCueGraphNode_Base.md#errortype)
-
-#### Defined in
-
-[ue/ue.d.ts:1080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1080)
 
 ___
 
@@ -159,10 +135,6 @@ ___
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[NodeComment](ue_ue.SoundCueGraphNode_Base.md#nodecomment)
 
-#### Defined in
-
-[ue/ue.d.ts:1079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1079)
-
 ___
 
 ### NodeGuid
@@ -172,10 +144,6 @@ ___
 #### Inherited from
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[NodeGuid](ue_ue.SoundCueGraphNode_Base.md#nodeguid)
-
-#### Defined in
-
-[ue/ue.d.ts:1082](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1082)
 
 ___
 
@@ -187,10 +155,6 @@ ___
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[NodeHeight](ue_ue.SoundCueGraphNode_Base.md#nodeheight)
 
-#### Defined in
-
-[ue/ue.d.ts:1066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1066)
-
 ___
 
 ### NodePosX
@@ -200,10 +164,6 @@ ___
 #### Inherited from
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[NodePosX](ue_ue.SoundCueGraphNode_Base.md#nodeposx)
-
-#### Defined in
-
-[ue/ue.d.ts:1063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1063)
 
 ___
 
@@ -215,10 +175,6 @@ ___
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[NodePosY](ue_ue.SoundCueGraphNode_Base.md#nodeposy)
 
-#### Defined in
-
-[ue/ue.d.ts:1064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1064)
-
 ___
 
 ### NodeUpgradeMessage
@@ -228,10 +184,6 @@ ___
 #### Inherited from
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[NodeUpgradeMessage](ue_ue.SoundCueGraphNode_Base.md#nodeupgrademessage)
-
-#### Defined in
-
-[ue/ue.d.ts:1078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1078)
 
 ___
 
@@ -243,19 +195,11 @@ ___
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[NodeWidth](ue_ue.SoundCueGraphNode_Base.md#nodewidth)
 
-#### Defined in
-
-[ue/ue.d.ts:1065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1065)
-
 ___
 
 ### SoundNode
 
 • **SoundNode**: [`SoundNode`](ue_ue.SoundNode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:61178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61178)
 
 ___
 
@@ -267,10 +211,6 @@ ___
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[__tid_EdGraphNode__](ue_ue.SoundCueGraphNode_Base.md#__tid_edgraphnode__)
 
-#### Defined in
-
-[ue/ue.d.ts:1087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1087)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -280,10 +220,6 @@ ___
 #### Inherited from
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[__tid_Object__](ue_ue.SoundCueGraphNode_Base.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -295,19 +231,11 @@ ___
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[__tid_SoundCueGraphNode_Base__](ue_ue.SoundCueGraphNode_Base.md#__tid_soundcuegraphnode_base__)
 
-#### Defined in
-
-[ue/ue.d.ts:61173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61173)
-
 ___
 
 ### \_\_tid\_SoundCueGraphNode\_\_
 
 • **\_\_tid\_SoundCueGraphNode\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:61183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61183)
 
 ___
 
@@ -319,10 +247,6 @@ ___
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[bCanRenameNode](ue_ue.SoundCueGraphNode_Base.md#bcanrenamenode)
 
-#### Defined in
-
-[ue/ue.d.ts:1077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1077)
-
 ___
 
 ### bCanResizeNode
@@ -332,10 +256,6 @@ ___
 #### Inherited from
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[bCanResizeNode](ue_ue.SoundCueGraphNode_Base.md#bcanresizenode)
-
-#### Defined in
-
-[ue/ue.d.ts:1072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1072)
 
 ___
 
@@ -347,10 +267,6 @@ ___
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[bCommentBubbleMakeVisible](ue_ue.SoundCueGraphNode_Base.md#bcommentbubblemakevisible)
 
-#### Defined in
-
-[ue/ue.d.ts:1076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1076)
-
 ___
 
 ### bCommentBubblePinned
@@ -360,10 +276,6 @@ ___
 #### Inherited from
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[bCommentBubblePinned](ue_ue.SoundCueGraphNode_Base.md#bcommentbubblepinned)
-
-#### Defined in
-
-[ue/ue.d.ts:1074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1074)
 
 ___
 
@@ -375,10 +287,6 @@ ___
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[bCommentBubbleVisible](ue_ue.SoundCueGraphNode_Base.md#bcommentbubblevisible)
 
-#### Defined in
-
-[ue/ue.d.ts:1075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1075)
-
 ___
 
 ### bDisplayAsDisabled
@@ -388,10 +296,6 @@ ___
 #### Inherited from
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[bDisplayAsDisabled](ue_ue.SoundCueGraphNode_Base.md#bdisplayasdisabled)
-
-#### Defined in
-
-[ue/ue.d.ts:1069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1069)
 
 ___
 
@@ -403,10 +307,6 @@ ___
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[bHasCompilerMessage](ue_ue.SoundCueGraphNode_Base.md#bhascompilermessage)
 
-#### Defined in
-
-[ue/ue.d.ts:1073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1073)
-
 ___
 
 ### bIsNodeEnabled
@@ -417,10 +317,6 @@ ___
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[bIsNodeEnabled](ue_ue.SoundCueGraphNode_Base.md#bisnodeenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:1071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1071)
-
 ___
 
 ### bUserSetEnabledState
@@ -430,10 +326,6 @@ ___
 #### Inherited from
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[bUserSetEnabledState](ue_ue.SoundCueGraphNode_Base.md#busersetenabledstate)
-
-#### Defined in
-
-[ue/ue.d.ts:1070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1070)
 
 ## Methods
 
@@ -459,10 +351,6 @@ ___
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[CreateDefaultSubobject](ue_ue.SoundCueGraphNode_Base.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -483,10 +371,6 @@ ___
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[ExecuteUbergraph](ue_ue.SoundCueGraphNode_Base.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -500,10 +384,6 @@ ___
 #### Inherited from
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[GetClass](ue_ue.SoundCueGraphNode_Base.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -519,10 +399,6 @@ ___
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[GetName](ue_ue.SoundCueGraphNode_Base.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -537,10 +413,6 @@ ___
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[GetOuter](ue_ue.SoundCueGraphNode_Base.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -554,10 +426,6 @@ ___
 #### Inherited from
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[GetWorld](ue_ue.SoundCueGraphNode_Base.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -580,10 +448,6 @@ ___
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[Find](ue_ue.SoundCueGraphNode_Base.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:61180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61180)
-
 ___
 
 ### Load
@@ -604,10 +468,6 @@ ___
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[Load](ue_ue.SoundCueGraphNode_Base.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:61181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61181)
-
 ___
 
 ### StaticClass
@@ -621,7 +481,3 @@ ___
 #### Overrides
 
 [SoundCueGraphNode_Base](ue_ue.SoundCueGraphNode_Base.md).[StaticClass](ue_ue.SoundCueGraphNode_Base.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:61179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61179)

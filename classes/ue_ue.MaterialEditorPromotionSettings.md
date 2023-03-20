@@ -28,10 +28,6 @@
 
 • **new MaterialEditorPromotionSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:23101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23101)
-
 • **new MaterialEditorPromotionSettings**(`DefaultMaterialAsset`, `DefaultDiffuseTexture`, `DefaultNormalTexture`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `DefaultDiffuseTexture` | [`FilePath`](ue_ue.FilePath.md) |
 | `DefaultNormalTexture` | [`FilePath`](ue_ue.FilePath.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:23102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23102)
-
 ## Properties
 
 ### DefaultDiffuseTexture
 
 • **DefaultDiffuseTexture**: [`FilePath`](ue_ue.FilePath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:23104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23104)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **DefaultMaterialAsset**: [`FilePath`](ue_ue.FilePath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23103)
-
 ___
 
 ### DefaultNormalTexture
 
 • **DefaultNormalTexture**: [`FilePath`](ue_ue.FilePath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23105](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23105)
-
 ___
 
 ### \_\_tid\_MaterialEditorPromotionSettings\_\_
 
 • `Private` **\_\_tid\_MaterialEditorPromotionSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:23111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23111)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23109](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23109)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:23110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23110)

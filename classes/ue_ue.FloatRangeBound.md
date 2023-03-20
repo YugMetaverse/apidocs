@@ -27,10 +27,6 @@
 
 • **new FloatRangeBound**()
 
-#### Defined in
-
-[ue/ue.d.ts:11658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11658)
-
 • **new FloatRangeBound**(`Type`, `Value`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Type` | [`ERangeBoundTypes`](../enums/ue_ue.ERangeBoundTypes.md) |
 | `Value` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:11659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11659)
-
 ## Properties
 
 ### Type
 
 • **Type**: [`ERangeBoundTypes`](../enums/ue_ue.ERangeBoundTypes.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11660)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Value**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11661)
-
 ___
 
 ### \_\_tid\_FloatRangeBound\_\_
 
 • `Private` **\_\_tid\_FloatRangeBound\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11667)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11665)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11666)

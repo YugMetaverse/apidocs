@@ -20,19 +20,11 @@
 
 • **CollisionOverlap** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34773)
-
 ___
 
 ### ESimulationOverlap\_MAX
 
 • **ESimulationOverlap\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34773)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34773)
-
 ___
 
 ### ShadeOverlap
 
 • **ShadeOverlap** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34773)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34773)

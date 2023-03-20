@@ -27,10 +27,6 @@
 
 • **new TypefaceEntry**()
 
-#### Defined in
-
-[ue/ue.d.ts:1878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1878)
-
 • **new TypefaceEntry**(`Name`, `Font`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Name` | `string` |
 | `Font` | [`FontData`](ue_ue.FontData.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:1879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1879)
-
 ## Properties
 
 ### Font
 
 • **Font**: [`FontData`](ue_ue.FontData.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1881)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:1880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1880)
-
 ___
 
 ### \_\_tid\_TypefaceEntry\_\_
 
 • `Private` **\_\_tid\_TypefaceEntry\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1887)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1885)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1886)

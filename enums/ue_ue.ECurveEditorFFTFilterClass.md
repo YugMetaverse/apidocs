@@ -19,19 +19,11 @@
 
 • **Butterworth** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29095](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29095)
-
 ___
 
 ### Chebyshev
 
 • **Chebyshev** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29095](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29095)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **ECurveEditorFFTFilterClass\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29095](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29095)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29095](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29095)

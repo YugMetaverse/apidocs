@@ -38,10 +38,6 @@
 
 [GameplayTagTableRow](ue_ue.GameplayTagTableRow.md).[constructor](ue_ue.GameplayTagTableRow.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:37113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37113)
-
 • **new RestrictedGameplayTagTableRow**(`bAllowNonRestrictedChildren`)
 
 #### Parameters
@@ -54,10 +50,6 @@
 
 [GameplayTagTableRow](ue_ue.GameplayTagTableRow.md).[constructor](ue_ue.GameplayTagTableRow.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:37114](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37114)
-
 ## Properties
 
 ### DevComment
@@ -67,10 +59,6 @@
 #### Inherited from
 
 [GameplayTagTableRow](ue_ue.GameplayTagTableRow.md).[DevComment](ue_ue.GameplayTagTableRow.md#devcomment)
-
-#### Defined in
-
-[ue/ue.d.ts:37092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37092)
 
 ___
 
@@ -82,29 +70,17 @@ ___
 
 [GameplayTagTableRow](ue_ue.GameplayTagTableRow.md).[Tag](ue_ue.GameplayTagTableRow.md#tag)
 
-#### Defined in
-
-[ue/ue.d.ts:37091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37091)
-
 ___
 
 ### \_\_tid\_RestrictedGameplayTagTableRow\_\_
 
 • `Private` **\_\_tid\_RestrictedGameplayTagTableRow\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:37121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37121)
-
 ___
 
 ### bAllowNonRestrictedChildren
 
 • **bAllowNonRestrictedChildren**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:37115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37115)
 
 ## Methods
 
@@ -124,10 +100,6 @@ use StaticStruct instead.
 
 [GameplayTagTableRow](ue_ue.GameplayTagTableRow.md).[StaticClass](ue_ue.GameplayTagTableRow.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:37119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37119)
-
 ___
 
 ### StaticStruct
@@ -141,7 +113,3 @@ ___
 #### Overrides
 
 [GameplayTagTableRow](ue_ue.GameplayTagTableRow.md).[StaticStruct](ue_ue.GameplayTagTableRow.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:37120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37120)

@@ -30,10 +30,6 @@
 
 • **new MovieSceneTangentData**()
 
-#### Defined in
-
-[ue/ue.d.ts:35663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35663)
-
 • **new MovieSceneTangentData**(`ArriveTangent`, `LeaveTangent`, `TangentWeightMode`, `ArriveTangentWeight`, `LeaveTangentWeight`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `ArriveTangentWeight` | `number` |
 | `LeaveTangentWeight` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:35664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35664)
-
 ## Properties
 
 ### ArriveTangent
 
 • **ArriveTangent**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35665)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **ArriveTangentWeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35668)
-
 ___
 
 ### LeaveTangent
 
 • **LeaveTangent**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35666)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **LeaveTangentWeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35669)
-
 ___
 
 ### TangentWeightMode
 
 • **TangentWeightMode**: [`ERichCurveTangentWeightMode`](../enums/ue_ue.ERichCurveTangentWeightMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35667)
-
 ___
 
 ### \_\_tid\_MovieSceneTangentData\_\_
 
 • `Private` **\_\_tid\_MovieSceneTangentData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35675)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35673)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35674)

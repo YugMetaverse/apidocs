@@ -25,19 +25,11 @@
 
 • **new MovieSceneSegment**()
 
-#### Defined in
-
-[ue/ue.d.ts:11056](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11056)
-
 ## Properties
 
 ### \_\_tid\_MovieSceneSegment\_\_
 
 • `Private` **\_\_tid\_MovieSceneSegment\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11062)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11060)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11061)

@@ -21,19 +21,11 @@
 
 • **Capturing** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22535)
-
 ___
 
 ### EMovieSceneCaptureProtocolState\_MAX
 
 • **EMovieSceneCaptureProtocolState\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22535)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Finalizing** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22535)
-
 ___
 
 ### Idle
 
 • **Idle** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22535)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Initialized** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22535)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22535)

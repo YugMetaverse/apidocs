@@ -60,10 +60,6 @@
 
 [AIDataProvider_QueryParams](ue_ue.AIDataProvider_QueryParams.md).[constructor](ue_ue.AIDataProvider_QueryParams.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:15079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15079)
-
 ## Properties
 
 ### BoolValue
@@ -73,10 +69,6 @@
 #### Inherited from
 
 [AIDataProvider_QueryParams](ue_ue.AIDataProvider_QueryParams.md).[BoolValue](ue_ue.AIDataProvider_QueryParams.md#boolvalue)
-
-#### Defined in
-
-[ue/ue.d.ts:15070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15070)
 
 ___
 
@@ -88,10 +80,6 @@ ___
 
 [AIDataProvider_QueryParams](ue_ue.AIDataProvider_QueryParams.md).[FloatValue](ue_ue.AIDataProvider_QueryParams.md#floatvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:15068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15068)
-
 ___
 
 ### IntValue
@@ -102,29 +90,17 @@ ___
 
 [AIDataProvider_QueryParams](ue_ue.AIDataProvider_QueryParams.md).[IntValue](ue_ue.AIDataProvider_QueryParams.md#intvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:15069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15069)
-
 ___
 
 ### Max
 
 • **Max**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15081)
-
 ___
 
 ### Min
 
 • **Min**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15080)
 
 ___
 
@@ -136,10 +112,6 @@ ___
 
 [AIDataProvider_QueryParams](ue_ue.AIDataProvider_QueryParams.md).[ParamName](ue_ue.AIDataProvider_QueryParams.md#paramname)
 
-#### Defined in
-
-[ue/ue.d.ts:15067](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15067)
-
 ___
 
 ### \_\_tid\_AIDataProvider\_QueryParams\_\_
@@ -150,19 +122,11 @@ ___
 
 [AIDataProvider_QueryParams](ue_ue.AIDataProvider_QueryParams.md).[__tid_AIDataProvider_QueryParams__](ue_ue.AIDataProvider_QueryParams.md#__tid_aidataprovider_queryparams__)
 
-#### Defined in
-
-[ue/ue.d.ts:15075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15075)
-
 ___
 
 ### \_\_tid\_AIDataProvider\_Random\_\_
 
 • **\_\_tid\_AIDataProvider\_Random\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15087)
 
 ___
 
@@ -174,10 +138,6 @@ ___
 
 [AIDataProvider_QueryParams](ue_ue.AIDataProvider_QueryParams.md).[__tid_AIDataProvider__](ue_ue.AIDataProvider_QueryParams.md#__tid_aidataprovider__)
 
-#### Defined in
-
-[ue/ue.d.ts:15062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15062)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -188,19 +148,11 @@ ___
 
 [AIDataProvider_QueryParams](ue_ue.AIDataProvider_QueryParams.md).[__tid_Object__](ue_ue.AIDataProvider_QueryParams.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bInteger
 
 • **bInteger**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15082](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15082)
 
 ## Methods
 
@@ -226,10 +178,6 @@ ___
 
 [AIDataProvider_QueryParams](ue_ue.AIDataProvider_QueryParams.md).[CreateDefaultSubobject](ue_ue.AIDataProvider_QueryParams.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -250,10 +198,6 @@ ___
 
 [AIDataProvider_QueryParams](ue_ue.AIDataProvider_QueryParams.md).[ExecuteUbergraph](ue_ue.AIDataProvider_QueryParams.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -267,10 +211,6 @@ ___
 #### Inherited from
 
 [AIDataProvider_QueryParams](ue_ue.AIDataProvider_QueryParams.md).[GetClass](ue_ue.AIDataProvider_QueryParams.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -286,10 +226,6 @@ ___
 
 [AIDataProvider_QueryParams](ue_ue.AIDataProvider_QueryParams.md).[GetName](ue_ue.AIDataProvider_QueryParams.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -304,10 +240,6 @@ ___
 
 [AIDataProvider_QueryParams](ue_ue.AIDataProvider_QueryParams.md).[GetOuter](ue_ue.AIDataProvider_QueryParams.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -321,10 +253,6 @@ ___
 #### Inherited from
 
 [AIDataProvider_QueryParams](ue_ue.AIDataProvider_QueryParams.md).[GetWorld](ue_ue.AIDataProvider_QueryParams.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -347,10 +275,6 @@ ___
 
 [AIDataProvider_QueryParams](ue_ue.AIDataProvider_QueryParams.md).[Find](ue_ue.AIDataProvider_QueryParams.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:15084](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15084)
-
 ___
 
 ### Load
@@ -371,10 +295,6 @@ ___
 
 [AIDataProvider_QueryParams](ue_ue.AIDataProvider_QueryParams.md).[Load](ue_ue.AIDataProvider_QueryParams.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:15085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15085)
-
 ___
 
 ### StaticClass
@@ -388,7 +308,3 @@ ___
 #### Overrides
 
 [AIDataProvider_QueryParams](ue_ue.AIDataProvider_QueryParams.md).[StaticClass](ue_ue.AIDataProvider_QueryParams.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15083](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15083)

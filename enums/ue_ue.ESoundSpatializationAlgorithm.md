@@ -19,19 +19,11 @@
 
 • **SPATIALIZATION\_Default** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9358)
-
 ___
 
 ### SPATIALIZATION\_HRTF
 
 • **SPATIALIZATION\_HRTF** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9358)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **SPATIALIZATION\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9358)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9358)

@@ -59,19 +59,11 @@
 
 [DistributionVector](ue_ue.DistributionVector.md).[constructor](ue_ue.DistributionVector.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:31063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31063)
-
 ## Properties
 
 ### ConstantCurve
 
 • **ConstantCurve**: [`InterpCurveVector`](ue_ue.InterpCurveVector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31064)
 
 ___
 
@@ -79,19 +71,11 @@ ___
 
 • **LockedAxes**: [`EDistributionVectorLockFlags`](../enums/ue_ue.EDistributionVectorLockFlags.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31066)
-
 ___
 
 ### \_\_tid\_DistributionVectorConstantCurve\_\_
 
 • **\_\_tid\_DistributionVectorConstantCurve\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31071)
 
 ___
 
@@ -103,10 +87,6 @@ ___
 
 [DistributionVector](ue_ue.DistributionVector.md).[__tid_DistributionVector__](ue_ue.DistributionVector.md#__tid_distributionvector__)
 
-#### Defined in
-
-[ue/ue.d.ts:7002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7002)
-
 ___
 
 ### \_\_tid\_Distribution\_\_
@@ -116,10 +96,6 @@ ___
 #### Inherited from
 
 [DistributionVector](ue_ue.DistributionVector.md).[__tid_Distribution__](ue_ue.DistributionVector.md#__tid_distribution__)
-
-#### Defined in
-
-[ue/ue.d.ts:6796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6796)
 
 ___
 
@@ -131,10 +107,6 @@ ___
 
 [DistributionVector](ue_ue.DistributionVector.md).[__tid_Object__](ue_ue.DistributionVector.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bBakedDataSuccesfully
@@ -144,10 +116,6 @@ ___
 #### Inherited from
 
 [DistributionVector](ue_ue.DistributionVector.md).[bBakedDataSuccesfully](ue_ue.DistributionVector.md#bbakeddatasuccesfully)
-
-#### Defined in
-
-[ue/ue.d.ts:6997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6997)
 
 ___
 
@@ -159,10 +127,6 @@ ___
 
 [DistributionVector](ue_ue.DistributionVector.md).[bCanBeBaked](ue_ue.DistributionVector.md#bcanbebaked)
 
-#### Defined in
-
-[ue/ue.d.ts:6995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6995)
-
 ___
 
 ### bIsDirty
@@ -173,19 +137,11 @@ ___
 
 [DistributionVector](ue_ue.DistributionVector.md).[bIsDirty](ue_ue.DistributionVector.md#bisdirty)
 
-#### Defined in
-
-[ue/ue.d.ts:6996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6996)
-
 ___
 
 ### bLockAxes
 
 • **bLockAxes**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31065)
 
 ## Methods
 
@@ -211,10 +167,6 @@ ___
 
 [DistributionVector](ue_ue.DistributionVector.md).[CreateDefaultSubobject](ue_ue.DistributionVector.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -235,10 +187,6 @@ ___
 
 [DistributionVector](ue_ue.DistributionVector.md).[ExecuteUbergraph](ue_ue.DistributionVector.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -252,10 +200,6 @@ ___
 #### Inherited from
 
 [DistributionVector](ue_ue.DistributionVector.md).[GetClass](ue_ue.DistributionVector.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -271,10 +215,6 @@ ___
 
 [DistributionVector](ue_ue.DistributionVector.md).[GetName](ue_ue.DistributionVector.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -289,10 +229,6 @@ ___
 
 [DistributionVector](ue_ue.DistributionVector.md).[GetOuter](ue_ue.DistributionVector.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -306,10 +242,6 @@ ___
 #### Inherited from
 
 [DistributionVector](ue_ue.DistributionVector.md).[GetWorld](ue_ue.DistributionVector.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -332,10 +264,6 @@ ___
 
 [DistributionVector](ue_ue.DistributionVector.md).[Find](ue_ue.DistributionVector.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:31068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31068)
-
 ___
 
 ### Load
@@ -356,10 +284,6 @@ ___
 
 [DistributionVector](ue_ue.DistributionVector.md).[Load](ue_ue.DistributionVector.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:31069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31069)
-
 ___
 
 ### StaticClass
@@ -373,7 +297,3 @@ ___
 #### Overrides
 
 [DistributionVector](ue_ue.DistributionVector.md).[StaticClass](ue_ue.DistributionVector.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:31067](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31067)

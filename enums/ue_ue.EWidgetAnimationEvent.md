@@ -19,19 +19,11 @@
 
 • **EWidgetAnimationEvent\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11946)
-
 ___
 
 ### Finished
 
 • **Finished** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11946)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Started** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11946)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11946)

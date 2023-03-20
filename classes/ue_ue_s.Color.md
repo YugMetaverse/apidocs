@@ -42,10 +42,6 @@
 
 • **new Color**()
 
-#### Defined in
-
-[ue/ue_s.d.ts:68](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L68)
-
 • **new Color**(`Param1`)
 
 #### Parameters
@@ -53,10 +49,6 @@
 | Name | Type |
 | :------ | :------ |
 | `Param1` | `number` |
-
-#### Defined in
-
-[ue/ue_s.d.ts:69](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L69)
 
 • **new Color**(`InR`, `InG`, `InB`, `InA`)
 
@@ -69,10 +61,6 @@
 | `InB` | `number` |
 | `InA` | `number` |
 
-#### Defined in
-
-[ue/ue_s.d.ts:70](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L70)
-
 • **new Color**(`InColor`)
 
 #### Parameters
@@ -81,19 +69,11 @@
 | :------ | :------ |
 | `InColor` | `number` |
 
-#### Defined in
-
-[ue/ue_s.d.ts:71](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L71)
-
 ## Properties
 
 ### \_\_tid\_Color\_\_
 
 • `Private` **\_\_tid\_Color\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:97](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L97)
 
 ## Methods
 
@@ -105,19 +85,11 @@
 
 [`$Ref`](../interfaces/puerts._Ref.md)<`number`\>
 
-#### Defined in
-
-[ue/ue_s.d.ts:72](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L72)
-
 ▸ **DWColor**(): `number`
 
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue_s.d.ts:73](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L73)
 
 ___
 
@@ -128,10 +100,6 @@ ___
 #### Returns
 
 [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:76](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L76)
 
 ___
 
@@ -149,10 +117,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:85](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L85)
-
 ___
 
 ### ReinterpretAsLinear
@@ -162,10 +126,6 @@ ___
 #### Returns
 
 [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:82](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L82)
 
 ___
 
@@ -177,10 +137,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[ue/ue_s.d.ts:83](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L83)
-
 ___
 
 ### ToPackedABGR
@@ -190,10 +146,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue_s.d.ts:87](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L87)
 
 ___
 
@@ -205,10 +157,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:86](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L86)
-
 ___
 
 ### ToPackedBGRA
@@ -218,10 +166,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue_s.d.ts:89](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L89)
 
 ___
 
@@ -233,10 +177,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:88](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L88)
-
 ___
 
 ### ToString
@@ -246,10 +186,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue_s.d.ts:84](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L84)
 
 ___
 
@@ -267,10 +203,6 @@ ___
 
 [`Color`](ue_ue_s.Color.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:81](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L81)
-
 ___
 
 ### op\_Equality
@@ -286,10 +218,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:74](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L74)
 
 ___
 
@@ -307,10 +235,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:75](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L75)
-
 ___
 
 ### FromHex
@@ -326,10 +250,6 @@ ___
 #### Returns
 
 [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:77](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L77)
 
 ___
 
@@ -347,10 +267,6 @@ ___
 
 [`Color`](ue_ue_s.Color.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:80](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L80)
-
 ___
 
 ### MakeRandomColor
@@ -360,10 +276,6 @@ ___
 #### Returns
 
 [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:78](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L78)
 
 ___
 
@@ -381,10 +293,6 @@ ___
 
 [`Color`](ue_ue_s.Color.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:79](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L79)
-
 ___
 
 ### StaticClass
@@ -399,10 +307,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:94](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L94)
-
 ___
 
 ### StaticStruct
@@ -412,7 +316,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:95](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L95)

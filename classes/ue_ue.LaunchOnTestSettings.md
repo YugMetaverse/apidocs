@@ -27,10 +27,6 @@
 
 • **new LaunchOnTestSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:23173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23173)
-
 • **new LaunchOnTestSettings**(`LaunchOnTestmap`, `DeviceID`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `LaunchOnTestmap` | [`FilePath`](ue_ue.FilePath.md) |
 | `DeviceID` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:23174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23174)
-
 ## Properties
 
 ### DeviceID
 
 • **DeviceID**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:23176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23176)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **LaunchOnTestmap**: [`FilePath`](ue_ue.FilePath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23175)
-
 ___
 
 ### \_\_tid\_LaunchOnTestSettings\_\_
 
 • `Private` **\_\_tid\_LaunchOnTestSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:23182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23182)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23180)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:23181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23181)

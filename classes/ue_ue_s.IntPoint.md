@@ -45,10 +45,6 @@
 
 • **new IntPoint**()
 
-#### Defined in
-
-[ue/ue_s.d.ts:625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L625)
-
 • **new IntPoint**(`InX`, `InY`)
 
 #### Parameters
@@ -58,10 +54,6 @@
 | `InX` | `number` |
 | `InY` | `number` |
 
-#### Defined in
-
-[ue/ue_s.d.ts:626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L626)
-
 • **new IntPoint**(`Param1`)
 
 #### Parameters
@@ -70,19 +62,11 @@
 | :------ | :------ |
 | `Param1` | `number` |
 
-#### Defined in
-
-[ue/ue_s.d.ts:627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L627)
-
 ## Properties
 
 ### X
 
 • **X**: `number`
-
-#### Defined in
-
-[ue/ue_s.d.ts:628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L628)
 
 ___
 
@@ -90,19 +74,11 @@ ___
 
 • **Y**: `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L629)
-
 ___
 
 ### \_\_tid\_IntPoint\_\_
 
 • `Private` **\_\_tid\_IntPoint\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L657)
 
 ## Methods
 
@@ -120,10 +96,6 @@ ___
 
 [`IntPoint`](ue_ue_s.IntPoint.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L640)
-
 ___
 
 ### ComponentMin
@@ -140,10 +112,6 @@ ___
 
 [`IntPoint`](ue_ue_s.IntPoint.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L639)
-
 ___
 
 ### GetMax
@@ -153,10 +121,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue_s.d.ts:641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L641)
 
 ___
 
@@ -168,10 +132,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L642)
-
 ___
 
 ### Size
@@ -181,10 +141,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue_s.d.ts:643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L643)
 
 ___
 
@@ -196,10 +152,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L644)
-
 ___
 
 ### ToString
@@ -209,10 +161,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue_s.d.ts:645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L645)
 
 ___
 
@@ -230,10 +178,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L638)
-
 ___
 
 ### op\_Addition
@@ -249,10 +193,6 @@ ___
 #### Returns
 
 [`IntPoint`](ue_ue_s.IntPoint.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L635)
 
 ___
 
@@ -270,10 +210,6 @@ ___
 
 [`IntPoint`](ue_ue_s.IntPoint.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L633)
-
 ▸ **op_Division**(`Other`): [`IntPoint`](ue_ue_s.IntPoint.md)
 
 #### Parameters
@@ -285,10 +221,6 @@ ___
 #### Returns
 
 [`IntPoint`](ue_ue_s.IntPoint.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L634)
 
 ___
 
@@ -306,10 +238,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L630)
-
 ___
 
 ### op\_Inequality
@@ -325,10 +253,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:631](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L631)
 
 ___
 
@@ -346,10 +270,6 @@ ___
 
 [`IntPoint`](ue_ue_s.IntPoint.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L632)
-
 ___
 
 ### op\_Subtraction
@@ -366,10 +286,6 @@ ___
 
 [`IntPoint`](ue_ue_s.IntPoint.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L636)
-
 ___
 
 ### set\_Item
@@ -385,10 +301,6 @@ ___
 #### Returns
 
 [`$Ref`](../interfaces/puerts._Ref.md)<`number`\>
-
-#### Defined in
-
-[ue/ue_s.d.ts:637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L637)
 
 ___
 
@@ -407,10 +319,6 @@ ___
 
 [`IntPoint`](ue_ue_s.IntPoint.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L648)
-
 ___
 
 ### DivideAndRoundUp
@@ -428,10 +336,6 @@ ___
 
 [`IntPoint`](ue_ue_s.IntPoint.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L646)
-
 ▸ `Static` **DivideAndRoundUp**(`lhs`, `Divisor`): [`IntPoint`](ue_ue_s.IntPoint.md)
 
 #### Parameters
@@ -445,10 +349,6 @@ ___
 
 [`IntPoint`](ue_ue_s.IntPoint.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L647)
-
 ___
 
 ### Num
@@ -458,10 +358,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue_s.d.ts:649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L649)
 
 ___
 
@@ -477,10 +373,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L654)
-
 ___
 
 ### StaticStruct
@@ -490,7 +382,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L655)

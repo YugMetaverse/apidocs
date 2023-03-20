@@ -26,10 +26,6 @@
 
 • **new DatasmithAssetImportOptions**()
 
-#### Defined in
-
-[ue/ue.d.ts:29394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29394)
-
 • **new DatasmithAssetImportOptions**(`PackagePath`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `PackagePath` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:29395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29395)
-
 ## Properties
 
 ### PackagePath
 
 • **PackagePath**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:29396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29396)
-
 ___
 
 ### \_\_tid\_DatasmithAssetImportOptions\_\_
 
 • `Private` **\_\_tid\_DatasmithAssetImportOptions\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29402)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29400)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29401)

@@ -52,10 +52,6 @@
 
 [ReporterBase](ue_ue.ReporterBase.md).[constructor](ue_ue.ReporterBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:6079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6079)
-
 ## Properties
 
 ### \_\_tid\_Object\_\_
@@ -65,10 +61,6 @@
 #### Inherited from
 
 [ReporterBase](ue_ue.ReporterBase.md).[__tid_Object__](ue_ue.ReporterBase.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -80,19 +72,11 @@ ___
 
 [ReporterBase](ue_ue.ReporterBase.md).[__tid_ReporterBase__](ue_ue.ReporterBase.md#__tid_reporterbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:6075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6075)
-
 ___
 
 ### \_\_tid\_ReporterGraph\_\_
 
 • **\_\_tid\_ReporterGraph\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6084](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6084)
 
 ## Methods
 
@@ -118,10 +102,6 @@ ___
 
 [ReporterBase](ue_ue.ReporterBase.md).[CreateDefaultSubobject](ue_ue.ReporterBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -142,10 +122,6 @@ ___
 
 [ReporterBase](ue_ue.ReporterBase.md).[ExecuteUbergraph](ue_ue.ReporterBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -159,10 +135,6 @@ ___
 #### Inherited from
 
 [ReporterBase](ue_ue.ReporterBase.md).[GetClass](ue_ue.ReporterBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -178,10 +150,6 @@ ___
 
 [ReporterBase](ue_ue.ReporterBase.md).[GetName](ue_ue.ReporterBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -196,10 +164,6 @@ ___
 
 [ReporterBase](ue_ue.ReporterBase.md).[GetOuter](ue_ue.ReporterBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -213,10 +177,6 @@ ___
 #### Inherited from
 
 [ReporterBase](ue_ue.ReporterBase.md).[GetWorld](ue_ue.ReporterBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -239,10 +199,6 @@ ___
 
 [ReporterBase](ue_ue.ReporterBase.md).[Find](ue_ue.ReporterBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:6081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6081)
-
 ___
 
 ### Load
@@ -263,10 +219,6 @@ ___
 
 [ReporterBase](ue_ue.ReporterBase.md).[Load](ue_ue.ReporterBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:6082](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6082)
-
 ___
 
 ### StaticClass
@@ -280,7 +232,3 @@ ___
 #### Overrides
 
 [ReporterBase](ue_ue.ReporterBase.md).[StaticClass](ue_ue.ReporterBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:6080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6080)

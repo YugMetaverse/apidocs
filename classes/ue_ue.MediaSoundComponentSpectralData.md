@@ -27,10 +27,6 @@
 
 • **new MediaSoundComponentSpectralData**()
 
-#### Defined in
-
-[ue/ue.d.ts:50372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50372)
-
 • **new MediaSoundComponentSpectralData**(`FrequencyHz`, `Magnitude`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `FrequencyHz` | `number` |
 | `Magnitude` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:50373](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50373)
-
 ## Properties
 
 ### FrequencyHz
 
 • **FrequencyHz**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:50374](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50374)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Magnitude**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:50375](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50375)
-
 ___
 
 ### \_\_tid\_MediaSoundComponentSpectralData\_\_
 
 • `Private` **\_\_tid\_MediaSoundComponentSpectralData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50381)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:50379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50379)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:50380](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50380)

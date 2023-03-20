@@ -21,19 +21,11 @@
 
 • **BoolProperty** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4927)
-
 ___
 
 ### ECopyType\_MAX
 
 • **ECopyType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4927)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **MemCopy** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4927)
-
 ___
 
 ### ObjectProperty
 
 • **ObjectProperty** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4927)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **StructProperty** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4927)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4927)

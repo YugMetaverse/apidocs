@@ -45,10 +45,6 @@
 
 • **new GeomComponentCacheParameters**()
 
-#### Defined in
-
-[ue/ue.d.ts:26718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26718)
-
 • **new GeomComponentCacheParameters**(`CacheMode`, `TargetCache`, `ReverseCacheBeginTime`, `SaveCollisionData`, `DoGenerateCollisionData`, `CollisionDataSizeMax`, `DoCollisionDataSpatialHash`, `CollisionDataSpatialHashRadius`, `MaxCollisionPerCell`, `SaveBreakingData`, `DoGenerateBreakingData`, `BreakingDataSizeMax`, `DoBreakingDataSpatialHash`, `BreakingDataSpatialHashRadius`, `MaxBreakingPerCell`, `SaveTrailingData`, `DoGenerateTrailingData`, `TrailingDataSizeMax`, `TrailingMinSpeedThreshold`, `TrailingMinVolumeThreshold`)
 
 #### Parameters
@@ -76,19 +72,11 @@
 | `TrailingMinSpeedThreshold` | `number` |
 | `TrailingMinVolumeThreshold` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:26719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26719)
-
 ## Properties
 
 ### BreakingDataSizeMax
 
 • **BreakingDataSizeMax**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26731)
 
 ___
 
@@ -96,19 +84,11 @@ ___
 
 • **BreakingDataSpatialHashRadius**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26733)
-
 ___
 
 ### CacheMode
 
 • **CacheMode**: [`EGeometryCollectionCacheType`](../enums/ue_ue.EGeometryCollectionCacheType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26720)
 
 ___
 
@@ -116,19 +96,11 @@ ___
 
 • **CollisionDataSizeMax**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26725)
-
 ___
 
 ### CollisionDataSpatialHashRadius
 
 • **CollisionDataSpatialHashRadius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26727)
 
 ___
 
@@ -136,19 +108,11 @@ ___
 
 • **DoBreakingDataSpatialHash**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:26732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26732)
-
 ___
 
 ### DoCollisionDataSpatialHash
 
 • **DoCollisionDataSpatialHash**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26726)
 
 ___
 
@@ -156,19 +120,11 @@ ___
 
 • **DoGenerateBreakingData**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:26730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26730)
-
 ___
 
 ### DoGenerateCollisionData
 
 • **DoGenerateCollisionData**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26724)
 
 ___
 
@@ -176,19 +132,11 @@ ___
 
 • **DoGenerateTrailingData**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:26736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26736)
-
 ___
 
 ### MaxBreakingPerCell
 
 • **MaxBreakingPerCell**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26734)
 
 ___
 
@@ -196,19 +144,11 @@ ___
 
 • **MaxCollisionPerCell**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26728)
-
 ___
 
 ### ReverseCacheBeginTime
 
 • **ReverseCacheBeginTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26722)
 
 ___
 
@@ -216,19 +156,11 @@ ___
 
 • **SaveBreakingData**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:26729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26729)
-
 ___
 
 ### SaveCollisionData
 
 • **SaveCollisionData**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26723)
 
 ___
 
@@ -236,19 +168,11 @@ ___
 
 • **SaveTrailingData**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:26735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26735)
-
 ___
 
 ### TargetCache
 
 • **TargetCache**: [`GeometryCollectionCache`](ue_ue.GeometryCollectionCache.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26721)
 
 ___
 
@@ -256,19 +180,11 @@ ___
 
 • **TrailingDataSizeMax**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26737)
-
 ___
 
 ### TrailingMinSpeedThreshold
 
 • **TrailingMinSpeedThreshold**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26738)
 
 ___
 
@@ -276,19 +192,11 @@ ___
 
 • **TrailingMinVolumeThreshold**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26739)
-
 ___
 
 ### \_\_tid\_GeomComponentCacheParameters\_\_
 
 • `Private` **\_\_tid\_GeomComponentCacheParameters\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26745)
 
 ## Methods
 
@@ -304,10 +212,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26743)
-
 ___
 
 ### StaticStruct
@@ -317,7 +221,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26744)

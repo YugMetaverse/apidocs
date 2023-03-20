@@ -30,10 +30,6 @@
 
 • **new TimelineFloatTrack**()
 
-#### Defined in
-
-[ue/ue.d.ts:63569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63569)
-
 • **new TimelineFloatTrack**(`FloatCurve`, `InterpFunc`, `TrackName`, `FloatPropertyName`, `FloatProperty`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `FloatPropertyName` | `string` |
 | `FloatProperty` | [`FloatProperty`](ue_ue.FloatProperty.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:63570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63570)
-
 ## Properties
 
 ### FloatCurve
 
 • **FloatCurve**: [`CurveFloat`](ue_ue.CurveFloat.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63571)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **FloatProperty**: [`FloatProperty`](ue_ue.FloatProperty.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63575)
-
 ___
 
 ### FloatPropertyName
 
 • **FloatPropertyName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:63574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63574)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **InterpFunc**: [`$Delegate`](../interfaces/ue_puerts._Delegate.md)<(`Output`: `number`) => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:63572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63572)
-
 ___
 
 ### TrackName
 
 • **TrackName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:63573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63573)
-
 ___
 
 ### \_\_tid\_TimelineFloatTrack\_\_
 
 • `Private` **\_\_tid\_TimelineFloatTrack\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:63581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63581)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63579](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63579)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63580)

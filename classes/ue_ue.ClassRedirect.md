@@ -33,10 +33,6 @@
 
 • **new ClassRedirect**()
 
-#### Defined in
-
-[ue/ue.d.ts:32552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32552)
-
 • **new ClassRedirect**(`ObjectName`, `OldClassName`, `NewClassName`, `OldSubobjName`, `NewSubobjName`, `NewClassClass`, `NewClassPackage`, `InstanceOnly`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `NewClassPackage` | `string` |
 | `InstanceOnly` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:32553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32553)
-
 ## Properties
 
 ### InstanceOnly
 
 • **InstanceOnly**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32561)
 
 ___
 
@@ -72,19 +60,11 @@ ___
 
 • **NewClassClass**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:32559](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32559)
-
 ___
 
 ### NewClassName
 
 • **NewClassName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:32556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32556)
 
 ___
 
@@ -92,19 +72,11 @@ ___
 
 • **NewClassPackage**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:32560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32560)
-
 ___
 
 ### NewSubobjName
 
 • **NewSubobjName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:32558](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32558)
 
 ___
 
@@ -112,19 +84,11 @@ ___
 
 • **ObjectName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:32554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32554)
-
 ___
 
 ### OldClassName
 
 • **OldClassName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:32555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32555)
 
 ___
 
@@ -132,19 +96,11 @@ ___
 
 • **OldSubobjName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:32557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32557)
-
 ___
 
 ### \_\_tid\_ClassRedirect\_\_
 
 • `Private` **\_\_tid\_ClassRedirect\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32567)
 
 ## Methods
 
@@ -160,10 +116,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32565)
-
 ___
 
 ### StaticStruct
@@ -173,7 +125,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32566)

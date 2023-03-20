@@ -19,19 +19,11 @@
 
 • **AllowPerCharacterWrapping** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34826)
-
 ___
 
 ### DefaultWrapping
 
 • **DefaultWrapping** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34826)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **ETextWrappingPolicy\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34826)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34826)

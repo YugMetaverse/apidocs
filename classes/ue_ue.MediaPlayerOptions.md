@@ -29,10 +29,6 @@
 
 • **new MediaPlayerOptions**()
 
-#### Defined in
-
-[ue/ue.d.ts:50163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50163)
-
 • **new MediaPlayerOptions**(`Tracks`, `SeekTime`, `PlayOnOpen`, `Loop`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `PlayOnOpen` | [`EMediaPlayerOptionBooleanOverride`](../enums/ue_ue.EMediaPlayerOptionBooleanOverride.md) |
 | `Loop` | [`EMediaPlayerOptionBooleanOverride`](../enums/ue_ue.EMediaPlayerOptionBooleanOverride.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:50164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50164)
-
 ## Properties
 
 ### Loop
 
 • **Loop**: [`EMediaPlayerOptionBooleanOverride`](../enums/ue_ue.EMediaPlayerOptionBooleanOverride.md)
-
-#### Defined in
-
-[ue/ue.d.ts:50168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50168)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **PlayOnOpen**: [`EMediaPlayerOptionBooleanOverride`](../enums/ue_ue.EMediaPlayerOptionBooleanOverride.md)
 
-#### Defined in
-
-[ue/ue.d.ts:50167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50167)
-
 ___
 
 ### SeekTime
 
 • **SeekTime**: [`Timespan`](ue_ue.Timespan.md)
-
-#### Defined in
-
-[ue/ue.d.ts:50166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50166)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **Tracks**: [`MediaPlayerTrackOptions`](ue_ue.MediaPlayerTrackOptions.md)
 
-#### Defined in
-
-[ue/ue.d.ts:50165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50165)
-
 ___
 
 ### \_\_tid\_MediaPlayerOptions\_\_
 
 • `Private` **\_\_tid\_MediaPlayerOptions\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50174)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:50172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50172)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:50173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50173)

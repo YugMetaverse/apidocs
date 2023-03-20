@@ -26,10 +26,6 @@
 
 • **new Key**()
 
-#### Defined in
-
-[ue/ue.d.ts:882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L882)
-
 • **new Key**(`KeyName`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `KeyName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L883)
-
 ## Properties
 
 ### KeyName
 
 • **KeyName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L884)
-
 ___
 
 ### \_\_tid\_Key\_\_
 
 • `Private` **\_\_tid\_Key\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L890)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L888)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L889)

@@ -62,19 +62,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:27654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27654)
-
 ## Properties
 
 ### BoneData
 
 • **BoneData**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ClothVertBoneData`](ue_ue.ClothVertBoneData.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:27660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27660)
 
 ___
 
@@ -82,19 +74,11 @@ ___
 
 • **Indices**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:27658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27658)
-
 ___
 
 ### InverseMasses
 
 • **InverseMasses**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:27659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27659)
 
 ___
 
@@ -102,19 +86,11 @@ ___
 
 • **MaxBoneWeights**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27662)
-
 ___
 
 ### Normals
 
 • **Normals**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Vector`](ue_ue_s.Vector.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:27656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27656)
 
 ___
 
@@ -122,19 +98,11 @@ ___
 
 • **NumFixedVerts**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27661)
-
 ___
 
 ### SelfCollisionIndices
 
 • **SelfCollisionIndices**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:27663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27663)
 
 ___
 
@@ -142,29 +110,17 @@ ___
 
 • **VertexColors**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Color`](ue_ue_s.Color.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:27657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27657)
-
 ___
 
 ### Vertices
 
 • **Vertices**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Vector`](ue_ue_s.Vector.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:27655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27655)
-
 ___
 
 ### \_\_tid\_ClothPhysicalMeshDataBase\_\_
 
 • **\_\_tid\_ClothPhysicalMeshDataBase\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27668)
 
 ___
 
@@ -175,10 +131,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -204,10 +156,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -228,10 +176,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -245,10 +189,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -264,10 +204,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -282,10 +218,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -299,10 +231,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -325,10 +253,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:27665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27665)
-
 ___
 
 ### Load
@@ -349,10 +273,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:27666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27666)
-
 ___
 
 ### StaticClass
@@ -366,7 +286,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:27664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27664)

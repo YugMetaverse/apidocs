@@ -28,10 +28,6 @@
 
 • **new SoundWaveSpectralDataPerSound**()
 
-#### Defined in
-
-[ue/ue.d.ts:16226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16226)
-
 • **new SoundWaveSpectralDataPerSound**(`SpectralData`, `PlaybackTime`, `SoundWave`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `PlaybackTime` | `number` |
 | `SoundWave` | [`SoundWave`](ue_ue.SoundWave.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:16227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16227)
-
 ## Properties
 
 ### PlaybackTime
 
 • **PlaybackTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16229)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **SoundWave**: [`SoundWave`](ue_ue.SoundWave.md)
 
-#### Defined in
-
-[ue/ue.d.ts:16230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16230)
-
 ___
 
 ### SpectralData
 
 • **SpectralData**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SoundWaveSpectralData`](ue_ue.SoundWaveSpectralData.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:16228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16228)
-
 ___
 
 ### \_\_tid\_SoundWaveSpectralDataPerSound\_\_
 
 • `Private` **\_\_tid\_SoundWaveSpectralDataPerSound\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16236)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:16234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16234)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:16235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16235)

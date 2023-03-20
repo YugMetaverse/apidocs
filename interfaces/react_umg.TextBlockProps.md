@@ -76,10 +76,6 @@
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[AccessibleBehavior](react_umg.TextLayoutWidgetProps.md#accessiblebehavior)
 
-#### Defined in
-
-[react-umg/index.d.ts:145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L145)
-
 ___
 
 ### AccessibleSummaryBehavior
@@ -90,10 +86,6 @@ ___
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[AccessibleSummaryBehavior](react_umg.TextLayoutWidgetProps.md#accessiblesummarybehavior)
 
-#### Defined in
-
-[react-umg/index.d.ts:146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L146)
-
 ___
 
 ### AccessibleSummaryText
@@ -103,10 +95,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[AccessibleSummaryText](react_umg.TextLayoutWidgetProps.md#accessiblesummarytext)
-
-#### Defined in
-
-[react-umg/index.d.ts:149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L149)
 
 ___
 
@@ -126,10 +114,6 @@ ___
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[AccessibleSummaryTextDelegate](react_umg.TextLayoutWidgetProps.md#accessiblesummarytextdelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L150)
-
 ___
 
 ### AccessibleText
@@ -139,10 +123,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[AccessibleText](react_umg.TextLayoutWidgetProps.md#accessibletext)
-
-#### Defined in
-
-[react-umg/index.d.ts:147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L147)
 
 ___
 
@@ -162,10 +142,6 @@ ___
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[AccessibleTextDelegate](react_umg.TextLayoutWidgetProps.md#accessibletextdelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L148)
-
 ___
 
 ### AutoWrapText
@@ -175,10 +151,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[AutoWrapText](react_umg.TextLayoutWidgetProps.md#autowraptext)
-
-#### Defined in
-
-[react-umg/index.d.ts:535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L535)
 
 ___
 
@@ -190,10 +162,6 @@ ___
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[CategoryName](react_umg.TextLayoutWidgetProps.md#categoryname)
 
-#### Defined in
-
-[react-umg/index.d.ts:162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L162)
-
 ___
 
 ### Clipping
@@ -204,19 +172,11 @@ ___
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[Clipping](react_umg.TextLayoutWidgetProps.md#clipping)
 
-#### Defined in
-
-[react-umg/index.d.ts:156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L156)
-
 ___
 
 ### ColorAndOpacity
 
 • `Optional` **ColorAndOpacity**: [`RecursivePartial`](../modules/react_umg.md#recursivepartial)<[`SlateColor`](../classes/ue_ue.SlateColor.md)\>
-
-#### Defined in
-
-[react-umg/index.d.ts:796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L796)
 
 ___
 
@@ -232,10 +192,6 @@ ___
 
 [`SlateColor`](../classes/ue_ue.SlateColor.md)
 
-#### Defined in
-
-[react-umg/index.d.ts:797](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L797)
-
 ___
 
 ### Cursor
@@ -245,10 +201,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[Cursor](react_umg.TextLayoutWidgetProps.md#cursor)
-
-#### Defined in
-
-[react-umg/index.d.ts:155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L155)
 
 ___
 
@@ -260,10 +212,6 @@ ___
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[DesignerFlags](react_umg.TextLayoutWidgetProps.md#designerflags)
 
-#### Defined in
-
-[react-umg/index.d.ts:160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L160)
-
 ___
 
 ### DisplayLabel
@@ -273,10 +221,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[DisplayLabel](react_umg.TextLayoutWidgetProps.md#displaylabel)
-
-#### Defined in
-
-[react-umg/index.d.ts:161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L161)
 
 ___
 
@@ -288,19 +232,11 @@ ___
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[FlowDirectionPreference](react_umg.TextLayoutWidgetProps.md#flowdirectionpreference)
 
-#### Defined in
-
-[react-umg/index.d.ts:159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L159)
-
 ___
 
 ### Font
 
 • `Optional` **Font**: [`RecursivePartial`](../modules/react_umg.md#recursivepartial)<[`SlateFontInfo`](../classes/ue_ue.SlateFontInfo.md)\>
-
-#### Defined in
-
-[react-umg/index.d.ts:798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L798)
 
 ___
 
@@ -312,10 +248,6 @@ ___
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[Justification](react_umg.TextLayoutWidgetProps.md#justification)
 
-#### Defined in
-
-[react-umg/index.d.ts:533](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L533)
-
 ___
 
 ### LineHeightPercentage
@@ -325,10 +257,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[LineHeightPercentage](react_umg.TextLayoutWidgetProps.md#lineheightpercentage)
-
-#### Defined in
-
-[react-umg/index.d.ts:538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L538)
 
 ___
 
@@ -340,19 +268,11 @@ ___
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[Margin](react_umg.TextLayoutWidgetProps.md#margin)
 
-#### Defined in
-
-[react-umg/index.d.ts:537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L537)
-
 ___
 
 ### MinDesiredWidth
 
 • `Optional` **MinDesiredWidth**: `number`
-
-#### Defined in
-
-[react-umg/index.d.ts:803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L803)
 
 ___
 
@@ -364,10 +284,6 @@ ___
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[RenderOpacity](react_umg.TextLayoutWidgetProps.md#renderopacity)
 
-#### Defined in
-
-[react-umg/index.d.ts:158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L158)
-
 ___
 
 ### RenderTransform
@@ -377,10 +293,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[RenderTransform](react_umg.TextLayoutWidgetProps.md#rendertransform)
-
-#### Defined in
-
-[react-umg/index.d.ts:137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L137)
 
 ___
 
@@ -392,19 +304,11 @@ ___
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[RenderTransformPivot](react_umg.TextLayoutWidgetProps.md#rendertransformpivot)
 
-#### Defined in
-
-[react-umg/index.d.ts:138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L138)
-
 ___
 
 ### ShadowColorAndOpacity
 
 • `Optional` **ShadowColorAndOpacity**: [`RecursivePartial`](../modules/react_umg.md#recursivepartial)<[`LinearColor`](../classes/ue_ue_s.LinearColor.md)\>
-
-#### Defined in
-
-[react-umg/index.d.ts:801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L801)
 
 ___
 
@@ -420,19 +324,11 @@ ___
 
 [`LinearColor`](../classes/ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[react-umg/index.d.ts:802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L802)
-
 ___
 
 ### ShadowOffset
 
 • `Optional` **ShadowOffset**: [`RecursivePartial`](../modules/react_umg.md#recursivepartial)<[`Vector2D`](../classes/ue_ue_s.Vector2D.md)\>
-
-#### Defined in
-
-[react-umg/index.d.ts:800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L800)
 
 ___
 
@@ -444,10 +340,6 @@ ___
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[ShapedTextOptions](react_umg.TextLayoutWidgetProps.md#shapedtextoptions)
 
-#### Defined in
-
-[react-umg/index.d.ts:532](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L532)
-
 ___
 
 ### Slot
@@ -458,29 +350,17 @@ ___
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[Slot](react_umg.TextLayoutWidgetProps.md#slot)
 
-#### Defined in
-
-[react-umg/index.d.ts:129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L129)
-
 ___
 
 ### StrikeBrush
 
 • `Optional` **StrikeBrush**: [`RecursivePartial`](../modules/react_umg.md#recursivepartial)<[`SlateBrush`](../classes/ue_ue.SlateBrush.md)\>
 
-#### Defined in
-
-[react-umg/index.d.ts:799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L799)
-
 ___
 
 ### Text
 
 • `Optional` **Text**: `string`
-
-#### Defined in
-
-[react-umg/index.d.ts:794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L794)
 
 ___
 
@@ -496,10 +376,6 @@ ___
 
 `string`
 
-#### Defined in
-
-[react-umg/index.d.ts:795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L795)
-
 ___
 
 ### ToolTipText
@@ -509,10 +385,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[ToolTipText](react_umg.TextLayoutWidgetProps.md#tooltiptext)
-
-#### Defined in
-
-[react-umg/index.d.ts:134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L134)
 
 ___
 
@@ -532,10 +404,6 @@ ___
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[ToolTipTextDelegate](react_umg.TextLayoutWidgetProps.md#tooltiptextdelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L135)
-
 ___
 
 ### Visibility
@@ -545,10 +413,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[Visibility](react_umg.TextLayoutWidgetProps.md#visibility)
-
-#### Defined in
-
-[react-umg/index.d.ts:157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L157)
 
 ___
 
@@ -568,10 +432,6 @@ ___
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[VisibilityDelegate](react_umg.TextLayoutWidgetProps.md#visibilitydelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L136)
-
 ___
 
 ### WrapTextAt
@@ -581,10 +441,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[WrapTextAt](react_umg.TextLayoutWidgetProps.md#wraptextat)
-
-#### Defined in
-
-[react-umg/index.d.ts:536](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L536)
 
 ___
 
@@ -596,19 +452,11 @@ ___
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[WrappingPolicy](react_umg.TextLayoutWidgetProps.md#wrappingpolicy)
 
-#### Defined in
-
-[react-umg/index.d.ts:534](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L534)
-
 ___
 
 ### bAutoWrapText
 
 • `Optional` **bAutoWrapText**: `boolean`
-
-#### Defined in
-
-[react-umg/index.d.ts:805](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L805)
 
 ___
 
@@ -620,10 +468,6 @@ ___
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[bCanChildrenBeAccessible](react_umg.TextLayoutWidgetProps.md#bcanchildrenbeaccessible)
 
-#### Defined in
-
-[react-umg/index.d.ts:144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L144)
-
 ___
 
 ### bCreatedByConstructionScript
@@ -633,10 +477,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[bCreatedByConstructionScript](react_umg.TextLayoutWidgetProps.md#bcreatedbyconstructionscript)
-
-#### Defined in
-
-[react-umg/index.d.ts:140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L140)
 
 ___
 
@@ -648,10 +488,6 @@ ___
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[bExpandedInDesigner](react_umg.TextLayoutWidgetProps.md#bexpandedindesigner)
 
-#### Defined in
-
-[react-umg/index.d.ts:153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L153)
-
 ___
 
 ### bHiddenInDesigner
@@ -662,10 +498,6 @@ ___
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[bHiddenInDesigner](react_umg.TextLayoutWidgetProps.md#bhiddenindesigner)
 
-#### Defined in
-
-[react-umg/index.d.ts:152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L152)
-
 ___
 
 ### bIsEnabled
@@ -675,10 +507,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[bIsEnabled](react_umg.TextLayoutWidgetProps.md#bisenabled)
-
-#### Defined in
-
-[react-umg/index.d.ts:141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L141)
 
 ___
 
@@ -698,10 +526,6 @@ ___
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[bIsEnabledDelegate](react_umg.TextLayoutWidgetProps.md#bisenableddelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L133)
-
 ___
 
 ### bIsVariable
@@ -711,10 +535,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[bIsVariable](react_umg.TextLayoutWidgetProps.md#bisvariable)
-
-#### Defined in
-
-[react-umg/index.d.ts:139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L139)
 
 ___
 
@@ -726,10 +546,6 @@ ___
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[bIsVolatile](react_umg.TextLayoutWidgetProps.md#bisvolatile)
 
-#### Defined in
-
-[react-umg/index.d.ts:151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L151)
-
 ___
 
 ### bLockedInDesigner
@@ -739,10 +555,6 @@ ___
 #### Inherited from
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[bLockedInDesigner](react_umg.TextLayoutWidgetProps.md#blockedindesigner)
-
-#### Defined in
-
-[react-umg/index.d.ts:154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L154)
 
 ___
 
@@ -754,10 +566,6 @@ ___
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[bOverrideAccessibleDefaults](react_umg.TextLayoutWidgetProps.md#boverrideaccessibledefaults)
 
-#### Defined in
-
-[react-umg/index.d.ts:143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L143)
-
 ___
 
 ### bOverride\_Cursor
@@ -768,26 +576,14 @@ ___
 
 [TextLayoutWidgetProps](react_umg.TextLayoutWidgetProps.md).[bOverride_Cursor](react_umg.TextLayoutWidgetProps.md#boverride_cursor)
 
-#### Defined in
-
-[react-umg/index.d.ts:142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L142)
-
 ___
 
 ### bSimpleTextMode
 
 • `Optional` **bSimpleTextMode**: `boolean`
 
-#### Defined in
-
-[react-umg/index.d.ts:806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L806)
-
 ___
 
 ### bWrapWithInvalidationPanel
 
 • `Optional` **bWrapWithInvalidationPanel**: `boolean`
-
-#### Defined in
-
-[react-umg/index.d.ts:804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L804)

@@ -27,10 +27,6 @@
 
 • **new CurveEditorRetimeAnchor**()
 
-#### Defined in
-
-[ue/ue.d.ts:29129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29129)
-
 • **new CurveEditorRetimeAnchor**(`ValueInSeconds`, `bIsSelected`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `ValueInSeconds` | `number` |
 | `bIsSelected` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:29130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29130)
-
 ## Properties
 
 ### ValueInSeconds
 
 • **ValueInSeconds**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29131)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • `Private` **\_\_tid\_CurveEditorRetimeAnchor\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:29138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29138)
-
 ___
 
 ### bIsSelected
 
 • **bIsSelected**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29132)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29136)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29137)

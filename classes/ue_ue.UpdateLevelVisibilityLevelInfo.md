@@ -28,10 +28,6 @@
 
 • **new UpdateLevelVisibilityLevelInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:12194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12194)
-
 • **new UpdateLevelVisibilityLevelInfo**(`PackageName`, `FileName`, `bIsVisible`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `FileName` | `string` |
 | `bIsVisible` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:12195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12195)
-
 ## Properties
 
 ### FileName
 
 • **FileName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:12197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12197)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **PackageName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:12196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12196)
-
 ___
 
 ### \_\_tid\_UpdateLevelVisibilityLevelInfo\_\_
 
 • `Private` **\_\_tid\_UpdateLevelVisibilityLevelInfo\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:12204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12204)
-
 ___
 
 ### bIsVisible
 
 • **bIsVisible**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:12198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12198)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:12202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12202)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:12203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12203)

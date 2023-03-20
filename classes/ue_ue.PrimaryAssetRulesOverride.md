@@ -27,10 +27,6 @@
 
 • **new PrimaryAssetRulesOverride**()
 
-#### Defined in
-
-[ue/ue.d.ts:21691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21691)
-
 • **new PrimaryAssetRulesOverride**(`PrimaryAssetId`, `Rules`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `PrimaryAssetId` | [`PrimaryAssetId`](ue_ue.PrimaryAssetId.md) |
 | `Rules` | [`PrimaryAssetRules`](ue_ue.PrimaryAssetRules.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:21692](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21692)
-
 ## Properties
 
 ### PrimaryAssetId
 
 • **PrimaryAssetId**: [`PrimaryAssetId`](ue_ue.PrimaryAssetId.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21693)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Rules**: [`PrimaryAssetRules`](ue_ue.PrimaryAssetRules.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21694](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21694)
-
 ___
 
 ### \_\_tid\_PrimaryAssetRulesOverride\_\_
 
 • `Private` **\_\_tid\_PrimaryAssetRulesOverride\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21700)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21698)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21699](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21699)

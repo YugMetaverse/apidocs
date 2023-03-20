@@ -20,19 +20,11 @@
 
 • **ESplineMeshAxis\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26058)
-
 ___
 
 ### X
 
 • **X** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26058)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Y** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26058)
-
 ___
 
 ### Z
 
 • **Z** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26058)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26058)

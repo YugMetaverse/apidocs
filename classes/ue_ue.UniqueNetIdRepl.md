@@ -36,10 +36,6 @@
 
 [UniqueNetIdWrapper](ue_ue.UniqueNetIdWrapper.md).[constructor](ue_ue.UniqueNetIdWrapper.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:2234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2234)
-
 • **new UniqueNetIdRepl**(`ReplicationBytes`)
 
 #### Parameters
@@ -52,29 +48,17 @@
 
 UE.UniqueNetIdWrapper.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:2235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2235)
-
 ## Properties
 
 ### ReplicationBytes
 
 • **ReplicationBytes**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:2236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2236)
-
 ___
 
 ### \_\_tid\_UniqueNetIdRepl\_\_
 
 • `Private` **\_\_tid\_UniqueNetIdRepl\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2242)
 
 ## Methods
 
@@ -94,10 +78,6 @@ use StaticStruct instead.
 
 [UniqueNetIdWrapper](ue_ue.UniqueNetIdWrapper.md).[StaticClass](ue_ue.UniqueNetIdWrapper.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:2240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2240)
-
 ___
 
 ### StaticStruct
@@ -111,7 +91,3 @@ ___
 #### Overrides
 
 [UniqueNetIdWrapper](ue_ue.UniqueNetIdWrapper.md).[StaticStruct](ue_ue.UniqueNetIdWrapper.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:2241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2241)

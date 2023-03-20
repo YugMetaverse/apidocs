@@ -55,19 +55,11 @@
 
 [EditorUtilityObject](ue_ue.EditorUtilityObject.md).[constructor](ue_ue.EditorUtilityObject.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:21539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21539)
-
 ## Properties
 
 ### \_\_tid\_AssetActionUtility\_\_
 
 • **\_\_tid\_AssetActionUtility\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21546)
 
 ___
 
@@ -79,10 +71,6 @@ ___
 
 [EditorUtilityObject](ue_ue.EditorUtilityObject.md).[__tid_EditorUtilityObject__](ue_ue.EditorUtilityObject.md#__tid_editorutilityobject__)
 
-#### Defined in
-
-[ue/ue.d.ts:13474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13474)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -92,10 +80,6 @@ ___
 #### Inherited from
 
 [EditorUtilityObject](ue_ue.EditorUtilityObject.md).[__tid_Object__](ue_ue.EditorUtilityObject.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -121,10 +105,6 @@ ___
 
 [EditorUtilityObject](ue_ue.EditorUtilityObject.md).[CreateDefaultSubobject](ue_ue.EditorUtilityObject.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -145,10 +125,6 @@ ___
 
 [EditorUtilityObject](ue_ue.EditorUtilityObject.md).[ExecuteUbergraph](ue_ue.EditorUtilityObject.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -162,10 +138,6 @@ ___
 #### Inherited from
 
 [EditorUtilityObject](ue_ue.EditorUtilityObject.md).[GetClass](ue_ue.EditorUtilityObject.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -181,10 +153,6 @@ ___
 
 [EditorUtilityObject](ue_ue.EditorUtilityObject.md).[GetName](ue_ue.EditorUtilityObject.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -199,10 +167,6 @@ ___
 
 [EditorUtilityObject](ue_ue.EditorUtilityObject.md).[GetOuter](ue_ue.EditorUtilityObject.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetSupportedClass
@@ -212,10 +176,6 @@ ___
 #### Returns
 
 [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21540)
 
 ___
 
@@ -231,10 +191,6 @@ ___
 
 [EditorUtilityObject](ue_ue.EditorUtilityObject.md).[GetWorld](ue_ue.EditorUtilityObject.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### IsActionForBlueprints
@@ -244,10 +200,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21541](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21541)
 
 ___
 
@@ -262,10 +214,6 @@ ___
 #### Inherited from
 
 [EditorUtilityObject](ue_ue.EditorUtilityObject.md).[Run](ue_ue.EditorUtilityObject.md#run)
-
-#### Defined in
-
-[ue/ue.d.ts:13469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13469)
 
 ___
 
@@ -288,10 +236,6 @@ ___
 
 [EditorUtilityObject](ue_ue.EditorUtilityObject.md).[Find](ue_ue.EditorUtilityObject.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:21543](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21543)
-
 ___
 
 ### Load
@@ -312,10 +256,6 @@ ___
 
 [EditorUtilityObject](ue_ue.EditorUtilityObject.md).[Load](ue_ue.EditorUtilityObject.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:21544](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21544)
-
 ___
 
 ### StaticClass
@@ -329,7 +269,3 @@ ___
 #### Overrides
 
 [EditorUtilityObject](ue_ue.EditorUtilityObject.md).[StaticClass](ue_ue.EditorUtilityObject.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:21542](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21542)

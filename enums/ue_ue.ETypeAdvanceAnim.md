@@ -20,19 +20,11 @@
 
 • **ETAA\_Default** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34856)
-
 ___
 
 ### ETAA\_Finished
 
 • **ETAA\_Finished** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34856)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **ETAA\_Looped** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34856)
-
 ___
 
 ### ETAA\_MAX
 
 • **ETAA\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34856)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34856)

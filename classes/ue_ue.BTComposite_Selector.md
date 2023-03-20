@@ -59,10 +59,6 @@
 
 [BTCompositeNode](ue_ue.BTCompositeNode.md).[constructor](ue_ue.BTCompositeNode.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:24815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24815)
-
 ## Properties
 
 ### Children
@@ -72,10 +68,6 @@
 #### Inherited from
 
 [BTCompositeNode](ue_ue.BTCompositeNode.md).[Children](ue_ue.BTCompositeNode.md#children)
-
-#### Defined in
-
-[ue/ue.d.ts:14653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14653)
 
 ___
 
@@ -87,10 +79,6 @@ ___
 
 [BTCompositeNode](ue_ue.BTCompositeNode.md).[NodeName](ue_ue.BTCompositeNode.md#nodename)
 
-#### Defined in
-
-[ue/ue.d.ts:14567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14567)
-
 ___
 
 ### ParentNode
@@ -100,10 +88,6 @@ ___
 #### Inherited from
 
 [BTCompositeNode](ue_ue.BTCompositeNode.md).[ParentNode](ue_ue.BTCompositeNode.md#parentnode)
-
-#### Defined in
-
-[ue/ue.d.ts:14569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14569)
 
 ___
 
@@ -115,10 +99,6 @@ ___
 
 [BTCompositeNode](ue_ue.BTCompositeNode.md).[Services](ue_ue.BTCompositeNode.md#services)
 
-#### Defined in
-
-[ue/ue.d.ts:14654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14654)
-
 ___
 
 ### TreeAsset
@@ -128,10 +108,6 @@ ___
 #### Inherited from
 
 [BTCompositeNode](ue_ue.BTCompositeNode.md).[TreeAsset](ue_ue.BTCompositeNode.md#treeasset)
-
-#### Defined in
-
-[ue/ue.d.ts:14568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14568)
 
 ___
 
@@ -143,19 +119,11 @@ ___
 
 [BTCompositeNode](ue_ue.BTCompositeNode.md).[__tid_BTCompositeNode__](ue_ue.BTCompositeNode.md#__tid_btcompositenode__)
 
-#### Defined in
-
-[ue/ue.d.ts:14660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14660)
-
 ___
 
 ### \_\_tid\_BTComposite\_Selector\_\_
 
 • **\_\_tid\_BTComposite\_Selector\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:24820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24820)
 
 ___
 
@@ -167,10 +135,6 @@ ___
 
 [BTCompositeNode](ue_ue.BTCompositeNode.md).[__tid_BTNode__](ue_ue.BTCompositeNode.md#__tid_btnode__)
 
-#### Defined in
-
-[ue/ue.d.ts:14574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14574)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -181,10 +145,6 @@ ___
 
 [BTCompositeNode](ue_ue.BTCompositeNode.md).[__tid_Object__](ue_ue.BTCompositeNode.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bApplyDecoratorScope
@@ -194,10 +154,6 @@ ___
 #### Inherited from
 
 [BTCompositeNode](ue_ue.BTCompositeNode.md).[bApplyDecoratorScope](ue_ue.BTCompositeNode.md#bapplydecoratorscope)
-
-#### Defined in
-
-[ue/ue.d.ts:14655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14655)
 
 ## Methods
 
@@ -223,10 +179,6 @@ ___
 
 [BTCompositeNode](ue_ue.BTCompositeNode.md).[CreateDefaultSubobject](ue_ue.BTCompositeNode.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -247,10 +199,6 @@ ___
 
 [BTCompositeNode](ue_ue.BTCompositeNode.md).[ExecuteUbergraph](ue_ue.BTCompositeNode.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -264,10 +212,6 @@ ___
 #### Inherited from
 
 [BTCompositeNode](ue_ue.BTCompositeNode.md).[GetClass](ue_ue.BTCompositeNode.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -283,10 +227,6 @@ ___
 
 [BTCompositeNode](ue_ue.BTCompositeNode.md).[GetName](ue_ue.BTCompositeNode.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -301,10 +241,6 @@ ___
 
 [BTCompositeNode](ue_ue.BTCompositeNode.md).[GetOuter](ue_ue.BTCompositeNode.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -318,10 +254,6 @@ ___
 #### Inherited from
 
 [BTCompositeNode](ue_ue.BTCompositeNode.md).[GetWorld](ue_ue.BTCompositeNode.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -344,10 +276,6 @@ ___
 
 [BTCompositeNode](ue_ue.BTCompositeNode.md).[Find](ue_ue.BTCompositeNode.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:24817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24817)
-
 ___
 
 ### Load
@@ -368,10 +296,6 @@ ___
 
 [BTCompositeNode](ue_ue.BTCompositeNode.md).[Load](ue_ue.BTCompositeNode.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:24818](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24818)
-
 ___
 
 ### StaticClass
@@ -385,7 +309,3 @@ ___
 #### Overrides
 
 [BTCompositeNode](ue_ue.BTCompositeNode.md).[StaticClass](ue_ue.BTCompositeNode.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:24816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24816)

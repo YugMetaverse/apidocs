@@ -47,10 +47,6 @@
 
 [AnimNode_AssetPlayerBase](ue_ue.AnimNode_AssetPlayerBase.md).[constructor](ue_ue.AnimNode_AssetPlayerBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:19086](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19086)
-
 • **new AnimNode_PoseHandler**(`PoseAsset`)
 
 #### Parameters
@@ -63,10 +59,6 @@
 
 [AnimNode_AssetPlayerBase](ue_ue.AnimNode_AssetPlayerBase.md).[constructor](ue_ue.AnimNode_AssetPlayerBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:19087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19087)
-
 ## Properties
 
 ### BlendWeight
@@ -76,10 +68,6 @@
 #### Inherited from
 
 [AnimNode_AssetPlayerBase](ue_ue.AnimNode_AssetPlayerBase.md).[BlendWeight](ue_ue.AnimNode_AssetPlayerBase.md#blendweight)
-
-#### Defined in
-
-[ue/ue.d.ts:17569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17569)
 
 ___
 
@@ -91,10 +79,6 @@ ___
 
 [AnimNode_AssetPlayerBase](ue_ue.AnimNode_AssetPlayerBase.md).[GroupIndex](ue_ue.AnimNode_AssetPlayerBase.md#groupindex)
 
-#### Defined in
-
-[ue/ue.d.ts:17566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17566)
-
 ___
 
 ### GroupRole
@@ -104,10 +88,6 @@ ___
 #### Inherited from
 
 [AnimNode_AssetPlayerBase](ue_ue.AnimNode_AssetPlayerBase.md).[GroupRole](ue_ue.AnimNode_AssetPlayerBase.md#grouprole)
-
-#### Defined in
-
-[ue/ue.d.ts:17567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17567)
 
 ___
 
@@ -119,29 +99,17 @@ ___
 
 [AnimNode_AssetPlayerBase](ue_ue.AnimNode_AssetPlayerBase.md).[InternalTimeAccumulator](ue_ue.AnimNode_AssetPlayerBase.md#internaltimeaccumulator)
 
-#### Defined in
-
-[ue/ue.d.ts:17570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17570)
-
 ___
 
 ### PoseAsset
 
 • **PoseAsset**: [`PoseAsset`](ue_ue.PoseAsset.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19088)
-
 ___
 
 ### \_\_tid\_AnimNode\_PoseHandler\_\_
 
 • `Private` **\_\_tid\_AnimNode\_PoseHandler\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:19094](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19094)
 
 ___
 
@@ -152,10 +120,6 @@ ___
 #### Inherited from
 
 [AnimNode_AssetPlayerBase](ue_ue.AnimNode_AssetPlayerBase.md).[bIgnoreForRelevancyTest](ue_ue.AnimNode_AssetPlayerBase.md#bignoreforrelevancytest)
-
-#### Defined in
-
-[ue/ue.d.ts:17568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17568)
 
 ## Methods
 
@@ -175,10 +139,6 @@ use StaticStruct instead.
 
 [AnimNode_AssetPlayerBase](ue_ue.AnimNode_AssetPlayerBase.md).[StaticClass](ue_ue.AnimNode_AssetPlayerBase.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:19092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19092)
-
 ___
 
 ### StaticStruct
@@ -192,7 +152,3 @@ ___
 #### Overrides
 
 [AnimNode_AssetPlayerBase](ue_ue.AnimNode_AssetPlayerBase.md).[StaticStruct](ue_ue.AnimNode_AssetPlayerBase.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:19093](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19093)

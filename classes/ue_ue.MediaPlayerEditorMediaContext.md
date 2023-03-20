@@ -54,19 +54,11 @@
 
 [ToolMenuContextBase](ue_ue.ToolMenuContextBase.md).[constructor](ue_ue.ToolMenuContextBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:50291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50291)
-
 ## Properties
 
 ### SelectedAsset
 
 • **SelectedAsset**: [`Object`](ue_ue.Object.md)
-
-#### Defined in
-
-[ue/ue.d.ts:50292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50292)
 
 ___
 
@@ -74,19 +66,11 @@ ___
 
 • **StyleSetName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:50293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50293)
-
 ___
 
 ### \_\_tid\_MediaPlayerEditorMediaContext\_\_
 
 • **\_\_tid\_MediaPlayerEditorMediaContext\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50298)
 
 ___
 
@@ -98,10 +82,6 @@ ___
 
 [ToolMenuContextBase](ue_ue.ToolMenuContextBase.md).[__tid_Object__](ue_ue.ToolMenuContextBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ToolMenuContextBase\_\_
@@ -111,10 +91,6 @@ ___
 #### Inherited from
 
 [ToolMenuContextBase](ue_ue.ToolMenuContextBase.md).[__tid_ToolMenuContextBase__](ue_ue.ToolMenuContextBase.md#__tid_toolmenucontextbase__)
-
-#### Defined in
-
-[ue/ue.d.ts:50287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50287)
 
 ## Methods
 
@@ -140,10 +116,6 @@ ___
 
 [ToolMenuContextBase](ue_ue.ToolMenuContextBase.md).[CreateDefaultSubobject](ue_ue.ToolMenuContextBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -164,10 +136,6 @@ ___
 
 [ToolMenuContextBase](ue_ue.ToolMenuContextBase.md).[ExecuteUbergraph](ue_ue.ToolMenuContextBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -181,10 +149,6 @@ ___
 #### Inherited from
 
 [ToolMenuContextBase](ue_ue.ToolMenuContextBase.md).[GetClass](ue_ue.ToolMenuContextBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -200,10 +164,6 @@ ___
 
 [ToolMenuContextBase](ue_ue.ToolMenuContextBase.md).[GetName](ue_ue.ToolMenuContextBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -218,10 +178,6 @@ ___
 
 [ToolMenuContextBase](ue_ue.ToolMenuContextBase.md).[GetOuter](ue_ue.ToolMenuContextBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -235,10 +191,6 @@ ___
 #### Inherited from
 
 [ToolMenuContextBase](ue_ue.ToolMenuContextBase.md).[GetWorld](ue_ue.ToolMenuContextBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -261,10 +213,6 @@ ___
 
 [ToolMenuContextBase](ue_ue.ToolMenuContextBase.md).[Find](ue_ue.ToolMenuContextBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:50295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50295)
-
 ___
 
 ### Load
@@ -285,10 +233,6 @@ ___
 
 [ToolMenuContextBase](ue_ue.ToolMenuContextBase.md).[Load](ue_ue.ToolMenuContextBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:50296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50296)
-
 ___
 
 ### StaticClass
@@ -302,7 +246,3 @@ ___
 #### Overrides
 
 [ToolMenuContextBase](ue_ue.ToolMenuContextBase.md).[StaticClass](ue_ue.ToolMenuContextBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:50294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50294)

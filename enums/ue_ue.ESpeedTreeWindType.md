@@ -24,19 +24,11 @@
 
 • **STW\_Best** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34791)
-
 ___
 
 ### STW\_BestPlus
 
 • **STW\_BestPlus** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34791)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **STW\_Better** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34791)
-
 ___
 
 ### STW\_Fast
 
 • **STW\_Fast** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34791)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **STW\_Fastest** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34791)
-
 ___
 
 ### STW\_MAX
 
 • **STW\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34791)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **STW\_None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34791)
-
 ___
 
 ### STW\_Palm
 
 • **STW\_Palm** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34791)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34791)

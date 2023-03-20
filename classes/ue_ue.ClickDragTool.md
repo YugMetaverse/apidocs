@@ -54,10 +54,6 @@
 
 [InteractiveTool](ue_ue.InteractiveTool.md).[constructor](ue_ue.InteractiveTool.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:27491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27491)
-
 ## Properties
 
 ### InputBehaviors
@@ -67,10 +63,6 @@
 #### Inherited from
 
 [InteractiveTool](ue_ue.InteractiveTool.md).[InputBehaviors](ue_ue.InteractiveTool.md#inputbehaviors)
-
-#### Defined in
-
-[ue/ue.d.ts:27481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27481)
 
 ___
 
@@ -82,19 +74,11 @@ ___
 
 [InteractiveTool](ue_ue.InteractiveTool.md).[ToolPropertyObjects](ue_ue.InteractiveTool.md#toolpropertyobjects)
 
-#### Defined in
-
-[ue/ue.d.ts:27482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27482)
-
 ___
 
 ### \_\_tid\_ClickDragTool\_\_
 
 • **\_\_tid\_ClickDragTool\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27496)
 
 ___
 
@@ -106,10 +90,6 @@ ___
 
 [InteractiveTool](ue_ue.InteractiveTool.md).[__tid_InteractiveTool__](ue_ue.InteractiveTool.md#__tid_interactivetool__)
 
-#### Defined in
-
-[ue/ue.d.ts:27487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27487)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -119,10 +99,6 @@ ___
 #### Inherited from
 
 [InteractiveTool](ue_ue.InteractiveTool.md).[__tid_Object__](ue_ue.InteractiveTool.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -148,10 +124,6 @@ ___
 
 [InteractiveTool](ue_ue.InteractiveTool.md).[CreateDefaultSubobject](ue_ue.InteractiveTool.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -172,10 +144,6 @@ ___
 
 [InteractiveTool](ue_ue.InteractiveTool.md).[ExecuteUbergraph](ue_ue.InteractiveTool.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -189,10 +157,6 @@ ___
 #### Inherited from
 
 [InteractiveTool](ue_ue.InteractiveTool.md).[GetClass](ue_ue.InteractiveTool.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -208,10 +172,6 @@ ___
 
 [InteractiveTool](ue_ue.InteractiveTool.md).[GetName](ue_ue.InteractiveTool.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -226,10 +186,6 @@ ___
 
 [InteractiveTool](ue_ue.InteractiveTool.md).[GetOuter](ue_ue.InteractiveTool.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -243,10 +199,6 @@ ___
 #### Inherited from
 
 [InteractiveTool](ue_ue.InteractiveTool.md).[GetWorld](ue_ue.InteractiveTool.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -269,10 +221,6 @@ ___
 
 [InteractiveTool](ue_ue.InteractiveTool.md).[Find](ue_ue.InteractiveTool.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:27493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27493)
-
 ___
 
 ### Load
@@ -293,10 +241,6 @@ ___
 
 [InteractiveTool](ue_ue.InteractiveTool.md).[Load](ue_ue.InteractiveTool.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:27494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27494)
-
 ___
 
 ### StaticClass
@@ -310,7 +254,3 @@ ___
 #### Overrides
 
 [InteractiveTool](ue_ue.InteractiveTool.md).[StaticClass](ue_ue.InteractiveTool.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:27492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27492)

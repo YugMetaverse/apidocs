@@ -23,19 +23,11 @@
 
 • **EComparisonMethod\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31405)
-
 ___
 
 ### Equal\_To
 
 • **Equal\_To** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31405)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **Greater\_Than** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31405)
-
 ___
 
 ### Greater\_Than\_Or\_Equal\_To
 
 • **Greater\_Than\_Or\_Equal\_To** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31405)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **Less\_Than** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31405)
-
 ___
 
 ### Less\_Than\_Or\_Equal\_To
 
 • **Less\_Than\_Or\_Equal\_To** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31405)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **Not\_Equal\_To** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31405)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31405)

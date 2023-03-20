@@ -28,10 +28,6 @@
 
 • **new LuminARLightEstimate**()
 
-#### Defined in
-
-[ue/ue.d.ts:46413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46413)
-
 • **new LuminARLightEstimate**(`bIsValid`, `PixelIntensity`, `RGBScaleFactor`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `PixelIntensity` | `number` |
 | `RGBScaleFactor` | [`Vector`](ue_ue_s.Vector.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:46414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46414)
-
 ## Properties
 
 ### PixelIntensity
 
 • **PixelIntensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:46416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46416)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **RGBScaleFactor**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46417)
-
 ___
 
 ### \_\_tid\_LuminARLightEstimate\_\_
 
 • `Private` **\_\_tid\_LuminARLightEstimate\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46423)
-
 ___
 
 ### bIsValid
 
 • **bIsValid**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46415)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46421)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46422)

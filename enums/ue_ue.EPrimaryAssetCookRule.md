@@ -22,19 +22,11 @@
 
 • **AlwaysCook** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21627)
-
 ___
 
 ### DevelopmentAlwaysCook
 
 • **DevelopmentAlwaysCook** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21627)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **DevelopmentCook** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21627)
-
 ___
 
 ### EPrimaryAssetCookRule\_MAX
 
 • **EPrimaryAssetCookRule\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21627)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **NeverCook** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21627)
-
 ___
 
 ### Unknown
 
 • **Unknown** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21627)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21627)

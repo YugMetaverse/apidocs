@@ -67,10 +67,6 @@
 
 • **new NavigationLinkBase**()
 
-#### Defined in
-
-[ue/ue.d.ts:53173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53173)
-
 • **new NavigationLinkBase**(`LeftProjectHeight`, `MaxFallDownLength`, `SnapRadius`, `SnapHeight`, `SupportedAgents`, `bSupportsAgent0`, `bSupportsAgent1`, `bSupportsAgent2`, `bSupportsAgent3`, `bSupportsAgent4`, `bSupportsAgent5`, `bSupportsAgent6`, `bSupportsAgent7`, `bSupportsAgent8`, `bSupportsAgent9`, `bSupportsAgent10`, `bSupportsAgent11`, `bSupportsAgent12`, `bSupportsAgent13`, `bSupportsAgent14`, `bSupportsAgent15`, `Description`, `Direction`, `bUseSnapHeight`, `bSnapToCheapestArea`, `bCustomFlag0`, `bCustomFlag1`, `bCustomFlag2`, `bCustomFlag3`, `bCustomFlag4`, `bCustomFlag5`, `bCustomFlag6`, `bCustomFlag7`, `AreaClass`)
 
 #### Parameters
@@ -112,19 +108,11 @@
 | `bCustomFlag7` | `boolean` |
 | `AreaClass` | [`Class`](ue_ue.Class.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:53174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53174)
-
 ## Properties
 
 ### AreaClass
 
 • **AreaClass**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:53208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53208)
 
 ___
 
@@ -132,19 +120,11 @@ ___
 
 • **Description**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:53196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53196)
-
 ___
 
 ### Direction
 
 • **Direction**: [`ENavLinkDirection`](../enums/ue_ue.ENavLinkDirection.md)
-
-#### Defined in
-
-[ue/ue.d.ts:53197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53197)
 
 ___
 
@@ -152,19 +132,11 @@ ___
 
 • **LeftProjectHeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:53175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53175)
-
 ___
 
 ### MaxFallDownLength
 
 • **MaxFallDownLength**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:53176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53176)
 
 ___
 
@@ -172,19 +144,11 @@ ___
 
 • **SnapHeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:53178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53178)
-
 ___
 
 ### SnapRadius
 
 • **SnapRadius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:53177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53177)
 
 ___
 
@@ -192,19 +156,11 @@ ___
 
 • **SupportedAgents**: [`NavAgentSelector`](ue_ue.NavAgentSelector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:53179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53179)
-
 ___
 
 ### \_\_tid\_NavigationLinkBase\_\_
 
 • `Private` **\_\_tid\_NavigationLinkBase\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:53214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53214)
 
 ___
 
@@ -212,19 +168,11 @@ ___
 
 • **bCustomFlag0**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:53200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53200)
-
 ___
 
 ### bCustomFlag1
 
 • **bCustomFlag1**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:53201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53201)
 
 ___
 
@@ -232,19 +180,11 @@ ___
 
 • **bCustomFlag2**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:53202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53202)
-
 ___
 
 ### bCustomFlag3
 
 • **bCustomFlag3**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:53203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53203)
 
 ___
 
@@ -252,19 +192,11 @@ ___
 
 • **bCustomFlag4**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:53204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53204)
-
 ___
 
 ### bCustomFlag5
 
 • **bCustomFlag5**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:53205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53205)
 
 ___
 
@@ -272,19 +204,11 @@ ___
 
 • **bCustomFlag6**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:53206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53206)
-
 ___
 
 ### bCustomFlag7
 
 • **bCustomFlag7**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:53207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53207)
 
 ___
 
@@ -292,19 +216,11 @@ ___
 
 • **bSnapToCheapestArea**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:53199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53199)
-
 ___
 
 ### bSupportsAgent0
 
 • **bSupportsAgent0**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:53180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53180)
 
 ___
 
@@ -312,19 +228,11 @@ ___
 
 • **bSupportsAgent1**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:53181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53181)
-
 ___
 
 ### bSupportsAgent10
 
 • **bSupportsAgent10**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:53190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53190)
 
 ___
 
@@ -332,19 +240,11 @@ ___
 
 • **bSupportsAgent11**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:53191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53191)
-
 ___
 
 ### bSupportsAgent12
 
 • **bSupportsAgent12**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:53192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53192)
 
 ___
 
@@ -352,19 +252,11 @@ ___
 
 • **bSupportsAgent13**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:53193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53193)
-
 ___
 
 ### bSupportsAgent14
 
 • **bSupportsAgent14**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:53194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53194)
 
 ___
 
@@ -372,19 +264,11 @@ ___
 
 • **bSupportsAgent15**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:53195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53195)
-
 ___
 
 ### bSupportsAgent2
 
 • **bSupportsAgent2**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:53182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53182)
 
 ___
 
@@ -392,19 +276,11 @@ ___
 
 • **bSupportsAgent3**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:53183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53183)
-
 ___
 
 ### bSupportsAgent4
 
 • **bSupportsAgent4**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:53184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53184)
 
 ___
 
@@ -412,19 +288,11 @@ ___
 
 • **bSupportsAgent5**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:53185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53185)
-
 ___
 
 ### bSupportsAgent6
 
 • **bSupportsAgent6**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:53186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53186)
 
 ___
 
@@ -432,19 +300,11 @@ ___
 
 • **bSupportsAgent7**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:53187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53187)
-
 ___
 
 ### bSupportsAgent8
 
 • **bSupportsAgent8**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:53188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53188)
 
 ___
 
@@ -452,19 +312,11 @@ ___
 
 • **bSupportsAgent9**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:53189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53189)
-
 ___
 
 ### bUseSnapHeight
 
 • **bUseSnapHeight**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:53198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53198)
 
 ## Methods
 
@@ -480,10 +332,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:53212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53212)
-
 ___
 
 ### StaticStruct
@@ -493,7 +341,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:53213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53213)

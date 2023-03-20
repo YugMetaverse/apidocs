@@ -23,19 +23,11 @@
 
 • **EMeshFeatureImportance\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7747)
-
 ___
 
 ### High
 
 • **High** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7747)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **Highest** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7747)
-
 ___
 
 ### Low
 
 • **Low** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7747)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **Lowest** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7747)
-
 ___
 
 ### Normal
 
 • **Normal** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7747)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **Off** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7747)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7747)

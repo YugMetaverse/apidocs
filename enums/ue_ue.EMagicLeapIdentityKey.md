@@ -25,19 +25,11 @@
 
 • **Avatar2D** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34007)
-
 ___
 
 ### Avatar3D
 
 • **Avatar3D** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34007)
 
 ___
 
@@ -45,19 +37,11 @@ ___
 
 • **Bio** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34007)
-
 ___
 
 ### EMagicLeapIdentityKey\_MAX
 
 • **EMagicLeapIdentityKey\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34007)
 
 ___
 
@@ -65,19 +49,11 @@ ___
 
 • **Email** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34007)
-
 ___
 
 ### FamilyName
 
 • **FamilyName** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34007)
 
 ___
 
@@ -85,19 +61,11 @@ ___
 
 • **GivenName** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34007)
-
 ___
 
 ### PhoneNumber
 
 • **PhoneNumber** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34007)
 
 ___
 
@@ -105,16 +73,8 @@ ___
 
 • **Unknown** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34007)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34007)

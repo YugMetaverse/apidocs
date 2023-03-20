@@ -33,10 +33,6 @@
 
 • **new SlateMeshVertex**()
 
-#### Defined in
-
-[ue/ue.d.ts:60947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60947)
-
 • **new SlateMeshVertex**(`Position`, `Color`, `UV0`, `UV1`, `UV2`, `UV3`, `UV4`, `UV5`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `UV4` | [`Vector2D`](ue_ue_s.Vector2D.md) |
 | `UV5` | [`Vector2D`](ue_ue_s.Vector2D.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:60948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60948)
-
 ## Properties
 
 ### Color
 
 • **Color**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:60950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60950)
 
 ___
 
@@ -72,19 +60,11 @@ ___
 
 • **Position**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:60949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60949)
-
 ___
 
 ### UV0
 
 • **UV0**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:60951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60951)
 
 ___
 
@@ -92,19 +72,11 @@ ___
 
 • **UV1**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:60952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60952)
-
 ___
 
 ### UV2
 
 • **UV2**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:60953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60953)
 
 ___
 
@@ -112,19 +84,11 @@ ___
 
 • **UV3**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:60954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60954)
-
 ___
 
 ### UV4
 
 • **UV4**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:60955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60955)
 
 ___
 
@@ -132,19 +96,11 @@ ___
 
 • **UV5**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:60956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60956)
-
 ___
 
 ### \_\_tid\_SlateMeshVertex\_\_
 
 • `Private` **\_\_tid\_SlateMeshVertex\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:60962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60962)
 
 ## Methods
 
@@ -160,10 +116,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:60960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60960)
-
 ___
 
 ### StaticStruct
@@ -173,7 +125,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:60961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60961)

@@ -28,10 +28,6 @@
 
 • **new TranslationContextInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:64166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64166)
-
 • **new TranslationContextInfo**(`Key`, `Context`, `Changes`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Context` | `string` |
 | `Changes` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`TranslationChange`](ue_ue.TranslationChange.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:64167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64167)
-
 ## Properties
 
 ### Changes
 
 • **Changes**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`TranslationChange`](ue_ue.TranslationChange.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:64170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64170)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Context**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:64169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64169)
-
 ___
 
 ### Key
 
 • **Key**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:64168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64168)
-
 ___
 
 ### \_\_tid\_TranslationContextInfo\_\_
 
 • `Private` **\_\_tid\_TranslationContextInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64176)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64174)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:64175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64175)

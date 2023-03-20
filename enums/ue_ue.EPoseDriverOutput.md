@@ -19,19 +19,11 @@
 
 • **DriveCurves** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19204)
-
 ___
 
 ### DrivePoses
 
 • **DrivePoses** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19204)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **EPoseDriverOutput\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19204)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19204)

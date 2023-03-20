@@ -26,10 +26,6 @@
 
 • **new MovieSceneActorReferenceKey**()
 
-#### Defined in
-
-[ue/ue.d.ts:51153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51153)
-
 • **new MovieSceneActorReferenceKey**(`Object`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Object` | [`MovieSceneObjectBindingID`](ue_ue.MovieSceneObjectBindingID.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:51154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51154)
-
 ## Properties
 
 ### Object
 
 • **Object**: [`MovieSceneObjectBindingID`](ue_ue.MovieSceneObjectBindingID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:51155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51155)
-
 ___
 
 ### \_\_tid\_MovieSceneActorReferenceKey\_\_
 
 • `Private` **\_\_tid\_MovieSceneActorReferenceKey\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:51161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51161)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:51159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51159)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:51160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51160)

@@ -21,19 +21,11 @@
 
 • **Closed** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31428)
-
 ___
 
 ### ECustomTimeStepSynchronizationState\_MAX
 
 • **ECustomTimeStepSynchronizationState\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31428)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Error** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31428)
-
 ___
 
 ### Synchronized
 
 • **Synchronized** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31428)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Synchronizing** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31428)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31428)

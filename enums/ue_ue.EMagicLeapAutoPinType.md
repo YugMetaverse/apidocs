@@ -20,19 +20,11 @@
 
 • **Always** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33987)
-
 ___
 
 ### EMagicLeapAutoPinType\_MAX
 
 • **EMagicLeapAutoPinType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33987)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Never** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33987)
-
 ___
 
 ### OnlyOnDataRestoration
 
 • **OnlyOnDataRestoration** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33987)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33987)

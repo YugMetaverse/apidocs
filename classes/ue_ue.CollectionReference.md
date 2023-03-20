@@ -26,10 +26,6 @@
 
 • **new CollectionReference**()
 
-#### Defined in
-
-[ue/ue.d.ts:58380](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58380)
-
 • **new CollectionReference**(`CollectionName`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `CollectionName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:58381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58381)
-
 ## Properties
 
 ### CollectionName
 
 • **CollectionName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:58382](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58382)
-
 ___
 
 ### \_\_tid\_CollectionReference\_\_
 
 • `Private` **\_\_tid\_CollectionReference\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58388)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:58386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58386)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:58387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58387)

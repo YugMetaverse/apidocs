@@ -28,10 +28,6 @@
 
 • **new DropNoteInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:32622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32622)
-
 • **new DropNoteInfo**(`Location`, `Rotation`, `Comment`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Rotation` | [`Rotator`](ue_ue_s.Rotator.md) |
 | `Comment` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:32623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32623)
-
 ## Properties
 
 ### Comment
 
 • **Comment**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:32626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32626)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Location**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32624)
-
 ___
 
 ### Rotation
 
 • **Rotation**: [`Rotator`](ue_ue_s.Rotator.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32625)
-
 ___
 
 ### \_\_tid\_DropNoteInfo\_\_
 
 • `Private` **\_\_tid\_DropNoteInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32632)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32630)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32631](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32631)

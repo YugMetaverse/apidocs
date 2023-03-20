@@ -29,10 +29,6 @@
 
 • **new BlueprintWidgetAnimationDelegateBinding**()
 
-#### Defined in
-
-[ue/ue.d.ts:66117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66117)
-
 • **new BlueprintWidgetAnimationDelegateBinding**(`Action`, `AnimationToBind`, `FunctionNameToBind`, `UserTag`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `FunctionNameToBind` | `string` |
 | `UserTag` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:66118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66118)
-
 ## Properties
 
 ### Action
 
 • **Action**: [`EWidgetAnimationEvent`](../enums/ue_ue.EWidgetAnimationEvent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66119)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **AnimationToBind**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:66120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66120)
-
 ___
 
 ### FunctionNameToBind
 
 • **FunctionNameToBind**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:66121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66121)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **UserTag**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:66122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66122)
-
 ___
 
 ### \_\_tid\_BlueprintWidgetAnimationDelegateBinding\_\_
 
 • `Private` **\_\_tid\_BlueprintWidgetAnimationDelegateBinding\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:66128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66128)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66126)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66127)

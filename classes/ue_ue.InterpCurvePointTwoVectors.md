@@ -30,10 +30,6 @@
 
 • **new InterpCurvePointTwoVectors**()
 
-#### Defined in
-
-[ue/ue.d.ts:31128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31128)
-
 • **new InterpCurvePointTwoVectors**(`InVal`, `OutVal`, `ArriveTangent`, `LeaveTangent`, `InterpMode`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `LeaveTangent` | [`TwoVectors`](ue_ue.TwoVectors.md) |
 | `InterpMode` | [`EInterpCurveMode`](../enums/ue_ue.EInterpCurveMode.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:31129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31129)
-
 ## Properties
 
 ### ArriveTangent
 
 • **ArriveTangent**: [`TwoVectors`](ue_ue.TwoVectors.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31132)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **InVal**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31130)
-
 ___
 
 ### InterpMode
 
 • **InterpMode**: [`EInterpCurveMode`](../enums/ue_ue.EInterpCurveMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31134)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **LeaveTangent**: [`TwoVectors`](ue_ue.TwoVectors.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31133)
-
 ___
 
 ### OutVal
 
 • **OutVal**: [`TwoVectors`](ue_ue.TwoVectors.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31131)
-
 ___
 
 ### \_\_tid\_InterpCurvePointTwoVectors\_\_
 
 • `Private` **\_\_tid\_InterpCurvePointTwoVectors\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31140)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31138)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31139)

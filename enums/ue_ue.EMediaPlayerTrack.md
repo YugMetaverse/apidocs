@@ -24,19 +24,11 @@
 
 • **Audio** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34038)
-
 ___
 
 ### Caption
 
 • **Caption** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34038)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **EMediaPlayerTrack\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34038)
-
 ___
 
 ### Metadata
 
 • **Metadata** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34038)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **Script** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34038)
-
 ___
 
 ### Subtitle
 
 • **Subtitle** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34038)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **Text** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34038)
-
 ___
 
 ### Video
 
 • **Video** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34038)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34038)

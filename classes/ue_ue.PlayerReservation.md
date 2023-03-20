@@ -30,10 +30,6 @@
 
 • **new PlayerReservation**()
 
-#### Defined in
-
-[ue/ue.d.ts:56826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56826)
-
 • **new PlayerReservation**(`UniqueId`, `ValidationStr`, `Platform`, `bAllowCrossplay`, `ElapsedTime`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `bAllowCrossplay` | `boolean` |
 | `ElapsedTime` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:56827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56827)
-
 ## Properties
 
 ### ElapsedTime
 
 • **ElapsedTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:56832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56832)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **Platform**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:56830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56830)
-
 ___
 
 ### UniqueId
 
 • **UniqueId**: [`UniqueNetIdRepl`](ue_ue.UniqueNetIdRepl.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56828)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **ValidationStr**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:56829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56829)
-
 ___
 
 ### \_\_tid\_PlayerReservation\_\_
 
 • `Private` **\_\_tid\_PlayerReservation\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:56838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56838)
-
 ___
 
 ### bAllowCrossplay
 
 • **bAllowCrossplay**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:56831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56831)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:56836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56836)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56837)

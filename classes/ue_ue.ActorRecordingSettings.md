@@ -26,10 +26,6 @@
 
 • **new ActorRecordingSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:13950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13950)
-
 • **new ActorRecordingSettings**(`Settings`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Settings` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Object`](ue_ue.Object.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:13951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13951)
-
 ## Properties
 
 ### Settings
 
 • **Settings**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Object`](ue_ue.Object.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:13952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13952)
-
 ___
 
 ### \_\_tid\_ActorRecordingSettings\_\_
 
 • `Private` **\_\_tid\_ActorRecordingSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:13958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13958)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:13956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13956)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:13957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13957)

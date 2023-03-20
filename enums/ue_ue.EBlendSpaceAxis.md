@@ -21,19 +21,11 @@
 
 • **BSA\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15251)
-
 ___
 
 ### BSA\_Max
 
 • **BSA\_Max** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15251)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **BSA\_None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15251)
-
 ___
 
 ### BSA\_X
 
 • **BSA\_X** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15251)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **BSA\_Y** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15251)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15251)

@@ -28,10 +28,6 @@
 
 • **new PredictProjectilePathPointData**()
 
-#### Defined in
-
-[ue/ue.d.ts:36827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36827)
-
 • **new PredictProjectilePathPointData**(`Location`, `Velocity`, `Time`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Velocity` | [`Vector`](ue_ue_s.Vector.md) |
 | `Time` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:36828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36828)
-
 ## Properties
 
 ### Location
 
 • **Location**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36829)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Time**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:36831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36831)
-
 ___
 
 ### Velocity
 
 • **Velocity**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36830)
-
 ___
 
 ### \_\_tid\_PredictProjectilePathPointData\_\_
 
 • `Private` **\_\_tid\_PredictProjectilePathPointData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36837)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36835](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36835)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36836)

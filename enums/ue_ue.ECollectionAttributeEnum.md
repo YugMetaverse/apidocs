@@ -21,19 +21,11 @@
 
 • **Chaos\_Active** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31400)
-
 ___
 
 ### Chaos\_CollisionGroup
 
 • **Chaos\_CollisionGroup** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31400)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Chaos\_DynamicState** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31400)
-
 ___
 
 ### Chaos\_MAX
 
 • **Chaos\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31400)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Chaos\_Max** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31400)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31400)

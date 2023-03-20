@@ -23,19 +23,11 @@
 
 • **NOISEFUNCTION\_GradientALU** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34181)
-
 ___
 
 ### NOISEFUNCTION\_GradientTex
 
 • **NOISEFUNCTION\_GradientTex** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34181)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **NOISEFUNCTION\_GradientTex3D** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34181)
-
 ___
 
 ### NOISEFUNCTION\_MAX
 
 • **NOISEFUNCTION\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34181)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **NOISEFUNCTION\_SimplexTex** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34181)
-
 ___
 
 ### NOISEFUNCTION\_ValueALU
 
 • **NOISEFUNCTION\_ValueALU** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34181)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **NOISEFUNCTION\_VoronoiALU** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34181)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34181)

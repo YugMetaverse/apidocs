@@ -59,10 +59,6 @@
 
 [DamageType](ue_ue.DamageType.md).[constructor](ue_ue.DamageType.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:31174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31174)
-
 ## Properties
 
 ### DamageFalloff
@@ -72,10 +68,6 @@
 #### Inherited from
 
 [DamageType](ue_ue.DamageType.md).[DamageFalloff](ue_ue.DamageType.md#damagefalloff)
-
-#### Defined in
-
-[ue/ue.d.ts:2286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2286)
 
 ___
 
@@ -87,10 +79,6 @@ ___
 
 [DamageType](ue_ue.DamageType.md).[DamageImpulse](ue_ue.DamageType.md#damageimpulse)
 
-#### Defined in
-
-[ue/ue.d.ts:2283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2283)
-
 ___
 
 ### DestructibleDamageSpreadScale
@@ -100,10 +88,6 @@ ___
 #### Inherited from
 
 [DamageType](ue_ue.DamageType.md).[DestructibleDamageSpreadScale](ue_ue.DamageType.md#destructibledamagespreadscale)
-
-#### Defined in
-
-[ue/ue.d.ts:2285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2285)
 
 ___
 
@@ -115,10 +99,6 @@ ___
 
 [DamageType](ue_ue.DamageType.md).[DestructibleImpulse](ue_ue.DamageType.md#destructibleimpulse)
 
-#### Defined in
-
-[ue/ue.d.ts:2284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2284)
-
 ___
 
 ### \_\_tid\_DamageType\_\_
@@ -129,19 +109,11 @@ ___
 
 [DamageType](ue_ue.DamageType.md).[__tid_DamageType__](ue_ue.DamageType.md#__tid_damagetype__)
 
-#### Defined in
-
-[ue/ue.d.ts:2291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2291)
-
 ___
 
 ### \_\_tid\_DmgTypeBP\_Environmental\_C\_\_
 
 • **\_\_tid\_DmgTypeBP\_Environmental\_C\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31179)
 
 ___
 
@@ -153,10 +125,6 @@ ___
 
 [DamageType](ue_ue.DamageType.md).[__tid_Object__](ue_ue.DamageType.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bCausedByWorld
@@ -166,10 +134,6 @@ ___
 #### Inherited from
 
 [DamageType](ue_ue.DamageType.md).[bCausedByWorld](ue_ue.DamageType.md#bcausedbyworld)
-
-#### Defined in
-
-[ue/ue.d.ts:2280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2280)
 
 ___
 
@@ -181,10 +145,6 @@ ___
 
 [DamageType](ue_ue.DamageType.md).[bRadialDamageVelChange](ue_ue.DamageType.md#bradialdamagevelchange)
 
-#### Defined in
-
-[ue/ue.d.ts:2282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2282)
-
 ___
 
 ### bScaleMomentumByMass
@@ -194,10 +154,6 @@ ___
 #### Inherited from
 
 [DamageType](ue_ue.DamageType.md).[bScaleMomentumByMass](ue_ue.DamageType.md#bscalemomentumbymass)
-
-#### Defined in
-
-[ue/ue.d.ts:2281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2281)
 
 ## Methods
 
@@ -223,10 +179,6 @@ ___
 
 [DamageType](ue_ue.DamageType.md).[CreateDefaultSubobject](ue_ue.DamageType.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -247,10 +199,6 @@ ___
 
 [DamageType](ue_ue.DamageType.md).[ExecuteUbergraph](ue_ue.DamageType.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -264,10 +212,6 @@ ___
 #### Inherited from
 
 [DamageType](ue_ue.DamageType.md).[GetClass](ue_ue.DamageType.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -283,10 +227,6 @@ ___
 
 [DamageType](ue_ue.DamageType.md).[GetName](ue_ue.DamageType.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -301,10 +241,6 @@ ___
 
 [DamageType](ue_ue.DamageType.md).[GetOuter](ue_ue.DamageType.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -318,10 +254,6 @@ ___
 #### Inherited from
 
 [DamageType](ue_ue.DamageType.md).[GetWorld](ue_ue.DamageType.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -344,10 +276,6 @@ ___
 
 [DamageType](ue_ue.DamageType.md).[Find](ue_ue.DamageType.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:31176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31176)
-
 ___
 
 ### Load
@@ -368,10 +296,6 @@ ___
 
 [DamageType](ue_ue.DamageType.md).[Load](ue_ue.DamageType.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:31177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31177)
-
 ___
 
 ### StaticClass
@@ -385,7 +309,3 @@ ___
 #### Overrides
 
 [DamageType](ue_ue.DamageType.md).[StaticClass](ue_ue.DamageType.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:31175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31175)

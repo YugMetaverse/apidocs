@@ -25,19 +25,11 @@
 
 • **TEXALIGN\_Box** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34816)
-
 ___
 
 ### TEXALIGN\_Default
 
 • **TEXALIGN\_Default** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34816)
 
 ___
 
@@ -45,19 +37,11 @@ ___
 
 • **TEXALIGN\_Fit** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34816)
-
 ___
 
 ### TEXALIGN\_MAX
 
 • **TEXALIGN\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34816)
 
 ___
 
@@ -65,19 +49,11 @@ ___
 
 • **TEXALIGN\_None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34816)
-
 ___
 
 ### TEXALIGN\_Planar
 
 • **TEXALIGN\_Planar** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34816)
 
 ___
 
@@ -85,19 +61,11 @@ ___
 
 • **TEXALIGN\_PlanarAuto** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34816)
-
 ___
 
 ### TEXALIGN\_PlanarFloor
 
 • **TEXALIGN\_PlanarFloor** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34816)
 
 ___
 
@@ -105,16 +73,8 @@ ___
 
 • **TEXALIGN\_PlanarWall** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34816)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34816)

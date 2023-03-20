@@ -73,10 +73,6 @@
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[constructor](ue_ue.ParticleModuleVelocity.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:56742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56742)
-
 ## Properties
 
 ### LODDuplicate
@@ -86,10 +82,6 @@
 #### Inherited from
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[LODDuplicate](ue_ue.ParticleModuleVelocity.md#lodduplicate)
-
-#### Defined in
-
-[ue/ue.d.ts:6745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6745)
 
 ___
 
@@ -101,10 +93,6 @@ ___
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[LODValidity](ue_ue.ParticleModuleVelocity.md#lodvalidity)
 
-#### Defined in
-
-[ue/ue.d.ts:6748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6748)
-
 ___
 
 ### ModuleEditorColor
@@ -115,19 +103,11 @@ ___
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[ModuleEditorColor](ue_ue.ParticleModuleVelocity.md#moduleeditorcolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6749)
-
 ___
 
 ### RandomSeedInfo
 
 • **RandomSeedInfo**: [`ParticleRandomSeedInfo`](ue_ue.ParticleRandomSeedInfo.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56743)
 
 ___
 
@@ -139,10 +119,6 @@ ___
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[StartVelocity](ue_ue.ParticleModuleVelocity.md#startvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:56732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56732)
-
 ___
 
 ### StartVelocityRadial
@@ -152,10 +128,6 @@ ___
 #### Inherited from
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[StartVelocityRadial](ue_ue.ParticleModuleVelocity.md#startvelocityradial)
-
-#### Defined in
-
-[ue/ue.d.ts:56733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56733)
 
 ___
 
@@ -167,10 +139,6 @@ ___
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[__tid_Object__](ue_ue.ParticleModuleVelocity.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ParticleModuleVelocityBase\_\_
@@ -181,19 +149,11 @@ ___
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[__tid_ParticleModuleVelocityBase__](ue_ue.ParticleModuleVelocity.md#__tid_particlemodulevelocitybase__)
 
-#### Defined in
-
-[ue/ue.d.ts:56727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56727)
-
 ___
 
 ### \_\_tid\_ParticleModuleVelocity\_Seeded\_\_
 
 • **\_\_tid\_ParticleModuleVelocity\_Seeded\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:56748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56748)
 
 ___
 
@@ -205,10 +165,6 @@ ___
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[__tid_ParticleModuleVelocity__](ue_ue.ParticleModuleVelocity.md#__tid_particlemodulevelocity__)
 
-#### Defined in
-
-[ue/ue.d.ts:56738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56738)
-
 ___
 
 ### \_\_tid\_ParticleModule\_\_
@@ -218,10 +174,6 @@ ___
 #### Inherited from
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[__tid_ParticleModule__](ue_ue.ParticleModuleVelocity.md#__tid_particlemodule__)
-
-#### Defined in
-
-[ue/ue.d.ts:6754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6754)
 
 ___
 
@@ -233,10 +185,6 @@ ___
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[b3DDrawMode](ue_ue.ParticleModuleVelocity.md#b3ddrawmode)
 
-#### Defined in
-
-[ue/ue.d.ts:6741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6741)
-
 ___
 
 ### bApplyOwnerScale
@@ -246,10 +194,6 @@ ___
 #### Inherited from
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[bApplyOwnerScale](ue_ue.ParticleModuleVelocity.md#bapplyownerscale)
-
-#### Defined in
-
-[ue/ue.d.ts:56722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56722)
 
 ___
 
@@ -261,10 +205,6 @@ ___
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[bCurvesAsColor](ue_ue.ParticleModuleVelocity.md#bcurvesascolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6740)
-
 ___
 
 ### bEditable
@@ -274,10 +214,6 @@ ___
 #### Inherited from
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[bEditable](ue_ue.ParticleModuleVelocity.md#beditable)
-
-#### Defined in
-
-[ue/ue.d.ts:6744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6744)
 
 ___
 
@@ -289,10 +225,6 @@ ___
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[bEnabled](ue_ue.ParticleModuleVelocity.md#benabled)
 
-#### Defined in
-
-[ue/ue.d.ts:6743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6743)
-
 ___
 
 ### bFinalUpdateModule
@@ -302,10 +234,6 @@ ___
 #### Inherited from
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[bFinalUpdateModule](ue_ue.ParticleModuleVelocity.md#bfinalupdatemodule)
-
-#### Defined in
-
-[ue/ue.d.ts:6738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6738)
 
 ___
 
@@ -317,10 +245,6 @@ ___
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[bInWorldSpace](ue_ue.ParticleModuleVelocity.md#binworldspace)
 
-#### Defined in
-
-[ue/ue.d.ts:56721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56721)
-
 ___
 
 ### bRequiresLoopingNotification
@@ -330,10 +254,6 @@ ___
 #### Inherited from
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[bRequiresLoopingNotification](ue_ue.ParticleModuleVelocity.md#brequiresloopingnotification)
-
-#### Defined in
-
-[ue/ue.d.ts:6747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6747)
 
 ___
 
@@ -345,10 +265,6 @@ ___
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[bSpawnModule](ue_ue.ParticleModuleVelocity.md#bspawnmodule)
 
-#### Defined in
-
-[ue/ue.d.ts:6736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6736)
-
 ___
 
 ### bSupported3DDrawMode
@@ -358,10 +274,6 @@ ___
 #### Inherited from
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[bSupported3DDrawMode](ue_ue.ParticleModuleVelocity.md#bsupported3ddrawmode)
-
-#### Defined in
-
-[ue/ue.d.ts:6742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6742)
 
 ___
 
@@ -373,10 +285,6 @@ ___
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[bSupportsRandomSeed](ue_ue.ParticleModuleVelocity.md#bsupportsrandomseed)
 
-#### Defined in
-
-[ue/ue.d.ts:6746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6746)
-
 ___
 
 ### bUpdateForGPUEmitter
@@ -387,10 +295,6 @@ ___
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[bUpdateForGPUEmitter](ue_ue.ParticleModuleVelocity.md#bupdateforgpuemitter)
 
-#### Defined in
-
-[ue/ue.d.ts:6739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6739)
-
 ___
 
 ### bUpdateModule
@@ -400,10 +304,6 @@ ___
 #### Inherited from
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[bUpdateModule](ue_ue.ParticleModuleVelocity.md#bupdatemodule)
-
-#### Defined in
-
-[ue/ue.d.ts:6737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6737)
 
 ## Methods
 
@@ -429,10 +329,6 @@ ___
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[CreateDefaultSubobject](ue_ue.ParticleModuleVelocity.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -453,10 +349,6 @@ ___
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[ExecuteUbergraph](ue_ue.ParticleModuleVelocity.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -470,10 +362,6 @@ ___
 #### Inherited from
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[GetClass](ue_ue.ParticleModuleVelocity.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -489,10 +377,6 @@ ___
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[GetName](ue_ue.ParticleModuleVelocity.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -507,10 +391,6 @@ ___
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[GetOuter](ue_ue.ParticleModuleVelocity.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -524,10 +404,6 @@ ___
 #### Inherited from
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[GetWorld](ue_ue.ParticleModuleVelocity.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -550,10 +426,6 @@ ___
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[Find](ue_ue.ParticleModuleVelocity.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:56745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56745)
-
 ___
 
 ### Load
@@ -574,10 +446,6 @@ ___
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[Load](ue_ue.ParticleModuleVelocity.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:56746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56746)
-
 ___
 
 ### StaticClass
@@ -591,7 +459,3 @@ ___
 #### Overrides
 
 [ParticleModuleVelocity](ue_ue.ParticleModuleVelocity.md).[StaticClass](ue_ue.ParticleModuleVelocity.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:56744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56744)

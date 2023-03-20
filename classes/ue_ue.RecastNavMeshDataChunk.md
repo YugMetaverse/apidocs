@@ -53,10 +53,6 @@
 
 [NavigationDataChunk](ue_ue.NavigationDataChunk.md).[constructor](ue_ue.NavigationDataChunk.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:59182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59182)
-
 ## Properties
 
 ### NavigationDataName
@@ -66,10 +62,6 @@
 #### Inherited from
 
 [NavigationDataChunk](ue_ue.NavigationDataChunk.md).[NavigationDataName](ue_ue.NavigationDataChunk.md#navigationdataname)
-
-#### Defined in
-
-[ue/ue.d.ts:8581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8581)
 
 ___
 
@@ -81,10 +73,6 @@ ___
 
 [NavigationDataChunk](ue_ue.NavigationDataChunk.md).[__tid_NavigationDataChunk__](ue_ue.NavigationDataChunk.md#__tid_navigationdatachunk__)
 
-#### Defined in
-
-[ue/ue.d.ts:8586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8586)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -95,19 +83,11 @@ ___
 
 [NavigationDataChunk](ue_ue.NavigationDataChunk.md).[__tid_Object__](ue_ue.NavigationDataChunk.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_RecastNavMeshDataChunk\_\_
 
 • **\_\_tid\_RecastNavMeshDataChunk\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59187)
 
 ## Methods
 
@@ -133,10 +113,6 @@ ___
 
 [NavigationDataChunk](ue_ue.NavigationDataChunk.md).[CreateDefaultSubobject](ue_ue.NavigationDataChunk.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -157,10 +133,6 @@ ___
 
 [NavigationDataChunk](ue_ue.NavigationDataChunk.md).[ExecuteUbergraph](ue_ue.NavigationDataChunk.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -174,10 +146,6 @@ ___
 #### Inherited from
 
 [NavigationDataChunk](ue_ue.NavigationDataChunk.md).[GetClass](ue_ue.NavigationDataChunk.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -193,10 +161,6 @@ ___
 
 [NavigationDataChunk](ue_ue.NavigationDataChunk.md).[GetName](ue_ue.NavigationDataChunk.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -211,10 +175,6 @@ ___
 
 [NavigationDataChunk](ue_ue.NavigationDataChunk.md).[GetOuter](ue_ue.NavigationDataChunk.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -228,10 +188,6 @@ ___
 #### Inherited from
 
 [NavigationDataChunk](ue_ue.NavigationDataChunk.md).[GetWorld](ue_ue.NavigationDataChunk.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -254,10 +210,6 @@ ___
 
 [NavigationDataChunk](ue_ue.NavigationDataChunk.md).[Find](ue_ue.NavigationDataChunk.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:59184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59184)
-
 ___
 
 ### Load
@@ -278,10 +230,6 @@ ___
 
 [NavigationDataChunk](ue_ue.NavigationDataChunk.md).[Load](ue_ue.NavigationDataChunk.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:59185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59185)
-
 ___
 
 ### StaticClass
@@ -295,7 +243,3 @@ ___
 #### Overrides
 
 [NavigationDataChunk](ue_ue.NavigationDataChunk.md).[StaticClass](ue_ue.NavigationDataChunk.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:59183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59183)

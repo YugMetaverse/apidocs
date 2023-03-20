@@ -20,19 +20,11 @@
 
 • **PSMA\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34052)
-
 ___
 
 ### PSMA\_MeshFaceCameraWithLockedAxis
 
 • **PSMA\_MeshFaceCameraWithLockedAxis** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34052)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **PSMA\_MeshFaceCameraWithRoll** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34052)
-
 ___
 
 ### PSMA\_MeshFaceCameraWithSpin
 
 • **PSMA\_MeshFaceCameraWithSpin** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34052)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34052)

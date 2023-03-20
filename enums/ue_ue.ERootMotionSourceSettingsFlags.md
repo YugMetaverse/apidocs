@@ -19,19 +19,11 @@
 
 • **DisablePartialEndTick** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34742)
-
 ___
 
 ### ERootMotionSourceSettingsFlags\_MAX
 
 • **ERootMotionSourceSettingsFlags\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34742)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **UseSensitiveLiftoffCheck** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34742)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34742)

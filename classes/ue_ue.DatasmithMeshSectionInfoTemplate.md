@@ -26,10 +26,6 @@
 
 • **new DatasmithMeshSectionInfoTemplate**()
 
-#### Defined in
-
-[ue/ue.d.ts:30072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30072)
-
 • **new DatasmithMeshSectionInfoTemplate**(`MaterialIndex`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `MaterialIndex` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:30073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30073)
-
 ## Properties
 
 ### MaterialIndex
 
 • **MaterialIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30074)
-
 ___
 
 ### \_\_tid\_DatasmithMeshSectionInfoTemplate\_\_
 
 • `Private` **\_\_tid\_DatasmithMeshSectionInfoTemplate\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30080)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:30078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30078)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:30079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30079)

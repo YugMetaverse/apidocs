@@ -25,19 +25,11 @@
 
 • **new BlueprintSessionResult**()
 
-#### Defined in
-
-[ue/ue.d.ts:35567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35567)
-
 ## Properties
 
 ### \_\_tid\_BlueprintSessionResult\_\_
 
 • `Private` **\_\_tid\_BlueprintSessionResult\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35573)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35571)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35572)

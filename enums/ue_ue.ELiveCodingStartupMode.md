@@ -20,19 +20,11 @@
 
 • **Automatic** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33950)
-
 ___
 
 ### AutomaticButHidden
 
 • **AutomaticButHidden** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33950)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **ELiveCodingStartupMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33950)
-
 ___
 
 ### Manual
 
 • **Manual** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33950)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33950)

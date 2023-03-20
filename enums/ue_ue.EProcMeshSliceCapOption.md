@@ -20,19 +20,11 @@
 
 • **CreateNewSectionForCap** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34685)
-
 ___
 
 ### EProcMeshSliceCapOption\_MAX
 
 • **EProcMeshSliceCapOption\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34685)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **NoCap** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34685)
-
 ___
 
 ### UseLastSectionForCap
 
 • **UseLastSectionForCap** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34685)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34685)

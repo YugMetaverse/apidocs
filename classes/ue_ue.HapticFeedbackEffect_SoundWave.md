@@ -53,19 +53,11 @@
 
 [HapticFeedbackEffect_Base](ue_ue.HapticFeedbackEffect_Base.md).[constructor](ue_ue.HapticFeedbackEffect_Base.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:38467](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38467)
-
 ## Properties
 
 ### SoundWave
 
 • **SoundWave**: [`SoundWave`](ue_ue.SoundWave.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38468)
 
 ___
 
@@ -77,19 +69,11 @@ ___
 
 [HapticFeedbackEffect_Base](ue_ue.HapticFeedbackEffect_Base.md).[__tid_HapticFeedbackEffect_Base__](ue_ue.HapticFeedbackEffect_Base.md#__tid_hapticfeedbackeffect_base__)
 
-#### Defined in
-
-[ue/ue.d.ts:12213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12213)
-
 ___
 
 ### \_\_tid\_HapticFeedbackEffect\_SoundWave\_\_
 
 • **\_\_tid\_HapticFeedbackEffect\_SoundWave\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38473](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38473)
 
 ___
 
@@ -100,10 +84,6 @@ ___
 #### Inherited from
 
 [HapticFeedbackEffect_Base](ue_ue.HapticFeedbackEffect_Base.md).[__tid_Object__](ue_ue.HapticFeedbackEffect_Base.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -129,10 +109,6 @@ ___
 
 [HapticFeedbackEffect_Base](ue_ue.HapticFeedbackEffect_Base.md).[CreateDefaultSubobject](ue_ue.HapticFeedbackEffect_Base.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -153,10 +129,6 @@ ___
 
 [HapticFeedbackEffect_Base](ue_ue.HapticFeedbackEffect_Base.md).[ExecuteUbergraph](ue_ue.HapticFeedbackEffect_Base.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -170,10 +142,6 @@ ___
 #### Inherited from
 
 [HapticFeedbackEffect_Base](ue_ue.HapticFeedbackEffect_Base.md).[GetClass](ue_ue.HapticFeedbackEffect_Base.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -189,10 +157,6 @@ ___
 
 [HapticFeedbackEffect_Base](ue_ue.HapticFeedbackEffect_Base.md).[GetName](ue_ue.HapticFeedbackEffect_Base.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -207,10 +171,6 @@ ___
 
 [HapticFeedbackEffect_Base](ue_ue.HapticFeedbackEffect_Base.md).[GetOuter](ue_ue.HapticFeedbackEffect_Base.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -224,10 +184,6 @@ ___
 #### Inherited from
 
 [HapticFeedbackEffect_Base](ue_ue.HapticFeedbackEffect_Base.md).[GetWorld](ue_ue.HapticFeedbackEffect_Base.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -250,10 +206,6 @@ ___
 
 [HapticFeedbackEffect_Base](ue_ue.HapticFeedbackEffect_Base.md).[Find](ue_ue.HapticFeedbackEffect_Base.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:38470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38470)
-
 ___
 
 ### Load
@@ -274,10 +226,6 @@ ___
 
 [HapticFeedbackEffect_Base](ue_ue.HapticFeedbackEffect_Base.md).[Load](ue_ue.HapticFeedbackEffect_Base.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:38471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38471)
-
 ___
 
 ### StaticClass
@@ -291,7 +239,3 @@ ___
 #### Overrides
 
 [HapticFeedbackEffect_Base](ue_ue.HapticFeedbackEffect_Base.md).[StaticClass](ue_ue.HapticFeedbackEffect_Base.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:38469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38469)

@@ -28,10 +28,6 @@
 
 • **new BeamModifierOptions**()
 
-#### Defined in
-
-[ue/ue.d.ts:55386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55386)
-
 • **new BeamModifierOptions**(`bModify`, `bScale`, `bLock`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `bScale` | `boolean` |
 | `bLock` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:55387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55387)
-
 ## Properties
 
 ### \_\_tid\_BeamModifierOptions\_\_
 
 • `Private` **\_\_tid\_BeamModifierOptions\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55396)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **bLock**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:55390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55390)
-
 ___
 
 ### bModify
 
 • **bModify**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:55388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55388)
-
 ___
 
 ### bScale
 
 • **bScale**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55389)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:55394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55394)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:55395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55395)

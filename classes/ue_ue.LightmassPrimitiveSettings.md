@@ -34,10 +34,6 @@
 
 • **new LightmassPrimitiveSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:10566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10566)
-
 • **new LightmassPrimitiveSettings**(`bUseTwoSidedLighting`, `bShadowIndirectOnly`, `bUseEmissiveForStaticLighting`, `bUseVertexNormalForHemisphereGather`, `EmissiveLightFalloffExponent`, `EmissiveLightExplicitInfluenceRadius`, `EmissiveBoost`, `DiffuseBoost`, `FullyOccludedSamplesFraction`)
 
 #### Parameters
@@ -54,19 +50,11 @@
 | `DiffuseBoost` | `number` |
 | `FullyOccludedSamplesFraction` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:10567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10567)
-
 ## Properties
 
 ### DiffuseBoost
 
 • **DiffuseBoost**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10575)
 
 ___
 
@@ -74,19 +62,11 @@ ___
 
 • **EmissiveBoost**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10574)
-
 ___
 
 ### EmissiveLightExplicitInfluenceRadius
 
 • **EmissiveLightExplicitInfluenceRadius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10573)
 
 ___
 
@@ -94,19 +74,11 @@ ___
 
 • **EmissiveLightFalloffExponent**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10572)
-
 ___
 
 ### FullyOccludedSamplesFraction
 
 • **FullyOccludedSamplesFraction**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10576)
 
 ___
 
@@ -114,19 +86,11 @@ ___
 
 • `Private` **\_\_tid\_LightmassPrimitiveSettings\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:10582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10582)
-
 ___
 
 ### bShadowIndirectOnly
 
 • **bShadowIndirectOnly**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10569)
 
 ___
 
@@ -134,29 +98,17 @@ ___
 
 • **bUseEmissiveForStaticLighting**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:10570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10570)
-
 ___
 
 ### bUseTwoSidedLighting
 
 • **bUseTwoSidedLighting**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:10568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10568)
-
 ___
 
 ### bUseVertexNormalForHemisphereGather
 
 • **bUseVertexNormalForHemisphereGather**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10571)
 
 ## Methods
 
@@ -172,10 +124,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10580)
-
 ___
 
 ### StaticStruct
@@ -185,7 +133,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10581)

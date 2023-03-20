@@ -20,19 +20,11 @@
 
 • **OverlapFilter\_All** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34652)
-
 ___
 
 ### OverlapFilter\_DynamicOnly
 
 • **OverlapFilter\_DynamicOnly** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34652)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **OverlapFilter\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34652)
-
 ___
 
 ### OverlapFilter\_StaticOnly
 
 • **OverlapFilter\_StaticOnly** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34652)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34652)

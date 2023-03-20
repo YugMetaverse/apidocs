@@ -24,19 +24,11 @@
 
 • **Jumping** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14169)
-
 ___
 
 ### MAX
 
 • **MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14169)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **Paused** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14169)
-
 ___
 
 ### Playing
 
 • **Playing** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14169)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **Recording** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14169)
-
 ___
 
 ### Scrubbing
 
 • **Scrubbing** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14169)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **Stepping** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14169)
-
 ___
 
 ### Stopped
 
 • **Stopped** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14169)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14169)

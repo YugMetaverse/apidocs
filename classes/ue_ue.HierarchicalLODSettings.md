@@ -59,19 +59,11 @@
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[constructor](ue_ue.DeveloperSettings.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:38570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38570)
-
 ## Properties
 
 ### BaseMaterial
 
 • **BaseMaterial**: [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`MaterialInterface`](ue_ue.MaterialInterface.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:38577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38577)
 
 ___
 
@@ -79,29 +71,17 @@ ___
 
 • **DefaultSetup**: [`TSoftClassPtr`](../modules/ue_puerts.md#tsoftclassptr)<[`HierarchicalLODSetup`](ue_ue.HierarchicalLODSetup.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:38572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38572)
-
 ___
 
 ### DirectoriesForHLODCommandlet
 
 • **DirectoriesForHLODCommandlet**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`DirectoryPath`](ue_ue.DirectoryPath.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:38573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38573)
-
 ___
 
 ### MapsToBuild
 
 • **MapsToBuild**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`FilePath`](ue_ue.FilePath.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:38574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38574)
 
 ___
 
@@ -113,19 +93,11 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[__tid_DeveloperSettings__](ue_ue.DeveloperSettings.md#__tid_developersettings__)
 
-#### Defined in
-
-[ue/ue.d.ts:16950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16950)
-
 ___
 
 ### \_\_tid\_HierarchicalLODSettings\_\_
 
 • **\_\_tid\_HierarchicalLODSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38582)
 
 ___
 
@@ -137,19 +109,11 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[__tid_Object__](ue_ue.DeveloperSettings.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bDeleteHLODAssets
 
 • **bDeleteHLODAssets**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38576)
 
 ___
 
@@ -157,19 +121,11 @@ ___
 
 • **bForceSettingsInAllMaps**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:38571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38571)
-
 ___
 
 ### bInvalidateHLODClusters
 
 • **bInvalidateHLODClusters**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38575)
 
 ## Methods
 
@@ -195,10 +151,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[CreateDefaultSubobject](ue_ue.DeveloperSettings.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -219,10 +171,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[ExecuteUbergraph](ue_ue.DeveloperSettings.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -236,10 +184,6 @@ ___
 #### Inherited from
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetClass](ue_ue.DeveloperSettings.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -255,10 +199,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetName](ue_ue.DeveloperSettings.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -273,10 +213,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetOuter](ue_ue.DeveloperSettings.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -290,10 +226,6 @@ ___
 #### Inherited from
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetWorld](ue_ue.DeveloperSettings.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -316,10 +248,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[Find](ue_ue.DeveloperSettings.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:38579](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38579)
-
 ___
 
 ### Load
@@ -340,10 +268,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[Load](ue_ue.DeveloperSettings.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:38580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38580)
-
 ___
 
 ### StaticClass
@@ -357,7 +281,3 @@ ___
 #### Overrides
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[StaticClass](ue_ue.DeveloperSettings.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:38578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38578)

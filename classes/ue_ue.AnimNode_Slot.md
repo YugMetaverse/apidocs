@@ -38,10 +38,6 @@
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[constructor](ue_ue.AnimNode_Base.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:19609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19609)
-
 • **new AnimNode_Slot**(`Source`, `SlotName`, `bAlwaysUpdateSourcePose`)
 
 #### Parameters
@@ -56,19 +52,11 @@
 
 UE.AnimNode\_Base.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:19610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19610)
-
 ## Properties
 
 ### SlotName
 
 • **SlotName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:19612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19612)
 
 ___
 
@@ -76,29 +64,17 @@ ___
 
 • **Source**: [`PoseLink`](ue_ue.PoseLink.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19611](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19611)
-
 ___
 
 ### \_\_tid\_AnimNode\_Slot\_\_
 
 • `Private` **\_\_tid\_AnimNode\_Slot\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:19619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19619)
-
 ___
 
 ### bAlwaysUpdateSourcePose
 
 • **bAlwaysUpdateSourcePose**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:19613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19613)
 
 ## Methods
 
@@ -118,10 +94,6 @@ use StaticStruct instead.
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticClass](ue_ue.AnimNode_Base.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:19617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19617)
-
 ___
 
 ### StaticStruct
@@ -135,7 +107,3 @@ ___
 #### Overrides
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticStruct](ue_ue.AnimNode_Base.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:19618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19618)

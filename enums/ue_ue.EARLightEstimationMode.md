@@ -20,19 +20,11 @@
 
 • **AmbientLightEstimate** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20711)
-
 ___
 
 ### DirectionalLightEstimate
 
 • **DirectionalLightEstimate** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20711)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **EARLightEstimationMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20711)
-
 ___
 
 ### None
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20711)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20711)

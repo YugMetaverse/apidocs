@@ -20,19 +20,11 @@
 
 • **ILCQ\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L350)
-
 ___
 
 ### ILCQ\_Off
 
 • **ILCQ\_Off** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L350)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **ILCQ\_Point** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L350)
-
 ___
 
 ### ILCQ\_Volume
 
 • **ILCQ\_Volume** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L350)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L350)

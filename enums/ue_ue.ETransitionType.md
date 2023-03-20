@@ -24,19 +24,11 @@
 
 • **Connecting** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32620)
-
 ___
 
 ### Loading
 
 • **Loading** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32620)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32620)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32620)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **Paused** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32620)
-
 ___
 
 ### Precaching
 
 • **Precaching** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32620)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **Saving** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32620)
-
 ___
 
 ### WaitingToConnect
 
 • **WaitingToConnect** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32620)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32620)

@@ -19,19 +19,11 @@
 
 • **PBO\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4613)
-
 ___
 
 ### PBO\_None
 
 • **PBO\_None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4613)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **PBO\_Term** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4613)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4613)

@@ -23,19 +23,11 @@
 
 • **TRANSFORMPOSSOURCE\_Camera** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34023)
-
 ___
 
 ### TRANSFORMPOSSOURCE\_Local
 
 • **TRANSFORMPOSSOURCE\_Local** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34023)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **TRANSFORMPOSSOURCE\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34023)
-
 ___
 
 ### TRANSFORMPOSSOURCE\_Particle
 
 • **TRANSFORMPOSSOURCE\_Particle** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34023)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **TRANSFORMPOSSOURCE\_TranslatedWorld** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34023)
-
 ___
 
 ### TRANSFORMPOSSOURCE\_View
 
 • **TRANSFORMPOSSOURCE\_View** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34023)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **TRANSFORMPOSSOURCE\_World** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34023)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34023)

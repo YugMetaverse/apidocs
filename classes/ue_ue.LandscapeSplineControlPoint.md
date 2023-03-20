@@ -89,19 +89,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:43709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43709)
-
 ## Properties
 
 ### BodyInstance
 
 • **BodyInstance**: [`BodyInstance`](ue_ue.BodyInstance.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43739)
 
 ___
 
@@ -109,19 +101,11 @@ ___
 
 • **Bounds**: [`Box`](ue_ue.Box.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43744)
-
 ___
 
 ### CollisionProfileName
 
 • **CollisionProfileName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43729)
 
 ___
 
@@ -129,19 +113,11 @@ ___
 
 • **ConnectedSegments**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`LandscapeSplineConnection`](ue_ue.LandscapeSplineConnection.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:43742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43742)
-
 ___
 
 ### EndFalloff
 
 • **EndFalloff**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:43719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43719)
 
 ___
 
@@ -149,19 +125,11 @@ ___
 
 • **ForeignWorld**: [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`World`](ue_ue.World.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:43746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43746)
-
 ___
 
 ### LDMaxDrawDistance
 
 • **LDMaxDrawDistance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:43731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43731)
 
 ___
 
@@ -169,19 +137,11 @@ ___
 
 • **LayerName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43721)
-
 ___
 
 ### LayerWidthRatio
 
 • **LayerWidthRatio**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:43713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43713)
 
 ___
 
@@ -189,19 +149,11 @@ ___
 
 • **LeftSideFalloffFactor**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:43715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43715)
-
 ___
 
 ### LeftSideLayerFalloffFactor
 
 • **LeftSideLayerFalloffFactor**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:43717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43717)
 
 ___
 
@@ -209,19 +161,11 @@ ___
 
 • **LocalMeshComponent**: [`ControlPointMeshComponent`](ue_ue.ControlPointMeshComponent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43745)
-
 ___
 
 ### Location
 
 • **Location**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43710)
 
 ___
 
@@ -229,19 +173,11 @@ ___
 
 • **MaterialOverrides**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MaterialInterface`](ue_ue.MaterialInterface.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:43725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43725)
-
 ___
 
 ### Mesh
 
 • **Mesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43724)
 
 ___
 
@@ -249,19 +185,11 @@ ___
 
 • **MeshScale**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43726)
-
 ___
 
 ### ModificationKey
 
 • **ModificationKey**: [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43747)
 
 ___
 
@@ -269,19 +197,11 @@ ___
 
 • **Points**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`LandscapeSplineInterpPoint`](ue_ue.LandscapeSplineInterpPoint.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:43743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43743)
-
 ___
 
 ### RightSideFalloffFactor
 
 • **RightSideFalloffFactor**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:43716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43716)
 
 ___
 
@@ -289,19 +209,11 @@ ___
 
 • **RightSideLayerFalloffFactor**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:43718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43718)
-
 ___
 
 ### Rotation
 
 • **Rotation**: [`Rotator`](ue_ue_s.Rotator.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43711)
 
 ___
 
@@ -309,19 +221,11 @@ ___
 
 • **RuntimeVirtualTextures**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`RuntimeVirtualTexture`](ue_ue.RuntimeVirtualTexture.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:43734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43734)
-
 ___
 
 ### SegmentMeshOffset
 
 • **SegmentMeshOffset**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:43720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43720)
 
 ___
 
@@ -329,19 +233,11 @@ ___
 
 • **SideFalloff**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:43714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43714)
-
 ___
 
 ### TranslucencySortPriority
 
 • **TranslucencySortPriority**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:43732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43732)
 
 ___
 
@@ -349,19 +245,11 @@ ___
 
 • **VirtualTextureCullMips**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:43736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43736)
-
 ___
 
 ### VirtualTextureLodBias
 
 • **VirtualTextureLodBias**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:43735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43735)
 
 ___
 
@@ -369,19 +257,11 @@ ___
 
 • **VirtualTextureMainPassMaxDrawDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:43737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43737)
-
 ___
 
 ### VirtualTextureRenderPassType
 
 • **VirtualTextureRenderPassType**: [`ERuntimeVirtualTextureMainPassType`](../enums/ue_ue.ERuntimeVirtualTextureMainPassType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43738)
 
 ___
 
@@ -389,19 +269,11 @@ ___
 
 • **Width**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:43712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43712)
-
 ___
 
 ### \_\_tid\_LandscapeSplineControlPoint\_\_
 
 • **\_\_tid\_LandscapeSplineControlPoint\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43752](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43752)
 
 ___
 
@@ -413,19 +285,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bCastShadow
 
 • **bCastShadow**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43730)
 
 ___
 
@@ -433,19 +297,11 @@ ___
 
 • **bEnableCollision**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43728)
-
 ___
 
 ### bHiddenInGame
 
 • **bHiddenInGame**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43727)
 
 ___
 
@@ -453,19 +309,11 @@ ___
 
 • **bLowerTerrain**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43723)
-
 ___
 
 ### bNavDirty
 
 • **bNavDirty**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43741)
 
 ___
 
@@ -473,29 +321,17 @@ ___
 
 • **bPlaceSplineMeshesInStreamingLevels**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43733)
-
 ___
 
 ### bRaiseTerrain
 
 • **bRaiseTerrain**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:43722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43722)
-
 ___
 
 ### bSelected
 
 • **bSelected**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43740)
 
 ## Methods
 
@@ -521,10 +357,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -545,10 +377,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -562,10 +390,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -581,10 +405,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -599,10 +419,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -616,10 +432,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -642,10 +454,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:43749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43749)
-
 ___
 
 ### Load
@@ -666,10 +474,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:43750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43750)
-
 ___
 
 ### StaticClass
@@ -683,7 +487,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:43748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43748)

@@ -26,10 +26,6 @@
 
 • **new WeightedBlendables**()
 
-#### Defined in
-
-[ue/ue.d.ts:6252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6252)
-
 • **new WeightedBlendables**(`Array`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Array` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`WeightedBlendable`](ue_ue.WeightedBlendable.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:6253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6253)
-
 ## Properties
 
 ### Array
 
 • **Array**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`WeightedBlendable`](ue_ue.WeightedBlendable.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:6254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6254)
-
 ___
 
 ### \_\_tid\_WeightedBlendables\_\_
 
 • `Private` **\_\_tid\_WeightedBlendables\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6260)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6258)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6259)

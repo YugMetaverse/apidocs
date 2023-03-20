@@ -28,10 +28,6 @@
 
 • **new ParticleReplayTrackKey**()
 
-#### Defined in
-
-[ue/ue.d.ts:40271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40271)
-
 • **new ParticleReplayTrackKey**(`Time`, `Duration`, `ClipIDNumber`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Duration` | `number` |
 | `ClipIDNumber` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:40272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40272)
-
 ## Properties
 
 ### ClipIDNumber
 
 • **ClipIDNumber**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:40275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40275)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Duration**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:40274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40274)
-
 ___
 
 ### Time
 
 • **Time**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:40273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40273)
-
 ___
 
 ### \_\_tid\_ParticleReplayTrackKey\_\_
 
 • `Private` **\_\_tid\_ParticleReplayTrackKey\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40281)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:40279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40279)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:40280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40280)

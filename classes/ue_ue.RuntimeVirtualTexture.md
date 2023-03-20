@@ -65,19 +65,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L572)
-
 ## Properties
 
 ### MaterialType
 
 • **MaterialType**: [`ERuntimeVirtualTextureMaterialType`](../enums/ue_ue.ERuntimeVirtualTextureMaterialType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L573)
 
 ___
 
@@ -85,19 +77,11 @@ ___
 
 • **RemoveLowMips**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L584)
-
 ___
 
 ### Size
 
 • **Size**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L580)
 
 ___
 
@@ -105,19 +89,11 @@ ___
 
 • **StreamLowMips**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L585)
-
 ___
 
 ### StreamingTexture
 
 • **StreamingTexture**: [`RuntimeVirtualTextureStreamingProxy`](ue_ue.RuntimeVirtualTextureStreamingProxy.md)
-
-#### Defined in
-
-[ue/ue.d.ts:586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L586)
 
 ___
 
@@ -125,29 +101,17 @@ ___
 
 • **TileBorderSize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:583](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L583)
-
 ___
 
 ### TileCount
 
 • **TileCount**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L581)
-
 ___
 
 ### TileSize
 
 • **TileSize**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L582)
 
 ___
 
@@ -159,19 +123,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_RuntimeVirtualTexture\_\_
 
 • **\_\_tid\_RuntimeVirtualTexture\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L591)
 
 ___
 
@@ -179,19 +135,11 @@ ___
 
 • **bClearTextures**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L576)
-
 ___
 
 ### bCompressTextures
 
 • **bCompressTextures**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L574)
 
 ___
 
@@ -199,19 +147,11 @@ ___
 
 • **bEnable**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L575)
-
 ___
 
 ### bEnableScalability
 
 • **bEnableScalability**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:579](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L579)
 
 ___
 
@@ -219,19 +159,11 @@ ___
 
 • **bPrivateSpace**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L578)
-
 ___
 
 ### bSinglePhysicalSpace
 
 • **bSinglePhysicalSpace**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L577)
 
 ## Methods
 
@@ -257,10 +189,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -281,10 +209,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -298,10 +222,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -317,10 +237,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -335,10 +251,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -352,10 +264,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -378,10 +286,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:588](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L588)
-
 ___
 
 ### Load
@@ -402,10 +306,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L589)
-
 ___
 
 ### StaticClass
@@ -419,7 +319,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L587)

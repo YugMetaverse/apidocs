@@ -28,10 +28,6 @@
 
 • **new LandscapeSplineSegmentConnection**()
 
-#### Defined in
-
-[ue/ue.d.ts:43604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43604)
-
 • **new LandscapeSplineSegmentConnection**(`ControlPoint`, `TangentLen`, `SocketName`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `TangentLen` | `number` |
 | `SocketName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:43605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43605)
-
 ## Properties
 
 ### ControlPoint
 
 • **ControlPoint**: [`LandscapeSplineControlPoint`](ue_ue.LandscapeSplineControlPoint.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43606)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **SocketName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43608)
-
 ___
 
 ### TangentLen
 
 • **TangentLen**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:43607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43607)
-
 ___
 
 ### \_\_tid\_LandscapeSplineSegmentConnection\_\_
 
 • `Private` **\_\_tid\_LandscapeSplineSegmentConnection\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43614)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43612)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43613)

@@ -27,10 +27,6 @@
 
 • **new SoundWaveSpectralDataEntry**()
 
-#### Defined in
-
-[ue/ue.d.ts:9489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9489)
-
 • **new SoundWaveSpectralDataEntry**(`Magnitude`, `NormalizedMagnitude`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Magnitude` | `number` |
 | `NormalizedMagnitude` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:9490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9490)
-
 ## Properties
 
 ### Magnitude
 
 • **Magnitude**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9491)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **NormalizedMagnitude**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9492)
-
 ___
 
 ### \_\_tid\_SoundWaveSpectralDataEntry\_\_
 
 • `Private` **\_\_tid\_SoundWaveSpectralDataEntry\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9498)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9496)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9497)

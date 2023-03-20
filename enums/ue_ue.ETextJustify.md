@@ -20,19 +20,11 @@
 
 • **Center** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32151)
-
 ___
 
 ### ETextJustify\_MAX
 
 • **ETextJustify\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32151)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Left** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32151)
-
 ___
 
 ### Right
 
 • **Right** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32151)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32151)

@@ -27,10 +27,6 @@
 
 • **new NetworkEmulationProfileDescription**()
 
-#### Defined in
-
-[ue/ue.d.ts:53486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53486)
-
 • **new NetworkEmulationProfileDescription**(`ProfileName`, `ToolTip`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `ProfileName` | `string` |
 | `ToolTip` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:53487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53487)
-
 ## Properties
 
 ### ProfileName
 
 • **ProfileName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:53488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53488)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **ToolTip**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:53489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53489)
-
 ___
 
 ### \_\_tid\_NetworkEmulationProfileDescription\_\_
 
 • `Private` **\_\_tid\_NetworkEmulationProfileDescription\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:53495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53495)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:53493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53493)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:53494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53494)

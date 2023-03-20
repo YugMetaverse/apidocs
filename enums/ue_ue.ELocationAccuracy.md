@@ -23,19 +23,11 @@
 
 • **LA\_Best** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33973)
-
 ___
 
 ### LA\_HundredMeters
 
 • **LA\_HundredMeters** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33973)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **LA\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33973)
-
 ___
 
 ### LA\_Navigation
 
 • **LA\_Navigation** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33973)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **LA\_OneKilometer** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33973)
-
 ___
 
 ### LA\_TenMeters
 
 • **LA\_TenMeters** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33973)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **LA\_ThreeKilometers** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33973)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33973)

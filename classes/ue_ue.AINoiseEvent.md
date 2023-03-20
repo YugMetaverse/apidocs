@@ -30,10 +30,6 @@
 
 • **new AINoiseEvent**()
 
-#### Defined in
-
-[ue/ue.d.ts:15834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15834)
-
 • **new AINoiseEvent**(`NoiseLocation`, `Loudness`, `MaxRange`, `Instigator`, `Tag`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `Instigator` | [`Actor`](ue_ue.Actor.md) |
 | `Tag` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:15835](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15835)
-
 ## Properties
 
 ### Instigator
 
 • **Instigator**: [`Actor`](ue_ue.Actor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15839)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **Loudness**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15837)
-
 ___
 
 ### MaxRange
 
 • **MaxRange**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15838)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **NoiseLocation**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15836)
-
 ___
 
 ### Tag
 
 • **Tag**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:15840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15840)
-
 ___
 
 ### \_\_tid\_AINoiseEvent\_\_
 
 • `Private` **\_\_tid\_AINoiseEvent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15846)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15844)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15845](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15845)

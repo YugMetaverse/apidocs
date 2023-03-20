@@ -57,19 +57,11 @@
 
 [MovieSceneAudioCaptureProtocolBase](ue_ue.MovieSceneAudioCaptureProtocolBase.md).[constructor](ue_ue.MovieSceneAudioCaptureProtocolBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:47258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47258)
-
 ## Properties
 
 ### FileName
 
 • **FileName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:47259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47259)
 
 ___
 
@@ -81,19 +73,11 @@ ___
 
 [MovieSceneAudioCaptureProtocolBase](ue_ue.MovieSceneAudioCaptureProtocolBase.md).[State](ue_ue.MovieSceneAudioCaptureProtocolBase.md#state)
 
-#### Defined in
-
-[ue/ue.d.ts:22538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22538)
-
 ___
 
 ### \_\_tid\_MasterAudioSubmixCaptureProtocol\_\_
 
 • **\_\_tid\_MasterAudioSubmixCaptureProtocol\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:47264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47264)
 
 ___
 
@@ -105,10 +89,6 @@ ___
 
 [MovieSceneAudioCaptureProtocolBase](ue_ue.MovieSceneAudioCaptureProtocolBase.md).[__tid_MovieSceneAudioCaptureProtocolBase__](ue_ue.MovieSceneAudioCaptureProtocolBase.md#__tid_moviesceneaudiocaptureprotocolbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:22563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22563)
-
 ___
 
 ### \_\_tid\_MovieSceneCaptureProtocolBase\_\_
@@ -119,10 +99,6 @@ ___
 
 [MovieSceneAudioCaptureProtocolBase](ue_ue.MovieSceneAudioCaptureProtocolBase.md).[__tid_MovieSceneCaptureProtocolBase__](ue_ue.MovieSceneAudioCaptureProtocolBase.md#__tid_moviescenecaptureprotocolbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:22545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22545)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -132,10 +108,6 @@ ___
 #### Inherited from
 
 [MovieSceneAudioCaptureProtocolBase](ue_ue.MovieSceneAudioCaptureProtocolBase.md).[__tid_Object__](ue_ue.MovieSceneAudioCaptureProtocolBase.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -161,10 +133,6 @@ ___
 
 [MovieSceneAudioCaptureProtocolBase](ue_ue.MovieSceneAudioCaptureProtocolBase.md).[CreateDefaultSubobject](ue_ue.MovieSceneAudioCaptureProtocolBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -185,10 +153,6 @@ ___
 
 [MovieSceneAudioCaptureProtocolBase](ue_ue.MovieSceneAudioCaptureProtocolBase.md).[ExecuteUbergraph](ue_ue.MovieSceneAudioCaptureProtocolBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -202,10 +166,6 @@ ___
 #### Inherited from
 
 [MovieSceneAudioCaptureProtocolBase](ue_ue.MovieSceneAudioCaptureProtocolBase.md).[GetClass](ue_ue.MovieSceneAudioCaptureProtocolBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -221,10 +181,6 @@ ___
 
 [MovieSceneAudioCaptureProtocolBase](ue_ue.MovieSceneAudioCaptureProtocolBase.md).[GetName](ue_ue.MovieSceneAudioCaptureProtocolBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -238,10 +194,6 @@ ___
 #### Inherited from
 
 [MovieSceneAudioCaptureProtocolBase](ue_ue.MovieSceneAudioCaptureProtocolBase.md).[GetOuter](ue_ue.MovieSceneAudioCaptureProtocolBase.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -257,10 +209,6 @@ ___
 
 [MovieSceneAudioCaptureProtocolBase](ue_ue.MovieSceneAudioCaptureProtocolBase.md).[GetState](ue_ue.MovieSceneAudioCaptureProtocolBase.md#getstate)
 
-#### Defined in
-
-[ue/ue.d.ts:22539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22539)
-
 ___
 
 ### GetWorld
@@ -275,10 +223,6 @@ ___
 
 [MovieSceneAudioCaptureProtocolBase](ue_ue.MovieSceneAudioCaptureProtocolBase.md).[GetWorld](ue_ue.MovieSceneAudioCaptureProtocolBase.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### IsCapturing
@@ -292,10 +236,6 @@ ___
 #### Inherited from
 
 [MovieSceneAudioCaptureProtocolBase](ue_ue.MovieSceneAudioCaptureProtocolBase.md).[IsCapturing](ue_ue.MovieSceneAudioCaptureProtocolBase.md#iscapturing)
-
-#### Defined in
-
-[ue/ue.d.ts:22540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22540)
 
 ___
 
@@ -318,10 +258,6 @@ ___
 
 [MovieSceneAudioCaptureProtocolBase](ue_ue.MovieSceneAudioCaptureProtocolBase.md).[Find](ue_ue.MovieSceneAudioCaptureProtocolBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:47261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47261)
-
 ___
 
 ### Load
@@ -342,10 +278,6 @@ ___
 
 [MovieSceneAudioCaptureProtocolBase](ue_ue.MovieSceneAudioCaptureProtocolBase.md).[Load](ue_ue.MovieSceneAudioCaptureProtocolBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:47262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47262)
-
 ___
 
 ### StaticClass
@@ -359,7 +291,3 @@ ___
 #### Overrides
 
 [MovieSceneAudioCaptureProtocolBase](ue_ue.MovieSceneAudioCaptureProtocolBase.md).[StaticClass](ue_ue.MovieSceneAudioCaptureProtocolBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:47260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47260)

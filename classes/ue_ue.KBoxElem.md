@@ -45,10 +45,6 @@
 
 [KShapeElem](ue_ue.KShapeElem.md).[constructor](ue_ue.KShapeElem.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:3425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3425)
-
 • **new KBoxElem**(`TM`, `Orientation`, `Center`, `Rotation`, `X`, `Y`, `Z`)
 
 #### Parameters
@@ -67,19 +63,11 @@
 
 [KShapeElem](ue_ue.KShapeElem.md).[constructor](ue_ue.KShapeElem.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:3426](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3426)
-
 ## Properties
 
 ### Center
 
 • **Center**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3429)
 
 ___
 
@@ -91,19 +79,11 @@ ___
 
 [KShapeElem](ue_ue.KShapeElem.md).[Name](ue_ue.KShapeElem.md#name)
 
-#### Defined in
-
-[ue/ue.d.ts:3373](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3373)
-
 ___
 
 ### Orientation
 
 • **Orientation**: [`Quat`](ue_ue_s.Quat.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3428)
 
 ___
 
@@ -115,19 +95,11 @@ ___
 
 [KShapeElem](ue_ue.KShapeElem.md).[RestOffset](ue_ue.KShapeElem.md#restoffset)
 
-#### Defined in
-
-[ue/ue.d.ts:3372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3372)
-
 ___
 
 ### Rotation
 
 • **Rotation**: [`Rotator`](ue_ue_s.Rotator.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3430)
 
 ___
 
@@ -135,19 +107,11 @@ ___
 
 • **TM**: [`Matrix`](ue_ue.Matrix.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3427)
-
 ___
 
 ### X
 
 • **X**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3431](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3431)
 
 ___
 
@@ -155,29 +119,17 @@ ___
 
 • **Y**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3432)
-
 ___
 
 ### Z
 
 • **Z**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3433)
-
 ___
 
 ### \_\_tid\_KBoxElem\_\_
 
 • `Private` **\_\_tid\_KBoxElem\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3439)
 
 ___
 
@@ -188,10 +140,6 @@ ___
 #### Inherited from
 
 [KShapeElem](ue_ue.KShapeElem.md).[bContributeToMass](ue_ue.KShapeElem.md#bcontributetomass)
-
-#### Defined in
-
-[ue/ue.d.ts:3374](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3374)
 
 ## Methods
 
@@ -211,10 +159,6 @@ use StaticStruct instead.
 
 [KShapeElem](ue_ue.KShapeElem.md).[StaticClass](ue_ue.KShapeElem.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:3437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3437)
-
 ___
 
 ### StaticStruct
@@ -228,7 +172,3 @@ ___
 #### Overrides
 
 [KShapeElem](ue_ue.KShapeElem.md).[StaticStruct](ue_ue.KShapeElem.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:3438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3438)

@@ -55,10 +55,6 @@
 
 [AnimNode_AssetPlayerBase](ue_ue.AnimNode_AssetPlayerBase.md).[constructor](ue_ue.AnimNode_AssetPlayerBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:17580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17580)
-
 • **new AnimNode_BlendSpacePlayer**(`X`, `Y`, `Z`, `PlayRate`, `bLoop`, `bResetPlayTimeWhenBlendSpaceChanges`, `StartPosition`, `BlendSpace`, `PreviousBlendSpace`)
 
 #### Parameters
@@ -79,19 +75,11 @@
 
 [AnimNode_AssetPlayerBase](ue_ue.AnimNode_AssetPlayerBase.md).[constructor](ue_ue.AnimNode_AssetPlayerBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:17581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17581)
-
 ## Properties
 
 ### BlendSpace
 
 • **BlendSpace**: [`BlendSpaceBase`](ue_ue.BlendSpaceBase.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17589)
 
 ___
 
@@ -103,10 +91,6 @@ ___
 
 [AnimNode_AssetPlayerBase](ue_ue.AnimNode_AssetPlayerBase.md).[BlendWeight](ue_ue.AnimNode_AssetPlayerBase.md#blendweight)
 
-#### Defined in
-
-[ue/ue.d.ts:17569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17569)
-
 ___
 
 ### GroupIndex
@@ -116,10 +100,6 @@ ___
 #### Inherited from
 
 [AnimNode_AssetPlayerBase](ue_ue.AnimNode_AssetPlayerBase.md).[GroupIndex](ue_ue.AnimNode_AssetPlayerBase.md#groupindex)
-
-#### Defined in
-
-[ue/ue.d.ts:17566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17566)
 
 ___
 
@@ -131,10 +111,6 @@ ___
 
 [AnimNode_AssetPlayerBase](ue_ue.AnimNode_AssetPlayerBase.md).[GroupRole](ue_ue.AnimNode_AssetPlayerBase.md#grouprole)
 
-#### Defined in
-
-[ue/ue.d.ts:17567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17567)
-
 ___
 
 ### InternalTimeAccumulator
@@ -145,19 +121,11 @@ ___
 
 [AnimNode_AssetPlayerBase](ue_ue.AnimNode_AssetPlayerBase.md).[InternalTimeAccumulator](ue_ue.AnimNode_AssetPlayerBase.md#internaltimeaccumulator)
 
-#### Defined in
-
-[ue/ue.d.ts:17570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17570)
-
 ___
 
 ### PlayRate
 
 • **PlayRate**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17585)
 
 ___
 
@@ -165,19 +133,11 @@ ___
 
 • **PreviousBlendSpace**: [`BlendSpaceBase`](ue_ue.BlendSpaceBase.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17590)
-
 ___
 
 ### StartPosition
 
 • **StartPosition**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17588](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17588)
 
 ___
 
@@ -185,19 +145,11 @@ ___
 
 • **X**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17582)
-
 ___
 
 ### Y
 
 • **Y**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17583](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17583)
 
 ___
 
@@ -205,19 +157,11 @@ ___
 
 • **Z**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17584)
-
 ___
 
 ### \_\_tid\_AnimNode\_BlendSpacePlayer\_\_
 
 • `Private` **\_\_tid\_AnimNode\_BlendSpacePlayer\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17596)
 
 ___
 
@@ -229,29 +173,17 @@ ___
 
 [AnimNode_AssetPlayerBase](ue_ue.AnimNode_AssetPlayerBase.md).[bIgnoreForRelevancyTest](ue_ue.AnimNode_AssetPlayerBase.md#bignoreforrelevancytest)
 
-#### Defined in
-
-[ue/ue.d.ts:17568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17568)
-
 ___
 
 ### bLoop
 
 • **bLoop**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:17586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17586)
-
 ___
 
 ### bResetPlayTimeWhenBlendSpaceChanges
 
 • **bResetPlayTimeWhenBlendSpaceChanges**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17587)
 
 ## Methods
 
@@ -271,10 +203,6 @@ use StaticStruct instead.
 
 [AnimNode_AssetPlayerBase](ue_ue.AnimNode_AssetPlayerBase.md).[StaticClass](ue_ue.AnimNode_AssetPlayerBase.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:17594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17594)
-
 ___
 
 ### StaticStruct
@@ -288,7 +216,3 @@ ___
 #### Overrides
 
 [AnimNode_AssetPlayerBase](ue_ue.AnimNode_AssetPlayerBase.md).[StaticStruct](ue_ue.AnimNode_AssetPlayerBase.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:17595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17595)

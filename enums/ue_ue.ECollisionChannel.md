@@ -50,19 +50,11 @@
 
 • **ECC\_Camera** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
-
 ___
 
 ### ECC\_Destructible
 
 • **ECC\_Destructible** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
 
 ___
 
@@ -70,19 +62,11 @@ ___
 
 • **ECC\_EngineTraceChannel1** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
-
 ___
 
 ### ECC\_EngineTraceChannel2
 
 • **ECC\_EngineTraceChannel2** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
 
 ___
 
@@ -90,19 +74,11 @@ ___
 
 • **ECC\_EngineTraceChannel3** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
-
 ___
 
 ### ECC\_EngineTraceChannel4
 
 • **ECC\_EngineTraceChannel4** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
 
 ___
 
@@ -110,19 +86,11 @@ ___
 
 • **ECC\_EngineTraceChannel5** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
-
 ___
 
 ### ECC\_EngineTraceChannel6
 
 • **ECC\_EngineTraceChannel6** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
 
 ___
 
@@ -130,19 +98,11 @@ ___
 
 • **ECC\_GameTraceChannel1** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
-
 ___
 
 ### ECC\_GameTraceChannel10
 
 • **ECC\_GameTraceChannel10** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
 
 ___
 
@@ -150,19 +110,11 @@ ___
 
 • **ECC\_GameTraceChannel11** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
-
 ___
 
 ### ECC\_GameTraceChannel12
 
 • **ECC\_GameTraceChannel12** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
 
 ___
 
@@ -170,19 +122,11 @@ ___
 
 • **ECC\_GameTraceChannel13** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
-
 ___
 
 ### ECC\_GameTraceChannel14
 
 • **ECC\_GameTraceChannel14** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
 
 ___
 
@@ -190,19 +134,11 @@ ___
 
 • **ECC\_GameTraceChannel15** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
-
 ___
 
 ### ECC\_GameTraceChannel16
 
 • **ECC\_GameTraceChannel16** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
 
 ___
 
@@ -210,19 +146,11 @@ ___
 
 • **ECC\_GameTraceChannel17** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
-
 ___
 
 ### ECC\_GameTraceChannel18
 
 • **ECC\_GameTraceChannel18** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
 
 ___
 
@@ -230,19 +158,11 @@ ___
 
 • **ECC\_GameTraceChannel2** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
-
 ___
 
 ### ECC\_GameTraceChannel3
 
 • **ECC\_GameTraceChannel3** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
 
 ___
 
@@ -250,19 +170,11 @@ ___
 
 • **ECC\_GameTraceChannel4** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
-
 ___
 
 ### ECC\_GameTraceChannel5
 
 • **ECC\_GameTraceChannel5** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
 
 ___
 
@@ -270,19 +182,11 @@ ___
 
 • **ECC\_GameTraceChannel6** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
-
 ___
 
 ### ECC\_GameTraceChannel7
 
 • **ECC\_GameTraceChannel7** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
 
 ___
 
@@ -290,19 +194,11 @@ ___
 
 • **ECC\_GameTraceChannel8** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
-
 ___
 
 ### ECC\_GameTraceChannel9
 
 • **ECC\_GameTraceChannel9** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
 
 ___
 
@@ -310,19 +206,11 @@ ___
 
 • **ECC\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
-
 ___
 
 ### ECC\_OverlapAll\_Deprecated
 
 • **ECC\_OverlapAll\_Deprecated** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
 
 ___
 
@@ -330,19 +218,11 @@ ___
 
 • **ECC\_Pawn** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
-
 ___
 
 ### ECC\_PhysicsBody
 
 • **ECC\_PhysicsBody** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
 
 ___
 
@@ -350,19 +230,11 @@ ___
 
 • **ECC\_Vehicle** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
-
 ___
 
 ### ECC\_Visibility
 
 • **ECC\_Visibility** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
 
 ___
 
@@ -370,26 +242,14 @@ ___
 
 • **ECC\_WorldDynamic** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
-
 ___
 
 ### ECC\_WorldStatic
 
 • **ECC\_WorldStatic** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L595)

@@ -115,19 +115,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:14220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14220)
-
 ## Properties
 
 ### CurrentNumLoops
 
 • **CurrentNumLoops**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14231)
 
 ___
 
@@ -135,19 +127,11 @@ ___
 
 • **DurationFrames**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14230)
-
 ___
 
 ### NetSyncProps
 
 • **NetSyncProps**: [`MovieSceneSequenceReplProperties`](ue_ue.MovieSceneSequenceReplProperties.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14234)
 
 ___
 
@@ -155,19 +139,11 @@ ___
 
 • **OnFinished**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<() => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:14225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14225)
-
 ___
 
 ### OnPause
 
 • **OnPause**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<() => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:14224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14224)
 
 ___
 
@@ -175,19 +151,11 @@ ___
 
 • **OnPlay**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<() => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:14221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14221)
-
 ___
 
 ### OnPlayReverse
 
 • **OnPlayReverse**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<() => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:14222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14222)
 
 ___
 
@@ -195,19 +163,11 @@ ___
 
 • **OnStop**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<() => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:14223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14223)
-
 ___
 
 ### PlaybackClient
 
 • **PlaybackClient**: [`MovieScenePlaybackClient`](ue_ue.MovieScenePlaybackClient.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14235)
 
 ___
 
@@ -215,19 +175,11 @@ ___
 
 • **PlaybackSettings**: [`MovieSceneSequencePlaybackSettings`](ue_ue.MovieSceneSequencePlaybackSettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14232)
-
 ___
 
 ### RootTemplateInstance
 
 • **RootTemplateInstance**: [`MovieSceneRootEvaluationTemplateInstance`](ue_ue.MovieSceneRootEvaluationTemplateInstance.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14233)
 
 ___
 
@@ -235,19 +187,11 @@ ___
 
 • **Sequence**: [`MovieSceneSequence`](ue_ue.MovieSceneSequence.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14228)
-
 ___
 
 ### StartTime
 
 • **StartTime**: [`FrameNumber`](ue_ue.FrameNumber.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14229)
 
 ___
 
@@ -255,19 +199,11 @@ ___
 
 • **Status**: [`EMovieScenePlayerStatus`](../enums/ue_ue.EMovieScenePlayerStatus.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14226)
-
 ___
 
 ### \_\_tid\_MovieSceneSequencePlayer\_\_
 
 • **\_\_tid\_MovieSceneSequencePlayer\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14285)
 
 ___
 
@@ -279,19 +215,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bReversePlayback
 
 • **bReversePlayback**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14227)
 
 ## Methods
 
@@ -302,10 +230,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:14236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14236)
 
 ___
 
@@ -331,10 +255,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -355,10 +275,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetBoundObjects
@@ -375,10 +291,6 @@ ___
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Object`](ue_ue.Object.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:14237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14237)
-
 ___
 
 ### GetClass
@@ -393,10 +305,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetCurrentTime
@@ -406,10 +314,6 @@ ___
 #### Returns
 
 [`QualifiedFrameTime`](ue_ue.QualifiedFrameTime.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14238)
 
 ___
 
@@ -421,10 +325,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:14239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14239)
-
 ___
 
 ### GetDuration
@@ -434,10 +334,6 @@ ___
 #### Returns
 
 [`QualifiedFrameTime`](ue_ue.QualifiedFrameTime.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14240)
 
 ___
 
@@ -449,10 +345,6 @@ ___
 
 [`QualifiedFrameTime`](ue_ue.QualifiedFrameTime.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14241)
-
 ___
 
 ### GetFrameDuration
@@ -462,10 +354,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14242)
 
 ___
 
@@ -477,10 +365,6 @@ ___
 
 [`FrameRate`](ue_ue.FrameRate.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14243)
-
 ___
 
 ### GetLength
@@ -490,10 +374,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14244)
 
 ___
 
@@ -508,10 +388,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -529,10 +405,6 @@ ___
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MovieSceneObjectBindingID`](ue_ue.MovieSceneObjectBindingID.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:14245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14245)
-
 ___
 
 ### GetOuter
@@ -547,10 +419,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetPlayRate
@@ -560,10 +428,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14249)
 
 ___
 
@@ -575,10 +439,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14246)
-
 ___
 
 ### GetPlaybackPosition
@@ -588,10 +448,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14247)
 
 ___
 
@@ -603,10 +459,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14248)
-
 ___
 
 ### GetStartTime
@@ -616,10 +468,6 @@ ___
 #### Returns
 
 [`QualifiedFrameTime`](ue_ue.QualifiedFrameTime.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14250)
 
 ___
 
@@ -635,10 +483,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### GoToEndAndStop
@@ -648,10 +492,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:14251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14251)
 
 ___
 
@@ -663,10 +503,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:14252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14252)
-
 ___
 
 ### IsPlaying
@@ -677,10 +513,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:14253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14253)
-
 ___
 
 ### IsReversed
@@ -690,10 +522,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14254)
 
 ___
 
@@ -711,10 +539,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:14255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14255)
-
 ___
 
 ### JumpToMarkedFrame
@@ -730,10 +554,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14256)
 
 ___
 
@@ -751,10 +571,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:14257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14257)
-
 ___
 
 ### JumpToSeconds
@@ -771,10 +587,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:14258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14258)
-
 ___
 
 ### Pause
@@ -785,10 +597,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:14259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14259)
-
 ___
 
 ### Play
@@ -798,10 +606,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:14260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14260)
 
 ___
 
@@ -819,10 +623,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:14261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14261)
-
 ___
 
 ### PlayReverse
@@ -832,10 +632,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:14262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14262)
 
 ___
 
@@ -853,10 +649,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:14263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14263)
-
 ___
 
 ### PlayToMarkedFrame
@@ -873,10 +665,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:14264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14264)
-
 ___
 
 ### PlayToSeconds
@@ -892,10 +680,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:14265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14265)
 
 ___
 
@@ -914,10 +698,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:14266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14266)
-
 ___
 
 ### RPC\_OnStopEvent
@@ -934,10 +714,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:14267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14267)
-
 ___
 
 ### Scrub
@@ -947,10 +723,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:14268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14268)
 
 ___
 
@@ -968,10 +740,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:14269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14269)
-
 ___
 
 ### ScrubToMarkedFrame
@@ -987,10 +755,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14270)
 
 ___
 
@@ -1008,10 +772,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:14271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14271)
-
 ___
 
 ### SetDisableCameraCuts
@@ -1027,10 +787,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:14272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14272)
 
 ___
 
@@ -1049,10 +805,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:14273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14273)
-
 ___
 
 ### SetFrameRate
@@ -1068,10 +820,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:14274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14274)
 
 ___
 
@@ -1089,10 +837,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:14277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14277)
-
 ___
 
 ### SetPlaybackPosition
@@ -1108,10 +852,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:14275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14275)
 
 ___
 
@@ -1130,10 +870,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:14276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14276)
-
 ___
 
 ### SetTimeRange
@@ -1151,10 +887,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:14278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14278)
-
 ___
 
 ### Stop
@@ -1165,10 +897,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:14279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14279)
-
 ___
 
 ### StopAtCurrentTime
@@ -1178,10 +906,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:14280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14280)
 
 ___
 
@@ -1204,10 +928,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:14282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14282)
-
 ___
 
 ### Load
@@ -1228,10 +948,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:14283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14283)
-
 ___
 
 ### StaticClass
@@ -1245,7 +961,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:14281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14281)

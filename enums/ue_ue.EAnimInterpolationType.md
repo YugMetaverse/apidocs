@@ -19,19 +19,11 @@
 
 • **EAnimInterpolationType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3195)
-
 ___
 
 ### Linear
 
 • **Linear** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3195)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Step** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3195)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3195)

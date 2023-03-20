@@ -20,19 +20,11 @@
 
 • **Cardboard** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33887)
-
 ___
 
 ### Daydream
 
 • **Daydream** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33887)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **DaydreamAndCardboard** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33887)
-
 ___
 
 ### EGoogleVRMode\_MAX
 
 • **EGoogleVRMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33887)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33887)

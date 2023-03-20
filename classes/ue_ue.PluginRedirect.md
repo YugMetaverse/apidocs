@@ -27,10 +27,6 @@
 
 • **new PluginRedirect**()
 
-#### Defined in
-
-[ue/ue.d.ts:32571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32571)
-
 • **new PluginRedirect**(`OldPluginName`, `NewPluginName`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `OldPluginName` | `string` |
 | `NewPluginName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:32572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32572)
-
 ## Properties
 
 ### NewPluginName
 
 • **NewPluginName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:32574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32574)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **OldPluginName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:32573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32573)
-
 ___
 
 ### \_\_tid\_PluginRedirect\_\_
 
 • `Private` **\_\_tid\_PluginRedirect\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32580)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32578)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32579](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32579)

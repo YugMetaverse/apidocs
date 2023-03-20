@@ -21,19 +21,11 @@
 
 • **RCTM\_Auto** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1633)
-
 ___
 
 ### RCTM\_Break
 
 • **RCTM\_Break** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1633)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **RCTM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1633)
-
 ___
 
 ### RCTM\_None
 
 • **RCTM\_None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1633)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **RCTM\_User** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1633)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1633)

@@ -42,7 +42,3 @@ set the meta data' value
 #### Returns
 
 [`ParamKey`](ue_puerts_decorators.uparam.ParamKey.md)
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:2007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L2007)

@@ -20,19 +20,11 @@
 
 • **EConsoleForGamepadLabels\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31411)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31411)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **PS4** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31411)
-
 ___
 
 ### XBoxOne
 
 • **XBoxOne** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31411)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31411)

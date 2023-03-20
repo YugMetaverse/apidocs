@@ -58,19 +58,11 @@
 
 [NavCollisionBase](ue_ue.NavCollisionBase.md).[constructor](ue_ue.NavCollisionBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:52887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52887)
-
 ## Properties
 
 ### AreaClass
 
 • **AreaClass**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:52890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52890)
 
 ___
 
@@ -78,19 +70,11 @@ ___
 
 • **BoxCollision**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`NavCollisionBox`](ue_ue.NavCollisionBox.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:52889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52889)
-
 ___
 
 ### CylinderCollision
 
 • **CylinderCollision**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`NavCollisionCylinder`](ue_ue.NavCollisionCylinder.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:52888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52888)
 
 ___
 
@@ -102,19 +86,11 @@ ___
 
 [NavCollisionBase](ue_ue.NavCollisionBase.md).[__tid_NavCollisionBase__](ue_ue.NavCollisionBase.md#__tid_navcollisionbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:7887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7887)
-
 ___
 
 ### \_\_tid\_NavCollision\_\_
 
 • **\_\_tid\_NavCollision\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52897)
 
 ___
 
@@ -126,29 +102,17 @@ ___
 
 [NavCollisionBase](ue_ue.NavCollisionBase.md).[__tid_Object__](ue_ue.NavCollisionBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bCreateOnClient
 
 • **bCreateOnClient**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:52892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52892)
-
 ___
 
 ### bGatherConvexGeometry
 
 • **bGatherConvexGeometry**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:52891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52891)
 
 ___
 
@@ -159,10 +123,6 @@ ___
 #### Inherited from
 
 [NavCollisionBase](ue_ue.NavCollisionBase.md).[bIsDynamicObstacle](ue_ue.NavCollisionBase.md#bisdynamicobstacle)
-
-#### Defined in
-
-[ue/ue.d.ts:7882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7882)
 
 ## Methods
 
@@ -188,10 +148,6 @@ ___
 
 [NavCollisionBase](ue_ue.NavCollisionBase.md).[CreateDefaultSubobject](ue_ue.NavCollisionBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -212,10 +168,6 @@ ___
 
 [NavCollisionBase](ue_ue.NavCollisionBase.md).[ExecuteUbergraph](ue_ue.NavCollisionBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -229,10 +181,6 @@ ___
 #### Inherited from
 
 [NavCollisionBase](ue_ue.NavCollisionBase.md).[GetClass](ue_ue.NavCollisionBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -248,10 +196,6 @@ ___
 
 [NavCollisionBase](ue_ue.NavCollisionBase.md).[GetName](ue_ue.NavCollisionBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -266,10 +210,6 @@ ___
 
 [NavCollisionBase](ue_ue.NavCollisionBase.md).[GetOuter](ue_ue.NavCollisionBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -283,10 +223,6 @@ ___
 #### Inherited from
 
 [NavCollisionBase](ue_ue.NavCollisionBase.md).[GetWorld](ue_ue.NavCollisionBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -309,10 +245,6 @@ ___
 
 [NavCollisionBase](ue_ue.NavCollisionBase.md).[Find](ue_ue.NavCollisionBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:52894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52894)
-
 ___
 
 ### Load
@@ -333,10 +265,6 @@ ___
 
 [NavCollisionBase](ue_ue.NavCollisionBase.md).[Load](ue_ue.NavCollisionBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:52895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52895)
-
 ___
 
 ### StaticClass
@@ -350,7 +278,3 @@ ___
 #### Overrides
 
 [NavCollisionBase](ue_ue.NavCollisionBase.md).[StaticClass](ue_ue.NavCollisionBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:52893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52893)

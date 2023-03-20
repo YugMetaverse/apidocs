@@ -34,19 +34,11 @@
 
 • **SAMPLERTYPE\_Alpha** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34025)
-
 ___
 
 ### SAMPLERTYPE\_Color
 
 • **SAMPLERTYPE\_Color** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34025)
 
 ___
 
@@ -54,19 +46,11 @@ ___
 
 • **SAMPLERTYPE\_Data** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34025)
-
 ___
 
 ### SAMPLERTYPE\_DistanceFieldFont
 
 • **SAMPLERTYPE\_DistanceFieldFont** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34025)
 
 ___
 
@@ -74,19 +58,11 @@ ___
 
 • **SAMPLERTYPE\_External** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34025)
-
 ___
 
 ### SAMPLERTYPE\_Grayscale
 
 • **SAMPLERTYPE\_Grayscale** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34025)
 
 ___
 
@@ -94,19 +70,11 @@ ___
 
 • **SAMPLERTYPE\_LinearColor** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34025)
-
 ___
 
 ### SAMPLERTYPE\_LinearGrayscale
 
 • **SAMPLERTYPE\_LinearGrayscale** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34025)
 
 ___
 
@@ -114,19 +82,11 @@ ___
 
 • **SAMPLERTYPE\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34025)
-
 ___
 
 ### SAMPLERTYPE\_Masks
 
 • **SAMPLERTYPE\_Masks** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34025)
 
 ___
 
@@ -134,19 +94,11 @@ ___
 
 • **SAMPLERTYPE\_Normal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34025)
-
 ___
 
 ### SAMPLERTYPE\_VirtualAlpha
 
 • **SAMPLERTYPE\_VirtualAlpha** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34025)
 
 ___
 
@@ -154,19 +106,11 @@ ___
 
 • **SAMPLERTYPE\_VirtualColor** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34025)
-
 ___
 
 ### SAMPLERTYPE\_VirtualGrayscale
 
 • **SAMPLERTYPE\_VirtualGrayscale** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34025)
 
 ___
 
@@ -174,19 +118,11 @@ ___
 
 • **SAMPLERTYPE\_VirtualLinearColor** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34025)
-
 ___
 
 ### SAMPLERTYPE\_VirtualLinearGrayscale
 
 • **SAMPLERTYPE\_VirtualLinearGrayscale** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34025)
 
 ___
 
@@ -194,26 +130,14 @@ ___
 
 • **SAMPLERTYPE\_VirtualMasks** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34025)
-
 ___
 
 ### SAMPLERTYPE\_VirtualNormal
 
 • **SAMPLERTYPE\_VirtualNormal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34025)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34025)

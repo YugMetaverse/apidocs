@@ -27,10 +27,6 @@
 
 • **new MovieSceneEvaluationTrackSegments**()
 
-#### Defined in
-
-[ue/ue.d.ts:11066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11066)
-
 • **new MovieSceneEvaluationTrackSegments**(`SegmentIdentifierToIndex`, `SortedSegments`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `SegmentIdentifierToIndex` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\> |
 | `SortedSegments` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MovieSceneSegment`](ue_ue.MovieSceneSegment.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:11067](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11067)
-
 ## Properties
 
 ### SegmentIdentifierToIndex
 
 • **SegmentIdentifierToIndex**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:11068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11068)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **SortedSegments**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MovieSceneSegment`](ue_ue.MovieSceneSegment.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:11069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11069)
-
 ___
 
 ### \_\_tid\_MovieSceneEvaluationTrackSegments\_\_
 
 • `Private` **\_\_tid\_MovieSceneEvaluationTrackSegments\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11075)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11073)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11074)

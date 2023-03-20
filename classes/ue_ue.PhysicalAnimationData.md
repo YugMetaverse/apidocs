@@ -33,10 +33,6 @@
 
 • **new PhysicalAnimationData**()
 
-#### Defined in
-
-[ue/ue.d.ts:3535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3535)
-
 • **new PhysicalAnimationData**(`BodyName`, `bIsLocalSimulation`, `OrientationStrength`, `AngularVelocityStrength`, `PositionStrength`, `VelocityStrength`, `MaxLinearForce`, `MaxAngularForce`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `MaxLinearForce` | `number` |
 | `MaxAngularForce` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:3536](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3536)
-
 ## Properties
 
 ### AngularVelocityStrength
 
 • **AngularVelocityStrength**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3540)
 
 ___
 
@@ -72,19 +60,11 @@ ___
 
 • **BodyName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:3537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3537)
-
 ___
 
 ### MaxAngularForce
 
 • **MaxAngularForce**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3544](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3544)
 
 ___
 
@@ -92,19 +72,11 @@ ___
 
 • **MaxLinearForce**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3543](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3543)
-
 ___
 
 ### OrientationStrength
 
 • **OrientationStrength**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3539)
 
 ___
 
@@ -112,19 +84,11 @@ ___
 
 • **PositionStrength**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3541](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3541)
-
 ___
 
 ### VelocityStrength
 
 • **VelocityStrength**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3542](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3542)
 
 ___
 
@@ -132,19 +96,11 @@ ___
 
 • `Private` **\_\_tid\_PhysicalAnimationData\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:3550](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3550)
-
 ___
 
 ### bIsLocalSimulation
 
 • **bIsLocalSimulation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3538)
 
 ## Methods
 
@@ -160,10 +116,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3548)
-
 ___
 
 ### StaticStruct
@@ -173,7 +125,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3549](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3549)

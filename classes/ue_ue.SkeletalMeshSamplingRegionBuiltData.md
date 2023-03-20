@@ -25,19 +25,11 @@
 
 • **new SkeletalMeshSamplingRegionBuiltData**()
 
-#### Defined in
-
-[ue/ue.d.ts:4022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4022)
-
 ## Properties
 
 ### \_\_tid\_SkeletalMeshSamplingRegionBuiltData\_\_
 
 • `Private` **\_\_tid\_SkeletalMeshSamplingRegionBuiltData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4028)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4026](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4026)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4027)

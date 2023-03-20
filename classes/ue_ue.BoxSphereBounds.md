@@ -28,10 +28,6 @@
 
 • **new BoxSphereBounds**()
 
-#### Defined in
-
-[ue/ue.d.ts:2560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2560)
-
 • **new BoxSphereBounds**(`Origin`, `BoxExtent`, `SphereRadius`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `BoxExtent` | [`Vector`](ue_ue_s.Vector.md) |
 | `SphereRadius` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:2561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2561)
-
 ## Properties
 
 ### BoxExtent
 
 • **BoxExtent**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2563)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Origin**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2562)
-
 ___
 
 ### SphereRadius
 
 • **SphereRadius**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2564)
-
 ___
 
 ### \_\_tid\_BoxSphereBounds\_\_
 
 • `Private` **\_\_tid\_BoxSphereBounds\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2570)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2568)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2569)

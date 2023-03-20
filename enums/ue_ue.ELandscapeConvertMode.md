@@ -21,19 +21,11 @@
 
 • **Clip** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33922)
-
 ___
 
 ### ELandscapeConvertMode\_MAX
 
 • **ELandscapeConvertMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33922)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Expand** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33922)
-
 ___
 
 ### Invalid
 
 • **Invalid** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33922)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Resample** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33922)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33922)

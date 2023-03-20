@@ -21,19 +21,11 @@
 
 • **Dynamic** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:13367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13367)
-
 ___
 
 ### DynamicModifiersOnly
 
 • **DynamicModifiersOnly** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:13367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13367)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **ERuntimeGenerationType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:13367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13367)
-
 ___
 
 ### LegacyGeneration
 
 • **LegacyGeneration** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:13367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13367)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Static** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:13367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13367)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:13367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13367)

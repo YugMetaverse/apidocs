@@ -35,10 +35,6 @@
 
 • **new MagicLeapTouchpadGesture**()
 
-#### Defined in
-
-[ue/ue.d.ts:47143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47143)
-
 • **new MagicLeapTouchpadGesture**(`Hand`, `MotionSource`, `Type`, `Direction`, `PositionAndForce`, `Speed`, `Distance`, `FingerGap`, `Radius`, `Angle`)
 
 #### Parameters
@@ -56,19 +52,11 @@
 | `Radius` | `number` |
 | `Angle` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:47144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47144)
-
 ## Properties
 
 ### Angle
 
 • **Angle**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:47154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47154)
 
 ___
 
@@ -76,19 +64,11 @@ ___
 
 • **Direction**: [`EMagicLeapTouchpadGestureDirection`](../enums/ue_ue.EMagicLeapTouchpadGestureDirection.md)
 
-#### Defined in
-
-[ue/ue.d.ts:47148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47148)
-
 ___
 
 ### Distance
 
 • **Distance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:47151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47151)
 
 ___
 
@@ -96,19 +76,11 @@ ___
 
 • **FingerGap**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:47152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47152)
-
 ___
 
 ### Hand
 
 • **Hand**: [`EControllerHand`](../enums/ue_ue.EControllerHand.md)
-
-#### Defined in
-
-[ue/ue.d.ts:47145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47145)
 
 ___
 
@@ -116,19 +88,11 @@ ___
 
 • **MotionSource**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:47146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47146)
-
 ___
 
 ### PositionAndForce
 
 • **PositionAndForce**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:47149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47149)
 
 ___
 
@@ -136,19 +100,11 @@ ___
 
 • **Radius**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:47153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47153)
-
 ___
 
 ### Speed
 
 • **Speed**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:47150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47150)
 
 ___
 
@@ -156,19 +112,11 @@ ___
 
 • **Type**: [`EMagicLeapTouchpadGestureType`](../enums/ue_ue.EMagicLeapTouchpadGestureType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:47147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47147)
-
 ___
 
 ### \_\_tid\_MagicLeapTouchpadGesture\_\_
 
 • `Private` **\_\_tid\_MagicLeapTouchpadGesture\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:47160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47160)
 
 ## Methods
 
@@ -184,10 +132,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:47158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47158)
-
 ___
 
 ### StaticStruct
@@ -197,7 +141,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:47159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47159)

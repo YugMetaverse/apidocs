@@ -19,19 +19,11 @@
 
 • **CaseSensitive** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34757)
-
 ___
 
 ### ESearchCase\_MAX
 
 • **ESearchCase\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34757)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **IgnoreCase** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34757)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34757)

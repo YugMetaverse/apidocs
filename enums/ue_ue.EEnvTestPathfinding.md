@@ -20,19 +20,11 @@
 
 • **EEnvTestPathfinding\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33843)
-
 ___
 
 ### PathCost
 
 • **PathCost** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33843)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **PathExist** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33843)
-
 ___
 
 ### PathLength
 
 • **PathLength** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33843)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33843)

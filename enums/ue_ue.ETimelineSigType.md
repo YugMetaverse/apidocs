@@ -22,19 +22,11 @@
 
 • **ETS\_EventSignature** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34832)
-
 ___
 
 ### ETS\_FloatSignature
 
 • **ETS\_FloatSignature** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34832)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **ETS\_InvalidSignature** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34832)
-
 ___
 
 ### ETS\_LinearColorSignature
 
 • **ETS\_LinearColorSignature** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34832)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **ETS\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34832)
-
 ___
 
 ### ETS\_VectorSignature
 
 • **ETS\_VectorSignature** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34832)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34832)

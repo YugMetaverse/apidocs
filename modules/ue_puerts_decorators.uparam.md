@@ -35,10 +35,6 @@ the functionality to add meta data for function parameters
 
 This property is const and should be exported as const
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:2014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L2014)
-
 ___
 
 ### DisplayName
@@ -52,10 +48,6 @@ the display name
 **`Deprecated`**
 
 no where to add this to pin type
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:2036](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L2036)
 
 ___
 
@@ -71,10 +63,6 @@ Skip replication (only for struct members and parameters in service request func
 
 ServiceRequest/ServiceResponse is not supported
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:2028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L2028)
-
 ___
 
 ### Ref
@@ -84,10 +72,6 @@ ___
 **`Brief`**
 
 Value is copied out after function call. Only valid on function param declaration
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:2020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L2020)
 
 ## Functions
 
@@ -106,7 +90,3 @@ decorator to add parameters metadata
 #### Returns
 
 `any`
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:2042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L2042)

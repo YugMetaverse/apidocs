@@ -40,10 +40,6 @@
 
 • **new StaticParameterBase**()
 
-#### Defined in
-
-[ue/ue.d.ts:2035](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2035)
-
 • **new StaticParameterBase**(`ParameterInfo`, `bOverride`, `ExpressionGUID`)
 
 #### Parameters
@@ -54,19 +50,11 @@
 | `bOverride` | `boolean` |
 | `ExpressionGUID` | [`Guid`](ue_ue_s.Guid.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:2036](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2036)
-
 ## Properties
 
 ### ExpressionGUID
 
 • **ExpressionGUID**: [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2039)
 
 ___
 
@@ -74,29 +62,17 @@ ___
 
 • **ParameterInfo**: [`MaterialParameterInfo`](ue_ue.MaterialParameterInfo.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2037)
-
 ___
 
 ### \_\_tid\_StaticParameterBase\_\_
 
 • `Private` **\_\_tid\_StaticParameterBase\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:2045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2045)
-
 ___
 
 ### bOverride
 
 • **bOverride**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2038)
 
 ## Methods
 
@@ -112,10 +88,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2043)
-
 ___
 
 ### StaticStruct
@@ -125,7 +97,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2044)

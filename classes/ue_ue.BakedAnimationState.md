@@ -36,10 +36,6 @@
 
 • **new BakedAnimationState**()
 
-#### Defined in
-
-[ue/ue.d.ts:4844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4844)
-
 • **new BakedAnimationState**(`StateName`, `Transitions`, `StateRootNodeIndex`, `StartNotify`, `EndNotify`, `FullyBlendedNotify`, `bIsAConduit`, `EntryRuleNodeIndex`, `PlayerNodeIndices`, `LayerNodeIndices`, `bAlwaysResetOnEntry`)
 
 #### Parameters
@@ -58,19 +54,11 @@
 | `LayerNodeIndices` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\> |
 | `bAlwaysResetOnEntry` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:4845](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4845)
-
 ## Properties
 
 ### EndNotify
 
 • **EndNotify**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4850)
 
 ___
 
@@ -78,19 +66,11 @@ ___
 
 • **EntryRuleNodeIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4853)
-
 ___
 
 ### FullyBlendedNotify
 
 • **FullyBlendedNotify**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4851)
 
 ___
 
@@ -98,19 +78,11 @@ ___
 
 • **LayerNodeIndices**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:4855](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4855)
-
 ___
 
 ### PlayerNodeIndices
 
 • **PlayerNodeIndices**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:4854](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4854)
 
 ___
 
@@ -118,19 +90,11 @@ ___
 
 • **StartNotify**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4849)
-
 ___
 
 ### StateName
 
 • **StateName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:4846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4846)
 
 ___
 
@@ -138,19 +102,11 @@ ___
 
 • **StateRootNodeIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4848)
-
 ___
 
 ### Transitions
 
 • **Transitions**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BakedStateExitTransition`](ue_ue.BakedStateExitTransition.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:4847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4847)
 
 ___
 
@@ -158,29 +114,17 @@ ___
 
 • `Private` **\_\_tid\_BakedAnimationState\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:4862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4862)
-
 ___
 
 ### bAlwaysResetOnEntry
 
 • **bAlwaysResetOnEntry**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:4856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4856)
-
 ___
 
 ### bIsAConduit
 
 • **bIsAConduit**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4852)
 
 ## Methods
 
@@ -196,10 +140,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4860)
-
 ___
 
 ### StaticStruct
@@ -209,7 +149,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4861)

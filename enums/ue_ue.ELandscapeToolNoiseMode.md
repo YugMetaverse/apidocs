@@ -21,19 +21,11 @@
 
 • **Add** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33939)
-
 ___
 
 ### Both
 
 • **Both** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33939)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **ELandscapeToolNoiseMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33939)
-
 ___
 
 ### Invalid
 
 • **Invalid** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33939)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Sub** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33939)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33939)

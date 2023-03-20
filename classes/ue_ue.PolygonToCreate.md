@@ -29,10 +29,6 @@
 
 • **new PolygonToCreate**()
 
-#### Defined in
-
-[ue/ue.d.ts:31863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31863)
-
 • **new PolygonToCreate**(`PolygonGroupID`, `PerimeterVertices`, `OriginalPolygonID`, `PolygonEdgeHardness`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `OriginalPolygonID` | [`PolygonID`](ue_ue.PolygonID.md) |
 | `PolygonEdgeHardness` | [`EPolygonEdgeHardness`](../enums/ue_ue.EPolygonEdgeHardness.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:31864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31864)
-
 ## Properties
 
 ### OriginalPolygonID
 
 • **OriginalPolygonID**: [`PolygonID`](ue_ue.PolygonID.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31867)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **PerimeterVertices**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`VertexAndAttributes`](ue_ue.VertexAndAttributes.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:31866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31866)
-
 ___
 
 ### PolygonEdgeHardness
 
 • **PolygonEdgeHardness**: [`EPolygonEdgeHardness`](../enums/ue_ue.EPolygonEdgeHardness.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31868)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **PolygonGroupID**: [`PolygonGroupID`](ue_ue.PolygonGroupID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31865)
-
 ___
 
 ### \_\_tid\_PolygonToCreate\_\_
 
 • `Private` **\_\_tid\_PolygonToCreate\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31874)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31872)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31873)

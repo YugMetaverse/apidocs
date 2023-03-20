@@ -26,10 +26,6 @@
 
 • **new CollisionProfileName**()
 
-#### Defined in
-
-[ue/ue.d.ts:43224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43224)
-
 • **new CollisionProfileName**(`Name`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Name` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:43225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43225)
-
 ## Properties
 
 ### Name
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43226)
-
 ___
 
 ### \_\_tid\_CollisionProfileName\_\_
 
 • `Private` **\_\_tid\_CollisionProfileName\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43232)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43230)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43231)

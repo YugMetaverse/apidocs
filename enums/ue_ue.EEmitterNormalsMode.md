@@ -20,19 +20,11 @@
 
 • **ENM\_CameraFacing** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6841)
-
 ___
 
 ### ENM\_Cylindrical
 
 • **ENM\_Cylindrical** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6841)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **ENM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6841)
-
 ___
 
 ### ENM\_Spherical
 
 • **ENM\_Spherical** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6841)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6841)

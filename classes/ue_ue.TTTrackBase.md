@@ -35,10 +35,6 @@
 
 • **new TTTrackBase**()
 
-#### Defined in
-
-[ue/ue.d.ts:4196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4196)
-
 • **new TTTrackBase**(`TrackName`, `bIsExternalCurve`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `TrackName` | `string` |
 | `bIsExternalCurve` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:4197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4197)
-
 ## Properties
 
 ### TrackName
 
 • **TrackName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:4198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4198)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • `Private` **\_\_tid\_TTTrackBase\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:4205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4205)
-
 ___
 
 ### bIsExternalCurve
 
 • **bIsExternalCurve**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4199)
 
 ## Methods
 
@@ -96,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4203)
-
 ___
 
 ### StaticStruct
@@ -109,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4204)

@@ -40,10 +40,6 @@
 
 • **new AnimPhysConstraintSetup**()
 
-#### Defined in
-
-[ue/ue.d.ts:17737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17737)
-
 • **new AnimPhysConstraintSetup**(`LinearXLimitType`, `LinearYLimitType`, `LinearZLimitType`, `LinearAxesMin`, `LinearAxesMax`, `AngularConstraintType`, `TwistAxis`, `AngularTargetAxis`, `ConeAngle`, `AngularXAngle`, `AngularYAngle`, `AngularZAngle`, `AngularLimitsMin`, `AngularLimitsMax`, `AngularTarget`)
 
 #### Parameters
@@ -66,19 +62,11 @@
 | `AngularLimitsMax` | [`Vector`](ue_ue_s.Vector.md) |
 | `AngularTarget` | [`Vector`](ue_ue_s.Vector.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:17738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17738)
-
 ## Properties
 
 ### AngularConstraintType
 
 • **AngularConstraintType**: [`AnimPhysAngularConstraintType`](../enums/ue_ue.AnimPhysAngularConstraintType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17744)
 
 ___
 
@@ -86,19 +74,11 @@ ___
 
 • **AngularLimitsMax**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17752](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17752)
-
 ___
 
 ### AngularLimitsMin
 
 • **AngularLimitsMin**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17751)
 
 ___
 
@@ -106,19 +86,11 @@ ___
 
 • **AngularTarget**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17753)
-
 ___
 
 ### AngularTargetAxis
 
 • **AngularTargetAxis**: [`AnimPhysTwistAxis`](../enums/ue_ue.AnimPhysTwistAxis.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17746)
 
 ___
 
@@ -126,19 +98,11 @@ ___
 
 • **AngularXAngle**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17748)
-
 ___
 
 ### AngularYAngle
 
 • **AngularYAngle**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17749)
 
 ___
 
@@ -146,19 +110,11 @@ ___
 
 • **AngularZAngle**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17750)
-
 ___
 
 ### ConeAngle
 
 • **ConeAngle**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17747)
 
 ___
 
@@ -166,19 +122,11 @@ ___
 
 • **LinearAxesMax**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17743)
-
 ___
 
 ### LinearAxesMin
 
 • **LinearAxesMin**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17742)
 
 ___
 
@@ -186,19 +134,11 @@ ___
 
 • **LinearXLimitType**: [`AnimPhysLinearConstraintType`](../enums/ue_ue.AnimPhysLinearConstraintType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17739)
-
 ___
 
 ### LinearYLimitType
 
 • **LinearYLimitType**: [`AnimPhysLinearConstraintType`](../enums/ue_ue.AnimPhysLinearConstraintType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17740)
 
 ___
 
@@ -206,29 +146,17 @@ ___
 
 • **LinearZLimitType**: [`AnimPhysLinearConstraintType`](../enums/ue_ue.AnimPhysLinearConstraintType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17741)
-
 ___
 
 ### TwistAxis
 
 • **TwistAxis**: [`AnimPhysTwistAxis`](../enums/ue_ue.AnimPhysTwistAxis.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17745)
-
 ___
 
 ### \_\_tid\_AnimPhysConstraintSetup\_\_
 
 • `Private` **\_\_tid\_AnimPhysConstraintSetup\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17759)
 
 ## Methods
 
@@ -244,10 +172,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17757)
-
 ___
 
 ### StaticStruct
@@ -257,7 +181,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17758](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17758)

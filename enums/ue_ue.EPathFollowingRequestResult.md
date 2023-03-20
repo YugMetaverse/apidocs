@@ -20,19 +20,11 @@
 
 • **AlreadyAtGoal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14937)
-
 ___
 
 ### EPathFollowingRequestResult\_MAX
 
 • **EPathFollowingRequestResult\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14937)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Failed** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14937)
-
 ___
 
 ### RequestSuccessful
 
 • **RequestSuccessful** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14937)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14937)

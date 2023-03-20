@@ -20,19 +20,11 @@
 
 • **EFlipbookCollisionMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33867)
-
 ___
 
 ### EachFrameCollision
 
 • **EachFrameCollision** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33867)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **FirstFrameCollision** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33867)
-
 ___
 
 ### NoCollision
 
 • **NoCollision** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33867)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33867)

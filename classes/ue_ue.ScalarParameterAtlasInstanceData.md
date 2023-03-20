@@ -28,10 +28,6 @@
 
 • **new ScalarParameterAtlasInstanceData**()
 
-#### Defined in
-
-[ue/ue.d.ts:1700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1700)
-
 • **new ScalarParameterAtlasInstanceData**(`bIsUsedAsAtlasPosition`, `Curve`, `Atlas`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Curve` | [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`CurveLinearColor`](ue_ue.CurveLinearColor.md)\> |
 | `Atlas` | [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`CurveLinearColorAtlas`](ue_ue.CurveLinearColorAtlas.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:1701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1701)
-
 ## Properties
 
 ### Atlas
 
 • **Atlas**: [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`CurveLinearColorAtlas`](ue_ue.CurveLinearColorAtlas.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:1704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1704)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Curve**: [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`CurveLinearColor`](ue_ue.CurveLinearColor.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:1703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1703)
-
 ___
 
 ### \_\_tid\_ScalarParameterAtlasInstanceData\_\_
 
 • `Private` **\_\_tid\_ScalarParameterAtlasInstanceData\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:1710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1710)
-
 ___
 
 ### bIsUsedAsAtlasPosition
 
 • **bIsUsedAsAtlasPosition**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1702)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1708)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1709)

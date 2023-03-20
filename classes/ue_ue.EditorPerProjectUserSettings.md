@@ -87,19 +87,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:33192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33192)
-
 ## Properties
 
 ### AssetViewerProfileIndex
 
 • **AssetViewerProfileIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33223)
 
 ___
 
@@ -107,19 +99,11 @@ ___
 
 • **AssetViewerProfileName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:33224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33224)
-
 ___
 
 ### BlueprintFavorites
 
 • **BlueprintFavorites**: [`BlueprintPaletteFavorites`](ue_ue.BlueprintPaletteFavorites.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33222)
 
 ___
 
@@ -127,19 +111,11 @@ ___
 
 • **DataSourceFolder**: [`DirectoryPath`](ue_ue.DirectoryPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33210)
-
 ___
 
 ### MaterialQualityLevel
 
 • **MaterialQualityLevel**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33225)
 
 ___
 
@@ -147,19 +123,11 @@ ___
 
 • **PreviewFeatureLevel**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33226)
-
 ___
 
 ### PreviewShaderFormatName
 
 • **PreviewShaderFormatName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:33227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33227)
 
 ___
 
@@ -167,19 +135,11 @@ ___
 
 • **PropertyMatrix\_NumberOfPasteOperationsBeforeWarning**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33214)
-
 ___
 
 ### SCSViewportCameraSpeed
 
 • **SCSViewportCameraSpeed**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33218)
 
 ___
 
@@ -187,19 +147,11 @@ ___
 
 • **SimplygonServerIP**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:33200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33200)
-
 ___
 
 ### SimplygonSwarmDelay
 
 • **SimplygonSwarmDelay**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33202)
 
 ___
 
@@ -207,19 +159,11 @@ ___
 
 • **SwarmIntermediateFolder**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:33205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33205)
-
 ___
 
 ### SwarmMaxUploadChunkSizeInMB
 
 • **SwarmMaxUploadChunkSizeInMB**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33204)
 
 ___
 
@@ -227,19 +171,11 @@ ___
 
 • **SwarmNumOfConcurrentJobs**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33203)
-
 ___
 
 ### \_\_tid\_EditorPerProjectUserSettings\_\_
 
 • **\_\_tid\_EditorPerProjectUserSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33233)
 
 ___
 
@@ -251,19 +187,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bAllowSelectTranslucent
 
 • **bAllowSelectTranslucent**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33221)
 
 ___
 
@@ -271,19 +199,11 @@ ___
 
 • **bAlwaysGatherBehaviorTreeDebuggerData**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:33196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33196)
-
 ___
 
 ### bAnimationReimportWarnings
 
 • **bAnimationReimportWarnings**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33212)
 
 ___
 
@@ -291,19 +211,11 @@ ___
 
 • **bAutoloadCheckedOutPackages**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:33219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33219)
-
 ___
 
 ### bAutomaticallyHotReloadNewClasses
 
 • **bAutomaticallyHotReloadNewClasses**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33206)
 
 ___
 
@@ -311,19 +223,11 @@ ___
 
 • **bDisplayActionListItemRefIds**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:33195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33195)
-
 ___
 
 ### bDisplayBlackboardKeysInAlphabeticalOrder
 
 • **bDisplayBlackboardKeysInAlphabeticalOrder**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33197)
 
 ___
 
@@ -331,19 +235,11 @@ ___
 
 • **bDisplayDocumentationLink**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:33194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33194)
-
 ___
 
 ### bDisplayEngineVersionInBadge
 
 • **bDisplayEngineVersionInBadge**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33198)
 
 ___
 
@@ -351,19 +247,11 @@ ___
 
 • **bDisplayUIExtensionPoints**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:33193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33193)
-
 ___
 
 ### bEnableSwarmDebugging
 
 • **bEnableSwarmDebugging**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33201)
 
 ___
 
@@ -371,19 +259,11 @@ ___
 
 • **bGetAttentionOnUATCompletion**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:33217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33217)
-
 ___
 
 ### bKeepAttachHierarchy
 
 • **bKeepAttachHierarchy**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33211)
 
 ___
 
@@ -391,19 +271,11 @@ ___
 
 • **bKeepFbxNamespace**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:33208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33208)
-
 ___
 
 ### bPreviewFeatureLevelActive
 
 • **bPreviewFeatureLevelActive**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33228)
 
 ___
 
@@ -411,19 +283,11 @@ ___
 
 • **bSCSEditorShowFloor**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:33216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33216)
-
 ___
 
 ### bSCSEditorShowGrid
 
 • **bSCSEditorShowGrid**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33215)
 
 ___
 
@@ -431,19 +295,11 @@ ___
 
 • **bShowCompilerLogOnCompileError**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:33207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33207)
-
 ___
 
 ### bShowImportDialogAtReimport
 
 • **bShowImportDialogAtReimport**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33209)
 
 ___
 
@@ -451,29 +307,17 @@ ___
 
 • **bSuppressFullyLoadPrompt**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:33220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33220)
-
 ___
 
 ### bUseCurvesForDistributions
 
 • **bUseCurvesForDistributions**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:33213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33213)
-
 ___
 
 ### bUseSimplygonSwarm
 
 • **bUseSimplygonSwarm**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33199)
 
 ## Methods
 
@@ -499,10 +343,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -523,10 +363,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -540,10 +376,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -559,10 +391,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -577,10 +405,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -594,10 +418,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -620,10 +440,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:33230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33230)
-
 ___
 
 ### Load
@@ -644,10 +460,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:33231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33231)
-
 ___
 
 ### StaticClass
@@ -661,7 +473,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:33229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33229)

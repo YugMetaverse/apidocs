@@ -26,10 +26,6 @@
 
 • **new AnimNotifyArray**()
 
-#### Defined in
-
-[ue/ue.d.ts:5032](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5032)
-
 • **new AnimNotifyArray**(`Notifies`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Notifies` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AnimNotifyEventReference`](ue_ue.AnimNotifyEventReference.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:5033](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5033)
-
 ## Properties
 
 ### Notifies
 
 • **Notifies**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AnimNotifyEventReference`](ue_ue.AnimNotifyEventReference.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:5034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5034)
-
 ___
 
 ### \_\_tid\_AnimNotifyArray\_\_
 
 • `Private` **\_\_tid\_AnimNotifyArray\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5040](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5040)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5038)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5039)

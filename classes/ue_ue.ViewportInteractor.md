@@ -78,19 +78,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:14349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14349)
-
 ## Properties
 
 ### KeyToActionMap
 
 • **KeyToActionMap**: [`TMap`](../interfaces/ue_puerts.TMap.md)<[`Key`](ue_ue.Key.md), [`ViewportActionKeyInput`](ue_ue.ViewportActionKeyInput.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:14350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14350)
 
 ___
 
@@ -98,19 +90,11 @@ ___
 
 • **OtherInteractor**: [`ViewportInteractor`](ue_ue.ViewportInteractor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14352)
-
 ___
 
 ### WorldInteraction
 
 • **WorldInteraction**: [`ViewportWorldInteraction`](ue_ue.ViewportWorldInteraction.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14351)
 
 ___
 
@@ -122,19 +106,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ViewportInteractor\_\_
 
 • **\_\_tid\_ViewportInteractor\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14377](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14377)
 
 ## Methods
 
@@ -145,10 +121,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14353)
 
 ___
 
@@ -174,10 +146,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -198,10 +166,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -216,10 +180,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetDraggingMode
@@ -229,10 +189,6 @@ ___
 #### Returns
 
 [`EViewportInteractionDraggingMode`](../enums/ue_ue.EViewportInteractionDraggingMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14354)
 
 ___
 
@@ -244,10 +200,6 @@ ___
 
 [`EHitResultGizmoFilterMode`](../enums/ue_ue.EHitResultGizmoFilterMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14355](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14355)
-
 ___
 
 ### GetHoverLocation
@@ -257,10 +209,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14356)
 
 ___
 
@@ -281,10 +229,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:14357](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14357)
-
 ___
 
 ### GetLastRoomSpaceTransform
@@ -295,10 +239,6 @@ ___
 
 [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14358)
-
 ___
 
 ### GetLastTransform
@@ -308,10 +248,6 @@ ___
 #### Returns
 
 [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14359)
 
 ___
 
@@ -327,10 +263,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOtherInteractor
@@ -340,10 +272,6 @@ ___
 #### Returns
 
 [`ViewportInteractor`](ue_ue.ViewportInteractor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14360](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14360)
 
 ___
 
@@ -359,10 +287,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetRoomSpaceTransform
@@ -373,10 +297,6 @@ ___
 
 [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14361](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14361)
-
 ___
 
 ### GetTransform
@@ -386,10 +306,6 @@ ___
 #### Returns
 
 [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14362)
 
 ___
 
@@ -408,10 +324,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:14363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14363)
-
 ___
 
 ### GetWorld
@@ -426,10 +338,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### GetWorldInteraction
@@ -439,10 +347,6 @@ ___
 #### Returns
 
 [`ViewportWorldInteraction`](ue_ue.ViewportWorldInteraction.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14364)
 
 ___
 
@@ -464,10 +368,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:14365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14365)
-
 ___
 
 ### HandleInputKey\_BP
@@ -487,10 +387,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:14366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14366)
-
 ___
 
 ### IsHoveringOverGizmo
@@ -500,10 +396,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14367)
 
 ___
 
@@ -521,10 +413,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:14368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14368)
-
 ___
 
 ### SetDraggingMode
@@ -540,10 +428,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:14369](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14369)
 
 ___
 
@@ -561,10 +445,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:14370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14370)
-
 ___
 
 ### Shutdown
@@ -574,10 +454,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:14371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14371)
 
 ___
 
@@ -594,10 +470,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:14372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14372)
 
 ___
 
@@ -620,10 +492,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:14374](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14374)
-
 ___
 
 ### Load
@@ -644,10 +512,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:14375](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14375)
-
 ___
 
 ### StaticClass
@@ -661,7 +525,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:14373](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14373)

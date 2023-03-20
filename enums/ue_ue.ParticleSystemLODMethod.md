@@ -20,19 +20,11 @@
 
 • **PARTICLESYSTEMLODMETHOD\_ActivateAutomatic** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7172)
-
 ___
 
 ### PARTICLESYSTEMLODMETHOD\_Automatic
 
 • **PARTICLESYSTEMLODMETHOD\_Automatic** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7172)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **PARTICLESYSTEMLODMETHOD\_DirectSet** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7172)
-
 ___
 
 ### PARTICLESYSTEMLODMETHOD\_MAX
 
 • **PARTICLESYSTEMLODMETHOD\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7172)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7172)

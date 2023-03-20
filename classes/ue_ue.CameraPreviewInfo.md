@@ -30,10 +30,6 @@
 
 • **new CameraPreviewInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:39668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39668)
-
 • **new CameraPreviewInfo**(`PawnClass`, `AnimSeq`, `Location`, `Rotation`, `PawnInst`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `Rotation` | [`Rotator`](ue_ue_s.Rotator.md) |
 | `PawnInst` | [`Pawn`](ue_ue.Pawn.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:39669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39669)
-
 ## Properties
 
 ### AnimSeq
 
 • **AnimSeq**: [`AnimSequence`](ue_ue.AnimSequence.md)
-
-#### Defined in
-
-[ue/ue.d.ts:39671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39671)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **Location**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39672)
-
 ___
 
 ### PawnClass
 
 • **PawnClass**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:39670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39670)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **PawnInst**: [`Pawn`](ue_ue.Pawn.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39674)
-
 ___
 
 ### Rotation
 
 • **Rotation**: [`Rotator`](ue_ue_s.Rotator.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39673)
-
 ___
 
 ### \_\_tid\_CameraPreviewInfo\_\_
 
 • `Private` **\_\_tid\_CameraPreviewInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39680)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39678)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:39679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39679)

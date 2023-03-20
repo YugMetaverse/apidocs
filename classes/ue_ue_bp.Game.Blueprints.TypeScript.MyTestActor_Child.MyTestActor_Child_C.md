@@ -286,10 +286,6 @@
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[constructor](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#constructor)
 
-#### Defined in
-
-[ue/ue_bp.d.ts:83](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L83)
-
 ## Properties
 
 ### ActorLabel
@@ -299,10 +295,6 @@
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[ActorLabel](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#actorlabel)
-
-#### Defined in
-
-[ue/ue.d.ts:13176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13176)
 
 ___
 
@@ -314,10 +306,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[AttachmentReplication](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#attachmentreplication)
 
-#### Defined in
-
-[ue/ue.d.ts:13151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13151)
-
 ___
 
 ### AutoReceiveInput
@@ -327,10 +315,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[AutoReceiveInput](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#autoreceiveinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13157)
 
 ___
 
@@ -342,10 +326,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[BlueprintCreatedComponents](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#blueprintcreatedcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13206)
-
 ___
 
 ### Children
@@ -355,10 +335,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[Children](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#children)
-
-#### Defined in
-
-[ue/ue.d.ts:13166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13166)
 
 ___
 
@@ -370,10 +346,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[ControllingMatineeActors](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#controllingmatineeactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13169)
-
 ___
 
 ### CustomTimeDilation
@@ -383,10 +355,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[CustomTimeDilation](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#customtimedilation)
-
-#### Defined in
-
-[ue/ue.d.ts:13150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13150)
 
 ___
 
@@ -398,10 +366,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[DefaultSceneRoot](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#defaultsceneroot)
 
-#### Defined in
-
-[ue/ue_bp.d.ts:50](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L50)
-
 ___
 
 ### DefaultUpdateOverlapsMethodDuringLevelStreaming
@@ -411,10 +375,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[DefaultUpdateOverlapsMethodDuringLevelStreaming](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#defaultupdateoverlapsmethodduringlevelstreaming)
-
-#### Defined in
-
-[ue/ue.d.ts:13146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13146)
 
 ___
 
@@ -426,10 +386,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[FolderPath](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#folderpath)
 
-#### Defined in
-
-[ue/ue.d.ts:13177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13177)
-
 ___
 
 ### GroupActor
@@ -439,10 +395,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GroupActor](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#groupactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13173)
 
 ___
 
@@ -454,10 +406,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[HiddenEditorViews](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#hiddeneditorviews)
 
-#### Defined in
-
-[ue/ue.d.ts:13175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13175)
-
 ___
 
 ### InitialLifeSpan
@@ -467,10 +415,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[InitialLifeSpan](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#initiallifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13149)
 
 ___
 
@@ -482,10 +426,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[InputComponent](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#inputcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13159)
-
 ___
 
 ### InputPriority
@@ -495,10 +435,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[InputPriority](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#inputpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:13158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13158)
 
 ___
 
@@ -510,10 +446,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[InstanceComponents](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#instancecomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13205)
-
 ___
 
 ### Instigator
@@ -523,10 +455,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[Instigator](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#instigator)
-
-#### Defined in
-
-[ue/ue.d.ts:13165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13165)
 
 ___
 
@@ -538,10 +466,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[Layers](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#layers)
 
-#### Defined in
-
-[ue/ue.d.ts:13170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13170)
-
 ___
 
 ### MinNetUpdateFrequency
@@ -551,10 +475,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[MinNetUpdateFrequency](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#minnetupdatefrequency)
-
-#### Defined in
-
-[ue/ue.d.ts:13163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13163)
 
 ___
 
@@ -566,10 +486,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[NetCullDistanceSquared](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#netculldistancesquared)
 
-#### Defined in
-
-[ue/ue.d.ts:13160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13160)
-
 ___
 
 ### NetDormancy
@@ -579,10 +495,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[NetDormancy](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#netdormancy)
-
-#### Defined in
-
-[ue/ue.d.ts:13155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13155)
 
 ___
 
@@ -594,10 +506,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[NetDriverName](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#netdrivername)
 
-#### Defined in
-
-[ue/ue.d.ts:13153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13153)
-
 ___
 
 ### NetPriority
@@ -607,10 +515,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[NetPriority](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#netpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:13164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13164)
 
 ___
 
@@ -622,10 +526,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[NetTag](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#nettag)
 
-#### Defined in
-
-[ue/ue.d.ts:13161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13161)
-
 ___
 
 ### NetUpdateFrequency
@@ -635,10 +535,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[NetUpdateFrequency](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#netupdatefrequency)
-
-#### Defined in
-
-[ue/ue.d.ts:13162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13162)
 
 ___
 
@@ -650,10 +546,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[OnActorBeginOverlap](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#onactorbeginoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13192)
-
 ___
 
 ### OnActorEndOverlap
@@ -663,10 +555,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[OnActorEndOverlap](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#onactorendoverlap)
-
-#### Defined in
-
-[ue/ue.d.ts:13193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13193)
 
 ___
 
@@ -678,10 +566,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[OnActorHit](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#onactorhit)
 
-#### Defined in
-
-[ue/ue.d.ts:13202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13202)
-
 ___
 
 ### OnBeginCursorOver
@@ -691,10 +575,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[OnBeginCursorOver](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#onbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13194)
 
 ___
 
@@ -706,10 +586,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[OnClicked](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#onclicked)
 
-#### Defined in
-
-[ue/ue.d.ts:13196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13196)
-
 ___
 
 ### OnDestroyed
@@ -719,10 +595,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[OnDestroyed](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#ondestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13203)
 
 ___
 
@@ -734,10 +606,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[OnEndCursorOver](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#onendcursorover)
 
-#### Defined in
-
-[ue/ue.d.ts:13195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13195)
-
 ___
 
 ### OnEndPlay
@@ -747,10 +615,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[OnEndPlay](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#onendplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13204)
 
 ___
 
@@ -762,10 +626,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[OnInputTouchBegin](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#oninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:13198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13198)
-
 ___
 
 ### OnInputTouchEnd
@@ -775,10 +635,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[OnInputTouchEnd](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#oninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:13199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13199)
 
 ___
 
@@ -790,10 +646,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[OnInputTouchEnter](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#oninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:13200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13200)
-
 ___
 
 ### OnInputTouchLeave
@@ -803,10 +655,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[OnInputTouchLeave](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#oninputtouchleave)
-
-#### Defined in
-
-[ue/ue.d.ts:13201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13201)
 
 ___
 
@@ -818,10 +666,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[OnReleased](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#onreleased)
 
-#### Defined in
-
-[ue/ue.d.ts:13197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13197)
-
 ___
 
 ### OnTakeAnyDamage
@@ -831,10 +675,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[OnTakeAnyDamage](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#ontakeanydamage)
-
-#### Defined in
-
-[ue/ue.d.ts:13189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13189)
 
 ___
 
@@ -846,10 +686,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[OnTakePointDamage](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#ontakepointdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13190)
-
 ___
 
 ### OnTakeRadialDamage
@@ -859,10 +695,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[OnTakeRadialDamage](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#ontakeradialdamage)
-
-#### Defined in
-
-[ue/ue.d.ts:13191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13191)
 
 ___
 
@@ -874,10 +706,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[Owner](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#owner)
 
-#### Defined in
-
-[ue/ue.d.ts:13152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13152)
-
 ___
 
 ### ParentComponent
@@ -887,10 +715,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[ParentComponent](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#parentcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13172)
 
 ___
 
@@ -902,10 +726,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[ParentComponentActor](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#parentcomponentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13171)
-
 ___
 
 ### PivotOffset
@@ -915,10 +735,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[PivotOffset](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#pivotoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:13168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13168)
 
 ___
 
@@ -930,10 +746,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[PrimaryActorTick](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#primaryactortick)
 
-#### Defined in
-
-[ue/ue.d.ts:13115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13115)
-
 ___
 
 ### RemoteRole
@@ -943,10 +755,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[RemoteRole](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#remoterole)
-
-#### Defined in
-
-[ue/ue.d.ts:13147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13147)
 
 ___
 
@@ -958,10 +766,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[ReplicatedMovement](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#replicatedmovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13148)
-
 ___
 
 ### Role
@@ -971,10 +775,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[Role](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#role)
-
-#### Defined in
-
-[ue/ue.d.ts:13154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13154)
 
 ___
 
@@ -986,10 +786,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[RootComponent](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#rootcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13167)
-
 ___
 
 ### SpawnCollisionHandlingMethod
@@ -999,10 +795,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[SpawnCollisionHandlingMethod](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#spawncollisionhandlingmethod)
-
-#### Defined in
-
-[ue/ue.d.ts:13156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13156)
 
 ___
 
@@ -1014,10 +806,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[SpriteScale](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#spritescale)
 
-#### Defined in
-
-[ue/ue.d.ts:13174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13174)
-
 ___
 
 ### Tags
@@ -1028,19 +816,11 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[Tags](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#tags)
 
-#### Defined in
-
-[ue/ue.d.ts:13188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13188)
-
 ___
 
 ### UberGraphFrame
 
 • **UberGraphFrame**: [`PointerToUberGraphFrame`](ue_ue.PointerToUberGraphFrame.md)
-
-#### Defined in
-
-[ue/ue_bp.d.ts:84](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L84)
 
 ___
 
@@ -1052,10 +832,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[UpdateOverlapsMethodDuringLevelStreaming](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#updateoverlapsmethodduringlevelstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:13145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13145)
-
 ___
 
 ### \_\_tid\_Actor\_\_
@@ -1065,10 +841,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[__tid_Actor__](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#__tid_actor__)
-
-#### Defined in
-
-[ue/ue.d.ts:13348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13348)
 
 ___
 
@@ -1080,19 +852,11 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[__tid_MyTestActor_C__](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#__tid_mytestactor_c__)
 
-#### Defined in
-
-[ue/ue_bp.d.ts:56](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L56)
-
 ___
 
 ### \_\_tid\_MyTestActor\_Child\_C\_\_
 
 • **\_\_tid\_MyTestActor\_Child\_C\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue_bp.d.ts:91](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L91)
 
 ___
 
@@ -1104,10 +868,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[__tid_Object__](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bActorEnableCollision
@@ -1117,10 +877,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bActorEnableCollision](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#bactorenablecollision)
-
-#### Defined in
-
-[ue/ue.d.ts:13143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13143)
 
 ___
 
@@ -1132,10 +888,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bActorIsBeingDestroyed](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#bactorisbeingdestroyed)
 
-#### Defined in
-
-[ue/ue.d.ts:13144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13144)
-
 ___
 
 ### bActorLabelEditable
@@ -1145,10 +897,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bActorLabelEditable](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#bactorlabeleditable)
-
-#### Defined in
-
-[ue/ue.d.ts:13183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13183)
 
 ___
 
@@ -1160,10 +908,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bActorSeamlessTraveled](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#bactorseamlesstraveled)
 
-#### Defined in
-
-[ue/ue.d.ts:13139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13139)
-
 ___
 
 ### bAllowReceiveTickEventOnDedicatedServer
@@ -1173,10 +917,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bAllowReceiveTickEventOnDedicatedServer](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#ballowreceivetickeventondedicatedserver)
-
-#### Defined in
-
-[ue/ue.d.ts:13142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13142)
 
 ___
 
@@ -1188,10 +928,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bAllowTickBeforeBeginPlay](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#ballowtickbeforebeginplay)
 
-#### Defined in
-
-[ue/ue.d.ts:13129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13129)
-
 ___
 
 ### bAlwaysRelevant
@@ -1201,10 +937,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bAlwaysRelevant](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#balwaysrelevant)
-
-#### Defined in
-
-[ue/ue.d.ts:13120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13120)
 
 ___
 
@@ -1216,10 +948,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bAutoDestroyWhenFinished](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#bautodestroywhenfinished)
 
-#### Defined in
-
-[ue/ue.d.ts:13130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13130)
-
 ___
 
 ### bBlockInput
@@ -1229,10 +957,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bBlockInput](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#bblockinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13131)
 
 ___
 
@@ -1244,10 +968,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bCanBeDamaged](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#bcanbedamaged)
 
-#### Defined in
-
-[ue/ue.d.ts:13132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13132)
-
 ___
 
 ### bCanBeInCluster
@@ -1257,10 +977,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bCanBeInCluster](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#bcanbeincluster)
-
-#### Defined in
-
-[ue/ue.d.ts:13141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13141)
 
 ___
 
@@ -1272,10 +988,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bCollideWhenPlacing](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#bcollidewhenplacing)
 
-#### Defined in
-
-[ue/ue.d.ts:13133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13133)
-
 ___
 
 ### bEditable
@@ -1285,10 +997,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bEditable](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#beditable)
-
-#### Defined in
-
-[ue/ue.d.ts:13184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13184)
 
 ___
 
@@ -1300,10 +1008,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bEnableAutoLODGeneration](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#benableautolodgeneration)
 
-#### Defined in
-
-[ue/ue.d.ts:13137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13137)
-
 ___
 
 ### bExchangedRoles
@@ -1313,10 +1017,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bExchangedRoles](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#bexchangedroles)
-
-#### Defined in
-
-[ue/ue.d.ts:13123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13123)
 
 ___
 
@@ -1328,10 +1028,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bFindCameraComponentWhenViewTarget](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#bfindcameracomponentwhenviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13134)
-
 ___
 
 ### bGenerateOverlapEventsDuringLevelStreaming
@@ -1341,10 +1037,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bGenerateOverlapEventsDuringLevelStreaming](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#bgenerateoverlapeventsduringlevelstreaming)
-
-#### Defined in
-
-[ue/ue.d.ts:13135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13135)
 
 ___
 
@@ -1356,10 +1048,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bHidden](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#bhidden)
 
-#### Defined in
-
-[ue/ue.d.ts:13116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13116)
-
 ___
 
 ### bHiddenEd
@@ -1369,10 +1057,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bHiddenEd](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#bhiddened)
-
-#### Defined in
-
-[ue/ue.d.ts:13178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13178)
 
 ___
 
@@ -1384,10 +1068,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bHiddenEdLayer](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#bhiddenedlayer)
 
-#### Defined in
-
-[ue/ue.d.ts:13180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13180)
-
 ___
 
 ### bHiddenEdLevel
@@ -1397,10 +1077,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bHiddenEdLevel](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#bhiddenedlevel)
-
-#### Defined in
-
-[ue/ue.d.ts:13181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13181)
 
 ___
 
@@ -1412,10 +1088,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bHiddenEdTemporary](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#bhiddenedtemporary)
 
-#### Defined in
-
-[ue/ue.d.ts:13187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13187)
-
 ___
 
 ### bIgnoresOriginShifting
@@ -1425,10 +1097,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bIgnoresOriginShifting](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#bignoresoriginshifting)
-
-#### Defined in
-
-[ue/ue.d.ts:13136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13136)
 
 ___
 
@@ -1440,10 +1108,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bIsEditorOnlyActor](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#biseditoronlyactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13138)
-
 ___
 
 ### bIsEditorPreviewActor
@@ -1453,10 +1117,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bIsEditorPreviewActor](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#biseditorpreviewactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13179)
 
 ___
 
@@ -1468,10 +1128,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bListedInSceneOutliner](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#blistedinsceneoutliner)
 
-#### Defined in
-
-[ue/ue.d.ts:13185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13185)
-
 ___
 
 ### bLockLocation
@@ -1481,10 +1137,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bLockLocation](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#blocklocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13182)
 
 ___
 
@@ -1496,10 +1148,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bNetLoadOnClient](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#bnetloadonclient)
 
-#### Defined in
-
-[ue/ue.d.ts:13124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13124)
-
 ___
 
 ### bNetStartup
@@ -1509,10 +1157,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bNetStartup](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#bnetstartup)
-
-#### Defined in
-
-[ue/ue.d.ts:13118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13118)
 
 ___
 
@@ -1524,10 +1168,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bNetTemporary](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#bnettemporary)
 
-#### Defined in
-
-[ue/ue.d.ts:13117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13117)
-
 ___
 
 ### bNetUseOwnerRelevancy
@@ -1537,10 +1177,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bNetUseOwnerRelevancy](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#bnetuseownerrelevancy)
-
-#### Defined in
-
-[ue/ue.d.ts:13125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13125)
 
 ___
 
@@ -1552,10 +1188,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bOnlyRelevantToOwner](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#bonlyrelevanttoowner)
 
-#### Defined in
-
-[ue/ue.d.ts:13119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13119)
-
 ___
 
 ### bOptimizeBPComponentData
@@ -1565,10 +1197,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bOptimizeBPComponentData](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#boptimizebpcomponentdata)
-
-#### Defined in
-
-[ue/ue.d.ts:13186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13186)
 
 ___
 
@@ -1580,10 +1208,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bRelevantForLevelBounds](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#brelevantforlevelbounds)
 
-#### Defined in
-
-[ue/ue.d.ts:13127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13127)
-
 ___
 
 ### bRelevantForNetworkReplays
@@ -1593,10 +1217,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bRelevantForNetworkReplays](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#brelevantfornetworkreplays)
-
-#### Defined in
-
-[ue/ue.d.ts:13126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13126)
 
 ___
 
@@ -1608,10 +1228,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bReplayRewindable](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#breplayrewindable)
 
-#### Defined in
-
-[ue/ue.d.ts:13128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13128)
-
 ___
 
 ### bReplicateMovement
@@ -1621,10 +1237,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bReplicateMovement](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#breplicatemovement)
-
-#### Defined in
-
-[ue/ue.d.ts:13121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13121)
 
 ___
 
@@ -1636,10 +1248,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bReplicates](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#breplicates)
 
-#### Defined in
-
-[ue/ue.d.ts:13140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13140)
-
 ___
 
 ### bTearOff
@@ -1649,10 +1257,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[bTearOff](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#btearoff)
-
-#### Defined in
-
-[ue/ue.d.ts:13122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13122)
 
 ## Methods
 
@@ -1673,10 +1277,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[ActorHasTag](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#actorhastag)
-
-#### Defined in
-
-[ue/ue.d.ts:13207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13207)
 
 ___
 
@@ -1701,10 +1301,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[AddComponent](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#addcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13208)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -1725,10 +1321,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[AddTickPrerequisiteActor](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#addtickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13209)
-
 ___
 
 ### AddTickPrerequisiteComponent
@@ -1748,10 +1340,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[AddTickPrerequisiteComponent](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#addtickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13210)
 
 ___
 
@@ -1777,10 +1365,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[CreateDefaultSubobject](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### DetachRootComponentFromParent
@@ -1800,10 +1384,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[DetachRootComponentFromParent](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#detachrootcomponentfromparent)
-
-#### Defined in
-
-[ue/ue.d.ts:13211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13211)
 
 ___
 
@@ -1825,10 +1405,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[DisableInput](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#disableinput)
 
-#### Defined in
-
-[ue/ue.d.ts:13212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13212)
-
 ___
 
 ### EnableInput
@@ -1848,10 +1424,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[EnableInput](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#enableinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13213)
 
 ___
 
@@ -1873,10 +1445,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[ExecuteUbergraph](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### ExecuteUbergraph\_MyTestActor\_Child
@@ -1893,10 +1461,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_bp.d.ts:85](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L85)
-
 ___
 
 ### FlushNetDormancy
@@ -1911,10 +1475,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[FlushNetDormancy](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#flushnetdormancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13214)
-
 ___
 
 ### ForceNetUpdate
@@ -1928,10 +1488,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[ForceNetUpdate](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#forcenetupdate)
-
-#### Defined in
-
-[ue/ue.d.ts:13215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13215)
 
 ___
 
@@ -1955,10 +1511,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetActorBounds](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getactorbounds)
 
-#### Defined in
-
-[ue/ue.d.ts:13216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13216)
-
 ___
 
 ### GetActorEnableCollision
@@ -1972,10 +1524,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetActorEnableCollision](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getactorenablecollision)
-
-#### Defined in
-
-[ue/ue.d.ts:13217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13217)
 
 ___
 
@@ -1998,10 +1546,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetActorEyesViewPoint](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getactoreyesviewpoint)
 
-#### Defined in
-
-[ue/ue.d.ts:13218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13218)
-
 ___
 
 ### GetActorForwardVector
@@ -2015,10 +1559,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetActorForwardVector](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getactorforwardvector)
-
-#### Defined in
-
-[ue/ue.d.ts:13219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13219)
 
 ___
 
@@ -2034,10 +1574,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetActorLabel](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getactorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13220)
-
 ___
 
 ### GetActorRelativeScale3D
@@ -2051,10 +1587,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetActorRelativeScale3D](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getactorrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13221)
 
 ___
 
@@ -2070,10 +1602,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetActorRightVector](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getactorrightvector)
 
-#### Defined in
-
-[ue/ue.d.ts:13222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13222)
-
 ___
 
 ### GetActorScale3D
@@ -2087,10 +1615,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetActorScale3D](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getactorscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13223)
 
 ___
 
@@ -2106,10 +1630,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetActorTickInterval](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getactortickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:13224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13224)
-
 ___
 
 ### GetActorTimeDilation
@@ -2124,10 +1644,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetActorTimeDilation](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getactortimedilation)
 
-#### Defined in
-
-[ue/ue.d.ts:13225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13225)
-
 ___
 
 ### GetActorUpVector
@@ -2141,10 +1657,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetActorUpVector](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getactorupvector)
-
-#### Defined in
-
-[ue/ue.d.ts:13226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13226)
 
 ___
 
@@ -2167,10 +1679,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetAllChildActors](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getallchildactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13227)
-
 ___
 
 ### GetAttachParentActor
@@ -2185,10 +1693,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetAttachParentActor](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getattachparentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13229)
-
 ___
 
 ### GetAttachParentSocketName
@@ -2202,10 +1706,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetAttachParentSocketName](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getattachparentsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:13230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13230)
 
 ___
 
@@ -2228,10 +1728,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetAttachedActors](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getattachedactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13228)
-
 ___
 
 ### GetClass
@@ -2245,10 +1741,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetClass](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -2270,10 +1762,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetComponentByClass](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getcomponentbyclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13231)
-
 ___
 
 ### GetComponentsByInterface
@@ -2293,10 +1781,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetComponentsByInterface](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getcomponentsbyinterface)
-
-#### Defined in
-
-[ue/ue.d.ts:13232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13232)
 
 ___
 
@@ -2319,10 +1803,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetComponentsByTag](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getcomponentsbytag)
 
-#### Defined in
-
-[ue/ue.d.ts:13233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13233)
-
 ___
 
 ### GetDistanceTo
@@ -2342,10 +1822,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetDistanceTo](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getdistanceto)
-
-#### Defined in
-
-[ue/ue.d.ts:13234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13234)
 
 ___
 
@@ -2367,10 +1843,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetDotProductTo](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getdotproductto)
 
-#### Defined in
-
-[ue/ue.d.ts:13235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13235)
-
 ___
 
 ### GetFolderPath
@@ -2385,10 +1857,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetFolderPath](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getfolderpath)
 
-#### Defined in
-
-[ue/ue.d.ts:13236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13236)
-
 ___
 
 ### GetGameTimeSinceCreation
@@ -2402,10 +1870,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetGameTimeSinceCreation](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getgametimesincecreation)
-
-#### Defined in
-
-[ue/ue.d.ts:13237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13237)
 
 ___
 
@@ -2427,10 +1891,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetHorizontalDistanceTo](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#gethorizontaldistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13238)
-
 ___
 
 ### GetHorizontalDotProductTo
@@ -2450,10 +1910,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetHorizontalDotProductTo](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#gethorizontaldotproductto)
-
-#### Defined in
-
-[ue/ue.d.ts:13239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13239)
 
 ___
 
@@ -2475,10 +1931,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetInputAxisKeyValue](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getinputaxiskeyvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:13240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13240)
-
 ___
 
 ### GetInputAxisValue
@@ -2498,10 +1950,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetInputAxisValue](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getinputaxisvalue)
-
-#### Defined in
-
-[ue/ue.d.ts:13241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13241)
 
 ___
 
@@ -2523,10 +1971,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetInputVectorAxisValue](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getinputvectoraxisvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:13242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13242)
-
 ___
 
 ### GetInstigator
@@ -2540,10 +1984,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetInstigator](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getinstigator)
-
-#### Defined in
-
-[ue/ue.d.ts:13243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13243)
 
 ___
 
@@ -2559,10 +1999,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetInstigatorController](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getinstigatorcontroller)
 
-#### Defined in
-
-[ue/ue.d.ts:13244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13244)
-
 ___
 
 ### GetLifeSpan
@@ -2576,10 +2012,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetLifeSpan](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getlifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13245)
 
 ___
 
@@ -2595,10 +2027,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetLocalRole](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getlocalrole)
 
-#### Defined in
-
-[ue/ue.d.ts:13246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13246)
-
 ___
 
 ### GetName
@@ -2613,10 +2041,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetName](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -2630,10 +2054,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetOuter](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -2656,10 +2076,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetOverlappingActors](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getoverlappingactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13247)
-
 ___
 
 ### GetOverlappingComponents
@@ -2680,10 +2096,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetOverlappingComponents](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getoverlappingcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13248)
-
 ___
 
 ### GetOwner
@@ -2697,10 +2109,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetOwner](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13249)
 
 ___
 
@@ -2716,10 +2124,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetParentActor](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getparentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13250)
-
 ___
 
 ### GetParentComponent
@@ -2734,10 +2138,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetParentComponent](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getparentcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13251)
-
 ___
 
 ### GetRemoteRole
@@ -2751,10 +2151,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetRemoteRole](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getremoterole)
-
-#### Defined in
-
-[ue/ue.d.ts:13252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13252)
 
 ___
 
@@ -2776,10 +2172,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetSquaredDistanceTo](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getsquareddistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13253)
-
 ___
 
 ### GetTickableWhenPaused
@@ -2793,10 +2185,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetTickableWhenPaused](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#gettickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:13254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13254)
 
 ___
 
@@ -2812,10 +2200,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetTransform](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#gettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13255)
-
 ___
 
 ### GetVelocity
@@ -2829,10 +2213,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetVelocity](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:13256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13256)
 
 ___
 
@@ -2854,10 +2234,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetVerticalDistanceTo](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getverticaldistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13257)
-
 ___
 
 ### GetWorld
@@ -2871,10 +2247,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[GetWorld](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -2890,10 +2262,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[HasAuthority](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#hasauthority)
 
-#### Defined in
-
-[ue/ue.d.ts:13258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13258)
-
 ___
 
 ### IsActorBeingDestroyed
@@ -2907,10 +2275,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[IsActorBeingDestroyed](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#isactorbeingdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13259)
 
 ___
 
@@ -2926,10 +2290,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[IsActorTickEnabled](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#isactortickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:13260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13260)
-
 ___
 
 ### IsChildActor
@@ -2943,10 +2303,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[IsChildActor](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#ischildactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13261)
 
 ___
 
@@ -2962,10 +2318,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[IsEditable](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#iseditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13262)
-
 ___
 
 ### IsHiddenEd
@@ -2980,10 +2332,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[IsHiddenEd](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#ishiddened)
 
-#### Defined in
-
-[ue/ue.d.ts:13263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13263)
-
 ___
 
 ### IsHiddenEdAtStartup
@@ -2997,10 +2345,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[IsHiddenEdAtStartup](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#ishiddenedatstartup)
-
-#### Defined in
-
-[ue/ue.d.ts:13264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13264)
 
 ___
 
@@ -3022,10 +2366,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[IsOverlappingActor](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#isoverlappingactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13265)
-
 ___
 
 ### IsSelectable
@@ -3039,10 +2379,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[IsSelectable](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#isselectable)
-
-#### Defined in
-
-[ue/ue.d.ts:13266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13266)
 
 ___
 
@@ -3063,10 +2399,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[IsTemporarilyHiddenInEditor](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#istemporarilyhiddenineditor)
-
-#### Defined in
-
-[ue/ue.d.ts:13267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13267)
 
 ___
 
@@ -3091,10 +2423,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_AddActorLocalOffset](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_addactorlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:13268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13268)
-
 ___
 
 ### K2\_AddActorLocalRotation
@@ -3117,10 +2445,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_AddActorLocalRotation](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_addactorlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13269)
 
 ___
 
@@ -3145,10 +2469,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_AddActorLocalTransform](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_addactorlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13270)
-
 ___
 
 ### K2\_AddActorWorldOffset
@@ -3171,10 +2491,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_AddActorWorldOffset](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_addactorworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:13271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13271)
 
 ___
 
@@ -3199,10 +2515,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_AddActorWorldRotation](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_addactorworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13272)
-
 ___
 
 ### K2\_AddActorWorldTransform
@@ -3225,10 +2537,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_AddActorWorldTransform](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_addactorworldtransform)
-
-#### Defined in
-
-[ue/ue.d.ts:13273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13273)
 
 ___
 
@@ -3253,10 +2561,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_AttachRootComponentTo](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_attachrootcomponentto)
 
-#### Defined in
-
-[ue/ue.d.ts:13274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13274)
-
 ___
 
 ### K2\_AttachRootComponentToActor
@@ -3279,10 +2583,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_AttachRootComponentToActor](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_attachrootcomponenttoactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13275)
 
 ___
 
@@ -3309,10 +2609,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_AttachToActor](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_attachtoactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13276)
-
 ___
 
 ### K2\_AttachToComponent
@@ -3338,10 +2634,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_AttachToComponent](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_attachtocomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13277)
-
 ___
 
 ### K2\_DestroyActor
@@ -3355,10 +2647,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_DestroyActor](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_destroyactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13278)
 
 ___
 
@@ -3379,10 +2667,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_DestroyComponent](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13279)
 
 ___
 
@@ -3406,10 +2690,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_DetachFromActor](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_detachfromactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13280)
-
 ___
 
 ### K2\_GetActorLocation
@@ -3424,10 +2704,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_GetActorLocation](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_getactorlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:13281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13281)
-
 ___
 
 ### K2\_GetActorRotation
@@ -3441,10 +2717,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_GetActorRotation](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_getactorrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13282)
 
 ___
 
@@ -3466,10 +2738,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_GetComponentsByClass](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_getcomponentsbyclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13283)
-
 ___
 
 ### K2\_GetRootComponent
@@ -3483,10 +2751,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_GetRootComponent](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_getrootcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13284)
 
 ___
 
@@ -3508,10 +2772,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_OnBecomeViewTarget](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_onbecomeviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13285)
-
 ___
 
 ### K2\_OnEndViewTarget
@@ -3532,10 +2792,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_OnEndViewTarget](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_onendviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13286)
-
 ___
 
 ### K2\_OnReset
@@ -3549,10 +2805,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_OnReset](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_onreset)
-
-#### Defined in
-
-[ue/ue.d.ts:13287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13287)
 
 ___
 
@@ -3576,10 +2828,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_SetActorLocation](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_setactorlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13288)
 
 ___
 
@@ -3605,10 +2853,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_SetActorLocationAndRotation](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_setactorlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13289)
-
 ___
 
 ### K2\_SetActorRelativeLocation
@@ -3631,10 +2875,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_SetActorRelativeLocation](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_setactorrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13290)
 
 ___
 
@@ -3659,10 +2899,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_SetActorRelativeRotation](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_setactorrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13291)
-
 ___
 
 ### K2\_SetActorRelativeTransform
@@ -3686,10 +2922,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_SetActorRelativeTransform](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_setactorrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13292)
-
 ___
 
 ### K2\_SetActorRotation
@@ -3710,10 +2942,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_SetActorRotation](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_setactorrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13293)
 
 ___
 
@@ -3738,10 +2966,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_SetActorTransform](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_setactortransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13294)
-
 ___
 
 ### K2\_TeleportTo
@@ -3763,10 +2987,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[K2_TeleportTo](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#k2_teleportto)
 
-#### Defined in
-
-[ue/ue.d.ts:13295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13295)
-
 ___
 
 ### MakeMIDForMaterial
@@ -3786,10 +3006,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[MakeMIDForMaterial](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#makemidformaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:13296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13296)
 
 ___
 
@@ -3815,10 +3031,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[MakeNoise](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#makenoise)
 
-#### Defined in
-
-[ue/ue.d.ts:13297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13297)
-
 ___
 
 ### OnRep\_AttachmentReplication
@@ -3832,10 +3044,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[OnRep_AttachmentReplication](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#onrep_attachmentreplication)
-
-#### Defined in
-
-[ue/ue.d.ts:13298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13298)
 
 ___
 
@@ -3851,10 +3059,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[OnRep_Instigator](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#onrep_instigator)
 
-#### Defined in
-
-[ue/ue.d.ts:13299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13299)
-
 ___
 
 ### OnRep\_Owner
@@ -3868,10 +3072,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[OnRep_Owner](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#onrep_owner)
-
-#### Defined in
-
-[ue/ue.d.ts:13300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13300)
 
 ___
 
@@ -3887,10 +3087,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[OnRep_ReplicateMovement](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#onrep_replicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13302)
-
 ___
 
 ### OnRep\_ReplicatedMovement
@@ -3904,10 +3100,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[OnRep_ReplicatedMovement](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#onrep_replicatedmovement)
-
-#### Defined in
-
-[ue/ue.d.ts:13301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13301)
 
 ___
 
@@ -3931,10 +3123,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[PrestreamTextures](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#prestreamtextures)
 
-#### Defined in
-
-[ue/ue.d.ts:13303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13303)
-
 ___
 
 ### ReceiveActorBeginCursorOver
@@ -3948,10 +3136,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[ReceiveActorBeginCursorOver](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#receiveactorbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13304)
 
 ___
 
@@ -3973,10 +3157,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[ReceiveActorBeginOverlap](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#receiveactorbeginoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13305)
-
 ___
 
 ### ReceiveActorEndCursorOver
@@ -3990,10 +3170,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[ReceiveActorEndCursorOver](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#receiveactorendcursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13306)
 
 ___
 
@@ -4015,10 +3191,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[ReceiveActorEndOverlap](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#receiveactorendoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13307)
-
 ___
 
 ### ReceiveActorOnClicked
@@ -4038,10 +3210,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[ReceiveActorOnClicked](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#receiveactoronclicked)
-
-#### Defined in
-
-[ue/ue.d.ts:13308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13308)
 
 ___
 
@@ -4063,10 +3231,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[ReceiveActorOnInputTouchBegin](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#receiveactoroninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:13309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13309)
-
 ___
 
 ### ReceiveActorOnInputTouchEnd
@@ -4086,10 +3250,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[ReceiveActorOnInputTouchEnd](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#receiveactoroninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:13310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13310)
 
 ___
 
@@ -4111,10 +3271,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[ReceiveActorOnInputTouchEnter](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#receiveactoroninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:13311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13311)
-
 ___
 
 ### ReceiveActorOnInputTouchLeave
@@ -4135,10 +3291,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[ReceiveActorOnInputTouchLeave](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#receiveactoroninputtouchleave)
 
-#### Defined in
-
-[ue/ue.d.ts:13312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13312)
-
 ___
 
 ### ReceiveActorOnReleased
@@ -4158,10 +3310,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[ReceiveActorOnReleased](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#receiveactoronreleased)
-
-#### Defined in
-
-[ue/ue.d.ts:13313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13313)
 
 ___
 
@@ -4186,10 +3334,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[ReceiveAnyDamage](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#receiveanydamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13314)
-
 ___
 
 ### ReceiveBeginPlay
@@ -4204,10 +3348,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[ReceiveBeginPlay](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#receivebeginplay)
 
-#### Defined in
-
-[ue/ue_bp.d.ts:86](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L86)
-
 ___
 
 ### ReceiveDestroyed
@@ -4221,10 +3361,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[ReceiveDestroyed](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#receivedestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13316)
 
 ___
 
@@ -4245,10 +3381,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[ReceiveEndPlay](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#receiveendplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13317)
 
 ___
 
@@ -4276,10 +3408,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[ReceiveHit](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#receivehit)
-
-#### Defined in
-
-[ue/ue.d.ts:13318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13318)
 
 ___
 
@@ -4310,10 +3438,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[ReceivePointDamage](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#receivepointdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13319)
-
 ___
 
 ### ReceiveRadialDamage
@@ -4339,10 +3463,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[ReceiveRadialDamage](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#receiveradialdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13320)
-
 ___
 
 ### ReceiveTick
@@ -4362,10 +3482,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[ReceiveTick](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#receivetick)
-
-#### Defined in
-
-[ue/ue.d.ts:13321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13321)
 
 ___
 
@@ -4387,10 +3503,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[RemoveTickPrerequisiteActor](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -4410,10 +3522,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[RemoveTickPrerequisiteComponent](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#removetickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13323)
 
 ___
 
@@ -4435,10 +3543,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[SetActorEnableCollision](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#setactorenablecollision)
 
-#### Defined in
-
-[ue/ue.d.ts:13324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13324)
-
 ___
 
 ### SetActorHiddenInGame
@@ -4458,10 +3562,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[SetActorHiddenInGame](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#setactorhiddeningame)
-
-#### Defined in
-
-[ue/ue.d.ts:13325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13325)
 
 ___
 
@@ -4484,10 +3584,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[SetActorLabel](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#setactorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13326)
-
 ___
 
 ### SetActorRelativeScale3D
@@ -4507,10 +3603,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[SetActorRelativeScale3D](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#setactorrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13327)
 
 ___
 
@@ -4532,10 +3624,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[SetActorScale3D](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#setactorscale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:13328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13328)
-
 ___
 
 ### SetActorTickEnabled
@@ -4555,10 +3643,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[SetActorTickEnabled](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#setactortickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:13329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13329)
 
 ___
 
@@ -4580,10 +3664,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[SetActorTickInterval](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#setactortickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:13330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13330)
-
 ___
 
 ### SetFolderPath
@@ -4603,10 +3683,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[SetFolderPath](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#setfolderpath)
-
-#### Defined in
-
-[ue/ue.d.ts:13331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13331)
 
 ___
 
@@ -4628,10 +3704,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[SetIsTemporarilyHiddenInEditor](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#setistemporarilyhiddenineditor)
 
-#### Defined in
-
-[ue/ue.d.ts:13332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13332)
-
 ___
 
 ### SetLifeSpan
@@ -4651,10 +3723,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[SetLifeSpan](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#setlifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13333)
 
 ___
 
@@ -4676,10 +3744,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[SetNetDormancy](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#setnetdormancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13334)
-
 ___
 
 ### SetOwner
@@ -4699,10 +3763,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[SetOwner](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#setowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13335)
 
 ___
 
@@ -4724,10 +3784,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[SetReplicateMovement](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#setreplicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13336)
-
 ___
 
 ### SetReplicates
@@ -4747,10 +3803,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[SetReplicates](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#setreplicates)
-
-#### Defined in
-
-[ue/ue.d.ts:13337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13337)
 
 ___
 
@@ -4772,10 +3824,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[SetTickGroup](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#settickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:13339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13339)
-
 ___
 
 ### SetTickableWhenPaused
@@ -4795,10 +3843,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[SetTickableWhenPaused](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#settickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:13338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13338)
 
 ___
 
@@ -4821,10 +3865,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[SnapRootComponentTo](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#snaprootcomponentto)
 
-#### Defined in
-
-[ue/ue.d.ts:13340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13340)
-
 ___
 
 ### TearOff
@@ -4838,10 +3878,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[TearOff](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#tearoff)
-
-#### Defined in
-
-[ue/ue.d.ts:13341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13341)
 
 ___
 
@@ -4857,10 +3893,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[Test](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#test)
 
-#### Defined in
-
-[ue/ue_bp.d.ts:51](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L51)
-
 ___
 
 ### UserConstructionScript
@@ -4874,10 +3906,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[UserConstructionScript](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#userconstructionscript)
-
-#### Defined in
-
-[ue/ue.d.ts:13342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13342)
 
 ___
 
@@ -4898,10 +3926,6 @@ ___
 #### Inherited from
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[WasRecentlyRendered](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#wasrecentlyrendered)
-
-#### Defined in
-
-[ue/ue.d.ts:13343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13343)
 
 ___
 
@@ -4924,10 +3948,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[Find](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#find)
 
-#### Defined in
-
-[ue/ue_bp.d.ts:88](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L88)
-
 ___
 
 ### Load
@@ -4948,10 +3968,6 @@ ___
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[Load](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#load)
 
-#### Defined in
-
-[ue/ue_bp.d.ts:89](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L89)
-
 ___
 
 ### StaticClass
@@ -4965,7 +3981,3 @@ ___
 #### Overrides
 
 [MyTestActor_C](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md).[StaticClass](ue_ue_bp.Game.Blueprints.TypeScript.MyTestActor.MyTestActor_C.md#staticclass)
-
-#### Defined in
-
-[ue/ue_bp.d.ts:87](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L87)

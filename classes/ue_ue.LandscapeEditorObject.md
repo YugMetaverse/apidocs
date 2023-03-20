@@ -138,19 +138,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:44296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44296)
-
 ## Properties
 
 ### AlphaBrushPanU
 
 • **AlphaBrushPanU**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44370)
 
 ___
 
@@ -158,19 +150,11 @@ ___
 
 • **AlphaBrushPanV**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44371)
-
 ___
 
 ### AlphaBrushRotation
 
 • **AlphaBrushRotation**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44369](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44369)
 
 ___
 
@@ -178,19 +162,11 @@ ___
 
 • **AlphaBrushScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44367)
-
 ___
 
 ### AlphaTexture
 
 • **AlphaTexture**: [`Texture2D`](ue_ue.Texture2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44374](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44374)
 
 ___
 
@@ -198,19 +174,11 @@ ___
 
 • **AlphaTextureChannel**: [`EColorChannel`](../enums/ue_ue.EColorChannel.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44375](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44375)
-
 ___
 
 ### AlphaTextureData
 
 • **AlphaTextureData**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:44378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44378)
 
 ___
 
@@ -218,19 +186,11 @@ ___
 
 • **AlphaTextureSizeX**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44376](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44376)
-
 ___
 
 ### AlphaTextureSizeY
 
 • **AlphaTextureSizeY**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44377](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44377)
 
 ___
 
@@ -238,19 +198,11 @@ ___
 
 • **BlueprintBrush**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44343)
-
 ___
 
 ### BrushComponentSize
 
 • **BrushComponentSize**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44379)
 
 ___
 
@@ -258,19 +210,11 @@ ___
 
 • **BrushFalloff**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44365)
-
 ___
 
 ### BrushRadius
 
 • **BrushRadius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44364)
 
 ___
 
@@ -278,19 +222,11 @@ ___
 
 • **CurrentLayerIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44383)
-
 ___
 
 ### DetailScale
 
 • **DetailScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44316)
 
 ___
 
@@ -298,19 +234,11 @@ ___
 
 • **ErodeIterationNum**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44319)
-
 ___
 
 ### ErodeSurfaceThickness
 
 • **ErodeSurfaceThickness**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44318)
 
 ___
 
@@ -318,19 +246,11 @@ ___
 
 • **ErodeThresh**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44317)
-
 ___
 
 ### ErosionNoiseMode
 
 • **ErosionNoiseMode**: [`ELandscapeToolErosionMode`](../enums/ue_ue.ELandscapeToolErosionMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44320)
 
 ___
 
@@ -338,19 +258,11 @@ ___
 
 • **ErosionNoiseScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44321)
-
 ___
 
 ### FlattenEyeDropperModeDesiredTarget
 
 • **FlattenEyeDropperModeDesiredTarget**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44311)
 
 ___
 
@@ -358,19 +270,11 @@ ___
 
 • **FlattenMode**: [`ELandscapeToolFlattenMode`](../enums/ue_ue.ELandscapeToolFlattenMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44302)
-
 ___
 
 ### FlattenTarget
 
 • **FlattenTarget**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44306)
 
 ___
 
@@ -378,19 +282,11 @@ ___
 
 • **GizmoHeightmapFilenameString**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:44337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44337)
-
 ___
 
 ### GizmoImportLayers
 
 • **GizmoImportLayers**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`GizmoImportLayer`](ue_ue.GizmoImportLayer.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:44339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44339)
 
 ___
 
@@ -398,19 +294,11 @@ ___
 
 • **GizmoImportSize**: [`IntPoint`](ue_ue_s.IntPoint.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44338)
-
 ___
 
 ### HErodeIterationNum
 
 • **HErodeIterationNum**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44324)
 
 ___
 
@@ -418,19 +306,11 @@ ___
 
 • **HErosionDetailScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44328)
-
 ___
 
 ### ImportLandscape\_AlphamapType
 
 • **ImportLandscape\_AlphamapType**: [`ELandscapeImportAlphamapType`](../enums/ue_ue.ELandscapeImportAlphamapType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44362)
 
 ___
 
@@ -438,19 +318,11 @@ ___
 
 • **ImportLandscape\_Data**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:44360](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44360)
-
 ___
 
 ### ImportLandscape\_Height
 
 • **ImportLandscape\_Height**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44359)
 
 ___
 
@@ -458,19 +330,11 @@ ___
 
 • **ImportLandscape\_HeightmapErrorMessage**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:44356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44356)
-
 ___
 
 ### ImportLandscape\_HeightmapFilename
 
 • **ImportLandscape\_HeightmapFilename**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:44357](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44357)
 
 ___
 
@@ -478,19 +342,11 @@ ___
 
 • **ImportLandscape\_HeightmapImportResult**: [`ELandscapeImportResult`](../enums/ue_ue.ELandscapeImportResult.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44355](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44355)
-
 ___
 
 ### ImportLandscape\_Layers
 
 • **ImportLandscape\_Layers**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`LandscapeImportLayer`](ue_ue.LandscapeImportLayer.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:44363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44363)
 
 ___
 
@@ -498,19 +354,11 @@ ___
 
 • **ImportLandscape\_Width**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44358)
-
 ___
 
 ### MaximumValueRadius
 
 • **MaximumValueRadius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44300)
 
 ___
 
@@ -518,19 +366,11 @@ ___
 
 • **MirrorOp**: [`ELandscapeMirrorOperation`](../enums/ue_ue.ELandscapeMirrorOperation.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44341)
-
 ___
 
 ### MirrorPoint
 
 • **MirrorPoint**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44340)
 
 ___
 
@@ -538,19 +378,11 @@ ___
 
 • **MirrorSmoothingWidth**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44342)
-
 ___
 
 ### NewLandscape\_ComponentCount
 
 • **NewLandscape\_ComponentCount**: [`IntPoint`](ue_ue_s.IntPoint.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44351)
 
 ___
 
@@ -558,19 +390,11 @@ ___
 
 • **NewLandscape\_Location**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44352)
-
 ___
 
 ### NewLandscape\_Material
 
 • **NewLandscape\_Material**: [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`MaterialInterface`](ue_ue.MaterialInterface.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:44348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44348)
 
 ___
 
@@ -578,19 +402,11 @@ ___
 
 • **NewLandscape\_QuadsPerSection**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44349)
-
 ___
 
 ### NewLandscape\_Rotation
 
 • **NewLandscape\_Rotation**: [`Rotator`](ue_ue_s.Rotator.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44353)
 
 ___
 
@@ -598,19 +414,11 @@ ___
 
 • **NewLandscape\_Scale**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44354)
-
 ___
 
 ### NewLandscape\_SectionsPerComponent
 
 • **NewLandscape\_SectionsPerComponent**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44350)
 
 ___
 
@@ -618,19 +426,11 @@ ___
 
 • **NoiseMode**: [`ELandscapeToolNoiseMode`](../enums/ue_ue.ELandscapeToolNoiseMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44329)
-
 ___
 
 ### NoiseScale
 
 • **NoiseScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44330)
 
 ___
 
@@ -638,19 +438,11 @@ ___
 
 • **PaintingRestriction**: [`ELandscapeLayerPaintingRestriction`](../enums/ue_ue.ELandscapeLayerPaintingRestriction.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44380](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44380)
-
 ___
 
 ### PasteMode
 
 • **PasteMode**: [`ELandscapeToolPasteMode`](../enums/ue_ue.ELandscapeToolPasteMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44333)
 
 ___
 
@@ -658,19 +450,11 @@ ___
 
 • **RainAmount**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44322)
-
 ___
 
 ### RainDistMode
 
 • **RainDistMode**: [`ELandscapeToolHydroErosionMode`](../enums/ue_ue.ELandscapeToolHydroErosionMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44325)
 
 ___
 
@@ -678,19 +462,11 @@ ___
 
 • **RainDistScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44326)
-
 ___
 
 ### RampSideFalloff
 
 • **RampSideFalloff**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44313)
 
 ___
 
@@ -698,19 +474,11 @@ ___
 
 • **RampWidth**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44312)
-
 ___
 
 ### ResizeLandscape\_ComponentCount
 
 • **ResizeLandscape\_ComponentCount**: [`IntPoint`](ue_ue_s.IntPoint.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44346)
 
 ___
 
@@ -718,19 +486,11 @@ ___
 
 • **ResizeLandscape\_ConvertMode**: [`ELandscapeConvertMode`](../enums/ue_ue.ELandscapeConvertMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44347)
-
 ___
 
 ### ResizeLandscape\_QuadsPerSection
 
 • **ResizeLandscape\_QuadsPerSection**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44344](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44344)
 
 ___
 
@@ -738,19 +498,11 @@ ___
 
 • **ResizeLandscape\_SectionsPerComponent**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44345)
-
 ___
 
 ### SedimentCapacity
 
 • **SedimentCapacity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44323)
 
 ___
 
@@ -758,19 +510,11 @@ ___
 
 • **ShowUnusedLayers**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44382](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44382)
-
 ___
 
 ### SmoothFilterKernelSize
 
 • **SmoothFilterKernelSize**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44314)
 
 ___
 
@@ -778,19 +522,11 @@ ___
 
 • **TargetDisplayOrder**: [`ELandscapeLayerDisplayMode`](../enums/ue_ue.ELandscapeLayerDisplayMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44381)
-
 ___
 
 ### TerraceInterval
 
 • **TerraceInterval**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44308)
 
 ___
 
@@ -798,19 +534,11 @@ ___
 
 • **TerraceSmooth**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44309)
-
 ___
 
 ### ToolStrength
 
 • **ToolStrength**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44297)
 
 ___
 
@@ -818,29 +546,17 @@ ___
 
 • **WeightTargetValue**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:44299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44299)
-
 ___
 
 ### WorldSpacePatternBrushSettings
 
 • **WorldSpacePatternBrushSettings**: [`LandscapePatternBrushWorldSpaceSettings`](ue_ue.LandscapePatternBrushWorldSpaceSettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44373](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44373)
-
 ___
 
 ### \_\_tid\_LandscapeEditorObject\_\_
 
 • **\_\_tid\_LandscapeEditorObject\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44388)
 
 ___
 
@@ -852,19 +568,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bAlphaBrushAutoRotate
 
 • **bAlphaBrushAutoRotate**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44368)
 
 ___
 
@@ -872,19 +580,11 @@ ___
 
 • **bApplyToAllTargets**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44334)
-
 ___
 
 ### bCanHaveLayersContent
 
 • **bCanHaveLayersContent**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44361](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44361)
 
 ___
 
@@ -892,19 +592,11 @@ ___
 
 • **bCombinedLayersOperation**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44301)
-
 ___
 
 ### bDetailSmooth
 
 • **bDetailSmooth**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44315)
 
 ___
 
@@ -912,19 +604,11 @@ ___
 
 • **bFlattenEyeDropperModeActivated**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44310)
-
 ___
 
 ### bHErosionDetailSmooth
 
 • **bHErosionDetailSmooth**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44327)
 
 ___
 
@@ -932,19 +616,11 @@ ___
 
 • **bPickValuePerApply**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44304)
-
 ___
 
 ### bShowFlattenTargetPreview
 
 • **bShowFlattenTargetPreview**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44307)
 
 ___
 
@@ -952,19 +628,11 @@ ___
 
 • **bSmoothGizmoBrush**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44336)
-
 ___
 
 ### bSnapGizmo
 
 • **bSnapGizmo**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44335)
 
 ___
 
@@ -972,19 +640,11 @@ ___
 
 • **bUseClayBrush**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44366)
-
 ___
 
 ### bUseFlattenTarget
 
 • **bUseFlattenTarget**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44305)
 
 ___
 
@@ -992,19 +652,11 @@ ___
 
 • **bUseNegativeMask**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44332)
-
 ___
 
 ### bUseSelectedRegion
 
 • **bUseSelectedRegion**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44331)
 
 ___
 
@@ -1012,29 +664,17 @@ ___
 
 • **bUseSlopeFlatten**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44303)
-
 ___
 
 ### bUseWeightTargetValue
 
 • **bUseWeightTargetValue**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44298)
-
 ___
 
 ### bUseWorldSpacePatternBrush
 
 • **bUseWorldSpacePatternBrush**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44372)
 
 ## Methods
 
@@ -1060,10 +700,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -1084,10 +720,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -1101,10 +733,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -1120,10 +748,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -1138,10 +762,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -1155,10 +775,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -1181,10 +797,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:44385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44385)
-
 ___
 
 ### Load
@@ -1205,10 +817,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:44386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44386)
-
 ___
 
 ### StaticClass
@@ -1222,7 +830,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:44384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44384)

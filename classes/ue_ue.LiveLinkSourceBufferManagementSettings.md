@@ -35,10 +35,6 @@
 
 • **new LiveLinkSourceBufferManagementSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:45799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45799)
-
 • **new LiveLinkSourceBufferManagementSettings**(`ValidEngineTime`, `EngineTimeOffset`, `TimecodeFrameRate`, `bGenerateSubFrame`, `SourceTimecodeFrameRate`, `ValidTimecodeFrame`, `TimecodeFrameOffset`, `LatestOffset`, `MaxNumberOfFrameToBuffered`, `bKeepAtLeastOneFrame`)
 
 #### Parameters
@@ -56,19 +52,11 @@
 | `MaxNumberOfFrameToBuffered` | `number` |
 | `bKeepAtLeastOneFrame` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:45800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45800)
-
 ## Properties
 
 ### EngineTimeOffset
 
 • **EngineTimeOffset**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:45802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45802)
 
 ___
 
@@ -76,19 +64,11 @@ ___
 
 • **LatestOffset**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:45808](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45808)
-
 ___
 
 ### MaxNumberOfFrameToBuffered
 
 • **MaxNumberOfFrameToBuffered**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:45809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45809)
 
 ___
 
@@ -96,19 +76,11 @@ ___
 
 • **SourceTimecodeFrameRate**: [`FrameRate`](ue_ue.FrameRate.md)
 
-#### Defined in
-
-[ue/ue.d.ts:45805](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45805)
-
 ___
 
 ### TimecodeFrameOffset
 
 • **TimecodeFrameOffset**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:45807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45807)
 
 ___
 
@@ -116,19 +88,11 @@ ___
 
 • **TimecodeFrameRate**: [`FrameRate`](ue_ue.FrameRate.md)
 
-#### Defined in
-
-[ue/ue.d.ts:45803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45803)
-
 ___
 
 ### ValidEngineTime
 
 • **ValidEngineTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:45801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45801)
 
 ___
 
@@ -136,19 +100,11 @@ ___
 
 • **ValidTimecodeFrame**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:45806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45806)
-
 ___
 
 ### \_\_tid\_LiveLinkSourceBufferManagementSettings\_\_
 
 • `Private` **\_\_tid\_LiveLinkSourceBufferManagementSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45816)
 
 ___
 
@@ -156,19 +112,11 @@ ___
 
 • **bGenerateSubFrame**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45804)
-
 ___
 
 ### bKeepAtLeastOneFrame
 
 • **bKeepAtLeastOneFrame**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45810)
 
 ## Methods
 
@@ -184,10 +132,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:45814](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45814)
-
 ___
 
 ### StaticStruct
@@ -197,7 +141,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:45815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45815)

@@ -53,10 +53,6 @@
 
 [Property](ue_ue.Property.md).[constructor](ue_ue.Property.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:62480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62480)
-
 ## Properties
 
 ### \_\_tid\_Field\_\_
@@ -66,10 +62,6 @@
 #### Inherited from
 
 [Property](ue_ue.Property.md).[__tid_Field__](ue_ue.Property.md#__tid_field__)
-
-#### Defined in
-
-[ue/ue.d.ts:700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L700)
 
 ___
 
@@ -81,10 +73,6 @@ ___
 
 [Property](ue_ue.Property.md).[__tid_Object__](ue_ue.Property.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_Property\_\_
@@ -95,19 +83,11 @@ ___
 
 [Property](ue_ue.Property.md).[__tid_Property__](ue_ue.Property.md#__tid_property__)
 
-#### Defined in
-
-[ue/ue.d.ts:4766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4766)
-
 ___
 
 ### \_\_tid\_StrProperty\_\_
 
 • **\_\_tid\_StrProperty\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:62485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62485)
 
 ## Methods
 
@@ -133,10 +113,6 @@ ___
 
 [Property](ue_ue.Property.md).[CreateDefaultSubobject](ue_ue.Property.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -157,10 +133,6 @@ ___
 
 [Property](ue_ue.Property.md).[ExecuteUbergraph](ue_ue.Property.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -174,10 +146,6 @@ ___
 #### Inherited from
 
 [Property](ue_ue.Property.md).[GetClass](ue_ue.Property.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -193,10 +161,6 @@ ___
 
 [Property](ue_ue.Property.md).[GetName](ue_ue.Property.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -211,10 +175,6 @@ ___
 
 [Property](ue_ue.Property.md).[GetOuter](ue_ue.Property.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -228,10 +188,6 @@ ___
 #### Inherited from
 
 [Property](ue_ue.Property.md).[GetWorld](ue_ue.Property.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -254,10 +210,6 @@ ___
 
 [Property](ue_ue.Property.md).[Find](ue_ue.Property.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:62482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62482)
-
 ___
 
 ### Load
@@ -278,10 +230,6 @@ ___
 
 [Property](ue_ue.Property.md).[Load](ue_ue.Property.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:62483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62483)
-
 ___
 
 ### StaticClass
@@ -295,7 +243,3 @@ ___
 #### Overrides
 
 [Property](ue_ue.Property.md).[StaticClass](ue_ue.Property.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:62481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62481)

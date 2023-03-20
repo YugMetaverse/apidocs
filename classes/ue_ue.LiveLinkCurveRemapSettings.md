@@ -58,10 +58,6 @@
 
 [LiveLinkSourceSettings](ue_ue.LiveLinkSourceSettings.md).[constructor](ue_ue.LiveLinkSourceSettings.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:45872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45872)
-
 ## Properties
 
 ### BufferSettings
@@ -71,10 +67,6 @@
 #### Inherited from
 
 [LiveLinkSourceSettings](ue_ue.LiveLinkSourceSettings.md).[BufferSettings](ue_ue.LiveLinkSourceSettings.md#buffersettings)
-
-#### Defined in
-
-[ue/ue.d.ts:45848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45848)
 
 ___
 
@@ -86,19 +78,11 @@ ___
 
 [LiveLinkSourceSettings](ue_ue.LiveLinkSourceSettings.md).[ConnectionString](ue_ue.LiveLinkSourceSettings.md#connectionstring)
 
-#### Defined in
-
-[ue/ue.d.ts:45849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45849)
-
 ___
 
 ### CurveConversionSettings
 
 • **CurveConversionSettings**: [`LiveLinkCurveConversionSettings`](ue_ue.LiveLinkCurveConversionSettings.md)
-
-#### Defined in
-
-[ue/ue.d.ts:45873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45873)
 
 ___
 
@@ -110,10 +94,6 @@ ___
 
 [LiveLinkSourceSettings](ue_ue.LiveLinkSourceSettings.md).[Factory](ue_ue.LiveLinkSourceSettings.md#factory)
 
-#### Defined in
-
-[ue/ue.d.ts:45850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45850)
-
 ___
 
 ### Mode
@@ -123,10 +103,6 @@ ___
 #### Inherited from
 
 [LiveLinkSourceSettings](ue_ue.LiveLinkSourceSettings.md).[Mode](ue_ue.LiveLinkSourceSettings.md#mode)
-
-#### Defined in
-
-[ue/ue.d.ts:45847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45847)
 
 ___
 
@@ -138,19 +114,11 @@ ___
 
 [LiveLinkSourceSettings](ue_ue.LiveLinkSourceSettings.md).[SourceDebugInfos](ue_ue.LiveLinkSourceSettings.md#sourcedebuginfos)
 
-#### Defined in
-
-[ue/ue.d.ts:45851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45851)
-
 ___
 
 ### \_\_tid\_LiveLinkCurveRemapSettings\_\_
 
 • **\_\_tid\_LiveLinkCurveRemapSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45878)
 
 ___
 
@@ -162,10 +130,6 @@ ___
 
 [LiveLinkSourceSettings](ue_ue.LiveLinkSourceSettings.md).[__tid_LiveLinkSourceSettings__](ue_ue.LiveLinkSourceSettings.md#__tid_livelinksourcesettings__)
 
-#### Defined in
-
-[ue/ue.d.ts:45856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45856)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -175,10 +139,6 @@ ___
 #### Inherited from
 
 [LiveLinkSourceSettings](ue_ue.LiveLinkSourceSettings.md).[__tid_Object__](ue_ue.LiveLinkSourceSettings.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -204,10 +164,6 @@ ___
 
 [LiveLinkSourceSettings](ue_ue.LiveLinkSourceSettings.md).[CreateDefaultSubobject](ue_ue.LiveLinkSourceSettings.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -228,10 +184,6 @@ ___
 
 [LiveLinkSourceSettings](ue_ue.LiveLinkSourceSettings.md).[ExecuteUbergraph](ue_ue.LiveLinkSourceSettings.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -245,10 +197,6 @@ ___
 #### Inherited from
 
 [LiveLinkSourceSettings](ue_ue.LiveLinkSourceSettings.md).[GetClass](ue_ue.LiveLinkSourceSettings.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -264,10 +212,6 @@ ___
 
 [LiveLinkSourceSettings](ue_ue.LiveLinkSourceSettings.md).[GetName](ue_ue.LiveLinkSourceSettings.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -282,10 +226,6 @@ ___
 
 [LiveLinkSourceSettings](ue_ue.LiveLinkSourceSettings.md).[GetOuter](ue_ue.LiveLinkSourceSettings.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -299,10 +239,6 @@ ___
 #### Inherited from
 
 [LiveLinkSourceSettings](ue_ue.LiveLinkSourceSettings.md).[GetWorld](ue_ue.LiveLinkSourceSettings.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -325,10 +261,6 @@ ___
 
 [LiveLinkSourceSettings](ue_ue.LiveLinkSourceSettings.md).[Find](ue_ue.LiveLinkSourceSettings.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:45875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45875)
-
 ___
 
 ### Load
@@ -349,10 +281,6 @@ ___
 
 [LiveLinkSourceSettings](ue_ue.LiveLinkSourceSettings.md).[Load](ue_ue.LiveLinkSourceSettings.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:45876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45876)
-
 ___
 
 ### StaticClass
@@ -366,7 +294,3 @@ ___
 #### Overrides
 
 [LiveLinkSourceSettings](ue_ue.LiveLinkSourceSettings.md).[StaticClass](ue_ue.LiveLinkSourceSettings.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:45874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45874)

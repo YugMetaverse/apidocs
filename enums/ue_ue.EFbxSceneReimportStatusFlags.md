@@ -23,19 +23,11 @@
 
 • **Added** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33858)
-
 ___
 
 ### EFbxSceneReimportStatusFlags\_MAX
 
 • **EFbxSceneReimportStatusFlags\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33858)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **FoundContentBrowserAsset** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33858)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33858)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **ReimportAsset** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33858)
-
 ___
 
 ### Removed
 
 • **Removed** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33858)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **Same** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33858)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33858)

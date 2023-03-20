@@ -28,10 +28,6 @@
 
 • **new AlphaBlend**()
 
-#### Defined in
-
-[ue/ue.d.ts:2801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2801)
-
 • **new AlphaBlend**(`CustomCurve`, `BlendTime`, `BlendOption`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `BlendTime` | `number` |
 | `BlendOption` | [`EAlphaBlendOption`](../enums/ue_ue.EAlphaBlendOption.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:2802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2802)
-
 ## Properties
 
 ### BlendOption
 
 • **BlendOption**: [`EAlphaBlendOption`](../enums/ue_ue.EAlphaBlendOption.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2805](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2805)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **BlendTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2804)
-
 ___
 
 ### CustomCurve
 
 • **CustomCurve**: [`CurveFloat`](ue_ue.CurveFloat.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2803)
-
 ___
 
 ### \_\_tid\_AlphaBlend\_\_
 
 • `Private` **\_\_tid\_AlphaBlend\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2811)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2809)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2810)

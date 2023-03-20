@@ -20,19 +20,11 @@
 
 • **Bone** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31407)
-
 ___
 
 ### EComponentSocketType\_MAX
 
 • **EComponentSocketType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31407)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Invalid** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31407)
-
 ___
 
 ### Socket
 
 • **Socket** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31407)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31407)

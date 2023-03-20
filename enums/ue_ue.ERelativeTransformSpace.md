@@ -21,19 +21,11 @@
 
 • **RTS\_Actor** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12867)
-
 ___
 
 ### RTS\_Component
 
 • **RTS\_Component** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12867)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **RTS\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12867)
-
 ___
 
 ### RTS\_ParentBoneSpace
 
 • **RTS\_ParentBoneSpace** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12867)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **RTS\_World** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12867)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12867)

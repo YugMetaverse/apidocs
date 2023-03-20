@@ -23,19 +23,11 @@
 
 • **TCQ\_Default** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L447)
-
 ___
 
 ### TCQ\_High
 
 • **TCQ\_High** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L447)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **TCQ\_Highest** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L447)
-
 ___
 
 ### TCQ\_Low
 
 • **TCQ\_Low** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L447)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **TCQ\_Lowest** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L447)
-
 ___
 
 ### TCQ\_MAX
 
 • **TCQ\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L447)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **TCQ\_Medium** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L447)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L447)

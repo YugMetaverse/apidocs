@@ -27,10 +27,6 @@
 
 • **new NamedEmitterMaterial**()
 
-#### Defined in
-
-[ue/ue.d.ts:7188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7188)
-
 • **new NamedEmitterMaterial**(`Name`, `Material`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Name` | `string` |
 | `Material` | [`MaterialInterface`](ue_ue.MaterialInterface.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:7189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7189)
-
 ## Properties
 
 ### Material
 
 • **Material**: [`MaterialInterface`](ue_ue.MaterialInterface.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7191)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:7190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7190)
-
 ___
 
 ### \_\_tid\_NamedEmitterMaterial\_\_
 
 • `Private` **\_\_tid\_NamedEmitterMaterial\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7197)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7195)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7196)

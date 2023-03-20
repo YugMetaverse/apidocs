@@ -31,19 +31,11 @@
 
 • **new UniqueNetIdWrapper**()
 
-#### Defined in
-
-[ue/ue.d.ts:2224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2224)
-
 ## Properties
 
 ### \_\_tid\_UniqueNetIdWrapper\_\_
 
 • `Private` **\_\_tid\_UniqueNetIdWrapper\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2230)
 
 ## Methods
 
@@ -59,10 +51,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2228)
-
 ___
 
 ### StaticStruct
@@ -72,7 +60,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2229)

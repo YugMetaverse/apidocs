@@ -39,10 +39,6 @@
 
 [TableRowBase](ue_ue.TableRowBase.md).[constructor](ue_ue.TableRowBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:37089](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37089)
-
 • **new GameplayTagTableRow**(`Tag`, `DevComment`)
 
 #### Parameters
@@ -56,19 +52,11 @@
 
 UE.TableRowBase.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:37090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37090)
-
 ## Properties
 
 ### DevComment
 
 • **DevComment**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:37092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37092)
 
 ___
 
@@ -76,19 +64,11 @@ ___
 
 • **Tag**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:37091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37091)
-
 ___
 
 ### \_\_tid\_GameplayTagTableRow\_\_
 
 • `Private` **\_\_tid\_GameplayTagTableRow\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:37098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37098)
 
 ## Methods
 
@@ -108,10 +88,6 @@ use StaticStruct instead.
 
 [TableRowBase](ue_ue.TableRowBase.md).[StaticClass](ue_ue.TableRowBase.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:37096](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37096)
-
 ___
 
 ### StaticStruct
@@ -125,7 +101,3 @@ ___
 #### Overrides
 
 [TableRowBase](ue_ue.TableRowBase.md).[StaticStruct](ue_ue.TableRowBase.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:37097](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37097)

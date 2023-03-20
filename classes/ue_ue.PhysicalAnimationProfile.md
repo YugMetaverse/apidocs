@@ -27,10 +27,6 @@
 
 • **new PhysicalAnimationProfile**()
 
-#### Defined in
-
-[ue/ue.d.ts:3554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3554)
-
 • **new PhysicalAnimationProfile**(`ProfileName`, `PhysicalAnimationData`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `ProfileName` | `string` |
 | `PhysicalAnimationData` | [`PhysicalAnimationData`](ue_ue.PhysicalAnimationData.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:3555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3555)
-
 ## Properties
 
 ### PhysicalAnimationData
 
 • **PhysicalAnimationData**: [`PhysicalAnimationData`](ue_ue.PhysicalAnimationData.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3557)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **ProfileName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:3556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3556)
-
 ___
 
 ### \_\_tid\_PhysicalAnimationProfile\_\_
 
 • `Private` **\_\_tid\_PhysicalAnimationProfile\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3563)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3561)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3562)

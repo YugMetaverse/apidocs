@@ -28,10 +28,6 @@
 
 • **new ParticleBurst**()
 
-#### Defined in
-
-[ue/ue.d.ts:6825](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6825)
-
 • **new ParticleBurst**(`Count`, `CountLow`, `Time`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `CountLow` | `number` |
 | `Time` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:6826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6826)
-
 ## Properties
 
 ### Count
 
 • **Count**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6827)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **CountLow**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6828)
-
 ___
 
 ### Time
 
 • **Time**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6829)
-
 ___
 
 ### \_\_tid\_ParticleBurst\_\_
 
 • `Private` **\_\_tid\_ParticleBurst\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6835](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6835)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6833)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6834)

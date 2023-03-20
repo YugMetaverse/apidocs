@@ -78,29 +78,17 @@
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[constructor](ue_ue.ParticleModuleLocationBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:55806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55806)
-
 ## Properties
 
 ### EditorSkelMesh
 
 • **EditorSkelMesh**: [`SkeletalMesh`](ue_ue.SkeletalMesh.md)
 
-#### Defined in
-
-[ue/ue.d.ts:55817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55817)
-
 ___
 
 ### InheritVelocityScale
 
 • **InheritVelocityScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:55814](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55814)
 
 ___
 
@@ -112,10 +100,6 @@ ___
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[LODDuplicate](ue_ue.ParticleModuleLocationBase.md#lodduplicate)
 
-#### Defined in
-
-[ue/ue.d.ts:6745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6745)
-
 ___
 
 ### LODValidity
@@ -125,10 +109,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[LODValidity](ue_ue.ParticleModuleLocationBase.md#lodvalidity)
-
-#### Defined in
-
-[ue/ue.d.ts:6748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6748)
 
 ___
 
@@ -140,19 +120,11 @@ ___
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[ModuleEditorColor](ue_ue.ParticleModuleLocationBase.md#moduleeditorcolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6749)
-
 ___
 
 ### NumPreSelectedIndices
 
 • **NumPreSelectedIndices**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:55816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55816)
 
 ___
 
@@ -160,19 +132,11 @@ ___
 
 • **SelectionMethod**: [`ELocationBoneSocketSelectionMethod`](../enums/ue_ue.ELocationBoneSocketSelectionMethod.md)
 
-#### Defined in
-
-[ue/ue.d.ts:55810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55810)
-
 ___
 
 ### SkelMeshActorParamName
 
 • **SkelMeshActorParamName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:55815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55815)
 
 ___
 
@@ -180,29 +144,17 @@ ___
 
 • **SourceLocations**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`LocationBoneSocketInfo`](ue_ue.LocationBoneSocketInfo.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:55809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55809)
-
 ___
 
 ### SourceType
 
 • **SourceType**: [`ELocationBoneSocketSource`](../enums/ue_ue.ELocationBoneSocketSource.md)
 
-#### Defined in
-
-[ue/ue.d.ts:55807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55807)
-
 ___
 
 ### UniversalOffset
 
 • **UniversalOffset**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:55808](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55808)
 
 ___
 
@@ -214,10 +166,6 @@ ___
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[__tid_Object__](ue_ue.ParticleModuleLocationBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ParticleModuleLocationBase\_\_
@@ -228,19 +176,11 @@ ___
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[__tid_ParticleModuleLocationBase__](ue_ue.ParticleModuleLocationBase.md#__tid_particlemodulelocationbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:55767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55767)
-
 ___
 
 ### \_\_tid\_ParticleModuleLocationBoneSocket\_\_
 
 • **\_\_tid\_ParticleModuleLocationBoneSocket\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55822)
 
 ___
 
@@ -252,10 +192,6 @@ ___
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[__tid_ParticleModule__](ue_ue.ParticleModuleLocationBase.md#__tid_particlemodule__)
 
-#### Defined in
-
-[ue/ue.d.ts:6754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6754)
-
 ___
 
 ### b3DDrawMode
@@ -265,10 +201,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[b3DDrawMode](ue_ue.ParticleModuleLocationBase.md#b3ddrawmode)
-
-#### Defined in
-
-[ue/ue.d.ts:6741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6741)
 
 ___
 
@@ -280,10 +212,6 @@ ___
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[bCurvesAsColor](ue_ue.ParticleModuleLocationBase.md#bcurvesascolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6740)
-
 ___
 
 ### bEditable
@@ -293,10 +221,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[bEditable](ue_ue.ParticleModuleLocationBase.md#beditable)
-
-#### Defined in
-
-[ue/ue.d.ts:6744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6744)
 
 ___
 
@@ -308,10 +232,6 @@ ___
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[bEnabled](ue_ue.ParticleModuleLocationBase.md#benabled)
 
-#### Defined in
-
-[ue/ue.d.ts:6743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6743)
-
 ___
 
 ### bFinalUpdateModule
@@ -322,29 +242,17 @@ ___
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[bFinalUpdateModule](ue_ue.ParticleModuleLocationBase.md#bfinalupdatemodule)
 
-#### Defined in
-
-[ue/ue.d.ts:6738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6738)
-
 ___
 
 ### bInheritBoneVelocity
 
 • **bInheritBoneVelocity**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:55813](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55813)
-
 ___
 
 ### bOrientMeshEmitters
 
 • **bOrientMeshEmitters**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55812](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55812)
 
 ___
 
@@ -356,10 +264,6 @@ ___
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[bRequiresLoopingNotification](ue_ue.ParticleModuleLocationBase.md#brequiresloopingnotification)
 
-#### Defined in
-
-[ue/ue.d.ts:6747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6747)
-
 ___
 
 ### bSpawnModule
@@ -369,10 +273,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[bSpawnModule](ue_ue.ParticleModuleLocationBase.md#bspawnmodule)
-
-#### Defined in
-
-[ue/ue.d.ts:6736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6736)
 
 ___
 
@@ -384,10 +284,6 @@ ___
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[bSupported3DDrawMode](ue_ue.ParticleModuleLocationBase.md#bsupported3ddrawmode)
 
-#### Defined in
-
-[ue/ue.d.ts:6742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6742)
-
 ___
 
 ### bSupportsRandomSeed
@@ -397,10 +293,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[bSupportsRandomSeed](ue_ue.ParticleModuleLocationBase.md#bsupportsrandomseed)
-
-#### Defined in
-
-[ue/ue.d.ts:6746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6746)
 
 ___
 
@@ -412,10 +304,6 @@ ___
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[bUpdateForGPUEmitter](ue_ue.ParticleModuleLocationBase.md#bupdateforgpuemitter)
 
-#### Defined in
-
-[ue/ue.d.ts:6739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6739)
-
 ___
 
 ### bUpdateModule
@@ -426,19 +314,11 @@ ___
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[bUpdateModule](ue_ue.ParticleModuleLocationBase.md#bupdatemodule)
 
-#### Defined in
-
-[ue/ue.d.ts:6737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6737)
-
 ___
 
 ### bUpdatePositionEachFrame
 
 • **bUpdatePositionEachFrame**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55811)
 
 ## Methods
 
@@ -464,10 +344,6 @@ ___
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[CreateDefaultSubobject](ue_ue.ParticleModuleLocationBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -488,10 +364,6 @@ ___
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[ExecuteUbergraph](ue_ue.ParticleModuleLocationBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -505,10 +377,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[GetClass](ue_ue.ParticleModuleLocationBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -524,10 +392,6 @@ ___
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[GetName](ue_ue.ParticleModuleLocationBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -542,10 +406,6 @@ ___
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[GetOuter](ue_ue.ParticleModuleLocationBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -559,10 +419,6 @@ ___
 #### Inherited from
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[GetWorld](ue_ue.ParticleModuleLocationBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -585,10 +441,6 @@ ___
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[Find](ue_ue.ParticleModuleLocationBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:55819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55819)
-
 ___
 
 ### Load
@@ -609,10 +461,6 @@ ___
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[Load](ue_ue.ParticleModuleLocationBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:55820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55820)
-
 ___
 
 ### StaticClass
@@ -626,7 +474,3 @@ ___
 #### Overrides
 
 [ParticleModuleLocationBase](ue_ue.ParticleModuleLocationBase.md).[StaticClass](ue_ue.ParticleModuleLocationBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:55818](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55818)

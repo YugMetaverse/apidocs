@@ -33,10 +33,6 @@
 
 • **new FileManifestData**()
 
-#### Defined in
-
-[ue/ue.d.ts:25495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25495)
-
 • **new FileManifestData**(`Filename`, `FileHash`, `FileChunkParts`, `InstallTags`, `bIsUnixExecutable`, `SymlinkTarget`, `bIsReadOnly`, `bIsCompressed`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `bIsReadOnly` | `boolean` |
 | `bIsCompressed` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:25496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25496)
-
 ## Properties
 
 ### FileChunkParts
 
 • **FileChunkParts**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ChunkPartData`](ue_ue.ChunkPartData.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:25499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25499)
 
 ___
 
@@ -72,19 +60,11 @@ ___
 
 • **FileHash**: [`SHAHashData`](ue_ue.SHAHashData.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25498)
-
 ___
 
 ### Filename
 
 • **Filename**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:25497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25497)
 
 ___
 
@@ -92,19 +72,11 @@ ___
 
 • **InstallTags**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:25500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25500)
-
 ___
 
 ### SymlinkTarget
 
 • **SymlinkTarget**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:25502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25502)
 
 ___
 
@@ -112,19 +84,11 @@ ___
 
 • `Private` **\_\_tid\_FileManifestData\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:25510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25510)
-
 ___
 
 ### bIsCompressed
 
 • **bIsCompressed**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:25504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25504)
 
 ___
 
@@ -132,19 +96,11 @@ ___
 
 • **bIsReadOnly**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:25503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25503)
-
 ___
 
 ### bIsUnixExecutable
 
 • **bIsUnixExecutable**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:25501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25501)
 
 ## Methods
 
@@ -160,10 +116,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25508](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25508)
-
 ___
 
 ### StaticStruct
@@ -173,7 +125,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25509)

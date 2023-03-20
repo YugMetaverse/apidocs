@@ -27,10 +27,6 @@
 
 • **new NamedCurveValue**()
 
-#### Defined in
-
-[ue/ue.d.ts:18418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18418)
-
 • **new NamedCurveValue**(`Name`, `Value`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Name` | `string` |
 | `Value` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:18419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18419)
-
 ## Properties
 
 ### Name
 
 • **Name**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:18420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18420)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Value**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18421)
-
 ___
 
 ### \_\_tid\_NamedCurveValue\_\_
 
 • `Private` **\_\_tid\_NamedCurveValue\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18427)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18425)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:18426](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18426)

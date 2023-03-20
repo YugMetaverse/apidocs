@@ -63,10 +63,6 @@
 
 [BTService](ue_ue.BTService.md).[constructor](ue_ue.BTService.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:62877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62877)
-
 ## Properties
 
 ### Interval
@@ -77,29 +73,17 @@
 
 [BTService](ue_ue.BTService.md).[Interval](ue_ue.BTService.md#interval)
 
-#### Defined in
-
-[ue/ue.d.ts:14588](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14588)
-
 ___
 
 ### LogActivation
 
 • **LogActivation**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:62878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62878)
-
 ___
 
 ### LogDeactivation
 
 • **LogDeactivation**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:62879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62879)
 
 ___
 
@@ -111,10 +95,6 @@ ___
 
 [BTService](ue_ue.BTService.md).[NodeName](ue_ue.BTService.md#nodename)
 
-#### Defined in
-
-[ue/ue.d.ts:14567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14567)
-
 ___
 
 ### ParentNode
@@ -124,10 +104,6 @@ ___
 #### Inherited from
 
 [BTService](ue_ue.BTService.md).[ParentNode](ue_ue.BTService.md#parentnode)
-
-#### Defined in
-
-[ue/ue.d.ts:14569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14569)
 
 ___
 
@@ -139,10 +115,6 @@ ___
 
 [BTService](ue_ue.BTService.md).[RandomDeviation](ue_ue.BTService.md#randomdeviation)
 
-#### Defined in
-
-[ue/ue.d.ts:14589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14589)
-
 ___
 
 ### TreeAsset
@@ -152,10 +124,6 @@ ___
 #### Inherited from
 
 [BTService](ue_ue.BTService.md).[TreeAsset](ue_ue.BTService.md#treeasset)
-
-#### Defined in
-
-[ue/ue.d.ts:14568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14568)
 
 ___
 
@@ -167,10 +135,6 @@ ___
 
 [BTService](ue_ue.BTService.md).[__tid_BTAuxiliaryNode__](ue_ue.BTService.md#__tid_btauxiliarynode__)
 
-#### Defined in
-
-[ue/ue.d.ts:14583](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14583)
-
 ___
 
 ### \_\_tid\_BTNode\_\_
@@ -180,10 +144,6 @@ ___
 #### Inherited from
 
 [BTService](ue_ue.BTService.md).[__tid_BTNode__](ue_ue.BTService.md#__tid_btnode__)
-
-#### Defined in
-
-[ue/ue.d.ts:14574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14574)
 
 ___
 
@@ -195,10 +155,6 @@ ___
 
 [BTService](ue_ue.BTService.md).[__tid_BTService__](ue_ue.BTService.md#__tid_btservice__)
 
-#### Defined in
-
-[ue/ue.d.ts:14596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14596)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -209,19 +165,11 @@ ___
 
 [BTService](ue_ue.BTService.md).[__tid_Object__](ue_ue.BTService.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_TestBTService\_Log\_\_
 
 • **\_\_tid\_TestBTService\_Log\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:62884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62884)
 
 ___
 
@@ -233,10 +181,6 @@ ___
 
 [BTService](ue_ue.BTService.md).[bCallTickOnSearchStart](ue_ue.BTService.md#bcalltickonsearchstart)
 
-#### Defined in
-
-[ue/ue.d.ts:14590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14590)
-
 ___
 
 ### bRestartTimerOnEachActivation
@@ -246,10 +190,6 @@ ___
 #### Inherited from
 
 [BTService](ue_ue.BTService.md).[bRestartTimerOnEachActivation](ue_ue.BTService.md#brestarttimeroneachactivation)
-
-#### Defined in
-
-[ue/ue.d.ts:14591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14591)
 
 ## Methods
 
@@ -275,10 +215,6 @@ ___
 
 [BTService](ue_ue.BTService.md).[CreateDefaultSubobject](ue_ue.BTService.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -299,10 +235,6 @@ ___
 
 [BTService](ue_ue.BTService.md).[ExecuteUbergraph](ue_ue.BTService.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -316,10 +248,6 @@ ___
 #### Inherited from
 
 [BTService](ue_ue.BTService.md).[GetClass](ue_ue.BTService.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -335,10 +263,6 @@ ___
 
 [BTService](ue_ue.BTService.md).[GetName](ue_ue.BTService.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -353,10 +277,6 @@ ___
 
 [BTService](ue_ue.BTService.md).[GetOuter](ue_ue.BTService.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -370,10 +290,6 @@ ___
 #### Inherited from
 
 [BTService](ue_ue.BTService.md).[GetWorld](ue_ue.BTService.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -396,10 +312,6 @@ ___
 
 [BTService](ue_ue.BTService.md).[Find](ue_ue.BTService.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:62881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62881)
-
 ___
 
 ### Load
@@ -420,10 +332,6 @@ ___
 
 [BTService](ue_ue.BTService.md).[Load](ue_ue.BTService.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:62882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62882)
-
 ___
 
 ### StaticClass
@@ -437,7 +345,3 @@ ___
 #### Overrides
 
 [BTService](ue_ue.BTService.md).[StaticClass](ue_ue.BTService.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:62880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62880)

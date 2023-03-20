@@ -31,19 +31,11 @@
 
 • **ETransformGizmoSubElements\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34849)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34849)
 
 ___
 
@@ -51,19 +43,11 @@ ___
 
 • **RotateAllAxes** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34849)
-
 ___
 
 ### RotateAxisX
 
 • **RotateAxisX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34849)
 
 ___
 
@@ -71,19 +55,11 @@ ___
 
 • **RotateAxisY** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34849)
-
 ___
 
 ### RotateAxisZ
 
 • **RotateAxisZ** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34849)
 
 ___
 
@@ -91,19 +67,11 @@ ___
 
 • **StanedardTranslateRotate** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34849)
-
 ___
 
 ### TranslateAllAxes
 
 • **TranslateAllAxes** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34849)
 
 ___
 
@@ -111,19 +79,11 @@ ___
 
 • **TranslateAllPlanes** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34849)
-
 ___
 
 ### TranslateAxisX
 
 • **TranslateAxisX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34849)
 
 ___
 
@@ -131,19 +91,11 @@ ___
 
 • **TranslateAxisY** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34849)
-
 ___
 
 ### TranslateAxisZ
 
 • **TranslateAxisZ** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34849)
 
 ___
 
@@ -151,19 +103,11 @@ ___
 
 • **TranslatePlaneXY** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34849)
-
 ___
 
 ### TranslatePlaneXZ
 
 • **TranslatePlaneXZ** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34849)
 
 ___
 
@@ -171,16 +115,8 @@ ___
 
 • **TranslatePlaneYZ** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34849)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34849)

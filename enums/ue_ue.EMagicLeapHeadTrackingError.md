@@ -21,19 +21,11 @@
 
 • **EMagicLeapHeadTrackingError\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34003)
-
 ___
 
 ### LowLight
 
 • **LowLight** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34003)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34003)
-
 ___
 
 ### NotEnoughFeatures
 
 • **NotEnoughFeatures** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34003)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Unknown** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34003)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34003)

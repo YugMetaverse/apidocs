@@ -21,19 +21,11 @@
 
 • **Default** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33884)
-
 ___
 
 ### EGBufferFormat\_MAX
 
 • **EGBufferFormat\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33884)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Force16BitsPerChannel** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33884)
-
 ___
 
 ### Force8BitsPerChannel
 
 • **Force8BitsPerChannel** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33884)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **HighPrecisionNormals** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33884)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33884)

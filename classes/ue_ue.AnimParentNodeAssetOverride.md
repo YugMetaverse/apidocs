@@ -27,10 +27,6 @@
 
 • **new AnimParentNodeAssetOverride**()
 
-#### Defined in
-
-[ue/ue.d.ts:4708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4708)
-
 • **new AnimParentNodeAssetOverride**(`NewAsset`, `ParentNodeGuid`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `NewAsset` | [`AnimationAsset`](ue_ue.AnimationAsset.md) |
 | `ParentNodeGuid` | [`Guid`](ue_ue_s.Guid.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:4709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4709)
-
 ## Properties
 
 ### NewAsset
 
 • **NewAsset**: [`AnimationAsset`](ue_ue.AnimationAsset.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4710)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **ParentNodeGuid**: [`Guid`](ue_ue_s.Guid.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4711)
-
 ___
 
 ### \_\_tid\_AnimParentNodeAssetOverride\_\_
 
 • `Private` **\_\_tid\_AnimParentNodeAssetOverride\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4717)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4715)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4716)

@@ -34,10 +34,6 @@
 
 • **new ParticleSysParam**()
 
-#### Defined in
-
-[ue/ue.d.ts:7259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7259)
-
 • **new ParticleSysParam**(`Name`, `ParamType`, `Scalar`, `Scalar_Low`, `Vector`, `Vector_Low`, `Color`, `Actor`, `Material`)
 
 #### Parameters
@@ -54,19 +50,11 @@
 | `Actor` | [`Actor`](ue_ue.Actor.md) |
 | `Material` | [`MaterialInterface`](ue_ue.MaterialInterface.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:7260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7260)
-
 ## Properties
 
 ### Actor
 
 • **Actor**: [`Actor`](ue_ue.Actor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7268)
 
 ___
 
@@ -74,19 +62,11 @@ ___
 
 • **Color**: [`Color`](ue_ue_s.Color.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7267)
-
 ___
 
 ### Material
 
 • **Material**: [`MaterialInterface`](ue_ue.MaterialInterface.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7269)
 
 ___
 
@@ -94,19 +74,11 @@ ___
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:7261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7261)
-
 ___
 
 ### ParamType
 
 • **ParamType**: [`EParticleSysParamType`](../enums/ue_ue.EParticleSysParamType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7262)
 
 ___
 
@@ -114,19 +86,11 @@ ___
 
 • **Scalar**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7263)
-
 ___
 
 ### Scalar\_Low
 
 • **Scalar\_Low**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7264)
 
 ___
 
@@ -134,29 +98,17 @@ ___
 
 • **Vector**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7265)
-
 ___
 
 ### Vector\_Low
 
 • **Vector\_Low**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7266)
-
 ___
 
 ### \_\_tid\_ParticleSysParam\_\_
 
 • `Private` **\_\_tid\_ParticleSysParam\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7275)
 
 ## Methods
 
@@ -172,10 +124,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7273)
-
 ___
 
 ### StaticStruct
@@ -185,7 +133,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7274)

@@ -28,10 +28,6 @@
 
 • **new MeshUVChannelInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:2574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2574)
-
 • **new MeshUVChannelInfo**(`bInitialized`, `bOverrideDensities`, `LocalUVDensities`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `bOverrideDensities` | `boolean` |
 | `LocalUVDensities` | [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<`number`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:2575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2575)
-
 ## Properties
 
 ### LocalUVDensities
 
 • **LocalUVDensities**: [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:2578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2578)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • `Private` **\_\_tid\_MeshUVChannelInfo\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:2584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2584)
-
 ___
 
 ### bInitialized
 
 • **bInitialized**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:2576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2576)
-
 ___
 
 ### bOverrideDensities
 
 • **bOverrideDensities**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2577)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2582)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2583](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2583)

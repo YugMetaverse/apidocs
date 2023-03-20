@@ -19,19 +19,11 @@
 
 • **EEvaluateCurveTableResult\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30193)
-
 ___
 
 ### RowFound
 
 • **RowFound** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30193)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **RowNotFound** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30193)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30193)

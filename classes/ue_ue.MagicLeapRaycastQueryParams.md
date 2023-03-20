@@ -33,10 +33,6 @@
 
 • **new MagicLeapRaycastQueryParams**()
 
-#### Defined in
-
-[ue/ue.d.ts:47049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47049)
-
 • **new MagicLeapRaycastQueryParams**(`Position`, `Direction`, `UpVector`, `Width`, `Height`, `HorizontalFovDegrees`, `CollideWithUnobserved`, `UserData`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `CollideWithUnobserved` | `boolean` |
 | `UserData` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:47050](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47050)
-
 ## Properties
 
 ### CollideWithUnobserved
 
 • **CollideWithUnobserved**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:47057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47057)
 
 ___
 
@@ -72,19 +60,11 @@ ___
 
 • **Direction**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:47052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47052)
-
 ___
 
 ### Height
 
 • **Height**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:47055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47055)
 
 ___
 
@@ -92,19 +72,11 @@ ___
 
 • **HorizontalFovDegrees**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:47056](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47056)
-
 ___
 
 ### Position
 
 • **Position**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:47051](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47051)
 
 ___
 
@@ -112,19 +84,11 @@ ___
 
 • **UpVector**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:47053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47053)
-
 ___
 
 ### UserData
 
 • **UserData**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:47058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47058)
 
 ___
 
@@ -132,19 +96,11 @@ ___
 
 • **Width**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:47054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47054)
-
 ___
 
 ### \_\_tid\_MagicLeapRaycastQueryParams\_\_
 
 • `Private` **\_\_tid\_MagicLeapRaycastQueryParams\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:47064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47064)
 
 ## Methods
 
@@ -160,10 +116,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:47062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47062)
-
 ___
 
 ### StaticStruct
@@ -173,7 +125,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:47063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47063)

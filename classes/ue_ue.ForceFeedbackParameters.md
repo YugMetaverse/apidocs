@@ -29,10 +29,6 @@
 
 • **new ForceFeedbackParameters**()
 
-#### Defined in
-
-[ue/ue.d.ts:12252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12252)
-
 • **new ForceFeedbackParameters**(`Tag`, `bLooping`, `bIgnoreTimeDilation`, `bPlayWhilePaused`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `bIgnoreTimeDilation` | `boolean` |
 | `bPlayWhilePaused` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:12253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12253)
-
 ## Properties
 
 ### Tag
 
 • **Tag**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:12254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12254)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • `Private` **\_\_tid\_ForceFeedbackParameters\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:12263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12263)
-
 ___
 
 ### bIgnoreTimeDilation
 
 • **bIgnoreTimeDilation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:12256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12256)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **bLooping**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:12255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12255)
-
 ___
 
 ### bPlayWhilePaused
 
 • **bPlayWhilePaused**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:12257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12257)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:12261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12261)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:12262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12262)

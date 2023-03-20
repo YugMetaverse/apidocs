@@ -20,19 +20,11 @@
 
 • **ETexturePowerOfTwoSetting\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L448)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L448)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **PadToPowerOfTwo** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L448)
-
 ___
 
 ### PadToSquarePowerOfTwo
 
 • **PadToSquarePowerOfTwo** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L448)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L448)

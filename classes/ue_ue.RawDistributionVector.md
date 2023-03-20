@@ -41,10 +41,6 @@
 
 [RawDistribution](ue_ue.RawDistribution.md).[constructor](ue_ue.RawDistribution.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:7006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7006)
-
 • **new RawDistributionVector**(`MinValue`, `MaxValue`, `MinValueVec`, `MaxValueVec`, `Distribution`)
 
 #### Parameters
@@ -61,19 +57,11 @@
 
 [RawDistribution](ue_ue.RawDistribution.md).[constructor](ue_ue.RawDistribution.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:7007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7007)
-
 ## Properties
 
 ### Distribution
 
 • **Distribution**: [`DistributionVector`](ue_ue.DistributionVector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7012)
 
 ___
 
@@ -81,19 +69,11 @@ ___
 
 • **MaxValue**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7009)
-
 ___
 
 ### MaxValueVec
 
 • **MaxValueVec**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7011)
 
 ___
 
@@ -101,19 +81,11 @@ ___
 
 • **MinValue**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7008)
-
 ___
 
 ### MinValueVec
 
 • **MinValueVec**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7010)
 
 ___
 
@@ -125,19 +97,11 @@ ___
 
 [RawDistribution](ue_ue.RawDistribution.md).[Table](ue_ue.RawDistribution.md#table)
 
-#### Defined in
-
-[ue/ue.d.ts:6781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6781)
-
 ___
 
 ### \_\_tid\_RawDistributionVector\_\_
 
 • `Private` **\_\_tid\_RawDistributionVector\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7018)
 
 ## Methods
 
@@ -157,10 +121,6 @@ use StaticStruct instead.
 
 [RawDistribution](ue_ue.RawDistribution.md).[StaticClass](ue_ue.RawDistribution.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:7016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7016)
-
 ___
 
 ### StaticStruct
@@ -174,7 +134,3 @@ ___
 #### Overrides
 
 [RawDistribution](ue_ue.RawDistribution.md).[StaticStruct](ue_ue.RawDistribution.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:7017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7017)

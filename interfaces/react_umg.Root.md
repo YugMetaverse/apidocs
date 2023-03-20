@@ -21,10 +21,6 @@
 
 `any`
 
-#### Defined in
-
-[react-umg/index.d.ts:977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L977)
-
 ___
 
 ### removeFromViewport
@@ -34,7 +30,3 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[react-umg/index.d.ts:976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L976)

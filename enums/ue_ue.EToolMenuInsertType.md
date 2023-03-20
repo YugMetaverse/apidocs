@@ -21,19 +21,11 @@
 
 • **After** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34836)
-
 ___
 
 ### Before
 
 • **Before** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34836)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Default** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34836)
-
 ___
 
 ### EToolMenuInsertType\_MAX
 
 • **EToolMenuInsertType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34836)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **First** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34836)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34836)

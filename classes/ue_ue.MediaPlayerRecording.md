@@ -54,19 +54,11 @@
 
 [SequenceRecordingBase](ue_ue.SequenceRecordingBase.md).[constructor](ue_ue.SequenceRecordingBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:50341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50341)
-
 ## Properties
 
 ### MediaPlayerToRecord
 
 • **MediaPlayerToRecord**: [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`MediaPlayer`](ue_ue.MediaPlayer.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:50343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50343)
 
 ___
 
@@ -74,19 +66,11 @@ ___
 
 • **RecordingSettings**: [`MediaPlayerRecordingSettings`](ue_ue.MediaPlayerRecordingSettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:50342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50342)
-
 ___
 
 ### \_\_tid\_MediaPlayerRecording\_\_
 
 • **\_\_tid\_MediaPlayerRecording\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50348)
 
 ___
 
@@ -98,10 +82,6 @@ ___
 
 [SequenceRecordingBase](ue_ue.SequenceRecordingBase.md).[__tid_Object__](ue_ue.SequenceRecordingBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_SequenceRecordingBase\_\_
@@ -111,10 +91,6 @@ ___
 #### Inherited from
 
 [SequenceRecordingBase](ue_ue.SequenceRecordingBase.md).[__tid_SequenceRecordingBase__](ue_ue.SequenceRecordingBase.md#__tid_sequencerecordingbase__)
-
-#### Defined in
-
-[ue/ue.d.ts:13946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13946)
 
 ## Methods
 
@@ -140,10 +116,6 @@ ___
 
 [SequenceRecordingBase](ue_ue.SequenceRecordingBase.md).[CreateDefaultSubobject](ue_ue.SequenceRecordingBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -164,10 +136,6 @@ ___
 
 [SequenceRecordingBase](ue_ue.SequenceRecordingBase.md).[ExecuteUbergraph](ue_ue.SequenceRecordingBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -181,10 +149,6 @@ ___
 #### Inherited from
 
 [SequenceRecordingBase](ue_ue.SequenceRecordingBase.md).[GetClass](ue_ue.SequenceRecordingBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -200,10 +164,6 @@ ___
 
 [SequenceRecordingBase](ue_ue.SequenceRecordingBase.md).[GetName](ue_ue.SequenceRecordingBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -218,10 +178,6 @@ ___
 
 [SequenceRecordingBase](ue_ue.SequenceRecordingBase.md).[GetOuter](ue_ue.SequenceRecordingBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -235,10 +191,6 @@ ___
 #### Inherited from
 
 [SequenceRecordingBase](ue_ue.SequenceRecordingBase.md).[GetWorld](ue_ue.SequenceRecordingBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -261,10 +213,6 @@ ___
 
 [SequenceRecordingBase](ue_ue.SequenceRecordingBase.md).[Find](ue_ue.SequenceRecordingBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:50345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50345)
-
 ___
 
 ### Load
@@ -285,10 +233,6 @@ ___
 
 [SequenceRecordingBase](ue_ue.SequenceRecordingBase.md).[Load](ue_ue.SequenceRecordingBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:50346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50346)
-
 ___
 
 ### StaticClass
@@ -302,7 +246,3 @@ ___
 #### Overrides
 
 [SequenceRecordingBase](ue_ue.SequenceRecordingBase.md).[StaticClass](ue_ue.SequenceRecordingBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:50344](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50344)

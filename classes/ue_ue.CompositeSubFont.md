@@ -40,10 +40,6 @@
 
 [CompositeFallbackFont](ue_ue.CompositeFallbackFont.md).[constructor](ue_ue.CompositeFallbackFont.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:1943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1943)
-
 • **new CompositeSubFont**(`CharacterRanges`, `Cultures`, `EditorName`)
 
 #### Parameters
@@ -58,19 +54,11 @@
 
 [CompositeFallbackFont](ue_ue.CompositeFallbackFont.md).[constructor](ue_ue.CompositeFallbackFont.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:1944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1944)
-
 ## Properties
 
 ### CharacterRanges
 
 • **CharacterRanges**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Int32Range`](ue_ue.Int32Range.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:1945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1945)
 
 ___
 
@@ -78,19 +66,11 @@ ___
 
 • **Cultures**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:1946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1946)
-
 ___
 
 ### EditorName
 
 • **EditorName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:1947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1947)
 
 ___
 
@@ -102,10 +82,6 @@ ___
 
 [CompositeFallbackFont](ue_ue.CompositeFallbackFont.md).[ScalingFactor](ue_ue.CompositeFallbackFont.md#scalingfactor)
 
-#### Defined in
-
-[ue/ue.d.ts:1906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1906)
-
 ___
 
 ### Typeface
@@ -116,19 +92,11 @@ ___
 
 [CompositeFallbackFont](ue_ue.CompositeFallbackFont.md).[Typeface](ue_ue.CompositeFallbackFont.md#typeface)
 
-#### Defined in
-
-[ue/ue.d.ts:1905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1905)
-
 ___
 
 ### \_\_tid\_CompositeSubFont\_\_
 
 • `Private` **\_\_tid\_CompositeSubFont\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1953)
 
 ## Methods
 
@@ -148,10 +116,6 @@ use StaticStruct instead.
 
 [CompositeFallbackFont](ue_ue.CompositeFallbackFont.md).[StaticClass](ue_ue.CompositeFallbackFont.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:1951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1951)
-
 ___
 
 ### StaticStruct
@@ -165,7 +129,3 @@ ___
 #### Overrides
 
 [CompositeFallbackFont](ue_ue.CompositeFallbackFont.md).[StaticStruct](ue_ue.CompositeFallbackFont.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:1952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1952)

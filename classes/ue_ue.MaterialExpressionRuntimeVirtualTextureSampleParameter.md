@@ -83,10 +83,6 @@
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[constructor](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:49122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49122)
-
 ## Properties
 
 ### Coordinates
@@ -96,10 +92,6 @@
 #### Inherited from
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[Coordinates](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#coordinates)
-
-#### Defined in
-
-[ue/ue.d.ts:49108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49108)
 
 ___
 
@@ -111,19 +103,11 @@ ___
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[Desc](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#desc)
 
-#### Defined in
-
-[ue/ue.d.ts:1163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1163)
-
 ___
 
 ### ExpressionGUID
 
 • **ExpressionGUID**: [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue.d.ts:49124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49124)
 
 ___
 
@@ -135,10 +119,6 @@ ___
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[Function](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#function)
 
-#### Defined in
-
-[ue/ue.d.ts:1162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1162)
-
 ___
 
 ### GraphNode
@@ -149,19 +129,11 @@ ___
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[GraphNode](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#graphnode)
 
-#### Defined in
-
-[ue/ue.d.ts:1159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1159)
-
 ___
 
 ### Group
 
 • **Group**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:49125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49125)
 
 ___
 
@@ -173,10 +145,6 @@ ___
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[Material](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#material)
 
-#### Defined in
-
-[ue/ue.d.ts:1161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1161)
-
 ___
 
 ### MaterialExpressionEditorX
@@ -186,10 +154,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[MaterialExpressionEditorX](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#materialexpressioneditorx)
-
-#### Defined in
-
-[ue/ue.d.ts:1157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1157)
 
 ___
 
@@ -201,10 +165,6 @@ ___
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[MaterialExpressionEditorY](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#materialexpressioneditory)
 
-#### Defined in
-
-[ue/ue.d.ts:1158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1158)
-
 ___
 
 ### MaterialExpressionGuid
@@ -214,10 +174,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[MaterialExpressionGuid](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#materialexpressionguid)
-
-#### Defined in
-
-[ue/ue.d.ts:1160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1160)
 
 ___
 
@@ -229,10 +185,6 @@ ___
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[MaterialType](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#materialtype)
 
-#### Defined in
-
-[ue/ue.d.ts:49111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49111)
-
 ___
 
 ### MenuCategories
@@ -242,10 +194,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[MenuCategories](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#menucategories)
-
-#### Defined in
-
-[ue/ue.d.ts:1175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1175)
 
 ___
 
@@ -257,10 +205,6 @@ ___
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[MipValue](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#mipvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:49109](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49109)
-
 ___
 
 ### MipValueMode
@@ -270,10 +214,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[MipValueMode](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#mipvaluemode)
-
-#### Defined in
-
-[ue/ue.d.ts:49113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49113)
 
 ___
 
@@ -285,29 +225,17 @@ ___
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[Outputs](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#outputs)
 
-#### Defined in
-
-[ue/ue.d.ts:1176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1176)
-
 ___
 
 ### ParameterName
 
 • **ParameterName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:49123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49123)
-
 ___
 
 ### SortPriority
 
 • **SortPriority**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:49126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49126)
 
 ___
 
@@ -319,19 +247,11 @@ ___
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[VirtualTexture](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#virtualtexture)
 
-#### Defined in
-
-[ue/ue.d.ts:49110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49110)
-
 ___
 
 ### \_\_tid\_MaterialExpressionRuntimeVirtualTextureSampleParameter\_\_
 
 • **\_\_tid\_MaterialExpressionRuntimeVirtualTextureSampleParameter\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:49131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49131)
 
 ___
 
@@ -343,10 +263,6 @@ ___
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[__tid_MaterialExpressionRuntimeVirtualTextureSample__](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#__tid_materialexpressionruntimevirtualtexturesample__)
 
-#### Defined in
-
-[ue/ue.d.ts:49118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49118)
-
 ___
 
 ### \_\_tid\_MaterialExpression\_\_
@@ -356,10 +272,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[__tid_MaterialExpression__](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#__tid_materialexpression__)
-
-#### Defined in
-
-[ue/ue.d.ts:1181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1181)
 
 ___
 
@@ -371,10 +283,6 @@ ___
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[__tid_Object__](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bCollapsed
@@ -384,10 +292,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[bCollapsed](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#bcollapsed)
-
-#### Defined in
-
-[ue/ue.d.ts:1171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1171)
 
 ___
 
@@ -399,10 +303,6 @@ ___
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[bCommentBubbleVisible](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#bcommentbubblevisible)
 
-#### Defined in
-
-[ue/ue.d.ts:1167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1167)
-
 ___
 
 ### bHidePreviewWindow
@@ -412,10 +312,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[bHidePreviewWindow](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#bhidepreviewwindow)
-
-#### Defined in
-
-[ue/ue.d.ts:1170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1170)
 
 ___
 
@@ -427,10 +323,6 @@ ___
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[bIsParameterExpression](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#bisparameterexpression)
 
-#### Defined in
-
-[ue/ue.d.ts:1166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1166)
-
 ___
 
 ### bNeedToUpdatePreview
@@ -440,10 +332,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[bNeedToUpdatePreview](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#bneedtoupdatepreview)
-
-#### Defined in
-
-[ue/ue.d.ts:1165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1165)
 
 ___
 
@@ -455,10 +343,6 @@ ___
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[bRealtimePreview](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#brealtimepreview)
 
-#### Defined in
-
-[ue/ue.d.ts:1164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1164)
-
 ___
 
 ### bShaderInputData
@@ -468,10 +352,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[bShaderInputData](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#bshaderinputdata)
-
-#### Defined in
-
-[ue/ue.d.ts:1172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1172)
 
 ___
 
@@ -483,10 +363,6 @@ ___
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[bShowInputs](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#bshowinputs)
 
-#### Defined in
-
-[ue/ue.d.ts:1173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1173)
-
 ___
 
 ### bShowMaskColorsOnPin
@@ -496,10 +372,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[bShowMaskColorsOnPin](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#bshowmaskcolorsonpin)
-
-#### Defined in
-
-[ue/ue.d.ts:1169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1169)
 
 ___
 
@@ -511,10 +383,6 @@ ___
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[bShowOutputNameOnPin](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#bshowoutputnameonpin)
 
-#### Defined in
-
-[ue/ue.d.ts:1168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1168)
-
 ___
 
 ### bShowOutputs
@@ -525,10 +393,6 @@ ___
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[bShowOutputs](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#bshowoutputs)
 
-#### Defined in
-
-[ue/ue.d.ts:1174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1174)
-
 ___
 
 ### bSinglePhysicalSpace
@@ -538,10 +402,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[bSinglePhysicalSpace](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#bsinglephysicalspace)
-
-#### Defined in
-
-[ue/ue.d.ts:49112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49112)
 
 ## Methods
 
@@ -567,10 +427,6 @@ ___
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[CreateDefaultSubobject](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -591,10 +447,6 @@ ___
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[ExecuteUbergraph](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -608,10 +460,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[GetClass](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -627,10 +475,6 @@ ___
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[GetName](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -645,10 +489,6 @@ ___
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[GetOuter](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -662,10 +502,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[GetWorld](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -688,10 +524,6 @@ ___
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[Find](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:49128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49128)
-
 ___
 
 ### Load
@@ -712,10 +544,6 @@ ___
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[Load](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:49129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49129)
-
 ___
 
 ### StaticClass
@@ -729,7 +557,3 @@ ___
 #### Overrides
 
 [MaterialExpressionRuntimeVirtualTextureSample](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md).[StaticClass](ue_ue.MaterialExpressionRuntimeVirtualTextureSample.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:49127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49127)

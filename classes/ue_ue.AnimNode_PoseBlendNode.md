@@ -44,10 +44,6 @@
 
 [AnimNode_PoseHandler](ue_ue.AnimNode_PoseHandler.md).[constructor](ue_ue.AnimNode_PoseHandler.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:19098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19098)
-
 • **new AnimNode_PoseBlendNode**(`SourcePose`, `BlendOption`, `CustomCurve`)
 
 #### Parameters
@@ -62,19 +58,11 @@
 
 [AnimNode_PoseHandler](ue_ue.AnimNode_PoseHandler.md).[constructor](ue_ue.AnimNode_PoseHandler.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:19099](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19099)
-
 ## Properties
 
 ### BlendOption
 
 • **BlendOption**: [`EAlphaBlendOption`](../enums/ue_ue.EAlphaBlendOption.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19101)
 
 ___
 
@@ -86,19 +74,11 @@ ___
 
 [AnimNode_PoseHandler](ue_ue.AnimNode_PoseHandler.md).[BlendWeight](ue_ue.AnimNode_PoseHandler.md#blendweight)
 
-#### Defined in
-
-[ue/ue.d.ts:17569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17569)
-
 ___
 
 ### CustomCurve
 
 • **CustomCurve**: [`CurveFloat`](ue_ue.CurveFloat.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19102)
 
 ___
 
@@ -110,10 +90,6 @@ ___
 
 [AnimNode_PoseHandler](ue_ue.AnimNode_PoseHandler.md).[GroupIndex](ue_ue.AnimNode_PoseHandler.md#groupindex)
 
-#### Defined in
-
-[ue/ue.d.ts:17566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17566)
-
 ___
 
 ### GroupRole
@@ -123,10 +99,6 @@ ___
 #### Inherited from
 
 [AnimNode_PoseHandler](ue_ue.AnimNode_PoseHandler.md).[GroupRole](ue_ue.AnimNode_PoseHandler.md#grouprole)
-
-#### Defined in
-
-[ue/ue.d.ts:17567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17567)
 
 ___
 
@@ -138,10 +110,6 @@ ___
 
 [AnimNode_PoseHandler](ue_ue.AnimNode_PoseHandler.md).[InternalTimeAccumulator](ue_ue.AnimNode_PoseHandler.md#internaltimeaccumulator)
 
-#### Defined in
-
-[ue/ue.d.ts:17570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17570)
-
 ___
 
 ### PoseAsset
@@ -152,29 +120,17 @@ ___
 
 [AnimNode_PoseHandler](ue_ue.AnimNode_PoseHandler.md).[PoseAsset](ue_ue.AnimNode_PoseHandler.md#poseasset)
 
-#### Defined in
-
-[ue/ue.d.ts:19088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19088)
-
 ___
 
 ### SourcePose
 
 • **SourcePose**: [`PoseLink`](ue_ue.PoseLink.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19100](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19100)
-
 ___
 
 ### \_\_tid\_AnimNode\_PoseBlendNode\_\_
 
 • `Private` **\_\_tid\_AnimNode\_PoseBlendNode\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:19108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19108)
 
 ___
 
@@ -185,10 +141,6 @@ ___
 #### Inherited from
 
 [AnimNode_PoseHandler](ue_ue.AnimNode_PoseHandler.md).[bIgnoreForRelevancyTest](ue_ue.AnimNode_PoseHandler.md#bignoreforrelevancytest)
-
-#### Defined in
-
-[ue/ue.d.ts:17568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17568)
 
 ## Methods
 
@@ -208,10 +160,6 @@ use StaticStruct instead.
 
 [AnimNode_PoseHandler](ue_ue.AnimNode_PoseHandler.md).[StaticClass](ue_ue.AnimNode_PoseHandler.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:19106](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19106)
-
 ___
 
 ### StaticStruct
@@ -225,7 +173,3 @@ ___
 #### Overrides
 
 [AnimNode_PoseHandler](ue_ue.AnimNode_PoseHandler.md).[StaticStruct](ue_ue.AnimNode_PoseHandler.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:19107](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19107)

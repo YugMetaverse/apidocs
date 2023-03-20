@@ -108,19 +108,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:8332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8332)
-
 ## Properties
 
 ### DebugCameraControllerClass
 
 • **DebugCameraControllerClass**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8334)
 
 ___
 
@@ -128,19 +120,11 @@ ___
 
 • **DebugCameraControllerRef**: [`DebugCameraController`](ue_ue.DebugCameraController.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8333)
-
 ___
 
 ### \_\_tid\_CheatManager\_\_
 
 • **\_\_tid\_CheatManager\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8394)
 
 ___
 
@@ -151,10 +135,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -171,10 +151,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8335)
 
 ___
 
@@ -197,10 +173,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8336)
-
 ___
 
 ### BugItStringCreator
@@ -220,10 +192,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8337)
-
 ___
 
 ### ChangeSize
@@ -240,10 +208,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8338)
-
 ___
 
 ### CheatScript
@@ -259,10 +223,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8339)
 
 ___
 
@@ -288,10 +248,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### DamageTarget
@@ -308,10 +264,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8340)
-
 ___
 
 ### DebugCapsuleSweep
@@ -322,10 +274,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8341)
-
 ___
 
 ### DebugCapsuleSweepCapture
@@ -335,10 +283,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8342)
 
 ___
 
@@ -356,10 +300,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8343)
-
 ___
 
 ### DebugCapsuleSweepClear
@@ -369,10 +309,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8344](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8344)
 
 ___
 
@@ -390,10 +326,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8345)
-
 ___
 
 ### DebugCapsuleSweepPawn
@@ -403,10 +335,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8346)
 
 ___
 
@@ -425,10 +353,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8347)
-
 ___
 
 ### DestroyAll
@@ -445,10 +369,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8348)
-
 ___
 
 ### DestroyAllPawnsExceptTarget
@@ -458,10 +378,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8349)
 
 ___
 
@@ -479,10 +395,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8350)
-
 ___
 
 ### DestroyServerStatReplicator
@@ -492,10 +404,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8351)
 
 ___
 
@@ -507,10 +415,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8352)
-
 ___
 
 ### DisableDebugCamera
@@ -520,10 +424,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8353)
 
 ___
 
@@ -535,10 +435,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8354)
-
 ___
 
 ### DumpOnlineSessionState
@@ -548,10 +444,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8355](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8355)
 
 ___
 
@@ -563,10 +455,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8356)
-
 ___
 
 ### DumpVoiceMutingState
@@ -577,10 +465,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8357](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8357)
-
 ___
 
 ### EnableDebugCamera
@@ -590,10 +474,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8358)
 
 ___
 
@@ -615,10 +495,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### FlushLog
@@ -629,10 +505,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8359)
-
 ___
 
 ### Fly
@@ -642,10 +514,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8360](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8360)
 
 ___
 
@@ -663,10 +531,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8361](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8361)
-
 ___
 
 ### GetClass
@@ -680,10 +544,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -699,10 +559,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -716,10 +572,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -735,10 +587,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### Ghost
@@ -748,10 +596,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8362)
 
 ___
 
@@ -763,10 +607,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8363)
-
 ___
 
 ### InvertMouse
@@ -777,10 +617,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8364)
-
 ___
 
 ### LogLoc
@@ -790,10 +626,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8365)
 
 ___
 
@@ -811,10 +643,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8366)
-
 ___
 
 ### PlayersOnly
@@ -824,10 +652,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8367)
 
 ___
 
@@ -839,10 +663,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8368)
-
 ___
 
 ### ReceiveInitCheatManager
@@ -852,10 +672,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8369](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8369)
 
 ___
 
@@ -867,10 +683,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8370)
-
 ___
 
 ### SetMouseSensitivityToDefault
@@ -881,10 +693,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8371)
-
 ___
 
 ### SetWorldOrigin
@@ -894,10 +702,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8372)
 
 ___
 
@@ -915,10 +719,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8373](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8373)
-
 ___
 
 ### SpawnServerStatReplicator
@@ -928,10 +728,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8374](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8374)
 
 ___
 
@@ -949,10 +745,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8375](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8375)
-
 ___
 
 ### StreamLevelOut
@@ -968,10 +760,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8376](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8376)
 
 ___
 
@@ -989,10 +777,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8377](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8377)
-
 ___
 
 ### Teleport
@@ -1002,10 +786,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8378)
 
 ___
 
@@ -1017,10 +797,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8379)
-
 ___
 
 ### ToggleAILogging
@@ -1030,10 +806,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8380](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8380)
 
 ___
 
@@ -1045,10 +817,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8381)
-
 ___
 
 ### ToggleServerStatReplicatorClientOverwrite
@@ -1058,10 +826,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8382](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8382)
 
 ___
 
@@ -1073,10 +837,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8383)
-
 ___
 
 ### UpdateSafeArea
@@ -1086,10 +846,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8384)
 
 ___
 
@@ -1107,10 +863,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8385)
-
 ___
 
 ### ViewClass
@@ -1126,10 +878,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8386)
 
 ___
 
@@ -1147,10 +895,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8387)
-
 ___
 
 ### ViewSelf
@@ -1161,10 +905,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:8388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8388)
-
 ___
 
 ### Walk
@@ -1174,10 +914,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:8389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8389)
 
 ___
 
@@ -1200,10 +936,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:8391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8391)
-
 ___
 
 ### Load
@@ -1224,10 +956,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:8392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8392)
-
 ___
 
 ### StaticClass
@@ -1241,7 +969,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:8390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8390)

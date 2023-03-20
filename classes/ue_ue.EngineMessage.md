@@ -60,19 +60,11 @@
 
 [LocalMessage](ue_ue.LocalMessage.md).[constructor](ue_ue.LocalMessage.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:34155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34155)
-
 ## Properties
 
 ### EnteredMessage
 
 • **EnteredMessage**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:34158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34158)
 
 ___
 
@@ -80,19 +72,11 @@ ___
 
 • **FailedPlaceMessage**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:34156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34156)
-
 ___
 
 ### GlobalNameChange
 
 • **GlobalNameChange**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:34160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34160)
 
 ___
 
@@ -100,19 +84,11 @@ ___
 
 • **LeftMessage**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:34159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34159)
-
 ___
 
 ### MaxedOutMessage
 
 • **MaxedOutMessage**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:34157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34157)
 
 ___
 
@@ -120,19 +96,11 @@ ___
 
 • **NewPlayerMessage**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:34162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34162)
-
 ___
 
 ### NewSpecMessage
 
 • **NewSpecMessage**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:34163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34163)
 
 ___
 
@@ -140,19 +108,11 @@ ___
 
 • **SpecEnteredMessage**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:34161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34161)
-
 ___
 
 ### \_\_tid\_EngineMessage\_\_
 
 • **\_\_tid\_EngineMessage\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:34168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34168)
 
 ___
 
@@ -164,10 +124,6 @@ ___
 
 [LocalMessage](ue_ue.LocalMessage.md).[__tid_LocalMessage__](ue_ue.LocalMessage.md#__tid_localmessage__)
 
-#### Defined in
-
-[ue/ue.d.ts:34151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34151)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -177,10 +133,6 @@ ___
 #### Inherited from
 
 [LocalMessage](ue_ue.LocalMessage.md).[__tid_Object__](ue_ue.LocalMessage.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -206,10 +158,6 @@ ___
 
 [LocalMessage](ue_ue.LocalMessage.md).[CreateDefaultSubobject](ue_ue.LocalMessage.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -230,10 +178,6 @@ ___
 
 [LocalMessage](ue_ue.LocalMessage.md).[ExecuteUbergraph](ue_ue.LocalMessage.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -247,10 +191,6 @@ ___
 #### Inherited from
 
 [LocalMessage](ue_ue.LocalMessage.md).[GetClass](ue_ue.LocalMessage.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -266,10 +206,6 @@ ___
 
 [LocalMessage](ue_ue.LocalMessage.md).[GetName](ue_ue.LocalMessage.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -284,10 +220,6 @@ ___
 
 [LocalMessage](ue_ue.LocalMessage.md).[GetOuter](ue_ue.LocalMessage.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -301,10 +233,6 @@ ___
 #### Inherited from
 
 [LocalMessage](ue_ue.LocalMessage.md).[GetWorld](ue_ue.LocalMessage.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -327,10 +255,6 @@ ___
 
 [LocalMessage](ue_ue.LocalMessage.md).[Find](ue_ue.LocalMessage.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:34165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34165)
-
 ___
 
 ### Load
@@ -351,10 +275,6 @@ ___
 
 [LocalMessage](ue_ue.LocalMessage.md).[Load](ue_ue.LocalMessage.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:34166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34166)
-
 ___
 
 ### StaticClass
@@ -368,7 +288,3 @@ ___
 #### Overrides
 
 [LocalMessage](ue_ue.LocalMessage.md).[StaticClass](ue_ue.LocalMessage.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:34164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34164)

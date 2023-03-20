@@ -21,19 +21,11 @@
 
 • **Quality\_High** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8589)
-
 ___
 
 ### Quality\_MAX
 
 • **Quality\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8589)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Quality\_Medium** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8589)
-
 ___
 
 ### Quality\_Preview
 
 • **Quality\_Preview** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8589)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Quality\_Production** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8589)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8589)

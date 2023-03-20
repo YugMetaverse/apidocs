@@ -31,10 +31,6 @@
 
 • **new TutorialCategory**()
 
-#### Defined in
-
-[ue/ue.d.ts:33470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33470)
-
 • **new TutorialCategory**(`Identifier`, `Title`, `SortOrder`, `Description`, `Icon`, `Texture`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `Icon` | `string` |
 | `Texture` | [`SoftObjectPath`](ue_ue.SoftObjectPath.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:33471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33471)
-
 ## Properties
 
 ### Description
 
 • **Description**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:33475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33475)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **Icon**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:33476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33476)
-
 ___
 
 ### Identifier
 
 • **Identifier**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:33472](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33472)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **SortOrder**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33474)
-
 ___
 
 ### Texture
 
 • **Texture**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33477)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **Title**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:33473](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33473)
-
 ___
 
 ### \_\_tid\_TutorialCategory\_\_
 
 • `Private` **\_\_tid\_TutorialCategory\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33483)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33481)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33482)

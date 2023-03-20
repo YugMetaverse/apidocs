@@ -30,10 +30,6 @@
 
 • **new FbxTestPlanExpectedResult**()
 
-#### Defined in
-
-[ue/ue.d.ts:35437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35437)
-
 • **new FbxTestPlanExpectedResult**(`ExpectedPresetsType`, `ExpectedPresetsDataInteger`, `ExpectedPresetsDataFloat`, `ExpectedPresetsDataDouble`, `ExpectedPresetsDataString`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `ExpectedPresetsDataDouble` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\> |
 | `ExpectedPresetsDataString` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:35438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35438)
-
 ## Properties
 
 ### ExpectedPresetsDataDouble
 
 • **ExpectedPresetsDataDouble**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:35442](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35442)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **ExpectedPresetsDataFloat**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:35441](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35441)
-
 ___
 
 ### ExpectedPresetsDataInteger
 
 • **ExpectedPresetsDataInteger**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:35440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35440)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **ExpectedPresetsDataString**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:35443](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35443)
-
 ___
 
 ### ExpectedPresetsType
 
 • **ExpectedPresetsType**: [`EFBXExpectedResultPreset`](../enums/ue_ue.EFBXExpectedResultPreset.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35439)
-
 ___
 
 ### \_\_tid\_FbxTestPlanExpectedResult\_\_
 
 • `Private` **\_\_tid\_FbxTestPlanExpectedResult\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35449)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35447)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35448)

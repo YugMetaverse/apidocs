@@ -59,19 +59,11 @@
 
 [ThumbnailInfo](ue_ue.ThumbnailInfo.md).[constructor](ue_ue.ThumbnailInfo.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:59908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59908)
-
 ## Properties
 
 ### OrbitPitch
 
 • **OrbitPitch**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:59909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59909)
 
 ___
 
@@ -79,19 +71,11 @@ ___
 
 • **OrbitYaw**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:59910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59910)
-
 ___
 
 ### OrbitZoom
 
 • **OrbitZoom**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:59911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59911)
 
 ___
 
@@ -103,19 +87,11 @@ ___
 
 [ThumbnailInfo](ue_ue.ThumbnailInfo.md).[__tid_Object__](ue_ue.ThumbnailInfo.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_SceneThumbnailInfo\_\_
 
 • **\_\_tid\_SceneThumbnailInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59916)
 
 ___
 
@@ -126,10 +102,6 @@ ___
 #### Inherited from
 
 [ThumbnailInfo](ue_ue.ThumbnailInfo.md).[__tid_ThumbnailInfo__](ue_ue.ThumbnailInfo.md#__tid_thumbnailinfo__)
-
-#### Defined in
-
-[ue/ue.d.ts:986](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L986)
 
 ## Methods
 
@@ -155,10 +127,6 @@ ___
 
 [ThumbnailInfo](ue_ue.ThumbnailInfo.md).[CreateDefaultSubobject](ue_ue.ThumbnailInfo.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -179,10 +147,6 @@ ___
 
 [ThumbnailInfo](ue_ue.ThumbnailInfo.md).[ExecuteUbergraph](ue_ue.ThumbnailInfo.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -196,10 +160,6 @@ ___
 #### Inherited from
 
 [ThumbnailInfo](ue_ue.ThumbnailInfo.md).[GetClass](ue_ue.ThumbnailInfo.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -215,10 +175,6 @@ ___
 
 [ThumbnailInfo](ue_ue.ThumbnailInfo.md).[GetName](ue_ue.ThumbnailInfo.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -233,10 +189,6 @@ ___
 
 [ThumbnailInfo](ue_ue.ThumbnailInfo.md).[GetOuter](ue_ue.ThumbnailInfo.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -250,10 +202,6 @@ ___
 #### Inherited from
 
 [ThumbnailInfo](ue_ue.ThumbnailInfo.md).[GetWorld](ue_ue.ThumbnailInfo.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -276,10 +224,6 @@ ___
 
 [ThumbnailInfo](ue_ue.ThumbnailInfo.md).[Find](ue_ue.ThumbnailInfo.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:59913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59913)
-
 ___
 
 ### Load
@@ -300,10 +244,6 @@ ___
 
 [ThumbnailInfo](ue_ue.ThumbnailInfo.md).[Load](ue_ue.ThumbnailInfo.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:59914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59914)
-
 ___
 
 ### StaticClass
@@ -317,7 +257,3 @@ ___
 #### Overrides
 
 [ThumbnailInfo](ue_ue.ThumbnailInfo.md).[StaticClass](ue_ue.ThumbnailInfo.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:59912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59912)

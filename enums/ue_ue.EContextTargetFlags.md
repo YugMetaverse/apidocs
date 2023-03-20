@@ -24,19 +24,11 @@
 
 • **ContextTargetFlagsEnd** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31416)
-
 ___
 
 ### EContextTargetFlags\_MAX
 
 • **EContextTargetFlags\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31416)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **TARGET\_Blueprint** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31416)
-
 ___
 
 ### TARGET\_BlueprintLibraries
 
 • **TARGET\_BlueprintLibraries** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31416)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **TARGET\_NodeTarget** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31416)
-
 ___
 
 ### TARGET\_PinObject
 
 • **TARGET\_PinObject** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31416)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **TARGET\_SiblingPinObjects** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31416)
-
 ___
 
 ### TARGET\_SubComponents
 
 • **TARGET\_SubComponents** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31416)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31416)

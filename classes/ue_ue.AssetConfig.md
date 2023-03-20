@@ -29,10 +29,6 @@
 
 • **new AssetConfig**()
 
-#### Defined in
-
-[ue/ue.d.ts:54108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54108)
-
 • **new AssetConfig**(`AssetType`, `Required`, `Name`, `Sku`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `Name` | `string` |
 | `Sku` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:54109](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54109)
-
 ## Properties
 
 ### AssetType
 
 • **AssetType**: [`EOculusAssetType`](../enums/ue_ue.EOculusAssetType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54110)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:54112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54112)
-
 ___
 
 ### Required
 
 • **Required**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54111)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **Sku**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:54113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54113)
-
 ___
 
 ### \_\_tid\_AssetConfig\_\_
 
 • `Private` **\_\_tid\_AssetConfig\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54119)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54117)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54118)

@@ -20,19 +20,11 @@
 
 • **EDatasmithImportActorPolicy\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29714)
-
 ___
 
 ### Full
 
 • **Full** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29714)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Ignore** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29714)
-
 ___
 
 ### Update
 
 • **Update** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29714)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29714)

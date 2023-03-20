@@ -27,10 +27,6 @@
 
 • **new NodeItem**()
 
-#### Defined in
-
-[ue/ue.d.ts:3876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3876)
-
 • **new NodeItem**(`ParentName`, `Transform`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `ParentName` | `string` |
 | `Transform` | [`Transform`](ue_ue_s.Transform.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:3877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3877)
-
 ## Properties
 
 ### ParentName
 
 • **ParentName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:3878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3878)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Transform**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3879)
-
 ___
 
 ### \_\_tid\_NodeItem\_\_
 
 • `Private` **\_\_tid\_NodeItem\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3885)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3883)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3884)

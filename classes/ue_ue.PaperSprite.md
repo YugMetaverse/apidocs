@@ -79,19 +79,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:54547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54547)
-
 ## Properties
 
 ### AdditionalSourceTextures
 
 • **AdditionalSourceTextures**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Texture`](ue_ue.Texture.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:54557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54557)
 
 ___
 
@@ -99,19 +91,11 @@ ___
 
 • **AlternateMaterial**: [`MaterialInterface`](ue_ue.MaterialInterface.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54562)
-
 ___
 
 ### AlternateMaterialSplitIndex
 
 • **AlternateMaterialSplitIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:54574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54574)
 
 ___
 
@@ -119,19 +103,11 @@ ___
 
 • **AtlasGroup**: [`PaperSpriteAtlas`](ue_ue.PaperSpriteAtlas.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54573)
-
 ___
 
 ### BakedRenderData
 
 • **BakedRenderData**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Vector4`](ue_ue_s.Vector4.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:54575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54575)
 
 ___
 
@@ -139,19 +115,11 @@ ___
 
 • **BakedSourceDimension**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54559](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54559)
-
 ___
 
 ### BakedSourceTexture
 
 • **BakedSourceTexture**: [`Texture2D`](ue_ue.Texture2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54560)
 
 ___
 
@@ -159,19 +127,11 @@ ___
 
 • **BakedSourceUV**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54558](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54558)
-
 ___
 
 ### BodySetup
 
 • **BodySetup**: [`BodySetup`](ue_ue.BodySetup.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54566)
 
 ___
 
@@ -179,19 +139,11 @@ ___
 
 • **CollisionGeometry**: [`SpriteGeometryCollection`](ue_ue.SpriteGeometryCollection.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54570)
-
 ___
 
 ### CollisionThickness
 
 • **CollisionThickness**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:54571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54571)
 
 ___
 
@@ -199,19 +151,11 @@ ___
 
 • **CustomPivotPoint**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54568)
-
 ___
 
 ### DefaultMaterial
 
 • **DefaultMaterial**: [`MaterialInterface`](ue_ue.MaterialInterface.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54561)
 
 ___
 
@@ -219,19 +163,11 @@ ___
 
 • **OriginInSourceImageBeforeTrimming**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54548)
-
 ___
 
 ### PivotMode
 
 • **PivotMode**: [`ESpritePivotMode`](../enums/ue_ue.ESpritePivotMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54567)
 
 ___
 
@@ -239,19 +175,11 @@ ___
 
 • **PixelsPerUnrealUnit**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:54565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54565)
-
 ___
 
 ### RenderGeometry
 
 • **RenderGeometry**: [`SpriteGeometryCollection`](ue_ue.SpriteGeometryCollection.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54572)
 
 ___
 
@@ -259,19 +187,11 @@ ___
 
 • **Sockets**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PaperSpriteSocket`](ue_ue.PaperSpriteSocket.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:54563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54563)
-
 ___
 
 ### SourceDimension
 
 • **SourceDimension**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54554)
 
 ___
 
@@ -279,19 +199,11 @@ ___
 
 • **SourceImageDimensionBeforeTrimming**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54549](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54549)
-
 ___
 
 ### SourceTexture
 
 • **SourceTexture**: [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`Texture2D`](ue_ue.Texture2D.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:54555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54555)
 
 ___
 
@@ -299,19 +211,11 @@ ___
 
 • **SourceTextureCacheNeverSerialized**: [`Texture2D`](ue_ue.Texture2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54556)
-
 ___
 
 ### SourceTextureDimension
 
 • **SourceTextureDimension**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54552)
 
 ___
 
@@ -319,19 +223,11 @@ ___
 
 • **SourceUV**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54553)
-
 ___
 
 ### SpriteCollisionDomain
 
 • **SpriteCollisionDomain**: [`ESpriteCollisionMode`](../enums/ue_ue.ESpriteCollisionMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54564)
 
 ___
 
@@ -343,19 +239,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PaperSprite\_\_
 
 • **\_\_tid\_PaperSprite\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54580)
 
 ___
 
@@ -363,29 +251,17 @@ ___
 
 • **bRotatedInSourceImage**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:54551](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54551)
-
 ___
 
 ### bSnapPivotToPixelGrid
 
 • **bSnapPivotToPixelGrid**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:54569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54569)
-
 ___
 
 ### bTrimmedInSourceImage
 
 • **bTrimmedInSourceImage**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54550](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54550)
 
 ## Methods
 
@@ -411,10 +287,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -435,10 +307,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -452,10 +320,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -471,10 +335,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -489,10 +349,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -506,10 +362,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -532,10 +384,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:54577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54577)
-
 ___
 
 ### Load
@@ -556,10 +404,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:54578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54578)
-
 ___
 
 ### StaticClass
@@ -573,7 +417,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:54576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54576)

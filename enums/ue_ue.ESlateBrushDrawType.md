@@ -21,19 +21,11 @@
 
 • **Border** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10894)
-
 ___
 
 ### Box
 
 • **Box** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10894)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **ESlateBrushDrawType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10894)
-
 ___
 
 ### Image
 
 • **Image** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10894)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **NoDrawType** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:10894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10894)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10894)

@@ -38,10 +38,6 @@
 
 • **new AnimCurveBase**()
 
-#### Defined in
-
-[ue/ue.d.ts:2717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2717)
-
 • **new AnimCurveBase**(`LastObservedName`, `Name`, `CurveTypeFlags`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `Name` | [`SmartName`](ue_ue.SmartName.md) |
 | `CurveTypeFlags` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:2718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2718)
-
 ## Properties
 
 ### CurveTypeFlags
 
 • **CurveTypeFlags**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2721)
 
 ___
 
@@ -72,29 +60,17 @@ ___
 
 • **LastObservedName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:2719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2719)
-
 ___
 
 ### Name
 
 • **Name**: [`SmartName`](ue_ue.SmartName.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2720)
-
 ___
 
 ### \_\_tid\_AnimCurveBase\_\_
 
 • `Private` **\_\_tid\_AnimCurveBase\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2727)
 
 ## Methods
 
@@ -110,10 +86,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2725)
-
 ___
 
 ### StaticStruct
@@ -123,7 +95,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2726)

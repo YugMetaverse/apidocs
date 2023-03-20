@@ -27,10 +27,6 @@
 
 • **new CustomFieldData**()
 
-#### Defined in
-
-[ue/ue.d.ts:25530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25530)
-
 • **new CustomFieldData**(`Key`, `Value`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Key` | `string` |
 | `Value` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:25531](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25531)
-
 ## Properties
 
 ### Key
 
 • **Key**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:25532](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25532)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Value**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:25533](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25533)
-
 ___
 
 ### \_\_tid\_CustomFieldData\_\_
 
 • `Private` **\_\_tid\_CustomFieldData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:25539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25539)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25537)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25538)

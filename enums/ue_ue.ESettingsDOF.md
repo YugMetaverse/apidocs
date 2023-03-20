@@ -21,19 +21,11 @@
 
 • **ESettingsDOF\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34768)
-
 ___
 
 ### Full3D
 
 • **Full3D** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34768)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **XYPlane** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34768)
-
 ___
 
 ### XZPlane
 
 • **XZPlane** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34768)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **YZPlane** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34768)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34768)

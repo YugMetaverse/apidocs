@@ -59,19 +59,11 @@
 
 [ScriptViewportClient](ue_ue.ScriptViewportClient.md).[constructor](ue_ue.ScriptViewportClient.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:10147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10147)
-
 ## Properties
 
 ### DebugProperties
 
 • **DebugProperties**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`DebugDisplayProperty`](ue_ue.DebugDisplayProperty.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:10149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10149)
 
 ___
 
@@ -79,19 +71,11 @@ ___
 
 • **GameInstance**: [`GameInstance`](ue_ue.GameInstance.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10151)
-
 ___
 
 ### ViewportConsole
 
 • **ViewportConsole**: [`Console`](ue_ue.Console.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10148)
 
 ___
 
@@ -99,19 +83,11 @@ ___
 
 • **World**: [`World`](ue_ue.World.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10150)
-
 ___
 
 ### \_\_tid\_GameViewportClient\_\_
 
 • **\_\_tid\_GameViewportClient\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10159)
 
 ___
 
@@ -123,10 +99,6 @@ ___
 
 [ScriptViewportClient](ue_ue.ScriptViewportClient.md).[__tid_Object__](ue_ue.ScriptViewportClient.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ScriptViewportClient\_\_
@@ -136,10 +108,6 @@ ___
 #### Inherited from
 
 [ScriptViewportClient](ue_ue.ScriptViewportClient.md).[__tid_ScriptViewportClient__](ue_ue.ScriptViewportClient.md#__tid_scriptviewportclient__)
-
-#### Defined in
-
-[ue/ue.d.ts:10117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10117)
 
 ## Methods
 
@@ -165,10 +133,6 @@ ___
 
 [ScriptViewportClient](ue_ue.ScriptViewportClient.md).[CreateDefaultSubobject](ue_ue.ScriptViewportClient.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -189,10 +153,6 @@ ___
 
 [ScriptViewportClient](ue_ue.ScriptViewportClient.md).[ExecuteUbergraph](ue_ue.ScriptViewportClient.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -206,10 +166,6 @@ ___
 #### Inherited from
 
 [ScriptViewportClient](ue_ue.ScriptViewportClient.md).[GetClass](ue_ue.ScriptViewportClient.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -225,10 +181,6 @@ ___
 
 [ScriptViewportClient](ue_ue.ScriptViewportClient.md).[GetName](ue_ue.ScriptViewportClient.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -242,10 +194,6 @@ ___
 #### Inherited from
 
 [ScriptViewportClient](ue_ue.ScriptViewportClient.md).[GetOuter](ue_ue.ScriptViewportClient.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -261,10 +209,6 @@ ___
 
 [ScriptViewportClient](ue_ue.ScriptViewportClient.md).[GetWorld](ue_ue.ScriptViewportClient.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### SSSwapControllers
@@ -274,10 +218,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:10154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10154)
 
 ___
 
@@ -295,10 +235,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:10152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10152)
-
 ___
 
 ### ShowTitleSafeArea
@@ -308,10 +244,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:10153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10153)
 
 ___
 
@@ -334,10 +266,6 @@ ___
 
 [ScriptViewportClient](ue_ue.ScriptViewportClient.md).[Find](ue_ue.ScriptViewportClient.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:10156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10156)
-
 ___
 
 ### Load
@@ -358,10 +286,6 @@ ___
 
 [ScriptViewportClient](ue_ue.ScriptViewportClient.md).[Load](ue_ue.ScriptViewportClient.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:10157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10157)
-
 ___
 
 ### StaticClass
@@ -375,7 +299,3 @@ ___
 #### Overrides
 
 [ScriptViewportClient](ue_ue.ScriptViewportClient.md).[StaticClass](ue_ue.ScriptViewportClient.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:10155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10155)

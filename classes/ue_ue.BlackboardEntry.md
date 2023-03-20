@@ -29,10 +29,6 @@
 
 • **new BlackboardEntry**()
 
-#### Defined in
-
-[ue/ue.d.ts:14673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14673)
-
 • **new BlackboardEntry**(`EntryName`, `EntryDescription`, `KeyType`, `bInstanceSynced`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `KeyType` | [`BlackboardKeyType`](ue_ue.BlackboardKeyType.md) |
 | `bInstanceSynced` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:14674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14674)
-
 ## Properties
 
 ### EntryDescription
 
 • **EntryDescription**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:14676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14676)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **EntryName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:14675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14675)
-
 ___
 
 ### KeyType
 
 • **KeyType**: [`BlackboardKeyType`](ue_ue.BlackboardKeyType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14677)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • `Private` **\_\_tid\_BlackboardEntry\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:14684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14684)
-
 ___
 
 ### bInstanceSynced
 
 • **bInstanceSynced**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14678)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14682)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14683)

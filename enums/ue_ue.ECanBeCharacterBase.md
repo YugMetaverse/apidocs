@@ -20,19 +20,11 @@
 
 • **ECB\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L353)
-
 ___
 
 ### ECB\_No
 
 • **ECB\_No** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L353)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **ECB\_Owner** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L353)
-
 ___
 
 ### ECB\_Yes
 
 • **ECB\_Yes** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L353)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L353)

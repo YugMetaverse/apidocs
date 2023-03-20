@@ -19,19 +19,11 @@
 
 • **EOO\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7406)
-
 ___
 
 ### EOO\_OffsetRandom
 
 • **EOO\_OffsetRandom** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7406)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **EOO\_OffsetZero** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7406)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7406)

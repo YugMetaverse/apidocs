@@ -57,10 +57,6 @@
 
 [SoundNodeDistanceCrossFade](ue_ue.SoundNodeDistanceCrossFade.md).[constructor](ue_ue.SoundNodeDistanceCrossFade.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:61523](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61523)
-
 ## Properties
 
 ### ChildNodes
@@ -70,10 +66,6 @@
 #### Inherited from
 
 [SoundNodeDistanceCrossFade](ue_ue.SoundNodeDistanceCrossFade.md).[ChildNodes](ue_ue.SoundNodeDistanceCrossFade.md#childnodes)
-
-#### Defined in
-
-[ue/ue.d.ts:22398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22398)
 
 ___
 
@@ -85,10 +77,6 @@ ___
 
 [SoundNodeDistanceCrossFade](ue_ue.SoundNodeDistanceCrossFade.md).[CrossFadeInput](ue_ue.SoundNodeDistanceCrossFade.md#crossfadeinput)
 
-#### Defined in
-
-[ue/ue.d.ts:61378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61378)
-
 ___
 
 ### GraphNode
@@ -99,19 +87,11 @@ ___
 
 [SoundNodeDistanceCrossFade](ue_ue.SoundNodeDistanceCrossFade.md).[GraphNode](ue_ue.SoundNodeDistanceCrossFade.md#graphnode)
 
-#### Defined in
-
-[ue/ue.d.ts:22399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22399)
-
 ___
 
 ### ParamName
 
 • **ParamName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:61524](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61524)
 
 ___
 
@@ -123,10 +103,6 @@ ___
 
 [SoundNodeDistanceCrossFade](ue_ue.SoundNodeDistanceCrossFade.md).[__tid_Object__](ue_ue.SoundNodeDistanceCrossFade.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_SoundNodeDistanceCrossFade\_\_
@@ -137,19 +113,11 @@ ___
 
 [SoundNodeDistanceCrossFade](ue_ue.SoundNodeDistanceCrossFade.md).[__tid_SoundNodeDistanceCrossFade__](ue_ue.SoundNodeDistanceCrossFade.md#__tid_soundnodedistancecrossfade__)
 
-#### Defined in
-
-[ue/ue.d.ts:61383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61383)
-
 ___
 
 ### \_\_tid\_SoundNodeParamCrossFade\_\_
 
 • **\_\_tid\_SoundNodeParamCrossFade\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:61529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61529)
 
 ___
 
@@ -160,10 +128,6 @@ ___
 #### Inherited from
 
 [SoundNodeDistanceCrossFade](ue_ue.SoundNodeDistanceCrossFade.md).[__tid_SoundNode__](ue_ue.SoundNodeDistanceCrossFade.md#__tid_soundnode__)
-
-#### Defined in
-
-[ue/ue.d.ts:22404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22404)
 
 ## Methods
 
@@ -189,10 +153,6 @@ ___
 
 [SoundNodeDistanceCrossFade](ue_ue.SoundNodeDistanceCrossFade.md).[CreateDefaultSubobject](ue_ue.SoundNodeDistanceCrossFade.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -213,10 +173,6 @@ ___
 
 [SoundNodeDistanceCrossFade](ue_ue.SoundNodeDistanceCrossFade.md).[ExecuteUbergraph](ue_ue.SoundNodeDistanceCrossFade.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -230,10 +186,6 @@ ___
 #### Inherited from
 
 [SoundNodeDistanceCrossFade](ue_ue.SoundNodeDistanceCrossFade.md).[GetClass](ue_ue.SoundNodeDistanceCrossFade.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -249,10 +201,6 @@ ___
 
 [SoundNodeDistanceCrossFade](ue_ue.SoundNodeDistanceCrossFade.md).[GetName](ue_ue.SoundNodeDistanceCrossFade.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -267,10 +215,6 @@ ___
 
 [SoundNodeDistanceCrossFade](ue_ue.SoundNodeDistanceCrossFade.md).[GetOuter](ue_ue.SoundNodeDistanceCrossFade.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -284,10 +228,6 @@ ___
 #### Inherited from
 
 [SoundNodeDistanceCrossFade](ue_ue.SoundNodeDistanceCrossFade.md).[GetWorld](ue_ue.SoundNodeDistanceCrossFade.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -310,10 +250,6 @@ ___
 
 [SoundNodeDistanceCrossFade](ue_ue.SoundNodeDistanceCrossFade.md).[Find](ue_ue.SoundNodeDistanceCrossFade.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:61526](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61526)
-
 ___
 
 ### Load
@@ -334,10 +270,6 @@ ___
 
 [SoundNodeDistanceCrossFade](ue_ue.SoundNodeDistanceCrossFade.md).[Load](ue_ue.SoundNodeDistanceCrossFade.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:61527](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61527)
-
 ___
 
 ### StaticClass
@@ -351,7 +283,3 @@ ___
 #### Overrides
 
 [SoundNodeDistanceCrossFade](ue_ue.SoundNodeDistanceCrossFade.md).[StaticClass](ue_ue.SoundNodeDistanceCrossFade.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:61525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61525)

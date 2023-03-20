@@ -60,19 +60,11 @@
 
 [OnlineBlueprintCallProxyBase](ue_ue.OnlineBlueprintCallProxyBase.md).[constructor](ue_ue.OnlineBlueprintCallProxyBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:35577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35577)
-
 ## Properties
 
 ### OnFailure
 
 • **OnFailure**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`Results`: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BlueprintSessionResult`](ue_ue.BlueprintSessionResult.md)\>) => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:35579](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35579)
 
 ___
 
@@ -80,19 +72,11 @@ ___
 
 • **OnSuccess**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`Results`: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BlueprintSessionResult`](ue_ue.BlueprintSessionResult.md)\>) => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:35578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35578)
-
 ___
 
 ### \_\_tid\_FindSessionsCallbackProxy\_\_
 
 • **\_\_tid\_FindSessionsCallbackProxy\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35589)
 
 ___
 
@@ -104,10 +88,6 @@ ___
 
 [OnlineBlueprintCallProxyBase](ue_ue.OnlineBlueprintCallProxyBase.md).[__tid_Object__](ue_ue.OnlineBlueprintCallProxyBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_OnlineBlueprintCallProxyBase\_\_
@@ -117,10 +97,6 @@ ___
 #### Inherited from
 
 [OnlineBlueprintCallProxyBase](ue_ue.OnlineBlueprintCallProxyBase.md).[__tid_OnlineBlueprintCallProxyBase__](ue_ue.OnlineBlueprintCallProxyBase.md#__tid_onlineblueprintcallproxybase__)
-
-#### Defined in
-
-[ue/ue.d.ts:13439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13439)
 
 ## Methods
 
@@ -135,10 +111,6 @@ ___
 #### Inherited from
 
 [OnlineBlueprintCallProxyBase](ue_ue.OnlineBlueprintCallProxyBase.md).[Activate](ue_ue.OnlineBlueprintCallProxyBase.md#activate)
-
-#### Defined in
-
-[ue/ue.d.ts:13434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13434)
 
 ___
 
@@ -164,10 +136,6 @@ ___
 
 [OnlineBlueprintCallProxyBase](ue_ue.OnlineBlueprintCallProxyBase.md).[CreateDefaultSubobject](ue_ue.OnlineBlueprintCallProxyBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -188,10 +156,6 @@ ___
 
 [OnlineBlueprintCallProxyBase](ue_ue.OnlineBlueprintCallProxyBase.md).[ExecuteUbergraph](ue_ue.OnlineBlueprintCallProxyBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -205,10 +169,6 @@ ___
 #### Inherited from
 
 [OnlineBlueprintCallProxyBase](ue_ue.OnlineBlueprintCallProxyBase.md).[GetClass](ue_ue.OnlineBlueprintCallProxyBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -224,10 +184,6 @@ ___
 
 [OnlineBlueprintCallProxyBase](ue_ue.OnlineBlueprintCallProxyBase.md).[GetName](ue_ue.OnlineBlueprintCallProxyBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -242,10 +198,6 @@ ___
 
 [OnlineBlueprintCallProxyBase](ue_ue.OnlineBlueprintCallProxyBase.md).[GetOuter](ue_ue.OnlineBlueprintCallProxyBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -259,10 +211,6 @@ ___
 #### Inherited from
 
 [OnlineBlueprintCallProxyBase](ue_ue.OnlineBlueprintCallProxyBase.md).[GetWorld](ue_ue.OnlineBlueprintCallProxyBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -285,10 +233,6 @@ ___
 
 [OnlineBlueprintCallProxyBase](ue_ue.OnlineBlueprintCallProxyBase.md).[Find](ue_ue.OnlineBlueprintCallProxyBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:35586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35586)
-
 ___
 
 ### FindSessions
@@ -308,10 +252,6 @@ ___
 
 [`FindSessionsCallbackProxy`](ue_ue.FindSessionsCallbackProxy.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35580)
-
 ___
 
 ### GetCurrentPlayers
@@ -327,10 +267,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35581)
 
 ___
 
@@ -348,10 +284,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35582)
-
 ___
 
 ### GetPingInMs
@@ -368,10 +300,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35583](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35583)
-
 ___
 
 ### GetServerName
@@ -387,10 +315,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:35584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35584)
 
 ___
 
@@ -412,10 +336,6 @@ ___
 
 [OnlineBlueprintCallProxyBase](ue_ue.OnlineBlueprintCallProxyBase.md).[Load](ue_ue.OnlineBlueprintCallProxyBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:35587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35587)
-
 ___
 
 ### StaticClass
@@ -429,7 +349,3 @@ ___
 #### Overrides
 
 [OnlineBlueprintCallProxyBase](ue_ue.OnlineBlueprintCallProxyBase.md).[StaticClass](ue_ue.OnlineBlueprintCallProxyBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:35585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35585)

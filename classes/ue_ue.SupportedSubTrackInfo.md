@@ -28,10 +28,6 @@
 
 • **new SupportedSubTrackInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:7467](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7467)
-
 • **new SupportedSubTrackInfo**(`SupportedClass`, `SubTrackName`, `GroupIndex`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `SubTrackName` | `string` |
 | `GroupIndex` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:7468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7468)
-
 ## Properties
 
 ### GroupIndex
 
 • **GroupIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7471)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **SubTrackName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:7470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7470)
-
 ___
 
 ### SupportedClass
 
 • **SupportedClass**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7469)
-
 ___
 
 ### \_\_tid\_SupportedSubTrackInfo\_\_
 
 • `Private` **\_\_tid\_SupportedSubTrackInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7477)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7475)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7476)

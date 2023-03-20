@@ -27,10 +27,6 @@
 
 • **new SlateChildSize**()
 
-#### Defined in
-
-[ue/ue.d.ts:31300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31300)
-
 • **new SlateChildSize**(`Value`, `SizeRule`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Value` | `number` |
 | `SizeRule` | [`ESlateSizeRule`](../enums/ue_ue.ESlateSizeRule.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:31301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31301)
-
 ## Properties
 
 ### SizeRule
 
 • **SizeRule**: [`ESlateSizeRule`](../enums/ue_ue.ESlateSizeRule.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31303)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Value**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31302)
-
 ___
 
 ### \_\_tid\_SlateChildSize\_\_
 
 • `Private` **\_\_tid\_SlateChildSize\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31309)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31307)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31308)

@@ -30,10 +30,6 @@
 
 • **new PoseDataContainer**()
 
-#### Defined in
-
-[ue/ue.d.ts:2731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2731)
-
 • **new PoseDataContainer**(`PoseNames`, `Tracks`, `TrackMap`, `Poses`, `Curves`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `Poses` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PoseData`](ue_ue.PoseData.md)\> |
 | `Curves` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AnimCurveBase`](ue_ue.AnimCurveBase.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:2732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2732)
-
 ## Properties
 
 ### Curves
 
 • **Curves**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AnimCurveBase`](ue_ue.AnimCurveBase.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:2737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2737)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **PoseNames**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SmartName`](ue_ue.SmartName.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:2733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2733)
-
 ___
 
 ### Poses
 
 • **Poses**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PoseData`](ue_ue.PoseData.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:2736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2736)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **TrackMap**: [`TMap`](../interfaces/ue_puerts.TMap.md)<`string`, `number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:2735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2735)
-
 ___
 
 ### Tracks
 
 • **Tracks**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:2734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2734)
-
 ___
 
 ### \_\_tid\_PoseDataContainer\_\_
 
 • `Private` **\_\_tid\_PoseDataContainer\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2743)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2741)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2742)

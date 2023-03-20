@@ -22,19 +22,11 @@
 
 • **LaunchConfig\_Debug** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34682)
-
 ___
 
 ### LaunchConfig\_Default
 
 • **LaunchConfig\_Default** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34682)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **LaunchConfig\_Development** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34682)
-
 ___
 
 ### LaunchConfig\_MAX
 
 • **LaunchConfig\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34682)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **LaunchConfig\_Shipping** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34682)
-
 ___
 
 ### LaunchConfig\_Test
 
 • **LaunchConfig\_Test** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34682)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34682)

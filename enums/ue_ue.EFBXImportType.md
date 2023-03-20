@@ -20,19 +20,11 @@
 
 • **FBXIT\_Animation** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33852)
-
 ___
 
 ### FBXIT\_MAX
 
 • **FBXIT\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33852)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **FBXIT\_SkeletalMesh** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33852)
-
 ___
 
 ### FBXIT\_StaticMesh
 
 • **FBXIT\_StaticMesh** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33852)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33852)

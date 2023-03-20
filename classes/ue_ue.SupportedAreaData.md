@@ -28,10 +28,6 @@
 
 • **new SupportedAreaData**()
 
-#### Defined in
-
-[ue/ue.d.ts:13369](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13369)
-
 • **new SupportedAreaData**(`AreaClassName`, `AreaID`, `AreaClass`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `AreaID` | `number` |
 | `AreaClass` | [`Class`](ue_ue.Class.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:13370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13370)
-
 ## Properties
 
 ### AreaClass
 
 • **AreaClass**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:13373](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13373)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **AreaClassName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:13371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13371)
-
 ___
 
 ### AreaID
 
 • **AreaID**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:13372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13372)
-
 ___
 
 ### \_\_tid\_SupportedAreaData\_\_
 
 • `Private` **\_\_tid\_SupportedAreaData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:13379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13379)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:13377](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13377)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:13378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13378)

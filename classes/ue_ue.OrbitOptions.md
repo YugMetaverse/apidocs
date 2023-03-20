@@ -28,10 +28,6 @@
 
 • **new OrbitOptions**()
 
-#### Defined in
-
-[ue/ue.d.ts:7022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7022)
-
 • **new OrbitOptions**(`bProcessDuringSpawn`, `bProcessDuringUpdate`, `bUseEmitterTime`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `bProcessDuringUpdate` | `boolean` |
 | `bUseEmitterTime` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:7023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7023)
-
 ## Properties
 
 ### \_\_tid\_OrbitOptions\_\_
 
 • `Private` **\_\_tid\_OrbitOptions\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7032](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7032)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **bProcessDuringSpawn**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:7024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7024)
-
 ___
 
 ### bProcessDuringUpdate
 
 • **bProcessDuringUpdate**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:7025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7025)
-
 ___
 
 ### bUseEmitterTime
 
 • **bUseEmitterTime**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7026](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7026)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7030](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7030)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7031](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7031)

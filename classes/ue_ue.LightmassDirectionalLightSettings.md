@@ -39,10 +39,6 @@
 
 [LightmassLightSettings](ue_ue.LightmassLightSettings.md).[constructor](ue_ue.LightmassLightSettings.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:24695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24695)
-
 • **new LightmassDirectionalLightSettings**(`LightSourceAngle`)
 
 #### Parameters
@@ -55,10 +51,6 @@
 
 [LightmassLightSettings](ue_ue.LightmassLightSettings.md).[constructor](ue_ue.LightmassLightSettings.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:24696](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24696)
-
 ## Properties
 
 ### IndirectLightingSaturation
@@ -69,19 +61,11 @@
 
 [LightmassLightSettings](ue_ue.LightmassLightSettings.md).[IndirectLightingSaturation](ue_ue.LightmassLightSettings.md#indirectlightingsaturation)
 
-#### Defined in
-
-[ue/ue.d.ts:24683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24683)
-
 ___
 
 ### LightSourceAngle
 
 • **LightSourceAngle**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:24697](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24697)
 
 ___
 
@@ -93,19 +77,11 @@ ___
 
 [LightmassLightSettings](ue_ue.LightmassLightSettings.md).[ShadowExponent](ue_ue.LightmassLightSettings.md#shadowexponent)
 
-#### Defined in
-
-[ue/ue.d.ts:24684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24684)
-
 ___
 
 ### \_\_tid\_LightmassDirectionalLightSettings\_\_
 
 • `Private` **\_\_tid\_LightmassDirectionalLightSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:24703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24703)
 
 ___
 
@@ -116,10 +92,6 @@ ___
 #### Inherited from
 
 [LightmassLightSettings](ue_ue.LightmassLightSettings.md).[bUseAreaShadowsForStationaryLight](ue_ue.LightmassLightSettings.md#buseareashadowsforstationarylight)
-
-#### Defined in
-
-[ue/ue.d.ts:24685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24685)
 
 ## Methods
 
@@ -139,10 +111,6 @@ use StaticStruct instead.
 
 [LightmassLightSettings](ue_ue.LightmassLightSettings.md).[StaticClass](ue_ue.LightmassLightSettings.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:24701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24701)
-
 ___
 
 ### StaticStruct
@@ -156,7 +124,3 @@ ___
 #### Overrides
 
 [LightmassLightSettings](ue_ue.LightmassLightSettings.md).[StaticStruct](ue_ue.LightmassLightSettings.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:24702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24702)

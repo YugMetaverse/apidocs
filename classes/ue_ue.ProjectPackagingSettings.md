@@ -104,19 +104,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:58644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58644)
-
 ## Properties
 
 ### ApplocalPrerequisitesDirectory
 
 • **ApplocalPrerequisitesDirectory**: [`DirectoryPath`](ue_ue.DirectoryPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:58671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58671)
 
 ___
 
@@ -124,19 +116,11 @@ ___
 
 • **BlueprintNativizationMethod**: [`EProjectPackagingBlueprintNativizationMethod`](../enums/ue_ue.EProjectPackagingBlueprintNativizationMethod.md)
 
-#### Defined in
-
-[ue/ue.d.ts:58652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58652)
-
 ___
 
 ### Build
 
 • **Build**: [`EProjectPackagingBuild`](../enums/ue_ue.EProjectPackagingBuild.md)
-
-#### Defined in
-
-[ue/ue.d.ts:58645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58645)
 
 ___
 
@@ -144,19 +128,11 @@ ___
 
 • **BuildConfiguration**: [`EProjectPackagingBuildConfigurations`](../enums/ue_ue.EProjectPackagingBuildConfigurations.md)
 
-#### Defined in
-
-[ue/ue.d.ts:58646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58646)
-
 ___
 
 ### BuildTarget
 
 • **BuildTarget**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:58647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58647)
 
 ___
 
@@ -164,19 +140,11 @@ ___
 
 • **CompressedChunkWildcard**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:58685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58685)
-
 ___
 
 ### CulturesToStage
 
 • **CulturesToStage**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:58674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58674)
 
 ___
 
@@ -184,19 +152,11 @@ ___
 
 • **DirectoriesToAlwaysCook**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`DirectoryPath`](ue_ue.DirectoryPath.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:58690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58690)
-
 ___
 
 ### DirectoriesToAlwaysStageAsNonUFS
 
 • **DirectoriesToAlwaysStageAsNonUFS**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`DirectoryPath`](ue_ue.DirectoryPath.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:58693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58693)
 
 ___
 
@@ -204,19 +164,11 @@ ___
 
 • **DirectoriesToAlwaysStageAsNonUFSServer**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`DirectoryPath`](ue_ue.DirectoryPath.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:58695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58695)
-
 ___
 
 ### DirectoriesToAlwaysStageAsUFS
 
 • **DirectoriesToAlwaysStageAsUFS**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`DirectoryPath`](ue_ue.DirectoryPath.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:58692](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58692)
 
 ___
 
@@ -224,19 +176,11 @@ ___
 
 • **DirectoriesToAlwaysStageAsUFSServer**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`DirectoryPath`](ue_ue.DirectoryPath.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:58694](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58694)
-
 ___
 
 ### DirectoriesToNeverCook
 
 • **DirectoriesToNeverCook**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`DirectoryPath`](ue_ue.DirectoryPath.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:58691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58691)
 
 ___
 
@@ -244,19 +188,11 @@ ___
 
 • **EarlyDownloaderPakFileFiles**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:58688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58688)
-
 ___
 
 ### ForDistribution
 
 • **ForDistribution**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58650)
 
 ___
 
@@ -264,19 +200,11 @@ ___
 
 • **FullRebuild**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:58649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58649)
-
 ___
 
 ### GenerateEarlyDownloaderPakFile
 
 • **GenerateEarlyDownloaderPakFile**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58680)
 
 ___
 
@@ -284,19 +212,11 @@ ___
 
 • **HttpChunkInstallDataDirectory**: [`DirectoryPath`](ue_ue.DirectoryPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:58663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58663)
-
 ___
 
 ### HttpChunkInstallDataVersion
 
 • **HttpChunkInstallDataVersion**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:58666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58666)
 
 ___
 
@@ -304,19 +224,11 @@ ___
 
 • **IncludeAppLocalPrerequisites**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:58668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58668)
-
 ___
 
 ### IncludeCrashReporter
 
 • **IncludeCrashReporter**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58672)
 
 ___
 
@@ -324,19 +236,11 @@ ___
 
 • **IncludeDebugFiles**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:58651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58651)
-
 ___
 
 ### IncludePrerequisites
 
 • **IncludePrerequisites**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58667)
 
 ___
 
@@ -344,19 +248,11 @@ ___
 
 • **IniKeyBlacklist**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:58686](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58686)
-
 ___
 
 ### IniSectionBlacklist
 
 • **IniSectionBlacklist**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:58687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58687)
 
 ___
 
@@ -364,19 +260,11 @@ ___
 
 • **InternationalizationPreset**: [`EProjectPackagingInternationalizationPresets`](../enums/ue_ue.EProjectPackagingInternationalizationPresets.md)
 
-#### Defined in
-
-[ue/ue.d.ts:58673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58673)
-
 ___
 
 ### MapsToCook
 
 • **MapsToCook**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`FilePath`](ue_ue.FilePath.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:58689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58689)
 
 ___
 
@@ -384,19 +272,11 @@ ___
 
 • **MaxChunkSize**: `bigint`
 
-#### Defined in
-
-[ue/ue.d.ts:58661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58661)
-
 ___
 
 ### NativizeBlueprintAssets
 
 • **NativizeBlueprintAssets**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`FilePath`](ue_ue.FilePath.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:58653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58653)
 
 ___
 
@@ -404,19 +284,11 @@ ___
 
 • **NonUFSMovies**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:58684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58684)
-
 ___
 
 ### PakFileAdditionalCompressionOptions
 
 • **PakFileAdditionalCompressionOptions**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:58665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58665)
 
 ___
 
@@ -424,19 +296,11 @@ ___
 
 • **PakFileCompressionFormats**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:58664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58664)
-
 ___
 
 ### StagingDirectory
 
 • **StagingDirectory**: [`DirectoryPath`](ue_ue.DirectoryPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:58648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58648)
 
 ___
 
@@ -444,19 +308,11 @@ ___
 
 • **UFSMovies**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:58683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58683)
-
 ___
 
 ### UsePakFile
 
 • **UsePakFile**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58656)
 
 ___
 
@@ -468,19 +324,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ProjectPackagingSettings\_\_
 
 • **\_\_tid\_ProjectPackagingSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58702)
 
 ___
 
@@ -488,19 +336,11 @@ ___
 
 • **bBuildHttpChunkInstallData**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:58662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58662)
-
 ___
 
 ### bChunkHardReferencesOnly
 
 • **bChunkHardReferencesOnly**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58659)
 
 ___
 
@@ -508,19 +348,11 @@ ___
 
 • **bCompressed**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:58677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58677)
-
 ___
 
 ### bCookAll
 
 • **bCookAll**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58675)
 
 ___
 
@@ -528,19 +360,11 @@ ___
 
 • **bCookMapsOnly**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:58676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58676)
-
 ___
 
 ### bEncryptIniFiles
 
 • **bEncryptIniFiles**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58678)
 
 ___
 
@@ -548,19 +372,11 @@ ___
 
 • **bEncryptPakIndex**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:58679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58679)
-
 ___
 
 ### bExcludeMonolithicEngineHeadersInNativizedCode
 
 • **bExcludeMonolithicEngineHeadersInNativizedCode**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58655)
 
 ___
 
@@ -568,19 +384,11 @@ ___
 
 • **bForceOneChunkPerFile**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:58660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58660)
-
 ___
 
 ### bGenerateChunks
 
 • **bGenerateChunks**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58657)
 
 ___
 
@@ -588,19 +396,11 @@ ___
 
 • **bGenerateNoChunks**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:58658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58658)
-
 ___
 
 ### bIncludeNativizedAssetsInProjectGeneration
 
 • **bIncludeNativizedAssetsInProjectGeneration**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58654)
 
 ___
 
@@ -608,19 +408,11 @@ ___
 
 • **bNativizeBlueprintAssets**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:58696](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58696)
-
 ___
 
 ### bNativizeOnlySelectedBlueprints
 
 • **bNativizeOnlySelectedBlueprints**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58697](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58697)
 
 ___
 
@@ -628,19 +420,11 @@ ___
 
 • **bShareMaterialShaderCode**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:58669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58669)
-
 ___
 
 ### bSharedMaterialNativeLibraries
 
 • **bSharedMaterialNativeLibraries**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58670)
 
 ___
 
@@ -648,19 +432,11 @@ ___
 
 • **bSkipEditorContent**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:58681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58681)
-
 ___
 
 ### bSkipMovies
 
 • **bSkipMovies**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58682)
 
 ## Methods
 
@@ -686,10 +462,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -710,10 +482,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -727,10 +495,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -746,10 +510,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -764,10 +524,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -781,10 +537,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -807,10 +559,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:58699](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58699)
-
 ___
 
 ### Load
@@ -831,10 +579,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:58700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58700)
-
 ___
 
 ### StaticClass
@@ -848,7 +592,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:58698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58698)

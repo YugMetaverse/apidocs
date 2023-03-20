@@ -19,19 +19,11 @@
 
 • **GridMode\_Common** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34744)
-
 ___
 
 ### GridMode\_DivisionsOf360
 
 • **GridMode\_DivisionsOf360** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34744)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **GridMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34744)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34744)

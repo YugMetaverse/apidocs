@@ -32,10 +32,6 @@
 
 • **new ToolMenuEntryScriptDataAdvanced**()
 
-#### Defined in
-
-[ue/ue.d.ts:63800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63800)
-
 • **new ToolMenuEntryScriptDataAdvanced**(`TutorialHighlight`, `EntryType`, `UserInterfaceActionType`, `bIsSubMenu`, `bOpenSubMenuOnClick`, `bShouldCloseWindowAfterMenuSelection`, `bSimpleComboBox`)
 
 #### Parameters
@@ -50,19 +46,11 @@
 | `bShouldCloseWindowAfterMenuSelection` | `boolean` |
 | `bSimpleComboBox` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:63801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63801)
-
 ## Properties
 
 ### EntryType
 
 • **EntryType**: [`EMultiBlockType`](../enums/ue_ue.EMultiBlockType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63803)
 
 ___
 
@@ -70,19 +58,11 @@ ___
 
 • **TutorialHighlight**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:63802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63802)
-
 ___
 
 ### UserInterfaceActionType
 
 • **UserInterfaceActionType**: [`EUserInterfaceActionType`](../enums/ue_ue.EUserInterfaceActionType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63804)
 
 ___
 
@@ -90,19 +70,11 @@ ___
 
 • `Private` **\_\_tid\_ToolMenuEntryScriptDataAdvanced\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:63814](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63814)
-
 ___
 
 ### bIsSubMenu
 
 • **bIsSubMenu**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:63805](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63805)
 
 ___
 
@@ -110,29 +82,17 @@ ___
 
 • **bOpenSubMenuOnClick**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:63806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63806)
-
 ___
 
 ### bShouldCloseWindowAfterMenuSelection
 
 • **bShouldCloseWindowAfterMenuSelection**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:63807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63807)
-
 ___
 
 ### bSimpleComboBox
 
 • **bSimpleComboBox**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:63808](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63808)
 
 ## Methods
 
@@ -148,10 +108,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63812](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63812)
-
 ___
 
 ### StaticStruct
@@ -161,7 +117,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63813](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63813)

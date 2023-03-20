@@ -25,19 +25,11 @@
 
 • **new GameplayDebuggerNetPack**()
 
-#### Defined in
-
-[ue/ue.d.ts:36623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36623)
-
 ## Properties
 
 ### \_\_tid\_GameplayDebuggerNetPack\_\_
 
 • `Private` **\_\_tid\_GameplayDebuggerNetPack\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36629)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36627)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36628)

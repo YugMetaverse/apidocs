@@ -56,19 +56,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:17001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17001)
-
 ## Properties
 
 ### RegisteredActors
 
 • **RegisteredActors**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Actor`](ue_ue.Actor.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:17002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17002)
 
 ___
 
@@ -76,19 +68,11 @@ ___
 
 • **SharingActor**: [`Actor`](ue_ue.Actor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17006)
-
 ___
 
 ### StateEnum
 
 • **StateEnum**: [`Enum`](ue_ue.Enum.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17005)
 
 ___
 
@@ -96,29 +80,17 @@ ___
 
 • **StateProcessor**: [`AnimationSharingStateProcessor`](ue_ue.AnimationSharingStateProcessor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17003)
-
 ___
 
 ### UsedAnimationSequences
 
 • **UsedAnimationSequences**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AnimSequence`](ue_ue.AnimSequence.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:17004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17004)
-
 ___
 
 ### \_\_tid\_AnimSharingInstance\_\_
 
 • **\_\_tid\_AnimSharingInstance\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17011)
 
 ___
 
@@ -129,10 +101,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -158,10 +126,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -182,10 +146,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -199,10 +159,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -218,10 +174,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -236,10 +188,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -253,10 +201,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -279,10 +223,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:17008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17008)
-
 ___
 
 ### Load
@@ -303,10 +243,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:17009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17009)
-
 ___
 
 ### StaticClass
@@ -320,7 +256,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:17007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17007)

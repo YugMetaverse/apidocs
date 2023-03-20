@@ -28,10 +28,6 @@
 
 • **new StatColorMapping**()
 
-#### Defined in
-
-[ue/ue.d.ts:32525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32525)
-
 • **new StatColorMapping**(`StatName`, `ColorMap`, `DisableBlend`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `ColorMap` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`StatColorMapEntry`](ue_ue.StatColorMapEntry.md)\> |
 | `DisableBlend` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:32526](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32526)
-
 ## Properties
 
 ### ColorMap
 
 • **ColorMap**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`StatColorMapEntry`](ue_ue.StatColorMapEntry.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:32528](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32528)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **DisableBlend**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32529)
-
 ___
 
 ### StatName
 
 • **StatName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:32527](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32527)
-
 ___
 
 ### \_\_tid\_StatColorMapping\_\_
 
 • `Private` **\_\_tid\_StatColorMapping\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32535)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32533](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32533)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32534](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32534)

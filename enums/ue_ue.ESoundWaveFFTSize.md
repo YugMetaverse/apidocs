@@ -22,19 +22,11 @@
 
 • **ESoundWaveFFTSize\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9487)
-
 ___
 
 ### Large\_1024
 
 • **Large\_1024** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9487)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **Medium\_512** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9487)
-
 ___
 
 ### Small\_256
 
 • **Small\_256** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9487)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **VeryLarge\_2048** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9487)
-
 ___
 
 ### VerySmall\_64
 
 • **VerySmall\_64** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9487)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9487)

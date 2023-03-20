@@ -55,19 +55,11 @@
 
 [ObjectProperty](ue_ue.ObjectProperty.md).[constructor](ue_ue.ObjectProperty.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:27430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27430)
-
 ## Properties
 
 ### \_\_tid\_ClassProperty\_\_
 
 • **\_\_tid\_ClassProperty\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27435)
 
 ___
 
@@ -79,10 +71,6 @@ ___
 
 [ObjectProperty](ue_ue.ObjectProperty.md).[__tid_Field__](ue_ue.ObjectProperty.md#__tid_field__)
 
-#### Defined in
-
-[ue/ue.d.ts:700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L700)
-
 ___
 
 ### \_\_tid\_ObjectPropertyBase\_\_
@@ -92,10 +80,6 @@ ___
 #### Inherited from
 
 [ObjectProperty](ue_ue.ObjectProperty.md).[__tid_ObjectPropertyBase__](ue_ue.ObjectProperty.md#__tid_objectpropertybase__)
-
-#### Defined in
-
-[ue/ue.d.ts:27417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27417)
 
 ___
 
@@ -107,10 +91,6 @@ ___
 
 [ObjectProperty](ue_ue.ObjectProperty.md).[__tid_ObjectProperty__](ue_ue.ObjectProperty.md#__tid_objectproperty__)
 
-#### Defined in
-
-[ue/ue.d.ts:27426](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27426)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -121,10 +101,6 @@ ___
 
 [ObjectProperty](ue_ue.ObjectProperty.md).[__tid_Object__](ue_ue.ObjectProperty.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_Property\_\_
@@ -134,10 +110,6 @@ ___
 #### Inherited from
 
 [ObjectProperty](ue_ue.ObjectProperty.md).[__tid_Property__](ue_ue.ObjectProperty.md#__tid_property__)
-
-#### Defined in
-
-[ue/ue.d.ts:4766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4766)
 
 ## Methods
 
@@ -163,10 +135,6 @@ ___
 
 [ObjectProperty](ue_ue.ObjectProperty.md).[CreateDefaultSubobject](ue_ue.ObjectProperty.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -187,10 +155,6 @@ ___
 
 [ObjectProperty](ue_ue.ObjectProperty.md).[ExecuteUbergraph](ue_ue.ObjectProperty.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -204,10 +168,6 @@ ___
 #### Inherited from
 
 [ObjectProperty](ue_ue.ObjectProperty.md).[GetClass](ue_ue.ObjectProperty.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -223,10 +183,6 @@ ___
 
 [ObjectProperty](ue_ue.ObjectProperty.md).[GetName](ue_ue.ObjectProperty.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -241,10 +197,6 @@ ___
 
 [ObjectProperty](ue_ue.ObjectProperty.md).[GetOuter](ue_ue.ObjectProperty.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -258,10 +210,6 @@ ___
 #### Inherited from
 
 [ObjectProperty](ue_ue.ObjectProperty.md).[GetWorld](ue_ue.ObjectProperty.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -284,10 +232,6 @@ ___
 
 [ObjectProperty](ue_ue.ObjectProperty.md).[Find](ue_ue.ObjectProperty.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:27432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27432)
-
 ___
 
 ### Load
@@ -308,10 +252,6 @@ ___
 
 [ObjectProperty](ue_ue.ObjectProperty.md).[Load](ue_ue.ObjectProperty.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:27433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27433)
-
 ___
 
 ### StaticClass
@@ -325,7 +265,3 @@ ___
 #### Overrides
 
 [ObjectProperty](ue_ue.ObjectProperty.md).[StaticClass](ue_ue.ObjectProperty.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:27431](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27431)

@@ -28,10 +28,6 @@
 
 • **new GameplayDebuggerDebugActor**()
 
-#### Defined in
-
-[ue/ue.d.ts:36633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36633)
-
 • **new GameplayDebuggerDebugActor**(`Actor`, `ActorName`, `SyncCounter`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `ActorName` | `string` |
 | `SyncCounter` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:36634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36634)
-
 ## Properties
 
 ### Actor
 
 • **Actor**: [`Actor`](ue_ue.Actor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36635)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **ActorName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:36636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36636)
-
 ___
 
 ### SyncCounter
 
 • **SyncCounter**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:36637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36637)
-
 ___
 
 ### \_\_tid\_GameplayDebuggerDebugActor\_\_
 
 • `Private` **\_\_tid\_GameplayDebuggerDebugActor\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36643)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36641)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36642)

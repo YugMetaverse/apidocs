@@ -19,19 +19,11 @@
 
 • **EIOSLandscapeOrientation\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33915)
-
 ___
 
 ### LandscapeLeft
 
 • **LandscapeLeft** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33915)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **LandscapeRight** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33915)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33915)

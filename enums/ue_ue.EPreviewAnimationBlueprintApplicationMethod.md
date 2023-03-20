@@ -19,19 +19,11 @@
 
 • **EPreviewAnimationBlueprintApplicationMethod\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4731)
-
 ___
 
 ### LinkedAnimGraph
 
 • **LinkedAnimGraph** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4731)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **LinkedLayers** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4731)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4731)

@@ -60,10 +60,6 @@
 
 [EdGraph](ue_ue.EdGraph.md).[constructor](ue_ue.EdGraph.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:61648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61648)
-
 ## Properties
 
 ### GraphGuid
@@ -73,10 +69,6 @@
 #### Inherited from
 
 [EdGraph](ue_ue.EdGraph.md).[GraphGuid](ue_ue.EdGraph.md#graphguid)
-
-#### Defined in
-
-[ue/ue.d.ts:4175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4175)
 
 ___
 
@@ -88,10 +80,6 @@ ___
 
 [EdGraph](ue_ue.EdGraph.md).[InterfaceGuid](ue_ue.EdGraph.md#interfaceguid)
 
-#### Defined in
-
-[ue/ue.d.ts:4176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4176)
-
 ___
 
 ### Nodes
@@ -101,10 +89,6 @@ ___
 #### Inherited from
 
 [EdGraph](ue_ue.EdGraph.md).[Nodes](ue_ue.EdGraph.md#nodes)
-
-#### Defined in
-
-[ue/ue.d.ts:4170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4170)
 
 ___
 
@@ -116,10 +100,6 @@ ___
 
 [EdGraph](ue_ue.EdGraph.md).[Schema](ue_ue.EdGraph.md#schema)
 
-#### Defined in
-
-[ue/ue.d.ts:4169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4169)
-
 ___
 
 ### SubGraphs
@@ -129,10 +109,6 @@ ___
 #### Inherited from
 
 [EdGraph](ue_ue.EdGraph.md).[SubGraphs](ue_ue.EdGraph.md#subgraphs)
-
-#### Defined in
-
-[ue/ue.d.ts:4174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4174)
 
 ___
 
@@ -144,10 +120,6 @@ ___
 
 [EdGraph](ue_ue.EdGraph.md).[__tid_EdGraph__](ue_ue.EdGraph.md#__tid_edgraph__)
 
-#### Defined in
-
-[ue/ue.d.ts:4181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4181)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -158,19 +130,11 @@ ___
 
 [EdGraph](ue_ue.EdGraph.md).[__tid_Object__](ue_ue.EdGraph.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_SoundSubmixGraph\_\_
 
 • **\_\_tid\_SoundSubmixGraph\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:61653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61653)
 
 ___
 
@@ -182,10 +146,6 @@ ___
 
 [EdGraph](ue_ue.EdGraph.md).[bAllowDeletion](ue_ue.EdGraph.md#ballowdeletion)
 
-#### Defined in
-
-[ue/ue.d.ts:4172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4172)
-
 ___
 
 ### bAllowRenaming
@@ -196,10 +156,6 @@ ___
 
 [EdGraph](ue_ue.EdGraph.md).[bAllowRenaming](ue_ue.EdGraph.md#ballowrenaming)
 
-#### Defined in
-
-[ue/ue.d.ts:4173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4173)
-
 ___
 
 ### bEditable
@@ -209,10 +165,6 @@ ___
 #### Inherited from
 
 [EdGraph](ue_ue.EdGraph.md).[bEditable](ue_ue.EdGraph.md#beditable)
-
-#### Defined in
-
-[ue/ue.d.ts:4171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4171)
 
 ## Methods
 
@@ -238,10 +190,6 @@ ___
 
 [EdGraph](ue_ue.EdGraph.md).[CreateDefaultSubobject](ue_ue.EdGraph.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -262,10 +210,6 @@ ___
 
 [EdGraph](ue_ue.EdGraph.md).[ExecuteUbergraph](ue_ue.EdGraph.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -279,10 +223,6 @@ ___
 #### Inherited from
 
 [EdGraph](ue_ue.EdGraph.md).[GetClass](ue_ue.EdGraph.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -298,10 +238,6 @@ ___
 
 [EdGraph](ue_ue.EdGraph.md).[GetName](ue_ue.EdGraph.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -316,10 +252,6 @@ ___
 
 [EdGraph](ue_ue.EdGraph.md).[GetOuter](ue_ue.EdGraph.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -333,10 +265,6 @@ ___
 #### Inherited from
 
 [EdGraph](ue_ue.EdGraph.md).[GetWorld](ue_ue.EdGraph.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -359,10 +287,6 @@ ___
 
 [EdGraph](ue_ue.EdGraph.md).[Find](ue_ue.EdGraph.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:61650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61650)
-
 ___
 
 ### Load
@@ -383,10 +307,6 @@ ___
 
 [EdGraph](ue_ue.EdGraph.md).[Load](ue_ue.EdGraph.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:61651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61651)
-
 ___
 
 ### StaticClass
@@ -400,7 +320,3 @@ ___
 #### Overrides
 
 [EdGraph](ue_ue.EdGraph.md).[StaticClass](ue_ue.EdGraph.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:61649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61649)

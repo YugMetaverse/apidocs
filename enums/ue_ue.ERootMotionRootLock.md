@@ -20,19 +20,11 @@
 
 • **AnimFirstFrame** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2911)
-
 ___
 
 ### ERootMotionRootLock\_MAX
 
 • **ERootMotionRootLock\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2911)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **RefPose** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2911)
-
 ___
 
 ### Zero
 
 • **Zero** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2911)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2911)

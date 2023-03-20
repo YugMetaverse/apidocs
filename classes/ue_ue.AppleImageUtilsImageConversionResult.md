@@ -27,10 +27,6 @@
 
 • **new AppleImageUtilsImageConversionResult**()
 
-#### Defined in
-
-[ue/ue.d.ts:20613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20613)
-
 • **new AppleImageUtilsImageConversionResult**(`Error`, `ImageData`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Error` | `string` |
 | `ImageData` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:20614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20614)
-
 ## Properties
 
 ### Error
 
 • **Error**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:20615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20615)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **ImageData**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:20616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20616)
-
 ___
 
 ### \_\_tid\_AppleImageUtilsImageConversionResult\_\_
 
 • `Private` **\_\_tid\_AppleImageUtilsImageConversionResult\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:20622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20622)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:20620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20620)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:20621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20621)

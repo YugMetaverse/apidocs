@@ -86,10 +86,6 @@
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[constructor](ue_ue.K2Node_Composite.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:41823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41823)
-
 ## Properties
 
 ### AdvancedPinDisplay
@@ -99,10 +95,6 @@
 #### Inherited from
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[AdvancedPinDisplay](ue_ue.K2Node_Composite.md#advancedpindisplay)
-
-#### Defined in
-
-[ue/ue.d.ts:1067](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1067)
 
 ___
 
@@ -114,10 +106,6 @@ ___
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[BoundGraph](ue_ue.K2Node_Composite.md#boundgraph)
 
-#### Defined in
-
-[ue/ue.d.ts:41074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41074)
-
 ___
 
 ### DeprecatedPins
@@ -127,10 +115,6 @@ ___
 #### Inherited from
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[DeprecatedPins](ue_ue.K2Node_Composite.md#deprecatedpins)
-
-#### Defined in
-
-[ue/ue.d.ts:1062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1062)
 
 ___
 
@@ -142,10 +126,6 @@ ___
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[EnabledState](ue_ue.K2Node_Composite.md#enabledstate)
 
-#### Defined in
-
-[ue/ue.d.ts:1068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1068)
-
 ___
 
 ### ErrorMsg
@@ -155,10 +135,6 @@ ___
 #### Inherited from
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[ErrorMsg](ue_ue.K2Node_Composite.md#errormsg)
-
-#### Defined in
-
-[ue/ue.d.ts:1081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1081)
 
 ___
 
@@ -170,19 +146,11 @@ ___
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[ErrorType](ue_ue.K2Node_Composite.md#errortype)
 
-#### Defined in
-
-[ue/ue.d.ts:1080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1080)
-
 ___
 
 ### Expression
 
 • **Expression**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:41824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41824)
 
 ___
 
@@ -194,10 +162,6 @@ ___
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[InputSinkNode](ue_ue.K2Node_Composite.md#inputsinknode)
 
-#### Defined in
-
-[ue/ue.d.ts:41061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41061)
-
 ___
 
 ### MetaData
@@ -207,10 +171,6 @@ ___
 #### Inherited from
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[MetaData](ue_ue.K2Node_Composite.md#metadata)
-
-#### Defined in
-
-[ue/ue.d.ts:41064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41064)
 
 ___
 
@@ -222,10 +182,6 @@ ___
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[NodeComment](ue_ue.K2Node_Composite.md#nodecomment)
 
-#### Defined in
-
-[ue/ue.d.ts:1079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1079)
-
 ___
 
 ### NodeGuid
@@ -235,10 +191,6 @@ ___
 #### Inherited from
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[NodeGuid](ue_ue.K2Node_Composite.md#nodeguid)
-
-#### Defined in
-
-[ue/ue.d.ts:1082](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1082)
 
 ___
 
@@ -250,10 +202,6 @@ ___
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[NodeHeight](ue_ue.K2Node_Composite.md#nodeheight)
 
-#### Defined in
-
-[ue/ue.d.ts:1066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1066)
-
 ___
 
 ### NodePosX
@@ -263,10 +211,6 @@ ___
 #### Inherited from
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[NodePosX](ue_ue.K2Node_Composite.md#nodeposx)
-
-#### Defined in
-
-[ue/ue.d.ts:1063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1063)
 
 ___
 
@@ -278,10 +222,6 @@ ___
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[NodePosY](ue_ue.K2Node_Composite.md#nodeposy)
 
-#### Defined in
-
-[ue/ue.d.ts:1064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1064)
-
 ___
 
 ### NodeUpgradeMessage
@@ -291,10 +231,6 @@ ___
 #### Inherited from
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[NodeUpgradeMessage](ue_ue.K2Node_Composite.md#nodeupgrademessage)
-
-#### Defined in
-
-[ue/ue.d.ts:1078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1078)
 
 ___
 
@@ -306,10 +242,6 @@ ___
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[NodeWidth](ue_ue.K2Node_Composite.md#nodewidth)
 
-#### Defined in
-
-[ue/ue.d.ts:1065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1065)
-
 ___
 
 ### OutputSourceNode
@@ -319,10 +251,6 @@ ___
 #### Inherited from
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[OutputSourceNode](ue_ue.K2Node_Composite.md#outputsourcenode)
-
-#### Defined in
-
-[ue/ue.d.ts:41060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41060)
 
 ___
 
@@ -334,10 +262,6 @@ ___
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[__tid_EdGraphNode__](ue_ue.K2Node_Composite.md#__tid_edgraphnode__)
 
-#### Defined in
-
-[ue/ue.d.ts:1087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1087)
-
 ___
 
 ### \_\_tid\_K2Node\_Composite\_\_
@@ -347,10 +271,6 @@ ___
 #### Inherited from
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[__tid_K2Node_Composite__](ue_ue.K2Node_Composite.md#__tid_k2node_composite__)
-
-#### Defined in
-
-[ue/ue.d.ts:41079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41079)
 
 ___
 
@@ -362,19 +282,11 @@ ___
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[__tid_K2Node_EditablePinBase__](ue_ue.K2Node_Composite.md#__tid_k2node_editablepinbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:40713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40713)
-
 ___
 
 ### \_\_tid\_K2Node\_MathExpression\_\_
 
 • **\_\_tid\_K2Node\_MathExpression\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:41830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41830)
 
 ___
 
@@ -386,10 +298,6 @@ ___
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[__tid_K2Node_Tunnel__](ue_ue.K2Node_Composite.md#__tid_k2node_tunnel__)
 
-#### Defined in
-
-[ue/ue.d.ts:41069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41069)
-
 ___
 
 ### \_\_tid\_K2Node\_\_
@@ -399,10 +307,6 @@ ___
 #### Inherited from
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[__tid_K2Node__](ue_ue.K2Node_Composite.md#__tid_k2node__)
-
-#### Defined in
-
-[ue/ue.d.ts:16749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16749)
 
 ___
 
@@ -414,10 +318,6 @@ ___
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[__tid_Object__](ue_ue.K2Node_Composite.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bCanHaveInputs
@@ -427,10 +327,6 @@ ___
 #### Inherited from
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[bCanHaveInputs](ue_ue.K2Node_Composite.md#bcanhaveinputs)
-
-#### Defined in
-
-[ue/ue.d.ts:41062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41062)
 
 ___
 
@@ -442,10 +338,6 @@ ___
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[bCanHaveOutputs](ue_ue.K2Node_Composite.md#bcanhaveoutputs)
 
-#### Defined in
-
-[ue/ue.d.ts:41063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41063)
-
 ___
 
 ### bCanRenameNode
@@ -455,10 +347,6 @@ ___
 #### Inherited from
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[bCanRenameNode](ue_ue.K2Node_Composite.md#bcanrenamenode)
-
-#### Defined in
-
-[ue/ue.d.ts:1077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1077)
 
 ___
 
@@ -470,10 +358,6 @@ ___
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[bCanResizeNode](ue_ue.K2Node_Composite.md#bcanresizenode)
 
-#### Defined in
-
-[ue/ue.d.ts:1072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1072)
-
 ___
 
 ### bCommentBubbleMakeVisible
@@ -483,10 +367,6 @@ ___
 #### Inherited from
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[bCommentBubbleMakeVisible](ue_ue.K2Node_Composite.md#bcommentbubblemakevisible)
-
-#### Defined in
-
-[ue/ue.d.ts:1076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1076)
 
 ___
 
@@ -498,10 +378,6 @@ ___
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[bCommentBubblePinned](ue_ue.K2Node_Composite.md#bcommentbubblepinned)
 
-#### Defined in
-
-[ue/ue.d.ts:1074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1074)
-
 ___
 
 ### bCommentBubbleVisible
@@ -511,10 +387,6 @@ ___
 #### Inherited from
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[bCommentBubbleVisible](ue_ue.K2Node_Composite.md#bcommentbubblevisible)
-
-#### Defined in
-
-[ue/ue.d.ts:1075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1075)
 
 ___
 
@@ -526,10 +398,6 @@ ___
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[bDisplayAsDisabled](ue_ue.K2Node_Composite.md#bdisplayasdisabled)
 
-#### Defined in
-
-[ue/ue.d.ts:1069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1069)
-
 ___
 
 ### bHasCompilerMessage
@@ -539,10 +407,6 @@ ___
 #### Inherited from
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[bHasCompilerMessage](ue_ue.K2Node_Composite.md#bhascompilermessage)
-
-#### Defined in
-
-[ue/ue.d.ts:1073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1073)
 
 ___
 
@@ -554,10 +418,6 @@ ___
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[bIsEditable](ue_ue.K2Node_Composite.md#biseditable)
 
-#### Defined in
-
-[ue/ue.d.ts:40708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40708)
-
 ___
 
 ### bIsNodeEnabled
@@ -568,19 +428,11 @@ ___
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[bIsNodeEnabled](ue_ue.K2Node_Composite.md#bisnodeenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:1071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1071)
-
 ___
 
 ### bMadeAfterRotChange
 
 • **bMadeAfterRotChange**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:41825](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41825)
 
 ___
 
@@ -591,10 +443,6 @@ ___
 #### Inherited from
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[bUserSetEnabledState](ue_ue.K2Node_Composite.md#busersetenabledstate)
-
-#### Defined in
-
-[ue/ue.d.ts:1070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1070)
 
 ## Methods
 
@@ -620,10 +468,6 @@ ___
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[CreateDefaultSubobject](ue_ue.K2Node_Composite.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -644,10 +488,6 @@ ___
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[ExecuteUbergraph](ue_ue.K2Node_Composite.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -661,10 +501,6 @@ ___
 #### Inherited from
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[GetClass](ue_ue.K2Node_Composite.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -680,10 +516,6 @@ ___
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[GetName](ue_ue.K2Node_Composite.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -698,10 +530,6 @@ ___
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[GetOuter](ue_ue.K2Node_Composite.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -715,10 +543,6 @@ ___
 #### Inherited from
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[GetWorld](ue_ue.K2Node_Composite.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -741,10 +565,6 @@ ___
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[Find](ue_ue.K2Node_Composite.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:41827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41827)
-
 ___
 
 ### Load
@@ -765,10 +585,6 @@ ___
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[Load](ue_ue.K2Node_Composite.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:41828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41828)
-
 ___
 
 ### StaticClass
@@ -782,7 +598,3 @@ ___
 #### Overrides
 
 [K2Node_Composite](ue_ue.K2Node_Composite.md).[StaticClass](ue_ue.K2Node_Composite.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:41826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41826)

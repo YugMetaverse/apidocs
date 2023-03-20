@@ -19,19 +19,11 @@
 
 • **AudioTrack** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31372)
-
 ___
 
 ### EAudioRecordingMode\_MAX
 
 • **EAudioRecordingMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31372)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31372)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31372)

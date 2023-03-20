@@ -29,10 +29,6 @@
 
 • **new WheelSetup**()
 
-#### Defined in
-
-[ue/ue.d.ts:60394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60394)
-
 • **new WheelSetup**(`WheelClass`, `BoneName`, `AdditionalOffset`, `bDisableSteering`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `AdditionalOffset` | [`Vector`](ue_ue_s.Vector.md) |
 | `bDisableSteering` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:60395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60395)
-
 ## Properties
 
 ### AdditionalOffset
 
 • **AdditionalOffset**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:60398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60398)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **BoneName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:60397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60397)
-
 ___
 
 ### WheelClass
 
 • **WheelClass**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:60396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60396)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • `Private` **\_\_tid\_WheelSetup\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:60405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60405)
-
 ___
 
 ### bDisableSteering
 
 • **bDisableSteering**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:60399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60399)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:60403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60403)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:60404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60404)

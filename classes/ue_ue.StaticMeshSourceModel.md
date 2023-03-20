@@ -31,10 +31,6 @@
 
 • **new StaticMeshSourceModel**()
 
-#### Defined in
-
-[ue/ue.d.ts:7779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7779)
-
 • **new StaticMeshSourceModel**(`BuildSettings`, `ReductionSettings`, `LODDistance`, `ScreenSize`, `SourceImportFilename`, `bImportWithBaseMesh`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `SourceImportFilename` | `string` |
 | `bImportWithBaseMesh` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:7780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7780)
-
 ## Properties
 
 ### BuildSettings
 
 • **BuildSettings**: [`MeshBuildSettings`](ue_ue.MeshBuildSettings.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7781)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **LODDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7783)
-
 ___
 
 ### ReductionSettings
 
 • **ReductionSettings**: [`MeshReductionSettings`](ue_ue.MeshReductionSettings.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7782)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **ScreenSize**: [`PerPlatformFloat`](ue_ue.PerPlatformFloat.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7784)
-
 ___
 
 ### SourceImportFilename
 
 • **SourceImportFilename**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:7785](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7785)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • `Private` **\_\_tid\_StaticMeshSourceModel\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:7792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7792)
-
 ___
 
 ### bImportWithBaseMesh
 
 • **bImportWithBaseMesh**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7786)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7790)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7791)

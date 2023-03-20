@@ -22,19 +22,11 @@
 
 • **EARLineTraceChannels\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20907)
-
 ___
 
 ### FeaturePoint
 
 • **FeaturePoint** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20907)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **GroundPlane** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20907)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20907)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **PlaneUsingBoundaryPolygon** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20907)
-
 ___
 
 ### PlaneUsingExtent
 
 • **PlaneUsingExtent** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20907)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20907)

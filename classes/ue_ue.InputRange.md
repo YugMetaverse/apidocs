@@ -27,10 +27,6 @@
 
 • **new InputRange**()
 
-#### Defined in
-
-[ue/ue.d.ts:17678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17678)
-
 • **new InputRange**(`Min`, `Max`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Min` | `number` |
 | `Max` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:17679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17679)
-
 ## Properties
 
 ### Max
 
 • **Max**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17681)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Min**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17680)
-
 ___
 
 ### \_\_tid\_InputRange\_\_
 
 • `Private` **\_\_tid\_InputRange\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17687)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17685)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17686](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17686)

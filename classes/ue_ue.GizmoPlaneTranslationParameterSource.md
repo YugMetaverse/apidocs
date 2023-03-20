@@ -61,19 +61,11 @@
 
 [GizmoBaseVec2ParameterSource](ue_ue.GizmoBaseVec2ParameterSource.md).[constructor](ue_ue.GizmoBaseVec2ParameterSource.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:38134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38134)
-
 ## Properties
 
 ### AxisSource
 
 • **AxisSource**: [`GizmoAxisSource`](ue_ue.GizmoAxisSource.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38135)
 
 ___
 
@@ -81,19 +73,11 @@ ___
 
 • **CurTranslationAxisX**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38141)
-
 ___
 
 ### CurTranslationAxisY
 
 • **CurTranslationAxisY**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38142)
 
 ___
 
@@ -101,19 +85,11 @@ ___
 
 • **CurTranslationNormal**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38140)
-
 ___
 
 ### CurTranslationOrigin
 
 • **CurTranslationOrigin**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38139)
 
 ___
 
@@ -121,19 +97,11 @@ ___
 
 • **InitialTransform**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38143)
-
 ___
 
 ### LastChange
 
 • **LastChange**: [`GizmoVec2ParameterChange`](ue_ue.GizmoVec2ParameterChange.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38138)
 
 ___
 
@@ -141,19 +109,11 @@ ___
 
 • **Parameter**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38137)
-
 ___
 
 ### TransformSource
 
 • **TransformSource**: [`GizmoTransformSource`](ue_ue.GizmoTransformSource.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38136)
 
 ___
 
@@ -165,19 +125,11 @@ ___
 
 [GizmoBaseVec2ParameterSource](ue_ue.GizmoBaseVec2ParameterSource.md).[__tid_GizmoBaseVec2ParameterSource__](ue_ue.GizmoBaseVec2ParameterSource.md#__tid_gizmobasevec2parametersource__)
 
-#### Defined in
-
-[ue/ue.d.ts:37991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37991)
-
 ___
 
 ### \_\_tid\_GizmoPlaneTranslationParameterSource\_\_
 
 • **\_\_tid\_GizmoPlaneTranslationParameterSource\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38148)
 
 ___
 
@@ -188,10 +140,6 @@ ___
 #### Inherited from
 
 [GizmoBaseVec2ParameterSource](ue_ue.GizmoBaseVec2ParameterSource.md).[__tid_Object__](ue_ue.GizmoBaseVec2ParameterSource.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -217,10 +165,6 @@ ___
 
 [GizmoBaseVec2ParameterSource](ue_ue.GizmoBaseVec2ParameterSource.md).[CreateDefaultSubobject](ue_ue.GizmoBaseVec2ParameterSource.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -241,10 +185,6 @@ ___
 
 [GizmoBaseVec2ParameterSource](ue_ue.GizmoBaseVec2ParameterSource.md).[ExecuteUbergraph](ue_ue.GizmoBaseVec2ParameterSource.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -258,10 +198,6 @@ ___
 #### Inherited from
 
 [GizmoBaseVec2ParameterSource](ue_ue.GizmoBaseVec2ParameterSource.md).[GetClass](ue_ue.GizmoBaseVec2ParameterSource.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -277,10 +213,6 @@ ___
 
 [GizmoBaseVec2ParameterSource](ue_ue.GizmoBaseVec2ParameterSource.md).[GetName](ue_ue.GizmoBaseVec2ParameterSource.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -295,10 +227,6 @@ ___
 
 [GizmoBaseVec2ParameterSource](ue_ue.GizmoBaseVec2ParameterSource.md).[GetOuter](ue_ue.GizmoBaseVec2ParameterSource.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -312,10 +240,6 @@ ___
 #### Inherited from
 
 [GizmoBaseVec2ParameterSource](ue_ue.GizmoBaseVec2ParameterSource.md).[GetWorld](ue_ue.GizmoBaseVec2ParameterSource.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -338,10 +262,6 @@ ___
 
 [GizmoBaseVec2ParameterSource](ue_ue.GizmoBaseVec2ParameterSource.md).[Find](ue_ue.GizmoBaseVec2ParameterSource.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:38145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38145)
-
 ___
 
 ### Load
@@ -362,10 +282,6 @@ ___
 
 [GizmoBaseVec2ParameterSource](ue_ue.GizmoBaseVec2ParameterSource.md).[Load](ue_ue.GizmoBaseVec2ParameterSource.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:38146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38146)
-
 ___
 
 ### StaticClass
@@ -379,7 +295,3 @@ ___
 #### Overrides
 
 [GizmoBaseVec2ParameterSource](ue_ue.GizmoBaseVec2ParameterSource.md).[StaticClass](ue_ue.GizmoBaseVec2ParameterSource.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:38144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38144)

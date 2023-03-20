@@ -28,10 +28,6 @@
 
 • **new MulticastRecordOptions**()
 
-#### Defined in
-
-[ue/ue.d.ts:9864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9864)
-
 • **new MulticastRecordOptions**(`FuncPathName`, `bServerSkip`, `bClientSkip`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `bServerSkip` | `boolean` |
 | `bClientSkip` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:9865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9865)
-
 ## Properties
 
 ### FuncPathName
 
 • **FuncPathName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:9866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9866)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • `Private` **\_\_tid\_MulticastRecordOptions\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9874)
-
 ___
 
 ### bClientSkip
 
 • **bClientSkip**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9868)
-
 ___
 
 ### bServerSkip
 
 • **bServerSkip**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9867)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9872)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9873)

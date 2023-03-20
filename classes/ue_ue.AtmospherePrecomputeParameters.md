@@ -36,10 +36,6 @@
 
 • **new AtmospherePrecomputeParameters**()
 
-#### Defined in
-
-[ue/ue.d.ts:22197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22197)
-
 • **new AtmospherePrecomputeParameters**(`DensityHeight`, `DecayHeight`, `MaxScatteringOrder`, `TransmittanceTexWidth`, `TransmittanceTexHeight`, `IrradianceTexWidth`, `IrradianceTexHeight`, `InscatterAltitudeSampleNum`, `InscatterMuNum`, `InscatterMuSNum`, `InscatterNuNum`)
 
 #### Parameters
@@ -58,19 +54,11 @@
 | `InscatterMuSNum` | `number` |
 | `InscatterNuNum` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:22198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22198)
-
 ## Properties
 
 ### DecayHeight
 
 • **DecayHeight**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22200)
 
 ___
 
@@ -78,19 +66,11 @@ ___
 
 • **DensityHeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22199)
-
 ___
 
 ### InscatterAltitudeSampleNum
 
 • **InscatterAltitudeSampleNum**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22206)
 
 ___
 
@@ -98,19 +78,11 @@ ___
 
 • **InscatterMuNum**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22207)
-
 ___
 
 ### InscatterMuSNum
 
 • **InscatterMuSNum**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22208)
 
 ___
 
@@ -118,19 +90,11 @@ ___
 
 • **InscatterNuNum**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22209)
-
 ___
 
 ### IrradianceTexHeight
 
 • **IrradianceTexHeight**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22205)
 
 ___
 
@@ -138,19 +102,11 @@ ___
 
 • **IrradianceTexWidth**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22204)
-
 ___
 
 ### MaxScatteringOrder
 
 • **MaxScatteringOrder**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22201)
 
 ___
 
@@ -158,29 +114,17 @@ ___
 
 • **TransmittanceTexHeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22203)
-
 ___
 
 ### TransmittanceTexWidth
 
 • **TransmittanceTexWidth**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22202)
-
 ___
 
 ### \_\_tid\_AtmospherePrecomputeParameters\_\_
 
 • `Private` **\_\_tid\_AtmospherePrecomputeParameters\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22215)
 
 ## Methods
 
@@ -196,10 +140,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22213)
-
 ___
 
 ### StaticStruct
@@ -209,7 +149,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22214)

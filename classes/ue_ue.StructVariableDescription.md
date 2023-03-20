@@ -44,10 +44,6 @@
 
 • **new StructVariableDescription**()
 
-#### Defined in
-
-[ue/ue.d.ts:64883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64883)
-
 • **new StructVariableDescription**(`VarName`, `VarGuid`, `FriendlyName`, `DefaultValue`, `Category`, `SubCategory`, `SubCategoryObject`, `PinValueType`, `ContainerType`, `bIsArray`, `bIsSet`, `bIsMap`, `bInvalidMember`, `bDontEditOnInstance`, `bEnableSaveGame`, `bEnableMultiLineText`, `bEnable3dWidget`, `CurrentDefaultValue`, `ToolTip`)
 
 #### Parameters
@@ -74,19 +70,11 @@
 | `CurrentDefaultValue` | `string` |
 | `ToolTip` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:64884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64884)
-
 ## Properties
 
 ### Category
 
 • **Category**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:64889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64889)
 
 ___
 
@@ -94,19 +82,11 @@ ___
 
 • **ContainerType**: [`EPinContainerType`](../enums/ue_ue.EPinContainerType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64893)
-
 ___
 
 ### CurrentDefaultValue
 
 • **CurrentDefaultValue**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:64902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64902)
 
 ___
 
@@ -114,19 +94,11 @@ ___
 
 • **DefaultValue**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:64888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64888)
-
 ___
 
 ### FriendlyName
 
 • **FriendlyName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:64887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64887)
 
 ___
 
@@ -134,19 +106,11 @@ ___
 
 • **PinValueType**: [`EdGraphTerminalType`](ue_ue.EdGraphTerminalType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64892)
-
 ___
 
 ### SubCategory
 
 • **SubCategory**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:64890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64890)
 
 ___
 
@@ -154,19 +118,11 @@ ___
 
 • **SubCategoryObject**: [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`Object`](ue_ue.Object.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:64891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64891)
-
 ___
 
 ### ToolTip
 
 • **ToolTip**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:64903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64903)
 
 ___
 
@@ -174,19 +130,11 @@ ___
 
 • **VarGuid**: [`Guid`](ue_ue_s.Guid.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64886)
-
 ___
 
 ### VarName
 
 • **VarName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:64885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64885)
 
 ___
 
@@ -194,19 +142,11 @@ ___
 
 • `Private` **\_\_tid\_StructVariableDescription\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:64909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64909)
-
 ___
 
 ### bDontEditOnInstance
 
 • **bDontEditOnInstance**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64898)
 
 ___
 
@@ -214,19 +154,11 @@ ___
 
 • **bEnable3dWidget**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:64901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64901)
-
 ___
 
 ### bEnableMultiLineText
 
 • **bEnableMultiLineText**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64900)
 
 ___
 
@@ -234,19 +166,11 @@ ___
 
 • **bEnableSaveGame**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:64899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64899)
-
 ___
 
 ### bInvalidMember
 
 • **bInvalidMember**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64897)
 
 ___
 
@@ -254,29 +178,17 @@ ___
 
 • **bIsArray**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:64894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64894)
-
 ___
 
 ### bIsMap
 
 • **bIsMap**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:64896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64896)
-
 ___
 
 ### bIsSet
 
 • **bIsSet**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64895)
 
 ## Methods
 
@@ -292,10 +204,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64907)
-
 ___
 
 ### StaticStruct
@@ -305,7 +213,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:64908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64908)

@@ -82,19 +82,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:20859](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20859)
-
 ## Properties
 
 ### DebugName
 
 • **DebugName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:20867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20867)
 
 ___
 
@@ -102,19 +94,11 @@ ___
 
 • **LastUpdateFrameNumber**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20866)
-
 ___
 
 ### LocalToAlignedTrackingTransform
 
 • **LocalToAlignedTrackingTransform**: [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:20862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20862)
 
 ___
 
@@ -122,19 +106,11 @@ ___
 
 • **LocalToTrackingTransform**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:20861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20861)
-
 ___
 
 ### ObjectClassification
 
 • **ObjectClassification**: [`EARObjectClassification`](../enums/ue_ue.EARObjectClassification.md)
-
-#### Defined in
-
-[ue/ue.d.ts:20865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20865)
 
 ___
 
@@ -142,19 +118,11 @@ ___
 
 • **TrackingState**: [`EARTrackingState`](../enums/ue_ue.EARTrackingState.md)
 
-#### Defined in
-
-[ue/ue.d.ts:20863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20863)
-
 ___
 
 ### UnderlyingMesh
 
 • **UnderlyingMesh**: [`MRMeshComponent`](ue_ue.MRMeshComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:20864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20864)
 
 ___
 
@@ -162,19 +130,11 @@ ___
 
 • **UniqueId**: [`Guid`](ue_ue_s.Guid.md)
 
-#### Defined in
-
-[ue/ue.d.ts:20860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20860)
-
 ___
 
 ### \_\_tid\_ARTrackedGeometry\_\_
 
 • **\_\_tid\_ARTrackedGeometry\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:20881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20881)
 
 ___
 
@@ -185,10 +145,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -214,10 +170,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -238,10 +190,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -256,10 +204,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetDebugName
@@ -269,10 +213,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:20868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20868)
 
 ___
 
@@ -284,10 +224,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20869)
-
 ___
 
 ### GetLastUpdateTimestamp
@@ -297,10 +233,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20870)
 
 ___
 
@@ -312,10 +244,6 @@ ___
 
 [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:20871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20871)
-
 ___
 
 ### GetLocalToWorldTransform
@@ -325,10 +253,6 @@ ___
 #### Returns
 
 [`Transform`](ue_ue_s.Transform.md)
-
-#### Defined in
-
-[ue/ue.d.ts:20872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20872)
 
 ___
 
@@ -344,10 +268,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetObjectClassification
@@ -357,10 +277,6 @@ ___
 #### Returns
 
 [`EARObjectClassification`](../enums/ue_ue.EARObjectClassification.md)
-
-#### Defined in
-
-[ue/ue.d.ts:20873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20873)
 
 ___
 
@@ -376,10 +292,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetTrackingState
@@ -390,10 +302,6 @@ ___
 
 [`EARTrackingState`](../enums/ue_ue.EARTrackingState.md)
 
-#### Defined in
-
-[ue/ue.d.ts:20874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20874)
-
 ___
 
 ### GetUnderlyingMesh
@@ -403,10 +311,6 @@ ___
 #### Returns
 
 [`MRMeshComponent`](ue_ue.MRMeshComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:20875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20875)
 
 ___
 
@@ -422,10 +326,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### IsTracked
@@ -435,10 +335,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:20876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20876)
 
 ___
 
@@ -461,10 +357,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:20878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20878)
-
 ___
 
 ### Load
@@ -485,10 +377,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:20879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20879)
-
 ___
 
 ### StaticClass
@@ -502,7 +390,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:20877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20877)

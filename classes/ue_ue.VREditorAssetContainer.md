@@ -96,19 +96,11 @@
 
 [DataAsset](ue_ue.DataAsset.md).[constructor](ue_ue.DataAsset.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:65532](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65532)
-
 ## Properties
 
 ### AutoScaleSound
 
 • **AutoScaleSound**: [`SoundBase`](ue_ue.SoundBase.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65542](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65542)
 
 ___
 
@@ -116,19 +108,11 @@ ___
 
 • **ButtonPressSound**: [`SoundCue`](ue_ue.SoundCue.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65541](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65541)
-
 ___
 
 ### CylinderMesh
 
 • **CylinderMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65545)
 
 ___
 
@@ -136,19 +120,11 @@ ___
 
 • **DockableWindowCloseSound**: [`SoundBase`](ue_ue.SoundBase.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65533](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65533)
-
 ___
 
 ### DockableWindowDragSound
 
 • **DockableWindowDragSound**: [`SoundBase`](ue_ue.SoundBase.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65536](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65536)
 
 ___
 
@@ -156,19 +132,11 @@ ___
 
 • **DockableWindowDropSound**: [`SoundBase`](ue_ue.SoundBase.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65535)
-
 ___
 
 ### DockableWindowOpenSound
 
 • **DockableWindowOpenSound**: [`SoundBase`](ue_ue.SoundBase.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65534](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65534)
 
 ___
 
@@ -176,19 +144,11 @@ ___
 
 • **DockingButtonMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65562)
-
 ___
 
 ### DropFromContentBrowserSound
 
 • **DropFromContentBrowserSound**: [`SoundBase`](ue_ue.SoundBase.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65537)
 
 ___
 
@@ -196,19 +156,11 @@ ___
 
 • **GenericControllerMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65552)
-
 ___
 
 ### GenericHMDMesh
 
 • **GenericHMDMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65543](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65543)
 
 ___
 
@@ -216,19 +168,11 @@ ___
 
 • **GridMaterial**: [`MaterialInterface`](ue_ue.MaterialInterface.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65563)
-
 ___
 
 ### JointSphereMesh
 
 • **JointSphereMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65561)
 
 ___
 
@@ -236,19 +180,11 @@ ___
 
 • **LaserPointerEndMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65548)
-
 ___
 
 ### LaserPointerHoverMesh
 
 • **LaserPointerHoverMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65549](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65549)
 
 ___
 
@@ -256,19 +192,11 @@ ___
 
 • **LaserPointerMaterial**: [`MaterialInterface`](ue_ue.MaterialInterface.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65564)
-
 ___
 
 ### LaserPointerMesh
 
 • **LaserPointerMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65547)
 
 ___
 
@@ -276,19 +204,11 @@ ___
 
 • **LaserPointerStartMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65546)
-
 ___
 
 ### LaserPointerTranslucentMaterial
 
 • **LaserPointerTranslucentMaterial**: [`MaterialInterface`](ue_ue.MaterialInterface.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65565)
 
 ___
 
@@ -296,19 +216,11 @@ ___
 
 • **LineMaterial**: [`Material`](ue_ue.Material.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65573)
-
 ___
 
 ### LineSegmentCylinderMesh
 
 • **LineSegmentCylinderMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65560)
 
 ___
 
@@ -320,19 +232,11 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[NativeClass](ue_ue.DataAsset.md#nativeclass)
 
-#### Defined in
-
-[ue/ue.d.ts:724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L724)
-
 ___
 
 ### OculusControllerMaterial
 
 • **OculusControllerMaterial**: [`MaterialInterface`](ue_ue.MaterialInterface.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65569)
 
 ___
 
@@ -340,19 +244,11 @@ ___
 
 • **OculusControllerMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65551](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65551)
-
 ___
 
 ### PlaneMesh
 
 • **PlaneMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65544](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65544)
 
 ___
 
@@ -360,19 +256,11 @@ ___
 
 • **PointerCursorMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65559](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65559)
-
 ___
 
 ### RadialMenuCloseSound
 
 • **RadialMenuCloseSound**: [`SoundBase`](ue_ue.SoundBase.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65539)
 
 ___
 
@@ -380,19 +268,11 @@ ___
 
 • **RadialMenuMainMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65557)
-
 ___
 
 ### RadialMenuOpenSound
 
 • **RadialMenuOpenSound**: [`SoundBase`](ue_ue.SoundBase.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65538)
 
 ___
 
@@ -400,19 +280,11 @@ ___
 
 • **RadialMenuPointerMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65558](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65558)
-
 ___
 
 ### TeleportMaterial
 
 • **TeleportMaterial**: [`MaterialInterface`](ue_ue.MaterialInterface.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65570)
 
 ___
 
@@ -420,19 +292,11 @@ ___
 
 • **TeleportRootMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65553)
-
 ___
 
 ### TeleportSound
 
 • **TeleportSound**: [`SoundBase`](ue_ue.SoundBase.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65540)
 
 ___
 
@@ -440,19 +304,11 @@ ___
 
 • **TextFont**: [`Font`](ue_ue.Font.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65575)
-
 ___
 
 ### TextMaterial
 
 • **TextMaterial**: [`MaterialInterface`](ue_ue.MaterialInterface.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65567)
 
 ___
 
@@ -460,19 +316,11 @@ ___
 
 • **TranslucentTextMaterial**: [`MaterialInterface`](ue_ue.MaterialInterface.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65574)
-
 ___
 
 ### VivePreControllerMaterial
 
 • **VivePreControllerMaterial**: [`MaterialInterface`](ue_ue.MaterialInterface.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65568)
 
 ___
 
@@ -480,19 +328,11 @@ ___
 
 • **VivePreControllerMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65550](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65550)
-
 ___
 
 ### WindowCloseButtonMesh
 
 • **WindowCloseButtonMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65556)
 
 ___
 
@@ -500,19 +340,11 @@ ___
 
 • **WindowMaterial**: [`MaterialInterface`](ue_ue.MaterialInterface.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65571)
-
 ___
 
 ### WindowMesh
 
 • **WindowMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65554)
 
 ___
 
@@ -520,29 +352,17 @@ ___
 
 • **WindowSelectionBarMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65555)
-
 ___
 
 ### WindowTranslucentMaterial
 
 • **WindowTranslucentMaterial**: [`MaterialInterface`](ue_ue.MaterialInterface.md)
 
-#### Defined in
-
-[ue/ue.d.ts:65572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65572)
-
 ___
 
 ### WorldMovementPostProcessMaterial
 
 • **WorldMovementPostProcessMaterial**: [`Material`](ue_ue.Material.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65566)
 
 ___
 
@@ -554,10 +374,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[__tid_DataAsset__](ue_ue.DataAsset.md#__tid_dataasset__)
 
-#### Defined in
-
-[ue/ue.d.ts:729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L729)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -568,19 +384,11 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[__tid_Object__](ue_ue.DataAsset.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_VREditorAssetContainer\_\_
 
 • **\_\_tid\_VREditorAssetContainer\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:65580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65580)
 
 ## Methods
 
@@ -606,10 +414,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[CreateDefaultSubobject](ue_ue.DataAsset.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -630,10 +434,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[ExecuteUbergraph](ue_ue.DataAsset.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -647,10 +447,6 @@ ___
 #### Inherited from
 
 [DataAsset](ue_ue.DataAsset.md).[GetClass](ue_ue.DataAsset.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -666,10 +462,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[GetName](ue_ue.DataAsset.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -684,10 +476,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[GetOuter](ue_ue.DataAsset.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -701,10 +489,6 @@ ___
 #### Inherited from
 
 [DataAsset](ue_ue.DataAsset.md).[GetWorld](ue_ue.DataAsset.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -727,10 +511,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[Find](ue_ue.DataAsset.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:65577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65577)
-
 ___
 
 ### Load
@@ -751,10 +531,6 @@ ___
 
 [DataAsset](ue_ue.DataAsset.md).[Load](ue_ue.DataAsset.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:65578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65578)
-
 ___
 
 ### StaticClass
@@ -768,7 +544,3 @@ ___
 #### Overrides
 
 [DataAsset](ue_ue.DataAsset.md).[StaticClass](ue_ue.DataAsset.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:65576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65576)

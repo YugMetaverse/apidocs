@@ -20,19 +20,11 @@
 
 • **PRS\_Capturing** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:56784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56784)
-
 ___
 
 ### PRS\_Disabled
 
 • **PRS\_Disabled** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:56784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56784)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **PRS\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:56784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56784)
-
 ___
 
 ### PRS\_Replaying
 
 • **PRS\_Replaying** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:56784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56784)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:56784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56784)

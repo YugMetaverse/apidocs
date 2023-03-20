@@ -20,19 +20,11 @@
 
 • **FBXSceneNIM\_ComputeNormals** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33856)
-
 ___
 
 ### FBXSceneNIM\_ImportNormals
 
 • **FBXSceneNIM\_ImportNormals** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33856)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **FBXSceneNIM\_ImportNormalsAndTangents** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33856)
-
 ___
 
 ### FBXSceneNIM\_MAX
 
 • **FBXSceneNIM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33856)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33856)

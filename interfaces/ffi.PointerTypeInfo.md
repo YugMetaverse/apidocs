@@ -46,10 +46,6 @@
 
 [TypeInfo](ffi.TypeInfo.md).[constructor](ffi.TypeInfo.md#constructor)
 
-#### Defined in
-
-[ffi/index.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L13)
-
 ## Properties
 
 ### size
@@ -59,10 +55,6 @@
 #### Inherited from
 
 [TypeInfo](ffi.TypeInfo.md).[size](ffi.TypeInfo.md#size)
-
-#### Defined in
-
-[ffi/index.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L15)
 
 ## Methods
 
@@ -83,10 +75,6 @@
 #### Inherited from
 
 [TypeInfo](ffi.TypeInfo.md).[alloc](ffi.TypeInfo.md#alloc)
-
-#### Defined in
-
-[ffi/index.d.ts:17](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L17)
 
 ___
 
@@ -109,10 +97,6 @@ ___
 
 [TypeInfo](ffi.TypeInfo.md).[get](ffi.TypeInfo.md#get)
 
-#### Defined in
-
-[ffi/index.d.ts:23](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L23)
-
 ___
 
 ### read
@@ -134,10 +118,6 @@ ___
 
 [TypeInfo](ffi.TypeInfo.md).[read](ffi.TypeInfo.md#read)
 
-#### Defined in
-
-[ffi/index.d.ts:19](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L19)
-
 ___
 
 ### ref
@@ -153,10 +133,6 @@ ___
 #### Returns
 
 `Uint8Array`
-
-#### Defined in
-
-[ffi/index.d.ts:29](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L29)
 
 ___
 
@@ -180,10 +156,6 @@ ___
 
 [TypeInfo](ffi.TypeInfo.md).[set](ffi.TypeInfo.md#set)
 
-#### Defined in
-
-[ffi/index.d.ts:25](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L25)
-
 ___
 
 ### unref
@@ -199,10 +171,6 @@ ___
 #### Returns
 
 `any`
-
-#### Defined in
-
-[ffi/index.d.ts:30](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L30)
 
 ___
 
@@ -225,7 +193,3 @@ ___
 #### Inherited from
 
 [TypeInfo](ffi.TypeInfo.md).[write](ffi.TypeInfo.md#write)
-
-#### Defined in
-
-[ffi/index.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L21)

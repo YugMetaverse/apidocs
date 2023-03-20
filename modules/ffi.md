@@ -36,19 +36,11 @@
 
 Ƭ **AnyTypeInfo**: [`PrimitiveTypes`](ffi.md#primitivetypes) \| [`TypeInfo`](../interfaces/ffi.TypeInfo.md)
 
-#### Defined in
-
-[ffi/index.d.ts:33](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L33)
-
 ___
 
 ### PrimitiveTypes
 
 Ƭ **PrimitiveTypes**: ``"void"`` \| ``"uint8"`` \| ``"int8"`` \| ``"uint16"`` \| ``"int16"`` \| ``"uint32"`` \| ``"int32"`` \| ``"uint64"`` \| ``"int64"`` \| ``"float"`` \| ``"double"`` \| ``"pointer"`` \| ``"size_t"`` \| ``"cstring"``
-
-#### Defined in
-
-[ffi/index.d.ts:10](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L10)
 
 ## Functions
 
@@ -70,10 +62,6 @@ ___
 
 `Function`
 
-#### Defined in
-
-[ffi/index.d.ts:41](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L41)
-
 ▸ **binding**(`funcIndex`, `returnType`, `parameterTypes`, `fixArgNum?`): `Function`
 
 #### Parameters
@@ -88,10 +76,6 @@ ___
 #### Returns
 
 `Function`
-
-#### Defined in
-
-[ffi/index.d.ts:42](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L42)
 
 ___
 
@@ -109,10 +93,6 @@ ___
 
 [`PointerTypeInfo`](../interfaces/ffi.PointerTypeInfo.md)
 
-#### Defined in
-
-[ffi/index.d.ts:39](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L39)
-
 ___
 
 ### makeStruct
@@ -129,10 +109,6 @@ ___
 
 [`TypeInfo`](../interfaces/ffi.TypeInfo.md)
 
-#### Defined in
-
-[ffi/index.d.ts:37](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L37)
-
 ___
 
 ### typeInfo
@@ -148,7 +124,3 @@ ___
 #### Returns
 
 [`TypeInfo`](../interfaces/ffi.TypeInfo.md)
-
-#### Defined in
-
-[ffi/index.d.ts:35](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L35)

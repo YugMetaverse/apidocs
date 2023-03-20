@@ -61,10 +61,6 @@
 
 [ActorFactoryEmptyActor](ue_ue.ActorFactoryEmptyActor.md).[constructor](ue_ue.ActorFactoryEmptyActor.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:13741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13741)
-
 ## Properties
 
 ### DisplayName
@@ -74,10 +70,6 @@
 #### Inherited from
 
 [ActorFactoryEmptyActor](ue_ue.ActorFactoryEmptyActor.md).[DisplayName](ue_ue.ActorFactoryEmptyActor.md#displayname)
-
-#### Defined in
-
-[ue/ue.d.ts:13500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13500)
 
 ___
 
@@ -89,10 +81,6 @@ ___
 
 [ActorFactoryEmptyActor](ue_ue.ActorFactoryEmptyActor.md).[MenuPriority](ue_ue.ActorFactoryEmptyActor.md#menupriority)
 
-#### Defined in
-
-[ue/ue.d.ts:13501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13501)
-
 ___
 
 ### NewActorClass
@@ -102,10 +90,6 @@ ___
 #### Inherited from
 
 [ActorFactoryEmptyActor](ue_ue.ActorFactoryEmptyActor.md).[NewActorClass](ue_ue.ActorFactoryEmptyActor.md#newactorclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13503)
 
 ___
 
@@ -117,10 +101,6 @@ ___
 
 [ActorFactoryEmptyActor](ue_ue.ActorFactoryEmptyActor.md).[NewActorClassName](ue_ue.ActorFactoryEmptyActor.md#newactorclassname)
 
-#### Defined in
-
-[ue/ue.d.ts:13502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13502)
-
 ___
 
 ### SpawnPositionOffset
@@ -130,10 +110,6 @@ ___
 #### Inherited from
 
 [ActorFactoryEmptyActor](ue_ue.ActorFactoryEmptyActor.md).[SpawnPositionOffset](ue_ue.ActorFactoryEmptyActor.md#spawnpositionoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:13506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13506)
 
 ___
 
@@ -145,19 +121,11 @@ ___
 
 [ActorFactoryEmptyActor](ue_ue.ActorFactoryEmptyActor.md).[__tid_ActorFactoryEmptyActor__](ue_ue.ActorFactoryEmptyActor.md#__tid_actorfactoryemptyactor__)
 
-#### Defined in
-
-[ue/ue.d.ts:13674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13674)
-
 ___
 
 ### \_\_tid\_ActorFactoryPawn\_\_
 
 • **\_\_tid\_ActorFactoryPawn\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:13746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13746)
 
 ___
 
@@ -169,10 +137,6 @@ ___
 
 [ActorFactoryEmptyActor](ue_ue.ActorFactoryEmptyActor.md).[__tid_ActorFactory__](ue_ue.ActorFactoryEmptyActor.md#__tid_actorfactory__)
 
-#### Defined in
-
-[ue/ue.d.ts:13511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13511)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -182,10 +146,6 @@ ___
 #### Inherited from
 
 [ActorFactoryEmptyActor](ue_ue.ActorFactoryEmptyActor.md).[__tid_Object__](ue_ue.ActorFactoryEmptyActor.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -197,10 +157,6 @@ ___
 
 [ActorFactoryEmptyActor](ue_ue.ActorFactoryEmptyActor.md).[bShowInEditorQuickMenu](ue_ue.ActorFactoryEmptyActor.md#bshowineditorquickmenu)
 
-#### Defined in
-
-[ue/ue.d.ts:13504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13504)
-
 ___
 
 ### bUseSurfaceOrientation
@@ -211,10 +167,6 @@ ___
 
 [ActorFactoryEmptyActor](ue_ue.ActorFactoryEmptyActor.md).[bUseSurfaceOrientation](ue_ue.ActorFactoryEmptyActor.md#busesurfaceorientation)
 
-#### Defined in
-
-[ue/ue.d.ts:13505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13505)
-
 ___
 
 ### bVisualizeActor
@@ -224,10 +176,6 @@ ___
 #### Inherited from
 
 [ActorFactoryEmptyActor](ue_ue.ActorFactoryEmptyActor.md).[bVisualizeActor](ue_ue.ActorFactoryEmptyActor.md#bvisualizeactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13669)
 
 ## Methods
 
@@ -253,10 +201,6 @@ ___
 
 [ActorFactoryEmptyActor](ue_ue.ActorFactoryEmptyActor.md).[CreateDefaultSubobject](ue_ue.ActorFactoryEmptyActor.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -277,10 +221,6 @@ ___
 
 [ActorFactoryEmptyActor](ue_ue.ActorFactoryEmptyActor.md).[ExecuteUbergraph](ue_ue.ActorFactoryEmptyActor.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -294,10 +234,6 @@ ___
 #### Inherited from
 
 [ActorFactoryEmptyActor](ue_ue.ActorFactoryEmptyActor.md).[GetClass](ue_ue.ActorFactoryEmptyActor.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -313,10 +249,6 @@ ___
 
 [ActorFactoryEmptyActor](ue_ue.ActorFactoryEmptyActor.md).[GetName](ue_ue.ActorFactoryEmptyActor.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -331,10 +263,6 @@ ___
 
 [ActorFactoryEmptyActor](ue_ue.ActorFactoryEmptyActor.md).[GetOuter](ue_ue.ActorFactoryEmptyActor.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -348,10 +276,6 @@ ___
 #### Inherited from
 
 [ActorFactoryEmptyActor](ue_ue.ActorFactoryEmptyActor.md).[GetWorld](ue_ue.ActorFactoryEmptyActor.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -374,10 +298,6 @@ ___
 
 [ActorFactoryEmptyActor](ue_ue.ActorFactoryEmptyActor.md).[Find](ue_ue.ActorFactoryEmptyActor.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:13743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13743)
-
 ___
 
 ### Load
@@ -398,10 +318,6 @@ ___
 
 [ActorFactoryEmptyActor](ue_ue.ActorFactoryEmptyActor.md).[Load](ue_ue.ActorFactoryEmptyActor.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:13744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13744)
-
 ___
 
 ### StaticClass
@@ -415,7 +331,3 @@ ___
 #### Overrides
 
 [ActorFactoryEmptyActor](ue_ue.ActorFactoryEmptyActor.md).[StaticClass](ue_ue.ActorFactoryEmptyActor.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13742)

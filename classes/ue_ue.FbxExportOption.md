@@ -61,19 +61,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:35177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35177)
-
 ## Properties
 
 ### Collision
 
 • **Collision**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35183)
 
 ___
 
@@ -81,19 +73,11 @@ ___
 
 • **FbxExportCompatibility**: [`EFbxExportCompatibility`](../enums/ue_ue.EFbxExportCompatibility.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35178)
-
 ___
 
 ### LevelOfDetail
 
 • **LevelOfDetail**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35182)
 
 ___
 
@@ -101,29 +85,17 @@ ___
 
 • **MapSkeletalMotionToRoot**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35186)
-
 ___
 
 ### VertexColor
 
 • **VertexColor**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35181)
-
 ___
 
 ### \_\_tid\_FbxExportOption\_\_
 
 • **\_\_tid\_FbxExportOption\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35192)
 
 ___
 
@@ -135,19 +107,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bASCII
 
 • **bASCII**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35179)
 
 ___
 
@@ -155,19 +119,11 @@ ___
 
 • **bExportLocalTime**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35187)
-
 ___
 
 ### bExportMorphTargets
 
 • **bExportMorphTargets**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35184)
 
 ___
 
@@ -175,19 +131,11 @@ ___
 
 • **bExportPreviewMesh**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35185)
-
 ___
 
 ### bForceFrontXAxis
 
 • **bForceFrontXAxis**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35180)
 
 ## Methods
 
@@ -213,10 +161,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -237,10 +181,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -254,10 +194,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -273,10 +209,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -291,10 +223,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -308,10 +236,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -334,10 +258,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:35189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35189)
-
 ___
 
 ### Load
@@ -358,10 +278,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:35190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35190)
-
 ___
 
 ### StaticClass
@@ -375,7 +291,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:35188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35188)

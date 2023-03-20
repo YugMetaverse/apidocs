@@ -57,19 +57,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:33046](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33046)
-
 ## Properties
 
 ### \_\_tid\_EditorLevelUtils\_\_
 
 • **\_\_tid\_EditorLevelUtils\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33057)
 
 ___
 
@@ -80,10 +72,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -109,10 +97,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -133,10 +117,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -150,10 +130,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -169,10 +145,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -187,10 +159,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -204,10 +172,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -226,10 +190,6 @@ ___
 #### Returns
 
 [`LevelStreaming`](ue_ue.LevelStreaming.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33047)
 
 ___
 
@@ -252,10 +212,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:33054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33054)
-
 ___
 
 ### Load
@@ -276,10 +232,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:33055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33055)
-
 ___
 
 ### MakeLevelCurrent
@@ -295,10 +247,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:33048](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33048)
 
 ___
 
@@ -318,10 +266,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33049)
-
 ___
 
 ### MoveSelectedActorsToLevel
@@ -338,10 +282,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33050](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33050)
 
 ___
 
@@ -362,10 +302,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:33052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33052)
-
 ___
 
 ### SetLevelsVisibility
@@ -385,10 +321,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:33051](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33051)
-
 ___
 
 ### StaticClass
@@ -402,7 +334,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:33053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33053)

@@ -29,10 +29,6 @@
 
 • **new DComponentMaskParameter**()
 
-#### Defined in
-
-[ue/ue.d.ts:30454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30454)
-
 • **new DComponentMaskParameter**(`R`, `G`, `B`, `A`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `B` | `boolean` |
 | `A` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:30455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30455)
-
 ## Properties
 
 ### A
 
 • **A**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30459](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30459)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **B**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:30458](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30458)
-
 ___
 
 ### G
 
 • **G**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30457)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **R**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:30456](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30456)
-
 ___
 
 ### \_\_tid\_DComponentMaskParameter\_\_
 
 • `Private` **\_\_tid\_DComponentMaskParameter\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30465)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:30463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30463)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:30464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30464)

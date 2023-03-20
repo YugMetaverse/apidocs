@@ -23,19 +23,11 @@
 
 • **BPTYPE\_Const** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4085)
-
 ___
 
 ### BPTYPE\_FunctionLibrary
 
 • **BPTYPE\_FunctionLibrary** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4085)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **BPTYPE\_Interface** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4085)
-
 ___
 
 ### BPTYPE\_LevelScript
 
 • **BPTYPE\_LevelScript** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4085)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **BPTYPE\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4085)
-
 ___
 
 ### BPTYPE\_MacroLibrary
 
 • **BPTYPE\_MacroLibrary** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4085)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **BPTYPE\_Normal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:4085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4085)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:4085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4085)

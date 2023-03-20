@@ -20,19 +20,11 @@
 
 • **Chaos\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26499)
-
 ___
 
 ### Chaos\_Max
 
 • **Chaos\_Max** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26499)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Chaos\_Surface\_Volumetric** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26499)
-
 ___
 
 ### Chaos\_Volumetric
 
 • **Chaos\_Volumetric** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26499)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26499)

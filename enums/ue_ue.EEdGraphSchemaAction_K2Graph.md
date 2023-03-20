@@ -22,19 +22,11 @@
 
 • **Function** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33830)
-
 ___
 
 ### Graph
 
 • **Graph** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33830)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **Interface** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33830)
-
 ___
 
 ### MAX
 
 • **MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33830)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **Macro** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33830)
-
 ___
 
 ### Subgraph
 
 • **Subgraph** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33830)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33830)

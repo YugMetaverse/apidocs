@@ -27,10 +27,6 @@
 
 • **new ImportFactorySettingValues**()
 
-#### Defined in
-
-[ue/ue.d.ts:23007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23007)
-
 • **new ImportFactorySettingValues**(`SettingName`, `Value`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `SettingName` | `string` |
 | `Value` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:23008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23008)
-
 ## Properties
 
 ### SettingName
 
 • **SettingName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:23009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23009)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Value**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:23010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23010)
-
 ___
 
 ### \_\_tid\_ImportFactorySettingValues\_\_
 
 • `Private` **\_\_tid\_ImportFactorySettingValues\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:23016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23016)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23014)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:23015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23015)

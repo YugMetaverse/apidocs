@@ -27,10 +27,6 @@
 
 • **new AudioQualitySettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:22465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22465)
-
 • **new AudioQualitySettings**(`DisplayName`, `MaxChannels`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `DisplayName` | `string` |
 | `MaxChannels` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:22466](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22466)
-
 ## Properties
 
 ### DisplayName
 
 • **DisplayName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:22467](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22467)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **MaxChannels**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22468)
-
 ___
 
 ### \_\_tid\_AudioQualitySettings\_\_
 
 • `Private` **\_\_tid\_AudioQualitySettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22474)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22472](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22472)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22473](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22473)

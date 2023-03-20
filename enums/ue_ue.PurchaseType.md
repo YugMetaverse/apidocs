@@ -20,19 +20,11 @@
 
 • **Consumable** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:38987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38987)
-
 ___
 
 ### Nonconsumable
 
 • **Nonconsumable** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:38987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38987)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **PurchaseType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:38987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38987)
-
 ___
 
 ### Undefined
 
 • **Undefined** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:38987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38987)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:38987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38987)

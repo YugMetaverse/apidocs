@@ -33,10 +33,6 @@
 
 • **new MovieSceneEvaluationTemplate**()
 
-#### Defined in
-
-[ue/ue.d.ts:11474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11474)
-
 • **new MovieSceneEvaluationTemplate**(`Tracks`, `EvaluationField`, `Hierarchy`, `SequenceSignature`, `TemplateSerialNumber`, `TemplateLedger`, `TrackFieldData`, `SubSectionFieldData`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `TrackFieldData` | [`MovieSceneTrackFieldData`](ue_ue.MovieSceneTrackFieldData.md) |
 | `SubSectionFieldData` | [`MovieSceneSubSectionFieldData`](ue_ue.MovieSceneSubSectionFieldData.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:11475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11475)
-
 ## Properties
 
 ### EvaluationField
 
 • **EvaluationField**: [`MovieSceneEvaluationField`](ue_ue.MovieSceneEvaluationField.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11477)
 
 ___
 
@@ -72,19 +60,11 @@ ___
 
 • **Hierarchy**: [`MovieSceneSequenceHierarchy`](ue_ue.MovieSceneSequenceHierarchy.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11478)
-
 ___
 
 ### SequenceSignature
 
 • **SequenceSignature**: [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11479)
 
 ___
 
@@ -92,19 +72,11 @@ ___
 
 • **SubSectionFieldData**: [`MovieSceneSubSectionFieldData`](ue_ue.MovieSceneSubSectionFieldData.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11483)
-
 ___
 
 ### TemplateLedger
 
 • **TemplateLedger**: [`MovieSceneTemplateGenerationLedger`](ue_ue.MovieSceneTemplateGenerationLedger.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11481)
 
 ___
 
@@ -112,19 +84,11 @@ ___
 
 • **TemplateSerialNumber**: [`MovieSceneEvaluationTemplateSerialNumber`](ue_ue.MovieSceneEvaluationTemplateSerialNumber.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11480)
-
 ___
 
 ### TrackFieldData
 
 • **TrackFieldData**: [`MovieSceneTrackFieldData`](ue_ue.MovieSceneTrackFieldData.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11482)
 
 ___
 
@@ -132,19 +96,11 @@ ___
 
 • **Tracks**: [`TMap`](../interfaces/ue_puerts.TMap.md)<[`MovieSceneTrackIdentifier`](ue_ue.MovieSceneTrackIdentifier.md), [`MovieSceneEvaluationTrack`](ue_ue.MovieSceneEvaluationTrack.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:11476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11476)
-
 ___
 
 ### \_\_tid\_MovieSceneEvaluationTemplate\_\_
 
 • `Private` **\_\_tid\_MovieSceneEvaluationTemplate\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11489)
 
 ## Methods
 
@@ -160,10 +116,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11487)
-
 ___
 
 ### StaticStruct
@@ -173,7 +125,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11488)

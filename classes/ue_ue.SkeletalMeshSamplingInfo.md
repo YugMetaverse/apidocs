@@ -27,10 +27,6 @@
 
 • **new SkeletalMeshSamplingInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:4045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4045)
-
 • **new SkeletalMeshSamplingInfo**(`Regions`, `BuiltData`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Regions` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SkeletalMeshSamplingRegion`](ue_ue.SkeletalMeshSamplingRegion.md)\> |
 | `BuiltData` | [`SkeletalMeshSamplingBuiltData`](ue_ue.SkeletalMeshSamplingBuiltData.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:4046](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4046)
-
 ## Properties
 
 ### BuiltData
 
 • **BuiltData**: [`SkeletalMeshSamplingBuiltData`](ue_ue.SkeletalMeshSamplingBuiltData.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4048](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4048)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Regions**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SkeletalMeshSamplingRegion`](ue_ue.SkeletalMeshSamplingRegion.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:4047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4047)
-
 ___
 
 ### \_\_tid\_SkeletalMeshSamplingInfo\_\_
 
 • `Private` **\_\_tid\_SkeletalMeshSamplingInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4054)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4052)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4053)

@@ -36,10 +36,6 @@
 
 • **new MovementProperties**()
 
-#### Defined in
-
-[ue/ue.d.ts:5434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5434)
-
 • **new MovementProperties**(`bCanCrouch`, `bCanJump`, `bCanWalk`, `bCanSwim`, `bCanFly`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `bCanSwim` | `boolean` |
 | `bCanFly` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:5435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5435)
-
 ## Properties
 
 ### \_\_tid\_MovementProperties\_\_
 
 • `Private` **\_\_tid\_MovementProperties\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5446)
 
 ___
 
@@ -72,19 +60,11 @@ ___
 
 • **bCanCrouch**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5436)
-
 ___
 
 ### bCanFly
 
 • **bCanFly**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5440)
 
 ___
 
@@ -92,29 +72,17 @@ ___
 
 • **bCanJump**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5437)
-
 ___
 
 ### bCanSwim
 
 • **bCanSwim**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5439)
-
 ___
 
 ### bCanWalk
 
 • **bCanWalk**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5438)
 
 ## Methods
 
@@ -130,10 +98,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5444](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5444)
-
 ___
 
 ### StaticStruct
@@ -143,7 +107,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5445](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5445)

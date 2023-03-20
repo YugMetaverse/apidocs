@@ -20,19 +20,11 @@
 
 • **AlwaysNormalize** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19180)
-
 ___
 
 ### ERBFNormalizeMethod\_MAX
 
 • **ERBFNormalizeMethod\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19180)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **NormalizeWithinMedian** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19180)
-
 ___
 
 ### OnlyNormalizeAboveOne
 
 • **OnlyNormalizeAboveOne** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19180)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19180)

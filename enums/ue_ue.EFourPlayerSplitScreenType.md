@@ -20,19 +20,11 @@
 
 • **EFourPlayerSplitScreenType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33872)
-
 ___
 
 ### Grid
 
 • **Grid** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33872)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Horizontal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33872)
-
 ___
 
 ### Vertical
 
 • **Vertical** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33872)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33872)

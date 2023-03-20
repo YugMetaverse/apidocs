@@ -34,10 +34,6 @@
 
 • **new RawDistribution**()
 
-#### Defined in
-
-[ue/ue.d.ts:6779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6779)
-
 • **new RawDistribution**(`Table`)
 
 #### Parameters
@@ -46,29 +42,17 @@
 | :------ | :------ |
 | `Table` | [`DistributionLookupTable`](ue_ue.DistributionLookupTable.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:6780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6780)
-
 ## Properties
 
 ### Table
 
 • **Table**: [`DistributionLookupTable`](ue_ue.DistributionLookupTable.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6781)
-
 ___
 
 ### \_\_tid\_RawDistribution\_\_
 
 • `Private` **\_\_tid\_RawDistribution\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6787)
 
 ## Methods
 
@@ -84,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6785](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6785)
-
 ___
 
 ### StaticStruct
@@ -97,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6786)

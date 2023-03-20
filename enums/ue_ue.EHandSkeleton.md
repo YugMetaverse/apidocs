@@ -19,19 +19,11 @@
 
 • **VR\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19727)
-
 ___
 
 ### VR\_SteamVRHandSkeleton
 
 • **VR\_SteamVRHandSkeleton** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19727)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **VR\_UE4HandSkeleton** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19727)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19727)

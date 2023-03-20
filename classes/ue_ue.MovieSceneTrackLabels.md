@@ -26,10 +26,6 @@
 
 • **new MovieSceneTrackLabels**()
 
-#### Defined in
-
-[ue/ue.d.ts:11634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11634)
-
 • **new MovieSceneTrackLabels**(`Strings`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Strings` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:11635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11635)
-
 ## Properties
 
 ### Strings
 
 • **Strings**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:11636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11636)
-
 ___
 
 ### \_\_tid\_MovieSceneTrackLabels\_\_
 
 • `Private` **\_\_tid\_MovieSceneTrackLabels\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11642)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11640)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11641)

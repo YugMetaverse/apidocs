@@ -196,10 +196,6 @@
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[constructor](ue_ue.AxisGizmoHandleGroup.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:57778](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57778)
-
 ## Properties
 
 ### AssetUserData
@@ -209,10 +205,6 @@
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[AssetUserData](ue_ue.AxisGizmoHandleGroup.md#assetuserdata)
-
-#### Defined in
-
-[ue/ue.d.ts:291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L291)
 
 ___
 
@@ -224,10 +216,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[AttachChildren](ue_ue.AxisGizmoHandleGroup.md#attachchildren)
 
-#### Defined in
-
-[ue/ue.d.ts:12873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12873)
-
 ___
 
 ### AttachParent
@@ -237,10 +225,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[AttachParent](ue_ue.AxisGizmoHandleGroup.md#attachparent)
-
-#### Defined in
-
-[ue/ue.d.ts:12871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12871)
 
 ___
 
@@ -252,10 +236,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[AttachSocketName](ue_ue.AxisGizmoHandleGroup.md#attachsocketname)
 
-#### Defined in
-
-[ue/ue.d.ts:12872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12872)
-
 ___
 
 ### ClientAttachedChildren
@@ -265,10 +245,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[ClientAttachedChildren](ue_ue.AxisGizmoHandleGroup.md#clientattachedchildren)
-
-#### Defined in
-
-[ue/ue.d.ts:12874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12874)
 
 ___
 
@@ -280,10 +256,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[ComponentTags](ue_ue.AxisGizmoHandleGroup.md#componenttags)
 
-#### Defined in
-
-[ue/ue.d.ts:290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L290)
-
 ___
 
 ### ComponentVelocity
@@ -293,10 +265,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[ComponentVelocity](ue_ue.AxisGizmoHandleGroup.md#componentvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12878)
 
 ___
 
@@ -308,19 +276,11 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[CreationMethod](ue_ue.AxisGizmoHandleGroup.md#creationmethod)
 
-#### Defined in
-
-[ue/ue.d.ts:302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L302)
-
 ___
 
 ### DeltaRotationIndicatorMeshComponent
 
 • **DeltaRotationIndicatorMeshComponent**: [`GizmoHandleMeshComponent`](ue_ue.GizmoHandleMeshComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57783)
 
 ___
 
@@ -332,10 +292,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[DetailMode](ue_ue.AxisGizmoHandleGroup.md#detailmode)
 
-#### Defined in
-
-[ue/ue.d.ts:12893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12893)
-
 ___
 
 ### DragOperationComponent
@@ -346,19 +302,11 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[DragOperationComponent](ue_ue.AxisGizmoHandleGroup.md#dragoperationcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:14416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14416)
-
 ___
 
 ### FullRotationHandleMeshComponent
 
 • **FullRotationHandleMeshComponent**: [`GizmoHandleMeshComponent`](ue_ue.GizmoHandleMeshComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57780)
 
 ___
 
@@ -370,10 +318,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[GizmoMaterial](ue_ue.AxisGizmoHandleGroup.md#gizmomaterial)
 
-#### Defined in
-
-[ue/ue.d.ts:14412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14412)
-
 ___
 
 ### Handles
@@ -383,10 +327,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[Handles](ue_ue.AxisGizmoHandleGroup.md#handles)
-
-#### Defined in
-
-[ue/ue.d.ts:14414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14414)
 
 ___
 
@@ -398,10 +338,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[Mobility](ue_ue.AxisGizmoHandleGroup.md#mobility)
 
-#### Defined in
-
-[ue/ue.d.ts:12892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12892)
-
 ___
 
 ### OnComponentActivated
@@ -411,10 +347,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[OnComponentActivated](ue_ue.AxisGizmoHandleGroup.md#oncomponentactivated)
-
-#### Defined in
-
-[ue/ue.d.ts:303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L303)
 
 ___
 
@@ -426,10 +358,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[OnComponentDeactivated](ue_ue.AxisGizmoHandleGroup.md#oncomponentdeactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L304)
-
 ___
 
 ### OwningTransformGizmoActor
@@ -439,10 +367,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[OwningTransformGizmoActor](ue_ue.AxisGizmoHandleGroup.md#owningtransformgizmoactor)
-
-#### Defined in
-
-[ue/ue.d.ts:14415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14415)
 
 ___
 
@@ -454,10 +378,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[PhysicsVolume](ue_ue.AxisGizmoHandleGroup.md#physicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12870)
-
 ___
 
 ### PhysicsVolumeChangedDelegate
@@ -467,10 +387,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[PhysicsVolumeChangedDelegate](ue_ue.AxisGizmoHandleGroup.md#physicsvolumechangeddelegate)
-
-#### Defined in
-
-[ue/ue.d.ts:12894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12894)
 
 ___
 
@@ -482,10 +398,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[PrimaryComponentTick](ue_ue.AxisGizmoHandleGroup.md#primarycomponenttick)
 
-#### Defined in
-
-[ue/ue.d.ts:289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L289)
-
 ___
 
 ### RelativeLocation
@@ -495,10 +407,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[RelativeLocation](ue_ue.AxisGizmoHandleGroup.md#relativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12875)
 
 ___
 
@@ -510,10 +418,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[RelativeRotation](ue_ue.AxisGizmoHandleGroup.md#relativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12876)
-
 ___
 
 ### RelativeScale3D
@@ -524,19 +428,11 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[RelativeScale3D](ue_ue.AxisGizmoHandleGroup.md#relativescale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:12877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12877)
-
 ___
 
 ### RootDeltaRotationIndicatorComponent
 
 • **RootDeltaRotationIndicatorComponent**: [`SceneComponent`](ue_ue.SceneComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57784)
 
 ___
 
@@ -544,29 +440,17 @@ ___
 
 • **RootFullRotationHandleComponent**: [`SceneComponent`](ue_ue.SceneComponent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57779)
-
 ___
 
 ### RootStartRotationIdicatorComponent
 
 • **RootStartRotationIdicatorComponent**: [`SceneComponent`](ue_ue.SceneComponent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57782)
-
 ___
 
 ### StartRotationIndicatorMeshComponent
 
 • **StartRotationIndicatorMeshComponent**: [`GizmoHandleMeshComponent`](ue_ue.GizmoHandleMeshComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57781)
 
 ___
 
@@ -578,10 +462,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[TranslucentGizmoMaterial](ue_ue.AxisGizmoHandleGroup.md#translucentgizmomaterial)
 
-#### Defined in
-
-[ue/ue.d.ts:14413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14413)
-
 ___
 
 ### UCSModifiedProperties
@@ -591,10 +471,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[UCSModifiedProperties](ue_ue.AxisGizmoHandleGroup.md#ucsmodifiedproperties)
-
-#### Defined in
-
-[ue/ue.d.ts:305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L305)
 
 ___
 
@@ -606,10 +482,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[__tid_ActorComponent__](ue_ue.AxisGizmoHandleGroup.md#__tid_actorcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L336)
-
 ___
 
 ### \_\_tid\_AxisGizmoHandleGroup\_\_
@@ -619,10 +491,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[__tid_AxisGizmoHandleGroup__](ue_ue.AxisGizmoHandleGroup.md#__tid_axisgizmohandlegroup__)
-
-#### Defined in
-
-[ue/ue.d.ts:23371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23371)
 
 ___
 
@@ -634,10 +502,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[__tid_GizmoHandleGroup__](ue_ue.AxisGizmoHandleGroup.md#__tid_gizmohandlegroup__)
 
-#### Defined in
-
-[ue/ue.d.ts:14421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14421)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -648,19 +512,11 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[__tid_Object__](ue_ue.AxisGizmoHandleGroup.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PivotRotationGizmoHandleGroup\_\_
 
 • **\_\_tid\_PivotRotationGizmoHandleGroup\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57789)
 
 ___
 
@@ -672,10 +528,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[__tid_SceneComponent__](ue_ue.AxisGizmoHandleGroup.md#__tid_scenecomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:12961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12961)
-
 ___
 
 ### bAbsoluteLocation
@@ -685,10 +537,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[bAbsoluteLocation](ue_ue.AxisGizmoHandleGroup.md#babsolutelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12880)
 
 ___
 
@@ -700,10 +548,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[bAbsoluteRotation](ue_ue.AxisGizmoHandleGroup.md#babsoluterotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12881)
-
 ___
 
 ### bAbsoluteScale
@@ -713,10 +557,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[bAbsoluteScale](ue_ue.AxisGizmoHandleGroup.md#babsolutescale)
-
-#### Defined in
-
-[ue/ue.d.ts:12882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12882)
 
 ___
 
@@ -728,10 +568,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[bAutoActivate](ue_ue.AxisGizmoHandleGroup.md#bautoactivate)
 
-#### Defined in
-
-[ue/ue.d.ts:296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L296)
-
 ___
 
 ### bBoundsChangeTriggersStreamingDataRebuild
@@ -741,10 +577,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[bBoundsChangeTriggersStreamingDataRebuild](ue_ue.AxisGizmoHandleGroup.md#bboundschangetriggersstreamingdatarebuild)
-
-#### Defined in
-
-[ue/ue.d.ts:12889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12889)
 
 ___
 
@@ -756,10 +588,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[bCanEverAffectNavigation](ue_ue.AxisGizmoHandleGroup.md#bcaneveraffectnavigation)
 
-#### Defined in
-
-[ue/ue.d.ts:299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L299)
-
 ___
 
 ### bComponentToWorldUpdated
@@ -769,10 +597,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[bComponentToWorldUpdated](ue_ue.AxisGizmoHandleGroup.md#bcomponenttoworldupdated)
-
-#### Defined in
-
-[ue/ue.d.ts:12879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12879)
 
 ___
 
@@ -784,10 +608,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[bCreatedByConstructionScript](ue_ue.AxisGizmoHandleGroup.md#bcreatedbyconstructionscript)
 
-#### Defined in
-
-[ue/ue.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L294)
-
 ___
 
 ### bEditableWhenInherited
@@ -797,10 +617,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[bEditableWhenInherited](ue_ue.AxisGizmoHandleGroup.md#beditablewheninherited)
-
-#### Defined in
-
-[ue/ue.d.ts:298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L298)
 
 ___
 
@@ -812,10 +628,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[bHiddenInGame](ue_ue.AxisGizmoHandleGroup.md#bhiddeningame)
 
-#### Defined in
-
-[ue/ue.d.ts:12884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12884)
-
 ___
 
 ### bInstanceComponent
@@ -825,10 +637,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[bInstanceComponent](ue_ue.AxisGizmoHandleGroup.md#binstancecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L295)
 
 ___
 
@@ -840,10 +648,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[bIsActive](ue_ue.AxisGizmoHandleGroup.md#bisactive)
 
-#### Defined in
-
-[ue/ue.d.ts:297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L297)
-
 ___
 
 ### bIsEditorOnly
@@ -853,10 +657,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[bIsEditorOnly](ue_ue.AxisGizmoHandleGroup.md#biseditoronly)
-
-#### Defined in
-
-[ue/ue.d.ts:300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L300)
 
 ___
 
@@ -868,10 +668,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[bIsVisualizationComponent](ue_ue.AxisGizmoHandleGroup.md#bisvisualizationcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L301)
-
 ___
 
 ### bNetAddressable
@@ -881,10 +677,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[bNetAddressable](ue_ue.AxisGizmoHandleGroup.md#bnetaddressable)
-
-#### Defined in
-
-[ue/ue.d.ts:293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L293)
 
 ___
 
@@ -896,10 +688,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[bReplicates](ue_ue.AxisGizmoHandleGroup.md#breplicates)
 
-#### Defined in
-
-[ue/ue.d.ts:292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L292)
-
 ___
 
 ### bShouldBeAttached
@@ -909,10 +697,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[bShouldBeAttached](ue_ue.AxisGizmoHandleGroup.md#bshouldbeattached)
-
-#### Defined in
-
-[ue/ue.d.ts:12885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12885)
 
 ___
 
@@ -924,10 +708,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[bShouldSnapLocationWhenAttached](ue_ue.AxisGizmoHandleGroup.md#bshouldsnaplocationwhenattached)
 
-#### Defined in
-
-[ue/ue.d.ts:12886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12886)
-
 ___
 
 ### bShouldSnapRotationWhenAttached
@@ -937,10 +717,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[bShouldSnapRotationWhenAttached](ue_ue.AxisGizmoHandleGroup.md#bshouldsnaprotationwhenattached)
-
-#### Defined in
-
-[ue/ue.d.ts:12887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12887)
 
 ___
 
@@ -952,10 +728,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[bShouldUpdatePhysicsVolume](ue_ue.AxisGizmoHandleGroup.md#bshouldupdatephysicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12888)
-
 ___
 
 ### bUseAttachParentBound
@@ -965,10 +737,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[bUseAttachParentBound](ue_ue.AxisGizmoHandleGroup.md#buseattachparentbound)
-
-#### Defined in
-
-[ue/ue.d.ts:12890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12890)
 
 ___
 
@@ -980,10 +748,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[bVisible](ue_ue.AxisGizmoHandleGroup.md#bvisible)
 
-#### Defined in
-
-[ue/ue.d.ts:12883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12883)
-
 ___
 
 ### bVisualizeComponent
@@ -993,10 +757,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[bVisualizeComponent](ue_ue.AxisGizmoHandleGroup.md#bvisualizecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12891)
 
 ## Methods
 
@@ -1018,10 +778,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[Activate](ue_ue.AxisGizmoHandleGroup.md#activate)
 
-#### Defined in
-
-[ue/ue.d.ts:306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L306)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -1041,10 +797,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[AddTickPrerequisiteActor](ue_ue.AxisGizmoHandleGroup.md#addtickprerequisiteactor)
-
-#### Defined in
-
-[ue/ue.d.ts:307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L307)
 
 ___
 
@@ -1066,10 +818,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[AddTickPrerequisiteComponent](ue_ue.AxisGizmoHandleGroup.md#addtickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L308)
-
 ___
 
 ### ComponentHasTag
@@ -1089,10 +837,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[ComponentHasTag](ue_ue.AxisGizmoHandleGroup.md#componenthastag)
-
-#### Defined in
-
-[ue/ue.d.ts:309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L309)
 
 ___
 
@@ -1118,10 +862,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[CreateDefaultSubobject](ue_ue.AxisGizmoHandleGroup.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### Deactivate
@@ -1135,10 +875,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[Deactivate](ue_ue.AxisGizmoHandleGroup.md#deactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L310)
 
 ___
 
@@ -1161,10 +897,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[DetachFromParent](ue_ue.AxisGizmoHandleGroup.md#detachfromparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12895)
-
 ___
 
 ### DoesSocketExist
@@ -1184,10 +916,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[DoesSocketExist](ue_ue.AxisGizmoHandleGroup.md#doessocketexist)
-
-#### Defined in
-
-[ue/ue.d.ts:12896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12896)
 
 ___
 
@@ -1209,10 +937,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[ExecuteUbergraph](ue_ue.AxisGizmoHandleGroup.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetAllSocketNames
@@ -1226,10 +950,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[GetAllSocketNames](ue_ue.AxisGizmoHandleGroup.md#getallsocketnames)
-
-#### Defined in
-
-[ue/ue.d.ts:12897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12897)
 
 ___
 
@@ -1245,10 +965,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[GetAttachParent](ue_ue.AxisGizmoHandleGroup.md#getattachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12898)
-
 ___
 
 ### GetAttachSocketName
@@ -1262,10 +978,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[GetAttachSocketName](ue_ue.AxisGizmoHandleGroup.md#getattachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12899)
 
 ___
 
@@ -1286,10 +998,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[GetChildComponent](ue_ue.AxisGizmoHandleGroup.md#getchildcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12900)
 
 ___
 
@@ -1312,10 +1020,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[GetChildrenComponents](ue_ue.AxisGizmoHandleGroup.md#getchildrencomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12901)
-
 ___
 
 ### GetClass
@@ -1329,10 +1033,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[GetClass](ue_ue.AxisGizmoHandleGroup.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -1348,10 +1048,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[GetComponentTickInterval](ue_ue.AxisGizmoHandleGroup.md#getcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L311)
-
 ___
 
 ### GetComponentVelocity
@@ -1365,10 +1061,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[GetComponentVelocity](ue_ue.AxisGizmoHandleGroup.md#getcomponentvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12902)
 
 ___
 
@@ -1384,10 +1076,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[GetForwardVector](ue_ue.AxisGizmoHandleGroup.md#getforwardvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12903)
-
 ___
 
 ### GetName
@@ -1401,10 +1089,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[GetName](ue_ue.AxisGizmoHandleGroup.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -1420,10 +1104,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[GetNumChildrenComponents](ue_ue.AxisGizmoHandleGroup.md#getnumchildrencomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12904)
-
 ___
 
 ### GetOuter
@@ -1438,10 +1118,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[GetOuter](ue_ue.AxisGizmoHandleGroup.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetOwner
@@ -1455,10 +1131,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[GetOwner](ue_ue.AxisGizmoHandleGroup.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L312)
 
 ___
 
@@ -1480,10 +1152,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[GetParentComponents](ue_ue.AxisGizmoHandleGroup.md#getparentcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12905)
-
 ___
 
 ### GetPhysicsVolume
@@ -1497,10 +1165,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[GetPhysicsVolume](ue_ue.AxisGizmoHandleGroup.md#getphysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12906)
 
 ___
 
@@ -1516,10 +1180,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[GetRelativeTransform](ue_ue.AxisGizmoHandleGroup.md#getrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12907)
-
 ___
 
 ### GetRightVector
@@ -1534,10 +1194,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[GetRightVector](ue_ue.AxisGizmoHandleGroup.md#getrightvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12908)
-
 ___
 
 ### GetShouldUpdatePhysicsVolume
@@ -1551,10 +1207,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[GetShouldUpdatePhysicsVolume](ue_ue.AxisGizmoHandleGroup.md#getshouldupdatephysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12909)
 
 ___
 
@@ -1576,10 +1228,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[GetSocketLocation](ue_ue.AxisGizmoHandleGroup.md#getsocketlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12910)
-
 ___
 
 ### GetSocketQuaternion
@@ -1600,10 +1248,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[GetSocketQuaternion](ue_ue.AxisGizmoHandleGroup.md#getsocketquaternion)
 
-#### Defined in
-
-[ue/ue.d.ts:12911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12911)
-
 ___
 
 ### GetSocketRotation
@@ -1623,10 +1267,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[GetSocketRotation](ue_ue.AxisGizmoHandleGroup.md#getsocketrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12912)
 
 ___
 
@@ -1649,10 +1289,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[GetSocketTransform](ue_ue.AxisGizmoHandleGroup.md#getsockettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12913)
-
 ___
 
 ### GetUpVector
@@ -1666,10 +1302,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[GetUpVector](ue_ue.AxisGizmoHandleGroup.md#getupvector)
-
-#### Defined in
-
-[ue/ue.d.ts:12914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12914)
 
 ___
 
@@ -1685,10 +1317,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[GetWorld](ue_ue.AxisGizmoHandleGroup.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### IsActive
@@ -1702,10 +1330,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[IsActive](ue_ue.AxisGizmoHandleGroup.md#isactive)
-
-#### Defined in
-
-[ue/ue.d.ts:313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L313)
 
 ___
 
@@ -1721,10 +1345,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[IsAnySimulatingPhysics](ue_ue.AxisGizmoHandleGroup.md#isanysimulatingphysics)
 
-#### Defined in
-
-[ue/ue.d.ts:12915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12915)
-
 ___
 
 ### IsBeingDestroyed
@@ -1739,10 +1359,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[IsBeingDestroyed](ue_ue.AxisGizmoHandleGroup.md#isbeingdestroyed)
 
-#### Defined in
-
-[ue/ue.d.ts:314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L314)
-
 ___
 
 ### IsComponentTickEnabled
@@ -1756,10 +1372,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[IsComponentTickEnabled](ue_ue.AxisGizmoHandleGroup.md#iscomponenttickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L315)
 
 ___
 
@@ -1781,10 +1393,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[IsSimulatingPhysics](ue_ue.AxisGizmoHandleGroup.md#issimulatingphysics)
 
-#### Defined in
-
-[ue/ue.d.ts:12916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12916)
-
 ___
 
 ### IsVisible
@@ -1798,10 +1406,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[IsVisible](ue_ue.AxisGizmoHandleGroup.md#isvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:12917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12917)
 
 ___
 
@@ -1826,10 +1430,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[K2_AddLocalOffset](ue_ue.AxisGizmoHandleGroup.md#k2_addlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:12918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12918)
-
 ___
 
 ### K2\_AddLocalRotation
@@ -1852,10 +1452,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[K2_AddLocalRotation](ue_ue.AxisGizmoHandleGroup.md#k2_addlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12919)
 
 ___
 
@@ -1880,10 +1476,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[K2_AddLocalTransform](ue_ue.AxisGizmoHandleGroup.md#k2_addlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12920)
-
 ___
 
 ### K2\_AddRelativeLocation
@@ -1906,10 +1498,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[K2_AddRelativeLocation](ue_ue.AxisGizmoHandleGroup.md#k2_addrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12921)
 
 ___
 
@@ -1934,10 +1522,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[K2_AddRelativeRotation](ue_ue.AxisGizmoHandleGroup.md#k2_addrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12922)
-
 ___
 
 ### K2\_AddWorldOffset
@@ -1960,10 +1544,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[K2_AddWorldOffset](ue_ue.AxisGizmoHandleGroup.md#k2_addworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:12923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12923)
 
 ___
 
@@ -1988,10 +1568,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[K2_AddWorldRotation](ue_ue.AxisGizmoHandleGroup.md#k2_addworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12924)
-
 ___
 
 ### K2\_AddWorldTransform
@@ -2015,10 +1591,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[K2_AddWorldTransform](ue_ue.AxisGizmoHandleGroup.md#k2_addworldtransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12925)
-
 ___
 
 ### K2\_AttachTo
@@ -2041,10 +1613,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[K2_AttachTo](ue_ue.AxisGizmoHandleGroup.md#k2_attachto)
-
-#### Defined in
-
-[ue/ue.d.ts:12926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12926)
 
 ___
 
@@ -2071,10 +1639,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[K2_AttachToComponent](ue_ue.AxisGizmoHandleGroup.md#k2_attachtocomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12927)
-
 ___
 
 ### K2\_DestroyComponent
@@ -2094,10 +1658,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[K2_DestroyComponent](ue_ue.AxisGizmoHandleGroup.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L316)
 
 ___
 
@@ -2122,10 +1682,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[K2_DetachFromComponent](ue_ue.AxisGizmoHandleGroup.md#k2_detachfromcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12928)
-
 ___
 
 ### K2\_GetComponentLocation
@@ -2139,10 +1695,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[K2_GetComponentLocation](ue_ue.AxisGizmoHandleGroup.md#k2_getcomponentlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12929)
 
 ___
 
@@ -2158,10 +1710,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[K2_GetComponentRotation](ue_ue.AxisGizmoHandleGroup.md#k2_getcomponentrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12930)
-
 ___
 
 ### K2\_GetComponentScale
@@ -2176,10 +1724,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[K2_GetComponentScale](ue_ue.AxisGizmoHandleGroup.md#k2_getcomponentscale)
 
-#### Defined in
-
-[ue/ue.d.ts:12931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12931)
-
 ___
 
 ### K2\_GetComponentToWorld
@@ -2193,10 +1737,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[K2_GetComponentToWorld](ue_ue.AxisGizmoHandleGroup.md#k2_getcomponenttoworld)
-
-#### Defined in
-
-[ue/ue.d.ts:12932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12932)
 
 ___
 
@@ -2220,10 +1760,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[K2_SetRelativeLocation](ue_ue.AxisGizmoHandleGroup.md#k2_setrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12933)
 
 ___
 
@@ -2249,10 +1785,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[K2_SetRelativeLocationAndRotation](ue_ue.AxisGizmoHandleGroup.md#k2_setrelativelocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12934)
-
 ___
 
 ### K2\_SetRelativeRotation
@@ -2275,10 +1807,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[K2_SetRelativeRotation](ue_ue.AxisGizmoHandleGroup.md#k2_setrelativerotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12935)
 
 ___
 
@@ -2303,10 +1831,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[K2_SetRelativeTransform](ue_ue.AxisGizmoHandleGroup.md#k2_setrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12936)
-
 ___
 
 ### K2\_SetWorldLocation
@@ -2329,10 +1853,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[K2_SetWorldLocation](ue_ue.AxisGizmoHandleGroup.md#k2_setworldlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12937)
 
 ___
 
@@ -2358,10 +1878,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[K2_SetWorldLocationAndRotation](ue_ue.AxisGizmoHandleGroup.md#k2_setworldlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12938)
-
 ___
 
 ### K2\_SetWorldRotation
@@ -2384,10 +1900,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[K2_SetWorldRotation](ue_ue.AxisGizmoHandleGroup.md#k2_setworldrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12939)
 
 ___
 
@@ -2412,10 +1924,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[K2_SetWorldTransform](ue_ue.AxisGizmoHandleGroup.md#k2_setworldtransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12940)
-
 ___
 
 ### OnRep\_AttachChildren
@@ -2429,10 +1937,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[OnRep_AttachChildren](ue_ue.AxisGizmoHandleGroup.md#onrep_attachchildren)
-
-#### Defined in
-
-[ue/ue.d.ts:12941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12941)
 
 ___
 
@@ -2448,10 +1952,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[OnRep_AttachParent](ue_ue.AxisGizmoHandleGroup.md#onrep_attachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12942)
-
 ___
 
 ### OnRep\_AttachSocketName
@@ -2465,10 +1965,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[OnRep_AttachSocketName](ue_ue.AxisGizmoHandleGroup.md#onrep_attachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12943)
 
 ___
 
@@ -2484,10 +1980,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[OnRep_IsActive](ue_ue.AxisGizmoHandleGroup.md#onrep_isactive)
 
-#### Defined in
-
-[ue/ue.d.ts:317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L317)
-
 ___
 
 ### OnRep\_Transform
@@ -2501,10 +1993,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[OnRep_Transform](ue_ue.AxisGizmoHandleGroup.md#onrep_transform)
-
-#### Defined in
-
-[ue/ue.d.ts:12944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12944)
 
 ___
 
@@ -2526,10 +2014,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[OnRep_Visibility](ue_ue.AxisGizmoHandleGroup.md#onrep_visibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12945)
-
 ___
 
 ### ReceiveBeginPlay
@@ -2543,10 +2027,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[ReceiveBeginPlay](ue_ue.AxisGizmoHandleGroup.md#receivebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L318)
 
 ___
 
@@ -2568,10 +2048,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[ReceiveEndPlay](ue_ue.AxisGizmoHandleGroup.md#receiveendplay)
 
-#### Defined in
-
-[ue/ue.d.ts:319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L319)
-
 ___
 
 ### ReceiveTick
@@ -2592,10 +2068,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[ReceiveTick](ue_ue.AxisGizmoHandleGroup.md#receivetick)
 
-#### Defined in
-
-[ue/ue.d.ts:320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L320)
-
 ___
 
 ### RegisterComponent
@@ -2609,10 +2081,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[RegisterComponent](ue_ue.AxisGizmoHandleGroup.md#registercomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L321)
 
 ___
 
@@ -2634,10 +2102,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[RemoveTickPrerequisiteActor](ue_ue.AxisGizmoHandleGroup.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -2658,10 +2122,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[RemoveTickPrerequisiteComponent](ue_ue.AxisGizmoHandleGroup.md#removetickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L323)
-
 ___
 
 ### ResetRelativeTransform
@@ -2675,10 +2135,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[ResetRelativeTransform](ue_ue.AxisGizmoHandleGroup.md#resetrelativetransform)
-
-#### Defined in
-
-[ue/ue.d.ts:12946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12946)
 
 ___
 
@@ -2702,10 +2158,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[SetAbsolute](ue_ue.AxisGizmoHandleGroup.md#setabsolute)
 
-#### Defined in
-
-[ue/ue.d.ts:12947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12947)
-
 ___
 
 ### SetActive
@@ -2727,10 +2179,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[SetActive](ue_ue.AxisGizmoHandleGroup.md#setactive)
 
-#### Defined in
-
-[ue/ue.d.ts:324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L324)
-
 ___
 
 ### SetAutoActivate
@@ -2750,10 +2198,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[SetAutoActivate](ue_ue.AxisGizmoHandleGroup.md#setautoactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L325)
 
 ___
 
@@ -2775,10 +2219,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[SetComponentTickEnabled](ue_ue.AxisGizmoHandleGroup.md#setcomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L326)
-
 ___
 
 ### SetComponentTickInterval
@@ -2798,10 +2238,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[SetComponentTickInterval](ue_ue.AxisGizmoHandleGroup.md#setcomponenttickinterval)
-
-#### Defined in
-
-[ue/ue.d.ts:327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L327)
 
 ___
 
@@ -2824,10 +2260,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[SetHiddenInGame](ue_ue.AxisGizmoHandleGroup.md#sethiddeningame)
 
-#### Defined in
-
-[ue/ue.d.ts:12948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12948)
-
 ___
 
 ### SetIsReplicated
@@ -2847,10 +2279,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[SetIsReplicated](ue_ue.AxisGizmoHandleGroup.md#setisreplicated)
-
-#### Defined in
-
-[ue/ue.d.ts:328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L328)
 
 ___
 
@@ -2872,10 +2300,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[SetMobility](ue_ue.AxisGizmoHandleGroup.md#setmobility)
 
-#### Defined in
-
-[ue/ue.d.ts:12949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12949)
-
 ___
 
 ### SetRelativeScale3D
@@ -2895,10 +2319,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[SetRelativeScale3D](ue_ue.AxisGizmoHandleGroup.md#setrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:12950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12950)
 
 ___
 
@@ -2920,10 +2340,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[SetShouldUpdatePhysicsVolume](ue_ue.AxisGizmoHandleGroup.md#setshouldupdatephysicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12951)
-
 ___
 
 ### SetTickGroup
@@ -2944,10 +2360,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[SetTickGroup](ue_ue.AxisGizmoHandleGroup.md#settickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L330)
-
 ___
 
 ### SetTickableWhenPaused
@@ -2967,10 +2379,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[SetTickableWhenPaused](ue_ue.AxisGizmoHandleGroup.md#settickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L329)
 
 ___
 
@@ -2993,10 +2401,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[SetVisibility](ue_ue.AxisGizmoHandleGroup.md#setvisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12953)
-
 ___
 
 ### SetWorldScale3D
@@ -3016,10 +2420,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[SetWorldScale3D](ue_ue.AxisGizmoHandleGroup.md#setworldscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:12954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12954)
 
 ___
 
@@ -3042,10 +2442,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[SetupAttachment](ue_ue.AxisGizmoHandleGroup.md#setupattachment)
 
-#### Defined in
-
-[ue/ue.d.ts:12952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12952)
-
 ___
 
 ### SnapTo
@@ -3067,10 +2463,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[SnapTo](ue_ue.AxisGizmoHandleGroup.md#snapto)
 
-#### Defined in
-
-[ue/ue.d.ts:12955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12955)
-
 ___
 
 ### ToggleActive
@@ -3084,10 +2476,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[ToggleActive](ue_ue.AxisGizmoHandleGroup.md#toggleactive)
-
-#### Defined in
-
-[ue/ue.d.ts:331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L331)
 
 ___
 
@@ -3108,10 +2496,6 @@ ___
 #### Inherited from
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[ToggleVisibility](ue_ue.AxisGizmoHandleGroup.md#togglevisibility)
-
-#### Defined in
-
-[ue/ue.d.ts:12956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12956)
 
 ___
 
@@ -3134,10 +2518,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[Find](ue_ue.AxisGizmoHandleGroup.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:57786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57786)
-
 ___
 
 ### Load
@@ -3158,10 +2538,6 @@ ___
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[Load](ue_ue.AxisGizmoHandleGroup.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:57787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57787)
-
 ___
 
 ### StaticClass
@@ -3175,7 +2551,3 @@ ___
 #### Overrides
 
 [AxisGizmoHandleGroup](ue_ue.AxisGizmoHandleGroup.md).[StaticClass](ue_ue.AxisGizmoHandleGroup.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:57785](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57785)

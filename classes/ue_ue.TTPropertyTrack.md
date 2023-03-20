@@ -44,10 +44,6 @@
 
 [TTTrackBase](ue_ue.TTTrackBase.md).[constructor](ue_ue.TTTrackBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:4222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4222)
-
 • **new TTPropertyTrack**(`PropertyName`)
 
 #### Parameters
@@ -60,19 +56,11 @@
 
 [TTTrackBase](ue_ue.TTTrackBase.md).[constructor](ue_ue.TTTrackBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:4223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4223)
-
 ## Properties
 
 ### PropertyName
 
 • **PropertyName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:4224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4224)
 
 ___
 
@@ -84,19 +72,11 @@ ___
 
 [TTTrackBase](ue_ue.TTTrackBase.md).[TrackName](ue_ue.TTTrackBase.md#trackname)
 
-#### Defined in
-
-[ue/ue.d.ts:4198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4198)
-
 ___
 
 ### \_\_tid\_TTPropertyTrack\_\_
 
 • `Private` **\_\_tid\_TTPropertyTrack\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4230)
 
 ___
 
@@ -107,10 +87,6 @@ ___
 #### Inherited from
 
 [TTTrackBase](ue_ue.TTTrackBase.md).[bIsExternalCurve](ue_ue.TTTrackBase.md#bisexternalcurve)
-
-#### Defined in
-
-[ue/ue.d.ts:4199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4199)
 
 ## Methods
 
@@ -130,10 +106,6 @@ use StaticStruct instead.
 
 [TTTrackBase](ue_ue.TTTrackBase.md).[StaticClass](ue_ue.TTTrackBase.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:4228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4228)
-
 ___
 
 ### StaticStruct
@@ -147,7 +119,3 @@ ___
 #### Overrides
 
 [TTTrackBase](ue_ue.TTTrackBase.md).[StaticStruct](ue_ue.TTTrackBase.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:4229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4229)

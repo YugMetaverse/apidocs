@@ -20,19 +20,11 @@
 
 • **Device** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33995)
-
 ___
 
 ### EMagicLeapControllerType\_MAX
 
 • **EMagicLeapControllerType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33995)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **MobileApp** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33995)
-
 ___
 
 ### None
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33995)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33995)

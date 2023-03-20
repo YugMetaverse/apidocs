@@ -164,10 +164,6 @@
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[constructor](ue_ue.PropertyViewBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:60641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60641)
-
 ## Properties
 
 ### AccessibleBehavior
@@ -177,10 +173,6 @@
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[AccessibleBehavior](ue_ue.PropertyViewBase.md#accessiblebehavior)
-
-#### Defined in
-
-[ue/ue.d.ts:10940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10940)
 
 ___
 
@@ -192,10 +184,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[AccessibleSummaryBehavior](ue_ue.PropertyViewBase.md#accessiblesummarybehavior)
 
-#### Defined in
-
-[ue/ue.d.ts:10941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10941)
-
 ___
 
 ### AccessibleSummaryText
@@ -205,10 +193,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[AccessibleSummaryText](ue_ue.PropertyViewBase.md#accessiblesummarytext)
-
-#### Defined in
-
-[ue/ue.d.ts:10944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10944)
 
 ___
 
@@ -220,10 +204,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[AccessibleSummaryTextDelegate](ue_ue.PropertyViewBase.md#accessiblesummarytextdelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10945)
-
 ___
 
 ### AccessibleText
@@ -233,10 +213,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[AccessibleText](ue_ue.PropertyViewBase.md#accessibletext)
-
-#### Defined in
-
-[ue/ue.d.ts:10942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10942)
 
 ___
 
@@ -248,10 +224,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[AccessibleTextDelegate](ue_ue.PropertyViewBase.md#accessibletextdelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10943)
-
 ___
 
 ### AccessibleWidgetData
@@ -261,10 +233,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[AccessibleWidgetData](ue_ue.PropertyViewBase.md#accessiblewidgetdata)
-
-#### Defined in
-
-[ue/ue.d.ts:10946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10946)
 
 ___
 
@@ -276,10 +244,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[CategoryName](ue_ue.PropertyViewBase.md#categoryname)
 
-#### Defined in
-
-[ue/ue.d.ts:10960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10960)
-
 ___
 
 ### Clipping
@@ -289,10 +253,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[Clipping](ue_ue.PropertyViewBase.md#clipping)
-
-#### Defined in
-
-[ue/ue.d.ts:10952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10952)
 
 ___
 
@@ -304,10 +264,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[Cursor](ue_ue.PropertyViewBase.md#cursor)
 
-#### Defined in
-
-[ue/ue.d.ts:10951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10951)
-
 ___
 
 ### DesignerFlags
@@ -317,10 +273,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[DesignerFlags](ue_ue.PropertyViewBase.md#designerflags)
-
-#### Defined in
-
-[ue/ue.d.ts:10958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10958)
 
 ___
 
@@ -332,10 +284,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[DisplayLabel](ue_ue.PropertyViewBase.md#displaylabel)
 
-#### Defined in
-
-[ue/ue.d.ts:10959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10959)
-
 ___
 
 ### FlowDirectionPreference
@@ -345,10 +293,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[FlowDirectionPreference](ue_ue.PropertyViewBase.md#flowdirectionpreference)
-
-#### Defined in
-
-[ue/ue.d.ts:10956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10956)
 
 ___
 
@@ -360,19 +304,11 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[LazyObject](ue_ue.PropertyViewBase.md#lazyobject)
 
-#### Defined in
-
-[ue/ue.d.ts:30717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30717)
-
 ___
 
 ### NameOverride
 
 • **NameOverride**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:60643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60643)
 
 ___
 
@@ -384,10 +320,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[NativeBindings](ue_ue.PropertyViewBase.md#nativebindings)
 
-#### Defined in
-
-[ue/ue.d.ts:10957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10957)
-
 ___
 
 ### Navigation
@@ -397,10 +329,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[Navigation](ue_ue.PropertyViewBase.md#navigation)
-
-#### Defined in
-
-[ue/ue.d.ts:10955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10955)
 
 ___
 
@@ -412,19 +340,11 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[OnPropertyChanged](ue_ue.PropertyViewBase.md#onpropertychanged)
 
-#### Defined in
-
-[ue/ue.d.ts:30720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30720)
-
 ___
 
 ### PropertyName
 
 • **PropertyName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:60642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60642)
 
 ___
 
@@ -436,10 +356,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[RenderOpacity](ue_ue.PropertyViewBase.md#renderopacity)
 
-#### Defined in
-
-[ue/ue.d.ts:10954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10954)
-
 ___
 
 ### RenderTransform
@@ -449,10 +365,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[RenderTransform](ue_ue.PropertyViewBase.md#rendertransform)
-
-#### Defined in
-
-[ue/ue.d.ts:10932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10932)
 
 ___
 
@@ -464,10 +376,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[RenderTransformPivot](ue_ue.PropertyViewBase.md#rendertransformpivot)
 
-#### Defined in
-
-[ue/ue.d.ts:10933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10933)
-
 ___
 
 ### Slot
@@ -477,10 +385,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[Slot](ue_ue.PropertyViewBase.md#slot)
-
-#### Defined in
-
-[ue/ue.d.ts:10925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10925)
 
 ___
 
@@ -492,10 +396,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[SoftObjectPath](ue_ue.PropertyViewBase.md#softobjectpath)
 
-#### Defined in
-
-[ue/ue.d.ts:30718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30718)
-
 ___
 
 ### ToolTipText
@@ -505,10 +405,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[ToolTipText](ue_ue.PropertyViewBase.md#tooltiptext)
-
-#### Defined in
-
-[ue/ue.d.ts:10927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10927)
 
 ___
 
@@ -520,10 +416,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[ToolTipTextDelegate](ue_ue.PropertyViewBase.md#tooltiptextdelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10928)
-
 ___
 
 ### ToolTipWidget
@@ -533,10 +425,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[ToolTipWidget](ue_ue.PropertyViewBase.md#tooltipwidget)
-
-#### Defined in
-
-[ue/ue.d.ts:10929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10929)
 
 ___
 
@@ -548,10 +436,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[ToolTipWidgetDelegate](ue_ue.PropertyViewBase.md#tooltipwidgetdelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10930)
-
 ___
 
 ### Visibility
@@ -561,10 +445,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[Visibility](ue_ue.PropertyViewBase.md#visibility)
-
-#### Defined in
-
-[ue/ue.d.ts:10953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10953)
 
 ___
 
@@ -576,10 +456,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[VisibilityDelegate](ue_ue.PropertyViewBase.md#visibilitydelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10931)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -589,10 +465,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[__tid_Object__](ue_ue.PropertyViewBase.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -604,19 +476,11 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[__tid_PropertyViewBase__](ue_ue.PropertyViewBase.md#__tid_propertyviewbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:30727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30727)
-
 ___
 
 ### \_\_tid\_SinglePropertyView\_\_
 
 • **\_\_tid\_SinglePropertyView\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:60650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60650)
 
 ___
 
@@ -628,10 +492,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[__tid_Visual__](ue_ue.PropertyViewBase.md#__tid_visual__)
 
-#### Defined in
-
-[ue/ue.d.ts:10673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10673)
-
 ___
 
 ### \_\_tid\_Widget\_\_
@@ -641,10 +501,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[__tid_Widget__](ue_ue.PropertyViewBase.md#__tid_widget__)
-
-#### Defined in
-
-[ue/ue.d.ts:11029](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11029)
 
 ___
 
@@ -656,10 +512,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[bAutoLoadAsset](ue_ue.PropertyViewBase.md#bautoloadasset)
 
-#### Defined in
-
-[ue/ue.d.ts:30719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30719)
-
 ___
 
 ### bCanChildrenBeAccessible
@@ -669,10 +521,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[bCanChildrenBeAccessible](ue_ue.PropertyViewBase.md#bcanchildrenbeaccessible)
-
-#### Defined in
-
-[ue/ue.d.ts:10939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10939)
 
 ___
 
@@ -684,10 +532,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[bCreatedByConstructionScript](ue_ue.PropertyViewBase.md#bcreatedbyconstructionscript)
 
-#### Defined in
-
-[ue/ue.d.ts:10935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10935)
-
 ___
 
 ### bExpandedInDesigner
@@ -697,10 +541,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[bExpandedInDesigner](ue_ue.PropertyViewBase.md#bexpandedindesigner)
-
-#### Defined in
-
-[ue/ue.d.ts:10949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10949)
 
 ___
 
@@ -712,10 +552,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[bHiddenInDesigner](ue_ue.PropertyViewBase.md#bhiddenindesigner)
 
-#### Defined in
-
-[ue/ue.d.ts:10948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10948)
-
 ___
 
 ### bIsEnabled
@@ -725,10 +561,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[bIsEnabled](ue_ue.PropertyViewBase.md#bisenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:10936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10936)
 
 ___
 
@@ -740,10 +572,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[bIsEnabledDelegate](ue_ue.PropertyViewBase.md#bisenableddelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10926)
-
 ___
 
 ### bIsVariable
@@ -753,10 +581,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[bIsVariable](ue_ue.PropertyViewBase.md#bisvariable)
-
-#### Defined in
-
-[ue/ue.d.ts:10934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10934)
 
 ___
 
@@ -768,10 +592,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[bIsVolatile](ue_ue.PropertyViewBase.md#bisvolatile)
 
-#### Defined in
-
-[ue/ue.d.ts:10947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10947)
-
 ___
 
 ### bLockedInDesigner
@@ -781,10 +601,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[bLockedInDesigner](ue_ue.PropertyViewBase.md#blockedindesigner)
-
-#### Defined in
-
-[ue/ue.d.ts:10950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10950)
 
 ___
 
@@ -796,10 +612,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[bOverrideAccessibleDefaults](ue_ue.PropertyViewBase.md#boverrideaccessibledefaults)
 
-#### Defined in
-
-[ue/ue.d.ts:10938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10938)
-
 ___
 
 ### bOverride\_Cursor
@@ -809,10 +621,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[bOverride_Cursor](ue_ue.PropertyViewBase.md#boverride_cursor)
-
-#### Defined in
-
-[ue/ue.d.ts:10937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10937)
 
 ## Methods
 
@@ -838,10 +646,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[CreateDefaultSubobject](ue_ue.PropertyViewBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -862,10 +666,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[ExecuteUbergraph](ue_ue.PropertyViewBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### ForceLayoutPrepass
@@ -879,10 +679,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[ForceLayoutPrepass](ue_ue.PropertyViewBase.md#forcelayoutprepass)
-
-#### Defined in
-
-[ue/ue.d.ts:10961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10961)
 
 ___
 
@@ -904,10 +700,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[ForceVolatile](ue_ue.PropertyViewBase.md#forcevolatile)
 
-#### Defined in
-
-[ue/ue.d.ts:10962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10962)
-
 ___
 
 ### GenerateWidgetForObject\_\_DelegateSignature
@@ -927,10 +719,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GenerateWidgetForObject__DelegateSignature](ue_ue.PropertyViewBase.md#generatewidgetforobject__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10963)
 
 ___
 
@@ -952,10 +740,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GenerateWidgetForString__DelegateSignature](ue_ue.PropertyViewBase.md#generatewidgetforstring__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10964](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10964)
-
 ___
 
 ### GetBool\_\_DelegateSignature
@@ -969,10 +753,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetBool__DelegateSignature](ue_ue.PropertyViewBase.md#getbool__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10965](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10965)
 
 ___
 
@@ -988,10 +768,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetCachedGeometry](ue_ue.PropertyViewBase.md#getcachedgeometry)
 
-#### Defined in
-
-[ue/ue.d.ts:10966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10966)
-
 ___
 
 ### GetCheckBoxState\_\_DelegateSignature
@@ -1005,10 +781,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetCheckBoxState__DelegateSignature](ue_ue.PropertyViewBase.md#getcheckboxstate__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10967)
 
 ___
 
@@ -1024,10 +796,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetClass](ue_ue.PropertyViewBase.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetClipping
@@ -1041,10 +809,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetClipping](ue_ue.PropertyViewBase.md#getclipping)
-
-#### Defined in
-
-[ue/ue.d.ts:10968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10968)
 
 ___
 
@@ -1060,10 +824,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetDesiredSize](ue_ue.PropertyViewBase.md#getdesiredsize)
 
-#### Defined in
-
-[ue/ue.d.ts:10969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10969)
-
 ___
 
 ### GetFloat\_\_DelegateSignature
@@ -1077,10 +837,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetFloat__DelegateSignature](ue_ue.PropertyViewBase.md#getfloat__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10970)
 
 ___
 
@@ -1096,10 +852,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetGameInstance](ue_ue.PropertyViewBase.md#getgameinstance)
 
-#### Defined in
-
-[ue/ue.d.ts:10971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10971)
-
 ___
 
 ### GetInt32\_\_DelegateSignature
@@ -1113,10 +865,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetInt32__DelegateSignature](ue_ue.PropertyViewBase.md#getint32__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10972)
 
 ___
 
@@ -1132,10 +880,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetIsEnabled](ue_ue.PropertyViewBase.md#getisenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:10973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10973)
-
 ___
 
 ### GetLinearColor\_\_DelegateSignature
@@ -1149,10 +893,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetLinearColor__DelegateSignature](ue_ue.PropertyViewBase.md#getlinearcolor__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10974)
 
 ___
 
@@ -1168,10 +908,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetMouseCursor__DelegateSignature](ue_ue.PropertyViewBase.md#getmousecursor__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10975](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10975)
-
 ___
 
 ### GetName
@@ -1185,10 +921,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetName](ue_ue.PropertyViewBase.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -1204,10 +936,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetObject](ue_ue.PropertyViewBase.md#getobject)
 
-#### Defined in
-
-[ue/ue.d.ts:30721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30721)
-
 ___
 
 ### GetOuter
@@ -1221,10 +949,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetOuter](ue_ue.PropertyViewBase.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -1240,10 +964,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetOwningLocalPlayer](ue_ue.PropertyViewBase.md#getowninglocalplayer)
 
-#### Defined in
-
-[ue/ue.d.ts:10976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10976)
-
 ___
 
 ### GetOwningPlayer
@@ -1257,10 +977,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetOwningPlayer](ue_ue.PropertyViewBase.md#getowningplayer)
-
-#### Defined in
-
-[ue/ue.d.ts:10977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10977)
 
 ___
 
@@ -1276,10 +992,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetPaintSpaceGeometry](ue_ue.PropertyViewBase.md#getpaintspacegeometry)
 
-#### Defined in
-
-[ue/ue.d.ts:10978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10978)
-
 ___
 
 ### GetParent
@@ -1294,10 +1006,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetParent](ue_ue.PropertyViewBase.md#getparent)
 
-#### Defined in
-
-[ue/ue.d.ts:10979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10979)
-
 ___
 
 ### GetPropertyName
@@ -1307,10 +1015,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue.d.ts:60644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60644)
 
 ___
 
@@ -1326,10 +1030,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetRenderOpacity](ue_ue.PropertyViewBase.md#getrenderopacity)
 
-#### Defined in
-
-[ue/ue.d.ts:10980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10980)
-
 ___
 
 ### GetRenderTransformAngle
@@ -1343,10 +1043,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetRenderTransformAngle](ue_ue.PropertyViewBase.md#getrendertransformangle)
-
-#### Defined in
-
-[ue/ue.d.ts:10981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10981)
 
 ___
 
@@ -1362,10 +1058,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetSlateBrush__DelegateSignature](ue_ue.PropertyViewBase.md#getslatebrush__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10982)
-
 ___
 
 ### GetSlateColor\_\_DelegateSignature
@@ -1379,10 +1071,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetSlateColor__DelegateSignature](ue_ue.PropertyViewBase.md#getslatecolor__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10983)
 
 ___
 
@@ -1398,10 +1086,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetSlateVisibility__DelegateSignature](ue_ue.PropertyViewBase.md#getslatevisibility__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10984)
-
 ___
 
 ### GetText\_\_DelegateSignature
@@ -1415,10 +1099,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetText__DelegateSignature](ue_ue.PropertyViewBase.md#gettext__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10985)
 
 ___
 
@@ -1434,10 +1114,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetTickSpaceGeometry](ue_ue.PropertyViewBase.md#gettickspacegeometry)
 
-#### Defined in
-
-[ue/ue.d.ts:10986](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10986)
-
 ___
 
 ### GetVisibility
@@ -1451,10 +1127,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetVisibility](ue_ue.PropertyViewBase.md#getvisibility)
-
-#### Defined in
-
-[ue/ue.d.ts:10987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10987)
 
 ___
 
@@ -1470,10 +1142,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetWidget__DelegateSignature](ue_ue.PropertyViewBase.md#getwidget__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10988)
-
 ___
 
 ### GetWorld
@@ -1487,10 +1155,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[GetWorld](ue_ue.PropertyViewBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -1506,10 +1170,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[HasAnyUserFocus](ue_ue.PropertyViewBase.md#hasanyuserfocus)
 
-#### Defined in
-
-[ue/ue.d.ts:10989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10989)
-
 ___
 
 ### HasFocusedDescendants
@@ -1523,10 +1183,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[HasFocusedDescendants](ue_ue.PropertyViewBase.md#hasfocuseddescendants)
-
-#### Defined in
-
-[ue/ue.d.ts:10990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10990)
 
 ___
 
@@ -1542,10 +1198,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[HasKeyboardFocus](ue_ue.PropertyViewBase.md#haskeyboardfocus)
 
-#### Defined in
-
-[ue/ue.d.ts:10991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10991)
-
 ___
 
 ### HasMouseCapture
@@ -1559,10 +1211,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[HasMouseCapture](ue_ue.PropertyViewBase.md#hasmousecapture)
-
-#### Defined in
-
-[ue/ue.d.ts:10992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10992)
 
 ___
 
@@ -1585,10 +1233,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[HasMouseCaptureByUser](ue_ue.PropertyViewBase.md#hasmousecapturebyuser)
 
-#### Defined in
-
-[ue/ue.d.ts:10993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10993)
-
 ___
 
 ### HasUserFocus
@@ -1608,10 +1252,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[HasUserFocus](ue_ue.PropertyViewBase.md#hasuserfocus)
-
-#### Defined in
-
-[ue/ue.d.ts:10994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10994)
 
 ___
 
@@ -1633,10 +1273,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[HasUserFocusedDescendants](ue_ue.PropertyViewBase.md#hasuserfocuseddescendants)
 
-#### Defined in
-
-[ue/ue.d.ts:10995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10995)
-
 ___
 
 ### InvalidateLayoutAndVolatility
@@ -1650,10 +1286,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[InvalidateLayoutAndVolatility](ue_ue.PropertyViewBase.md#invalidatelayoutandvolatility)
-
-#### Defined in
-
-[ue/ue.d.ts:10996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10996)
 
 ___
 
@@ -1669,10 +1301,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[IsHovered](ue_ue.PropertyViewBase.md#ishovered)
 
-#### Defined in
-
-[ue/ue.d.ts:10997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10997)
-
 ___
 
 ### IsVisible
@@ -1686,10 +1314,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[IsVisible](ue_ue.PropertyViewBase.md#isvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:10998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10998)
 
 ___
 
@@ -1712,10 +1336,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[OnPointerEvent__DelegateSignature](ue_ue.PropertyViewBase.md#onpointerevent__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10999)
-
 ___
 
 ### OnReply\_\_DelegateSignature
@@ -1729,10 +1349,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[OnReply__DelegateSignature](ue_ue.PropertyViewBase.md#onreply__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:11000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11000)
 
 ___
 
@@ -1748,10 +1364,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[RemoveFromParent](ue_ue.PropertyViewBase.md#removefromparent)
 
-#### Defined in
-
-[ue/ue.d.ts:11001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11001)
-
 ___
 
 ### ResetCursor
@@ -1765,10 +1377,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[ResetCursor](ue_ue.PropertyViewBase.md#resetcursor)
-
-#### Defined in
-
-[ue/ue.d.ts:11002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11002)
 
 ___
 
@@ -1791,10 +1399,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[SetAllNavigationRules](ue_ue.PropertyViewBase.md#setallnavigationrules)
 
-#### Defined in
-
-[ue/ue.d.ts:11003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11003)
-
 ___
 
 ### SetClipping
@@ -1814,10 +1418,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[SetClipping](ue_ue.PropertyViewBase.md#setclipping)
-
-#### Defined in
-
-[ue/ue.d.ts:11004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11004)
 
 ___
 
@@ -1839,10 +1439,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[SetCursor](ue_ue.PropertyViewBase.md#setcursor)
 
-#### Defined in
-
-[ue/ue.d.ts:11005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11005)
-
 ___
 
 ### SetFocus
@@ -1856,10 +1452,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[SetFocus](ue_ue.PropertyViewBase.md#setfocus)
-
-#### Defined in
-
-[ue/ue.d.ts:11006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11006)
 
 ___
 
@@ -1881,10 +1473,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[SetIsEnabled](ue_ue.PropertyViewBase.md#setisenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:11007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11007)
-
 ___
 
 ### SetKeyboardFocus
@@ -1898,10 +1486,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[SetKeyboardFocus](ue_ue.PropertyViewBase.md#setkeyboardfocus)
-
-#### Defined in
-
-[ue/ue.d.ts:11008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11008)
 
 ___
 
@@ -1925,10 +1509,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[SetNavigationRule](ue_ue.PropertyViewBase.md#setnavigationrule)
 
-#### Defined in
-
-[ue/ue.d.ts:11009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11009)
-
 ___
 
 ### SetNavigationRuleBase
@@ -1949,10 +1529,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[SetNavigationRuleBase](ue_ue.PropertyViewBase.md#setnavigationrulebase)
-
-#### Defined in
-
-[ue/ue.d.ts:11010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11010)
 
 ___
 
@@ -1975,10 +1551,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[SetNavigationRuleCustom](ue_ue.PropertyViewBase.md#setnavigationrulecustom)
 
-#### Defined in
-
-[ue/ue.d.ts:11011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11011)
-
 ___
 
 ### SetNavigationRuleCustomBoundary
@@ -1999,10 +1571,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[SetNavigationRuleCustomBoundary](ue_ue.PropertyViewBase.md#setnavigationrulecustomboundary)
-
-#### Defined in
-
-[ue/ue.d.ts:11012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11012)
 
 ___
 
@@ -2025,10 +1593,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[SetNavigationRuleExplicit](ue_ue.PropertyViewBase.md#setnavigationruleexplicit)
 
-#### Defined in
-
-[ue/ue.d.ts:11013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11013)
-
 ___
 
 ### SetObject
@@ -2049,10 +1613,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[SetObject](ue_ue.PropertyViewBase.md#setobject)
 
-#### Defined in
-
-[ue/ue.d.ts:30722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30722)
-
 ___
 
 ### SetPropertyName
@@ -2068,10 +1628,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:60645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60645)
 
 ___
 
@@ -2093,10 +1649,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[SetRenderOpacity](ue_ue.PropertyViewBase.md#setrenderopacity)
 
-#### Defined in
-
-[ue/ue.d.ts:11014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11014)
-
 ___
 
 ### SetRenderScale
@@ -2116,10 +1668,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[SetRenderScale](ue_ue.PropertyViewBase.md#setrenderscale)
-
-#### Defined in
-
-[ue/ue.d.ts:11015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11015)
 
 ___
 
@@ -2141,10 +1689,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[SetRenderShear](ue_ue.PropertyViewBase.md#setrendershear)
 
-#### Defined in
-
-[ue/ue.d.ts:11016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11016)
-
 ___
 
 ### SetRenderTransform
@@ -2164,10 +1708,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[SetRenderTransform](ue_ue.PropertyViewBase.md#setrendertransform)
-
-#### Defined in
-
-[ue/ue.d.ts:11017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11017)
 
 ___
 
@@ -2189,10 +1729,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[SetRenderTransformAngle](ue_ue.PropertyViewBase.md#setrendertransformangle)
 
-#### Defined in
-
-[ue/ue.d.ts:11018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11018)
-
 ___
 
 ### SetRenderTransformPivot
@@ -2212,10 +1748,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[SetRenderTransformPivot](ue_ue.PropertyViewBase.md#setrendertransformpivot)
-
-#### Defined in
-
-[ue/ue.d.ts:11019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11019)
 
 ___
 
@@ -2237,10 +1769,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[SetRenderTranslation](ue_ue.PropertyViewBase.md#setrendertranslation)
 
-#### Defined in
-
-[ue/ue.d.ts:11020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11020)
-
 ___
 
 ### SetToolTip
@@ -2260,10 +1788,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[SetToolTip](ue_ue.PropertyViewBase.md#settooltip)
-
-#### Defined in
-
-[ue/ue.d.ts:11021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11021)
 
 ___
 
@@ -2285,10 +1809,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[SetToolTipText](ue_ue.PropertyViewBase.md#settooltiptext)
 
-#### Defined in
-
-[ue/ue.d.ts:11022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11022)
-
 ___
 
 ### SetUserFocus
@@ -2309,10 +1829,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[SetUserFocus](ue_ue.PropertyViewBase.md#setuserfocus)
 
-#### Defined in
-
-[ue/ue.d.ts:11023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11023)
-
 ___
 
 ### SetVisibility
@@ -2332,10 +1848,6 @@ ___
 #### Inherited from
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[SetVisibility](ue_ue.PropertyViewBase.md#setvisibility)
-
-#### Defined in
-
-[ue/ue.d.ts:11024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11024)
 
 ___
 
@@ -2358,10 +1870,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[Find](ue_ue.PropertyViewBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:60647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60647)
-
 ___
 
 ### Load
@@ -2382,10 +1890,6 @@ ___
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[Load](ue_ue.PropertyViewBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:60648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60648)
-
 ___
 
 ### StaticClass
@@ -2399,7 +1903,3 @@ ___
 #### Overrides
 
 [PropertyViewBase](ue_ue.PropertyViewBase.md).[StaticClass](ue_ue.PropertyViewBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:60646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60646)

@@ -21,19 +21,11 @@
 
 • **EMobileMSAASampleCount\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34060)
-
 ___
 
 ### Eight
 
 • **Eight** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34060)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Four** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34060)
-
 ___
 
 ### One
 
 • **One** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34060)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Two** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34060)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34060)

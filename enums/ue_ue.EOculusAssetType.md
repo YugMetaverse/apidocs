@@ -21,19 +21,11 @@
 
 • **Default** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34637)
-
 ___
 
 ### EOculusAssetType\_MAX
 
 • **EOculusAssetType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34637)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Language\_Pack** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34637)
-
 ___
 
 ### Length
 
 • **Length** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34637)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Store** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34637)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34637)

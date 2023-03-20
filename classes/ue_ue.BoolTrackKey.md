@@ -27,10 +27,6 @@
 
 • **new BoolTrackKey**()
 
-#### Defined in
-
-[ue/ue.d.ts:39820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39820)
-
 • **new BoolTrackKey**(`Time`, `Value`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Time` | `number` |
 | `Value` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:39821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39821)
-
 ## Properties
 
 ### Time
 
 • **Time**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:39822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39822)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Value**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:39823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39823)
-
 ___
 
 ### \_\_tid\_BoolTrackKey\_\_
 
 • `Private` **\_\_tid\_BoolTrackKey\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39829)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39827)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:39828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39828)

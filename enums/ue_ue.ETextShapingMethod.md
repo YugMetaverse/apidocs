@@ -20,19 +20,11 @@
 
 • **Auto** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32152)
-
 ___
 
 ### ETextShapingMethod\_MAX
 
 • **ETextShapingMethod\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32152)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **FullShaping** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32152)
-
 ___
 
 ### KerningOnly
 
 • **KerningOnly** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32152)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32152)

@@ -28,10 +28,6 @@
 
 • **new HLODProxyMesh**()
 
-#### Defined in
-
-[ue/ue.d.ts:38632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38632)
-
 • **new HLODProxyMesh**(`LODActor`, `StaticMesh`, `Key`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `StaticMesh` | [`StaticMesh`](ue_ue.StaticMesh.md) |
 | `Key` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:38633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38633)
-
 ## Properties
 
 ### Key
 
 • **Key**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:38636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38636)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **LODActor**: [`TLazyObjectPtr`](../modules/ue_puerts.md#tlazyobjectptr)<[`LODActor`](ue_ue.LODActor.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:38634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38634)
-
 ___
 
 ### StaticMesh
 
 • **StaticMesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38635)
-
 ___
 
 ### \_\_tid\_HLODProxyMesh\_\_
 
 • `Private` **\_\_tid\_HLODProxyMesh\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38642)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38640)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38641)

@@ -19,19 +19,11 @@
 
 • **CoordinateFrameUID** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33994)
-
 ___
 
 ### EMagicLeapControllerTrackingMode\_MAX
 
 • **EMagicLeapControllerTrackingMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33994)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **InputService** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33994)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33994)

@@ -27,10 +27,6 @@
 
 • **new DialogueWaveParameter**()
 
-#### Defined in
-
-[ue/ue.d.ts:61337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61337)
-
 • **new DialogueWaveParameter**(`DialogueWave`, `Context`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `DialogueWave` | [`DialogueWave`](ue_ue.DialogueWave.md) |
 | `Context` | [`DialogueContext`](ue_ue.DialogueContext.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:61338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61338)
-
 ## Properties
 
 ### Context
 
 • **Context**: [`DialogueContext`](ue_ue.DialogueContext.md)
-
-#### Defined in
-
-[ue/ue.d.ts:61340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61340)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **DialogueWave**: [`DialogueWave`](ue_ue.DialogueWave.md)
 
-#### Defined in
-
-[ue/ue.d.ts:61339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61339)
-
 ___
 
 ### \_\_tid\_DialogueWaveParameter\_\_
 
 • `Private` **\_\_tid\_DialogueWaveParameter\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:61346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61346)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:61344](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61344)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:61345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61345)

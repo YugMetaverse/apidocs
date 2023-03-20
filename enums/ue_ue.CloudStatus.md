@@ -19,19 +19,11 @@
 
 • **CloudStatus\_Done** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28039)
-
 ___
 
 ### CloudStatus\_MAX
 
 • **CloudStatus\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:28039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28039)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **CloudStatus\_NotDone** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:28039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28039)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:28039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28039)

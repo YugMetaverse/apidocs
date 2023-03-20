@@ -295,10 +295,6 @@
 
 [Volume](ue_ue.Volume.md).[constructor](ue_ue.Volume.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:23887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23887)
-
 ## Properties
 
 ### ActorLabel
@@ -308,10 +304,6 @@
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[ActorLabel](ue_ue.Volume.md#actorlabel)
-
-#### Defined in
-
-[ue/ue.d.ts:13176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13176)
 
 ___
 
@@ -323,10 +315,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[AttachmentReplication](ue_ue.Volume.md#attachmentreplication)
 
-#### Defined in
-
-[ue/ue.d.ts:13151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13151)
-
 ___
 
 ### AutoReceiveInput
@@ -336,10 +324,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[AutoReceiveInput](ue_ue.Volume.md#autoreceiveinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13157)
 
 ___
 
@@ -351,10 +335,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[BlueprintCreatedComponents](ue_ue.Volume.md#blueprintcreatedcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13206)
-
 ___
 
 ### Brush
@@ -364,10 +344,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[Brush](ue_ue.Volume.md#brush)
-
-#### Defined in
-
-[ue/ue.d.ts:12830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12830)
 
 ___
 
@@ -379,10 +355,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[BrushBuilder](ue_ue.Volume.md#brushbuilder)
 
-#### Defined in
-
-[ue/ue.d.ts:12832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12832)
-
 ___
 
 ### BrushColor
@@ -392,10 +364,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[BrushColor](ue_ue.Volume.md#brushcolor)
-
-#### Defined in
-
-[ue/ue.d.ts:12824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12824)
 
 ___
 
@@ -407,10 +375,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[BrushComponent](ue_ue.Volume.md#brushcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12831)
-
 ___
 
 ### BrushType
@@ -420,10 +384,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[BrushType](ue_ue.Volume.md#brushtype)
-
-#### Defined in
-
-[ue/ue.d.ts:12823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12823)
 
 ___
 
@@ -435,10 +395,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[Children](ue_ue.Volume.md#children)
 
-#### Defined in
-
-[ue/ue.d.ts:13166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13166)
-
 ___
 
 ### ControllingMatineeActors
@@ -448,10 +404,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[ControllingMatineeActors](ue_ue.Volume.md#controllingmatineeactors)
-
-#### Defined in
-
-[ue/ue.d.ts:13169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13169)
 
 ___
 
@@ -463,10 +415,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[CustomTimeDilation](ue_ue.Volume.md#customtimedilation)
 
-#### Defined in
-
-[ue/ue.d.ts:13150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13150)
-
 ___
 
 ### DefaultUpdateOverlapsMethodDuringLevelStreaming
@@ -476,10 +424,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[DefaultUpdateOverlapsMethodDuringLevelStreaming](ue_ue.Volume.md#defaultupdateoverlapsmethodduringlevelstreaming)
-
-#### Defined in
-
-[ue/ue.d.ts:13146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13146)
 
 ___
 
@@ -491,10 +435,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[FolderPath](ue_ue.Volume.md#folderpath)
 
-#### Defined in
-
-[ue/ue.d.ts:13177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13177)
-
 ___
 
 ### GroupActor
@@ -504,10 +444,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[GroupActor](ue_ue.Volume.md#groupactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13173)
 
 ___
 
@@ -519,10 +455,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[HiddenEditorViews](ue_ue.Volume.md#hiddeneditorviews)
 
-#### Defined in
-
-[ue/ue.d.ts:13175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13175)
-
 ___
 
 ### InitialLifeSpan
@@ -532,10 +464,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[InitialLifeSpan](ue_ue.Volume.md#initiallifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13149)
 
 ___
 
@@ -547,10 +475,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[InputComponent](ue_ue.Volume.md#inputcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13159)
-
 ___
 
 ### InputPriority
@@ -560,10 +484,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[InputPriority](ue_ue.Volume.md#inputpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:13158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13158)
 
 ___
 
@@ -575,10 +495,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[InstanceComponents](ue_ue.Volume.md#instancecomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13205)
-
 ___
 
 ### Instigator
@@ -588,10 +504,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[Instigator](ue_ue.Volume.md#instigator)
-
-#### Defined in
-
-[ue/ue.d.ts:13165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13165)
 
 ___
 
@@ -603,10 +515,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[Layers](ue_ue.Volume.md#layers)
 
-#### Defined in
-
-[ue/ue.d.ts:13170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13170)
-
 ___
 
 ### MinNetUpdateFrequency
@@ -616,10 +524,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[MinNetUpdateFrequency](ue_ue.Volume.md#minnetupdatefrequency)
-
-#### Defined in
-
-[ue/ue.d.ts:13163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13163)
 
 ___
 
@@ -631,10 +535,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[NetCullDistanceSquared](ue_ue.Volume.md#netculldistancesquared)
 
-#### Defined in
-
-[ue/ue.d.ts:13160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13160)
-
 ___
 
 ### NetDormancy
@@ -644,10 +544,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[NetDormancy](ue_ue.Volume.md#netdormancy)
-
-#### Defined in
-
-[ue/ue.d.ts:13155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13155)
 
 ___
 
@@ -659,10 +555,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[NetDriverName](ue_ue.Volume.md#netdrivername)
 
-#### Defined in
-
-[ue/ue.d.ts:13153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13153)
-
 ___
 
 ### NetPriority
@@ -672,10 +564,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[NetPriority](ue_ue.Volume.md#netpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:13164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13164)
 
 ___
 
@@ -687,10 +575,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[NetTag](ue_ue.Volume.md#nettag)
 
-#### Defined in
-
-[ue/ue.d.ts:13161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13161)
-
 ___
 
 ### NetUpdateFrequency
@@ -700,10 +584,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[NetUpdateFrequency](ue_ue.Volume.md#netupdatefrequency)
-
-#### Defined in
-
-[ue/ue.d.ts:13162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13162)
 
 ___
 
@@ -715,10 +595,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[OnActorBeginOverlap](ue_ue.Volume.md#onactorbeginoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13192)
-
 ___
 
 ### OnActorEndOverlap
@@ -728,10 +604,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[OnActorEndOverlap](ue_ue.Volume.md#onactorendoverlap)
-
-#### Defined in
-
-[ue/ue.d.ts:13193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13193)
 
 ___
 
@@ -743,10 +615,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[OnActorHit](ue_ue.Volume.md#onactorhit)
 
-#### Defined in
-
-[ue/ue.d.ts:13202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13202)
-
 ___
 
 ### OnBeginCursorOver
@@ -756,10 +624,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[OnBeginCursorOver](ue_ue.Volume.md#onbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13194)
 
 ___
 
@@ -771,10 +635,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[OnClicked](ue_ue.Volume.md#onclicked)
 
-#### Defined in
-
-[ue/ue.d.ts:13196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13196)
-
 ___
 
 ### OnDestroyed
@@ -784,10 +644,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[OnDestroyed](ue_ue.Volume.md#ondestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13203)
 
 ___
 
@@ -799,10 +655,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[OnEndCursorOver](ue_ue.Volume.md#onendcursorover)
 
-#### Defined in
-
-[ue/ue.d.ts:13195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13195)
-
 ___
 
 ### OnEndPlay
@@ -812,10 +664,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[OnEndPlay](ue_ue.Volume.md#onendplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13204)
 
 ___
 
@@ -827,10 +675,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[OnInputTouchBegin](ue_ue.Volume.md#oninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:13198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13198)
-
 ___
 
 ### OnInputTouchEnd
@@ -840,10 +684,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[OnInputTouchEnd](ue_ue.Volume.md#oninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:13199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13199)
 
 ___
 
@@ -855,10 +695,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[OnInputTouchEnter](ue_ue.Volume.md#oninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:13200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13200)
-
 ___
 
 ### OnInputTouchLeave
@@ -868,10 +704,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[OnInputTouchLeave](ue_ue.Volume.md#oninputtouchleave)
-
-#### Defined in
-
-[ue/ue.d.ts:13201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13201)
 
 ___
 
@@ -883,10 +715,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[OnReleased](ue_ue.Volume.md#onreleased)
 
-#### Defined in
-
-[ue/ue.d.ts:13197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13197)
-
 ___
 
 ### OnTakeAnyDamage
@@ -896,10 +724,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[OnTakeAnyDamage](ue_ue.Volume.md#ontakeanydamage)
-
-#### Defined in
-
-[ue/ue.d.ts:13189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13189)
 
 ___
 
@@ -911,10 +735,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[OnTakePointDamage](ue_ue.Volume.md#ontakepointdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13190)
-
 ___
 
 ### OnTakeRadialDamage
@@ -924,10 +744,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[OnTakeRadialDamage](ue_ue.Volume.md#ontakeradialdamage)
-
-#### Defined in
-
-[ue/ue.d.ts:13191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13191)
 
 ___
 
@@ -939,10 +755,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[Owner](ue_ue.Volume.md#owner)
 
-#### Defined in
-
-[ue/ue.d.ts:13152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13152)
-
 ___
 
 ### ParentComponent
@@ -952,10 +764,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[ParentComponent](ue_ue.Volume.md#parentcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13172)
 
 ___
 
@@ -967,10 +775,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[ParentComponentActor](ue_ue.Volume.md#parentcomponentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13171)
-
 ___
 
 ### PivotOffset
@@ -980,10 +784,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[PivotOffset](ue_ue.Volume.md#pivotoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:13168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13168)
 
 ___
 
@@ -995,10 +795,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[PolyFlags](ue_ue.Volume.md#polyflags)
 
-#### Defined in
-
-[ue/ue.d.ts:12825](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12825)
-
 ___
 
 ### PrimaryActorTick
@@ -1008,10 +804,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[PrimaryActorTick](ue_ue.Volume.md#primaryactortick)
-
-#### Defined in
-
-[ue/ue.d.ts:13115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13115)
 
 ___
 
@@ -1023,10 +815,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[RemoteRole](ue_ue.Volume.md#remoterole)
 
-#### Defined in
-
-[ue/ue.d.ts:13147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13147)
-
 ___
 
 ### ReplicatedMovement
@@ -1036,10 +824,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[ReplicatedMovement](ue_ue.Volume.md#replicatedmovement)
-
-#### Defined in
-
-[ue/ue.d.ts:13148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13148)
 
 ___
 
@@ -1051,10 +835,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[Role](ue_ue.Volume.md#role)
 
-#### Defined in
-
-[ue/ue.d.ts:13154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13154)
-
 ___
 
 ### RootComponent
@@ -1064,10 +844,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[RootComponent](ue_ue.Volume.md#rootcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13167)
 
 ___
 
@@ -1079,10 +855,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[SavedSelections](ue_ue.Volume.md#savedselections)
 
-#### Defined in
-
-[ue/ue.d.ts:12834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12834)
-
 ___
 
 ### SpawnCollisionHandlingMethod
@@ -1092,10 +864,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[SpawnCollisionHandlingMethod](ue_ue.Volume.md#spawncollisionhandlingmethod)
-
-#### Defined in
-
-[ue/ue.d.ts:13156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13156)
 
 ___
 
@@ -1107,10 +875,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[SpriteScale](ue_ue.Volume.md#spritescale)
 
-#### Defined in
-
-[ue/ue.d.ts:13174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13174)
-
 ___
 
 ### Tags
@@ -1120,10 +884,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[Tags](ue_ue.Volume.md#tags)
-
-#### Defined in
-
-[ue/ue.d.ts:13188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13188)
 
 ___
 
@@ -1135,10 +895,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[UpdateOverlapsMethodDuringLevelStreaming](ue_ue.Volume.md#updateoverlapsmethodduringlevelstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:13145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13145)
-
 ___
 
 ### \_\_tid\_Actor\_\_
@@ -1149,19 +905,11 @@ ___
 
 [Volume](ue_ue.Volume.md).[__tid_Actor__](ue_ue.Volume.md#__tid_actor__)
 
-#### Defined in
-
-[ue/ue.d.ts:13348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13348)
-
 ___
 
 ### \_\_tid\_BlockingVolume\_\_
 
 • **\_\_tid\_BlockingVolume\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:23892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23892)
 
 ___
 
@@ -1173,10 +921,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[__tid_Brush__](ue_ue.Volume.md#__tid_brush__)
 
-#### Defined in
-
-[ue/ue.d.ts:12839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12839)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -1186,10 +930,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[__tid_Object__](ue_ue.Volume.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -1201,10 +941,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[__tid_Volume__](ue_ue.Volume.md#__tid_volume__)
 
-#### Defined in
-
-[ue/ue.d.ts:12848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12848)
-
 ___
 
 ### bActorEnableCollision
@@ -1214,10 +950,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[bActorEnableCollision](ue_ue.Volume.md#bactorenablecollision)
-
-#### Defined in
-
-[ue/ue.d.ts:13143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13143)
 
 ___
 
@@ -1229,10 +961,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[bActorIsBeingDestroyed](ue_ue.Volume.md#bactorisbeingdestroyed)
 
-#### Defined in
-
-[ue/ue.d.ts:13144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13144)
-
 ___
 
 ### bActorLabelEditable
@@ -1242,10 +970,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[bActorLabelEditable](ue_ue.Volume.md#bactorlabeleditable)
-
-#### Defined in
-
-[ue/ue.d.ts:13183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13183)
 
 ___
 
@@ -1257,10 +981,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[bActorSeamlessTraveled](ue_ue.Volume.md#bactorseamlesstraveled)
 
-#### Defined in
-
-[ue/ue.d.ts:13139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13139)
-
 ___
 
 ### bAllowReceiveTickEventOnDedicatedServer
@@ -1270,10 +990,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[bAllowReceiveTickEventOnDedicatedServer](ue_ue.Volume.md#ballowreceivetickeventondedicatedserver)
-
-#### Defined in
-
-[ue/ue.d.ts:13142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13142)
 
 ___
 
@@ -1285,10 +1001,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[bAllowTickBeforeBeginPlay](ue_ue.Volume.md#ballowtickbeforebeginplay)
 
-#### Defined in
-
-[ue/ue.d.ts:13129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13129)
-
 ___
 
 ### bAlwaysRelevant
@@ -1298,10 +1010,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[bAlwaysRelevant](ue_ue.Volume.md#balwaysrelevant)
-
-#### Defined in
-
-[ue/ue.d.ts:13120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13120)
 
 ___
 
@@ -1313,10 +1021,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[bAutoDestroyWhenFinished](ue_ue.Volume.md#bautodestroywhenfinished)
 
-#### Defined in
-
-[ue/ue.d.ts:13130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13130)
-
 ___
 
 ### bBlockInput
@@ -1326,10 +1030,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[bBlockInput](ue_ue.Volume.md#bblockinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13131)
 
 ___
 
@@ -1341,10 +1041,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[bCanBeDamaged](ue_ue.Volume.md#bcanbedamaged)
 
-#### Defined in
-
-[ue/ue.d.ts:13132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13132)
-
 ___
 
 ### bCanBeInCluster
@@ -1354,10 +1050,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[bCanBeInCluster](ue_ue.Volume.md#bcanbeincluster)
-
-#### Defined in
-
-[ue/ue.d.ts:13141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13141)
 
 ___
 
@@ -1369,10 +1061,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[bCollideWhenPlacing](ue_ue.Volume.md#bcollidewhenplacing)
 
-#### Defined in
-
-[ue/ue.d.ts:13133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13133)
-
 ___
 
 ### bColored
@@ -1382,10 +1070,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[bColored](ue_ue.Volume.md#bcolored)
-
-#### Defined in
-
-[ue/ue.d.ts:12826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12826)
 
 ___
 
@@ -1397,10 +1081,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[bEditable](ue_ue.Volume.md#beditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13184)
-
 ___
 
 ### bEnableAutoLODGeneration
@@ -1410,10 +1090,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[bEnableAutoLODGeneration](ue_ue.Volume.md#benableautolodgeneration)
-
-#### Defined in
-
-[ue/ue.d.ts:13137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13137)
 
 ___
 
@@ -1425,10 +1101,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[bExchangedRoles](ue_ue.Volume.md#bexchangedroles)
 
-#### Defined in
-
-[ue/ue.d.ts:13123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13123)
-
 ___
 
 ### bFindCameraComponentWhenViewTarget
@@ -1438,10 +1110,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[bFindCameraComponentWhenViewTarget](ue_ue.Volume.md#bfindcameracomponentwhenviewtarget)
-
-#### Defined in
-
-[ue/ue.d.ts:13134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13134)
 
 ___
 
@@ -1453,10 +1121,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[bGenerateOverlapEventsDuringLevelStreaming](ue_ue.Volume.md#bgenerateoverlapeventsduringlevelstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:13135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13135)
-
 ___
 
 ### bHidden
@@ -1466,10 +1130,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[bHidden](ue_ue.Volume.md#bhidden)
-
-#### Defined in
-
-[ue/ue.d.ts:13116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13116)
 
 ___
 
@@ -1481,10 +1141,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[bHiddenEd](ue_ue.Volume.md#bhiddened)
 
-#### Defined in
-
-[ue/ue.d.ts:13178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13178)
-
 ___
 
 ### bHiddenEdLayer
@@ -1494,10 +1150,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[bHiddenEdLayer](ue_ue.Volume.md#bhiddenedlayer)
-
-#### Defined in
-
-[ue/ue.d.ts:13180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13180)
 
 ___
 
@@ -1509,10 +1161,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[bHiddenEdLevel](ue_ue.Volume.md#bhiddenedlevel)
 
-#### Defined in
-
-[ue/ue.d.ts:13181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13181)
-
 ___
 
 ### bHiddenEdTemporary
@@ -1522,10 +1170,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[bHiddenEdTemporary](ue_ue.Volume.md#bhiddenedtemporary)
-
-#### Defined in
-
-[ue/ue.d.ts:13187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13187)
 
 ___
 
@@ -1537,10 +1181,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[bIgnoresOriginShifting](ue_ue.Volume.md#bignoresoriginshifting)
 
-#### Defined in
-
-[ue/ue.d.ts:13136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13136)
-
 ___
 
 ### bInManipulation
@@ -1550,10 +1190,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[bInManipulation](ue_ue.Volume.md#binmanipulation)
-
-#### Defined in
-
-[ue/ue.d.ts:12833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12833)
 
 ___
 
@@ -1565,10 +1201,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[bIsEditorOnlyActor](ue_ue.Volume.md#biseditoronlyactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13138)
-
 ___
 
 ### bIsEditorPreviewActor
@@ -1578,10 +1210,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[bIsEditorPreviewActor](ue_ue.Volume.md#biseditorpreviewactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13179)
 
 ___
 
@@ -1593,10 +1221,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[bListedInSceneOutliner](ue_ue.Volume.md#blistedinsceneoutliner)
 
-#### Defined in
-
-[ue/ue.d.ts:13185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13185)
-
 ___
 
 ### bLockLocation
@@ -1606,10 +1230,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[bLockLocation](ue_ue.Volume.md#blocklocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13182)
 
 ___
 
@@ -1621,10 +1241,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[bNetLoadOnClient](ue_ue.Volume.md#bnetloadonclient)
 
-#### Defined in
-
-[ue/ue.d.ts:13124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13124)
-
 ___
 
 ### bNetStartup
@@ -1634,10 +1250,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[bNetStartup](ue_ue.Volume.md#bnetstartup)
-
-#### Defined in
-
-[ue/ue.d.ts:13118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13118)
 
 ___
 
@@ -1649,10 +1261,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[bNetTemporary](ue_ue.Volume.md#bnettemporary)
 
-#### Defined in
-
-[ue/ue.d.ts:13117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13117)
-
 ___
 
 ### bNetUseOwnerRelevancy
@@ -1662,10 +1270,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[bNetUseOwnerRelevancy](ue_ue.Volume.md#bnetuseownerrelevancy)
-
-#### Defined in
-
-[ue/ue.d.ts:13125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13125)
 
 ___
 
@@ -1677,10 +1281,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[bNotForClientOrServer](ue_ue.Volume.md#bnotforclientorserver)
 
-#### Defined in
-
-[ue/ue.d.ts:12829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12829)
-
 ___
 
 ### bOnlyRelevantToOwner
@@ -1690,10 +1290,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[bOnlyRelevantToOwner](ue_ue.Volume.md#bonlyrelevanttoowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13119)
 
 ___
 
@@ -1705,10 +1301,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[bOptimizeBPComponentData](ue_ue.Volume.md#boptimizebpcomponentdata)
 
-#### Defined in
-
-[ue/ue.d.ts:13186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13186)
-
 ___
 
 ### bPlaceableFromClassBrowser
@@ -1718,10 +1310,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[bPlaceableFromClassBrowser](ue_ue.Volume.md#bplaceablefromclassbrowser)
-
-#### Defined in
-
-[ue/ue.d.ts:12828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12828)
 
 ___
 
@@ -1733,10 +1321,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[bRelevantForLevelBounds](ue_ue.Volume.md#brelevantforlevelbounds)
 
-#### Defined in
-
-[ue/ue.d.ts:13127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13127)
-
 ___
 
 ### bRelevantForNetworkReplays
@@ -1746,10 +1330,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[bRelevantForNetworkReplays](ue_ue.Volume.md#brelevantfornetworkreplays)
-
-#### Defined in
-
-[ue/ue.d.ts:13126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13126)
 
 ___
 
@@ -1761,10 +1341,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[bReplayRewindable](ue_ue.Volume.md#breplayrewindable)
 
-#### Defined in
-
-[ue/ue.d.ts:13128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13128)
-
 ___
 
 ### bReplicateMovement
@@ -1774,10 +1350,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[bReplicateMovement](ue_ue.Volume.md#breplicatemovement)
-
-#### Defined in
-
-[ue/ue.d.ts:13121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13121)
 
 ___
 
@@ -1789,10 +1361,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[bReplicates](ue_ue.Volume.md#breplicates)
 
-#### Defined in
-
-[ue/ue.d.ts:13140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13140)
-
 ___
 
 ### bSolidWhenSelected
@@ -1803,10 +1371,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[bSolidWhenSelected](ue_ue.Volume.md#bsolidwhenselected)
 
-#### Defined in
-
-[ue/ue.d.ts:12827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12827)
-
 ___
 
 ### bTearOff
@@ -1816,10 +1380,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[bTearOff](ue_ue.Volume.md#btearoff)
-
-#### Defined in
-
-[ue/ue.d.ts:13122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13122)
 
 ## Methods
 
@@ -1840,10 +1400,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[ActorHasTag](ue_ue.Volume.md#actorhastag)
-
-#### Defined in
-
-[ue/ue.d.ts:13207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13207)
 
 ___
 
@@ -1868,10 +1424,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[AddComponent](ue_ue.Volume.md#addcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13208)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -1892,10 +1444,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[AddTickPrerequisiteActor](ue_ue.Volume.md#addtickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13209)
-
 ___
 
 ### AddTickPrerequisiteComponent
@@ -1915,10 +1463,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[AddTickPrerequisiteComponent](ue_ue.Volume.md#addtickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13210)
 
 ___
 
@@ -1944,10 +1488,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[CreateDefaultSubobject](ue_ue.Volume.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### DetachRootComponentFromParent
@@ -1967,10 +1507,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[DetachRootComponentFromParent](ue_ue.Volume.md#detachrootcomponentfromparent)
-
-#### Defined in
-
-[ue/ue.d.ts:13211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13211)
 
 ___
 
@@ -1992,10 +1528,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[DisableInput](ue_ue.Volume.md#disableinput)
 
-#### Defined in
-
-[ue/ue.d.ts:13212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13212)
-
 ___
 
 ### EnableInput
@@ -2015,10 +1547,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[EnableInput](ue_ue.Volume.md#enableinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13213)
 
 ___
 
@@ -2040,10 +1568,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[ExecuteUbergraph](ue_ue.Volume.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### FlushNetDormancy
@@ -2058,10 +1582,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[FlushNetDormancy](ue_ue.Volume.md#flushnetdormancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13214)
-
 ___
 
 ### ForceNetUpdate
@@ -2075,10 +1595,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[ForceNetUpdate](ue_ue.Volume.md#forcenetupdate)
-
-#### Defined in
-
-[ue/ue.d.ts:13215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13215)
 
 ___
 
@@ -2102,10 +1618,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[GetActorBounds](ue_ue.Volume.md#getactorbounds)
 
-#### Defined in
-
-[ue/ue.d.ts:13216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13216)
-
 ___
 
 ### GetActorEnableCollision
@@ -2119,10 +1631,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[GetActorEnableCollision](ue_ue.Volume.md#getactorenablecollision)
-
-#### Defined in
-
-[ue/ue.d.ts:13217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13217)
 
 ___
 
@@ -2145,10 +1653,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[GetActorEyesViewPoint](ue_ue.Volume.md#getactoreyesviewpoint)
 
-#### Defined in
-
-[ue/ue.d.ts:13218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13218)
-
 ___
 
 ### GetActorForwardVector
@@ -2162,10 +1666,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[GetActorForwardVector](ue_ue.Volume.md#getactorforwardvector)
-
-#### Defined in
-
-[ue/ue.d.ts:13219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13219)
 
 ___
 
@@ -2181,10 +1681,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[GetActorLabel](ue_ue.Volume.md#getactorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13220)
-
 ___
 
 ### GetActorRelativeScale3D
@@ -2198,10 +1694,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[GetActorRelativeScale3D](ue_ue.Volume.md#getactorrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13221)
 
 ___
 
@@ -2217,10 +1709,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[GetActorRightVector](ue_ue.Volume.md#getactorrightvector)
 
-#### Defined in
-
-[ue/ue.d.ts:13222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13222)
-
 ___
 
 ### GetActorScale3D
@@ -2234,10 +1722,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[GetActorScale3D](ue_ue.Volume.md#getactorscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13223)
 
 ___
 
@@ -2253,10 +1737,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[GetActorTickInterval](ue_ue.Volume.md#getactortickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:13224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13224)
-
 ___
 
 ### GetActorTimeDilation
@@ -2271,10 +1751,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[GetActorTimeDilation](ue_ue.Volume.md#getactortimedilation)
 
-#### Defined in
-
-[ue/ue.d.ts:13225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13225)
-
 ___
 
 ### GetActorUpVector
@@ -2288,10 +1764,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[GetActorUpVector](ue_ue.Volume.md#getactorupvector)
-
-#### Defined in
-
-[ue/ue.d.ts:13226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13226)
 
 ___
 
@@ -2314,10 +1786,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[GetAllChildActors](ue_ue.Volume.md#getallchildactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13227)
-
 ___
 
 ### GetAttachParentActor
@@ -2332,10 +1800,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[GetAttachParentActor](ue_ue.Volume.md#getattachparentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13229)
-
 ___
 
 ### GetAttachParentSocketName
@@ -2349,10 +1813,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[GetAttachParentSocketName](ue_ue.Volume.md#getattachparentsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:13230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13230)
 
 ___
 
@@ -2375,10 +1835,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[GetAttachedActors](ue_ue.Volume.md#getattachedactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13228)
-
 ___
 
 ### GetClass
@@ -2392,10 +1848,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[GetClass](ue_ue.Volume.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -2417,10 +1869,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[GetComponentByClass](ue_ue.Volume.md#getcomponentbyclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13231)
-
 ___
 
 ### GetComponentsByInterface
@@ -2440,10 +1888,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[GetComponentsByInterface](ue_ue.Volume.md#getcomponentsbyinterface)
-
-#### Defined in
-
-[ue/ue.d.ts:13232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13232)
 
 ___
 
@@ -2466,10 +1910,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[GetComponentsByTag](ue_ue.Volume.md#getcomponentsbytag)
 
-#### Defined in
-
-[ue/ue.d.ts:13233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13233)
-
 ___
 
 ### GetDistanceTo
@@ -2489,10 +1929,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[GetDistanceTo](ue_ue.Volume.md#getdistanceto)
-
-#### Defined in
-
-[ue/ue.d.ts:13234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13234)
 
 ___
 
@@ -2514,10 +1950,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[GetDotProductTo](ue_ue.Volume.md#getdotproductto)
 
-#### Defined in
-
-[ue/ue.d.ts:13235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13235)
-
 ___
 
 ### GetFolderPath
@@ -2532,10 +1964,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[GetFolderPath](ue_ue.Volume.md#getfolderpath)
 
-#### Defined in
-
-[ue/ue.d.ts:13236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13236)
-
 ___
 
 ### GetGameTimeSinceCreation
@@ -2549,10 +1977,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[GetGameTimeSinceCreation](ue_ue.Volume.md#getgametimesincecreation)
-
-#### Defined in
-
-[ue/ue.d.ts:13237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13237)
 
 ___
 
@@ -2574,10 +1998,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[GetHorizontalDistanceTo](ue_ue.Volume.md#gethorizontaldistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13238)
-
 ___
 
 ### GetHorizontalDotProductTo
@@ -2597,10 +2017,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[GetHorizontalDotProductTo](ue_ue.Volume.md#gethorizontaldotproductto)
-
-#### Defined in
-
-[ue/ue.d.ts:13239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13239)
 
 ___
 
@@ -2622,10 +2038,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[GetInputAxisKeyValue](ue_ue.Volume.md#getinputaxiskeyvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:13240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13240)
-
 ___
 
 ### GetInputAxisValue
@@ -2645,10 +2057,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[GetInputAxisValue](ue_ue.Volume.md#getinputaxisvalue)
-
-#### Defined in
-
-[ue/ue.d.ts:13241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13241)
 
 ___
 
@@ -2670,10 +2078,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[GetInputVectorAxisValue](ue_ue.Volume.md#getinputvectoraxisvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:13242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13242)
-
 ___
 
 ### GetInstigator
@@ -2687,10 +2091,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[GetInstigator](ue_ue.Volume.md#getinstigator)
-
-#### Defined in
-
-[ue/ue.d.ts:13243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13243)
 
 ___
 
@@ -2706,10 +2106,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[GetInstigatorController](ue_ue.Volume.md#getinstigatorcontroller)
 
-#### Defined in
-
-[ue/ue.d.ts:13244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13244)
-
 ___
 
 ### GetLifeSpan
@@ -2723,10 +2119,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[GetLifeSpan](ue_ue.Volume.md#getlifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13245)
 
 ___
 
@@ -2742,10 +2134,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[GetLocalRole](ue_ue.Volume.md#getlocalrole)
 
-#### Defined in
-
-[ue/ue.d.ts:13246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13246)
-
 ___
 
 ### GetName
@@ -2760,10 +2148,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[GetName](ue_ue.Volume.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -2777,10 +2161,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[GetOuter](ue_ue.Volume.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -2803,10 +2183,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[GetOverlappingActors](ue_ue.Volume.md#getoverlappingactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13247)
-
 ___
 
 ### GetOverlappingComponents
@@ -2827,10 +2203,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[GetOverlappingComponents](ue_ue.Volume.md#getoverlappingcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13248)
-
 ___
 
 ### GetOwner
@@ -2844,10 +2216,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[GetOwner](ue_ue.Volume.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13249)
 
 ___
 
@@ -2863,10 +2231,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[GetParentActor](ue_ue.Volume.md#getparentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13250)
-
 ___
 
 ### GetParentComponent
@@ -2881,10 +2245,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[GetParentComponent](ue_ue.Volume.md#getparentcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13251)
-
 ___
 
 ### GetRemoteRole
@@ -2898,10 +2258,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[GetRemoteRole](ue_ue.Volume.md#getremoterole)
-
-#### Defined in
-
-[ue/ue.d.ts:13252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13252)
 
 ___
 
@@ -2923,10 +2279,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[GetSquaredDistanceTo](ue_ue.Volume.md#getsquareddistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13253)
-
 ___
 
 ### GetTickableWhenPaused
@@ -2940,10 +2292,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[GetTickableWhenPaused](ue_ue.Volume.md#gettickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:13254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13254)
 
 ___
 
@@ -2959,10 +2307,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[GetTransform](ue_ue.Volume.md#gettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13255)
-
 ___
 
 ### GetVelocity
@@ -2976,10 +2320,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[GetVelocity](ue_ue.Volume.md#getvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:13256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13256)
 
 ___
 
@@ -3001,10 +2341,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[GetVerticalDistanceTo](ue_ue.Volume.md#getverticaldistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13257)
-
 ___
 
 ### GetWorld
@@ -3018,10 +2354,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[GetWorld](ue_ue.Volume.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -3037,10 +2369,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[HasAuthority](ue_ue.Volume.md#hasauthority)
 
-#### Defined in
-
-[ue/ue.d.ts:13258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13258)
-
 ___
 
 ### IsActorBeingDestroyed
@@ -3054,10 +2382,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[IsActorBeingDestroyed](ue_ue.Volume.md#isactorbeingdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13259)
 
 ___
 
@@ -3073,10 +2397,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[IsActorTickEnabled](ue_ue.Volume.md#isactortickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:13260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13260)
-
 ___
 
 ### IsChildActor
@@ -3090,10 +2410,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[IsChildActor](ue_ue.Volume.md#ischildactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13261)
 
 ___
 
@@ -3109,10 +2425,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[IsEditable](ue_ue.Volume.md#iseditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13262)
-
 ___
 
 ### IsHiddenEd
@@ -3127,10 +2439,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[IsHiddenEd](ue_ue.Volume.md#ishiddened)
 
-#### Defined in
-
-[ue/ue.d.ts:13263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13263)
-
 ___
 
 ### IsHiddenEdAtStartup
@@ -3144,10 +2452,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[IsHiddenEdAtStartup](ue_ue.Volume.md#ishiddenedatstartup)
-
-#### Defined in
-
-[ue/ue.d.ts:13264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13264)
 
 ___
 
@@ -3169,10 +2473,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[IsOverlappingActor](ue_ue.Volume.md#isoverlappingactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13265)
-
 ___
 
 ### IsSelectable
@@ -3186,10 +2486,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[IsSelectable](ue_ue.Volume.md#isselectable)
-
-#### Defined in
-
-[ue/ue.d.ts:13266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13266)
 
 ___
 
@@ -3210,10 +2506,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[IsTemporarilyHiddenInEditor](ue_ue.Volume.md#istemporarilyhiddenineditor)
-
-#### Defined in
-
-[ue/ue.d.ts:13267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13267)
 
 ___
 
@@ -3238,10 +2530,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[K2_AddActorLocalOffset](ue_ue.Volume.md#k2_addactorlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:13268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13268)
-
 ___
 
 ### K2\_AddActorLocalRotation
@@ -3264,10 +2552,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[K2_AddActorLocalRotation](ue_ue.Volume.md#k2_addactorlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13269)
 
 ___
 
@@ -3292,10 +2576,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[K2_AddActorLocalTransform](ue_ue.Volume.md#k2_addactorlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13270)
-
 ___
 
 ### K2\_AddActorWorldOffset
@@ -3318,10 +2598,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[K2_AddActorWorldOffset](ue_ue.Volume.md#k2_addactorworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:13271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13271)
 
 ___
 
@@ -3346,10 +2622,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[K2_AddActorWorldRotation](ue_ue.Volume.md#k2_addactorworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13272)
-
 ___
 
 ### K2\_AddActorWorldTransform
@@ -3372,10 +2644,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[K2_AddActorWorldTransform](ue_ue.Volume.md#k2_addactorworldtransform)
-
-#### Defined in
-
-[ue/ue.d.ts:13273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13273)
 
 ___
 
@@ -3400,10 +2668,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[K2_AttachRootComponentTo](ue_ue.Volume.md#k2_attachrootcomponentto)
 
-#### Defined in
-
-[ue/ue.d.ts:13274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13274)
-
 ___
 
 ### K2\_AttachRootComponentToActor
@@ -3426,10 +2690,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[K2_AttachRootComponentToActor](ue_ue.Volume.md#k2_attachrootcomponenttoactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13275)
 
 ___
 
@@ -3456,10 +2716,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[K2_AttachToActor](ue_ue.Volume.md#k2_attachtoactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13276)
-
 ___
 
 ### K2\_AttachToComponent
@@ -3485,10 +2741,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[K2_AttachToComponent](ue_ue.Volume.md#k2_attachtocomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13277)
-
 ___
 
 ### K2\_DestroyActor
@@ -3502,10 +2754,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[K2_DestroyActor](ue_ue.Volume.md#k2_destroyactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13278)
 
 ___
 
@@ -3526,10 +2774,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[K2_DestroyComponent](ue_ue.Volume.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13279)
 
 ___
 
@@ -3553,10 +2797,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[K2_DetachFromActor](ue_ue.Volume.md#k2_detachfromactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13280)
-
 ___
 
 ### K2\_GetActorLocation
@@ -3571,10 +2811,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[K2_GetActorLocation](ue_ue.Volume.md#k2_getactorlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:13281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13281)
-
 ___
 
 ### K2\_GetActorRotation
@@ -3588,10 +2824,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[K2_GetActorRotation](ue_ue.Volume.md#k2_getactorrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13282)
 
 ___
 
@@ -3613,10 +2845,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[K2_GetComponentsByClass](ue_ue.Volume.md#k2_getcomponentsbyclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13283)
-
 ___
 
 ### K2\_GetRootComponent
@@ -3630,10 +2858,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[K2_GetRootComponent](ue_ue.Volume.md#k2_getrootcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13284)
 
 ___
 
@@ -3655,10 +2879,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[K2_OnBecomeViewTarget](ue_ue.Volume.md#k2_onbecomeviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13285)
-
 ___
 
 ### K2\_OnEndViewTarget
@@ -3679,10 +2899,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[K2_OnEndViewTarget](ue_ue.Volume.md#k2_onendviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13286)
-
 ___
 
 ### K2\_OnReset
@@ -3696,10 +2912,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[K2_OnReset](ue_ue.Volume.md#k2_onreset)
-
-#### Defined in
-
-[ue/ue.d.ts:13287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13287)
 
 ___
 
@@ -3723,10 +2935,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[K2_SetActorLocation](ue_ue.Volume.md#k2_setactorlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13288)
 
 ___
 
@@ -3752,10 +2960,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[K2_SetActorLocationAndRotation](ue_ue.Volume.md#k2_setactorlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13289)
-
 ___
 
 ### K2\_SetActorRelativeLocation
@@ -3778,10 +2982,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[K2_SetActorRelativeLocation](ue_ue.Volume.md#k2_setactorrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13290)
 
 ___
 
@@ -3806,10 +3006,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[K2_SetActorRelativeRotation](ue_ue.Volume.md#k2_setactorrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13291)
-
 ___
 
 ### K2\_SetActorRelativeTransform
@@ -3833,10 +3029,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[K2_SetActorRelativeTransform](ue_ue.Volume.md#k2_setactorrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13292)
-
 ___
 
 ### K2\_SetActorRotation
@@ -3857,10 +3049,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[K2_SetActorRotation](ue_ue.Volume.md#k2_setactorrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13293)
 
 ___
 
@@ -3885,10 +3073,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[K2_SetActorTransform](ue_ue.Volume.md#k2_setactortransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13294)
-
 ___
 
 ### K2\_TeleportTo
@@ -3910,10 +3094,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[K2_TeleportTo](ue_ue.Volume.md#k2_teleportto)
 
-#### Defined in
-
-[ue/ue.d.ts:13295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13295)
-
 ___
 
 ### MakeMIDForMaterial
@@ -3933,10 +3113,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[MakeMIDForMaterial](ue_ue.Volume.md#makemidformaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:13296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13296)
 
 ___
 
@@ -3962,10 +3138,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[MakeNoise](ue_ue.Volume.md#makenoise)
 
-#### Defined in
-
-[ue/ue.d.ts:13297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13297)
-
 ___
 
 ### OnRep\_AttachmentReplication
@@ -3979,10 +3151,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[OnRep_AttachmentReplication](ue_ue.Volume.md#onrep_attachmentreplication)
-
-#### Defined in
-
-[ue/ue.d.ts:13298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13298)
 
 ___
 
@@ -3998,10 +3166,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[OnRep_Instigator](ue_ue.Volume.md#onrep_instigator)
 
-#### Defined in
-
-[ue/ue.d.ts:13299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13299)
-
 ___
 
 ### OnRep\_Owner
@@ -4015,10 +3179,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[OnRep_Owner](ue_ue.Volume.md#onrep_owner)
-
-#### Defined in
-
-[ue/ue.d.ts:13300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13300)
 
 ___
 
@@ -4034,10 +3194,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[OnRep_ReplicateMovement](ue_ue.Volume.md#onrep_replicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13302)
-
 ___
 
 ### OnRep\_ReplicatedMovement
@@ -4051,10 +3207,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[OnRep_ReplicatedMovement](ue_ue.Volume.md#onrep_replicatedmovement)
-
-#### Defined in
-
-[ue/ue.d.ts:13301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13301)
 
 ___
 
@@ -4078,10 +3230,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[PrestreamTextures](ue_ue.Volume.md#prestreamtextures)
 
-#### Defined in
-
-[ue/ue.d.ts:13303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13303)
-
 ___
 
 ### ReceiveActorBeginCursorOver
@@ -4095,10 +3243,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[ReceiveActorBeginCursorOver](ue_ue.Volume.md#receiveactorbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13304)
 
 ___
 
@@ -4120,10 +3264,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[ReceiveActorBeginOverlap](ue_ue.Volume.md#receiveactorbeginoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13305)
-
 ___
 
 ### ReceiveActorEndCursorOver
@@ -4137,10 +3277,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[ReceiveActorEndCursorOver](ue_ue.Volume.md#receiveactorendcursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13306)
 
 ___
 
@@ -4162,10 +3298,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[ReceiveActorEndOverlap](ue_ue.Volume.md#receiveactorendoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13307)
-
 ___
 
 ### ReceiveActorOnClicked
@@ -4185,10 +3317,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[ReceiveActorOnClicked](ue_ue.Volume.md#receiveactoronclicked)
-
-#### Defined in
-
-[ue/ue.d.ts:13308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13308)
 
 ___
 
@@ -4210,10 +3338,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[ReceiveActorOnInputTouchBegin](ue_ue.Volume.md#receiveactoroninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:13309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13309)
-
 ___
 
 ### ReceiveActorOnInputTouchEnd
@@ -4233,10 +3357,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[ReceiveActorOnInputTouchEnd](ue_ue.Volume.md#receiveactoroninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:13310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13310)
 
 ___
 
@@ -4258,10 +3378,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[ReceiveActorOnInputTouchEnter](ue_ue.Volume.md#receiveactoroninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:13311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13311)
-
 ___
 
 ### ReceiveActorOnInputTouchLeave
@@ -4282,10 +3398,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[ReceiveActorOnInputTouchLeave](ue_ue.Volume.md#receiveactoroninputtouchleave)
 
-#### Defined in
-
-[ue/ue.d.ts:13312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13312)
-
 ___
 
 ### ReceiveActorOnReleased
@@ -4305,10 +3417,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[ReceiveActorOnReleased](ue_ue.Volume.md#receiveactoronreleased)
-
-#### Defined in
-
-[ue/ue.d.ts:13313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13313)
 
 ___
 
@@ -4333,10 +3441,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[ReceiveAnyDamage](ue_ue.Volume.md#receiveanydamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13314)
-
 ___
 
 ### ReceiveBeginPlay
@@ -4351,10 +3455,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[ReceiveBeginPlay](ue_ue.Volume.md#receivebeginplay)
 
-#### Defined in
-
-[ue/ue.d.ts:13315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13315)
-
 ___
 
 ### ReceiveDestroyed
@@ -4368,10 +3468,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[ReceiveDestroyed](ue_ue.Volume.md#receivedestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13316)
 
 ___
 
@@ -4392,10 +3488,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[ReceiveEndPlay](ue_ue.Volume.md#receiveendplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13317)
 
 ___
 
@@ -4423,10 +3515,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[ReceiveHit](ue_ue.Volume.md#receivehit)
-
-#### Defined in
-
-[ue/ue.d.ts:13318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13318)
 
 ___
 
@@ -4457,10 +3545,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[ReceivePointDamage](ue_ue.Volume.md#receivepointdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13319)
-
 ___
 
 ### ReceiveRadialDamage
@@ -4486,10 +3570,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[ReceiveRadialDamage](ue_ue.Volume.md#receiveradialdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13320)
-
 ___
 
 ### ReceiveTick
@@ -4509,10 +3589,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[ReceiveTick](ue_ue.Volume.md#receivetick)
-
-#### Defined in
-
-[ue/ue.d.ts:13321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13321)
 
 ___
 
@@ -4534,10 +3610,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[RemoveTickPrerequisiteActor](ue_ue.Volume.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -4557,10 +3629,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[RemoveTickPrerequisiteComponent](ue_ue.Volume.md#removetickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13323)
 
 ___
 
@@ -4582,10 +3650,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[SetActorEnableCollision](ue_ue.Volume.md#setactorenablecollision)
 
-#### Defined in
-
-[ue/ue.d.ts:13324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13324)
-
 ___
 
 ### SetActorHiddenInGame
@@ -4605,10 +3669,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[SetActorHiddenInGame](ue_ue.Volume.md#setactorhiddeningame)
-
-#### Defined in
-
-[ue/ue.d.ts:13325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13325)
 
 ___
 
@@ -4631,10 +3691,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[SetActorLabel](ue_ue.Volume.md#setactorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13326)
-
 ___
 
 ### SetActorRelativeScale3D
@@ -4654,10 +3710,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[SetActorRelativeScale3D](ue_ue.Volume.md#setactorrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13327)
 
 ___
 
@@ -4679,10 +3731,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[SetActorScale3D](ue_ue.Volume.md#setactorscale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:13328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13328)
-
 ___
 
 ### SetActorTickEnabled
@@ -4702,10 +3750,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[SetActorTickEnabled](ue_ue.Volume.md#setactortickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:13329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13329)
 
 ___
 
@@ -4727,10 +3771,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[SetActorTickInterval](ue_ue.Volume.md#setactortickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:13330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13330)
-
 ___
 
 ### SetFolderPath
@@ -4750,10 +3790,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[SetFolderPath](ue_ue.Volume.md#setfolderpath)
-
-#### Defined in
-
-[ue/ue.d.ts:13331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13331)
 
 ___
 
@@ -4775,10 +3811,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[SetIsTemporarilyHiddenInEditor](ue_ue.Volume.md#setistemporarilyhiddenineditor)
 
-#### Defined in
-
-[ue/ue.d.ts:13332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13332)
-
 ___
 
 ### SetLifeSpan
@@ -4798,10 +3830,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[SetLifeSpan](ue_ue.Volume.md#setlifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13333)
 
 ___
 
@@ -4823,10 +3851,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[SetNetDormancy](ue_ue.Volume.md#setnetdormancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13334)
-
 ___
 
 ### SetOwner
@@ -4846,10 +3870,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[SetOwner](ue_ue.Volume.md#setowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13335)
 
 ___
 
@@ -4871,10 +3891,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[SetReplicateMovement](ue_ue.Volume.md#setreplicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13336)
-
 ___
 
 ### SetReplicates
@@ -4894,10 +3910,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[SetReplicates](ue_ue.Volume.md#setreplicates)
-
-#### Defined in
-
-[ue/ue.d.ts:13337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13337)
 
 ___
 
@@ -4919,10 +3931,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[SetTickGroup](ue_ue.Volume.md#settickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:13339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13339)
-
 ___
 
 ### SetTickableWhenPaused
@@ -4942,10 +3950,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[SetTickableWhenPaused](ue_ue.Volume.md#settickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:13338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13338)
 
 ___
 
@@ -4968,10 +3972,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[SnapRootComponentTo](ue_ue.Volume.md#snaprootcomponentto)
 
-#### Defined in
-
-[ue/ue.d.ts:13340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13340)
-
 ___
 
 ### TearOff
@@ -4986,10 +3986,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[TearOff](ue_ue.Volume.md#tearoff)
 
-#### Defined in
-
-[ue/ue.d.ts:13341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13341)
-
 ___
 
 ### UserConstructionScript
@@ -5003,10 +3999,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[UserConstructionScript](ue_ue.Volume.md#userconstructionscript)
-
-#### Defined in
-
-[ue/ue.d.ts:13342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13342)
 
 ___
 
@@ -5027,10 +4019,6 @@ ___
 #### Inherited from
 
 [Volume](ue_ue.Volume.md).[WasRecentlyRendered](ue_ue.Volume.md#wasrecentlyrendered)
-
-#### Defined in
-
-[ue/ue.d.ts:13343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13343)
 
 ___
 
@@ -5053,10 +4041,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[Find](ue_ue.Volume.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:23889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23889)
-
 ___
 
 ### Load
@@ -5077,10 +4061,6 @@ ___
 
 [Volume](ue_ue.Volume.md).[Load](ue_ue.Volume.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:23890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23890)
-
 ___
 
 ### StaticClass
@@ -5094,7 +4074,3 @@ ___
 #### Overrides
 
 [Volume](ue_ue.Volume.md).[StaticClass](ue_ue.Volume.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:23888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23888)

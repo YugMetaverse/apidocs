@@ -29,10 +29,6 @@
 
 • **new StaticParameterSet**()
 
-#### Defined in
-
-[ue/ue.d.ts:2119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2119)
-
 • **new StaticParameterSet**(`StaticSwitchParameters`, `StaticComponentMaskParameters`, `TerrainLayerWeightParameters`, `MaterialLayersParameters`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `TerrainLayerWeightParameters` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`StaticTerrainLayerWeightParameter`](ue_ue.StaticTerrainLayerWeightParameter.md)\> |
 | `MaterialLayersParameters` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`StaticMaterialLayersParameter`](ue_ue.StaticMaterialLayersParameter.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:2120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2120)
-
 ## Properties
 
 ### MaterialLayersParameters
 
 • **MaterialLayersParameters**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`StaticMaterialLayersParameter`](ue_ue.StaticMaterialLayersParameter.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:2124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2124)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **StaticComponentMaskParameters**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`StaticComponentMaskParameter`](ue_ue.StaticComponentMaskParameter.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:2122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2122)
-
 ___
 
 ### StaticSwitchParameters
 
 • **StaticSwitchParameters**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`StaticSwitchParameter`](ue_ue.StaticSwitchParameter.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:2121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2121)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **TerrainLayerWeightParameters**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`StaticTerrainLayerWeightParameter`](ue_ue.StaticTerrainLayerWeightParameter.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:2123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2123)
-
 ___
 
 ### \_\_tid\_StaticParameterSet\_\_
 
 • `Private` **\_\_tid\_StaticParameterSet\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2130)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2128)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2129)

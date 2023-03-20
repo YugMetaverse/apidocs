@@ -20,19 +20,11 @@
 
 • **Auto** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32153)
-
 ___
 
 ### ETextFlowDirection\_MAX
 
 • **ETextFlowDirection\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32153)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **LeftToRight** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32153)
-
 ___
 
 ### RightToLeft
 
 • **RightToLeft** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32153)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32153)

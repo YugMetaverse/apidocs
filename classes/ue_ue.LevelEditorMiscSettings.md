@@ -68,19 +68,11 @@
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[constructor](ue_ue.DeveloperSettings.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:44827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44827)
-
 ## Properties
 
 ### DefaultLevelStreamingClass
 
 • **DefaultLevelStreamingClass**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44838)
 
 ___
 
@@ -88,19 +80,11 @@ ___
 
 • **EditorScreenshotSaveDirectory**: [`DirectoryPath`](ue_ue.DirectoryPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44843)
-
 ___
 
 ### EditorVolumeLevel
 
 • **EditorVolumeLevel**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44836)
 
 ___
 
@@ -108,19 +92,11 @@ ___
 
 • **MinimumBoundsForCheckingSize**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44842)
-
 ___
 
 ### PercentageThresholdForPrompt
 
 • **PercentageThresholdForPrompt**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44841)
 
 ___
 
@@ -132,19 +108,11 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[__tid_DeveloperSettings__](ue_ue.DeveloperSettings.md#__tid_developersettings__)
 
-#### Defined in
-
-[ue/ue.d.ts:16950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16950)
-
 ___
 
 ### \_\_tid\_LevelEditorMiscSettings\_\_
 
 • **\_\_tid\_LevelEditorMiscSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44848)
 
 ___
 
@@ -156,19 +124,11 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[__tid_Object__](ue_ue.DeveloperSettings.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bAllowBackgroundAudio
 
 • **bAllowBackgroundAudio**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44833)
 
 ___
 
@@ -176,19 +136,11 @@ ___
 
 • **bAutoApplyLightingEnable**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44828)
-
 ___
 
 ### bAutoMoveBSPPivotOffset
 
 • **bAutoMoveBSPPivotOffset**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44830)
 
 ___
 
@@ -196,19 +148,11 @@ ___
 
 • **bBSPAutoUpdate**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44829)
-
 ___
 
 ### bCreateNewAudioDeviceForPlayInEditor
 
 • **bCreateNewAudioDeviceForPlayInEditor**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44834)
 
 ___
 
@@ -216,19 +160,11 @@ ___
 
 • **bEnableEditorSounds**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44837)
-
 ___
 
 ### bEnableRealTimeAudio
 
 • **bEnableRealTimeAudio**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44835](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44835)
 
 ___
 
@@ -236,19 +172,11 @@ ___
 
 • **bNavigationAutoUpdate**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44831)
-
 ___
 
 ### bPromptWhenAddingToLevelBeforeCheckout
 
 • **bPromptWhenAddingToLevelBeforeCheckout**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44839)
 
 ___
 
@@ -256,19 +184,11 @@ ___
 
 • **bPromptWhenAddingToLevelOutsideBounds**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44840)
-
 ___
 
 ### bReplaceRespectsScale
 
 • **bReplaceRespectsScale**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44832)
 
 ## Methods
 
@@ -294,10 +214,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[CreateDefaultSubobject](ue_ue.DeveloperSettings.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -318,10 +234,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[ExecuteUbergraph](ue_ue.DeveloperSettings.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -335,10 +247,6 @@ ___
 #### Inherited from
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetClass](ue_ue.DeveloperSettings.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -354,10 +262,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetName](ue_ue.DeveloperSettings.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -372,10 +276,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetOuter](ue_ue.DeveloperSettings.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -389,10 +289,6 @@ ___
 #### Inherited from
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetWorld](ue_ue.DeveloperSettings.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -415,10 +311,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[Find](ue_ue.DeveloperSettings.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:44845](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44845)
-
 ___
 
 ### Load
@@ -439,10 +331,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[Load](ue_ue.DeveloperSettings.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:44846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44846)
-
 ___
 
 ### StaticClass
@@ -456,7 +344,3 @@ ___
 #### Overrides
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[StaticClass](ue_ue.DeveloperSettings.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:44844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44844)

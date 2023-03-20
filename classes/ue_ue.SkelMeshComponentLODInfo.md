@@ -26,10 +26,6 @@
 
 • **new SkelMeshComponentLODInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:4588](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4588)
-
 • **new SkelMeshComponentLODInfo**(`HiddenMaterials`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `HiddenMaterials` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`boolean`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:4589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4589)
-
 ## Properties
 
 ### HiddenMaterials
 
 • **HiddenMaterials**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`boolean`\>
 
-#### Defined in
-
-[ue/ue.d.ts:4590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4590)
-
 ___
 
 ### \_\_tid\_SkelMeshComponentLODInfo\_\_
 
 • `Private` **\_\_tid\_SkelMeshComponentLODInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4596)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4594)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4595)

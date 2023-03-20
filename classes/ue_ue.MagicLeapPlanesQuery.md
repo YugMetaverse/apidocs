@@ -33,10 +33,6 @@
 
 • **new MagicLeapPlanesQuery**()
 
-#### Defined in
-
-[ue/ue.d.ts:46986](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46986)
-
 • **new MagicLeapPlanesQuery**(`Flags`, `SearchVolume`, `MaxResults`, `MinHoleLength`, `MinPlaneArea`, `SearchVolumePosition`, `SearchVolumeOrientation`, `SearchVolumeExtents`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `SearchVolumeOrientation` | [`Quat`](ue_ue_s.Quat.md) |
 | `SearchVolumeExtents` | [`Vector`](ue_ue_s.Vector.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:46987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46987)
-
 ## Properties
 
 ### Flags
 
 • **Flags**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`EMagicLeapPlaneQueryFlags`](../enums/ue_ue.EMagicLeapPlaneQueryFlags.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:46988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46988)
 
 ___
 
@@ -72,19 +60,11 @@ ___
 
 • **MaxResults**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:46990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46990)
-
 ___
 
 ### MinHoleLength
 
 • **MinHoleLength**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:46991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46991)
 
 ___
 
@@ -92,19 +72,11 @@ ___
 
 • **MinPlaneArea**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:46992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46992)
-
 ___
 
 ### SearchVolume
 
 • **SearchVolume**: [`BoxComponent`](ue_ue.BoxComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46989)
 
 ___
 
@@ -112,19 +84,11 @@ ___
 
 • **SearchVolumeExtents**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46995)
-
 ___
 
 ### SearchVolumeOrientation
 
 • **SearchVolumeOrientation**: [`Quat`](ue_ue_s.Quat.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46994)
 
 ___
 
@@ -132,19 +96,11 @@ ___
 
 • **SearchVolumePosition**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46993)
-
 ___
 
 ### \_\_tid\_MagicLeapPlanesQuery\_\_
 
 • `Private` **\_\_tid\_MagicLeapPlanesQuery\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:47001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47001)
 
 ## Methods
 
@@ -160,10 +116,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46999)
-
 ___
 
 ### StaticStruct
@@ -173,7 +125,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:47000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47000)

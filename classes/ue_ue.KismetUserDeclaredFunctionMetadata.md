@@ -34,10 +34,6 @@
 
 • **new KismetUserDeclaredFunctionMetadata**()
 
-#### Defined in
-
-[ue/ue.d.ts:41039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41039)
-
 • **new KismetUserDeclaredFunctionMetadata**(`ToolTip`, `Category`, `Keywords`, `CompactNodeTitle`, `InstanceTitleColor`, `DeprecationMessage`, `bIsDeprecated`, `bCallInEditor`, `HasLatentFunctions`)
 
 #### Parameters
@@ -54,19 +50,11 @@
 | `bCallInEditor` | `boolean` |
 | `HasLatentFunctions` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:41040](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41040)
-
 ## Properties
 
 ### Category
 
 • **Category**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:41042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41042)
 
 ___
 
@@ -74,19 +62,11 @@ ___
 
 • **CompactNodeTitle**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:41044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41044)
-
 ___
 
 ### DeprecationMessage
 
 • **DeprecationMessage**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:41046](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41046)
 
 ___
 
@@ -94,19 +74,11 @@ ___
 
 • **HasLatentFunctions**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:41049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41049)
-
 ___
 
 ### InstanceTitleColor
 
 • **InstanceTitleColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:41045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41045)
 
 ___
 
@@ -114,19 +86,11 @@ ___
 
 • **Keywords**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:41043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41043)
-
 ___
 
 ### ToolTip
 
 • **ToolTip**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:41041](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41041)
 
 ___
 
@@ -134,29 +98,17 @@ ___
 
 • `Private` **\_\_tid\_KismetUserDeclaredFunctionMetadata\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:41055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41055)
-
 ___
 
 ### bCallInEditor
 
 • **bCallInEditor**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:41048](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41048)
-
 ___
 
 ### bIsDeprecated
 
 • **bIsDeprecated**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:41047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41047)
 
 ## Methods
 
@@ -172,10 +124,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:41053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41053)
-
 ___
 
 ### StaticStruct
@@ -185,7 +133,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:41054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41054)

@@ -19,19 +19,11 @@
 
 • **DoNotOutputChannel** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9005)
-
 ___
 
 ### EUVOutput\_MAX
 
 • **EUVOutput\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9005)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **OutputChannel** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9005)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9005)

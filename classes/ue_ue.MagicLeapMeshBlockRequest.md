@@ -27,10 +27,6 @@
 
 • **new MagicLeapMeshBlockRequest**()
 
-#### Defined in
-
-[ue/ue.d.ts:46892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46892)
-
 • **new MagicLeapMeshBlockRequest**(`BlockID`, `LevelOfDetail`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `BlockID` | [`Guid`](ue_ue_s.Guid.md) |
 | `LevelOfDetail` | [`EMagicLeapMeshLOD`](../enums/ue_ue.EMagicLeapMeshLOD.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:46893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46893)
-
 ## Properties
 
 ### BlockID
 
 • **BlockID**: [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46894)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **LevelOfDetail**: [`EMagicLeapMeshLOD`](../enums/ue_ue.EMagicLeapMeshLOD.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46895)
-
 ___
 
 ### \_\_tid\_MagicLeapMeshBlockRequest\_\_
 
 • `Private` **\_\_tid\_MagicLeapMeshBlockRequest\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46901)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46899)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46900)

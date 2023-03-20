@@ -226,10 +226,6 @@
 
 [SynthComponent](ue_ue.SynthComponent.md).[constructor](ue_ue.SynthComponent.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:50385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50385)
-
 ## Properties
 
 ### AssetUserData
@@ -239,10 +235,6 @@
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[AssetUserData](ue_ue.SynthComponent.md#assetuserdata)
-
-#### Defined in
-
-[ue/ue.d.ts:291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L291)
 
 ___
 
@@ -254,10 +246,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[AttachChildren](ue_ue.SynthComponent.md#attachchildren)
 
-#### Defined in
-
-[ue/ue.d.ts:12873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12873)
-
 ___
 
 ### AttachParent
@@ -267,10 +255,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[AttachParent](ue_ue.SynthComponent.md#attachparent)
-
-#### Defined in
-
-[ue/ue.d.ts:12871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12871)
 
 ___
 
@@ -282,10 +266,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[AttachSocketName](ue_ue.SynthComponent.md#attachsocketname)
 
-#### Defined in
-
-[ue/ue.d.ts:12872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12872)
-
 ___
 
 ### AttenuationOverrides
@@ -295,10 +275,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[AttenuationOverrides](ue_ue.SynthComponent.md#attenuationoverrides)
-
-#### Defined in
-
-[ue/ue.d.ts:22333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22333)
 
 ___
 
@@ -310,10 +286,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[AttenuationSettings](ue_ue.SynthComponent.md#attenuationsettings)
 
-#### Defined in
-
-[ue/ue.d.ts:22332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22332)
-
 ___
 
 ### AudioComponent
@@ -323,10 +295,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[AudioComponent](ue_ue.SynthComponent.md#audiocomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:22349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22349)
 
 ___
 
@@ -338,19 +306,11 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[BusSends](ue_ue.SynthComponent.md#bussends)
 
-#### Defined in
-
-[ue/ue.d.ts:22340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22340)
-
 ___
 
 ### Channels
 
 • **Channels**: [`EMediaSoundChannels`](../enums/ue_ue.EMediaSoundChannels.md)
-
-#### Defined in
-
-[ue/ue.d.ts:50386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50386)
 
 ___
 
@@ -362,10 +322,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[ClientAttachedChildren](ue_ue.SynthComponent.md#clientattachedchildren)
 
-#### Defined in
-
-[ue/ue.d.ts:12874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12874)
-
 ___
 
 ### ComponentTags
@@ -375,10 +331,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[ComponentTags](ue_ue.SynthComponent.md#componenttags)
-
-#### Defined in
-
-[ue/ue.d.ts:290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L290)
 
 ___
 
@@ -390,10 +342,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[ComponentVelocity](ue_ue.SynthComponent.md#componentvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12878)
-
 ___
 
 ### ConcurrencySet
@@ -403,10 +351,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[ConcurrencySet](ue_ue.SynthComponent.md#concurrencyset)
-
-#### Defined in
-
-[ue/ue.d.ts:22335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22335)
 
 ___
 
@@ -418,10 +362,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[ConcurrencySettings](ue_ue.SynthComponent.md#concurrencysettings)
 
-#### Defined in
-
-[ue/ue.d.ts:22334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22334)
-
 ___
 
 ### CreationMethod
@@ -431,10 +371,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[CreationMethod](ue_ue.SynthComponent.md#creationmethod)
-
-#### Defined in
-
-[ue/ue.d.ts:302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L302)
 
 ___
 
@@ -446,19 +382,11 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[DetailMode](ue_ue.SynthComponent.md#detailmode)
 
-#### Defined in
-
-[ue/ue.d.ts:12893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12893)
-
 ___
 
 ### DynamicRateAdjustment
 
 • **DynamicRateAdjustment**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50387)
 
 ___
 
@@ -470,10 +398,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[EnvelopeFollowerAttackTime](ue_ue.SynthComponent.md#envelopefollowerattacktime)
 
-#### Defined in
-
-[ue/ue.d.ts:22345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22345)
-
 ___
 
 ### EnvelopeFollowerReleaseTime
@@ -484,19 +408,11 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[EnvelopeFollowerReleaseTime](ue_ue.SynthComponent.md#envelopefollowerreleasetime)
 
-#### Defined in
-
-[ue/ue.d.ts:22346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22346)
-
 ___
 
 ### MediaPlayer
 
 • **MediaPlayer**: [`MediaPlayer`](ue_ue.MediaPlayer.md)
-
-#### Defined in
-
-[ue/ue.d.ts:50390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50390)
 
 ___
 
@@ -508,10 +424,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[Mobility](ue_ue.SynthComponent.md#mobility)
 
-#### Defined in
-
-[ue/ue.d.ts:12892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12892)
-
 ___
 
 ### Modulation
@@ -521,10 +433,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[Modulation](ue_ue.SynthComponent.md#modulation)
-
-#### Defined in
-
-[ue/ue.d.ts:22341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22341)
 
 ___
 
@@ -536,10 +444,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[OnAudioEnvelopeValue](ue_ue.SynthComponent.md#onaudioenvelopevalue)
 
-#### Defined in
-
-[ue/ue.d.ts:22347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22347)
-
 ___
 
 ### OnComponentActivated
@@ -549,10 +453,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[OnComponentActivated](ue_ue.SynthComponent.md#oncomponentactivated)
-
-#### Defined in
-
-[ue/ue.d.ts:303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L303)
 
 ___
 
@@ -564,10 +464,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[OnComponentDeactivated](ue_ue.SynthComponent.md#oncomponentdeactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L304)
-
 ___
 
 ### PhysicsVolume
@@ -577,10 +473,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[PhysicsVolume](ue_ue.SynthComponent.md#physicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12870)
 
 ___
 
@@ -592,10 +484,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[PhysicsVolumeChangedDelegate](ue_ue.SynthComponent.md#physicsvolumechangeddelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:12894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12894)
-
 ___
 
 ### PreEffectBusSends
@@ -605,10 +493,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[PreEffectBusSends](ue_ue.SynthComponent.md#preeffectbussends)
-
-#### Defined in
-
-[ue/ue.d.ts:22342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22342)
 
 ___
 
@@ -620,29 +504,17 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[PrimaryComponentTick](ue_ue.SynthComponent.md#primarycomponenttick)
 
-#### Defined in
-
-[ue/ue.d.ts:289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L289)
-
 ___
 
 ### RateAdjustmentFactor
 
 • **RateAdjustmentFactor**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:50388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50388)
-
 ___
 
 ### RateAdjustmentRange
 
 • **RateAdjustmentRange**: [`FloatRange`](ue_ue.FloatRange.md)
-
-#### Defined in
-
-[ue/ue.d.ts:50389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50389)
 
 ___
 
@@ -654,10 +526,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[RelativeLocation](ue_ue.SynthComponent.md#relativelocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12875)
-
 ___
 
 ### RelativeRotation
@@ -667,10 +535,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[RelativeRotation](ue_ue.SynthComponent.md#relativerotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12876)
 
 ___
 
@@ -682,10 +546,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[RelativeScale3D](ue_ue.SynthComponent.md#relativescale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:12877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12877)
-
 ___
 
 ### SoundClass
@@ -695,10 +555,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[SoundClass](ue_ue.SynthComponent.md#soundclass)
-
-#### Defined in
-
-[ue/ue.d.ts:22336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22336)
 
 ___
 
@@ -710,10 +566,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[SoundSubmix](ue_ue.SynthComponent.md#soundsubmix)
 
-#### Defined in
-
-[ue/ue.d.ts:22338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22338)
-
 ___
 
 ### SoundSubmixSends
@@ -723,10 +575,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[SoundSubmixSends](ue_ue.SynthComponent.md#soundsubmixsends)
-
-#### Defined in
-
-[ue/ue.d.ts:22339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22339)
 
 ___
 
@@ -738,10 +586,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[SourceEffectChain](ue_ue.SynthComponent.md#sourceeffectchain)
 
-#### Defined in
-
-[ue/ue.d.ts:22337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22337)
-
 ___
 
 ### Synth
@@ -751,10 +595,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[Synth](ue_ue.SynthComponent.md#synth)
-
-#### Defined in
-
-[ue/ue.d.ts:22348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22348)
 
 ___
 
@@ -766,10 +606,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[UCSModifiedProperties](ue_ue.SynthComponent.md#ucsmodifiedproperties)
 
-#### Defined in
-
-[ue/ue.d.ts:305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L305)
-
 ___
 
 ### \_\_tid\_ActorComponent\_\_
@@ -780,19 +616,11 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[__tid_ActorComponent__](ue_ue.SynthComponent.md#__tid_actorcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L336)
-
 ___
 
 ### \_\_tid\_MediaSoundComponent\_\_
 
 • **\_\_tid\_MediaSoundComponent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50404)
 
 ___
 
@@ -804,10 +632,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[__tid_Object__](ue_ue.SynthComponent.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_SceneComponent\_\_
@@ -817,10 +641,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[__tid_SceneComponent__](ue_ue.SynthComponent.md#__tid_scenecomponent__)
-
-#### Defined in
-
-[ue/ue.d.ts:12961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12961)
 
 ___
 
@@ -832,10 +652,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[__tid_SynthComponent__](ue_ue.SynthComponent.md#__tid_synthcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:22359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22359)
-
 ___
 
 ### bAbsoluteLocation
@@ -845,10 +661,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[bAbsoluteLocation](ue_ue.SynthComponent.md#babsolutelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12880)
 
 ___
 
@@ -860,10 +672,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[bAbsoluteRotation](ue_ue.SynthComponent.md#babsoluterotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12881)
-
 ___
 
 ### bAbsoluteScale
@@ -873,10 +681,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[bAbsoluteScale](ue_ue.SynthComponent.md#babsolutescale)
-
-#### Defined in
-
-[ue/ue.d.ts:12882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12882)
 
 ___
 
@@ -888,10 +692,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[bAllowSpatialization](ue_ue.SynthComponent.md#ballowspatialization)
 
-#### Defined in
-
-[ue/ue.d.ts:22329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22329)
-
 ___
 
 ### bAutoActivate
@@ -901,10 +701,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[bAutoActivate](ue_ue.SynthComponent.md#bautoactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L296)
 
 ___
 
@@ -916,10 +712,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[bAutoDestroy](ue_ue.SynthComponent.md#bautodestroy)
 
-#### Defined in
-
-[ue/ue.d.ts:22327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22327)
-
 ___
 
 ### bBoundsChangeTriggersStreamingDataRebuild
@@ -929,10 +721,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[bBoundsChangeTriggersStreamingDataRebuild](ue_ue.SynthComponent.md#bboundschangetriggersstreamingdatarebuild)
-
-#### Defined in
-
-[ue/ue.d.ts:12889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12889)
 
 ___
 
@@ -944,10 +732,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[bCanEverAffectNavigation](ue_ue.SynthComponent.md#bcaneveraffectnavigation)
 
-#### Defined in
-
-[ue/ue.d.ts:299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L299)
-
 ___
 
 ### bComponentToWorldUpdated
@@ -957,10 +741,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[bComponentToWorldUpdated](ue_ue.SynthComponent.md#bcomponenttoworldupdated)
-
-#### Defined in
-
-[ue/ue.d.ts:12879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12879)
 
 ___
 
@@ -972,10 +752,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[bCreatedByConstructionScript](ue_ue.SynthComponent.md#bcreatedbyconstructionscript)
 
-#### Defined in
-
-[ue/ue.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L294)
-
 ___
 
 ### bEditableWhenInherited
@@ -985,10 +761,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[bEditableWhenInherited](ue_ue.SynthComponent.md#beditablewheninherited)
-
-#### Defined in
-
-[ue/ue.d.ts:298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L298)
 
 ___
 
@@ -1000,10 +772,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[bHiddenInGame](ue_ue.SynthComponent.md#bhiddeningame)
 
-#### Defined in
-
-[ue/ue.d.ts:12884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12884)
-
 ___
 
 ### bInstanceComponent
@@ -1013,10 +781,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[bInstanceComponent](ue_ue.SynthComponent.md#binstancecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L295)
 
 ___
 
@@ -1028,10 +792,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[bIsActive](ue_ue.SynthComponent.md#bisactive)
 
-#### Defined in
-
-[ue/ue.d.ts:297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L297)
-
 ___
 
 ### bIsEditorOnly
@@ -1041,10 +801,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[bIsEditorOnly](ue_ue.SynthComponent.md#biseditoronly)
-
-#### Defined in
-
-[ue/ue.d.ts:300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L300)
 
 ___
 
@@ -1056,10 +812,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[bIsPreviewSound](ue_ue.SynthComponent.md#bispreviewsound)
 
-#### Defined in
-
-[ue/ue.d.ts:22344](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22344)
-
 ___
 
 ### bIsUISound
@@ -1069,10 +821,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[bIsUISound](ue_ue.SynthComponent.md#bisuisound)
-
-#### Defined in
-
-[ue/ue.d.ts:22343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22343)
 
 ___
 
@@ -1084,10 +832,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[bIsVisualizationComponent](ue_ue.SynthComponent.md#bisvisualizationcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L301)
-
 ___
 
 ### bNetAddressable
@@ -1097,10 +841,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[bNetAddressable](ue_ue.SynthComponent.md#bnetaddressable)
-
-#### Defined in
-
-[ue/ue.d.ts:293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L293)
 
 ___
 
@@ -1112,10 +852,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[bOutputToBusOnly](ue_ue.SynthComponent.md#boutputtobusonly)
 
-#### Defined in
-
-[ue/ue.d.ts:22331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22331)
-
 ___
 
 ### bOverrideAttenuation
@@ -1125,10 +861,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[bOverrideAttenuation](ue_ue.SynthComponent.md#boverrideattenuation)
-
-#### Defined in
-
-[ue/ue.d.ts:22330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22330)
 
 ___
 
@@ -1140,10 +872,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[bReplicates](ue_ue.SynthComponent.md#breplicates)
 
-#### Defined in
-
-[ue/ue.d.ts:292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L292)
-
 ___
 
 ### bShouldBeAttached
@@ -1153,10 +881,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[bShouldBeAttached](ue_ue.SynthComponent.md#bshouldbeattached)
-
-#### Defined in
-
-[ue/ue.d.ts:12885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12885)
 
 ___
 
@@ -1168,10 +892,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[bShouldSnapLocationWhenAttached](ue_ue.SynthComponent.md#bshouldsnaplocationwhenattached)
 
-#### Defined in
-
-[ue/ue.d.ts:12886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12886)
-
 ___
 
 ### bShouldSnapRotationWhenAttached
@@ -1181,10 +901,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[bShouldSnapRotationWhenAttached](ue_ue.SynthComponent.md#bshouldsnaprotationwhenattached)
-
-#### Defined in
-
-[ue/ue.d.ts:12887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12887)
 
 ___
 
@@ -1196,10 +912,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[bShouldUpdatePhysicsVolume](ue_ue.SynthComponent.md#bshouldupdatephysicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12888)
-
 ___
 
 ### bStopWhenOwnerDestroyed
@@ -1209,10 +921,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[bStopWhenOwnerDestroyed](ue_ue.SynthComponent.md#bstopwhenownerdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:22328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22328)
 
 ___
 
@@ -1224,10 +932,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[bUseAttachParentBound](ue_ue.SynthComponent.md#buseattachparentbound)
 
-#### Defined in
-
-[ue/ue.d.ts:12890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12890)
-
 ___
 
 ### bVisible
@@ -1238,10 +942,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[bVisible](ue_ue.SynthComponent.md#bvisible)
 
-#### Defined in
-
-[ue/ue.d.ts:12883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12883)
-
 ___
 
 ### bVisualizeComponent
@@ -1251,10 +951,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[bVisualizeComponent](ue_ue.SynthComponent.md#bvisualizecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12891)
 
 ## Methods
 
@@ -1276,10 +972,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[Activate](ue_ue.SynthComponent.md#activate)
 
-#### Defined in
-
-[ue/ue.d.ts:306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L306)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -1299,10 +991,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[AddTickPrerequisiteActor](ue_ue.SynthComponent.md#addtickprerequisiteactor)
-
-#### Defined in
-
-[ue/ue.d.ts:307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L307)
 
 ___
 
@@ -1324,10 +1012,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[AddTickPrerequisiteComponent](ue_ue.SynthComponent.md#addtickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L308)
-
 ___
 
 ### BP\_GetAttenuationSettingsToApply
@@ -1343,10 +1027,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50391)
 
 ___
 
@@ -1367,10 +1047,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[ComponentHasTag](ue_ue.SynthComponent.md#componenthastag)
-
-#### Defined in
-
-[ue/ue.d.ts:309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L309)
 
 ___
 
@@ -1396,10 +1072,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[CreateDefaultSubobject](ue_ue.SynthComponent.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### Deactivate
@@ -1413,10 +1085,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[Deactivate](ue_ue.SynthComponent.md#deactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L310)
 
 ___
 
@@ -1439,10 +1107,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[DetachFromParent](ue_ue.SynthComponent.md#detachfromparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12895)
-
 ___
 
 ### DoesSocketExist
@@ -1462,10 +1126,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[DoesSocketExist](ue_ue.SynthComponent.md#doessocketexist)
-
-#### Defined in
-
-[ue/ue.d.ts:12896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12896)
 
 ___
 
@@ -1487,10 +1147,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[ExecuteUbergraph](ue_ue.SynthComponent.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetAllSocketNames
@@ -1504,10 +1160,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[GetAllSocketNames](ue_ue.SynthComponent.md#getallsocketnames)
-
-#### Defined in
-
-[ue/ue.d.ts:12897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12897)
 
 ___
 
@@ -1523,10 +1175,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[GetAttachParent](ue_ue.SynthComponent.md#getattachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12898)
-
 ___
 
 ### GetAttachSocketName
@@ -1540,10 +1188,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[GetAttachSocketName](ue_ue.SynthComponent.md#getattachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12899)
 
 ___
 
@@ -1564,10 +1208,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[GetChildComponent](ue_ue.SynthComponent.md#getchildcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12900)
 
 ___
 
@@ -1590,10 +1230,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[GetChildrenComponents](ue_ue.SynthComponent.md#getchildrencomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12901)
-
 ___
 
 ### GetClass
@@ -1607,10 +1243,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[GetClass](ue_ue.SynthComponent.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -1626,10 +1258,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[GetComponentTickInterval](ue_ue.SynthComponent.md#getcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L311)
-
 ___
 
 ### GetComponentVelocity
@@ -1644,10 +1272,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[GetComponentVelocity](ue_ue.SynthComponent.md#getcomponentvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12902)
-
 ___
 
 ### GetEnvelopeValue
@@ -1657,10 +1281,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:50392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50392)
 
 ___
 
@@ -1676,10 +1296,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[GetForwardVector](ue_ue.SynthComponent.md#getforwardvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12903)
-
 ___
 
 ### GetMediaPlayer
@@ -1689,10 +1305,6 @@ ___
 #### Returns
 
 [`MediaPlayer`](ue_ue.MediaPlayer.md)
-
-#### Defined in
-
-[ue/ue.d.ts:50393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50393)
 
 ___
 
@@ -1708,10 +1320,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[GetName](ue_ue.SynthComponent.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetNumChildrenComponents
@@ -1725,10 +1333,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[GetNumChildrenComponents](ue_ue.SynthComponent.md#getnumchildrencomponents)
-
-#### Defined in
-
-[ue/ue.d.ts:12904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12904)
 
 ___
 
@@ -1744,10 +1348,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[GetOuter](ue_ue.SynthComponent.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetOwner
@@ -1761,10 +1361,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[GetOwner](ue_ue.SynthComponent.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L312)
 
 ___
 
@@ -1786,10 +1382,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[GetParentComponents](ue_ue.SynthComponent.md#getparentcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12905)
-
 ___
 
 ### GetPhysicsVolume
@@ -1803,10 +1395,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[GetPhysicsVolume](ue_ue.SynthComponent.md#getphysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12906)
 
 ___
 
@@ -1822,10 +1410,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[GetRelativeTransform](ue_ue.SynthComponent.md#getrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12907)
-
 ___
 
 ### GetRightVector
@@ -1840,10 +1424,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[GetRightVector](ue_ue.SynthComponent.md#getrightvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12908)
-
 ___
 
 ### GetShouldUpdatePhysicsVolume
@@ -1857,10 +1437,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[GetShouldUpdatePhysicsVolume](ue_ue.SynthComponent.md#getshouldupdatephysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12909)
 
 ___
 
@@ -1882,10 +1458,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[GetSocketLocation](ue_ue.SynthComponent.md#getsocketlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12910)
-
 ___
 
 ### GetSocketQuaternion
@@ -1906,10 +1478,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[GetSocketQuaternion](ue_ue.SynthComponent.md#getsocketquaternion)
 
-#### Defined in
-
-[ue/ue.d.ts:12911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12911)
-
 ___
 
 ### GetSocketRotation
@@ -1929,10 +1497,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[GetSocketRotation](ue_ue.SynthComponent.md#getsocketrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12912)
 
 ___
 
@@ -1955,10 +1519,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[GetSocketTransform](ue_ue.SynthComponent.md#getsockettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12913)
-
 ___
 
 ### GetSpectralData
@@ -1968,10 +1528,6 @@ ___
 #### Returns
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MediaSoundComponentSpectralData`](ue_ue.MediaSoundComponentSpectralData.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:50394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50394)
 
 ___
 
@@ -1987,10 +1543,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[GetUpVector](ue_ue.SynthComponent.md#getupvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12914)
-
 ___
 
 ### GetWorld
@@ -2004,10 +1556,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[GetWorld](ue_ue.SynthComponent.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -2023,10 +1571,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[IsActive](ue_ue.SynthComponent.md#isactive)
 
-#### Defined in
-
-[ue/ue.d.ts:313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L313)
-
 ___
 
 ### IsAnySimulatingPhysics
@@ -2040,10 +1584,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[IsAnySimulatingPhysics](ue_ue.SynthComponent.md#isanysimulatingphysics)
-
-#### Defined in
-
-[ue/ue.d.ts:12915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12915)
 
 ___
 
@@ -2059,10 +1599,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[IsBeingDestroyed](ue_ue.SynthComponent.md#isbeingdestroyed)
 
-#### Defined in
-
-[ue/ue.d.ts:314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L314)
-
 ___
 
 ### IsComponentTickEnabled
@@ -2077,10 +1613,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[IsComponentTickEnabled](ue_ue.SynthComponent.md#iscomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L315)
-
 ___
 
 ### IsPlaying
@@ -2094,10 +1626,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[IsPlaying](ue_ue.SynthComponent.md#isplaying)
-
-#### Defined in
-
-[ue/ue.d.ts:22350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22350)
 
 ___
 
@@ -2119,10 +1647,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[IsSimulatingPhysics](ue_ue.SynthComponent.md#issimulatingphysics)
 
-#### Defined in
-
-[ue/ue.d.ts:12916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12916)
-
 ___
 
 ### IsVisible
@@ -2136,10 +1660,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[IsVisible](ue_ue.SynthComponent.md#isvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:12917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12917)
 
 ___
 
@@ -2164,10 +1684,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[K2_AddLocalOffset](ue_ue.SynthComponent.md#k2_addlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:12918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12918)
-
 ___
 
 ### K2\_AddLocalRotation
@@ -2190,10 +1706,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[K2_AddLocalRotation](ue_ue.SynthComponent.md#k2_addlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12919)
 
 ___
 
@@ -2218,10 +1730,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[K2_AddLocalTransform](ue_ue.SynthComponent.md#k2_addlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12920)
-
 ___
 
 ### K2\_AddRelativeLocation
@@ -2244,10 +1752,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[K2_AddRelativeLocation](ue_ue.SynthComponent.md#k2_addrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12921)
 
 ___
 
@@ -2272,10 +1776,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[K2_AddRelativeRotation](ue_ue.SynthComponent.md#k2_addrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12922)
-
 ___
 
 ### K2\_AddWorldOffset
@@ -2298,10 +1798,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[K2_AddWorldOffset](ue_ue.SynthComponent.md#k2_addworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:12923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12923)
 
 ___
 
@@ -2326,10 +1822,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[K2_AddWorldRotation](ue_ue.SynthComponent.md#k2_addworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12924)
-
 ___
 
 ### K2\_AddWorldTransform
@@ -2353,10 +1845,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[K2_AddWorldTransform](ue_ue.SynthComponent.md#k2_addworldtransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12925)
-
 ___
 
 ### K2\_AttachTo
@@ -2379,10 +1867,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[K2_AttachTo](ue_ue.SynthComponent.md#k2_attachto)
-
-#### Defined in
-
-[ue/ue.d.ts:12926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12926)
 
 ___
 
@@ -2409,10 +1893,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[K2_AttachToComponent](ue_ue.SynthComponent.md#k2_attachtocomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12927)
-
 ___
 
 ### K2\_DestroyComponent
@@ -2432,10 +1912,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[K2_DestroyComponent](ue_ue.SynthComponent.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L316)
 
 ___
 
@@ -2460,10 +1936,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[K2_DetachFromComponent](ue_ue.SynthComponent.md#k2_detachfromcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12928)
-
 ___
 
 ### K2\_GetComponentLocation
@@ -2477,10 +1949,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[K2_GetComponentLocation](ue_ue.SynthComponent.md#k2_getcomponentlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12929)
 
 ___
 
@@ -2496,10 +1964,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[K2_GetComponentRotation](ue_ue.SynthComponent.md#k2_getcomponentrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12930)
-
 ___
 
 ### K2\_GetComponentScale
@@ -2514,10 +1978,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[K2_GetComponentScale](ue_ue.SynthComponent.md#k2_getcomponentscale)
 
-#### Defined in
-
-[ue/ue.d.ts:12931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12931)
-
 ___
 
 ### K2\_GetComponentToWorld
@@ -2531,10 +1991,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[K2_GetComponentToWorld](ue_ue.SynthComponent.md#k2_getcomponenttoworld)
-
-#### Defined in
-
-[ue/ue.d.ts:12932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12932)
 
 ___
 
@@ -2558,10 +2014,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[K2_SetRelativeLocation](ue_ue.SynthComponent.md#k2_setrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12933)
 
 ___
 
@@ -2587,10 +2039,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[K2_SetRelativeLocationAndRotation](ue_ue.SynthComponent.md#k2_setrelativelocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12934)
-
 ___
 
 ### K2\_SetRelativeRotation
@@ -2613,10 +2061,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[K2_SetRelativeRotation](ue_ue.SynthComponent.md#k2_setrelativerotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12935)
 
 ___
 
@@ -2641,10 +2085,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[K2_SetRelativeTransform](ue_ue.SynthComponent.md#k2_setrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12936)
-
 ___
 
 ### K2\_SetWorldLocation
@@ -2667,10 +2107,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[K2_SetWorldLocation](ue_ue.SynthComponent.md#k2_setworldlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12937)
 
 ___
 
@@ -2696,10 +2132,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[K2_SetWorldLocationAndRotation](ue_ue.SynthComponent.md#k2_setworldlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12938)
-
 ___
 
 ### K2\_SetWorldRotation
@@ -2722,10 +2154,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[K2_SetWorldRotation](ue_ue.SynthComponent.md#k2_setworldrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12939)
 
 ___
 
@@ -2750,10 +2178,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[K2_SetWorldTransform](ue_ue.SynthComponent.md#k2_setworldtransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12940)
-
 ___
 
 ### OnRep\_AttachChildren
@@ -2767,10 +2191,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[OnRep_AttachChildren](ue_ue.SynthComponent.md#onrep_attachchildren)
-
-#### Defined in
-
-[ue/ue.d.ts:12941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12941)
 
 ___
 
@@ -2786,10 +2206,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[OnRep_AttachParent](ue_ue.SynthComponent.md#onrep_attachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12942)
-
 ___
 
 ### OnRep\_AttachSocketName
@@ -2803,10 +2219,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[OnRep_AttachSocketName](ue_ue.SynthComponent.md#onrep_attachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12943)
 
 ___
 
@@ -2822,10 +2234,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[OnRep_IsActive](ue_ue.SynthComponent.md#onrep_isactive)
 
-#### Defined in
-
-[ue/ue.d.ts:317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L317)
-
 ___
 
 ### OnRep\_Transform
@@ -2839,10 +2247,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[OnRep_Transform](ue_ue.SynthComponent.md#onrep_transform)
-
-#### Defined in
-
-[ue/ue.d.ts:12944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12944)
 
 ___
 
@@ -2864,10 +2268,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[OnRep_Visibility](ue_ue.SynthComponent.md#onrep_visibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12945)
-
 ___
 
 ### ReceiveBeginPlay
@@ -2881,10 +2281,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[ReceiveBeginPlay](ue_ue.SynthComponent.md#receivebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L318)
 
 ___
 
@@ -2906,10 +2302,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[ReceiveEndPlay](ue_ue.SynthComponent.md#receiveendplay)
 
-#### Defined in
-
-[ue/ue.d.ts:319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L319)
-
 ___
 
 ### ReceiveTick
@@ -2930,10 +2322,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[ReceiveTick](ue_ue.SynthComponent.md#receivetick)
 
-#### Defined in
-
-[ue/ue.d.ts:320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L320)
-
 ___
 
 ### RegisterComponent
@@ -2947,10 +2335,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[RegisterComponent](ue_ue.SynthComponent.md#registercomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L321)
 
 ___
 
@@ -2972,10 +2356,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[RemoveTickPrerequisiteActor](ue_ue.SynthComponent.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -2996,10 +2376,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[RemoveTickPrerequisiteComponent](ue_ue.SynthComponent.md#removetickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L323)
-
 ___
 
 ### ResetRelativeTransform
@@ -3013,10 +2389,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[ResetRelativeTransform](ue_ue.SynthComponent.md#resetrelativetransform)
-
-#### Defined in
-
-[ue/ue.d.ts:12946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12946)
 
 ___
 
@@ -3040,10 +2412,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[SetAbsolute](ue_ue.SynthComponent.md#setabsolute)
 
-#### Defined in
-
-[ue/ue.d.ts:12947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12947)
-
 ___
 
 ### SetActive
@@ -3065,10 +2433,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[SetActive](ue_ue.SynthComponent.md#setactive)
 
-#### Defined in
-
-[ue/ue.d.ts:324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L324)
-
 ___
 
 ### SetAutoActivate
@@ -3088,10 +2452,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[SetAutoActivate](ue_ue.SynthComponent.md#setautoactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L325)
 
 ___
 
@@ -3113,10 +2473,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[SetComponentTickEnabled](ue_ue.SynthComponent.md#setcomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L326)
-
 ___
 
 ### SetComponentTickInterval
@@ -3137,10 +2493,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[SetComponentTickInterval](ue_ue.SynthComponent.md#setcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L327)
-
 ___
 
 ### SetEnableEnvelopeFollowing
@@ -3156,10 +2508,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:50395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50395)
 
 ___
 
@@ -3177,10 +2525,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:50396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50396)
-
 ___
 
 ### SetEnvelopeFollowingsettings
@@ -3197,10 +2541,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:50397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50397)
 
 ___
 
@@ -3223,10 +2563,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[SetHiddenInGame](ue_ue.SynthComponent.md#sethiddeningame)
 
-#### Defined in
-
-[ue/ue.d.ts:12948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12948)
-
 ___
 
 ### SetIsReplicated
@@ -3247,10 +2583,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[SetIsReplicated](ue_ue.SynthComponent.md#setisreplicated)
 
-#### Defined in
-
-[ue/ue.d.ts:328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L328)
-
 ___
 
 ### SetMediaPlayer
@@ -3266,10 +2598,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:50398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50398)
 
 ___
 
@@ -3291,10 +2619,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[SetMobility](ue_ue.SynthComponent.md#setmobility)
 
-#### Defined in
-
-[ue/ue.d.ts:12949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12949)
-
 ___
 
 ### SetRelativeScale3D
@@ -3314,10 +2638,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[SetRelativeScale3D](ue_ue.SynthComponent.md#setrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:12950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12950)
 
 ___
 
@@ -3339,10 +2659,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[SetShouldUpdatePhysicsVolume](ue_ue.SynthComponent.md#setshouldupdatephysicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12951)
-
 ___
 
 ### SetSpectralAnalysisSettings
@@ -3359,10 +2675,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:50399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50399)
 
 ___
 
@@ -3385,10 +2697,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[SetSubmixSend](ue_ue.SynthComponent.md#setsubmixsend)
 
-#### Defined in
-
-[ue/ue.d.ts:22351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22351)
-
 ___
 
 ### SetTickGroup
@@ -3409,10 +2717,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[SetTickGroup](ue_ue.SynthComponent.md#settickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L330)
-
 ___
 
 ### SetTickableWhenPaused
@@ -3432,10 +2736,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[SetTickableWhenPaused](ue_ue.SynthComponent.md#settickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L329)
 
 ___
 
@@ -3458,10 +2758,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[SetVisibility](ue_ue.SynthComponent.md#setvisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12953)
-
 ___
 
 ### SetVolumeMultiplier
@@ -3482,10 +2778,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[SetVolumeMultiplier](ue_ue.SynthComponent.md#setvolumemultiplier)
 
-#### Defined in
-
-[ue/ue.d.ts:22352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22352)
-
 ___
 
 ### SetWorldScale3D
@@ -3505,10 +2797,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[SetWorldScale3D](ue_ue.SynthComponent.md#setworldscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:12954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12954)
 
 ___
 
@@ -3531,10 +2819,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[SetupAttachment](ue_ue.SynthComponent.md#setupattachment)
 
-#### Defined in
-
-[ue/ue.d.ts:12952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12952)
-
 ___
 
 ### SnapTo
@@ -3556,10 +2840,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[SnapTo](ue_ue.SynthComponent.md#snapto)
 
-#### Defined in
-
-[ue/ue.d.ts:12955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12955)
-
 ___
 
 ### Start
@@ -3573,10 +2853,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[Start](ue_ue.SynthComponent.md#start)
-
-#### Defined in
-
-[ue/ue.d.ts:22353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22353)
 
 ___
 
@@ -3592,10 +2868,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[Stop](ue_ue.SynthComponent.md#stop)
 
-#### Defined in
-
-[ue/ue.d.ts:22354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22354)
-
 ___
 
 ### ToggleActive
@@ -3609,10 +2881,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[ToggleActive](ue_ue.SynthComponent.md#toggleactive)
-
-#### Defined in
-
-[ue/ue.d.ts:331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L331)
 
 ___
 
@@ -3633,10 +2901,6 @@ ___
 #### Inherited from
 
 [SynthComponent](ue_ue.SynthComponent.md).[ToggleVisibility](ue_ue.SynthComponent.md#togglevisibility)
-
-#### Defined in
-
-[ue/ue.d.ts:12956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12956)
 
 ___
 
@@ -3659,10 +2923,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[Find](ue_ue.SynthComponent.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:50401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50401)
-
 ___
 
 ### Load
@@ -3683,10 +2943,6 @@ ___
 
 [SynthComponent](ue_ue.SynthComponent.md).[Load](ue_ue.SynthComponent.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:50402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50402)
-
 ___
 
 ### StaticClass
@@ -3700,7 +2956,3 @@ ___
 #### Overrides
 
 [SynthComponent](ue_ue.SynthComponent.md).[StaticClass](ue_ue.SynthComponent.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:50400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50400)

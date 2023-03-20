@@ -30,10 +30,6 @@
 
 • **new AudioComponentParam**()
 
-#### Defined in
-
-[ue/ue.d.ts:16195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16195)
-
 • **new AudioComponentParam**(`ParamName`, `FloatParam`, `BoolParam`, `IntParam`, `SoundWaveParam`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `IntParam` | `number` |
 | `SoundWaveParam` | [`SoundWave`](ue_ue.SoundWave.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:16196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16196)
-
 ## Properties
 
 ### BoolParam
 
 • **BoolParam**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16199)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **FloatParam**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16198)
-
 ___
 
 ### IntParam
 
 • **IntParam**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16200)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **ParamName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:16197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16197)
-
 ___
 
 ### SoundWaveParam
 
 • **SoundWaveParam**: [`SoundWave`](ue_ue.SoundWave.md)
 
-#### Defined in
-
-[ue/ue.d.ts:16201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16201)
-
 ___
 
 ### \_\_tid\_AudioComponentParam\_\_
 
 • `Private` **\_\_tid\_AudioComponentParam\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16207)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:16205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16205)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:16206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16206)

@@ -29,10 +29,6 @@
 
 • **new EditorImportExportTestDefinition**()
 
-#### Defined in
-
-[ue/ue.d.ts:23158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23158)
-
 • **new EditorImportExportTestDefinition**(`ImportFilePath`, `ExportFileExtension`, `bSkipExport`, `FactorySettings`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `bSkipExport` | `boolean` |
 | `FactorySettings` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ImportFactorySettingValues`](ue_ue.ImportFactorySettingValues.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:23159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23159)
-
 ## Properties
 
 ### ExportFileExtension
 
 • **ExportFileExtension**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:23161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23161)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **FactorySettings**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ImportFactorySettingValues`](ue_ue.ImportFactorySettingValues.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:23163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23163)
-
 ___
 
 ### ImportFilePath
 
 • **ImportFilePath**: [`FilePath`](ue_ue.FilePath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:23160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23160)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • `Private` **\_\_tid\_EditorImportExportTestDefinition\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:23169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23169)
-
 ___
 
 ### bSkipExport
 
 • **bSkipExport**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:23162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23162)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23167)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:23168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23168)

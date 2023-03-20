@@ -32,10 +32,6 @@
 
 • **new SplinePoint**()
 
-#### Defined in
-
-[ue/ue.d.ts:25895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25895)
-
 • **new SplinePoint**(`InputKey`, `Position`, `ArriveTangent`, `LeaveTangent`, `Rotation`, `Scale`, `Type`)
 
 #### Parameters
@@ -50,19 +46,11 @@
 | `Scale` | [`Vector`](ue_ue_s.Vector.md) |
 | `Type` | [`ESplinePointType`](../enums/ue_ue.ESplinePointType.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:25896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25896)
-
 ## Properties
 
 ### ArriveTangent
 
 • **ArriveTangent**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25899)
 
 ___
 
@@ -70,19 +58,11 @@ ___
 
 • **InputKey**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25897)
-
 ___
 
 ### LeaveTangent
 
 • **LeaveTangent**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25900)
 
 ___
 
@@ -90,19 +70,11 @@ ___
 
 • **Position**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25898)
-
 ___
 
 ### Rotation
 
 • **Rotation**: [`Rotator`](ue_ue_s.Rotator.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25901)
 
 ___
 
@@ -110,29 +82,17 @@ ___
 
 • **Scale**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25902)
-
 ___
 
 ### Type
 
 • **Type**: [`ESplinePointType`](../enums/ue_ue.ESplinePointType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25903)
-
 ___
 
 ### \_\_tid\_SplinePoint\_\_
 
 • `Private` **\_\_tid\_SplinePoint\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:25909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25909)
 
 ## Methods
 
@@ -148,10 +108,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25907)
-
 ___
 
 ### StaticStruct
@@ -161,7 +117,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25908)

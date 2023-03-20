@@ -22,19 +22,11 @@
 
 • **BCST\_BLCS\_CALIBRATED\_RGB** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31383)
-
 ___
 
 ### BCST\_LCS\_WINDOWS\_COLOR\_SPACE
 
 • **BCST\_LCS\_WINDOWS\_COLOR\_SPACE** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31383)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **BCST\_LCS\_sRGB** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31383)
-
 ___
 
 ### BCST\_MAX
 
 • **BCST\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31383)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **BCST\_PROFILE\_EMBEDDED** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31383)
-
 ___
 
 ### BCST\_PROFILE\_LINKED
 
 • **BCST\_PROFILE\_LINKED** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31383)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31383)

@@ -20,19 +20,11 @@
 
 • **ESpriteCollisionMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34793)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34793)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Use2DPhysics** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34793)
-
 ___
 
 ### Use3DPhysics
 
 • **Use3DPhysics** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34793)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34793)

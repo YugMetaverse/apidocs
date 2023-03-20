@@ -30,10 +30,6 @@
 
 • **new LuminComponentElement**()
 
-#### Defined in
-
-[ue/ue.d.ts:46487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46487)
-
 • **new LuminComponentElement**(`Name`, `VisibleName`, `ExecutableName`, `ComponentType`, `ExtraComponentSubElements`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `ComponentType` | [`ELuminComponentType`](../enums/ue_ue.ELuminComponentType.md) |
 | `ExtraComponentSubElements` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`LuminComponentSubElement`](ue_ue.LuminComponentSubElement.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:46488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46488)
-
 ## Properties
 
 ### ComponentType
 
 • **ComponentType**: [`ELuminComponentType`](../enums/ue_ue.ELuminComponentType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46492)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **ExecutableName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:46491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46491)
-
 ___
 
 ### ExtraComponentSubElements
 
 • **ExtraComponentSubElements**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`LuminComponentSubElement`](ue_ue.LuminComponentSubElement.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:46493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46493)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:46489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46489)
-
 ___
 
 ### VisibleName
 
 • **VisibleName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:46490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46490)
-
 ___
 
 ### \_\_tid\_LuminComponentElement\_\_
 
 • `Private` **\_\_tid\_LuminComponentElement\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46499)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46497)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46498)

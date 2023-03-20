@@ -23,19 +23,11 @@
 
 • **Back** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34651)
-
 ___
 
 ### Bottom
 
 • **Bottom** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34651)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **EOrthoThumbnailDirection\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34651)
-
 ___
 
 ### Front
 
 • **Front** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34651)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **Left** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34651)
-
 ___
 
 ### Right
 
 • **Right** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34651)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **Top** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34651)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34651)

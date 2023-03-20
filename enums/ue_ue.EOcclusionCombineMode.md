@@ -19,19 +19,11 @@
 
 • **OCM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21394)
-
 ___
 
 ### OCM\_Minimum
 
 • **OCM\_Minimum** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21394)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **OCM\_Multiply** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21394)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21394)

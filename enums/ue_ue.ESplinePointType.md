@@ -22,19 +22,11 @@
 
 • **Constant** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25893)
-
 ___
 
 ### Curve
 
 • **Curve** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:25893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25893)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **CurveClamped** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25893)
-
 ___
 
 ### CurveCustomTangent
 
 • **CurveCustomTangent** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:25893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25893)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **ESplinePointType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25893)
-
 ___
 
 ### Linear
 
 • **Linear** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25893)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:25893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25893)

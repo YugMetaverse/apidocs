@@ -28,10 +28,6 @@
 
 • **new SoundWaveSpectralData**()
 
-#### Defined in
-
-[ue/ue.d.ts:16212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16212)
-
 • **new SoundWaveSpectralData**(`FrequencyHz`, `Magnitude`, `NormalizedMagnitude`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Magnitude` | `number` |
 | `NormalizedMagnitude` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:16213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16213)
-
 ## Properties
 
 ### FrequencyHz
 
 • **FrequencyHz**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16214)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Magnitude**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16215)
-
 ___
 
 ### NormalizedMagnitude
 
 • **NormalizedMagnitude**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16216)
-
 ___
 
 ### \_\_tid\_SoundWaveSpectralData\_\_
 
 • `Private` **\_\_tid\_SoundWaveSpectralData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16222)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:16220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16220)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:16221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16221)

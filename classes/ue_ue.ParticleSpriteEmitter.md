@@ -71,10 +71,6 @@
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[constructor](ue_ue.ParticleEmitter.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:56786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56786)
-
 ## Properties
 
 ### ConvertedModules
@@ -84,10 +80,6 @@
 #### Inherited from
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[ConvertedModules](ue_ue.ParticleEmitter.md#convertedmodules)
-
-#### Defined in
-
-[ue/ue.d.ts:7092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7092)
 
 ___
 
@@ -99,10 +91,6 @@ ___
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[DetailMode](ue_ue.ParticleEmitter.md#detailmode)
 
-#### Defined in
-
-[ue/ue.d.ts:7098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7098)
-
 ___
 
 ### DetailModeBitmask
@@ -112,10 +100,6 @@ ___
 #### Inherited from
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[DetailModeBitmask](ue_ue.ParticleEmitter.md#detailmodebitmask)
-
-#### Defined in
-
-[ue/ue.d.ts:7104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7104)
 
 ___
 
@@ -127,10 +111,6 @@ ___
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[DetailModeDisplay](ue_ue.ParticleEmitter.md#detailmodedisplay)
 
-#### Defined in
-
-[ue/ue.d.ts:7105](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7105)
-
 ___
 
 ### EmitterEditorColor
@@ -140,10 +120,6 @@ ___
 #### Inherited from
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[EmitterEditorColor](ue_ue.ParticleEmitter.md#emittereditorcolor)
-
-#### Defined in
-
-[ue/ue.d.ts:7099](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7099)
 
 ___
 
@@ -155,10 +131,6 @@ ___
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[EmitterName](ue_ue.ParticleEmitter.md#emittername)
 
-#### Defined in
-
-[ue/ue.d.ts:7087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7087)
-
 ___
 
 ### EmitterRenderMode
@@ -168,10 +140,6 @@ ___
 #### Inherited from
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[EmitterRenderMode](ue_ue.ParticleEmitter.md#emitterrendermode)
-
-#### Defined in
-
-[ue/ue.d.ts:7089](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7089)
 
 ___
 
@@ -183,10 +151,6 @@ ___
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[InitialAllocationCount](ue_ue.ParticleEmitter.md#initialallocationcount)
 
-#### Defined in
-
-[ue/ue.d.ts:7102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7102)
-
 ___
 
 ### LODLevels
@@ -196,10 +160,6 @@ ___
 #### Inherited from
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[LODLevels](ue_ue.ParticleEmitter.md#lodlevels)
-
-#### Defined in
-
-[ue/ue.d.ts:7100](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7100)
 
 ___
 
@@ -211,10 +171,6 @@ ___
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[PeakActiveParticles](ue_ue.ParticleEmitter.md#peakactiveparticles)
 
-#### Defined in
-
-[ue/ue.d.ts:7101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7101)
-
 ___
 
 ### QualityLevelSpawnRateScale
@@ -224,10 +180,6 @@ ___
 #### Inherited from
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[QualityLevelSpawnRateScale](ue_ue.ParticleEmitter.md#qualitylevelspawnratescale)
-
-#### Defined in
-
-[ue/ue.d.ts:7103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7103)
 
 ___
 
@@ -239,10 +191,6 @@ ___
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[SignificanceLevel](ue_ue.ParticleEmitter.md#significancelevel)
 
-#### Defined in
-
-[ue/ue.d.ts:7090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7090)
-
 ___
 
 ### SubUVDataOffset
@@ -252,10 +200,6 @@ ___
 #### Inherited from
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[SubUVDataOffset](ue_ue.ParticleEmitter.md#subuvdataoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:7088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7088)
 
 ___
 
@@ -267,10 +211,6 @@ ___
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[__tid_Object__](ue_ue.ParticleEmitter.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ParticleEmitter\_\_
@@ -281,19 +221,11 @@ ___
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[__tid_ParticleEmitter__](ue_ue.ParticleEmitter.md#__tid_particleemitter__)
 
-#### Defined in
-
-[ue/ue.d.ts:7110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7110)
-
 ___
 
 ### \_\_tid\_ParticleSpriteEmitter\_\_
 
 • **\_\_tid\_ParticleSpriteEmitter\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:56791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56791)
 
 ___
 
@@ -305,10 +237,6 @@ ___
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[bCollapsed](ue_ue.ParticleEmitter.md#bcollapsed)
 
-#### Defined in
-
-[ue/ue.d.ts:7097](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7097)
-
 ___
 
 ### bCookedOut
@@ -318,10 +246,6 @@ ___
 #### Inherited from
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[bCookedOut](ue_ue.ParticleEmitter.md#bcookedout)
-
-#### Defined in
-
-[ue/ue.d.ts:7094](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7094)
 
 ___
 
@@ -333,10 +257,6 @@ ___
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[bDisableWhenInsignficant](ue_ue.ParticleEmitter.md#bdisablewheninsignficant)
 
-#### Defined in
-
-[ue/ue.d.ts:7096](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7096)
-
 ___
 
 ### bDisabledLODsKeepEmitterAlive
@@ -346,10 +266,6 @@ ___
 #### Inherited from
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[bDisabledLODsKeepEmitterAlive](ue_ue.ParticleEmitter.md#bdisabledlodskeepemitteralive)
-
-#### Defined in
-
-[ue/ue.d.ts:7095](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7095)
 
 ___
 
@@ -361,10 +277,6 @@ ___
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[bIsSoloing](ue_ue.ParticleEmitter.md#bissoloing)
 
-#### Defined in
-
-[ue/ue.d.ts:7093](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7093)
-
 ___
 
 ### bUseLegacySpawningBehavior
@@ -374,10 +286,6 @@ ___
 #### Inherited from
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[bUseLegacySpawningBehavior](ue_ue.ParticleEmitter.md#buselegacyspawningbehavior)
-
-#### Defined in
-
-[ue/ue.d.ts:7091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7091)
 
 ## Methods
 
@@ -403,10 +311,6 @@ ___
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[CreateDefaultSubobject](ue_ue.ParticleEmitter.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -427,10 +331,6 @@ ___
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[ExecuteUbergraph](ue_ue.ParticleEmitter.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -444,10 +344,6 @@ ___
 #### Inherited from
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[GetClass](ue_ue.ParticleEmitter.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -463,10 +359,6 @@ ___
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[GetName](ue_ue.ParticleEmitter.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -481,10 +373,6 @@ ___
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[GetOuter](ue_ue.ParticleEmitter.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -498,10 +386,6 @@ ___
 #### Inherited from
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[GetWorld](ue_ue.ParticleEmitter.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -524,10 +408,6 @@ ___
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[Find](ue_ue.ParticleEmitter.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:56788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56788)
-
 ___
 
 ### Load
@@ -548,10 +428,6 @@ ___
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[Load](ue_ue.ParticleEmitter.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:56789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56789)
-
 ___
 
 ### StaticClass
@@ -565,7 +441,3 @@ ___
 #### Overrides
 
 [ParticleEmitter](ue_ue.ParticleEmitter.md).[StaticClass](ue_ue.ParticleEmitter.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:56787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56787)

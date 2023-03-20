@@ -20,19 +20,11 @@
 
 • **EComponentMobility\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12865)
-
 ___
 
 ### Movable
 
 • **Movable** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12865)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Static** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12865)
-
 ___
 
 ### Stationary
 
 • **Stationary** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12865)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12865)

@@ -26,10 +26,6 @@
 
 • **new ChaosHandlerSet**()
 
-#### Defined in
-
-[ue/ue.d.ts:26438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26438)
-
 • **new ChaosHandlerSet**(`ChaosHandlers`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `ChaosHandlers` | [`TSet`](../interfaces/ue_puerts.TSet.md)<[`Object`](ue_ue.Object.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:26439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26439)
-
 ## Properties
 
 ### ChaosHandlers
 
 • **ChaosHandlers**: [`TSet`](../interfaces/ue_puerts.TSet.md)<[`Object`](ue_ue.Object.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:26440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26440)
-
 ___
 
 ### \_\_tid\_ChaosHandlerSet\_\_
 
 • `Private` **\_\_tid\_ChaosHandlerSet\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26446)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26444](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26444)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26445](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26445)

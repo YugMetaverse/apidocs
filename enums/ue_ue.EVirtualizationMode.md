@@ -20,19 +20,11 @@
 
 • **Disabled** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9307)
-
 ___
 
 ### EVirtualizationMode\_MAX
 
 • **EVirtualizationMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9307)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **PlayWhenSilent** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9307)
-
 ___
 
 ### Restart
 
 • **Restart** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9307)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9307)

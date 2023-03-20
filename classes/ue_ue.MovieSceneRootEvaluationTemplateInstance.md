@@ -26,10 +26,6 @@
 
 • **new MovieSceneRootEvaluationTemplateInstance**()
 
-#### Defined in
-
-[ue/ue.d.ts:14171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14171)
-
 • **new MovieSceneRootEvaluationTemplateInstance**(`DirectorInstances`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `DirectorInstances` | [`TMap`](../interfaces/ue_puerts.TMap.md)<[`MovieSceneSequenceID`](ue_ue.MovieSceneSequenceID.md), [`Object`](ue_ue.Object.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:14172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14172)
-
 ## Properties
 
 ### DirectorInstances
 
 • **DirectorInstances**: [`TMap`](../interfaces/ue_puerts.TMap.md)<[`MovieSceneSequenceID`](ue_ue.MovieSceneSequenceID.md), [`Object`](ue_ue.Object.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:14173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14173)
-
 ___
 
 ### \_\_tid\_MovieSceneRootEvaluationTemplateInstance\_\_
 
 • `Private` **\_\_tid\_MovieSceneRootEvaluationTemplateInstance\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14179)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14177)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14178)

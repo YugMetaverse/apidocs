@@ -52,10 +52,6 @@
 
 [InputBehavior](ue_ue.InputBehavior.md).[constructor](ue_ue.InputBehavior.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:50901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50901)
-
 ## Properties
 
 ### \_\_tid\_InputBehavior\_\_
@@ -66,19 +62,11 @@
 
 [InputBehavior](ue_ue.InputBehavior.md).[__tid_InputBehavior__](ue_ue.InputBehavior.md#__tid_inputbehavior__)
 
-#### Defined in
-
-[ue/ue.d.ts:20590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20590)
-
 ___
 
 ### \_\_tid\_MouseHoverBehavior\_\_
 
 • **\_\_tid\_MouseHoverBehavior\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50906)
 
 ___
 
@@ -89,10 +77,6 @@ ___
 #### Inherited from
 
 [InputBehavior](ue_ue.InputBehavior.md).[__tid_Object__](ue_ue.InputBehavior.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -118,10 +102,6 @@ ___
 
 [InputBehavior](ue_ue.InputBehavior.md).[CreateDefaultSubobject](ue_ue.InputBehavior.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -142,10 +122,6 @@ ___
 
 [InputBehavior](ue_ue.InputBehavior.md).[ExecuteUbergraph](ue_ue.InputBehavior.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -159,10 +135,6 @@ ___
 #### Inherited from
 
 [InputBehavior](ue_ue.InputBehavior.md).[GetClass](ue_ue.InputBehavior.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -178,10 +150,6 @@ ___
 
 [InputBehavior](ue_ue.InputBehavior.md).[GetName](ue_ue.InputBehavior.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -196,10 +164,6 @@ ___
 
 [InputBehavior](ue_ue.InputBehavior.md).[GetOuter](ue_ue.InputBehavior.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -213,10 +177,6 @@ ___
 #### Inherited from
 
 [InputBehavior](ue_ue.InputBehavior.md).[GetWorld](ue_ue.InputBehavior.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -239,10 +199,6 @@ ___
 
 [InputBehavior](ue_ue.InputBehavior.md).[Find](ue_ue.InputBehavior.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:50903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50903)
-
 ___
 
 ### Load
@@ -263,10 +219,6 @@ ___
 
 [InputBehavior](ue_ue.InputBehavior.md).[Load](ue_ue.InputBehavior.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:50904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50904)
-
 ___
 
 ### StaticClass
@@ -280,7 +232,3 @@ ___
 #### Overrides
 
 [InputBehavior](ue_ue.InputBehavior.md).[StaticClass](ue_ue.InputBehavior.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:50902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50902)

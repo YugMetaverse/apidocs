@@ -58,10 +58,6 @@
 
 [CurveBase](ue_ue.CurveBase.md).[constructor](ue_ue.CurveBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:4246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4246)
-
 ## Properties
 
 ### AssetImportData
@@ -72,19 +68,11 @@
 
 [CurveBase](ue_ue.CurveBase.md).[AssetImportData](ue_ue.CurveBase.md#assetimportdata)
 
-#### Defined in
-
-[ue/ue.d.ts:1584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1584)
-
 ___
 
 ### FloatCurves
 
 • **FloatCurves**: [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<[`RichCurve`](ue_ue.RichCurve.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:4247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4247)
 
 ___
 
@@ -96,10 +84,6 @@ ___
 
 [CurveBase](ue_ue.CurveBase.md).[ImportPath](ue_ue.CurveBase.md#importpath)
 
-#### Defined in
-
-[ue/ue.d.ts:1585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1585)
-
 ___
 
 ### \_\_tid\_CurveBase\_\_
@@ -110,19 +94,11 @@ ___
 
 [CurveBase](ue_ue.CurveBase.md).[__tid_CurveBase__](ue_ue.CurveBase.md#__tid_curvebase__)
 
-#### Defined in
-
-[ue/ue.d.ts:1592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1592)
-
 ___
 
 ### \_\_tid\_CurveVector\_\_
 
 • **\_\_tid\_CurveVector\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4253)
 
 ___
 
@@ -133,10 +109,6 @@ ___
 #### Inherited from
 
 [CurveBase](ue_ue.CurveBase.md).[__tid_Object__](ue_ue.CurveBase.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -162,10 +134,6 @@ ___
 
 [CurveBase](ue_ue.CurveBase.md).[CreateDefaultSubobject](ue_ue.CurveBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -186,10 +154,6 @@ ___
 
 [CurveBase](ue_ue.CurveBase.md).[ExecuteUbergraph](ue_ue.CurveBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -203,10 +167,6 @@ ___
 #### Inherited from
 
 [CurveBase](ue_ue.CurveBase.md).[GetClass](ue_ue.CurveBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -222,10 +182,6 @@ ___
 
 [CurveBase](ue_ue.CurveBase.md).[GetName](ue_ue.CurveBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -239,10 +195,6 @@ ___
 #### Inherited from
 
 [CurveBase](ue_ue.CurveBase.md).[GetOuter](ue_ue.CurveBase.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -265,10 +217,6 @@ ___
 
 [CurveBase](ue_ue.CurveBase.md).[GetTimeRange](ue_ue.CurveBase.md#gettimerange)
 
-#### Defined in
-
-[ue/ue.d.ts:1586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1586)
-
 ___
 
 ### GetValueRange
@@ -290,10 +238,6 @@ ___
 
 [CurveBase](ue_ue.CurveBase.md).[GetValueRange](ue_ue.CurveBase.md#getvaluerange)
 
-#### Defined in
-
-[ue/ue.d.ts:1587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1587)
-
 ___
 
 ### GetVectorValue
@@ -310,10 +254,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4248)
-
 ___
 
 ### GetWorld
@@ -327,10 +267,6 @@ ___
 #### Inherited from
 
 [CurveBase](ue_ue.CurveBase.md).[GetWorld](ue_ue.CurveBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -353,10 +289,6 @@ ___
 
 [CurveBase](ue_ue.CurveBase.md).[Find](ue_ue.CurveBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:4250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4250)
-
 ___
 
 ### Load
@@ -377,10 +309,6 @@ ___
 
 [CurveBase](ue_ue.CurveBase.md).[Load](ue_ue.CurveBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:4251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4251)
-
 ___
 
 ### StaticClass
@@ -394,7 +322,3 @@ ___
 #### Overrides
 
 [CurveBase](ue_ue.CurveBase.md).[StaticClass](ue_ue.CurveBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:4249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4249)

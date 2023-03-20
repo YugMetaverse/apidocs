@@ -26,10 +26,6 @@
 
 • **new InterpLookupTrack**()
 
-#### Defined in
-
-[ue/ue.d.ts:7598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7598)
-
 • **new InterpLookupTrack**(`Points`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Points` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`InterpLookupPoint`](ue_ue.InterpLookupPoint.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:7599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7599)
-
 ## Properties
 
 ### Points
 
 • **Points**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`InterpLookupPoint`](ue_ue.InterpLookupPoint.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:7600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7600)
-
 ___
 
 ### \_\_tid\_InterpLookupTrack\_\_
 
 • `Private` **\_\_tid\_InterpLookupTrack\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7606)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7604)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7605)

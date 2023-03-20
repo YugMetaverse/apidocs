@@ -75,10 +75,6 @@
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[constructor](ue_ue.FbxSceneImportFactory.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:59286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59286)
-
 ## Properties
 
 ### AnimSequenceImportData
@@ -88,10 +84,6 @@
 #### Inherited from
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[AnimSequenceImportData](ue_ue.FbxSceneImportFactory.md#animsequenceimportdata)
-
-#### Defined in
-
-[ue/ue.d.ts:35426](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35426)
 
 ___
 
@@ -103,10 +95,6 @@ ___
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[AssetImportTask](ue_ue.FbxSceneImportFactory.md#assetimporttask)
 
-#### Defined in
-
-[ue/ue.d.ts:15338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15338)
-
 ___
 
 ### AutomatedImportData
@@ -116,10 +104,6 @@ ___
 #### Inherited from
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[AutomatedImportData](ue_ue.FbxSceneImportFactory.md#automatedimportdata)
-
-#### Defined in
-
-[ue/ue.d.ts:15337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15337)
 
 ___
 
@@ -131,10 +115,6 @@ ___
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[ContextClass](ue_ue.FbxSceneImportFactory.md#contextclass)
 
-#### Defined in
-
-[ue/ue.d.ts:15331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15331)
-
 ___
 
 ### Formats
@@ -144,10 +124,6 @@ ___
 #### Inherited from
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[Formats](ue_ue.FbxSceneImportFactory.md#formats)
-
-#### Defined in
-
-[ue/ue.d.ts:15332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15332)
 
 ___
 
@@ -159,10 +135,6 @@ ___
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[ImportPriority](ue_ue.FbxSceneImportFactory.md#importpriority)
 
-#### Defined in
-
-[ue/ue.d.ts:15336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15336)
-
 ___
 
 ### OverwriteYesOrNoToAllState
@@ -172,10 +144,6 @@ ___
 #### Inherited from
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[OverwriteYesOrNoToAllState](ue_ue.FbxSceneImportFactory.md#overwriteyesornotoallstate)
-
-#### Defined in
-
-[ue/ue.d.ts:15339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15339)
 
 ___
 
@@ -187,10 +155,6 @@ ___
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[ReimportData](ue_ue.FbxSceneImportFactory.md#reimportdata)
 
-#### Defined in
-
-[ue/ue.d.ts:35428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35428)
-
 ___
 
 ### SceneImportOptions
@@ -200,10 +164,6 @@ ___
 #### Inherited from
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[SceneImportOptions](ue_ue.FbxSceneImportFactory.md#sceneimportoptions)
-
-#### Defined in
-
-[ue/ue.d.ts:35421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35421)
 
 ___
 
@@ -215,10 +175,6 @@ ___
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[SceneImportOptionsSkeletalMesh](ue_ue.FbxSceneImportFactory.md#sceneimportoptionsskeletalmesh)
 
-#### Defined in
-
-[ue/ue.d.ts:35423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35423)
-
 ___
 
 ### SceneImportOptionsStaticMesh
@@ -228,10 +184,6 @@ ___
 #### Inherited from
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[SceneImportOptionsStaticMesh](ue_ue.FbxSceneImportFactory.md#sceneimportoptionsstaticmesh)
-
-#### Defined in
-
-[ue/ue.d.ts:35422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35422)
 
 ___
 
@@ -243,10 +195,6 @@ ___
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[SkeletalMeshImportData](ue_ue.FbxSceneImportFactory.md#skeletalmeshimportdata)
 
-#### Defined in
-
-[ue/ue.d.ts:35425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35425)
-
 ___
 
 ### StaticMeshImportData
@@ -256,10 +204,6 @@ ___
 #### Inherited from
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[StaticMeshImportData](ue_ue.FbxSceneImportFactory.md#staticmeshimportdata)
-
-#### Defined in
-
-[ue/ue.d.ts:35424](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35424)
 
 ___
 
@@ -271,10 +215,6 @@ ___
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[SupportedClass](ue_ue.FbxSceneImportFactory.md#supportedclass)
 
-#### Defined in
-
-[ue/ue.d.ts:15330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15330)
-
 ___
 
 ### TextureImportData
@@ -284,10 +224,6 @@ ___
 #### Inherited from
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[TextureImportData](ue_ue.FbxSceneImportFactory.md#textureimportdata)
-
-#### Defined in
-
-[ue/ue.d.ts:35427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35427)
 
 ___
 
@@ -299,10 +235,6 @@ ___
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[__tid_Factory__](ue_ue.FbxSceneImportFactory.md#__tid_factory__)
 
-#### Defined in
-
-[ue/ue.d.ts:15346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15346)
-
 ___
 
 ### \_\_tid\_FbxSceneImportFactory\_\_
@@ -312,10 +244,6 @@ ___
 #### Inherited from
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[__tid_FbxSceneImportFactory__](ue_ue.FbxSceneImportFactory.md#__tid_fbxsceneimportfactory__)
-
-#### Defined in
-
-[ue/ue.d.ts:35433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35433)
 
 ___
 
@@ -327,19 +255,11 @@ ___
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[__tid_Object__](ue_ue.FbxSceneImportFactory.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ReimportFbxSceneFactory\_\_
 
 • **\_\_tid\_ReimportFbxSceneFactory\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59291)
 
 ___
 
@@ -351,10 +271,6 @@ ___
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[__tid_SceneImportFactory__](ue_ue.FbxSceneImportFactory.md#__tid_sceneimportfactory__)
 
-#### Defined in
-
-[ue/ue.d.ts:35348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35348)
-
 ___
 
 ### bCreateNew
@@ -364,10 +280,6 @@ ___
 #### Inherited from
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[bCreateNew](ue_ue.FbxSceneImportFactory.md#bcreatenew)
-
-#### Defined in
-
-[ue/ue.d.ts:15329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15329)
 
 ___
 
@@ -379,10 +291,6 @@ ___
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[bEditAfterNew](ue_ue.FbxSceneImportFactory.md#beditafternew)
 
-#### Defined in
-
-[ue/ue.d.ts:15333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15333)
-
 ___
 
 ### bEditorImport
@@ -393,10 +301,6 @@ ___
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[bEditorImport](ue_ue.FbxSceneImportFactory.md#beditorimport)
 
-#### Defined in
-
-[ue/ue.d.ts:15334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15334)
-
 ___
 
 ### bText
@@ -406,10 +310,6 @@ ___
 #### Inherited from
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[bText](ue_ue.FbxSceneImportFactory.md#btext)
-
-#### Defined in
-
-[ue/ue.d.ts:15335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15335)
 
 ## Methods
 
@@ -435,10 +335,6 @@ ___
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[CreateDefaultSubobject](ue_ue.FbxSceneImportFactory.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -459,10 +355,6 @@ ___
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[ExecuteUbergraph](ue_ue.FbxSceneImportFactory.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -476,10 +368,6 @@ ___
 #### Inherited from
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[GetClass](ue_ue.FbxSceneImportFactory.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -495,10 +383,6 @@ ___
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[GetName](ue_ue.FbxSceneImportFactory.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -513,10 +397,6 @@ ___
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[GetOuter](ue_ue.FbxSceneImportFactory.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -530,10 +410,6 @@ ___
 #### Inherited from
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[GetWorld](ue_ue.FbxSceneImportFactory.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -555,10 +431,6 @@ ___
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[ScriptFactoryCanImport](ue_ue.FbxSceneImportFactory.md#scriptfactorycanimport)
 
-#### Defined in
-
-[ue/ue.d.ts:15340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15340)
-
 ___
 
 ### ScriptFactoryCreateFile
@@ -578,10 +450,6 @@ ___
 #### Inherited from
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[ScriptFactoryCreateFile](ue_ue.FbxSceneImportFactory.md#scriptfactorycreatefile)
-
-#### Defined in
-
-[ue/ue.d.ts:15341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15341)
 
 ___
 
@@ -604,10 +472,6 @@ ___
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[Find](ue_ue.FbxSceneImportFactory.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:59288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59288)
-
 ___
 
 ### Load
@@ -628,10 +492,6 @@ ___
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[Load](ue_ue.FbxSceneImportFactory.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:59289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59289)
-
 ___
 
 ### StaticClass
@@ -645,7 +505,3 @@ ___
 #### Overrides
 
 [FbxSceneImportFactory](ue_ue.FbxSceneImportFactory.md).[StaticClass](ue_ue.FbxSceneImportFactory.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:59287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59287)

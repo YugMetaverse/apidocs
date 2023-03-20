@@ -27,10 +27,6 @@
 
 • **new TimeStretchCurveMarker**()
 
-#### Defined in
-
-[ue/ue.d.ts:2928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2928)
-
 • **new TimeStretchCurveMarker**(`Time`, `Alpha`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Time` | [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<`number`\> |
 | `Alpha` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:2929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2929)
-
 ## Properties
 
 ### Alpha
 
 • **Alpha**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2931)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Time**: [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:2930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2930)
-
 ___
 
 ### \_\_tid\_TimeStretchCurveMarker\_\_
 
 • `Private` **\_\_tid\_TimeStretchCurveMarker\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2937)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2935)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2936)

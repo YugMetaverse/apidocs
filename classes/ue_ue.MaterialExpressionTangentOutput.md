@@ -74,10 +74,6 @@
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[constructor](ue_ue.MaterialExpressionCustomOutput.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:49509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49509)
-
 ## Properties
 
 ### Desc
@@ -87,10 +83,6 @@
 #### Inherited from
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[Desc](ue_ue.MaterialExpressionCustomOutput.md#desc)
-
-#### Defined in
-
-[ue/ue.d.ts:1163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1163)
 
 ___
 
@@ -102,10 +94,6 @@ ___
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[Function](ue_ue.MaterialExpressionCustomOutput.md#function)
 
-#### Defined in
-
-[ue/ue.d.ts:1162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1162)
-
 ___
 
 ### GraphNode
@@ -116,19 +104,11 @@ ___
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[GraphNode](ue_ue.MaterialExpressionCustomOutput.md#graphnode)
 
-#### Defined in
-
-[ue/ue.d.ts:1159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1159)
-
 ___
 
 ### Input
 
 • **Input**: [`ExpressionInput`](ue_ue.ExpressionInput.md)
-
-#### Defined in
-
-[ue/ue.d.ts:49510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49510)
 
 ___
 
@@ -140,10 +120,6 @@ ___
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[Material](ue_ue.MaterialExpressionCustomOutput.md#material)
 
-#### Defined in
-
-[ue/ue.d.ts:1161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1161)
-
 ___
 
 ### MaterialExpressionEditorX
@@ -153,10 +129,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[MaterialExpressionEditorX](ue_ue.MaterialExpressionCustomOutput.md#materialexpressioneditorx)
-
-#### Defined in
-
-[ue/ue.d.ts:1157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1157)
 
 ___
 
@@ -168,10 +140,6 @@ ___
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[MaterialExpressionEditorY](ue_ue.MaterialExpressionCustomOutput.md#materialexpressioneditory)
 
-#### Defined in
-
-[ue/ue.d.ts:1158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1158)
-
 ___
 
 ### MaterialExpressionGuid
@@ -181,10 +149,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[MaterialExpressionGuid](ue_ue.MaterialExpressionCustomOutput.md#materialexpressionguid)
-
-#### Defined in
-
-[ue/ue.d.ts:1160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1160)
 
 ___
 
@@ -196,10 +160,6 @@ ___
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[MenuCategories](ue_ue.MaterialExpressionCustomOutput.md#menucategories)
 
-#### Defined in
-
-[ue/ue.d.ts:1175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1175)
-
 ___
 
 ### Outputs
@@ -209,10 +169,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[Outputs](ue_ue.MaterialExpressionCustomOutput.md#outputs)
-
-#### Defined in
-
-[ue/ue.d.ts:1176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1176)
 
 ___
 
@@ -224,19 +180,11 @@ ___
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[__tid_MaterialExpressionCustomOutput__](ue_ue.MaterialExpressionCustomOutput.md#__tid_materialexpressioncustomoutput__)
 
-#### Defined in
-
-[ue/ue.d.ts:47704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47704)
-
 ___
 
 ### \_\_tid\_MaterialExpressionTangentOutput\_\_
 
 • **\_\_tid\_MaterialExpressionTangentOutput\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:49515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49515)
 
 ___
 
@@ -248,10 +196,6 @@ ___
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[__tid_MaterialExpression__](ue_ue.MaterialExpressionCustomOutput.md#__tid_materialexpression__)
 
-#### Defined in
-
-[ue/ue.d.ts:1181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1181)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -261,10 +205,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[__tid_Object__](ue_ue.MaterialExpressionCustomOutput.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -276,10 +216,6 @@ ___
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[bCollapsed](ue_ue.MaterialExpressionCustomOutput.md#bcollapsed)
 
-#### Defined in
-
-[ue/ue.d.ts:1171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1171)
-
 ___
 
 ### bCommentBubbleVisible
@@ -289,10 +225,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[bCommentBubbleVisible](ue_ue.MaterialExpressionCustomOutput.md#bcommentbubblevisible)
-
-#### Defined in
-
-[ue/ue.d.ts:1167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1167)
 
 ___
 
@@ -304,10 +236,6 @@ ___
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[bHidePreviewWindow](ue_ue.MaterialExpressionCustomOutput.md#bhidepreviewwindow)
 
-#### Defined in
-
-[ue/ue.d.ts:1170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1170)
-
 ___
 
 ### bIsParameterExpression
@@ -317,10 +245,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[bIsParameterExpression](ue_ue.MaterialExpressionCustomOutput.md#bisparameterexpression)
-
-#### Defined in
-
-[ue/ue.d.ts:1166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1166)
 
 ___
 
@@ -332,10 +256,6 @@ ___
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[bNeedToUpdatePreview](ue_ue.MaterialExpressionCustomOutput.md#bneedtoupdatepreview)
 
-#### Defined in
-
-[ue/ue.d.ts:1165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1165)
-
 ___
 
 ### bRealtimePreview
@@ -345,10 +265,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[bRealtimePreview](ue_ue.MaterialExpressionCustomOutput.md#brealtimepreview)
-
-#### Defined in
-
-[ue/ue.d.ts:1164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1164)
 
 ___
 
@@ -360,10 +276,6 @@ ___
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[bShaderInputData](ue_ue.MaterialExpressionCustomOutput.md#bshaderinputdata)
 
-#### Defined in
-
-[ue/ue.d.ts:1172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1172)
-
 ___
 
 ### bShowInputs
@@ -373,10 +285,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[bShowInputs](ue_ue.MaterialExpressionCustomOutput.md#bshowinputs)
-
-#### Defined in
-
-[ue/ue.d.ts:1173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1173)
 
 ___
 
@@ -388,10 +296,6 @@ ___
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[bShowMaskColorsOnPin](ue_ue.MaterialExpressionCustomOutput.md#bshowmaskcolorsonpin)
 
-#### Defined in
-
-[ue/ue.d.ts:1169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1169)
-
 ___
 
 ### bShowOutputNameOnPin
@@ -402,10 +306,6 @@ ___
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[bShowOutputNameOnPin](ue_ue.MaterialExpressionCustomOutput.md#bshowoutputnameonpin)
 
-#### Defined in
-
-[ue/ue.d.ts:1168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1168)
-
 ___
 
 ### bShowOutputs
@@ -415,10 +315,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[bShowOutputs](ue_ue.MaterialExpressionCustomOutput.md#bshowoutputs)
-
-#### Defined in
-
-[ue/ue.d.ts:1174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1174)
 
 ## Methods
 
@@ -444,10 +340,6 @@ ___
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[CreateDefaultSubobject](ue_ue.MaterialExpressionCustomOutput.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -468,10 +360,6 @@ ___
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[ExecuteUbergraph](ue_ue.MaterialExpressionCustomOutput.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -485,10 +373,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[GetClass](ue_ue.MaterialExpressionCustomOutput.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -504,10 +388,6 @@ ___
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[GetName](ue_ue.MaterialExpressionCustomOutput.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -522,10 +402,6 @@ ___
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[GetOuter](ue_ue.MaterialExpressionCustomOutput.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -539,10 +415,6 @@ ___
 #### Inherited from
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[GetWorld](ue_ue.MaterialExpressionCustomOutput.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -565,10 +437,6 @@ ___
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[Find](ue_ue.MaterialExpressionCustomOutput.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:49512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49512)
-
 ___
 
 ### Load
@@ -589,10 +457,6 @@ ___
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[Load](ue_ue.MaterialExpressionCustomOutput.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:49513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49513)
-
 ___
 
 ### StaticClass
@@ -606,7 +470,3 @@ ___
 #### Overrides
 
 [MaterialExpressionCustomOutput](ue_ue.MaterialExpressionCustomOutput.md).[StaticClass](ue_ue.MaterialExpressionCustomOutput.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:49511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L49511)

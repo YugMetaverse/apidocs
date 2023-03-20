@@ -25,19 +25,11 @@
 
 • **Disabled** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34788)
-
 ___
 
 ### Distorted
 
 • **Distorted** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34788)
 
 ___
 
@@ -45,19 +37,11 @@ ___
 
 • **ESpectatorScreenMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34788)
-
 ___
 
 ### SingleEye
 
 • **SingleEye** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34788)
 
 ___
 
@@ -65,19 +49,11 @@ ___
 
 • **SingleEyeCroppedToFill** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34788)
-
 ___
 
 ### SingleEyeLetterboxed
 
 • **SingleEyeLetterboxed** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34788)
 
 ___
 
@@ -85,19 +61,11 @@ ___
 
 • **Texture** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34788)
-
 ___
 
 ### TexturePlusEye
 
 • **TexturePlusEye** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34788)
 
 ___
 
@@ -105,16 +73,8 @@ ___
 
 • **Undistorted** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34788)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34788)

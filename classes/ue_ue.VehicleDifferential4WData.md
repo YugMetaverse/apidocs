@@ -32,10 +32,6 @@
 
 • **new VehicleDifferential4WData**()
 
-#### Defined in
-
-[ue/ue.d.ts:66052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66052)
-
 • **new VehicleDifferential4WData**(`DifferentialType`, `FrontRearSplit`, `FrontLeftRightSplit`, `RearLeftRightSplit`, `CentreBias`, `FrontBias`, `RearBias`)
 
 #### Parameters
@@ -50,19 +46,11 @@
 | `FrontBias` | `number` |
 | `RearBias` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:66053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66053)
-
 ## Properties
 
 ### CentreBias
 
 • **CentreBias**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:66058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66058)
 
 ___
 
@@ -70,19 +58,11 @@ ___
 
 • **DifferentialType**: [`EVehicleDifferential4W`](../enums/ue_ue.EVehicleDifferential4W.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66054)
-
 ___
 
 ### FrontBias
 
 • **FrontBias**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:66059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66059)
 
 ___
 
@@ -90,19 +70,11 @@ ___
 
 • **FrontLeftRightSplit**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:66056](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66056)
-
 ___
 
 ### FrontRearSplit
 
 • **FrontRearSplit**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:66055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66055)
 
 ___
 
@@ -110,29 +82,17 @@ ___
 
 • **RearBias**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:66060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66060)
-
 ___
 
 ### RearLeftRightSplit
 
 • **RearLeftRightSplit**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:66057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66057)
-
 ___
 
 ### \_\_tid\_VehicleDifferential4WData\_\_
 
 • `Private` **\_\_tid\_VehicleDifferential4WData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:66066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66066)
 
 ## Methods
 
@@ -148,10 +108,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66064)
-
 ___
 
 ### StaticStruct
@@ -161,7 +117,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66065)

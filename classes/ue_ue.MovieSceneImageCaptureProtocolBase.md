@@ -61,10 +61,6 @@
 
 [MovieSceneCaptureProtocolBase](ue_ue.MovieSceneCaptureProtocolBase.md).[constructor](ue_ue.MovieSceneCaptureProtocolBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:22549](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22549)
-
 ## Properties
 
 ### State
@@ -74,10 +70,6 @@
 #### Inherited from
 
 [MovieSceneCaptureProtocolBase](ue_ue.MovieSceneCaptureProtocolBase.md).[State](ue_ue.MovieSceneCaptureProtocolBase.md#state)
-
-#### Defined in
-
-[ue/ue.d.ts:22538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22538)
 
 ___
 
@@ -89,19 +81,11 @@ ___
 
 [MovieSceneCaptureProtocolBase](ue_ue.MovieSceneCaptureProtocolBase.md).[__tid_MovieSceneCaptureProtocolBase__](ue_ue.MovieSceneCaptureProtocolBase.md#__tid_moviescenecaptureprotocolbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:22545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22545)
-
 ___
 
 ### \_\_tid\_MovieSceneImageCaptureProtocolBase\_\_
 
 • **\_\_tid\_MovieSceneImageCaptureProtocolBase\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22554)
 
 ___
 
@@ -112,10 +96,6 @@ ___
 #### Inherited from
 
 [MovieSceneCaptureProtocolBase](ue_ue.MovieSceneCaptureProtocolBase.md).[__tid_Object__](ue_ue.MovieSceneCaptureProtocolBase.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -141,10 +121,6 @@ ___
 
 [MovieSceneCaptureProtocolBase](ue_ue.MovieSceneCaptureProtocolBase.md).[CreateDefaultSubobject](ue_ue.MovieSceneCaptureProtocolBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -165,10 +141,6 @@ ___
 
 [MovieSceneCaptureProtocolBase](ue_ue.MovieSceneCaptureProtocolBase.md).[ExecuteUbergraph](ue_ue.MovieSceneCaptureProtocolBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -182,10 +154,6 @@ ___
 #### Inherited from
 
 [MovieSceneCaptureProtocolBase](ue_ue.MovieSceneCaptureProtocolBase.md).[GetClass](ue_ue.MovieSceneCaptureProtocolBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -201,10 +169,6 @@ ___
 
 [MovieSceneCaptureProtocolBase](ue_ue.MovieSceneCaptureProtocolBase.md).[GetName](ue_ue.MovieSceneCaptureProtocolBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -218,10 +182,6 @@ ___
 #### Inherited from
 
 [MovieSceneCaptureProtocolBase](ue_ue.MovieSceneCaptureProtocolBase.md).[GetOuter](ue_ue.MovieSceneCaptureProtocolBase.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -237,10 +197,6 @@ ___
 
 [MovieSceneCaptureProtocolBase](ue_ue.MovieSceneCaptureProtocolBase.md).[GetState](ue_ue.MovieSceneCaptureProtocolBase.md#getstate)
 
-#### Defined in
-
-[ue/ue.d.ts:22539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22539)
-
 ___
 
 ### GetWorld
@@ -255,10 +211,6 @@ ___
 
 [MovieSceneCaptureProtocolBase](ue_ue.MovieSceneCaptureProtocolBase.md).[GetWorld](ue_ue.MovieSceneCaptureProtocolBase.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### IsCapturing
@@ -272,10 +224,6 @@ ___
 #### Inherited from
 
 [MovieSceneCaptureProtocolBase](ue_ue.MovieSceneCaptureProtocolBase.md).[IsCapturing](ue_ue.MovieSceneCaptureProtocolBase.md#iscapturing)
-
-#### Defined in
-
-[ue/ue.d.ts:22540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22540)
 
 ___
 
@@ -298,10 +246,6 @@ ___
 
 [MovieSceneCaptureProtocolBase](ue_ue.MovieSceneCaptureProtocolBase.md).[Find](ue_ue.MovieSceneCaptureProtocolBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:22551](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22551)
-
 ___
 
 ### Load
@@ -322,10 +266,6 @@ ___
 
 [MovieSceneCaptureProtocolBase](ue_ue.MovieSceneCaptureProtocolBase.md).[Load](ue_ue.MovieSceneCaptureProtocolBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:22552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22552)
-
 ___
 
 ### StaticClass
@@ -339,7 +279,3 @@ ___
 #### Overrides
 
 [MovieSceneCaptureProtocolBase](ue_ue.MovieSceneCaptureProtocolBase.md).[StaticClass](ue_ue.MovieSceneCaptureProtocolBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:22550](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22550)

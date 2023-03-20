@@ -28,10 +28,6 @@
 
 • **new AssetBundleEntry**()
 
-#### Defined in
-
-[ue/ue.d.ts:58344](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58344)
-
 • **new AssetBundleEntry**(`BundleScope`, `BundleName`, `BundleAssets`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `BundleName` | `string` |
 | `BundleAssets` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SoftObjectPath`](ue_ue.SoftObjectPath.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:58345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58345)
-
 ## Properties
 
 ### BundleAssets
 
 • **BundleAssets**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SoftObjectPath`](ue_ue.SoftObjectPath.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:58348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58348)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **BundleName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:58347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58347)
-
 ___
 
 ### BundleScope
 
 • **BundleScope**: [`PrimaryAssetId`](ue_ue.PrimaryAssetId.md)
 
-#### Defined in
-
-[ue/ue.d.ts:58346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58346)
-
 ___
 
 ### \_\_tid\_AssetBundleEntry\_\_
 
 • `Private` **\_\_tid\_AssetBundleEntry\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58354)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:58352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58352)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:58353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58353)

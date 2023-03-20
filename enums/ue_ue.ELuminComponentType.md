@@ -25,19 +25,11 @@
 
 • **Console** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33984)
-
 ___
 
 ### ELuminComponentType\_MAX
 
 • **ELuminComponentType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33984)
 
 ___
 
@@ -45,19 +37,11 @@ ___
 
 • **Fullscreen** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33984)
-
 ___
 
 ### MusicService
 
 • **MusicService** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33984)
 
 ___
 
@@ -65,19 +49,11 @@ ___
 
 • **Screens** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33984)
-
 ___
 
 ### ScreensImmersive
 
 • **ScreensImmersive** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33984)
 
 ___
 
@@ -85,19 +61,11 @@ ___
 
 • **SearchProvider** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33984)
-
 ___
 
 ### SystemUI
 
 • **SystemUI** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33984)
 
 ___
 
@@ -105,16 +73,8 @@ ___
 
 • **Universe** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33984)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33984)

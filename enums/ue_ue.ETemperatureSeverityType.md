@@ -23,19 +23,11 @@
 
 • **Bad** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20642)
-
 ___
 
 ### Critical
 
 • **Critical** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20642)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **ETemperatureSeverityType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20642)
-
 ___
 
 ### Good
 
 • **Good** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20642)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **NumSeverities** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20642)
-
 ___
 
 ### Serious
 
 • **Serious** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20642)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **Unknown** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20642)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20642)

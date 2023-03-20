@@ -66,10 +66,6 @@
 
 [PaperSpriteSheetImportFactory](ue_ue.PaperSpriteSheetImportFactory.md).[constructor](ue_ue.PaperSpriteSheetImportFactory.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:54915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54915)
-
 ## Properties
 
 ### AssetImportTask
@@ -79,10 +75,6 @@
 #### Inherited from
 
 [PaperSpriteSheetImportFactory](ue_ue.PaperSpriteSheetImportFactory.md).[AssetImportTask](ue_ue.PaperSpriteSheetImportFactory.md#assetimporttask)
-
-#### Defined in
-
-[ue/ue.d.ts:15338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15338)
 
 ___
 
@@ -94,10 +86,6 @@ ___
 
 [PaperSpriteSheetImportFactory](ue_ue.PaperSpriteSheetImportFactory.md).[AutomatedImportData](ue_ue.PaperSpriteSheetImportFactory.md#automatedimportdata)
 
-#### Defined in
-
-[ue/ue.d.ts:15337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15337)
-
 ___
 
 ### ContextClass
@@ -107,10 +95,6 @@ ___
 #### Inherited from
 
 [PaperSpriteSheetImportFactory](ue_ue.PaperSpriteSheetImportFactory.md).[ContextClass](ue_ue.PaperSpriteSheetImportFactory.md#contextclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15331)
 
 ___
 
@@ -122,10 +106,6 @@ ___
 
 [PaperSpriteSheetImportFactory](ue_ue.PaperSpriteSheetImportFactory.md).[Formats](ue_ue.PaperSpriteSheetImportFactory.md#formats)
 
-#### Defined in
-
-[ue/ue.d.ts:15332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15332)
-
 ___
 
 ### ImportPriority
@@ -135,10 +115,6 @@ ___
 #### Inherited from
 
 [PaperSpriteSheetImportFactory](ue_ue.PaperSpriteSheetImportFactory.md).[ImportPriority](ue_ue.PaperSpriteSheetImportFactory.md#importpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:15336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15336)
 
 ___
 
@@ -150,10 +126,6 @@ ___
 
 [PaperSpriteSheetImportFactory](ue_ue.PaperSpriteSheetImportFactory.md).[OverwriteYesOrNoToAllState](ue_ue.PaperSpriteSheetImportFactory.md#overwriteyesornotoallstate)
 
-#### Defined in
-
-[ue/ue.d.ts:15339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15339)
-
 ___
 
 ### SupportedClass
@@ -163,10 +135,6 @@ ___
 #### Inherited from
 
 [PaperSpriteSheetImportFactory](ue_ue.PaperSpriteSheetImportFactory.md).[SupportedClass](ue_ue.PaperSpriteSheetImportFactory.md#supportedclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15330)
 
 ___
 
@@ -178,10 +146,6 @@ ___
 
 [PaperSpriteSheetImportFactory](ue_ue.PaperSpriteSheetImportFactory.md).[__tid_Factory__](ue_ue.PaperSpriteSheetImportFactory.md#__tid_factory__)
 
-#### Defined in
-
-[ue/ue.d.ts:15346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15346)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -191,10 +155,6 @@ ___
 #### Inherited from
 
 [PaperSpriteSheetImportFactory](ue_ue.PaperSpriteSheetImportFactory.md).[__tid_Object__](ue_ue.PaperSpriteSheetImportFactory.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -206,19 +166,11 @@ ___
 
 [PaperSpriteSheetImportFactory](ue_ue.PaperSpriteSheetImportFactory.md).[__tid_PaperSpriteSheetImportFactory__](ue_ue.PaperSpriteSheetImportFactory.md#__tid_paperspritesheetimportfactory__)
 
-#### Defined in
-
-[ue/ue.d.ts:54911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54911)
-
 ___
 
 ### \_\_tid\_PaperSpriteSheetReimportFactory\_\_
 
 • **\_\_tid\_PaperSpriteSheetReimportFactory\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54920)
 
 ___
 
@@ -230,10 +182,6 @@ ___
 
 [PaperSpriteSheetImportFactory](ue_ue.PaperSpriteSheetImportFactory.md).[bCreateNew](ue_ue.PaperSpriteSheetImportFactory.md#bcreatenew)
 
-#### Defined in
-
-[ue/ue.d.ts:15329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15329)
-
 ___
 
 ### bEditAfterNew
@@ -243,10 +191,6 @@ ___
 #### Inherited from
 
 [PaperSpriteSheetImportFactory](ue_ue.PaperSpriteSheetImportFactory.md).[bEditAfterNew](ue_ue.PaperSpriteSheetImportFactory.md#beditafternew)
-
-#### Defined in
-
-[ue/ue.d.ts:15333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15333)
 
 ___
 
@@ -258,10 +202,6 @@ ___
 
 [PaperSpriteSheetImportFactory](ue_ue.PaperSpriteSheetImportFactory.md).[bEditorImport](ue_ue.PaperSpriteSheetImportFactory.md#beditorimport)
 
-#### Defined in
-
-[ue/ue.d.ts:15334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15334)
-
 ___
 
 ### bText
@@ -271,10 +211,6 @@ ___
 #### Inherited from
 
 [PaperSpriteSheetImportFactory](ue_ue.PaperSpriteSheetImportFactory.md).[bText](ue_ue.PaperSpriteSheetImportFactory.md#btext)
-
-#### Defined in
-
-[ue/ue.d.ts:15335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15335)
 
 ## Methods
 
@@ -300,10 +236,6 @@ ___
 
 [PaperSpriteSheetImportFactory](ue_ue.PaperSpriteSheetImportFactory.md).[CreateDefaultSubobject](ue_ue.PaperSpriteSheetImportFactory.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -324,10 +256,6 @@ ___
 
 [PaperSpriteSheetImportFactory](ue_ue.PaperSpriteSheetImportFactory.md).[ExecuteUbergraph](ue_ue.PaperSpriteSheetImportFactory.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -341,10 +269,6 @@ ___
 #### Inherited from
 
 [PaperSpriteSheetImportFactory](ue_ue.PaperSpriteSheetImportFactory.md).[GetClass](ue_ue.PaperSpriteSheetImportFactory.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -360,10 +284,6 @@ ___
 
 [PaperSpriteSheetImportFactory](ue_ue.PaperSpriteSheetImportFactory.md).[GetName](ue_ue.PaperSpriteSheetImportFactory.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -378,10 +298,6 @@ ___
 
 [PaperSpriteSheetImportFactory](ue_ue.PaperSpriteSheetImportFactory.md).[GetOuter](ue_ue.PaperSpriteSheetImportFactory.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -395,10 +311,6 @@ ___
 #### Inherited from
 
 [PaperSpriteSheetImportFactory](ue_ue.PaperSpriteSheetImportFactory.md).[GetWorld](ue_ue.PaperSpriteSheetImportFactory.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -420,10 +332,6 @@ ___
 
 [PaperSpriteSheetImportFactory](ue_ue.PaperSpriteSheetImportFactory.md).[ScriptFactoryCanImport](ue_ue.PaperSpriteSheetImportFactory.md#scriptfactorycanimport)
 
-#### Defined in
-
-[ue/ue.d.ts:15340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15340)
-
 ___
 
 ### ScriptFactoryCreateFile
@@ -443,10 +351,6 @@ ___
 #### Inherited from
 
 [PaperSpriteSheetImportFactory](ue_ue.PaperSpriteSheetImportFactory.md).[ScriptFactoryCreateFile](ue_ue.PaperSpriteSheetImportFactory.md#scriptfactorycreatefile)
-
-#### Defined in
-
-[ue/ue.d.ts:15341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15341)
 
 ___
 
@@ -469,10 +373,6 @@ ___
 
 [PaperSpriteSheetImportFactory](ue_ue.PaperSpriteSheetImportFactory.md).[Find](ue_ue.PaperSpriteSheetImportFactory.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:54917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54917)
-
 ___
 
 ### Load
@@ -493,10 +393,6 @@ ___
 
 [PaperSpriteSheetImportFactory](ue_ue.PaperSpriteSheetImportFactory.md).[Load](ue_ue.PaperSpriteSheetImportFactory.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:54918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54918)
-
 ___
 
 ### StaticClass
@@ -510,7 +406,3 @@ ___
 #### Overrides
 
 [PaperSpriteSheetImportFactory](ue_ue.PaperSpriteSheetImportFactory.md).[StaticClass](ue_ue.PaperSpriteSheetImportFactory.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:54916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54916)

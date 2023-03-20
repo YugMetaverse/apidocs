@@ -37,10 +37,6 @@
 
 [IndexedCurve](ue_ue.IndexedCurve.md).[constructor](ue_ue.IndexedCurve.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:51747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51747)
-
 • **new NameCurve**(`Keys`)
 
 #### Parameters
@@ -53,10 +49,6 @@
 
 [IndexedCurve](ue_ue.IndexedCurve.md).[constructor](ue_ue.IndexedCurve.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:51748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51748)
-
 ## Properties
 
 ### KeyHandlesToIndices
@@ -67,29 +59,17 @@
 
 [IndexedCurve](ue_ue.IndexedCurve.md).[KeyHandlesToIndices](ue_ue.IndexedCurve.md#keyhandlestoindices)
 
-#### Defined in
-
-[ue/ue.d.ts:1608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1608)
-
 ___
 
 ### Keys
 
 • **Keys**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`NameCurveKey`](ue_ue.NameCurveKey.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:51749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51749)
-
 ___
 
 ### \_\_tid\_NameCurve\_\_
 
 • `Private` **\_\_tid\_NameCurve\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:51755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51755)
 
 ## Methods
 
@@ -109,10 +89,6 @@ use StaticStruct instead.
 
 [IndexedCurve](ue_ue.IndexedCurve.md).[StaticClass](ue_ue.IndexedCurve.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:51753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51753)
-
 ___
 
 ### StaticStruct
@@ -126,7 +102,3 @@ ___
 #### Overrides
 
 [IndexedCurve](ue_ue.IndexedCurve.md).[StaticStruct](ue_ue.IndexedCurve.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:51754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51754)

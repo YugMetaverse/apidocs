@@ -20,19 +20,11 @@
 
 • **DoesNotUseBlueprint** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16775)
-
 ___
 
 ### EBlueprintUsage\_MAX
 
 • **EBlueprintUsage\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16775)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **NoProperties** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16775)
-
 ___
 
 ### UsesBlueprint
 
 • **UsesBlueprint** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16775)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16775)

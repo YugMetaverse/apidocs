@@ -19,19 +19,11 @@
 
 • **BM\_FFT** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6222)
-
 ___
 
 ### BM\_MAX
 
 • **BM\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6222)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **BM\_SOG** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6222)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6222)

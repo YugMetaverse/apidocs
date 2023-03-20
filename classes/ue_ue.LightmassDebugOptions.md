@@ -41,10 +41,6 @@
 
 • **new LightmassDebugOptions**()
 
-#### Defined in
-
-[ue/ue.d.ts:45433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45433)
-
 • **new LightmassDebugOptions**(`bDebugMode`, `bStatsEnabled`, `bGatherBSPSurfacesAcrossComponents`, `CoplanarTolerance`, `bUseImmediateImport`, `bImmediateProcessMappings`, `bSortMappings`, `bDumpBinaryFiles`, `bDebugMaterials`, `bPadMappings`, `bDebugPaddings`, `bOnlyCalcDebugTexelMappings`, `bUseRandomColors`, `bColorBordersGreen`, `bColorByExecutionTime`, `ExecutionTimeDivisor`)
 
 #### Parameters
@@ -68,19 +64,11 @@
 | `bColorByExecutionTime` | `boolean` |
 | `ExecutionTimeDivisor` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:45434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45434)
-
 ## Properties
 
 ### CoplanarTolerance
 
 • **CoplanarTolerance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:45438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45438)
 
 ___
 
@@ -88,19 +76,11 @@ ___
 
 • **ExecutionTimeDivisor**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:45450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45450)
-
 ___
 
 ### \_\_tid\_LightmassDebugOptions\_\_
 
 • `Private` **\_\_tid\_LightmassDebugOptions\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45456](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45456)
 
 ___
 
@@ -108,19 +88,11 @@ ___
 
 • **bColorBordersGreen**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45448)
-
 ___
 
 ### bColorByExecutionTime
 
 • **bColorByExecutionTime**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45449)
 
 ___
 
@@ -128,19 +100,11 @@ ___
 
 • **bDebugMaterials**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45443](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45443)
-
 ___
 
 ### bDebugMode
 
 • **bDebugMode**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45435)
 
 ___
 
@@ -148,19 +112,11 @@ ___
 
 • **bDebugPaddings**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45445](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45445)
-
 ___
 
 ### bDumpBinaryFiles
 
 • **bDumpBinaryFiles**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45442](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45442)
 
 ___
 
@@ -168,19 +124,11 @@ ___
 
 • **bGatherBSPSurfacesAcrossComponents**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45437)
-
 ___
 
 ### bImmediateProcessMappings
 
 • **bImmediateProcessMappings**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45440)
 
 ___
 
@@ -188,19 +136,11 @@ ___
 
 • **bOnlyCalcDebugTexelMappings**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45446)
-
 ___
 
 ### bPadMappings
 
 • **bPadMappings**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45444](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45444)
 
 ___
 
@@ -208,19 +148,11 @@ ___
 
 • **bSortMappings**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45441](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45441)
-
 ___
 
 ### bStatsEnabled
 
 • **bStatsEnabled**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45436)
 
 ___
 
@@ -228,19 +160,11 @@ ___
 
 • **bUseImmediateImport**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:45439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45439)
-
 ___
 
 ### bUseRandomColors
 
 • **bUseRandomColors**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45447)
 
 ## Methods
 
@@ -256,10 +180,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:45454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45454)
-
 ___
 
 ### StaticStruct
@@ -269,7 +189,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:45455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45455)

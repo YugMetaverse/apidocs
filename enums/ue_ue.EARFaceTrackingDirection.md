@@ -19,19 +19,11 @@
 
 • **EARFaceTrackingDirection\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20766)
-
 ___
 
 ### FaceMirrored
 
 • **FaceMirrored** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20766)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **FaceRelative** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20766)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20766)

@@ -20,19 +20,11 @@
 
 • **MTM\_FlatTessellation** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1317)
-
 ___
 
 ### MTM\_MAX
 
 • **MTM\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1317)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **MTM\_NoTessellation** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1317)
-
 ___
 
 ### MTM\_PNTriangles
 
 • **MTM\_PNTriangles** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1317)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1317)

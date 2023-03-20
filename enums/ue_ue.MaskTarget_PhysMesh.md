@@ -22,19 +22,11 @@
 
 • **AnimDriveMultiplier** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27872)
-
 ___
 
 ### BackstopDistance
 
 • **BackstopDistance** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27872)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **BackstopRadius** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27872)
-
 ___
 
 ### MaskTarget\_MAX
 
 • **MaskTarget\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27872)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **MaxDistance** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27872)
-
 ___
 
 ### None
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27872)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27872)

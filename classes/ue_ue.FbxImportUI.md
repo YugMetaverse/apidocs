@@ -90,19 +90,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:35284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35284)
-
 ## Properties
 
 ### AnimEndFrame
 
 • **AnimEndFrame**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:35322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35322)
 
 ___
 
@@ -110,19 +102,11 @@ ___
 
 • **AnimSequenceImportData**: [`FbxAnimSequenceImportData`](ue_ue.FbxAnimSequenceImportData.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35312)
-
 ___
 
 ### AnimStartFrame
 
 • **AnimStartFrame**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:35321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35321)
 
 ___
 
@@ -130,19 +114,11 @@ ___
 
 • **FileAxisDirection**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:35319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35319)
-
 ___
 
 ### FileCreator
 
 • **FileCreator**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:35316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35316)
 
 ___
 
@@ -150,19 +126,11 @@ ___
 
 • **FileCreatorApplication**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:35317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35317)
-
 ___
 
 ### FileSampleRate
 
 • **FileSampleRate**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:35320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35320)
 
 ___
 
@@ -170,19 +138,11 @@ ___
 
 • **FileUnits**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:35318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35318)
-
 ___
 
 ### FileVersion
 
 • **FileVersion**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:35315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35315)
 
 ___
 
@@ -190,19 +150,11 @@ ___
 
 • **LodDistance0**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35295)
-
 ___
 
 ### LodDistance1
 
 • **LodDistance1**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35296)
 
 ___
 
@@ -210,19 +162,11 @@ ___
 
 • **LodDistance2**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35297)
-
 ___
 
 ### LodDistance3
 
 • **LodDistance3**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35298)
 
 ___
 
@@ -230,19 +174,11 @@ ___
 
 • **LodDistance4**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35299)
-
 ___
 
 ### LodDistance5
 
 • **LodDistance5**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35300)
 
 ___
 
@@ -250,19 +186,11 @@ ___
 
 • **LodDistance6**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35301)
-
 ___
 
 ### LodDistance7
 
 • **LodDistance7**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35302)
 
 ___
 
@@ -270,19 +198,11 @@ ___
 
 • **LodNumber**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35304)
-
 ___
 
 ### MeshTypeToImport
 
 • **MeshTypeToImport**: [`EFBXImportType`](../enums/ue_ue.EFBXImportType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35287)
 
 ___
 
@@ -290,19 +210,11 @@ ___
 
 • **MinimumLodNumber**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35303)
-
 ___
 
 ### OriginalImportType
 
 • **OriginalImportType**: [`EFBXImportType`](../enums/ue_ue.EFBXImportType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35286)
 
 ___
 
@@ -310,19 +222,11 @@ ___
 
 • **OverrideAnimationName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:35306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35306)
-
 ___
 
 ### PhysicsAsset
 
 • **PhysicsAsset**: [`PhysicsAsset`](ue_ue.PhysicsAsset.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35293)
 
 ___
 
@@ -330,19 +234,11 @@ ___
 
 • **SkeletalMeshImportData**: [`FbxSkeletalMeshImportData`](ue_ue.FbxSkeletalMeshImportData.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35311)
-
 ___
 
 ### Skeleton
 
 • **Skeleton**: [`Skeleton`](ue_ue.Skeleton.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35291)
 
 ___
 
@@ -350,29 +246,17 @@ ___
 
 • **StaticMeshImportData**: [`FbxStaticMeshImportData`](ue_ue.FbxStaticMeshImportData.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35310)
-
 ___
 
 ### TextureImportData
 
 • **TextureImportData**: [`FbxTextureImportData`](ue_ue.FbxTextureImportData.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35313)
-
 ___
 
 ### \_\_tid\_FbxImportUI\_\_
 
 • **\_\_tid\_FbxImportUI\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35328)
 
 ___
 
@@ -384,19 +268,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bAutoComputeLodDistances
 
 • **bAutoComputeLodDistances**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35294)
 
 ___
 
@@ -404,19 +280,11 @@ ___
 
 • **bAutomatedImportShouldDetectType**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35314)
-
 ___
 
 ### bCreatePhysicsAsset
 
 • **bCreatePhysicsAsset**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35292)
 
 ___
 
@@ -424,19 +292,11 @@ ___
 
 • **bImportAnimations**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35305)
-
 ___
 
 ### bImportAsSkeletal
 
 • **bImportAsSkeletal**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35289)
 
 ___
 
@@ -444,19 +304,11 @@ ___
 
 • **bImportMaterials**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35308)
-
 ___
 
 ### bImportMesh
 
 • **bImportMesh**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35290)
 
 ___
 
@@ -464,19 +316,11 @@ ___
 
 • **bImportRigidMesh**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35307)
-
 ___
 
 ### bImportTextures
 
 • **bImportTextures**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35309)
 
 ___
 
@@ -484,19 +328,11 @@ ___
 
 • **bIsObjImport**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35285)
-
 ___
 
 ### bOverrideFullName
 
 • **bOverrideFullName**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35288)
 
 ## Methods
 
@@ -522,10 +358,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -546,10 +378,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -563,10 +391,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -582,10 +406,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -599,10 +419,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -618,10 +434,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### ResetToDefault
@@ -631,10 +443,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:35323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35323)
 
 ___
 
@@ -657,10 +465,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:35325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35325)
-
 ___
 
 ### Load
@@ -681,10 +485,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:35326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35326)
-
 ___
 
 ### StaticClass
@@ -698,7 +498,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:35324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35324)

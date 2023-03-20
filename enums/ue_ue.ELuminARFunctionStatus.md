@@ -25,19 +25,11 @@
 
 • **ELuminARFunctionStatus\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33980)
-
 ___
 
 ### Fatal
 
 • **Fatal** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33980)
 
 ___
 
@@ -45,19 +37,11 @@ ___
 
 • **InvalidType** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33980)
-
 ___
 
 ### NotAvailable
 
 • **NotAvailable** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33980)
 
 ___
 
@@ -65,19 +49,11 @@ ___
 
 • **NotTracking** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33980)
-
 ___
 
 ### ResourceExhausted
 
 • **ResourceExhausted** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33980)
 
 ___
 
@@ -85,19 +61,11 @@ ___
 
 • **SessionPaused** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33980)
-
 ___
 
 ### Success
 
 • **Success** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33980)
 
 ___
 
@@ -105,16 +73,8 @@ ___
 
 • **Unknown** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33980)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33980)

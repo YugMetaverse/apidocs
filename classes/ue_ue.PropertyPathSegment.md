@@ -29,10 +29,6 @@
 
 • **new PropertyPathSegment**()
 
-#### Defined in
-
-[ue/ue.d.ts:10776](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10776)
-
 • **new PropertyPathSegment**(`Name`, `ArrayIndex`, `Struct`, `Field`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `Struct` | [`Struct`](ue_ue.Struct.md) |
 | `Field` | [`Field`](ue_ue.Field.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:10777](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10777)
-
 ## Properties
 
 ### ArrayIndex
 
 • **ArrayIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10779)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **Field**: [`Field`](ue_ue.Field.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10781)
-
 ___
 
 ### Name
 
 • **Name**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:10778](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10778)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **Struct**: [`Struct`](ue_ue.Struct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10780)
-
 ___
 
 ### \_\_tid\_PropertyPathSegment\_\_
 
 • `Private` **\_\_tid\_PropertyPathSegment\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10787)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10785](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10785)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10786)

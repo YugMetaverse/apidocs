@@ -19,19 +19,11 @@
 
 • **Dash** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34737)
-
 ___
 
 ### EReporterLineStyle\_MAX
 
 • **EReporterLineStyle\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34737)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Line** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34737)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34737)

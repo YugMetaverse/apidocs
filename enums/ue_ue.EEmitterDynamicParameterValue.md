@@ -23,19 +23,11 @@
 
 • **EDPV\_AutoSet** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33832)
-
 ___
 
 ### EDPV\_MAX
 
 • **EDPV\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33832)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **EDPV\_UserSet** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33832)
-
 ___
 
 ### EDPV\_VelocityMag
 
 • **EDPV\_VelocityMag** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33832)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **EDPV\_VelocityX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33832)
-
 ___
 
 ### EDPV\_VelocityY
 
 • **EDPV\_VelocityY** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33832)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **EDPV\_VelocityZ** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33832)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33832)

@@ -22,19 +22,11 @@
 
 • **Custom** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22816)
-
 ___
 
 ### EComparisonTolerance\_MAX
 
 • **EComparisonTolerance\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22816)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **High** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22816)
-
 ___
 
 ### Low
 
 • **Low** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22816)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **Medium** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22816)
-
 ___
 
 ### Zero
 
 • **Zero** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22816)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22816)

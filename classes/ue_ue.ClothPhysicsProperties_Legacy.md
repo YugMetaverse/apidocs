@@ -45,10 +45,6 @@
 
 • **new ClothPhysicsProperties_Legacy**()
 
-#### Defined in
-
-[ue/ue.d.ts:3913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3913)
-
 • **new ClothPhysicsProperties_Legacy**(`VerticalResistance`, `HorizontalResistance`, `BendResistance`, `ShearResistance`, `Friction`, `Damping`, `TetherStiffness`, `TetherLimit`, `Drag`, `StiffnessFrequency`, `GravityScale`, `MassScale`, `InertiaBlend`, `SelfCollisionThickness`, `SelfCollisionSquashScale`, `SelfCollisionStiffness`, `SolverFrequency`, `FiberCompression`, `FiberExpansion`, `FiberResistance`)
 
 #### Parameters
@@ -76,19 +72,11 @@
 | `FiberExpansion` | `number` |
 | `FiberResistance` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:3914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3914)
-
 ## Properties
 
 ### BendResistance
 
 • **BendResistance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3917)
 
 ___
 
@@ -96,19 +84,11 @@ ___
 
 • **Damping**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3920)
-
 ___
 
 ### Drag
 
 • **Drag**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3923)
 
 ___
 
@@ -116,19 +96,11 @@ ___
 
 • **FiberCompression**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3932)
-
 ___
 
 ### FiberExpansion
 
 • **FiberExpansion**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3933)
 
 ___
 
@@ -136,19 +108,11 @@ ___
 
 • **FiberResistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3934)
-
 ___
 
 ### Friction
 
 • **Friction**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3919)
 
 ___
 
@@ -156,19 +120,11 @@ ___
 
 • **GravityScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3925)
-
 ___
 
 ### HorizontalResistance
 
 • **HorizontalResistance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3916)
 
 ___
 
@@ -176,19 +132,11 @@ ___
 
 • **InertiaBlend**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3927)
-
 ___
 
 ### MassScale
 
 • **MassScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3926)
 
 ___
 
@@ -196,19 +144,11 @@ ___
 
 • **SelfCollisionSquashScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3929)
-
 ___
 
 ### SelfCollisionStiffness
 
 • **SelfCollisionStiffness**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3930)
 
 ___
 
@@ -216,19 +156,11 @@ ___
 
 • **SelfCollisionThickness**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3928)
-
 ___
 
 ### ShearResistance
 
 • **ShearResistance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3918)
 
 ___
 
@@ -236,19 +168,11 @@ ___
 
 • **SolverFrequency**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3931)
-
 ___
 
 ### StiffnessFrequency
 
 • **StiffnessFrequency**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3924)
 
 ___
 
@@ -256,19 +180,11 @@ ___
 
 • **TetherLimit**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3922)
-
 ___
 
 ### TetherStiffness
 
 • **TetherStiffness**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3921)
 
 ___
 
@@ -276,19 +192,11 @@ ___
 
 • **VerticalResistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3915)
-
 ___
 
 ### \_\_tid\_ClothPhysicsProperties\_Legacy\_\_
 
 • `Private` **\_\_tid\_ClothPhysicsProperties\_Legacy\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3940)
 
 ## Methods
 
@@ -304,10 +212,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3938)
-
 ___
 
 ### StaticStruct
@@ -317,7 +221,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3939)

@@ -21,19 +21,11 @@
 
 • **CD\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34640)
-
 ___
 
 ### CD\_None
 
 • **CD\_None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34640)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **CD\_WebCamera0** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34640)
-
 ___
 
 ### CD\_WebCamera1
 
 • **CD\_WebCamera1** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34640)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **CD\_ZEDCamera** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34640)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34640)

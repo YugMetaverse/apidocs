@@ -38,10 +38,6 @@
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[constructor](ue_ue.AnimNode_Base.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:19245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19245)
-
 • **new AnimNode_PoseSnapshot**(`SnapshotName`, `Snapshot`, `Mode`)
 
 #### Parameters
@@ -56,19 +52,11 @@
 
 UE.AnimNode\_Base.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:19246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19246)
-
 ## Properties
 
 ### Mode
 
 • **Mode**: [`ESnapshotSourceMode`](../enums/ue_ue.ESnapshotSourceMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19249)
 
 ___
 
@@ -76,29 +64,17 @@ ___
 
 • **Snapshot**: [`PoseSnapshot`](ue_ue.PoseSnapshot.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19248)
-
 ___
 
 ### SnapshotName
 
 • **SnapshotName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:19247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19247)
-
 ___
 
 ### \_\_tid\_AnimNode\_PoseSnapshot\_\_
 
 • `Private` **\_\_tid\_AnimNode\_PoseSnapshot\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:19255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19255)
 
 ## Methods
 
@@ -118,10 +94,6 @@ use StaticStruct instead.
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticClass](ue_ue.AnimNode_Base.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:19253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19253)
-
 ___
 
 ### StaticStruct
@@ -135,7 +107,3 @@ ___
 #### Overrides
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticStruct](ue_ue.AnimNode_Base.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:19254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19254)

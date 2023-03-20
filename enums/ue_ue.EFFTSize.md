@@ -23,19 +23,11 @@
 
 • **DefaultSize** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22393)
-
 ___
 
 ### EFFTSize\_MAX
 
 • **EFFTSize\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22393)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **Large** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22393)
-
 ___
 
 ### Max
 
 • **Max** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22393)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **Medium** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22393)
-
 ___
 
 ### Min
 
 • **Min** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22393)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **Small** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22393)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22393)

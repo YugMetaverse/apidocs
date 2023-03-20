@@ -21,19 +21,11 @@
 
 • **RCIM\_Constant** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1632)
-
 ___
 
 ### RCIM\_Cubic
 
 • **RCIM\_Cubic** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1632)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **RCIM\_Linear** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1632)
-
 ___
 
 ### RCIM\_MAX
 
 • **RCIM\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1632)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **RCIM\_None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1632)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1632)

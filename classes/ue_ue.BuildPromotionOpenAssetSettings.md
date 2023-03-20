@@ -31,10 +31,6 @@
 
 • **new BuildPromotionOpenAssetSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:23055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23055)
-
 • **new BuildPromotionOpenAssetSettings**(`BlueprintAsset`, `MaterialAsset`, `ParticleSystemAsset`, `SkeletalMeshAsset`, `StaticMeshAsset`, `TextureAsset`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `StaticMeshAsset` | [`FilePath`](ue_ue.FilePath.md) |
 | `TextureAsset` | [`FilePath`](ue_ue.FilePath.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:23056](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23056)
-
 ## Properties
 
 ### BlueprintAsset
 
 • **BlueprintAsset**: [`FilePath`](ue_ue.FilePath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:23057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23057)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **MaterialAsset**: [`FilePath`](ue_ue.FilePath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23058)
-
 ___
 
 ### ParticleSystemAsset
 
 • **ParticleSystemAsset**: [`FilePath`](ue_ue.FilePath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:23059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23059)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **SkeletalMeshAsset**: [`FilePath`](ue_ue.FilePath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23060)
-
 ___
 
 ### StaticMeshAsset
 
 • **StaticMeshAsset**: [`FilePath`](ue_ue.FilePath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:23061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23061)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **TextureAsset**: [`FilePath`](ue_ue.FilePath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23062)
-
 ___
 
 ### \_\_tid\_BuildPromotionOpenAssetSettings\_\_
 
 • `Private` **\_\_tid\_BuildPromotionOpenAssetSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:23068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23068)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23066)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:23067](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23067)

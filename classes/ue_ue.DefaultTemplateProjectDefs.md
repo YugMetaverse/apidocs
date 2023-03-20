@@ -70,10 +70,6 @@
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[constructor](ue_ue.TemplateProjectDefs.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:30630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30630)
-
 ## Properties
 
 ### AssetTypes
@@ -83,10 +79,6 @@
 #### Inherited from
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[AssetTypes](ue_ue.TemplateProjectDefs.md#assettypes)
-
-#### Defined in
-
-[ue/ue.d.ts:30614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30614)
 
 ___
 
@@ -98,10 +90,6 @@ ___
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[Categories](ue_ue.TemplateProjectDefs.md#categories)
 
-#### Defined in
-
-[ue/ue.d.ts:30612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30612)
-
 ___
 
 ### ClassTypes
@@ -111,10 +99,6 @@ ___
 #### Inherited from
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[ClassTypes](ue_ue.TemplateProjectDefs.md#classtypes)
-
-#### Defined in
-
-[ue/ue.d.ts:30613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30613)
 
 ___
 
@@ -126,10 +110,6 @@ ___
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[EditDetailLevelPreference](ue_ue.TemplateProjectDefs.md#editdetaillevelpreference)
 
-#### Defined in
-
-[ue/ue.d.ts:30620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30620)
-
 ___
 
 ### FilenameReplacements
@@ -139,10 +119,6 @@ ___
 #### Inherited from
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[FilenameReplacements](ue_ue.TemplateProjectDefs.md#filenamereplacements)
-
-#### Defined in
-
-[ue/ue.d.ts:30609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30609)
 
 ___
 
@@ -154,10 +130,6 @@ ___
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[FilesToIgnore](ue_ue.TemplateProjectDefs.md#filestoignore)
 
-#### Defined in
-
-[ue/ue.d.ts:30607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30607)
-
 ___
 
 ### FolderRenames
@@ -167,10 +139,6 @@ ___
 #### Inherited from
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[FolderRenames](ue_ue.TemplateProjectDefs.md#folderrenames)
-
-#### Defined in
-
-[ue/ue.d.ts:30608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30608)
 
 ___
 
@@ -182,10 +150,6 @@ ___
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[FoldersToIgnore](ue_ue.TemplateProjectDefs.md#folderstoignore)
 
-#### Defined in
-
-[ue/ue.d.ts:30606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30606)
-
 ___
 
 ### HiddenSettings
@@ -195,10 +159,6 @@ ___
 #### Inherited from
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[HiddenSettings](ue_ue.TemplateProjectDefs.md#hiddensettings)
-
-#### Defined in
-
-[ue/ue.d.ts:30618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30618)
 
 ___
 
@@ -210,10 +170,6 @@ ___
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[LocalizedDescriptions](ue_ue.TemplateProjectDefs.md#localizeddescriptions)
 
-#### Defined in
-
-[ue/ue.d.ts:30605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30605)
-
 ___
 
 ### LocalizedDisplayNames
@@ -223,10 +179,6 @@ ___
 #### Inherited from
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[LocalizedDisplayNames](ue_ue.TemplateProjectDefs.md#localizeddisplaynames)
-
-#### Defined in
-
-[ue/ue.d.ts:30604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30604)
 
 ___
 
@@ -238,10 +190,6 @@ ___
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[PacksToInclude](ue_ue.TemplateProjectDefs.md#packstoinclude)
 
-#### Defined in
-
-[ue/ue.d.ts:30619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30619)
-
 ___
 
 ### ReplacementsInFiles
@@ -251,10 +199,6 @@ ___
 #### Inherited from
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[ReplacementsInFiles](ue_ue.TemplateProjectDefs.md#replacementsinfiles)
-
-#### Defined in
-
-[ue/ue.d.ts:30610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30610)
 
 ___
 
@@ -266,10 +210,6 @@ ___
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[SharedContentPacks](ue_ue.TemplateProjectDefs.md#sharedcontentpacks)
 
-#### Defined in
-
-[ue/ue.d.ts:30621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30621)
-
 ___
 
 ### SortKey
@@ -280,19 +220,11 @@ ___
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[SortKey](ue_ue.TemplateProjectDefs.md#sortkey)
 
-#### Defined in
-
-[ue/ue.d.ts:30611](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30611)
-
 ___
 
 ### \_\_tid\_DefaultTemplateProjectDefs\_\_
 
 • **\_\_tid\_DefaultTemplateProjectDefs\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30635)
 
 ___
 
@@ -304,10 +236,6 @@ ___
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[__tid_Object__](ue_ue.TemplateProjectDefs.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_TemplateProjectDefs\_\_
@@ -317,10 +245,6 @@ ___
 #### Inherited from
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[__tid_TemplateProjectDefs__](ue_ue.TemplateProjectDefs.md#__tid_templateprojectdefs__)
-
-#### Defined in
-
-[ue/ue.d.ts:30626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30626)
 
 ___
 
@@ -332,10 +256,6 @@ ___
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[bAllowProjectCreation](ue_ue.TemplateProjectDefs.md#ballowprojectcreation)
 
-#### Defined in
-
-[ue/ue.d.ts:30615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30615)
-
 ___
 
 ### bIsBlank
@@ -346,10 +266,6 @@ ___
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[bIsBlank](ue_ue.TemplateProjectDefs.md#bisblank)
 
-#### Defined in
-
-[ue/ue.d.ts:30617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30617)
-
 ___
 
 ### bIsEnterprise
@@ -359,10 +275,6 @@ ___
 #### Inherited from
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[bIsEnterprise](ue_ue.TemplateProjectDefs.md#bisenterprise)
-
-#### Defined in
-
-[ue/ue.d.ts:30616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30616)
 
 ## Methods
 
@@ -388,10 +300,6 @@ ___
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[CreateDefaultSubobject](ue_ue.TemplateProjectDefs.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -412,10 +320,6 @@ ___
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[ExecuteUbergraph](ue_ue.TemplateProjectDefs.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -429,10 +333,6 @@ ___
 #### Inherited from
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[GetClass](ue_ue.TemplateProjectDefs.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -448,10 +348,6 @@ ___
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[GetName](ue_ue.TemplateProjectDefs.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -466,10 +362,6 @@ ___
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[GetOuter](ue_ue.TemplateProjectDefs.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -483,10 +375,6 @@ ___
 #### Inherited from
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[GetWorld](ue_ue.TemplateProjectDefs.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -509,10 +397,6 @@ ___
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[Find](ue_ue.TemplateProjectDefs.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:30632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30632)
-
 ___
 
 ### Load
@@ -533,10 +417,6 @@ ___
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[Load](ue_ue.TemplateProjectDefs.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:30633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30633)
-
 ___
 
 ### StaticClass
@@ -550,7 +430,3 @@ ___
 #### Overrides
 
 [TemplateProjectDefs](ue_ue.TemplateProjectDefs.md).[StaticClass](ue_ue.TemplateProjectDefs.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:30631](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30631)

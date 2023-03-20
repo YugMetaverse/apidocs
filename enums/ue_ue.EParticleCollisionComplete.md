@@ -23,19 +23,11 @@
 
 • **EPCC\_Freeze** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34659)
-
 ___
 
 ### EPCC\_FreezeMovement
 
 • **EPCC\_FreezeMovement** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34659)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **EPCC\_FreezeRotation** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34659)
-
 ___
 
 ### EPCC\_FreezeTranslation
 
 • **EPCC\_FreezeTranslation** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34659)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **EPCC\_HaltCollisions** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34659)
-
 ___
 
 ### EPCC\_Kill
 
 • **EPCC\_Kill** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34659)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **EPCC\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34659)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34659)

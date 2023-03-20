@@ -56,19 +56,11 @@
 
 [SelectionSet](ue_ue.SelectionSet.md).[constructor](ue_ue.SelectionSet.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:50560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50560)
-
 ## Properties
 
 ### Edges
 
 • **Edges**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:50562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50562)
 
 ___
 
@@ -76,19 +68,11 @@ ___
 
 • **Faces**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:50563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50563)
-
 ___
 
 ### Groups
 
 • **Groups**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:50564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50564)
 
 ___
 
@@ -96,19 +80,11 @@ ___
 
 • **Vertices**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:50561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50561)
-
 ___
 
 ### \_\_tid\_MeshSelectionSet\_\_
 
 • **\_\_tid\_MeshSelectionSet\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50569)
 
 ___
 
@@ -120,10 +96,6 @@ ___
 
 [SelectionSet](ue_ue.SelectionSet.md).[__tid_Object__](ue_ue.SelectionSet.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_SelectionSet\_\_
@@ -133,10 +105,6 @@ ___
 #### Inherited from
 
 [SelectionSet](ue_ue.SelectionSet.md).[__tid_SelectionSet__](ue_ue.SelectionSet.md#__tid_selectionset__)
-
-#### Defined in
-
-[ue/ue.d.ts:50556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50556)
 
 ## Methods
 
@@ -162,10 +130,6 @@ ___
 
 [SelectionSet](ue_ue.SelectionSet.md).[CreateDefaultSubobject](ue_ue.SelectionSet.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -186,10 +150,6 @@ ___
 
 [SelectionSet](ue_ue.SelectionSet.md).[ExecuteUbergraph](ue_ue.SelectionSet.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -203,10 +163,6 @@ ___
 #### Inherited from
 
 [SelectionSet](ue_ue.SelectionSet.md).[GetClass](ue_ue.SelectionSet.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -222,10 +178,6 @@ ___
 
 [SelectionSet](ue_ue.SelectionSet.md).[GetName](ue_ue.SelectionSet.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -240,10 +192,6 @@ ___
 
 [SelectionSet](ue_ue.SelectionSet.md).[GetOuter](ue_ue.SelectionSet.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -257,10 +205,6 @@ ___
 #### Inherited from
 
 [SelectionSet](ue_ue.SelectionSet.md).[GetWorld](ue_ue.SelectionSet.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -283,10 +227,6 @@ ___
 
 [SelectionSet](ue_ue.SelectionSet.md).[Find](ue_ue.SelectionSet.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:50566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50566)
-
 ___
 
 ### Load
@@ -307,10 +247,6 @@ ___
 
 [SelectionSet](ue_ue.SelectionSet.md).[Load](ue_ue.SelectionSet.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:50567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50567)
-
 ___
 
 ### StaticClass
@@ -324,7 +260,3 @@ ___
 #### Overrides
 
 [SelectionSet](ue_ue.SelectionSet.md).[StaticClass](ue_ue.SelectionSet.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:50565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50565)

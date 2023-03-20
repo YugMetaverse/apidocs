@@ -20,19 +20,11 @@
 
 • **TSAT\_DDSFile** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34824)
-
 ___
 
 ### TSAT\_MAX
 
 • **TSAT\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34824)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **TSAT\_PNGCompressed** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34824)
-
 ___
 
 ### TSAT\_Uncompressed
 
 • **TSAT\_Uncompressed** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34824)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34824)

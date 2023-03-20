@@ -19,19 +19,11 @@
 
 • **EKinematicBonesUpdateToPhysics\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5199)
-
 ___
 
 ### SkipAllBones
 
 • **SkipAllBones** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5199)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **SkipSimulatingBones** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5199)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5199)

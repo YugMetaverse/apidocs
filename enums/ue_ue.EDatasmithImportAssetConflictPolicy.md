@@ -21,19 +21,11 @@
 
 • **EDatasmithImportAssetConflictPolicy\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29713)
-
 ___
 
 ### Ignore
 
 • **Ignore** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29713)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Replace** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29713)
-
 ___
 
 ### Update
 
 • **Update** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29713)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Use** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29713)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29713)

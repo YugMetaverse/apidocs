@@ -47,19 +47,11 @@
 
 • **new MovieSceneChannel**()
 
-#### Defined in
-
-[ue/ue.d.ts:50934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50934)
-
 ## Properties
 
 ### \_\_tid\_MovieSceneChannel\_\_
 
 • `Private` **\_\_tid\_MovieSceneChannel\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50940)
 
 ## Methods
 
@@ -75,10 +67,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:50938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50938)
-
 ___
 
 ### StaticStruct
@@ -88,7 +76,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:50939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50939)

@@ -21,19 +21,11 @@
 
 • **ELuminFrameTimingHint\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33985)
-
 ___
 
 ### FPS\_120
 
 • **FPS\_120** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33985)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **FPS\_60** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33985)
-
 ___
 
 ### Maximum
 
 • **Maximum** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33985)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Unspecified** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33985)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33985)

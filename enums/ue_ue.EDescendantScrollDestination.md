@@ -20,19 +20,11 @@
 
 • **Center** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31437)
-
 ___
 
 ### EDescendantScrollDestination\_MAX
 
 • **EDescendantScrollDestination\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31437)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **IntoView** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31437)
-
 ___
 
 ### TopOrLeft
 
 • **TopOrLeft** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31437)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31437)

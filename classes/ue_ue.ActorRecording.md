@@ -63,19 +63,11 @@
 
 [SequenceRecordingBase](ue_ue.SequenceRecordingBase.md).[constructor](ue_ue.SequenceRecordingBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:14063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14063)
-
 ## Properties
 
 ### ActorSettings
 
 • **ActorSettings**: [`ActorRecordingSettings`](ue_ue.ActorRecordingSettings.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14064)
 
 ___
 
@@ -83,19 +75,11 @@ ___
 
 • **ActorToRecord**: [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`Actor`](ue_ue.Actor.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:14074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14074)
-
 ___
 
 ### AnimationSettings
 
 • **AnimationSettings**: [`AnimationRecordingSettings`](ue_ue.AnimationRecordingSettings.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14072)
 
 ___
 
@@ -103,19 +87,11 @@ ___
 
 • **TakeNumber**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14069)
-
 ___
 
 ### TargetAnimation
 
 • **TargetAnimation**: [`AnimSequence`](ue_ue.AnimSequence.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14071)
 
 ___
 
@@ -123,29 +99,17 @@ ___
 
 • **TargetLevelSequence**: [`LevelSequence`](ue_ue.LevelSequence.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14067](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14067)
-
 ___
 
 ### TargetName
 
 • **TargetName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:14068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14068)
-
 ___
 
 ### \_\_tid\_ActorRecording\_\_
 
 • **\_\_tid\_ActorRecording\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14079)
 
 ___
 
@@ -157,10 +121,6 @@ ___
 
 [SequenceRecordingBase](ue_ue.SequenceRecordingBase.md).[__tid_Object__](ue_ue.SequenceRecordingBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_SequenceRecordingBase\_\_
@@ -171,19 +131,11 @@ ___
 
 [SequenceRecordingBase](ue_ue.SequenceRecordingBase.md).[__tid_SequenceRecordingBase__](ue_ue.SequenceRecordingBase.md#__tid_sequencerecordingbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:13946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13946)
-
 ___
 
 ### bActive
 
 • **bActive**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14065)
 
 ___
 
@@ -191,29 +143,17 @@ ___
 
 • **bCreateLevelSequence**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:14066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14066)
-
 ___
 
 ### bRecordToPossessable
 
 • **bRecordToPossessable**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:14073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14073)
-
 ___
 
 ### bSpecifyTargetAnimation
 
 • **bSpecifyTargetAnimation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14070)
 
 ## Methods
 
@@ -239,10 +179,6 @@ ___
 
 [SequenceRecordingBase](ue_ue.SequenceRecordingBase.md).[CreateDefaultSubobject](ue_ue.SequenceRecordingBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -263,10 +199,6 @@ ___
 
 [SequenceRecordingBase](ue_ue.SequenceRecordingBase.md).[ExecuteUbergraph](ue_ue.SequenceRecordingBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -280,10 +212,6 @@ ___
 #### Inherited from
 
 [SequenceRecordingBase](ue_ue.SequenceRecordingBase.md).[GetClass](ue_ue.SequenceRecordingBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -299,10 +227,6 @@ ___
 
 [SequenceRecordingBase](ue_ue.SequenceRecordingBase.md).[GetName](ue_ue.SequenceRecordingBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -317,10 +241,6 @@ ___
 
 [SequenceRecordingBase](ue_ue.SequenceRecordingBase.md).[GetOuter](ue_ue.SequenceRecordingBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -334,10 +254,6 @@ ___
 #### Inherited from
 
 [SequenceRecordingBase](ue_ue.SequenceRecordingBase.md).[GetWorld](ue_ue.SequenceRecordingBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -360,10 +276,6 @@ ___
 
 [SequenceRecordingBase](ue_ue.SequenceRecordingBase.md).[Find](ue_ue.SequenceRecordingBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:14076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14076)
-
 ___
 
 ### Load
@@ -384,10 +296,6 @@ ___
 
 [SequenceRecordingBase](ue_ue.SequenceRecordingBase.md).[Load](ue_ue.SequenceRecordingBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:14077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14077)
-
 ___
 
 ### StaticClass
@@ -401,7 +309,3 @@ ___
 #### Overrides
 
 [SequenceRecordingBase](ue_ue.SequenceRecordingBase.md).[StaticClass](ue_ue.SequenceRecordingBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:14075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14075)

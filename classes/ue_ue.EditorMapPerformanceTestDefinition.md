@@ -27,10 +27,6 @@
 
 • **new EditorMapPerformanceTestDefinition**()
 
-#### Defined in
-
-[ue/ue.d.ts:22982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22982)
-
 • **new EditorMapPerformanceTestDefinition**(`PerformanceTestmap`, `TestTimer`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `PerformanceTestmap` | [`SoftObjectPath`](ue_ue.SoftObjectPath.md) |
 | `TestTimer` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:22983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22983)
-
 ## Properties
 
 ### PerformanceTestmap
 
 • **PerformanceTestmap**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22984)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **TestTimer**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22985)
-
 ___
 
 ### \_\_tid\_EditorMapPerformanceTestDefinition\_\_
 
 • `Private` **\_\_tid\_EditorMapPerformanceTestDefinition\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22991)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22989)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22990)

@@ -31,10 +31,6 @@
 
 • **new ChaosTrailingEventRequestSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:26352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26352)
-
 • **new ChaosTrailingEventRequestSettings**(`MaxNumberOfResults`, `MinMass`, `MinSpeed`, `MinAngularSpeed`, `MaxDistance`, `SortMethod`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `MaxDistance` | `number` |
 | `SortMethod` | [`EChaosTrailingSortMethod`](../enums/ue_ue.EChaosTrailingSortMethod.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:26353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26353)
-
 ## Properties
 
 ### MaxDistance
 
 • **MaxDistance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26358)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **MaxNumberOfResults**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26354)
-
 ___
 
 ### MinAngularSpeed
 
 • **MinAngularSpeed**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26357](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26357)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **MinMass**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:26355](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26355)
-
 ___
 
 ### MinSpeed
 
 • **MinSpeed**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26356)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **SortMethod**: [`EChaosTrailingSortMethod`](../enums/ue_ue.EChaosTrailingSortMethod.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26359)
-
 ___
 
 ### \_\_tid\_ChaosTrailingEventRequestSettings\_\_
 
 • `Private` **\_\_tid\_ChaosTrailingEventRequestSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26365)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26363)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26364)

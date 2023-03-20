@@ -27,10 +27,6 @@
 
 • **new StatColorMapEntry**()
 
-#### Defined in
-
-[ue/ue.d.ts:32512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32512)
-
 • **new StatColorMapEntry**(`In`, `Out`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `In` | `number` |
 | `Out` | [`Color`](ue_ue_s.Color.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:32513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32513)
-
 ## Properties
 
 ### In
 
 • **In**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32514](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32514)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Out**: [`Color`](ue_ue_s.Color.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32515)
-
 ___
 
 ### \_\_tid\_StatColorMapEntry\_\_
 
 • `Private` **\_\_tid\_StatColorMapEntry\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32521](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32521)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32519](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32519)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32520](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32520)

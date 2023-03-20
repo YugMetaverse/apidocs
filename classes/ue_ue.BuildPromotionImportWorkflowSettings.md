@@ -36,10 +36,6 @@
 
 • **new BuildPromotionImportWorkflowSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:23033](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23033)
-
 • **new BuildPromotionImportWorkflowSettings**(`Diffuse`, `Normal`, `StaticMesh`, `ReimportStaticMesh`, `BlendShapeMesh`, `MorphMesh`, `SkeletalMesh`, `Animation`, `Sound`, `SurroundSound`, `OtherAssetsToImport`)
 
 #### Parameters
@@ -58,19 +54,11 @@
 | `SurroundSound` | [`EditorImportWorkflowDefinition`](ue_ue.EditorImportWorkflowDefinition.md) |
 | `OtherAssetsToImport` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`EditorImportWorkflowDefinition`](ue_ue.EditorImportWorkflowDefinition.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:23034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23034)
-
 ## Properties
 
 ### Animation
 
 • **Animation**: [`EditorImportWorkflowDefinition`](ue_ue.EditorImportWorkflowDefinition.md)
-
-#### Defined in
-
-[ue/ue.d.ts:23042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23042)
 
 ___
 
@@ -78,19 +66,11 @@ ___
 
 • **BlendShapeMesh**: [`EditorImportWorkflowDefinition`](ue_ue.EditorImportWorkflowDefinition.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23039)
-
 ___
 
 ### Diffuse
 
 • **Diffuse**: [`EditorImportWorkflowDefinition`](ue_ue.EditorImportWorkflowDefinition.md)
-
-#### Defined in
-
-[ue/ue.d.ts:23035](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23035)
 
 ___
 
@@ -98,19 +78,11 @@ ___
 
 • **MorphMesh**: [`EditorImportWorkflowDefinition`](ue_ue.EditorImportWorkflowDefinition.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23040](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23040)
-
 ___
 
 ### Normal
 
 • **Normal**: [`EditorImportWorkflowDefinition`](ue_ue.EditorImportWorkflowDefinition.md)
-
-#### Defined in
-
-[ue/ue.d.ts:23036](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23036)
 
 ___
 
@@ -118,19 +90,11 @@ ___
 
 • **OtherAssetsToImport**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`EditorImportWorkflowDefinition`](ue_ue.EditorImportWorkflowDefinition.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:23045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23045)
-
 ___
 
 ### ReimportStaticMesh
 
 • **ReimportStaticMesh**: [`EditorImportWorkflowDefinition`](ue_ue.EditorImportWorkflowDefinition.md)
-
-#### Defined in
-
-[ue/ue.d.ts:23038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23038)
 
 ___
 
@@ -138,19 +102,11 @@ ___
 
 • **SkeletalMesh**: [`EditorImportWorkflowDefinition`](ue_ue.EditorImportWorkflowDefinition.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23041](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23041)
-
 ___
 
 ### Sound
 
 • **Sound**: [`EditorImportWorkflowDefinition`](ue_ue.EditorImportWorkflowDefinition.md)
-
-#### Defined in
-
-[ue/ue.d.ts:23043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23043)
 
 ___
 
@@ -158,29 +114,17 @@ ___
 
 • **StaticMesh**: [`EditorImportWorkflowDefinition`](ue_ue.EditorImportWorkflowDefinition.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23037)
-
 ___
 
 ### SurroundSound
 
 • **SurroundSound**: [`EditorImportWorkflowDefinition`](ue_ue.EditorImportWorkflowDefinition.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23044)
-
 ___
 
 ### \_\_tid\_BuildPromotionImportWorkflowSettings\_\_
 
 • `Private` **\_\_tid\_BuildPromotionImportWorkflowSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:23051](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23051)
 
 ## Methods
 
@@ -196,10 +140,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23049)
-
 ___
 
 ### StaticStruct
@@ -209,7 +149,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:23050](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23050)

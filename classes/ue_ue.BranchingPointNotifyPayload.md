@@ -25,19 +25,11 @@
 
 • **new BranchingPointNotifyPayload**()
 
-#### Defined in
-
-[ue/ue.d.ts:58124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58124)
-
 ## Properties
 
 ### \_\_tid\_BranchingPointNotifyPayload\_\_
 
 • `Private` **\_\_tid\_BranchingPointNotifyPayload\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58130)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:58128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58128)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:58129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58129)

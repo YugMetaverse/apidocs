@@ -80,10 +80,6 @@
 
 [GeomModifier](ue_ue.GeomModifier.md).[constructor](ue_ue.GeomModifier.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:37733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37733)
-
 ## Properties
 
 ### CachedPolys
@@ -93,10 +89,6 @@
 #### Inherited from
 
 [GeomModifier](ue_ue.GeomModifier.md).[CachedPolys](ue_ue.GeomModifier.md#cachedpolys)
-
-#### Defined in
-
-[ue/ue.d.ts:37724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37724)
 
 ___
 
@@ -108,10 +100,6 @@ ___
 
 [GeomModifier](ue_ue.GeomModifier.md).[Description](ue_ue.GeomModifier.md#description)
 
-#### Defined in
-
-[ue/ue.d.ts:37719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37719)
-
 ___
 
 ### Tooltip
@@ -122,19 +110,11 @@ ___
 
 [GeomModifier](ue_ue.GeomModifier.md).[Tooltip](ue_ue.GeomModifier.md#tooltip)
 
-#### Defined in
-
-[ue/ue.d.ts:37720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37720)
-
 ___
 
 ### \_\_tid\_GeomModifier\_Edit\_\_
 
 • **\_\_tid\_GeomModifier\_Edit\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:37738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37738)
 
 ___
 
@@ -146,10 +126,6 @@ ___
 
 [GeomModifier](ue_ue.GeomModifier.md).[__tid_GeomModifier__](ue_ue.GeomModifier.md#__tid_geommodifier__)
 
-#### Defined in
-
-[ue/ue.d.ts:37729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37729)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -159,10 +135,6 @@ ___
 #### Inherited from
 
 [GeomModifier](ue_ue.GeomModifier.md).[__tid_Object__](ue_ue.GeomModifier.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -174,10 +146,6 @@ ___
 
 [GeomModifier](ue_ue.GeomModifier.md).[bInitialized](ue_ue.GeomModifier.md#binitialized)
 
-#### Defined in
-
-[ue/ue.d.ts:37722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37722)
-
 ___
 
 ### bPendingPivotOffsetUpdate
@@ -188,10 +156,6 @@ ___
 
 [GeomModifier](ue_ue.GeomModifier.md).[bPendingPivotOffsetUpdate](ue_ue.GeomModifier.md#bpendingpivotoffsetupdate)
 
-#### Defined in
-
-[ue/ue.d.ts:37723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37723)
-
 ___
 
 ### bPushButton
@@ -201,10 +165,6 @@ ___
 #### Inherited from
 
 [GeomModifier](ue_ue.GeomModifier.md).[bPushButton](ue_ue.GeomModifier.md#bpushbutton)
-
-#### Defined in
-
-[ue/ue.d.ts:37721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37721)
 
 ## Methods
 
@@ -230,10 +190,6 @@ ___
 
 [GeomModifier](ue_ue.GeomModifier.md).[CreateDefaultSubobject](ue_ue.GeomModifier.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -254,10 +210,6 @@ ___
 
 [GeomModifier](ue_ue.GeomModifier.md).[ExecuteUbergraph](ue_ue.GeomModifier.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -271,10 +223,6 @@ ___
 #### Inherited from
 
 [GeomModifier](ue_ue.GeomModifier.md).[GetClass](ue_ue.GeomModifier.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -290,10 +238,6 @@ ___
 
 [GeomModifier](ue_ue.GeomModifier.md).[GetName](ue_ue.GeomModifier.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -308,10 +252,6 @@ ___
 
 [GeomModifier](ue_ue.GeomModifier.md).[GetOuter](ue_ue.GeomModifier.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -325,10 +265,6 @@ ___
 #### Inherited from
 
 [GeomModifier](ue_ue.GeomModifier.md).[GetWorld](ue_ue.GeomModifier.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -351,10 +287,6 @@ ___
 
 [GeomModifier](ue_ue.GeomModifier.md).[Find](ue_ue.GeomModifier.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:37735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37735)
-
 ___
 
 ### Load
@@ -375,10 +307,6 @@ ___
 
 [GeomModifier](ue_ue.GeomModifier.md).[Load](ue_ue.GeomModifier.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:37736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37736)
-
 ___
 
 ### StaticClass
@@ -392,7 +320,3 @@ ___
 #### Overrides
 
 [GeomModifier](ue_ue.GeomModifier.md).[StaticClass](ue_ue.GeomModifier.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:37734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37734)

@@ -27,10 +27,6 @@
 
 • **new SoundWaveEnvelopeTimeData**()
 
-#### Defined in
-
-[ue/ue.d.ts:9515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9515)
-
 • **new SoundWaveEnvelopeTimeData**(`Amplitude`, `TimeSec`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Amplitude` | `number` |
 | `TimeSec` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:9516](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9516)
-
 ## Properties
 
 ### Amplitude
 
 • **Amplitude**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9517](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9517)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **TimeSec**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9518](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9518)
-
 ___
 
 ### \_\_tid\_SoundWaveEnvelopeTimeData\_\_
 
 • `Private` **\_\_tid\_SoundWaveEnvelopeTimeData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9524](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9524)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9522](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9522)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9523](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9523)

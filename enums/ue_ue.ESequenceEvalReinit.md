@@ -20,19 +20,11 @@
 
 • **ESequenceEvalReinit\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19553)
-
 ___
 
 ### ExplicitTime
 
 • **ExplicitTime** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19553)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **NoReset** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19553)
-
 ___
 
 ### StartPosition
 
 • **StartPosition** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19553)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19553)

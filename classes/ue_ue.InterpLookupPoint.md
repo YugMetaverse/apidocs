@@ -27,10 +27,6 @@
 
 • **new InterpLookupPoint**()
 
-#### Defined in
-
-[ue/ue.d.ts:7585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7585)
-
 • **new InterpLookupPoint**(`GroupName`, `Time`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `GroupName` | `string` |
 | `Time` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:7586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7586)
-
 ## Properties
 
 ### GroupName
 
 • **GroupName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:7587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7587)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Time**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7588](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7588)
-
 ___
 
 ### \_\_tid\_InterpLookupPoint\_\_
 
 • `Private` **\_\_tid\_InterpLookupPoint\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7594)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7592)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7593)

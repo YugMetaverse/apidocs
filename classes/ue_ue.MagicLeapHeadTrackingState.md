@@ -28,10 +28,6 @@
 
 • **new MagicLeapHeadTrackingState**()
 
-#### Defined in
-
-[ue/ue.d.ts:46763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46763)
-
 • **new MagicLeapHeadTrackingState**(`Mode`, `Error`, `Confidence`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Error` | [`EMagicLeapHeadTrackingError`](../enums/ue_ue.EMagicLeapHeadTrackingError.md) |
 | `Confidence` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:46764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46764)
-
 ## Properties
 
 ### Confidence
 
 • **Confidence**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:46767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46767)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Error**: [`EMagicLeapHeadTrackingError`](../enums/ue_ue.EMagicLeapHeadTrackingError.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46766)
-
 ___
 
 ### Mode
 
 • **Mode**: [`EMagicLeapHeadTrackingMode`](../enums/ue_ue.EMagicLeapHeadTrackingMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46765)
-
 ___
 
 ### \_\_tid\_MagicLeapHeadTrackingState\_\_
 
 • `Private` **\_\_tid\_MagicLeapHeadTrackingState\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46773)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46771)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46772)

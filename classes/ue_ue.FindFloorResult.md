@@ -31,10 +31,6 @@
 
 • **new FindFloorResult**()
 
-#### Defined in
-
-[ue/ue.d.ts:5508](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5508)
-
 • **new FindFloorResult**(`bBlockingHit`, `bWalkableFloor`, `bLineTrace`, `FloorDist`, `LineDist`, `HitResult`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `LineDist` | `number` |
 | `HitResult` | [`HitResult`](ue_ue.HitResult.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:5509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5509)
-
 ## Properties
 
 ### FloorDist
 
 • **FloorDist**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5513)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **HitResult**: [`HitResult`](ue_ue.HitResult.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5515)
-
 ___
 
 ### LineDist
 
 • **LineDist**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5514](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5514)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • `Private` **\_\_tid\_FindFloorResult\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5521](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5521)
-
 ___
 
 ### bBlockingHit
 
 • **bBlockingHit**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5510)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **bLineTrace**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5512)
-
 ___
 
 ### bWalkableFloor
 
 • **bWalkableFloor**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5511)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5519](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5519)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5520](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5520)

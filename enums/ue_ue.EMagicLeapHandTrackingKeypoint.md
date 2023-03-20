@@ -41,19 +41,11 @@
 
 • **EMagicLeapHandTrackingKeypoint\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34001)
-
 ___
 
 ### Hand\_Center
 
 • **Hand\_Center** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34001)
 
 ___
 
@@ -61,19 +53,11 @@ ___
 
 • **Index\_DIP** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34001)
-
 ___
 
 ### Index\_MCP
 
 • **Index\_MCP** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34001)
 
 ___
 
@@ -81,19 +65,11 @@ ___
 
 • **Index\_PIP** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34001)
-
 ___
 
 ### Index\_Tip
 
 • **Index\_Tip** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34001)
 
 ___
 
@@ -101,19 +77,11 @@ ___
 
 • **Middle\_DIP** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34001)
-
 ___
 
 ### Middle\_MCP
 
 • **Middle\_MCP** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34001)
 
 ___
 
@@ -121,19 +89,11 @@ ___
 
 • **Middle\_PIP** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34001)
-
 ___
 
 ### Middle\_Tip
 
 • **Middle\_Tip** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34001)
 
 ___
 
@@ -141,19 +101,11 @@ ___
 
 • **Pinky\_DIP** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34001)
-
 ___
 
 ### Pinky\_MCP
 
 • **Pinky\_MCP** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34001)
 
 ___
 
@@ -161,19 +113,11 @@ ___
 
 • **Pinky\_PIP** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34001)
-
 ___
 
 ### Pinky\_Tip
 
 • **Pinky\_Tip** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34001)
 
 ___
 
@@ -181,19 +125,11 @@ ___
 
 • **Ring\_DIP** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34001)
-
 ___
 
 ### Ring\_MCP
 
 • **Ring\_MCP** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34001)
 
 ___
 
@@ -201,19 +137,11 @@ ___
 
 • **Ring\_PIP** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34001)
-
 ___
 
 ### Ring\_Tip
 
 • **Ring\_Tip** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34001)
 
 ___
 
@@ -221,19 +149,11 @@ ___
 
 • **Thumb\_CMC** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34001)
-
 ___
 
 ### Thumb\_IP
 
 • **Thumb\_IP** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34001)
 
 ___
 
@@ -241,19 +161,11 @@ ___
 
 • **Thumb\_MCP** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34001)
-
 ___
 
 ### Thumb\_Tip
 
 • **Thumb\_Tip** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34001)
 
 ___
 
@@ -261,19 +173,11 @@ ___
 
 • **Wrist\_Center** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34001)
-
 ___
 
 ### Wrist\_Radial
 
 • **Wrist\_Radial** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34001)
 
 ___
 
@@ -281,16 +185,8 @@ ___
 
 • **Wrist\_Ulnar** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34001)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34001)

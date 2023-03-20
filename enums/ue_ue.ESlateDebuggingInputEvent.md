@@ -38,19 +38,11 @@
 
 • **AnalogInput** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34779)
-
 ___
 
 ### COUNT
 
 • **COUNT** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34779)
 
 ___
 
@@ -58,19 +50,11 @@ ___
 
 • **DragDetected** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34779)
-
 ___
 
 ### DragDrop
 
 • **DragDrop** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34779)
 
 ___
 
@@ -78,19 +62,11 @@ ___
 
 • **DragEnter** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34779)
-
 ___
 
 ### DragLeave
 
 • **DragLeave** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34779)
 
 ___
 
@@ -98,19 +74,11 @@ ___
 
 • **DragOver** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34779)
-
 ___
 
 ### DropMessage
 
 • **DropMessage** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34779)
 
 ___
 
@@ -118,19 +86,11 @@ ___
 
 • **ESlateDebuggingInputEvent\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34779)
-
 ___
 
 ### KeyChar
 
 • **KeyChar** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34779)
 
 ___
 
@@ -138,19 +98,11 @@ ___
 
 • **KeyDown** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34779)
-
 ___
 
 ### KeyUp
 
 • **KeyUp** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34779)
 
 ___
 
@@ -158,19 +110,11 @@ ___
 
 • **MouseButtonDoubleClick** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34779)
-
 ___
 
 ### MouseButtonDown
 
 • **MouseButtonDown** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34779)
 
 ___
 
@@ -178,19 +122,11 @@ ___
 
 • **MouseButtonUp** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34779)
-
 ___
 
 ### MouseEnter
 
 • **MouseEnter** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34779)
 
 ___
 
@@ -198,19 +134,11 @@ ___
 
 • **MouseLeave** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34779)
-
 ___
 
 ### MouseMove
 
 • **MouseMove** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34779)
 
 ___
 
@@ -218,19 +146,11 @@ ___
 
 • **MouseWheel** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34779)
-
 ___
 
 ### TouchEnd
 
 • **TouchEnd** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34779)
 
 ___
 
@@ -238,26 +158,14 @@ ___
 
 • **TouchGesture** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34779)
-
 ___
 
 ### TouchStart
 
 • **TouchStart** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34779)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34779)

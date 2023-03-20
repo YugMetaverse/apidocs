@@ -19,19 +19,11 @@
 
 • **AbortBackground** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:24832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24832)
-
 ___
 
 ### EBTParallelMode\_MAX
 
 • **EBTParallelMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:24832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24832)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **WaitForBackground** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:24832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24832)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:24832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24832)

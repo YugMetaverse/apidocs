@@ -73,29 +73,17 @@
 
 [PanelSlot](ue_ue.PanelSlot.md).[constructor](ue_ue.PanelSlot.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:38347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38347)
-
 ## Properties
 
 ### Column
 
 • **Column**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:38353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38353)
-
 ___
 
 ### ColumnSpan
 
 • **ColumnSpan**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:38354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38354)
 
 ___
 
@@ -107,19 +95,11 @@ ___
 
 [PanelSlot](ue_ue.PanelSlot.md).[Content](ue_ue.PanelSlot.md#content)
 
-#### Defined in
-
-[ue/ue.d.ts:10699](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10699)
-
 ___
 
 ### HorizontalAlignment
 
 • **HorizontalAlignment**: [`EHorizontalAlignment`](../enums/ue_ue.EHorizontalAlignment.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38349)
 
 ___
 
@@ -127,29 +107,17 @@ ___
 
 • **Layer**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:38355](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38355)
-
 ___
 
 ### Nudge
 
 • **Nudge**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38356)
-
 ___
 
 ### Padding
 
 • **Padding**: [`Margin`](ue_ue.Margin.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38348)
 
 ___
 
@@ -161,19 +129,11 @@ ___
 
 [PanelSlot](ue_ue.PanelSlot.md).[Parent](ue_ue.PanelSlot.md#parent)
 
-#### Defined in
-
-[ue/ue.d.ts:10698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10698)
-
 ___
 
 ### Row
 
 • **Row**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:38351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38351)
 
 ___
 
@@ -181,29 +141,17 @@ ___
 
 • **RowSpan**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:38352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38352)
-
 ___
 
 ### VerticalAlignment
 
 • **VerticalAlignment**: [`EVerticalAlignment`](../enums/ue_ue.EVerticalAlignment.md)
 
-#### Defined in
-
-[ue/ue.d.ts:38350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38350)
-
 ___
 
 ### \_\_tid\_GridSlot\_\_
 
 • **\_\_tid\_GridSlot\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38370)
 
 ___
 
@@ -215,10 +163,6 @@ ___
 
 [PanelSlot](ue_ue.PanelSlot.md).[__tid_Object__](ue_ue.PanelSlot.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PanelSlot\_\_
@@ -229,10 +173,6 @@ ___
 
 [PanelSlot](ue_ue.PanelSlot.md).[__tid_PanelSlot__](ue_ue.PanelSlot.md#__tid_panelslot__)
 
-#### Defined in
-
-[ue/ue.d.ts:10704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10704)
-
 ___
 
 ### \_\_tid\_Visual\_\_
@@ -242,10 +182,6 @@ ___
 #### Inherited from
 
 [PanelSlot](ue_ue.PanelSlot.md).[__tid_Visual__](ue_ue.PanelSlot.md#__tid_visual__)
-
-#### Defined in
-
-[ue/ue.d.ts:10673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10673)
 
 ## Methods
 
@@ -271,10 +207,6 @@ ___
 
 [PanelSlot](ue_ue.PanelSlot.md).[CreateDefaultSubobject](ue_ue.PanelSlot.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -295,10 +227,6 @@ ___
 
 [PanelSlot](ue_ue.PanelSlot.md).[ExecuteUbergraph](ue_ue.PanelSlot.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -312,10 +240,6 @@ ___
 #### Inherited from
 
 [PanelSlot](ue_ue.PanelSlot.md).[GetClass](ue_ue.PanelSlot.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -331,10 +255,6 @@ ___
 
 [PanelSlot](ue_ue.PanelSlot.md).[GetName](ue_ue.PanelSlot.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -349,10 +269,6 @@ ___
 
 [PanelSlot](ue_ue.PanelSlot.md).[GetOuter](ue_ue.PanelSlot.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -366,10 +282,6 @@ ___
 #### Inherited from
 
 [PanelSlot](ue_ue.PanelSlot.md).[GetWorld](ue_ue.PanelSlot.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -387,10 +299,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:38357](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38357)
-
 ___
 
 ### SetColumnSpan
@@ -406,10 +314,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:38358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38358)
 
 ___
 
@@ -427,10 +331,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:38359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38359)
-
 ___
 
 ### SetLayer
@@ -446,10 +346,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:38360](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38360)
 
 ___
 
@@ -467,10 +363,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:38361](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38361)
-
 ___
 
 ### SetPadding
@@ -486,10 +378,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:38362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38362)
 
 ___
 
@@ -507,10 +395,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:38363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38363)
-
 ___
 
 ### SetRowSpan
@@ -527,10 +411,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:38364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38364)
-
 ___
 
 ### SetVerticalAlignment
@@ -546,10 +426,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:38365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38365)
 
 ___
 
@@ -572,10 +448,6 @@ ___
 
 [PanelSlot](ue_ue.PanelSlot.md).[Find](ue_ue.PanelSlot.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:38367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38367)
-
 ___
 
 ### Load
@@ -596,10 +468,6 @@ ___
 
 [PanelSlot](ue_ue.PanelSlot.md).[Load](ue_ue.PanelSlot.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:38368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38368)
-
 ___
 
 ### StaticClass
@@ -613,7 +481,3 @@ ___
 #### Overrides
 
 [PanelSlot](ue_ue.PanelSlot.md).[StaticClass](ue_ue.PanelSlot.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:38366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38366)

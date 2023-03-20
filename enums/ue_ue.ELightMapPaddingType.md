@@ -20,19 +20,11 @@
 
 • **LMPT\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33948)
-
 ___
 
 ### LMPT\_NoPadding
 
 • **LMPT\_NoPadding** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33948)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **LMPT\_NormalPadding** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33948)
-
 ___
 
 ### LMPT\_PrePadding
 
 • **LMPT\_PrePadding** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33948)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33948)

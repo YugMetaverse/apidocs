@@ -24,19 +24,11 @@
 
 • **TLCA\_Default** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L446)
-
 ___
 
 ### TLCA\_High
 
 • **TLCA\_High** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L446)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **TLCA\_Highest** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L446)
-
 ___
 
 ### TLCA\_Low
 
 • **TLCA\_Low** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L446)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **TLCA\_Lowest** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L446)
-
 ___
 
 ### TLCA\_MAX
 
 • **TLCA\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L446)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **TLCA\_Medium** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L446)
-
 ___
 
 ### TLCA\_None
 
 • **TLCA\_None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L446)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L446)

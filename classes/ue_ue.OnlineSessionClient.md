@@ -54,10 +54,6 @@
 
 [OnlineSession](ue_ue.OnlineSession.md).[constructor](ue_ue.OnlineSession.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:54264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54264)
-
 ## Properties
 
 ### \_\_tid\_Object\_\_
@@ -68,19 +64,11 @@
 
 [OnlineSession](ue_ue.OnlineSession.md).[__tid_Object__](ue_ue.OnlineSession.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_OnlineSessionClient\_\_
 
 • **\_\_tid\_OnlineSessionClient\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54271)
 
 ___
 
@@ -92,29 +80,17 @@ ___
 
 [OnlineSession](ue_ue.OnlineSession.md).[__tid_OnlineSession__](ue_ue.OnlineSession.md#__tid_onlinesession__)
 
-#### Defined in
-
-[ue/ue.d.ts:10183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10183)
-
 ___
 
 ### bHandlingDisconnect
 
 • **bHandlingDisconnect**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:54266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54266)
-
 ___
 
 ### bIsFromInvite
 
 • **bIsFromInvite**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54265)
 
 ## Methods
 
@@ -140,10 +116,6 @@ ___
 
 [OnlineSession](ue_ue.OnlineSession.md).[CreateDefaultSubobject](ue_ue.OnlineSession.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -164,10 +136,6 @@ ___
 
 [OnlineSession](ue_ue.OnlineSession.md).[ExecuteUbergraph](ue_ue.OnlineSession.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -181,10 +149,6 @@ ___
 #### Inherited from
 
 [OnlineSession](ue_ue.OnlineSession.md).[GetClass](ue_ue.OnlineSession.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -200,10 +164,6 @@ ___
 
 [OnlineSession](ue_ue.OnlineSession.md).[GetName](ue_ue.OnlineSession.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -218,10 +178,6 @@ ___
 
 [OnlineSession](ue_ue.OnlineSession.md).[GetOuter](ue_ue.OnlineSession.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -235,10 +191,6 @@ ___
 #### Inherited from
 
 [OnlineSession](ue_ue.OnlineSession.md).[GetWorld](ue_ue.OnlineSession.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -261,10 +213,6 @@ ___
 
 [OnlineSession](ue_ue.OnlineSession.md).[Find](ue_ue.OnlineSession.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:54268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54268)
-
 ___
 
 ### Load
@@ -285,10 +233,6 @@ ___
 
 [OnlineSession](ue_ue.OnlineSession.md).[Load](ue_ue.OnlineSession.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:54269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54269)
-
 ___
 
 ### StaticClass
@@ -302,7 +246,3 @@ ___
 #### Overrides
 
 [OnlineSession](ue_ue.OnlineSession.md).[StaticClass](ue_ue.OnlineSession.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:54267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54267)

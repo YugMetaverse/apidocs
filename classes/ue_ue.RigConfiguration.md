@@ -27,10 +27,6 @@
 
 • **new RigConfiguration**()
 
-#### Defined in
-
-[ue/ue.d.ts:2498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2498)
-
 • **new RigConfiguration**(`Rig`, `BoneMappingTable`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Rig` | [`Rig`](ue_ue.Rig.md) |
 | `BoneMappingTable` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`NameMapping`](ue_ue.NameMapping.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:2499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2499)
-
 ## Properties
 
 ### BoneMappingTable
 
 • **BoneMappingTable**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`NameMapping`](ue_ue.NameMapping.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:2501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2501)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Rig**: [`Rig`](ue_ue.Rig.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2500)
-
 ___
 
 ### \_\_tid\_RigConfiguration\_\_
 
 • `Private` **\_\_tid\_RigConfiguration\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2507)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2505)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2506)

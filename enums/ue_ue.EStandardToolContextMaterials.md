@@ -18,26 +18,14 @@
 
 • **EStandardToolContextMaterials\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34798)
-
 ___
 
 ### VertexColorMaterial
 
 • **VertexColorMaterial** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34798)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34798)

@@ -22,19 +22,11 @@
 
 • **PEB2STM\_Actor** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:23589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23589)
-
 ___
 
 ### PEB2STM\_Default
 
 • **PEB2STM\_Default** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:23589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23589)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **PEB2STM\_Emitter** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:23589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23589)
-
 ___
 
 ### PEB2STM\_MAX
 
 • **PEB2STM\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:23589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23589)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **PEB2STM\_Particle** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:23589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23589)
-
 ___
 
 ### PEB2STM\_UserSet
 
 • **PEB2STM\_UserSet** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:23589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23589)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:23589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23589)

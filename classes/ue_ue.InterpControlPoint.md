@@ -27,10 +27,6 @@
 
 • **new InterpControlPoint**()
 
-#### Defined in
-
-[ue/ue.d.ts:39714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39714)
-
 • **new InterpControlPoint**(`PositionControlPoint`, `bPositionIsRelative`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `PositionControlPoint` | [`Vector`](ue_ue_s.Vector.md) |
 | `bPositionIsRelative` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:39715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39715)
-
 ## Properties
 
 ### PositionControlPoint
 
 • **PositionControlPoint**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:39716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39716)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • `Private` **\_\_tid\_InterpControlPoint\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:39723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39723)
-
 ___
 
 ### bPositionIsRelative
 
 • **bPositionIsRelative**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39717)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39721)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:39722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39722)

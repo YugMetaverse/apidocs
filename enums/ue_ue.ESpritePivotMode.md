@@ -27,19 +27,11 @@
 
 • **Bottom\_Center** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34795)
-
 ___
 
 ### Bottom\_Left
 
 • **Bottom\_Left** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34795)
 
 ___
 
@@ -47,19 +39,11 @@ ___
 
 • **Bottom\_Right** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34795)
-
 ___
 
 ### Center\_Center
 
 • **Center\_Center** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34795)
 
 ___
 
@@ -67,19 +51,11 @@ ___
 
 • **Center\_Left** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34795)
-
 ___
 
 ### Center\_Right
 
 • **Center\_Right** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34795)
 
 ___
 
@@ -87,19 +63,11 @@ ___
 
 • **Custom** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34795)
-
 ___
 
 ### ESpritePivotMode\_MAX
 
 • **ESpritePivotMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34795)
 
 ___
 
@@ -107,19 +75,11 @@ ___
 
 • **Top\_Center** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34795)
-
 ___
 
 ### Top\_Left
 
 • **Top\_Left** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34795)
 
 ___
 
@@ -127,16 +87,8 @@ ___
 
 • **Top\_Right** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34795)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34795)

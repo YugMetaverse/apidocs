@@ -49,10 +49,6 @@
 
 • **new LightmassWorldInfoSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:8712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8712)
-
 • **new LightmassWorldInfoSettings**(`StaticLightingLevelScale`, `NumIndirectLightingBounces`, `NumSkyLightingBounces`, `IndirectLightingQuality`, `IndirectLightingSmoothness`, `EnvironmentColor`, `EnvironmentIntensity`, `EmissiveBoost`, `DiffuseBoost`, `VolumeLightingMethod`, `bUseAmbientOcclusion`, `bGenerateAmbientOcclusionMaterialMask`, `bVisualizeMaterialDiffuse`, `bVisualizeAmbientOcclusion`, `bCompressLightmaps`, `VolumetricLightmapDetailCellSize`, `VolumetricLightmapMaximumBrickMemoryMb`, `VolumetricLightmapSphericalHarmonicSmoothing`, `VolumeLightSamplePlacementScale`, `DirectIlluminationOcclusionFraction`, `IndirectIlluminationOcclusionFraction`, `OcclusionExponent`, `FullyOccludedSamplesFraction`, `MaxOcclusionDistance`)
 
 #### Parameters
@@ -84,19 +80,11 @@
 | `FullyOccludedSamplesFraction` | `number` |
 | `MaxOcclusionDistance` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:8713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8713)
-
 ## Properties
 
 ### DiffuseBoost
 
 • **DiffuseBoost**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8722)
 
 ___
 
@@ -104,19 +92,11 @@ ___
 
 • **DirectIlluminationOcclusionFraction**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8733)
-
 ___
 
 ### EmissiveBoost
 
 • **EmissiveBoost**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8721)
 
 ___
 
@@ -124,19 +104,11 @@ ___
 
 • **EnvironmentColor**: [`Color`](ue_ue_s.Color.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8719)
-
 ___
 
 ### EnvironmentIntensity
 
 • **EnvironmentIntensity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8720)
 
 ___
 
@@ -144,19 +116,11 @@ ___
 
 • **FullyOccludedSamplesFraction**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8736)
-
 ___
 
 ### IndirectIlluminationOcclusionFraction
 
 • **IndirectIlluminationOcclusionFraction**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8734)
 
 ___
 
@@ -164,19 +128,11 @@ ___
 
 • **IndirectLightingQuality**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8717)
-
 ___
 
 ### IndirectLightingSmoothness
 
 • **IndirectLightingSmoothness**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8718)
 
 ___
 
@@ -184,19 +140,11 @@ ___
 
 • **MaxOcclusionDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8737)
-
 ___
 
 ### NumIndirectLightingBounces
 
 • **NumIndirectLightingBounces**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8715)
 
 ___
 
@@ -204,19 +152,11 @@ ___
 
 • **NumSkyLightingBounces**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8716)
-
 ___
 
 ### OcclusionExponent
 
 • **OcclusionExponent**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8735)
 
 ___
 
@@ -224,19 +164,11 @@ ___
 
 • **StaticLightingLevelScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8714)
-
 ___
 
 ### VolumeLightSamplePlacementScale
 
 • **VolumeLightSamplePlacementScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8732)
 
 ___
 
@@ -244,19 +176,11 @@ ___
 
 • **VolumeLightingMethod**: [`EVolumeLightingMethod`](../enums/ue_ue.EVolumeLightingMethod.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8723)
-
 ___
 
 ### VolumetricLightmapDetailCellSize
 
 • **VolumetricLightmapDetailCellSize**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8729)
 
 ___
 
@@ -264,19 +188,11 @@ ___
 
 • **VolumetricLightmapMaximumBrickMemoryMb**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:8730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8730)
-
 ___
 
 ### VolumetricLightmapSphericalHarmonicSmoothing
 
 • **VolumetricLightmapSphericalHarmonicSmoothing**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:8731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8731)
 
 ___
 
@@ -284,19 +200,11 @@ ___
 
 • `Private` **\_\_tid\_LightmassWorldInfoSettings\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8743)
-
 ___
 
 ### bCompressLightmaps
 
 • **bCompressLightmaps**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8728)
 
 ___
 
@@ -304,19 +212,11 @@ ___
 
 • **bGenerateAmbientOcclusionMaterialMask**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8725)
-
 ___
 
 ### bUseAmbientOcclusion
 
 • **bUseAmbientOcclusion**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8724)
 
 ___
 
@@ -324,19 +224,11 @@ ___
 
 • **bVisualizeAmbientOcclusion**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8727)
-
 ___
 
 ### bVisualizeMaterialDiffuse
 
 • **bVisualizeMaterialDiffuse**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8726)
 
 ## Methods
 
@@ -352,10 +244,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8741)
-
 ___
 
 ### StaticStruct
@@ -365,7 +253,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8742)

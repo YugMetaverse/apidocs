@@ -19,19 +19,11 @@
 
 • **STLOD\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34790)
-
 ___
 
 ### STLOD\_Pop
 
 • **STLOD\_Pop** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34790)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **STLOD\_Smooth** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34790)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34790)

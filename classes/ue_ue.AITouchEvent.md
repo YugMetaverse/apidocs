@@ -27,10 +27,6 @@
 
 • **new AITouchEvent**()
 
-#### Defined in
-
-[ue/ue.d.ts:15925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15925)
-
 • **new AITouchEvent**(`TouchReceiver`, `OtherActor`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `TouchReceiver` | [`Actor`](ue_ue.Actor.md) |
 | `OtherActor` | [`Actor`](ue_ue.Actor.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:15926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15926)
-
 ## Properties
 
 ### OtherActor
 
 • **OtherActor**: [`Actor`](ue_ue.Actor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15928)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **TouchReceiver**: [`Actor`](ue_ue.Actor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15927)
-
 ___
 
 ### \_\_tid\_AITouchEvent\_\_
 
 • `Private` **\_\_tid\_AITouchEvent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15934)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15932)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15933)

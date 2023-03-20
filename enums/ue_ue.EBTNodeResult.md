@@ -21,19 +21,11 @@
 
 • **Aborted** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:24891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24891)
-
 ___
 
 ### EBTNodeResult\_MAX
 
 • **EBTNodeResult\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:24891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24891)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Failed** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:24891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24891)
-
 ___
 
 ### InProgress
 
 • **InProgress** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:24891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24891)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Succeeded** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:24891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24891)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:24891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24891)

@@ -26,10 +26,6 @@
 
 • **new AIRequestID**()
 
-#### Defined in
-
-[ue/ue.d.ts:14542](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14542)
-
 • **new AIRequestID**(`RequestID`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `RequestID` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:14543](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14543)
-
 ## Properties
 
 ### RequestID
 
 • **RequestID**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14544](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14544)
-
 ___
 
 ### \_\_tid\_AIRequestID\_\_
 
 • `Private` **\_\_tid\_AIRequestID\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14550](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14550)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14548)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14549](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14549)

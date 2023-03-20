@@ -55,19 +55,11 @@
 
 [SoundEffectSubmixPreset](ue_ue.SoundEffectSubmixPreset.md).[constructor](ue_ue.SoundEffectSubmixPreset.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:62543](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62543)
-
 ## Properties
 
 ### Settings
 
 • **Settings**: [`SubmixEffectDynamicsProcessorSettings`](ue_ue.SubmixEffectDynamicsProcessorSettings.md)
-
-#### Defined in
-
-[ue/ue.d.ts:62544](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62544)
 
 ___
 
@@ -79,10 +71,6 @@ ___
 
 [SoundEffectSubmixPreset](ue_ue.SoundEffectSubmixPreset.md).[__tid_Object__](ue_ue.SoundEffectSubmixPreset.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_SoundEffectPreset\_\_
@@ -92,10 +80,6 @@ ___
 #### Inherited from
 
 [SoundEffectSubmixPreset](ue_ue.SoundEffectSubmixPreset.md).[__tid_SoundEffectPreset__](ue_ue.SoundEffectSubmixPreset.md#__tid_soundeffectpreset__)
-
-#### Defined in
-
-[ue/ue.d.ts:8775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8775)
 
 ___
 
@@ -107,19 +91,11 @@ ___
 
 [SoundEffectSubmixPreset](ue_ue.SoundEffectSubmixPreset.md).[__tid_SoundEffectSubmixPreset__](ue_ue.SoundEffectSubmixPreset.md#__tid_soundeffectsubmixpreset__)
 
-#### Defined in
-
-[ue/ue.d.ts:8784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8784)
-
 ___
 
 ### \_\_tid\_SubmixEffectDynamicsProcessorPreset\_\_
 
 • **\_\_tid\_SubmixEffectDynamicsProcessorPreset\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:62550](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62550)
 
 ## Methods
 
@@ -145,10 +121,6 @@ ___
 
 [SoundEffectSubmixPreset](ue_ue.SoundEffectSubmixPreset.md).[CreateDefaultSubobject](ue_ue.SoundEffectSubmixPreset.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -169,10 +141,6 @@ ___
 
 [SoundEffectSubmixPreset](ue_ue.SoundEffectSubmixPreset.md).[ExecuteUbergraph](ue_ue.SoundEffectSubmixPreset.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -186,10 +154,6 @@ ___
 #### Inherited from
 
 [SoundEffectSubmixPreset](ue_ue.SoundEffectSubmixPreset.md).[GetClass](ue_ue.SoundEffectSubmixPreset.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -205,10 +169,6 @@ ___
 
 [SoundEffectSubmixPreset](ue_ue.SoundEffectSubmixPreset.md).[GetName](ue_ue.SoundEffectSubmixPreset.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -223,10 +183,6 @@ ___
 
 [SoundEffectSubmixPreset](ue_ue.SoundEffectSubmixPreset.md).[GetOuter](ue_ue.SoundEffectSubmixPreset.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -240,10 +196,6 @@ ___
 #### Inherited from
 
 [SoundEffectSubmixPreset](ue_ue.SoundEffectSubmixPreset.md).[GetWorld](ue_ue.SoundEffectSubmixPreset.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -260,10 +212,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:62545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62545)
 
 ___
 
@@ -286,10 +234,6 @@ ___
 
 [SoundEffectSubmixPreset](ue_ue.SoundEffectSubmixPreset.md).[Find](ue_ue.SoundEffectSubmixPreset.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:62547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62547)
-
 ___
 
 ### Load
@@ -310,10 +254,6 @@ ___
 
 [SoundEffectSubmixPreset](ue_ue.SoundEffectSubmixPreset.md).[Load](ue_ue.SoundEffectSubmixPreset.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:62548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62548)
-
 ___
 
 ### StaticClass
@@ -327,7 +267,3 @@ ___
 #### Overrides
 
 [SoundEffectSubmixPreset](ue_ue.SoundEffectSubmixPreset.md).[StaticClass](ue_ue.SoundEffectSubmixPreset.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:62546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62546)

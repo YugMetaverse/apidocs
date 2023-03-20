@@ -36,10 +36,6 @@
 
 • **new LightmassLightSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:24681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24681)
-
 • **new LightmassLightSettings**(`IndirectLightingSaturation`, `ShadowExponent`, `bUseAreaShadowsForStationaryLight`)
 
 #### Parameters
@@ -50,19 +46,11 @@
 | `ShadowExponent` | `number` |
 | `bUseAreaShadowsForStationaryLight` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:24682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24682)
-
 ## Properties
 
 ### IndirectLightingSaturation
 
 • **IndirectLightingSaturation**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:24683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24683)
 
 ___
 
@@ -70,29 +58,17 @@ ___
 
 • **ShadowExponent**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:24684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24684)
-
 ___
 
 ### \_\_tid\_LightmassLightSettings\_\_
 
 • `Private` **\_\_tid\_LightmassLightSettings\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:24691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24691)
-
 ___
 
 ### bUseAreaShadowsForStationaryLight
 
 • **bUseAreaShadowsForStationaryLight**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:24685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24685)
 
 ## Methods
 
@@ -108,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:24689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24689)
-
 ___
 
 ### StaticStruct
@@ -121,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:24690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24690)

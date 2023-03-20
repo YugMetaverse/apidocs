@@ -29,10 +29,6 @@
 
 • **new EdgeToCreate**()
 
-#### Defined in
-
-[ue/ue.d.ts:31891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31891)
-
 • **new EdgeToCreate**(`VertexID0`, `VertexID1`, `EdgeAttributes`, `OriginalEdgeID`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `EdgeAttributes` | [`MeshElementAttributeList`](ue_ue.MeshElementAttributeList.md) |
 | `OriginalEdgeID` | [`EdgeID`](ue_ue.EdgeID.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:31892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31892)
-
 ## Properties
 
 ### EdgeAttributes
 
 • **EdgeAttributes**: [`MeshElementAttributeList`](ue_ue.MeshElementAttributeList.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31895)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **OriginalEdgeID**: [`EdgeID`](ue_ue.EdgeID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31896)
-
 ___
 
 ### VertexID0
 
 • **VertexID0**: [`VertexID`](ue_ue.VertexID.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31893)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **VertexID1**: [`VertexID`](ue_ue.VertexID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31894)
-
 ___
 
 ### \_\_tid\_EdgeToCreate\_\_
 
 • `Private` **\_\_tid\_EdgeToCreate\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31902)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31900)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31901)

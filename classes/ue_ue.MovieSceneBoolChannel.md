@@ -39,10 +39,6 @@
 
 [MovieSceneChannel](ue_ue.MovieSceneChannel.md).[constructor](ue_ue.MovieSceneChannel.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:51273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51273)
-
 • **new MovieSceneBoolChannel**(`Times`, `DefaultValue`, `bHasDefaultValue`, `Values`)
 
 #### Parameters
@@ -58,19 +54,11 @@
 
 UE.MovieSceneChannel.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:51274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51274)
-
 ## Properties
 
 ### DefaultValue
 
 • **DefaultValue**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:51276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51276)
 
 ___
 
@@ -78,19 +66,11 @@ ___
 
 • **Times**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`FrameNumber`](ue_ue.FrameNumber.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:51275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51275)
-
 ___
 
 ### Values
 
 • **Values**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`boolean`\>
-
-#### Defined in
-
-[ue/ue.d.ts:51278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51278)
 
 ___
 
@@ -98,19 +78,11 @@ ___
 
 • `Private` **\_\_tid\_MovieSceneBoolChannel\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:51284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51284)
-
 ___
 
 ### bHasDefaultValue
 
 • **bHasDefaultValue**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:51277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51277)
 
 ## Methods
 
@@ -130,10 +102,6 @@ use StaticStruct instead.
 
 [MovieSceneChannel](ue_ue.MovieSceneChannel.md).[StaticClass](ue_ue.MovieSceneChannel.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:51282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51282)
-
 ___
 
 ### StaticStruct
@@ -147,7 +115,3 @@ ___
 #### Overrides
 
 [MovieSceneChannel](ue_ue.MovieSceneChannel.md).[StaticStruct](ue_ue.MovieSceneChannel.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:51283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51283)

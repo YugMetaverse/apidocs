@@ -26,10 +26,6 @@
 
 • **new PreviewMeshCollectionEntry**()
 
-#### Defined in
-
-[ue/ue.d.ts:57261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57261)
-
 • **new PreviewMeshCollectionEntry**(`SkeletalMesh`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `SkeletalMesh` | [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`SkeletalMesh`](ue_ue.SkeletalMesh.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:57262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57262)
-
 ## Properties
 
 ### SkeletalMesh
 
 • **SkeletalMesh**: [`TSoftObjectPtr`](../modules/ue_puerts.md#tsoftobjectptr)<[`SkeletalMesh`](ue_ue.SkeletalMesh.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:57263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57263)
-
 ___
 
 ### \_\_tid\_PreviewMeshCollectionEntry\_\_
 
 • `Private` **\_\_tid\_PreviewMeshCollectionEntry\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57269)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57267)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57268)

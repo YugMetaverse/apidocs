@@ -28,10 +28,6 @@
 
 • **new ViewportActionKeyInput**()
 
-#### Defined in
-
-[ue/ue.d.ts:14333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14333)
-
 • **new ViewportActionKeyInput**(`ActionType`, `Event`, `bIsInputCaptured`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Event` | [`EInputEvent`](../enums/ue_ue.EInputEvent.md) |
 | `bIsInputCaptured` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:14334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14334)
-
 ## Properties
 
 ### ActionType
 
 • **ActionType**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:14335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14335)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Event**: [`EInputEvent`](../enums/ue_ue.EInputEvent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14336)
-
 ___
 
 ### \_\_tid\_ViewportActionKeyInput\_\_
 
 • `Private` **\_\_tid\_ViewportActionKeyInput\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:14343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14343)
-
 ___
 
 ### bIsInputCaptured
 
 • **bIsInputCaptured**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14337)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14341)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14342)

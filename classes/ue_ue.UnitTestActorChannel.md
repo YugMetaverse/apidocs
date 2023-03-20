@@ -56,10 +56,6 @@
 
 [ActorChannel](ue_ue.ActorChannel.md).[constructor](ue_ue.ActorChannel.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:64595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64595)
-
 ## Properties
 
 ### Actor
@@ -69,10 +65,6 @@
 #### Inherited from
 
 [ActorChannel](ue_ue.ActorChannel.md).[Actor](ue_ue.ActorChannel.md#actor)
-
-#### Defined in
-
-[ue/ue.d.ts:13489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13489)
 
 ___
 
@@ -84,10 +76,6 @@ ___
 
 [ActorChannel](ue_ue.ActorChannel.md).[Connection](ue_ue.ActorChannel.md#connection)
 
-#### Defined in
-
-[ue/ue.d.ts:10368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10368)
-
 ___
 
 ### CreateSubObjects
@@ -97,10 +85,6 @@ ___
 #### Inherited from
 
 [ActorChannel](ue_ue.ActorChannel.md).[CreateSubObjects](ue_ue.ActorChannel.md#createsubobjects)
-
-#### Defined in
-
-[ue/ue.d.ts:13490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13490)
 
 ___
 
@@ -112,10 +96,6 @@ ___
 
 [ActorChannel](ue_ue.ActorChannel.md).[__tid_ActorChannel__](ue_ue.ActorChannel.md#__tid_actorchannel__)
 
-#### Defined in
-
-[ue/ue.d.ts:13495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13495)
-
 ___
 
 ### \_\_tid\_Channel\_\_
@@ -125,10 +105,6 @@ ___
 #### Inherited from
 
 [ActorChannel](ue_ue.ActorChannel.md).[__tid_Channel__](ue_ue.ActorChannel.md#__tid_channel__)
-
-#### Defined in
-
-[ue/ue.d.ts:10373](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10373)
 
 ___
 
@@ -140,19 +116,11 @@ ___
 
 [ActorChannel](ue_ue.ActorChannel.md).[__tid_Object__](ue_ue.ActorChannel.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_UnitTestActorChannel\_\_
 
 • **\_\_tid\_UnitTestActorChannel\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64600)
 
 ## Methods
 
@@ -178,10 +146,6 @@ ___
 
 [ActorChannel](ue_ue.ActorChannel.md).[CreateDefaultSubobject](ue_ue.ActorChannel.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -202,10 +166,6 @@ ___
 
 [ActorChannel](ue_ue.ActorChannel.md).[ExecuteUbergraph](ue_ue.ActorChannel.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -219,10 +179,6 @@ ___
 #### Inherited from
 
 [ActorChannel](ue_ue.ActorChannel.md).[GetClass](ue_ue.ActorChannel.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -238,10 +194,6 @@ ___
 
 [ActorChannel](ue_ue.ActorChannel.md).[GetName](ue_ue.ActorChannel.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -256,10 +208,6 @@ ___
 
 [ActorChannel](ue_ue.ActorChannel.md).[GetOuter](ue_ue.ActorChannel.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -273,10 +221,6 @@ ___
 #### Inherited from
 
 [ActorChannel](ue_ue.ActorChannel.md).[GetWorld](ue_ue.ActorChannel.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -299,10 +243,6 @@ ___
 
 [ActorChannel](ue_ue.ActorChannel.md).[Find](ue_ue.ActorChannel.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:64597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64597)
-
 ___
 
 ### Load
@@ -323,10 +263,6 @@ ___
 
 [ActorChannel](ue_ue.ActorChannel.md).[Load](ue_ue.ActorChannel.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:64598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64598)
-
 ___
 
 ### StaticClass
@@ -340,7 +276,3 @@ ___
 #### Overrides
 
 [ActorChannel](ue_ue.ActorChannel.md).[StaticClass](ue_ue.ActorChannel.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:64596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64596)

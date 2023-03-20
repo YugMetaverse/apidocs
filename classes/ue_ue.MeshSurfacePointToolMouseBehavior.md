@@ -54,10 +54,6 @@
 
 [AnyButtonInputBehavior](ue_ue.AnyButtonInputBehavior.md).[constructor](ue_ue.AnyButtonInputBehavior.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:50610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50610)
-
 ## Properties
 
 ### ButtonNumber
@@ -67,10 +63,6 @@
 #### Inherited from
 
 [AnyButtonInputBehavior](ue_ue.AnyButtonInputBehavior.md).[ButtonNumber](ue_ue.AnyButtonInputBehavior.md#buttonnumber)
-
-#### Defined in
-
-[ue/ue.d.ts:20595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20595)
 
 ___
 
@@ -82,10 +74,6 @@ ___
 
 [AnyButtonInputBehavior](ue_ue.AnyButtonInputBehavior.md).[__tid_AnyButtonInputBehavior__](ue_ue.AnyButtonInputBehavior.md#__tid_anybuttoninputbehavior__)
 
-#### Defined in
-
-[ue/ue.d.ts:20600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20600)
-
 ___
 
 ### \_\_tid\_InputBehavior\_\_
@@ -96,19 +84,11 @@ ___
 
 [AnyButtonInputBehavior](ue_ue.AnyButtonInputBehavior.md).[__tid_InputBehavior__](ue_ue.AnyButtonInputBehavior.md#__tid_inputbehavior__)
 
-#### Defined in
-
-[ue/ue.d.ts:20590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20590)
-
 ___
 
 ### \_\_tid\_MeshSurfacePointToolMouseBehavior\_\_
 
 • **\_\_tid\_MeshSurfacePointToolMouseBehavior\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50615)
 
 ___
 
@@ -119,10 +99,6 @@ ___
 #### Inherited from
 
 [AnyButtonInputBehavior](ue_ue.AnyButtonInputBehavior.md).[__tid_Object__](ue_ue.AnyButtonInputBehavior.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -148,10 +124,6 @@ ___
 
 [AnyButtonInputBehavior](ue_ue.AnyButtonInputBehavior.md).[CreateDefaultSubobject](ue_ue.AnyButtonInputBehavior.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -172,10 +144,6 @@ ___
 
 [AnyButtonInputBehavior](ue_ue.AnyButtonInputBehavior.md).[ExecuteUbergraph](ue_ue.AnyButtonInputBehavior.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -189,10 +157,6 @@ ___
 #### Inherited from
 
 [AnyButtonInputBehavior](ue_ue.AnyButtonInputBehavior.md).[GetClass](ue_ue.AnyButtonInputBehavior.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -208,10 +172,6 @@ ___
 
 [AnyButtonInputBehavior](ue_ue.AnyButtonInputBehavior.md).[GetName](ue_ue.AnyButtonInputBehavior.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -226,10 +186,6 @@ ___
 
 [AnyButtonInputBehavior](ue_ue.AnyButtonInputBehavior.md).[GetOuter](ue_ue.AnyButtonInputBehavior.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -243,10 +199,6 @@ ___
 #### Inherited from
 
 [AnyButtonInputBehavior](ue_ue.AnyButtonInputBehavior.md).[GetWorld](ue_ue.AnyButtonInputBehavior.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -269,10 +221,6 @@ ___
 
 [AnyButtonInputBehavior](ue_ue.AnyButtonInputBehavior.md).[Find](ue_ue.AnyButtonInputBehavior.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:50612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50612)
-
 ___
 
 ### Load
@@ -293,10 +241,6 @@ ___
 
 [AnyButtonInputBehavior](ue_ue.AnyButtonInputBehavior.md).[Load](ue_ue.AnyButtonInputBehavior.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:50613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50613)
-
 ___
 
 ### StaticClass
@@ -310,7 +254,3 @@ ___
 #### Overrides
 
 [AnyButtonInputBehavior](ue_ue.AnyButtonInputBehavior.md).[StaticClass](ue_ue.AnyButtonInputBehavior.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:50611](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50611)

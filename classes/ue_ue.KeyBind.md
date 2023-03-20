@@ -36,10 +36,6 @@
 
 • **new KeyBind**()
 
-#### Defined in
-
-[ue/ue.d.ts:8398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8398)
-
 • **new KeyBind**(`Key`, `Command`, `Control`, `Shift`, `Alt`, `Cmd`, `bIgnoreCtrl`, `bIgnoreShift`, `bIgnoreAlt`, `bIgnoreCmd`, `bDisabled`)
 
 #### Parameters
@@ -58,19 +54,11 @@
 | `bIgnoreCmd` | `boolean` |
 | `bDisabled` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:8399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8399)
-
 ## Properties
 
 ### Alt
 
 • **Alt**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8404)
 
 ___
 
@@ -78,19 +66,11 @@ ___
 
 • **Cmd**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8405)
-
 ___
 
 ### Command
 
 • **Command**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:8401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8401)
 
 ___
 
@@ -98,19 +78,11 @@ ___
 
 • **Control**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8402)
-
 ___
 
 ### Key
 
 • **Key**: [`Key`](ue_ue.Key.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8400)
 
 ___
 
@@ -118,19 +90,11 @@ ___
 
 • **Shift**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8403)
-
 ___
 
 ### \_\_tid\_KeyBind\_\_
 
 • `Private` **\_\_tid\_KeyBind\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8416)
 
 ___
 
@@ -138,19 +102,11 @@ ___
 
 • **bDisabled**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8410)
-
 ___
 
 ### bIgnoreAlt
 
 • **bIgnoreAlt**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8408)
 
 ___
 
@@ -158,29 +114,17 @@ ___
 
 • **bIgnoreCmd**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8409)
-
 ___
 
 ### bIgnoreCtrl
 
 • **bIgnoreCtrl**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8406)
-
 ___
 
 ### bIgnoreShift
 
 • **bIgnoreShift**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8407)
 
 ## Methods
 
@@ -196,10 +140,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8414)
-
 ___
 
 ### StaticStruct
@@ -209,7 +149,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8415)

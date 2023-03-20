@@ -26,10 +26,6 @@
 
 • **new BehaviorInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:23247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23247)
-
 • **new BehaviorInfo**(`Behavior`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Behavior` | [`InputBehavior`](ue_ue.InputBehavior.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:23248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23248)
-
 ## Properties
 
 ### Behavior
 
 • **Behavior**: [`InputBehavior`](ue_ue.InputBehavior.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23249)
-
 ___
 
 ### \_\_tid\_BehaviorInfo\_\_
 
 • `Private` **\_\_tid\_BehaviorInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:23255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23255)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:23253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23253)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:23254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23254)

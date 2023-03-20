@@ -20,19 +20,11 @@
 
 • **Box** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33836)
-
 ___
 
 ### Capsule
 
 • **Capsule** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33836)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **EEnvOverlapShape\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33836)
-
 ___
 
 ### Sphere
 
 • **Sphere** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33836)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33836)

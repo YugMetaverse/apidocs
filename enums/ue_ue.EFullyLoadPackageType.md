@@ -22,19 +22,11 @@
 
 • **FULLYLOAD\_Always** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33874)
-
 ___
 
 ### FULLYLOAD\_Game\_PostLoadClass
 
 • **FULLYLOAD\_Game\_PostLoadClass** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33874)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **FULLYLOAD\_Game\_PreLoadClass** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33874)
-
 ___
 
 ### FULLYLOAD\_MAX
 
 • **FULLYLOAD\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33874)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **FULLYLOAD\_Map** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33874)
-
 ___
 
 ### FULLYLOAD\_Mutator
 
 • **FULLYLOAD\_Mutator** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33874)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33874)

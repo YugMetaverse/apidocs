@@ -25,19 +25,11 @@
 
 • **new LevelSequenceObjectReferenceMap**()
 
-#### Defined in
-
-[ue/ue.d.ts:13962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13962)
-
 ## Properties
 
 ### \_\_tid\_LevelSequenceObjectReferenceMap\_\_
 
 • `Private` **\_\_tid\_LevelSequenceObjectReferenceMap\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:13968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13968)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:13966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13966)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:13967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13967)

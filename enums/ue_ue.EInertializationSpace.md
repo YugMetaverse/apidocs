@@ -20,19 +20,11 @@
 
 • **Default** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33905)
-
 ___
 
 ### EInertializationSpace\_MAX
 
 • **EInertializationSpace\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33905)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **WorldRotation** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33905)
-
 ___
 
 ### WorldSpace
 
 • **WorldSpace** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33905)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33905)

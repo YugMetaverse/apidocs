@@ -34,19 +34,11 @@
 
 • **DBM\_AlphaComposite** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1245)
-
 ___
 
 ### DBM\_AmbientOcclusion
 
 • **DBM\_AmbientOcclusion** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1245)
 
 ___
 
@@ -54,19 +46,11 @@ ___
 
 • **DBM\_DBuffer\_AlphaComposite** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1245)
-
 ___
 
 ### DBM\_DBuffer\_Color
 
 • **DBM\_DBuffer\_Color** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1245)
 
 ___
 
@@ -74,19 +58,11 @@ ___
 
 • **DBM\_DBuffer\_ColorNormal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1245)
-
 ___
 
 ### DBM\_DBuffer\_ColorNormalRoughness
 
 • **DBM\_DBuffer\_ColorNormalRoughness** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1245)
 
 ___
 
@@ -94,19 +70,11 @@ ___
 
 • **DBM\_DBuffer\_ColorRoughness** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1245)
-
 ___
 
 ### DBM\_DBuffer\_Emissive
 
 • **DBM\_DBuffer\_Emissive** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1245)
 
 ___
 
@@ -114,19 +82,11 @@ ___
 
 • **DBM\_DBuffer\_EmissiveAlphaComposite** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1245)
-
 ___
 
 ### DBM\_DBuffer\_Normal
 
 • **DBM\_DBuffer\_Normal** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1245)
 
 ___
 
@@ -134,19 +94,11 @@ ___
 
 • **DBM\_DBuffer\_NormalRoughness** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1245)
-
 ___
 
 ### DBM\_DBuffer\_Roughness
 
 • **DBM\_DBuffer\_Roughness** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1245)
 
 ___
 
@@ -154,19 +106,11 @@ ___
 
 • **DBM\_Emissive** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1245)
-
 ___
 
 ### DBM\_MAX
 
 • **DBM\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1245)
 
 ___
 
@@ -174,19 +118,11 @@ ___
 
 • **DBM\_Normal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1245)
-
 ___
 
 ### DBM\_Stain
 
 • **DBM\_Stain** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1245)
 
 ___
 
@@ -194,26 +130,14 @@ ___
 
 • **DBM\_Translucent** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1245)
-
 ___
 
 ### DBM\_Volumetric\_DistanceFunction
 
 • **DBM\_Volumetric\_DistanceFunction** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1245)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1245)

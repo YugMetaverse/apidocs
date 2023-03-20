@@ -56,10 +56,6 @@
 
 [AnimNotify](ue_ue.AnimNotify.md).[constructor](ue_ue.AnimNotify.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:20133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20133)
-
 ## Properties
 
 ### NotifyColor
@@ -70,29 +66,17 @@
 
 [AnimNotify](ue_ue.AnimNotify.md).[NotifyColor](ue_ue.AnimNotify.md#notifycolor)
 
-#### Defined in
-
-[ue/ue.d.ts:3008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3008)
-
 ___
 
 ### NotifyName
 
 • **NotifyName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:20134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20134)
-
 ___
 
 ### \_\_tid\_AnimNotify\_PlayMontageNotify\_\_
 
 • **\_\_tid\_AnimNotify\_PlayMontageNotify\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:20139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20139)
 
 ___
 
@@ -104,10 +88,6 @@ ___
 
 [AnimNotify](ue_ue.AnimNotify.md).[__tid_AnimNotify__](ue_ue.AnimNotify.md#__tid_animnotify__)
 
-#### Defined in
-
-[ue/ue.d.ts:3015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3015)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -117,10 +97,6 @@ ___
 #### Inherited from
 
 [AnimNotify](ue_ue.AnimNotify.md).[__tid_Object__](ue_ue.AnimNotify.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -146,10 +122,6 @@ ___
 
 [AnimNotify](ue_ue.AnimNotify.md).[CreateDefaultSubobject](ue_ue.AnimNotify.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -170,10 +142,6 @@ ___
 
 [AnimNotify](ue_ue.AnimNotify.md).[ExecuteUbergraph](ue_ue.AnimNotify.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -187,10 +155,6 @@ ___
 #### Inherited from
 
 [AnimNotify](ue_ue.AnimNotify.md).[GetClass](ue_ue.AnimNotify.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -206,10 +170,6 @@ ___
 
 [AnimNotify](ue_ue.AnimNotify.md).[GetName](ue_ue.AnimNotify.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetNotifyName
@@ -223,10 +183,6 @@ ___
 #### Inherited from
 
 [AnimNotify](ue_ue.AnimNotify.md).[GetNotifyName](ue_ue.AnimNotify.md#getnotifyname)
-
-#### Defined in
-
-[ue/ue.d.ts:3009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3009)
 
 ___
 
@@ -242,10 +198,6 @@ ___
 
 [AnimNotify](ue_ue.AnimNotify.md).[GetOuter](ue_ue.AnimNotify.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -259,10 +211,6 @@ ___
 #### Inherited from
 
 [AnimNotify](ue_ue.AnimNotify.md).[GetWorld](ue_ue.AnimNotify.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -285,10 +233,6 @@ ___
 
 [AnimNotify](ue_ue.AnimNotify.md).[Received_Notify](ue_ue.AnimNotify.md#received_notify)
 
-#### Defined in
-
-[ue/ue.d.ts:3010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3010)
-
 ___
 
 ### Find
@@ -310,10 +254,6 @@ ___
 
 [AnimNotify](ue_ue.AnimNotify.md).[Find](ue_ue.AnimNotify.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:20136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20136)
-
 ___
 
 ### Load
@@ -334,10 +274,6 @@ ___
 
 [AnimNotify](ue_ue.AnimNotify.md).[Load](ue_ue.AnimNotify.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:20137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20137)
-
 ___
 
 ### StaticClass
@@ -351,7 +287,3 @@ ___
 #### Overrides
 
 [AnimNotify](ue_ue.AnimNotify.md).[StaticClass](ue_ue.AnimNotify.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:20135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20135)

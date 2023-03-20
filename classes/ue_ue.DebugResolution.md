@@ -29,10 +29,6 @@
 
 • **new DebugResolution**()
 
-#### Defined in
-
-[ue/ue.d.ts:64460](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64460)
-
 • **new DebugResolution**(`Width`, `Height`, `Description`, `Color`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `Description` | `string` |
 | `Color` | [`LinearColor`](ue_ue_s.LinearColor.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:64461](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64461)
-
 ## Properties
 
 ### Color
 
 • **Color**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:64465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64465)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **Description**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:64464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64464)
-
 ___
 
 ### Height
 
 • **Height**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:64463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64463)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **Width**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:64462](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64462)
-
 ___
 
 ### \_\_tid\_DebugResolution\_\_
 
 • `Private` **\_\_tid\_DebugResolution\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64471)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64469)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:64470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64470)

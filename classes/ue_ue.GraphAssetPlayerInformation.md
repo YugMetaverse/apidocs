@@ -26,10 +26,6 @@
 
 • **new GraphAssetPlayerInformation**()
 
-#### Defined in
-
-[ue/ue.d.ts:4967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4967)
-
 • **new GraphAssetPlayerInformation**(`PlayerNodeIndices`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `PlayerNodeIndices` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:4968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4968)
-
 ## Properties
 
 ### PlayerNodeIndices
 
 • **PlayerNodeIndices**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:4969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4969)
-
 ___
 
 ### \_\_tid\_GraphAssetPlayerInformation\_\_
 
 • `Private` **\_\_tid\_GraphAssetPlayerInformation\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4975](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4975)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4973)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4974)

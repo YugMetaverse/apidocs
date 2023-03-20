@@ -31,10 +31,6 @@
 
 • **new CollisionResponseTemplate**()
 
-#### Defined in
-
-[ue/ue.d.ts:28115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28115)
-
 • **new CollisionResponseTemplate**(`Name`, `CollisionEnabled`, `bCanModify`, `ObjectTypeName`, `CustomResponses`, `HelpMessage`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `CustomResponses` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ResponseChannel`](ue_ue.ResponseChannel.md)\> |
 | `HelpMessage` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:28116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28116)
-
 ## Properties
 
 ### CollisionEnabled
 
 • **CollisionEnabled**: [`ECollisionEnabled`](../enums/ue_ue.ECollisionEnabled.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28118)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **CustomResponses**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ResponseChannel`](ue_ue.ResponseChannel.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:28121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28121)
-
 ___
 
 ### HelpMessage
 
 • **HelpMessage**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:28122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28122)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:28117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28117)
-
 ___
 
 ### ObjectTypeName
 
 • **ObjectTypeName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:28120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28120)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • `Private` **\_\_tid\_CollisionResponseTemplate\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:28128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28128)
-
 ___
 
 ### bCanModify
 
 • **bCanModify**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:28119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28119)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:28126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28126)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28127)

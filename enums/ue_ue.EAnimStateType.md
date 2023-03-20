@@ -19,19 +19,11 @@
 
 • **AST\_BlendGraph** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20488)
-
 ___
 
 ### AST\_MAX
 
 • **AST\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20488)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **AST\_SingleAnimation** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:20488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20488)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20488)

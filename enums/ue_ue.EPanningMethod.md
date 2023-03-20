@@ -19,19 +19,11 @@
 
 • **EPanningMethod\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22477)
-
 ___
 
 ### EqualPower
 
 • **EqualPower** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22477)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Linear** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22477)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22477)

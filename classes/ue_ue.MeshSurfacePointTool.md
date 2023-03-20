@@ -55,10 +55,6 @@
 
 [SingleSelectionTool](ue_ue.SingleSelectionTool.md).[constructor](ue_ue.SingleSelectionTool.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:50592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50592)
-
 ## Properties
 
 ### InputBehaviors
@@ -68,10 +64,6 @@
 #### Inherited from
 
 [SingleSelectionTool](ue_ue.SingleSelectionTool.md).[InputBehaviors](ue_ue.SingleSelectionTool.md#inputbehaviors)
-
-#### Defined in
-
-[ue/ue.d.ts:27481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27481)
 
 ___
 
@@ -83,10 +75,6 @@ ___
 
 [SingleSelectionTool](ue_ue.SingleSelectionTool.md).[ToolPropertyObjects](ue_ue.SingleSelectionTool.md#toolpropertyobjects)
 
-#### Defined in
-
-[ue/ue.d.ts:27482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27482)
-
 ___
 
 ### \_\_tid\_InteractiveTool\_\_
@@ -97,19 +85,11 @@ ___
 
 [SingleSelectionTool](ue_ue.SingleSelectionTool.md).[__tid_InteractiveTool__](ue_ue.SingleSelectionTool.md#__tid_interactivetool__)
 
-#### Defined in
-
-[ue/ue.d.ts:27487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27487)
-
 ___
 
 ### \_\_tid\_MeshSurfacePointTool\_\_
 
 • **\_\_tid\_MeshSurfacePointTool\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50597)
 
 ___
 
@@ -121,10 +101,6 @@ ___
 
 [SingleSelectionTool](ue_ue.SingleSelectionTool.md).[__tid_Object__](ue_ue.SingleSelectionTool.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_SingleSelectionTool\_\_
@@ -134,10 +110,6 @@ ___
 #### Inherited from
 
 [SingleSelectionTool](ue_ue.SingleSelectionTool.md).[__tid_SingleSelectionTool__](ue_ue.SingleSelectionTool.md#__tid_singleselectiontool__)
-
-#### Defined in
-
-[ue/ue.d.ts:50588](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50588)
 
 ## Methods
 
@@ -163,10 +135,6 @@ ___
 
 [SingleSelectionTool](ue_ue.SingleSelectionTool.md).[CreateDefaultSubobject](ue_ue.SingleSelectionTool.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -187,10 +155,6 @@ ___
 
 [SingleSelectionTool](ue_ue.SingleSelectionTool.md).[ExecuteUbergraph](ue_ue.SingleSelectionTool.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -204,10 +168,6 @@ ___
 #### Inherited from
 
 [SingleSelectionTool](ue_ue.SingleSelectionTool.md).[GetClass](ue_ue.SingleSelectionTool.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -223,10 +183,6 @@ ___
 
 [SingleSelectionTool](ue_ue.SingleSelectionTool.md).[GetName](ue_ue.SingleSelectionTool.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -241,10 +197,6 @@ ___
 
 [SingleSelectionTool](ue_ue.SingleSelectionTool.md).[GetOuter](ue_ue.SingleSelectionTool.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -258,10 +210,6 @@ ___
 #### Inherited from
 
 [SingleSelectionTool](ue_ue.SingleSelectionTool.md).[GetWorld](ue_ue.SingleSelectionTool.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -284,10 +232,6 @@ ___
 
 [SingleSelectionTool](ue_ue.SingleSelectionTool.md).[Find](ue_ue.SingleSelectionTool.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:50594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50594)
-
 ___
 
 ### Load
@@ -308,10 +252,6 @@ ___
 
 [SingleSelectionTool](ue_ue.SingleSelectionTool.md).[Load](ue_ue.SingleSelectionTool.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:50595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50595)
-
 ___
 
 ### StaticClass
@@ -325,7 +265,3 @@ ___
 #### Overrides
 
 [SingleSelectionTool](ue_ue.SingleSelectionTool.md).[StaticClass](ue_ue.SingleSelectionTool.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:50593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50593)

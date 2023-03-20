@@ -25,19 +25,11 @@
 
 • **new MovieSceneFrameRange**()
 
-#### Defined in
-
-[ue/ue.d.ts:11175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11175)
-
 ## Properties
 
 ### \_\_tid\_MovieSceneFrameRange\_\_
 
 • `Private` **\_\_tid\_MovieSceneFrameRange\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11181)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11179)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11180)

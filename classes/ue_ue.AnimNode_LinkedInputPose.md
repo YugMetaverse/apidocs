@@ -38,10 +38,6 @@
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[constructor](ue_ue.AnimNode_Base.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:18781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18781)
-
 • **new AnimNode_LinkedInputPose**(`Name`, `Graph`, `InputPose`)
 
 #### Parameters
@@ -56,19 +52,11 @@
 
 UE.AnimNode\_Base.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:18782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18782)
-
 ## Properties
 
 ### Graph
 
 • **Graph**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:18784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18784)
 
 ___
 
@@ -76,29 +64,17 @@ ___
 
 • **InputPose**: [`PoseLink`](ue_ue.PoseLink.md)
 
-#### Defined in
-
-[ue/ue.d.ts:18785](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18785)
-
 ___
 
 ### Name
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:18783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18783)
-
 ___
 
 ### \_\_tid\_AnimNode\_LinkedInputPose\_\_
 
 • `Private` **\_\_tid\_AnimNode\_LinkedInputPose\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:18791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18791)
 
 ## Methods
 
@@ -118,10 +94,6 @@ use StaticStruct instead.
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticClass](ue_ue.AnimNode_Base.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:18789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18789)
-
 ___
 
 ### StaticStruct
@@ -135,7 +107,3 @@ ___
 #### Overrides
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticStruct](ue_ue.AnimNode_Base.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:18790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18790)

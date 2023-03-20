@@ -76,10 +76,6 @@
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[constructor](ue_ue.ARTrackedImage.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:21519](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21519)
-
 ## Properties
 
 ### DebugName
@@ -89,10 +85,6 @@
 #### Inherited from
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[DebugName](ue_ue.ARTrackedImage.md#debugname)
-
-#### Defined in
-
-[ue/ue.d.ts:20867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20867)
 
 ___
 
@@ -104,10 +96,6 @@ ___
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[DetectedImage](ue_ue.ARTrackedImage.md#detectedimage)
 
-#### Defined in
-
-[ue/ue.d.ts:21047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21047)
-
 ___
 
 ### EstimatedSize
@@ -117,10 +105,6 @@ ___
 #### Inherited from
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[EstimatedSize](ue_ue.ARTrackedImage.md#estimatedsize)
-
-#### Defined in
-
-[ue/ue.d.ts:21048](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21048)
 
 ___
 
@@ -132,10 +116,6 @@ ___
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[LastUpdateFrameNumber](ue_ue.ARTrackedImage.md#lastupdateframenumber)
 
-#### Defined in
-
-[ue/ue.d.ts:20866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20866)
-
 ___
 
 ### LocalToAlignedTrackingTransform
@@ -145,10 +125,6 @@ ___
 #### Inherited from
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[LocalToAlignedTrackingTransform](ue_ue.ARTrackedImage.md#localtoalignedtrackingtransform)
-
-#### Defined in
-
-[ue/ue.d.ts:20862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20862)
 
 ___
 
@@ -160,10 +136,6 @@ ___
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[LocalToTrackingTransform](ue_ue.ARTrackedImage.md#localtotrackingtransform)
 
-#### Defined in
-
-[ue/ue.d.ts:20861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20861)
-
 ___
 
 ### ObjectClassification
@@ -174,19 +146,11 @@ ___
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[ObjectClassification](ue_ue.ARTrackedImage.md#objectclassification)
 
-#### Defined in
-
-[ue/ue.d.ts:20865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20865)
-
 ___
 
 ### QRCode
 
 • **QRCode**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:21520](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21520)
 
 ___
 
@@ -198,10 +162,6 @@ ___
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[TrackingState](ue_ue.ARTrackedImage.md#trackingstate)
 
-#### Defined in
-
-[ue/ue.d.ts:20863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20863)
-
 ___
 
 ### UnderlyingMesh
@@ -211,10 +171,6 @@ ___
 #### Inherited from
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[UnderlyingMesh](ue_ue.ARTrackedImage.md#underlyingmesh)
-
-#### Defined in
-
-[ue/ue.d.ts:20864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20864)
 
 ___
 
@@ -226,19 +182,11 @@ ___
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[UniqueId](ue_ue.ARTrackedImage.md#uniqueid)
 
-#### Defined in
-
-[ue/ue.d.ts:20860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20860)
-
 ___
 
 ### Version
 
 • **Version**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21521](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21521)
 
 ___
 
@@ -250,10 +198,6 @@ ___
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[__tid_ARTrackedGeometry__](ue_ue.ARTrackedImage.md#__tid_artrackedgeometry__)
 
-#### Defined in
-
-[ue/ue.d.ts:20881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20881)
-
 ___
 
 ### \_\_tid\_ARTrackedImage\_\_
@@ -264,19 +208,11 @@ ___
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[__tid_ARTrackedImage__](ue_ue.ARTrackedImage.md#__tid_artrackedimage__)
 
-#### Defined in
-
-[ue/ue.d.ts:21055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21055)
-
 ___
 
 ### \_\_tid\_ARTrackedQRCode\_\_
 
 • **\_\_tid\_ARTrackedQRCode\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21526](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21526)
 
 ___
 
@@ -287,10 +223,6 @@ ___
 #### Inherited from
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[__tid_Object__](ue_ue.ARTrackedImage.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -316,10 +248,6 @@ ___
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[CreateDefaultSubobject](ue_ue.ARTrackedImage.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -340,10 +268,6 @@ ___
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[ExecuteUbergraph](ue_ue.ARTrackedImage.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -357,10 +281,6 @@ ___
 #### Inherited from
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[GetClass](ue_ue.ARTrackedImage.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -376,10 +296,6 @@ ___
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[GetDebugName](ue_ue.ARTrackedImage.md#getdebugname)
 
-#### Defined in
-
-[ue/ue.d.ts:20868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20868)
-
 ___
 
 ### GetDetectedImage
@@ -393,10 +309,6 @@ ___
 #### Inherited from
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[GetDetectedImage](ue_ue.ARTrackedImage.md#getdetectedimage)
-
-#### Defined in
-
-[ue/ue.d.ts:21049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21049)
 
 ___
 
@@ -412,10 +324,6 @@ ___
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[GetEstimateSize](ue_ue.ARTrackedImage.md#getestimatesize)
 
-#### Defined in
-
-[ue/ue.d.ts:21050](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21050)
-
 ___
 
 ### GetLastUpdateFrameNumber
@@ -429,10 +337,6 @@ ___
 #### Inherited from
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[GetLastUpdateFrameNumber](ue_ue.ARTrackedImage.md#getlastupdateframenumber)
-
-#### Defined in
-
-[ue/ue.d.ts:20869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20869)
 
 ___
 
@@ -448,10 +352,6 @@ ___
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[GetLastUpdateTimestamp](ue_ue.ARTrackedImage.md#getlastupdatetimestamp)
 
-#### Defined in
-
-[ue/ue.d.ts:20870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20870)
-
 ___
 
 ### GetLocalToTrackingTransform
@@ -465,10 +365,6 @@ ___
 #### Inherited from
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[GetLocalToTrackingTransform](ue_ue.ARTrackedImage.md#getlocaltotrackingtransform)
-
-#### Defined in
-
-[ue/ue.d.ts:20871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20871)
 
 ___
 
@@ -484,10 +380,6 @@ ___
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[GetLocalToWorldTransform](ue_ue.ARTrackedImage.md#getlocaltoworldtransform)
 
-#### Defined in
-
-[ue/ue.d.ts:20872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20872)
-
 ___
 
 ### GetName
@@ -501,10 +393,6 @@ ___
 #### Inherited from
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[GetName](ue_ue.ARTrackedImage.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -520,10 +408,6 @@ ___
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[GetObjectClassification](ue_ue.ARTrackedImage.md#getobjectclassification)
 
-#### Defined in
-
-[ue/ue.d.ts:20873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20873)
-
 ___
 
 ### GetOuter
@@ -537,10 +421,6 @@ ___
 #### Inherited from
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[GetOuter](ue_ue.ARTrackedImage.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -556,10 +436,6 @@ ___
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[GetTrackingState](ue_ue.ARTrackedImage.md#gettrackingstate)
 
-#### Defined in
-
-[ue/ue.d.ts:20874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20874)
-
 ___
 
 ### GetUnderlyingMesh
@@ -573,10 +449,6 @@ ___
 #### Inherited from
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[GetUnderlyingMesh](ue_ue.ARTrackedImage.md#getunderlyingmesh)
-
-#### Defined in
-
-[ue/ue.d.ts:20875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20875)
 
 ___
 
@@ -592,10 +464,6 @@ ___
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[GetWorld](ue_ue.ARTrackedImage.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### IsTracked
@@ -609,10 +477,6 @@ ___
 #### Inherited from
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[IsTracked](ue_ue.ARTrackedImage.md#istracked)
-
-#### Defined in
-
-[ue/ue.d.ts:20876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20876)
 
 ___
 
@@ -635,10 +499,6 @@ ___
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[Find](ue_ue.ARTrackedImage.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:21523](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21523)
-
 ___
 
 ### Load
@@ -659,10 +519,6 @@ ___
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[Load](ue_ue.ARTrackedImage.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:21524](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21524)
-
 ___
 
 ### StaticClass
@@ -676,7 +532,3 @@ ___
 #### Overrides
 
 [ARTrackedImage](ue_ue.ARTrackedImage.md).[StaticClass](ue_ue.ARTrackedImage.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:21522](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21522)

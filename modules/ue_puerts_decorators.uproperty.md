@@ -137,10 +137,6 @@ the functionality for add meta data to property
 
 the meta data with one key for  property meta
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1578)
-
 ___
 
 ### PropertyKey
@@ -150,10 +146,6 @@ ___
 **`Brief`**
 
 the meta data
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1335)
 
 ## Variables
 
@@ -165,10 +157,6 @@ the meta data
 
 Properties are in the advanced dropdown in a details panel
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1461](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1461)
-
 ___
 
 ### AllowAbstract
@@ -178,10 +166,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] Used for Subclass and SoftClass properties.  Indicates whether abstract class types should be shown in the class picker.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1602)
 
 ___
 
@@ -193,10 +177,6 @@ ___
 
 [PropertyMetadata] Used for ComponentReference properties.  Indicates whether other actor that are not in the property outer hierarchy should be shown in the component picker.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1608)
-
 ___
 
 ### AllowPreserveRatio
@@ -206,10 +186,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] Used for FVector properties.  It causes a ratio lock to be added when displaying this property in details panels.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1620)
 
 ___
 
@@ -221,10 +197,6 @@ ___
 
 [PropertyMetadata] Indicates that a private member marked as BluperintReadOnly or BlueprintReadWrite should be accessible from blueprints
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1626)
-
 ___
 
 ### AllowedClasses
@@ -234,10 +206,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] Used for FSoftObjectPath, ComponentReference and UClass properties.  Comma delimited list that indicates the class type(s) of assets to be displayed in the asset picker(FSoftObjectPath) or component picker or class viewer (UClass).
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1614)
 
 ___
 
@@ -249,10 +217,6 @@ ___
 
 [PropertyMetadata] Used for integer properties.  Clamps the valid values that can be entered in the UI to be between 0 and the length of the array specified.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1632)
-
 ___
 
 ### AssetBundles
@@ -262,10 +226,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] Used for SoftObjectPtr/SoftObjectPath properties. Comma separated list of Bundle names used inside PrimaryDataAssets to specify which bundles this reference is part of
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1638)
 
 ___
 
@@ -279,10 +239,6 @@ The AssetRegistrySearchable keyword indicates that this property and it's value 
      to the asset registry for any asset class instances containing this as a member variable.  It is not legal
      to use on struct properties or parameters.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1529)
-
 ___
 
 ### Bitmask
@@ -292,10 +248,6 @@ ___
 **`Brief`**
 
 [FunctionMetadata] [InterfaceMetadata] Metadata that identifies an integral property as a bitmask.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1975](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1975)
 
 ___
 
@@ -307,10 +259,6 @@ ___
 
 [FunctionMetadata] [InterfaceMetadata] Metadata that associates a bitmask property with a bitflag enum.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1981)
-
 ___
 
 ### BlueprintAssignable
@@ -320,10 +268,6 @@ ___
 **`Brief`**
 
 MC Delegates only.  Property should be exposed for assigning in blueprints.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1443](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1443)
 
 ___
 
@@ -335,10 +279,6 @@ ___
 
 MC Delegates only. This delegate accepts (only in blueprint) only events with BlueprintAuthorityOnly.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1548)
-
 ___
 
 ### BlueprintBaseOnly
@@ -348,10 +288,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] Used for Subclass and SoftClass properties.  Indicates whether only blueprint classes should be shown in the class picker.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1644)
 
 ___
 
@@ -363,10 +299,6 @@ ___
 
 MC Delegates only.  Property should be exposed for calling in blueprint code
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1542](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1542)
-
 ___
 
 ### BlueprintCompilerGeneratedDefaults
@@ -376,10 +308,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] Property defaults are generated by the Blueprint compiler and will not be copied when CopyPropertiesForUnrelatedObjects is called post-compile.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1650)
 
 ___
 
@@ -391,10 +319,6 @@ ___
 
 This property has an accessor to return the value. Implies BlueprintReadOnly if BlueprintSetter or BlueprintReadWrite is not specified. (usage: BlueprintGetter=FunctionName).
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1509)
-
 ___
 
 ### BlueprintReadOnly
@@ -404,10 +328,6 @@ ___
 **`Brief`**
 
 This property can be read by blueprints, but not modified.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1503)
 
 ___
 
@@ -419,10 +339,6 @@ ___
 
 This property can be read or written from a blueprint.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1515)
-
 ___
 
 ### BlueprintSetter
@@ -432,10 +348,6 @@ ___
 **`Brief`**
 
 This property has an accessor to set the value. Implies BlueprintReadWrite. (usage: BlueprintSetter=FunctionName).
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1521](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1521)
 
 ___
 
@@ -447,10 +359,6 @@ ___
 
 Specifies the category of the property. Usage: Category=CategoryName.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1449)
-
 ___
 
 ### ClampMax
@@ -460,10 +368,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] Used for float and integer properties.  Specifies the maximum value that may be entered for the property.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1662)
 
 ___
 
@@ -475,10 +379,6 @@ ___
 
 [PropertyMetadata] Used for float and integer properties.  Specifies the minimum value that may be entered for the property.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1656)
-
 ___
 
 ### Config
@@ -488,10 +388,6 @@ ___
 **`Brief`**
 
 Property should be loaded/saved to ini file as permanent profile.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1347)
 
 ___
 
@@ -503,10 +399,6 @@ ___
 
 [PropertyMetadata] Property is serialized to config and we should be able to set it anywhere along the config hierarchy.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1668)
-
 ___
 
 ### Const
@@ -516,10 +408,6 @@ ___
 **`Brief`**
 
 This property is const and should be exported as const.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1341)
 
 ___
 
@@ -531,10 +419,6 @@ ___
 
 [PropertyMetadata] Used by FDirectoryPath properties. Indicates that the path will be picked using the Slate-style directory picker inside the game Content dir.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1674)
-
 ___
 
 ### DeprecatedProperty
@@ -544,10 +428,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] This property is deprecated, any blueprint references to it cause a compilation warning.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1680)
 
 ___
 
@@ -559,10 +439,6 @@ ___
 
 [ClassMetadata] [PropertyMetadata] [FunctionMetadata] Used in conjunction with DeprecatedNode, DeprecatedProperty, or DeprecatedFunction to customize the warning message displayed to the user.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1686](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1686)
-
 ___
 
 ### DevelopmentOnly
@@ -572,10 +448,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] For functions that should be compiled in development mode only.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1948)
 
 ___
 
@@ -587,10 +459,6 @@ ___
 
 [PropertyMetadata] Used for FSoftObjectPath, ActorComponentReference and UClass properties.  Comma delimited list that indicates the class type(s) of assets that will NOT be displayed in the asset picker (FSoftObjectPath) or component picker or class viewer (UClass).
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1704)
-
 ___
 
 ### DisplayAfter
@@ -601,10 +469,6 @@ ___
 
 [PropertyMetadata] Indicates that the property should be displayed immediately after the property named in the metadata.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1710)
-
 ___
 
 ### DisplayName
@@ -614,10 +478,6 @@ ___
 **`Brief`**
 
 [ClassMetadata] [PropertyMetadata] [FunctionMetadata] The name to display for this class, property, or function instead of auto-generating it from the name.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1692](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1692)
 
 ___
 
@@ -630,10 +490,6 @@ ___
 [PropertyMetadata] The relative order within its category that the property should be displayed in where lower values are sorted first..
      If used in conjunction with DisplayAfter, specifies the priority relative to other properties with same DisplayAfter specifier.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1717)
-
 ___
 
 ### DisplayThumbnail
@@ -643,10 +499,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] Indicates that the property is an asset type and it should display the thumbnail of the selected asset.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1723)
 
 ___
 
@@ -658,10 +510,6 @@ ___
 
 A setting to determine validation of tooltips and comments. Needs to be set to "Strict"
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1596)
-
 ___
 
 ### DuplicateTransient
@@ -671,10 +519,6 @@ ___
 **`Brief`**
 
 Property should always be reset to the default value during any type of duplication (copy/paste, binary duplication, etc.)
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1371)
 
 ___
 
@@ -686,10 +530,6 @@ ___
 
 Indicates that this property can be edited by property windows in the editor
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1467](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1467)
-
 ___
 
 ### EditCondition
@@ -699,10 +539,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] Specifies a boolean property that is used to indicate whether editing of this property is disabled.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1729)
 
 ___
 
@@ -714,10 +550,6 @@ ___
 
 Indicates that this property can be edited by property windows, but only on archetypes
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1479)
-
 ___
 
 ### EditFixedOrder
@@ -727,10 +559,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] Keeps the elements of an array from being reordered by dragging
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1735)
 
 ___
 
@@ -742,10 +570,6 @@ ___
 
 Indicates that elements of an array can be modified, but its size cannot be changed.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1401)
-
 ___
 
 ### EditInstanceOnly
@@ -755,10 +579,6 @@ ___
 **`Brief`**
 
 Indicates that this property can be edited by property windows, but only on instances, not on archetypes
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1473](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1473)
 
 ___
 
@@ -770,10 +590,6 @@ ___
 
 [PropertyMetadata] Used for FSoftObjectPath properties in conjunction with AllowedClasses. Indicates whether only the exact classes specified in AllowedClasses can be used or whether subclasses are valid.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1741)
-
 ___
 
 ### Export
@@ -783,10 +599,6 @@ ___
 **`Brief`**
 
 Object property can be exported with it's owner.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1389)
 
 ___
 
@@ -798,10 +610,6 @@ ___
 
 [PropertyMetadata] Specifies a list of categories whose functions should be exposed when building a function list in the Blueprint Editor.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1747)
-
 ___
 
 ### ExposeOnSpawn
@@ -811,10 +619,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] Specifies whether the property should be exposed on a Spawn Actor for the class type.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1753)
 
 ___
 
@@ -826,10 +630,6 @@ ___
 
 [PropertyMetadata] Used by FFilePath properties. Indicates the path filter to display in the file picker.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1759)
-
 ___
 
 ### ForceShowEngineContent
@@ -840,10 +640,6 @@ ___
 
 [PropertyMetadata] Used by asset properties. Indicates that the asset pickers should always show engine content
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1774)
-
 ___
 
 ### ForceShowPluginContent
@@ -853,10 +649,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] Used by asset properties. Indicates that the asset pickers should always show plugin content
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1780)
 
 ___
 
@@ -871,10 +663,6 @@ ___
      UFUNCTION()
      TArray<FString> FuncName() const; // Always return string array even if FName property.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1969)
-
 ___
 
 ### GlobalConfig
@@ -884,10 +672,6 @@ ___
 **`Brief`**
 
 Same as above but load config from base class, not subclass.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1353)
 
 ___
 
@@ -899,10 +683,6 @@ ___
 
 [PropertyMetadata] Used for FColor and FLinearColor properties. Indicates that the Alpha property should be hidden when displaying the property widget in the details.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1786)
-
 ___
 
 ### HideInDetailPanel
@@ -912,10 +692,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] Indicates that the property should be hidden in the details panel. Currently only used by events.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1792)
 
 ___
 
@@ -927,10 +703,6 @@ ___
 
 If true, the self pin should not be shown or connectable regardless of purity, const, etc. similar to InternalUseParam
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1566)
-
 ___
 
 ### HideViewOptions
@@ -940,10 +712,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] Used for Subclass and SoftClass properties. Specifies to hide the ability to change view options in the class picker
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1798)
 
 ___
 
@@ -955,10 +723,6 @@ ___
 
 [PropertyMetadata] Used for bypassing property initialization tests when the property cannot be safely tested in a deterministic fashion. Example: random numbers, guids, etc.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1804)
-
 ___
 
 ### InlineEditConditionToggle
@@ -968,10 +732,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] Signifies that the bool property is only displayed inline as an edit condition toggle in other properties, and should not be shown on its own row.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1810)
 
 ___
 
@@ -983,10 +743,6 @@ ___
 
 Property is a component reference. Implies EditInline and Export.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1437)
-
 ___
 
 ### Interp
@@ -996,10 +752,6 @@ ___
 **`Brief`**
 
 Interpolatable property for use with matinee. Always user-settable in the editor.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1425)
 
 ___
 
@@ -1011,10 +763,6 @@ ___
 
 [PropertyMetadata] (Internal use only) Used for the latent action manager to track where it's re-entry should be
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1960)
-
 ___
 
 ### Localized
@@ -1024,10 +772,6 @@ ___
 **`Brief`**
 
 Property should be loaded as localizable text. Implies ReadOnly.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1359)
 
 ___
 
@@ -1039,10 +783,6 @@ ___
 
 [PropertyMetadata] Used by FDirectoryPath properties.  Converts the path to a long package name
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1816)
-
 ___
 
 ### MakeEditWidget
@@ -1052,10 +792,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] Used for Transform/Rotator properties (also works on arrays of them). Indicates that the property should be exposed in the viewport as a movable widget.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1822)
 
 ___
 
@@ -1067,10 +803,6 @@ ___
 
 [PropertyMetadata] For properties in a structure indicates the default value of the property in a blueprint make structure node.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1828)
-
 ___
 
 ### MetaClass
@@ -1080,10 +812,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] Used FSoftClassPath properties. Indicates the parent class that the class picker will use when filtering which classes to display.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1834)
 
 ___
 
@@ -1095,10 +823,6 @@ ___
 
 [PropertyMetadata] Used for FString and FText properties.  Indicates that the edit field should be multi-line, allowing entry of newlines.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1852)
-
 ___
 
 ### Multiple
@@ -1108,10 +832,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] Used for numeric properties. Stipulates that the value must be a multiple of the metadata value.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1846)
 
 ___
 
@@ -1123,10 +843,6 @@ ___
 
 [PropertyMetadata] Used for Subclass and SoftClass properties. Indicates the selected class must implement a specific interface
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1840)
-
 ___
 
 ### NeedsLatentFixup
@@ -1136,10 +852,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] (Internal use only) Used for the latent action manager to fix up a latent action with the VM
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1954)
 
 ___
 
@@ -1151,10 +863,6 @@ ___
 
 Hide clear (and browse) button in the editor.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1395)
-
 ___
 
 ### NoElementDuplicate
@@ -1164,10 +872,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] Used for array properties. Indicates that the duplicate icon should not be shown for entries of this array in the property panel.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1864)
 
 ___
 
@@ -1179,10 +883,6 @@ ___
 
 [PropertyMetadata] Property wont have a 'reset to default' button when displayed in property windows
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1870)
-
 ___
 
 ### NoSpinbox
@@ -1192,10 +892,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] Used for integer and float properties. Indicates that the spin box element of the number editing widget should not be displayed.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1876)
 
 ___
 
@@ -1207,10 +903,6 @@ ___
 
 Property should always be reset to the default value unless it's being duplicated for a PIE session
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1383)
-
 ___
 
 ### NonPIETransient
@@ -1220,10 +912,6 @@ ___
 **`Brief`**
 
 Property should always be reset to the default value unless it's being duplicated for a PIE session - deprecated, use NonPIEDuplicateTransient instead
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1377](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1377)
 
 ___
 
@@ -1235,10 +923,6 @@ ___
 
 Property isn't transacted.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1431](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1431)
-
 ___
 
 ### NotReplicated
@@ -1248,10 +932,6 @@ ___
 **`Brief`**
 
 Skip replication (only for struct members and parameters in service request functions).
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1419)
 
 ___
 
@@ -1263,10 +943,6 @@ ___
 
 [PropertyMetadata] Used for Subclass properties. Indicates whether only placeable classes should be shown in the class picker.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1882)
-
 ___
 
 ### PasswordField
@@ -1276,10 +952,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] Used for FString and FText properties.  Indicates that the edit field is a secret field (e.g a password) and entered text will be replaced with dots. Do not use this as your only security measure.  The property data is still stored as plain text.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1858)
 
 ___
 
@@ -1291,10 +963,6 @@ ___
 
 [PropertyMetadata] Used by FDirectoryPath properties. Indicates that the directory dialog will output a relative path when setting the property.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1888)
-
 ___
 
 ### RelativeToGameContentDir
@@ -1304,10 +972,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] Used by FDirectoryPath properties. Indicates that the directory dialog will output a path relative to the game content directory when setting the property.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1894)
 
 ___
 
@@ -1319,10 +983,6 @@ ___
 
 [PropertyMetadata] Used by FFilePath properties. Indicates that the FilePicker dialog will output a path relative to the game directory when setting the property. An absolute path will be used when outside the game directory.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1765)
-
 ___
 
 ### Replicated
@@ -1333,10 +993,6 @@ ___
 
 Property is relevant to network replication.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1407)
-
 ___
 
 ### ReplicatedUsing
@@ -1346,10 +1002,6 @@ ___
 **`Brief`**
 
 Property is relevant to network replication. Notify actors when a property is replicated (usage: ReplicatedUsing=FunctionName).
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1413)
 
 ___
 
@@ -1362,10 +1014,6 @@ ___
 Property should be serialized for save games.
      This is only checked for game-specific archives with ArIsSaveGame set
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1536](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1536)
-
 ___
 
 ### ScriptName
@@ -1375,10 +1023,6 @@ ___
 **`Brief`**
 
 [ClassMetadata] [PropertyMetadata] [FunctionMetadata] The name to use for this class, property, or function when exporting it to a scripting language. May include deprecated names as additional semi-colon separated entries.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1698)
 
 ___
 
@@ -1390,10 +1034,6 @@ ___
 
 [PropertyMetadata] [FunctionMetadata] Flag set on a property or function to prevent it being exported to a scripting language.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1900)
-
 ___
 
 ### ShortTooltip
@@ -1403,10 +1043,6 @@ ___
 **`Brief`**
 
 A short tooltip that is used in some contexts where the full tooltip might be overwhelming (such as the parent class picker dialog)
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1590)
 
 ___
 
@@ -1418,10 +1054,6 @@ ___
 
 [PropertyMetadata] Used by struct properties. Indicates that the inner properties will not be shown inside an expandable struct, but promoted up a level.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1906)
-
 ___
 
 ### ShowTreeView
@@ -1431,10 +1063,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] Used for Subclass and SoftClass properties. Shows the picker as a tree view instead of as a list
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1912)
 
 ___
 
@@ -1446,10 +1074,6 @@ ___
 
 Properties appear visible by default in a details panel
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1455)
-
 ___
 
 ### SkipSerialization
@@ -1459,10 +1083,6 @@ ___
 **`Brief`**
 
 Property shouldn't be serialized, can still be exported to text
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1560)
 
 ___
 
@@ -1474,10 +1094,6 @@ ___
 
 [PropertyMetadata] Used by numeric properties. Indicates how rapidly the value will grow when moving an unbounded slider.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1918)
-
 ___
 
 ### TextExportTransient
@@ -1487,10 +1103,6 @@ ___
 **`Brief`**
 
 Property shouldn't be exported to text format (e.g. copy/paste)
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1554)
 
 ___
 
@@ -1502,10 +1114,6 @@ ___
 
 [PropertyMetadata] Used by arrays of structs. Indicates a single property inside of the struct that should be used as a title summary when the array entry is collapsed.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1924)
-
 ___
 
 ### ToolTip
@@ -1515,10 +1123,6 @@ ___
 **`Brief`**
 
 Overrides the automatically generated tooltip from the class comment
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1584)
 
 ___
 
@@ -1530,10 +1134,6 @@ ___
 
 Property is transient: shouldn't be saved, zero-filled at load time.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1365)
-
 ___
 
 ### UIMax
@@ -1543,10 +1143,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] Used for float and integer properties.  Specifies the highest that the value slider should represent.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1936)
 
 ___
 
@@ -1558,10 +1154,6 @@ ___
 
 [PropertyMetadata] Used for float and integer properties.  Specifies the lowest that the value slider should represent.
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1930)
-
 ___
 
 ### Untracked
@@ -1571,10 +1163,6 @@ ___
 **`Brief`**
 
 [PropertyMetadata] Used for SoftObjectPtr/SoftObjectPath properties to specify a reference should not be tracked. This reference will not be automatically cooked or saved into the asset registry for redirector/delete fixup.
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1942)
 
 ___
 
@@ -1586,10 +1174,6 @@ ___
 
 Indicates that this property is visible in property windows, but cannot be edited at all
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1485)
-
 ___
 
 ### VisibleDefaultsOnly
@@ -1600,10 +1184,6 @@ ___
 
 Indicates that this property is only visible in property windows for archetypes, and cannot be edited
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1497)
-
 ___
 
 ### VisibleInstanceOnly
@@ -1613,10 +1193,6 @@ ___
 **`Brief`**
 
 Indicates that this property is only visible in property windows for instances, not for archetypes, and cannot be edited
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1491)
 
 ## Functions
 
@@ -1636,10 +1212,6 @@ the decorator used to add meta data to property
 
 `any`
 
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1987)
-
 ___
 
 ### uproperty
@@ -1657,7 +1229,3 @@ decorator used to add property specifier
 #### Returns
 
 `any`
-
-#### Defined in
-
-[ue/puerts_decorators.d.ts:1572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1572)

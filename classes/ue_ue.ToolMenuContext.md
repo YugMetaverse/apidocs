@@ -26,10 +26,6 @@
 
 • **new ToolMenuContext**()
 
-#### Defined in
-
-[ue/ue.d.ts:63761](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63761)
-
 • **new ToolMenuContext**(`ContextObjects`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `ContextObjects` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Object`](ue_ue.Object.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:63762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63762)
-
 ## Properties
 
 ### ContextObjects
 
 • **ContextObjects**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Object`](ue_ue.Object.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:63763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63763)
-
 ___
 
 ### \_\_tid\_ToolMenuContext\_\_
 
 • `Private` **\_\_tid\_ToolMenuContext\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:63769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63769)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63767)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63768)

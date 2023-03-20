@@ -30,19 +30,11 @@
 
 • **MenuPlacement\_AboveAnchor** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34043)
-
 ___
 
 ### MenuPlacement\_AboveRightAnchor
 
 • **MenuPlacement\_AboveRightAnchor** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34043)
 
 ___
 
@@ -50,19 +42,11 @@ ___
 
 • **MenuPlacement\_BelowAnchor** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34043)
-
 ___
 
 ### MenuPlacement\_BelowRightAnchor
 
 • **MenuPlacement\_BelowRightAnchor** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34043)
 
 ___
 
@@ -70,19 +54,11 @@ ___
 
 • **MenuPlacement\_Center** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34043)
-
 ___
 
 ### MenuPlacement\_CenteredAboveAnchor
 
 • **MenuPlacement\_CenteredAboveAnchor** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34043)
 
 ___
 
@@ -90,19 +66,11 @@ ___
 
 • **MenuPlacement\_CenteredBelowAnchor** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34043)
-
 ___
 
 ### MenuPlacement\_ComboBox
 
 • **MenuPlacement\_ComboBox** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34043)
 
 ___
 
@@ -110,19 +78,11 @@ ___
 
 • **MenuPlacement\_ComboBoxRight** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34043)
-
 ___
 
 ### MenuPlacement\_MAX
 
 • **MenuPlacement\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34043)
 
 ___
 
@@ -130,19 +90,11 @@ ___
 
 • **MenuPlacement\_MatchBottomLeft** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34043)
-
 ___
 
 ### MenuPlacement\_MenuLeft
 
 • **MenuPlacement\_MenuLeft** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34043)
 
 ___
 
@@ -150,26 +102,14 @@ ___
 
 • **MenuPlacement\_MenuRight** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34043)
-
 ___
 
 ### MenuPlacement\_RightLeftCenter
 
 • **MenuPlacement\_RightLeftCenter** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34043)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34043)

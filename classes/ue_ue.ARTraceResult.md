@@ -29,10 +29,6 @@
 
 • **new ARTraceResult**()
 
-#### Defined in
-
-[ue/ue.d.ts:20909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20909)
-
 • **new ARTraceResult**(`DistanceFromCamera`, `TraceChannel`, `LocalToTrackingTransform`, `TrackedGeometry`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `LocalToTrackingTransform` | [`Transform`](ue_ue_s.Transform.md) |
 | `TrackedGeometry` | [`ARTrackedGeometry`](ue_ue.ARTrackedGeometry.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:20910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20910)
-
 ## Properties
 
 ### DistanceFromCamera
 
 • **DistanceFromCamera**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:20911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20911)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **LocalToTrackingTransform**: [`Transform`](ue_ue_s.Transform.md)
 
-#### Defined in
-
-[ue/ue.d.ts:20913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20913)
-
 ___
 
 ### TraceChannel
 
 • **TraceChannel**: [`EARLineTraceChannels`](../enums/ue_ue.EARLineTraceChannels.md)
-
-#### Defined in
-
-[ue/ue.d.ts:20912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20912)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **TrackedGeometry**: [`ARTrackedGeometry`](ue_ue.ARTrackedGeometry.md)
 
-#### Defined in
-
-[ue/ue.d.ts:20914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20914)
-
 ___
 
 ### \_\_tid\_ARTraceResult\_\_
 
 • `Private` **\_\_tid\_ARTraceResult\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:20920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20920)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:20918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20918)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:20919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20919)

@@ -34,10 +34,6 @@
 
 • **new ToolMenuEntryScriptData**()
 
-#### Defined in
-
-[ue/ue.d.ts:63818](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63818)
-
 • **new ToolMenuEntryScriptData**(`Menu`, `Section`, `Name`, `Label`, `ToolTip`, `Icon`, `OwnerName`, `InsertPosition`, `Advanced`)
 
 #### Parameters
@@ -54,19 +50,11 @@
 | `InsertPosition` | [`ToolMenuInsert`](ue_ue.ToolMenuInsert.md) |
 | `Advanced` | [`ToolMenuEntryScriptDataAdvanced`](ue_ue.ToolMenuEntryScriptDataAdvanced.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:63819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63819)
-
 ## Properties
 
 ### Advanced
 
 • **Advanced**: [`ToolMenuEntryScriptDataAdvanced`](ue_ue.ToolMenuEntryScriptDataAdvanced.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63828)
 
 ___
 
@@ -74,19 +62,11 @@ ___
 
 • **Icon**: [`ScriptSlateIcon`](ue_ue.ScriptSlateIcon.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63825](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63825)
-
 ___
 
 ### InsertPosition
 
 • **InsertPosition**: [`ToolMenuInsert`](ue_ue.ToolMenuInsert.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63827)
 
 ___
 
@@ -94,19 +74,11 @@ ___
 
 • **Label**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:63823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63823)
-
 ___
 
 ### Menu
 
 • **Menu**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:63820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63820)
 
 ___
 
@@ -114,19 +86,11 @@ ___
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:63822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63822)
-
 ___
 
 ### OwnerName
 
 • **OwnerName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:63826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63826)
 
 ___
 
@@ -134,29 +98,17 @@ ___
 
 • **Section**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:63821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63821)
-
 ___
 
 ### ToolTip
 
 • **ToolTip**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:63824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63824)
-
 ___
 
 ### \_\_tid\_ToolMenuEntryScriptData\_\_
 
 • `Private` **\_\_tid\_ToolMenuEntryScriptData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:63834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63834)
 
 ## Methods
 
@@ -172,10 +124,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63832)
-
 ___
 
 ### StaticStruct
@@ -185,7 +133,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63833)

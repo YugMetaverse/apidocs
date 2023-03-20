@@ -57,10 +57,6 @@
 
 [MockAI](ue_ue.MockAI.md).[constructor](ue_ue.MockAI.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:50755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50755)
-
 ## Properties
 
 ### BBComp
@@ -71,19 +67,11 @@
 
 [MockAI](ue_ue.MockAI.md).[BBComp](ue_ue.MockAI.md#bbcomp)
 
-#### Defined in
-
-[ue/ue.d.ts:50743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50743)
-
 ___
 
 ### BTComp
 
 • **BTComp**: [`BehaviorTreeComponent`](ue_ue.BehaviorTreeComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:50756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50756)
 
 ___
 
@@ -95,10 +83,6 @@ ___
 
 [MockAI](ue_ue.MockAI.md).[BrainComp](ue_ue.MockAI.md#braincomp)
 
-#### Defined in
-
-[ue/ue.d.ts:50744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50744)
-
 ___
 
 ### PawnActionComp
@@ -108,10 +92,6 @@ ___
 #### Inherited from
 
 [MockAI](ue_ue.MockAI.md).[PawnActionComp](ue_ue.MockAI.md#pawnactioncomp)
-
-#### Defined in
-
-[ue/ue.d.ts:50746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50746)
 
 ___
 
@@ -123,19 +103,11 @@ ___
 
 [MockAI](ue_ue.MockAI.md).[PerceptionComp](ue_ue.MockAI.md#perceptioncomp)
 
-#### Defined in
-
-[ue/ue.d.ts:50745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50745)
-
 ___
 
 ### \_\_tid\_MockAI\_BT\_\_
 
 • **\_\_tid\_MockAI\_BT\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50761](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50761)
 
 ___
 
@@ -147,10 +119,6 @@ ___
 
 [MockAI](ue_ue.MockAI.md).[__tid_MockAI__](ue_ue.MockAI.md#__tid_mockai__)
 
-#### Defined in
-
-[ue/ue.d.ts:50751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50751)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -160,10 +128,6 @@ ___
 #### Inherited from
 
 [MockAI](ue_ue.MockAI.md).[__tid_Object__](ue_ue.MockAI.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -189,10 +153,6 @@ ___
 
 [MockAI](ue_ue.MockAI.md).[CreateDefaultSubobject](ue_ue.MockAI.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -213,10 +173,6 @@ ___
 
 [MockAI](ue_ue.MockAI.md).[ExecuteUbergraph](ue_ue.MockAI.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -230,10 +186,6 @@ ___
 #### Inherited from
 
 [MockAI](ue_ue.MockAI.md).[GetClass](ue_ue.MockAI.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -249,10 +201,6 @@ ___
 
 [MockAI](ue_ue.MockAI.md).[GetName](ue_ue.MockAI.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -267,10 +215,6 @@ ___
 
 [MockAI](ue_ue.MockAI.md).[GetOuter](ue_ue.MockAI.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -284,10 +228,6 @@ ___
 #### Inherited from
 
 [MockAI](ue_ue.MockAI.md).[GetWorld](ue_ue.MockAI.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -310,10 +250,6 @@ ___
 
 [MockAI](ue_ue.MockAI.md).[Find](ue_ue.MockAI.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:50758](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50758)
-
 ___
 
 ### Load
@@ -334,10 +270,6 @@ ___
 
 [MockAI](ue_ue.MockAI.md).[Load](ue_ue.MockAI.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:50759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50759)
-
 ___
 
 ### StaticClass
@@ -351,7 +283,3 @@ ___
 #### Overrides
 
 [MockAI](ue_ue.MockAI.md).[StaticClass](ue_ue.MockAI.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:50757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50757)

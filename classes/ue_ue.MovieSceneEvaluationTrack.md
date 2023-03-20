@@ -37,10 +37,6 @@
 
 • **new MovieSceneEvaluationTrack**()
 
-#### Defined in
-
-[ue/ue.d.ts:11152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11152)
-
 • **new MovieSceneEvaluationTrack**(`ObjectBindingID`, `EvaluationPriority`, `EvaluationMethod`, `Segments`, `SourceTrack`, `EvaluationTree`, `ChildTemplates`, `TrackTemplate`, `EvaluationGroup`, `bEvaluateInPreroll`, `bEvaluateInPostroll`, `bTearDownPriority`)
 
 #### Parameters
@@ -60,19 +56,11 @@
 | `bEvaluateInPostroll` | `boolean` |
 | `bTearDownPriority` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:11153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11153)
-
 ## Properties
 
 ### ChildTemplates
 
 • **ChildTemplates**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MovieSceneEvalTemplatePtr`](ue_ue.MovieSceneEvalTemplatePtr.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:11160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11160)
 
 ___
 
@@ -80,19 +68,11 @@ ___
 
 • **EvaluationGroup**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:11162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11162)
-
 ___
 
 ### EvaluationMethod
 
 • **EvaluationMethod**: [`EEvaluationMethod`](../enums/ue_ue.EEvaluationMethod.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11156)
 
 ___
 
@@ -100,19 +80,11 @@ ___
 
 • **EvaluationPriority**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11155)
-
 ___
 
 ### EvaluationTree
 
 • **EvaluationTree**: [`SectionEvaluationDataTree`](ue_ue.SectionEvaluationDataTree.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11159)
 
 ___
 
@@ -120,19 +92,11 @@ ___
 
 • **ObjectBindingID**: [`Guid`](ue_ue_s.Guid.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11154)
-
 ___
 
 ### Segments
 
 • **Segments**: [`MovieSceneEvaluationTrackSegments`](ue_ue.MovieSceneEvaluationTrackSegments.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11157)
 
 ___
 
@@ -140,19 +104,11 @@ ___
 
 • **SourceTrack**: [`MovieSceneTrack`](ue_ue.MovieSceneTrack.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11158)
-
 ___
 
 ### TrackTemplate
 
 • **TrackTemplate**: [`MovieSceneTrackImplementationPtr`](ue_ue.MovieSceneTrackImplementationPtr.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11161)
 
 ___
 
@@ -160,19 +116,11 @@ ___
 
 • `Private` **\_\_tid\_MovieSceneEvaluationTrack\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:11171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11171)
-
 ___
 
 ### bEvaluateInPostroll
 
 • **bEvaluateInPostroll**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11164)
 
 ___
 
@@ -180,19 +128,11 @@ ___
 
 • **bEvaluateInPreroll**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:11163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11163)
-
 ___
 
 ### bTearDownPriority
 
 • **bTearDownPriority**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11165)
 
 ## Methods
 
@@ -208,10 +148,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11169)
-
 ___
 
 ### StaticStruct
@@ -221,7 +157,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11170)

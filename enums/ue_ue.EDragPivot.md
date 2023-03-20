@@ -27,19 +27,11 @@
 
 • **BottomCenter** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12027)
-
 ___
 
 ### BottomLeft
 
 • **BottomLeft** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12027)
 
 ___
 
@@ -47,19 +39,11 @@ ___
 
 • **BottomRight** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12027)
-
 ___
 
 ### CenterCenter
 
 • **CenterCenter** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12027)
 
 ___
 
@@ -67,19 +51,11 @@ ___
 
 • **CenterLeft** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12027)
-
 ___
 
 ### CenterRight
 
 • **CenterRight** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12027)
 
 ___
 
@@ -87,19 +63,11 @@ ___
 
 • **EDragPivot\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12027)
-
 ___
 
 ### MouseDown
 
 • **MouseDown** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12027)
 
 ___
 
@@ -107,19 +75,11 @@ ___
 
 • **TopCenter** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12027)
-
 ___
 
 ### TopLeft
 
 • **TopLeft** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12027)
 
 ___
 
@@ -127,16 +87,8 @@ ___
 
 • **TopRight** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12027)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12027)

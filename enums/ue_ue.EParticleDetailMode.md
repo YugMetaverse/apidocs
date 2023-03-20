@@ -20,19 +20,11 @@
 
 • **PDM\_High** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34662)
-
 ___
 
 ### PDM\_Low
 
 • **PDM\_Low** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34662)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **PDM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34662)
-
 ___
 
 ### PDM\_Medium
 
 • **PDM\_Medium** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34662)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34662)

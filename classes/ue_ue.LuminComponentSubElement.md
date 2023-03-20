@@ -27,10 +27,6 @@
 
 • **new LuminComponentSubElement**()
 
-#### Defined in
-
-[ue/ue.d.ts:46474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46474)
-
 • **new LuminComponentSubElement**(`ElementType`, `Value`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `ElementType` | [`ELuminComponentSubElementType`](../enums/ue_ue.ELuminComponentSubElementType.md) |
 | `Value` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:46475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46475)
-
 ## Properties
 
 ### ElementType
 
 • **ElementType**: [`ELuminComponentSubElementType`](../enums/ue_ue.ELuminComponentSubElementType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46476)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Value**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:46477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46477)
-
 ___
 
 ### \_\_tid\_LuminComponentSubElement\_\_
 
 • `Private` **\_\_tid\_LuminComponentSubElement\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46483)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46481)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46482)

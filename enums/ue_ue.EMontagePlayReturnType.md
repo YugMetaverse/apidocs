@@ -19,19 +19,11 @@
 
 • **Duration** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5073)
-
 ___
 
 ### EMontagePlayReturnType\_MAX
 
 • **EMontagePlayReturnType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5073)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **MontageLength** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5073)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5073)

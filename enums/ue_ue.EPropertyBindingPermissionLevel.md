@@ -21,19 +21,11 @@
 
 • **Allow** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34691)
-
 ___
 
 ### EPropertyBindingPermissionLevel\_MAX
 
 • **EPropertyBindingPermissionLevel\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34691)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Prevent** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34691)
-
 ___
 
 ### PreventAndError
 
 • **PreventAndError** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34691)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **PreventAndWarn** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34691)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34691)

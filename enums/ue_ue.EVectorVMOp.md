@@ -107,19 +107,11 @@
 
 • **EVectorVMOp\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### NumOpcodes
 
 • **NumOpcodes** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -127,19 +119,11 @@ ___
 
 • **\_\_typeKeyDoNoAccess** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### abs
 
 • **abs** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -147,19 +131,11 @@ ___
 
 • **absi** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### acos
 
 • **acos** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -167,19 +143,11 @@ ___
 
 • **acquire\_id** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### acquireindex
 
 • **acquireindex** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -187,19 +155,11 @@ ___
 
 • **add** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### addi
 
 • **addi** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -207,19 +167,11 @@ ___
 
 • **asin** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### atan
 
 • **atan** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -227,19 +179,11 @@ ___
 
 • **atan2** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### b2f
 
 • **b2f** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -247,19 +191,11 @@ ___
 
 • **b2i** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### bit\_and
 
 • **bit\_and** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -267,19 +203,11 @@ ___
 
 • **bit\_lshift** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### bit\_not
 
 • **bit\_not** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -287,19 +215,11 @@ ___
 
 • **bit\_or** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### bit\_rshift
 
 • **bit\_rshift** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -307,19 +227,11 @@ ___
 
 • **bit\_xor** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### ceil
 
 • **ceil** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -327,19 +239,11 @@ ___
 
 • **clamp** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### clampi
 
 • **clampi** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -347,19 +251,11 @@ ___
 
 • **cmpeq** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### cmpeqi
 
 • **cmpeqi** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -367,19 +263,11 @@ ___
 
 • **cmpge** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### cmpgei
 
 • **cmpgei** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -387,19 +275,11 @@ ___
 
 • **cmpgt** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### cmpgti
 
 • **cmpgti** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -407,19 +287,11 @@ ___
 
 • **cmple** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### cmplei
 
 • **cmplei** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -427,19 +299,11 @@ ___
 
 • **cmplt** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### cmplti
 
 • **cmplti** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -447,19 +311,11 @@ ___
 
 • **cmpneq** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### cmpneqi
 
 • **cmpneqi** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -467,19 +323,11 @@ ___
 
 • **cos** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### div
 
 • **div** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -487,19 +335,11 @@ ___
 
 • **divi** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### done
 
 • **done** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -507,19 +347,11 @@ ___
 
 • **enter\_stat\_scope** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### exec\_index
 
 • **exec\_index** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -527,19 +359,11 @@ ___
 
 • **exit\_stat\_scope** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### exp
 
 • **exp** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -547,19 +371,11 @@ ___
 
 • **exp2** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### external\_func\_call
 
 • **external\_func\_call** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -567,19 +383,11 @@ ___
 
 • **f2b** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### f2i
 
 • **f2i** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -587,19 +395,11 @@ ___
 
 • **floor** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### fmod
 
 • **fmod** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -607,19 +407,11 @@ ___
 
 • **frac** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### i2b
 
 • **i2b** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -627,19 +419,11 @@ ___
 
 • **i2f** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### inputdata\_32bit
 
 • **inputdata\_32bit** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -647,19 +431,11 @@ ___
 
 • **inputdata\_noadvance\_32bit** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### lerp
 
 • **lerp** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -667,19 +443,11 @@ ___
 
 • **log** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### log2
 
 • **log2** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -687,19 +455,11 @@ ___
 
 • **logic\_and** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### logic\_not
 
 • **logic\_not** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -707,19 +467,11 @@ ___
 
 • **logic\_or** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### logic\_xor
 
 • **logic\_xor** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -727,19 +479,11 @@ ___
 
 • **mad** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### max
 
 • **max** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -747,19 +491,11 @@ ___
 
 • **maxi** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### min
 
 • **min** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -767,19 +503,11 @@ ___
 
 • **mini** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### mul
 
 • **mul** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -787,19 +515,11 @@ ___
 
 • **muli** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### neg
 
 • **neg** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -807,19 +527,11 @@ ___
 
 • **negi** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### noise
 
 • **noise** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -827,19 +539,11 @@ ___
 
 • **noise2D** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### noise3D
 
 • **noise3D** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -847,19 +551,11 @@ ___
 
 • **outputdata\_32bit** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### pow
 
 • **pow** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -867,19 +563,11 @@ ___
 
 • **random** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### randomi
 
 • **randomi** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -887,19 +575,11 @@ ___
 
 • **rcp** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### round
 
 • **round** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -907,19 +587,11 @@ ___
 
 • **rsq** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### select
 
 • **select** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -927,19 +599,11 @@ ___
 
 • **sign** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### signi
 
 • **signi** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -947,19 +611,11 @@ ___
 
 • **sin** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### sqrt
 
 • **sqrt** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -967,19 +623,11 @@ ___
 
 • **step** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### sub
 
 • **sub** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -987,19 +635,11 @@ ___
 
 • **subi** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### tan
 
 • **tan** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
 
 ___
 
@@ -1007,16 +647,8 @@ ___
 
 • **trunc** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)
-
 ___
 
 ### update\_id
 
 • **update\_id** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34866)

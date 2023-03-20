@@ -22,19 +22,11 @@
 
 • **FOLIAGEVERTEXCOLORMASK\_Alpha** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35902)
-
 ___
 
 ### FOLIAGEVERTEXCOLORMASK\_Blue
 
 • **FOLIAGEVERTEXCOLORMASK\_Blue** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35902)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **FOLIAGEVERTEXCOLORMASK\_Disabled** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35902)
-
 ___
 
 ### FOLIAGEVERTEXCOLORMASK\_Green
 
 • **FOLIAGEVERTEXCOLORMASK\_Green** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35902)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **FOLIAGEVERTEXCOLORMASK\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35902)
-
 ___
 
 ### FOLIAGEVERTEXCOLORMASK\_Red
 
 • **FOLIAGEVERTEXCOLORMASK\_Red** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35902)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35902)

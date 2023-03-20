@@ -29,10 +29,6 @@
 
 • **new AnimPhysSphericalLimit**()
 
-#### Defined in
-
-[ue/ue.d.ts:17764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17764)
-
 • **new AnimPhysSphericalLimit**(`DrivingBone`, `SphereLocalOffset`, `LimitRadius`, `LimitType`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `LimitRadius` | `number` |
 | `LimitType` | [`ESphericalLimitType`](../enums/ue_ue.ESphericalLimitType.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:17765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17765)
-
 ## Properties
 
 ### DrivingBone
 
 • **DrivingBone**: [`BoneReference`](ue_ue.BoneReference.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17766)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **LimitRadius**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17768)
-
 ___
 
 ### LimitType
 
 • **LimitType**: [`ESphericalLimitType`](../enums/ue_ue.ESphericalLimitType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17769)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **SphereLocalOffset**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17767)
-
 ___
 
 ### \_\_tid\_AnimPhysSphericalLimit\_\_
 
 • `Private` **\_\_tid\_AnimPhysSphericalLimit\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17775)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:17773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17773)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:17774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17774)

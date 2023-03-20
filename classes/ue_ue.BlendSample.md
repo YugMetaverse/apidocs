@@ -30,10 +30,6 @@
 
 • **new BlendSample**()
 
-#### Defined in
-
-[ue/ue.d.ts:15188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15188)
-
 • **new BlendSample**(`Animation`, `SampleValue`, `RateScale`, `bSnapToGrid`, `bIsValid`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `bSnapToGrid` | `boolean` |
 | `bIsValid` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:15189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15189)
-
 ## Properties
 
 ### Animation
 
 • **Animation**: [`AnimSequence`](ue_ue.AnimSequence.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15190)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **RateScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15192)
-
 ___
 
 ### SampleValue
 
 • **SampleValue**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15191)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • `Private` **\_\_tid\_BlendSample\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:15200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15200)
-
 ___
 
 ### bIsValid
 
 • **bIsValid**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:15194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15194)
-
 ___
 
 ### bSnapToGrid
 
 • **bSnapToGrid**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15193)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:15198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15198)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15199)

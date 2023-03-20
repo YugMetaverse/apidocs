@@ -20,19 +20,11 @@
 
 • **Both** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33891)
-
 ___
 
 ### EGraphPanningMouseButton\_MAX
 
 • **EGraphPanningMouseButton\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33891)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Middle** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33891)
-
 ___
 
 ### Right
 
 • **Right** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33891)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33891)

@@ -23,19 +23,11 @@
 
 • **EPET\_Any** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6942)
-
 ___
 
 ### EPET\_Blueprint
 
 • **EPET\_Blueprint** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6942)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **EPET\_Burst** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6942)
-
 ___
 
 ### EPET\_Collision
 
 • **EPET\_Collision** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6942)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **EPET\_Death** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6942)
-
 ___
 
 ### EPET\_MAX
 
 • **EPET\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6942)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **EPET\_Spawn** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6942)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6942)

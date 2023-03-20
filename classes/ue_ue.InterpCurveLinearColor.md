@@ -28,10 +28,6 @@
 
 • **new InterpCurveLinearColor**()
 
-#### Defined in
-
-[ue/ue.d.ts:40225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40225)
-
 • **new InterpCurveLinearColor**(`Points`, `bIsLooped`, `LoopKeyOffset`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `bIsLooped` | `boolean` |
 | `LoopKeyOffset` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:40226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40226)
-
 ## Properties
 
 ### LoopKeyOffset
 
 • **LoopKeyOffset**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:40229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40229)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Points**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`InterpCurvePointLinearColor`](ue_ue.InterpCurvePointLinearColor.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:40227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40227)
-
 ___
 
 ### \_\_tid\_InterpCurveLinearColor\_\_
 
 • `Private` **\_\_tid\_InterpCurveLinearColor\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:40235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40235)
-
 ___
 
 ### bIsLooped
 
 • **bIsLooped**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40228)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:40233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40233)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:40234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40234)

@@ -55,19 +55,11 @@
 
 [EditableMeshAdapter](ue_ue.EditableMeshAdapter.md).[constructor](ue_ue.EditableMeshAdapter.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:31593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31593)
-
 ## Properties
 
 ### GeometryCollection
 
 • **GeometryCollection**: [`GeometryCollection`](ue_ue.GeometryCollection.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31594)
 
 ___
 
@@ -75,29 +67,17 @@ ___
 
 • **GeometryCollectionLODIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31596)
-
 ___
 
 ### OriginalGeometryCollection
 
 • **OriginalGeometryCollection**: [`GeometryCollection`](ue_ue.GeometryCollection.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31595)
-
 ___
 
 ### \_\_tid\_EditableGeometryCollectionAdapter\_\_
 
 • **\_\_tid\_EditableGeometryCollectionAdapter\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31601)
 
 ___
 
@@ -109,10 +89,6 @@ ___
 
 [EditableMeshAdapter](ue_ue.EditableMeshAdapter.md).[__tid_EditableMeshAdapter__](ue_ue.EditableMeshAdapter.md#__tid_editablemeshadapter__)
 
-#### Defined in
-
-[ue/ue.d.ts:31589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31589)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -122,10 +98,6 @@ ___
 #### Inherited from
 
 [EditableMeshAdapter](ue_ue.EditableMeshAdapter.md).[__tid_Object__](ue_ue.EditableMeshAdapter.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -151,10 +123,6 @@ ___
 
 [EditableMeshAdapter](ue_ue.EditableMeshAdapter.md).[CreateDefaultSubobject](ue_ue.EditableMeshAdapter.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -175,10 +143,6 @@ ___
 
 [EditableMeshAdapter](ue_ue.EditableMeshAdapter.md).[ExecuteUbergraph](ue_ue.EditableMeshAdapter.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -192,10 +156,6 @@ ___
 #### Inherited from
 
 [EditableMeshAdapter](ue_ue.EditableMeshAdapter.md).[GetClass](ue_ue.EditableMeshAdapter.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -211,10 +171,6 @@ ___
 
 [EditableMeshAdapter](ue_ue.EditableMeshAdapter.md).[GetName](ue_ue.EditableMeshAdapter.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -229,10 +185,6 @@ ___
 
 [EditableMeshAdapter](ue_ue.EditableMeshAdapter.md).[GetOuter](ue_ue.EditableMeshAdapter.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -246,10 +198,6 @@ ___
 #### Inherited from
 
 [EditableMeshAdapter](ue_ue.EditableMeshAdapter.md).[GetWorld](ue_ue.EditableMeshAdapter.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -272,10 +220,6 @@ ___
 
 [EditableMeshAdapter](ue_ue.EditableMeshAdapter.md).[Find](ue_ue.EditableMeshAdapter.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:31598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31598)
-
 ___
 
 ### Load
@@ -296,10 +240,6 @@ ___
 
 [EditableMeshAdapter](ue_ue.EditableMeshAdapter.md).[Load](ue_ue.EditableMeshAdapter.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:31599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31599)
-
 ___
 
 ### StaticClass
@@ -313,7 +253,3 @@ ___
 #### Overrides
 
 [EditableMeshAdapter](ue_ue.EditableMeshAdapter.md).[StaticClass](ue_ue.EditableMeshAdapter.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:31597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31597)

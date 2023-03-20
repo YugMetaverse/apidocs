@@ -20,19 +20,11 @@
 
 • **EDatasmithImportHierarchy\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31429)
-
 ___
 
 ### UseMultipleActors
 
 • **UseMultipleActors** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31429)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **UseOneBlueprint** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31429)
-
 ___
 
 ### UseSingleActor
 
 • **UseSingleActor** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31429)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31429)

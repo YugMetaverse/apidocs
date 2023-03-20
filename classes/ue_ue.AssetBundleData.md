@@ -26,10 +26,6 @@
 
 • **new AssetBundleData**()
 
-#### Defined in
-
-[ue/ue.d.ts:58358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58358)
-
 • **new AssetBundleData**(`Bundles`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Bundles` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AssetBundleEntry`](ue_ue.AssetBundleEntry.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:58359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58359)
-
 ## Properties
 
 ### Bundles
 
 • **Bundles**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AssetBundleEntry`](ue_ue.AssetBundleEntry.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:58360](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58360)
-
 ___
 
 ### \_\_tid\_AssetBundleData\_\_
 
 • `Private` **\_\_tid\_AssetBundleData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58366)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:58364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58364)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:58365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58365)

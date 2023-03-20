@@ -28,10 +28,6 @@
 
 • **new GeomSelection**()
 
-#### Defined in
-
-[ue/ue.d.ts:12808](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12808)
-
 • **new GeomSelection**(`Type`, `Index`, `SelectionIndex`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Index` | `number` |
 | `SelectionIndex` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:12809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12809)
-
 ## Properties
 
 ### Index
 
 • **Index**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12811)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **SelectionIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12812](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12812)
-
 ___
 
 ### Type
 
 • **Type**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12810)
-
 ___
 
 ### \_\_tid\_GeomSelection\_\_
 
 • `Private` **\_\_tid\_GeomSelection\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:12818](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12818)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:12816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12816)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:12817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12817)

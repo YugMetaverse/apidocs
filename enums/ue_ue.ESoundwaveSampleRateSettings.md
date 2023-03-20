@@ -23,19 +23,11 @@
 
 • **ESoundwaveSampleRateSettings\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9485)
-
 ___
 
 ### High
 
 • **High** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9485)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **Low** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9485)
-
 ___
 
 ### MatchDevice
 
 • **MatchDevice** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9485)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **Max** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9485)
-
 ___
 
 ### Medium
 
 • **Medium** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9485)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **Min** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9485)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9485)

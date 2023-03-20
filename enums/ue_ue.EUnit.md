@@ -67,19 +67,11 @@
 
 • **Bytes** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
-
 ___
 
 ### Celsius
 
 • **Celsius** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
 
 ___
 
@@ -87,19 +79,11 @@ ___
 
 • **Centimeters** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
-
 ___
 
 ### Days
 
 • **Days** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
 
 ___
 
@@ -107,19 +91,11 @@ ___
 
 • **Degrees** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
-
 ___
 
 ### EUnit\_MAX
 
 • **EUnit\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
 
 ___
 
@@ -127,19 +103,11 @@ ___
 
 • **Farenheit** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
-
 ___
 
 ### Feet
 
 • **Feet** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
 
 ___
 
@@ -147,19 +115,11 @@ ___
 
 • **Gigabytes** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
-
 ___
 
 ### Gigahertz
 
 • **Gigahertz** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
 
 ___
 
@@ -167,19 +127,11 @@ ___
 
 • **Grams** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
-
 ___
 
 ### Hertz
 
 • **Hertz** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
 
 ___
 
@@ -187,19 +139,11 @@ ___
 
 • **Hours** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
-
 ___
 
 ### Inches
 
 • **Inches** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
 
 ___
 
@@ -207,19 +151,11 @@ ___
 
 • **Kelvin** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
-
 ___
 
 ### Kilobytes
 
 • **Kilobytes** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
 
 ___
 
@@ -227,19 +163,11 @@ ___
 
 • **Kilograms** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
-
 ___
 
 ### KilogramsForce
 
 • **KilogramsForce** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
 
 ___
 
@@ -247,19 +175,11 @@ ___
 
 • **Kilohertz** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
-
 ___
 
 ### Kilometers
 
 • **Kilometers** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
 
 ___
 
@@ -267,19 +187,11 @@ ___
 
 • **KilometersPerHour** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
-
 ___
 
 ### Lightyears
 
 • **Lightyears** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
 
 ___
 
@@ -287,19 +199,11 @@ ___
 
 • **Lumens** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
-
 ___
 
 ### Megabytes
 
 • **Megabytes** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
 
 ___
 
@@ -307,19 +211,11 @@ ___
 
 • **Megahertz** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
-
 ___
 
 ### Meters
 
 • **Meters** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
 
 ___
 
@@ -327,19 +223,11 @@ ___
 
 • **MetersPerSecond** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
-
 ___
 
 ### MetricTons
 
 • **MetricTons** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
 
 ___
 
@@ -347,19 +235,11 @@ ___
 
 • **Micrograms** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
-
 ___
 
 ### Micrometers
 
 • **Micrometers** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
 
 ___
 
@@ -367,19 +247,11 @@ ___
 
 • **Miles** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
-
 ___
 
 ### MilesPerHour
 
 • **MilesPerHour** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
 
 ___
 
@@ -387,19 +259,11 @@ ___
 
 • **Milligrams** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
-
 ___
 
 ### Millimeters
 
 • **Millimeters** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
 
 ___
 
@@ -407,19 +271,11 @@ ___
 
 • **Milliseconds** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
-
 ___
 
 ### Minutes
 
 • **Minutes** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
 
 ___
 
@@ -427,19 +283,11 @@ ___
 
 • **Months** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
-
 ___
 
 ### Multiplier
 
 • **Multiplier** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
 
 ___
 
@@ -447,19 +295,11 @@ ___
 
 • **Newtons** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
-
 ___
 
 ### Ounces
 
 • **Ounces** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
 
 ___
 
@@ -467,19 +307,11 @@ ___
 
 • **Percentage** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
-
 ___
 
 ### Pounds
 
 • **Pounds** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
 
 ___
 
@@ -487,19 +319,11 @@ ___
 
 • **PoundsForce** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
-
 ___
 
 ### Radians
 
 • **Radians** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
 
 ___
 
@@ -507,19 +331,11 @@ ___
 
 • **RevolutionsPerMinute** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
-
 ___
 
 ### Seconds
 
 • **Seconds** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
 
 ___
 
@@ -527,19 +343,11 @@ ___
 
 • **Stones** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
-
 ___
 
 ### Terabytes
 
 • **Terabytes** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
 
 ___
 
@@ -547,19 +355,11 @@ ___
 
 • **Unspecified** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
-
 ___
 
 ### Yards
 
 • **Yards** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
 
 ___
 
@@ -567,16 +367,8 @@ ___
 
 • **Years** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33236)

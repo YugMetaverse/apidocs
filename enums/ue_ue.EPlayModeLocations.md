@@ -19,19 +19,11 @@
 
 • **PlayLocation\_CurrentCameraLocation** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34678)
-
 ___
 
 ### PlayLocation\_DefaultPlayerStart
 
 • **PlayLocation\_DefaultPlayerStart** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34678)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **PlayLocation\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34678)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34678)

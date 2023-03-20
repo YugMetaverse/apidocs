@@ -27,10 +27,6 @@
 
 • **new CultureStatistics**()
 
-#### Defined in
-
-[ue/ue.d.ts:46160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46160)
-
 • **new CultureStatistics**(`CultureName`, `WordCount`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `CultureName` | `string` |
 | `WordCount` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:46161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46161)
-
 ## Properties
 
 ### CultureName
 
 • **CultureName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:46162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46162)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **WordCount**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:46163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46163)
-
 ___
 
 ### \_\_tid\_CultureStatistics\_\_
 
 • `Private` **\_\_tid\_CultureStatistics\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46169)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46167)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46168)

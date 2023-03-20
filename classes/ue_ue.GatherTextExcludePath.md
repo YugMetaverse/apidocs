@@ -27,10 +27,6 @@
 
 • **new GatherTextExcludePath**()
 
-#### Defined in
-
-[ue/ue.d.ts:45992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45992)
-
 • **new GatherTextExcludePath**(`PathRoot`, `Pattern`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `PathRoot` | [`ELocalizationGatherPathRoot`](../enums/ue_ue.ELocalizationGatherPathRoot.md) |
 | `Pattern` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:45993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45993)
-
 ## Properties
 
 ### PathRoot
 
 • **PathRoot**: [`ELocalizationGatherPathRoot`](../enums/ue_ue.ELocalizationGatherPathRoot.md)
-
-#### Defined in
-
-[ue/ue.d.ts:45994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45994)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Pattern**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:45995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45995)
-
 ___
 
 ### \_\_tid\_GatherTextExcludePath\_\_
 
 • `Private` **\_\_tid\_GatherTextExcludePath\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46001)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:45999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45999)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46000)

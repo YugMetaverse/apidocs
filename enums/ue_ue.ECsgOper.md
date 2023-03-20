@@ -23,19 +23,11 @@
 
 • **CSG\_Active** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31423)
-
 ___
 
 ### CSG\_Add
 
 • **CSG\_Add** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31423)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **CSG\_Deintersect** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31423)
-
 ___
 
 ### CSG\_Intersect
 
 • **CSG\_Intersect** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31423)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **CSG\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31423)
-
 ___
 
 ### CSG\_None
 
 • **CSG\_None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31423)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **CSG\_Subtract** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31423)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31423)

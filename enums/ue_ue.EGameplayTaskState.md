@@ -22,19 +22,11 @@
 
 • **Active** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33883)
-
 ___
 
 ### AwaitingActivation
 
 • **AwaitingActivation** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33883)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **EGameplayTaskState\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33883)
-
 ___
 
 ### Finished
 
 • **Finished** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33883)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **Paused** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33883)
-
 ___
 
 ### Uninitialized
 
 • **Uninitialized** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33883)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33883)

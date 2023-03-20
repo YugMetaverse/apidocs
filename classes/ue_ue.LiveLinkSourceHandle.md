@@ -25,19 +25,11 @@
 
 • **new LiveLinkSourceHandle**()
 
-#### Defined in
-
-[ue/ue.d.ts:46699](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46699)
-
 ## Properties
 
 ### \_\_tid\_LiveLinkSourceHandle\_\_
 
 • `Private` **\_\_tid\_LiveLinkSourceHandle\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46705)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46703)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46704)

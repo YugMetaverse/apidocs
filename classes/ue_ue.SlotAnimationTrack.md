@@ -27,10 +27,6 @@
 
 • **new SlotAnimationTrack**()
 
-#### Defined in
-
-[ue/ue.d.ts:2885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2885)
-
 • **new SlotAnimationTrack**(`SlotName`, `AnimTrack`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `SlotName` | `string` |
 | `AnimTrack` | [`AnimTrack`](ue_ue.AnimTrack.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:2886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2886)
-
 ## Properties
 
 ### AnimTrack
 
 • **AnimTrack**: [`AnimTrack`](ue_ue.AnimTrack.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2888)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **SlotName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:2887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2887)
-
 ___
 
 ### \_\_tid\_SlotAnimationTrack\_\_
 
 • `Private` **\_\_tid\_SlotAnimationTrack\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2894)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2892)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2893)

@@ -60,10 +60,6 @@
 
 [AISubsystem](ue_ue.AISubsystem.md).[constructor](ue_ue.AISubsystem.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:15733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15733)
-
 ## Properties
 
 ### AISystem
@@ -74,19 +70,11 @@
 
 [AISubsystem](ue_ue.AISubsystem.md).[AISystem](ue_ue.AISubsystem.md#aisystem)
 
-#### Defined in
-
-[ue/ue.d.ts:15700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15700)
-
 ___
 
 ### PerceptionAgingRate
 
 • **PerceptionAgingRate**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15735)
 
 ___
 
@@ -94,19 +82,11 @@ ___
 
 • **Senses**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AISense`](ue_ue.AISense.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:15734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15734)
-
 ___
 
 ### \_\_tid\_AIPerceptionSystem\_\_
 
 • **\_\_tid\_AIPerceptionSystem\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15745)
 
 ___
 
@@ -118,10 +98,6 @@ ___
 
 [AISubsystem](ue_ue.AISubsystem.md).[__tid_AISubsystem__](ue_ue.AISubsystem.md#__tid_aisubsystem__)
 
-#### Defined in
-
-[ue/ue.d.ts:15705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15705)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -131,10 +107,6 @@ ___
 #### Inherited from
 
 [AISubsystem](ue_ue.AISubsystem.md).[__tid_Object__](ue_ue.AISubsystem.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -160,10 +132,6 @@ ___
 
 [AISubsystem](ue_ue.AISubsystem.md).[CreateDefaultSubobject](ue_ue.AISubsystem.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -184,10 +152,6 @@ ___
 
 [AISubsystem](ue_ue.AISubsystem.md).[ExecuteUbergraph](ue_ue.AISubsystem.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -201,10 +165,6 @@ ___
 #### Inherited from
 
 [AISubsystem](ue_ue.AISubsystem.md).[GetClass](ue_ue.AISubsystem.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -220,10 +180,6 @@ ___
 
 [AISubsystem](ue_ue.AISubsystem.md).[GetName](ue_ue.AISubsystem.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -238,10 +194,6 @@ ___
 
 [AISubsystem](ue_ue.AISubsystem.md).[GetOuter](ue_ue.AISubsystem.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -255,10 +207,6 @@ ___
 #### Inherited from
 
 [AISubsystem](ue_ue.AISubsystem.md).[GetWorld](ue_ue.AISubsystem.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -277,10 +225,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:15736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15736)
-
 ___
 
 ### ReportEvent
@@ -296,10 +240,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:15737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15737)
 
 ___
 
@@ -322,10 +262,6 @@ ___
 
 [AISubsystem](ue_ue.AISubsystem.md).[Find](ue_ue.AISubsystem.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:15742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15742)
-
 ___
 
 ### GetSenseClassForStimulus
@@ -342,10 +278,6 @@ ___
 #### Returns
 
 [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:15738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15738)
 
 ___
 
@@ -367,10 +299,6 @@ ___
 
 [AISubsystem](ue_ue.AISubsystem.md).[Load](ue_ue.AISubsystem.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:15743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15743)
-
 ___
 
 ### RegisterPerceptionStimuliSource
@@ -389,10 +317,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:15739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15739)
-
 ___
 
 ### ReportPerceptionEvent
@@ -410,10 +334,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:15740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15740)
-
 ___
 
 ### StaticClass
@@ -427,7 +347,3 @@ ___
 #### Overrides
 
 [AISubsystem](ue_ue.AISubsystem.md).[StaticClass](ue_ue.AISubsystem.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15741)

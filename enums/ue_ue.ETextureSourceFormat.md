@@ -26,19 +26,11 @@
 
 • **TSF\_BGRA8** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L404)
-
 ___
 
 ### TSF\_BGRE8
 
 • **TSF\_BGRE8** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L404)
 
 ___
 
@@ -46,19 +38,11 @@ ___
 
 • **TSF\_G16** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L404)
-
 ___
 
 ### TSF\_G8
 
 • **TSF\_G8** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L404)
 
 ___
 
@@ -66,19 +50,11 @@ ___
 
 • **TSF\_Invalid** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L404)
-
 ___
 
 ### TSF\_MAX
 
 • **TSF\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L404)
 
 ___
 
@@ -86,19 +62,11 @@ ___
 
 • **TSF\_RGBA16** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L404)
-
 ___
 
 ### TSF\_RGBA16F
 
 • **TSF\_RGBA16F** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L404)
 
 ___
 
@@ -106,26 +74,14 @@ ___
 
 • **TSF\_RGBA8** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L404)
-
 ___
 
 ### TSF\_RGBE8
 
 • **TSF\_RGBE8** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L404)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L404)

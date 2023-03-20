@@ -21,19 +21,11 @@
 
 • **AnimPhysCollisionType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17791)
-
 ___
 
 ### CoM
 
 • **CoM** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17791)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **CustomSphere** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17791)
-
 ___
 
 ### InnerSphere
 
 • **InnerSphere** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17791)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **OuterSphere** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:17791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17791)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:17791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17791)

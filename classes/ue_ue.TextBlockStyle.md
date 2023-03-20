@@ -44,10 +44,6 @@
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[constructor](ue_ue.SlateWidgetStyle.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:39243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39243)
-
 • **new TextBlockStyle**(`Font`, `ColorAndOpacity`, `ShadowOffset`, `ShadowColorAndOpacity`, `SelectedBackgroundColor`, `HighlightColor`, `HighlightShape`, `StrikeBrush`, `UnderlineBrush`)
 
 #### Parameters
@@ -68,19 +64,11 @@
 
 UE.SlateWidgetStyle.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:39244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39244)
-
 ## Properties
 
 ### ColorAndOpacity
 
 • **ColorAndOpacity**: [`SlateColor`](ue_ue.SlateColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:39246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39246)
 
 ___
 
@@ -88,19 +76,11 @@ ___
 
 • **Font**: [`SlateFontInfo`](ue_ue.SlateFontInfo.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39245)
-
 ___
 
 ### HighlightColor
 
 • **HighlightColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:39250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39250)
 
 ___
 
@@ -108,19 +88,11 @@ ___
 
 • **HighlightShape**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39251)
-
 ___
 
 ### SelectedBackgroundColor
 
 • **SelectedBackgroundColor**: [`SlateColor`](ue_ue.SlateColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:39249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39249)
 
 ___
 
@@ -128,19 +100,11 @@ ___
 
 • **ShadowColorAndOpacity**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39248)
-
 ___
 
 ### ShadowOffset
 
 • **ShadowOffset**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:39247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39247)
 
 ___
 
@@ -148,29 +112,17 @@ ___
 
 • **StrikeBrush**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39252)
-
 ___
 
 ### UnderlineBrush
 
 • **UnderlineBrush**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:39253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39253)
-
 ___
 
 ### \_\_tid\_TextBlockStyle\_\_
 
 • `Private` **\_\_tid\_TextBlockStyle\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:39259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39259)
 
 ## Methods
 
@@ -190,10 +142,6 @@ use StaticStruct instead.
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[StaticClass](ue_ue.SlateWidgetStyle.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:39257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39257)
-
 ___
 
 ### StaticStruct
@@ -207,7 +155,3 @@ ___
 #### Overrides
 
 [SlateWidgetStyle](ue_ue.SlateWidgetStyle.md).[StaticStruct](ue_ue.SlateWidgetStyle.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:39258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39258)

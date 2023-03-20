@@ -27,10 +27,6 @@
 
 • **new CustomProfile**()
 
-#### Defined in
-
-[ue/ue.d.ts:28148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28148)
-
 • **new CustomProfile**(`Name`, `CustomResponses`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Name` | `string` |
 | `CustomResponses` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ResponseChannel`](ue_ue.ResponseChannel.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:28149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28149)
-
 ## Properties
 
 ### CustomResponses
 
 • **CustomResponses**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ResponseChannel`](ue_ue.ResponseChannel.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:28151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28151)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:28150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28150)
-
 ___
 
 ### \_\_tid\_CustomProfile\_\_
 
 • `Private` **\_\_tid\_CustomProfile\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:28157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28157)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:28155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28155)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:28156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28156)

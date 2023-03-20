@@ -19,19 +19,11 @@
 
 • **Chaos\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31401)
-
 ___
 
 ### Chaos\_Max
 
 • **Chaos\_Max** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31401)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Chaos\_Traansform** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31401)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31401)

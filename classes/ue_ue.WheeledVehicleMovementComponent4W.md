@@ -236,19 +236,11 @@
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[constructor](ue_ue.WheeledVehicleMovementComponent.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:66103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66103)
-
 ## Properties
 
 ### AckermannAccuracy
 
 • **AckermannAccuracy**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:66106](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66106)
 
 ___
 
@@ -260,10 +252,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[AssetUserData](ue_ue.WheeledVehicleMovementComponent.md#assetuserdata)
 
-#### Defined in
-
-[ue/ue.d.ts:291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L291)
-
 ___
 
 ### AvoidanceConsiderationRadius
@@ -273,10 +261,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[AvoidanceConsiderationRadius](ue_ue.WheeledVehicleMovementComponent.md#avoidanceconsiderationradius)
-
-#### Defined in
-
-[ue/ue.d.ts:60537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60537)
 
 ___
 
@@ -288,10 +272,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[AvoidanceGroup](ue_ue.WheeledVehicleMovementComponent.md#avoidancegroup)
 
-#### Defined in
-
-[ue/ue.d.ts:60541](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60541)
-
 ___
 
 ### AvoidanceUID
@@ -301,10 +281,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[AvoidanceUID](ue_ue.WheeledVehicleMovementComponent.md#avoidanceuid)
-
-#### Defined in
-
-[ue/ue.d.ts:60540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60540)
 
 ___
 
@@ -316,10 +292,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[AvoidanceWeight](ue_ue.WheeledVehicleMovementComponent.md#avoidanceweight)
 
-#### Defined in
-
-[ue/ue.d.ts:60544](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60544)
-
 ___
 
 ### BrakeInput
@@ -329,10 +301,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[BrakeInput](ue_ue.WheeledVehicleMovementComponent.md#brakeinput)
-
-#### Defined in
-
-[ue/ue.d.ts:60552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60552)
 
 ___
 
@@ -344,10 +312,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[BrakeInputRate](ue_ue.WheeledVehicleMovementComponent.md#brakeinputrate)
 
-#### Defined in
-
-[ue/ue.d.ts:60558](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60558)
-
 ___
 
 ### ChassisHeight
@@ -357,10 +321,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[ChassisHeight](ue_ue.WheeledVehicleMovementComponent.md#chassisheight)
-
-#### Defined in
-
-[ue/ue.d.ts:60521](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60521)
 
 ___
 
@@ -372,10 +332,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[ChassisWidth](ue_ue.WheeledVehicleMovementComponent.md#chassiswidth)
 
-#### Defined in
-
-[ue/ue.d.ts:60520](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60520)
-
 ___
 
 ### ComponentTags
@@ -385,10 +341,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[ComponentTags](ue_ue.WheeledVehicleMovementComponent.md#componenttags)
-
-#### Defined in
-
-[ue/ue.d.ts:290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L290)
 
 ___
 
@@ -400,10 +352,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[CreationMethod](ue_ue.WheeledVehicleMovementComponent.md#creationmethod)
 
-#### Defined in
-
-[ue/ue.d.ts:302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L302)
-
 ___
 
 ### DebugDragMagnitude
@@ -414,19 +362,11 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[DebugDragMagnitude](ue_ue.WheeledVehicleMovementComponent.md#debugdragmagnitude)
 
-#### Defined in
-
-[ue/ue.d.ts:60525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60525)
-
 ___
 
 ### DifferentialSetup
 
 • **DifferentialSetup**: [`VehicleDifferential4WData`](ue_ue.VehicleDifferential4WData.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66105](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66105)
 
 ___
 
@@ -438,10 +378,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[DragArea](ue_ue.WheeledVehicleMovementComponent.md#dragarea)
 
-#### Defined in
-
-[ue/ue.d.ts:60522](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60522)
-
 ___
 
 ### DragCoefficient
@@ -452,19 +388,11 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[DragCoefficient](ue_ue.WheeledVehicleMovementComponent.md#dragcoefficient)
 
-#### Defined in
-
-[ue/ue.d.ts:60519](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60519)
-
 ___
 
 ### EngineSetup
 
 • **EngineSetup**: [`VehicleEngineData`](ue_ue.VehicleEngineData.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66104)
 
 ___
 
@@ -476,10 +404,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[EstimatedMaxEngineSpeed](ue_ue.WheeledVehicleMovementComponent.md#estimatedmaxenginespeed)
 
-#### Defined in
-
-[ue/ue.d.ts:60523](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60523)
-
 ___
 
 ### FixedPathBrakingDistance
@@ -489,10 +413,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[FixedPathBrakingDistance](ue_ue.WheeledVehicleMovementComponent.md#fixedpathbrakingdistance)
-
-#### Defined in
-
-[ue/ue.d.ts:5468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5468)
 
 ___
 
@@ -504,10 +424,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[GroupsToAvoid](ue_ue.WheeledVehicleMovementComponent.md#groupstoavoid)
 
-#### Defined in
-
-[ue/ue.d.ts:60542](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60542)
-
 ___
 
 ### GroupsToIgnore
@@ -517,10 +433,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[GroupsToIgnore](ue_ue.WheeledVehicleMovementComponent.md#groupstoignore)
-
-#### Defined in
-
-[ue/ue.d.ts:60543](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60543)
 
 ___
 
@@ -532,10 +444,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[HandbrakeInput](ue_ue.WheeledVehicleMovementComponent.md#handbrakeinput)
 
-#### Defined in
-
-[ue/ue.d.ts:60553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60553)
-
 ___
 
 ### HandbrakeInputRate
@@ -545,10 +453,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[HandbrakeInputRate](ue_ue.WheeledVehicleMovementComponent.md#handbrakeinputrate)
-
-#### Defined in
-
-[ue/ue.d.ts:60559](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60559)
 
 ___
 
@@ -560,10 +464,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[HighForwardSpeedSubStepCount](ue_ue.WheeledVehicleMovementComponent.md#highforwardspeedsubstepcount)
 
-#### Defined in
-
-[ue/ue.d.ts:60533](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60533)
-
 ___
 
 ### IdleBrakeInput
@@ -573,10 +473,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[IdleBrakeInput](ue_ue.WheeledVehicleMovementComponent.md#idlebrakeinput)
-
-#### Defined in
-
-[ue/ue.d.ts:60554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60554)
 
 ___
 
@@ -588,10 +484,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[InertiaTensorScale](ue_ue.WheeledVehicleMovementComponent.md#inertiatensorscale)
 
-#### Defined in
-
-[ue/ue.d.ts:60526](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60526)
-
 ___
 
 ### LowForwardSpeedSubStepCount
@@ -601,10 +493,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[LowForwardSpeedSubStepCount](ue_ue.WheeledVehicleMovementComponent.md#lowforwardspeedsubstepcount)
-
-#### Defined in
-
-[ue/ue.d.ts:60532](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60532)
 
 ___
 
@@ -616,10 +504,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[Mass](ue_ue.WheeledVehicleMovementComponent.md#mass)
 
-#### Defined in
-
-[ue/ue.d.ts:60517](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60517)
-
 ___
 
 ### MaxEngineRPM
@@ -629,10 +513,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[MaxEngineRPM](ue_ue.WheeledVehicleMovementComponent.md#maxenginerpm)
-
-#### Defined in
-
-[ue/ue.d.ts:60524](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60524)
 
 ___
 
@@ -644,10 +524,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[MaxNormalizedTireLoad](ue_ue.WheeledVehicleMovementComponent.md#maxnormalizedtireload)
 
-#### Defined in
-
-[ue/ue.d.ts:60529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60529)
-
 ___
 
 ### MaxNormalizedTireLoadFiltered
@@ -657,10 +533,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[MaxNormalizedTireLoadFiltered](ue_ue.WheeledVehicleMovementComponent.md#maxnormalizedtireloadfiltered)
-
-#### Defined in
-
-[ue/ue.d.ts:60530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60530)
 
 ___
 
@@ -672,10 +544,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[MinNormalizedTireLoad](ue_ue.WheeledVehicleMovementComponent.md#minnormalizedtireload)
 
-#### Defined in
-
-[ue/ue.d.ts:60527](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60527)
-
 ___
 
 ### MinNormalizedTireLoadFiltered
@@ -685,10 +553,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[MinNormalizedTireLoadFiltered](ue_ue.WheeledVehicleMovementComponent.md#minnormalizedtireloadfiltered)
-
-#### Defined in
-
-[ue/ue.d.ts:60528](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60528)
 
 ___
 
@@ -700,10 +564,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[MovementState](ue_ue.WheeledVehicleMovementComponent.md#movementstate)
 
-#### Defined in
-
-[ue/ue.d.ts:5472](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5472)
-
 ___
 
 ### NavAgentProps
@@ -713,10 +573,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[NavAgentProps](ue_ue.WheeledVehicleMovementComponent.md#navagentprops)
-
-#### Defined in
-
-[ue/ue.d.ts:5467](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5467)
 
 ___
 
@@ -728,10 +584,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[OnComponentActivated](ue_ue.WheeledVehicleMovementComponent.md#oncomponentactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L303)
-
 ___
 
 ### OnComponentDeactivated
@@ -741,10 +593,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[OnComponentDeactivated](ue_ue.WheeledVehicleMovementComponent.md#oncomponentdeactivated)
-
-#### Defined in
-
-[ue/ue.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L304)
 
 ___
 
@@ -756,10 +604,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[OverrideController](ue_ue.WheeledVehicleMovementComponent.md#overridecontroller)
 
-#### Defined in
-
-[ue/ue.d.ts:60561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60561)
-
 ___
 
 ### PathFollowingComp
@@ -769,10 +613,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[PathFollowingComp](ue_ue.WheeledVehicleMovementComponent.md#pathfollowingcomp)
-
-#### Defined in
-
-[ue/ue.d.ts:5473](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5473)
 
 ___
 
@@ -784,10 +624,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[PawnOwner](ue_ue.WheeledVehicleMovementComponent.md#pawnowner)
 
-#### Defined in
-
-[ue/ue.d.ts:5490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5490)
-
 ___
 
 ### PendingLaunchVelocity
@@ -797,10 +633,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[PendingLaunchVelocity](ue_ue.WheeledVehicleMovementComponent.md#pendinglaunchvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:60545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60545)
 
 ___
 
@@ -812,10 +644,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[PlaneConstraintAxisSetting](ue_ue.WheeledVehicleMovementComponent.md#planeconstraintaxissetting)
 
-#### Defined in
-
-[ue/ue.d.ts:5403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5403)
-
 ___
 
 ### PlaneConstraintNormal
@@ -825,10 +653,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[PlaneConstraintNormal](ue_ue.WheeledVehicleMovementComponent.md#planeconstraintnormal)
-
-#### Defined in
-
-[ue/ue.d.ts:5393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5393)
 
 ___
 
@@ -840,10 +664,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[PlaneConstraintOrigin](ue_ue.WheeledVehicleMovementComponent.md#planeconstraintorigin)
 
-#### Defined in
-
-[ue/ue.d.ts:5394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5394)
-
 ___
 
 ### PrimaryComponentTick
@@ -853,10 +673,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[PrimaryComponentTick](ue_ue.WheeledVehicleMovementComponent.md#primarycomponenttick)
-
-#### Defined in
-
-[ue/ue.d.ts:289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L289)
 
 ___
 
@@ -868,10 +684,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[RVOAvoidanceHeight](ue_ue.WheeledVehicleMovementComponent.md#rvoavoidanceheight)
 
-#### Defined in
-
-[ue/ue.d.ts:60536](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60536)
-
 ___
 
 ### RVOAvoidanceRadius
@@ -881,10 +693,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[RVOAvoidanceRadius](ue_ue.WheeledVehicleMovementComponent.md#rvoavoidanceradius)
-
-#### Defined in
-
-[ue/ue.d.ts:60535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60535)
 
 ___
 
@@ -896,10 +704,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[RVOSteeringStep](ue_ue.WheeledVehicleMovementComponent.md#rvosteeringstep)
 
-#### Defined in
-
-[ue/ue.d.ts:60538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60538)
-
 ___
 
 ### RVOThrottleStep
@@ -909,10 +713,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[RVOThrottleStep](ue_ue.WheeledVehicleMovementComponent.md#rvothrottlestep)
-
-#### Defined in
-
-[ue/ue.d.ts:60539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60539)
 
 ___
 
@@ -924,10 +724,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[RawBrakeInput](ue_ue.WheeledVehicleMovementComponent.md#rawbrakeinput)
 
-#### Defined in
-
-[ue/ue.d.ts:60549](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60549)
-
 ___
 
 ### RawSteeringInput
@@ -937,10 +733,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[RawSteeringInput](ue_ue.WheeledVehicleMovementComponent.md#rawsteeringinput)
-
-#### Defined in
-
-[ue/ue.d.ts:60547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60547)
 
 ___
 
@@ -952,10 +744,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[RawThrottleInput](ue_ue.WheeledVehicleMovementComponent.md#rawthrottleinput)
 
-#### Defined in
-
-[ue/ue.d.ts:60548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60548)
-
 ___
 
 ### ReplicatedState
@@ -966,19 +754,11 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[ReplicatedState](ue_ue.WheeledVehicleMovementComponent.md#replicatedstate)
 
-#### Defined in
-
-[ue/ue.d.ts:60546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60546)
-
 ___
 
 ### SteeringCurve
 
 • **SteeringCurve**: [`RuntimeFloatCurve`](ue_ue.RuntimeFloatCurve.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66108)
 
 ___
 
@@ -990,10 +770,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SteeringInput](ue_ue.WheeledVehicleMovementComponent.md#steeringinput)
 
-#### Defined in
-
-[ue/ue.d.ts:60550](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60550)
-
 ___
 
 ### SteeringInputRate
@@ -1003,10 +779,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SteeringInputRate](ue_ue.WheeledVehicleMovementComponent.md#steeringinputrate)
-
-#### Defined in
-
-[ue/ue.d.ts:60560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60560)
 
 ___
 
@@ -1018,10 +790,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[StopThreshold](ue_ue.WheeledVehicleMovementComponent.md#stopthreshold)
 
-#### Defined in
-
-[ue/ue.d.ts:60555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60555)
-
 ___
 
 ### ThresholdLongitudinalSpeed
@@ -1031,10 +799,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[ThresholdLongitudinalSpeed](ue_ue.WheeledVehicleMovementComponent.md#thresholdlongitudinalspeed)
-
-#### Defined in
-
-[ue/ue.d.ts:60531](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60531)
 
 ___
 
@@ -1046,10 +810,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[ThrottleInput](ue_ue.WheeledVehicleMovementComponent.md#throttleinput)
 
-#### Defined in
-
-[ue/ue.d.ts:60551](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60551)
-
 ___
 
 ### ThrottleInputRate
@@ -1060,19 +820,11 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[ThrottleInputRate](ue_ue.WheeledVehicleMovementComponent.md#throttleinputrate)
 
-#### Defined in
-
-[ue/ue.d.ts:60557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60557)
-
 ___
 
 ### TransmissionSetup
 
 • **TransmissionSetup**: [`VehicleTransmissionData`](ue_ue.VehicleTransmissionData.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66107](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66107)
 
 ___
 
@@ -1084,10 +836,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[UCSModifiedProperties](ue_ue.WheeledVehicleMovementComponent.md#ucsmodifiedproperties)
 
-#### Defined in
-
-[ue/ue.d.ts:305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L305)
-
 ___
 
 ### UpdatedComponent
@@ -1097,10 +845,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[UpdatedComponent](ue_ue.WheeledVehicleMovementComponent.md#updatedcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:5390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5390)
 
 ___
 
@@ -1112,10 +856,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[UpdatedPrimitive](ue_ue.WheeledVehicleMovementComponent.md#updatedprimitive)
 
-#### Defined in
-
-[ue/ue.d.ts:5391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5391)
-
 ___
 
 ### Velocity
@@ -1125,10 +865,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[Velocity](ue_ue.WheeledVehicleMovementComponent.md#velocity)
-
-#### Defined in
-
-[ue/ue.d.ts:5392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5392)
 
 ___
 
@@ -1140,10 +876,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[WheelSetups](ue_ue.WheeledVehicleMovementComponent.md#wheelsetups)
 
-#### Defined in
-
-[ue/ue.d.ts:60518](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60518)
-
 ___
 
 ### Wheels
@@ -1153,10 +885,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[Wheels](ue_ue.WheeledVehicleMovementComponent.md#wheels)
-
-#### Defined in
-
-[ue/ue.d.ts:60534](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60534)
 
 ___
 
@@ -1168,10 +896,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[WrongDirectionThreshold](ue_ue.WheeledVehicleMovementComponent.md#wrongdirectionthreshold)
 
-#### Defined in
-
-[ue/ue.d.ts:60556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60556)
-
 ___
 
 ### \_\_tid\_ActorComponent\_\_
@@ -1181,10 +905,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[__tid_ActorComponent__](ue_ue.WheeledVehicleMovementComponent.md#__tid_actorcomponent__)
-
-#### Defined in
-
-[ue/ue.d.ts:336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L336)
 
 ___
 
@@ -1196,10 +916,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[__tid_MovementComponent__](ue_ue.WheeledVehicleMovementComponent.md#__tid_movementcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:5430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5430)
-
 ___
 
 ### \_\_tid\_NavMovementComponent\_\_
@@ -1209,10 +925,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[__tid_NavMovementComponent__](ue_ue.WheeledVehicleMovementComponent.md#__tid_navmovementcomponent__)
-
-#### Defined in
-
-[ue/ue.d.ts:5485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5485)
 
 ___
 
@@ -1224,10 +936,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[__tid_Object__](ue_ue.WheeledVehicleMovementComponent.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PawnMovementComponent\_\_
@@ -1238,19 +946,11 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[__tid_PawnMovementComponent__](ue_ue.WheeledVehicleMovementComponent.md#__tid_pawnmovementcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:5502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5502)
-
 ___
 
 ### \_\_tid\_WheeledVehicleMovementComponent4W\_\_
 
 • **\_\_tid\_WheeledVehicleMovementComponent4W\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:66113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66113)
 
 ___
 
@@ -1262,10 +962,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[__tid_WheeledVehicleMovementComponent__](ue_ue.WheeledVehicleMovementComponent.md#__tid_wheeledvehiclemovementcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:60588](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60588)
-
 ___
 
 ### bAutoActivate
@@ -1275,10 +971,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bAutoActivate](ue_ue.WheeledVehicleMovementComponent.md#bautoactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L296)
 
 ___
 
@@ -1290,10 +982,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bAutoRegisterPhysicsVolumeUpdates](ue_ue.WheeledVehicleMovementComponent.md#bautoregisterphysicsvolumeupdates)
 
-#### Defined in
-
-[ue/ue.d.ts:5401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5401)
-
 ___
 
 ### bAutoRegisterUpdatedComponent
@@ -1303,10 +991,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bAutoRegisterUpdatedComponent](ue_ue.WheeledVehicleMovementComponent.md#bautoregisterupdatedcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:5398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5398)
 
 ___
 
@@ -1318,10 +1002,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bAutoUpdateTickRegistration](ue_ue.WheeledVehicleMovementComponent.md#bautoupdatetickregistration)
 
-#### Defined in
-
-[ue/ue.d.ts:5396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5396)
-
 ___
 
 ### bCanEverAffectNavigation
@@ -1331,10 +1011,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bCanEverAffectNavigation](ue_ue.WheeledVehicleMovementComponent.md#bcaneveraffectnavigation)
-
-#### Defined in
-
-[ue/ue.d.ts:299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L299)
 
 ___
 
@@ -1346,10 +1022,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bComponentShouldUpdatePhysicsVolume](ue_ue.WheeledVehicleMovementComponent.md#bcomponentshouldupdatephysicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:5402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5402)
-
 ___
 
 ### bConstrainToPlane
@@ -1359,10 +1031,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bConstrainToPlane](ue_ue.WheeledVehicleMovementComponent.md#bconstraintoplane)
-
-#### Defined in
-
-[ue/ue.d.ts:5399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5399)
 
 ___
 
@@ -1374,10 +1042,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bCreatedByConstructionScript](ue_ue.WheeledVehicleMovementComponent.md#bcreatedbyconstructionscript)
 
-#### Defined in
-
-[ue/ue.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L294)
-
 ___
 
 ### bDeprecatedSpringOffsetMode
@@ -1387,10 +1051,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bDeprecatedSpringOffsetMode](ue_ue.WheeledVehicleMovementComponent.md#bdeprecatedspringoffsetmode)
-
-#### Defined in
-
-[ue/ue.d.ts:60510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60510)
 
 ___
 
@@ -1402,10 +1062,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bEditableWhenInherited](ue_ue.WheeledVehicleMovementComponent.md#beditablewheninherited)
 
-#### Defined in
-
-[ue/ue.d.ts:298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L298)
-
 ___
 
 ### bInstanceComponent
@@ -1415,10 +1071,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bInstanceComponent](ue_ue.WheeledVehicleMovementComponent.md#binstancecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L295)
 
 ___
 
@@ -1430,10 +1082,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bIsActive](ue_ue.WheeledVehicleMovementComponent.md#bisactive)
 
-#### Defined in
-
-[ue/ue.d.ts:297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L297)
-
 ___
 
 ### bIsEditorOnly
@@ -1443,10 +1091,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bIsEditorOnly](ue_ue.WheeledVehicleMovementComponent.md#biseditoronly)
-
-#### Defined in
-
-[ue/ue.d.ts:300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L300)
 
 ___
 
@@ -1458,10 +1102,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bIsVisualizationComponent](ue_ue.WheeledVehicleMovementComponent.md#bisvisualizationcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L301)
-
 ___
 
 ### bNetAddressable
@@ -1471,10 +1111,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bNetAddressable](ue_ue.WheeledVehicleMovementComponent.md#bnetaddressable)
-
-#### Defined in
-
-[ue/ue.d.ts:293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L293)
 
 ___
 
@@ -1486,10 +1122,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bRawGearDownInput](ue_ue.WheeledVehicleMovementComponent.md#brawgeardowninput)
 
-#### Defined in
-
-[ue/ue.d.ts:60515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60515)
-
 ___
 
 ### bRawGearUpInput
@@ -1499,10 +1131,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bRawGearUpInput](ue_ue.WheeledVehicleMovementComponent.md#brawgearupinput)
-
-#### Defined in
-
-[ue/ue.d.ts:60514](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60514)
 
 ___
 
@@ -1514,10 +1142,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bRawHandbrakeInput](ue_ue.WheeledVehicleMovementComponent.md#brawhandbrakeinput)
 
-#### Defined in
-
-[ue/ue.d.ts:60513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60513)
-
 ___
 
 ### bReplicates
@@ -1527,10 +1151,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bReplicates](ue_ue.WheeledVehicleMovementComponent.md#breplicates)
-
-#### Defined in
-
-[ue/ue.d.ts:292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L292)
 
 ___
 
@@ -1542,10 +1162,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bReverseAsBrake](ue_ue.WheeledVehicleMovementComponent.md#breverseasbrake)
 
-#### Defined in
-
-[ue/ue.d.ts:60511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60511)
-
 ___
 
 ### bSnapToPlaneAtStart
@@ -1555,10 +1171,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bSnapToPlaneAtStart](ue_ue.WheeledVehicleMovementComponent.md#bsnaptoplaneatstart)
-
-#### Defined in
-
-[ue/ue.d.ts:5400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5400)
 
 ___
 
@@ -1570,10 +1182,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bTickBeforeOwner](ue_ue.WheeledVehicleMovementComponent.md#btickbeforeowner)
 
-#### Defined in
-
-[ue/ue.d.ts:5397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5397)
-
 ___
 
 ### bUpdateNavAgentWithOwnersCollision
@@ -1583,10 +1191,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bUpdateNavAgentWithOwnersCollision](ue_ue.WheeledVehicleMovementComponent.md#bupdatenavagentwithownerscollision)
-
-#### Defined in
-
-[ue/ue.d.ts:5469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5469)
 
 ___
 
@@ -1598,10 +1202,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bUpdateOnlyIfRendered](ue_ue.WheeledVehicleMovementComponent.md#bupdateonlyifrendered)
 
-#### Defined in
-
-[ue/ue.d.ts:5395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5395)
-
 ___
 
 ### bUseAccelerationForPaths
@@ -1611,10 +1211,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bUseAccelerationForPaths](ue_ue.WheeledVehicleMovementComponent.md#buseaccelerationforpaths)
-
-#### Defined in
-
-[ue/ue.d.ts:5470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5470)
 
 ___
 
@@ -1626,10 +1222,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bUseFixedBrakingDistanceForPaths](ue_ue.WheeledVehicleMovementComponent.md#busefixedbrakingdistanceforpaths)
 
-#### Defined in
-
-[ue/ue.d.ts:5471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5471)
-
 ___
 
 ### bUseRVOAvoidance
@@ -1640,10 +1232,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bUseRVOAvoidance](ue_ue.WheeledVehicleMovementComponent.md#buservoavoidance)
 
-#### Defined in
-
-[ue/ue.d.ts:60512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60512)
-
 ___
 
 ### bWasAvoidanceUpdated
@@ -1653,10 +1241,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[bWasAvoidanceUpdated](ue_ue.WheeledVehicleMovementComponent.md#bwasavoidanceupdated)
-
-#### Defined in
-
-[ue/ue.d.ts:60516](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60516)
 
 ## Methods
 
@@ -1677,10 +1261,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[Activate](ue_ue.WheeledVehicleMovementComponent.md#activate)
-
-#### Defined in
-
-[ue/ue.d.ts:306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L306)
 
 ___
 
@@ -1703,10 +1283,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[AddInputVector](ue_ue.WheeledVehicleMovementComponent.md#addinputvector)
 
-#### Defined in
-
-[ue/ue.d.ts:5491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5491)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -1726,10 +1302,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[AddTickPrerequisiteActor](ue_ue.WheeledVehicleMovementComponent.md#addtickprerequisiteactor)
-
-#### Defined in
-
-[ue/ue.d.ts:307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L307)
 
 ___
 
@@ -1751,10 +1323,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[AddTickPrerequisiteComponent](ue_ue.WheeledVehicleMovementComponent.md#addtickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L308)
-
 ___
 
 ### ComponentHasTag
@@ -1774,10 +1342,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[ComponentHasTag](ue_ue.WheeledVehicleMovementComponent.md#componenthastag)
-
-#### Defined in
-
-[ue/ue.d.ts:309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L309)
 
 ___
 
@@ -1799,10 +1363,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[ConstrainDirectionToPlane](ue_ue.WheeledVehicleMovementComponent.md#constraindirectiontoplane)
 
-#### Defined in
-
-[ue/ue.d.ts:5404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5404)
-
 ___
 
 ### ConstrainLocationToPlane
@@ -1822,10 +1382,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[ConstrainLocationToPlane](ue_ue.WheeledVehicleMovementComponent.md#constrainlocationtoplane)
-
-#### Defined in
-
-[ue/ue.d.ts:5405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5405)
 
 ___
 
@@ -1847,10 +1403,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[ConstrainNormalToPlane](ue_ue.WheeledVehicleMovementComponent.md#constrainnormaltoplane)
 
-#### Defined in
-
-[ue/ue.d.ts:5406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5406)
-
 ___
 
 ### ConsumeInputVector
@@ -1864,10 +1416,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[ConsumeInputVector](ue_ue.WheeledVehicleMovementComponent.md#consumeinputvector)
-
-#### Defined in
-
-[ue/ue.d.ts:5492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5492)
 
 ___
 
@@ -1893,10 +1441,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[CreateDefaultSubobject](ue_ue.WheeledVehicleMovementComponent.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### Deactivate
@@ -1910,10 +1454,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[Deactivate](ue_ue.WheeledVehicleMovementComponent.md#deactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L310)
 
 ___
 
@@ -1935,10 +1475,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[ExecuteUbergraph](ue_ue.WheeledVehicleMovementComponent.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -1952,10 +1488,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[GetClass](ue_ue.WheeledVehicleMovementComponent.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -1971,10 +1503,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[GetComponentTickInterval](ue_ue.WheeledVehicleMovementComponent.md#getcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L311)
-
 ___
 
 ### GetCurrentGear
@@ -1988,10 +1516,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[GetCurrentGear](ue_ue.WheeledVehicleMovementComponent.md#getcurrentgear)
-
-#### Defined in
-
-[ue/ue.d.ts:60562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60562)
 
 ___
 
@@ -2007,10 +1531,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[GetEngineMaxRotationSpeed](ue_ue.WheeledVehicleMovementComponent.md#getenginemaxrotationspeed)
 
-#### Defined in
-
-[ue/ue.d.ts:60563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60563)
-
 ___
 
 ### GetEngineRotationSpeed
@@ -2024,10 +1544,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[GetEngineRotationSpeed](ue_ue.WheeledVehicleMovementComponent.md#getenginerotationspeed)
-
-#### Defined in
-
-[ue/ue.d.ts:60564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60564)
 
 ___
 
@@ -2043,10 +1559,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[GetForwardSpeed](ue_ue.WheeledVehicleMovementComponent.md#getforwardspeed)
 
-#### Defined in
-
-[ue/ue.d.ts:60565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60565)
-
 ___
 
 ### GetGravityZ
@@ -2060,10 +1572,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[GetGravityZ](ue_ue.WheeledVehicleMovementComponent.md#getgravityz)
-
-#### Defined in
-
-[ue/ue.d.ts:5407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5407)
 
 ___
 
@@ -2079,10 +1587,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[GetLastInputVector](ue_ue.WheeledVehicleMovementComponent.md#getlastinputvector)
 
-#### Defined in
-
-[ue/ue.d.ts:5493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5493)
-
 ___
 
 ### GetMaxSpeed
@@ -2096,10 +1600,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[GetMaxSpeed](ue_ue.WheeledVehicleMovementComponent.md#getmaxspeed)
-
-#### Defined in
-
-[ue/ue.d.ts:5408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5408)
 
 ___
 
@@ -2115,10 +1615,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[GetName](ue_ue.WheeledVehicleMovementComponent.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -2132,10 +1628,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[GetOuter](ue_ue.WheeledVehicleMovementComponent.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -2151,10 +1643,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[GetOwner](ue_ue.WheeledVehicleMovementComponent.md#getowner)
 
-#### Defined in
-
-[ue/ue.d.ts:312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L312)
-
 ___
 
 ### GetPawnOwner
@@ -2168,10 +1656,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[GetPawnOwner](ue_ue.WheeledVehicleMovementComponent.md#getpawnowner)
-
-#### Defined in
-
-[ue/ue.d.ts:5494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5494)
 
 ___
 
@@ -2187,10 +1671,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[GetPendingInputVector](ue_ue.WheeledVehicleMovementComponent.md#getpendinginputvector)
 
-#### Defined in
-
-[ue/ue.d.ts:5495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5495)
-
 ___
 
 ### GetPhysicsVolume
@@ -2204,10 +1684,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[GetPhysicsVolume](ue_ue.WheeledVehicleMovementComponent.md#getphysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:5409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5409)
 
 ___
 
@@ -2223,10 +1699,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[GetPlaneConstraintAxisSetting](ue_ue.WheeledVehicleMovementComponent.md#getplaneconstraintaxissetting)
 
-#### Defined in
-
-[ue/ue.d.ts:5410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5410)
-
 ___
 
 ### GetPlaneConstraintNormal
@@ -2240,10 +1712,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[GetPlaneConstraintNormal](ue_ue.WheeledVehicleMovementComponent.md#getplaneconstraintnormal)
-
-#### Defined in
-
-[ue/ue.d.ts:5411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5411)
 
 ___
 
@@ -2259,10 +1727,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[GetPlaneConstraintOrigin](ue_ue.WheeledVehicleMovementComponent.md#getplaneconstraintorigin)
 
-#### Defined in
-
-[ue/ue.d.ts:5412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5412)
-
 ___
 
 ### GetTargetGear
@@ -2276,10 +1740,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[GetTargetGear](ue_ue.WheeledVehicleMovementComponent.md#gettargetgear)
-
-#### Defined in
-
-[ue/ue.d.ts:60566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60566)
 
 ___
 
@@ -2295,10 +1755,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[GetUseAutoGears](ue_ue.WheeledVehicleMovementComponent.md#getuseautogears)
 
-#### Defined in
-
-[ue/ue.d.ts:60567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60567)
-
 ___
 
 ### GetWorld
@@ -2312,10 +1768,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[GetWorld](ue_ue.WheeledVehicleMovementComponent.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -2331,10 +1783,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[IsActive](ue_ue.WheeledVehicleMovementComponent.md#isactive)
 
-#### Defined in
-
-[ue/ue.d.ts:313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L313)
-
 ___
 
 ### IsBeingDestroyed
@@ -2348,10 +1796,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[IsBeingDestroyed](ue_ue.WheeledVehicleMovementComponent.md#isbeingdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L314)
 
 ___
 
@@ -2367,10 +1811,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[IsComponentTickEnabled](ue_ue.WheeledVehicleMovementComponent.md#iscomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L315)
-
 ___
 
 ### IsCrouching
@@ -2384,10 +1824,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[IsCrouching](ue_ue.WheeledVehicleMovementComponent.md#iscrouching)
-
-#### Defined in
-
-[ue/ue.d.ts:5474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5474)
 
 ___
 
@@ -2409,10 +1845,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[IsExceedingMaxSpeed](ue_ue.WheeledVehicleMovementComponent.md#isexceedingmaxspeed)
 
-#### Defined in
-
-[ue/ue.d.ts:5413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5413)
-
 ___
 
 ### IsFalling
@@ -2426,10 +1858,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[IsFalling](ue_ue.WheeledVehicleMovementComponent.md#isfalling)
-
-#### Defined in
-
-[ue/ue.d.ts:5475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5475)
 
 ___
 
@@ -2445,10 +1873,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[IsFlying](ue_ue.WheeledVehicleMovementComponent.md#isflying)
 
-#### Defined in
-
-[ue/ue.d.ts:5476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5476)
-
 ___
 
 ### IsMoveInputIgnored
@@ -2462,10 +1886,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[IsMoveInputIgnored](ue_ue.WheeledVehicleMovementComponent.md#ismoveinputignored)
-
-#### Defined in
-
-[ue/ue.d.ts:5496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5496)
 
 ___
 
@@ -2481,10 +1901,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[IsMovingOnGround](ue_ue.WheeledVehicleMovementComponent.md#ismovingonground)
 
-#### Defined in
-
-[ue/ue.d.ts:5477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5477)
-
 ___
 
 ### IsSwimming
@@ -2498,10 +1914,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[IsSwimming](ue_ue.WheeledVehicleMovementComponent.md#isswimming)
-
-#### Defined in
-
-[ue/ue.d.ts:5478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5478)
 
 ___
 
@@ -2523,10 +1935,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[K2_DestroyComponent](ue_ue.WheeledVehicleMovementComponent.md#k2_destroycomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L316)
-
 ___
 
 ### K2\_GetInputVector
@@ -2540,10 +1948,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[K2_GetInputVector](ue_ue.WheeledVehicleMovementComponent.md#k2_getinputvector)
-
-#### Defined in
-
-[ue/ue.d.ts:5497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5497)
 
 ___
 
@@ -2559,10 +1963,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[K2_GetMaxSpeedModifier](ue_ue.WheeledVehicleMovementComponent.md#k2_getmaxspeedmodifier)
 
-#### Defined in
-
-[ue/ue.d.ts:5414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5414)
-
 ___
 
 ### K2\_GetModifiedMaxSpeed
@@ -2576,10 +1976,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[K2_GetModifiedMaxSpeed](ue_ue.WheeledVehicleMovementComponent.md#k2_getmodifiedmaxspeed)
-
-#### Defined in
-
-[ue/ue.d.ts:5415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5415)
 
 ___
 
@@ -2605,10 +2001,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[K2_MoveUpdatedComponent](ue_ue.WheeledVehicleMovementComponent.md#k2_moveupdatedcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:5416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5416)
-
 ___
 
 ### OnRep\_IsActive
@@ -2622,10 +2014,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[OnRep_IsActive](ue_ue.WheeledVehicleMovementComponent.md#onrep_isactive)
-
-#### Defined in
-
-[ue/ue.d.ts:317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L317)
 
 ___
 
@@ -2647,10 +2035,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[PhysicsVolumeChanged](ue_ue.WheeledVehicleMovementComponent.md#physicsvolumechanged)
 
-#### Defined in
-
-[ue/ue.d.ts:5417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5417)
-
 ___
 
 ### ReceiveBeginPlay
@@ -2664,10 +2048,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[ReceiveBeginPlay](ue_ue.WheeledVehicleMovementComponent.md#receivebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L318)
 
 ___
 
@@ -2689,10 +2069,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[ReceiveEndPlay](ue_ue.WheeledVehicleMovementComponent.md#receiveendplay)
 
-#### Defined in
-
-[ue/ue.d.ts:319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L319)
-
 ___
 
 ### ReceiveTick
@@ -2713,10 +2089,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[ReceiveTick](ue_ue.WheeledVehicleMovementComponent.md#receivetick)
 
-#### Defined in
-
-[ue/ue.d.ts:320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L320)
-
 ___
 
 ### RegisterComponent
@@ -2730,10 +2102,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[RegisterComponent](ue_ue.WheeledVehicleMovementComponent.md#registercomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L321)
 
 ___
 
@@ -2755,10 +2123,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[RemoveTickPrerequisiteActor](ue_ue.WheeledVehicleMovementComponent.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -2778,10 +2142,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[RemoveTickPrerequisiteComponent](ue_ue.WheeledVehicleMovementComponent.md#removetickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L323)
 
 ___
 
@@ -2807,10 +2167,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[ServerUpdateState](ue_ue.WheeledVehicleMovementComponent.md#serverupdatestate)
 
-#### Defined in
-
-[ue/ue.d.ts:60568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60568)
-
 ___
 
 ### SetActive
@@ -2832,10 +2188,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetActive](ue_ue.WheeledVehicleMovementComponent.md#setactive)
 
-#### Defined in
-
-[ue/ue.d.ts:324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L324)
-
 ___
 
 ### SetAutoActivate
@@ -2855,10 +2207,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetAutoActivate](ue_ue.WheeledVehicleMovementComponent.md#setautoactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L325)
 
 ___
 
@@ -2880,10 +2228,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetAvoidanceEnabled](ue_ue.WheeledVehicleMovementComponent.md#setavoidanceenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:60569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60569)
-
 ___
 
 ### SetAvoidanceGroup
@@ -2903,10 +2247,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetAvoidanceGroup](ue_ue.WheeledVehicleMovementComponent.md#setavoidancegroup)
-
-#### Defined in
-
-[ue/ue.d.ts:60570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60570)
 
 ___
 
@@ -2928,10 +2268,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetAvoidanceGroupMask](ue_ue.WheeledVehicleMovementComponent.md#setavoidancegroupmask)
 
-#### Defined in
-
-[ue/ue.d.ts:60571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60571)
-
 ___
 
 ### SetBrakeInput
@@ -2951,10 +2287,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetBrakeInput](ue_ue.WheeledVehicleMovementComponent.md#setbrakeinput)
-
-#### Defined in
-
-[ue/ue.d.ts:60572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60572)
 
 ___
 
@@ -2976,10 +2308,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetComponentTickEnabled](ue_ue.WheeledVehicleMovementComponent.md#setcomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L326)
-
 ___
 
 ### SetComponentTickInterval
@@ -2999,10 +2327,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetComponentTickInterval](ue_ue.WheeledVehicleMovementComponent.md#setcomponenttickinterval)
-
-#### Defined in
-
-[ue/ue.d.ts:327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L327)
 
 ___
 
@@ -3024,10 +2348,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetGearDown](ue_ue.WheeledVehicleMovementComponent.md#setgeardown)
 
-#### Defined in
-
-[ue/ue.d.ts:60573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60573)
-
 ___
 
 ### SetGearUp
@@ -3047,10 +2367,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetGearUp](ue_ue.WheeledVehicleMovementComponent.md#setgearup)
-
-#### Defined in
-
-[ue/ue.d.ts:60574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60574)
 
 ___
 
@@ -3072,10 +2388,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetGroupsToAvoid](ue_ue.WheeledVehicleMovementComponent.md#setgroupstoavoid)
 
-#### Defined in
-
-[ue/ue.d.ts:60575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60575)
-
 ___
 
 ### SetGroupsToAvoidMask
@@ -3095,10 +2407,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetGroupsToAvoidMask](ue_ue.WheeledVehicleMovementComponent.md#setgroupstoavoidmask)
-
-#### Defined in
-
-[ue/ue.d.ts:60576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60576)
 
 ___
 
@@ -3120,10 +2428,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetGroupsToIgnore](ue_ue.WheeledVehicleMovementComponent.md#setgroupstoignore)
 
-#### Defined in
-
-[ue/ue.d.ts:60577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60577)
-
 ___
 
 ### SetGroupsToIgnoreMask
@@ -3143,10 +2447,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetGroupsToIgnoreMask](ue_ue.WheeledVehicleMovementComponent.md#setgroupstoignoremask)
-
-#### Defined in
-
-[ue/ue.d.ts:60578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60578)
 
 ___
 
@@ -3168,10 +2468,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetHandbrakeInput](ue_ue.WheeledVehicleMovementComponent.md#sethandbrakeinput)
 
-#### Defined in
-
-[ue/ue.d.ts:60579](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60579)
-
 ___
 
 ### SetIsReplicated
@@ -3191,10 +2487,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetIsReplicated](ue_ue.WheeledVehicleMovementComponent.md#setisreplicated)
-
-#### Defined in
-
-[ue/ue.d.ts:328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L328)
 
 ___
 
@@ -3216,10 +2508,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetPlaneConstraintAxisSetting](ue_ue.WheeledVehicleMovementComponent.md#setplaneconstraintaxissetting)
 
-#### Defined in
-
-[ue/ue.d.ts:5418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5418)
-
 ___
 
 ### SetPlaneConstraintEnabled
@@ -3239,10 +2527,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetPlaneConstraintEnabled](ue_ue.WheeledVehicleMovementComponent.md#setplaneconstraintenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:5419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5419)
 
 ___
 
@@ -3265,10 +2549,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetPlaneConstraintFromVectors](ue_ue.WheeledVehicleMovementComponent.md#setplaneconstraintfromvectors)
 
-#### Defined in
-
-[ue/ue.d.ts:5420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5420)
-
 ___
 
 ### SetPlaneConstraintNormal
@@ -3288,10 +2568,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetPlaneConstraintNormal](ue_ue.WheeledVehicleMovementComponent.md#setplaneconstraintnormal)
-
-#### Defined in
-
-[ue/ue.d.ts:5421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5421)
 
 ___
 
@@ -3313,10 +2589,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetPlaneConstraintOrigin](ue_ue.WheeledVehicleMovementComponent.md#setplaneconstraintorigin)
 
-#### Defined in
-
-[ue/ue.d.ts:5422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5422)
-
 ___
 
 ### SetSteeringInput
@@ -3336,10 +2608,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetSteeringInput](ue_ue.WheeledVehicleMovementComponent.md#setsteeringinput)
-
-#### Defined in
-
-[ue/ue.d.ts:60580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60580)
 
 ___
 
@@ -3362,10 +2630,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetTargetGear](ue_ue.WheeledVehicleMovementComponent.md#settargetgear)
 
-#### Defined in
-
-[ue/ue.d.ts:60581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60581)
-
 ___
 
 ### SetThrottleInput
@@ -3385,10 +2649,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetThrottleInput](ue_ue.WheeledVehicleMovementComponent.md#setthrottleinput)
-
-#### Defined in
-
-[ue/ue.d.ts:60582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60582)
 
 ___
 
@@ -3410,10 +2670,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetTickGroup](ue_ue.WheeledVehicleMovementComponent.md#settickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L330)
-
 ___
 
 ### SetTickableWhenPaused
@@ -3433,10 +2689,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetTickableWhenPaused](ue_ue.WheeledVehicleMovementComponent.md#settickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L329)
 
 ___
 
@@ -3458,10 +2710,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetUpdatedComponent](ue_ue.WheeledVehicleMovementComponent.md#setupdatedcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:5423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5423)
-
 ___
 
 ### SetUseAutoGears
@@ -3482,10 +2730,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SetUseAutoGears](ue_ue.WheeledVehicleMovementComponent.md#setuseautogears)
 
-#### Defined in
-
-[ue/ue.d.ts:60583](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60583)
-
 ___
 
 ### SnapUpdatedComponentToPlane
@@ -3499,10 +2743,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[SnapUpdatedComponentToPlane](ue_ue.WheeledVehicleMovementComponent.md#snapupdatedcomponenttoplane)
-
-#### Defined in
-
-[ue/ue.d.ts:5424](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5424)
 
 ___
 
@@ -3518,10 +2758,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[StopActiveMovement](ue_ue.WheeledVehicleMovementComponent.md#stopactivemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:5479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5479)
-
 ___
 
 ### StopMovementImmediately
@@ -3535,10 +2771,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[StopMovementImmediately](ue_ue.WheeledVehicleMovementComponent.md#stopmovementimmediately)
-
-#### Defined in
-
-[ue/ue.d.ts:5425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5425)
 
 ___
 
@@ -3554,10 +2786,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[StopMovementKeepPathing](ue_ue.WheeledVehicleMovementComponent.md#stopmovementkeeppathing)
 
-#### Defined in
-
-[ue/ue.d.ts:5480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5480)
-
 ___
 
 ### ToggleActive
@@ -3571,10 +2799,6 @@ ___
 #### Inherited from
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[ToggleActive](ue_ue.WheeledVehicleMovementComponent.md#toggleactive)
-
-#### Defined in
-
-[ue/ue.d.ts:331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L331)
 
 ___
 
@@ -3597,10 +2821,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[Find](ue_ue.WheeledVehicleMovementComponent.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:66110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66110)
-
 ___
 
 ### Load
@@ -3621,10 +2841,6 @@ ___
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[Load](ue_ue.WheeledVehicleMovementComponent.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:66111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66111)
-
 ___
 
 ### StaticClass
@@ -3638,7 +2854,3 @@ ___
 #### Overrides
 
 [WheeledVehicleMovementComponent](ue_ue.WheeledVehicleMovementComponent.md).[StaticClass](ue_ue.WheeledVehicleMovementComponent.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:66109](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66109)

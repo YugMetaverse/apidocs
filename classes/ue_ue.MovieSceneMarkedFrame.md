@@ -28,10 +28,6 @@
 
 • **new MovieSceneMarkedFrame**()
 
-#### Defined in
-
-[ue/ue.d.ts:11620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11620)
-
 • **new MovieSceneMarkedFrame**(`FrameNumber`, `Label`, `Color`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `Label` | `string` |
 | `Color` | [`LinearColor`](ue_ue_s.LinearColor.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:11621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11621)
-
 ## Properties
 
 ### Color
 
 • **Color**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11624)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **FrameNumber**: [`FrameNumber`](ue_ue.FrameNumber.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11622)
-
 ___
 
 ### Label
 
 • **Label**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:11623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11623)
-
 ___
 
 ### \_\_tid\_MovieSceneMarkedFrame\_\_
 
 • `Private` **\_\_tid\_MovieSceneMarkedFrame\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11630)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11628)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11629)

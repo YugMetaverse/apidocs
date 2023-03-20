@@ -175,10 +175,6 @@
 | :------ |
 | `T` |
 
-#### Defined in
-
-[react-umg/index.d.ts:9](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L9)
-
 ___
 
 ### TArray
@@ -190,10 +186,6 @@ ___
 | Name |
 | :------ |
 | `T` |
-
-#### Defined in
-
-[react-umg/index.d.ts:5](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L5)
 
 ___
 
@@ -208,10 +200,6 @@ ___
 | `TKey` |
 | `TValue` |
 
-#### Defined in
-
-[react-umg/index.d.ts:7](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L7)
-
 ___
 
 ### TSet
@@ -224,16 +212,8 @@ ___
 | :------ |
 | `T` |
 
-#### Defined in
-
-[react-umg/index.d.ts:6](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L6)
-
 ## Variables
 
 ### ReactUMG
 
 • **ReactUMG**: [`TReactUMG`](../interfaces/react_umg.TReactUMG.md)
-
-#### Defined in
-
-[react-umg/index.d.ts:985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L985)

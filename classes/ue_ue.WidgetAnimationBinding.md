@@ -29,10 +29,6 @@
 
 • **new WidgetAnimationBinding**()
 
-#### Defined in
-
-[ue/ue.d.ts:11871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11871)
-
 • **new WidgetAnimationBinding**(`WidgetName`, `SlotWidgetName`, `AnimationGuid`, `bIsRootWidget`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `AnimationGuid` | [`Guid`](ue_ue_s.Guid.md) |
 | `bIsRootWidget` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:11872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11872)
-
 ## Properties
 
 ### AnimationGuid
 
 • **AnimationGuid**: [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11875)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **SlotWidgetName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:11874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11874)
-
 ___
 
 ### WidgetName
 
 • **WidgetName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:11873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11873)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • `Private` **\_\_tid\_WidgetAnimationBinding\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:11882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11882)
-
 ___
 
 ### bIsRootWidget
 
 • **bIsRootWidget**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11876)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11880)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11881)

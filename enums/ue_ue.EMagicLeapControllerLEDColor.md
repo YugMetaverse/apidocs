@@ -33,19 +33,11 @@
 
 • **BrightCelestialBlue** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33990)
-
 ___
 
 ### BrightCosmicPurple
 
 • **BrightCosmicPurple** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33990)
 
 ___
 
@@ -53,19 +45,11 @@ ___
 
 • **BrightFloridaOrange** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33990)
-
 ___
 
 ### BrightLunaYellow
 
 • **BrightLunaYellow** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33990)
 
 ___
 
@@ -73,19 +57,11 @@ ___
 
 • **BrightMissionRed** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33990)
-
 ___
 
 ### BrightMysticBlue
 
 • **BrightMysticBlue** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33990)
 
 ___
 
@@ -93,19 +69,11 @@ ___
 
 • **BrightNebulaPink** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33990)
-
 ___
 
 ### BrightShaggleGreen
 
 • **BrightShaggleGreen** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33990)
 
 ___
 
@@ -113,19 +81,11 @@ ___
 
 • **EMagicLeapControllerLEDColor\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33990)
-
 ___
 
 ### PastelCelestialBlue
 
 • **PastelCelestialBlue** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33990)
 
 ___
 
@@ -133,19 +93,11 @@ ___
 
 • **PastelCosmicPurple** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33990)
-
 ___
 
 ### PastelFloridaOrange
 
 • **PastelFloridaOrange** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33990)
 
 ___
 
@@ -153,19 +105,11 @@ ___
 
 • **PastelLunaYellow** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33990)
-
 ___
 
 ### PastelMissionRed
 
 • **PastelMissionRed** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33990)
 
 ___
 
@@ -173,19 +117,11 @@ ___
 
 • **PastelMysticBlue** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33990)
-
 ___
 
 ### PastelNebulaPink
 
 • **PastelNebulaPink** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33990)
 
 ___
 
@@ -193,16 +129,8 @@ ___
 
 • **PastelShaggleGreen** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33990)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33990)

@@ -21,19 +21,11 @@
 
 • **Audio** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11618)
-
 ___
 
 ### EUpdateClockSource\_MAX
 
 • **EUpdateClockSource\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11618)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Platform** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11618)
-
 ___
 
 ### Tick
 
 • **Tick** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11618)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Timecode** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11618)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11618)

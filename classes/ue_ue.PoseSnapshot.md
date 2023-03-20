@@ -30,10 +30,6 @@
 
 • **new PoseSnapshot**()
 
-#### Defined in
-
-[ue/ue.d.ts:5057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5057)
-
 • **new PoseSnapshot**(`LocalTransforms`, `BoneNames`, `SkeletalMeshName`, `SnapshotName`, `bIsValid`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `SnapshotName` | `string` |
 | `bIsValid` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:5058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5058)
-
 ## Properties
 
 ### BoneNames
 
 • **BoneNames**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:5060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5060)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **LocalTransforms**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Transform`](ue_ue_s.Transform.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:5059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5059)
-
 ___
 
 ### SkeletalMeshName
 
 • **SkeletalMeshName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:5061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5061)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **SnapshotName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:5062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5062)
-
 ___
 
 ### \_\_tid\_PoseSnapshot\_\_
 
 • `Private` **\_\_tid\_PoseSnapshot\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:5069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5069)
-
 ___
 
 ### bIsValid
 
 • **bIsValid**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5063)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5067](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5067)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5068)

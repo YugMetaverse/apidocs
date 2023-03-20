@@ -77,10 +77,6 @@
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[AccessibleBehavior](react_umg.UserWidgetProps.md#accessiblebehavior)
 
-#### Defined in
-
-[react-umg/index.d.ts:145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L145)
-
 ___
 
 ### AccessibleSummaryBehavior
@@ -91,10 +87,6 @@ ___
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[AccessibleSummaryBehavior](react_umg.UserWidgetProps.md#accessiblesummarybehavior)
 
-#### Defined in
-
-[react-umg/index.d.ts:146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L146)
-
 ___
 
 ### AccessibleSummaryText
@@ -104,10 +96,6 @@ ___
 #### Inherited from
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[AccessibleSummaryText](react_umg.UserWidgetProps.md#accessiblesummarytext)
-
-#### Defined in
-
-[react-umg/index.d.ts:149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L149)
 
 ___
 
@@ -127,10 +115,6 @@ ___
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[AccessibleSummaryTextDelegate](react_umg.UserWidgetProps.md#accessiblesummarytextdelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L150)
-
 ___
 
 ### AccessibleText
@@ -140,10 +124,6 @@ ___
 #### Inherited from
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[AccessibleText](react_umg.UserWidgetProps.md#accessibletext)
-
-#### Defined in
-
-[react-umg/index.d.ts:147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L147)
 
 ___
 
@@ -163,10 +143,6 @@ ___
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[AccessibleTextDelegate](react_umg.UserWidgetProps.md#accessibletextdelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L148)
-
 ___
 
 ### AnimationCallbacks
@@ -176,10 +152,6 @@ ___
 #### Inherited from
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[AnimationCallbacks](react_umg.UserWidgetProps.md#animationcallbacks)
-
-#### Defined in
-
-[react-umg/index.d.ts:187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L187)
 
 ___
 
@@ -191,10 +163,6 @@ ___
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[CategoryName](react_umg.UserWidgetProps.md#categoryname)
 
-#### Defined in
-
-[react-umg/index.d.ts:162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L162)
-
 ___
 
 ### Clipping
@@ -205,10 +173,6 @@ ___
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[Clipping](react_umg.UserWidgetProps.md#clipping)
 
-#### Defined in
-
-[react-umg/index.d.ts:156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L156)
-
 ___
 
 ### ColorAndOpacity
@@ -218,10 +182,6 @@ ___
 #### Inherited from
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[ColorAndOpacity](react_umg.UserWidgetProps.md#colorandopacity)
-
-#### Defined in
-
-[react-umg/index.d.ts:170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L170)
 
 ___
 
@@ -241,10 +201,6 @@ ___
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[ColorAndOpacityDelegate](react_umg.UserWidgetProps.md#colorandopacitydelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L171)
-
 ___
 
 ### Cursor
@@ -254,10 +210,6 @@ ___
 #### Inherited from
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[Cursor](react_umg.UserWidgetProps.md#cursor)
-
-#### Defined in
-
-[react-umg/index.d.ts:155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L155)
 
 ___
 
@@ -269,10 +221,6 @@ ___
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[DesignSizeMode](react_umg.UserWidgetProps.md#designsizemode)
 
-#### Defined in
-
-[react-umg/index.d.ts:177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L177)
-
 ___
 
 ### DesignTimeSize
@@ -282,10 +230,6 @@ ___
 #### Inherited from
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[DesignTimeSize](react_umg.UserWidgetProps.md#designtimesize)
-
-#### Defined in
-
-[react-umg/index.d.ts:176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L176)
 
 ___
 
@@ -297,10 +241,6 @@ ___
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[DesignerFlags](react_umg.UserWidgetProps.md#designerflags)
 
-#### Defined in
-
-[react-umg/index.d.ts:160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L160)
-
 ___
 
 ### DisplayLabel
@@ -310,10 +250,6 @@ ___
 #### Inherited from
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[DisplayLabel](react_umg.UserWidgetProps.md#displaylabel)
-
-#### Defined in
-
-[react-umg/index.d.ts:161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L161)
 
 ___
 
@@ -325,10 +261,6 @@ ___
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[FlowDirectionPreference](react_umg.UserWidgetProps.md#flowdirectionpreference)
 
-#### Defined in
-
-[react-umg/index.d.ts:159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L159)
-
 ___
 
 ### ForegroundColor
@@ -338,10 +270,6 @@ ___
 #### Inherited from
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[ForegroundColor](react_umg.UserWidgetProps.md#foregroundcolor)
-
-#### Defined in
-
-[react-umg/index.d.ts:172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L172)
 
 ___
 
@@ -361,19 +289,11 @@ ___
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[ForegroundColorDelegate](react_umg.UserWidgetProps.md#foregroundcolordelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L173)
-
 ___
 
 ### HelpText
 
 • `Optional` **HelpText**: `string`
-
-#### Defined in
-
-[react-umg/index.d.ts:942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L942)
 
 ___
 
@@ -385,10 +305,6 @@ ___
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[NamedSlotBindings](react_umg.UserWidgetProps.md#namedslotbindings)
 
-#### Defined in
-
-[react-umg/index.d.ts:175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L175)
-
 ___
 
 ### Padding
@@ -398,10 +314,6 @@ ___
 #### Inherited from
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[Padding](react_umg.UserWidgetProps.md#padding)
-
-#### Defined in
-
-[react-umg/index.d.ts:174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L174)
 
 ___
 
@@ -413,10 +325,6 @@ ___
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[PaletteCategory](react_umg.UserWidgetProps.md#palettecategory)
 
-#### Defined in
-
-[react-umg/index.d.ts:178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L178)
-
 ___
 
 ### Priority
@@ -426,10 +334,6 @@ ___
 #### Inherited from
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[Priority](react_umg.UserWidgetProps.md#priority)
-
-#### Defined in
-
-[react-umg/index.d.ts:179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L179)
 
 ___
 
@@ -441,10 +345,6 @@ ___
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[RenderOpacity](react_umg.UserWidgetProps.md#renderopacity)
 
-#### Defined in
-
-[react-umg/index.d.ts:158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L158)
-
 ___
 
 ### RenderTransform
@@ -454,10 +354,6 @@ ___
 #### Inherited from
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[RenderTransform](react_umg.UserWidgetProps.md#rendertransform)
-
-#### Defined in
-
-[react-umg/index.d.ts:137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L137)
 
 ___
 
@@ -469,10 +365,6 @@ ___
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[RenderTransformPivot](react_umg.UserWidgetProps.md#rendertransformpivot)
 
-#### Defined in
-
-[react-umg/index.d.ts:138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L138)
-
 ___
 
 ### Slot
@@ -482,10 +374,6 @@ ___
 #### Inherited from
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[Slot](react_umg.UserWidgetProps.md#slot)
-
-#### Defined in
-
-[react-umg/index.d.ts:129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L129)
 
 ___
 
@@ -497,10 +385,6 @@ ___
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[TickFrequency](react_umg.UserWidgetProps.md#tickfrequency)
 
-#### Defined in
-
-[react-umg/index.d.ts:186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L186)
-
 ___
 
 ### ToolTipText
@@ -510,10 +394,6 @@ ___
 #### Inherited from
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[ToolTipText](react_umg.UserWidgetProps.md#tooltiptext)
-
-#### Defined in
-
-[react-umg/index.d.ts:134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L134)
 
 ___
 
@@ -533,10 +413,6 @@ ___
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[ToolTipTextDelegate](react_umg.UserWidgetProps.md#tooltiptextdelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L135)
-
 ___
 
 ### Visibility
@@ -546,10 +422,6 @@ ___
 #### Inherited from
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[Visibility](react_umg.UserWidgetProps.md#visibility)
-
-#### Defined in
-
-[react-umg/index.d.ts:157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L157)
 
 ___
 
@@ -569,29 +441,17 @@ ___
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[VisibilityDelegate](react_umg.UserWidgetProps.md#visibilitydelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L136)
-
 ___
 
 ### bAlwaysReregisterWithWindowsMenu
 
 • `Optional` **bAlwaysReregisterWithWindowsMenu**: `boolean`
 
-#### Defined in
-
-[react-umg/index.d.ts:943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L943)
-
 ___
 
 ### bAutoRunDefaultAction
 
 • `Optional` **bAutoRunDefaultAction**: `boolean`
-
-#### Defined in
-
-[react-umg/index.d.ts:944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L944)
 
 ___
 
@@ -603,10 +463,6 @@ ___
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[bCanChildrenBeAccessible](react_umg.UserWidgetProps.md#bcanchildrenbeaccessible)
 
-#### Defined in
-
-[react-umg/index.d.ts:144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L144)
-
 ___
 
 ### bCookedWidgetTree
@@ -616,10 +472,6 @@ ___
 #### Inherited from
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[bCookedWidgetTree](react_umg.UserWidgetProps.md#bcookedwidgettree)
-
-#### Defined in
-
-[react-umg/index.d.ts:185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L185)
 
 ___
 
@@ -631,10 +483,6 @@ ___
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[bCreatedByConstructionScript](react_umg.UserWidgetProps.md#bcreatedbyconstructionscript)
 
-#### Defined in
-
-[react-umg/index.d.ts:140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L140)
-
 ___
 
 ### bExpandedInDesigner
@@ -644,10 +492,6 @@ ___
 #### Inherited from
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[bExpandedInDesigner](react_umg.UserWidgetProps.md#bexpandedindesigner)
-
-#### Defined in
-
-[react-umg/index.d.ts:153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L153)
 
 ___
 
@@ -659,10 +503,6 @@ ___
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[bHasScriptImplementedPaint](react_umg.UserWidgetProps.md#bhasscriptimplementedpaint)
 
-#### Defined in
-
-[react-umg/index.d.ts:184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L184)
-
 ___
 
 ### bHasScriptImplementedTick
@@ -672,10 +512,6 @@ ___
 #### Inherited from
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[bHasScriptImplementedTick](react_umg.UserWidgetProps.md#bhasscriptimplementedtick)
-
-#### Defined in
-
-[react-umg/index.d.ts:183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L183)
 
 ___
 
@@ -687,10 +523,6 @@ ___
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[bHiddenInDesigner](react_umg.UserWidgetProps.md#bhiddenindesigner)
 
-#### Defined in
-
-[react-umg/index.d.ts:152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L152)
-
 ___
 
 ### bIsEnabled
@@ -700,10 +532,6 @@ ___
 #### Inherited from
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[bIsEnabled](react_umg.UserWidgetProps.md#bisenabled)
-
-#### Defined in
-
-[react-umg/index.d.ts:141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L141)
 
 ___
 
@@ -723,10 +551,6 @@ ___
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[bIsEnabledDelegate](react_umg.UserWidgetProps.md#bisenableddelegate)
 
-#### Defined in
-
-[react-umg/index.d.ts:133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L133)
-
 ___
 
 ### bIsFocusable
@@ -736,10 +560,6 @@ ___
 #### Inherited from
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[bIsFocusable](react_umg.UserWidgetProps.md#bisfocusable)
-
-#### Defined in
-
-[react-umg/index.d.ts:181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L181)
 
 ___
 
@@ -751,10 +571,6 @@ ___
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[bIsVariable](react_umg.UserWidgetProps.md#bisvariable)
 
-#### Defined in
-
-[react-umg/index.d.ts:139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L139)
-
 ___
 
 ### bIsVolatile
@@ -764,10 +580,6 @@ ___
 #### Inherited from
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[bIsVolatile](react_umg.UserWidgetProps.md#bisvolatile)
-
-#### Defined in
-
-[react-umg/index.d.ts:151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L151)
 
 ___
 
@@ -779,10 +591,6 @@ ___
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[bLockedInDesigner](react_umg.UserWidgetProps.md#blockedindesigner)
 
-#### Defined in
-
-[react-umg/index.d.ts:154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L154)
-
 ___
 
 ### bOverrideAccessibleDefaults
@@ -792,10 +600,6 @@ ___
 #### Inherited from
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[bOverrideAccessibleDefaults](react_umg.UserWidgetProps.md#boverrideaccessibledefaults)
-
-#### Defined in
-
-[react-umg/index.d.ts:143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L143)
 
 ___
 
@@ -807,10 +611,6 @@ ___
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[bOverride_Cursor](react_umg.UserWidgetProps.md#boverride_cursor)
 
-#### Defined in
-
-[react-umg/index.d.ts:142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L142)
-
 ___
 
 ### bStopAction
@@ -821,10 +621,6 @@ ___
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[bStopAction](react_umg.UserWidgetProps.md#bstopaction)
 
-#### Defined in
-
-[react-umg/index.d.ts:182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L182)
-
 ___
 
 ### bSupportsKeyboardFocus
@@ -834,7 +630,3 @@ ___
 #### Inherited from
 
 [UserWidgetProps](react_umg.UserWidgetProps.md).[bSupportsKeyboardFocus](react_umg.UserWidgetProps.md#bsupportskeyboardfocus)
-
-#### Defined in
-
-[react-umg/index.d.ts:180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L180)

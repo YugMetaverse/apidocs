@@ -38,10 +38,6 @@
 
 • **new RigidBodyErrorCorrection**()
 
-#### Defined in
-
-[ue/ue.d.ts:57554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57554)
-
 • **new RigidBodyErrorCorrection**(`PingExtrapolation`, `PingLimit`, `ErrorPerLinearDifference`, `ErrorPerAngularDifference`, `MaxRestoredStateError`, `MaxLinearHardSnapDistance`, `PositionLerp`, `AngleLerp`, `LinearVelocityCoefficient`, `AngularVelocityCoefficient`, `ErrorAccumulationSeconds`, `ErrorAccumulationDistanceSq`, `ErrorAccumulationSimilarity`)
 
 #### Parameters
@@ -62,19 +58,11 @@
 | `ErrorAccumulationDistanceSq` | `number` |
 | `ErrorAccumulationSimilarity` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:57555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57555)
-
 ## Properties
 
 ### AngleLerp
 
 • **AngleLerp**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57563)
 
 ___
 
@@ -82,19 +70,11 @@ ___
 
 • **AngularVelocityCoefficient**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57565)
-
 ___
 
 ### ErrorAccumulationDistanceSq
 
 • **ErrorAccumulationDistanceSq**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57567)
 
 ___
 
@@ -102,19 +82,11 @@ ___
 
 • **ErrorAccumulationSeconds**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57566)
-
 ___
 
 ### ErrorAccumulationSimilarity
 
 • **ErrorAccumulationSimilarity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57568)
 
 ___
 
@@ -122,19 +94,11 @@ ___
 
 • **ErrorPerAngularDifference**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57559](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57559)
-
 ___
 
 ### ErrorPerLinearDifference
 
 • **ErrorPerLinearDifference**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57558](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57558)
 
 ___
 
@@ -142,19 +106,11 @@ ___
 
 • **LinearVelocityCoefficient**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57564)
-
 ___
 
 ### MaxLinearHardSnapDistance
 
 • **MaxLinearHardSnapDistance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57561)
 
 ___
 
@@ -162,19 +118,11 @@ ___
 
 • **MaxRestoredStateError**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57560)
-
 ___
 
 ### PingExtrapolation
 
 • **PingExtrapolation**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57556)
 
 ___
 
@@ -182,29 +130,17 @@ ___
 
 • **PingLimit**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57557)
-
 ___
 
 ### PositionLerp
 
 • **PositionLerp**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57562)
-
 ___
 
 ### \_\_tid\_RigidBodyErrorCorrection\_\_
 
 • `Private` **\_\_tid\_RigidBodyErrorCorrection\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57574)
 
 ## Methods
 
@@ -220,10 +156,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57572)
-
 ___
 
 ### StaticStruct
@@ -233,7 +165,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57573)

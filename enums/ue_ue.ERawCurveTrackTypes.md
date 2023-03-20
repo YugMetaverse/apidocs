@@ -20,19 +20,11 @@
 
 • **RCT\_Float** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16601)
-
 ___
 
 ### RCT\_MAX
 
 • **RCT\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16601)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **RCT\_Transform** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16601)
-
 ___
 
 ### RCT\_Vector
 
 • **RCT\_Vector** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16601)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16601)

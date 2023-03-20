@@ -77,19 +77,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:60170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60170)
-
 ## Properties
 
 ### ActorFilter
 
 • **ActorFilter**: [`SequenceRecorderActorFilter`](ue_ue.SequenceRecorderActorFilter.md)
-
-#### Defined in
-
-[ue/ue.d.ts:60190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60190)
 
 ___
 
@@ -97,19 +89,11 @@ ___
 
 • **ActorsAndPropertiesToRecord**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PropertiesToRecordForActorClass`](ue_ue.PropertiesToRecordForActorClass.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:60195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60195)
-
 ___
 
 ### AnimationSubDirectory
 
 • **AnimationSubDirectory**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:60178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60178)
 
 ___
 
@@ -117,19 +101,11 @@ ___
 
 • **AudioGain**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:60180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60180)
-
 ___
 
 ### AudioSubDirectory
 
 • **AudioSubDirectory**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:60184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60184)
 
 ___
 
@@ -137,19 +113,11 @@ ___
 
 • **AudioTrackName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:60183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60183)
-
 ___
 
 ### ClassesAndPropertiesToRecord
 
 • **ClassesAndPropertiesToRecord**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PropertiesToRecordForClass`](ue_ue.PropertiesToRecordForClass.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:60194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60194)
 
 ___
 
@@ -157,19 +125,11 @@ ___
 
 • **DefaultAnimationSettings**: [`AnimationRecordingSettings`](ue_ue.AnimationRecordingSettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:60192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60192)
-
 ___
 
 ### GlobalTimeDilation
 
 • **GlobalTimeDilation**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:60176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60176)
 
 ___
 
@@ -177,19 +137,11 @@ ___
 
 • **LevelSequenceActorsToTrigger**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`TLazyObjectPtr`](../modules/ue_puerts.md#tlazyobjectptr)<[`LevelSequenceActor`](ue_ue.LevelSequenceActor.md)\>\>
 
-#### Defined in
-
-[ue/ue.d.ts:60191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60191)
-
 ___
 
 ### NearbyActorRecordingProximity
 
 • **NearbyActorRecordingProximity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:60186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60186)
 
 ___
 
@@ -197,19 +149,11 @@ ___
 
 • **PerActorSettings**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SettingsForActorClass`](ue_ue.SettingsForActorClass.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:60196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60196)
-
 ___
 
 ### RecordAudio
 
 • **RecordAudio**: [`EAudioRecordingMode`](../enums/ue_ue.EAudioRecordingMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:60179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60179)
 
 ___
 
@@ -217,19 +161,11 @@ ___
 
 • **RecordingDelay**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:60174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60174)
-
 ___
 
 ### SequenceLength
 
 • **SequenceLength**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:60173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60173)
 
 ___
 
@@ -241,19 +177,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_SequenceRecorderSettings\_\_
 
 • **\_\_tid\_SequenceRecorderSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:60201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60201)
 
 ___
 
@@ -261,19 +189,11 @@ ___
 
 • **bAllowLooping**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:60175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60175)
-
 ___
 
 ### bAutoSaveAsset
 
 • **bAutoSaveAsset**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:60189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60189)
 
 ___
 
@@ -281,19 +201,11 @@ ___
 
 • **bCreateLevelSequence**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:60171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60171)
-
 ___
 
 ### bIgnoreTimeDilation
 
 • **bIgnoreTimeDilation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:60177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60177)
 
 ___
 
@@ -301,19 +213,11 @@ ___
 
 • **bImmersiveMode**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:60172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60172)
-
 ___
 
 ### bRecordNearbySpawnedActors
 
 • **bRecordNearbySpawnedActors**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:60185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60185)
 
 ___
 
@@ -321,19 +225,11 @@ ___
 
 • **bRecordSequencerSpawnedActors**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:60193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60193)
-
 ___
 
 ### bRecordWorldSettingsActor
 
 • **bRecordWorldSettingsActor**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:60187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60187)
 
 ___
 
@@ -341,29 +237,17 @@ ___
 
 • **bReduceKeys**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:60188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60188)
-
 ___
 
 ### bReplaceRecordedAudio
 
 • **bReplaceRecordedAudio**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:60182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60182)
-
 ___
 
 ### bSplitAudioChannelsIntoSeparateTracks
 
 • **bSplitAudioChannelsIntoSeparateTracks**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:60181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60181)
 
 ## Methods
 
@@ -389,10 +273,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -413,10 +293,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -430,10 +306,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -449,10 +321,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -467,10 +335,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -484,10 +348,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -510,10 +370,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:60198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60198)
-
 ___
 
 ### Load
@@ -534,10 +390,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:60199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60199)
-
 ___
 
 ### StaticClass
@@ -551,7 +403,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:60197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60197)

@@ -20,19 +20,11 @@
 
 • **Constant** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34867)
-
 ___
 
 ### EVectorVMOperandLocation\_MAX
 
 • **EVectorVMOperandLocation\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34867)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Num** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34867)
-
 ___
 
 ### Register
 
 • **Register** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34867)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34867)

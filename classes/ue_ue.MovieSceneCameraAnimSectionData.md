@@ -31,10 +31,6 @@
 
 • **new MovieSceneCameraAnimSectionData**()
 
-#### Defined in
-
-[ue/ue.d.ts:51355](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51355)
-
 • **new MovieSceneCameraAnimSectionData**(`CameraAnim`, `PlayRate`, `PlayScale`, `BlendInTime`, `BlendOutTime`, `bLooping`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `BlendOutTime` | `number` |
 | `bLooping` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:51356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51356)
-
 ## Properties
 
 ### BlendInTime
 
 • **BlendInTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:51360](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51360)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **BlendOutTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:51361](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51361)
-
 ___
 
 ### CameraAnim
 
 • **CameraAnim**: [`CameraAnim`](ue_ue.CameraAnim.md)
-
-#### Defined in
-
-[ue/ue.d.ts:51357](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51357)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **PlayRate**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:51358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51358)
-
 ___
 
 ### PlayScale
 
 • **PlayScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:51359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51359)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • `Private` **\_\_tid\_MovieSceneCameraAnimSectionData\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:51368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51368)
-
 ___
 
 ### bLooping
 
 • **bLooping**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:51362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51362)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:51366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51366)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:51367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51367)

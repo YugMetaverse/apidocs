@@ -61,10 +61,6 @@
 
 [GameInstance](ue_ue.GameInstance.md).[constructor](ue_ue.GameInstance.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:35468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35468)
-
 ## Properties
 
 ### LocalPlayers
@@ -74,10 +70,6 @@
 #### Inherited from
 
 [GameInstance](ue_ue.GameInstance.md).[LocalPlayers](ue_ue.GameInstance.md#localplayers)
-
-#### Defined in
-
-[ue/ue.d.ts:10190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10190)
 
 ___
 
@@ -89,10 +81,6 @@ ___
 
 [GameInstance](ue_ue.GameInstance.md).[OnlineSession](ue_ue.GameInstance.md#onlinesession)
 
-#### Defined in
-
-[ue/ue.d.ts:10191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10191)
-
 ___
 
 ### ReferencedObjects
@@ -103,19 +91,11 @@ ___
 
 [GameInstance](ue_ue.GameInstance.md).[ReferencedObjects](ue_ue.GameInstance.md#referencedobjects)
 
-#### Defined in
-
-[ue/ue.d.ts:10192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10192)
-
 ___
 
 ### \_\_tid\_FFITestGameInstance\_\_
 
 • **\_\_tid\_FFITestGameInstance\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35473](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35473)
 
 ___
 
@@ -127,10 +107,6 @@ ___
 
 [GameInstance](ue_ue.GameInstance.md).[__tid_GameInstance__](ue_ue.GameInstance.md#__tid_gameinstance__)
 
-#### Defined in
-
-[ue/ue.d.ts:10203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10203)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -140,10 +116,6 @@ ___
 #### Inherited from
 
 [GameInstance](ue_ue.GameInstance.md).[__tid_Object__](ue_ue.GameInstance.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -169,10 +141,6 @@ ___
 
 [GameInstance](ue_ue.GameInstance.md).[CreateDefaultSubobject](ue_ue.GameInstance.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### DebugCreatePlayer
@@ -192,10 +160,6 @@ ___
 #### Inherited from
 
 [GameInstance](ue_ue.GameInstance.md).[DebugCreatePlayer](ue_ue.GameInstance.md#debugcreateplayer)
-
-#### Defined in
-
-[ue/ue.d.ts:10193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10193)
 
 ___
 
@@ -217,10 +181,6 @@ ___
 
 [GameInstance](ue_ue.GameInstance.md).[DebugRemovePlayer](ue_ue.GameInstance.md#debugremoveplayer)
 
-#### Defined in
-
-[ue/ue.d.ts:10194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10194)
-
 ___
 
 ### ExecuteUbergraph
@@ -241,10 +201,6 @@ ___
 
 [GameInstance](ue_ue.GameInstance.md).[ExecuteUbergraph](ue_ue.GameInstance.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -258,10 +214,6 @@ ___
 #### Inherited from
 
 [GameInstance](ue_ue.GameInstance.md).[GetClass](ue_ue.GameInstance.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -277,10 +229,6 @@ ___
 
 [GameInstance](ue_ue.GameInstance.md).[GetName](ue_ue.GameInstance.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -295,10 +243,6 @@ ___
 
 [GameInstance](ue_ue.GameInstance.md).[GetOuter](ue_ue.GameInstance.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -312,10 +256,6 @@ ___
 #### Inherited from
 
 [GameInstance](ue_ue.GameInstance.md).[GetWorld](ue_ue.GameInstance.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -338,10 +278,6 @@ ___
 
 [GameInstance](ue_ue.GameInstance.md).[HandleNetworkError](ue_ue.GameInstance.md#handlenetworkerror)
 
-#### Defined in
-
-[ue/ue.d.ts:10195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10195)
-
 ___
 
 ### HandleTravelError
@@ -362,10 +298,6 @@ ___
 
 [GameInstance](ue_ue.GameInstance.md).[HandleTravelError](ue_ue.GameInstance.md#handletravelerror)
 
-#### Defined in
-
-[ue/ue.d.ts:10196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10196)
-
 ___
 
 ### ReceiveInit
@@ -380,10 +312,6 @@ ___
 
 [GameInstance](ue_ue.GameInstance.md).[ReceiveInit](ue_ue.GameInstance.md#receiveinit)
 
-#### Defined in
-
-[ue/ue.d.ts:10197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10197)
-
 ___
 
 ### ReceiveShutdown
@@ -397,10 +325,6 @@ ___
 #### Inherited from
 
 [GameInstance](ue_ue.GameInstance.md).[ReceiveShutdown](ue_ue.GameInstance.md#receiveshutdown)
-
-#### Defined in
-
-[ue/ue.d.ts:10198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10198)
 
 ___
 
@@ -423,10 +347,6 @@ ___
 
 [GameInstance](ue_ue.GameInstance.md).[Find](ue_ue.GameInstance.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:35470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35470)
-
 ___
 
 ### Load
@@ -447,10 +367,6 @@ ___
 
 [GameInstance](ue_ue.GameInstance.md).[Load](ue_ue.GameInstance.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:35471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35471)
-
 ___
 
 ### StaticClass
@@ -464,7 +380,3 @@ ___
 #### Overrides
 
 [GameInstance](ue_ue.GameInstance.md).[StaticClass](ue_ue.GameInstance.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:35469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35469)

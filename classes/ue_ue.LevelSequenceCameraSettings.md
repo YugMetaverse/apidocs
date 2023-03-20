@@ -27,10 +27,6 @@
 
 • **new LevelSequenceCameraSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:22668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22668)
-
 • **new LevelSequenceCameraSettings**(`bOverrideAspectRatioAxisConstraint`, `AspectRatioAxisConstraint`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `bOverrideAspectRatioAxisConstraint` | `boolean` |
 | `AspectRatioAxisConstraint` | [`EAspectRatioAxisConstraint`](../enums/ue_ue.EAspectRatioAxisConstraint.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:22669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22669)
-
 ## Properties
 
 ### AspectRatioAxisConstraint
 
 • **AspectRatioAxisConstraint**: [`EAspectRatioAxisConstraint`](../enums/ue_ue.EAspectRatioAxisConstraint.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22671)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • `Private` **\_\_tid\_LevelSequenceCameraSettings\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:22677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22677)
-
 ___
 
 ### bOverrideAspectRatioAxisConstraint
 
 • **bOverrideAspectRatioAxisConstraint**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22670)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22675)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22676)

@@ -93,10 +93,6 @@
 
 [NetDriver](ue_ue.NetDriver.md).[constructor](ue_ue.NetDriver.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:40579](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40579)
-
 ## Properties
 
 ### ActorChannelPool
@@ -107,19 +103,11 @@
 
 [NetDriver](ue_ue.NetDriver.md).[ActorChannelPool](ue_ue.NetDriver.md#actorchannelpool)
 
-#### Defined in
-
-[ue/ue.d.ts:10416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10416)
-
 ___
 
 ### AllowPlayerPortUnreach
 
 • **AllowPlayerPortUnreach**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40581)
 
 ___
 
@@ -131,10 +119,6 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[ChannelDefinitionMap](ue_ue.NetDriver.md#channeldefinitionmap)
 
-#### Defined in
-
-[ue/ue.d.ts:10415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10415)
-
 ___
 
 ### ChannelDefinitions
@@ -144,10 +128,6 @@ ___
 #### Inherited from
 
 [NetDriver](ue_ue.NetDriver.md).[ChannelDefinitions](ue_ue.NetDriver.md#channeldefinitions)
-
-#### Defined in
-
-[ue/ue.d.ts:10414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10414)
 
 ___
 
@@ -159,29 +139,17 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[ClientConnections](ue_ue.NetDriver.md#clientconnections)
 
-#### Defined in
-
-[ue/ue.d.ts:10405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10405)
-
 ___
 
 ### ClientDesiredSocketReceiveBufferBytes
 
 • **ClientDesiredSocketReceiveBufferBytes**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:40585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40585)
-
 ___
 
 ### ClientDesiredSocketSendBufferBytes
 
 • **ClientDesiredSocketSendBufferBytes**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:40586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40586)
 
 ___
 
@@ -193,10 +161,6 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[ConnectionTimeout](ue_ue.NetDriver.md#connectiontimeout)
 
-#### Defined in
-
-[ue/ue.d.ts:10400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10400)
-
 ___
 
 ### InitialConnectTimeout
@@ -206,10 +170,6 @@ ___
 #### Inherited from
 
 [NetDriver](ue_ue.NetDriver.md).[InitialConnectTimeout](ue_ue.NetDriver.md#initialconnecttimeout)
-
-#### Defined in
-
-[ue/ue.d.ts:10399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10399)
 
 ___
 
@@ -221,19 +181,11 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[KeepAliveTime](ue_ue.NetDriver.md#keepalivetime)
 
-#### Defined in
-
-[ue/ue.d.ts:10398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10398)
-
 ___
 
 ### LogPortUnreach
 
 • **LogPortUnreach**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40580)
 
 ___
 
@@ -245,10 +197,6 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[MaxClientRate](ue_ue.NetDriver.md#maxclientrate)
 
-#### Defined in
-
-[ue/ue.d.ts:10394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10394)
-
 ___
 
 ### MaxDownloadSize
@@ -258,10 +206,6 @@ ___
 #### Inherited from
 
 [NetDriver](ue_ue.NetDriver.md).[MaxDownloadSize](ue_ue.NetDriver.md#maxdownloadsize)
-
-#### Defined in
-
-[ue/ue.d.ts:10389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10389)
 
 ___
 
@@ -273,10 +217,6 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[MaxInternetClientRate](ue_ue.NetDriver.md#maxinternetclientrate)
 
-#### Defined in
-
-[ue/ue.d.ts:10393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10393)
-
 ___
 
 ### MaxNetTickRate
@@ -287,19 +227,11 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[MaxNetTickRate](ue_ue.NetDriver.md#maxnettickrate)
 
-#### Defined in
-
-[ue/ue.d.ts:10392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10392)
-
 ___
 
 ### MaxPortCountToTry
 
 • **MaxPortCountToTry**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:40582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40582)
 
 ___
 
@@ -307,19 +239,11 @@ ___
 
 • **MaxSecondsInReceive**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:40587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40587)
-
 ___
 
 ### NbPacketsBetweenReceiveTimeTest
 
 • **NbPacketsBetweenReceiveTimeTest**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:40588](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40588)
 
 ___
 
@@ -331,10 +255,6 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[NetConnectionClass](ue_ue.NetDriver.md#netconnectionclass)
 
-#### Defined in
-
-[ue/ue.d.ts:10409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10409)
-
 ___
 
 ### NetConnectionClassName
@@ -344,10 +264,6 @@ ___
 #### Inherited from
 
 [NetDriver](ue_ue.NetDriver.md).[NetConnectionClassName](ue_ue.NetDriver.md#netconnectionclassname)
-
-#### Defined in
-
-[ue/ue.d.ts:10387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10387)
 
 ___
 
@@ -359,10 +275,6 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[NetDriverName](ue_ue.NetDriver.md#netdrivername)
 
-#### Defined in
-
-[ue/ue.d.ts:10413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10413)
-
 ___
 
 ### NetServerMaxTickRate
@@ -372,10 +284,6 @@ ___
 #### Inherited from
 
 [NetDriver](ue_ue.NetDriver.md).[NetServerMaxTickRate](ue_ue.NetDriver.md#netservermaxtickrate)
-
-#### Defined in
-
-[ue/ue.d.ts:10391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10391)
 
 ___
 
@@ -387,10 +295,6 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[RecentlyDisconnectedTrackingTime](ue_ue.NetDriver.md#recentlydisconnectedtrackingtime)
 
-#### Defined in
-
-[ue/ue.d.ts:10406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10406)
-
 ___
 
 ### RelevantTimeout
@@ -400,10 +304,6 @@ ___
 #### Inherited from
 
 [NetDriver](ue_ue.NetDriver.md).[RelevantTimeout](ue_ue.NetDriver.md#relevanttimeout)
-
-#### Defined in
-
-[ue/ue.d.ts:10397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10397)
 
 ___
 
@@ -415,10 +315,6 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[RemoteRoleProperty](ue_ue.NetDriver.md#remoteroleproperty)
 
-#### Defined in
-
-[ue/ue.d.ts:10412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10412)
-
 ___
 
 ### ReplicationDriver
@@ -428,10 +324,6 @@ ___
 #### Inherited from
 
 [NetDriver](ue_ue.NetDriver.md).[ReplicationDriver](ue_ue.NetDriver.md#replicationdriver)
-
-#### Defined in
-
-[ue/ue.d.ts:10418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10418)
 
 ___
 
@@ -443,10 +335,6 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[ReplicationDriverClass](ue_ue.NetDriver.md#replicationdriverclass)
 
-#### Defined in
-
-[ue/ue.d.ts:10410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10410)
-
 ___
 
 ### ReplicationDriverClassName
@@ -456,10 +344,6 @@ ___
 #### Inherited from
 
 [NetDriver](ue_ue.NetDriver.md).[ReplicationDriverClassName](ue_ue.NetDriver.md#replicationdriverclassname)
-
-#### Defined in
-
-[ue/ue.d.ts:10388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10388)
 
 ___
 
@@ -471,10 +355,6 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[RoleProperty](ue_ue.NetDriver.md#roleproperty)
 
-#### Defined in
-
-[ue/ue.d.ts:10411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10411)
-
 ___
 
 ### ServerConnection
@@ -485,29 +365,17 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[ServerConnection](ue_ue.NetDriver.md#serverconnection)
 
-#### Defined in
-
-[ue/ue.d.ts:10404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10404)
-
 ___
 
 ### ServerDesiredSocketReceiveBufferBytes
 
 • **ServerDesiredSocketReceiveBufferBytes**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:40583](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40583)
-
 ___
 
 ### ServerDesiredSocketSendBufferBytes
 
 • **ServerDesiredSocketSendBufferBytes**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:40584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40584)
 
 ___
 
@@ -519,10 +387,6 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[ServerTravelPause](ue_ue.NetDriver.md#servertravelpause)
 
-#### Defined in
-
-[ue/ue.d.ts:10395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10395)
-
 ___
 
 ### SpawnPrioritySeconds
@@ -532,10 +396,6 @@ ___
 #### Inherited from
 
 [NetDriver](ue_ue.NetDriver.md).[SpawnPrioritySeconds](ue_ue.NetDriver.md#spawnpriorityseconds)
-
-#### Defined in
-
-[ue/ue.d.ts:10396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10396)
 
 ___
 
@@ -547,10 +407,6 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[Time](ue_ue.NetDriver.md#time)
 
-#### Defined in
-
-[ue/ue.d.ts:10417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10417)
-
 ___
 
 ### TimeoutMultiplierForUnoptimizedBuilds
@@ -560,10 +416,6 @@ ___
 #### Inherited from
 
 [NetDriver](ue_ue.NetDriver.md).[TimeoutMultiplierForUnoptimizedBuilds](ue_ue.NetDriver.md#timeoutmultiplierforunoptimizedbuilds)
-
-#### Defined in
-
-[ue/ue.d.ts:10401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10401)
 
 ___
 
@@ -575,10 +427,6 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[World](ue_ue.NetDriver.md#world)
 
-#### Defined in
-
-[ue/ue.d.ts:10407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10407)
-
 ___
 
 ### WorldPackage
@@ -589,19 +437,11 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[WorldPackage](ue_ue.NetDriver.md#worldpackage)
 
-#### Defined in
-
-[ue/ue.d.ts:10408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10408)
-
 ___
 
 ### \_\_tid\_IpNetDriver\_\_
 
 • **\_\_tid\_IpNetDriver\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40593)
 
 ___
 
@@ -613,10 +453,6 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[__tid_NetDriver__](ue_ue.NetDriver.md#__tid_netdriver__)
 
-#### Defined in
-
-[ue/ue.d.ts:10423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10423)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -626,10 +462,6 @@ ___
 #### Inherited from
 
 [NetDriver](ue_ue.NetDriver.md).[__tid_Object__](ue_ue.NetDriver.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -641,10 +473,6 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[bClampListenServerTickRate](ue_ue.NetDriver.md#bclamplistenservertickrate)
 
-#### Defined in
-
-[ue/ue.d.ts:10390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10390)
-
 ___
 
 ### bNeverApplyNetworkEmulationSettings
@@ -655,10 +483,6 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[bNeverApplyNetworkEmulationSettings](ue_ue.NetDriver.md#bneverapplynetworkemulationsettings)
 
-#### Defined in
-
-[ue/ue.d.ts:10403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10403)
-
 ___
 
 ### bNoTimeouts
@@ -668,10 +492,6 @@ ___
 #### Inherited from
 
 [NetDriver](ue_ue.NetDriver.md).[bNoTimeouts](ue_ue.NetDriver.md#bnotimeouts)
-
-#### Defined in
-
-[ue/ue.d.ts:10402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10402)
 
 ## Methods
 
@@ -697,10 +517,6 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[CreateDefaultSubobject](ue_ue.NetDriver.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -721,10 +537,6 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[ExecuteUbergraph](ue_ue.NetDriver.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -738,10 +550,6 @@ ___
 #### Inherited from
 
 [NetDriver](ue_ue.NetDriver.md).[GetClass](ue_ue.NetDriver.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -757,10 +565,6 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[GetName](ue_ue.NetDriver.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -775,10 +579,6 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[GetOuter](ue_ue.NetDriver.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -792,10 +592,6 @@ ___
 #### Inherited from
 
 [NetDriver](ue_ue.NetDriver.md).[GetWorld](ue_ue.NetDriver.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -818,10 +614,6 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[Find](ue_ue.NetDriver.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:40590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40590)
-
 ___
 
 ### Load
@@ -842,10 +634,6 @@ ___
 
 [NetDriver](ue_ue.NetDriver.md).[Load](ue_ue.NetDriver.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:40591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40591)
-
 ___
 
 ### StaticClass
@@ -859,7 +647,3 @@ ___
 #### Overrides
 
 [NetDriver](ue_ue.NetDriver.md).[StaticClass](ue_ue.NetDriver.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:40589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40589)

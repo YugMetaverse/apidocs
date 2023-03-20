@@ -354,10 +354,6 @@
 
 [NavigationData](ue_ue.NavigationData.md).[constructor](ue_ue.NavigationData.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:59113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59113)
-
 ## Properties
 
 ### ActorLabel
@@ -368,19 +364,11 @@
 
 [NavigationData](ue_ue.NavigationData.md).[ActorLabel](ue_ue.NavigationData.md#actorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13176)
-
 ___
 
 ### AgentHeight
 
 • **AgentHeight**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:59139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59139)
 
 ___
 
@@ -388,19 +376,11 @@ ___
 
 • **AgentMaxHeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:59140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59140)
-
 ___
 
 ### AgentMaxSlope
 
 • **AgentMaxSlope**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:59141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59141)
 
 ___
 
@@ -408,19 +388,11 @@ ___
 
 • **AgentMaxStepHeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:59142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59142)
-
 ___
 
 ### AgentRadius
 
 • **AgentRadius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:59138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59138)
 
 ___
 
@@ -432,10 +404,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[AttachmentReplication](ue_ue.NavigationData.md#attachmentreplication)
 
-#### Defined in
-
-[ue/ue.d.ts:13151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13151)
-
 ___
 
 ### AutoReceiveInput
@@ -445,10 +413,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[AutoReceiveInput](ue_ue.NavigationData.md#autoreceiveinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13157)
 
 ___
 
@@ -460,29 +424,17 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[BlueprintCreatedComponents](ue_ue.NavigationData.md#blueprintcreatedcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13206)
-
 ___
 
 ### CellHeight
 
 • **CellHeight**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:59137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59137)
-
 ___
 
 ### CellSize
 
 • **CellSize**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:59136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59136)
 
 ___
 
@@ -494,10 +446,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[Children](ue_ue.NavigationData.md#children)
 
-#### Defined in
-
-[ue/ue.d.ts:13166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13166)
-
 ___
 
 ### ControllingMatineeActors
@@ -507,10 +455,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[ControllingMatineeActors](ue_ue.NavigationData.md#controllingmatineeactors)
-
-#### Defined in
-
-[ue/ue.d.ts:13169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13169)
 
 ___
 
@@ -522,10 +466,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[CustomTimeDilation](ue_ue.NavigationData.md#customtimedilation)
 
-#### Defined in
-
-[ue/ue.d.ts:13150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13150)
-
 ___
 
 ### DataVersion
@@ -536,19 +476,11 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[DataVersion](ue_ue.NavigationData.md#dataversion)
 
-#### Defined in
-
-[ue/ue.d.ts:13394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13394)
-
 ___
 
 ### DefaultDrawDistance
 
 • **DefaultDrawDistance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:59152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59152)
 
 ___
 
@@ -556,19 +488,11 @@ ___
 
 • **DefaultMaxHierarchicalSearchNodes**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:59154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59154)
-
 ___
 
 ### DefaultMaxSearchNodes
 
 • **DefaultMaxSearchNodes**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:59153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59153)
 
 ___
 
@@ -580,19 +504,11 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[DefaultUpdateOverlapsMethodDuringLevelStreaming](ue_ue.NavigationData.md#defaultupdateoverlapsmethodduringlevelstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:13146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13146)
-
 ___
 
 ### DrawOffset
 
 • **DrawOffset**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:59132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59132)
 
 ___
 
@@ -604,10 +520,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[FolderPath](ue_ue.NavigationData.md#folderpath)
 
-#### Defined in
-
-[ue/ue.d.ts:13177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13177)
-
 ___
 
 ### GroupActor
@@ -618,19 +530,11 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GroupActor](ue_ue.NavigationData.md#groupactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13173)
-
 ___
 
 ### HeuristicScale
 
 • **HeuristicScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:59171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59171)
 
 ___
 
@@ -642,10 +546,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[HiddenEditorViews](ue_ue.NavigationData.md#hiddeneditorviews)
 
-#### Defined in
-
-[ue/ue.d.ts:13175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13175)
-
 ___
 
 ### InitialLifeSpan
@@ -655,10 +555,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[InitialLifeSpan](ue_ue.NavigationData.md#initiallifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13149)
 
 ___
 
@@ -670,10 +566,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[InputComponent](ue_ue.NavigationData.md#inputcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13159)
-
 ___
 
 ### InputPriority
@@ -683,10 +575,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[InputPriority](ue_ue.NavigationData.md#inputpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:13158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13158)
 
 ___
 
@@ -698,10 +586,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[InstanceComponents](ue_ue.NavigationData.md#instancecomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13205)
-
 ___
 
 ### Instigator
@@ -712,29 +596,17 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[Instigator](ue_ue.NavigationData.md#instigator)
 
-#### Defined in
-
-[ue/ue.d.ts:13165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13165)
-
 ___
 
 ### LayerChunkSplits
 
 • **LayerChunkSplits**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:59158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59158)
-
 ___
 
 ### LayerPartitioning
 
 • **LayerPartitioning**: [`ERecastPartitioning`](../enums/ue_ue.ERecastPartitioning.md)
-
-#### Defined in
-
-[ue/ue.d.ts:59156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59156)
 
 ___
 
@@ -746,19 +618,11 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[Layers](ue_ue.NavigationData.md#layers)
 
-#### Defined in
-
-[ue/ue.d.ts:13170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13170)
-
 ___
 
 ### MaxSimplificationError
 
 • **MaxSimplificationError**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:59145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59145)
 
 ___
 
@@ -766,19 +630,11 @@ ___
 
 • **MaxSimultaneousTileGenerationJobsCount**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:59146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59146)
-
 ___
 
 ### MergeRegionSize
 
 • **MergeRegionSize**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:59144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59144)
 
 ___
 
@@ -790,19 +646,11 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[MinNetUpdateFrequency](ue_ue.NavigationData.md#minnetupdatefrequency)
 
-#### Defined in
-
-[ue/ue.d.ts:13163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13163)
-
 ___
 
 ### MinRegionArea
 
 • **MinRegionArea**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:59143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59143)
 
 ___
 
@@ -814,19 +662,11 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[NavDataConfig](ue_ue.NavigationData.md#navdataconfig)
 
-#### Defined in
-
-[ue/ue.d.ts:13385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13385)
-
 ___
 
 ### NavMeshOriginOffset
 
 • **NavMeshOriginOffset**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:59151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59151)
 
 ___
 
@@ -838,10 +678,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[NetCullDistanceSquared](ue_ue.NavigationData.md#netculldistancesquared)
 
-#### Defined in
-
-[ue/ue.d.ts:13160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13160)
-
 ___
 
 ### NetDormancy
@@ -851,10 +687,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[NetDormancy](ue_ue.NavigationData.md#netdormancy)
-
-#### Defined in
-
-[ue/ue.d.ts:13155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13155)
 
 ___
 
@@ -866,10 +698,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[NetDriverName](ue_ue.NavigationData.md#netdrivername)
 
-#### Defined in
-
-[ue/ue.d.ts:13153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13153)
-
 ___
 
 ### NetPriority
@@ -879,10 +707,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[NetPriority](ue_ue.NavigationData.md#netpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:13164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13164)
 
 ___
 
@@ -894,10 +718,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[NetTag](ue_ue.NavigationData.md#nettag)
 
-#### Defined in
-
-[ue/ue.d.ts:13161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13161)
-
 ___
 
 ### NetUpdateFrequency
@@ -907,10 +727,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[NetUpdateFrequency](ue_ue.NavigationData.md#netupdatefrequency)
-
-#### Defined in
-
-[ue/ue.d.ts:13162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13162)
 
 ___
 
@@ -922,10 +738,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[ObservedPathsTickInterval](ue_ue.NavigationData.md#observedpathstickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:13393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13393)
-
 ___
 
 ### OnActorBeginOverlap
@@ -935,10 +747,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[OnActorBeginOverlap](ue_ue.NavigationData.md#onactorbeginoverlap)
-
-#### Defined in
-
-[ue/ue.d.ts:13192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13192)
 
 ___
 
@@ -950,10 +758,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[OnActorEndOverlap](ue_ue.NavigationData.md#onactorendoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13193)
-
 ___
 
 ### OnActorHit
@@ -963,10 +767,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[OnActorHit](ue_ue.NavigationData.md#onactorhit)
-
-#### Defined in
-
-[ue/ue.d.ts:13202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13202)
 
 ___
 
@@ -978,10 +778,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[OnBeginCursorOver](ue_ue.NavigationData.md#onbegincursorover)
 
-#### Defined in
-
-[ue/ue.d.ts:13194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13194)
-
 ___
 
 ### OnClicked
@@ -991,10 +787,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[OnClicked](ue_ue.NavigationData.md#onclicked)
-
-#### Defined in
-
-[ue/ue.d.ts:13196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13196)
 
 ___
 
@@ -1006,10 +798,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[OnDestroyed](ue_ue.NavigationData.md#ondestroyed)
 
-#### Defined in
-
-[ue/ue.d.ts:13203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13203)
-
 ___
 
 ### OnEndCursorOver
@@ -1019,10 +807,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[OnEndCursorOver](ue_ue.NavigationData.md#onendcursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13195)
 
 ___
 
@@ -1034,10 +818,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[OnEndPlay](ue_ue.NavigationData.md#onendplay)
 
-#### Defined in
-
-[ue/ue.d.ts:13204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13204)
-
 ___
 
 ### OnInputTouchBegin
@@ -1047,10 +827,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[OnInputTouchBegin](ue_ue.NavigationData.md#oninputtouchbegin)
-
-#### Defined in
-
-[ue/ue.d.ts:13198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13198)
 
 ___
 
@@ -1062,10 +838,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[OnInputTouchEnd](ue_ue.NavigationData.md#oninputtouchend)
 
-#### Defined in
-
-[ue/ue.d.ts:13199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13199)
-
 ___
 
 ### OnInputTouchEnter
@@ -1075,10 +847,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[OnInputTouchEnter](ue_ue.NavigationData.md#oninputtouchenter)
-
-#### Defined in
-
-[ue/ue.d.ts:13200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13200)
 
 ___
 
@@ -1090,10 +858,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[OnInputTouchLeave](ue_ue.NavigationData.md#oninputtouchleave)
 
-#### Defined in
-
-[ue/ue.d.ts:13201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13201)
-
 ___
 
 ### OnReleased
@@ -1103,10 +867,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[OnReleased](ue_ue.NavigationData.md#onreleased)
-
-#### Defined in
-
-[ue/ue.d.ts:13197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13197)
 
 ___
 
@@ -1118,10 +878,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[OnTakeAnyDamage](ue_ue.NavigationData.md#ontakeanydamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13189)
-
 ___
 
 ### OnTakePointDamage
@@ -1131,10 +887,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[OnTakePointDamage](ue_ue.NavigationData.md#ontakepointdamage)
-
-#### Defined in
-
-[ue/ue.d.ts:13190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13190)
 
 ___
 
@@ -1146,10 +898,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[OnTakeRadialDamage](ue_ue.NavigationData.md#ontakeradialdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13191)
-
 ___
 
 ### Owner
@@ -1159,10 +907,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[Owner](ue_ue.NavigationData.md#owner)
-
-#### Defined in
-
-[ue/ue.d.ts:13152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13152)
 
 ___
 
@@ -1174,10 +918,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[ParentComponent](ue_ue.NavigationData.md#parentcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13172)
-
 ___
 
 ### ParentComponentActor
@@ -1187,10 +927,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[ParentComponentActor](ue_ue.NavigationData.md#parentcomponentactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13171)
 
 ___
 
@@ -1202,19 +938,11 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[PivotOffset](ue_ue.NavigationData.md#pivotoffset)
 
-#### Defined in
-
-[ue/ue.d.ts:13168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13168)
-
 ___
 
 ### PolyRefNavPolyBits
 
 • **PolyRefNavPolyBits**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:59149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59149)
 
 ___
 
@@ -1222,19 +950,11 @@ ___
 
 • **PolyRefSaltBits**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:59150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59150)
-
 ___
 
 ### PolyRefTileBits
 
 • **PolyRefTileBits**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:59148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59148)
 
 ___
 
@@ -1246,29 +966,17 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[PrimaryActorTick](ue_ue.NavigationData.md#primaryactortick)
 
-#### Defined in
-
-[ue/ue.d.ts:13115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13115)
-
 ___
 
 ### RegionChunkSplits
 
 • **RegionChunkSplits**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:59157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59157)
-
 ___
 
 ### RegionPartitioning
 
 • **RegionPartitioning**: [`ERecastPartitioning`](../enums/ue_ue.ERecastPartitioning.md)
-
-#### Defined in
-
-[ue/ue.d.ts:59155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59155)
 
 ___
 
@@ -1280,10 +988,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[RemoteRole](ue_ue.NavigationData.md#remoterole)
 
-#### Defined in
-
-[ue/ue.d.ts:13147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13147)
-
 ___
 
 ### RenderingComp
@@ -1293,10 +997,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[RenderingComp](ue_ue.NavigationData.md#renderingcomp)
-
-#### Defined in
-
-[ue/ue.d.ts:13384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13384)
 
 ___
 
@@ -1308,10 +1008,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[ReplicatedMovement](ue_ue.NavigationData.md#replicatedmovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13148)
-
 ___
 
 ### Role
@@ -1321,10 +1017,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[Role](ue_ue.NavigationData.md#role)
-
-#### Defined in
-
-[ue/ue.d.ts:13154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13154)
 
 ___
 
@@ -1336,10 +1028,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[RootComponent](ue_ue.NavigationData.md#rootcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13167)
-
 ___
 
 ### RuntimeGeneration
@@ -1349,10 +1037,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[RuntimeGeneration](ue_ue.NavigationData.md#runtimegeneration)
-
-#### Defined in
-
-[ue/ue.d.ts:13392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13392)
 
 ___
 
@@ -1364,10 +1048,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[SpawnCollisionHandlingMethod](ue_ue.NavigationData.md#spawncollisionhandlingmethod)
 
-#### Defined in
-
-[ue/ue.d.ts:13156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13156)
-
 ___
 
 ### SpriteScale
@@ -1377,10 +1057,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[SpriteScale](ue_ue.NavigationData.md#spritescale)
-
-#### Defined in
-
-[ue/ue.d.ts:13174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13174)
 
 ___
 
@@ -1392,10 +1068,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[SupportedAreas](ue_ue.NavigationData.md#supportedareas)
 
-#### Defined in
-
-[ue/ue.d.ts:13395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13395)
-
 ___
 
 ### Tags
@@ -1406,19 +1078,11 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[Tags](ue_ue.NavigationData.md#tags)
 
-#### Defined in
-
-[ue/ue.d.ts:13188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13188)
-
 ___
 
 ### TileNumberHardLimit
 
 • **TileNumberHardLimit**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:59147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59147)
 
 ___
 
@@ -1426,29 +1090,17 @@ ___
 
 • **TilePoolSize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:59134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59134)
-
 ___
 
 ### TileSetUpdateInterval
 
 • **TileSetUpdateInterval**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:59170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59170)
-
 ___
 
 ### TileSizeUU
 
 • **TileSizeUU**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:59135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59135)
 
 ___
 
@@ -1460,19 +1112,11 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[UpdateOverlapsMethodDuringLevelStreaming](ue_ue.NavigationData.md#updateoverlapsmethodduringlevelstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:13145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13145)
-
 ___
 
 ### VerticalDeviationFromGroundCompensation
 
 • **VerticalDeviationFromGroundCompensation**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:59172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59172)
 
 ___
 
@@ -1484,10 +1128,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[__tid_Actor__](ue_ue.NavigationData.md#__tid_actor__)
 
-#### Defined in
-
-[ue/ue.d.ts:13348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13348)
-
 ___
 
 ### \_\_tid\_NavigationData\_\_
@@ -1497,10 +1137,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[__tid_NavigationData__](ue_ue.NavigationData.md#__tid_navigationdata__)
-
-#### Defined in
-
-[ue/ue.d.ts:13400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13400)
 
 ___
 
@@ -1512,19 +1148,11 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[__tid_Object__](ue_ue.NavigationData.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_RecastNavMesh\_\_
 
 • **\_\_tid\_RecastNavMesh\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59178)
 
 ___
 
@@ -1536,10 +1164,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bActorEnableCollision](ue_ue.NavigationData.md#bactorenablecollision)
 
-#### Defined in
-
-[ue/ue.d.ts:13143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13143)
-
 ___
 
 ### bActorIsBeingDestroyed
@@ -1549,10 +1173,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[bActorIsBeingDestroyed](ue_ue.NavigationData.md#bactorisbeingdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13144)
 
 ___
 
@@ -1564,10 +1184,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bActorLabelEditable](ue_ue.NavigationData.md#bactorlabeleditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13183)
-
 ___
 
 ### bActorSeamlessTraveled
@@ -1578,19 +1194,11 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bActorSeamlessTraveled](ue_ue.NavigationData.md#bactorseamlesstraveled)
 
-#### Defined in
-
-[ue/ue.d.ts:13139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13139)
-
 ___
 
 ### bAllowNavLinkAsPathEnd
 
 • **bAllowNavLinkAsPathEnd**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59168)
 
 ___
 
@@ -1602,10 +1210,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bAllowReceiveTickEventOnDedicatedServer](ue_ue.NavigationData.md#ballowreceivetickeventondedicatedserver)
 
-#### Defined in
-
-[ue/ue.d.ts:13142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13142)
-
 ___
 
 ### bAllowTickBeforeBeginPlay
@@ -1615,10 +1219,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[bAllowTickBeforeBeginPlay](ue_ue.NavigationData.md#ballowtickbeforebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13129)
 
 ___
 
@@ -1630,10 +1230,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bAlwaysRelevant](ue_ue.NavigationData.md#balwaysrelevant)
 
-#### Defined in
-
-[ue/ue.d.ts:13120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13120)
-
 ___
 
 ### bAutoDestroyWhenFinished
@@ -1643,10 +1239,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[bAutoDestroyWhenFinished](ue_ue.NavigationData.md#bautodestroywhenfinished)
-
-#### Defined in
-
-[ue/ue.d.ts:13130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13130)
 
 ___
 
@@ -1658,10 +1250,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bAutoDestroyWhenNoNavigation](ue_ue.NavigationData.md#bautodestroywhennonavigation)
 
-#### Defined in
-
-[ue/ue.d.ts:13388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13388)
-
 ___
 
 ### bBlockInput
@@ -1671,10 +1259,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[bBlockInput](ue_ue.NavigationData.md#bblockinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13131)
 
 ___
 
@@ -1686,10 +1270,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bCanBeDamaged](ue_ue.NavigationData.md#bcanbedamaged)
 
-#### Defined in
-
-[ue/ue.d.ts:13132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13132)
-
 ___
 
 ### bCanBeInCluster
@@ -1699,10 +1279,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[bCanBeInCluster](ue_ue.NavigationData.md#bcanbeincluster)
-
-#### Defined in
-
-[ue/ue.d.ts:13141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13141)
 
 ___
 
@@ -1714,10 +1290,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bCanBeMainNavData](ue_ue.NavigationData.md#bcanbemainnavdata)
 
-#### Defined in
-
-[ue/ue.d.ts:13389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13389)
-
 ___
 
 ### bCanSpawnOnRebuild
@@ -1727,10 +1299,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[bCanSpawnOnRebuild](ue_ue.NavigationData.md#bcanspawnonrebuild)
-
-#### Defined in
-
-[ue/ue.d.ts:13390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13390)
 
 ___
 
@@ -1742,19 +1310,11 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bCollideWhenPlacing](ue_ue.NavigationData.md#bcollidewhenplacing)
 
-#### Defined in
-
-[ue/ue.d.ts:13133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13133)
-
 ___
 
 ### bDistinctlyDrawTilesBeingBuilt
 
 • **bDistinctlyDrawTilesBeingBuilt**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59130)
 
 ___
 
@@ -1762,19 +1322,11 @@ ___
 
 • **bDoFullyAsyncNavDataGathering**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:59164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59164)
-
 ___
 
 ### bDrawClusters
 
 • **bDrawClusters**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59126)
 
 ___
 
@@ -1782,19 +1334,11 @@ ___
 
 • **bDrawDefaultPolygonCost**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:59122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59122)
-
 ___
 
 ### bDrawFailedNavLinks
 
 • **bDrawFailedNavLinks**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59125)
 
 ___
 
@@ -1802,19 +1346,11 @@ ___
 
 • **bDrawFilledPolys**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:59116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59116)
-
 ___
 
 ### bDrawLabelsOnPathNodes
 
 • **bDrawLabelsOnPathNodes**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59123)
 
 ___
 
@@ -1822,19 +1358,11 @@ ___
 
 • **bDrawMarkedForbiddenPolys**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:59129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59129)
-
 ___
 
 ### bDrawNavLinks
 
 • **bDrawNavLinks**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59124)
 
 ___
 
@@ -1842,19 +1370,11 @@ ___
 
 • **bDrawNavMesh**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:59131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59131)
-
 ___
 
 ### bDrawNavMeshEdges
 
 • **bDrawNavMeshEdges**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59117)
 
 ___
 
@@ -1862,19 +1382,11 @@ ___
 
 • **bDrawOctree**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:59127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59127)
-
 ___
 
 ### bDrawOctreeDetails
 
 • **bDrawOctreeDetails**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59128)
 
 ___
 
@@ -1882,19 +1394,11 @@ ___
 
 • **bDrawPathCollidingGeometry**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:59119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59119)
-
 ___
 
 ### bDrawPolyEdges
 
 • **bDrawPolyEdges**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59115)
 
 ___
 
@@ -1902,19 +1406,11 @@ ___
 
 • **bDrawPolygonLabels**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:59121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59121)
-
 ___
 
 ### bDrawTileBounds
 
 • **bDrawTileBounds**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59118)
 
 ___
 
@@ -1922,19 +1418,11 @@ ___
 
 • **bDrawTileLabels**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:59120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59120)
-
 ___
 
 ### bDrawTriangleEdges
 
 • **bDrawTriangleEdges**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59114](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59114)
 
 ___
 
@@ -1946,10 +1434,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bEditable](ue_ue.NavigationData.md#beditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13184)
-
 ___
 
 ### bEnableAutoLODGeneration
@@ -1959,10 +1443,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[bEnableAutoLODGeneration](ue_ue.NavigationData.md#benableautolodgeneration)
-
-#### Defined in
-
-[ue/ue.d.ts:13137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13137)
 
 ___
 
@@ -1974,10 +1454,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bEnableDrawing](ue_ue.NavigationData.md#benabledrawing)
 
-#### Defined in
-
-[ue/ue.d.ts:13386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13386)
-
 ___
 
 ### bExchangedRoles
@@ -1988,29 +1464,17 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bExchangedRoles](ue_ue.NavigationData.md#bexchangedroles)
 
-#### Defined in
-
-[ue/ue.d.ts:13123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13123)
-
 ___
 
 ### bFilterLowSpanFromTileCache
 
 • **bFilterLowSpanFromTileCache**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:59163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59163)
-
 ___
 
 ### bFilterLowSpanSequences
 
 • **bFilterLowSpanSequences**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59162)
 
 ___
 
@@ -2022,19 +1486,11 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bFindCameraComponentWhenViewTarget](ue_ue.NavigationData.md#bfindcameracomponentwhenviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13134)
-
 ___
 
 ### bFixedTilePoolSize
 
 • **bFixedTilePoolSize**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59133)
 
 ___
 
@@ -2046,10 +1502,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bForceRebuildOnLoad](ue_ue.NavigationData.md#bforcerebuildonload)
 
-#### Defined in
-
-[ue/ue.d.ts:13387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13387)
-
 ___
 
 ### bGenerateOverlapEventsDuringLevelStreaming
@@ -2059,10 +1511,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[bGenerateOverlapEventsDuringLevelStreaming](ue_ue.NavigationData.md#bgenerateoverlapeventsduringlevelstreaming)
-
-#### Defined in
-
-[ue/ue.d.ts:13135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13135)
 
 ___
 
@@ -2074,10 +1522,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bHidden](ue_ue.NavigationData.md#bhidden)
 
-#### Defined in
-
-[ue/ue.d.ts:13116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13116)
-
 ___
 
 ### bHiddenEd
@@ -2087,10 +1531,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[bHiddenEd](ue_ue.NavigationData.md#bhiddened)
-
-#### Defined in
-
-[ue/ue.d.ts:13178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13178)
 
 ___
 
@@ -2102,10 +1542,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bHiddenEdLayer](ue_ue.NavigationData.md#bhiddenedlayer)
 
-#### Defined in
-
-[ue/ue.d.ts:13180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13180)
-
 ___
 
 ### bHiddenEdLevel
@@ -2115,10 +1551,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[bHiddenEdLevel](ue_ue.NavigationData.md#bhiddenedlevel)
-
-#### Defined in
-
-[ue/ue.d.ts:13181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13181)
 
 ___
 
@@ -2130,10 +1562,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bHiddenEdTemporary](ue_ue.NavigationData.md#bhiddenedtemporary)
 
-#### Defined in
-
-[ue/ue.d.ts:13187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13187)
-
 ___
 
 ### bIgnoresOriginShifting
@@ -2143,10 +1571,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[bIgnoresOriginShifting](ue_ue.NavigationData.md#bignoresoriginshifting)
-
-#### Defined in
-
-[ue/ue.d.ts:13136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13136)
 
 ___
 
@@ -2158,10 +1582,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bIsEditorOnlyActor](ue_ue.NavigationData.md#biseditoronlyactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13138)
-
 ___
 
 ### bIsEditorPreviewActor
@@ -2171,10 +1591,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[bIsEditorPreviewActor](ue_ue.NavigationData.md#biseditorpreviewactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13179)
 
 ___
 
@@ -2186,10 +1602,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bListedInSceneOutliner](ue_ue.NavigationData.md#blistedinsceneoutliner)
 
-#### Defined in
-
-[ue/ue.d.ts:13185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13185)
-
 ___
 
 ### bLockLocation
@@ -2200,19 +1612,11 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bLockLocation](ue_ue.NavigationData.md#blocklocation)
 
-#### Defined in
-
-[ue/ue.d.ts:13182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13182)
-
 ___
 
 ### bMarkLowHeightAreas
 
 • **bMarkLowHeightAreas**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59161)
 
 ___
 
@@ -2224,10 +1628,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bNetLoadOnClient](ue_ue.NavigationData.md#bnetloadonclient)
 
-#### Defined in
-
-[ue/ue.d.ts:13124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13124)
-
 ___
 
 ### bNetStartup
@@ -2237,10 +1637,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[bNetStartup](ue_ue.NavigationData.md#bnetstartup)
-
-#### Defined in
-
-[ue/ue.d.ts:13118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13118)
 
 ___
 
@@ -2252,10 +1648,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bNetTemporary](ue_ue.NavigationData.md#bnettemporary)
 
-#### Defined in
-
-[ue/ue.d.ts:13117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13117)
-
 ___
 
 ### bNetUseOwnerRelevancy
@@ -2265,10 +1657,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[bNetUseOwnerRelevancy](ue_ue.NavigationData.md#bnetuseownerrelevancy)
-
-#### Defined in
-
-[ue/ue.d.ts:13125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13125)
 
 ___
 
@@ -2280,10 +1668,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bOnlyRelevantToOwner](ue_ue.NavigationData.md#bonlyrelevanttoowner)
 
-#### Defined in
-
-[ue/ue.d.ts:13119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13119)
-
 ___
 
 ### bOptimizeBPComponentData
@@ -2294,19 +1678,11 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bOptimizeBPComponentData](ue_ue.NavigationData.md#boptimizebpcomponentdata)
 
-#### Defined in
-
-[ue/ue.d.ts:13186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13186)
-
 ___
 
 ### bPerformVoxelFiltering
 
 • **bPerformVoxelFiltering**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59160)
 
 ___
 
@@ -2318,10 +1694,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bRebuildAtRuntime](ue_ue.NavigationData.md#brebuildatruntime)
 
-#### Defined in
-
-[ue/ue.d.ts:13391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13391)
-
 ___
 
 ### bRelevantForLevelBounds
@@ -2331,10 +1703,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[bRelevantForLevelBounds](ue_ue.NavigationData.md#brelevantforlevelbounds)
-
-#### Defined in
-
-[ue/ue.d.ts:13127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13127)
 
 ___
 
@@ -2346,10 +1714,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bRelevantForNetworkReplays](ue_ue.NavigationData.md#brelevantfornetworkreplays)
 
-#### Defined in
-
-[ue/ue.d.ts:13126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13126)
-
 ___
 
 ### bReplayRewindable
@@ -2359,10 +1723,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[bReplayRewindable](ue_ue.NavigationData.md#breplayrewindable)
-
-#### Defined in
-
-[ue/ue.d.ts:13128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13128)
 
 ___
 
@@ -2374,10 +1734,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bReplicateMovement](ue_ue.NavigationData.md#breplicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13121)
-
 ___
 
 ### bReplicates
@@ -2388,29 +1744,17 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bReplicates](ue_ue.NavigationData.md#breplicates)
 
-#### Defined in
-
-[ue/ue.d.ts:13140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13140)
-
 ___
 
 ### bSortNavigationAreasByCost
 
 • **bSortNavigationAreasByCost**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:59159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59159)
-
 ___
 
 ### bStoreEmptyTileLayers
 
 • **bStoreEmptyTileLayers**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59166)
 
 ___
 
@@ -2422,19 +1766,11 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[bTearOff](ue_ue.NavigationData.md#btearoff)
 
-#### Defined in
-
-[ue/ue.d.ts:13122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13122)
-
 ___
 
 ### bUseBetterOffsetsFromCorners
 
 • **bUseBetterOffsetsFromCorners**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59165)
 
 ___
 
@@ -2442,19 +1778,11 @@ ___
 
 • **bUseVirtualFilters**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:59167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59167)
-
 ___
 
 ### bUseVoxelCache
 
 • **bUseVoxelCache**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59169)
 
 ## Methods
 
@@ -2475,10 +1803,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[ActorHasTag](ue_ue.NavigationData.md#actorhastag)
-
-#### Defined in
-
-[ue/ue.d.ts:13207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13207)
 
 ___
 
@@ -2503,10 +1827,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[AddComponent](ue_ue.NavigationData.md#addcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13208)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -2527,10 +1847,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[AddTickPrerequisiteActor](ue_ue.NavigationData.md#addtickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13209)
-
 ___
 
 ### AddTickPrerequisiteComponent
@@ -2550,10 +1866,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[AddTickPrerequisiteComponent](ue_ue.NavigationData.md#addtickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13210)
 
 ___
 
@@ -2579,10 +1891,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[CreateDefaultSubobject](ue_ue.NavigationData.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### DetachRootComponentFromParent
@@ -2602,10 +1910,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[DetachRootComponentFromParent](ue_ue.NavigationData.md#detachrootcomponentfromparent)
-
-#### Defined in
-
-[ue/ue.d.ts:13211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13211)
 
 ___
 
@@ -2627,10 +1931,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[DisableInput](ue_ue.NavigationData.md#disableinput)
 
-#### Defined in
-
-[ue/ue.d.ts:13212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13212)
-
 ___
 
 ### EnableInput
@@ -2650,10 +1950,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[EnableInput](ue_ue.NavigationData.md#enableinput)
-
-#### Defined in
-
-[ue/ue.d.ts:13213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13213)
 
 ___
 
@@ -2675,10 +1971,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[ExecuteUbergraph](ue_ue.NavigationData.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### FlushNetDormancy
@@ -2693,10 +1985,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[FlushNetDormancy](ue_ue.NavigationData.md#flushnetdormancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13214)
-
 ___
 
 ### ForceNetUpdate
@@ -2710,10 +1998,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[ForceNetUpdate](ue_ue.NavigationData.md#forcenetupdate)
-
-#### Defined in
-
-[ue/ue.d.ts:13215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13215)
 
 ___
 
@@ -2737,10 +2021,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GetActorBounds](ue_ue.NavigationData.md#getactorbounds)
 
-#### Defined in
-
-[ue/ue.d.ts:13216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13216)
-
 ___
 
 ### GetActorEnableCollision
@@ -2754,10 +2034,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[GetActorEnableCollision](ue_ue.NavigationData.md#getactorenablecollision)
-
-#### Defined in
-
-[ue/ue.d.ts:13217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13217)
 
 ___
 
@@ -2780,10 +2056,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GetActorEyesViewPoint](ue_ue.NavigationData.md#getactoreyesviewpoint)
 
-#### Defined in
-
-[ue/ue.d.ts:13218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13218)
-
 ___
 
 ### GetActorForwardVector
@@ -2797,10 +2069,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[GetActorForwardVector](ue_ue.NavigationData.md#getactorforwardvector)
-
-#### Defined in
-
-[ue/ue.d.ts:13219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13219)
 
 ___
 
@@ -2816,10 +2084,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GetActorLabel](ue_ue.NavigationData.md#getactorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13220)
-
 ___
 
 ### GetActorRelativeScale3D
@@ -2833,10 +2097,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[GetActorRelativeScale3D](ue_ue.NavigationData.md#getactorrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13221)
 
 ___
 
@@ -2852,10 +2112,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GetActorRightVector](ue_ue.NavigationData.md#getactorrightvector)
 
-#### Defined in
-
-[ue/ue.d.ts:13222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13222)
-
 ___
 
 ### GetActorScale3D
@@ -2869,10 +2125,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[GetActorScale3D](ue_ue.NavigationData.md#getactorscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13223)
 
 ___
 
@@ -2888,10 +2140,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GetActorTickInterval](ue_ue.NavigationData.md#getactortickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:13224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13224)
-
 ___
 
 ### GetActorTimeDilation
@@ -2906,10 +2154,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GetActorTimeDilation](ue_ue.NavigationData.md#getactortimedilation)
 
-#### Defined in
-
-[ue/ue.d.ts:13225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13225)
-
 ___
 
 ### GetActorUpVector
@@ -2923,10 +2167,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[GetActorUpVector](ue_ue.NavigationData.md#getactorupvector)
-
-#### Defined in
-
-[ue/ue.d.ts:13226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13226)
 
 ___
 
@@ -2949,10 +2189,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GetAllChildActors](ue_ue.NavigationData.md#getallchildactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13227)
-
 ___
 
 ### GetAttachParentActor
@@ -2967,10 +2203,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GetAttachParentActor](ue_ue.NavigationData.md#getattachparentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13229)
-
 ___
 
 ### GetAttachParentSocketName
@@ -2984,10 +2216,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[GetAttachParentSocketName](ue_ue.NavigationData.md#getattachparentsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:13230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13230)
 
 ___
 
@@ -3010,10 +2238,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GetAttachedActors](ue_ue.NavigationData.md#getattachedactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13228)
-
 ___
 
 ### GetClass
@@ -3027,10 +2251,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[GetClass](ue_ue.NavigationData.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -3052,10 +2272,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GetComponentByClass](ue_ue.NavigationData.md#getcomponentbyclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13231)
-
 ___
 
 ### GetComponentsByInterface
@@ -3075,10 +2291,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[GetComponentsByInterface](ue_ue.NavigationData.md#getcomponentsbyinterface)
-
-#### Defined in
-
-[ue/ue.d.ts:13232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13232)
 
 ___
 
@@ -3101,10 +2313,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GetComponentsByTag](ue_ue.NavigationData.md#getcomponentsbytag)
 
-#### Defined in
-
-[ue/ue.d.ts:13233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13233)
-
 ___
 
 ### GetDistanceTo
@@ -3124,10 +2332,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[GetDistanceTo](ue_ue.NavigationData.md#getdistanceto)
-
-#### Defined in
-
-[ue/ue.d.ts:13234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13234)
 
 ___
 
@@ -3149,10 +2353,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GetDotProductTo](ue_ue.NavigationData.md#getdotproductto)
 
-#### Defined in
-
-[ue/ue.d.ts:13235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13235)
-
 ___
 
 ### GetFolderPath
@@ -3167,10 +2367,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GetFolderPath](ue_ue.NavigationData.md#getfolderpath)
 
-#### Defined in
-
-[ue/ue.d.ts:13236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13236)
-
 ___
 
 ### GetGameTimeSinceCreation
@@ -3184,10 +2380,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[GetGameTimeSinceCreation](ue_ue.NavigationData.md#getgametimesincecreation)
-
-#### Defined in
-
-[ue/ue.d.ts:13237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13237)
 
 ___
 
@@ -3209,10 +2401,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GetHorizontalDistanceTo](ue_ue.NavigationData.md#gethorizontaldistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13238)
-
 ___
 
 ### GetHorizontalDotProductTo
@@ -3232,10 +2420,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[GetHorizontalDotProductTo](ue_ue.NavigationData.md#gethorizontaldotproductto)
-
-#### Defined in
-
-[ue/ue.d.ts:13239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13239)
 
 ___
 
@@ -3257,10 +2441,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GetInputAxisKeyValue](ue_ue.NavigationData.md#getinputaxiskeyvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:13240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13240)
-
 ___
 
 ### GetInputAxisValue
@@ -3280,10 +2460,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[GetInputAxisValue](ue_ue.NavigationData.md#getinputaxisvalue)
-
-#### Defined in
-
-[ue/ue.d.ts:13241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13241)
 
 ___
 
@@ -3305,10 +2481,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GetInputVectorAxisValue](ue_ue.NavigationData.md#getinputvectoraxisvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:13242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13242)
-
 ___
 
 ### GetInstigator
@@ -3322,10 +2494,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[GetInstigator](ue_ue.NavigationData.md#getinstigator)
-
-#### Defined in
-
-[ue/ue.d.ts:13243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13243)
 
 ___
 
@@ -3341,10 +2509,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GetInstigatorController](ue_ue.NavigationData.md#getinstigatorcontroller)
 
-#### Defined in
-
-[ue/ue.d.ts:13244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13244)
-
 ___
 
 ### GetLifeSpan
@@ -3358,10 +2522,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[GetLifeSpan](ue_ue.NavigationData.md#getlifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13245)
 
 ___
 
@@ -3377,10 +2537,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GetLocalRole](ue_ue.NavigationData.md#getlocalrole)
 
-#### Defined in
-
-[ue/ue.d.ts:13246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13246)
-
 ___
 
 ### GetName
@@ -3395,10 +2551,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GetName](ue_ue.NavigationData.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -3412,10 +2564,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[GetOuter](ue_ue.NavigationData.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -3438,10 +2586,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GetOverlappingActors](ue_ue.NavigationData.md#getoverlappingactors)
 
-#### Defined in
-
-[ue/ue.d.ts:13247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13247)
-
 ___
 
 ### GetOverlappingComponents
@@ -3462,10 +2606,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GetOverlappingComponents](ue_ue.NavigationData.md#getoverlappingcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:13248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13248)
-
 ___
 
 ### GetOwner
@@ -3479,10 +2619,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[GetOwner](ue_ue.NavigationData.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13249)
 
 ___
 
@@ -3498,10 +2634,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GetParentActor](ue_ue.NavigationData.md#getparentactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13250)
-
 ___
 
 ### GetParentComponent
@@ -3516,10 +2648,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GetParentComponent](ue_ue.NavigationData.md#getparentcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13251)
-
 ___
 
 ### GetRemoteRole
@@ -3533,10 +2661,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[GetRemoteRole](ue_ue.NavigationData.md#getremoterole)
-
-#### Defined in
-
-[ue/ue.d.ts:13252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13252)
 
 ___
 
@@ -3558,10 +2682,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GetSquaredDistanceTo](ue_ue.NavigationData.md#getsquareddistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13253)
-
 ___
 
 ### GetTickableWhenPaused
@@ -3575,10 +2695,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[GetTickableWhenPaused](ue_ue.NavigationData.md#gettickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:13254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13254)
 
 ___
 
@@ -3594,10 +2710,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GetTransform](ue_ue.NavigationData.md#gettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13255)
-
 ___
 
 ### GetVelocity
@@ -3611,10 +2723,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[GetVelocity](ue_ue.NavigationData.md#getvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:13256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13256)
 
 ___
 
@@ -3636,10 +2744,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[GetVerticalDistanceTo](ue_ue.NavigationData.md#getverticaldistanceto)
 
-#### Defined in
-
-[ue/ue.d.ts:13257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13257)
-
 ___
 
 ### GetWorld
@@ -3653,10 +2757,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[GetWorld](ue_ue.NavigationData.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -3672,10 +2772,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[HasAuthority](ue_ue.NavigationData.md#hasauthority)
 
-#### Defined in
-
-[ue/ue.d.ts:13258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13258)
-
 ___
 
 ### IsActorBeingDestroyed
@@ -3689,10 +2785,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[IsActorBeingDestroyed](ue_ue.NavigationData.md#isactorbeingdestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13259)
 
 ___
 
@@ -3708,10 +2800,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[IsActorTickEnabled](ue_ue.NavigationData.md#isactortickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:13260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13260)
-
 ___
 
 ### IsChildActor
@@ -3725,10 +2813,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[IsChildActor](ue_ue.NavigationData.md#ischildactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13261)
 
 ___
 
@@ -3744,10 +2828,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[IsEditable](ue_ue.NavigationData.md#iseditable)
 
-#### Defined in
-
-[ue/ue.d.ts:13262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13262)
-
 ___
 
 ### IsHiddenEd
@@ -3762,10 +2842,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[IsHiddenEd](ue_ue.NavigationData.md#ishiddened)
 
-#### Defined in
-
-[ue/ue.d.ts:13263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13263)
-
 ___
 
 ### IsHiddenEdAtStartup
@@ -3779,10 +2855,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[IsHiddenEdAtStartup](ue_ue.NavigationData.md#ishiddenedatstartup)
-
-#### Defined in
-
-[ue/ue.d.ts:13264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13264)
 
 ___
 
@@ -3804,10 +2876,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[IsOverlappingActor](ue_ue.NavigationData.md#isoverlappingactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13265)
-
 ___
 
 ### IsSelectable
@@ -3821,10 +2889,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[IsSelectable](ue_ue.NavigationData.md#isselectable)
-
-#### Defined in
-
-[ue/ue.d.ts:13266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13266)
 
 ___
 
@@ -3845,10 +2909,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[IsTemporarilyHiddenInEditor](ue_ue.NavigationData.md#istemporarilyhiddenineditor)
-
-#### Defined in
-
-[ue/ue.d.ts:13267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13267)
 
 ___
 
@@ -3873,10 +2933,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[K2_AddActorLocalOffset](ue_ue.NavigationData.md#k2_addactorlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:13268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13268)
-
 ___
 
 ### K2\_AddActorLocalRotation
@@ -3899,10 +2955,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[K2_AddActorLocalRotation](ue_ue.NavigationData.md#k2_addactorlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13269)
 
 ___
 
@@ -3927,10 +2979,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[K2_AddActorLocalTransform](ue_ue.NavigationData.md#k2_addactorlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13270)
-
 ___
 
 ### K2\_AddActorWorldOffset
@@ -3953,10 +3001,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[K2_AddActorWorldOffset](ue_ue.NavigationData.md#k2_addactorworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:13271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13271)
 
 ___
 
@@ -3981,10 +3025,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[K2_AddActorWorldRotation](ue_ue.NavigationData.md#k2_addactorworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13272)
-
 ___
 
 ### K2\_AddActorWorldTransform
@@ -4007,10 +3047,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[K2_AddActorWorldTransform](ue_ue.NavigationData.md#k2_addactorworldtransform)
-
-#### Defined in
-
-[ue/ue.d.ts:13273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13273)
 
 ___
 
@@ -4035,10 +3071,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[K2_AttachRootComponentTo](ue_ue.NavigationData.md#k2_attachrootcomponentto)
 
-#### Defined in
-
-[ue/ue.d.ts:13274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13274)
-
 ___
 
 ### K2\_AttachRootComponentToActor
@@ -4061,10 +3093,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[K2_AttachRootComponentToActor](ue_ue.NavigationData.md#k2_attachrootcomponenttoactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13275)
 
 ___
 
@@ -4091,10 +3119,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[K2_AttachToActor](ue_ue.NavigationData.md#k2_attachtoactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13276)
-
 ___
 
 ### K2\_AttachToComponent
@@ -4120,10 +3144,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[K2_AttachToComponent](ue_ue.NavigationData.md#k2_attachtocomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:13277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13277)
-
 ___
 
 ### K2\_DestroyActor
@@ -4137,10 +3157,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[K2_DestroyActor](ue_ue.NavigationData.md#k2_destroyactor)
-
-#### Defined in
-
-[ue/ue.d.ts:13278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13278)
 
 ___
 
@@ -4161,10 +3177,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[K2_DestroyComponent](ue_ue.NavigationData.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13279)
 
 ___
 
@@ -4188,10 +3200,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[K2_DetachFromActor](ue_ue.NavigationData.md#k2_detachfromactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13280)
-
 ___
 
 ### K2\_GetActorLocation
@@ -4206,10 +3214,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[K2_GetActorLocation](ue_ue.NavigationData.md#k2_getactorlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:13281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13281)
-
 ___
 
 ### K2\_GetActorRotation
@@ -4223,10 +3227,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[K2_GetActorRotation](ue_ue.NavigationData.md#k2_getactorrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13282)
 
 ___
 
@@ -4248,10 +3248,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[K2_GetComponentsByClass](ue_ue.NavigationData.md#k2_getcomponentsbyclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13283)
-
 ___
 
 ### K2\_GetRootComponent
@@ -4265,10 +3261,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[K2_GetRootComponent](ue_ue.NavigationData.md#k2_getrootcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13284)
 
 ___
 
@@ -4290,10 +3282,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[K2_OnBecomeViewTarget](ue_ue.NavigationData.md#k2_onbecomeviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13285)
-
 ___
 
 ### K2\_OnEndViewTarget
@@ -4314,10 +3302,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[K2_OnEndViewTarget](ue_ue.NavigationData.md#k2_onendviewtarget)
 
-#### Defined in
-
-[ue/ue.d.ts:13286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13286)
-
 ___
 
 ### K2\_OnReset
@@ -4331,10 +3315,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[K2_OnReset](ue_ue.NavigationData.md#k2_onreset)
-
-#### Defined in
-
-[ue/ue.d.ts:13287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13287)
 
 ___
 
@@ -4354,10 +3334,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59173)
 
 ___
 
@@ -4381,10 +3357,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[K2_SetActorLocation](ue_ue.NavigationData.md#k2_setactorlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13288)
 
 ___
 
@@ -4410,10 +3382,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[K2_SetActorLocationAndRotation](ue_ue.NavigationData.md#k2_setactorlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13289)
-
 ___
 
 ### K2\_SetActorRelativeLocation
@@ -4436,10 +3404,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[K2_SetActorRelativeLocation](ue_ue.NavigationData.md#k2_setactorrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:13290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13290)
 
 ___
 
@@ -4464,10 +3428,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[K2_SetActorRelativeRotation](ue_ue.NavigationData.md#k2_setactorrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:13291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13291)
-
 ___
 
 ### K2\_SetActorRelativeTransform
@@ -4491,10 +3451,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[K2_SetActorRelativeTransform](ue_ue.NavigationData.md#k2_setactorrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13292)
-
 ___
 
 ### K2\_SetActorRotation
@@ -4515,10 +3471,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[K2_SetActorRotation](ue_ue.NavigationData.md#k2_setactorrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:13293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13293)
 
 ___
 
@@ -4543,10 +3495,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[K2_SetActorTransform](ue_ue.NavigationData.md#k2_setactortransform)
 
-#### Defined in
-
-[ue/ue.d.ts:13294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13294)
-
 ___
 
 ### K2\_TeleportTo
@@ -4568,10 +3516,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[K2_TeleportTo](ue_ue.NavigationData.md#k2_teleportto)
 
-#### Defined in
-
-[ue/ue.d.ts:13295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13295)
-
 ___
 
 ### MakeMIDForMaterial
@@ -4591,10 +3535,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[MakeMIDForMaterial](ue_ue.NavigationData.md#makemidformaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:13296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13296)
 
 ___
 
@@ -4620,10 +3560,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[MakeNoise](ue_ue.NavigationData.md#makenoise)
 
-#### Defined in
-
-[ue/ue.d.ts:13297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13297)
-
 ___
 
 ### OnRep\_AttachmentReplication
@@ -4637,10 +3573,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[OnRep_AttachmentReplication](ue_ue.NavigationData.md#onrep_attachmentreplication)
-
-#### Defined in
-
-[ue/ue.d.ts:13298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13298)
 
 ___
 
@@ -4656,10 +3588,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[OnRep_Instigator](ue_ue.NavigationData.md#onrep_instigator)
 
-#### Defined in
-
-[ue/ue.d.ts:13299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13299)
-
 ___
 
 ### OnRep\_Owner
@@ -4673,10 +3601,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[OnRep_Owner](ue_ue.NavigationData.md#onrep_owner)
-
-#### Defined in
-
-[ue/ue.d.ts:13300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13300)
 
 ___
 
@@ -4692,10 +3616,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[OnRep_ReplicateMovement](ue_ue.NavigationData.md#onrep_replicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13302)
-
 ___
 
 ### OnRep\_ReplicatedMovement
@@ -4709,10 +3629,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[OnRep_ReplicatedMovement](ue_ue.NavigationData.md#onrep_replicatedmovement)
-
-#### Defined in
-
-[ue/ue.d.ts:13301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13301)
 
 ___
 
@@ -4736,10 +3652,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[PrestreamTextures](ue_ue.NavigationData.md#prestreamtextures)
 
-#### Defined in
-
-[ue/ue.d.ts:13303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13303)
-
 ___
 
 ### ReceiveActorBeginCursorOver
@@ -4753,10 +3665,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[ReceiveActorBeginCursorOver](ue_ue.NavigationData.md#receiveactorbegincursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13304)
 
 ___
 
@@ -4778,10 +3686,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[ReceiveActorBeginOverlap](ue_ue.NavigationData.md#receiveactorbeginoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13305)
-
 ___
 
 ### ReceiveActorEndCursorOver
@@ -4795,10 +3699,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[ReceiveActorEndCursorOver](ue_ue.NavigationData.md#receiveactorendcursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:13306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13306)
 
 ___
 
@@ -4820,10 +3720,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[ReceiveActorEndOverlap](ue_ue.NavigationData.md#receiveactorendoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:13307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13307)
-
 ___
 
 ### ReceiveActorOnClicked
@@ -4843,10 +3739,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[ReceiveActorOnClicked](ue_ue.NavigationData.md#receiveactoronclicked)
-
-#### Defined in
-
-[ue/ue.d.ts:13308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13308)
 
 ___
 
@@ -4868,10 +3760,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[ReceiveActorOnInputTouchBegin](ue_ue.NavigationData.md#receiveactoroninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:13309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13309)
-
 ___
 
 ### ReceiveActorOnInputTouchEnd
@@ -4891,10 +3779,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[ReceiveActorOnInputTouchEnd](ue_ue.NavigationData.md#receiveactoroninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:13310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13310)
 
 ___
 
@@ -4916,10 +3800,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[ReceiveActorOnInputTouchEnter](ue_ue.NavigationData.md#receiveactoroninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:13311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13311)
-
 ___
 
 ### ReceiveActorOnInputTouchLeave
@@ -4940,10 +3820,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[ReceiveActorOnInputTouchLeave](ue_ue.NavigationData.md#receiveactoroninputtouchleave)
 
-#### Defined in
-
-[ue/ue.d.ts:13312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13312)
-
 ___
 
 ### ReceiveActorOnReleased
@@ -4963,10 +3839,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[ReceiveActorOnReleased](ue_ue.NavigationData.md#receiveactoronreleased)
-
-#### Defined in
-
-[ue/ue.d.ts:13313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13313)
 
 ___
 
@@ -4991,10 +3863,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[ReceiveAnyDamage](ue_ue.NavigationData.md#receiveanydamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13314)
-
 ___
 
 ### ReceiveBeginPlay
@@ -5009,10 +3877,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[ReceiveBeginPlay](ue_ue.NavigationData.md#receivebeginplay)
 
-#### Defined in
-
-[ue/ue.d.ts:13315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13315)
-
 ___
 
 ### ReceiveDestroyed
@@ -5026,10 +3890,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[ReceiveDestroyed](ue_ue.NavigationData.md#receivedestroyed)
-
-#### Defined in
-
-[ue/ue.d.ts:13316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13316)
 
 ___
 
@@ -5050,10 +3910,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[ReceiveEndPlay](ue_ue.NavigationData.md#receiveendplay)
-
-#### Defined in
-
-[ue/ue.d.ts:13317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13317)
 
 ___
 
@@ -5081,10 +3937,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[ReceiveHit](ue_ue.NavigationData.md#receivehit)
-
-#### Defined in
-
-[ue/ue.d.ts:13318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13318)
 
 ___
 
@@ -5115,10 +3967,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[ReceivePointDamage](ue_ue.NavigationData.md#receivepointdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13319)
-
 ___
 
 ### ReceiveRadialDamage
@@ -5144,10 +3992,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[ReceiveRadialDamage](ue_ue.NavigationData.md#receiveradialdamage)
 
-#### Defined in
-
-[ue/ue.d.ts:13320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13320)
-
 ___
 
 ### ReceiveTick
@@ -5167,10 +4011,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[ReceiveTick](ue_ue.NavigationData.md#receivetick)
-
-#### Defined in
-
-[ue/ue.d.ts:13321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13321)
 
 ___
 
@@ -5192,10 +4032,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[RemoveTickPrerequisiteActor](ue_ue.NavigationData.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:13322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -5215,10 +4051,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[RemoveTickPrerequisiteComponent](ue_ue.NavigationData.md#removetickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:13323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13323)
 
 ___
 
@@ -5240,10 +4072,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[SetActorEnableCollision](ue_ue.NavigationData.md#setactorenablecollision)
 
-#### Defined in
-
-[ue/ue.d.ts:13324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13324)
-
 ___
 
 ### SetActorHiddenInGame
@@ -5263,10 +4091,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[SetActorHiddenInGame](ue_ue.NavigationData.md#setactorhiddeningame)
-
-#### Defined in
-
-[ue/ue.d.ts:13325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13325)
 
 ___
 
@@ -5289,10 +4113,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[SetActorLabel](ue_ue.NavigationData.md#setactorlabel)
 
-#### Defined in
-
-[ue/ue.d.ts:13326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13326)
-
 ___
 
 ### SetActorRelativeScale3D
@@ -5312,10 +4132,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[SetActorRelativeScale3D](ue_ue.NavigationData.md#setactorrelativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:13327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13327)
 
 ___
 
@@ -5337,10 +4153,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[SetActorScale3D](ue_ue.NavigationData.md#setactorscale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:13328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13328)
-
 ___
 
 ### SetActorTickEnabled
@@ -5360,10 +4172,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[SetActorTickEnabled](ue_ue.NavigationData.md#setactortickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:13329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13329)
 
 ___
 
@@ -5385,10 +4193,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[SetActorTickInterval](ue_ue.NavigationData.md#setactortickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:13330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13330)
-
 ___
 
 ### SetFolderPath
@@ -5408,10 +4212,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[SetFolderPath](ue_ue.NavigationData.md#setfolderpath)
-
-#### Defined in
-
-[ue/ue.d.ts:13331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13331)
 
 ___
 
@@ -5433,10 +4233,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[SetIsTemporarilyHiddenInEditor](ue_ue.NavigationData.md#setistemporarilyhiddenineditor)
 
-#### Defined in
-
-[ue/ue.d.ts:13332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13332)
-
 ___
 
 ### SetLifeSpan
@@ -5456,10 +4252,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[SetLifeSpan](ue_ue.NavigationData.md#setlifespan)
-
-#### Defined in
-
-[ue/ue.d.ts:13333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13333)
 
 ___
 
@@ -5481,10 +4273,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[SetNetDormancy](ue_ue.NavigationData.md#setnetdormancy)
 
-#### Defined in
-
-[ue/ue.d.ts:13334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13334)
-
 ___
 
 ### SetOwner
@@ -5504,10 +4292,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[SetOwner](ue_ue.NavigationData.md#setowner)
-
-#### Defined in
-
-[ue/ue.d.ts:13335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13335)
 
 ___
 
@@ -5529,10 +4313,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[SetReplicateMovement](ue_ue.NavigationData.md#setreplicatemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:13336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13336)
-
 ___
 
 ### SetReplicates
@@ -5552,10 +4332,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[SetReplicates](ue_ue.NavigationData.md#setreplicates)
-
-#### Defined in
-
-[ue/ue.d.ts:13337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13337)
 
 ___
 
@@ -5577,10 +4353,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[SetTickGroup](ue_ue.NavigationData.md#settickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:13339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13339)
-
 ___
 
 ### SetTickableWhenPaused
@@ -5600,10 +4372,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[SetTickableWhenPaused](ue_ue.NavigationData.md#settickablewhenpaused)
-
-#### Defined in
-
-[ue/ue.d.ts:13338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13338)
 
 ___
 
@@ -5626,10 +4394,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[SnapRootComponentTo](ue_ue.NavigationData.md#snaprootcomponentto)
 
-#### Defined in
-
-[ue/ue.d.ts:13340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13340)
-
 ___
 
 ### TearOff
@@ -5644,10 +4408,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[TearOff](ue_ue.NavigationData.md#tearoff)
 
-#### Defined in
-
-[ue/ue.d.ts:13341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13341)
-
 ___
 
 ### UserConstructionScript
@@ -5661,10 +4421,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[UserConstructionScript](ue_ue.NavigationData.md#userconstructionscript)
-
-#### Defined in
-
-[ue/ue.d.ts:13342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13342)
 
 ___
 
@@ -5685,10 +4441,6 @@ ___
 #### Inherited from
 
 [NavigationData](ue_ue.NavigationData.md).[WasRecentlyRendered](ue_ue.NavigationData.md#wasrecentlyrendered)
-
-#### Defined in
-
-[ue/ue.d.ts:13343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13343)
 
 ___
 
@@ -5711,10 +4463,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[Find](ue_ue.NavigationData.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:59175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59175)
-
 ___
 
 ### Load
@@ -5735,10 +4483,6 @@ ___
 
 [NavigationData](ue_ue.NavigationData.md).[Load](ue_ue.NavigationData.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:59176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59176)
-
 ___
 
 ### StaticClass
@@ -5752,7 +4496,3 @@ ___
 #### Overrides
 
 [NavigationData](ue_ue.NavigationData.md).[StaticClass](ue_ue.NavigationData.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:59174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59174)

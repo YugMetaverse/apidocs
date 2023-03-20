@@ -20,19 +20,11 @@
 
 • **EHTA\_Center** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33898)
-
 ___
 
 ### EHTA\_Left
 
 • **EHTA\_Left** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33898)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **EHTA\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33898)
-
 ___
 
 ### EHTA\_Right
 
 • **EHTA\_Right** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33898)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33898)

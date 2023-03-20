@@ -27,10 +27,6 @@
 
 • **new GooglePlayLeaderboardMapping**()
 
-#### Defined in
-
-[ue/ue.d.ts:16421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16421)
-
 • **new GooglePlayLeaderboardMapping**(`Name`, `LeaderboardID`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Name` | `string` |
 | `LeaderboardID` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:16422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16422)
-
 ## Properties
 
 ### LeaderboardID
 
 • **LeaderboardID**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:16424](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16424)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:16423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16423)
-
 ___
 
 ### \_\_tid\_GooglePlayLeaderboardMapping\_\_
 
 • `Private` **\_\_tid\_GooglePlayLeaderboardMapping\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16430)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:16428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16428)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:16429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16429)

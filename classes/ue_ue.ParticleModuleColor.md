@@ -72,10 +72,6 @@
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[constructor](ue_ue.ParticleModuleColorBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:55568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55568)
-
 ## Properties
 
 ### LODDuplicate
@@ -85,10 +81,6 @@
 #### Inherited from
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[LODDuplicate](ue_ue.ParticleModuleColorBase.md#lodduplicate)
-
-#### Defined in
-
-[ue/ue.d.ts:6745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6745)
 
 ___
 
@@ -100,10 +92,6 @@ ___
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[LODValidity](ue_ue.ParticleModuleColorBase.md#lodvalidity)
 
-#### Defined in
-
-[ue/ue.d.ts:6748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6748)
-
 ___
 
 ### ModuleEditorColor
@@ -114,29 +102,17 @@ ___
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[ModuleEditorColor](ue_ue.ParticleModuleColorBase.md#moduleeditorcolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6749)
-
 ___
 
 ### StartAlpha
 
 • **StartAlpha**: [`RawDistributionFloat`](ue_ue.RawDistributionFloat.md)
 
-#### Defined in
-
-[ue/ue.d.ts:55570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55570)
-
 ___
 
 ### StartColor
 
 • **StartColor**: [`RawDistributionVector`](ue_ue.RawDistributionVector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:55569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55569)
 
 ___
 
@@ -148,10 +124,6 @@ ___
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[__tid_Object__](ue_ue.ParticleModuleColorBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ParticleModuleColorBase\_\_
@@ -162,19 +134,11 @@ ___
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[__tid_ParticleModuleColorBase__](ue_ue.ParticleModuleColorBase.md#__tid_particlemodulecolorbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:55564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55564)
-
 ___
 
 ### \_\_tid\_ParticleModuleColor\_\_
 
 • **\_\_tid\_ParticleModuleColor\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55576)
 
 ___
 
@@ -186,10 +150,6 @@ ___
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[__tid_ParticleModule__](ue_ue.ParticleModuleColorBase.md#__tid_particlemodule__)
 
-#### Defined in
-
-[ue/ue.d.ts:6754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6754)
-
 ___
 
 ### b3DDrawMode
@@ -200,19 +160,11 @@ ___
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[b3DDrawMode](ue_ue.ParticleModuleColorBase.md#b3ddrawmode)
 
-#### Defined in
-
-[ue/ue.d.ts:6741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6741)
-
 ___
 
 ### bClampAlpha
 
 • **bClampAlpha**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:55571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55571)
 
 ___
 
@@ -224,10 +176,6 @@ ___
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[bCurvesAsColor](ue_ue.ParticleModuleColorBase.md#bcurvesascolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6740)
-
 ___
 
 ### bEditable
@@ -237,10 +185,6 @@ ___
 #### Inherited from
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[bEditable](ue_ue.ParticleModuleColorBase.md#beditable)
-
-#### Defined in
-
-[ue/ue.d.ts:6744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6744)
 
 ___
 
@@ -252,10 +196,6 @@ ___
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[bEnabled](ue_ue.ParticleModuleColorBase.md#benabled)
 
-#### Defined in
-
-[ue/ue.d.ts:6743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6743)
-
 ___
 
 ### bFinalUpdateModule
@@ -265,10 +205,6 @@ ___
 #### Inherited from
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[bFinalUpdateModule](ue_ue.ParticleModuleColorBase.md#bfinalupdatemodule)
-
-#### Defined in
-
-[ue/ue.d.ts:6738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6738)
 
 ___
 
@@ -280,10 +216,6 @@ ___
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[bRequiresLoopingNotification](ue_ue.ParticleModuleColorBase.md#brequiresloopingnotification)
 
-#### Defined in
-
-[ue/ue.d.ts:6747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6747)
-
 ___
 
 ### bSpawnModule
@@ -293,10 +225,6 @@ ___
 #### Inherited from
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[bSpawnModule](ue_ue.ParticleModuleColorBase.md#bspawnmodule)
-
-#### Defined in
-
-[ue/ue.d.ts:6736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6736)
 
 ___
 
@@ -308,10 +236,6 @@ ___
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[bSupported3DDrawMode](ue_ue.ParticleModuleColorBase.md#bsupported3ddrawmode)
 
-#### Defined in
-
-[ue/ue.d.ts:6742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6742)
-
 ___
 
 ### bSupportsRandomSeed
@@ -321,10 +245,6 @@ ___
 #### Inherited from
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[bSupportsRandomSeed](ue_ue.ParticleModuleColorBase.md#bsupportsrandomseed)
-
-#### Defined in
-
-[ue/ue.d.ts:6746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6746)
 
 ___
 
@@ -336,10 +256,6 @@ ___
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[bUpdateForGPUEmitter](ue_ue.ParticleModuleColorBase.md#bupdateforgpuemitter)
 
-#### Defined in
-
-[ue/ue.d.ts:6739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6739)
-
 ___
 
 ### bUpdateModule
@@ -349,10 +265,6 @@ ___
 #### Inherited from
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[bUpdateModule](ue_ue.ParticleModuleColorBase.md#bupdatemodule)
-
-#### Defined in
-
-[ue/ue.d.ts:6737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6737)
 
 ## Methods
 
@@ -378,10 +290,6 @@ ___
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[CreateDefaultSubobject](ue_ue.ParticleModuleColorBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -402,10 +310,6 @@ ___
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[ExecuteUbergraph](ue_ue.ParticleModuleColorBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -419,10 +323,6 @@ ___
 #### Inherited from
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[GetClass](ue_ue.ParticleModuleColorBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -438,10 +338,6 @@ ___
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[GetName](ue_ue.ParticleModuleColorBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -456,10 +352,6 @@ ___
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[GetOuter](ue_ue.ParticleModuleColorBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -473,10 +365,6 @@ ___
 #### Inherited from
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[GetWorld](ue_ue.ParticleModuleColorBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -499,10 +387,6 @@ ___
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[Find](ue_ue.ParticleModuleColorBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:55573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55573)
-
 ___
 
 ### Load
@@ -523,10 +407,6 @@ ___
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[Load](ue_ue.ParticleModuleColorBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:55574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55574)
-
 ___
 
 ### StaticClass
@@ -540,7 +420,3 @@ ___
 #### Overrides
 
 [ParticleModuleColorBase](ue_ue.ParticleModuleColorBase.md).[StaticClass](ue_ue.ParticleModuleColorBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:55572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55572)

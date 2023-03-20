@@ -21,19 +21,11 @@
 
 • **CMOT\_Float1** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31427)
-
 ___
 
 ### CMOT\_Float2
 
 • **CMOT\_Float2** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31427)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **CMOT\_Float3** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31427)
-
 ___
 
 ### CMOT\_Float4
 
 • **CMOT\_Float4** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31427)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **CMOT\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31427)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31427)

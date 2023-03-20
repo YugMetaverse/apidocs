@@ -27,10 +27,6 @@
 
 • **new LevelEditorViewportInstanceSettingsKeyValuePair**()
 
-#### Defined in
-
-[ue/ue.d.ts:45030](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45030)
-
 • **new LevelEditorViewportInstanceSettingsKeyValuePair**(`ConfigName`, `ConfigSettings`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `ConfigName` | `string` |
 | `ConfigSettings` | [`LevelEditorViewportInstanceSettings`](ue_ue.LevelEditorViewportInstanceSettings.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:45031](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45031)
-
 ## Properties
 
 ### ConfigName
 
 • **ConfigName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:45032](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45032)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **ConfigSettings**: [`LevelEditorViewportInstanceSettings`](ue_ue.LevelEditorViewportInstanceSettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:45033](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45033)
-
 ___
 
 ### \_\_tid\_LevelEditorViewportInstanceSettingsKeyValuePair\_\_
 
 • `Private` **\_\_tid\_LevelEditorViewportInstanceSettingsKeyValuePair\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45039)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:45037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45037)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:45038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45038)

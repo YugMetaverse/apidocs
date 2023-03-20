@@ -28,10 +28,6 @@
 
 • **new ComponentReference**()
 
-#### Defined in
-
-[ue/ue.d.ts:25713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25713)
-
 • **new ComponentReference**(`OtherActor`, `ComponentProperty`, `PathToComponent`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `ComponentProperty` | `string` |
 | `PathToComponent` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:25714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25714)
-
 ## Properties
 
 ### ComponentProperty
 
 • **ComponentProperty**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:25716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25716)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **OtherActor**: [`Actor`](ue_ue.Actor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25715)
-
 ___
 
 ### PathToComponent
 
 • **PathToComponent**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:25717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25717)
-
 ___
 
 ### \_\_tid\_ComponentReference\_\_
 
 • `Private` **\_\_tid\_ComponentReference\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:25723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25723)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25721)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25722)

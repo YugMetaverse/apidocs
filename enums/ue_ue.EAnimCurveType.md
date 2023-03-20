@@ -21,19 +21,11 @@
 
 • **AttributeCurve** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5088)
-
 ___
 
 ### EAnimCurveType\_MAX
 
 • **EAnimCurveType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5088)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **MaterialCurve** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5088)
-
 ___
 
 ### MaxAnimCurveType
 
 • **MaxAnimCurveType** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5088)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **MorphTargetCurve** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5088)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5088)

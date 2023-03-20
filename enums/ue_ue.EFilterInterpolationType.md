@@ -20,19 +20,11 @@
 
 • **BSIT\_Average** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15159)
-
 ___
 
 ### BSIT\_Cubic
 
 • **BSIT\_Cubic** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15159)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **BSIT\_Linear** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15159)
-
 ___
 
 ### BSIT\_MAX
 
 • **BSIT\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15159)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15159)

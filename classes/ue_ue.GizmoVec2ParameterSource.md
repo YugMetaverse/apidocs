@@ -56,19 +56,11 @@
 
 [Interface](ue_ue.Interface.md).[constructor](ue_ue.Interface.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:38210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38210)
-
 ## Properties
 
 ### \_\_tid\_GizmoVec2ParameterSource\_\_
 
 • **\_\_tid\_GizmoVec2ParameterSource\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:38219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38219)
 
 ___
 
@@ -80,10 +72,6 @@ ___
 
 [Interface](ue_ue.Interface.md).[__tid_Interface__](ue_ue.Interface.md#__tid_interface__)
 
-#### Defined in
-
-[ue/ue.d.ts:8142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8142)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -94,10 +82,6 @@ ___
 
 [Interface](ue_ue.Interface.md).[__tid_Object__](ue_ue.Interface.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ## Methods
 
 ### BeginModify
@@ -107,10 +91,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:38211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38211)
 
 ___
 
@@ -136,10 +116,6 @@ ___
 
 [Interface](ue_ue.Interface.md).[CreateDefaultSubobject](ue_ue.Interface.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### EndModify
@@ -149,10 +125,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:38212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38212)
 
 ___
 
@@ -174,10 +146,6 @@ ___
 
 [Interface](ue_ue.Interface.md).[ExecuteUbergraph](ue_ue.Interface.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -191,10 +159,6 @@ ___
 #### Inherited from
 
 [Interface](ue_ue.Interface.md).[GetClass](ue_ue.Interface.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -210,10 +174,6 @@ ___
 
 [Interface](ue_ue.Interface.md).[GetName](ue_ue.Interface.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -228,10 +188,6 @@ ___
 
 [Interface](ue_ue.Interface.md).[GetOuter](ue_ue.Interface.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetParameter
@@ -241,10 +197,6 @@ ___
 #### Returns
 
 [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:38213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38213)
 
 ___
 
@@ -259,10 +211,6 @@ ___
 #### Inherited from
 
 [Interface](ue_ue.Interface.md).[GetWorld](ue_ue.Interface.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -279,10 +227,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:38214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38214)
 
 ___
 
@@ -305,10 +249,6 @@ ___
 
 [Interface](ue_ue.Interface.md).[Find](ue_ue.Interface.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:38216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38216)
-
 ___
 
 ### Load
@@ -329,10 +269,6 @@ ___
 
 [Interface](ue_ue.Interface.md).[Load](ue_ue.Interface.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:38217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38217)
-
 ___
 
 ### StaticClass
@@ -346,7 +282,3 @@ ___
 #### Overrides
 
 [Interface](ue_ue.Interface.md).[StaticClass](ue_ue.Interface.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:38215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38215)

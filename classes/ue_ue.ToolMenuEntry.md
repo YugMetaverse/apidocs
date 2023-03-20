@@ -33,10 +33,6 @@
 
 • **new ToolMenuEntry**()
 
-#### Defined in
-
-[ue/ue.d.ts:63858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63858)
-
 • **new ToolMenuEntry**(`Name`, `Owner`, `Type`, `UserInterfaceActionType`, `TutorialHighlightName`, `InsertPosition`, `bShouldCloseWindowAfterMenuSelection`, `ScriptObject`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `bShouldCloseWindowAfterMenuSelection` | `boolean` |
 | `ScriptObject` | [`ToolMenuEntryScript`](ue_ue.ToolMenuEntryScript.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:63859](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63859)
-
 ## Properties
 
 ### InsertPosition
 
 • **InsertPosition**: [`ToolMenuInsert`](ue_ue.ToolMenuInsert.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63865)
 
 ___
 
@@ -72,19 +60,11 @@ ___
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:63860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63860)
-
 ___
 
 ### Owner
 
 • **Owner**: [`ToolMenuOwner`](ue_ue.ToolMenuOwner.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63861)
 
 ___
 
@@ -92,19 +72,11 @@ ___
 
 • **ScriptObject**: [`ToolMenuEntryScript`](ue_ue.ToolMenuEntryScript.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63867)
-
 ___
 
 ### TutorialHighlightName
 
 • **TutorialHighlightName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:63864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63864)
 
 ___
 
@@ -112,19 +84,11 @@ ___
 
 • **Type**: [`EMultiBlockType`](../enums/ue_ue.EMultiBlockType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63862)
-
 ___
 
 ### UserInterfaceActionType
 
 • **UserInterfaceActionType**: [`EUserInterfaceActionType`](../enums/ue_ue.EUserInterfaceActionType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63863)
 
 ___
 
@@ -132,19 +96,11 @@ ___
 
 • `Private` **\_\_tid\_ToolMenuEntry\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:63873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63873)
-
 ___
 
 ### bShouldCloseWindowAfterMenuSelection
 
 • **bShouldCloseWindowAfterMenuSelection**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:63866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63866)
 
 ## Methods
 
@@ -160,10 +116,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63871)
-
 ___
 
 ### StaticStruct
@@ -173,7 +125,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63872)

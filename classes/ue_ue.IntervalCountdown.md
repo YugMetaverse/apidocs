@@ -26,10 +26,6 @@
 
 • **new IntervalCountdown**()
 
-#### Defined in
-
-[ue/ue.d.ts:25231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25231)
-
 • **new IntervalCountdown**(`Interval`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Interval` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:25232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25232)
-
 ## Properties
 
 ### Interval
 
 • **Interval**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:25233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25233)
-
 ___
 
 ### \_\_tid\_IntervalCountdown\_\_
 
 • `Private` **\_\_tid\_IntervalCountdown\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:25239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25239)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:25237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25237)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:25238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25238)

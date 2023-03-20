@@ -30,10 +30,6 @@
 
 • **new LevelEditorPlayNetworkEmulationSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:44879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44879)
-
 • **new LevelEditorPlayNetworkEmulationSettings**(`bIsNetworkEmulationEnabled`, `EmulationTarget`, `CurrentProfile`, `OutPackets`, `InPackets`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `OutPackets` | [`NetworkEmulationPacketSettings`](ue_ue.NetworkEmulationPacketSettings.md) |
 | `InPackets` | [`NetworkEmulationPacketSettings`](ue_ue.NetworkEmulationPacketSettings.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:44880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44880)
-
 ## Properties
 
 ### CurrentProfile
 
 • **CurrentProfile**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:44883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44883)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **EmulationTarget**: [`NetworkEmulationTarget`](../enums/ue_ue.NetworkEmulationTarget.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44882)
-
 ___
 
 ### InPackets
 
 • **InPackets**: [`NetworkEmulationPacketSettings`](ue_ue.NetworkEmulationPacketSettings.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44885)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **OutPackets**: [`NetworkEmulationPacketSettings`](ue_ue.NetworkEmulationPacketSettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44884)
-
 ___
 
 ### \_\_tid\_LevelEditorPlayNetworkEmulationSettings\_\_
 
 • `Private` **\_\_tid\_LevelEditorPlayNetworkEmulationSettings\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44891)
-
 ___
 
 ### bIsNetworkEmulationEnabled
 
 • **bIsNetworkEmulationEnabled**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44881)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44889)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44890)

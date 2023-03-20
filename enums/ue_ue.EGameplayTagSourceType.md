@@ -23,19 +23,11 @@
 
 • **DataTable** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33882)
-
 ___
 
 ### DefaultTagList
 
 • **DefaultTagList** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33882)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **EGameplayTagSourceType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33882)
-
 ___
 
 ### Invalid
 
 • **Invalid** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33882)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **Native** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33882)
-
 ___
 
 ### RestrictedTagList
 
 • **RestrictedTagList** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33882)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **TagList** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33882)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33882)

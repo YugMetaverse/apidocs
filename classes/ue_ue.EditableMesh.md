@@ -184,19 +184,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:31958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31958)
-
 ## Properties
 
 ### Adapters
 
 • **Adapters**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`EditableMeshAdapter`](ue_ue.EditableMeshAdapter.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:31959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31959)
 
 ___
 
@@ -204,19 +196,11 @@ ___
 
 • **PendingCompactCounter**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31961)
-
 ___
 
 ### SubdivisionCount
 
 • **SubdivisionCount**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31962)
 
 ___
 
@@ -224,19 +208,11 @@ ___
 
 • **TextureCoordinateCount**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31960)
-
 ___
 
 ### \_\_tid\_EditableMesh\_\_
 
 • **\_\_tid\_EditableMesh\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32096](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32096)
 
 ___
 
@@ -248,10 +224,6 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ## Methods
 
 ### AnyChangesToUndo
@@ -261,10 +233,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31963)
 
 ___
 
@@ -282,10 +250,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:31964](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31964)
 
 ___
 
@@ -307,10 +271,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:31965](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31965)
-
 ___
 
 ### ChangePolygonsVertexInstances
@@ -327,10 +287,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:31966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31966)
-
 ___
 
 ### Commit
@@ -340,10 +296,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:31967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31967)
 
 ___
 
@@ -361,10 +313,6 @@ ___
 
 [`EditableMesh`](ue_ue.EditableMesh.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31968)
-
 ___
 
 ### ComputeBoundingBox
@@ -375,10 +323,6 @@ ___
 
 [`Box`](ue_ue.Box.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31969)
-
 ___
 
 ### ComputeBoundingBoxAndSphere
@@ -388,10 +332,6 @@ ___
 #### Returns
 
 [`BoxSphereBounds`](ue_ue.BoxSphereBounds.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31970)
 
 ___
 
@@ -409,10 +349,6 @@ ___
 
 [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31971)
-
 ___
 
 ### ComputePolygonNormal
@@ -428,10 +364,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31972)
 
 ___
 
@@ -449,10 +381,6 @@ ___
 
 [`Plane`](ue_ue.Plane.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31973)
-
 ___
 
 ### ComputePolygonsSharedEdges
@@ -469,10 +397,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:31974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31974)
 
 ___
 
@@ -498,10 +422,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### CreateEdges
@@ -518,10 +438,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:31975](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31975)
 
 ___
 
@@ -540,10 +456,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:31976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31976)
-
 ___
 
 ### CreateMissingPolygonPerimeterEdges
@@ -561,10 +473,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:31977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31977)
-
 ___
 
 ### CreatePolygonGroups
@@ -581,10 +489,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:31978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31978)
 
 ___
 
@@ -604,10 +508,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:31979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31979)
-
 ___
 
 ### CreateVertexInstances
@@ -625,10 +525,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:31980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31980)
-
 ___
 
 ### CreateVertices
@@ -645,10 +541,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:31981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31981)
 
 ___
 
@@ -670,10 +562,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:31982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31982)
-
 ___
 
 ### DeleteEdges
@@ -691,10 +579,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:31983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31983)
-
 ___
 
 ### DeleteOrphanVertices
@@ -711,10 +595,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:31984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31984)
-
 ___
 
 ### DeletePolygonGroups
@@ -730,10 +610,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:31985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31985)
 
 ___
 
@@ -755,10 +631,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:31986](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31986)
-
 ___
 
 ### DeleteVertexAndConnectedEdgesAndPolygons
@@ -779,10 +651,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:31987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31987)
-
 ___
 
 ### DeleteVertexInstances
@@ -800,10 +668,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:31988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31988)
-
 ___
 
 ### EndModification
@@ -819,10 +683,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:31989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31989)
 
 ___
 
@@ -844,10 +704,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### ExtendEdges
@@ -865,10 +721,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:31990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31990)
 
 ___
 
@@ -889,10 +741,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:31991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31991)
-
 ___
 
 ### ExtrudePolygons
@@ -911,10 +759,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:31992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31992)
 
 ___
 
@@ -936,10 +780,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:31993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31993)
-
 ___
 
 ### FindPolygonPerimeterEdgeNumberForVertices
@@ -958,10 +798,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31994)
-
 ___
 
 ### FindPolygonPerimeterVertexNumberForVertex
@@ -979,10 +815,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31995)
-
 ___
 
 ### FlipPolygons
@@ -998,10 +830,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:31996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31996)
 
 ___
 
@@ -1019,10 +847,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:31997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31997)
-
 ___
 
 ### GetClass
@@ -1036,10 +860,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -1058,10 +878,6 @@ ___
 
 [`PolygonID`](ue_ue.PolygonID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31998)
-
 ___
 
 ### GetEdgeConnectedPolygonCount
@@ -1077,10 +893,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31999)
 
 ___
 
@@ -1099,10 +911,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32000)
-
 ___
 
 ### GetEdgeCount
@@ -1112,10 +920,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32001)
 
 ___
 
@@ -1134,10 +938,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32002)
-
 ___
 
 ### GetEdgeThatConnectsVertices
@@ -1155,10 +955,6 @@ ___
 
 [`EdgeID`](ue_ue.EdgeID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32003)
-
 ___
 
 ### GetEdgeVertex
@@ -1175,10 +971,6 @@ ___
 #### Returns
 
 [`VertexID`](ue_ue.VertexID.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32004)
 
 ___
 
@@ -1198,10 +990,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32005)
-
 ___
 
 ### GetFirstValidPolygonGroup
@@ -1211,10 +999,6 @@ ___
 #### Returns
 
 [`PolygonGroupID`](ue_ue.PolygonGroupID.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32006)
 
 ___
 
@@ -1232,10 +1016,6 @@ ___
 
 [`PolygonGroupID`](ue_ue.PolygonGroupID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32007)
-
 ___
 
 ### GetName
@@ -1250,10 +1030,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -1267,10 +1043,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -1289,10 +1061,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32008)
-
 ___
 
 ### GetPolygonCount
@@ -1302,10 +1070,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32009)
 
 ___
 
@@ -1323,10 +1087,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32010)
-
 ___
 
 ### GetPolygonGroupCount
@@ -1336,10 +1096,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32011)
 
 ___
 
@@ -1357,10 +1113,6 @@ ___
 #### Returns
 
 [`PolygonID`](ue_ue.PolygonID.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32012)
 
 ___
 
@@ -1380,10 +1132,6 @@ ___
 
 [`EdgeID`](ue_ue.EdgeID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32013)
-
 ___
 
 ### GetPolygonPerimeterEdgeCount
@@ -1399,10 +1147,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32014)
 
 ___
 
@@ -1421,10 +1165,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32015)
-
 ___
 
 ### GetPolygonPerimeterVertex
@@ -1442,10 +1182,6 @@ ___
 
 [`VertexID`](ue_ue.VertexID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32016)
-
 ___
 
 ### GetPolygonPerimeterVertexCount
@@ -1461,10 +1197,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32017)
 
 ___
 
@@ -1483,10 +1215,6 @@ ___
 
 [`VertexInstanceID`](ue_ue.VertexInstanceID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32018)
-
 ___
 
 ### GetPolygonPerimeterVertexInstances
@@ -1503,10 +1231,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32019)
 
 ___
 
@@ -1525,10 +1249,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32020)
-
 ___
 
 ### GetPolygonTriangulatedTriangle
@@ -1546,10 +1266,6 @@ ___
 
 [`TriangleID`](ue_ue.TriangleID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32021)
-
 ___
 
 ### GetPolygonTriangulatedTriangleCount
@@ -1566,10 +1282,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32022)
-
 ___
 
 ### GetSubdivisionCount
@@ -1579,10 +1291,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32023)
 
 ___
 
@@ -1594,10 +1302,6 @@ ___
 
 [`SubdivisionLimitData`](ue_ue.SubdivisionLimitData.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32024)
-
 ___
 
 ### GetTextureCoordinateCount
@@ -1607,10 +1311,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32025)
 
 ___
 
@@ -1629,10 +1329,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32026](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32026)
-
 ___
 
 ### GetVertexConnectedEdge
@@ -1650,10 +1346,6 @@ ___
 
 [`EdgeID`](ue_ue.EdgeID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32027)
-
 ___
 
 ### GetVertexConnectedEdgeCount
@@ -1669,10 +1361,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32028)
 
 ___
 
@@ -1691,10 +1379,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32029](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32029)
-
 ___
 
 ### GetVertexConnectedPolygons
@@ -1712,10 +1396,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32030](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32030)
-
 ___
 
 ### GetVertexCount
@@ -1725,10 +1405,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32031](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32031)
 
 ___
 
@@ -1747,10 +1423,6 @@ ___
 
 [`PolygonID`](ue_ue.PolygonID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32032](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32032)
-
 ___
 
 ### GetVertexInstanceConnectedPolygonCount
@@ -1766,10 +1438,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32033](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32033)
 
 ___
 
@@ -1788,10 +1456,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32034)
-
 ___
 
 ### GetVertexInstanceCount
@@ -1801,10 +1465,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32035](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32035)
 
 ___
 
@@ -1821,10 +1481,6 @@ ___
 #### Returns
 
 [`VertexID`](ue_ue.VertexID.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32036](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32036)
 
 ___
 
@@ -1844,10 +1500,6 @@ ___
 
 [`EdgeID`](ue_ue.EdgeID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32037)
-
 ___
 
 ### GetWorld
@@ -1862,10 +1514,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### InitializeAdapters
@@ -1875,10 +1523,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32038)
 
 ___
 
@@ -1897,10 +1541,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32039)
 
 ___
 
@@ -1923,10 +1563,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32040](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32040)
-
 ___
 
 ### IsBeingModified
@@ -1936,10 +1572,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32041](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32041)
 
 ___
 
@@ -1951,10 +1583,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32042)
-
 ___
 
 ### IsCommittedAsInstance
@@ -1965,10 +1593,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32043)
-
 ___
 
 ### IsCompactAllowed
@@ -1978,10 +1602,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32044)
 
 ___
 
@@ -1999,10 +1619,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32045)
-
 ___
 
 ### IsPreviewingSubdivisions
@@ -2012,10 +1628,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32046](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32046)
 
 ___
 
@@ -2027,10 +1639,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32047)
-
 ___
 
 ### IsUndoAllowed
@@ -2040,10 +1648,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32048](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32048)
 
 ___
 
@@ -2061,10 +1665,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32049)
-
 ___
 
 ### IsValidPolygon
@@ -2080,10 +1680,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32050](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32050)
 
 ___
 
@@ -2101,10 +1697,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:32051](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32051)
-
 ___
 
 ### IsValidVertex
@@ -2120,10 +1712,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:32052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32052)
 
 ___
 
@@ -2141,10 +1729,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32053)
-
 ___
 
 ### PropagateInstanceChanges
@@ -2154,10 +1738,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32054)
 
 ___
 
@@ -2175,10 +1755,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32055)
-
 ___
 
 ### RebuildRenderMesh
@@ -2188,10 +1764,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32056](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32056)
 
 ___
 
@@ -2203,10 +1775,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32057)
-
 ___
 
 ### RevertInstance
@@ -2216,10 +1784,6 @@ ___
 #### Returns
 
 [`EditableMesh`](ue_ue.EditableMesh.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32058)
 
 ___
 
@@ -2237,10 +1801,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32059)
 
 ___
 
@@ -2260,10 +1820,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32060)
-
 ___
 
 ### SearchSpatialDatabaseForPolygonsPotentiallyIntersectingPlane
@@ -2281,10 +1837,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32061)
-
 ___
 
 ### SetAllowCompact
@@ -2300,10 +1852,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32062)
 
 ___
 
@@ -2321,10 +1869,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32063)
-
 ___
 
 ### SetAllowUndo
@@ -2341,10 +1885,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32064)
-
 ___
 
 ### SetEdgesAttributes
@@ -2360,10 +1900,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32065)
 
 ___
 
@@ -2382,10 +1918,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32066)
-
 ___
 
 ### SetEdgesHardness
@@ -2402,10 +1934,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32067](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32067)
 
 ___
 
@@ -2424,10 +1952,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32068)
-
 ___
 
 ### SetPolygonsVertexAttributes
@@ -2443,10 +1967,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32069)
 
 ___
 
@@ -2464,10 +1984,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32070)
-
 ___
 
 ### SetTextureCoordinateCount
@@ -2483,10 +1999,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32071)
 
 ___
 
@@ -2504,10 +2016,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32072)
-
 ___
 
 ### SetVerticesAttributes
@@ -2523,10 +2031,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32073)
 
 ___
 
@@ -2545,10 +2049,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32074)
-
 ___
 
 ### SplitEdge
@@ -2566,10 +2066,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32075)
 
 ___
 
@@ -2590,10 +2086,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32076)
-
 ___
 
 ### SplitPolygons
@@ -2611,10 +2103,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32077)
-
 ___
 
 ### StartModification
@@ -2631,10 +2119,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32078)
 
 ___
 
@@ -2654,10 +2138,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32079)
-
 ___
 
 ### TriangulatePolygons
@@ -2674,10 +2154,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32080)
 
 ___
 
@@ -2697,10 +2173,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32081)
-
 ___
 
 ### TryToRemoveVertex
@@ -2719,10 +2191,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:32082](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32082)
-
 ___
 
 ### WeldVertices
@@ -2739,10 +2207,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:32083](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32083)
 
 ___
 
@@ -2765,10 +2229,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:32093](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32093)
-
 ___
 
 ### InvalidEdgeID
@@ -2778,10 +2238,6 @@ ___
 #### Returns
 
 [`EdgeID`](ue_ue.EdgeID.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32084](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32084)
 
 ___
 
@@ -2793,10 +2249,6 @@ ___
 
 [`PolygonGroupID`](ue_ue.PolygonGroupID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32085)
-
 ___
 
 ### InvalidPolygonID
@@ -2807,10 +2259,6 @@ ___
 
 [`PolygonID`](ue_ue.PolygonID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32086](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32086)
-
 ___
 
 ### InvalidVertexID
@@ -2820,10 +2268,6 @@ ___
 #### Returns
 
 [`VertexID`](ue_ue.VertexID.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32087)
 
 ___
 
@@ -2845,10 +2289,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:32094](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32094)
-
 ___
 
 ### MakeEdgeID
@@ -2864,10 +2304,6 @@ ___
 #### Returns
 
 [`EdgeID`](ue_ue.EdgeID.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32088)
 
 ___
 
@@ -2885,10 +2321,6 @@ ___
 
 [`PolygonGroupID`](ue_ue.PolygonGroupID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32089](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32089)
-
 ___
 
 ### MakePolygonID
@@ -2904,10 +2336,6 @@ ___
 #### Returns
 
 [`PolygonID`](ue_ue.PolygonID.md)
-
-#### Defined in
-
-[ue/ue.d.ts:32090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32090)
 
 ___
 
@@ -2925,10 +2353,6 @@ ___
 
 [`VertexID`](ue_ue.VertexID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:32091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32091)
-
 ___
 
 ### StaticClass
@@ -2942,7 +2366,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:32092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32092)

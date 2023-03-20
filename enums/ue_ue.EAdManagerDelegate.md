@@ -19,19 +19,11 @@
 
 • **AMD\_ClickedBanner** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31360](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31360)
-
 ___
 
 ### AMD\_MAX
 
 • **AMD\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31360](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31360)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **AMD\_UserClosedAd** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31360](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31360)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31360](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31360)

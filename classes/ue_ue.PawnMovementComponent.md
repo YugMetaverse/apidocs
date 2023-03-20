@@ -161,10 +161,6 @@
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[constructor](ue_ue.NavMovementComponent.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:5489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5489)
-
 ## Properties
 
 ### AssetUserData
@@ -174,10 +170,6 @@
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[AssetUserData](ue_ue.NavMovementComponent.md#assetuserdata)
-
-#### Defined in
-
-[ue/ue.d.ts:291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L291)
 
 ___
 
@@ -189,10 +181,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[ComponentTags](ue_ue.NavMovementComponent.md#componenttags)
 
-#### Defined in
-
-[ue/ue.d.ts:290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L290)
-
 ___
 
 ### CreationMethod
@@ -202,10 +190,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[CreationMethod](ue_ue.NavMovementComponent.md#creationmethod)
-
-#### Defined in
-
-[ue/ue.d.ts:302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L302)
 
 ___
 
@@ -217,10 +201,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[FixedPathBrakingDistance](ue_ue.NavMovementComponent.md#fixedpathbrakingdistance)
 
-#### Defined in
-
-[ue/ue.d.ts:5468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5468)
-
 ___
 
 ### MovementState
@@ -230,10 +210,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[MovementState](ue_ue.NavMovementComponent.md#movementstate)
-
-#### Defined in
-
-[ue/ue.d.ts:5472](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5472)
 
 ___
 
@@ -245,10 +221,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[NavAgentProps](ue_ue.NavMovementComponent.md#navagentprops)
 
-#### Defined in
-
-[ue/ue.d.ts:5467](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5467)
-
 ___
 
 ### OnComponentActivated
@@ -258,10 +230,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[OnComponentActivated](ue_ue.NavMovementComponent.md#oncomponentactivated)
-
-#### Defined in
-
-[ue/ue.d.ts:303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L303)
 
 ___
 
@@ -273,10 +241,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[OnComponentDeactivated](ue_ue.NavMovementComponent.md#oncomponentdeactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L304)
-
 ___
 
 ### PathFollowingComp
@@ -287,19 +251,11 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[PathFollowingComp](ue_ue.NavMovementComponent.md#pathfollowingcomp)
 
-#### Defined in
-
-[ue/ue.d.ts:5473](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5473)
-
 ___
 
 ### PawnOwner
 
 • **PawnOwner**: [`Pawn`](ue_ue.Pawn.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5490)
 
 ___
 
@@ -311,10 +267,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[PlaneConstraintAxisSetting](ue_ue.NavMovementComponent.md#planeconstraintaxissetting)
 
-#### Defined in
-
-[ue/ue.d.ts:5403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5403)
-
 ___
 
 ### PlaneConstraintNormal
@@ -324,10 +276,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[PlaneConstraintNormal](ue_ue.NavMovementComponent.md#planeconstraintnormal)
-
-#### Defined in
-
-[ue/ue.d.ts:5393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5393)
 
 ___
 
@@ -339,10 +287,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[PlaneConstraintOrigin](ue_ue.NavMovementComponent.md#planeconstraintorigin)
 
-#### Defined in
-
-[ue/ue.d.ts:5394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5394)
-
 ___
 
 ### PrimaryComponentTick
@@ -352,10 +296,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[PrimaryComponentTick](ue_ue.NavMovementComponent.md#primarycomponenttick)
-
-#### Defined in
-
-[ue/ue.d.ts:289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L289)
 
 ___
 
@@ -367,10 +307,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[UCSModifiedProperties](ue_ue.NavMovementComponent.md#ucsmodifiedproperties)
 
-#### Defined in
-
-[ue/ue.d.ts:305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L305)
-
 ___
 
 ### UpdatedComponent
@@ -380,10 +316,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[UpdatedComponent](ue_ue.NavMovementComponent.md#updatedcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:5390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5390)
 
 ___
 
@@ -395,10 +327,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[UpdatedPrimitive](ue_ue.NavMovementComponent.md#updatedprimitive)
 
-#### Defined in
-
-[ue/ue.d.ts:5391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5391)
-
 ___
 
 ### Velocity
@@ -408,10 +336,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[Velocity](ue_ue.NavMovementComponent.md#velocity)
-
-#### Defined in
-
-[ue/ue.d.ts:5392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5392)
 
 ___
 
@@ -423,10 +347,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[__tid_ActorComponent__](ue_ue.NavMovementComponent.md#__tid_actorcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L336)
-
 ___
 
 ### \_\_tid\_MovementComponent\_\_
@@ -436,10 +356,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[__tid_MovementComponent__](ue_ue.NavMovementComponent.md#__tid_movementcomponent__)
-
-#### Defined in
-
-[ue/ue.d.ts:5430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5430)
 
 ___
 
@@ -451,10 +367,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[__tid_NavMovementComponent__](ue_ue.NavMovementComponent.md#__tid_navmovementcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:5485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5485)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -465,19 +377,11 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[__tid_Object__](ue_ue.NavMovementComponent.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PawnMovementComponent\_\_
 
 • **\_\_tid\_PawnMovementComponent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5502)
 
 ___
 
@@ -489,10 +393,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[bAutoActivate](ue_ue.NavMovementComponent.md#bautoactivate)
 
-#### Defined in
-
-[ue/ue.d.ts:296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L296)
-
 ___
 
 ### bAutoRegisterPhysicsVolumeUpdates
@@ -502,10 +402,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[bAutoRegisterPhysicsVolumeUpdates](ue_ue.NavMovementComponent.md#bautoregisterphysicsvolumeupdates)
-
-#### Defined in
-
-[ue/ue.d.ts:5401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5401)
 
 ___
 
@@ -517,10 +413,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[bAutoRegisterUpdatedComponent](ue_ue.NavMovementComponent.md#bautoregisterupdatedcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:5398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5398)
-
 ___
 
 ### bAutoUpdateTickRegistration
@@ -530,10 +422,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[bAutoUpdateTickRegistration](ue_ue.NavMovementComponent.md#bautoupdatetickregistration)
-
-#### Defined in
-
-[ue/ue.d.ts:5396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5396)
 
 ___
 
@@ -545,10 +433,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[bCanEverAffectNavigation](ue_ue.NavMovementComponent.md#bcaneveraffectnavigation)
 
-#### Defined in
-
-[ue/ue.d.ts:299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L299)
-
 ___
 
 ### bComponentShouldUpdatePhysicsVolume
@@ -558,10 +442,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[bComponentShouldUpdatePhysicsVolume](ue_ue.NavMovementComponent.md#bcomponentshouldupdatephysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:5402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5402)
 
 ___
 
@@ -573,10 +453,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[bConstrainToPlane](ue_ue.NavMovementComponent.md#bconstraintoplane)
 
-#### Defined in
-
-[ue/ue.d.ts:5399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5399)
-
 ___
 
 ### bCreatedByConstructionScript
@@ -586,10 +462,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[bCreatedByConstructionScript](ue_ue.NavMovementComponent.md#bcreatedbyconstructionscript)
-
-#### Defined in
-
-[ue/ue.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L294)
 
 ___
 
@@ -601,10 +473,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[bEditableWhenInherited](ue_ue.NavMovementComponent.md#beditablewheninherited)
 
-#### Defined in
-
-[ue/ue.d.ts:298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L298)
-
 ___
 
 ### bInstanceComponent
@@ -614,10 +482,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[bInstanceComponent](ue_ue.NavMovementComponent.md#binstancecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L295)
 
 ___
 
@@ -629,10 +493,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[bIsActive](ue_ue.NavMovementComponent.md#bisactive)
 
-#### Defined in
-
-[ue/ue.d.ts:297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L297)
-
 ___
 
 ### bIsEditorOnly
@@ -642,10 +502,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[bIsEditorOnly](ue_ue.NavMovementComponent.md#biseditoronly)
-
-#### Defined in
-
-[ue/ue.d.ts:300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L300)
 
 ___
 
@@ -657,10 +513,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[bIsVisualizationComponent](ue_ue.NavMovementComponent.md#bisvisualizationcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L301)
-
 ___
 
 ### bNetAddressable
@@ -670,10 +522,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[bNetAddressable](ue_ue.NavMovementComponent.md#bnetaddressable)
-
-#### Defined in
-
-[ue/ue.d.ts:293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L293)
 
 ___
 
@@ -685,10 +533,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[bReplicates](ue_ue.NavMovementComponent.md#breplicates)
 
-#### Defined in
-
-[ue/ue.d.ts:292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L292)
-
 ___
 
 ### bSnapToPlaneAtStart
@@ -698,10 +542,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[bSnapToPlaneAtStart](ue_ue.NavMovementComponent.md#bsnaptoplaneatstart)
-
-#### Defined in
-
-[ue/ue.d.ts:5400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5400)
 
 ___
 
@@ -713,10 +553,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[bTickBeforeOwner](ue_ue.NavMovementComponent.md#btickbeforeowner)
 
-#### Defined in
-
-[ue/ue.d.ts:5397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5397)
-
 ___
 
 ### bUpdateNavAgentWithOwnersCollision
@@ -726,10 +562,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[bUpdateNavAgentWithOwnersCollision](ue_ue.NavMovementComponent.md#bupdatenavagentwithownerscollision)
-
-#### Defined in
-
-[ue/ue.d.ts:5469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5469)
 
 ___
 
@@ -741,10 +573,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[bUpdateOnlyIfRendered](ue_ue.NavMovementComponent.md#bupdateonlyifrendered)
 
-#### Defined in
-
-[ue/ue.d.ts:5395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5395)
-
 ___
 
 ### bUseAccelerationForPaths
@@ -755,10 +583,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[bUseAccelerationForPaths](ue_ue.NavMovementComponent.md#buseaccelerationforpaths)
 
-#### Defined in
-
-[ue/ue.d.ts:5470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5470)
-
 ___
 
 ### bUseFixedBrakingDistanceForPaths
@@ -768,10 +592,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[bUseFixedBrakingDistanceForPaths](ue_ue.NavMovementComponent.md#busefixedbrakingdistanceforpaths)
-
-#### Defined in
-
-[ue/ue.d.ts:5471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5471)
 
 ## Methods
 
@@ -793,10 +613,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[Activate](ue_ue.NavMovementComponent.md#activate)
 
-#### Defined in
-
-[ue/ue.d.ts:306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L306)
-
 ___
 
 ### AddInputVector
@@ -813,10 +629,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:5491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5491)
 
 ___
 
@@ -838,10 +650,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[AddTickPrerequisiteActor](ue_ue.NavMovementComponent.md#addtickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L307)
-
 ___
 
 ### AddTickPrerequisiteComponent
@@ -861,10 +669,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[AddTickPrerequisiteComponent](ue_ue.NavMovementComponent.md#addtickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L308)
 
 ___
 
@@ -886,10 +690,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[ComponentHasTag](ue_ue.NavMovementComponent.md#componenthastag)
 
-#### Defined in
-
-[ue/ue.d.ts:309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L309)
-
 ___
 
 ### ConstrainDirectionToPlane
@@ -909,10 +709,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[ConstrainDirectionToPlane](ue_ue.NavMovementComponent.md#constraindirectiontoplane)
-
-#### Defined in
-
-[ue/ue.d.ts:5404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5404)
 
 ___
 
@@ -934,10 +730,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[ConstrainLocationToPlane](ue_ue.NavMovementComponent.md#constrainlocationtoplane)
 
-#### Defined in
-
-[ue/ue.d.ts:5405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5405)
-
 ___
 
 ### ConstrainNormalToPlane
@@ -958,10 +750,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[ConstrainNormalToPlane](ue_ue.NavMovementComponent.md#constrainnormaltoplane)
 
-#### Defined in
-
-[ue/ue.d.ts:5406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5406)
-
 ___
 
 ### ConsumeInputVector
@@ -971,10 +759,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5492)
 
 ___
 
@@ -1000,10 +784,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[CreateDefaultSubobject](ue_ue.NavMovementComponent.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### Deactivate
@@ -1017,10 +797,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[Deactivate](ue_ue.NavMovementComponent.md#deactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L310)
 
 ___
 
@@ -1042,10 +818,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[ExecuteUbergraph](ue_ue.NavMovementComponent.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -1059,10 +831,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[GetClass](ue_ue.NavMovementComponent.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -1078,10 +846,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[GetComponentTickInterval](ue_ue.NavMovementComponent.md#getcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L311)
-
 ___
 
 ### GetGravityZ
@@ -1096,10 +860,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[GetGravityZ](ue_ue.NavMovementComponent.md#getgravityz)
 
-#### Defined in
-
-[ue/ue.d.ts:5407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5407)
-
 ___
 
 ### GetLastInputVector
@@ -1109,10 +869,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5493)
 
 ___
 
@@ -1128,10 +884,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[GetMaxSpeed](ue_ue.NavMovementComponent.md#getmaxspeed)
 
-#### Defined in
-
-[ue/ue.d.ts:5408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5408)
-
 ___
 
 ### GetName
@@ -1145,10 +897,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[GetName](ue_ue.NavMovementComponent.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -1164,10 +912,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[GetOuter](ue_ue.NavMovementComponent.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetOwner
@@ -1182,10 +926,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[GetOwner](ue_ue.NavMovementComponent.md#getowner)
 
-#### Defined in
-
-[ue/ue.d.ts:312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L312)
-
 ___
 
 ### GetPawnOwner
@@ -1196,10 +936,6 @@ ___
 
 [`Pawn`](ue_ue.Pawn.md)
 
-#### Defined in
-
-[ue/ue.d.ts:5494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5494)
-
 ___
 
 ### GetPendingInputVector
@@ -1209,10 +945,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5495)
 
 ___
 
@@ -1228,10 +960,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[GetPhysicsVolume](ue_ue.NavMovementComponent.md#getphysicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:5409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5409)
-
 ___
 
 ### GetPlaneConstraintAxisSetting
@@ -1245,10 +973,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[GetPlaneConstraintAxisSetting](ue_ue.NavMovementComponent.md#getplaneconstraintaxissetting)
-
-#### Defined in
-
-[ue/ue.d.ts:5410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5410)
 
 ___
 
@@ -1264,10 +988,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[GetPlaneConstraintNormal](ue_ue.NavMovementComponent.md#getplaneconstraintnormal)
 
-#### Defined in
-
-[ue/ue.d.ts:5411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5411)
-
 ___
 
 ### GetPlaneConstraintOrigin
@@ -1281,10 +1001,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[GetPlaneConstraintOrigin](ue_ue.NavMovementComponent.md#getplaneconstraintorigin)
-
-#### Defined in
-
-[ue/ue.d.ts:5412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5412)
 
 ___
 
@@ -1300,10 +1016,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[GetWorld](ue_ue.NavMovementComponent.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### IsActive
@@ -1317,10 +1029,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[IsActive](ue_ue.NavMovementComponent.md#isactive)
-
-#### Defined in
-
-[ue/ue.d.ts:313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L313)
 
 ___
 
@@ -1336,10 +1044,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[IsBeingDestroyed](ue_ue.NavMovementComponent.md#isbeingdestroyed)
 
-#### Defined in
-
-[ue/ue.d.ts:314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L314)
-
 ___
 
 ### IsComponentTickEnabled
@@ -1354,10 +1058,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[IsComponentTickEnabled](ue_ue.NavMovementComponent.md#iscomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L315)
-
 ___
 
 ### IsCrouching
@@ -1371,10 +1071,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[IsCrouching](ue_ue.NavMovementComponent.md#iscrouching)
-
-#### Defined in
-
-[ue/ue.d.ts:5474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5474)
 
 ___
 
@@ -1396,10 +1092,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[IsExceedingMaxSpeed](ue_ue.NavMovementComponent.md#isexceedingmaxspeed)
 
-#### Defined in
-
-[ue/ue.d.ts:5413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5413)
-
 ___
 
 ### IsFalling
@@ -1413,10 +1105,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[IsFalling](ue_ue.NavMovementComponent.md#isfalling)
-
-#### Defined in
-
-[ue/ue.d.ts:5475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5475)
 
 ___
 
@@ -1432,10 +1120,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[IsFlying](ue_ue.NavMovementComponent.md#isflying)
 
-#### Defined in
-
-[ue/ue.d.ts:5476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5476)
-
 ___
 
 ### IsMoveInputIgnored
@@ -1445,10 +1129,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:5496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5496)
 
 ___
 
@@ -1464,10 +1144,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[IsMovingOnGround](ue_ue.NavMovementComponent.md#ismovingonground)
 
-#### Defined in
-
-[ue/ue.d.ts:5477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5477)
-
 ___
 
 ### IsSwimming
@@ -1481,10 +1157,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[IsSwimming](ue_ue.NavMovementComponent.md#isswimming)
-
-#### Defined in
-
-[ue/ue.d.ts:5478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5478)
 
 ___
 
@@ -1506,10 +1178,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[K2_DestroyComponent](ue_ue.NavMovementComponent.md#k2_destroycomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L316)
-
 ___
 
 ### K2\_GetInputVector
@@ -1519,10 +1187,6 @@ ___
 #### Returns
 
 [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:5497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5497)
 
 ___
 
@@ -1538,10 +1202,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[K2_GetMaxSpeedModifier](ue_ue.NavMovementComponent.md#k2_getmaxspeedmodifier)
 
-#### Defined in
-
-[ue/ue.d.ts:5414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5414)
-
 ___
 
 ### K2\_GetModifiedMaxSpeed
@@ -1555,10 +1215,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[K2_GetModifiedMaxSpeed](ue_ue.NavMovementComponent.md#k2_getmodifiedmaxspeed)
-
-#### Defined in
-
-[ue/ue.d.ts:5415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5415)
 
 ___
 
@@ -1584,10 +1240,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[K2_MoveUpdatedComponent](ue_ue.NavMovementComponent.md#k2_moveupdatedcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:5416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5416)
-
 ___
 
 ### OnRep\_IsActive
@@ -1601,10 +1253,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[OnRep_IsActive](ue_ue.NavMovementComponent.md#onrep_isactive)
-
-#### Defined in
-
-[ue/ue.d.ts:317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L317)
 
 ___
 
@@ -1626,10 +1274,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[PhysicsVolumeChanged](ue_ue.NavMovementComponent.md#physicsvolumechanged)
 
-#### Defined in
-
-[ue/ue.d.ts:5417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5417)
-
 ___
 
 ### ReceiveBeginPlay
@@ -1643,10 +1287,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[ReceiveBeginPlay](ue_ue.NavMovementComponent.md#receivebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L318)
 
 ___
 
@@ -1668,10 +1308,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[ReceiveEndPlay](ue_ue.NavMovementComponent.md#receiveendplay)
 
-#### Defined in
-
-[ue/ue.d.ts:319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L319)
-
 ___
 
 ### ReceiveTick
@@ -1692,10 +1328,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[ReceiveTick](ue_ue.NavMovementComponent.md#receivetick)
 
-#### Defined in
-
-[ue/ue.d.ts:320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L320)
-
 ___
 
 ### RegisterComponent
@@ -1709,10 +1341,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[RegisterComponent](ue_ue.NavMovementComponent.md#registercomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L321)
 
 ___
 
@@ -1734,10 +1362,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[RemoveTickPrerequisiteActor](ue_ue.NavMovementComponent.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -1757,10 +1381,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[RemoveTickPrerequisiteComponent](ue_ue.NavMovementComponent.md#removetickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L323)
 
 ___
 
@@ -1783,10 +1403,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[SetActive](ue_ue.NavMovementComponent.md#setactive)
 
-#### Defined in
-
-[ue/ue.d.ts:324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L324)
-
 ___
 
 ### SetAutoActivate
@@ -1806,10 +1422,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[SetAutoActivate](ue_ue.NavMovementComponent.md#setautoactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L325)
 
 ___
 
@@ -1831,10 +1443,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[SetComponentTickEnabled](ue_ue.NavMovementComponent.md#setcomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L326)
-
 ___
 
 ### SetComponentTickInterval
@@ -1854,10 +1462,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[SetComponentTickInterval](ue_ue.NavMovementComponent.md#setcomponenttickinterval)
-
-#### Defined in
-
-[ue/ue.d.ts:327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L327)
 
 ___
 
@@ -1879,10 +1483,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[SetIsReplicated](ue_ue.NavMovementComponent.md#setisreplicated)
 
-#### Defined in
-
-[ue/ue.d.ts:328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L328)
-
 ___
 
 ### SetPlaneConstraintAxisSetting
@@ -1903,10 +1503,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[SetPlaneConstraintAxisSetting](ue_ue.NavMovementComponent.md#setplaneconstraintaxissetting)
 
-#### Defined in
-
-[ue/ue.d.ts:5418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5418)
-
 ___
 
 ### SetPlaneConstraintEnabled
@@ -1926,10 +1522,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[SetPlaneConstraintEnabled](ue_ue.NavMovementComponent.md#setplaneconstraintenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:5419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5419)
 
 ___
 
@@ -1952,10 +1544,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[SetPlaneConstraintFromVectors](ue_ue.NavMovementComponent.md#setplaneconstraintfromvectors)
 
-#### Defined in
-
-[ue/ue.d.ts:5420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5420)
-
 ___
 
 ### SetPlaneConstraintNormal
@@ -1975,10 +1563,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[SetPlaneConstraintNormal](ue_ue.NavMovementComponent.md#setplaneconstraintnormal)
-
-#### Defined in
-
-[ue/ue.d.ts:5421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5421)
 
 ___
 
@@ -2000,10 +1584,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[SetPlaneConstraintOrigin](ue_ue.NavMovementComponent.md#setplaneconstraintorigin)
 
-#### Defined in
-
-[ue/ue.d.ts:5422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5422)
-
 ___
 
 ### SetTickGroup
@@ -2023,10 +1603,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[SetTickGroup](ue_ue.NavMovementComponent.md#settickgroup)
-
-#### Defined in
-
-[ue/ue.d.ts:330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L330)
 
 ___
 
@@ -2048,10 +1624,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[SetTickableWhenPaused](ue_ue.NavMovementComponent.md#settickablewhenpaused)
 
-#### Defined in
-
-[ue/ue.d.ts:329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L329)
-
 ___
 
 ### SetUpdatedComponent
@@ -2072,10 +1644,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[SetUpdatedComponent](ue_ue.NavMovementComponent.md#setupdatedcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:5423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5423)
-
 ___
 
 ### SnapUpdatedComponentToPlane
@@ -2089,10 +1657,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[SnapUpdatedComponentToPlane](ue_ue.NavMovementComponent.md#snapupdatedcomponenttoplane)
-
-#### Defined in
-
-[ue/ue.d.ts:5424](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5424)
 
 ___
 
@@ -2108,10 +1672,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[StopActiveMovement](ue_ue.NavMovementComponent.md#stopactivemovement)
 
-#### Defined in
-
-[ue/ue.d.ts:5479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5479)
-
 ___
 
 ### StopMovementImmediately
@@ -2125,10 +1685,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[StopMovementImmediately](ue_ue.NavMovementComponent.md#stopmovementimmediately)
-
-#### Defined in
-
-[ue/ue.d.ts:5425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5425)
 
 ___
 
@@ -2144,10 +1700,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[StopMovementKeepPathing](ue_ue.NavMovementComponent.md#stopmovementkeeppathing)
 
-#### Defined in
-
-[ue/ue.d.ts:5480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5480)
-
 ___
 
 ### ToggleActive
@@ -2161,10 +1713,6 @@ ___
 #### Inherited from
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[ToggleActive](ue_ue.NavMovementComponent.md#toggleactive)
-
-#### Defined in
-
-[ue/ue.d.ts:331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L331)
 
 ___
 
@@ -2187,10 +1735,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[Find](ue_ue.NavMovementComponent.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:5499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5499)
-
 ___
 
 ### Load
@@ -2211,10 +1755,6 @@ ___
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[Load](ue_ue.NavMovementComponent.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:5500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5500)
-
 ___
 
 ### StaticClass
@@ -2228,7 +1768,3 @@ ___
 #### Overrides
 
 [NavMovementComponent](ue_ue.NavMovementComponent.md).[StaticClass](ue_ue.NavMovementComponent.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:5498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5498)

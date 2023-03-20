@@ -29,10 +29,6 @@
 
 • **new PropertyEditorTestBasicStruct**()
 
-#### Defined in
-
-[ue/ue.d.ts:58722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58722)
-
 • **new PropertyEditorTestBasicStruct**(`IntPropertyInsideAStruct`, `FloatPropertyInsideAStruct`, `ObjectPropertyInsideAStruct`, `InnerStruct`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `ObjectPropertyInsideAStruct` | [`Object`](ue_ue.Object.md) |
 | `InnerStruct` | [`PropertyEditorTestSubStruct`](ue_ue.PropertyEditorTestSubStruct.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:58723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58723)
-
 ## Properties
 
 ### FloatPropertyInsideAStruct
 
 • **FloatPropertyInsideAStruct**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:58725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58725)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **InnerStruct**: [`PropertyEditorTestSubStruct`](ue_ue.PropertyEditorTestSubStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:58727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58727)
-
 ___
 
 ### IntPropertyInsideAStruct
 
 • **IntPropertyInsideAStruct**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:58724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58724)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **ObjectPropertyInsideAStruct**: [`Object`](ue_ue.Object.md)
 
-#### Defined in
-
-[ue/ue.d.ts:58726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58726)
-
 ___
 
 ### \_\_tid\_PropertyEditorTestBasicStruct\_\_
 
 • `Private` **\_\_tid\_PropertyEditorTestBasicStruct\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:58733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58733)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:58731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58731)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:58732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58732)

@@ -26,10 +26,6 @@
 
 • **new ActiveForceFeedbackEffect**()
 
-#### Defined in
-
-[ue/ue.d.ts:8476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8476)
-
 • **new ActiveForceFeedbackEffect**(`ForceFeedbackEffect`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `ForceFeedbackEffect` | [`ForceFeedbackEffect`](ue_ue.ForceFeedbackEffect.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:8477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8477)
-
 ## Properties
 
 ### ForceFeedbackEffect
 
 • **ForceFeedbackEffect**: [`ForceFeedbackEffect`](ue_ue.ForceFeedbackEffect.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8478)
-
 ___
 
 ### \_\_tid\_ActiveForceFeedbackEffect\_\_
 
 • `Private` **\_\_tid\_ActiveForceFeedbackEffect\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8484](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8484)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8482)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8483)

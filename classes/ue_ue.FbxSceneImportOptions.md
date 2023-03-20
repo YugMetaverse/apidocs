@@ -63,19 +63,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:35352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35352)
-
 ## Properties
 
 ### HierarchyType
 
 • **HierarchyType**: [`EFBXSceneOptionsCreateHierarchyType`](../enums/ue_ue.EFBXSceneOptionsCreateHierarchyType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35355](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35355)
 
 ___
 
@@ -83,19 +75,11 @@ ___
 
 • **ImportRotation**: [`Rotator`](ue_ue_s.Rotator.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35358)
-
 ___
 
 ### ImportTranslation
 
 • **ImportTranslation**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35357](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35357)
 
 ___
 
@@ -103,19 +87,11 @@ ___
 
 • **ImportUniformScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35359)
-
 ___
 
 ### \_\_tid\_FbxSceneImportOptions\_\_
 
 • **\_\_tid\_FbxSceneImportOptions\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35369](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35369)
 
 ___
 
@@ -127,19 +103,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bBakePivotInVertex
 
 • **bBakePivotInVertex**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35361](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35361)
 
 ___
 
@@ -147,19 +115,11 @@ ___
 
 • **bCreateContentFolderHierarchy**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35353)
-
 ___
 
 ### bForceFrontXAxis
 
 • **bForceFrontXAxis**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35356)
 
 ___
 
@@ -167,19 +127,11 @@ ___
 
 • **bImportAsDynamic**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35354)
-
 ___
 
 ### bImportSkeletalMeshLODs
 
 • **bImportSkeletalMeshLODs**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35363)
 
 ___
 
@@ -187,29 +139,17 @@ ___
 
 • **bImportStaticMeshLODs**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35362)
-
 ___
 
 ### bInvertNormalMaps
 
 • **bInvertNormalMaps**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35364)
-
 ___
 
 ### bTransformVertexToAbsolute
 
 • **bTransformVertexToAbsolute**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35360](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35360)
 
 ## Methods
 
@@ -235,10 +175,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -259,10 +195,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -276,10 +208,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -295,10 +223,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -313,10 +237,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -330,10 +250,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -356,10 +272,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:35366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35366)
-
 ___
 
 ### Load
@@ -380,10 +292,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:35367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35367)
-
 ___
 
 ### StaticClass
@@ -397,7 +305,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:35365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35365)

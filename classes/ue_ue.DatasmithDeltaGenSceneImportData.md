@@ -74,10 +74,6 @@
 
 [DatasmithFBXSceneImportData](ue_ue.DatasmithFBXSceneImportData.md).[constructor](ue_ue.DatasmithFBXSceneImportData.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:29660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29660)
-
 ## Properties
 
 ### BaseOptions
@@ -87,10 +83,6 @@
 #### Inherited from
 
 [DatasmithFBXSceneImportData](ue_ue.DatasmithFBXSceneImportData.md).[BaseOptions](ue_ue.DatasmithFBXSceneImportData.md#baseoptions)
-
-#### Defined in
-
-[ue/ue.d.ts:29466](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29466)
 
 ___
 
@@ -102,19 +94,11 @@ ___
 
 [DatasmithFBXSceneImportData](ue_ue.DatasmithFBXSceneImportData.md).[IntermediateSerialization](ue_ue.DatasmithFBXSceneImportData.md#intermediateserialization)
 
-#### Defined in
-
-[ue/ue.d.ts:29650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29650)
-
 ___
 
 ### PosPath
 
 • **PosPath**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:29668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29668)
 
 ___
 
@@ -126,10 +110,6 @@ ___
 
 [DatasmithFBXSceneImportData](ue_ue.DatasmithFBXSceneImportData.md).[SourceData](ue_ue.DatasmithFBXSceneImportData.md#sourcedata)
 
-#### Defined in
-
-[ue/ue.d.ts:38](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38)
-
 ___
 
 ### SourceFilePath
@@ -139,10 +119,6 @@ ___
 #### Inherited from
 
 [DatasmithFBXSceneImportData](ue_ue.DatasmithFBXSceneImportData.md).[SourceFilePath](ue_ue.DatasmithFBXSceneImportData.md#sourcefilepath)
-
-#### Defined in
-
-[ue/ue.d.ts:36](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36)
 
 ___
 
@@ -154,10 +130,6 @@ ___
 
 [DatasmithFBXSceneImportData](ue_ue.DatasmithFBXSceneImportData.md).[SourceFileTimestamp](ue_ue.DatasmithFBXSceneImportData.md#sourcefiletimestamp)
 
-#### Defined in
-
-[ue/ue.d.ts:37](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37)
-
 ___
 
 ### TexturesDir
@@ -168,29 +140,17 @@ ___
 
 [DatasmithFBXSceneImportData](ue_ue.DatasmithFBXSceneImportData.md).[TexturesDir](ue_ue.DatasmithFBXSceneImportData.md#texturesdir)
 
-#### Defined in
-
-[ue/ue.d.ts:29649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29649)
-
 ___
 
 ### TmlPath
 
 • **TmlPath**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:29670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29670)
-
 ___
 
 ### VarPath
 
 • **VarPath**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:29666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29666)
 
 ___
 
@@ -202,19 +162,11 @@ ___
 
 [DatasmithFBXSceneImportData](ue_ue.DatasmithFBXSceneImportData.md).[__tid_AssetImportData__](ue_ue.DatasmithFBXSceneImportData.md#__tid_assetimportdata__)
 
-#### Defined in
-
-[ue/ue.d.ts:45](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45)
-
 ___
 
 ### \_\_tid\_DatasmithDeltaGenSceneImportData\_\_
 
 • **\_\_tid\_DatasmithDeltaGenSceneImportData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29675)
 
 ___
 
@@ -226,10 +178,6 @@ ___
 
 [DatasmithFBXSceneImportData](ue_ue.DatasmithFBXSceneImportData.md).[__tid_DatasmithFBXSceneImportData__](ue_ue.DatasmithFBXSceneImportData.md#__tid_datasmithfbxsceneimportdata__)
 
-#### Defined in
-
-[ue/ue.d.ts:29656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29656)
-
 ___
 
 ### \_\_tid\_DatasmithSceneImportData\_\_
@@ -239,10 +187,6 @@ ___
 #### Inherited from
 
 [DatasmithFBXSceneImportData](ue_ue.DatasmithFBXSceneImportData.md).[__tid_DatasmithSceneImportData__](ue_ue.DatasmithFBXSceneImportData.md#__tid_datasmithsceneimportdata__)
-
-#### Defined in
-
-[ue/ue.d.ts:29471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29471)
 
 ___
 
@@ -254,10 +198,6 @@ ___
 
 [DatasmithFBXSceneImportData](ue_ue.DatasmithFBXSceneImportData.md).[__tid_Object__](ue_ue.DatasmithFBXSceneImportData.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bColorizeMaterials
@@ -267,10 +207,6 @@ ___
 #### Inherited from
 
 [DatasmithFBXSceneImportData](ue_ue.DatasmithFBXSceneImportData.md).[bColorizeMaterials](ue_ue.DatasmithFBXSceneImportData.md#bcolorizematerials)
-
-#### Defined in
-
-[ue/ue.d.ts:29651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29651)
 
 ___
 
@@ -282,19 +218,11 @@ ___
 
 [DatasmithFBXSceneImportData](ue_ue.DatasmithFBXSceneImportData.md).[bGenerateLightmapUVs](ue_ue.DatasmithFBXSceneImportData.md#bgeneratelightmapuvs)
 
-#### Defined in
-
-[ue/ue.d.ts:29648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29648)
-
 ___
 
 ### bImportPos
 
 • **bImportPos**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29667)
 
 ___
 
@@ -302,19 +230,11 @@ ___
 
 • **bImportTml**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:29669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29669)
-
 ___
 
 ### bImportVar
 
 • **bImportVar**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29665)
 
 ___
 
@@ -322,19 +242,11 @@ ___
 
 • **bMergeNodes**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:29661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29661)
-
 ___
 
 ### bOptimizeDuplicatedNodes
 
 • **bOptimizeDuplicatedNodes**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29662)
 
 ___
 
@@ -342,19 +254,11 @@ ___
 
 • **bRemoveInvisibleNodes**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:29663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29663)
-
 ___
 
 ### bSimplifyNodeHierarchy
 
 • **bSimplifyNodeHierarchy**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29664)
 
 ## Methods
 
@@ -380,10 +284,6 @@ ___
 
 [DatasmithFBXSceneImportData](ue_ue.DatasmithFBXSceneImportData.md).[CreateDefaultSubobject](ue_ue.DatasmithFBXSceneImportData.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -404,10 +304,6 @@ ___
 
 [DatasmithFBXSceneImportData](ue_ue.DatasmithFBXSceneImportData.md).[ExecuteUbergraph](ue_ue.DatasmithFBXSceneImportData.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -421,10 +317,6 @@ ___
 #### Inherited from
 
 [DatasmithFBXSceneImportData](ue_ue.DatasmithFBXSceneImportData.md).[GetClass](ue_ue.DatasmithFBXSceneImportData.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -440,10 +332,6 @@ ___
 
 [DatasmithFBXSceneImportData](ue_ue.DatasmithFBXSceneImportData.md).[GetName](ue_ue.DatasmithFBXSceneImportData.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -457,10 +345,6 @@ ___
 #### Inherited from
 
 [DatasmithFBXSceneImportData](ue_ue.DatasmithFBXSceneImportData.md).[GetOuter](ue_ue.DatasmithFBXSceneImportData.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -476,10 +360,6 @@ ___
 
 [DatasmithFBXSceneImportData](ue_ue.DatasmithFBXSceneImportData.md).[GetWorld](ue_ue.DatasmithFBXSceneImportData.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### K2\_ExtractFilenames
@@ -494,10 +374,6 @@ ___
 
 [DatasmithFBXSceneImportData](ue_ue.DatasmithFBXSceneImportData.md).[K2_ExtractFilenames](ue_ue.DatasmithFBXSceneImportData.md#k2_extractfilenames)
 
-#### Defined in
-
-[ue/ue.d.ts:39](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39)
-
 ___
 
 ### K2\_GetFirstFilename
@@ -511,10 +387,6 @@ ___
 #### Inherited from
 
 [DatasmithFBXSceneImportData](ue_ue.DatasmithFBXSceneImportData.md).[K2_GetFirstFilename](ue_ue.DatasmithFBXSceneImportData.md#k2_getfirstfilename)
-
-#### Defined in
-
-[ue/ue.d.ts:40](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40)
 
 ___
 
@@ -537,10 +409,6 @@ ___
 
 [DatasmithFBXSceneImportData](ue_ue.DatasmithFBXSceneImportData.md).[Find](ue_ue.DatasmithFBXSceneImportData.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:29672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29672)
-
 ___
 
 ### Load
@@ -561,10 +429,6 @@ ___
 
 [DatasmithFBXSceneImportData](ue_ue.DatasmithFBXSceneImportData.md).[Load](ue_ue.DatasmithFBXSceneImportData.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:29673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29673)
-
 ___
 
 ### StaticClass
@@ -578,7 +442,3 @@ ___
 #### Overrides
 
 [DatasmithFBXSceneImportData](ue_ue.DatasmithFBXSceneImportData.md).[StaticClass](ue_ue.DatasmithFBXSceneImportData.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:29671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29671)

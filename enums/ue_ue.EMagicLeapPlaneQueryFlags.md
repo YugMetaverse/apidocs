@@ -26,19 +26,11 @@
 
 • **Arbitrary** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34013)
-
 ___
 
 ### Ceiling
 
 • **Ceiling** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34013)
 
 ___
 
@@ -46,19 +38,11 @@ ___
 
 • **EMagicLeapPlaneQueryFlags\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34013)
-
 ___
 
 ### Floor
 
 • **Floor** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34013)
 
 ___
 
@@ -66,19 +50,11 @@ ___
 
 • **Horizontal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34013)
-
 ___
 
 ### OrientToGravity
 
 • **OrientToGravity** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34013)
 
 ___
 
@@ -86,19 +62,11 @@ ___
 
 • **Polygons** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34013)
-
 ___
 
 ### PreferInner
 
 • **PreferInner** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34013)
 
 ___
 
@@ -106,26 +74,14 @@ ___
 
 • **Vertical** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34013)
-
 ___
 
 ### Wall
 
 • **Wall** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34013)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34013)

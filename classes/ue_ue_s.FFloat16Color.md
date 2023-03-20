@@ -25,19 +25,11 @@
 
 • **new FFloat16Color**()
 
-#### Defined in
-
-[ue/ue_s.d.ts:757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L757)
-
 ## Properties
 
 ### \_\_tid\_FFloat16Color\_\_
 
 • `Private` **\_\_tid\_FFloat16Color\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L765)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L762)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L763)

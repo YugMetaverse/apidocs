@@ -27,10 +27,6 @@
 
 • **new PhysicsConstraintProfileHandle**()
 
-#### Defined in
-
-[ue/ue.d.ts:3795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3795)
-
 • **new PhysicsConstraintProfileHandle**(`ProfileProperties`, `ProfileName`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `ProfileProperties` | [`ConstraintProfileProperties`](ue_ue.ConstraintProfileProperties.md) |
 | `ProfileName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:3796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3796)
-
 ## Properties
 
 ### ProfileName
 
 • **ProfileName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:3798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3798)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **ProfileProperties**: [`ConstraintProfileProperties`](ue_ue.ConstraintProfileProperties.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3797](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3797)
-
 ___
 
 ### \_\_tid\_PhysicsConstraintProfileHandle\_\_
 
 • `Private` **\_\_tid\_PhysicsConstraintProfileHandle\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3804)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:3802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3802)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3803)

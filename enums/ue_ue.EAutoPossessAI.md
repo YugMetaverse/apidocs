@@ -21,19 +21,11 @@
 
 • **Disabled** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2176)
-
 ___
 
 ### EAutoPossessAI\_MAX
 
 • **EAutoPossessAI\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2176)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **PlacedInWorld** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2176)
-
 ___
 
 ### PlacedInWorldOrSpawned
 
 • **PlacedInWorldOrSpawned** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2176)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Spawned** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2176)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2176)

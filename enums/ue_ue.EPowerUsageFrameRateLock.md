@@ -21,19 +21,11 @@
 
 • **PUFRL\_20** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34683)
-
 ___
 
 ### PUFRL\_30
 
 • **PUFRL\_30** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34683)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **PUFRL\_60** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34683)
-
 ___
 
 ### PUFRL\_MAX
 
 • **PUFRL\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34683)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **PUFRL\_None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34683)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34683)

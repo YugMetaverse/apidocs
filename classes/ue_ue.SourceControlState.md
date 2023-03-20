@@ -44,10 +44,6 @@
 
 • **new SourceControlState**()
 
-#### Defined in
-
-[ue/ue.d.ts:61704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61704)
-
 • **new SourceControlState**(`Filename`, `bIsValid`, `bIsUnknown`, `bCanCheckIn`, `bCanCheckOut`, `bIsCheckedOut`, `bIsCurrent`, `bIsSourceControlled`, `bIsAdded`, `bIsDeleted`, `bIsIgnored`, `bCanEdit`, `bCanDelete`, `bIsModified`, `bCanAdd`, `bIsConflicted`, `bCanRevert`, `bIsCheckedOutOther`, `CheckedOutOther`)
 
 #### Parameters
@@ -74,19 +70,11 @@
 | `bIsCheckedOutOther` | `boolean` |
 | `CheckedOutOther` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:61705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61705)
-
 ## Properties
 
 ### CheckedOutOther
 
 • **CheckedOutOther**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:61724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61724)
 
 ___
 
@@ -94,19 +82,11 @@ ___
 
 • **Filename**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:61706](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61706)
-
 ___
 
 ### \_\_tid\_SourceControlState\_\_
 
 • `Private` **\_\_tid\_SourceControlState\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:61730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61730)
 
 ___
 
@@ -114,19 +94,11 @@ ___
 
 • **bCanAdd**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:61720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61720)
-
 ___
 
 ### bCanCheckIn
 
 • **bCanCheckIn**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:61709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61709)
 
 ___
 
@@ -134,19 +106,11 @@ ___
 
 • **bCanCheckOut**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:61710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61710)
-
 ___
 
 ### bCanDelete
 
 • **bCanDelete**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:61718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61718)
 
 ___
 
@@ -154,19 +118,11 @@ ___
 
 • **bCanEdit**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:61717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61717)
-
 ___
 
 ### bCanRevert
 
 • **bCanRevert**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:61722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61722)
 
 ___
 
@@ -174,19 +130,11 @@ ___
 
 • **bIsAdded**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:61714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61714)
-
 ___
 
 ### bIsCheckedOut
 
 • **bIsCheckedOut**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:61711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61711)
 
 ___
 
@@ -194,19 +142,11 @@ ___
 
 • **bIsCheckedOutOther**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:61723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61723)
-
 ___
 
 ### bIsConflicted
 
 • **bIsConflicted**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:61721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61721)
 
 ___
 
@@ -214,19 +154,11 @@ ___
 
 • **bIsCurrent**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:61712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61712)
-
 ___
 
 ### bIsDeleted
 
 • **bIsDeleted**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:61715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61715)
 
 ___
 
@@ -234,19 +166,11 @@ ___
 
 • **bIsIgnored**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:61716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61716)
-
 ___
 
 ### bIsModified
 
 • **bIsModified**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:61719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61719)
 
 ___
 
@@ -254,29 +178,17 @@ ___
 
 • **bIsSourceControlled**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:61713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61713)
-
 ___
 
 ### bIsUnknown
 
 • **bIsUnknown**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:61708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61708)
-
 ___
 
 ### bIsValid
 
 • **bIsValid**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:61707](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61707)
 
 ## Methods
 
@@ -292,10 +204,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:61728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61728)
-
 ___
 
 ### StaticStruct
@@ -305,7 +213,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:61729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61729)

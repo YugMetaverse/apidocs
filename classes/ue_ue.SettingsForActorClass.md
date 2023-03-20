@@ -27,10 +27,6 @@
 
 • **new SettingsForActorClass**()
 
-#### Defined in
-
-[ue/ue.d.ts:60157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60157)
-
 • **new SettingsForActorClass**(`Class`, `bRecordToPossessable`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Class` | [`Class`](ue_ue.Class.md) |
 | `bRecordToPossessable` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:60158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60158)
-
 ## Properties
 
 ### Class
 
 • **Class**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:60159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60159)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • `Private` **\_\_tid\_SettingsForActorClass\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:60166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60166)
-
 ___
 
 ### bRecordToPossessable
 
 • **bRecordToPossessable**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:60160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60160)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:60164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60164)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:60165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60165)

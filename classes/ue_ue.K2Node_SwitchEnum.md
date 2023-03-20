@@ -81,10 +81,6 @@
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[constructor](ue_ue.K2Node_Switch.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:41968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41968)
-
 ## Properties
 
 ### AdvancedPinDisplay
@@ -94,10 +90,6 @@
 #### Inherited from
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[AdvancedPinDisplay](ue_ue.K2Node_Switch.md#advancedpindisplay)
-
-#### Defined in
-
-[ue/ue.d.ts:1067](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1067)
 
 ___
 
@@ -109,10 +101,6 @@ ___
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[DeprecatedPins](ue_ue.K2Node_Switch.md#deprecatedpins)
 
-#### Defined in
-
-[ue/ue.d.ts:1062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1062)
-
 ___
 
 ### EnabledState
@@ -123,19 +111,11 @@ ___
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[EnabledState](ue_ue.K2Node_Switch.md#enabledstate)
 
-#### Defined in
-
-[ue/ue.d.ts:1068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1068)
-
 ___
 
 ### Enum
 
 • **Enum**: [`Enum`](ue_ue.Enum.md)
-
-#### Defined in
-
-[ue/ue.d.ts:41969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41969)
 
 ___
 
@@ -143,19 +123,11 @@ ___
 
 • **EnumEntries**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
 
-#### Defined in
-
-[ue/ue.d.ts:41970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41970)
-
 ___
 
 ### EnumFriendlyNames
 
 • **EnumFriendlyNames**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:41971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41971)
 
 ___
 
@@ -167,10 +139,6 @@ ___
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[ErrorMsg](ue_ue.K2Node_Switch.md#errormsg)
 
-#### Defined in
-
-[ue/ue.d.ts:1081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1081)
-
 ___
 
 ### ErrorType
@@ -180,10 +148,6 @@ ___
 #### Inherited from
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[ErrorType](ue_ue.K2Node_Switch.md#errortype)
-
-#### Defined in
-
-[ue/ue.d.ts:1080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1080)
 
 ___
 
@@ -195,10 +159,6 @@ ___
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[FunctionClass](ue_ue.K2Node_Switch.md#functionclass)
 
-#### Defined in
-
-[ue/ue.d.ts:37058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37058)
-
 ___
 
 ### FunctionName
@@ -208,10 +168,6 @@ ___
 #### Inherited from
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[FunctionName](ue_ue.K2Node_Switch.md#functionname)
-
-#### Defined in
-
-[ue/ue.d.ts:37057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37057)
 
 ___
 
@@ -223,10 +179,6 @@ ___
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[NodeComment](ue_ue.K2Node_Switch.md#nodecomment)
 
-#### Defined in
-
-[ue/ue.d.ts:1079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1079)
-
 ___
 
 ### NodeGuid
@@ -236,10 +188,6 @@ ___
 #### Inherited from
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[NodeGuid](ue_ue.K2Node_Switch.md#nodeguid)
-
-#### Defined in
-
-[ue/ue.d.ts:1082](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1082)
 
 ___
 
@@ -251,10 +199,6 @@ ___
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[NodeHeight](ue_ue.K2Node_Switch.md#nodeheight)
 
-#### Defined in
-
-[ue/ue.d.ts:1066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1066)
-
 ___
 
 ### NodePosX
@@ -264,10 +208,6 @@ ___
 #### Inherited from
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[NodePosX](ue_ue.K2Node_Switch.md#nodeposx)
-
-#### Defined in
-
-[ue/ue.d.ts:1063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1063)
 
 ___
 
@@ -279,10 +219,6 @@ ___
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[NodePosY](ue_ue.K2Node_Switch.md#nodeposy)
 
-#### Defined in
-
-[ue/ue.d.ts:1064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1064)
-
 ___
 
 ### NodeUpgradeMessage
@@ -292,10 +228,6 @@ ___
 #### Inherited from
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[NodeUpgradeMessage](ue_ue.K2Node_Switch.md#nodeupgrademessage)
-
-#### Defined in
-
-[ue/ue.d.ts:1078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1078)
 
 ___
 
@@ -307,10 +239,6 @@ ___
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[NodeWidth](ue_ue.K2Node_Switch.md#nodewidth)
 
-#### Defined in
-
-[ue/ue.d.ts:1065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1065)
-
 ___
 
 ### \_\_tid\_EdGraphNode\_\_
@@ -321,19 +249,11 @@ ___
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[__tid_EdGraphNode__](ue_ue.K2Node_Switch.md#__tid_edgraphnode__)
 
-#### Defined in
-
-[ue/ue.d.ts:1087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1087)
-
 ___
 
 ### \_\_tid\_K2Node\_SwitchEnum\_\_
 
 • **\_\_tid\_K2Node\_SwitchEnum\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:41976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41976)
 
 ___
 
@@ -345,10 +265,6 @@ ___
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[__tid_K2Node_Switch__](ue_ue.K2Node_Switch.md#__tid_k2node_switch__)
 
-#### Defined in
-
-[ue/ue.d.ts:37063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37063)
-
 ___
 
 ### \_\_tid\_K2Node\_\_
@@ -358,10 +274,6 @@ ___
 #### Inherited from
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[__tid_K2Node__](ue_ue.K2Node_Switch.md#__tid_k2node__)
-
-#### Defined in
-
-[ue/ue.d.ts:16749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16749)
 
 ___
 
@@ -373,10 +285,6 @@ ___
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[__tid_Object__](ue_ue.K2Node_Switch.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bCanRenameNode
@@ -386,10 +294,6 @@ ___
 #### Inherited from
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[bCanRenameNode](ue_ue.K2Node_Switch.md#bcanrenamenode)
-
-#### Defined in
-
-[ue/ue.d.ts:1077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1077)
 
 ___
 
@@ -401,10 +305,6 @@ ___
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[bCanResizeNode](ue_ue.K2Node_Switch.md#bcanresizenode)
 
-#### Defined in
-
-[ue/ue.d.ts:1072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1072)
-
 ___
 
 ### bCommentBubbleMakeVisible
@@ -414,10 +314,6 @@ ___
 #### Inherited from
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[bCommentBubbleMakeVisible](ue_ue.K2Node_Switch.md#bcommentbubblemakevisible)
-
-#### Defined in
-
-[ue/ue.d.ts:1076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1076)
 
 ___
 
@@ -429,10 +325,6 @@ ___
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[bCommentBubblePinned](ue_ue.K2Node_Switch.md#bcommentbubblepinned)
 
-#### Defined in
-
-[ue/ue.d.ts:1074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1074)
-
 ___
 
 ### bCommentBubbleVisible
@@ -442,10 +334,6 @@ ___
 #### Inherited from
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[bCommentBubbleVisible](ue_ue.K2Node_Switch.md#bcommentbubblevisible)
-
-#### Defined in
-
-[ue/ue.d.ts:1075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1075)
 
 ___
 
@@ -457,10 +345,6 @@ ___
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[bDisplayAsDisabled](ue_ue.K2Node_Switch.md#bdisplayasdisabled)
 
-#### Defined in
-
-[ue/ue.d.ts:1069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1069)
-
 ___
 
 ### bHasCompilerMessage
@@ -470,10 +354,6 @@ ___
 #### Inherited from
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[bHasCompilerMessage](ue_ue.K2Node_Switch.md#bhascompilermessage)
-
-#### Defined in
-
-[ue/ue.d.ts:1073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1073)
 
 ___
 
@@ -485,10 +365,6 @@ ___
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[bHasDefaultPin](ue_ue.K2Node_Switch.md#bhasdefaultpin)
 
-#### Defined in
-
-[ue/ue.d.ts:37056](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37056)
-
 ___
 
 ### bIsNodeEnabled
@@ -499,10 +375,6 @@ ___
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[bIsNodeEnabled](ue_ue.K2Node_Switch.md#bisnodeenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:1071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1071)
-
 ___
 
 ### bUserSetEnabledState
@@ -512,10 +384,6 @@ ___
 #### Inherited from
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[bUserSetEnabledState](ue_ue.K2Node_Switch.md#busersetenabledstate)
-
-#### Defined in
-
-[ue/ue.d.ts:1070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1070)
 
 ## Methods
 
@@ -541,10 +409,6 @@ ___
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[CreateDefaultSubobject](ue_ue.K2Node_Switch.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -565,10 +429,6 @@ ___
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[ExecuteUbergraph](ue_ue.K2Node_Switch.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -582,10 +442,6 @@ ___
 #### Inherited from
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[GetClass](ue_ue.K2Node_Switch.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -601,10 +457,6 @@ ___
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[GetName](ue_ue.K2Node_Switch.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -619,10 +471,6 @@ ___
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[GetOuter](ue_ue.K2Node_Switch.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -636,10 +484,6 @@ ___
 #### Inherited from
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[GetWorld](ue_ue.K2Node_Switch.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -662,10 +506,6 @@ ___
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[Find](ue_ue.K2Node_Switch.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:41973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41973)
-
 ___
 
 ### Load
@@ -686,10 +526,6 @@ ___
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[Load](ue_ue.K2Node_Switch.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:41974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41974)
-
 ___
 
 ### StaticClass
@@ -703,7 +539,3 @@ ___
 #### Overrides
 
 [K2Node_Switch](ue_ue.K2Node_Switch.md).[StaticClass](ue_ue.K2Node_Switch.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:41972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41972)

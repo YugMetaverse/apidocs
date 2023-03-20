@@ -28,10 +28,6 @@
 
 • **new SoundWaveEnvelopeDataPerSound**()
 
-#### Defined in
-
-[ue/ue.d.ts:16240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16240)
-
 • **new SoundWaveEnvelopeDataPerSound**(`Envelope`, `PlaybackTime`, `SoundWave`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `PlaybackTime` | `number` |
 | `SoundWave` | [`SoundWave`](ue_ue.SoundWave.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:16241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16241)
-
 ## Properties
 
 ### Envelope
 
 • **Envelope**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16242)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **PlaybackTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16243)
-
 ___
 
 ### SoundWave
 
 • **SoundWave**: [`SoundWave`](ue_ue.SoundWave.md)
 
-#### Defined in
-
-[ue/ue.d.ts:16244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16244)
-
 ___
 
 ### \_\_tid\_SoundWaveEnvelopeDataPerSound\_\_
 
 • `Private` **\_\_tid\_SoundWaveEnvelopeDataPerSound\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16250)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:16248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16248)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:16249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16249)

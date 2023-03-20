@@ -58,10 +58,6 @@
 
 [AISense](ue_ue.AISense.md).[constructor](ue_ue.AISense.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:15915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15915)
-
 ## Properties
 
 ### DefaultExpirationAge
@@ -71,10 +67,6 @@
 #### Inherited from
 
 [AISense](ue_ue.AISense.md).[DefaultExpirationAge](ue_ue.AISense.md#defaultexpirationage)
-
-#### Defined in
-
-[ue/ue.d.ts:15711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15711)
 
 ___
 
@@ -86,10 +78,6 @@ ___
 
 [AISense](ue_ue.AISense.md).[NotifyType](ue_ue.AISense.md#notifytype)
 
-#### Defined in
-
-[ue/ue.d.ts:15712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15712)
-
 ___
 
 ### PerceptionSystemInstance
@@ -100,29 +88,17 @@ ___
 
 [AISense](ue_ue.AISense.md).[PerceptionSystemInstance](ue_ue.AISense.md#perceptionsysteminstance)
 
-#### Defined in
-
-[ue/ue.d.ts:15715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15715)
-
 ___
 
 ### RegisteredEvents
 
 • **RegisteredEvents**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AITeamStimulusEvent`](ue_ue.AITeamStimulusEvent.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:15916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15916)
-
 ___
 
 ### \_\_tid\_AISense\_Team\_\_
 
 • **\_\_tid\_AISense\_Team\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:15921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15921)
 
 ___
 
@@ -134,10 +110,6 @@ ___
 
 [AISense](ue_ue.AISense.md).[__tid_AISense__](ue_ue.AISense.md#__tid_aisense__)
 
-#### Defined in
-
-[ue/ue.d.ts:15720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15720)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -147,10 +119,6 @@ ___
 #### Inherited from
 
 [AISense](ue_ue.AISense.md).[__tid_Object__](ue_ue.AISense.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -162,10 +130,6 @@ ___
 
 [AISense](ue_ue.AISense.md).[bAutoRegisterAllPawnsAsSources](ue_ue.AISense.md#bautoregisterallpawnsassources)
 
-#### Defined in
-
-[ue/ue.d.ts:15714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15714)
-
 ___
 
 ### bWantsNewPawnNotification
@@ -175,10 +139,6 @@ ___
 #### Inherited from
 
 [AISense](ue_ue.AISense.md).[bWantsNewPawnNotification](ue_ue.AISense.md#bwantsnewpawnnotification)
-
-#### Defined in
-
-[ue/ue.d.ts:15713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15713)
 
 ## Methods
 
@@ -204,10 +164,6 @@ ___
 
 [AISense](ue_ue.AISense.md).[CreateDefaultSubobject](ue_ue.AISense.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -228,10 +184,6 @@ ___
 
 [AISense](ue_ue.AISense.md).[ExecuteUbergraph](ue_ue.AISense.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -245,10 +197,6 @@ ___
 #### Inherited from
 
 [AISense](ue_ue.AISense.md).[GetClass](ue_ue.AISense.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -264,10 +212,6 @@ ___
 
 [AISense](ue_ue.AISense.md).[GetName](ue_ue.AISense.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -282,10 +226,6 @@ ___
 
 [AISense](ue_ue.AISense.md).[GetOuter](ue_ue.AISense.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -299,10 +239,6 @@ ___
 #### Inherited from
 
 [AISense](ue_ue.AISense.md).[GetWorld](ue_ue.AISense.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -325,10 +261,6 @@ ___
 
 [AISense](ue_ue.AISense.md).[Find](ue_ue.AISense.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:15918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15918)
-
 ___
 
 ### Load
@@ -349,10 +281,6 @@ ___
 
 [AISense](ue_ue.AISense.md).[Load](ue_ue.AISense.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:15919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15919)
-
 ___
 
 ### StaticClass
@@ -366,7 +294,3 @@ ___
 #### Overrides
 
 [AISense](ue_ue.AISense.md).[StaticClass](ue_ue.AISense.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15917)

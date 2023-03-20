@@ -26,10 +26,6 @@
 
 • **new DirectoryPath**()
 
-#### Defined in
-
-[ue/ue.d.ts:16451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16451)
-
 • **new DirectoryPath**(`Path`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Path` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:16452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16452)
-
 ## Properties
 
 ### Path
 
 • **Path**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:16453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16453)
-
 ___
 
 ### \_\_tid\_DirectoryPath\_\_
 
 • `Private` **\_\_tid\_DirectoryPath\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16459](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16459)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:16457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16457)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:16458](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16458)

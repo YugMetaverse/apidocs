@@ -28,10 +28,6 @@
 
 • **new BranchingPointMarker**()
 
-#### Defined in
-
-[ue/ue.d.ts:2914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2914)
-
 • **new BranchingPointMarker**(`NotifyIndex`, `TriggerTime`, `NotifyEventType`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `TriggerTime` | `number` |
 | `NotifyEventType` | [`EAnimNotifyEventType`](../enums/ue_ue.EAnimNotifyEventType.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:2915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2915)
-
 ## Properties
 
 ### NotifyEventType
 
 • **NotifyEventType**: [`EAnimNotifyEventType`](../enums/ue_ue.EAnimNotifyEventType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2918)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **NotifyIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2916)
-
 ___
 
 ### TriggerTime
 
 • **TriggerTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2917)
-
 ___
 
 ### \_\_tid\_BranchingPointMarker\_\_
 
 • `Private` **\_\_tid\_BranchingPointMarker\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2924)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2922)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2923)

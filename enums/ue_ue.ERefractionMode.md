@@ -19,19 +19,11 @@
 
 • **RM\_IndexOfRefraction** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1408)
-
 ___
 
 ### RM\_MAX
 
 • **RM\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1408)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **RM\_PixelNormalOffset** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1408)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1408)

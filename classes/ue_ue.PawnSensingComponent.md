@@ -115,10 +115,6 @@
 
 [ActorComponent](ue_ue.ActorComponent.md).[constructor](ue_ue.ActorComponent.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:57015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57015)
-
 ## Properties
 
 ### AssetUserData
@@ -128,10 +124,6 @@
 #### Inherited from
 
 [ActorComponent](ue_ue.ActorComponent.md).[AssetUserData](ue_ue.ActorComponent.md#assetuserdata)
-
-#### Defined in
-
-[ue/ue.d.ts:291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L291)
 
 ___
 
@@ -143,10 +135,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[ComponentTags](ue_ue.ActorComponent.md#componenttags)
 
-#### Defined in
-
-[ue/ue.d.ts:290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L290)
-
 ___
 
 ### CreationMethod
@@ -157,19 +145,11 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[CreationMethod](ue_ue.ActorComponent.md#creationmethod)
 
-#### Defined in
-
-[ue/ue.d.ts:302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L302)
-
 ___
 
 ### HearingMaxSoundAge
 
 • **HearingMaxSoundAge**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57020)
 
 ___
 
@@ -177,19 +157,11 @@ ___
 
 • **HearingThreshold**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57016)
-
 ___
 
 ### LOSHearingThreshold
 
 • **LOSHearingThreshold**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57017)
 
 ___
 
@@ -201,10 +173,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[OnComponentActivated](ue_ue.ActorComponent.md#oncomponentactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L303)
-
 ___
 
 ### OnComponentDeactivated
@@ -215,19 +183,11 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[OnComponentDeactivated](ue_ue.ActorComponent.md#oncomponentdeactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L304)
-
 ___
 
 ### OnHearNoise
 
 • **OnHearNoise**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`Instigator`: [`$Nullable`](../modules/puerts.md#$nullable)<[`Pawn`](ue_ue.Pawn.md)\>, `Location`: [`Vector`](ue_ue_s.Vector.md), `Volume`: `number`) => `void`\>
-
-#### Defined in
-
-[ue/ue.d.ts:57026](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57026)
 
 ___
 
@@ -235,29 +195,17 @@ ___
 
 • **OnSeePawn**: [`$MulticastDelegate`](../interfaces/ue_puerts._MulticastDelegate.md)<(`Pawn`: [`$Nullable`](../modules/puerts.md#$nullable)<[`Pawn`](ue_ue.Pawn.md)\>) => `void`\>
 
-#### Defined in
-
-[ue/ue.d.ts:57025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57025)
-
 ___
 
 ### PeripheralVisionAngle
 
 • **PeripheralVisionAngle**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57027)
-
 ___
 
 ### PeripheralVisionCosine
 
 • **PeripheralVisionCosine**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57028)
 
 ___
 
@@ -269,29 +217,17 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[PrimaryComponentTick](ue_ue.ActorComponent.md#primarycomponenttick)
 
-#### Defined in
-
-[ue/ue.d.ts:289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L289)
-
 ___
 
 ### SensingInterval
 
 • **SensingInterval**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57019)
-
 ___
 
 ### SightRadius
 
 • **SightRadius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57018)
 
 ___
 
@@ -303,10 +239,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[UCSModifiedProperties](ue_ue.ActorComponent.md#ucsmodifiedproperties)
 
-#### Defined in
-
-[ue/ue.d.ts:305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L305)
-
 ___
 
 ### \_\_tid\_ActorComponent\_\_
@@ -316,10 +248,6 @@ ___
 #### Inherited from
 
 [ActorComponent](ue_ue.ActorComponent.md).[__tid_ActorComponent__](ue_ue.ActorComponent.md#__tid_actorcomponent__)
-
-#### Defined in
-
-[ue/ue.d.ts:336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L336)
 
 ___
 
@@ -331,19 +259,11 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[__tid_Object__](ue_ue.ActorComponent.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PawnSensingComponent\_\_
 
 • **\_\_tid\_PawnSensingComponent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57040](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57040)
 
 ___
 
@@ -355,10 +275,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[bAutoActivate](ue_ue.ActorComponent.md#bautoactivate)
 
-#### Defined in
-
-[ue/ue.d.ts:296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L296)
-
 ___
 
 ### bCanEverAffectNavigation
@@ -368,10 +284,6 @@ ___
 #### Inherited from
 
 [ActorComponent](ue_ue.ActorComponent.md).[bCanEverAffectNavigation](ue_ue.ActorComponent.md#bcaneveraffectnavigation)
-
-#### Defined in
-
-[ue/ue.d.ts:299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L299)
 
 ___
 
@@ -383,10 +295,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[bCreatedByConstructionScript](ue_ue.ActorComponent.md#bcreatedbyconstructionscript)
 
-#### Defined in
-
-[ue/ue.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L294)
-
 ___
 
 ### bEditableWhenInherited
@@ -397,29 +305,17 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[bEditableWhenInherited](ue_ue.ActorComponent.md#beditablewheninherited)
 
-#### Defined in
-
-[ue/ue.d.ts:298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L298)
-
 ___
 
 ### bEnableSensingUpdates
 
 • **bEnableSensingUpdates**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:57021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57021)
-
 ___
 
 ### bHearNoises
 
 • **bHearNoises**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57024)
 
 ___
 
@@ -431,10 +327,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[bInstanceComponent](ue_ue.ActorComponent.md#binstancecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L295)
-
 ___
 
 ### bIsActive
@@ -444,10 +336,6 @@ ___
 #### Inherited from
 
 [ActorComponent](ue_ue.ActorComponent.md).[bIsActive](ue_ue.ActorComponent.md#bisactive)
-
-#### Defined in
-
-[ue/ue.d.ts:297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L297)
 
 ___
 
@@ -459,10 +347,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[bIsEditorOnly](ue_ue.ActorComponent.md#biseditoronly)
 
-#### Defined in
-
-[ue/ue.d.ts:300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L300)
-
 ___
 
 ### bIsVisualizationComponent
@@ -472,10 +356,6 @@ ___
 #### Inherited from
 
 [ActorComponent](ue_ue.ActorComponent.md).[bIsVisualizationComponent](ue_ue.ActorComponent.md#bisvisualizationcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L301)
 
 ___
 
@@ -487,19 +367,11 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[bNetAddressable](ue_ue.ActorComponent.md#bnetaddressable)
 
-#### Defined in
-
-[ue/ue.d.ts:293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L293)
-
 ___
 
 ### bOnlySensePlayers
 
 • **bOnlySensePlayers**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57022)
 
 ___
 
@@ -511,19 +383,11 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[bReplicates](ue_ue.ActorComponent.md#breplicates)
 
-#### Defined in
-
-[ue/ue.d.ts:292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L292)
-
 ___
 
 ### bSeePawns
 
 • **bSeePawns**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57023)
 
 ## Methods
 
@@ -545,10 +409,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[Activate](ue_ue.ActorComponent.md#activate)
 
-#### Defined in
-
-[ue/ue.d.ts:306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L306)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -568,10 +428,6 @@ ___
 #### Inherited from
 
 [ActorComponent](ue_ue.ActorComponent.md).[AddTickPrerequisiteActor](ue_ue.ActorComponent.md#addtickprerequisiteactor)
-
-#### Defined in
-
-[ue/ue.d.ts:307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L307)
 
 ___
 
@@ -593,10 +449,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[AddTickPrerequisiteComponent](ue_ue.ActorComponent.md#addtickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L308)
-
 ___
 
 ### ComponentHasTag
@@ -616,10 +468,6 @@ ___
 #### Inherited from
 
 [ActorComponent](ue_ue.ActorComponent.md).[ComponentHasTag](ue_ue.ActorComponent.md#componenthastag)
-
-#### Defined in
-
-[ue/ue.d.ts:309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L309)
 
 ___
 
@@ -645,10 +493,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[CreateDefaultSubobject](ue_ue.ActorComponent.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### Deactivate
@@ -662,10 +506,6 @@ ___
 #### Inherited from
 
 [ActorComponent](ue_ue.ActorComponent.md).[Deactivate](ue_ue.ActorComponent.md#deactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L310)
 
 ___
 
@@ -687,10 +527,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[ExecuteUbergraph](ue_ue.ActorComponent.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -704,10 +540,6 @@ ___
 #### Inherited from
 
 [ActorComponent](ue_ue.ActorComponent.md).[GetClass](ue_ue.ActorComponent.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -723,10 +555,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[GetComponentTickInterval](ue_ue.ActorComponent.md#getcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L311)
-
 ___
 
 ### GetName
@@ -740,10 +568,6 @@ ___
 #### Inherited from
 
 [ActorComponent](ue_ue.ActorComponent.md).[GetName](ue_ue.ActorComponent.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -759,10 +583,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[GetOuter](ue_ue.ActorComponent.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetOwner
@@ -777,10 +597,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[GetOwner](ue_ue.ActorComponent.md#getowner)
 
-#### Defined in
-
-[ue/ue.d.ts:312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L312)
-
 ___
 
 ### GetPeripheralVisionAngle
@@ -791,10 +607,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57029](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57029)
-
 ___
 
 ### GetPeripheralVisionCosine
@@ -804,10 +616,6 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57030](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57030)
 
 ___
 
@@ -822,10 +630,6 @@ ___
 #### Inherited from
 
 [ActorComponent](ue_ue.ActorComponent.md).[GetWorld](ue_ue.ActorComponent.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -845,10 +649,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:57031](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57031)
-
 ___
 
 ### IsActive
@@ -862,10 +662,6 @@ ___
 #### Inherited from
 
 [ActorComponent](ue_ue.ActorComponent.md).[IsActive](ue_ue.ActorComponent.md#isactive)
-
-#### Defined in
-
-[ue/ue.d.ts:313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L313)
 
 ___
 
@@ -881,10 +677,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[IsBeingDestroyed](ue_ue.ActorComponent.md#isbeingdestroyed)
 
-#### Defined in
-
-[ue/ue.d.ts:314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L314)
-
 ___
 
 ### IsComponentTickEnabled
@@ -898,10 +690,6 @@ ___
 #### Inherited from
 
 [ActorComponent](ue_ue.ActorComponent.md).[IsComponentTickEnabled](ue_ue.ActorComponent.md#iscomponenttickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L315)
 
 ___
 
@@ -923,10 +711,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[K2_DestroyComponent](ue_ue.ActorComponent.md#k2_destroycomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L316)
-
 ___
 
 ### OnRep\_IsActive
@@ -941,10 +725,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[OnRep_IsActive](ue_ue.ActorComponent.md#onrep_isactive)
 
-#### Defined in
-
-[ue/ue.d.ts:317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L317)
-
 ___
 
 ### ReceiveBeginPlay
@@ -958,10 +738,6 @@ ___
 #### Inherited from
 
 [ActorComponent](ue_ue.ActorComponent.md).[ReceiveBeginPlay](ue_ue.ActorComponent.md#receivebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L318)
 
 ___
 
@@ -983,10 +759,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[ReceiveEndPlay](ue_ue.ActorComponent.md#receiveendplay)
 
-#### Defined in
-
-[ue/ue.d.ts:319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L319)
-
 ___
 
 ### ReceiveTick
@@ -1007,10 +779,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[ReceiveTick](ue_ue.ActorComponent.md#receivetick)
 
-#### Defined in
-
-[ue/ue.d.ts:320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L320)
-
 ___
 
 ### RegisterComponent
@@ -1024,10 +792,6 @@ ___
 #### Inherited from
 
 [ActorComponent](ue_ue.ActorComponent.md).[RegisterComponent](ue_ue.ActorComponent.md#registercomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L321)
 
 ___
 
@@ -1049,10 +813,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[RemoveTickPrerequisiteActor](ue_ue.ActorComponent.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -1073,10 +833,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[RemoveTickPrerequisiteComponent](ue_ue.ActorComponent.md#removetickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L323)
-
 ___
 
 ### SeePawnDelegate\_\_DelegateSignature
@@ -1092,10 +848,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:57032](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57032)
 
 ___
 
@@ -1118,10 +870,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[SetActive](ue_ue.ActorComponent.md#setactive)
 
-#### Defined in
-
-[ue/ue.d.ts:324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L324)
-
 ___
 
 ### SetAutoActivate
@@ -1141,10 +889,6 @@ ___
 #### Inherited from
 
 [ActorComponent](ue_ue.ActorComponent.md).[SetAutoActivate](ue_ue.ActorComponent.md#setautoactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L325)
 
 ___
 
@@ -1166,10 +910,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[SetComponentTickEnabled](ue_ue.ActorComponent.md#setcomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L326)
-
 ___
 
 ### SetComponentTickInterval
@@ -1189,10 +929,6 @@ ___
 #### Inherited from
 
 [ActorComponent](ue_ue.ActorComponent.md).[SetComponentTickInterval](ue_ue.ActorComponent.md#setcomponenttickinterval)
-
-#### Defined in
-
-[ue/ue.d.ts:327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L327)
 
 ___
 
@@ -1214,10 +950,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[SetIsReplicated](ue_ue.ActorComponent.md#setisreplicated)
 
-#### Defined in
-
-[ue/ue.d.ts:328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L328)
-
 ___
 
 ### SetPeripheralVisionAngle
@@ -1233,10 +965,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:57033](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57033)
 
 ___
 
@@ -1254,10 +982,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:57034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57034)
-
 ___
 
 ### SetSensingUpdatesEnabled
@@ -1273,10 +997,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:57035](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57035)
 
 ___
 
@@ -1298,10 +1018,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[SetTickGroup](ue_ue.ActorComponent.md#settickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L330)
-
 ___
 
 ### SetTickableWhenPaused
@@ -1322,10 +1038,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[SetTickableWhenPaused](ue_ue.ActorComponent.md#settickablewhenpaused)
 
-#### Defined in
-
-[ue/ue.d.ts:329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L329)
-
 ___
 
 ### ToggleActive
@@ -1339,10 +1051,6 @@ ___
 #### Inherited from
 
 [ActorComponent](ue_ue.ActorComponent.md).[ToggleActive](ue_ue.ActorComponent.md#toggleactive)
-
-#### Defined in
-
-[ue/ue.d.ts:331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L331)
 
 ___
 
@@ -1365,10 +1073,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[Find](ue_ue.ActorComponent.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:57037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57037)
-
 ___
 
 ### Load
@@ -1389,10 +1093,6 @@ ___
 
 [ActorComponent](ue_ue.ActorComponent.md).[Load](ue_ue.ActorComponent.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:57038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57038)
-
 ___
 
 ### StaticClass
@@ -1406,7 +1106,3 @@ ___
 #### Overrides
 
 [ActorComponent](ue_ue.ActorComponent.md).[StaticClass](ue_ue.ActorComponent.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:57036](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57036)

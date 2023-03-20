@@ -39,10 +39,6 @@
 
 [MovieSceneChannel](ue_ue.MovieSceneChannel.md).[constructor](ue_ue.MovieSceneChannel.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:51923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51923)
-
 • **new MovieSceneIntegerChannel**(`Times`, `DefaultValue`, `bHasDefaultValue`, `Values`)
 
 #### Parameters
@@ -58,19 +54,11 @@
 
 UE.MovieSceneChannel.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:51924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51924)
-
 ## Properties
 
 ### DefaultValue
 
 • **DefaultValue**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:51926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51926)
 
 ___
 
@@ -78,19 +66,11 @@ ___
 
 • **Times**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`FrameNumber`](ue_ue.FrameNumber.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:51925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51925)
-
 ___
 
 ### Values
 
 • **Values**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:51928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51928)
 
 ___
 
@@ -98,19 +78,11 @@ ___
 
 • `Private` **\_\_tid\_MovieSceneIntegerChannel\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:51934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51934)
-
 ___
 
 ### bHasDefaultValue
 
 • **bHasDefaultValue**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:51927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51927)
 
 ## Methods
 
@@ -130,10 +102,6 @@ use StaticStruct instead.
 
 [MovieSceneChannel](ue_ue.MovieSceneChannel.md).[StaticClass](ue_ue.MovieSceneChannel.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:51932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51932)
-
 ___
 
 ### StaticStruct
@@ -147,7 +115,3 @@ ___
 #### Overrides
 
 [MovieSceneChannel](ue_ue.MovieSceneChannel.md).[StaticStruct](ue_ue.MovieSceneChannel.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:51933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51933)

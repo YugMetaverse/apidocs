@@ -19,19 +19,11 @@
 
 • **EPaintMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34655)
-
 ___
 
 ### Textures
 
 • **Textures** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34655)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Vertices** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34655)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34655)

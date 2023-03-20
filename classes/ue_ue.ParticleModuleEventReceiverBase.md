@@ -73,29 +73,17 @@
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[constructor](ue_ue.ParticleModuleEventBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:7052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7052)
-
 ## Properties
 
 ### EventGeneratorType
 
 • **EventGeneratorType**: [`EParticleEventType`](../enums/ue_ue.EParticleEventType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7053)
-
 ___
 
 ### EventName
 
 • **EventName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:7054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7054)
 
 ___
 
@@ -107,10 +95,6 @@ ___
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[LODDuplicate](ue_ue.ParticleModuleEventBase.md#lodduplicate)
 
-#### Defined in
-
-[ue/ue.d.ts:6745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6745)
-
 ___
 
 ### LODValidity
@@ -120,10 +104,6 @@ ___
 #### Inherited from
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[LODValidity](ue_ue.ParticleModuleEventBase.md#lodvalidity)
-
-#### Defined in
-
-[ue/ue.d.ts:6748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6748)
 
 ___
 
@@ -135,10 +115,6 @@ ___
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[ModuleEditorColor](ue_ue.ParticleModuleEventBase.md#moduleeditorcolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6749)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -148,10 +124,6 @@ ___
 #### Inherited from
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[__tid_Object__](ue_ue.ParticleModuleEventBase.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -163,19 +135,11 @@ ___
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[__tid_ParticleModuleEventBase__](ue_ue.ParticleModuleEventBase.md#__tid_particlemoduleeventbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:6939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6939)
-
 ___
 
 ### \_\_tid\_ParticleModuleEventReceiverBase\_\_
 
 • **\_\_tid\_ParticleModuleEventReceiverBase\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7059)
 
 ___
 
@@ -187,10 +151,6 @@ ___
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[__tid_ParticleModule__](ue_ue.ParticleModuleEventBase.md#__tid_particlemodule__)
 
-#### Defined in
-
-[ue/ue.d.ts:6754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6754)
-
 ___
 
 ### b3DDrawMode
@@ -200,10 +160,6 @@ ___
 #### Inherited from
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[b3DDrawMode](ue_ue.ParticleModuleEventBase.md#b3ddrawmode)
-
-#### Defined in
-
-[ue/ue.d.ts:6741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6741)
 
 ___
 
@@ -215,10 +171,6 @@ ___
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[bCurvesAsColor](ue_ue.ParticleModuleEventBase.md#bcurvesascolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6740)
-
 ___
 
 ### bEditable
@@ -228,10 +180,6 @@ ___
 #### Inherited from
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[bEditable](ue_ue.ParticleModuleEventBase.md#beditable)
-
-#### Defined in
-
-[ue/ue.d.ts:6744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6744)
 
 ___
 
@@ -243,10 +191,6 @@ ___
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[bEnabled](ue_ue.ParticleModuleEventBase.md#benabled)
 
-#### Defined in
-
-[ue/ue.d.ts:6743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6743)
-
 ___
 
 ### bFinalUpdateModule
@@ -256,10 +200,6 @@ ___
 #### Inherited from
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[bFinalUpdateModule](ue_ue.ParticleModuleEventBase.md#bfinalupdatemodule)
-
-#### Defined in
-
-[ue/ue.d.ts:6738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6738)
 
 ___
 
@@ -271,10 +211,6 @@ ___
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[bRequiresLoopingNotification](ue_ue.ParticleModuleEventBase.md#brequiresloopingnotification)
 
-#### Defined in
-
-[ue/ue.d.ts:6747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6747)
-
 ___
 
 ### bSpawnModule
@@ -284,10 +220,6 @@ ___
 #### Inherited from
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[bSpawnModule](ue_ue.ParticleModuleEventBase.md#bspawnmodule)
-
-#### Defined in
-
-[ue/ue.d.ts:6736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6736)
 
 ___
 
@@ -299,10 +231,6 @@ ___
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[bSupported3DDrawMode](ue_ue.ParticleModuleEventBase.md#bsupported3ddrawmode)
 
-#### Defined in
-
-[ue/ue.d.ts:6742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6742)
-
 ___
 
 ### bSupportsRandomSeed
@@ -312,10 +240,6 @@ ___
 #### Inherited from
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[bSupportsRandomSeed](ue_ue.ParticleModuleEventBase.md#bsupportsrandomseed)
-
-#### Defined in
-
-[ue/ue.d.ts:6746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6746)
 
 ___
 
@@ -327,10 +251,6 @@ ___
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[bUpdateForGPUEmitter](ue_ue.ParticleModuleEventBase.md#bupdateforgpuemitter)
 
-#### Defined in
-
-[ue/ue.d.ts:6739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6739)
-
 ___
 
 ### bUpdateModule
@@ -340,10 +260,6 @@ ___
 #### Inherited from
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[bUpdateModule](ue_ue.ParticleModuleEventBase.md#bupdatemodule)
-
-#### Defined in
-
-[ue/ue.d.ts:6737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6737)
 
 ## Methods
 
@@ -369,10 +285,6 @@ ___
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[CreateDefaultSubobject](ue_ue.ParticleModuleEventBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -393,10 +305,6 @@ ___
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[ExecuteUbergraph](ue_ue.ParticleModuleEventBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -410,10 +318,6 @@ ___
 #### Inherited from
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[GetClass](ue_ue.ParticleModuleEventBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -429,10 +333,6 @@ ___
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[GetName](ue_ue.ParticleModuleEventBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -447,10 +347,6 @@ ___
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[GetOuter](ue_ue.ParticleModuleEventBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -464,10 +360,6 @@ ___
 #### Inherited from
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[GetWorld](ue_ue.ParticleModuleEventBase.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -490,10 +382,6 @@ ___
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[Find](ue_ue.ParticleModuleEventBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:7056](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7056)
-
 ___
 
 ### Load
@@ -514,10 +402,6 @@ ___
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[Load](ue_ue.ParticleModuleEventBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:7057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7057)
-
 ___
 
 ### StaticClass
@@ -531,7 +415,3 @@ ___
 #### Overrides
 
 [ParticleModuleEventBase](ue_ue.ParticleModuleEventBase.md).[StaticClass](ue_ue.ParticleModuleEventBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:7055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7055)

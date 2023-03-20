@@ -33,10 +33,6 @@
 
 • **new SoundSourceBusSendInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:9697](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9697)
-
 • **new SoundSourceBusSendInfo**(`SourceBusSendLevelControlMethod`, `SoundSourceBus`, `SendLevel`, `MinSendLevel`, `MaxSendLevel`, `MinSendDistance`, `MaxSendDistance`, `CustomSendLevelCurve`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `MaxSendDistance` | `number` |
 | `CustomSendLevelCurve` | [`RuntimeFloatCurve`](ue_ue.RuntimeFloatCurve.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:9698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9698)
-
 ## Properties
 
 ### CustomSendLevelCurve
 
 • **CustomSendLevelCurve**: [`RuntimeFloatCurve`](ue_ue.RuntimeFloatCurve.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9706](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9706)
 
 ___
 
@@ -72,19 +60,11 @@ ___
 
 • **MaxSendDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9705)
-
 ___
 
 ### MaxSendLevel
 
 • **MaxSendLevel**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9703)
 
 ___
 
@@ -92,19 +72,11 @@ ___
 
 • **MinSendDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9704)
-
 ___
 
 ### MinSendLevel
 
 • **MinSendLevel**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9702)
 
 ___
 
@@ -112,19 +84,11 @@ ___
 
 • **SendLevel**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9701)
-
 ___
 
 ### SoundSourceBus
 
 • **SoundSourceBus**: [`SoundSourceBus`](ue_ue.SoundSourceBus.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9700)
 
 ___
 
@@ -132,19 +96,11 @@ ___
 
 • **SourceBusSendLevelControlMethod**: [`ESourceBusSendLevelControlMethod`](../enums/ue_ue.ESourceBusSendLevelControlMethod.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9699](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9699)
-
 ___
 
 ### \_\_tid\_SoundSourceBusSendInfo\_\_
 
 • `Private` **\_\_tid\_SoundSourceBusSendInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9712)
 
 ## Methods
 
@@ -160,10 +116,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9710)
-
 ___
 
 ### StaticStruct
@@ -173,7 +125,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9711)

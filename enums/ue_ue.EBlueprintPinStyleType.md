@@ -19,19 +19,11 @@
 
 • **BPST\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31385)
-
 ___
 
 ### BPST\_Original
 
 • **BPST\_Original** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31385)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **BPST\_VariantA** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31385)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31385)

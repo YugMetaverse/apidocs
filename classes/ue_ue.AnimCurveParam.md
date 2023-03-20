@@ -26,10 +26,6 @@
 
 • **new AnimCurveParam**()
 
-#### Defined in
-
-[ue/ue.d.ts:19938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19938)
-
 • **new AnimCurveParam**(`Name`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `Name` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:19939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19939)
-
 ## Properties
 
 ### Name
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:19940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19940)
-
 ___
 
 ### \_\_tid\_AnimCurveParam\_\_
 
 • `Private` **\_\_tid\_AnimCurveParam\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:19946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19946)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19944)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19945)

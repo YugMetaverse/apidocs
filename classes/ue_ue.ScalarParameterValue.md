@@ -30,10 +30,6 @@
 
 • **new ScalarParameterValue**()
 
-#### Defined in
-
-[ue/ue.d.ts:1730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1730)
-
 • **new ScalarParameterValue**(`ParameterName`, `AtlasData`, `ParameterInfo`, `ParameterValue`, `ExpressionGUID`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `ParameterValue` | `number` |
 | `ExpressionGUID` | [`Guid`](ue_ue_s.Guid.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:1731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1731)
-
 ## Properties
 
 ### AtlasData
 
 • **AtlasData**: [`ScalarParameterAtlasInstanceData`](ue_ue.ScalarParameterAtlasInstanceData.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1733)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **ExpressionGUID**: [`Guid`](ue_ue_s.Guid.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1736)
-
 ___
 
 ### ParameterInfo
 
 • **ParameterInfo**: [`MaterialParameterInfo`](ue_ue.MaterialParameterInfo.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1734)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **ParameterName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:1732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1732)
-
 ___
 
 ### ParameterValue
 
 • **ParameterValue**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1735)
-
 ___
 
 ### \_\_tid\_ScalarParameterValue\_\_
 
 • `Private` **\_\_tid\_ScalarParameterValue\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1742)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1740)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1741)

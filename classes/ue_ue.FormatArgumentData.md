@@ -31,10 +31,6 @@
 
 • **new FormatArgumentData**()
 
-#### Defined in
-
-[ue/ue.d.ts:43533](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43533)
-
 • **new FormatArgumentData**(`ArgumentName`, `ArgumentValueType`, `ArgumentValue`, `ArgumentValueInt`, `ArgumentValueFloat`, `ArgumentValueGender`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `ArgumentValueFloat` | `number` |
 | `ArgumentValueGender` | [`ETextGender`](../enums/ue_ue.ETextGender.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:43534](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43534)
-
 ## Properties
 
 ### ArgumentName
 
 • **ArgumentName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:43535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43535)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **ArgumentValue**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43537)
-
 ___
 
 ### ArgumentValueFloat
 
 • **ArgumentValueFloat**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:43539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43539)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **ArgumentValueGender**: [`ETextGender`](../enums/ue_ue.ETextGender.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43540)
-
 ___
 
 ### ArgumentValueInt
 
 • **ArgumentValueInt**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:43538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43538)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **ArgumentValueType**: [`EFormatArgumentType`](../enums/ue_ue.EFormatArgumentType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43536](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43536)
-
 ___
 
 ### \_\_tid\_FormatArgumentData\_\_
 
 • `Private` **\_\_tid\_FormatArgumentData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43546)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43544](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43544)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43545)

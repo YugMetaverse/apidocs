@@ -19,19 +19,11 @@
 
 • **BodyCollision\_Disabled** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3506)
-
 ___
 
 ### BodyCollision\_Enabled
 
 • **BodyCollision\_Enabled** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3506)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **BodyCollision\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3506)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3506)

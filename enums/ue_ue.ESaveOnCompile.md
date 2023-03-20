@@ -20,19 +20,11 @@
 
 • **SoC\_Always** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:24008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24008)
-
 ___
 
 ### SoC\_MAX
 
 • **SoC\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:24008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24008)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **SoC\_Never** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:24008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24008)
-
 ___
 
 ### SoC\_SuccessOnly
 
 • **SoC\_SuccessOnly** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:24008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24008)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:24008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24008)

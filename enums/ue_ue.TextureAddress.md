@@ -20,19 +20,11 @@
 
 • **TA\_Clamp** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L525)
-
 ___
 
 ### TA\_MAX
 
 • **TA\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L525)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **TA\_Mirror** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L525)
-
 ___
 
 ### TA\_Wrap
 
 • **TA\_Wrap** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L525)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L525)

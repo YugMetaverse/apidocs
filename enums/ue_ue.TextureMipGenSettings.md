@@ -38,19 +38,11 @@
 
 • **TMGS\_Blur1** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L449)
-
 ___
 
 ### TMGS\_Blur2
 
 • **TMGS\_Blur2** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L449)
 
 ___
 
@@ -58,19 +50,11 @@ ___
 
 • **TMGS\_Blur3** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L449)
-
 ___
 
 ### TMGS\_Blur4
 
 • **TMGS\_Blur4** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L449)
 
 ___
 
@@ -78,19 +62,11 @@ ___
 
 • **TMGS\_Blur5** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L449)
-
 ___
 
 ### TMGS\_FromTextureGroup
 
 • **TMGS\_FromTextureGroup** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L449)
 
 ___
 
@@ -98,19 +74,11 @@ ___
 
 • **TMGS\_LeaveExistingMips** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L449)
-
 ___
 
 ### TMGS\_MAX
 
 • **TMGS\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L449)
 
 ___
 
@@ -118,19 +86,11 @@ ___
 
 • **TMGS\_NoMipmaps** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L449)
-
 ___
 
 ### TMGS\_Sharpen0
 
 • **TMGS\_Sharpen0** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L449)
 
 ___
 
@@ -138,19 +98,11 @@ ___
 
 • **TMGS\_Sharpen1** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L449)
-
 ___
 
 ### TMGS\_Sharpen10
 
 • **TMGS\_Sharpen10** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L449)
 
 ___
 
@@ -158,19 +110,11 @@ ___
 
 • **TMGS\_Sharpen2** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L449)
-
 ___
 
 ### TMGS\_Sharpen3
 
 • **TMGS\_Sharpen3** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L449)
 
 ___
 
@@ -178,19 +122,11 @@ ___
 
 • **TMGS\_Sharpen4** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L449)
-
 ___
 
 ### TMGS\_Sharpen5
 
 • **TMGS\_Sharpen5** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L449)
 
 ___
 
@@ -198,19 +134,11 @@ ___
 
 • **TMGS\_Sharpen6** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L449)
-
 ___
 
 ### TMGS\_Sharpen7
 
 • **TMGS\_Sharpen7** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L449)
 
 ___
 
@@ -218,19 +146,11 @@ ___
 
 • **TMGS\_Sharpen8** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L449)
-
 ___
 
 ### TMGS\_Sharpen9
 
 • **TMGS\_Sharpen9** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L449)
 
 ___
 
@@ -238,26 +158,14 @@ ___
 
 • **TMGS\_SimpleAverage** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L449)
-
 ___
 
 ### TMGS\_Unfiltered
 
 • **TMGS\_Unfiltered** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L449)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L449)

@@ -34,10 +34,6 @@
 
 • **new LandscapeImportLayerInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:44240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44240)
-
 • **new LandscapeImportLayerInfo**(`LayerName`, `LayerInfo`, `SourceFilePath`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `LayerInfo` | [`LandscapeLayerInfoObject`](ue_ue.LandscapeLayerInfoObject.md) |
 | `SourceFilePath` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:44241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44241)
-
 ## Properties
 
 ### LayerInfo
 
 • **LayerInfo**: [`LandscapeLayerInfoObject`](ue_ue.LandscapeLayerInfoObject.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44243)
 
 ___
 
@@ -68,29 +56,17 @@ ___
 
 • **LayerName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:44242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44242)
-
 ___
 
 ### SourceFilePath
 
 • **SourceFilePath**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:44244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44244)
-
 ___
 
 ### \_\_tid\_LandscapeImportLayerInfo\_\_
 
 • `Private` **\_\_tid\_LandscapeImportLayerInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44250)
 
 ## Methods
 
@@ -106,10 +82,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44248)
-
 ___
 
 ### StaticStruct
@@ -119,7 +91,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44249)

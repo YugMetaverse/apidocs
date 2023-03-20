@@ -20,19 +20,11 @@
 
 • **Diagonal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21026](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21026)
-
 ___
 
 ### EARPlaneOrientation\_MAX
 
 • **EARPlaneOrientation\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21026](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21026)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Horizontal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21026](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21026)
-
 ___
 
 ### Vertical
 
 • **Vertical** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21026](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21026)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21026](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21026)

@@ -22,19 +22,11 @@
 
 • **Disabled** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33997)
-
 ___
 
 ### EMagicLeapEyeTrackingStatus\_MAX
 
 • **EMagicLeapEyeTrackingStatus\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33997)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **NotConnected** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33997)
-
 ___
 
 ### UserNotPresent
 
 • **UserNotPresent** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33997)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **UserPresent** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33997)
-
 ___
 
 ### UserPresentAndWatchingWindow
 
 • **UserPresentAndWatchingWindow** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33997)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33997)

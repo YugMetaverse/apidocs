@@ -26,19 +26,11 @@
 
 • **Color** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29853)
-
 ___
 
 ### EPropertyValueCategory\_MAX
 
 • **EPropertyValueCategory\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29853)
 
 ___
 
@@ -46,19 +38,11 @@ ___
 
 • **Generic** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29853)
-
 ___
 
 ### Material
 
 • **Material** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29853)
 
 ___
 
@@ -66,19 +50,11 @@ ___
 
 • **Option** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29853)
-
 ___
 
 ### RelativeLocation
 
 • **RelativeLocation** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29853)
 
 ___
 
@@ -86,19 +62,11 @@ ___
 
 • **RelativeRotation** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29853)
-
 ___
 
 ### RelativeScale3D
 
 • **RelativeScale3D** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29853)
 
 ___
 
@@ -106,26 +74,14 @@ ___
 
 • **Undefined** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29853)
-
 ___
 
 ### Visibility
 
 • **Visibility** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29853)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29853)

@@ -26,19 +26,11 @@
 
 • **SCS\_BaseColor** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34751)
-
 ___
 
 ### SCS\_DeviceDepth
 
 • **SCS\_DeviceDepth** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34751)
 
 ___
 
@@ -46,19 +38,11 @@ ___
 
 • **SCS\_FinalColorHDR** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34751)
-
 ___
 
 ### SCS\_FinalColorLDR
 
 • **SCS\_FinalColorLDR** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34751)
 
 ___
 
@@ -66,19 +50,11 @@ ___
 
 • **SCS\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34751)
-
 ___
 
 ### SCS\_Normal
 
 • **SCS\_Normal** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34751)
 
 ___
 
@@ -86,19 +62,11 @@ ___
 
 • **SCS\_SceneColorHDR** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34751)
-
 ___
 
 ### SCS\_SceneColorHDRNoAlpha
 
 • **SCS\_SceneColorHDRNoAlpha** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34751)
 
 ___
 
@@ -106,26 +74,14 @@ ___
 
 • **SCS\_SceneColorSceneDepth** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34751)
-
 ___
 
 ### SCS\_SceneDepth
 
 • **SCS\_SceneDepth** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34751)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34751)

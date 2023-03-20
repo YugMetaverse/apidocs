@@ -52,19 +52,11 @@
 
 [LiveLinkSourceFactory](ue_ue.LiveLinkSourceFactory.md).[constructor](ue_ue.LiveLinkSourceFactory.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:45927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45927)
-
 ## Properties
 
 ### \_\_tid\_LiveLinkMagicLeapHandTrackingSourceFactory\_\_
 
 • **\_\_tid\_LiveLinkMagicLeapHandTrackingSourceFactory\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45932)
 
 ___
 
@@ -76,10 +68,6 @@ ___
 
 [LiveLinkSourceFactory](ue_ue.LiveLinkSourceFactory.md).[__tid_LiveLinkSourceFactory__](ue_ue.LiveLinkSourceFactory.md#__tid_livelinksourcefactory__)
 
-#### Defined in
-
-[ue/ue.d.ts:45923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45923)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -89,10 +77,6 @@ ___
 #### Inherited from
 
 [LiveLinkSourceFactory](ue_ue.LiveLinkSourceFactory.md).[__tid_Object__](ue_ue.LiveLinkSourceFactory.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -118,10 +102,6 @@ ___
 
 [LiveLinkSourceFactory](ue_ue.LiveLinkSourceFactory.md).[CreateDefaultSubobject](ue_ue.LiveLinkSourceFactory.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -142,10 +122,6 @@ ___
 
 [LiveLinkSourceFactory](ue_ue.LiveLinkSourceFactory.md).[ExecuteUbergraph](ue_ue.LiveLinkSourceFactory.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -159,10 +135,6 @@ ___
 #### Inherited from
 
 [LiveLinkSourceFactory](ue_ue.LiveLinkSourceFactory.md).[GetClass](ue_ue.LiveLinkSourceFactory.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -178,10 +150,6 @@ ___
 
 [LiveLinkSourceFactory](ue_ue.LiveLinkSourceFactory.md).[GetName](ue_ue.LiveLinkSourceFactory.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -196,10 +164,6 @@ ___
 
 [LiveLinkSourceFactory](ue_ue.LiveLinkSourceFactory.md).[GetOuter](ue_ue.LiveLinkSourceFactory.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -213,10 +177,6 @@ ___
 #### Inherited from
 
 [LiveLinkSourceFactory](ue_ue.LiveLinkSourceFactory.md).[GetWorld](ue_ue.LiveLinkSourceFactory.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -239,10 +199,6 @@ ___
 
 [LiveLinkSourceFactory](ue_ue.LiveLinkSourceFactory.md).[Find](ue_ue.LiveLinkSourceFactory.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:45929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45929)
-
 ___
 
 ### Load
@@ -263,10 +219,6 @@ ___
 
 [LiveLinkSourceFactory](ue_ue.LiveLinkSourceFactory.md).[Load](ue_ue.LiveLinkSourceFactory.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:45930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45930)
-
 ___
 
 ### StaticClass
@@ -280,7 +232,3 @@ ___
 #### Overrides
 
 [LiveLinkSourceFactory](ue_ue.LiveLinkSourceFactory.md).[StaticClass](ue_ue.LiveLinkSourceFactory.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:45928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45928)

@@ -22,19 +22,11 @@
 
 • **EToolMessageLevel\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34838)
-
 ___
 
 ### Internal
 
 • **Internal** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34838)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **UserError** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34838)
-
 ___
 
 ### UserMessage
 
 • **UserMessage** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34838)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **UserNotification** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34838)
-
 ___
 
 ### UserWarning
 
 • **UserWarning** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34838)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34838)

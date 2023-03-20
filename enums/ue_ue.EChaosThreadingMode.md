@@ -22,19 +22,11 @@
 
 • **DedicatedThread** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31395)
-
 ___
 
 ### EChaosThreadingMode\_MAX
 
 • **EChaosThreadingMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31395)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **Invalid** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31395)
-
 ___
 
 ### Num
 
 • **Num** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31395)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **SingleThread** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31395)
-
 ___
 
 ### TaskGraph
 
 • **TaskGraph** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31395)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31395)

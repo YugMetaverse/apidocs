@@ -27,10 +27,6 @@
 
 • **new EditorWorldExtensionActorData**()
 
-#### Defined in
-
-[ue/ue.d.ts:14310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14310)
-
 • **new EditorWorldExtensionActorData**(`Actor`, `bValidForPIE`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Actor` | [`Actor`](ue_ue.Actor.md) |
 | `bValidForPIE` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:14311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14311)
-
 ## Properties
 
 ### Actor
 
 • **Actor**: [`Actor`](ue_ue.Actor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14312)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • `Private` **\_\_tid\_EditorWorldExtensionActorData\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:14319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14319)
-
 ___
 
 ### bValidForPIE
 
 • **bValidForPIE**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:14313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14313)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:14317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14317)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:14318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14318)

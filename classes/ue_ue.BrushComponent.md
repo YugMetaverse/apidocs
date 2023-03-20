@@ -389,10 +389,6 @@
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[constructor](ue_ue.PrimitiveComponent.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:12765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12765)
-
 ## Properties
 
 ### AlwaysLoadOnClient
@@ -402,10 +398,6 @@
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[AlwaysLoadOnClient](ue_ue.PrimitiveComponent.md#alwaysloadonclient)
-
-#### Defined in
-
-[ue/ue.d.ts:12608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12608)
 
 ___
 
@@ -417,10 +409,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[AlwaysLoadOnServer](ue_ue.PrimitiveComponent.md#alwaysloadonserver)
 
-#### Defined in
-
-[ue/ue.d.ts:12609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12609)
-
 ___
 
 ### AssetUserData
@@ -430,10 +418,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[AssetUserData](ue_ue.PrimitiveComponent.md#assetuserdata)
-
-#### Defined in
-
-[ue/ue.d.ts:291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L291)
 
 ___
 
@@ -445,10 +429,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[AttachChildren](ue_ue.PrimitiveComponent.md#attachchildren)
 
-#### Defined in
-
-[ue/ue.d.ts:12873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12873)
-
 ___
 
 ### AttachParent
@@ -458,10 +438,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[AttachParent](ue_ue.PrimitiveComponent.md#attachparent)
-
-#### Defined in
-
-[ue/ue.d.ts:12871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12871)
 
 ___
 
@@ -473,10 +449,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[AttachSocketName](ue_ue.PrimitiveComponent.md#attachsocketname)
 
-#### Defined in
-
-[ue/ue.d.ts:12872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12872)
-
 ___
 
 ### BodyInstance
@@ -486,10 +458,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[BodyInstance](ue_ue.PrimitiveComponent.md#bodyinstance)
-
-#### Defined in
-
-[ue/ue.d.ts:12630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12630)
 
 ___
 
@@ -501,29 +469,17 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[BoundsScale](ue_ue.PrimitiveComponent.md#boundsscale)
 
-#### Defined in
-
-[ue/ue.d.ts:12627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12627)
-
 ___
 
 ### Brush
 
 • **Brush**: [`Model`](ue_ue.Model.md)
 
-#### Defined in
-
-[ue/ue.d.ts:12766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12766)
-
 ___
 
 ### BrushBodySetup
 
 • **BrushBodySetup**: [`BodySetup`](ue_ue.BodySetup.md)
-
-#### Defined in
-
-[ue/ue.d.ts:12767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12767)
 
 ___
 
@@ -535,10 +491,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[CachedMaxDrawDistance](ue_ue.PrimitiveComponent.md#cachedmaxdrawdistance)
 
-#### Defined in
-
-[ue/ue.d.ts:12557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12557)
-
 ___
 
 ### CanBeCharacterBase
@@ -548,10 +500,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[CanBeCharacterBase](ue_ue.PrimitiveComponent.md#canbecharacterbase)
-
-#### Defined in
-
-[ue/ue.d.ts:12613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12613)
 
 ___
 
@@ -563,10 +511,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[CanCharacterStepUpOn](ue_ue.PrimitiveComponent.md#cancharacterstepupon)
 
-#### Defined in
-
-[ue/ue.d.ts:12614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12614)
-
 ___
 
 ### CastShadow
@@ -576,10 +520,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[CastShadow](ue_ue.PrimitiveComponent.md#castshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12587)
 
 ___
 
@@ -591,10 +531,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[ClientAttachedChildren](ue_ue.PrimitiveComponent.md#clientattachedchildren)
 
-#### Defined in
-
-[ue/ue.d.ts:12874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12874)
-
 ___
 
 ### ComponentTags
@@ -604,10 +540,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[ComponentTags](ue_ue.PrimitiveComponent.md#componenttags)
-
-#### Defined in
-
-[ue/ue.d.ts:290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L290)
 
 ___
 
@@ -619,10 +551,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[ComponentVelocity](ue_ue.PrimitiveComponent.md#componentvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12878)
-
 ___
 
 ### CreationMethod
@@ -632,10 +560,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[CreationMethod](ue_ue.PrimitiveComponent.md#creationmethod)
-
-#### Defined in
-
-[ue/ue.d.ts:302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L302)
 
 ___
 
@@ -647,10 +571,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[CustomDepthStencilValue](ue_ue.PrimitiveComponent.md#customdepthstencilvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:12617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12617)
-
 ___
 
 ### CustomDepthStencilWriteMask
@@ -660,10 +580,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[CustomDepthStencilWriteMask](ue_ue.PrimitiveComponent.md#customdepthstencilwritemask)
-
-#### Defined in
-
-[ue/ue.d.ts:12616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12616)
 
 ___
 
@@ -675,10 +591,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[CustomPrimitiveData](ue_ue.PrimitiveComponent.md#customprimitivedata)
 
-#### Defined in
-
-[ue/ue.d.ts:12618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12618)
-
 ___
 
 ### DepthPriorityGroup
@@ -688,10 +600,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[DepthPriorityGroup](ue_ue.PrimitiveComponent.md#depthprioritygroup)
-
-#### Defined in
-
-[ue/ue.d.ts:12558](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12558)
 
 ___
 
@@ -703,10 +611,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[DetailMode](ue_ue.PrimitiveComponent.md#detailmode)
 
-#### Defined in
-
-[ue/ue.d.ts:12893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12893)
-
 ___
 
 ### ExcludeForSpecificHLODLevels
@@ -716,10 +620,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[ExcludeForSpecificHLODLevels](ue_ue.PrimitiveComponent.md#excludeforspecifichlodlevels)
-
-#### Defined in
-
-[ue/ue.d.ts:12562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12562)
 
 ___
 
@@ -731,10 +631,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[IndirectLightingCacheQuality](ue_ue.PrimitiveComponent.md#indirectlightingcachequality)
 
-#### Defined in
-
-[ue/ue.d.ts:12560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12560)
-
 ___
 
 ### LDMaxDrawDistance
@@ -744,10 +640,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[LDMaxDrawDistance](ue_ue.PrimitiveComponent.md#ldmaxdrawdistance)
-
-#### Defined in
-
-[ue/ue.d.ts:12556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12556)
 
 ___
 
@@ -759,10 +651,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[LODParentPrimitive](ue_ue.PrimitiveComponent.md#lodparentprimitive)
 
-#### Defined in
-
-[ue/ue.d.ts:12644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12644)
-
 ___
 
 ### LightingChannels
@@ -772,10 +660,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[LightingChannels](ue_ue.PrimitiveComponent.md#lightingchannels)
-
-#### Defined in
-
-[ue/ue.d.ts:12615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12615)
 
 ___
 
@@ -787,10 +671,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[LightmapType](ue_ue.PrimitiveComponent.md#lightmaptype)
 
-#### Defined in
-
-[ue/ue.d.ts:12561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12561)
-
 ___
 
 ### LpvBiasMultiplier
@@ -800,10 +680,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[LpvBiasMultiplier](ue_ue.PrimitiveComponent.md#lpvbiasmultiplier)
-
-#### Defined in
-
-[ue/ue.d.ts:12626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12626)
 
 ___
 
@@ -815,10 +691,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[MinDrawDistance](ue_ue.PrimitiveComponent.md#mindrawdistance)
 
-#### Defined in
-
-[ue/ue.d.ts:12555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12555)
-
 ___
 
 ### Mobility
@@ -828,10 +700,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[Mobility](ue_ue.PrimitiveComponent.md#mobility)
-
-#### Defined in
-
-[ue/ue.d.ts:12892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12892)
 
 ___
 
@@ -843,10 +711,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[MoveIgnoreActors](ue_ue.PrimitiveComponent.md#moveignoreactors)
 
-#### Defined in
-
-[ue/ue.d.ts:12628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12628)
-
 ___
 
 ### MoveIgnoreComponents
@@ -856,10 +720,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[MoveIgnoreComponents](ue_ue.PrimitiveComponent.md#moveignorecomponents)
-
-#### Defined in
-
-[ue/ue.d.ts:12629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12629)
 
 ___
 
@@ -871,10 +731,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[OnBeginCursorOver](ue_ue.PrimitiveComponent.md#onbegincursorover)
 
-#### Defined in
-
-[ue/ue.d.ts:12636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12636)
-
 ___
 
 ### OnClicked
@@ -884,10 +740,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[OnClicked](ue_ue.PrimitiveComponent.md#onclicked)
-
-#### Defined in
-
-[ue/ue.d.ts:12638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12638)
 
 ___
 
@@ -899,10 +751,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[OnComponentActivated](ue_ue.PrimitiveComponent.md#oncomponentactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L303)
-
 ___
 
 ### OnComponentBeginOverlap
@@ -912,10 +760,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[OnComponentBeginOverlap](ue_ue.PrimitiveComponent.md#oncomponentbeginoverlap)
-
-#### Defined in
-
-[ue/ue.d.ts:12632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12632)
 
 ___
 
@@ -927,10 +771,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[OnComponentDeactivated](ue_ue.PrimitiveComponent.md#oncomponentdeactivated)
 
-#### Defined in
-
-[ue/ue.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L304)
-
 ___
 
 ### OnComponentEndOverlap
@@ -940,10 +780,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[OnComponentEndOverlap](ue_ue.PrimitiveComponent.md#oncomponentendoverlap)
-
-#### Defined in
-
-[ue/ue.d.ts:12633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12633)
 
 ___
 
@@ -955,10 +791,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[OnComponentHit](ue_ue.PrimitiveComponent.md#oncomponenthit)
 
-#### Defined in
-
-[ue/ue.d.ts:12631](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12631)
-
 ___
 
 ### OnComponentSleep
@@ -968,10 +800,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[OnComponentSleep](ue_ue.PrimitiveComponent.md#oncomponentsleep)
-
-#### Defined in
-
-[ue/ue.d.ts:12635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12635)
 
 ___
 
@@ -983,10 +811,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[OnComponentWake](ue_ue.PrimitiveComponent.md#oncomponentwake)
 
-#### Defined in
-
-[ue/ue.d.ts:12634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12634)
-
 ___
 
 ### OnEndCursorOver
@@ -996,10 +820,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[OnEndCursorOver](ue_ue.PrimitiveComponent.md#onendcursorover)
-
-#### Defined in
-
-[ue/ue.d.ts:12637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12637)
 
 ___
 
@@ -1011,10 +831,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[OnInputTouchBegin](ue_ue.PrimitiveComponent.md#oninputtouchbegin)
 
-#### Defined in
-
-[ue/ue.d.ts:12640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12640)
-
 ___
 
 ### OnInputTouchEnd
@@ -1024,10 +840,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[OnInputTouchEnd](ue_ue.PrimitiveComponent.md#oninputtouchend)
-
-#### Defined in
-
-[ue/ue.d.ts:12641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12641)
 
 ___
 
@@ -1039,10 +851,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[OnInputTouchEnter](ue_ue.PrimitiveComponent.md#oninputtouchenter)
 
-#### Defined in
-
-[ue/ue.d.ts:12642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12642)
-
 ___
 
 ### OnInputTouchLeave
@@ -1052,10 +860,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[OnInputTouchLeave](ue_ue.PrimitiveComponent.md#oninputtouchleave)
-
-#### Defined in
-
-[ue/ue.d.ts:12643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12643)
 
 ___
 
@@ -1067,10 +871,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[OnReleased](ue_ue.PrimitiveComponent.md#onreleased)
 
-#### Defined in
-
-[ue/ue.d.ts:12639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12639)
-
 ___
 
 ### PhysicsVolume
@@ -1080,10 +880,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[PhysicsVolume](ue_ue.PrimitiveComponent.md#physicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12870)
 
 ___
 
@@ -1095,19 +891,11 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[PhysicsVolumeChangedDelegate](ue_ue.PrimitiveComponent.md#physicsvolumechangeddelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:12894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12894)
-
 ___
 
 ### PrePivot
 
 • **PrePivot**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:12768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12768)
 
 ___
 
@@ -1119,10 +907,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[PrimaryComponentTick](ue_ue.PrimitiveComponent.md#primarycomponenttick)
 
-#### Defined in
-
-[ue/ue.d.ts:289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L289)
-
 ___
 
 ### RelativeLocation
@@ -1132,10 +916,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[RelativeLocation](ue_ue.PrimitiveComponent.md#relativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12875)
 
 ___
 
@@ -1147,10 +927,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[RelativeRotation](ue_ue.PrimitiveComponent.md#relativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12876)
-
 ___
 
 ### RelativeScale3D
@@ -1160,10 +936,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[RelativeScale3D](ue_ue.PrimitiveComponent.md#relativescale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:12877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12877)
 
 ___
 
@@ -1175,10 +947,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[RuntimeVirtualTextures](ue_ue.PrimitiveComponent.md#runtimevirtualtextures)
 
-#### Defined in
-
-[ue/ue.d.ts:12621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12621)
-
 ___
 
 ### TranslucencySortPriority
@@ -1188,10 +956,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[TranslucencySortPriority](ue_ue.PrimitiveComponent.md#translucencysortpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:12619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12619)
 
 ___
 
@@ -1203,10 +967,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[UCSModifiedProperties](ue_ue.PrimitiveComponent.md#ucsmodifiedproperties)
 
-#### Defined in
-
-[ue/ue.d.ts:305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L305)
-
 ___
 
 ### ViewOwnerDepthPriorityGroup
@@ -1216,10 +976,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[ViewOwnerDepthPriorityGroup](ue_ue.PrimitiveComponent.md#viewownerdepthprioritygroup)
-
-#### Defined in
-
-[ue/ue.d.ts:12559](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12559)
 
 ___
 
@@ -1231,10 +987,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[VirtualTextureCullMips](ue_ue.PrimitiveComponent.md#virtualtexturecullmips)
 
-#### Defined in
-
-[ue/ue.d.ts:12623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12623)
-
 ___
 
 ### VirtualTextureLodBias
@@ -1244,10 +996,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[VirtualTextureLodBias](ue_ue.PrimitiveComponent.md#virtualtexturelodbias)
-
-#### Defined in
-
-[ue/ue.d.ts:12622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12622)
 
 ___
 
@@ -1259,10 +1007,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[VirtualTextureMinCoverage](ue_ue.PrimitiveComponent.md#virtualtexturemincoverage)
 
-#### Defined in
-
-[ue/ue.d.ts:12624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12624)
-
 ___
 
 ### VirtualTextureRenderPassType
@@ -1272,10 +1016,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[VirtualTextureRenderPassType](ue_ue.PrimitiveComponent.md#virtualtexturerenderpasstype)
-
-#### Defined in
-
-[ue/ue.d.ts:12625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12625)
 
 ___
 
@@ -1287,10 +1027,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[VisibilityId](ue_ue.PrimitiveComponent.md#visibilityid)
 
-#### Defined in
-
-[ue/ue.d.ts:12620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12620)
-
 ___
 
 ### \_\_tid\_ActorComponent\_\_
@@ -1301,19 +1037,11 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[__tid_ActorComponent__](ue_ue.PrimitiveComponent.md#__tid_actorcomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L336)
-
 ___
 
 ### \_\_tid\_BrushComponent\_\_
 
 • **\_\_tid\_BrushComponent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:12773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12773)
 
 ___
 
@@ -1325,10 +1053,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[__tid_Object__](ue_ue.PrimitiveComponent.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PrimitiveComponent\_\_
@@ -1338,10 +1062,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[__tid_PrimitiveComponent__](ue_ue.PrimitiveComponent.md#__tid_primitivecomponent__)
-
-#### Defined in
-
-[ue/ue.d.ts:12761](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12761)
 
 ___
 
@@ -1353,10 +1073,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[__tid_SceneComponent__](ue_ue.PrimitiveComponent.md#__tid_scenecomponent__)
 
-#### Defined in
-
-[ue/ue.d.ts:12961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12961)
-
 ___
 
 ### bAbsoluteLocation
@@ -1366,10 +1082,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bAbsoluteLocation](ue_ue.PrimitiveComponent.md#babsolutelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12880)
 
 ___
 
@@ -1381,10 +1093,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bAbsoluteRotation](ue_ue.PrimitiveComponent.md#babsoluterotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12881)
-
 ___
 
 ### bAbsoluteScale
@@ -1394,10 +1102,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bAbsoluteScale](ue_ue.PrimitiveComponent.md#babsolutescale)
-
-#### Defined in
-
-[ue/ue.d.ts:12882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12882)
 
 ___
 
@@ -1409,10 +1113,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bAffectDistanceFieldLighting](ue_ue.PrimitiveComponent.md#baffectdistancefieldlighting)
 
-#### Defined in
-
-[ue/ue.d.ts:12589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12589)
-
 ___
 
 ### bAffectDynamicIndirectLighting
@@ -1422,10 +1122,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bAffectDynamicIndirectLighting](ue_ue.PrimitiveComponent.md#baffectdynamicindirectlighting)
-
-#### Defined in
-
-[ue/ue.d.ts:12588](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12588)
 
 ___
 
@@ -1437,10 +1133,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bAllowCullDistanceVolume](ue_ue.PrimitiveComponent.md#ballowculldistancevolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12573)
-
 ___
 
 ### bAlwaysCreatePhysicsState
@@ -1450,10 +1142,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bAlwaysCreatePhysicsState](ue_ue.PrimitiveComponent.md#balwayscreatephysicsstate)
-
-#### Defined in
-
-[ue/ue.d.ts:12567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12567)
 
 ___
 
@@ -1465,10 +1153,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bApplyImpulseOnDamage](ue_ue.PrimitiveComponent.md#bapplyimpulseondamage)
 
-#### Defined in
-
-[ue/ue.d.ts:12606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12606)
-
 ___
 
 ### bAutoActivate
@@ -1478,10 +1162,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bAutoActivate](ue_ue.PrimitiveComponent.md#bautoactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L296)
 
 ___
 
@@ -1493,10 +1173,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bBatchImpostersAsInstances](ue_ue.PrimitiveComponent.md#bbatchimpostersasinstances)
 
-#### Defined in
-
-[ue/ue.d.ts:12565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12565)
-
 ___
 
 ### bBoundsChangeTriggersStreamingDataRebuild
@@ -1506,10 +1182,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bBoundsChangeTriggersStreamingDataRebuild](ue_ue.PrimitiveComponent.md#bboundschangetriggersstreamingdatarebuild)
-
-#### Defined in
-
-[ue/ue.d.ts:12889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12889)
 
 ___
 
@@ -1521,10 +1193,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bCanEverAffectNavigation](ue_ue.PrimitiveComponent.md#bcaneveraffectnavigation)
 
-#### Defined in
-
-[ue/ue.d.ts:299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L299)
-
 ___
 
 ### bCastCinematicShadow
@@ -1534,10 +1202,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bCastCinematicShadow](ue_ue.PrimitiveComponent.md#bcastcinematicshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12596)
 
 ___
 
@@ -1549,10 +1213,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bCastDynamicShadow](ue_ue.PrimitiveComponent.md#bcastdynamicshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12590)
-
 ___
 
 ### bCastFarShadow
@@ -1562,10 +1222,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bCastFarShadow](ue_ue.PrimitiveComponent.md#bcastfarshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12594)
 
 ___
 
@@ -1577,10 +1233,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bCastHiddenShadow](ue_ue.PrimitiveComponent.md#bcasthiddenshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12597)
-
 ___
 
 ### bCastInsetShadow
@@ -1590,10 +1242,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bCastInsetShadow](ue_ue.PrimitiveComponent.md#bcastinsetshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12595)
 
 ___
 
@@ -1605,10 +1253,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bCastShadowAsTwoSided](ue_ue.PrimitiveComponent.md#bcastshadowastwosided)
 
-#### Defined in
-
-[ue/ue.d.ts:12598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12598)
-
 ___
 
 ### bCastStaticShadow
@@ -1618,10 +1262,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bCastStaticShadow](ue_ue.PrimitiveComponent.md#bcaststaticshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12591)
 
 ___
 
@@ -1633,10 +1273,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bCastVolumetricTranslucentShadow](ue_ue.PrimitiveComponent.md#bcastvolumetrictranslucentshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12592)
-
 ___
 
 ### bComponentToWorldUpdated
@@ -1646,10 +1282,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bComponentToWorldUpdated](ue_ue.PrimitiveComponent.md#bcomponenttoworldupdated)
-
-#### Defined in
-
-[ue/ue.d.ts:12879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12879)
 
 ___
 
@@ -1661,10 +1293,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bCreatedByConstructionScript](ue_ue.PrimitiveComponent.md#bcreatedbyconstructionscript)
 
-#### Defined in
-
-[ue/ue.d.ts:294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L294)
-
 ___
 
 ### bEditableWhenInherited
@@ -1674,10 +1302,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bEditableWhenInherited](ue_ue.PrimitiveComponent.md#beditablewheninherited)
-
-#### Defined in
-
-[ue/ue.d.ts:298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L298)
 
 ___
 
@@ -1689,10 +1313,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bEnableAutoLODGeneration](ue_ue.PrimitiveComponent.md#benableautolodgeneration)
 
-#### Defined in
-
-[ue/ue.d.ts:12563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12563)
-
 ___
 
 ### bExcludeFromLightAttachmentGroup
@@ -1702,10 +1322,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bExcludeFromLightAttachmentGroup](ue_ue.PrimitiveComponent.md#bexcludefromlightattachmentgroup)
-
-#### Defined in
-
-[ue/ue.d.ts:12601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12601)
 
 ___
 
@@ -1717,10 +1333,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bForceMipStreaming](ue_ue.PrimitiveComponent.md#bforcemipstreaming)
 
-#### Defined in
-
-[ue/ue.d.ts:12585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12585)
-
 ___
 
 ### bGenerateOverlapEvents
@@ -1730,10 +1342,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bGenerateOverlapEvents](ue_ue.PrimitiveComponent.md#bgenerateoverlapevents)
-
-#### Defined in
-
-[ue/ue.d.ts:12568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12568)
 
 ___
 
@@ -1745,10 +1353,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bHasCustomNavigableGeometry](ue_ue.PrimitiveComponent.md#bhascustomnavigablegeometry)
 
-#### Defined in
-
-[ue/ue.d.ts:12612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12612)
-
 ___
 
 ### bHasMotionBlurVelocityMeshes
@@ -1758,10 +1362,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bHasMotionBlurVelocityMeshes](ue_ue.PrimitiveComponent.md#bhasmotionblurvelocitymeshes)
-
-#### Defined in
-
-[ue/ue.d.ts:12574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12574)
 
 ___
 
@@ -1773,10 +1373,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bHasPerInstanceHitProxies](ue_ue.PrimitiveComponent.md#bhasperinstancehitproxies)
 
-#### Defined in
-
-[ue/ue.d.ts:12586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12586)
-
 ___
 
 ### bHiddenInGame
@@ -1786,10 +1382,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bHiddenInGame](ue_ue.PrimitiveComponent.md#bhiddeningame)
-
-#### Defined in
-
-[ue/ue.d.ts:12884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12884)
 
 ___
 
@@ -1801,10 +1393,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bIgnoreRadialForce](ue_ue.PrimitiveComponent.md#bignoreradialforce)
 
-#### Defined in
-
-[ue/ue.d.ts:12605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12605)
-
 ___
 
 ### bIgnoreRadialImpulse
@@ -1814,10 +1402,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bIgnoreRadialImpulse](ue_ue.PrimitiveComponent.md#bignoreradialimpulse)
-
-#### Defined in
-
-[ue/ue.d.ts:12604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12604)
 
 ___
 
@@ -1829,10 +1413,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bInstanceComponent](ue_ue.PrimitiveComponent.md#binstancecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L295)
-
 ___
 
 ### bIsActive
@@ -1842,10 +1422,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bIsActive](ue_ue.PrimitiveComponent.md#bisactive)
-
-#### Defined in
-
-[ue/ue.d.ts:297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L297)
 
 ___
 
@@ -1857,10 +1433,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bIsEditorOnly](ue_ue.PrimitiveComponent.md#biseditoronly)
 
-#### Defined in
-
-[ue/ue.d.ts:300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L300)
-
 ___
 
 ### bIsVisualizationComponent
@@ -1870,10 +1442,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bIsVisualizationComponent](ue_ue.PrimitiveComponent.md#bisvisualizationcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L301)
 
 ___
 
@@ -1885,10 +1453,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bLightAsIfStatic](ue_ue.PrimitiveComponent.md#blightasifstatic)
 
-#### Defined in
-
-[ue/ue.d.ts:12599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12599)
-
 ___
 
 ### bLightAttachmentsAsGroup
@@ -1898,10 +1462,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bLightAttachmentsAsGroup](ue_ue.PrimitiveComponent.md#blightattachmentsasgroup)
-
-#### Defined in
-
-[ue/ue.d.ts:12600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12600)
 
 ___
 
@@ -1913,10 +1473,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bMultiBodyOverlap](ue_ue.PrimitiveComponent.md#bmultibodyoverlap)
 
-#### Defined in
-
-[ue/ue.d.ts:12569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12569)
-
 ___
 
 ### bNetAddressable
@@ -1926,10 +1482,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bNetAddressable](ue_ue.PrimitiveComponent.md#bnetaddressable)
-
-#### Defined in
-
-[ue/ue.d.ts:293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L293)
 
 ___
 
@@ -1941,10 +1493,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bNeverDistanceCull](ue_ue.PrimitiveComponent.md#bneverdistancecull)
 
-#### Defined in
-
-[ue/ue.d.ts:12566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12566)
-
 ___
 
 ### bOnlyOwnerSee
@@ -1954,10 +1502,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bOnlyOwnerSee](ue_ue.PrimitiveComponent.md#bonlyownersee)
-
-#### Defined in
-
-[ue/ue.d.ts:12581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12581)
 
 ___
 
@@ -1969,10 +1513,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bOwnerNoSee](ue_ue.PrimitiveComponent.md#bownernosee)
 
-#### Defined in
-
-[ue/ue.d.ts:12580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12580)
-
 ___
 
 ### bReceiveMobileCSMShadows
@@ -1982,10 +1522,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bReceiveMobileCSMShadows](ue_ue.PrimitiveComponent.md#breceivemobilecsmshadows)
-
-#### Defined in
-
-[ue/ue.d.ts:12602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12602)
 
 ___
 
@@ -1997,10 +1533,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bReceivesDecals](ue_ue.PrimitiveComponent.md#breceivesdecals)
 
-#### Defined in
-
-[ue/ue.d.ts:12579](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12579)
-
 ___
 
 ### bRenderCustomDepth
@@ -2010,10 +1542,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bRenderCustomDepth](ue_ue.PrimitiveComponent.md#brendercustomdepth)
-
-#### Defined in
-
-[ue/ue.d.ts:12611](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12611)
 
 ___
 
@@ -2025,10 +1553,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bRenderInDepthPass](ue_ue.PrimitiveComponent.md#brenderindepthpass)
 
-#### Defined in
-
-[ue/ue.d.ts:12578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12578)
-
 ___
 
 ### bRenderInMainPass
@@ -2038,10 +1562,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bRenderInMainPass](ue_ue.PrimitiveComponent.md#brenderinmainpass)
-
-#### Defined in
-
-[ue/ue.d.ts:12577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12577)
 
 ___
 
@@ -2053,10 +1573,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bReplicatePhysicsToAutonomousProxy](ue_ue.PrimitiveComponent.md#breplicatephysicstoautonomousproxy)
 
-#### Defined in
-
-[ue/ue.d.ts:12607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12607)
-
 ___
 
 ### bReplicates
@@ -2066,10 +1582,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bReplicates](ue_ue.PrimitiveComponent.md#breplicates)
-
-#### Defined in
-
-[ue/ue.d.ts:292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L292)
 
 ___
 
@@ -2081,10 +1593,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bReturnMaterialOnMove](ue_ue.PrimitiveComponent.md#breturnmaterialonmove)
 
-#### Defined in
-
-[ue/ue.d.ts:12571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12571)
-
 ___
 
 ### bSelectable
@@ -2094,10 +1602,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bSelectable](ue_ue.PrimitiveComponent.md#bselectable)
-
-#### Defined in
-
-[ue/ue.d.ts:12584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12584)
 
 ___
 
@@ -2109,10 +1613,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bSelfShadowOnly](ue_ue.PrimitiveComponent.md#bselfshadowonly)
 
-#### Defined in
-
-[ue/ue.d.ts:12593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12593)
-
 ___
 
 ### bShouldBeAttached
@@ -2122,10 +1622,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bShouldBeAttached](ue_ue.PrimitiveComponent.md#bshouldbeattached)
-
-#### Defined in
-
-[ue/ue.d.ts:12885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12885)
 
 ___
 
@@ -2137,10 +1633,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bShouldSnapLocationWhenAttached](ue_ue.PrimitiveComponent.md#bshouldsnaplocationwhenattached)
 
-#### Defined in
-
-[ue/ue.d.ts:12886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12886)
-
 ___
 
 ### bShouldSnapRotationWhenAttached
@@ -2150,10 +1642,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bShouldSnapRotationWhenAttached](ue_ue.PrimitiveComponent.md#bshouldsnaprotationwhenattached)
-
-#### Defined in
-
-[ue/ue.d.ts:12887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12887)
 
 ___
 
@@ -2165,10 +1653,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bShouldUpdatePhysicsVolume](ue_ue.PrimitiveComponent.md#bshouldupdatephysicsvolume)
 
-#### Defined in
-
-[ue/ue.d.ts:12888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12888)
-
 ___
 
 ### bSingleSampleShadowFromStationaryLights
@@ -2178,10 +1662,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bSingleSampleShadowFromStationaryLights](ue_ue.PrimitiveComponent.md#bsinglesampleshadowfromstationarylights)
-
-#### Defined in
-
-[ue/ue.d.ts:12603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12603)
 
 ___
 
@@ -2193,10 +1673,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bTraceComplexOnMove](ue_ue.PrimitiveComponent.md#btracecomplexonmove)
 
-#### Defined in
-
-[ue/ue.d.ts:12570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12570)
-
 ___
 
 ### bTreatAsBackgroundForOcclusion
@@ -2206,10 +1682,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bTreatAsBackgroundForOcclusion](ue_ue.PrimitiveComponent.md#btreatasbackgroundforocclusion)
-
-#### Defined in
-
-[ue/ue.d.ts:12582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12582)
 
 ___
 
@@ -2221,10 +1693,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bUseAsOccluder](ue_ue.PrimitiveComponent.md#buseasoccluder)
 
-#### Defined in
-
-[ue/ue.d.ts:12583](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12583)
-
 ___
 
 ### bUseAttachParentBound
@@ -2234,10 +1702,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bUseAttachParentBound](ue_ue.PrimitiveComponent.md#buseattachparentbound)
-
-#### Defined in
-
-[ue/ue.d.ts:12890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12890)
 
 ___
 
@@ -2249,10 +1713,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bUseEditorCompositing](ue_ue.PrimitiveComponent.md#buseeditorcompositing)
 
-#### Defined in
-
-[ue/ue.d.ts:12610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12610)
-
 ___
 
 ### bUseMaxLODAsImposter
@@ -2262,10 +1722,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bUseMaxLODAsImposter](ue_ue.PrimitiveComponent.md#busemaxlodasimposter)
-
-#### Defined in
-
-[ue/ue.d.ts:12564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12564)
 
 ___
 
@@ -2277,10 +1733,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bUseViewOwnerDepthPriorityGroup](ue_ue.PrimitiveComponent.md#buseviewownerdepthprioritygroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12572)
-
 ___
 
 ### bVisible
@@ -2290,10 +1742,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bVisible](ue_ue.PrimitiveComponent.md#bvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:12883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12883)
 
 ___
 
@@ -2305,10 +1753,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bVisibleInRayTracing](ue_ue.PrimitiveComponent.md#bvisibleinraytracing)
 
-#### Defined in
-
-[ue/ue.d.ts:12576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12576)
-
 ___
 
 ### bVisibleInReflectionCaptures
@@ -2319,10 +1763,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bVisibleInReflectionCaptures](ue_ue.PrimitiveComponent.md#bvisibleinreflectioncaptures)
 
-#### Defined in
-
-[ue/ue.d.ts:12575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12575)
-
 ___
 
 ### bVisualizeComponent
@@ -2332,10 +1772,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[bVisualizeComponent](ue_ue.PrimitiveComponent.md#bvisualizecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12891)
 
 ## Methods
 
@@ -2356,10 +1792,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[Activate](ue_ue.PrimitiveComponent.md#activate)
-
-#### Defined in
-
-[ue/ue.d.ts:306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L306)
 
 ___
 
@@ -2383,10 +1815,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[AddAngularImpulse](ue_ue.PrimitiveComponent.md#addangularimpulse)
 
-#### Defined in
-
-[ue/ue.d.ts:12645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12645)
-
 ___
 
 ### AddAngularImpulseInDegrees
@@ -2408,10 +1836,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[AddAngularImpulseInDegrees](ue_ue.PrimitiveComponent.md#addangularimpulseindegrees)
-
-#### Defined in
-
-[ue/ue.d.ts:12646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12646)
 
 ___
 
@@ -2435,10 +1859,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[AddAngularImpulseInRadians](ue_ue.PrimitiveComponent.md#addangularimpulseinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12647)
-
 ___
 
 ### AddForce
@@ -2460,10 +1880,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[AddForce](ue_ue.PrimitiveComponent.md#addforce)
-
-#### Defined in
-
-[ue/ue.d.ts:12648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12648)
 
 ___
 
@@ -2487,10 +1903,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[AddForceAtLocation](ue_ue.PrimitiveComponent.md#addforceatlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12649)
-
 ___
 
 ### AddForceAtLocationLocal
@@ -2512,10 +1924,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[AddForceAtLocationLocal](ue_ue.PrimitiveComponent.md#addforceatlocationlocal)
-
-#### Defined in
-
-[ue/ue.d.ts:12650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12650)
 
 ___
 
@@ -2539,10 +1947,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[AddImpulse](ue_ue.PrimitiveComponent.md#addimpulse)
 
-#### Defined in
-
-[ue/ue.d.ts:12651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12651)
-
 ___
 
 ### AddImpulseAtLocation
@@ -2564,10 +1968,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[AddImpulseAtLocation](ue_ue.PrimitiveComponent.md#addimpulseatlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12652)
 
 ___
 
@@ -2593,10 +1993,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[AddRadialForce](ue_ue.PrimitiveComponent.md#addradialforce)
 
-#### Defined in
-
-[ue/ue.d.ts:12653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12653)
-
 ___
 
 ### AddRadialImpulse
@@ -2621,10 +2017,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[AddRadialImpulse](ue_ue.PrimitiveComponent.md#addradialimpulse)
 
-#### Defined in
-
-[ue/ue.d.ts:12654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12654)
-
 ___
 
 ### AddTickPrerequisiteActor
@@ -2645,10 +2037,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[AddTickPrerequisiteActor](ue_ue.PrimitiveComponent.md#addtickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L307)
-
 ___
 
 ### AddTickPrerequisiteComponent
@@ -2668,10 +2056,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[AddTickPrerequisiteComponent](ue_ue.PrimitiveComponent.md#addtickprerequisitecomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L308)
 
 ___
 
@@ -2695,10 +2079,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[AddTorque](ue_ue.PrimitiveComponent.md#addtorque)
 
-#### Defined in
-
-[ue/ue.d.ts:12655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12655)
-
 ___
 
 ### AddTorqueInDegrees
@@ -2720,10 +2100,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[AddTorqueInDegrees](ue_ue.PrimitiveComponent.md#addtorqueindegrees)
-
-#### Defined in
-
-[ue/ue.d.ts:12656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12656)
 
 ___
 
@@ -2747,10 +2123,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[AddTorqueInRadians](ue_ue.PrimitiveComponent.md#addtorqueinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12657)
-
 ___
 
 ### CanCharacterStepUp
@@ -2771,10 +2143,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[CanCharacterStepUp](ue_ue.PrimitiveComponent.md#cancharacterstepup)
 
-#### Defined in
-
-[ue/ue.d.ts:12658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12658)
-
 ___
 
 ### ClearMoveIgnoreActors
@@ -2789,10 +2157,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[ClearMoveIgnoreActors](ue_ue.PrimitiveComponent.md#clearmoveignoreactors)
 
-#### Defined in
-
-[ue/ue.d.ts:12659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12659)
-
 ___
 
 ### ClearMoveIgnoreComponents
@@ -2806,10 +2170,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[ClearMoveIgnoreComponents](ue_ue.PrimitiveComponent.md#clearmoveignorecomponents)
-
-#### Defined in
-
-[ue/ue.d.ts:12660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12660)
 
 ___
 
@@ -2831,10 +2191,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[ComponentHasTag](ue_ue.PrimitiveComponent.md#componenthastag)
 
-#### Defined in
-
-[ue/ue.d.ts:309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L309)
-
 ___
 
 ### CopyArrayOfMoveIgnoreActors
@@ -2849,10 +2205,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[CopyArrayOfMoveIgnoreActors](ue_ue.PrimitiveComponent.md#copyarrayofmoveignoreactors)
 
-#### Defined in
-
-[ue/ue.d.ts:12661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12661)
-
 ___
 
 ### CopyArrayOfMoveIgnoreComponents
@@ -2866,10 +2218,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[CopyArrayOfMoveIgnoreComponents](ue_ue.PrimitiveComponent.md#copyarrayofmoveignorecomponents)
-
-#### Defined in
-
-[ue/ue.d.ts:12662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12662)
 
 ___
 
@@ -2891,10 +2239,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[CreateAndSetMaterialInstanceDynamic](ue_ue.PrimitiveComponent.md#createandsetmaterialinstancedynamic)
 
-#### Defined in
-
-[ue/ue.d.ts:12663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12663)
-
 ___
 
 ### CreateAndSetMaterialInstanceDynamicFromMaterial
@@ -2915,10 +2259,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[CreateAndSetMaterialInstanceDynamicFromMaterial](ue_ue.PrimitiveComponent.md#createandsetmaterialinstancedynamicfrommaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:12664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12664)
 
 ___
 
@@ -2944,10 +2284,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[CreateDefaultSubobject](ue_ue.PrimitiveComponent.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### CreateDynamicMaterialInstance
@@ -2970,10 +2306,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[CreateDynamicMaterialInstance](ue_ue.PrimitiveComponent.md#createdynamicmaterialinstance)
 
-#### Defined in
-
-[ue/ue.d.ts:12665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12665)
-
 ___
 
 ### Deactivate
@@ -2987,10 +2319,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[Deactivate](ue_ue.PrimitiveComponent.md#deactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L310)
 
 ___
 
@@ -3013,10 +2341,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[DetachFromParent](ue_ue.PrimitiveComponent.md#detachfromparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12895)
-
 ___
 
 ### DoesSocketExist
@@ -3036,10 +2360,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[DoesSocketExist](ue_ue.PrimitiveComponent.md#doessocketexist)
-
-#### Defined in
-
-[ue/ue.d.ts:12896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12896)
 
 ___
 
@@ -3061,10 +2381,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[ExecuteUbergraph](ue_ue.PrimitiveComponent.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetAllSocketNames
@@ -3078,10 +2394,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetAllSocketNames](ue_ue.PrimitiveComponent.md#getallsocketnames)
-
-#### Defined in
-
-[ue/ue.d.ts:12897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12897)
 
 ___
 
@@ -3097,10 +2409,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetAngularDamping](ue_ue.PrimitiveComponent.md#getangulardamping)
 
-#### Defined in
-
-[ue/ue.d.ts:12666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12666)
-
 ___
 
 ### GetAttachParent
@@ -3115,10 +2423,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetAttachParent](ue_ue.PrimitiveComponent.md#getattachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12898)
-
 ___
 
 ### GetAttachSocketName
@@ -3132,10 +2436,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetAttachSocketName](ue_ue.PrimitiveComponent.md#getattachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12899)
 
 ___
 
@@ -3157,10 +2457,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetCenterOfMass](ue_ue.PrimitiveComponent.md#getcenterofmass)
 
-#### Defined in
-
-[ue/ue.d.ts:12667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12667)
-
 ___
 
 ### GetChildComponent
@@ -3180,10 +2476,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetChildComponent](ue_ue.PrimitiveComponent.md#getchildcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12900)
 
 ___
 
@@ -3206,10 +2498,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetChildrenComponents](ue_ue.PrimitiveComponent.md#getchildrencomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12901)
-
 ___
 
 ### GetClass
@@ -3223,10 +2511,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetClass](ue_ue.PrimitiveComponent.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -3250,10 +2534,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetClosestPointOnCollision](ue_ue.PrimitiveComponent.md#getclosestpointoncollision)
 
-#### Defined in
-
-[ue/ue.d.ts:12668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12668)
-
 ___
 
 ### GetCollisionEnabled
@@ -3267,10 +2547,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetCollisionEnabled](ue_ue.PrimitiveComponent.md#getcollisionenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12669)
 
 ___
 
@@ -3286,10 +2562,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetCollisionObjectType](ue_ue.PrimitiveComponent.md#getcollisionobjecttype)
 
-#### Defined in
-
-[ue/ue.d.ts:12670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12670)
-
 ___
 
 ### GetCollisionProfileName
@@ -3303,10 +2575,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetCollisionProfileName](ue_ue.PrimitiveComponent.md#getcollisionprofilename)
-
-#### Defined in
-
-[ue/ue.d.ts:12671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12671)
 
 ___
 
@@ -3328,10 +2596,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetCollisionResponseToChannel](ue_ue.PrimitiveComponent.md#getcollisionresponsetochannel)
 
-#### Defined in
-
-[ue/ue.d.ts:12672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12672)
-
 ___
 
 ### GetComponentTickInterval
@@ -3345,10 +2609,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetComponentTickInterval](ue_ue.PrimitiveComponent.md#getcomponenttickinterval)
-
-#### Defined in
-
-[ue/ue.d.ts:311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L311)
 
 ___
 
@@ -3364,10 +2624,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetComponentVelocity](ue_ue.PrimitiveComponent.md#getcomponentvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12902)
-
 ___
 
 ### GetForwardVector
@@ -3382,10 +2638,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetForwardVector](ue_ue.PrimitiveComponent.md#getforwardvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12903)
-
 ___
 
 ### GetGenerateOverlapEvents
@@ -3399,10 +2651,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetGenerateOverlapEvents](ue_ue.PrimitiveComponent.md#getgenerateoverlapevents)
-
-#### Defined in
-
-[ue/ue.d.ts:12673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12673)
 
 ___
 
@@ -3424,10 +2672,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetInertiaTensor](ue_ue.PrimitiveComponent.md#getinertiatensor)
 
-#### Defined in
-
-[ue/ue.d.ts:12674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12674)
-
 ___
 
 ### GetLinearDamping
@@ -3442,10 +2686,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetLinearDamping](ue_ue.PrimitiveComponent.md#getlineardamping)
 
-#### Defined in
-
-[ue/ue.d.ts:12675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12675)
-
 ___
 
 ### GetMass
@@ -3459,10 +2699,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetMass](ue_ue.PrimitiveComponent.md#getmass)
-
-#### Defined in
-
-[ue/ue.d.ts:12676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12676)
 
 ___
 
@@ -3484,10 +2720,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetMassScale](ue_ue.PrimitiveComponent.md#getmassscale)
 
-#### Defined in
-
-[ue/ue.d.ts:12677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12677)
-
 ___
 
 ### GetMaterial
@@ -3507,10 +2739,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetMaterial](ue_ue.PrimitiveComponent.md#getmaterial)
-
-#### Defined in
-
-[ue/ue.d.ts:12678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12678)
 
 ___
 
@@ -3533,10 +2761,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetMaterialFromCollisionFaceIndex](ue_ue.PrimitiveComponent.md#getmaterialfromcollisionfaceindex)
 
-#### Defined in
-
-[ue/ue.d.ts:12679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12679)
-
 ___
 
 ### GetName
@@ -3550,10 +2774,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetName](ue_ue.PrimitiveComponent.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -3569,10 +2789,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetNumChildrenComponents](ue_ue.PrimitiveComponent.md#getnumchildrencomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12904)
-
 ___
 
 ### GetNumMaterials
@@ -3587,10 +2803,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetNumMaterials](ue_ue.PrimitiveComponent.md#getnummaterials)
 
-#### Defined in
-
-[ue/ue.d.ts:12680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12680)
-
 ___
 
 ### GetOuter
@@ -3604,10 +2816,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetOuter](ue_ue.PrimitiveComponent.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -3630,10 +2838,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetOverlappingActors](ue_ue.PrimitiveComponent.md#getoverlappingactors)
 
-#### Defined in
-
-[ue/ue.d.ts:12681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12681)
-
 ___
 
 ### GetOverlappingComponents
@@ -3654,10 +2858,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetOverlappingComponents](ue_ue.PrimitiveComponent.md#getoverlappingcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12682)
-
 ___
 
 ### GetOwner
@@ -3671,10 +2871,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetOwner](ue_ue.PrimitiveComponent.md#getowner)
-
-#### Defined in
-
-[ue/ue.d.ts:312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L312)
 
 ___
 
@@ -3696,10 +2892,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetParentComponents](ue_ue.PrimitiveComponent.md#getparentcomponents)
 
-#### Defined in
-
-[ue/ue.d.ts:12905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12905)
-
 ___
 
 ### GetPhysicsAngularVelocity
@@ -3719,10 +2911,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetPhysicsAngularVelocity](ue_ue.PrimitiveComponent.md#getphysicsangularvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12683)
 
 ___
 
@@ -3744,10 +2932,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetPhysicsAngularVelocityInDegrees](ue_ue.PrimitiveComponent.md#getphysicsangularvelocityindegrees)
 
-#### Defined in
-
-[ue/ue.d.ts:12684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12684)
-
 ___
 
 ### GetPhysicsAngularVelocityInRadians
@@ -3768,10 +2952,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetPhysicsAngularVelocityInRadians](ue_ue.PrimitiveComponent.md#getphysicsangularvelocityinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12685)
-
 ___
 
 ### GetPhysicsLinearVelocity
@@ -3791,10 +2971,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetPhysicsLinearVelocity](ue_ue.PrimitiveComponent.md#getphysicslinearvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12686](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12686)
 
 ___
 
@@ -3817,10 +2993,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetPhysicsLinearVelocityAtPoint](ue_ue.PrimitiveComponent.md#getphysicslinearvelocityatpoint)
 
-#### Defined in
-
-[ue/ue.d.ts:12687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12687)
-
 ___
 
 ### GetPhysicsVolume
@@ -3834,10 +3006,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetPhysicsVolume](ue_ue.PrimitiveComponent.md#getphysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12906)
 
 ___
 
@@ -3853,10 +3021,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetRelativeTransform](ue_ue.PrimitiveComponent.md#getrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12907)
-
 ___
 
 ### GetRightVector
@@ -3871,10 +3035,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetRightVector](ue_ue.PrimitiveComponent.md#getrightvector)
 
-#### Defined in
-
-[ue/ue.d.ts:12908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12908)
-
 ___
 
 ### GetShouldUpdatePhysicsVolume
@@ -3888,10 +3048,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetShouldUpdatePhysicsVolume](ue_ue.PrimitiveComponent.md#getshouldupdatephysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12909)
 
 ___
 
@@ -3913,10 +3069,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetSocketLocation](ue_ue.PrimitiveComponent.md#getsocketlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:12910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12910)
-
 ___
 
 ### GetSocketQuaternion
@@ -3937,10 +3089,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetSocketQuaternion](ue_ue.PrimitiveComponent.md#getsocketquaternion)
 
-#### Defined in
-
-[ue/ue.d.ts:12911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12911)
-
 ___
 
 ### GetSocketRotation
@@ -3960,10 +3108,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetSocketRotation](ue_ue.PrimitiveComponent.md#getsocketrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12912)
 
 ___
 
@@ -3986,10 +3130,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetSocketTransform](ue_ue.PrimitiveComponent.md#getsockettransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12913)
-
 ___
 
 ### GetUpVector
@@ -4003,10 +3143,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetUpVector](ue_ue.PrimitiveComponent.md#getupvector)
-
-#### Defined in
-
-[ue/ue.d.ts:12914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12914)
 
 ___
 
@@ -4022,10 +3158,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetWalkableSlopeOverride](ue_ue.PrimitiveComponent.md#getwalkableslopeoverride)
 
-#### Defined in
-
-[ue/ue.d.ts:12688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12688)
-
 ___
 
 ### GetWorld
@@ -4039,10 +3171,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[GetWorld](ue_ue.PrimitiveComponent.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -4065,10 +3193,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[IgnoreActorWhenMoving](ue_ue.PrimitiveComponent.md#ignoreactorwhenmoving)
 
-#### Defined in
-
-[ue/ue.d.ts:12689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12689)
-
 ___
 
 ### IgnoreComponentWhenMoving
@@ -4090,10 +3214,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[IgnoreComponentWhenMoving](ue_ue.PrimitiveComponent.md#ignorecomponentwhenmoving)
 
-#### Defined in
-
-[ue/ue.d.ts:12690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12690)
-
 ___
 
 ### IsActive
@@ -4107,10 +3227,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[IsActive](ue_ue.PrimitiveComponent.md#isactive)
-
-#### Defined in
-
-[ue/ue.d.ts:313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L313)
 
 ___
 
@@ -4126,10 +3242,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[IsAnyRigidBodyAwake](ue_ue.PrimitiveComponent.md#isanyrigidbodyawake)
 
-#### Defined in
-
-[ue/ue.d.ts:12691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12691)
-
 ___
 
 ### IsAnySimulatingPhysics
@@ -4143,10 +3255,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[IsAnySimulatingPhysics](ue_ue.PrimitiveComponent.md#isanysimulatingphysics)
-
-#### Defined in
-
-[ue/ue.d.ts:12915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12915)
 
 ___
 
@@ -4162,10 +3270,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[IsBeingDestroyed](ue_ue.PrimitiveComponent.md#isbeingdestroyed)
 
-#### Defined in
-
-[ue/ue.d.ts:314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L314)
-
 ___
 
 ### IsComponentTickEnabled
@@ -4180,10 +3284,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[IsComponentTickEnabled](ue_ue.PrimitiveComponent.md#iscomponenttickenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L315)
-
 ___
 
 ### IsGravityEnabled
@@ -4197,10 +3297,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[IsGravityEnabled](ue_ue.PrimitiveComponent.md#isgravityenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12692](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12692)
 
 ___
 
@@ -4222,10 +3318,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[IsOverlappingActor](ue_ue.PrimitiveComponent.md#isoverlappingactor)
 
-#### Defined in
-
-[ue/ue.d.ts:12693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12693)
-
 ___
 
 ### IsOverlappingComponent
@@ -4245,10 +3337,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[IsOverlappingComponent](ue_ue.PrimitiveComponent.md#isoverlappingcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12694](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12694)
 
 ___
 
@@ -4270,10 +3358,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[IsSimulatingPhysics](ue_ue.PrimitiveComponent.md#issimulatingphysics)
 
-#### Defined in
-
-[ue/ue.d.ts:12916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12916)
-
 ___
 
 ### IsVisible
@@ -4287,10 +3371,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[IsVisible](ue_ue.PrimitiveComponent.md#isvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:12917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12917)
 
 ___
 
@@ -4315,10 +3395,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_AddLocalOffset](ue_ue.PrimitiveComponent.md#k2_addlocaloffset)
 
-#### Defined in
-
-[ue/ue.d.ts:12918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12918)
-
 ___
 
 ### K2\_AddLocalRotation
@@ -4341,10 +3417,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_AddLocalRotation](ue_ue.PrimitiveComponent.md#k2_addlocalrotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12919)
 
 ___
 
@@ -4369,10 +3441,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_AddLocalTransform](ue_ue.PrimitiveComponent.md#k2_addlocaltransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12920)
-
 ___
 
 ### K2\_AddRelativeLocation
@@ -4395,10 +3463,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_AddRelativeLocation](ue_ue.PrimitiveComponent.md#k2_addrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12921)
 
 ___
 
@@ -4423,10 +3487,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_AddRelativeRotation](ue_ue.PrimitiveComponent.md#k2_addrelativerotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12922)
-
 ___
 
 ### K2\_AddWorldOffset
@@ -4449,10 +3509,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_AddWorldOffset](ue_ue.PrimitiveComponent.md#k2_addworldoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:12923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12923)
 
 ___
 
@@ -4477,10 +3533,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_AddWorldRotation](ue_ue.PrimitiveComponent.md#k2_addworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12924)
-
 ___
 
 ### K2\_AddWorldTransform
@@ -4504,10 +3556,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_AddWorldTransform](ue_ue.PrimitiveComponent.md#k2_addworldtransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12925)
-
 ___
 
 ### K2\_AttachTo
@@ -4530,10 +3578,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_AttachTo](ue_ue.PrimitiveComponent.md#k2_attachto)
-
-#### Defined in
-
-[ue/ue.d.ts:12926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12926)
 
 ___
 
@@ -4559,10 +3603,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_AttachToComponent](ue_ue.PrimitiveComponent.md#k2_attachtocomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12927)
 
 ___
 
@@ -4592,10 +3632,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_BoxOverlapComponent](ue_ue.PrimitiveComponent.md#k2_boxoverlapcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12695)
-
 ___
 
 ### K2\_DestroyComponent
@@ -4615,10 +3651,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_DestroyComponent](ue_ue.PrimitiveComponent.md#k2_destroycomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L316)
 
 ___
 
@@ -4643,10 +3675,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_DetachFromComponent](ue_ue.PrimitiveComponent.md#k2_detachfromcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12928)
-
 ___
 
 ### K2\_GetComponentLocation
@@ -4660,10 +3688,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_GetComponentLocation](ue_ue.PrimitiveComponent.md#k2_getcomponentlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12929)
 
 ___
 
@@ -4679,10 +3703,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_GetComponentRotation](ue_ue.PrimitiveComponent.md#k2_getcomponentrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12930)
-
 ___
 
 ### K2\_GetComponentScale
@@ -4696,10 +3716,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_GetComponentScale](ue_ue.PrimitiveComponent.md#k2_getcomponentscale)
-
-#### Defined in
-
-[ue/ue.d.ts:12931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12931)
 
 ___
 
@@ -4715,10 +3731,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_GetComponentToWorld](ue_ue.PrimitiveComponent.md#k2_getcomponenttoworld)
 
-#### Defined in
-
-[ue/ue.d.ts:12932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12932)
-
 ___
 
 ### K2\_IsCollisionEnabled
@@ -4732,10 +3744,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_IsCollisionEnabled](ue_ue.PrimitiveComponent.md#k2_iscollisionenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12696](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12696)
 
 ___
 
@@ -4751,10 +3759,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_IsPhysicsCollisionEnabled](ue_ue.PrimitiveComponent.md#k2_isphysicscollisionenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:12697](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12697)
-
 ___
 
 ### K2\_IsQueryCollisionEnabled
@@ -4768,10 +3772,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_IsQueryCollisionEnabled](ue_ue.PrimitiveComponent.md#k2_isquerycollisionenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12698)
 
 ___
 
@@ -4801,10 +3801,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_LineTraceComponent](ue_ue.PrimitiveComponent.md#k2_linetracecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12699](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12699)
-
 ___
 
 ### K2\_SetRelativeLocation
@@ -4827,10 +3823,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_SetRelativeLocation](ue_ue.PrimitiveComponent.md#k2_setrelativelocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12933)
 
 ___
 
@@ -4856,10 +3848,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_SetRelativeLocationAndRotation](ue_ue.PrimitiveComponent.md#k2_setrelativelocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12934)
-
 ___
 
 ### K2\_SetRelativeRotation
@@ -4882,10 +3870,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_SetRelativeRotation](ue_ue.PrimitiveComponent.md#k2_setrelativerotation)
-
-#### Defined in
-
-[ue/ue.d.ts:12935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12935)
 
 ___
 
@@ -4910,10 +3894,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_SetRelativeTransform](ue_ue.PrimitiveComponent.md#k2_setrelativetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:12936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12936)
-
 ___
 
 ### K2\_SetWorldLocation
@@ -4936,10 +3916,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_SetWorldLocation](ue_ue.PrimitiveComponent.md#k2_setworldlocation)
-
-#### Defined in
-
-[ue/ue.d.ts:12937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12937)
 
 ___
 
@@ -4965,10 +3941,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_SetWorldLocationAndRotation](ue_ue.PrimitiveComponent.md#k2_setworldlocationandrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12938)
-
 ___
 
 ### K2\_SetWorldRotation
@@ -4992,10 +3964,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_SetWorldRotation](ue_ue.PrimitiveComponent.md#k2_setworldrotation)
 
-#### Defined in
-
-[ue/ue.d.ts:12939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12939)
-
 ___
 
 ### K2\_SetWorldTransform
@@ -5018,10 +3986,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_SetWorldTransform](ue_ue.PrimitiveComponent.md#k2_setworldtransform)
-
-#### Defined in
-
-[ue/ue.d.ts:12940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12940)
 
 ___
 
@@ -5050,10 +4014,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_SphereOverlapComponent](ue_ue.PrimitiveComponent.md#k2_sphereoverlapcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:12700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12700)
 
 ___
 
@@ -5084,10 +4044,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[K2_SphereTraceComponent](ue_ue.PrimitiveComponent.md#k2_spheretracecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:12701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12701)
-
 ___
 
 ### OnRep\_AttachChildren
@@ -5101,10 +4057,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[OnRep_AttachChildren](ue_ue.PrimitiveComponent.md#onrep_attachchildren)
-
-#### Defined in
-
-[ue/ue.d.ts:12941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12941)
 
 ___
 
@@ -5120,10 +4072,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[OnRep_AttachParent](ue_ue.PrimitiveComponent.md#onrep_attachparent)
 
-#### Defined in
-
-[ue/ue.d.ts:12942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12942)
-
 ___
 
 ### OnRep\_AttachSocketName
@@ -5137,10 +4085,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[OnRep_AttachSocketName](ue_ue.PrimitiveComponent.md#onrep_attachsocketname)
-
-#### Defined in
-
-[ue/ue.d.ts:12943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12943)
 
 ___
 
@@ -5156,10 +4100,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[OnRep_IsActive](ue_ue.PrimitiveComponent.md#onrep_isactive)
 
-#### Defined in
-
-[ue/ue.d.ts:317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L317)
-
 ___
 
 ### OnRep\_Transform
@@ -5173,10 +4113,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[OnRep_Transform](ue_ue.PrimitiveComponent.md#onrep_transform)
-
-#### Defined in
-
-[ue/ue.d.ts:12944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12944)
 
 ___
 
@@ -5198,10 +4134,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[OnRep_Visibility](ue_ue.PrimitiveComponent.md#onrep_visibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12945)
-
 ___
 
 ### PutRigidBodyToSleep
@@ -5222,10 +4154,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[PutRigidBodyToSleep](ue_ue.PrimitiveComponent.md#putrigidbodytosleep)
 
-#### Defined in
-
-[ue/ue.d.ts:12702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12702)
-
 ___
 
 ### ReceiveBeginPlay
@@ -5239,10 +4167,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[ReceiveBeginPlay](ue_ue.PrimitiveComponent.md#receivebeginplay)
-
-#### Defined in
-
-[ue/ue.d.ts:318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L318)
 
 ___
 
@@ -5264,10 +4188,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[ReceiveEndPlay](ue_ue.PrimitiveComponent.md#receiveendplay)
 
-#### Defined in
-
-[ue/ue.d.ts:319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L319)
-
 ___
 
 ### ReceiveTick
@@ -5288,10 +4208,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[ReceiveTick](ue_ue.PrimitiveComponent.md#receivetick)
 
-#### Defined in
-
-[ue/ue.d.ts:320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L320)
-
 ___
 
 ### RegisterComponent
@@ -5305,10 +4221,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[RegisterComponent](ue_ue.PrimitiveComponent.md#registercomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L321)
 
 ___
 
@@ -5330,10 +4242,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[RemoveTickPrerequisiteActor](ue_ue.PrimitiveComponent.md#removetickprerequisiteactor)
 
-#### Defined in
-
-[ue/ue.d.ts:322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L322)
-
 ___
 
 ### RemoveTickPrerequisiteComponent
@@ -5354,10 +4262,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[RemoveTickPrerequisiteComponent](ue_ue.PrimitiveComponent.md#removetickprerequisitecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L323)
-
 ___
 
 ### ResetRelativeTransform
@@ -5371,10 +4275,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[ResetRelativeTransform](ue_ue.PrimitiveComponent.md#resetrelativetransform)
-
-#### Defined in
-
-[ue/ue.d.ts:12946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12946)
 
 ___
 
@@ -5396,10 +4296,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[ScaleByMomentOfInertia](ue_ue.PrimitiveComponent.md#scalebymomentofinertia)
-
-#### Defined in
-
-[ue/ue.d.ts:12703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12703)
 
 ___
 
@@ -5423,10 +4319,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetAbsolute](ue_ue.PrimitiveComponent.md#setabsolute)
 
-#### Defined in
-
-[ue/ue.d.ts:12947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12947)
-
 ___
 
 ### SetActive
@@ -5448,10 +4340,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetActive](ue_ue.PrimitiveComponent.md#setactive)
 
-#### Defined in
-
-[ue/ue.d.ts:324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L324)
-
 ___
 
 ### SetAllMassScale
@@ -5471,10 +4359,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetAllMassScale](ue_ue.PrimitiveComponent.md#setallmassscale)
-
-#### Defined in
-
-[ue/ue.d.ts:12704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12704)
 
 ___
 
@@ -5497,10 +4381,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetAllPhysicsAngularVelocityInDegrees](ue_ue.PrimitiveComponent.md#setallphysicsangularvelocityindegrees)
 
-#### Defined in
-
-[ue/ue.d.ts:12705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12705)
-
 ___
 
 ### SetAllPhysicsAngularVelocityInRadians
@@ -5521,10 +4401,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetAllPhysicsAngularVelocityInRadians](ue_ue.PrimitiveComponent.md#setallphysicsangularvelocityinradians)
-
-#### Defined in
-
-[ue/ue.d.ts:12706](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12706)
 
 ___
 
@@ -5547,10 +4423,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetAllPhysicsLinearVelocity](ue_ue.PrimitiveComponent.md#setallphysicslinearvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12707](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12707)
-
 ___
 
 ### SetAllUseCCD
@@ -5570,10 +4442,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetAllUseCCD](ue_ue.PrimitiveComponent.md#setalluseccd)
-
-#### Defined in
-
-[ue/ue.d.ts:12708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12708)
 
 ___
 
@@ -5595,10 +4463,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetAngularDamping](ue_ue.PrimitiveComponent.md#setangulardamping)
 
-#### Defined in
-
-[ue/ue.d.ts:12709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12709)
-
 ___
 
 ### SetAutoActivate
@@ -5618,10 +4482,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetAutoActivate](ue_ue.PrimitiveComponent.md#setautoactivate)
-
-#### Defined in
-
-[ue/ue.d.ts:325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L325)
 
 ___
 
@@ -5643,10 +4503,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetBoundsScale](ue_ue.PrimitiveComponent.md#setboundsscale)
 
-#### Defined in
-
-[ue/ue.d.ts:12710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12710)
-
 ___
 
 ### SetCastInsetShadow
@@ -5667,10 +4523,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetCastInsetShadow](ue_ue.PrimitiveComponent.md#setcastinsetshadow)
 
-#### Defined in
-
-[ue/ue.d.ts:12711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12711)
-
 ___
 
 ### SetCastShadow
@@ -5690,10 +4542,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetCastShadow](ue_ue.PrimitiveComponent.md#setcastshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:12712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12712)
 
 ___
 
@@ -5716,10 +4564,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetCenterOfMass](ue_ue.PrimitiveComponent.md#setcenterofmass)
 
-#### Defined in
-
-[ue/ue.d.ts:12713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12713)
-
 ___
 
 ### SetCollisionEnabled
@@ -5739,10 +4583,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetCollisionEnabled](ue_ue.PrimitiveComponent.md#setcollisionenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:12714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12714)
 
 ___
 
@@ -5764,10 +4604,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetCollisionObjectType](ue_ue.PrimitiveComponent.md#setcollisionobjecttype)
 
-#### Defined in
-
-[ue/ue.d.ts:12715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12715)
-
 ___
 
 ### SetCollisionProfileName
@@ -5788,10 +4624,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetCollisionProfileName](ue_ue.PrimitiveComponent.md#setcollisionprofilename)
 
-#### Defined in
-
-[ue/ue.d.ts:12716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12716)
-
 ___
 
 ### SetCollisionResponseToAllChannels
@@ -5811,10 +4643,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetCollisionResponseToAllChannels](ue_ue.PrimitiveComponent.md#setcollisionresponsetoallchannels)
-
-#### Defined in
-
-[ue/ue.d.ts:12717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12717)
 
 ___
 
@@ -5837,10 +4665,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetCollisionResponseToChannel](ue_ue.PrimitiveComponent.md#setcollisionresponsetochannel)
 
-#### Defined in
-
-[ue/ue.d.ts:12718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12718)
-
 ___
 
 ### SetComponentTickEnabled
@@ -5860,10 +4684,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetComponentTickEnabled](ue_ue.PrimitiveComponent.md#setcomponenttickenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L326)
 
 ___
 
@@ -5885,10 +4705,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetComponentTickInterval](ue_ue.PrimitiveComponent.md#setcomponenttickinterval)
 
-#### Defined in
-
-[ue/ue.d.ts:327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L327)
-
 ___
 
 ### SetConstraintMode
@@ -5908,10 +4724,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetConstraintMode](ue_ue.PrimitiveComponent.md#setconstraintmode)
-
-#### Defined in
-
-[ue/ue.d.ts:12719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12719)
 
 ___
 
@@ -5933,10 +4745,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetCullDistance](ue_ue.PrimitiveComponent.md#setculldistance)
 
-#### Defined in
-
-[ue/ue.d.ts:12720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12720)
-
 ___
 
 ### SetCustomDepthStencilValue
@@ -5957,10 +4765,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetCustomDepthStencilValue](ue_ue.PrimitiveComponent.md#setcustomdepthstencilvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:12721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12721)
-
 ___
 
 ### SetCustomDepthStencilWriteMask
@@ -5980,10 +4784,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetCustomDepthStencilWriteMask](ue_ue.PrimitiveComponent.md#setcustomdepthstencilwritemask)
-
-#### Defined in
-
-[ue/ue.d.ts:12722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12722)
 
 ___
 
@@ -6006,10 +4806,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetCustomPrimitiveDataFloat](ue_ue.PrimitiveComponent.md#setcustomprimitivedatafloat)
 
-#### Defined in
-
-[ue/ue.d.ts:12723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12723)
-
 ___
 
 ### SetCustomPrimitiveDataVector2
@@ -6030,10 +4826,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetCustomPrimitiveDataVector2](ue_ue.PrimitiveComponent.md#setcustomprimitivedatavector2)
-
-#### Defined in
-
-[ue/ue.d.ts:12724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12724)
 
 ___
 
@@ -6056,10 +4848,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetCustomPrimitiveDataVector3](ue_ue.PrimitiveComponent.md#setcustomprimitivedatavector3)
 
-#### Defined in
-
-[ue/ue.d.ts:12725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12725)
-
 ___
 
 ### SetCustomPrimitiveDataVector4
@@ -6081,10 +4869,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetCustomPrimitiveDataVector4](ue_ue.PrimitiveComponent.md#setcustomprimitivedatavector4)
 
-#### Defined in
-
-[ue/ue.d.ts:12726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12726)
-
 ___
 
 ### SetEnableGravity
@@ -6104,10 +4888,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetEnableGravity](ue_ue.PrimitiveComponent.md#setenablegravity)
-
-#### Defined in
-
-[ue/ue.d.ts:12727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12727)
 
 ___
 
@@ -6129,10 +4909,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetExcludeFromLightAttachmentGroup](ue_ue.PrimitiveComponent.md#setexcludefromlightattachmentgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12728)
-
 ___
 
 ### SetGenerateOverlapEvents
@@ -6152,10 +4928,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetGenerateOverlapEvents](ue_ue.PrimitiveComponent.md#setgenerateoverlapevents)
-
-#### Defined in
-
-[ue/ue.d.ts:12729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12729)
 
 ___
 
@@ -6178,10 +4950,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetHiddenInGame](ue_ue.PrimitiveComponent.md#sethiddeningame)
 
-#### Defined in
-
-[ue/ue.d.ts:12948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12948)
-
 ___
 
 ### SetIsReplicated
@@ -6201,10 +4969,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetIsReplicated](ue_ue.PrimitiveComponent.md#setisreplicated)
-
-#### Defined in
-
-[ue/ue.d.ts:328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L328)
 
 ___
 
@@ -6226,10 +4990,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetLightAttachmentsAsGroup](ue_ue.PrimitiveComponent.md#setlightattachmentsasgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:12730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12730)
-
 ___
 
 ### SetLinearDamping
@@ -6249,10 +5009,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetLinearDamping](ue_ue.PrimitiveComponent.md#setlineardamping)
-
-#### Defined in
-
-[ue/ue.d.ts:12731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12731)
 
 ___
 
@@ -6276,10 +5032,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetMassOverrideInKg](ue_ue.PrimitiveComponent.md#setmassoverrideinkg)
 
-#### Defined in
-
-[ue/ue.d.ts:12732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12732)
-
 ___
 
 ### SetMassScale
@@ -6300,10 +5052,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetMassScale](ue_ue.PrimitiveComponent.md#setmassscale)
-
-#### Defined in
-
-[ue/ue.d.ts:12733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12733)
 
 ___
 
@@ -6326,10 +5074,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetMaterial](ue_ue.PrimitiveComponent.md#setmaterial)
 
-#### Defined in
-
-[ue/ue.d.ts:12734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12734)
-
 ___
 
 ### SetMaterialByName
@@ -6351,10 +5095,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetMaterialByName](ue_ue.PrimitiveComponent.md#setmaterialbyname)
 
-#### Defined in
-
-[ue/ue.d.ts:12735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12735)
-
 ___
 
 ### SetMobility
@@ -6374,10 +5114,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetMobility](ue_ue.PrimitiveComponent.md#setmobility)
-
-#### Defined in
-
-[ue/ue.d.ts:12949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12949)
 
 ___
 
@@ -6399,10 +5135,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetNotifyRigidBodyCollision](ue_ue.PrimitiveComponent.md#setnotifyrigidbodycollision)
 
-#### Defined in
-
-[ue/ue.d.ts:12736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12736)
-
 ___
 
 ### SetOnlyOwnerSee
@@ -6422,10 +5154,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetOnlyOwnerSee](ue_ue.PrimitiveComponent.md#setonlyownersee)
-
-#### Defined in
-
-[ue/ue.d.ts:12737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12737)
 
 ___
 
@@ -6447,10 +5175,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetOwnerNoSee](ue_ue.PrimitiveComponent.md#setownernosee)
 
-#### Defined in
-
-[ue/ue.d.ts:12738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12738)
-
 ___
 
 ### SetPhysMaterialOverride
@@ -6470,10 +5194,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetPhysMaterialOverride](ue_ue.PrimitiveComponent.md#setphysmaterialoverride)
-
-#### Defined in
-
-[ue/ue.d.ts:12746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12746)
 
 ___
 
@@ -6497,10 +5217,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetPhysicsAngularVelocity](ue_ue.PrimitiveComponent.md#setphysicsangularvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12739)
-
 ___
 
 ### SetPhysicsAngularVelocityInDegrees
@@ -6522,10 +5238,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetPhysicsAngularVelocityInDegrees](ue_ue.PrimitiveComponent.md#setphysicsangularvelocityindegrees)
-
-#### Defined in
-
-[ue/ue.d.ts:12740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12740)
 
 ___
 
@@ -6549,10 +5261,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetPhysicsAngularVelocityInRadians](ue_ue.PrimitiveComponent.md#setphysicsangularvelocityinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12741)
-
 ___
 
 ### SetPhysicsLinearVelocity
@@ -6574,10 +5282,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetPhysicsLinearVelocity](ue_ue.PrimitiveComponent.md#setphysicslinearvelocity)
-
-#### Defined in
-
-[ue/ue.d.ts:12742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12742)
 
 ___
 
@@ -6601,10 +5305,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetPhysicsMaxAngularVelocity](ue_ue.PrimitiveComponent.md#setphysicsmaxangularvelocity)
 
-#### Defined in
-
-[ue/ue.d.ts:12743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12743)
-
 ___
 
 ### SetPhysicsMaxAngularVelocityInDegrees
@@ -6626,10 +5326,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetPhysicsMaxAngularVelocityInDegrees](ue_ue.PrimitiveComponent.md#setphysicsmaxangularvelocityindegrees)
-
-#### Defined in
-
-[ue/ue.d.ts:12744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12744)
 
 ___
 
@@ -6653,10 +5349,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetPhysicsMaxAngularVelocityInRadians](ue_ue.PrimitiveComponent.md#setphysicsmaxangularvelocityinradians)
 
-#### Defined in
-
-[ue/ue.d.ts:12745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12745)
-
 ___
 
 ### SetReceivesDecals
@@ -6676,10 +5368,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetReceivesDecals](ue_ue.PrimitiveComponent.md#setreceivesdecals)
-
-#### Defined in
-
-[ue/ue.d.ts:12747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12747)
 
 ___
 
@@ -6701,10 +5389,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetRelativeScale3D](ue_ue.PrimitiveComponent.md#setrelativescale3d)
 
-#### Defined in
-
-[ue/ue.d.ts:12950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12950)
-
 ___
 
 ### SetRenderCustomDepth
@@ -6724,10 +5408,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetRenderCustomDepth](ue_ue.PrimitiveComponent.md#setrendercustomdepth)
-
-#### Defined in
-
-[ue/ue.d.ts:12748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12748)
 
 ___
 
@@ -6749,10 +5429,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetRenderInMainPass](ue_ue.PrimitiveComponent.md#setrenderinmainpass)
 
-#### Defined in
-
-[ue/ue.d.ts:12749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12749)
-
 ___
 
 ### SetShouldUpdatePhysicsVolume
@@ -6772,10 +5448,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetShouldUpdatePhysicsVolume](ue_ue.PrimitiveComponent.md#setshouldupdatephysicsvolume)
-
-#### Defined in
-
-[ue/ue.d.ts:12951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12951)
 
 ___
 
@@ -6797,10 +5469,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetSimulatePhysics](ue_ue.PrimitiveComponent.md#setsimulatephysics)
 
-#### Defined in
-
-[ue/ue.d.ts:12750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12750)
-
 ___
 
 ### SetSingleSampleShadowFromStationaryLights
@@ -6820,10 +5488,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetSingleSampleShadowFromStationaryLights](ue_ue.PrimitiveComponent.md#setsinglesampleshadowfromstationarylights)
-
-#### Defined in
-
-[ue/ue.d.ts:12751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12751)
 
 ___
 
@@ -6845,10 +5509,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetTickGroup](ue_ue.PrimitiveComponent.md#settickgroup)
 
-#### Defined in
-
-[ue/ue.d.ts:330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L330)
-
 ___
 
 ### SetTickableWhenPaused
@@ -6869,10 +5529,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetTickableWhenPaused](ue_ue.PrimitiveComponent.md#settickablewhenpaused)
 
-#### Defined in
-
-[ue/ue.d.ts:329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L329)
-
 ___
 
 ### SetTranslucentSortPriority
@@ -6892,10 +5548,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetTranslucentSortPriority](ue_ue.PrimitiveComponent.md#settranslucentsortpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:12752](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12752)
 
 ___
 
@@ -6918,10 +5570,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetUseCCD](ue_ue.PrimitiveComponent.md#setuseccd)
 
-#### Defined in
-
-[ue/ue.d.ts:12753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12753)
-
 ___
 
 ### SetVisibility
@@ -6943,10 +5591,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetVisibility](ue_ue.PrimitiveComponent.md#setvisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12953)
-
 ___
 
 ### SetWalkableSlopeOverride
@@ -6967,10 +5611,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetWalkableSlopeOverride](ue_ue.PrimitiveComponent.md#setwalkableslopeoverride)
 
-#### Defined in
-
-[ue/ue.d.ts:12754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12754)
-
 ___
 
 ### SetWorldScale3D
@@ -6990,10 +5630,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetWorldScale3D](ue_ue.PrimitiveComponent.md#setworldscale3d)
-
-#### Defined in
-
-[ue/ue.d.ts:12954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12954)
 
 ___
 
@@ -7016,10 +5652,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SetupAttachment](ue_ue.PrimitiveComponent.md#setupattachment)
 
-#### Defined in
-
-[ue/ue.d.ts:12952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12952)
-
 ___
 
 ### SnapTo
@@ -7041,10 +5673,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[SnapTo](ue_ue.PrimitiveComponent.md#snapto)
 
-#### Defined in
-
-[ue/ue.d.ts:12955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12955)
-
 ___
 
 ### ToggleActive
@@ -7058,10 +5686,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[ToggleActive](ue_ue.PrimitiveComponent.md#toggleactive)
-
-#### Defined in
-
-[ue/ue.d.ts:331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L331)
 
 ___
 
@@ -7083,10 +5707,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[ToggleVisibility](ue_ue.PrimitiveComponent.md#togglevisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:12956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12956)
-
 ___
 
 ### WakeAllRigidBodies
@@ -7100,10 +5720,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[WakeAllRigidBodies](ue_ue.PrimitiveComponent.md#wakeallrigidbodies)
-
-#### Defined in
-
-[ue/ue.d.ts:12755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12755)
 
 ___
 
@@ -7124,10 +5740,6 @@ ___
 #### Inherited from
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[WakeRigidBody](ue_ue.PrimitiveComponent.md#wakerigidbody)
-
-#### Defined in
-
-[ue/ue.d.ts:12756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12756)
 
 ___
 
@@ -7150,10 +5762,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[Find](ue_ue.PrimitiveComponent.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:12770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12770)
-
 ___
 
 ### Load
@@ -7174,10 +5782,6 @@ ___
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[Load](ue_ue.PrimitiveComponent.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:12771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12771)
-
 ___
 
 ### StaticClass
@@ -7191,7 +5795,3 @@ ___
 #### Overrides
 
 [PrimitiveComponent](ue_ue.PrimitiveComponent.md).[StaticClass](ue_ue.PrimitiveComponent.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:12769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12769)

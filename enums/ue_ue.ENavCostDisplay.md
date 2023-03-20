@@ -20,19 +20,11 @@
 
 • **ENavCostDisplay\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34074)
-
 ___
 
 ### HeuristicOnly
 
 • **HeuristicOnly** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34074)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **RealCostOnly** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34074)
-
 ___
 
 ### TotalCost
 
 • **TotalCost** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34074)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34074)

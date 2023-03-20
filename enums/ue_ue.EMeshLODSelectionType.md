@@ -21,19 +21,11 @@
 
 • **AllLODs** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9006)
-
 ___
 
 ### CalculateLOD
 
 • **CalculateLOD** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9006)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **EMeshLODSelectionType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9006)
-
 ___
 
 ### LowestDetailLOD
 
 • **LowestDetailLOD** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9006)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **SpecificLOD** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9006)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9006)

@@ -39,19 +39,11 @@
 
 • **new InputEvent**()
 
-#### Defined in
-
-[ue/ue.d.ts:10846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10846)
-
 ## Properties
 
 ### \_\_tid\_InputEvent\_\_
 
 • `Private` **\_\_tid\_InputEvent\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10852)
 
 ## Methods
 
@@ -67,10 +59,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10850)
-
 ___
 
 ### StaticStruct
@@ -80,7 +68,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10851)

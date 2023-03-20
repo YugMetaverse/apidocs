@@ -27,10 +27,6 @@
 
 • **new VertexToMove**()
 
-#### Defined in
-
-[ue/ue.d.ts:31735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31735)
-
 • **new VertexToMove**(`VertexID`, `NewVertexPosition`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `VertexID` | [`VertexID`](ue_ue.VertexID.md) |
 | `NewVertexPosition` | [`Vector`](ue_ue_s.Vector.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:31736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31736)
-
 ## Properties
 
 ### NewVertexPosition
 
 • **NewVertexPosition**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31738)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **VertexID**: [`VertexID`](ue_ue.VertexID.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31737)
-
 ___
 
 ### \_\_tid\_VertexToMove\_\_
 
 • `Private` **\_\_tid\_VertexToMove\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31744)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31742)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31743)

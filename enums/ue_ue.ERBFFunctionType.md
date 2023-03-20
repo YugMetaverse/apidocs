@@ -23,19 +23,11 @@
 
 • **Cubic** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19158)
-
 ___
 
 ### DefaultFunction
 
 • **DefaultFunction** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19158)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **ERBFFunctionType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19158)
-
 ___
 
 ### Exponential
 
 • **Exponential** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19158)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **Gaussian** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19158)
-
 ___
 
 ### Linear
 
 • **Linear** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19158)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **Quintic** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19158)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19158)

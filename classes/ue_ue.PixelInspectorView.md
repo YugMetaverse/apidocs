@@ -77,19 +77,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:57845](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57845)
-
 ## Properties
 
 ### AmbientOcclusion
 
 • **AmbientOcclusion**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57860)
 
 ___
 
@@ -97,19 +89,11 @@ ___
 
 • **BackLit**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57867)
-
 ___
 
 ### BaseColor
 
 • **BaseColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57858)
 
 ___
 
@@ -117,19 +101,11 @@ ___
 
 • **ClearCoat**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57864)
-
 ___
 
 ### ClearCoatRoughness
 
 • **ClearCoatRoughness**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57865)
 
 ___
 
@@ -137,19 +113,11 @@ ___
 
 • **Cloth**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57868)
-
 ___
 
 ### EyeTangent
 
 • **EyeTangent**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57869)
 
 ___
 
@@ -157,19 +125,11 @@ ___
 
 • **FinalColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57846)
-
 ___
 
 ### HdrColor
 
 • **HdrColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57850)
 
 ___
 
@@ -177,19 +137,11 @@ ___
 
 • **IndirectIrradiance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57859](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57859)
-
 ___
 
 ### IrisDistance
 
 • **IrisDistance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57871)
 
 ___
 
@@ -197,19 +149,11 @@ ___
 
 • **IrisMask**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57870)
-
 ___
 
 ### Luminance
 
 • **Luminance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57849)
 
 ___
 
@@ -217,19 +161,11 @@ ___
 
 • **MaterialShadingModel**: [`EMaterialShadingModel`](../enums/ue_ue.EMaterialShadingModel.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57856)
-
 ___
 
 ### Metallic
 
 • **Metallic**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57853)
 
 ___
 
@@ -237,19 +173,11 @@ ___
 
 • **Normal**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57851)
-
 ___
 
 ### Opacity
 
 • **Opacity**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57863)
 
 ___
 
@@ -257,19 +185,11 @@ ___
 
 • **PerObjectGBufferData**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57852)
-
 ___
 
 ### PreExposure
 
 • **PreExposure**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57848)
 
 ___
 
@@ -277,19 +197,11 @@ ___
 
 • **Roughness**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57855](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57855)
-
 ___
 
 ### SceneColor
 
 • **SceneColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57847)
 
 ___
 
@@ -297,19 +209,11 @@ ___
 
 • **SelectiveOutputMask**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:57857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57857)
-
 ___
 
 ### Specular
 
 • **Specular**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:57854](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57854)
 
 ___
 
@@ -317,29 +221,17 @@ ___
 
 • **SubSurfaceColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57861)
-
 ___
 
 ### SubsurfaceProfile
 
 • **SubsurfaceProfile**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57862)
-
 ___
 
 ### WorldNormal
 
 • **WorldNormal**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57866)
 
 ___
 
@@ -351,19 +243,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PixelInspectorView\_\_
 
 • **\_\_tid\_PixelInspectorView\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57876)
 
 ## Methods
 
@@ -389,10 +273,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -413,10 +293,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -430,10 +306,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -449,10 +321,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -467,10 +335,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -484,10 +348,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -510,10 +370,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:57873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57873)
-
 ___
 
 ### Load
@@ -534,10 +390,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:57874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57874)
-
 ___
 
 ### StaticClass
@@ -551,7 +403,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:57872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57872)

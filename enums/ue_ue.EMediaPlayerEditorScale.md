@@ -20,19 +20,11 @@
 
 • **EMediaPlayerEditorScale\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34034)
-
 ___
 
 ### Fill
 
 • **Fill** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34034)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Fit** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34034)
-
 ___
 
 ### Original
 
 • **Original** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34034)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34034)

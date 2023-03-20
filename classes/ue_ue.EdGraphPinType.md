@@ -35,10 +35,6 @@
 
 • **new EdGraphPinType**()
 
-#### Defined in
-
-[ue/ue.d.ts:1008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1008)
-
 • **new EdGraphPinType**(`PinCategory`, `PinSubCategory`, `PinSubCategoryObject`, `PinSubCategoryMemberReference`, `PinValueType`, `ContainerType`, `bIsArray`, `bIsReference`, `bIsConst`, `bIsWeakPointer`)
 
 #### Parameters
@@ -56,19 +52,11 @@
 | `bIsConst` | `boolean` |
 | `bIsWeakPointer` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:1009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1009)
-
 ## Properties
 
 ### ContainerType
 
 • **ContainerType**: [`EPinContainerType`](../enums/ue_ue.EPinContainerType.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1015)
 
 ___
 
@@ -76,19 +64,11 @@ ___
 
 • **PinCategory**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:1010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1010)
-
 ___
 
 ### PinSubCategory
 
 • **PinSubCategory**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:1011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1011)
 
 ___
 
@@ -96,19 +76,11 @@ ___
 
 • **PinSubCategoryMemberReference**: [`SimpleMemberReference`](ue_ue.SimpleMemberReference.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1013)
-
 ___
 
 ### PinSubCategoryObject
 
 • **PinSubCategoryObject**: [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`Object`](ue_ue.Object.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:1012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1012)
 
 ___
 
@@ -116,19 +88,11 @@ ___
 
 • **PinValueType**: [`EdGraphTerminalType`](ue_ue.EdGraphTerminalType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1014)
-
 ___
 
 ### \_\_tid\_EdGraphPinType\_\_
 
 • `Private` **\_\_tid\_EdGraphPinType\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1025)
 
 ___
 
@@ -136,19 +100,11 @@ ___
 
 • **bIsArray**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:1016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1016)
-
 ___
 
 ### bIsConst
 
 • **bIsConst**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1018)
 
 ___
 
@@ -156,19 +112,11 @@ ___
 
 • **bIsReference**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:1017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1017)
-
 ___
 
 ### bIsWeakPointer
 
 • **bIsWeakPointer**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1019)
 
 ## Methods
 
@@ -184,10 +132,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1023)
-
 ___
 
 ### StaticStruct
@@ -197,7 +141,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1024)

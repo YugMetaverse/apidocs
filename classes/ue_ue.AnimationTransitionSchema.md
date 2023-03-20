@@ -54,10 +54,6 @@
 
 [EdGraphSchema_K2](ue_ue.EdGraphSchema_K2.md).[constructor](ue_ue.EdGraphSchema_K2.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:17238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17238)
-
 ## Properties
 
 ### EditoronlyBPFunctionRedirects
@@ -68,19 +64,11 @@
 
 [EdGraphSchema_K2](ue_ue.EdGraphSchema_K2.md).[EditoronlyBPFunctionRedirects](ue_ue.EdGraphSchema_K2.md#editoronlybpfunctionredirects)
 
-#### Defined in
-
-[ue/ue.d.ts:16716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16716)
-
 ___
 
 ### \_\_tid\_AnimationTransitionSchema\_\_
 
 • **\_\_tid\_AnimationTransitionSchema\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:17243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17243)
 
 ___
 
@@ -92,10 +80,6 @@ ___
 
 [EdGraphSchema_K2](ue_ue.EdGraphSchema_K2.md).[__tid_EdGraphSchema_K2__](ue_ue.EdGraphSchema_K2.md#__tid_edgraphschema_k2__)
 
-#### Defined in
-
-[ue/ue.d.ts:16721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16721)
-
 ___
 
 ### \_\_tid\_EdGraphSchema\_\_
@@ -106,10 +90,6 @@ ___
 
 [EdGraphSchema_K2](ue_ue.EdGraphSchema_K2.md).[__tid_EdGraphSchema__](ue_ue.EdGraphSchema_K2.md#__tid_edgraphschema__)
 
-#### Defined in
-
-[ue/ue.d.ts:15138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15138)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -119,10 +99,6 @@ ___
 #### Inherited from
 
 [EdGraphSchema_K2](ue_ue.EdGraphSchema_K2.md).[__tid_Object__](ue_ue.EdGraphSchema_K2.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -148,10 +124,6 @@ ___
 
 [EdGraphSchema_K2](ue_ue.EdGraphSchema_K2.md).[CreateDefaultSubobject](ue_ue.EdGraphSchema_K2.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -172,10 +144,6 @@ ___
 
 [EdGraphSchema_K2](ue_ue.EdGraphSchema_K2.md).[ExecuteUbergraph](ue_ue.EdGraphSchema_K2.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -189,10 +157,6 @@ ___
 #### Inherited from
 
 [EdGraphSchema_K2](ue_ue.EdGraphSchema_K2.md).[GetClass](ue_ue.EdGraphSchema_K2.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -208,10 +172,6 @@ ___
 
 [EdGraphSchema_K2](ue_ue.EdGraphSchema_K2.md).[GetName](ue_ue.EdGraphSchema_K2.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -226,10 +186,6 @@ ___
 
 [EdGraphSchema_K2](ue_ue.EdGraphSchema_K2.md).[GetOuter](ue_ue.EdGraphSchema_K2.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -243,10 +199,6 @@ ___
 #### Inherited from
 
 [EdGraphSchema_K2](ue_ue.EdGraphSchema_K2.md).[GetWorld](ue_ue.EdGraphSchema_K2.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -269,10 +221,6 @@ ___
 
 [EdGraphSchema_K2](ue_ue.EdGraphSchema_K2.md).[Find](ue_ue.EdGraphSchema_K2.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:17240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17240)
-
 ___
 
 ### Load
@@ -293,10 +241,6 @@ ___
 
 [EdGraphSchema_K2](ue_ue.EdGraphSchema_K2.md).[Load](ue_ue.EdGraphSchema_K2.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:17241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17241)
-
 ___
 
 ### StaticClass
@@ -310,7 +254,3 @@ ___
 #### Overrides
 
 [EdGraphSchema_K2](ue_ue.EdGraphSchema_K2.md).[StaticClass](ue_ue.EdGraphSchema_K2.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:17239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17239)

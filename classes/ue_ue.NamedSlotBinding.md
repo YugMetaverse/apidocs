@@ -27,10 +27,6 @@
 
 • **new NamedSlotBinding**()
 
-#### Defined in
-
-[ue/ue.d.ts:11921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11921)
-
 • **new NamedSlotBinding**(`Name`, `Content`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Name` | `string` |
 | `Content` | [`Widget`](ue_ue.Widget.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:11922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11922)
-
 ## Properties
 
 ### Content
 
 • **Content**: [`Widget`](ue_ue.Widget.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11924)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:11923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11923)
-
 ___
 
 ### \_\_tid\_NamedSlotBinding\_\_
 
 • `Private` **\_\_tid\_NamedSlotBinding\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:11930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11930)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:11928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11928)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:11929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11929)

@@ -27,10 +27,6 @@
 
 • **new MagicLeapEyeBlinkState**()
 
-#### Defined in
-
-[ue/ue.d.ts:46641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46641)
-
 • **new MagicLeapEyeBlinkState**(`LeftEyeBlinked`, `RightEyeBlinked`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `LeftEyeBlinked` | `boolean` |
 | `RightEyeBlinked` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:46642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46642)
-
 ## Properties
 
 ### LeftEyeBlinked
 
 • **LeftEyeBlinked**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46643)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **RightEyeBlinked**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46644)
-
 ___
 
 ### \_\_tid\_MagicLeapEyeBlinkState\_\_
 
 • `Private` **\_\_tid\_MagicLeapEyeBlinkState\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46650)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46648)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46649)

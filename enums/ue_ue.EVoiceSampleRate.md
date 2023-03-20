@@ -19,19 +19,11 @@
 
 • **EVoiceSampleRate\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22463)
-
 ___
 
 ### Low16000Hz
 
 • **Low16000Hz** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22463)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Normal24000Hz** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22463)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22463)

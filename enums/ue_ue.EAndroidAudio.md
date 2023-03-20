@@ -20,19 +20,11 @@
 
 • **ADPCM** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16433)
-
 ___
 
 ### Default
 
 • **Default** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16433)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **EAndroidAudio\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16433)
-
 ___
 
 ### OGG
 
 • **OGG** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16433)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16433)

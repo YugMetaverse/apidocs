@@ -20,19 +20,11 @@
 
 • **ELandscapeFoliageEditorControlType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33924)
-
 ___
 
 ### IgnoreCtrl
 
 • **IgnoreCtrl** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33924)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **RequireCtrl** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33924)
-
 ___
 
 ### RequireNoCtrl
 
 • **RequireNoCtrl** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33924)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33924)

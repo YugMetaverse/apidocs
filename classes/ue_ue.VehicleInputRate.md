@@ -27,10 +27,6 @@
 
 • **new VehicleInputRate**()
 
-#### Defined in
-
-[ue/ue.d.ts:60496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60496)
-
 • **new VehicleInputRate**(`RiseRate`, `FallRate`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `RiseRate` | `number` |
 | `FallRate` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:60497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60497)
-
 ## Properties
 
 ### FallRate
 
 • **FallRate**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:60499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60499)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **RiseRate**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:60498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60498)
-
 ___
 
 ### \_\_tid\_VehicleInputRate\_\_
 
 • `Private` **\_\_tid\_VehicleInputRate\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:60505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60505)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:60503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60503)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:60504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60504)

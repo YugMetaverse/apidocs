@@ -26,10 +26,6 @@
 
 • **new LevelStreamingWrapper**()
 
-#### Defined in
-
-[ue/ue.d.ts:9826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9826)
-
 • **new LevelStreamingWrapper**(`StreamingLevel`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `StreamingLevel` | [`LevelStreaming`](ue_ue.LevelStreaming.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:9827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9827)
-
 ## Properties
 
 ### StreamingLevel
 
 • **StreamingLevel**: [`LevelStreaming`](ue_ue.LevelStreaming.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9828)
-
 ___
 
 ### \_\_tid\_LevelStreamingWrapper\_\_
 
 • `Private` **\_\_tid\_LevelStreamingWrapper\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9834)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9832)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9833)

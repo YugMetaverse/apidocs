@@ -56,10 +56,6 @@
 
 [InterpTrackInstProperty](ue_ue.InterpTrackInstProperty.md).[constructor](ue_ue.InterpTrackInstProperty.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:40188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40188)
-
 ## Properties
 
 ### InterpProperty
@@ -69,10 +65,6 @@
 #### Inherited from
 
 [InterpTrackInstProperty](ue_ue.InterpTrackInstProperty.md).[InterpProperty](ue_ue.InterpTrackInstProperty.md#interpproperty)
-
-#### Defined in
-
-[ue/ue.d.ts:39994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39994)
 
 ___
 
@@ -84,19 +76,11 @@ ___
 
 [InterpTrackInstProperty](ue_ue.InterpTrackInstProperty.md).[PropertyOuterObjectInst](ue_ue.InterpTrackInstProperty.md#propertyouterobjectinst)
 
-#### Defined in
-
-[ue/ue.d.ts:39995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39995)
-
 ___
 
 ### ResetVector
 
 • **ResetVector**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:40189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40189)
 
 ___
 
@@ -108,19 +92,11 @@ ___
 
 [InterpTrackInstProperty](ue_ue.InterpTrackInstProperty.md).[__tid_InterpTrackInstProperty__](ue_ue.InterpTrackInstProperty.md#__tid_interptrackinstproperty__)
 
-#### Defined in
-
-[ue/ue.d.ts:40000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40000)
-
 ___
 
 ### \_\_tid\_InterpTrackInstVectorProp\_\_
 
 • **\_\_tid\_InterpTrackInstVectorProp\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40194)
 
 ___
 
@@ -132,10 +108,6 @@ ___
 
 [InterpTrackInstProperty](ue_ue.InterpTrackInstProperty.md).[__tid_InterpTrackInst__](ue_ue.InterpTrackInstProperty.md#__tid_interptrackinst__)
 
-#### Defined in
-
-[ue/ue.d.ts:6056](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6056)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -145,10 +117,6 @@ ___
 #### Inherited from
 
 [InterpTrackInstProperty](ue_ue.InterpTrackInstProperty.md).[__tid_Object__](ue_ue.InterpTrackInstProperty.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -174,10 +142,6 @@ ___
 
 [InterpTrackInstProperty](ue_ue.InterpTrackInstProperty.md).[CreateDefaultSubobject](ue_ue.InterpTrackInstProperty.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -198,10 +162,6 @@ ___
 
 [InterpTrackInstProperty](ue_ue.InterpTrackInstProperty.md).[ExecuteUbergraph](ue_ue.InterpTrackInstProperty.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -215,10 +175,6 @@ ___
 #### Inherited from
 
 [InterpTrackInstProperty](ue_ue.InterpTrackInstProperty.md).[GetClass](ue_ue.InterpTrackInstProperty.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -234,10 +190,6 @@ ___
 
 [InterpTrackInstProperty](ue_ue.InterpTrackInstProperty.md).[GetName](ue_ue.InterpTrackInstProperty.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -252,10 +204,6 @@ ___
 
 [InterpTrackInstProperty](ue_ue.InterpTrackInstProperty.md).[GetOuter](ue_ue.InterpTrackInstProperty.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -269,10 +217,6 @@ ___
 #### Inherited from
 
 [InterpTrackInstProperty](ue_ue.InterpTrackInstProperty.md).[GetWorld](ue_ue.InterpTrackInstProperty.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -295,10 +239,6 @@ ___
 
 [InterpTrackInstProperty](ue_ue.InterpTrackInstProperty.md).[Find](ue_ue.InterpTrackInstProperty.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:40191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40191)
-
 ___
 
 ### Load
@@ -319,10 +259,6 @@ ___
 
 [InterpTrackInstProperty](ue_ue.InterpTrackInstProperty.md).[Load](ue_ue.InterpTrackInstProperty.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:40192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40192)
-
 ___
 
 ### StaticClass
@@ -336,7 +272,3 @@ ___
 #### Overrides
 
 [InterpTrackInstProperty](ue_ue.InterpTrackInstProperty.md).[StaticClass](ue_ue.InterpTrackInstProperty.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:40190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40190)

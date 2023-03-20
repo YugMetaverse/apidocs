@@ -20,19 +20,11 @@
 
 • **EAlembicImportType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:77](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L77)
-
 ___
 
 ### GeometryCache
 
 • **GeometryCache** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:77](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L77)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Skeletal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:77](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L77)
-
 ___
 
 ### StaticMesh
 
 • **StaticMesh** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:77](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L77)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:77](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L77)

@@ -27,10 +27,6 @@
 
 • **new EdGraphPinReference**()
 
-#### Defined in
-
-[ue/ue.d.ts:4437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4437)
-
 • **new EdGraphPinReference**(`OwningNode`, `PinId`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `OwningNode` | [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`EdGraphNode`](ue_ue.EdGraphNode.md)\> |
 | `PinId` | [`Guid`](ue_ue_s.Guid.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:4438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4438)
-
 ## Properties
 
 ### OwningNode
 
 • **OwningNode**: [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`EdGraphNode`](ue_ue.EdGraphNode.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:4439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4439)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **PinId**: [`Guid`](ue_ue_s.Guid.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4440)
-
 ___
 
 ### \_\_tid\_EdGraphPinReference\_\_
 
 • `Private` **\_\_tid\_EdGraphPinReference\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4446)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4444](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4444)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4445](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4445)

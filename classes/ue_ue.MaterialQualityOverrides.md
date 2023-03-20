@@ -33,10 +33,6 @@
 
 • **new MaterialQualityOverrides**()
 
-#### Defined in
-
-[ue/ue.d.ts:50020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50020)
-
 • **new MaterialQualityOverrides**(`bDiscardQualityDuringCook`, `bEnableOverride`, `bForceFullyRough`, `bForceNonMetal`, `bForceDisableLMDirectionality`, `bForceLQReflections`, `bDisableMaterialNormalCalculation`, `MobileCSMQuality`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `bDisableMaterialNormalCalculation` | `boolean` |
 | `MobileCSMQuality` | [`EMobileCSMQuality`](../enums/ue_ue.EMobileCSMQuality.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:50021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50021)
-
 ## Properties
 
 ### MobileCSMQuality
 
 • **MobileCSMQuality**: [`EMobileCSMQuality`](../enums/ue_ue.EMobileCSMQuality.md)
-
-#### Defined in
-
-[ue/ue.d.ts:50029](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50029)
 
 ___
 
@@ -72,19 +60,11 @@ ___
 
 • `Private` **\_\_tid\_MaterialQualityOverrides\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:50035](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50035)
-
 ___
 
 ### bDisableMaterialNormalCalculation
 
 • **bDisableMaterialNormalCalculation**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50028)
 
 ___
 
@@ -92,19 +72,11 @@ ___
 
 • **bDiscardQualityDuringCook**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:50022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50022)
-
 ___
 
 ### bEnableOverride
 
 • **bEnableOverride**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50023)
 
 ___
 
@@ -112,19 +84,11 @@ ___
 
 • **bForceDisableLMDirectionality**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:50026](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50026)
-
 ___
 
 ### bForceFullyRough
 
 • **bForceFullyRough**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50024)
 
 ___
 
@@ -132,19 +96,11 @@ ___
 
 • **bForceLQReflections**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:50027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50027)
-
 ___
 
 ### bForceNonMetal
 
 • **bForceNonMetal**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:50025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50025)
 
 ## Methods
 
@@ -160,10 +116,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:50033](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50033)
-
 ___
 
 ### StaticStruct
@@ -173,7 +125,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:50034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50034)

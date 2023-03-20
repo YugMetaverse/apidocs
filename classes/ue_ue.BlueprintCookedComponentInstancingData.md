@@ -27,10 +27,6 @@
 
 • **new BlueprintCookedComponentInstancingData**()
 
-#### Defined in
-
-[ue/ue.d.ts:4104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4104)
-
 • **new BlueprintCookedComponentInstancingData**(`ChangedPropertyList`, `bHasValidCookedData`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `ChangedPropertyList` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BlueprintComponentChangedPropertyInfo`](ue_ue.BlueprintComponentChangedPropertyInfo.md)\> |
 | `bHasValidCookedData` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:4105](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4105)
-
 ## Properties
 
 ### ChangedPropertyList
 
 • **ChangedPropertyList**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`BlueprintComponentChangedPropertyInfo`](ue_ue.BlueprintComponentChangedPropertyInfo.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:4106](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4106)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • `Private` **\_\_tid\_BlueprintCookedComponentInstancingData\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:4113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4113)
-
 ___
 
 ### bHasValidCookedData
 
 • **bHasValidCookedData**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4107](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4107)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4111)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4112)

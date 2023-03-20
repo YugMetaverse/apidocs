@@ -27,10 +27,6 @@
 
 • **new PoseDriverTransform**()
 
-#### Defined in
-
-[ue/ue.d.ts:19145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19145)
-
 • **new PoseDriverTransform**(`TargetTranslation`, `TargetRotation`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `TargetTranslation` | [`Vector`](ue_ue_s.Vector.md) |
 | `TargetRotation` | [`Rotator`](ue_ue_s.Rotator.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:19146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19146)
-
 ## Properties
 
 ### TargetRotation
 
 • **TargetRotation**: [`Rotator`](ue_ue_s.Rotator.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19148)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **TargetTranslation**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19147)
-
 ___
 
 ### \_\_tid\_PoseDriverTransform\_\_
 
 • `Private` **\_\_tid\_PoseDriverTransform\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:19154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19154)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19152)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19153)

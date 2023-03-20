@@ -30,10 +30,6 @@
 
 • **new ForceFeedbackChannelDetails**()
 
-#### Defined in
-
-[ue/ue.d.ts:8449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8449)
-
 • **new ForceFeedbackChannelDetails**(`bAffectsLeftLarge`, `bAffectsLeftSmall`, `bAffectsRightLarge`, `bAffectsRightSmall`, `Curve`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `bAffectsRightSmall` | `boolean` |
 | `Curve` | [`RuntimeFloatCurve`](ue_ue.RuntimeFloatCurve.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:8450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8450)
-
 ## Properties
 
 ### Curve
 
 • **Curve**: [`RuntimeFloatCurve`](ue_ue.RuntimeFloatCurve.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8455)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • `Private` **\_\_tid\_ForceFeedbackChannelDetails\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8461](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8461)
-
 ___
 
 ### bAffectsLeftLarge
 
 • **bAffectsLeftLarge**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8451)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **bAffectsLeftSmall**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8452)
-
 ___
 
 ### bAffectsRightLarge
 
 • **bAffectsRightLarge**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:8453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8453)
-
 ___
 
 ### bAffectsRightSmall
 
 • **bAffectsRightSmall**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:8454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8454)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:8459](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8459)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:8460](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8460)

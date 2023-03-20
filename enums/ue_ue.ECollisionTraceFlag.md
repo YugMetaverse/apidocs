@@ -21,19 +21,11 @@
 
 • **CTF\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3507)
-
 ___
 
 ### CTF\_UseComplexAsSimple
 
 • **CTF\_UseComplexAsSimple** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3507)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **CTF\_UseDefault** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3507)
-
 ___
 
 ### CTF\_UseSimpleAndComplex
 
 • **CTF\_UseSimpleAndComplex** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3507)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **CTF\_UseSimpleAsComplex** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3507)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3507)

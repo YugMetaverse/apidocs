@@ -25,19 +25,11 @@
 
 • **new FSlot**()
 
-#### Defined in
-
-[ue/ue_s.d.ts:708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L708)
-
 ## Properties
 
 ### \_\_tid\_FSlot\_\_
 
 • `Private` **\_\_tid\_FSlot\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L716)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L713)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L714)

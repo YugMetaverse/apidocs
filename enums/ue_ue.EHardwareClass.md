@@ -20,19 +20,11 @@
 
 • **Desktop** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33894)
-
 ___
 
 ### EHardwareClass\_MAX
 
 • **EHardwareClass\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33894)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Mobile** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33894)
-
 ___
 
 ### Unspecified
 
 • **Unspecified** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33894)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33894)

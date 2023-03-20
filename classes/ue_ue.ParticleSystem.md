@@ -101,19 +101,11 @@
 
 [FXSystemAsset](ue_ue.FXSystemAsset.md).[constructor](ue_ue.FXSystemAsset.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:7201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7201)
-
 ## Properties
 
 ### BackgroundColor
 
 • **BackgroundColor**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7224)
 
 ___
 
@@ -121,19 +113,11 @@ ___
 
 • **CurveEdSetup**: [`InterpCurveEdSetup`](ue_ue.InterpCurveEdSetup.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7211)
-
 ___
 
 ### CustomOcclusionBounds
 
 • **CustomOcclusionBounds**: [`Box`](ue_ue.Box.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7246)
 
 ___
 
@@ -141,19 +125,11 @@ ___
 
 • **Delay**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7225)
-
 ___
 
 ### DelayLow
 
 • **DelayLow**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7226)
 
 ___
 
@@ -161,19 +137,11 @@ ___
 
 • **EditorLODSetting**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7215)
-
 ___
 
 ### Emitters
 
 • **Emitters**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ParticleEmitter`](ue_ue.ParticleEmitter.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:7206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7206)
 
 ___
 
@@ -181,19 +149,11 @@ ___
 
 • **FixedRelativeBoundingBox**: [`Box`](ue_ue.Box.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7217)
-
 ___
 
 ### FloorMesh
 
 • **FloorMesh**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:7219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7219)
 
 ___
 
@@ -201,19 +161,11 @@ ___
 
 • **FloorPosition**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7220)
-
 ___
 
 ### FloorRotation
 
 • **FloorRotation**: [`Rotator`](ue_ue_s.Rotator.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7221)
 
 ___
 
@@ -221,19 +173,11 @@ ___
 
 • **FloorScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7222)
-
 ___
 
 ### FloorScale3D
 
 • **FloorScale3D**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7223)
 
 ___
 
@@ -241,19 +185,11 @@ ___
 
 • **InsignificanceDelay**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7244)
-
 ___
 
 ### InsignificantReaction
 
 • **InsignificantReaction**: [`EParticleSystemInsignificanceReaction`](../enums/ue_ue.EParticleSystemInsignificanceReaction.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7240)
 
 ___
 
@@ -261,19 +197,11 @@ ___
 
 • **LODDistanceCheckTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7212)
-
 ___
 
 ### LODDistances
 
 • **LODDistances**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:7214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7214)
 
 ___
 
@@ -281,19 +209,11 @@ ___
 
 • **LODMethod**: [`ParticleSystemLODMethod`](../enums/ue_ue.ParticleSystemLODMethod.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7239)
-
 ___
 
 ### LODSettings
 
 • **LODSettings**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ParticleSystemLOD`](ue_ue.ParticleSystemLOD.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:7216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7216)
 
 ___
 
@@ -301,19 +221,11 @@ ___
 
 • **MacroUVPosition**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7245)
-
 ___
 
 ### MacroUVRadius
 
 • **MacroUVRadius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7213)
 
 ___
 
@@ -325,19 +237,11 @@ ___
 
 [FXSystemAsset](ue_ue.FXSystemAsset.md).[MaxPoolSize](ue_ue.FXSystemAsset.md#maxpoolsize)
 
-#### Defined in
-
-[ue/ue.d.ts:6705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6705)
-
 ___
 
 ### MaxSignificanceLevel
 
 • **MaxSignificanceLevel**: [`EParticleSignificanceLevel`](../enums/ue_ue.EParticleSignificanceLevel.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7242)
 
 ___
 
@@ -345,19 +249,11 @@ ___
 
 • **MinTimeBetweenTicks**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7243)
-
 ___
 
 ### NamedMaterialSlots
 
 • **NamedMaterialSlots**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`NamedEmitterMaterial`](ue_ue.NamedEmitterMaterial.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:7248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7248)
 
 ___
 
@@ -365,19 +261,11 @@ ___
 
 • **OcclusionBoundsMethod**: [`EParticleSystemOcclusionBoundsMethod`](../enums/ue_ue.EParticleSystemOcclusionBoundsMethod.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7241)
-
 ___
 
 ### PreviewComponent
 
 • **PreviewComponent**: [`ParticleSystemComponent`](ue_ue.ParticleSystemComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7207)
 
 ___
 
@@ -385,19 +273,11 @@ ___
 
 • **SecondsBeforeInactive**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7218)
-
 ___
 
 ### SoloTracking
 
 • **SoloTracking**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`LODSoloTrack`](ue_ue.LODSoloTrack.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:7247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7247)
 
 ___
 
@@ -405,19 +285,11 @@ ___
 
 • **SystemUpdateMode**: [`EParticleSystemUpdateMode`](../enums/ue_ue.EParticleSystemUpdateMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7238)
-
 ___
 
 ### ThumbnailAngle
 
 • **ThumbnailAngle**: [`Rotator`](ue_ue_s.Rotator.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7208)
 
 ___
 
@@ -425,19 +297,11 @@ ___
 
 • **ThumbnailDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7209)
-
 ___
 
 ### ThumbnailImage
 
 • **ThumbnailImage**: [`Texture2D`](ue_ue.Texture2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7233)
 
 ___
 
@@ -445,19 +309,11 @@ ___
 
 • **ThumbnailImageOutOfDate**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:7232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7232)
-
 ___
 
 ### ThumbnailWarmup
 
 • **ThumbnailWarmup**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7210)
 
 ___
 
@@ -465,19 +321,11 @@ ___
 
 • **UpdateTime\_Delta**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7203)
-
 ___
 
 ### UpdateTime\_FPS
 
 • **UpdateTime\_FPS**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7202)
 
 ___
 
@@ -485,19 +333,11 @@ ___
 
 • **WarmupTickRate**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7205)
-
 ___
 
 ### WarmupTime
 
 • **WarmupTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7204)
 
 ___
 
@@ -509,10 +349,6 @@ ___
 
 [FXSystemAsset](ue_ue.FXSystemAsset.md).[__tid_FXSystemAsset__](ue_ue.FXSystemAsset.md#__tid_fxsystemasset__)
 
-#### Defined in
-
-[ue/ue.d.ts:6710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6710)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -523,19 +359,11 @@ ___
 
 [FXSystemAsset](ue_ue.FXSystemAsset.md).[__tid_Object__](ue_ue.FXSystemAsset.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ParticleSystem\_\_
 
 • **\_\_tid\_ParticleSystem\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7254)
 
 ___
 
@@ -543,19 +371,11 @@ ___
 
 • **bAllowManagedTicking**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:7235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7235)
-
 ___
 
 ### bAutoDeactivate
 
 • **bAutoDeactivate**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7236)
 
 ___
 
@@ -563,19 +383,11 @@ ___
 
 • **bHasPhysics**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:7230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7230)
-
 ___
 
 ### bOrientZAxisTowardCamera
 
 • **bOrientZAxisTowardCamera**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7227)
 
 ___
 
@@ -583,19 +395,11 @@ ___
 
 • **bRegenerateLODDuplicate**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:7237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7237)
-
 ___
 
 ### bShouldResetPeakCounts
 
 • **bShouldResetPeakCounts**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7229)
 
 ___
 
@@ -603,29 +407,17 @@ ___
 
 • **bUseDelayRange**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:7234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7234)
-
 ___
 
 ### bUseFixedRelativeBoundingBox
 
 • **bUseFixedRelativeBoundingBox**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:7228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7228)
-
 ___
 
 ### bUseRealtimeThumbnail
 
 • **bUseRealtimeThumbnail**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7231)
 
 ## Methods
 
@@ -642,10 +434,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7249)
 
 ___
 
@@ -671,10 +459,6 @@ ___
 
 [FXSystemAsset](ue_ue.FXSystemAsset.md).[CreateDefaultSubobject](ue_ue.FXSystemAsset.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -695,10 +479,6 @@ ___
 
 [FXSystemAsset](ue_ue.FXSystemAsset.md).[ExecuteUbergraph](ue_ue.FXSystemAsset.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -712,10 +492,6 @@ ___
 #### Inherited from
 
 [FXSystemAsset](ue_ue.FXSystemAsset.md).[GetClass](ue_ue.FXSystemAsset.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -731,10 +507,6 @@ ___
 
 [FXSystemAsset](ue_ue.FXSystemAsset.md).[GetName](ue_ue.FXSystemAsset.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -749,10 +521,6 @@ ___
 
 [FXSystemAsset](ue_ue.FXSystemAsset.md).[GetOuter](ue_ue.FXSystemAsset.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -766,10 +534,6 @@ ___
 #### Inherited from
 
 [FXSystemAsset](ue_ue.FXSystemAsset.md).[GetWorld](ue_ue.FXSystemAsset.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -792,10 +556,6 @@ ___
 
 [FXSystemAsset](ue_ue.FXSystemAsset.md).[Find](ue_ue.FXSystemAsset.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:7251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7251)
-
 ___
 
 ### Load
@@ -816,10 +576,6 @@ ___
 
 [FXSystemAsset](ue_ue.FXSystemAsset.md).[Load](ue_ue.FXSystemAsset.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:7252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7252)
-
 ___
 
 ### StaticClass
@@ -833,7 +589,3 @@ ___
 #### Overrides
 
 [FXSystemAsset](ue_ue.FXSystemAsset.md).[StaticClass](ue_ue.FXSystemAsset.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:7250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7250)

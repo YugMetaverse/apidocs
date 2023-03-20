@@ -89,10 +89,6 @@
 
 [SoundCue](ue_ue.SoundCue.md).[constructor](ue_ue.SoundCue.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:61205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61205)
-
 ## Properties
 
 ### AllNodes
@@ -102,10 +98,6 @@
 #### Inherited from
 
 [SoundCue](ue_ue.SoundCue.md).[AllNodes](ue_ue.SoundCue.md#allnodes)
-
-#### Defined in
-
-[ue/ue.d.ts:22414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22414)
 
 ___
 
@@ -117,10 +109,6 @@ ___
 
 [SoundCue](ue_ue.SoundCue.md).[AttenuationOverrides](ue_ue.SoundCue.md#attenuationoverrides)
 
-#### Defined in
-
-[ue/ue.d.ts:22413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22413)
-
 ___
 
 ### AttenuationSettings
@@ -130,10 +118,6 @@ ___
 #### Inherited from
 
 [SoundCue](ue_ue.SoundCue.md).[AttenuationSettings](ue_ue.SoundCue.md#attenuationsettings)
-
-#### Defined in
-
-[ue/ue.d.ts:9735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9735)
 
 ___
 
@@ -145,10 +129,6 @@ ___
 
 [SoundCue](ue_ue.SoundCue.md).[BusSends](ue_ue.SoundCue.md#bussends)
 
-#### Defined in
-
-[ue/ue.d.ts:9740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9740)
-
 ___
 
 ### ConcurrencyOverrides
@@ -158,10 +138,6 @@ ___
 #### Inherited from
 
 [SoundCue](ue_ue.SoundCue.md).[ConcurrencyOverrides](ue_ue.SoundCue.md#concurrencyoverrides)
-
-#### Defined in
-
-[ue/ue.d.ts:9729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9729)
 
 ___
 
@@ -173,10 +149,6 @@ ___
 
 [SoundCue](ue_ue.SoundCue.md).[ConcurrencySet](ue_ue.SoundCue.md#concurrencyset)
 
-#### Defined in
-
-[ue/ue.d.ts:9728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9728)
-
 ___
 
 ### Duration
@@ -186,10 +158,6 @@ ___
 #### Inherited from
 
 [SoundCue](ue_ue.SoundCue.md).[Duration](ue_ue.SoundCue.md#duration)
-
-#### Defined in
-
-[ue/ue.d.ts:9731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9731)
 
 ___
 
@@ -201,10 +169,6 @@ ___
 
 [SoundCue](ue_ue.SoundCue.md).[FirstNode](ue_ue.SoundCue.md#firstnode)
 
-#### Defined in
-
-[ue/ue.d.ts:22410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22410)
-
 ___
 
 ### MaxConcurrentPlayCount
@@ -214,10 +178,6 @@ ___
 #### Inherited from
 
 [SoundCue](ue_ue.SoundCue.md).[MaxConcurrentPlayCount](ue_ue.SoundCue.md#maxconcurrentplaycount)
-
-#### Defined in
-
-[ue/ue.d.ts:9730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9730)
 
 ___
 
@@ -229,10 +189,6 @@ ___
 
 [SoundCue](ue_ue.SoundCue.md).[MaxConcurrentResolutionRule](ue_ue.SoundCue.md#maxconcurrentresolutionrule)
 
-#### Defined in
-
-[ue/ue.d.ts:9726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9726)
-
 ___
 
 ### MaxDistance
@@ -242,10 +198,6 @@ ___
 #### Inherited from
 
 [SoundCue](ue_ue.SoundCue.md).[MaxDistance](ue_ue.SoundCue.md#maxdistance)
-
-#### Defined in
-
-[ue/ue.d.ts:9732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9732)
 
 ___
 
@@ -257,10 +209,6 @@ ___
 
 [SoundCue](ue_ue.SoundCue.md).[Modulation](ue_ue.SoundCue.md#modulation)
 
-#### Defined in
-
-[ue/ue.d.ts:9736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9736)
-
 ___
 
 ### PitchMultiplier
@@ -270,10 +218,6 @@ ___
 #### Inherited from
 
 [SoundCue](ue_ue.SoundCue.md).[PitchMultiplier](ue_ue.SoundCue.md#pitchmultiplier)
-
-#### Defined in
-
-[ue/ue.d.ts:22412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22412)
 
 ___
 
@@ -285,10 +229,6 @@ ___
 
 [SoundCue](ue_ue.SoundCue.md).[PreEffectBusSends](ue_ue.SoundCue.md#preeffectbussends)
 
-#### Defined in
-
-[ue/ue.d.ts:9741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9741)
-
 ___
 
 ### Priority
@@ -298,10 +238,6 @@ ___
 #### Inherited from
 
 [SoundCue](ue_ue.SoundCue.md).[Priority](ue_ue.SoundCue.md#priority)
-
-#### Defined in
-
-[ue/ue.d.ts:9734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9734)
 
 ___
 
@@ -313,10 +249,6 @@ ___
 
 [SoundCue](ue_ue.SoundCue.md).[SoundClassObject](ue_ue.SoundCue.md#soundclassobject)
 
-#### Defined in
-
-[ue/ue.d.ts:9717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9717)
-
 ___
 
 ### SoundConcurrencySettings
@@ -326,10 +258,6 @@ ___
 #### Inherited from
 
 [SoundCue](ue_ue.SoundCue.md).[SoundConcurrencySettings](ue_ue.SoundCue.md#soundconcurrencysettings)
-
-#### Defined in
-
-[ue/ue.d.ts:9727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9727)
 
 ___
 
@@ -341,10 +269,6 @@ ___
 
 [SoundCue](ue_ue.SoundCue.md).[SoundCueGraph](ue_ue.SoundCue.md#soundcuegraph)
 
-#### Defined in
-
-[ue/ue.d.ts:22415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22415)
-
 ___
 
 ### SoundSubmixObject
@@ -354,10 +278,6 @@ ___
 #### Inherited from
 
 [SoundCue](ue_ue.SoundCue.md).[SoundSubmixObject](ue_ue.SoundCue.md#soundsubmixobject)
-
-#### Defined in
-
-[ue/ue.d.ts:9737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9737)
 
 ___
 
@@ -369,10 +289,6 @@ ___
 
 [SoundCue](ue_ue.SoundCue.md).[SoundSubmixSends](ue_ue.SoundCue.md#soundsubmixsends)
 
-#### Defined in
-
-[ue/ue.d.ts:9738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9738)
-
 ___
 
 ### SourceEffectChain
@@ -382,10 +298,6 @@ ___
 #### Inherited from
 
 [SoundCue](ue_ue.SoundCue.md).[SourceEffectChain](ue_ue.SoundCue.md#sourceeffectchain)
-
-#### Defined in
-
-[ue/ue.d.ts:9739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9739)
 
 ___
 
@@ -397,10 +309,6 @@ ___
 
 [SoundCue](ue_ue.SoundCue.md).[SubtitlePriority](ue_ue.SoundCue.md#subtitlepriority)
 
-#### Defined in
-
-[ue/ue.d.ts:22416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22416)
-
 ___
 
 ### TotalSamples
@@ -410,10 +318,6 @@ ___
 #### Inherited from
 
 [SoundCue](ue_ue.SoundCue.md).[TotalSamples](ue_ue.SoundCue.md#totalsamples)
-
-#### Defined in
-
-[ue/ue.d.ts:9733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9733)
 
 ___
 
@@ -425,10 +329,6 @@ ___
 
 [SoundCue](ue_ue.SoundCue.md).[VirtualizationMode](ue_ue.SoundCue.md#virtualizationmode)
 
-#### Defined in
-
-[ue/ue.d.ts:9725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9725)
-
 ___
 
 ### VolumeMultiplier
@@ -438,10 +338,6 @@ ___
 #### Inherited from
 
 [SoundCue](ue_ue.SoundCue.md).[VolumeMultiplier](ue_ue.SoundCue.md#volumemultiplier)
-
-#### Defined in
-
-[ue/ue.d.ts:22411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22411)
 
 ___
 
@@ -453,10 +349,6 @@ ___
 
 [SoundCue](ue_ue.SoundCue.md).[__tid_Object__](ue_ue.SoundCue.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_SoundBase\_\_
@@ -467,19 +359,11 @@ ___
 
 [SoundCue](ue_ue.SoundCue.md).[__tid_SoundBase__](ue_ue.SoundCue.md#__tid_soundbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:9746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9746)
-
 ___
 
 ### \_\_tid\_SoundCueTemplate\_\_
 
 • **\_\_tid\_SoundCueTemplate\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:61210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61210)
 
 ___
 
@@ -491,10 +375,6 @@ ___
 
 [SoundCue](ue_ue.SoundCue.md).[__tid_SoundCue__](ue_ue.SoundCue.md#__tid_soundcue__)
 
-#### Defined in
-
-[ue/ue.d.ts:22424](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22424)
-
 ___
 
 ### bBypassVolumeScaleForPriority
@@ -504,10 +384,6 @@ ___
 #### Inherited from
 
 [SoundCue](ue_ue.SoundCue.md).[bBypassVolumeScaleForPriority](ue_ue.SoundCue.md#bbypassvolumescaleforpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:9724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9724)
 
 ___
 
@@ -519,10 +395,6 @@ ___
 
 [SoundCue](ue_ue.SoundCue.md).[bDebug](ue_ue.SoundCue.md#bdebug)
 
-#### Defined in
-
-[ue/ue.d.ts:9718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9718)
-
 ___
 
 ### bExcludeFromRandomNodeBranchCulling
@@ -532,10 +404,6 @@ ___
 #### Inherited from
 
 [SoundCue](ue_ue.SoundCue.md).[bExcludeFromRandomNodeBranchCulling](ue_ue.SoundCue.md#bexcludefromrandomnodebranchculling)
-
-#### Defined in
-
-[ue/ue.d.ts:22418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22418)
 
 ___
 
@@ -547,10 +415,6 @@ ___
 
 [SoundCue](ue_ue.SoundCue.md).[bHasConcatenatorNode](ue_ue.SoundCue.md#bhasconcatenatornode)
 
-#### Defined in
-
-[ue/ue.d.ts:9722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9722)
-
 ___
 
 ### bHasDelayNode
@@ -560,10 +424,6 @@ ___
 #### Inherited from
 
 [SoundCue](ue_ue.SoundCue.md).[bHasDelayNode](ue_ue.SoundCue.md#bhasdelaynode)
-
-#### Defined in
-
-[ue/ue.d.ts:9721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9721)
 
 ___
 
@@ -575,10 +435,6 @@ ___
 
 [SoundCue](ue_ue.SoundCue.md).[bHasPlayWhenSilent](ue_ue.SoundCue.md#bhasplaywhensilent)
 
-#### Defined in
-
-[ue/ue.d.ts:22419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22419)
-
 ___
 
 ### bHasVirtualizeWhenSilent
@@ -588,10 +444,6 @@ ___
 #### Inherited from
 
 [SoundCue](ue_ue.SoundCue.md).[bHasVirtualizeWhenSilent](ue_ue.SoundCue.md#bhasvirtualizewhensilent)
-
-#### Defined in
-
-[ue/ue.d.ts:9723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9723)
 
 ___
 
@@ -603,10 +455,6 @@ ___
 
 [SoundCue](ue_ue.SoundCue.md).[bOutputToBusOnly](ue_ue.SoundCue.md#boutputtobusonly)
 
-#### Defined in
-
-[ue/ue.d.ts:9720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9720)
-
 ___
 
 ### bOverrideAttenuation
@@ -616,10 +464,6 @@ ___
 #### Inherited from
 
 [SoundCue](ue_ue.SoundCue.md).[bOverrideAttenuation](ue_ue.SoundCue.md#boverrideattenuation)
-
-#### Defined in
-
-[ue/ue.d.ts:22417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22417)
 
 ___
 
@@ -631,10 +475,6 @@ ___
 
 [SoundCue](ue_ue.SoundCue.md).[bOverrideConcurrency](ue_ue.SoundCue.md#boverrideconcurrency)
 
-#### Defined in
-
-[ue/ue.d.ts:9719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9719)
-
 ___
 
 ### bPrimeOnLoad
@@ -644,10 +484,6 @@ ___
 #### Inherited from
 
 [SoundCue](ue_ue.SoundCue.md).[bPrimeOnLoad](ue_ue.SoundCue.md#bprimeonload)
-
-#### Defined in
-
-[ue/ue.d.ts:22409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22409)
 
 ## Methods
 
@@ -673,10 +509,6 @@ ___
 
 [SoundCue](ue_ue.SoundCue.md).[CreateDefaultSubobject](ue_ue.SoundCue.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -697,10 +529,6 @@ ___
 
 [SoundCue](ue_ue.SoundCue.md).[ExecuteUbergraph](ue_ue.SoundCue.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -714,10 +542,6 @@ ___
 #### Inherited from
 
 [SoundCue](ue_ue.SoundCue.md).[GetClass](ue_ue.SoundCue.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -733,10 +557,6 @@ ___
 
 [SoundCue](ue_ue.SoundCue.md).[GetName](ue_ue.SoundCue.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -751,10 +571,6 @@ ___
 
 [SoundCue](ue_ue.SoundCue.md).[GetOuter](ue_ue.SoundCue.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -768,10 +584,6 @@ ___
 #### Inherited from
 
 [SoundCue](ue_ue.SoundCue.md).[GetWorld](ue_ue.SoundCue.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -794,10 +606,6 @@ ___
 
 [SoundCue](ue_ue.SoundCue.md).[Find](ue_ue.SoundCue.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:61207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61207)
-
 ___
 
 ### Load
@@ -818,10 +626,6 @@ ___
 
 [SoundCue](ue_ue.SoundCue.md).[Load](ue_ue.SoundCue.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:61208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61208)
-
 ___
 
 ### StaticClass
@@ -835,7 +639,3 @@ ___
 #### Overrides
 
 [SoundCue](ue_ue.SoundCue.md).[StaticClass](ue_ue.SoundCue.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:61206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61206)

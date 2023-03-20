@@ -35,10 +35,6 @@
 
 • **new RBFParams**()
 
-#### Defined in
-
-[ue/ue.d.ts:19182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19182)
-
 • **new RBFParams**(`TargetDimensions`, `Radius`, `Function`, `DistanceMethod`, `TwistAxis`, `WeightThreshold`, `NormalizeMethod`, `MedianReference`, `MedianMin`, `MedianMax`)
 
 #### Parameters
@@ -56,19 +52,11 @@
 | `MedianMin` | `number` |
 | `MedianMax` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:19183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19183)
-
 ## Properties
 
 ### DistanceMethod
 
 • **DistanceMethod**: [`ERBFDistanceMethod`](../enums/ue_ue.ERBFDistanceMethod.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19187)
 
 ___
 
@@ -76,19 +64,11 @@ ___
 
 • **Function**: [`ERBFFunctionType`](../enums/ue_ue.ERBFFunctionType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19186)
-
 ___
 
 ### MedianMax
 
 • **MedianMax**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19193)
 
 ___
 
@@ -96,19 +76,11 @@ ___
 
 • **MedianMin**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19192)
-
 ___
 
 ### MedianReference
 
 • **MedianReference**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19191)
 
 ___
 
@@ -116,19 +88,11 @@ ___
 
 • **NormalizeMethod**: [`ERBFNormalizeMethod`](../enums/ue_ue.ERBFNormalizeMethod.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19190)
-
 ___
 
 ### Radius
 
 • **Radius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19185)
 
 ___
 
@@ -136,19 +100,11 @@ ___
 
 • **TargetDimensions**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19184)
-
 ___
 
 ### TwistAxis
 
 • **TwistAxis**: [`EBoneAxis`](../enums/ue_ue.EBoneAxis.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19188)
 
 ___
 
@@ -156,19 +112,11 @@ ___
 
 • **WeightThreshold**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:19189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19189)
-
 ___
 
 ### \_\_tid\_RBFParams\_\_
 
 • `Private` **\_\_tid\_RBFParams\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:19199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19199)
 
 ## Methods
 
@@ -184,10 +132,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19197)
-
 ___
 
 ### StaticStruct
@@ -197,7 +141,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:19198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19198)

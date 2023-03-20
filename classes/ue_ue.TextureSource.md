@@ -38,10 +38,6 @@
 
 • **new TextureSource**()
 
-#### Defined in
-
-[ue/ue.d.ts:423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L423)
-
 • **new TextureSource**(`Id`, `BaseBlockX`, `BaseBlockY`, `SizeX`, `SizeY`, `NumSlices`, `NumMips`, `NumLayers`, `bPNGCompressed`, `bGuidIsHash`, `Format`, `LayerFormat`, `Blocks`)
 
 #### Parameters
@@ -62,19 +58,11 @@
 | `LayerFormat` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ETextureSourceFormat`](../enums/ue_ue.ETextureSourceFormat.md)\> |
 | `Blocks` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`TextureSourceBlock`](ue_ue.TextureSourceBlock.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:424](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L424)
-
 ## Properties
 
 ### BaseBlockX
 
 • **BaseBlockX**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:426](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L426)
 
 ___
 
@@ -82,19 +70,11 @@ ___
 
 • **BaseBlockY**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L427)
-
 ___
 
 ### Blocks
 
 • **Blocks**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`TextureSourceBlock`](ue_ue.TextureSourceBlock.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L437)
 
 ___
 
@@ -102,19 +82,11 @@ ___
 
 • **Format**: [`ETextureSourceFormat`](../enums/ue_ue.ETextureSourceFormat.md)
 
-#### Defined in
-
-[ue/ue.d.ts:435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L435)
-
 ___
 
 ### Id
 
 • **Id**: [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue.d.ts:425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L425)
 
 ___
 
@@ -122,19 +94,11 @@ ___
 
 • **LayerFormat**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ETextureSourceFormat`](../enums/ue_ue.ETextureSourceFormat.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L436)
-
 ___
 
 ### NumLayers
 
 • **NumLayers**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L432)
 
 ___
 
@@ -142,19 +106,11 @@ ___
 
 • **NumMips**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:431](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L431)
-
 ___
 
 ### NumSlices
 
 • **NumSlices**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L430)
 
 ___
 
@@ -162,19 +118,11 @@ ___
 
 • **SizeX**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L428)
-
 ___
 
 ### SizeY
 
 • **SizeY**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L429)
 
 ___
 
@@ -182,29 +130,17 @@ ___
 
 • `Private` **\_\_tid\_TextureSource\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:443](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L443)
-
 ___
 
 ### bGuidIsHash
 
 • **bGuidIsHash**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L434)
-
 ___
 
 ### bPNGCompressed
 
 • **bPNGCompressed**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L433)
 
 ## Methods
 
@@ -220,10 +156,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:441](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L441)
-
 ___
 
 ### StaticStruct
@@ -233,7 +165,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:442](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L442)

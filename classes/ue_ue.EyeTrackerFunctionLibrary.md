@@ -57,10 +57,6 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[constructor](ue_ue.BlueprintFunctionLibrary.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:35085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35085)
-
 ## Properties
 
 ### \_\_tid\_BlueprintFunctionLibrary\_\_
@@ -71,19 +67,11 @@
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_BlueprintFunctionLibrary__](ue_ue.BlueprintFunctionLibrary.md#__tid_blueprintfunctionlibrary__)
 
-#### Defined in
-
-[ue/ue.d.ts:13418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13418)
-
 ___
 
 ### \_\_tid\_EyeTrackerFunctionLibrary\_\_
 
 • **\_\_tid\_EyeTrackerFunctionLibrary\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35095](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35095)
 
 ___
 
@@ -94,10 +82,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[__tid_Object__](ue_ue.BlueprintFunctionLibrary.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -123,10 +107,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[CreateDefaultSubobject](ue_ue.BlueprintFunctionLibrary.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -147,10 +127,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[ExecuteUbergraph](ue_ue.BlueprintFunctionLibrary.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -164,10 +140,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetClass](ue_ue.BlueprintFunctionLibrary.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -183,10 +155,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetName](ue_ue.BlueprintFunctionLibrary.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -201,10 +169,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetOuter](ue_ue.BlueprintFunctionLibrary.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -218,10 +182,6 @@ ___
 #### Inherited from
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[GetWorld](ue_ue.BlueprintFunctionLibrary.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -244,10 +204,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Find](ue_ue.BlueprintFunctionLibrary.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:35092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35092)
-
 ___
 
 ### GetGazeData
@@ -263,10 +219,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35086](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35086)
 
 ___
 
@@ -284,10 +236,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35087)
-
 ___
 
 ### IsEyeTrackerConnected
@@ -298,10 +246,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35088)
-
 ___
 
 ### IsStereoGazeDataAvailable
@@ -311,10 +255,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35089](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35089)
 
 ___
 
@@ -336,10 +276,6 @@ ___
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[Load](ue_ue.BlueprintFunctionLibrary.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:35093](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35093)
-
 ___
 
 ### SetEyeTrackedPlayer
@@ -356,10 +292,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:35090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35090)
-
 ___
 
 ### StaticClass
@@ -373,7 +305,3 @@ ___
 #### Overrides
 
 [BlueprintFunctionLibrary](ue_ue.BlueprintFunctionLibrary.md).[StaticClass](ue_ue.BlueprintFunctionLibrary.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:35091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35091)

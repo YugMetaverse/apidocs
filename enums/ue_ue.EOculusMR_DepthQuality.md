@@ -20,19 +20,11 @@
 
 • **DQ\_High** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34643)
-
 ___
 
 ### DQ\_Low
 
 • **DQ\_Low** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34643)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **DQ\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34643)
-
 ___
 
 ### DQ\_Medium
 
 • **DQ\_Medium** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34643)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34643)

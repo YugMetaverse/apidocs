@@ -25,19 +25,11 @@
 
 • **AlreadyOwned** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33903)
-
 ___
 
 ### Cancelled
 
 • **Cancelled** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33903)
 
 ___
 
@@ -45,19 +37,11 @@ ___
 
 • **EInAppPurchaseState\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33903)
-
 ___
 
 ### Failed
 
 • **Failed** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33903)
 
 ___
 
@@ -65,19 +49,11 @@ ___
 
 • **Invalid** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33903)
-
 ___
 
 ### NotAllowed
 
 • **NotAllowed** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33903)
 
 ___
 
@@ -85,19 +61,11 @@ ___
 
 • **Restored** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33903)
-
 ___
 
 ### Success
 
 • **Success** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33903)
 
 ___
 
@@ -105,16 +73,8 @@ ___
 
 • **Unknown** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33903)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33903)

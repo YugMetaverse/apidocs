@@ -25,19 +25,11 @@
 
 • **new FavoritedBlueprintPaletteItem**()
 
-#### Defined in
-
-[ue/ue.d.ts:24196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24196)
-
 ## Properties
 
 ### \_\_tid\_FavoritedBlueprintPaletteItem\_\_
 
 • `Private` **\_\_tid\_FavoritedBlueprintPaletteItem\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:24202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24202)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:24200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24200)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:24201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24201)

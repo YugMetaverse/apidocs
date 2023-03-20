@@ -20,19 +20,11 @@
 
 • **Clear** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33969)
-
 ___
 
 ### ConflictsPresent
 
 • **ConflictsPresent** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33969)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **ELocalizationTargetConflictStatus\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33969)
-
 ___
 
 ### Unknown
 
 • **Unknown** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33969)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33969)

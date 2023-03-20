@@ -28,10 +28,6 @@
 
 • **new ARPose2D**()
 
-#### Defined in
-
-[ue/ue.d.ts:21084](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21084)
-
 • **new ARPose2D**(`SkeletonDefinition`, `JointLocations`, `IsJointTracked`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `JointLocations` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Vector2D`](ue_ue_s.Vector2D.md)\> |
 | `IsJointTracked` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`boolean`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:21085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21085)
-
 ## Properties
 
 ### IsJointTracked
 
 • **IsJointTracked**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`boolean`\>
-
-#### Defined in
-
-[ue/ue.d.ts:21088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21088)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **JointLocations**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Vector2D`](ue_ue_s.Vector2D.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:21087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21087)
-
 ___
 
 ### SkeletonDefinition
 
 • **SkeletonDefinition**: [`ARSkeletonDefinition`](ue_ue.ARSkeletonDefinition.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21086](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21086)
-
 ___
 
 ### \_\_tid\_ARPose2D\_\_
 
 • `Private` **\_\_tid\_ARPose2D\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21094](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21094)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21092)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:21093](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21093)

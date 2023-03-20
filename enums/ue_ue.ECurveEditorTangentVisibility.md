@@ -20,19 +20,11 @@
 
 • **AllTangents** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29151)
-
 ___
 
 ### ECurveEditorTangentVisibility\_MAX
 
 • **ECurveEditorTangentVisibility\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29151)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **NoTangents** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29151)
-
 ___
 
 ### SelectedKeys
 
 • **SelectedKeys** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29151)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29151)

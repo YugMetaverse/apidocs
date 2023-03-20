@@ -27,10 +27,6 @@
 
 • **new AbcMaterialSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:94](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L94)
-
 • **new AbcMaterialSettings**(`bCreateMaterials`, `bFindMaterials`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `bCreateMaterials` | `boolean` |
 | `bFindMaterials` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:95](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L95)
-
 ## Properties
 
 ### \_\_tid\_AbcMaterialSettings\_\_
 
 • `Private` **\_\_tid\_AbcMaterialSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L103)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **bCreateMaterials**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:96](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L96)
-
 ___
 
 ### bFindMaterials
 
 • **bFindMaterials**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:97](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L97)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L101)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L102)

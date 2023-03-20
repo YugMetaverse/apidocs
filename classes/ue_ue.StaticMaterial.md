@@ -29,10 +29,6 @@
 
 • **new StaticMaterial**()
 
-#### Defined in
-
-[ue/ue.d.ts:7835](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7835)
-
 • **new StaticMaterial**(`MaterialInterface`, `MaterialSlotName`, `ImportedMaterialSlotName`, `UVChannelData`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `ImportedMaterialSlotName` | `string` |
 | `UVChannelData` | [`MeshUVChannelInfo`](ue_ue.MeshUVChannelInfo.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:7836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7836)
-
 ## Properties
 
 ### ImportedMaterialSlotName
 
 • **ImportedMaterialSlotName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:7839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7839)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **MaterialInterface**: [`MaterialInterface`](ue_ue.MaterialInterface.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7837)
-
 ___
 
 ### MaterialSlotName
 
 • **MaterialSlotName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:7838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7838)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **UVChannelData**: [`MeshUVChannelInfo`](ue_ue.MeshUVChannelInfo.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7840)
-
 ___
 
 ### \_\_tid\_StaticMaterial\_\_
 
 • `Private` **\_\_tid\_StaticMaterial\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7846)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7844)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7845](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7845)

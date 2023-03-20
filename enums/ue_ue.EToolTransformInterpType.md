@@ -24,19 +24,11 @@
 
 • **CircularIn** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34840)
-
 ___
 
 ### CircularOut
 
 • **CircularOut** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34840)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **Cubic** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34840)
-
 ___
 
 ### EToolTransformInterpType\_MAX
 
 • **EToolTransformInterpType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34840)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **ExpIn** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34840)
-
 ___
 
 ### ExpOut
 
 • **ExpOut** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34840)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **Linear** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34840)
-
 ___
 
 ### Sinusoidal
 
 • **Sinusoidal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34840)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34840)

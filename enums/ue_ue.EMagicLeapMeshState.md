@@ -21,19 +21,11 @@
 
 • **Deleted** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34009)
-
 ___
 
 ### EMagicLeapMeshState\_MAX
 
 • **EMagicLeapMeshState\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34009)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **New** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34009)
-
 ___
 
 ### Unchanged
 
 • **Unchanged** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34009)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Updated** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34009)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34009)

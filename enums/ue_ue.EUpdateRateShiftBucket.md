@@ -24,19 +24,11 @@
 
 • **EUpdateRateShiftBucket\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34860)
-
 ___
 
 ### ShiftBucket0
 
 • **ShiftBucket0** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34860)
 
 ___
 
@@ -44,19 +36,11 @@ ___
 
 • **ShiftBucket1** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34860)
-
 ___
 
 ### ShiftBucket2
 
 • **ShiftBucket2** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34860)
 
 ___
 
@@ -64,19 +48,11 @@ ___
 
 • **ShiftBucket3** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34860)
-
 ___
 
 ### ShiftBucket4
 
 • **ShiftBucket4** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34860)
 
 ___
 
@@ -84,26 +60,14 @@ ___
 
 • **ShiftBucket5** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34860)
-
 ___
 
 ### ShiftBucketMax
 
 • **ShiftBucketMax** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34860)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34860)

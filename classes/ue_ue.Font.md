@@ -67,19 +67,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:1971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1971)
-
 ## Properties
 
 ### Ascent
 
 • **Ascent**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1977)
 
 ___
 
@@ -87,19 +79,11 @@ ___
 
 • **Characters**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`FontCharacter`](ue_ue.FontCharacter.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:1973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1973)
-
 ___
 
 ### CompositeFont
 
 • **CompositeFont**: [`CompositeFont`](ue_ue.CompositeFont.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1987)
 
 ___
 
@@ -107,19 +91,11 @@ ___
 
 • **Descent**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1978)
-
 ___
 
 ### EmScale
 
 • **EmScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1976)
 
 ___
 
@@ -127,19 +103,11 @@ ___
 
 • **FontCacheType**: [`EFontCacheType`](../enums/ue_ue.EFontCacheType.md)
 
-#### Defined in
-
-[ue/ue.d.ts:1972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1972)
-
 ___
 
 ### ImportOptions
 
 • **ImportOptions**: [`FontImportOptionsData`](ue_ue.FontImportOptionsData.md)
-
-#### Defined in
-
-[ue/ue.d.ts:1981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1981)
 
 ___
 
@@ -147,19 +115,11 @@ ___
 
 • **IsRemapped**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1975](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1975)
-
 ___
 
 ### Kerning
 
 • **Kerning**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1980)
 
 ___
 
@@ -167,19 +127,11 @@ ___
 
 • **Leading**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1979)
-
 ___
 
 ### LegacyFontName
 
 • **LegacyFontName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:1986](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1986)
 
 ___
 
@@ -187,19 +139,11 @@ ___
 
 • **LegacyFontSize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1985)
-
 ___
 
 ### MaxCharHeight
 
 • **MaxCharHeight**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
-
-#### Defined in
-
-[ue/ue.d.ts:1983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1983)
 
 ___
 
@@ -207,19 +151,11 @@ ___
 
 • **NumCharacters**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1982)
-
 ___
 
 ### ScalingFactor
 
 • **ScalingFactor**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1984)
 
 ___
 
@@ -227,19 +163,11 @@ ___
 
 • **Textures**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Texture2D`](ue_ue.Texture2D.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:1974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1974)
-
 ___
 
 ### \_\_tid\_Font\_\_
 
 • **\_\_tid\_Font\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:1992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1992)
 
 ___
 
@@ -250,10 +178,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -279,10 +203,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -303,10 +223,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -320,10 +236,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -339,10 +251,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -357,10 +265,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -374,10 +278,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -400,10 +300,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:1989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1989)
-
 ___
 
 ### Load
@@ -424,10 +320,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:1990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1990)
-
 ___
 
 ### StaticClass
@@ -441,7 +333,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:1988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1988)

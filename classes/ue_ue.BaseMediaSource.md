@@ -68,19 +68,11 @@
 
 [MediaSource](ue_ue.MediaSource.md).[constructor](ue_ue.MediaSource.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:23506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23506)
-
 ## Properties
 
 ### PlatformPlayerNames
 
 • **PlatformPlayerNames**: [`TMap`](../interfaces/ue_puerts.TMap.md)<`string`, `string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:23507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23507)
 
 ___
 
@@ -88,19 +80,11 @@ ___
 
 • **PlayerName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:23508](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23508)
-
 ___
 
 ### \_\_tid\_BaseMediaSource\_\_
 
 • **\_\_tid\_BaseMediaSource\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:23513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23513)
 
 ___
 
@@ -112,10 +96,6 @@ ___
 
 [MediaSource](ue_ue.MediaSource.md).[__tid_MediaSource__](ue_ue.MediaSource.md#__tid_mediasource__)
 
-#### Defined in
-
-[ue/ue.d.ts:23502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23502)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -125,10 +105,6 @@ ___
 #### Inherited from
 
 [MediaSource](ue_ue.MediaSource.md).[__tid_Object__](ue_ue.MediaSource.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -154,10 +130,6 @@ ___
 
 [MediaSource](ue_ue.MediaSource.md).[CreateDefaultSubobject](ue_ue.MediaSource.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -178,10 +150,6 @@ ___
 
 [MediaSource](ue_ue.MediaSource.md).[ExecuteUbergraph](ue_ue.MediaSource.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -195,10 +163,6 @@ ___
 #### Inherited from
 
 [MediaSource](ue_ue.MediaSource.md).[GetClass](ue_ue.MediaSource.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -214,10 +178,6 @@ ___
 
 [MediaSource](ue_ue.MediaSource.md).[GetName](ue_ue.MediaSource.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -231,10 +191,6 @@ ___
 #### Inherited from
 
 [MediaSource](ue_ue.MediaSource.md).[GetOuter](ue_ue.MediaSource.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -250,10 +206,6 @@ ___
 
 [MediaSource](ue_ue.MediaSource.md).[GetUrl](ue_ue.MediaSource.md#geturl)
 
-#### Defined in
-
-[ue/ue.d.ts:23492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23492)
-
 ___
 
 ### GetWorld
@@ -267,10 +219,6 @@ ___
 #### Inherited from
 
 [MediaSource](ue_ue.MediaSource.md).[GetWorld](ue_ue.MediaSource.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -293,10 +241,6 @@ ___
 
 [MediaSource](ue_ue.MediaSource.md).[SetMediaOptionBool](ue_ue.MediaSource.md#setmediaoptionbool)
 
-#### Defined in
-
-[ue/ue.d.ts:23493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23493)
-
 ___
 
 ### SetMediaOptionFloat
@@ -317,10 +261,6 @@ ___
 #### Inherited from
 
 [MediaSource](ue_ue.MediaSource.md).[SetMediaOptionFloat](ue_ue.MediaSource.md#setmediaoptionfloat)
-
-#### Defined in
-
-[ue/ue.d.ts:23494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23494)
 
 ___
 
@@ -343,10 +283,6 @@ ___
 
 [MediaSource](ue_ue.MediaSource.md).[SetMediaOptionInt64](ue_ue.MediaSource.md#setmediaoptionint64)
 
-#### Defined in
-
-[ue/ue.d.ts:23495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23495)
-
 ___
 
 ### SetMediaOptionString
@@ -368,10 +304,6 @@ ___
 
 [MediaSource](ue_ue.MediaSource.md).[SetMediaOptionString](ue_ue.MediaSource.md#setmediaoptionstring)
 
-#### Defined in
-
-[ue/ue.d.ts:23496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23496)
-
 ___
 
 ### Validate
@@ -385,10 +317,6 @@ ___
 #### Inherited from
 
 [MediaSource](ue_ue.MediaSource.md).[Validate](ue_ue.MediaSource.md#validate)
-
-#### Defined in
-
-[ue/ue.d.ts:23497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23497)
 
 ___
 
@@ -411,10 +339,6 @@ ___
 
 [MediaSource](ue_ue.MediaSource.md).[Find](ue_ue.MediaSource.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:23510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23510)
-
 ___
 
 ### Load
@@ -435,10 +359,6 @@ ___
 
 [MediaSource](ue_ue.MediaSource.md).[Load](ue_ue.MediaSource.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:23511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23511)
-
 ___
 
 ### StaticClass
@@ -452,7 +372,3 @@ ___
 #### Overrides
 
 [MediaSource](ue_ue.MediaSource.md).[StaticClass](ue_ue.MediaSource.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:23509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23509)

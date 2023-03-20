@@ -63,19 +63,11 @@
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[constructor](ue_ue.DeveloperSettings.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:33239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33239)
-
 ## Properties
 
 ### AngleUnits
 
 • **AngleUnits**: [`EUnit`](../enums/ue_ue.EUnit.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33245)
 
 ___
 
@@ -83,19 +75,11 @@ ___
 
 • **DefaultInputUnits**: [`EDefaultLocationUnit`](../enums/ue_ue.EDefaultLocationUnit.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33250)
-
 ___
 
 ### DistanceUnits
 
 • **DistanceUnits**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`EUnit`](../enums/ue_ue.EUnit.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:33242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33242)
 
 ___
 
@@ -103,19 +87,11 @@ ___
 
 • **ForceUnits**: [`EUnit`](../enums/ue_ue.EUnit.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33248)
-
 ___
 
 ### MassUnits
 
 • **MassUnits**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`EUnit`](../enums/ue_ue.EUnit.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:33243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33243)
 
 ___
 
@@ -123,19 +99,11 @@ ___
 
 • **SpeedUnits**: [`EUnit`](../enums/ue_ue.EUnit.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33246)
-
 ___
 
 ### TemperatureUnits
 
 • **TemperatureUnits**: [`EUnit`](../enums/ue_ue.EUnit.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33247)
 
 ___
 
@@ -143,19 +111,11 @@ ___
 
 • **TimeUnits**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`EUnit`](../enums/ue_ue.EUnit.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:33244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33244)
-
 ___
 
 ### UnitDisplay
 
 • **UnitDisplay**: [`EUnitDisplay`](../enums/ue_ue.EUnitDisplay.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33249)
 
 ___
 
@@ -167,19 +127,11 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[__tid_DeveloperSettings__](ue_ue.DeveloperSettings.md#__tid_developersettings__)
 
-#### Defined in
-
-[ue/ue.d.ts:16950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16950)
-
 ___
 
 ### \_\_tid\_EditorProjectAppearanceSettings\_\_
 
 • **\_\_tid\_EditorProjectAppearanceSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33255)
 
 ___
 
@@ -191,29 +143,17 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[__tid_Object__](ue_ue.DeveloperSettings.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bDisplayUnits
 
 • **bDisplayUnits**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:33240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33240)
-
 ___
 
 ### bDisplayUnitsOnComponentTransforms
 
 • **bDisplayUnitsOnComponentTransforms**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33241)
 
 ## Methods
 
@@ -239,10 +179,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[CreateDefaultSubobject](ue_ue.DeveloperSettings.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -263,10 +199,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[ExecuteUbergraph](ue_ue.DeveloperSettings.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -280,10 +212,6 @@ ___
 #### Inherited from
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetClass](ue_ue.DeveloperSettings.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -299,10 +227,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetName](ue_ue.DeveloperSettings.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -317,10 +241,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetOuter](ue_ue.DeveloperSettings.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -334,10 +254,6 @@ ___
 #### Inherited from
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetWorld](ue_ue.DeveloperSettings.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -360,10 +276,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[Find](ue_ue.DeveloperSettings.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:33252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33252)
-
 ___
 
 ### Load
@@ -384,10 +296,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[Load](ue_ue.DeveloperSettings.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:33253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33253)
-
 ___
 
 ### StaticClass
@@ -401,7 +309,3 @@ ___
 #### Overrides
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[StaticClass](ue_ue.DeveloperSettings.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:33251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33251)

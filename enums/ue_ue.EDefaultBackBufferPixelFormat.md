@@ -22,19 +22,11 @@
 
 • **DBBPF\_A16B16G16R16\_DEPRECATED** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31432)
-
 ___
 
 ### DBBPF\_A2B10G10R10
 
 • **DBBPF\_A2B10G10R10** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31432)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **DBBPF\_B8G8R8A8** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31432)
-
 ___
 
 ### DBBPF\_FloatRGBA
 
 • **DBBPF\_FloatRGBA** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31432)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **DBBPF\_FloatRGB\_DEPRECATED** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31432)
-
 ___
 
 ### DBBPF\_MAX
 
 • **DBBPF\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31432)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31432)

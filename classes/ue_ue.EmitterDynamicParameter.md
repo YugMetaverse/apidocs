@@ -31,10 +31,6 @@
 
 • **new EmitterDynamicParameter**()
 
-#### Defined in
-
-[ue/ue.d.ts:56111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56111)
-
 • **new EmitterDynamicParameter**(`ParamName`, `bUseEmitterTime`, `bSpawnTimeOnly`, `ValueMethod`, `bScaleVelocityByParamValue`, `ParamValue`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `bScaleVelocityByParamValue` | `boolean` |
 | `ParamValue` | [`RawDistributionFloat`](ue_ue.RawDistributionFloat.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:56112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56112)
-
 ## Properties
 
 ### ParamName
 
 • **ParamName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:56113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56113)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **ParamValue**: [`RawDistributionFloat`](ue_ue.RawDistributionFloat.md)
 
-#### Defined in
-
-[ue/ue.d.ts:56118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56118)
-
 ___
 
 ### ValueMethod
 
 • **ValueMethod**: [`EEmitterDynamicParameterValue`](../enums/ue_ue.EEmitterDynamicParameterValue.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56116)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • `Private` **\_\_tid\_EmitterDynamicParameter\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:56124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56124)
-
 ___
 
 ### bScaleVelocityByParamValue
 
 • **bScaleVelocityByParamValue**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:56117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56117)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **bSpawnTimeOnly**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:56115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56115)
-
 ___
 
 ### bUseEmitterTime
 
 • **bUseEmitterTime**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:56114](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56114)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:56122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56122)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:56123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56123)

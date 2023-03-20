@@ -20,19 +20,11 @@
 
 • **Alphabetical** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33931)
-
 ___
 
 ### Default
 
 • **Default** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33931)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **ELandscapeLayerDisplayMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33931)
-
 ___
 
 ### UserSpecific
 
 • **UserSpecific** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33931)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33931)

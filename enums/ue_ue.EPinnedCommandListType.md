@@ -19,19 +19,11 @@
 
 • **Command** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34677)
-
 ___
 
 ### CustomWidget
 
 • **CustomWidget** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34677)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **EPinnedCommandListType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34677)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34677)

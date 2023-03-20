@@ -30,10 +30,6 @@
 
 • **new UpdateLevelStreamingLevelStatus**()
 
-#### Defined in
-
-[ue/ue.d.ts:12235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12235)
-
 • **new UpdateLevelStreamingLevelStatus**(`PackageName`, `LODIndex`, `bNewShouldBeLoaded`, `bNewShouldBeVisible`, `bNewShouldBlockOnLoad`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `bNewShouldBeVisible` | `boolean` |
 | `bNewShouldBlockOnLoad` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:12236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12236)
-
 ## Properties
 
 ### LODIndex
 
 • **LODIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12238)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **PackageName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:12237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12237)
-
 ___
 
 ### \_\_tid\_UpdateLevelStreamingLevelStatus\_\_
 
 • `Private` **\_\_tid\_UpdateLevelStreamingLevelStatus\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:12247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12247)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **bNewShouldBeLoaded**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:12239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12239)
-
 ___
 
 ### bNewShouldBeVisible
 
 • **bNewShouldBeVisible**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:12240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12240)
-
 ___
 
 ### bNewShouldBlockOnLoad
 
 • **bNewShouldBlockOnLoad**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:12241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12241)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:12245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12245)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:12246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12246)

@@ -162,10 +162,6 @@
 
 [Widget](ue_ue.Widget.md).[constructor](ue_ue.Widget.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:27394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27394)
-
 ## Properties
 
 ### AccessibleBehavior
@@ -175,10 +171,6 @@
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[AccessibleBehavior](ue_ue.Widget.md#accessiblebehavior)
-
-#### Defined in
-
-[ue/ue.d.ts:10940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10940)
 
 ___
 
@@ -190,10 +182,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[AccessibleSummaryBehavior](ue_ue.Widget.md#accessiblesummarybehavior)
 
-#### Defined in
-
-[ue/ue.d.ts:10941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10941)
-
 ___
 
 ### AccessibleSummaryText
@@ -203,10 +191,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[AccessibleSummaryText](ue_ue.Widget.md#accessiblesummarytext)
-
-#### Defined in
-
-[ue/ue.d.ts:10944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10944)
 
 ___
 
@@ -218,10 +202,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[AccessibleSummaryTextDelegate](ue_ue.Widget.md#accessiblesummarytextdelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10945)
-
 ___
 
 ### AccessibleText
@@ -231,10 +211,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[AccessibleText](ue_ue.Widget.md#accessibletext)
-
-#### Defined in
-
-[ue/ue.d.ts:10942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10942)
 
 ___
 
@@ -246,10 +222,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[AccessibleTextDelegate](ue_ue.Widget.md#accessibletextdelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10943)
-
 ___
 
 ### AccessibleWidgetData
@@ -259,10 +231,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[AccessibleWidgetData](ue_ue.Widget.md#accessiblewidgetdata)
-
-#### Defined in
-
-[ue/ue.d.ts:10946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10946)
 
 ___
 
@@ -274,10 +242,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[CategoryName](ue_ue.Widget.md#categoryname)
 
-#### Defined in
-
-[ue/ue.d.ts:10960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10960)
-
 ___
 
 ### Clipping
@@ -287,10 +251,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[Clipping](ue_ue.Widget.md#clipping)
-
-#### Defined in
-
-[ue/ue.d.ts:10952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10952)
 
 ___
 
@@ -302,10 +262,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[Cursor](ue_ue.Widget.md#cursor)
 
-#### Defined in
-
-[ue/ue.d.ts:10951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10951)
-
 ___
 
 ### DesignerFlags
@@ -315,10 +271,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[DesignerFlags](ue_ue.Widget.md#designerflags)
-
-#### Defined in
-
-[ue/ue.d.ts:10958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10958)
 
 ___
 
@@ -330,10 +282,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[DisplayLabel](ue_ue.Widget.md#displaylabel)
 
-#### Defined in
-
-[ue/ue.d.ts:10959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10959)
-
 ___
 
 ### FlowDirectionPreference
@@ -344,19 +292,11 @@ ___
 
 [Widget](ue_ue.Widget.md).[FlowDirectionPreference](ue_ue.Widget.md#flowdirectionpreference)
 
-#### Defined in
-
-[ue/ue.d.ts:10956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10956)
-
 ___
 
 ### Image
 
 • **Image**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:27399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27399)
 
 ___
 
@@ -368,10 +308,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[NativeBindings](ue_ue.Widget.md#nativebindings)
 
-#### Defined in
-
-[ue/ue.d.ts:10957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10957)
-
 ___
 
 ### Navigation
@@ -382,19 +318,11 @@ ___
 
 [Widget](ue_ue.Widget.md).[Navigation](ue_ue.Widget.md#navigation)
 
-#### Defined in
-
-[ue/ue.d.ts:10955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10955)
-
 ___
 
 ### NumberOfPieces
 
 • **NumberOfPieces**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27395)
 
 ___
 
@@ -402,29 +330,17 @@ ___
 
 • **Period**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:27396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27396)
-
 ___
 
 ### PieceImage
 
 • **PieceImage**: [`SlateBrushAsset`](ue_ue.SlateBrushAsset.md)
 
-#### Defined in
-
-[ue/ue.d.ts:27398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27398)
-
 ___
 
 ### Radius
 
 • **Radius**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:27397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27397)
 
 ___
 
@@ -436,10 +352,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[RenderOpacity](ue_ue.Widget.md#renderopacity)
 
-#### Defined in
-
-[ue/ue.d.ts:10954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10954)
-
 ___
 
 ### RenderTransform
@@ -449,10 +361,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[RenderTransform](ue_ue.Widget.md#rendertransform)
-
-#### Defined in
-
-[ue/ue.d.ts:10932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10932)
 
 ___
 
@@ -464,10 +372,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[RenderTransformPivot](ue_ue.Widget.md#rendertransformpivot)
 
-#### Defined in
-
-[ue/ue.d.ts:10933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10933)
-
 ___
 
 ### Slot
@@ -477,10 +381,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[Slot](ue_ue.Widget.md#slot)
-
-#### Defined in
-
-[ue/ue.d.ts:10925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10925)
 
 ___
 
@@ -492,10 +392,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[ToolTipText](ue_ue.Widget.md#tooltiptext)
 
-#### Defined in
-
-[ue/ue.d.ts:10927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10927)
-
 ___
 
 ### ToolTipTextDelegate
@@ -505,10 +401,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[ToolTipTextDelegate](ue_ue.Widget.md#tooltiptextdelegate)
-
-#### Defined in
-
-[ue/ue.d.ts:10928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10928)
 
 ___
 
@@ -520,10 +412,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[ToolTipWidget](ue_ue.Widget.md#tooltipwidget)
 
-#### Defined in
-
-[ue/ue.d.ts:10929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10929)
-
 ___
 
 ### ToolTipWidgetDelegate
@@ -533,10 +421,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[ToolTipWidgetDelegate](ue_ue.Widget.md#tooltipwidgetdelegate)
-
-#### Defined in
-
-[ue/ue.d.ts:10930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10930)
 
 ___
 
@@ -548,10 +432,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[Visibility](ue_ue.Widget.md#visibility)
 
-#### Defined in
-
-[ue/ue.d.ts:10953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10953)
-
 ___
 
 ### VisibilityDelegate
@@ -562,19 +442,11 @@ ___
 
 [Widget](ue_ue.Widget.md).[VisibilityDelegate](ue_ue.Widget.md#visibilitydelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10931)
-
 ___
 
 ### \_\_tid\_CircularThrobber\_\_
 
 • **\_\_tid\_CircularThrobber\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27408)
 
 ___
 
@@ -586,10 +458,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[__tid_Object__](ue_ue.Widget.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_Visual\_\_
@@ -599,10 +467,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[__tid_Visual__](ue_ue.Widget.md#__tid_visual__)
-
-#### Defined in
-
-[ue/ue.d.ts:10673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10673)
 
 ___
 
@@ -614,10 +478,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[__tid_Widget__](ue_ue.Widget.md#__tid_widget__)
 
-#### Defined in
-
-[ue/ue.d.ts:11029](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11029)
-
 ___
 
 ### bCanChildrenBeAccessible
@@ -627,10 +487,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[bCanChildrenBeAccessible](ue_ue.Widget.md#bcanchildrenbeaccessible)
-
-#### Defined in
-
-[ue/ue.d.ts:10939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10939)
 
 ___
 
@@ -642,19 +498,11 @@ ___
 
 [Widget](ue_ue.Widget.md).[bCreatedByConstructionScript](ue_ue.Widget.md#bcreatedbyconstructionscript)
 
-#### Defined in
-
-[ue/ue.d.ts:10935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10935)
-
 ___
 
 ### bEnableRadius
 
 • **bEnableRadius**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:27400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27400)
 
 ___
 
@@ -666,10 +514,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[bExpandedInDesigner](ue_ue.Widget.md#bexpandedindesigner)
 
-#### Defined in
-
-[ue/ue.d.ts:10949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10949)
-
 ___
 
 ### bHiddenInDesigner
@@ -679,10 +523,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[bHiddenInDesigner](ue_ue.Widget.md#bhiddenindesigner)
-
-#### Defined in
-
-[ue/ue.d.ts:10948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10948)
 
 ___
 
@@ -694,10 +534,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[bIsEnabled](ue_ue.Widget.md#bisenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:10936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10936)
-
 ___
 
 ### bIsEnabledDelegate
@@ -707,10 +543,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[bIsEnabledDelegate](ue_ue.Widget.md#bisenableddelegate)
-
-#### Defined in
-
-[ue/ue.d.ts:10926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10926)
 
 ___
 
@@ -722,10 +554,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[bIsVariable](ue_ue.Widget.md#bisvariable)
 
-#### Defined in
-
-[ue/ue.d.ts:10934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10934)
-
 ___
 
 ### bIsVolatile
@@ -735,10 +563,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[bIsVolatile](ue_ue.Widget.md#bisvolatile)
-
-#### Defined in
-
-[ue/ue.d.ts:10947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10947)
 
 ___
 
@@ -750,10 +574,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[bLockedInDesigner](ue_ue.Widget.md#blockedindesigner)
 
-#### Defined in
-
-[ue/ue.d.ts:10950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10950)
-
 ___
 
 ### bOverrideAccessibleDefaults
@@ -764,10 +584,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[bOverrideAccessibleDefaults](ue_ue.Widget.md#boverrideaccessibledefaults)
 
-#### Defined in
-
-[ue/ue.d.ts:10938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10938)
-
 ___
 
 ### bOverride\_Cursor
@@ -777,10 +593,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[bOverride_Cursor](ue_ue.Widget.md#boverride_cursor)
-
-#### Defined in
-
-[ue/ue.d.ts:10937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10937)
 
 ## Methods
 
@@ -806,10 +618,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[CreateDefaultSubobject](ue_ue.Widget.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -830,10 +638,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[ExecuteUbergraph](ue_ue.Widget.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### ForceLayoutPrepass
@@ -847,10 +651,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[ForceLayoutPrepass](ue_ue.Widget.md#forcelayoutprepass)
-
-#### Defined in
-
-[ue/ue.d.ts:10961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10961)
 
 ___
 
@@ -872,10 +672,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[ForceVolatile](ue_ue.Widget.md#forcevolatile)
 
-#### Defined in
-
-[ue/ue.d.ts:10962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10962)
-
 ___
 
 ### GenerateWidgetForObject\_\_DelegateSignature
@@ -895,10 +691,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[GenerateWidgetForObject__DelegateSignature](ue_ue.Widget.md#generatewidgetforobject__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10963)
 
 ___
 
@@ -920,10 +712,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[GenerateWidgetForString__DelegateSignature](ue_ue.Widget.md#generatewidgetforstring__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10964](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10964)
-
 ___
 
 ### GetBool\_\_DelegateSignature
@@ -937,10 +725,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[GetBool__DelegateSignature](ue_ue.Widget.md#getbool__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10965](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10965)
 
 ___
 
@@ -956,10 +740,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[GetCachedGeometry](ue_ue.Widget.md#getcachedgeometry)
 
-#### Defined in
-
-[ue/ue.d.ts:10966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10966)
-
 ___
 
 ### GetCheckBoxState\_\_DelegateSignature
@@ -973,10 +753,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[GetCheckBoxState__DelegateSignature](ue_ue.Widget.md#getcheckboxstate__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10967)
 
 ___
 
@@ -992,10 +768,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[GetClass](ue_ue.Widget.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetClipping
@@ -1009,10 +781,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[GetClipping](ue_ue.Widget.md#getclipping)
-
-#### Defined in
-
-[ue/ue.d.ts:10968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10968)
 
 ___
 
@@ -1028,10 +796,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[GetDesiredSize](ue_ue.Widget.md#getdesiredsize)
 
-#### Defined in
-
-[ue/ue.d.ts:10969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10969)
-
 ___
 
 ### GetFloat\_\_DelegateSignature
@@ -1045,10 +809,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[GetFloat__DelegateSignature](ue_ue.Widget.md#getfloat__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10970)
 
 ___
 
@@ -1064,10 +824,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[GetGameInstance](ue_ue.Widget.md#getgameinstance)
 
-#### Defined in
-
-[ue/ue.d.ts:10971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10971)
-
 ___
 
 ### GetInt32\_\_DelegateSignature
@@ -1081,10 +837,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[GetInt32__DelegateSignature](ue_ue.Widget.md#getint32__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10972)
 
 ___
 
@@ -1100,10 +852,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[GetIsEnabled](ue_ue.Widget.md#getisenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:10973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10973)
-
 ___
 
 ### GetLinearColor\_\_DelegateSignature
@@ -1117,10 +865,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[GetLinearColor__DelegateSignature](ue_ue.Widget.md#getlinearcolor__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10974)
 
 ___
 
@@ -1136,10 +880,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[GetMouseCursor__DelegateSignature](ue_ue.Widget.md#getmousecursor__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10975](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10975)
-
 ___
 
 ### GetName
@@ -1153,10 +893,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[GetName](ue_ue.Widget.md#getname)
-
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -1172,10 +908,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[GetOuter](ue_ue.Widget.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetOwningLocalPlayer
@@ -1189,10 +921,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[GetOwningLocalPlayer](ue_ue.Widget.md#getowninglocalplayer)
-
-#### Defined in
-
-[ue/ue.d.ts:10976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10976)
 
 ___
 
@@ -1208,10 +936,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[GetOwningPlayer](ue_ue.Widget.md#getowningplayer)
 
-#### Defined in
-
-[ue/ue.d.ts:10977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10977)
-
 ___
 
 ### GetPaintSpaceGeometry
@@ -1225,10 +949,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[GetPaintSpaceGeometry](ue_ue.Widget.md#getpaintspacegeometry)
-
-#### Defined in
-
-[ue/ue.d.ts:10978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10978)
 
 ___
 
@@ -1244,10 +964,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[GetParent](ue_ue.Widget.md#getparent)
 
-#### Defined in
-
-[ue/ue.d.ts:10979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10979)
-
 ___
 
 ### GetRenderOpacity
@@ -1261,10 +977,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[GetRenderOpacity](ue_ue.Widget.md#getrenderopacity)
-
-#### Defined in
-
-[ue/ue.d.ts:10980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10980)
 
 ___
 
@@ -1280,10 +992,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[GetRenderTransformAngle](ue_ue.Widget.md#getrendertransformangle)
 
-#### Defined in
-
-[ue/ue.d.ts:10981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10981)
-
 ___
 
 ### GetSlateBrush\_\_DelegateSignature
@@ -1297,10 +1005,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[GetSlateBrush__DelegateSignature](ue_ue.Widget.md#getslatebrush__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10982)
 
 ___
 
@@ -1316,10 +1020,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[GetSlateColor__DelegateSignature](ue_ue.Widget.md#getslatecolor__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10983)
-
 ___
 
 ### GetSlateVisibility\_\_DelegateSignature
@@ -1333,10 +1033,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[GetSlateVisibility__DelegateSignature](ue_ue.Widget.md#getslatevisibility__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10984)
 
 ___
 
@@ -1352,10 +1048,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[GetText__DelegateSignature](ue_ue.Widget.md#gettext__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10985)
-
 ___
 
 ### GetTickSpaceGeometry
@@ -1369,10 +1061,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[GetTickSpaceGeometry](ue_ue.Widget.md#gettickspacegeometry)
-
-#### Defined in
-
-[ue/ue.d.ts:10986](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10986)
 
 ___
 
@@ -1388,10 +1076,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[GetVisibility](ue_ue.Widget.md#getvisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:10987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10987)
-
 ___
 
 ### GetWidget\_\_DelegateSignature
@@ -1405,10 +1089,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[GetWidget__DelegateSignature](ue_ue.Widget.md#getwidget__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10988)
 
 ___
 
@@ -1424,10 +1104,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[GetWorld](ue_ue.Widget.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### HasAnyUserFocus
@@ -1441,10 +1117,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[HasAnyUserFocus](ue_ue.Widget.md#hasanyuserfocus)
-
-#### Defined in
-
-[ue/ue.d.ts:10989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10989)
 
 ___
 
@@ -1460,10 +1132,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[HasFocusedDescendants](ue_ue.Widget.md#hasfocuseddescendants)
 
-#### Defined in
-
-[ue/ue.d.ts:10990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10990)
-
 ___
 
 ### HasKeyboardFocus
@@ -1478,10 +1146,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[HasKeyboardFocus](ue_ue.Widget.md#haskeyboardfocus)
 
-#### Defined in
-
-[ue/ue.d.ts:10991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10991)
-
 ___
 
 ### HasMouseCapture
@@ -1495,10 +1159,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[HasMouseCapture](ue_ue.Widget.md#hasmousecapture)
-
-#### Defined in
-
-[ue/ue.d.ts:10992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10992)
 
 ___
 
@@ -1521,10 +1181,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[HasMouseCaptureByUser](ue_ue.Widget.md#hasmousecapturebyuser)
 
-#### Defined in
-
-[ue/ue.d.ts:10993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10993)
-
 ___
 
 ### HasUserFocus
@@ -1544,10 +1200,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[HasUserFocus](ue_ue.Widget.md#hasuserfocus)
-
-#### Defined in
-
-[ue/ue.d.ts:10994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10994)
 
 ___
 
@@ -1569,10 +1221,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[HasUserFocusedDescendants](ue_ue.Widget.md#hasuserfocuseddescendants)
 
-#### Defined in
-
-[ue/ue.d.ts:10995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10995)
-
 ___
 
 ### InvalidateLayoutAndVolatility
@@ -1586,10 +1234,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[InvalidateLayoutAndVolatility](ue_ue.Widget.md#invalidatelayoutandvolatility)
-
-#### Defined in
-
-[ue/ue.d.ts:10996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10996)
 
 ___
 
@@ -1605,10 +1249,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[IsHovered](ue_ue.Widget.md#ishovered)
 
-#### Defined in
-
-[ue/ue.d.ts:10997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10997)
-
 ___
 
 ### IsVisible
@@ -1622,10 +1262,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[IsVisible](ue_ue.Widget.md#isvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:10998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10998)
 
 ___
 
@@ -1648,10 +1284,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[OnPointerEvent__DelegateSignature](ue_ue.Widget.md#onpointerevent__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10999)
-
 ___
 
 ### OnReply\_\_DelegateSignature
@@ -1665,10 +1297,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[OnReply__DelegateSignature](ue_ue.Widget.md#onreply__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:11000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11000)
 
 ___
 
@@ -1684,10 +1312,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[RemoveFromParent](ue_ue.Widget.md#removefromparent)
 
-#### Defined in
-
-[ue/ue.d.ts:11001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11001)
-
 ___
 
 ### ResetCursor
@@ -1701,10 +1325,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[ResetCursor](ue_ue.Widget.md#resetcursor)
-
-#### Defined in
-
-[ue/ue.d.ts:11002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11002)
 
 ___
 
@@ -1727,10 +1347,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[SetAllNavigationRules](ue_ue.Widget.md#setallnavigationrules)
 
-#### Defined in
-
-[ue/ue.d.ts:11003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11003)
-
 ___
 
 ### SetClipping
@@ -1750,10 +1366,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[SetClipping](ue_ue.Widget.md#setclipping)
-
-#### Defined in
-
-[ue/ue.d.ts:11004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11004)
 
 ___
 
@@ -1775,10 +1387,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[SetCursor](ue_ue.Widget.md#setcursor)
 
-#### Defined in
-
-[ue/ue.d.ts:11005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11005)
-
 ___
 
 ### SetFocus
@@ -1792,10 +1400,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[SetFocus](ue_ue.Widget.md#setfocus)
-
-#### Defined in
-
-[ue/ue.d.ts:11006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11006)
 
 ___
 
@@ -1817,10 +1421,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[SetIsEnabled](ue_ue.Widget.md#setisenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:11007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11007)
-
 ___
 
 ### SetKeyboardFocus
@@ -1834,10 +1434,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[SetKeyboardFocus](ue_ue.Widget.md#setkeyboardfocus)
-
-#### Defined in
-
-[ue/ue.d.ts:11008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11008)
 
 ___
 
@@ -1861,10 +1457,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[SetNavigationRule](ue_ue.Widget.md#setnavigationrule)
 
-#### Defined in
-
-[ue/ue.d.ts:11009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11009)
-
 ___
 
 ### SetNavigationRuleBase
@@ -1885,10 +1477,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[SetNavigationRuleBase](ue_ue.Widget.md#setnavigationrulebase)
-
-#### Defined in
-
-[ue/ue.d.ts:11010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11010)
 
 ___
 
@@ -1911,10 +1499,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[SetNavigationRuleCustom](ue_ue.Widget.md#setnavigationrulecustom)
 
-#### Defined in
-
-[ue/ue.d.ts:11011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11011)
-
 ___
 
 ### SetNavigationRuleCustomBoundary
@@ -1935,10 +1519,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[SetNavigationRuleCustomBoundary](ue_ue.Widget.md#setnavigationrulecustomboundary)
-
-#### Defined in
-
-[ue/ue.d.ts:11012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11012)
 
 ___
 
@@ -1961,10 +1541,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[SetNavigationRuleExplicit](ue_ue.Widget.md#setnavigationruleexplicit)
 
-#### Defined in
-
-[ue/ue.d.ts:11013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11013)
-
 ___
 
 ### SetNumberOfPieces
@@ -1980,10 +1556,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:27401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27401)
 
 ___
 
@@ -2001,10 +1573,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:27402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27402)
-
 ___
 
 ### SetRadius
@@ -2020,10 +1588,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:27403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27403)
 
 ___
 
@@ -2045,10 +1609,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[SetRenderOpacity](ue_ue.Widget.md#setrenderopacity)
 
-#### Defined in
-
-[ue/ue.d.ts:11014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11014)
-
 ___
 
 ### SetRenderScale
@@ -2068,10 +1628,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[SetRenderScale](ue_ue.Widget.md#setrenderscale)
-
-#### Defined in
-
-[ue/ue.d.ts:11015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11015)
 
 ___
 
@@ -2093,10 +1649,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[SetRenderShear](ue_ue.Widget.md#setrendershear)
 
-#### Defined in
-
-[ue/ue.d.ts:11016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11016)
-
 ___
 
 ### SetRenderTransform
@@ -2116,10 +1668,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[SetRenderTransform](ue_ue.Widget.md#setrendertransform)
-
-#### Defined in
-
-[ue/ue.d.ts:11017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11017)
 
 ___
 
@@ -2141,10 +1689,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[SetRenderTransformAngle](ue_ue.Widget.md#setrendertransformangle)
 
-#### Defined in
-
-[ue/ue.d.ts:11018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11018)
-
 ___
 
 ### SetRenderTransformPivot
@@ -2164,10 +1708,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[SetRenderTransformPivot](ue_ue.Widget.md#setrendertransformpivot)
-
-#### Defined in
-
-[ue/ue.d.ts:11019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11019)
 
 ___
 
@@ -2189,10 +1729,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[SetRenderTranslation](ue_ue.Widget.md#setrendertranslation)
 
-#### Defined in
-
-[ue/ue.d.ts:11020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11020)
-
 ___
 
 ### SetToolTip
@@ -2212,10 +1748,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[SetToolTip](ue_ue.Widget.md#settooltip)
-
-#### Defined in
-
-[ue/ue.d.ts:11021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11021)
 
 ___
 
@@ -2237,10 +1769,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[SetToolTipText](ue_ue.Widget.md#settooltiptext)
 
-#### Defined in
-
-[ue/ue.d.ts:11022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11022)
-
 ___
 
 ### SetUserFocus
@@ -2261,10 +1789,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[SetUserFocus](ue_ue.Widget.md#setuserfocus)
 
-#### Defined in
-
-[ue/ue.d.ts:11023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11023)
-
 ___
 
 ### SetVisibility
@@ -2284,10 +1808,6 @@ ___
 #### Inherited from
 
 [Widget](ue_ue.Widget.md).[SetVisibility](ue_ue.Widget.md#setvisibility)
-
-#### Defined in
-
-[ue/ue.d.ts:11024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11024)
 
 ___
 
@@ -2310,10 +1830,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[Find](ue_ue.Widget.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:27405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27405)
-
 ___
 
 ### Load
@@ -2334,10 +1850,6 @@ ___
 
 [Widget](ue_ue.Widget.md).[Load](ue_ue.Widget.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:27406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27406)
-
 ___
 
 ### StaticClass
@@ -2351,7 +1863,3 @@ ___
 #### Overrides
 
 [Widget](ue_ue.Widget.md).[StaticClass](ue_ue.Widget.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:27404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27404)

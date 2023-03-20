@@ -20,19 +20,11 @@
 
 • **EUMGSequencePlayMode\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11976)
-
 ___
 
 ### Forward
 
 • **Forward** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11976)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **PingPong** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11976)
-
 ___
 
 ### Reverse
 
 • **Reverse** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11976)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11976)

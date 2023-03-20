@@ -19,19 +19,11 @@
 
 • **BVC\_EightVertices** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6843)
-
 ___
 
 ### BVC\_FourVertices
 
 • **BVC\_FourVertices** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6843)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **BVC\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6843)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6843)

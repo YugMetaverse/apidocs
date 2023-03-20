@@ -27,10 +27,6 @@
 
 • **new ProcMeshTangent**()
 
-#### Defined in
-
-[ue/ue.d.ts:42976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42976)
-
 • **new ProcMeshTangent**(`TangentX`, `bFlipTangentY`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `TangentX` | [`Vector`](ue_ue_s.Vector.md) |
 | `bFlipTangentY` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:42977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42977)
-
 ## Properties
 
 ### TangentX
 
 • **TangentX**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:42978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42978)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • `Private` **\_\_tid\_ProcMeshTangent\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:42985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42985)
-
 ___
 
 ### bFlipTangentY
 
 • **bFlipTangentY**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:42979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42979)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:42983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42983)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:42984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42984)

@@ -54,10 +54,6 @@
 
 [NavLinkDefinition](ue_ue.NavLinkDefinition.md).[constructor](ue_ue.NavLinkDefinition.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:53353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53353)
-
 ## Properties
 
 ### Links
@@ -67,10 +63,6 @@
 #### Inherited from
 
 [NavLinkDefinition](ue_ue.NavLinkDefinition.md).[Links](ue_ue.NavLinkDefinition.md#links)
-
-#### Defined in
-
-[ue/ue.d.ts:53304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53304)
 
 ___
 
@@ -82,10 +74,6 @@ ___
 
 [NavLinkDefinition](ue_ue.NavLinkDefinition.md).[SegmentLinks](ue_ue.NavLinkDefinition.md#segmentlinks)
 
-#### Defined in
-
-[ue/ue.d.ts:53305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53305)
-
 ___
 
 ### \_\_tid\_NavLinkDefinition\_\_
@@ -96,19 +84,11 @@ ___
 
 [NavLinkDefinition](ue_ue.NavLinkDefinition.md).[__tid_NavLinkDefinition__](ue_ue.NavLinkDefinition.md#__tid_navlinkdefinition__)
 
-#### Defined in
-
-[ue/ue.d.ts:53310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53310)
-
 ___
 
 ### \_\_tid\_NavLinkTrivial\_\_
 
 • **\_\_tid\_NavLinkTrivial\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:53358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53358)
 
 ___
 
@@ -119,10 +99,6 @@ ___
 #### Inherited from
 
 [NavLinkDefinition](ue_ue.NavLinkDefinition.md).[__tid_Object__](ue_ue.NavLinkDefinition.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -148,10 +124,6 @@ ___
 
 [NavLinkDefinition](ue_ue.NavLinkDefinition.md).[CreateDefaultSubobject](ue_ue.NavLinkDefinition.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -172,10 +144,6 @@ ___
 
 [NavLinkDefinition](ue_ue.NavLinkDefinition.md).[ExecuteUbergraph](ue_ue.NavLinkDefinition.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -189,10 +157,6 @@ ___
 #### Inherited from
 
 [NavLinkDefinition](ue_ue.NavLinkDefinition.md).[GetClass](ue_ue.NavLinkDefinition.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -208,10 +172,6 @@ ___
 
 [NavLinkDefinition](ue_ue.NavLinkDefinition.md).[GetName](ue_ue.NavLinkDefinition.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -226,10 +186,6 @@ ___
 
 [NavLinkDefinition](ue_ue.NavLinkDefinition.md).[GetOuter](ue_ue.NavLinkDefinition.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -243,10 +199,6 @@ ___
 #### Inherited from
 
 [NavLinkDefinition](ue_ue.NavLinkDefinition.md).[GetWorld](ue_ue.NavLinkDefinition.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -269,10 +221,6 @@ ___
 
 [NavLinkDefinition](ue_ue.NavLinkDefinition.md).[Find](ue_ue.NavLinkDefinition.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:53355](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53355)
-
 ___
 
 ### Load
@@ -293,10 +241,6 @@ ___
 
 [NavLinkDefinition](ue_ue.NavLinkDefinition.md).[Load](ue_ue.NavLinkDefinition.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:53356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53356)
-
 ___
 
 ### StaticClass
@@ -310,7 +254,3 @@ ___
 #### Overrides
 
 [NavLinkDefinition](ue_ue.NavLinkDefinition.md).[StaticClass](ue_ue.NavLinkDefinition.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:53354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53354)

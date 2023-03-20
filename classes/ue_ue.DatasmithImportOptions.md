@@ -63,19 +63,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:29730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29730)
-
 ## Properties
 
 ### BaseOptions
 
 • **BaseOptions**: [`DatasmithImportBaseOptions`](ue_ue.DatasmithImportBaseOptions.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29739)
 
 ___
 
@@ -83,19 +75,11 @@ ___
 
 • **CameraImportPolicy**: [`EDatasmithImportActorPolicy`](../enums/ue_ue.EDatasmithImportActorPolicy.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29736)
-
 ___
 
 ### FileName
 
 • **FileName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:29741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29741)
 
 ___
 
@@ -103,19 +87,11 @@ ___
 
 • **FilePath**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:29742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29742)
-
 ___
 
 ### LightImportPolicy
 
 • **LightImportPolicy**: [`EDatasmithImportActorPolicy`](../enums/ue_ue.EDatasmithImportActorPolicy.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29735)
 
 ___
 
@@ -123,19 +99,11 @@ ___
 
 • **MaterialConflictPolicy**: [`EDatasmithImportAssetConflictPolicy`](../enums/ue_ue.EDatasmithImportAssetConflictPolicy.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29732)
-
 ___
 
 ### MaterialQuality
 
 • **MaterialQuality**: [`EDatasmithImportMaterialQuality`](../enums/ue_ue.EDatasmithImportMaterialQuality.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29738)
 
 ___
 
@@ -143,19 +111,11 @@ ___
 
 • **OtherActorImportPolicy**: [`EDatasmithImportActorPolicy`](../enums/ue_ue.EDatasmithImportActorPolicy.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29737)
-
 ___
 
 ### ReimportOptions
 
 • **ReimportOptions**: [`DatasmithReimportOptions`](ue_ue.DatasmithReimportOptions.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29740)
 
 ___
 
@@ -163,19 +123,11 @@ ___
 
 • **SearchPackagePolicy**: [`EDatasmithImportSearchPackagePolicy`](../enums/ue_ue.EDatasmithImportSearchPackagePolicy.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29731)
-
 ___
 
 ### StaticMeshActorImportPolicy
 
 • **StaticMeshActorImportPolicy**: [`EDatasmithImportActorPolicy`](../enums/ue_ue.EDatasmithImportActorPolicy.md)
-
-#### Defined in
-
-[ue/ue.d.ts:29734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29734)
 
 ___
 
@@ -183,19 +135,11 @@ ___
 
 • **TextureConflictPolicy**: [`EDatasmithImportAssetConflictPolicy`](../enums/ue_ue.EDatasmithImportAssetConflictPolicy.md)
 
-#### Defined in
-
-[ue/ue.d.ts:29733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29733)
-
 ___
 
 ### \_\_tid\_DatasmithImportOptions\_\_
 
 • **\_\_tid\_DatasmithImportOptions\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29747)
 
 ___
 
@@ -206,10 +150,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -235,10 +175,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -259,10 +195,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -276,10 +208,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -295,10 +223,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -313,10 +237,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -330,10 +250,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -356,10 +272,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:29744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29744)
-
 ___
 
 ### Load
@@ -380,10 +292,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:29745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29745)
-
 ___
 
 ### StaticClass
@@ -397,7 +305,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:29743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29743)

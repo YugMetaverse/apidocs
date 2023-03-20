@@ -21,19 +21,11 @@
 
 • **EGrammaticalGender\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30829)
-
 ___
 
 ### Feminine
 
 • **Feminine** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30829)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Masculine** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30829)
-
 ___
 
 ### Mixed
 
 • **Mixed** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30829)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Neuter** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:30829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30829)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:30829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30829)

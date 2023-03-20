@@ -32,10 +32,6 @@
 
 • **new MaterialLayersFunctions**()
 
-#### Defined in
-
-[ue/ue.d.ts:2089](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2089)
-
 • **new MaterialLayersFunctions**(`Layers`, `Blends`, `LayerNames`, `RestrictToLayerRelatives`, `RestrictToBlendRelatives`, `LayerStates`, `KeyString`)
 
 #### Parameters
@@ -50,19 +46,11 @@
 | `LayerStates` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`boolean`\> |
 | `KeyString` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:2090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2090)
-
 ## Properties
 
 ### Blends
 
 • **Blends**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MaterialFunctionInterface`](ue_ue.MaterialFunctionInterface.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:2092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2092)
 
 ___
 
@@ -70,19 +58,11 @@ ___
 
 • **KeyString**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:2097](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2097)
-
 ___
 
 ### LayerNames
 
 • **LayerNames**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:2093](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2093)
 
 ___
 
@@ -90,19 +70,11 @@ ___
 
 • **LayerStates**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`boolean`\>
 
-#### Defined in
-
-[ue/ue.d.ts:2096](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2096)
-
 ___
 
 ### Layers
 
 • **Layers**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MaterialFunctionInterface`](ue_ue.MaterialFunctionInterface.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:2091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2091)
 
 ___
 
@@ -110,29 +82,17 @@ ___
 
 • **RestrictToBlendRelatives**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`boolean`\>
 
-#### Defined in
-
-[ue/ue.d.ts:2095](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2095)
-
 ___
 
 ### RestrictToLayerRelatives
 
 • **RestrictToLayerRelatives**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`boolean`\>
 
-#### Defined in
-
-[ue/ue.d.ts:2094](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2094)
-
 ___
 
 ### \_\_tid\_MaterialLayersFunctions\_\_
 
 • `Private` **\_\_tid\_MaterialLayersFunctions\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:2103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2103)
 
 ## Methods
 
@@ -148,10 +108,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:2101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2101)
-
 ___
 
 ### StaticStruct
@@ -161,7 +117,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:2102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2102)

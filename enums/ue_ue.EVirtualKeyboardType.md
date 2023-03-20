@@ -23,19 +23,11 @@
 
 • **AlphaNumeric** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32137)
-
 ___
 
 ### Default
 
 • **Default** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32137)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **EVirtualKeyboardType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32137)
-
 ___
 
 ### Email
 
 • **Email** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32137)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **Number** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32137)
-
 ___
 
 ### Password
 
 • **Password** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32137)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **Web** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:32137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32137)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:32137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32137)

@@ -20,19 +20,11 @@
 
 • **EDatasmithAreaLightActorType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29342)
-
 ___
 
 ### Point
 
 • **Point** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29342)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Rect** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29342)
-
 ___
 
 ### Spot
 
 • **Spot** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:29342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29342)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:29342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29342)

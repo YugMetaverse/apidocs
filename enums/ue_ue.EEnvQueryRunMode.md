@@ -21,19 +21,11 @@
 
 • **AllMatching** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15635)
-
 ___
 
 ### EEnvQueryRunMode\_MAX
 
 • **EEnvQueryRunMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15635)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **RandomBest25Pct** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15635)
-
 ___
 
 ### RandomBest5Pct
 
 • **RandomBest5Pct** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15635)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **SingleResult** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:15635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15635)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:15635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15635)

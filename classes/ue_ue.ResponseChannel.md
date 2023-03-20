@@ -27,10 +27,6 @@
 
 • **new ResponseChannel**()
 
-#### Defined in
-
-[ue/ue.d.ts:644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L644)
-
 • **new ResponseChannel**(`Channel`, `Response`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Channel` | `string` |
 | `Response` | [`ECollisionResponse`](../enums/ue_ue.ECollisionResponse.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L645)
-
 ## Properties
 
 ### Channel
 
 • **Channel**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L646)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Response**: [`ECollisionResponse`](../enums/ue_ue.ECollisionResponse.md)
 
-#### Defined in
-
-[ue/ue.d.ts:647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L647)
-
 ___
 
 ### \_\_tid\_ResponseChannel\_\_
 
 • `Private` **\_\_tid\_ResponseChannel\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L653)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L651)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L652)

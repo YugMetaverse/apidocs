@@ -71,19 +71,11 @@
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[constructor](ue_ue.DeveloperSettings.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:64938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64938)
-
 ## Properties
 
 ### ApplicationScale
 
 • **ApplicationScale**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:64949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64949)
 
 ___
 
@@ -91,19 +83,11 @@ ___
 
 • **CrosshairsCursor**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64944)
-
 ___
 
 ### CursorClasses
 
 • **CursorClasses**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Object`](ue_ue.Object.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:64955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64955)
 
 ___
 
@@ -111,19 +95,11 @@ ___
 
 • **CustomScalingRule**: [`DPICustomScalingRule`](ue_ue.DPICustomScalingRule.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64957)
-
 ___
 
 ### CustomScalingRuleClass
 
 • **CustomScalingRuleClass**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:64951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64951)
 
 ___
 
@@ -131,19 +107,11 @@ ___
 
 • **CustomScalingRuleClassInstance**: [`Class`](ue_ue.Class.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64956)
-
 ___
 
 ### DefaultCursor
 
 • **DefaultCursor**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:64942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64942)
 
 ___
 
@@ -151,19 +119,11 @@ ___
 
 • **GrabHandClosedCursor**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64947)
-
 ___
 
 ### GrabHandCursor
 
 • **GrabHandCursor**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:64946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64946)
 
 ___
 
@@ -171,19 +131,11 @@ ___
 
 • **HandCursor**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64945)
-
 ___
 
 ### HardwareCursors
 
 • **HardwareCursors**: [`TMap`](../interfaces/ue_puerts.TMap.md)<[`EMouseCursor`](../enums/ue_ue.EMouseCursor.md), [`HardwareCursorReference`](ue_ue.HardwareCursorReference.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:64940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64940)
 
 ___
 
@@ -191,19 +143,11 @@ ___
 
 • **RenderFocusRule**: [`ERenderFocusRule`](../enums/ue_ue.ERenderFocusRule.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64939)
-
 ___
 
 ### SlashedCircleCursor
 
 • **SlashedCircleCursor**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:64948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64948)
 
 ___
 
@@ -211,19 +155,11 @@ ___
 
 • **SoftwareCursors**: [`TMap`](../interfaces/ue_puerts.TMap.md)<[`EMouseCursor`](../enums/ue_ue.EMouseCursor.md), [`SoftClassPath`](ue_ue.SoftClassPath.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:64941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64941)
-
 ___
 
 ### TextEditBeamCursor
 
 • **TextEditBeamCursor**: [`SoftClassPath`](ue_ue.SoftClassPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:64943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64943)
 
 ___
 
@@ -231,19 +167,11 @@ ___
 
 • **UIScaleCurve**: [`RuntimeFloatCurve`](ue_ue.RuntimeFloatCurve.md)
 
-#### Defined in
-
-[ue/ue.d.ts:64952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64952)
-
 ___
 
 ### UIScaleRule
 
 • **UIScaleRule**: [`EUIScalingRule`](../enums/ue_ue.EUIScalingRule.md)
-
-#### Defined in
-
-[ue/ue.d.ts:64950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64950)
 
 ___
 
@@ -255,10 +183,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[__tid_DeveloperSettings__](ue_ue.DeveloperSettings.md#__tid_developersettings__)
 
-#### Defined in
-
-[ue/ue.d.ts:16950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16950)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -269,19 +193,11 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[__tid_Object__](ue_ue.DeveloperSettings.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_UserInterfaceSettings\_\_
 
 • **\_\_tid\_UserInterfaceSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64962)
 
 ___
 
@@ -289,19 +205,11 @@ ___
 
 • **bAllowHighDPIInGameMode**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:64953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64953)
-
 ___
 
 ### bLoadWidgetsOnDedicatedServer
 
 • **bLoadWidgetsOnDedicatedServer**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:64954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64954)
 
 ## Methods
 
@@ -327,10 +235,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[CreateDefaultSubobject](ue_ue.DeveloperSettings.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -351,10 +255,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[ExecuteUbergraph](ue_ue.DeveloperSettings.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -368,10 +268,6 @@ ___
 #### Inherited from
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetClass](ue_ue.DeveloperSettings.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -387,10 +283,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetName](ue_ue.DeveloperSettings.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -405,10 +297,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetOuter](ue_ue.DeveloperSettings.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -422,10 +310,6 @@ ___
 #### Inherited from
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[GetWorld](ue_ue.DeveloperSettings.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -448,10 +332,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[Find](ue_ue.DeveloperSettings.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:64959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64959)
-
 ___
 
 ### Load
@@ -472,10 +352,6 @@ ___
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[Load](ue_ue.DeveloperSettings.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:64960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64960)
-
 ___
 
 ### StaticClass
@@ -489,7 +365,3 @@ ___
 #### Overrides
 
 [DeveloperSettings](ue_ue.DeveloperSettings.md).[StaticClass](ue_ue.DeveloperSettings.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:64958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64958)

@@ -21,19 +21,11 @@
 
 • **TextureObjectSet\_AllStreamingLevels** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34821)
-
 ___
 
 ### TextureObjectSet\_CurrentStreamingLevel
 
 • **TextureObjectSet\_CurrentStreamingLevel** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34821)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **TextureObjectSet\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34821)
-
 ___
 
 ### TextureObjectSet\_SelectedActors
 
 • **TextureObjectSet\_SelectedActors** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34821)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **TextureObjectSet\_SelectedMaterials** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34821)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34821)

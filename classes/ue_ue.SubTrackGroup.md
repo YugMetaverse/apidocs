@@ -29,10 +29,6 @@
 
 • **new SubTrackGroup**()
 
-#### Defined in
-
-[ue/ue.d.ts:7452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7452)
-
 • **new SubTrackGroup**(`GroupName`, `TrackIndices`, `bIsCollapsed`, `bIsSelected`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `bIsCollapsed` | `boolean` |
 | `bIsSelected` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:7453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7453)
-
 ## Properties
 
 ### GroupName
 
 • **GroupName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:7454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7454)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **TrackIndices**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:7455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7455)
-
 ___
 
 ### \_\_tid\_SubTrackGroup\_\_
 
 • `Private` **\_\_tid\_SubTrackGroup\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7463)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **bIsCollapsed**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:7456](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7456)
-
 ___
 
 ### bIsSelected
 
 • **bIsSelected**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7457)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7461](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7461)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7462](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7462)

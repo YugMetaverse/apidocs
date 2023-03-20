@@ -34,10 +34,6 @@
 
 • **new CanvasUVTri**()
 
-#### Defined in
-
-[ue/ue.d.ts:6088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6088)
-
 • **new CanvasUVTri**(`V0_Pos`, `V0_UV`, `V0_Color`, `V1_Pos`, `V1_UV`, `V1_Color`, `V2_Pos`, `V2_UV`, `V2_Color`)
 
 #### Parameters
@@ -54,19 +50,11 @@
 | `V2_UV` | [`Vector2D`](ue_ue_s.Vector2D.md) |
 | `V2_Color` | [`LinearColor`](ue_ue_s.LinearColor.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:6089](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6089)
-
 ## Properties
 
 ### V0\_Color
 
 • **V0\_Color**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6092)
 
 ___
 
@@ -74,19 +62,11 @@ ___
 
 • **V0\_Pos**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6090)
-
 ___
 
 ### V0\_UV
 
 • **V0\_UV**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6091)
 
 ___
 
@@ -94,19 +74,11 @@ ___
 
 • **V1\_Color**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6095](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6095)
-
 ___
 
 ### V1\_Pos
 
 • **V1\_Pos**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6093](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6093)
 
 ___
 
@@ -114,19 +86,11 @@ ___
 
 • **V1\_UV**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6094](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6094)
-
 ___
 
 ### V2\_Color
 
 • **V2\_Color**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6098)
 
 ___
 
@@ -134,29 +98,17 @@ ___
 
 • **V2\_Pos**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6096](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6096)
-
 ___
 
 ### V2\_UV
 
 • **V2\_UV**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6097](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6097)
-
 ___
 
 ### \_\_tid\_CanvasUVTri\_\_
 
 • `Private` **\_\_tid\_CanvasUVTri\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6104)
 
 ## Methods
 
@@ -172,10 +124,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6102)
-
 ___
 
 ### StaticStruct
@@ -185,7 +133,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6103)

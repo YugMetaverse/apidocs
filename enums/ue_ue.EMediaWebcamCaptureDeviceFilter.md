@@ -22,19 +22,11 @@
 
 • **DepthSensor** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34042)
-
 ___
 
 ### EMediaWebcamCaptureDeviceFilter\_MAX
 
 • **EMediaWebcamCaptureDeviceFilter\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34042)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **Front** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34042)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34042)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **Rear** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34042)
-
 ___
 
 ### Unknown
 
 • **Unknown** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34042)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34042)

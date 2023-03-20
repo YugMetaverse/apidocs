@@ -38,10 +38,6 @@
 
 • **new DebugTextInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:6144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6144)
-
 • **new DebugTextInfo**(`SrcActor`, `SrcActorOffset`, `SrcActorDesiredOffset`, `DebugText`, `TimeRemaining`, `Duration`, `TextColor`, `bAbsoluteLocation`, `bKeepAttachedToActor`, `bDrawShadow`, `OrigActorLocation`, `Font`, `FontScale`)
 
 #### Parameters
@@ -62,19 +58,11 @@
 | `Font` | [`Font`](ue_ue.Font.md) |
 | `FontScale` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:6145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6145)
-
 ## Properties
 
 ### DebugText
 
 • **DebugText**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:6149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6149)
 
 ___
 
@@ -82,19 +70,11 @@ ___
 
 • **Duration**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6151)
-
 ___
 
 ### Font
 
 • **Font**: [`Font`](ue_ue.Font.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6157)
 
 ___
 
@@ -102,19 +82,11 @@ ___
 
 • **FontScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6158)
-
 ___
 
 ### OrigActorLocation
 
 • **OrigActorLocation**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6156)
 
 ___
 
@@ -122,19 +94,11 @@ ___
 
 • **SrcActor**: [`Actor`](ue_ue.Actor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6146)
-
 ___
 
 ### SrcActorDesiredOffset
 
 • **SrcActorDesiredOffset**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6148)
 
 ___
 
@@ -142,19 +106,11 @@ ___
 
 • **SrcActorOffset**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6147)
-
 ___
 
 ### TextColor
 
 • **TextColor**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6152)
 
 ___
 
@@ -162,19 +118,11 @@ ___
 
 • **TimeRemaining**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6150)
-
 ___
 
 ### \_\_tid\_DebugTextInfo\_\_
 
 • `Private` **\_\_tid\_DebugTextInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6164)
 
 ___
 
@@ -182,29 +130,17 @@ ___
 
 • **bAbsoluteLocation**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6153)
-
 ___
 
 ### bDrawShadow
 
 • **bDrawShadow**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6155)
-
 ___
 
 ### bKeepAttachedToActor
 
 • **bKeepAttachedToActor**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6154)
 
 ## Methods
 
@@ -220,10 +156,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6162)
-
 ___
 
 ### StaticStruct
@@ -233,7 +165,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6163)

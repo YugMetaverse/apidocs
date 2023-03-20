@@ -29,10 +29,6 @@
 
 • **new SoundGroup**()
 
-#### Defined in
-
-[ue/ue.d.ts:61251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61251)
-
 • **new SoundGroup**(`SoundGroup`, `DisplayName`, `bAlwaysDecompressOnLoad`, `DecompressedDuration`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `bAlwaysDecompressOnLoad` | `boolean` |
 | `DecompressedDuration` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:61252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61252)
-
 ## Properties
 
 ### DecompressedDuration
 
 • **DecompressedDuration**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:61256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61256)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **DisplayName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:61254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61254)
-
 ___
 
 ### SoundGroup
 
 • **SoundGroup**: [`ESoundGroup`](../enums/ue_ue.ESoundGroup.md)
-
-#### Defined in
-
-[ue/ue.d.ts:61253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61253)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • `Private` **\_\_tid\_SoundGroup\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:61262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61262)
-
 ___
 
 ### bAlwaysDecompressOnLoad
 
 • **bAlwaysDecompressOnLoad**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:61255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61255)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:61260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61260)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:61261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61261)

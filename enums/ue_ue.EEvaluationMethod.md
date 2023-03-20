@@ -19,19 +19,11 @@
 
 • **EEvaluationMethod\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11054)
-
 ___
 
 ### Static
 
 • **Static** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11054)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Swept** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:11054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11054)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:11054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11054)

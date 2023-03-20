@@ -26,10 +26,6 @@
 
 • **new LandscapeLayerBrush**()
 
-#### Defined in
-
-[ue/ue.d.ts:44166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44166)
-
 • **new LandscapeLayerBrush**(`BlueprintBrush`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `BlueprintBrush` | [`LandscapeBlueprintBrushBase`](ue_ue.LandscapeBlueprintBrushBase.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:44167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44167)
-
 ## Properties
 
 ### BlueprintBrush
 
 • **BlueprintBrush**: [`LandscapeBlueprintBrushBase`](ue_ue.LandscapeBlueprintBrushBase.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44168)
-
 ___
 
 ### \_\_tid\_LandscapeLayerBrush\_\_
 
 • `Private` **\_\_tid\_LandscapeLayerBrush\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44174)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44172)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44173)

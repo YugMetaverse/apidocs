@@ -40,10 +40,6 @@
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[constructor](ue_ue.AnimNode_Base.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:18998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18998)
-
 • **new AnimNode_ModifyCurve**(`SourcePose`, `CurveValues`, `CurveNames`, `Alpha`, `ApplyMode`)
 
 #### Parameters
@@ -60,19 +56,11 @@
 
 UE.AnimNode\_Base.constructor
 
-#### Defined in
-
-[ue/ue.d.ts:18999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18999)
-
 ## Properties
 
 ### Alpha
 
 • **Alpha**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:19003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19003)
 
 ___
 
@@ -80,19 +68,11 @@ ___
 
 • **ApplyMode**: [`EModifyCurveApplyMode`](../enums/ue_ue.EModifyCurveApplyMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19004)
-
 ___
 
 ### CurveNames
 
 • **CurveNames**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:19002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19002)
 
 ___
 
@@ -100,29 +80,17 @@ ___
 
 • **CurveValues**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:19001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19001)
-
 ___
 
 ### SourcePose
 
 • **SourcePose**: [`PoseLink`](ue_ue.PoseLink.md)
 
-#### Defined in
-
-[ue/ue.d.ts:19000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19000)
-
 ___
 
 ### \_\_tid\_AnimNode\_ModifyCurve\_\_
 
 • `Private` **\_\_tid\_AnimNode\_ModifyCurve\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:19010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19010)
 
 ## Methods
 
@@ -142,10 +110,6 @@ use StaticStruct instead.
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticClass](ue_ue.AnimNode_Base.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:19008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19008)
-
 ___
 
 ### StaticStruct
@@ -159,7 +123,3 @@ ___
 #### Overrides
 
 [AnimNode_Base](ue_ue.AnimNode_Base.md).[StaticStruct](ue_ue.AnimNode_Base.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:19009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19009)

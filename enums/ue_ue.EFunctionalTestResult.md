@@ -23,19 +23,11 @@
 
 • **Default** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33876)
-
 ___
 
 ### EFunctionalTestResult\_MAX
 
 • **EFunctionalTestResult\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33876)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **Error** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33876)
-
 ___
 
 ### Failed
 
 • **Failed** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33876)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **Invalid** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33876)
-
 ___
 
 ### Running
 
 • **Running** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33876)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **Succeeded** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33876)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33876)

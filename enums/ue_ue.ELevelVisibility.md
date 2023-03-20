@@ -19,19 +19,11 @@
 
 • **ELevelVisibility\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33946)
-
 ___
 
 ### Hidden
 
 • **Hidden** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33946)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Visible** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33946)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33946)

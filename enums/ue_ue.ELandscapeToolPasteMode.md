@@ -21,19 +21,11 @@
 
 • **Both** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33940)
-
 ___
 
 ### ELandscapeToolPasteMode\_MAX
 
 • **ELandscapeToolPasteMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33940)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Invalid** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33940)
-
 ___
 
 ### Lower
 
 • **Lower** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33940)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Raise** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33940)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33940)

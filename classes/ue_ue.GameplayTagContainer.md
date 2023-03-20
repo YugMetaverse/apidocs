@@ -27,10 +27,6 @@
 
 • **new GameplayTagContainer**()
 
-#### Defined in
-
-[ue/ue.d.ts:24079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24079)
-
 • **new GameplayTagContainer**(`GameplayTags`, `ParentTags`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `GameplayTags` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`GameplayTag`](ue_ue.GameplayTag.md)\> |
 | `ParentTags` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`GameplayTag`](ue_ue.GameplayTag.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:24080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24080)
-
 ## Properties
 
 ### GameplayTags
 
 • **GameplayTags**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`GameplayTag`](ue_ue.GameplayTag.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:24081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24081)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **ParentTags**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`GameplayTag`](ue_ue.GameplayTag.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:24082](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24082)
-
 ___
 
 ### \_\_tid\_GameplayTagContainer\_\_
 
 • `Private` **\_\_tid\_GameplayTagContainer\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:24088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24088)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:24086](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24086)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:24087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24087)

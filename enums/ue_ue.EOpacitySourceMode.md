@@ -22,19 +22,11 @@
 
 • **OSM\_Alpha** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6840)
-
 ___
 
 ### OSM\_BlueChannel
 
 • **OSM\_BlueChannel** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6840)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **OSM\_ColorBrightness** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6840)
-
 ___
 
 ### OSM\_GreenChannel
 
 • **OSM\_GreenChannel** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6840)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **OSM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6840)
-
 ___
 
 ### OSM\_RedChannel
 
 • **OSM\_RedChannel** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6840)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6840)

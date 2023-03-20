@@ -22,19 +22,11 @@
 
 • **CoordinateSystem** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33826)
-
 ___
 
 ### DirectionalArrow
 
 • **DirectionalArrow** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33826)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **EDrawDebugItemType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33826)
-
 ___
 
 ### Line
 
 • **Line** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33826)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **OnScreenMessage** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33826)
-
 ___
 
 ### Sphere
 
 • **Sphere** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33826)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33826)

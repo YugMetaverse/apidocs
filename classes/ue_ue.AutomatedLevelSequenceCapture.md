@@ -79,10 +79,6 @@
 
 [MovieSceneCapture](ue_ue.MovieSceneCapture.md).[constructor](ue_ue.MovieSceneCapture.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:22794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22794)
-
 ## Properties
 
 ### AdditionalCommandLineArguments
@@ -92,10 +88,6 @@
 #### Inherited from
 
 [MovieSceneCapture](ue_ue.MovieSceneCapture.md).[AdditionalCommandLineArguments](ue_ue.MovieSceneCapture.md#additionalcommandlinearguments)
-
-#### Defined in
-
-[ue/ue.d.ts:22620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22620)
 
 ___
 
@@ -107,10 +99,6 @@ ___
 
 [MovieSceneCapture](ue_ue.MovieSceneCapture.md).[AudioCaptureProtocol](ue_ue.MovieSceneCapture.md#audiocaptureprotocol)
 
-#### Defined in
-
-[ue/ue.d.ts:22616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22616)
-
 ___
 
 ### AudioCaptureProtocolType
@@ -121,19 +109,11 @@ ___
 
 [MovieSceneCapture](ue_ue.MovieSceneCapture.md).[AudioCaptureProtocolType](ue_ue.MovieSceneCapture.md#audiocaptureprotocoltype)
 
-#### Defined in
-
-[ue/ue.d.ts:22614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22614)
-
 ___
 
 ### BurnInOptions
 
 • **BurnInOptions**: [`LevelSequenceBurnInOptions`](ue_ue.LevelSequenceBurnInOptions.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22805](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22805)
 
 ___
 
@@ -141,19 +121,11 @@ ___
 
 • **CustomEndFrame**: [`FrameNumber`](ue_ue.FrameNumber.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22800)
-
 ___
 
 ### CustomStartFrame
 
 • **CustomStartFrame**: [`FrameNumber`](ue_ue.FrameNumber.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22798)
 
 ___
 
@@ -161,29 +133,17 @@ ___
 
 • **DelayBeforeShotWarmUp**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22803)
-
 ___
 
 ### DelayBeforeWarmUp
 
 • **DelayBeforeWarmUp**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22802)
-
 ___
 
 ### DelayEveryFrame
 
 • **DelayEveryFrame**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22804)
 
 ___
 
@@ -195,10 +155,6 @@ ___
 
 [MovieSceneCapture](ue_ue.MovieSceneCapture.md).[ImageCaptureProtocol](ue_ue.MovieSceneCapture.md#imagecaptureprotocol)
 
-#### Defined in
-
-[ue/ue.d.ts:22615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22615)
-
 ___
 
 ### ImageCaptureProtocolType
@@ -208,10 +164,6 @@ ___
 #### Inherited from
 
 [MovieSceneCapture](ue_ue.MovieSceneCapture.md).[ImageCaptureProtocolType](ue_ue.MovieSceneCapture.md#imagecaptureprotocoltype)
-
-#### Defined in
-
-[ue/ue.d.ts:22613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22613)
 
 ___
 
@@ -223,29 +175,17 @@ ___
 
 [MovieSceneCapture](ue_ue.MovieSceneCapture.md).[InheritedCommandLineArguments](ue_ue.MovieSceneCapture.md#inheritedcommandlinearguments)
 
-#### Defined in
-
-[ue/ue.d.ts:22621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22621)
-
 ___
 
 ### LevelSequenceActor
 
 • **LevelSequenceActor**: [`TWeakObjectPtr`](../modules/ue_puerts.md#tweakobjectptr)<[`LevelSequenceActor`](ue_ue.LevelSequenceActor.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:22808](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22808)
-
 ___
 
 ### LevelSequenceAsset
 
 • **LevelSequenceAsset**: [`SoftObjectPath`](ue_ue.SoftObjectPath.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22795)
 
 ___
 
@@ -257,19 +197,11 @@ ___
 
 [MovieSceneCapture](ue_ue.MovieSceneCapture.md).[Settings](ue_ue.MovieSceneCapture.md#settings)
 
-#### Defined in
-
-[ue/ue.d.ts:22617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22617)
-
 ___
 
 ### ShotName
 
 • **ShotName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:22796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22796)
 
 ___
 
@@ -277,19 +209,11 @@ ___
 
 • **WarmUpFrameCount**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22801)
-
 ___
 
 ### \_\_tid\_AutomatedLevelSequenceCapture\_\_
 
 • **\_\_tid\_AutomatedLevelSequenceCapture\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22813](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22813)
 
 ___
 
@@ -301,10 +225,6 @@ ___
 
 [MovieSceneCapture](ue_ue.MovieSceneCapture.md).[__tid_MovieSceneCapture__](ue_ue.MovieSceneCapture.md#__tid_moviescenecapture__)
 
-#### Defined in
-
-[ue/ue.d.ts:22630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22630)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -314,10 +234,6 @@ ___
 #### Inherited from
 
 [MovieSceneCapture](ue_ue.MovieSceneCapture.md).[__tid_Object__](ue_ue.MovieSceneCapture.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -329,29 +245,17 @@ ___
 
 [MovieSceneCapture](ue_ue.MovieSceneCapture.md).[bCloseEditorWhenCaptureStarts](ue_ue.MovieSceneCapture.md#bcloseeditorwhencapturestarts)
 
-#### Defined in
-
-[ue/ue.d.ts:22619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22619)
-
 ___
 
 ### bUseCustomEndFrame
 
 • **bUseCustomEndFrame**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:22799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22799)
-
 ___
 
 ### bUseCustomStartFrame
 
 • **bUseCustomStartFrame**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22797](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22797)
 
 ___
 
@@ -363,29 +267,17 @@ ___
 
 [MovieSceneCapture](ue_ue.MovieSceneCapture.md).[bUseSeparateProcess](ue_ue.MovieSceneCapture.md#buseseparateprocess)
 
-#### Defined in
-
-[ue/ue.d.ts:22618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22618)
-
 ___
 
 ### bWriteEditDecisionList
 
 • **bWriteEditDecisionList**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:22806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22806)
-
 ___
 
 ### bWriteFinalCutProXML
 
 • **bWriteFinalCutProXML**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22807)
 
 ## Methods
 
@@ -411,10 +303,6 @@ ___
 
 [MovieSceneCapture](ue_ue.MovieSceneCapture.md).[CreateDefaultSubobject](ue_ue.MovieSceneCapture.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -435,10 +323,6 @@ ___
 
 [MovieSceneCapture](ue_ue.MovieSceneCapture.md).[ExecuteUbergraph](ue_ue.MovieSceneCapture.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetAudioCaptureProtocol
@@ -452,10 +336,6 @@ ___
 #### Inherited from
 
 [MovieSceneCapture](ue_ue.MovieSceneCapture.md).[GetAudioCaptureProtocol](ue_ue.MovieSceneCapture.md#getaudiocaptureprotocol)
-
-#### Defined in
-
-[ue/ue.d.ts:22622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22622)
 
 ___
 
@@ -471,10 +351,6 @@ ___
 
 [MovieSceneCapture](ue_ue.MovieSceneCapture.md).[GetClass](ue_ue.MovieSceneCapture.md#getclass)
 
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
-
 ___
 
 ### GetImageCaptureProtocol
@@ -488,10 +364,6 @@ ___
 #### Inherited from
 
 [MovieSceneCapture](ue_ue.MovieSceneCapture.md).[GetImageCaptureProtocol](ue_ue.MovieSceneCapture.md#getimagecaptureprotocol)
-
-#### Defined in
-
-[ue/ue.d.ts:22623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22623)
 
 ___
 
@@ -507,10 +379,6 @@ ___
 
 [MovieSceneCapture](ue_ue.MovieSceneCapture.md).[GetName](ue_ue.MovieSceneCapture.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -525,10 +393,6 @@ ___
 
 [MovieSceneCapture](ue_ue.MovieSceneCapture.md).[GetOuter](ue_ue.MovieSceneCapture.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -542,10 +406,6 @@ ___
 #### Inherited from
 
 [MovieSceneCapture](ue_ue.MovieSceneCapture.md).[GetWorld](ue_ue.MovieSceneCapture.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -567,10 +427,6 @@ ___
 
 [MovieSceneCapture](ue_ue.MovieSceneCapture.md).[SetAudioCaptureProtocolType](ue_ue.MovieSceneCapture.md#setaudiocaptureprotocoltype)
 
-#### Defined in
-
-[ue/ue.d.ts:22624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22624)
-
 ___
 
 ### SetImageCaptureProtocolType
@@ -590,10 +446,6 @@ ___
 #### Inherited from
 
 [MovieSceneCapture](ue_ue.MovieSceneCapture.md).[SetImageCaptureProtocolType](ue_ue.MovieSceneCapture.md#setimagecaptureprotocoltype)
-
-#### Defined in
-
-[ue/ue.d.ts:22625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22625)
 
 ___
 
@@ -616,10 +468,6 @@ ___
 
 [MovieSceneCapture](ue_ue.MovieSceneCapture.md).[Find](ue_ue.MovieSceneCapture.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:22810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22810)
-
 ___
 
 ### Load
@@ -640,10 +488,6 @@ ___
 
 [MovieSceneCapture](ue_ue.MovieSceneCapture.md).[Load](ue_ue.MovieSceneCapture.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:22811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22811)
-
 ___
 
 ### StaticClass
@@ -657,7 +501,3 @@ ___
 #### Overrides
 
 [MovieSceneCapture](ue_ue.MovieSceneCapture.md).[StaticClass](ue_ue.MovieSceneCapture.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:22809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22809)

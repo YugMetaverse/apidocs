@@ -68,10 +68,6 @@
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[constructor](ue_ue.SoundSurroundFactory.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:59347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59347)
-
 ## Properties
 
 ### AssetImportTask
@@ -81,10 +77,6 @@
 #### Inherited from
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[AssetImportTask](ue_ue.SoundSurroundFactory.md#assetimporttask)
-
-#### Defined in
-
-[ue/ue.d.ts:15338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15338)
 
 ___
 
@@ -96,10 +88,6 @@ ___
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[AutomatedImportData](ue_ue.SoundSurroundFactory.md#automatedimportdata)
 
-#### Defined in
-
-[ue/ue.d.ts:15337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15337)
-
 ___
 
 ### ContextClass
@@ -109,10 +97,6 @@ ___
 #### Inherited from
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[ContextClass](ue_ue.SoundSurroundFactory.md#contextclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15331)
 
 ___
 
@@ -124,10 +108,6 @@ ___
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[CueVolume](ue_ue.SoundSurroundFactory.md#cuevolume)
 
-#### Defined in
-
-[ue/ue.d.ts:59338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59338)
-
 ___
 
 ### Formats
@@ -137,10 +117,6 @@ ___
 #### Inherited from
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[Formats](ue_ue.SoundSurroundFactory.md#formats)
-
-#### Defined in
-
-[ue/ue.d.ts:15332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15332)
 
 ___
 
@@ -152,10 +128,6 @@ ___
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[ImportPriority](ue_ue.SoundSurroundFactory.md#importpriority)
 
-#### Defined in
-
-[ue/ue.d.ts:15336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15336)
-
 ___
 
 ### OverwriteYesOrNoToAllState
@@ -166,19 +138,11 @@ ___
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[OverwriteYesOrNoToAllState](ue_ue.SoundSurroundFactory.md#overwriteyesornotoallstate)
 
-#### Defined in
-
-[ue/ue.d.ts:15339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15339)
-
 ___
 
 ### ReimportPaths
 
 • **ReimportPaths**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:59348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59348)
 
 ___
 
@@ -190,10 +154,6 @@ ___
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[SupportedClass](ue_ue.SoundSurroundFactory.md#supportedclass)
 
-#### Defined in
-
-[ue/ue.d.ts:15330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15330)
-
 ___
 
 ### \_\_tid\_Factory\_\_
@@ -203,10 +163,6 @@ ___
 #### Inherited from
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[__tid_Factory__](ue_ue.SoundSurroundFactory.md#__tid_factory__)
-
-#### Defined in
-
-[ue/ue.d.ts:15346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15346)
 
 ___
 
@@ -218,19 +174,11 @@ ___
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[__tid_Object__](ue_ue.SoundSurroundFactory.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ReimportSoundSurroundFactory\_\_
 
 • **\_\_tid\_ReimportSoundSurroundFactory\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:59353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59353)
 
 ___
 
@@ -242,10 +190,6 @@ ___
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[__tid_SoundSurroundFactory__](ue_ue.SoundSurroundFactory.md#__tid_soundsurroundfactory__)
 
-#### Defined in
-
-[ue/ue.d.ts:59343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59343)
-
 ___
 
 ### bCreateNew
@@ -255,10 +199,6 @@ ___
 #### Inherited from
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[bCreateNew](ue_ue.SoundSurroundFactory.md#bcreatenew)
-
-#### Defined in
-
-[ue/ue.d.ts:15329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15329)
 
 ___
 
@@ -270,10 +210,6 @@ ___
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[bEditAfterNew](ue_ue.SoundSurroundFactory.md#beditafternew)
 
-#### Defined in
-
-[ue/ue.d.ts:15333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15333)
-
 ___
 
 ### bEditorImport
@@ -284,10 +220,6 @@ ___
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[bEditorImport](ue_ue.SoundSurroundFactory.md#beditorimport)
 
-#### Defined in
-
-[ue/ue.d.ts:15334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15334)
-
 ___
 
 ### bText
@@ -297,10 +229,6 @@ ___
 #### Inherited from
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[bText](ue_ue.SoundSurroundFactory.md#btext)
-
-#### Defined in
-
-[ue/ue.d.ts:15335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15335)
 
 ## Methods
 
@@ -326,10 +254,6 @@ ___
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[CreateDefaultSubobject](ue_ue.SoundSurroundFactory.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -350,10 +274,6 @@ ___
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[ExecuteUbergraph](ue_ue.SoundSurroundFactory.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -367,10 +287,6 @@ ___
 #### Inherited from
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[GetClass](ue_ue.SoundSurroundFactory.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -386,10 +302,6 @@ ___
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[GetName](ue_ue.SoundSurroundFactory.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -404,10 +316,6 @@ ___
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[GetOuter](ue_ue.SoundSurroundFactory.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -421,10 +329,6 @@ ___
 #### Inherited from
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[GetWorld](ue_ue.SoundSurroundFactory.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -446,10 +350,6 @@ ___
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[ScriptFactoryCanImport](ue_ue.SoundSurroundFactory.md#scriptfactorycanimport)
 
-#### Defined in
-
-[ue/ue.d.ts:15340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15340)
-
 ___
 
 ### ScriptFactoryCreateFile
@@ -469,10 +369,6 @@ ___
 #### Inherited from
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[ScriptFactoryCreateFile](ue_ue.SoundSurroundFactory.md#scriptfactorycreatefile)
-
-#### Defined in
-
-[ue/ue.d.ts:15341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15341)
 
 ___
 
@@ -495,10 +391,6 @@ ___
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[Find](ue_ue.SoundSurroundFactory.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:59350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59350)
-
 ___
 
 ### Load
@@ -519,10 +411,6 @@ ___
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[Load](ue_ue.SoundSurroundFactory.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:59351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59351)
-
 ___
 
 ### StaticClass
@@ -536,7 +424,3 @@ ___
 #### Overrides
 
 [SoundSurroundFactory](ue_ue.SoundSurroundFactory.md).[StaticClass](ue_ue.SoundSurroundFactory.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:59349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59349)

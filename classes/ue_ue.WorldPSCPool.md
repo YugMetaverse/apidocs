@@ -26,10 +26,6 @@
 
 • **new WorldPSCPool**()
 
-#### Defined in
-
-[ue/ue.d.ts:10273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10273)
-
 • **new WorldPSCPool**(`WorldParticleSystemPools`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `WorldParticleSystemPools` | [`TMap`](../interfaces/ue_puerts.TMap.md)<[`ParticleSystem`](ue_ue.ParticleSystem.md), [`PSCPool`](ue_ue.PSCPool.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:10274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10274)
-
 ## Properties
 
 ### WorldParticleSystemPools
 
 • **WorldParticleSystemPools**: [`TMap`](../interfaces/ue_puerts.TMap.md)<[`ParticleSystem`](ue_ue.ParticleSystem.md), [`PSCPool`](ue_ue.PSCPool.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:10275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10275)
-
 ___
 
 ### \_\_tid\_WorldPSCPool\_\_
 
 • `Private` **\_\_tid\_WorldPSCPool\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10281)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10279)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10280)

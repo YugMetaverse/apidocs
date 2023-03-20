@@ -37,10 +37,6 @@
 
 • **new Guid**()
 
-#### Defined in
-
-[ue/ue_s.d.ts:5](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L5)
-
 • **new Guid**(`InA`, `InB`, `InC`, `InD`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `InC` | `number` |
 | `InD` | `number` |
 
-#### Defined in
-
-[ue/ue_s.d.ts:6](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L6)
-
 ## Properties
 
 ### A
 
 • **A**: `number`
-
-#### Defined in
-
-[ue/ue_s.d.ts:7](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L7)
 
 ___
 
@@ -72,19 +60,11 @@ ___
 
 • **B**: `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:8](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L8)
-
 ___
 
 ### C
 
 • **C**: `number`
-
-#### Defined in
-
-[ue/ue_s.d.ts:9](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L9)
 
 ___
 
@@ -92,19 +72,11 @@ ___
 
 • **D**: `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:10](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L10)
-
 ___
 
 ### \_\_tid\_Guid\_\_
 
 • `Private` **\_\_tid\_Guid\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:27](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L27)
 
 ## Methods
 
@@ -116,10 +88,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L13)
-
 ___
 
 ### IsValid
@@ -130,10 +98,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L14)
-
 ___
 
 ### ToString
@@ -143,10 +107,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue_s.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L15)
 
 ▸ **ToString**(`Format`): `string`
 
@@ -159,10 +119,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue_s.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L16)
 
 ___
 
@@ -180,10 +136,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L12)
-
 ___
 
 ### set\_Item
@@ -200,10 +152,6 @@ ___
 
 [`$Ref`](../interfaces/puerts._Ref.md)<`number`\>
 
-#### Defined in
-
-[ue/ue_s.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L11)
-
 ___
 
 ### NewGuid
@@ -213,10 +161,6 @@ ___
 #### Returns
 
 [`Guid`](ue_ue_s.Guid.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:17](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L17)
 
 ___
 
@@ -234,10 +178,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:18](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L18)
 
 ___
 
@@ -257,10 +197,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:19](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L19)
-
 ___
 
 ### StaticClass
@@ -275,10 +211,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:24](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L24)
-
 ___
 
 ### StaticStruct
@@ -288,7 +220,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:25](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L25)

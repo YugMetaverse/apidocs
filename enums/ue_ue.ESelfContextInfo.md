@@ -19,19 +19,11 @@
 
 • **ESelfContextInfo\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34762)
-
 ___
 
 ### NotSelfContext
 
 • **NotSelfContext** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34762)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Unspecified** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34762)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34762)

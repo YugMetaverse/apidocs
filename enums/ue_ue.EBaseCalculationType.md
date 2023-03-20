@@ -20,19 +20,11 @@
 
 • **EBaseCalculationType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:106](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L106)
-
 ___
 
 ### FixedNumber
 
 • **FixedNumber** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:106](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L106)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:106](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L106)
-
 ___
 
 ### PercentageBased
 
 • **PercentageBased** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:106](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L106)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:106](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L106)

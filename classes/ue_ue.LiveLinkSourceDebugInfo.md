@@ -28,10 +28,6 @@
 
 • **new LiveLinkSourceDebugInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:45832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45832)
-
 • **new LiveLinkSourceDebugInfo**(`SubjectName`, `SnapshotIndex`, `NumberOfBufferAtSnapshot`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `SnapshotIndex` | `number` |
 | `NumberOfBufferAtSnapshot` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:45833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45833)
-
 ## Properties
 
 ### NumberOfBufferAtSnapshot
 
 • **NumberOfBufferAtSnapshot**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:45836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45836)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **SnapshotIndex**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:45835](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45835)
-
 ___
 
 ### SubjectName
 
 • **SubjectName**: [`LiveLinkSubjectName`](ue_ue.LiveLinkSubjectName.md)
 
-#### Defined in
-
-[ue/ue.d.ts:45834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45834)
-
 ___
 
 ### \_\_tid\_LiveLinkSourceDebugInfo\_\_
 
 • `Private` **\_\_tid\_LiveLinkSourceDebugInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:45842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45842)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:45840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45840)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:45841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45841)

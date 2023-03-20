@@ -19,19 +19,11 @@
 
 • **Begin** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2912)
-
 ___
 
 ### EAnimNotifyEventType\_MAX
 
 • **EAnimNotifyEventType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2912)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **End** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2912)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2912)

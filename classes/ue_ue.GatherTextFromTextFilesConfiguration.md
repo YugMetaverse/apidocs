@@ -30,10 +30,6 @@
 
 • **new GatherTextFromTextFilesConfiguration**()
 
-#### Defined in
-
-[ue/ue.d.ts:46017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46017)
-
 • **new GatherTextFromTextFilesConfiguration**(`IsEnabled`, `SearchDirectories`, `ExcludePathWildcards`, `FileExtensions`, `ShouldGatherFromEditorOnlyData`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `FileExtensions` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`GatherTextFileExtension`](ue_ue.GatherTextFileExtension.md)\> |
 | `ShouldGatherFromEditorOnlyData` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:46018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46018)
-
 ## Properties
 
 ### ExcludePathWildcards
 
 • **ExcludePathWildcards**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`GatherTextExcludePath`](ue_ue.GatherTextExcludePath.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:46021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46021)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **FileExtensions**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`GatherTextFileExtension`](ue_ue.GatherTextFileExtension.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:46022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46022)
-
 ___
 
 ### IsEnabled
 
 • **IsEnabled**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46019)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **SearchDirectories**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`GatherTextSearchDirectory`](ue_ue.GatherTextSearchDirectory.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:46020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46020)
-
 ___
 
 ### ShouldGatherFromEditorOnlyData
 
 • **ShouldGatherFromEditorOnlyData**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46023)
-
 ___
 
 ### \_\_tid\_GatherTextFromTextFilesConfiguration\_\_
 
 • `Private` **\_\_tid\_GatherTextFromTextFilesConfiguration\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46029](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46029)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46027)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46028)

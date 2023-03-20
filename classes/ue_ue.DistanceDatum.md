@@ -30,10 +30,6 @@
 
 • **new DistanceDatum**()
 
-#### Defined in
-
-[ue/ue.d.ts:61361](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61361)
-
 • **new DistanceDatum**(`FadeInDistanceStart`, `FadeInDistanceEnd`, `FadeOutDistanceStart`, `FadeOutDistanceEnd`, `Volume`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `FadeOutDistanceEnd` | `number` |
 | `Volume` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:61362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61362)
-
 ## Properties
 
 ### FadeInDistanceEnd
 
 • **FadeInDistanceEnd**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:61364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61364)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **FadeInDistanceStart**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:61363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61363)
-
 ___
 
 ### FadeOutDistanceEnd
 
 • **FadeOutDistanceEnd**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:61366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61366)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **FadeOutDistanceStart**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:61365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61365)
-
 ___
 
 ### Volume
 
 • **Volume**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:61367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61367)
-
 ___
 
 ### \_\_tid\_DistanceDatum\_\_
 
 • `Private` **\_\_tid\_DistanceDatum\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:61373](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61373)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:61371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61371)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:61372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61372)

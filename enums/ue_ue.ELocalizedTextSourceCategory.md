@@ -20,19 +20,11 @@
 
 • **ELocalizedTextSourceCategory\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33972)
-
 ___
 
 ### Editor
 
 • **Editor** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33972)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Engine** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33972)
-
 ___
 
 ### Game
 
 • **Game** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33972)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33972)

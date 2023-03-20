@@ -78,19 +78,11 @@
 
 • **BrowDownLeft** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### BrowDownRight
 
 • **BrowDownRight** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -98,19 +90,11 @@ ___
 
 • **BrowInnerUp** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### BrowOuterUpLeft
 
 • **BrowOuterUpLeft** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -118,19 +102,11 @@ ___
 
 • **BrowOuterUpRight** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### CheekPuff
 
 • **CheekPuff** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -138,19 +114,11 @@ ___
 
 • **CheekSquintLeft** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### CheekSquintRight
 
 • **CheekSquintRight** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -158,19 +126,11 @@ ___
 
 • **EyeBlinkLeft** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### EyeBlinkRight
 
 • **EyeBlinkRight** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -178,19 +138,11 @@ ___
 
 • **EyeLookDownLeft** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### EyeLookDownRight
 
 • **EyeLookDownRight** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -198,19 +150,11 @@ ___
 
 • **EyeLookInLeft** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### EyeLookInRight
 
 • **EyeLookInRight** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -218,19 +162,11 @@ ___
 
 • **EyeLookOutLeft** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### EyeLookOutRight
 
 • **EyeLookOutRight** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -238,19 +174,11 @@ ___
 
 • **EyeLookUpLeft** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### EyeLookUpRight
 
 • **EyeLookUpRight** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -258,19 +186,11 @@ ___
 
 • **EyeSquintLeft** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### EyeSquintRight
 
 • **EyeSquintRight** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -278,19 +198,11 @@ ___
 
 • **EyeWideLeft** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### EyeWideRight
 
 • **EyeWideRight** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -298,19 +210,11 @@ ___
 
 • **HeadPitch** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### HeadRoll
 
 • **HeadRoll** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -318,19 +222,11 @@ ___
 
 • **HeadYaw** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### JawForward
 
 • **JawForward** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -338,19 +234,11 @@ ___
 
 • **JawLeft** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### JawOpen
 
 • **JawOpen** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -358,19 +246,11 @@ ___
 
 • **JawRight** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### LeftEyePitch
 
 • **LeftEyePitch** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -378,19 +258,11 @@ ___
 
 • **LeftEyeRoll** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### LeftEyeYaw
 
 • **LeftEyeYaw** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -398,19 +270,11 @@ ___
 
 • **MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### MouthClose
 
 • **MouthClose** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -418,19 +282,11 @@ ___
 
 • **MouthDimpleLeft** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### MouthDimpleRight
 
 • **MouthDimpleRight** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -438,19 +294,11 @@ ___
 
 • **MouthFrownLeft** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### MouthFrownRight
 
 • **MouthFrownRight** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -458,19 +306,11 @@ ___
 
 • **MouthFunnel** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### MouthLeft
 
 • **MouthLeft** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -478,19 +318,11 @@ ___
 
 • **MouthLowerDownLeft** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### MouthLowerDownRight
 
 • **MouthLowerDownRight** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -498,19 +330,11 @@ ___
 
 • **MouthPressLeft** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### MouthPressRight
 
 • **MouthPressRight** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -518,19 +342,11 @@ ___
 
 • **MouthPucker** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### MouthRight
 
 • **MouthRight** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -538,19 +354,11 @@ ___
 
 • **MouthRollLower** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### MouthRollUpper
 
 • **MouthRollUpper** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -558,19 +366,11 @@ ___
 
 • **MouthShrugLower** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### MouthShrugUpper
 
 • **MouthShrugUpper** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -578,19 +378,11 @@ ___
 
 • **MouthSmileLeft** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### MouthSmileRight
 
 • **MouthSmileRight** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -598,19 +390,11 @@ ___
 
 • **MouthStretchLeft** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### MouthStretchRight
 
 • **MouthStretchRight** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -618,19 +402,11 @@ ___
 
 • **MouthUpperUpLeft** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### MouthUpperUpRight
 
 • **MouthUpperUpRight** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -638,19 +414,11 @@ ___
 
 • **NoseSneerLeft** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### NoseSneerRight
 
 • **NoseSneerRight** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -658,19 +426,11 @@ ___
 
 • **RightEyePitch** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### RightEyeRoll
 
 • **RightEyeRoll** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
 
 ___
 
@@ -678,26 +438,14 @@ ___
 
 • **RightEyeYaw** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### TongueOut
 
 • **TongueOut** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:21203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21203)

@@ -22,19 +22,11 @@
 
 • **ELuminComponentSubElementType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33983)
-
 ___
 
 ### FileExtension
 
 • **FileExtension** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33983)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **MimeType** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33983)
-
 ___
 
 ### Mode
 
 • **Mode** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33983)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **MusicAttribute** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33983)
-
 ___
 
 ### Schema
 
 • **Schema** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33983)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33983)

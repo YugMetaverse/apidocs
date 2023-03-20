@@ -40,19 +40,11 @@
 | :------ | :------ |
 | `...args` | `any`[] |
 
-#### Defined in
-
-[ffi/index.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L13)
-
 ## Properties
 
 ### size
 
 • **size**: `number`
-
-#### Defined in
-
-[ffi/index.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L15)
 
 ## Methods
 
@@ -69,10 +61,6 @@
 #### Returns
 
 `Uint8Array`
-
-#### Defined in
-
-[ffi/index.d.ts:17](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L17)
 
 ___
 
@@ -91,10 +79,6 @@ ___
 
 `any`
 
-#### Defined in
-
-[ffi/index.d.ts:23](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L23)
-
 ___
 
 ### read
@@ -111,10 +95,6 @@ ___
 #### Returns
 
 `any`
-
-#### Defined in
-
-[ffi/index.d.ts:19](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L19)
 
 ___
 
@@ -134,10 +114,6 @@ ___
 
 `any`
 
-#### Defined in
-
-[ffi/index.d.ts:25](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L25)
-
 ___
 
 ### write
@@ -155,7 +131,3 @@ ___
 #### Returns
 
 `number`
-
-#### Defined in
-
-[ffi/index.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L21)

@@ -22,19 +22,11 @@
 
 • **DropFrameTimecode** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33873)
-
 ___
 
 ### EFrameNumberDisplayFormats\_MAX
 
 • **EFrameNumberDisplayFormats\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33873)
 
 ___
 
@@ -42,19 +34,11 @@ ___
 
 • **Frames** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33873)
-
 ___
 
 ### MAX\_Count
 
 • **MAX\_Count** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33873)
 
 ___
 
@@ -62,26 +46,14 @@ ___
 
 • **NonDropFrameTimecode** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33873)
-
 ___
 
 ### Seconds
 
 • **Seconds** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33873)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33873)

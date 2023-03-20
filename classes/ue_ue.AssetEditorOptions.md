@@ -27,10 +27,6 @@
 
 • **new AssetEditorOptions**()
 
-#### Defined in
-
-[ue/ue.d.ts:57192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57192)
-
 • **new AssetEditorOptions**(`Context`, `ViewportConfigs`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Context` | `string` |
 | `ViewportConfigs` | [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<[`ViewportConfigOptions`](ue_ue.ViewportConfigOptions.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:57193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57193)
-
 ## Properties
 
 ### Context
 
 • **Context**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:57194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57194)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **ViewportConfigs**: [`FixSizeArray`](../interfaces/ue_puerts.FixSizeArray.md)<[`ViewportConfigOptions`](ue_ue.ViewportConfigOptions.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:57195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57195)
-
 ___
 
 ### \_\_tid\_AssetEditorOptions\_\_
 
 • `Private` **\_\_tid\_AssetEditorOptions\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:57201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57201)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:57199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57199)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:57200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57200)

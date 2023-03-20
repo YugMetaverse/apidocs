@@ -34,10 +34,6 @@
 
 • **new PaperTerrainMaterialRule**()
 
-#### Defined in
-
-[ue/ue.d.ts:54933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54933)
-
 • **new PaperTerrainMaterialRule**(`StartCap`, `Body`, `EndCap`, `MinimumAngle`, `MaximumAngle`, `bEnableCollision`, `CollisionOffset`, `DrawOrder`, `Description`)
 
 #### Parameters
@@ -54,19 +50,11 @@
 | `DrawOrder` | `number` |
 | `Description` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:54934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54934)
-
 ## Properties
 
 ### Body
 
 • **Body**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`PaperSprite`](ue_ue.PaperSprite.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:54936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54936)
 
 ___
 
@@ -74,19 +62,11 @@ ___
 
 • **CollisionOffset**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:54941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54941)
-
 ___
 
 ### Description
 
 • **Description**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:54943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54943)
 
 ___
 
@@ -94,19 +74,11 @@ ___
 
 • **DrawOrder**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:54942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54942)
-
 ___
 
 ### EndCap
 
 • **EndCap**: [`PaperSprite`](ue_ue.PaperSprite.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54937)
 
 ___
 
@@ -114,19 +86,11 @@ ___
 
 • **MaximumAngle**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:54939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54939)
-
 ___
 
 ### MinimumAngle
 
 • **MinimumAngle**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:54938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54938)
 
 ___
 
@@ -134,29 +98,17 @@ ___
 
 • **StartCap**: [`PaperSprite`](ue_ue.PaperSprite.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54935)
-
 ___
 
 ### \_\_tid\_PaperTerrainMaterialRule\_\_
 
 • `Private` **\_\_tid\_PaperTerrainMaterialRule\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:54949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54949)
-
 ___
 
 ### bEnableCollision
 
 • **bEnableCollision**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54940)
 
 ## Methods
 
@@ -172,10 +124,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:54947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54947)
-
 ___
 
 ### StaticStruct
@@ -185,7 +133,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:54948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54948)

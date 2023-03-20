@@ -28,10 +28,6 @@
 
 • **new ForeignSplineSegmentData**()
 
-#### Defined in
-
-[ue/ue.d.ts:43770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43770)
-
 • **new ForeignSplineSegmentData**(`ModificationKey`, `MeshComponents`, `Identifier`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `MeshComponents` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SplineMeshComponent`](ue_ue.SplineMeshComponent.md)\> |
 | `Identifier` | [`TLazyObjectPtr`](../modules/ue_puerts.md#tlazyobjectptr)<[`LandscapeSplineSegment`](ue_ue.LandscapeSplineSegment.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:43771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43771)
-
 ## Properties
 
 ### Identifier
 
 • **Identifier**: [`TLazyObjectPtr`](../modules/ue_puerts.md#tlazyobjectptr)<[`LandscapeSplineSegment`](ue_ue.LandscapeSplineSegment.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:43774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43774)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **MeshComponents**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`SplineMeshComponent`](ue_ue.SplineMeshComponent.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:43773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43773)
-
 ___
 
 ### ModificationKey
 
 • **ModificationKey**: [`Guid`](ue_ue_s.Guid.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43772)
-
 ___
 
 ### \_\_tid\_ForeignSplineSegmentData\_\_
 
 • `Private` **\_\_tid\_ForeignSplineSegmentData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43780)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43778](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43778)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43779)

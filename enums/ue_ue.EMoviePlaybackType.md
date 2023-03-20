@@ -20,19 +20,11 @@
 
 • **MT\_LoadingLoop** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34066)
-
 ___
 
 ### MT\_Looped
 
 • **MT\_Looped** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34066)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **MT\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34066)
-
 ___
 
 ### MT\_Normal
 
 • **MT\_Normal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34066)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34066)

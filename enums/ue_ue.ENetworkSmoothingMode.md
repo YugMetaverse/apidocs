@@ -21,19 +21,11 @@
 
 • **Disabled** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5506)
-
 ___
 
 ### ENetworkSmoothingMode\_MAX
 
 • **ENetworkSmoothingMode\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5506)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Exponential** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5506)
-
 ___
 
 ### Linear
 
 • **Linear** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5506)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Replay** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:5506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5506)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:5506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5506)

@@ -36,10 +36,6 @@
 
 • **new ChaosPhysicsCollisionInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:26765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26765)
-
 • **new ChaosPhysicsCollisionInfo**(`Component`, `OtherComponent`, `Location`, `Normal`, `AccumulatedImpulse`, `Velocity`, `OtherVelocity`, `AngularVelocity`, `OtherAngularVelocity`, `Mass`, `OtherMass`)
 
 #### Parameters
@@ -58,19 +54,11 @@
 | `Mass` | `number` |
 | `OtherMass` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:26766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26766)
-
 ## Properties
 
 ### AccumulatedImpulse
 
 • **AccumulatedImpulse**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26771)
 
 ___
 
@@ -78,19 +66,11 @@ ___
 
 • **AngularVelocity**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26774)
-
 ___
 
 ### Component
 
 • **Component**: [`PrimitiveComponent`](ue_ue.PrimitiveComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26767)
 
 ___
 
@@ -98,19 +78,11 @@ ___
 
 • **Location**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26769)
-
 ___
 
 ### Mass
 
 • **Mass**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26776](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26776)
 
 ___
 
@@ -118,19 +90,11 @@ ___
 
 • **Normal**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26770)
-
 ___
 
 ### OtherAngularVelocity
 
 • **OtherAngularVelocity**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26775)
 
 ___
 
@@ -138,19 +102,11 @@ ___
 
 • **OtherComponent**: [`PrimitiveComponent`](ue_ue.PrimitiveComponent.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26768)
-
 ___
 
 ### OtherMass
 
 • **OtherMass**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:26777](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26777)
 
 ___
 
@@ -158,29 +114,17 @@ ___
 
 • **OtherVelocity**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26773)
-
 ___
 
 ### Velocity
 
 • **Velocity**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26772)
-
 ___
 
 ### \_\_tid\_ChaosPhysicsCollisionInfo\_\_
 
 • `Private` **\_\_tid\_ChaosPhysicsCollisionInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:26783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26783)
 
 ## Methods
 
@@ -196,10 +140,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:26781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26781)
-
 ___
 
 ### StaticStruct
@@ -209,7 +149,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:26782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26782)

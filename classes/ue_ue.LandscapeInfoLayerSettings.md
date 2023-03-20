@@ -31,10 +31,6 @@
 
 • **new LandscapeInfoLayerSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:44392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44392)
-
 • **new LandscapeInfoLayerSettings**(`LayerInfoObj`, `LayerName`, `ThumbnailMIC`, `Owner`, `DebugColorChannel`, `bValid`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `DebugColorChannel` | `number` |
 | `bValid` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:44393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44393)
-
 ## Properties
 
 ### DebugColorChannel
 
 • **DebugColorChannel**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:44398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44398)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **LayerInfoObj**: [`LandscapeLayerInfoObject`](ue_ue.LandscapeLayerInfoObject.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44394)
-
 ___
 
 ### LayerName
 
 • **LayerName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:44395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44395)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **Owner**: [`LandscapeProxy`](ue_ue.LandscapeProxy.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44397)
-
 ___
 
 ### ThumbnailMIC
 
 • **ThumbnailMIC**: [`MaterialInstanceConstant`](ue_ue.MaterialInstanceConstant.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44396)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • `Private` **\_\_tid\_LandscapeInfoLayerSettings\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:44405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44405)
-
 ___
 
 ### bValid
 
 • **bValid**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:44399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44399)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:44403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44403)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:44404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44404)

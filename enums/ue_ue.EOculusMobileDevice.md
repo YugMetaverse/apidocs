@@ -19,19 +19,11 @@
 
 • **EOculusMobileDevice\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16405)
-
 ___
 
 ### GearGo
 
 • **GearGo** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16405)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Quest** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16405)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16405)

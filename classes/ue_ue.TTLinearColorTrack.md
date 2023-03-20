@@ -39,10 +39,6 @@
 
 [TTPropertyTrack](ue_ue.TTPropertyTrack.md).[constructor](ue_ue.TTPropertyTrack.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:4269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4269)
-
 • **new TTLinearColorTrack**(`CurveLinearColor`)
 
 #### Parameters
@@ -55,19 +51,11 @@
 
 [TTPropertyTrack](ue_ue.TTPropertyTrack.md).[constructor](ue_ue.TTPropertyTrack.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:4270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4270)
-
 ## Properties
 
 ### CurveLinearColor
 
 • **CurveLinearColor**: [`CurveLinearColor`](ue_ue.CurveLinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4271)
 
 ___
 
@@ -79,10 +67,6 @@ ___
 
 [TTPropertyTrack](ue_ue.TTPropertyTrack.md).[PropertyName](ue_ue.TTPropertyTrack.md#propertyname)
 
-#### Defined in
-
-[ue/ue.d.ts:4224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4224)
-
 ___
 
 ### TrackName
@@ -93,19 +77,11 @@ ___
 
 [TTPropertyTrack](ue_ue.TTPropertyTrack.md).[TrackName](ue_ue.TTPropertyTrack.md#trackname)
 
-#### Defined in
-
-[ue/ue.d.ts:4198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4198)
-
 ___
 
 ### \_\_tid\_TTLinearColorTrack\_\_
 
 • `Private` **\_\_tid\_TTLinearColorTrack\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4277)
 
 ___
 
@@ -116,10 +92,6 @@ ___
 #### Inherited from
 
 [TTPropertyTrack](ue_ue.TTPropertyTrack.md).[bIsExternalCurve](ue_ue.TTPropertyTrack.md#bisexternalcurve)
-
-#### Defined in
-
-[ue/ue.d.ts:4199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4199)
 
 ## Methods
 
@@ -139,10 +111,6 @@ use StaticStruct instead.
 
 [TTPropertyTrack](ue_ue.TTPropertyTrack.md).[StaticClass](ue_ue.TTPropertyTrack.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:4275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4275)
-
 ___
 
 ### StaticStruct
@@ -156,7 +124,3 @@ ___
 #### Overrides
 
 [TTPropertyTrack](ue_ue.TTPropertyTrack.md).[StaticStruct](ue_ue.TTPropertyTrack.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:4276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4276)

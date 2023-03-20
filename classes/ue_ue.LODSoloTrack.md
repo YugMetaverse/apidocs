@@ -26,10 +26,6 @@
 
 • **new LODSoloTrack**()
 
-#### Defined in
-
-[ue/ue.d.ts:7176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7176)
-
 • **new LODSoloTrack**(`SoloEnableSetting`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `SoloEnableSetting` | [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\> |
 
-#### Defined in
-
-[ue/ue.d.ts:7177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7177)
-
 ## Properties
 
 ### SoloEnableSetting
 
 • **SoloEnableSetting**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`number`\>
 
-#### Defined in
-
-[ue/ue.d.ts:7178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7178)
-
 ___
 
 ### \_\_tid\_LODSoloTrack\_\_
 
 • `Private` **\_\_tid\_LODSoloTrack\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7184)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7182)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7183)

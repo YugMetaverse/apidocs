@@ -71,19 +71,11 @@
 
 [Interface](ue_ue.Interface.md).[constructor](ue_ue.Interface.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:21804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21804)
-
 ## Properties
 
 ### \_\_tid\_AssetRegistry\_\_
 
 • **\_\_tid\_AssetRegistry\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21828)
 
 ___
 
@@ -95,10 +87,6 @@ ___
 
 [Interface](ue_ue.Interface.md).[__tid_Interface__](ue_ue.Interface.md#__tid_interface__)
 
-#### Defined in
-
-[ue/ue.d.ts:8142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8142)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -108,10 +96,6 @@ ___
 #### Inherited from
 
 [Interface](ue_ue.Interface.md).[__tid_Object__](ue_ue.Interface.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -137,10 +121,6 @@ ___
 
 [Interface](ue_ue.Interface.md).[CreateDefaultSubobject](ue_ue.Interface.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -161,10 +141,6 @@ ___
 
 [Interface](ue_ue.Interface.md).[ExecuteUbergraph](ue_ue.Interface.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetAllAssets
@@ -182,10 +158,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:21805](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21805)
-
 ___
 
 ### GetAllCachedPaths
@@ -201,10 +173,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:21806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21806)
 
 ___
 
@@ -223,10 +191,6 @@ ___
 
 [`AssetData`](ue_ue.AssetData.md)
 
-#### Defined in
-
-[ue/ue.d.ts:21807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21807)
-
 ___
 
 ### GetAssets
@@ -243,10 +207,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21808](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21808)
 
 ___
 
@@ -266,10 +226,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:21809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21809)
-
 ___
 
 ### GetAssetsByPackageName
@@ -287,10 +243,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21810)
 
 ___
 
@@ -311,10 +263,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:21811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21811)
-
 ___
 
 ### GetClass
@@ -328,10 +276,6 @@ ___
 #### Inherited from
 
 [Interface](ue_ue.Interface.md).[GetClass](ue_ue.Interface.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -347,10 +291,6 @@ ___
 
 [Interface](ue_ue.Interface.md).[GetName](ue_ue.Interface.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -364,10 +304,6 @@ ___
 #### Inherited from
 
 [Interface](ue_ue.Interface.md).[GetOuter](ue_ue.Interface.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -387,10 +323,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:21812](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21812)
-
 ___
 
 ### GetWorld
@@ -404,10 +336,6 @@ ___
 #### Inherited from
 
 [Interface](ue_ue.Interface.md).[GetWorld](ue_ue.Interface.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -426,10 +354,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:21813](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21813)
-
 ___
 
 ### IsLoadingAssets
@@ -439,10 +363,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:21814](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21814)
 
 ___
 
@@ -462,10 +382,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:21815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21815)
-
 ___
 
 ### K2\_GetReferencers
@@ -484,10 +400,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:21816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21816)
-
 ___
 
 ### PrioritizeSearchPath
@@ -503,10 +415,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:21817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21817)
 
 ___
 
@@ -525,10 +433,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:21818](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21818)
-
 ___
 
 ### ScanFilesSynchronous
@@ -546,10 +450,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:21819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21819)
-
 ___
 
 ### ScanModifiedAssetFiles
@@ -565,10 +465,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:21820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21820)
 
 ___
 
@@ -587,10 +483,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:21821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21821)
-
 ___
 
 ### SearchAllAssets
@@ -606,10 +498,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:21822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21822)
 
 ___
 
@@ -627,10 +515,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:21823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21823)
 
 ___
 
@@ -653,10 +537,6 @@ ___
 
 [Interface](ue_ue.Interface.md).[Find](ue_ue.Interface.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:21825](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21825)
-
 ___
 
 ### Load
@@ -677,10 +557,6 @@ ___
 
 [Interface](ue_ue.Interface.md).[Load](ue_ue.Interface.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:21826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21826)
-
 ___
 
 ### StaticClass
@@ -694,7 +570,3 @@ ___
 #### Overrides
 
 [Interface](ue_ue.Interface.md).[StaticClass](ue_ue.Interface.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:21824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21824)

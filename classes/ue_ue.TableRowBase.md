@@ -31,19 +31,11 @@
 
 • **new TableRowBase**()
 
-#### Defined in
-
-[ue/ue.d.ts:30184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30184)
-
 ## Properties
 
 ### \_\_tid\_TableRowBase\_\_
 
 • `Private` **\_\_tid\_TableRowBase\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30190)
 
 ## Methods
 
@@ -59,10 +51,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:30188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30188)
-
 ___
 
 ### StaticStruct
@@ -72,7 +60,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:30189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30189)

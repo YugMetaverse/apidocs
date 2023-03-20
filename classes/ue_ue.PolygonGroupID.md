@@ -36,10 +36,6 @@
 
 [ElementID](ue_ue.ElementID.md).[constructor](ue_ue.ElementID.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:7933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7933)
-
 ## Properties
 
 ### IDValue
@@ -50,19 +46,11 @@
 
 [ElementID](ue_ue.ElementID.md).[IDValue](ue_ue.ElementID.md#idvalue)
 
-#### Defined in
-
-[ue/ue.d.ts:7893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7893)
-
 ___
 
 ### \_\_tid\_PolygonGroupID\_\_
 
 • `Private` **\_\_tid\_PolygonGroupID\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:7939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7939)
 
 ## Methods
 
@@ -82,10 +70,6 @@ use StaticStruct instead.
 
 [ElementID](ue_ue.ElementID.md).[StaticClass](ue_ue.ElementID.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:7937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7937)
-
 ___
 
 ### StaticStruct
@@ -99,7 +83,3 @@ ___
 #### Overrides
 
 [ElementID](ue_ue.ElementID.md).[StaticStruct](ue_ue.ElementID.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:7938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7938)

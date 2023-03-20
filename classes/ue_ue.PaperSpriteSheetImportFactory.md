@@ -67,10 +67,6 @@
 
 [Factory](ue_ue.Factory.md).[constructor](ue_ue.Factory.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:54906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54906)
-
 ## Properties
 
 ### AssetImportTask
@@ -80,10 +76,6 @@
 #### Inherited from
 
 [Factory](ue_ue.Factory.md).[AssetImportTask](ue_ue.Factory.md#assetimporttask)
-
-#### Defined in
-
-[ue/ue.d.ts:15338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15338)
 
 ___
 
@@ -95,10 +87,6 @@ ___
 
 [Factory](ue_ue.Factory.md).[AutomatedImportData](ue_ue.Factory.md#automatedimportdata)
 
-#### Defined in
-
-[ue/ue.d.ts:15337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15337)
-
 ___
 
 ### ContextClass
@@ -108,10 +96,6 @@ ___
 #### Inherited from
 
 [Factory](ue_ue.Factory.md).[ContextClass](ue_ue.Factory.md#contextclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15331)
 
 ___
 
@@ -123,10 +107,6 @@ ___
 
 [Factory](ue_ue.Factory.md).[Formats](ue_ue.Factory.md#formats)
 
-#### Defined in
-
-[ue/ue.d.ts:15332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15332)
-
 ___
 
 ### ImportPriority
@@ -136,10 +116,6 @@ ___
 #### Inherited from
 
 [Factory](ue_ue.Factory.md).[ImportPriority](ue_ue.Factory.md#importpriority)
-
-#### Defined in
-
-[ue/ue.d.ts:15336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15336)
 
 ___
 
@@ -151,10 +127,6 @@ ___
 
 [Factory](ue_ue.Factory.md).[OverwriteYesOrNoToAllState](ue_ue.Factory.md#overwriteyesornotoallstate)
 
-#### Defined in
-
-[ue/ue.d.ts:15339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15339)
-
 ___
 
 ### SupportedClass
@@ -164,10 +136,6 @@ ___
 #### Inherited from
 
 [Factory](ue_ue.Factory.md).[SupportedClass](ue_ue.Factory.md#supportedclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15330)
 
 ___
 
@@ -179,10 +147,6 @@ ___
 
 [Factory](ue_ue.Factory.md).[__tid_Factory__](ue_ue.Factory.md#__tid_factory__)
 
-#### Defined in
-
-[ue/ue.d.ts:15346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15346)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -193,19 +157,11 @@ ___
 
 [Factory](ue_ue.Factory.md).[__tid_Object__](ue_ue.Factory.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PaperSpriteSheetImportFactory\_\_
 
 • **\_\_tid\_PaperSpriteSheetImportFactory\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54911)
 
 ___
 
@@ -217,10 +173,6 @@ ___
 
 [Factory](ue_ue.Factory.md).[bCreateNew](ue_ue.Factory.md#bcreatenew)
 
-#### Defined in
-
-[ue/ue.d.ts:15329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15329)
-
 ___
 
 ### bEditAfterNew
@@ -230,10 +182,6 @@ ___
 #### Inherited from
 
 [Factory](ue_ue.Factory.md).[bEditAfterNew](ue_ue.Factory.md#beditafternew)
-
-#### Defined in
-
-[ue/ue.d.ts:15333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15333)
 
 ___
 
@@ -245,10 +193,6 @@ ___
 
 [Factory](ue_ue.Factory.md).[bEditorImport](ue_ue.Factory.md#beditorimport)
 
-#### Defined in
-
-[ue/ue.d.ts:15334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15334)
-
 ___
 
 ### bText
@@ -258,10 +202,6 @@ ___
 #### Inherited from
 
 [Factory](ue_ue.Factory.md).[bText](ue_ue.Factory.md#btext)
-
-#### Defined in
-
-[ue/ue.d.ts:15335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15335)
 
 ## Methods
 
@@ -287,10 +227,6 @@ ___
 
 [Factory](ue_ue.Factory.md).[CreateDefaultSubobject](ue_ue.Factory.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -311,10 +247,6 @@ ___
 
 [Factory](ue_ue.Factory.md).[ExecuteUbergraph](ue_ue.Factory.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -328,10 +260,6 @@ ___
 #### Inherited from
 
 [Factory](ue_ue.Factory.md).[GetClass](ue_ue.Factory.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -347,10 +275,6 @@ ___
 
 [Factory](ue_ue.Factory.md).[GetName](ue_ue.Factory.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -365,10 +289,6 @@ ___
 
 [Factory](ue_ue.Factory.md).[GetOuter](ue_ue.Factory.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -382,10 +302,6 @@ ___
 #### Inherited from
 
 [Factory](ue_ue.Factory.md).[GetWorld](ue_ue.Factory.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -407,10 +323,6 @@ ___
 
 [Factory](ue_ue.Factory.md).[ScriptFactoryCanImport](ue_ue.Factory.md#scriptfactorycanimport)
 
-#### Defined in
-
-[ue/ue.d.ts:15340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15340)
-
 ___
 
 ### ScriptFactoryCreateFile
@@ -430,10 +342,6 @@ ___
 #### Inherited from
 
 [Factory](ue_ue.Factory.md).[ScriptFactoryCreateFile](ue_ue.Factory.md#scriptfactorycreatefile)
-
-#### Defined in
-
-[ue/ue.d.ts:15341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15341)
 
 ___
 
@@ -456,10 +364,6 @@ ___
 
 [Factory](ue_ue.Factory.md).[Find](ue_ue.Factory.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:54908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54908)
-
 ___
 
 ### Load
@@ -480,10 +384,6 @@ ___
 
 [Factory](ue_ue.Factory.md).[Load](ue_ue.Factory.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:54909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54909)
-
 ___
 
 ### StaticClass
@@ -497,7 +397,3 @@ ___
 #### Overrides
 
 [Factory](ue_ue.Factory.md).[StaticClass](ue_ue.Factory.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:54907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54907)

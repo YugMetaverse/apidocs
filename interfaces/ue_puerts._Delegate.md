@@ -35,10 +35,6 @@
 
 `void`
 
-#### Defined in
-
-[ue/puerts.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L14)
-
 ▸ **Bind**(`target`, `methodName`): `void`
 
 #### Parameters
@@ -51,10 +47,6 @@
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/puerts.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L15)
 
 ___
 
@@ -72,10 +64,6 @@ ___
 
 `ReturnType`<`T`\>
 
-#### Defined in
-
-[ue/puerts.d.ts:18](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L18)
-
 ___
 
 ### IsBound
@@ -86,10 +74,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/puerts.d.ts:17](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L17)
-
 ___
 
 ### Unbind
@@ -99,7 +83,3 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/puerts.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L16)

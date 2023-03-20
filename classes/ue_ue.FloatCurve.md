@@ -39,10 +39,6 @@
 
 [AnimCurveBase](ue_ue.AnimCurveBase.md).[constructor](ue_ue.AnimCurveBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:3064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3064)
-
 • **new FloatCurve**(`FloatCurve`)
 
 #### Parameters
@@ -55,10 +51,6 @@
 
 [AnimCurveBase](ue_ue.AnimCurveBase.md).[constructor](ue_ue.AnimCurveBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:3065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3065)
-
 ## Properties
 
 ### CurveTypeFlags
@@ -69,19 +61,11 @@
 
 [AnimCurveBase](ue_ue.AnimCurveBase.md).[CurveTypeFlags](ue_ue.AnimCurveBase.md#curvetypeflags)
 
-#### Defined in
-
-[ue/ue.d.ts:2721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2721)
-
 ___
 
 ### FloatCurve
 
 • **FloatCurve**: [`RichCurve`](ue_ue.RichCurve.md)
-
-#### Defined in
-
-[ue/ue.d.ts:3066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3066)
 
 ___
 
@@ -93,10 +77,6 @@ ___
 
 [AnimCurveBase](ue_ue.AnimCurveBase.md).[LastObservedName](ue_ue.AnimCurveBase.md#lastobservedname)
 
-#### Defined in
-
-[ue/ue.d.ts:2719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2719)
-
 ___
 
 ### Name
@@ -107,19 +87,11 @@ ___
 
 [AnimCurveBase](ue_ue.AnimCurveBase.md).[Name](ue_ue.AnimCurveBase.md#name)
 
-#### Defined in
-
-[ue/ue.d.ts:2720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2720)
-
 ___
 
 ### \_\_tid\_FloatCurve\_\_
 
 • `Private` **\_\_tid\_FloatCurve\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:3072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3072)
 
 ## Methods
 
@@ -139,10 +111,6 @@ use StaticStruct instead.
 
 [AnimCurveBase](ue_ue.AnimCurveBase.md).[StaticClass](ue_ue.AnimCurveBase.md#staticclass)
 
-#### Defined in
-
-[ue/ue.d.ts:3070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3070)
-
 ___
 
 ### StaticStruct
@@ -156,7 +124,3 @@ ___
 #### Overrides
 
 [AnimCurveBase](ue_ue.AnimCurveBase.md).[StaticStruct](ue_ue.AnimCurveBase.md#staticstruct)
-
-#### Defined in
-
-[ue/ue.d.ts:3071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3071)

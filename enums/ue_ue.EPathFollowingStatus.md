@@ -21,19 +21,11 @@
 
 • **EPathFollowingStatus\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14938)
-
 ___
 
 ### Idle
 
 • **Idle** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14938)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **Moving** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14938)
-
 ___
 
 ### Paused
 
 • **Paused** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14938)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **Waiting** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:14938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14938)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:14938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14938)

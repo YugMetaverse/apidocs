@@ -89,19 +89,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:33289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33289)
-
 ## Properties
 
 ### AssetEditorOpenLocation
 
 • **AssetEditorOpenLocation**: [`EAssetEditorOpenLocation`](../enums/ue_ue.EAssetEditorOpenLocation.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33326)
 
 ___
 
@@ -109,19 +101,11 @@ ___
 
 • **CenterColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33308)
-
 ___
 
 ### ColorVisionDeficiencyPreviewType
 
 • **ColorVisionDeficiencyPreviewType**: [`EColorVisionDeficiency`](../enums/ue_ue.EColorVisionDeficiency.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33292)
 
 ___
 
@@ -129,19 +113,11 @@ ___
 
 • **ColorVisionDeficiencySeverity**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33293)
-
 ___
 
 ### EditorChildWindowBackgroundOverride
 
 • **EditorChildWindowBackgroundOverride**: [`SlateBrush`](ue_ue.SlateBrush.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33302)
 
 ___
 
@@ -149,19 +125,11 @@ ___
 
 • **EditorMainWindowBackgroundOverride**: [`SlateBrush`](ue_ue.SlateBrush.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33301)
-
 ___
 
 ### EditorWindowBackgroundColor
 
 • **EditorWindowBackgroundColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33300)
 
 ___
 
@@ -169,19 +137,11 @@ ___
 
 • **GridSnapSize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33309)
-
 ___
 
 ### InactiveSelectionColor
 
 • **InactiveSelectionColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33298)
 
 ___
 
@@ -189,19 +149,11 @@ ___
 
 • **KeyboardFocusColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33299)
-
 ___
 
 ### LogBackgroundColor
 
 • **LogBackgroundColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33315)
 
 ___
 
@@ -209,19 +161,11 @@ ___
 
 • **LogCommandColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33318)
-
 ___
 
 ### LogErrorColor
 
 • **LogErrorColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33320)
 
 ___
 
@@ -229,19 +173,11 @@ ___
 
 • **LogFontSize**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33323)
-
 ___
 
 ### LogNormalColor
 
 • **LogNormalColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33317)
 
 ___
 
@@ -249,19 +185,11 @@ ___
 
 • **LogSelectionBackgroundColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33316)
-
 ___
 
 ### LogTimestampMode
 
 • **LogTimestampMode**: [`ELogTimes`](../enums/ue_ue.ELogTimes.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33324)
 
 ___
 
@@ -269,19 +197,11 @@ ___
 
 • **LogWarningColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33319)
-
 ___
 
 ### PressedSelectionColor
 
 • **PressedSelectionColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33297)
 
 ___
 
@@ -289,19 +209,11 @@ ___
 
 • **RegularColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33306)
-
 ___
 
 ### RuleColor
 
 • **RuleColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
-
-#### Defined in
-
-[ue/ue.d.ts:33307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33307)
 
 ___
 
@@ -309,19 +221,11 @@ ___
 
 • **SelectionColor**: [`LinearColor`](ue_ue_s.LinearColor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:33296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33296)
-
 ___
 
 ### \_\_tid\_EditorStyleSettings\_\_
 
 • **\_\_tid\_EditorStyleSettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33332)
 
 ___
 
@@ -333,19 +237,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bColorVisionDeficiencyCorrection
 
 • **bColorVisionDeficiencyCorrection**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33294)
 
 ___
 
@@ -353,19 +249,11 @@ ___
 
 • **bColorVisionDeficiencyCorrectionPreviewWithDeficiency**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:33295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33295)
-
 ___
 
 ### bEnableColorizedEditorTabs
 
 • **bEnableColorizedEditorTabs**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33327)
 
 ___
 
@@ -373,19 +261,11 @@ ___
 
 • **bEnableHighDPIAwareness**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:33290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33290)
-
 ___
 
 ### bEnableUserEditorLayoutManagement
 
 • **bEnableUserEditorLayoutManagement**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33291)
 
 ___
 
@@ -393,19 +273,11 @@ ___
 
 • **bEnableWindowAnimations**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:33310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33310)
-
 ___
 
 ### bExpandConfigurationMenus
 
 • **bExpandConfigurationMenus**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33312)
 
 ___
 
@@ -413,19 +285,11 @@ ___
 
 • **bPromoteOutputLogWarningsDuringPIE**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:33325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33325)
-
 ___
 
 ### bResetEditorWindowBackgroundSettings
 
 • **bResetEditorWindowBackgroundSettings**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33303)
 
 ___
 
@@ -433,19 +297,11 @@ ___
 
 • **bShowAllAdvancedDetails**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:33321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33321)
-
 ___
 
 ### bShowFriendlyNames
 
 • **bShowFriendlyNames**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33311)
 
 ___
 
@@ -453,19 +309,11 @@ ___
 
 • **bShowHiddenPropertiesWhilePlaying**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:33322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33322)
-
 ___
 
 ### bShowLaunchMenus
 
 • **bShowLaunchMenus**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33314)
 
 ___
 
@@ -473,29 +321,17 @@ ___
 
 • **bShowProjectMenus**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:33313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33313)
-
 ___
 
 ### bUseGrid
 
 • **bUseGrid**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:33305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33305)
-
 ___
 
 ### bUseSmallToolBarIcons
 
 • **bUseSmallToolBarIcons**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:33304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33304)
 
 ## Methods
 
@@ -521,10 +357,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -545,10 +377,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -562,10 +390,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -581,10 +405,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -599,10 +419,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -616,10 +432,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -642,10 +454,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:33329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33329)
-
 ___
 
 ### Load
@@ -666,10 +474,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:33330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33330)
-
 ___
 
 ### StaticClass
@@ -683,7 +487,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:33328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33328)

@@ -20,19 +20,11 @@
 
 • **TRAVEL\_Absolute** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12250)
-
 ___
 
 ### TRAVEL\_MAX
 
 • **TRAVEL\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12250)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **TRAVEL\_Partial** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12250)
-
 ___
 
 ### TRAVEL\_Relative
 
 • **TRAVEL\_Relative** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:12250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12250)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:12250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12250)

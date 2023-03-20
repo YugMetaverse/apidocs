@@ -25,19 +25,11 @@
 
 • **new InstancedStaticMeshMappingInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:35795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35795)
-
 ## Properties
 
 ### \_\_tid\_InstancedStaticMeshMappingInfo\_\_
 
 • `Private` **\_\_tid\_InstancedStaticMeshMappingInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35801)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35799)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35800)

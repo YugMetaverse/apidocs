@@ -31,10 +31,6 @@
 
 • **new GameplayDebuggerInputConfig**()
 
-#### Defined in
-
-[ue/ue.d.ts:36688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36688)
-
 • **new GameplayDebuggerInputConfig**(`ConfigName`, `Key`, `bModShift`, `bModCtrl`, `bModAlt`, `bModCmd`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `bModAlt` | `boolean` |
 | `bModCmd` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:36689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36689)
-
 ## Properties
 
 ### ConfigName
 
 • **ConfigName**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:36690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36690)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **Key**: [`Key`](ue_ue.Key.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36691)
-
 ___
 
 ### \_\_tid\_GameplayDebuggerInputConfig\_\_
 
 • `Private` **\_\_tid\_GameplayDebuggerInputConfig\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36701)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **bModAlt**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:36694](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36694)
-
 ___
 
 ### bModCmd
 
 • **bModCmd**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36695)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **bModCtrl**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:36693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36693)
-
 ___
 
 ### bModShift
 
 • **bModShift**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36692](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36692)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36699](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36699)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36700)

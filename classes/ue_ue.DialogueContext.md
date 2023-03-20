@@ -27,10 +27,6 @@
 
 • **new DialogueContext**()
 
-#### Defined in
-
-[ue/ue.d.ts:30853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30853)
-
 • **new DialogueContext**(`Speaker`, `Targets`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Speaker` | [`DialogueVoice`](ue_ue.DialogueVoice.md) |
 | `Targets` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`DialogueVoice`](ue_ue.DialogueVoice.md)\> |
 
-#### Defined in
-
-[ue/ue.d.ts:30854](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30854)
-
 ## Properties
 
 ### Speaker
 
 • **Speaker**: [`DialogueVoice`](ue_ue.DialogueVoice.md)
-
-#### Defined in
-
-[ue/ue.d.ts:30855](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30855)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Targets**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`DialogueVoice`](ue_ue.DialogueVoice.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:30856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30856)
-
 ___
 
 ### \_\_tid\_DialogueContext\_\_
 
 • `Private` **\_\_tid\_DialogueContext\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30862)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:30860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30860)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:30861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30861)

@@ -20,19 +20,11 @@
 
 • **EMediaSoundChannels\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34039)
-
 ___
 
 ### Mono
 
 • **Mono** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34039)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Stereo** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34039)
-
 ___
 
 ### Surround
 
 • **Surround** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34039)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34039)

@@ -32,10 +32,6 @@
 
 • **new GatherTextFromPackagesConfiguration**()
 
-#### Defined in
-
-[ue/ue.d.ts:46046](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46046)
-
 • **new GatherTextFromPackagesConfiguration**(`IsEnabled`, `IncludePathWildcards`, `ExcludePathWildcards`, `FileExtensions`, `Collections`, `ShouldGatherFromEditorOnlyData`, `SkipGatherCache`)
 
 #### Parameters
@@ -50,19 +46,11 @@
 | `ShouldGatherFromEditorOnlyData` | `boolean` |
 | `SkipGatherCache` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:46047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46047)
-
 ## Properties
 
 ### Collections
 
 • **Collections**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:46052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46052)
 
 ___
 
@@ -70,19 +58,11 @@ ___
 
 • **ExcludePathWildcards**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`GatherTextExcludePath`](ue_ue.GatherTextExcludePath.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:46050](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46050)
-
 ___
 
 ### FileExtensions
 
 • **FileExtensions**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`GatherTextFileExtension`](ue_ue.GatherTextFileExtension.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:46051](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46051)
 
 ___
 
@@ -90,19 +70,11 @@ ___
 
 • **IncludePathWildcards**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`GatherTextIncludePath`](ue_ue.GatherTextIncludePath.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:46049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46049)
-
 ___
 
 ### IsEnabled
 
 • **IsEnabled**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46048](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46048)
 
 ___
 
@@ -110,29 +82,17 @@ ___
 
 • **ShouldGatherFromEditorOnlyData**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46053)
-
 ___
 
 ### SkipGatherCache
 
 • **SkipGatherCache**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46054)
-
 ___
 
 ### \_\_tid\_GatherTextFromPackagesConfiguration\_\_
 
 • `Private` **\_\_tid\_GatherTextFromPackagesConfiguration\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46060)
 
 ## Methods
 
@@ -148,10 +108,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46058)
-
 ___
 
 ### StaticStruct
@@ -161,7 +117,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46059)

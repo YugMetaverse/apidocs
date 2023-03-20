@@ -30,10 +30,6 @@
 
 • **new ToolMenuSection**()
 
-#### Defined in
-
-[ue/ue.d.ts:63887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63887)
-
 • **new ToolMenuSection**(`Name`, `Blocks`, `InsertPosition`, `Context`, `ToolMenuSectionDynamic`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `Context` | [`ToolMenuContext`](ue_ue.ToolMenuContext.md) |
 | `ToolMenuSectionDynamic` | [`ToolMenuSectionDynamic`](ue_ue.ToolMenuSectionDynamic.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:63888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63888)
-
 ## Properties
 
 ### Blocks
 
 • **Blocks**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ToolMenuEntry`](ue_ue.ToolMenuEntry.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:63890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63890)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **Context**: [`ToolMenuContext`](ue_ue.ToolMenuContext.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63892)
-
 ___
 
 ### InsertPosition
 
 • **InsertPosition**: [`ToolMenuInsert`](ue_ue.ToolMenuInsert.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63891)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **Name**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:63889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63889)
-
 ___
 
 ### ToolMenuSectionDynamic
 
 • **ToolMenuSectionDynamic**: [`ToolMenuSectionDynamic`](ue_ue.ToolMenuSectionDynamic.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63893)
-
 ___
 
 ### \_\_tid\_ToolMenuSection\_\_
 
 • `Private` **\_\_tid\_ToolMenuSection\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:63899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63899)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:63897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63897)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:63898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63898)

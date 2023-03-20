@@ -33,10 +33,6 @@
 
 • **new SoundConcurrencySettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:9310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9310)
-
 • **new SoundConcurrencySettings**(`MaxCount`, `bLimitToOwner`, `ResolutionRule`, `VolumeScale`, `VolumeScaleAttackTime`, `bVolumeScaleCanRelease`, `VolumeScaleReleaseTime`, `VoiceStealReleaseTime`)
 
 #### Parameters
@@ -52,19 +48,11 @@
 | `VolumeScaleReleaseTime` | `number` |
 | `VoiceStealReleaseTime` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:9311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9311)
-
 ## Properties
 
 ### MaxCount
 
 • **MaxCount**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9312)
 
 ___
 
@@ -72,19 +60,11 @@ ___
 
 • **ResolutionRule**: [`EMaxConcurrentResolutionRule`](../enums/ue_ue.EMaxConcurrentResolutionRule.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9314)
-
 ___
 
 ### VoiceStealReleaseTime
 
 • **VoiceStealReleaseTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9319)
 
 ___
 
@@ -92,19 +72,11 @@ ___
 
 • **VolumeScale**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9315)
-
 ___
 
 ### VolumeScaleAttackTime
 
 • **VolumeScaleAttackTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9316)
 
 ___
 
@@ -112,19 +84,11 @@ ___
 
 • **VolumeScaleReleaseTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9318)
-
 ___
 
 ### \_\_tid\_SoundConcurrencySettings\_\_
 
 • `Private` **\_\_tid\_SoundConcurrencySettings\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9325)
 
 ___
 
@@ -132,19 +96,11 @@ ___
 
 • **bLimitToOwner**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9313)
-
 ___
 
 ### bVolumeScaleCanRelease
 
 • **bVolumeScaleCanRelease**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9317)
 
 ## Methods
 
@@ -160,10 +116,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9323)
-
 ___
 
 ### StaticStruct
@@ -173,7 +125,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9324)

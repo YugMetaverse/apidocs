@@ -171,10 +171,6 @@
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[constructor](ue_ue.DynamicEntryBoxBase.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:31346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31346)
-
 ## Properties
 
 ### AccessibleBehavior
@@ -184,10 +180,6 @@
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[AccessibleBehavior](ue_ue.DynamicEntryBoxBase.md#accessiblebehavior)
-
-#### Defined in
-
-[ue/ue.d.ts:10940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10940)
 
 ___
 
@@ -199,10 +191,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[AccessibleSummaryBehavior](ue_ue.DynamicEntryBoxBase.md#accessiblesummarybehavior)
 
-#### Defined in
-
-[ue/ue.d.ts:10941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10941)
-
 ___
 
 ### AccessibleSummaryText
@@ -212,10 +200,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[AccessibleSummaryText](ue_ue.DynamicEntryBoxBase.md#accessiblesummarytext)
-
-#### Defined in
-
-[ue/ue.d.ts:10944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10944)
 
 ___
 
@@ -227,10 +211,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[AccessibleSummaryTextDelegate](ue_ue.DynamicEntryBoxBase.md#accessiblesummarytextdelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10945)
-
 ___
 
 ### AccessibleText
@@ -240,10 +220,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[AccessibleText](ue_ue.DynamicEntryBoxBase.md#accessibletext)
-
-#### Defined in
-
-[ue/ue.d.ts:10942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10942)
 
 ___
 
@@ -255,10 +231,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[AccessibleTextDelegate](ue_ue.DynamicEntryBoxBase.md#accessibletextdelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10943)
-
 ___
 
 ### AccessibleWidgetData
@@ -268,10 +240,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[AccessibleWidgetData](ue_ue.DynamicEntryBoxBase.md#accessiblewidgetdata)
-
-#### Defined in
-
-[ue/ue.d.ts:10946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10946)
 
 ___
 
@@ -283,10 +251,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[CategoryName](ue_ue.DynamicEntryBoxBase.md#categoryname)
 
-#### Defined in
-
-[ue/ue.d.ts:10960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10960)
-
 ___
 
 ### Clipping
@@ -296,10 +260,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[Clipping](ue_ue.DynamicEntryBoxBase.md#clipping)
-
-#### Defined in
-
-[ue/ue.d.ts:10952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10952)
 
 ___
 
@@ -311,10 +271,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[Cursor](ue_ue.DynamicEntryBoxBase.md#cursor)
 
-#### Defined in
-
-[ue/ue.d.ts:10951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10951)
-
 ___
 
 ### DesignerFlags
@@ -324,10 +280,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[DesignerFlags](ue_ue.DynamicEntryBoxBase.md#designerflags)
-
-#### Defined in
-
-[ue/ue.d.ts:10958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10958)
 
 ___
 
@@ -339,10 +291,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[DisplayLabel](ue_ue.DynamicEntryBoxBase.md#displaylabel)
 
-#### Defined in
-
-[ue/ue.d.ts:10959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10959)
-
 ___
 
 ### EntryBoxType
@@ -352,10 +300,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[EntryBoxType](ue_ue.DynamicEntryBoxBase.md#entryboxtype)
-
-#### Defined in
-
-[ue/ue.d.ts:31327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31327)
 
 ___
 
@@ -367,10 +311,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[EntryHorizontalAlignment](ue_ue.DynamicEntryBoxBase.md#entryhorizontalalignment)
 
-#### Defined in
-
-[ue/ue.d.ts:31331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31331)
-
 ___
 
 ### EntrySizeRule
@@ -380,10 +320,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[EntrySizeRule](ue_ue.DynamicEntryBoxBase.md#entrysizerule)
-
-#### Defined in
-
-[ue/ue.d.ts:31330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31330)
 
 ___
 
@@ -395,10 +331,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[EntrySpacing](ue_ue.DynamicEntryBoxBase.md#entryspacing)
 
-#### Defined in
-
-[ue/ue.d.ts:31328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31328)
-
 ___
 
 ### EntryVerticalAlignment
@@ -409,19 +341,11 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[EntryVerticalAlignment](ue_ue.DynamicEntryBoxBase.md#entryverticalalignment)
 
-#### Defined in
-
-[ue/ue.d.ts:31332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31332)
-
 ___
 
 ### EntryWidgetClass
 
 • **EntryWidgetClass**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31348)
 
 ___
 
@@ -433,10 +357,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[EntryWidgetPool](ue_ue.DynamicEntryBoxBase.md#entrywidgetpool)
 
-#### Defined in
-
-[ue/ue.d.ts:31334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31334)
-
 ___
 
 ### FlowDirectionPreference
@@ -446,10 +366,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[FlowDirectionPreference](ue_ue.DynamicEntryBoxBase.md#flowdirectionpreference)
-
-#### Defined in
-
-[ue/ue.d.ts:10956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10956)
 
 ___
 
@@ -461,10 +377,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[MaxElementSize](ue_ue.DynamicEntryBoxBase.md#maxelementsize)
 
-#### Defined in
-
-[ue/ue.d.ts:31333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31333)
-
 ___
 
 ### NativeBindings
@@ -474,10 +386,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[NativeBindings](ue_ue.DynamicEntryBoxBase.md#nativebindings)
-
-#### Defined in
-
-[ue/ue.d.ts:10957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10957)
 
 ___
 
@@ -489,19 +397,11 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[Navigation](ue_ue.DynamicEntryBoxBase.md#navigation)
 
-#### Defined in
-
-[ue/ue.d.ts:10955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10955)
-
 ___
 
 ### NumDesignerPreviewEntries
 
 • **NumDesignerPreviewEntries**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31347)
 
 ___
 
@@ -513,10 +413,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[RenderOpacity](ue_ue.DynamicEntryBoxBase.md#renderopacity)
 
-#### Defined in
-
-[ue/ue.d.ts:10954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10954)
-
 ___
 
 ### RenderTransform
@@ -526,10 +422,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[RenderTransform](ue_ue.DynamicEntryBoxBase.md#rendertransform)
-
-#### Defined in
-
-[ue/ue.d.ts:10932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10932)
 
 ___
 
@@ -541,10 +433,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[RenderTransformPivot](ue_ue.DynamicEntryBoxBase.md#rendertransformpivot)
 
-#### Defined in
-
-[ue/ue.d.ts:10933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10933)
-
 ___
 
 ### Slot
@@ -554,10 +442,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[Slot](ue_ue.DynamicEntryBoxBase.md#slot)
-
-#### Defined in
-
-[ue/ue.d.ts:10925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10925)
 
 ___
 
@@ -569,10 +453,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[SpacingPattern](ue_ue.DynamicEntryBoxBase.md#spacingpattern)
 
-#### Defined in
-
-[ue/ue.d.ts:31329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31329)
-
 ___
 
 ### ToolTipText
@@ -582,10 +462,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[ToolTipText](ue_ue.DynamicEntryBoxBase.md#tooltiptext)
-
-#### Defined in
-
-[ue/ue.d.ts:10927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10927)
 
 ___
 
@@ -597,10 +473,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[ToolTipTextDelegate](ue_ue.DynamicEntryBoxBase.md#tooltiptextdelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10928)
-
 ___
 
 ### ToolTipWidget
@@ -610,10 +482,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[ToolTipWidget](ue_ue.DynamicEntryBoxBase.md#tooltipwidget)
-
-#### Defined in
-
-[ue/ue.d.ts:10929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10929)
 
 ___
 
@@ -625,10 +493,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[ToolTipWidgetDelegate](ue_ue.DynamicEntryBoxBase.md#tooltipwidgetdelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10930)
-
 ___
 
 ### Visibility
@@ -638,10 +502,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[Visibility](ue_ue.DynamicEntryBoxBase.md#visibility)
-
-#### Defined in
-
-[ue/ue.d.ts:10953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10953)
 
 ___
 
@@ -653,10 +513,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[VisibilityDelegate](ue_ue.DynamicEntryBoxBase.md#visibilitydelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10931)
-
 ___
 
 ### \_\_tid\_DynamicEntryBoxBase\_\_
@@ -667,19 +523,11 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[__tid_DynamicEntryBoxBase__](ue_ue.DynamicEntryBoxBase.md#__tid_dynamicentryboxbase__)
 
-#### Defined in
-
-[ue/ue.d.ts:31342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31342)
-
 ___
 
 ### \_\_tid\_DynamicEntryBox\_\_
 
 • **\_\_tid\_DynamicEntryBox\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31357](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31357)
 
 ___
 
@@ -691,10 +539,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[__tid_Object__](ue_ue.DynamicEntryBoxBase.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_Visual\_\_
@@ -704,10 +548,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[__tid_Visual__](ue_ue.DynamicEntryBoxBase.md#__tid_visual__)
-
-#### Defined in
-
-[ue/ue.d.ts:10673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10673)
 
 ___
 
@@ -719,10 +559,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[__tid_Widget__](ue_ue.DynamicEntryBoxBase.md#__tid_widget__)
 
-#### Defined in
-
-[ue/ue.d.ts:11029](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11029)
-
 ___
 
 ### bCanChildrenBeAccessible
@@ -732,10 +568,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[bCanChildrenBeAccessible](ue_ue.DynamicEntryBoxBase.md#bcanchildrenbeaccessible)
-
-#### Defined in
-
-[ue/ue.d.ts:10939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10939)
 
 ___
 
@@ -747,10 +579,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[bCreatedByConstructionScript](ue_ue.DynamicEntryBoxBase.md#bcreatedbyconstructionscript)
 
-#### Defined in
-
-[ue/ue.d.ts:10935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10935)
-
 ___
 
 ### bExpandedInDesigner
@@ -760,10 +588,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[bExpandedInDesigner](ue_ue.DynamicEntryBoxBase.md#bexpandedindesigner)
-
-#### Defined in
-
-[ue/ue.d.ts:10949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10949)
 
 ___
 
@@ -775,10 +599,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[bHiddenInDesigner](ue_ue.DynamicEntryBoxBase.md#bhiddenindesigner)
 
-#### Defined in
-
-[ue/ue.d.ts:10948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10948)
-
 ___
 
 ### bIsEnabled
@@ -788,10 +608,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[bIsEnabled](ue_ue.DynamicEntryBoxBase.md#bisenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:10936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10936)
 
 ___
 
@@ -803,10 +619,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[bIsEnabledDelegate](ue_ue.DynamicEntryBoxBase.md#bisenableddelegate)
 
-#### Defined in
-
-[ue/ue.d.ts:10926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10926)
-
 ___
 
 ### bIsVariable
@@ -816,10 +628,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[bIsVariable](ue_ue.DynamicEntryBoxBase.md#bisvariable)
-
-#### Defined in
-
-[ue/ue.d.ts:10934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10934)
 
 ___
 
@@ -831,10 +639,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[bIsVolatile](ue_ue.DynamicEntryBoxBase.md#bisvolatile)
 
-#### Defined in
-
-[ue/ue.d.ts:10947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10947)
-
 ___
 
 ### bLockedInDesigner
@@ -844,10 +648,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[bLockedInDesigner](ue_ue.DynamicEntryBoxBase.md#blockedindesigner)
-
-#### Defined in
-
-[ue/ue.d.ts:10950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10950)
 
 ___
 
@@ -859,10 +659,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[bOverrideAccessibleDefaults](ue_ue.DynamicEntryBoxBase.md#boverrideaccessibledefaults)
 
-#### Defined in
-
-[ue/ue.d.ts:10938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10938)
-
 ___
 
 ### bOverride\_Cursor
@@ -873,10 +669,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[bOverride_Cursor](ue_ue.DynamicEntryBoxBase.md#boverride_cursor)
 
-#### Defined in
-
-[ue/ue.d.ts:10937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10937)
-
 ## Methods
 
 ### BP\_CreateEntry
@@ -886,10 +678,6 @@ ___
 #### Returns
 
 [`UserWidget`](ue_ue.UserWidget.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31349)
 
 ___
 
@@ -906,10 +694,6 @@ ___
 #### Returns
 
 [`UserWidget`](ue_ue.UserWidget.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31350)
 
 ___
 
@@ -935,10 +719,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[CreateDefaultSubobject](ue_ue.DynamicEntryBoxBase.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -959,10 +739,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[ExecuteUbergraph](ue_ue.DynamicEntryBoxBase.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### ForceLayoutPrepass
@@ -976,10 +752,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[ForceLayoutPrepass](ue_ue.DynamicEntryBoxBase.md#forcelayoutprepass)
-
-#### Defined in
-
-[ue/ue.d.ts:10961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10961)
 
 ___
 
@@ -1001,10 +773,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[ForceVolatile](ue_ue.DynamicEntryBoxBase.md#forcevolatile)
 
-#### Defined in
-
-[ue/ue.d.ts:10962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10962)
-
 ___
 
 ### GenerateWidgetForObject\_\_DelegateSignature
@@ -1024,10 +792,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GenerateWidgetForObject__DelegateSignature](ue_ue.DynamicEntryBoxBase.md#generatewidgetforobject__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10963)
 
 ___
 
@@ -1049,10 +813,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GenerateWidgetForString__DelegateSignature](ue_ue.DynamicEntryBoxBase.md#generatewidgetforstring__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10964](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10964)
-
 ___
 
 ### GetAllEntries
@@ -1066,10 +826,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetAllEntries](ue_ue.DynamicEntryBoxBase.md#getallentries)
-
-#### Defined in
-
-[ue/ue.d.ts:31335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31335)
 
 ___
 
@@ -1085,10 +841,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetBool__DelegateSignature](ue_ue.DynamicEntryBoxBase.md#getbool__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10965](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10965)
-
 ___
 
 ### GetCachedGeometry
@@ -1102,10 +854,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetCachedGeometry](ue_ue.DynamicEntryBoxBase.md#getcachedgeometry)
-
-#### Defined in
-
-[ue/ue.d.ts:10966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10966)
 
 ___
 
@@ -1121,10 +869,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetCheckBoxState__DelegateSignature](ue_ue.DynamicEntryBoxBase.md#getcheckboxstate__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10967)
-
 ___
 
 ### GetClass
@@ -1138,10 +882,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetClass](ue_ue.DynamicEntryBoxBase.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -1157,10 +897,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetClipping](ue_ue.DynamicEntryBoxBase.md#getclipping)
 
-#### Defined in
-
-[ue/ue.d.ts:10968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10968)
-
 ___
 
 ### GetDesiredSize
@@ -1174,10 +910,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetDesiredSize](ue_ue.DynamicEntryBoxBase.md#getdesiredsize)
-
-#### Defined in
-
-[ue/ue.d.ts:10969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10969)
 
 ___
 
@@ -1193,10 +925,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetFloat__DelegateSignature](ue_ue.DynamicEntryBoxBase.md#getfloat__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10970)
-
 ___
 
 ### GetGameInstance
@@ -1210,10 +938,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetGameInstance](ue_ue.DynamicEntryBoxBase.md#getgameinstance)
-
-#### Defined in
-
-[ue/ue.d.ts:10971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10971)
 
 ___
 
@@ -1229,10 +953,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetInt32__DelegateSignature](ue_ue.DynamicEntryBoxBase.md#getint32__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10972)
-
 ___
 
 ### GetIsEnabled
@@ -1246,10 +966,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetIsEnabled](ue_ue.DynamicEntryBoxBase.md#getisenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:10973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10973)
 
 ___
 
@@ -1265,10 +981,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetLinearColor__DelegateSignature](ue_ue.DynamicEntryBoxBase.md#getlinearcolor__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10974)
-
 ___
 
 ### GetMouseCursor\_\_DelegateSignature
@@ -1282,10 +994,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetMouseCursor__DelegateSignature](ue_ue.DynamicEntryBoxBase.md#getmousecursor__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10975](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10975)
 
 ___
 
@@ -1301,10 +1009,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetName](ue_ue.DynamicEntryBoxBase.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetNumEntries
@@ -1318,10 +1022,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetNumEntries](ue_ue.DynamicEntryBoxBase.md#getnumentries)
-
-#### Defined in
-
-[ue/ue.d.ts:31336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31336)
 
 ___
 
@@ -1337,10 +1037,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetOuter](ue_ue.DynamicEntryBoxBase.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetOwningLocalPlayer
@@ -1354,10 +1050,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetOwningLocalPlayer](ue_ue.DynamicEntryBoxBase.md#getowninglocalplayer)
-
-#### Defined in
-
-[ue/ue.d.ts:10976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10976)
 
 ___
 
@@ -1373,10 +1065,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetOwningPlayer](ue_ue.DynamicEntryBoxBase.md#getowningplayer)
 
-#### Defined in
-
-[ue/ue.d.ts:10977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10977)
-
 ___
 
 ### GetPaintSpaceGeometry
@@ -1390,10 +1078,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetPaintSpaceGeometry](ue_ue.DynamicEntryBoxBase.md#getpaintspacegeometry)
-
-#### Defined in
-
-[ue/ue.d.ts:10978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10978)
 
 ___
 
@@ -1409,10 +1093,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetParent](ue_ue.DynamicEntryBoxBase.md#getparent)
 
-#### Defined in
-
-[ue/ue.d.ts:10979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10979)
-
 ___
 
 ### GetRenderOpacity
@@ -1426,10 +1106,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetRenderOpacity](ue_ue.DynamicEntryBoxBase.md#getrenderopacity)
-
-#### Defined in
-
-[ue/ue.d.ts:10980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10980)
 
 ___
 
@@ -1445,10 +1121,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetRenderTransformAngle](ue_ue.DynamicEntryBoxBase.md#getrendertransformangle)
 
-#### Defined in
-
-[ue/ue.d.ts:10981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10981)
-
 ___
 
 ### GetSlateBrush\_\_DelegateSignature
@@ -1462,10 +1134,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetSlateBrush__DelegateSignature](ue_ue.DynamicEntryBoxBase.md#getslatebrush__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10982)
 
 ___
 
@@ -1481,10 +1149,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetSlateColor__DelegateSignature](ue_ue.DynamicEntryBoxBase.md#getslatecolor__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10983)
-
 ___
 
 ### GetSlateVisibility\_\_DelegateSignature
@@ -1498,10 +1162,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetSlateVisibility__DelegateSignature](ue_ue.DynamicEntryBoxBase.md#getslatevisibility__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10984)
 
 ___
 
@@ -1517,10 +1177,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetText__DelegateSignature](ue_ue.DynamicEntryBoxBase.md#gettext__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10985)
-
 ___
 
 ### GetTickSpaceGeometry
@@ -1534,10 +1190,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetTickSpaceGeometry](ue_ue.DynamicEntryBoxBase.md#gettickspacegeometry)
-
-#### Defined in
-
-[ue/ue.d.ts:10986](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10986)
 
 ___
 
@@ -1553,10 +1205,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetVisibility](ue_ue.DynamicEntryBoxBase.md#getvisibility)
 
-#### Defined in
-
-[ue/ue.d.ts:10987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10987)
-
 ___
 
 ### GetWidget\_\_DelegateSignature
@@ -1570,10 +1218,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetWidget__DelegateSignature](ue_ue.DynamicEntryBoxBase.md#getwidget__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:10988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10988)
 
 ___
 
@@ -1589,10 +1233,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[GetWorld](ue_ue.DynamicEntryBoxBase.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### HasAnyUserFocus
@@ -1606,10 +1246,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[HasAnyUserFocus](ue_ue.DynamicEntryBoxBase.md#hasanyuserfocus)
-
-#### Defined in
-
-[ue/ue.d.ts:10989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10989)
 
 ___
 
@@ -1625,10 +1261,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[HasFocusedDescendants](ue_ue.DynamicEntryBoxBase.md#hasfocuseddescendants)
 
-#### Defined in
-
-[ue/ue.d.ts:10990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10990)
-
 ___
 
 ### HasKeyboardFocus
@@ -1643,10 +1275,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[HasKeyboardFocus](ue_ue.DynamicEntryBoxBase.md#haskeyboardfocus)
 
-#### Defined in
-
-[ue/ue.d.ts:10991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10991)
-
 ___
 
 ### HasMouseCapture
@@ -1660,10 +1288,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[HasMouseCapture](ue_ue.DynamicEntryBoxBase.md#hasmousecapture)
-
-#### Defined in
-
-[ue/ue.d.ts:10992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10992)
 
 ___
 
@@ -1686,10 +1310,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[HasMouseCaptureByUser](ue_ue.DynamicEntryBoxBase.md#hasmousecapturebyuser)
 
-#### Defined in
-
-[ue/ue.d.ts:10993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10993)
-
 ___
 
 ### HasUserFocus
@@ -1709,10 +1329,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[HasUserFocus](ue_ue.DynamicEntryBoxBase.md#hasuserfocus)
-
-#### Defined in
-
-[ue/ue.d.ts:10994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10994)
 
 ___
 
@@ -1734,10 +1350,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[HasUserFocusedDescendants](ue_ue.DynamicEntryBoxBase.md#hasuserfocuseddescendants)
 
-#### Defined in
-
-[ue/ue.d.ts:10995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10995)
-
 ___
 
 ### InvalidateLayoutAndVolatility
@@ -1751,10 +1363,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[InvalidateLayoutAndVolatility](ue_ue.DynamicEntryBoxBase.md#invalidatelayoutandvolatility)
-
-#### Defined in
-
-[ue/ue.d.ts:10996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10996)
 
 ___
 
@@ -1770,10 +1378,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[IsHovered](ue_ue.DynamicEntryBoxBase.md#ishovered)
 
-#### Defined in
-
-[ue/ue.d.ts:10997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10997)
-
 ___
 
 ### IsVisible
@@ -1787,10 +1391,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[IsVisible](ue_ue.DynamicEntryBoxBase.md#isvisible)
-
-#### Defined in
-
-[ue/ue.d.ts:10998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10998)
 
 ___
 
@@ -1813,10 +1413,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[OnPointerEvent__DelegateSignature](ue_ue.DynamicEntryBoxBase.md#onpointerevent__delegatesignature)
 
-#### Defined in
-
-[ue/ue.d.ts:10999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10999)
-
 ___
 
 ### OnReply\_\_DelegateSignature
@@ -1830,10 +1426,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[OnReply__DelegateSignature](ue_ue.DynamicEntryBoxBase.md#onreply__delegatesignature)
-
-#### Defined in
-
-[ue/ue.d.ts:11000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11000)
 
 ___
 
@@ -1851,10 +1443,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:31351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31351)
-
 ___
 
 ### RemoveFromParent
@@ -1868,10 +1456,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[RemoveFromParent](ue_ue.DynamicEntryBoxBase.md#removefromparent)
-
-#### Defined in
-
-[ue/ue.d.ts:11001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11001)
 
 ___
 
@@ -1889,10 +1473,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue.d.ts:31352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31352)
-
 ___
 
 ### ResetCursor
@@ -1906,10 +1486,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[ResetCursor](ue_ue.DynamicEntryBoxBase.md#resetcursor)
-
-#### Defined in
-
-[ue/ue.d.ts:11002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11002)
 
 ___
 
@@ -1932,10 +1508,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[SetAllNavigationRules](ue_ue.DynamicEntryBoxBase.md#setallnavigationrules)
 
-#### Defined in
-
-[ue/ue.d.ts:11003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11003)
-
 ___
 
 ### SetClipping
@@ -1955,10 +1527,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[SetClipping](ue_ue.DynamicEntryBoxBase.md#setclipping)
-
-#### Defined in
-
-[ue/ue.d.ts:11004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11004)
 
 ___
 
@@ -1980,10 +1548,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[SetCursor](ue_ue.DynamicEntryBoxBase.md#setcursor)
 
-#### Defined in
-
-[ue/ue.d.ts:11005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11005)
-
 ___
 
 ### SetEntrySpacing
@@ -2004,10 +1568,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[SetEntrySpacing](ue_ue.DynamicEntryBoxBase.md#setentryspacing)
 
-#### Defined in
-
-[ue/ue.d.ts:31337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31337)
-
 ___
 
 ### SetFocus
@@ -2021,10 +1581,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[SetFocus](ue_ue.DynamicEntryBoxBase.md#setfocus)
-
-#### Defined in
-
-[ue/ue.d.ts:11006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11006)
 
 ___
 
@@ -2046,10 +1602,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[SetIsEnabled](ue_ue.DynamicEntryBoxBase.md#setisenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:11007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11007)
-
 ___
 
 ### SetKeyboardFocus
@@ -2063,10 +1615,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[SetKeyboardFocus](ue_ue.DynamicEntryBoxBase.md#setkeyboardfocus)
-
-#### Defined in
-
-[ue/ue.d.ts:11008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11008)
 
 ___
 
@@ -2090,10 +1638,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[SetNavigationRule](ue_ue.DynamicEntryBoxBase.md#setnavigationrule)
 
-#### Defined in
-
-[ue/ue.d.ts:11009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11009)
-
 ___
 
 ### SetNavigationRuleBase
@@ -2114,10 +1658,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[SetNavigationRuleBase](ue_ue.DynamicEntryBoxBase.md#setnavigationrulebase)
-
-#### Defined in
-
-[ue/ue.d.ts:11010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11010)
 
 ___
 
@@ -2140,10 +1680,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[SetNavigationRuleCustom](ue_ue.DynamicEntryBoxBase.md#setnavigationrulecustom)
 
-#### Defined in
-
-[ue/ue.d.ts:11011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11011)
-
 ___
 
 ### SetNavigationRuleCustomBoundary
@@ -2164,10 +1700,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[SetNavigationRuleCustomBoundary](ue_ue.DynamicEntryBoxBase.md#setnavigationrulecustomboundary)
-
-#### Defined in
-
-[ue/ue.d.ts:11012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11012)
 
 ___
 
@@ -2190,10 +1722,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[SetNavigationRuleExplicit](ue_ue.DynamicEntryBoxBase.md#setnavigationruleexplicit)
 
-#### Defined in
-
-[ue/ue.d.ts:11013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11013)
-
 ___
 
 ### SetRenderOpacity
@@ -2213,10 +1741,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[SetRenderOpacity](ue_ue.DynamicEntryBoxBase.md#setrenderopacity)
-
-#### Defined in
-
-[ue/ue.d.ts:11014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11014)
 
 ___
 
@@ -2238,10 +1762,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[SetRenderScale](ue_ue.DynamicEntryBoxBase.md#setrenderscale)
 
-#### Defined in
-
-[ue/ue.d.ts:11015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11015)
-
 ___
 
 ### SetRenderShear
@@ -2261,10 +1781,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[SetRenderShear](ue_ue.DynamicEntryBoxBase.md#setrendershear)
-
-#### Defined in
-
-[ue/ue.d.ts:11016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11016)
 
 ___
 
@@ -2286,10 +1802,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[SetRenderTransform](ue_ue.DynamicEntryBoxBase.md#setrendertransform)
 
-#### Defined in
-
-[ue/ue.d.ts:11017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11017)
-
 ___
 
 ### SetRenderTransformAngle
@@ -2309,10 +1821,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[SetRenderTransformAngle](ue_ue.DynamicEntryBoxBase.md#setrendertransformangle)
-
-#### Defined in
-
-[ue/ue.d.ts:11018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11018)
 
 ___
 
@@ -2334,10 +1842,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[SetRenderTransformPivot](ue_ue.DynamicEntryBoxBase.md#setrendertransformpivot)
 
-#### Defined in
-
-[ue/ue.d.ts:11019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11019)
-
 ___
 
 ### SetRenderTranslation
@@ -2357,10 +1861,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[SetRenderTranslation](ue_ue.DynamicEntryBoxBase.md#setrendertranslation)
-
-#### Defined in
-
-[ue/ue.d.ts:11020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11020)
 
 ___
 
@@ -2382,10 +1882,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[SetToolTip](ue_ue.DynamicEntryBoxBase.md#settooltip)
 
-#### Defined in
-
-[ue/ue.d.ts:11021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11021)
-
 ___
 
 ### SetToolTipText
@@ -2405,10 +1901,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[SetToolTipText](ue_ue.DynamicEntryBoxBase.md#settooltiptext)
-
-#### Defined in
-
-[ue/ue.d.ts:11022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11022)
 
 ___
 
@@ -2430,10 +1922,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[SetUserFocus](ue_ue.DynamicEntryBoxBase.md#setuserfocus)
 
-#### Defined in
-
-[ue/ue.d.ts:11023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11023)
-
 ___
 
 ### SetVisibility
@@ -2453,10 +1941,6 @@ ___
 #### Inherited from
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[SetVisibility](ue_ue.DynamicEntryBoxBase.md#setvisibility)
-
-#### Defined in
-
-[ue/ue.d.ts:11024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11024)
 
 ___
 
@@ -2479,10 +1963,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[Find](ue_ue.DynamicEntryBoxBase.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:31354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31354)
-
 ___
 
 ### Load
@@ -2503,10 +1983,6 @@ ___
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[Load](ue_ue.DynamicEntryBoxBase.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:31355](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31355)
-
 ___
 
 ### StaticClass
@@ -2520,7 +1996,3 @@ ___
 #### Overrides
 
 [DynamicEntryBoxBase](ue_ue.DynamicEntryBoxBase.md).[StaticClass](ue_ue.DynamicEntryBoxBase.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:31353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31353)

@@ -20,19 +20,11 @@
 
 • **ENodeAdvancedPins\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1058)
-
 ___
 
 ### Hidden
 
 • **Hidden** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1058)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **NoPins** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1058)
-
 ___
 
 ### Shown
 
 • **Shown** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1058)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1058)

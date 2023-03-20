@@ -53,29 +53,17 @@
 
 [AssetUserData](ue_ue.AssetUserData.md).[constructor](ue_ue.AssetUserData.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:16935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16935)
-
 ## Properties
 
 ### AnimationModifierInstances
 
 • **AnimationModifierInstances**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`AnimationModifier`](ue_ue.AnimationModifier.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:16936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16936)
-
 ___
 
 ### \_\_tid\_AnimationModifiersAssetUserData\_\_
 
 • **\_\_tid\_AnimationModifiersAssetUserData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16941)
 
 ___
 
@@ -87,10 +75,6 @@ ___
 
 [AssetUserData](ue_ue.AssetUserData.md).[__tid_AssetUserData__](ue_ue.AssetUserData.md#__tid_assetuserdata__)
 
-#### Defined in
-
-[ue/ue.d.ts:268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L268)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -100,10 +84,6 @@ ___
 #### Inherited from
 
 [AssetUserData](ue_ue.AssetUserData.md).[__tid_Object__](ue_ue.AssetUserData.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -129,10 +109,6 @@ ___
 
 [AssetUserData](ue_ue.AssetUserData.md).[CreateDefaultSubobject](ue_ue.AssetUserData.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -153,10 +129,6 @@ ___
 
 [AssetUserData](ue_ue.AssetUserData.md).[ExecuteUbergraph](ue_ue.AssetUserData.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -170,10 +142,6 @@ ___
 #### Inherited from
 
 [AssetUserData](ue_ue.AssetUserData.md).[GetClass](ue_ue.AssetUserData.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -189,10 +157,6 @@ ___
 
 [AssetUserData](ue_ue.AssetUserData.md).[GetName](ue_ue.AssetUserData.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -207,10 +171,6 @@ ___
 
 [AssetUserData](ue_ue.AssetUserData.md).[GetOuter](ue_ue.AssetUserData.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -224,10 +184,6 @@ ___
 #### Inherited from
 
 [AssetUserData](ue_ue.AssetUserData.md).[GetWorld](ue_ue.AssetUserData.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -250,10 +206,6 @@ ___
 
 [AssetUserData](ue_ue.AssetUserData.md).[Find](ue_ue.AssetUserData.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:16938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16938)
-
 ___
 
 ### Load
@@ -274,10 +226,6 @@ ___
 
 [AssetUserData](ue_ue.AssetUserData.md).[Load](ue_ue.AssetUserData.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:16939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16939)
-
 ___
 
 ### StaticClass
@@ -291,7 +239,3 @@ ___
 #### Overrides
 
 [AssetUserData](ue_ue.AssetUserData.md).[StaticClass](ue_ue.AssetUserData.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:16937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16937)

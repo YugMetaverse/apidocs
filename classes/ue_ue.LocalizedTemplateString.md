@@ -27,10 +27,6 @@
 
 • **new LocalizedTemplateString**()
 
-#### Defined in
-
-[ue/ue.d.ts:30547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30547)
-
 • **new LocalizedTemplateString**(`Language`, `Text`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Language` | `string` |
 | `Text` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:30548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30548)
-
 ## Properties
 
 ### Language
 
 • **Language**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:30549](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30549)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Text**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:30550](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30550)
-
 ___
 
 ### \_\_tid\_LocalizedTemplateString\_\_
 
 • `Private` **\_\_tid\_LocalizedTemplateString\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30556)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:30554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30554)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:30555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30555)

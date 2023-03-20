@@ -19,19 +19,11 @@
 
 • **CapturedScene** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:24529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24529)
-
 ___
 
 ### EReflectionSourceType\_MAX
 
 • **EReflectionSourceType\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:24529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24529)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **SpecifiedCubemap** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:24529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24529)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:24529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24529)

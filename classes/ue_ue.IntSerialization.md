@@ -59,19 +59,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:40410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40410)
-
 ## Properties
 
 ### SignedInt16Variable
 
 • **SignedInt16Variable**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:40415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40415)
 
 ___
 
@@ -79,19 +71,11 @@ ___
 
 • **SignedInt32Variable**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:40418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40418)
-
 ___
 
 ### SignedInt64Variable
 
 • **SignedInt64Variable**: `bigint`
-
-#### Defined in
-
-[ue/ue.d.ts:40416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40416)
 
 ___
 
@@ -99,19 +83,11 @@ ___
 
 • **SignedInt8Variable**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:40414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40414)
-
 ___
 
 ### UnsignedInt16Variable
 
 • **UnsignedInt16Variable**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:40411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40411)
 
 ___
 
@@ -119,19 +95,11 @@ ___
 
 • **UnsignedInt32Variable**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:40412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40412)
-
 ___
 
 ### UnsignedInt64Variable
 
 • **UnsignedInt64Variable**: `bigint`
-
-#### Defined in
-
-[ue/ue.d.ts:40413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40413)
 
 ___
 
@@ -139,19 +107,11 @@ ___
 
 • **UnsignedInt8Variable**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:40417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40417)
-
 ___
 
 ### \_\_tid\_IntSerialization\_\_
 
 • **\_\_tid\_IntSerialization\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:40423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40423)
 
 ___
 
@@ -162,10 +122,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -191,10 +147,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -215,10 +167,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -232,10 +180,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -251,10 +195,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -269,10 +209,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -286,10 +222,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -312,10 +244,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:40420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40420)
-
 ___
 
 ### Load
@@ -336,10 +264,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:40421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40421)
-
 ___
 
 ### StaticClass
@@ -353,7 +277,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:40419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40419)

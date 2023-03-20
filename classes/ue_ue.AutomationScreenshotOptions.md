@@ -39,10 +39,6 @@
 
 • **new AutomationScreenshotOptions**()
 
-#### Defined in
-
-[ue/ue.d.ts:22864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22864)
-
 • **new AutomationScreenshotOptions**(`Resolution`, `Delay`, `bOverride_OverrideTimeTo`, `OverrideTimeTo`, `bDisableNoisyRenderingFeatures`, `bDisableTonemapping`, `ViewSettings`, `VisualizeBuffer`, `Tolerance`, `ToleranceAmount`, `MaximumLocalError`, `MaximumGlobalError`, `bIgnoreAntiAliasing`, `bIgnoreColors`)
 
 #### Parameters
@@ -64,19 +60,11 @@
 | `bIgnoreAntiAliasing` | `boolean` |
 | `bIgnoreColors` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:22865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22865)
-
 ## Properties
 
 ### Delay
 
 • **Delay**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22867)
 
 ___
 
@@ -84,19 +72,11 @@ ___
 
 • **MaximumGlobalError**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22877)
-
 ___
 
 ### MaximumLocalError
 
 • **MaximumLocalError**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:22876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22876)
 
 ___
 
@@ -104,19 +84,11 @@ ___
 
 • **OverrideTimeTo**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:22869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22869)
-
 ___
 
 ### Resolution
 
 • **Resolution**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22866)
 
 ___
 
@@ -124,19 +96,11 @@ ___
 
 • **Tolerance**: [`EComparisonTolerance`](../enums/ue_ue.EComparisonTolerance.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22874)
-
 ___
 
 ### ToleranceAmount
 
 • **ToleranceAmount**: [`ComparisonToleranceAmount`](ue_ue.ComparisonToleranceAmount.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22875)
 
 ___
 
@@ -144,19 +108,11 @@ ___
 
 • **ViewSettings**: [`AutomationViewSettings`](ue_ue.AutomationViewSettings.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22872)
-
 ___
 
 ### VisualizeBuffer
 
 • **VisualizeBuffer**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:22873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22873)
 
 ___
 
@@ -164,19 +120,11 @@ ___
 
 • `Private` **\_\_tid\_AutomationScreenshotOptions\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:22885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22885)
-
 ___
 
 ### bDisableNoisyRenderingFeatures
 
 • **bDisableNoisyRenderingFeatures**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22870)
 
 ___
 
@@ -184,19 +132,11 @@ ___
 
 • **bDisableTonemapping**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:22871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22871)
-
 ___
 
 ### bIgnoreAntiAliasing
 
 • **bIgnoreAntiAliasing**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22878)
 
 ___
 
@@ -204,19 +144,11 @@ ___
 
 • **bIgnoreColors**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:22879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22879)
-
 ___
 
 ### bOverride\_OverrideTimeTo
 
 • **bOverride\_OverrideTimeTo**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:22868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22868)
 
 ## Methods
 
@@ -232,10 +164,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:22883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22883)
-
 ___
 
 ### StaticStruct
@@ -245,7 +173,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:22884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22884)

@@ -67,10 +67,6 @@
 
 [CurveFactory](ue_ue.CurveFactory.md).[constructor](ue_ue.CurveFactory.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:29204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29204)
-
 ## Properties
 
 ### AssetImportTask
@@ -80,10 +76,6 @@
 #### Inherited from
 
 [CurveFactory](ue_ue.CurveFactory.md).[AssetImportTask](ue_ue.CurveFactory.md#assetimporttask)
-
-#### Defined in
-
-[ue/ue.d.ts:15338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15338)
 
 ___
 
@@ -95,10 +87,6 @@ ___
 
 [CurveFactory](ue_ue.CurveFactory.md).[AutomatedImportData](ue_ue.CurveFactory.md#automatedimportdata)
 
-#### Defined in
-
-[ue/ue.d.ts:15337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15337)
-
 ___
 
 ### ContextClass
@@ -108,10 +96,6 @@ ___
 #### Inherited from
 
 [CurveFactory](ue_ue.CurveFactory.md).[ContextClass](ue_ue.CurveFactory.md#contextclass)
-
-#### Defined in
-
-[ue/ue.d.ts:15331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15331)
 
 ___
 
@@ -123,10 +107,6 @@ ___
 
 [CurveFactory](ue_ue.CurveFactory.md).[CurveClass](ue_ue.CurveFactory.md#curveclass)
 
-#### Defined in
-
-[ue/ue.d.ts:29195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29195)
-
 ___
 
 ### Formats
@@ -136,10 +116,6 @@ ___
 #### Inherited from
 
 [CurveFactory](ue_ue.CurveFactory.md).[Formats](ue_ue.CurveFactory.md#formats)
-
-#### Defined in
-
-[ue/ue.d.ts:15332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15332)
 
 ___
 
@@ -151,10 +127,6 @@ ___
 
 [CurveFactory](ue_ue.CurveFactory.md).[ImportPriority](ue_ue.CurveFactory.md#importpriority)
 
-#### Defined in
-
-[ue/ue.d.ts:15336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15336)
-
 ___
 
 ### OverwriteYesOrNoToAllState
@@ -164,10 +136,6 @@ ___
 #### Inherited from
 
 [CurveFactory](ue_ue.CurveFactory.md).[OverwriteYesOrNoToAllState](ue_ue.CurveFactory.md#overwriteyesornotoallstate)
-
-#### Defined in
-
-[ue/ue.d.ts:15339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15339)
 
 ___
 
@@ -179,10 +147,6 @@ ___
 
 [CurveFactory](ue_ue.CurveFactory.md).[SupportedClass](ue_ue.CurveFactory.md#supportedclass)
 
-#### Defined in
-
-[ue/ue.d.ts:15330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15330)
-
 ___
 
 ### \_\_tid\_CurveFactory\_\_
@@ -193,19 +157,11 @@ ___
 
 [CurveFactory](ue_ue.CurveFactory.md).[__tid_CurveFactory__](ue_ue.CurveFactory.md#__tid_curvefactory__)
 
-#### Defined in
-
-[ue/ue.d.ts:29200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29200)
-
 ___
 
 ### \_\_tid\_CurveFloatFactory\_\_
 
 • **\_\_tid\_CurveFloatFactory\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:29209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29209)
 
 ___
 
@@ -217,10 +173,6 @@ ___
 
 [CurveFactory](ue_ue.CurveFactory.md).[__tid_Factory__](ue_ue.CurveFactory.md#__tid_factory__)
 
-#### Defined in
-
-[ue/ue.d.ts:15346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15346)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -230,10 +182,6 @@ ___
 #### Inherited from
 
 [CurveFactory](ue_ue.CurveFactory.md).[__tid_Object__](ue_ue.CurveFactory.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -245,10 +193,6 @@ ___
 
 [CurveFactory](ue_ue.CurveFactory.md).[bCreateNew](ue_ue.CurveFactory.md#bcreatenew)
 
-#### Defined in
-
-[ue/ue.d.ts:15329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15329)
-
 ___
 
 ### bEditAfterNew
@@ -258,10 +202,6 @@ ___
 #### Inherited from
 
 [CurveFactory](ue_ue.CurveFactory.md).[bEditAfterNew](ue_ue.CurveFactory.md#beditafternew)
-
-#### Defined in
-
-[ue/ue.d.ts:15333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15333)
 
 ___
 
@@ -273,10 +213,6 @@ ___
 
 [CurveFactory](ue_ue.CurveFactory.md).[bEditorImport](ue_ue.CurveFactory.md#beditorimport)
 
-#### Defined in
-
-[ue/ue.d.ts:15334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15334)
-
 ___
 
 ### bText
@@ -286,10 +222,6 @@ ___
 #### Inherited from
 
 [CurveFactory](ue_ue.CurveFactory.md).[bText](ue_ue.CurveFactory.md#btext)
-
-#### Defined in
-
-[ue/ue.d.ts:15335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15335)
 
 ## Methods
 
@@ -315,10 +247,6 @@ ___
 
 [CurveFactory](ue_ue.CurveFactory.md).[CreateDefaultSubobject](ue_ue.CurveFactory.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -339,10 +267,6 @@ ___
 
 [CurveFactory](ue_ue.CurveFactory.md).[ExecuteUbergraph](ue_ue.CurveFactory.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -356,10 +280,6 @@ ___
 #### Inherited from
 
 [CurveFactory](ue_ue.CurveFactory.md).[GetClass](ue_ue.CurveFactory.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -375,10 +295,6 @@ ___
 
 [CurveFactory](ue_ue.CurveFactory.md).[GetName](ue_ue.CurveFactory.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -393,10 +309,6 @@ ___
 
 [CurveFactory](ue_ue.CurveFactory.md).[GetOuter](ue_ue.CurveFactory.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -410,10 +322,6 @@ ___
 #### Inherited from
 
 [CurveFactory](ue_ue.CurveFactory.md).[GetWorld](ue_ue.CurveFactory.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -435,10 +343,6 @@ ___
 
 [CurveFactory](ue_ue.CurveFactory.md).[ScriptFactoryCanImport](ue_ue.CurveFactory.md#scriptfactorycanimport)
 
-#### Defined in
-
-[ue/ue.d.ts:15340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15340)
-
 ___
 
 ### ScriptFactoryCreateFile
@@ -458,10 +362,6 @@ ___
 #### Inherited from
 
 [CurveFactory](ue_ue.CurveFactory.md).[ScriptFactoryCreateFile](ue_ue.CurveFactory.md#scriptfactorycreatefile)
-
-#### Defined in
-
-[ue/ue.d.ts:15341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15341)
 
 ___
 
@@ -484,10 +384,6 @@ ___
 
 [CurveFactory](ue_ue.CurveFactory.md).[Find](ue_ue.CurveFactory.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:29206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29206)
-
 ___
 
 ### Load
@@ -508,10 +404,6 @@ ___
 
 [CurveFactory](ue_ue.CurveFactory.md).[Load](ue_ue.CurveFactory.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:29207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29207)
-
 ___
 
 ### StaticClass
@@ -525,7 +417,3 @@ ___
 #### Overrides
 
 [CurveFactory](ue_ue.CurveFactory.md).[StaticClass](ue_ue.CurveFactory.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:29205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29205)

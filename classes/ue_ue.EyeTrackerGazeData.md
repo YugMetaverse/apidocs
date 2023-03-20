@@ -29,10 +29,6 @@
 
 • **new EyeTrackerGazeData**()
 
-#### Defined in
-
-[ue/ue.d.ts:35070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35070)
-
 • **new EyeTrackerGazeData**(`GazeOrigin`, `GazeDirection`, `FixationPoint`, `ConfidenceValue`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `FixationPoint` | [`Vector`](ue_ue_s.Vector.md) |
 | `ConfidenceValue` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:35071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35071)
-
 ## Properties
 
 ### ConfidenceValue
 
 • **ConfidenceValue**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35075)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **FixationPoint**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35074)
-
 ___
 
 ### GazeDirection
 
 • **GazeDirection**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35073)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **GazeOrigin**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35072)
-
 ___
 
 ### \_\_tid\_EyeTrackerGazeData\_\_
 
 • `Private` **\_\_tid\_EyeTrackerGazeData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35081)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35079)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35080)

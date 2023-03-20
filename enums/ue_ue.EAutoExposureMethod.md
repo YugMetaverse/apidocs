@@ -20,19 +20,11 @@
 
 • **AEM\_Basic** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6223)
-
 ___
 
 ### AEM\_Histogram
 
 • **AEM\_Histogram** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6223)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **AEM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6223)
-
 ___
 
 ### AEM\_Manual
 
 • **AEM\_Manual** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6223)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6223)

@@ -23,19 +23,11 @@
 
 • **ColorPng** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33927)
-
 ___
 
 ### CorruptFile
 
 • **CorruptFile** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33927)
 
 ___
 
@@ -43,19 +35,11 @@ ___
 
 • **ELandscapeImportHeightmapError\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33927)
-
 ___
 
 ### FileNotFound
 
 • **FileNotFound** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33927)
 
 ___
 
@@ -63,19 +47,11 @@ ___
 
 • **InvalidSize** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33927)
-
 ___
 
 ### LowBitDepth
 
 • **LowBitDepth** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33927)
 
 ___
 
@@ -83,16 +59,8 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33927)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33927)

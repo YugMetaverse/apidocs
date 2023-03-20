@@ -19,19 +19,11 @@
 
 • **EPSUM\_FixedTime** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7171)
-
 ___
 
 ### EPSUM\_MAX
 
 • **EPSUM\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7171)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **EPSUM\_RealTime** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7171)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7171)

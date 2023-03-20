@@ -76,10 +76,6 @@
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[constructor](ue_ue.K2Node_MakeContainer.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:41784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41784)
-
 ## Properties
 
 ### AdvancedPinDisplay
@@ -89,10 +85,6 @@
 #### Inherited from
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[AdvancedPinDisplay](ue_ue.K2Node_MakeContainer.md#advancedpindisplay)
-
-#### Defined in
-
-[ue/ue.d.ts:1067](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1067)
 
 ___
 
@@ -104,10 +96,6 @@ ___
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[DeprecatedPins](ue_ue.K2Node_MakeContainer.md#deprecatedpins)
 
-#### Defined in
-
-[ue/ue.d.ts:1062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1062)
-
 ___
 
 ### EnabledState
@@ -117,10 +105,6 @@ ___
 #### Inherited from
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[EnabledState](ue_ue.K2Node_MakeContainer.md#enabledstate)
-
-#### Defined in
-
-[ue/ue.d.ts:1068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1068)
 
 ___
 
@@ -132,10 +116,6 @@ ___
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[ErrorMsg](ue_ue.K2Node_MakeContainer.md#errormsg)
 
-#### Defined in
-
-[ue/ue.d.ts:1081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1081)
-
 ___
 
 ### ErrorType
@@ -145,10 +125,6 @@ ___
 #### Inherited from
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[ErrorType](ue_ue.K2Node_MakeContainer.md#errortype)
-
-#### Defined in
-
-[ue/ue.d.ts:1080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1080)
 
 ___
 
@@ -160,10 +136,6 @@ ___
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[NodeComment](ue_ue.K2Node_MakeContainer.md#nodecomment)
 
-#### Defined in
-
-[ue/ue.d.ts:1079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1079)
-
 ___
 
 ### NodeGuid
@@ -173,10 +145,6 @@ ___
 #### Inherited from
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[NodeGuid](ue_ue.K2Node_MakeContainer.md#nodeguid)
-
-#### Defined in
-
-[ue/ue.d.ts:1082](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1082)
 
 ___
 
@@ -188,10 +156,6 @@ ___
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[NodeHeight](ue_ue.K2Node_MakeContainer.md#nodeheight)
 
-#### Defined in
-
-[ue/ue.d.ts:1066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1066)
-
 ___
 
 ### NodePosX
@@ -201,10 +165,6 @@ ___
 #### Inherited from
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[NodePosX](ue_ue.K2Node_MakeContainer.md#nodeposx)
-
-#### Defined in
-
-[ue/ue.d.ts:1063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1063)
 
 ___
 
@@ -216,10 +176,6 @@ ___
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[NodePosY](ue_ue.K2Node_MakeContainer.md#nodeposy)
 
-#### Defined in
-
-[ue/ue.d.ts:1064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1064)
-
 ___
 
 ### NodeUpgradeMessage
@@ -229,10 +185,6 @@ ___
 #### Inherited from
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[NodeUpgradeMessage](ue_ue.K2Node_MakeContainer.md#nodeupgrademessage)
-
-#### Defined in
-
-[ue/ue.d.ts:1078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1078)
 
 ___
 
@@ -244,10 +196,6 @@ ___
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[NodeWidth](ue_ue.K2Node_MakeContainer.md#nodewidth)
 
-#### Defined in
-
-[ue/ue.d.ts:1065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1065)
-
 ___
 
 ### NumInputs
@@ -257,10 +205,6 @@ ___
 #### Inherited from
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[NumInputs](ue_ue.K2Node_MakeContainer.md#numinputs)
-
-#### Defined in
-
-[ue/ue.d.ts:41757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41757)
 
 ___
 
@@ -272,10 +216,6 @@ ___
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[__tid_EdGraphNode__](ue_ue.K2Node_MakeContainer.md#__tid_edgraphnode__)
 
-#### Defined in
-
-[ue/ue.d.ts:1087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1087)
-
 ___
 
 ### \_\_tid\_K2Node\_MakeContainer\_\_
@@ -286,19 +226,11 @@ ___
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[__tid_K2Node_MakeContainer__](ue_ue.K2Node_MakeContainer.md#__tid_k2node_makecontainer__)
 
-#### Defined in
-
-[ue/ue.d.ts:41762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41762)
-
 ___
 
 ### \_\_tid\_K2Node\_MakeSet\_\_
 
 • **\_\_tid\_K2Node\_MakeSet\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:41789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41789)
 
 ___
 
@@ -310,10 +242,6 @@ ___
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[__tid_K2Node__](ue_ue.K2Node_MakeContainer.md#__tid_k2node__)
 
-#### Defined in
-
-[ue/ue.d.ts:16749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16749)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -323,10 +251,6 @@ ___
 #### Inherited from
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[__tid_Object__](ue_ue.K2Node_MakeContainer.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -338,10 +262,6 @@ ___
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[bCanRenameNode](ue_ue.K2Node_MakeContainer.md#bcanrenamenode)
 
-#### Defined in
-
-[ue/ue.d.ts:1077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1077)
-
 ___
 
 ### bCanResizeNode
@@ -351,10 +271,6 @@ ___
 #### Inherited from
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[bCanResizeNode](ue_ue.K2Node_MakeContainer.md#bcanresizenode)
-
-#### Defined in
-
-[ue/ue.d.ts:1072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1072)
 
 ___
 
@@ -366,10 +282,6 @@ ___
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[bCommentBubbleMakeVisible](ue_ue.K2Node_MakeContainer.md#bcommentbubblemakevisible)
 
-#### Defined in
-
-[ue/ue.d.ts:1076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1076)
-
 ___
 
 ### bCommentBubblePinned
@@ -379,10 +291,6 @@ ___
 #### Inherited from
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[bCommentBubblePinned](ue_ue.K2Node_MakeContainer.md#bcommentbubblepinned)
-
-#### Defined in
-
-[ue/ue.d.ts:1074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1074)
 
 ___
 
@@ -394,10 +302,6 @@ ___
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[bCommentBubbleVisible](ue_ue.K2Node_MakeContainer.md#bcommentbubblevisible)
 
-#### Defined in
-
-[ue/ue.d.ts:1075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1075)
-
 ___
 
 ### bDisplayAsDisabled
@@ -407,10 +311,6 @@ ___
 #### Inherited from
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[bDisplayAsDisabled](ue_ue.K2Node_MakeContainer.md#bdisplayasdisabled)
-
-#### Defined in
-
-[ue/ue.d.ts:1069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1069)
 
 ___
 
@@ -422,10 +322,6 @@ ___
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[bHasCompilerMessage](ue_ue.K2Node_MakeContainer.md#bhascompilermessage)
 
-#### Defined in
-
-[ue/ue.d.ts:1073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1073)
-
 ___
 
 ### bIsNodeEnabled
@@ -436,10 +332,6 @@ ___
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[bIsNodeEnabled](ue_ue.K2Node_MakeContainer.md#bisnodeenabled)
 
-#### Defined in
-
-[ue/ue.d.ts:1071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1071)
-
 ___
 
 ### bUserSetEnabledState
@@ -449,10 +341,6 @@ ___
 #### Inherited from
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[bUserSetEnabledState](ue_ue.K2Node_MakeContainer.md#busersetenabledstate)
-
-#### Defined in
-
-[ue/ue.d.ts:1070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1070)
 
 ## Methods
 
@@ -478,10 +366,6 @@ ___
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[CreateDefaultSubobject](ue_ue.K2Node_MakeContainer.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -502,10 +386,6 @@ ___
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[ExecuteUbergraph](ue_ue.K2Node_MakeContainer.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -519,10 +399,6 @@ ___
 #### Inherited from
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[GetClass](ue_ue.K2Node_MakeContainer.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -538,10 +414,6 @@ ___
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[GetName](ue_ue.K2Node_MakeContainer.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -556,10 +428,6 @@ ___
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[GetOuter](ue_ue.K2Node_MakeContainer.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -573,10 +441,6 @@ ___
 #### Inherited from
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[GetWorld](ue_ue.K2Node_MakeContainer.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -599,10 +463,6 @@ ___
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[Find](ue_ue.K2Node_MakeContainer.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:41786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41786)
-
 ___
 
 ### Load
@@ -623,10 +483,6 @@ ___
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[Load](ue_ue.K2Node_MakeContainer.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:41787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41787)
-
 ___
 
 ### StaticClass
@@ -640,7 +496,3 @@ ___
 #### Overrides
 
 [K2Node_MakeContainer](ue_ue.K2Node_MakeContainer.md).[StaticClass](ue_ue.K2Node_MakeContainer.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:41785](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41785)

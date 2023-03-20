@@ -29,10 +29,6 @@
 
 • **new WidgetTransform**()
 
-#### Defined in
-
-[ue/ue.d.ts:10709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10709)
-
 • **new WidgetTransform**(`Translation`, `Scale`, `Shear`, `Angle`)
 
 #### Parameters
@@ -44,19 +40,11 @@
 | `Shear` | [`Vector2D`](ue_ue_s.Vector2D.md) |
 | `Angle` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:10710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10710)
-
 ## Properties
 
 ### Angle
 
 • **Angle**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:10714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10714)
 
 ___
 
@@ -64,19 +52,11 @@ ___
 
 • **Scale**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10712)
-
 ___
 
 ### Shear
 
 • **Shear**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10713)
 
 ___
 
@@ -84,19 +64,11 @@ ___
 
 • **Translation**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10711)
-
 ___
 
 ### \_\_tid\_WidgetTransform\_\_
 
 • `Private` **\_\_tid\_WidgetTransform\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:10720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10720)
 
 ## Methods
 
@@ -112,10 +84,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:10718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10718)
-
 ___
 
 ### StaticStruct
@@ -125,7 +93,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:10719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10719)

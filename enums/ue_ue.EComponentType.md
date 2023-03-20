@@ -28,19 +28,11 @@
 
 • **EComponentType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18154)
-
 ___
 
 ### None
 
 • **None** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18154)
 
 ___
 
@@ -48,19 +40,11 @@ ___
 
 • **RotationX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18154)
-
 ___
 
 ### RotationY
 
 • **RotationY** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18154)
 
 ___
 
@@ -68,19 +52,11 @@ ___
 
 • **RotationZ** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18154)
-
 ___
 
 ### Scale
 
 • **Scale** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18154)
 
 ___
 
@@ -88,19 +64,11 @@ ___
 
 • **ScaleX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18154)
-
 ___
 
 ### ScaleY
 
 • **ScaleY** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18154)
 
 ___
 
@@ -108,19 +76,11 @@ ___
 
 • **ScaleZ** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18154)
-
 ___
 
 ### TranslationX
 
 • **TranslationX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18154)
 
 ___
 
@@ -128,26 +88,14 @@ ___
 
 • **TranslationY** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18154)
-
 ___
 
 ### TranslationZ
 
 • **TranslationZ** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:18154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18154)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:18154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18154)

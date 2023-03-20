@@ -30,10 +30,6 @@
 
 • **new NetViewer**()
 
-#### Defined in
-
-[ue/ue.d.ts:9108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9108)
-
 • **new NetViewer**(`Connection`, `InViewer`, `ViewTarget`, `ViewLocation`, `ViewDir`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `ViewLocation` | [`Vector`](ue_ue_s.Vector.md) |
 | `ViewDir` | [`Vector`](ue_ue_s.Vector.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:9109](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9109)
-
 ## Properties
 
 ### Connection
 
 • **Connection**: [`NetConnection`](ue_ue.NetConnection.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9110)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **InViewer**: [`Actor`](ue_ue.Actor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9111)
-
 ___
 
 ### ViewDir
 
 • **ViewDir**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9114](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9114)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **ViewLocation**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9113)
-
 ___
 
 ### ViewTarget
 
 • **ViewTarget**: [`Actor`](ue_ue.Actor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9112)
-
 ___
 
 ### \_\_tid\_NetViewer\_\_
 
 • `Private` **\_\_tid\_NetViewer\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:9120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9120)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9118)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9119)

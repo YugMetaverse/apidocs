@@ -34,10 +34,6 @@
 
 • **new CurveEdEntry**()
 
-#### Defined in
-
-[ue/ue.d.ts:7114](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7114)
-
 • **new CurveEdEntry**(`CurveObject`, `CurveColor`, `CurveName`, `bHideCurve`, `bColorCurve`, `bFloatingPointColorCurve`, `bClamp`, `ClampLow`, `ClampHigh`)
 
 #### Parameters
@@ -54,19 +50,11 @@
 | `ClampLow` | `number` |
 | `ClampHigh` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:7115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7115)
-
 ## Properties
 
 ### ClampHigh
 
 • **ClampHigh**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7124)
 
 ___
 
@@ -74,19 +62,11 @@ ___
 
 • **ClampLow**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7123)
-
 ___
 
 ### CurveColor
 
 • **CurveColor**: [`Color`](ue_ue_s.Color.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7117)
 
 ___
 
@@ -94,19 +74,11 @@ ___
 
 • **CurveName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:7118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7118)
-
 ___
 
 ### CurveObject
 
 • **CurveObject**: [`Object`](ue_ue.Object.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7116)
 
 ___
 
@@ -114,19 +86,11 @@ ___
 
 • `Private` **\_\_tid\_CurveEdEntry\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:7130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7130)
-
 ___
 
 ### bClamp
 
 • **bClamp**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7122)
 
 ___
 
@@ -134,29 +98,17 @@ ___
 
 • **bColorCurve**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7120)
-
 ___
 
 ### bFloatingPointColorCurve
 
 • **bFloatingPointColorCurve**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:7121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7121)
-
 ___
 
 ### bHideCurve
 
 • **bHideCurve**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:7119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7119)
 
 ## Methods
 
@@ -172,10 +124,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:7128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7128)
-
 ___
 
 ### StaticStruct
@@ -185,7 +133,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:7129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7129)

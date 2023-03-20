@@ -28,10 +28,6 @@
 
 • **new FoliageVertexColorChannelMask**()
 
-#### Defined in
-
-[ue/ue.d.ts:35889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35889)
-
 • **new FoliageVertexColorChannelMask**(`UseMask`, `MaskThreshold`, `InvertMask`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `MaskThreshold` | `number` |
 | `InvertMask` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:35890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35890)
-
 ## Properties
 
 ### InvertMask
 
 • **InvertMask**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35893)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **MaskThreshold**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35892)
-
 ___
 
 ### UseMask
 
 • **UseMask**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:35891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35891)
-
 ___
 
 ### \_\_tid\_FoliageVertexColorChannelMask\_\_
 
 • `Private` **\_\_tid\_FoliageVertexColorChannelMask\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35899)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35897)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35898)

@@ -26,19 +26,11 @@
 
 • **MSC\_Always** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1407)
-
 ___
 
 ### MSC\_Count
 
 • **MSC\_Count** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1407)
 
 ___
 
@@ -46,19 +38,11 @@ ___
 
 • **MSC\_Equal** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1407)
-
 ___
 
 ### MSC\_Greater
 
 • **MSC\_Greater** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1407)
 
 ___
 
@@ -66,19 +50,11 @@ ___
 
 • **MSC\_GreaterEqual** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1407)
-
 ___
 
 ### MSC\_Less
 
 • **MSC\_Less** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1407)
 
 ___
 
@@ -86,19 +62,11 @@ ___
 
 • **MSC\_LessEqual** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1407)
-
 ___
 
 ### MSC\_MAX
 
 • **MSC\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1407)
 
 ___
 
@@ -106,26 +74,14 @@ ___
 
 • **MSC\_Never** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1407)
-
 ___
 
 ### MSC\_NotEqual
 
 • **MSC\_NotEqual** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:1407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1407)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:1407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1407)

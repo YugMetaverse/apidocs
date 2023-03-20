@@ -21,19 +21,11 @@
 
 • **PEB2STTM\_Direct** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:23590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23590)
-
 ___
 
 ### PEB2STTM\_Distribution
 
 • **PEB2STTM\_Distribution** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:23590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23590)
 
 ___
 
@@ -41,19 +33,11 @@ ___
 
 • **PEB2STTM\_Emitter** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:23590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23590)
-
 ___
 
 ### PEB2STTM\_MAX
 
 • **PEB2STTM\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:23590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23590)
 
 ___
 
@@ -61,16 +45,8 @@ ___
 
 • **PEB2STTM\_UserSet** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:23590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23590)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:23590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23590)

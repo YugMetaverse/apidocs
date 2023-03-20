@@ -25,19 +25,11 @@
 
 • **new BlueprintMacroCosmeticInfo**()
 
-#### Defined in
-
-[ue/ue.d.ts:4185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4185)
-
 ## Properties
 
 ### \_\_tid\_BlueprintMacroCosmeticInfo\_\_
 
 • `Private` **\_\_tid\_BlueprintMacroCosmeticInfo\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:4191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4191)
 
 ## Methods
 
@@ -53,10 +45,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:4189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4189)
-
 ___
 
 ### StaticStruct
@@ -66,7 +54,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:4190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4190)

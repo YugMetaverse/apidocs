@@ -20,19 +20,11 @@
 
 • **EMeshModificationType\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31605)
-
 ___
 
 ### Final
 
 • **Final** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31605)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **FirstInterim** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31605)
-
 ___
 
 ### Interim
 
 • **Interim** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:31605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31605)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31605)

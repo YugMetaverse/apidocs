@@ -61,10 +61,6 @@
 
 [ActorFactoryBoxVolume](ue_ue.ActorFactoryBoxVolume.md).[constructor](ue_ue.ActorFactoryBoxVolume.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:13795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13795)
-
 ## Properties
 
 ### DisplayName
@@ -74,10 +70,6 @@
 #### Inherited from
 
 [ActorFactoryBoxVolume](ue_ue.ActorFactoryBoxVolume.md).[DisplayName](ue_ue.ActorFactoryBoxVolume.md#displayname)
-
-#### Defined in
-
-[ue/ue.d.ts:13500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13500)
 
 ___
 
@@ -89,10 +81,6 @@ ___
 
 [ActorFactoryBoxVolume](ue_ue.ActorFactoryBoxVolume.md).[MenuPriority](ue_ue.ActorFactoryBoxVolume.md#menupriority)
 
-#### Defined in
-
-[ue/ue.d.ts:13501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13501)
-
 ___
 
 ### NewActorClass
@@ -102,10 +90,6 @@ ___
 #### Inherited from
 
 [ActorFactoryBoxVolume](ue_ue.ActorFactoryBoxVolume.md).[NewActorClass](ue_ue.ActorFactoryBoxVolume.md#newactorclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13503)
 
 ___
 
@@ -117,10 +101,6 @@ ___
 
 [ActorFactoryBoxVolume](ue_ue.ActorFactoryBoxVolume.md).[NewActorClassName](ue_ue.ActorFactoryBoxVolume.md#newactorclassname)
 
-#### Defined in
-
-[ue/ue.d.ts:13502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13502)
-
 ___
 
 ### SpawnPositionOffset
@@ -130,10 +110,6 @@ ___
 #### Inherited from
 
 [ActorFactoryBoxVolume](ue_ue.ActorFactoryBoxVolume.md).[SpawnPositionOffset](ue_ue.ActorFactoryBoxVolume.md#spawnpositionoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:13506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13506)
 
 ___
 
@@ -145,19 +121,11 @@ ___
 
 [ActorFactoryBoxVolume](ue_ue.ActorFactoryBoxVolume.md).[__tid_ActorFactoryBoxVolume__](ue_ue.ActorFactoryBoxVolume.md#__tid_actorfactoryboxvolume__)
 
-#### Defined in
-
-[ue/ue.d.ts:13601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13601)
-
 ___
 
 ### \_\_tid\_ActorFactoryProceduralFoliage\_\_
 
 • **\_\_tid\_ActorFactoryProceduralFoliage\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:13800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13800)
 
 ___
 
@@ -169,10 +137,6 @@ ___
 
 [ActorFactoryBoxVolume](ue_ue.ActorFactoryBoxVolume.md).[__tid_ActorFactoryVolume__](ue_ue.ActorFactoryBoxVolume.md#__tid_actorfactoryvolume__)
 
-#### Defined in
-
-[ue/ue.d.ts:13592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13592)
-
 ___
 
 ### \_\_tid\_ActorFactory\_\_
@@ -182,10 +146,6 @@ ___
 #### Inherited from
 
 [ActorFactoryBoxVolume](ue_ue.ActorFactoryBoxVolume.md).[__tid_ActorFactory__](ue_ue.ActorFactoryBoxVolume.md#__tid_actorfactory__)
-
-#### Defined in
-
-[ue/ue.d.ts:13511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13511)
 
 ___
 
@@ -197,10 +157,6 @@ ___
 
 [ActorFactoryBoxVolume](ue_ue.ActorFactoryBoxVolume.md).[__tid_Object__](ue_ue.ActorFactoryBoxVolume.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bShowInEditorQuickMenu
@@ -211,10 +167,6 @@ ___
 
 [ActorFactoryBoxVolume](ue_ue.ActorFactoryBoxVolume.md).[bShowInEditorQuickMenu](ue_ue.ActorFactoryBoxVolume.md#bshowineditorquickmenu)
 
-#### Defined in
-
-[ue/ue.d.ts:13504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13504)
-
 ___
 
 ### bUseSurfaceOrientation
@@ -224,10 +176,6 @@ ___
 #### Inherited from
 
 [ActorFactoryBoxVolume](ue_ue.ActorFactoryBoxVolume.md).[bUseSurfaceOrientation](ue_ue.ActorFactoryBoxVolume.md#busesurfaceorientation)
-
-#### Defined in
-
-[ue/ue.d.ts:13505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13505)
 
 ## Methods
 
@@ -253,10 +201,6 @@ ___
 
 [ActorFactoryBoxVolume](ue_ue.ActorFactoryBoxVolume.md).[CreateDefaultSubobject](ue_ue.ActorFactoryBoxVolume.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -277,10 +221,6 @@ ___
 
 [ActorFactoryBoxVolume](ue_ue.ActorFactoryBoxVolume.md).[ExecuteUbergraph](ue_ue.ActorFactoryBoxVolume.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -294,10 +234,6 @@ ___
 #### Inherited from
 
 [ActorFactoryBoxVolume](ue_ue.ActorFactoryBoxVolume.md).[GetClass](ue_ue.ActorFactoryBoxVolume.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -313,10 +249,6 @@ ___
 
 [ActorFactoryBoxVolume](ue_ue.ActorFactoryBoxVolume.md).[GetName](ue_ue.ActorFactoryBoxVolume.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -331,10 +263,6 @@ ___
 
 [ActorFactoryBoxVolume](ue_ue.ActorFactoryBoxVolume.md).[GetOuter](ue_ue.ActorFactoryBoxVolume.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -348,10 +276,6 @@ ___
 #### Inherited from
 
 [ActorFactoryBoxVolume](ue_ue.ActorFactoryBoxVolume.md).[GetWorld](ue_ue.ActorFactoryBoxVolume.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -374,10 +298,6 @@ ___
 
 [ActorFactoryBoxVolume](ue_ue.ActorFactoryBoxVolume.md).[Find](ue_ue.ActorFactoryBoxVolume.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:13797](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13797)
-
 ___
 
 ### Load
@@ -398,10 +318,6 @@ ___
 
 [ActorFactoryBoxVolume](ue_ue.ActorFactoryBoxVolume.md).[Load](ue_ue.ActorFactoryBoxVolume.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:13798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13798)
-
 ___
 
 ### StaticClass
@@ -415,7 +331,3 @@ ___
 #### Overrides
 
 [ActorFactoryBoxVolume](ue_ue.ActorFactoryBoxVolume.md).[StaticClass](ue_ue.ActorFactoryBoxVolume.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13796)

@@ -56,10 +56,6 @@
 
 [PaperSpriteThumbnailRenderer](ue_ue.PaperSpriteThumbnailRenderer.md).[constructor](ue_ue.PaperSpriteThumbnailRenderer.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:54739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54739)
-
 ## Properties
 
 ### DefaultSizeX
@@ -69,10 +65,6 @@
 #### Inherited from
 
 [PaperSpriteThumbnailRenderer](ue_ue.PaperSpriteThumbnailRenderer.md).[DefaultSizeX](ue_ue.PaperSpriteThumbnailRenderer.md#defaultsizex)
-
-#### Defined in
-
-[ue/ue.d.ts:17279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17279)
 
 ___
 
@@ -84,10 +76,6 @@ ___
 
 [PaperSpriteThumbnailRenderer](ue_ue.PaperSpriteThumbnailRenderer.md).[DefaultSizeY](ue_ue.PaperSpriteThumbnailRenderer.md#defaultsizey)
 
-#### Defined in
-
-[ue/ue.d.ts:17280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17280)
-
 ___
 
 ### \_\_tid\_DefaultSizedThumbnailRenderer\_\_
@@ -97,10 +85,6 @@ ___
 #### Inherited from
 
 [PaperSpriteThumbnailRenderer](ue_ue.PaperSpriteThumbnailRenderer.md).[__tid_DefaultSizedThumbnailRenderer__](ue_ue.PaperSpriteThumbnailRenderer.md#__tid_defaultsizedthumbnailrenderer__)
-
-#### Defined in
-
-[ue/ue.d.ts:17285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17285)
 
 ___
 
@@ -112,19 +96,11 @@ ___
 
 [PaperSpriteThumbnailRenderer](ue_ue.PaperSpriteThumbnailRenderer.md).[__tid_Object__](ue_ue.PaperSpriteThumbnailRenderer.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_PaperFlipbookThumbnailRenderer\_\_
 
 • **\_\_tid\_PaperFlipbookThumbnailRenderer\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:54744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54744)
 
 ___
 
@@ -136,10 +112,6 @@ ___
 
 [PaperSpriteThumbnailRenderer](ue_ue.PaperSpriteThumbnailRenderer.md).[__tid_PaperSpriteThumbnailRenderer__](ue_ue.PaperSpriteThumbnailRenderer.md#__tid_paperspritethumbnailrenderer__)
 
-#### Defined in
-
-[ue/ue.d.ts:54735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54735)
-
 ___
 
 ### \_\_tid\_ThumbnailRenderer\_\_
@@ -149,10 +121,6 @@ ___
 #### Inherited from
 
 [PaperSpriteThumbnailRenderer](ue_ue.PaperSpriteThumbnailRenderer.md).[__tid_ThumbnailRenderer__](ue_ue.PaperSpriteThumbnailRenderer.md#__tid_thumbnailrenderer__)
-
-#### Defined in
-
-[ue/ue.d.ts:17274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17274)
 
 ## Methods
 
@@ -178,10 +146,6 @@ ___
 
 [PaperSpriteThumbnailRenderer](ue_ue.PaperSpriteThumbnailRenderer.md).[CreateDefaultSubobject](ue_ue.PaperSpriteThumbnailRenderer.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -202,10 +166,6 @@ ___
 
 [PaperSpriteThumbnailRenderer](ue_ue.PaperSpriteThumbnailRenderer.md).[ExecuteUbergraph](ue_ue.PaperSpriteThumbnailRenderer.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -219,10 +179,6 @@ ___
 #### Inherited from
 
 [PaperSpriteThumbnailRenderer](ue_ue.PaperSpriteThumbnailRenderer.md).[GetClass](ue_ue.PaperSpriteThumbnailRenderer.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -238,10 +194,6 @@ ___
 
 [PaperSpriteThumbnailRenderer](ue_ue.PaperSpriteThumbnailRenderer.md).[GetName](ue_ue.PaperSpriteThumbnailRenderer.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -256,10 +208,6 @@ ___
 
 [PaperSpriteThumbnailRenderer](ue_ue.PaperSpriteThumbnailRenderer.md).[GetOuter](ue_ue.PaperSpriteThumbnailRenderer.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -273,10 +221,6 @@ ___
 #### Inherited from
 
 [PaperSpriteThumbnailRenderer](ue_ue.PaperSpriteThumbnailRenderer.md).[GetWorld](ue_ue.PaperSpriteThumbnailRenderer.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -299,10 +243,6 @@ ___
 
 [PaperSpriteThumbnailRenderer](ue_ue.PaperSpriteThumbnailRenderer.md).[Find](ue_ue.PaperSpriteThumbnailRenderer.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:54741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54741)
-
 ___
 
 ### Load
@@ -323,10 +263,6 @@ ___
 
 [PaperSpriteThumbnailRenderer](ue_ue.PaperSpriteThumbnailRenderer.md).[Load](ue_ue.PaperSpriteThumbnailRenderer.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:54742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54742)
-
 ___
 
 ### StaticClass
@@ -340,7 +276,3 @@ ___
 #### Overrides
 
 [PaperSpriteThumbnailRenderer](ue_ue.PaperSpriteThumbnailRenderer.md).[StaticClass](ue_ue.PaperSpriteThumbnailRenderer.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:54740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54740)

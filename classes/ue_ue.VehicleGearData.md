@@ -28,10 +28,6 @@
 
 • **new VehicleGearData**()
 
-#### Defined in
-
-[ue/ue.d.ts:66070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66070)
-
 • **new VehicleGearData**(`Ratio`, `DownRatio`, `UpRatio`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `DownRatio` | `number` |
 | `UpRatio` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:66071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66071)
-
 ## Properties
 
 ### DownRatio
 
 • **DownRatio**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:66073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66073)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **Ratio**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:66072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66072)
-
 ___
 
 ### UpRatio
 
 • **UpRatio**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:66074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66074)
-
 ___
 
 ### \_\_tid\_VehicleGearData\_\_
 
 • `Private` **\_\_tid\_VehicleGearData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:66080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66080)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:66078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66078)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:66079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66079)

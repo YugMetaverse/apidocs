@@ -67,10 +67,6 @@
 
 [DatasmithAssetImportData](ue_ue.DatasmithAssetImportData.md).[constructor](ue_ue.DatasmithAssetImportData.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:30016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30016)
-
 ## Properties
 
 ### AdditionalData
@@ -80,10 +76,6 @@
 #### Inherited from
 
 [DatasmithAssetImportData](ue_ue.DatasmithAssetImportData.md).[AdditionalData](ue_ue.DatasmithAssetImportData.md#additionaldata)
-
-#### Defined in
-
-[ue/ue.d.ts:29408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29408)
 
 ___
 
@@ -95,19 +87,11 @@ ___
 
 [DatasmithAssetImportData](ue_ue.DatasmithAssetImportData.md).[AssetImportOptions](ue_ue.DatasmithAssetImportData.md#assetimportoptions)
 
-#### Defined in
-
-[ue/ue.d.ts:29407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29407)
-
 ___
 
 ### ImportOptions
 
 • **ImportOptions**: [`DatasmithStaticMeshImportOptions`](ue_ue.DatasmithStaticMeshImportOptions.md)
-
-#### Defined in
-
-[ue/ue.d.ts:30017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30017)
 
 ___
 
@@ -119,10 +103,6 @@ ___
 
 [DatasmithAssetImportData](ue_ue.DatasmithAssetImportData.md).[SourceData](ue_ue.DatasmithAssetImportData.md#sourcedata)
 
-#### Defined in
-
-[ue/ue.d.ts:38](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38)
-
 ___
 
 ### SourceFilePath
@@ -132,10 +112,6 @@ ___
 #### Inherited from
 
 [DatasmithAssetImportData](ue_ue.DatasmithAssetImportData.md).[SourceFilePath](ue_ue.DatasmithAssetImportData.md#sourcefilepath)
-
-#### Defined in
-
-[ue/ue.d.ts:36](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36)
 
 ___
 
@@ -147,10 +123,6 @@ ___
 
 [DatasmithAssetImportData](ue_ue.DatasmithAssetImportData.md).[SourceFileTimestamp](ue_ue.DatasmithAssetImportData.md#sourcefiletimestamp)
 
-#### Defined in
-
-[ue/ue.d.ts:37](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37)
-
 ___
 
 ### \_\_tid\_AssetImportData\_\_
@@ -160,10 +132,6 @@ ___
 #### Inherited from
 
 [DatasmithAssetImportData](ue_ue.DatasmithAssetImportData.md).[__tid_AssetImportData__](ue_ue.DatasmithAssetImportData.md#__tid_assetimportdata__)
-
-#### Defined in
-
-[ue/ue.d.ts:45](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45)
 
 ___
 
@@ -175,19 +143,11 @@ ___
 
 [DatasmithAssetImportData](ue_ue.DatasmithAssetImportData.md).[__tid_DatasmithAssetImportData__](ue_ue.DatasmithAssetImportData.md#__tid_datasmithassetimportdata__)
 
-#### Defined in
-
-[ue/ue.d.ts:29413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29413)
-
 ___
 
 ### \_\_tid\_DatasmithStaticMeshImportData\_\_
 
 • **\_\_tid\_DatasmithStaticMeshImportData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:30022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30022)
 
 ___
 
@@ -198,10 +158,6 @@ ___
 #### Inherited from
 
 [DatasmithAssetImportData](ue_ue.DatasmithAssetImportData.md).[__tid_Object__](ue_ue.DatasmithAssetImportData.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ## Methods
 
@@ -227,10 +183,6 @@ ___
 
 [DatasmithAssetImportData](ue_ue.DatasmithAssetImportData.md).[CreateDefaultSubobject](ue_ue.DatasmithAssetImportData.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -251,10 +203,6 @@ ___
 
 [DatasmithAssetImportData](ue_ue.DatasmithAssetImportData.md).[ExecuteUbergraph](ue_ue.DatasmithAssetImportData.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -268,10 +216,6 @@ ___
 #### Inherited from
 
 [DatasmithAssetImportData](ue_ue.DatasmithAssetImportData.md).[GetClass](ue_ue.DatasmithAssetImportData.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -287,10 +231,6 @@ ___
 
 [DatasmithAssetImportData](ue_ue.DatasmithAssetImportData.md).[GetName](ue_ue.DatasmithAssetImportData.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -304,10 +244,6 @@ ___
 #### Inherited from
 
 [DatasmithAssetImportData](ue_ue.DatasmithAssetImportData.md).[GetOuter](ue_ue.DatasmithAssetImportData.md#getouter)
-
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -323,10 +259,6 @@ ___
 
 [DatasmithAssetImportData](ue_ue.DatasmithAssetImportData.md).[GetWorld](ue_ue.DatasmithAssetImportData.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### K2\_ExtractFilenames
@@ -341,10 +273,6 @@ ___
 
 [DatasmithAssetImportData](ue_ue.DatasmithAssetImportData.md).[K2_ExtractFilenames](ue_ue.DatasmithAssetImportData.md#k2_extractfilenames)
 
-#### Defined in
-
-[ue/ue.d.ts:39](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39)
-
 ___
 
 ### K2\_GetFirstFilename
@@ -358,10 +286,6 @@ ___
 #### Inherited from
 
 [DatasmithAssetImportData](ue_ue.DatasmithAssetImportData.md).[K2_GetFirstFilename](ue_ue.DatasmithAssetImportData.md#k2_getfirstfilename)
-
-#### Defined in
-
-[ue/ue.d.ts:40](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40)
 
 ___
 
@@ -384,10 +308,6 @@ ___
 
 [DatasmithAssetImportData](ue_ue.DatasmithAssetImportData.md).[Find](ue_ue.DatasmithAssetImportData.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:30019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30019)
-
 ___
 
 ### Load
@@ -408,10 +328,6 @@ ___
 
 [DatasmithAssetImportData](ue_ue.DatasmithAssetImportData.md).[Load](ue_ue.DatasmithAssetImportData.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:30020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30020)
-
 ___
 
 ### StaticClass
@@ -425,7 +341,3 @@ ___
 #### Overrides
 
 [DatasmithAssetImportData](ue_ue.DatasmithAssetImportData.md).[StaticClass](ue_ue.DatasmithAssetImportData.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:30018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30018)

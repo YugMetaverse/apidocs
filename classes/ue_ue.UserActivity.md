@@ -26,10 +26,6 @@
 
 • **new UserActivity**()
 
-#### Defined in
-
-[ue/ue.d.ts:43200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43200)
-
 • **new UserActivity**(`ActionName`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `ActionName` | `string` |
 
-#### Defined in
-
-[ue/ue.d.ts:43201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43201)
-
 ## Properties
 
 ### ActionName
 
 • **ActionName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:43202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43202)
-
 ___
 
 ### \_\_tid\_UserActivity\_\_
 
 • `Private` **\_\_tid\_UserActivity\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:43208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43208)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:43206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43206)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:43207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43207)

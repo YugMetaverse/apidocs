@@ -28,10 +28,6 @@
 
 • **new MeshElementAttributeData**()
 
-#### Defined in
-
-[ue/ue.d.ts:31644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31644)
-
 • **new MeshElementAttributeData**(`AttributeName`, `AttributeIndex`, `AttributeValue`)
 
 #### Parameters
@@ -42,19 +38,11 @@
 | `AttributeIndex` | `number` |
 | `AttributeValue` | [`MeshElementAttributeValue`](ue_ue.MeshElementAttributeValue.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:31645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31645)
-
 ## Properties
 
 ### AttributeIndex
 
 • **AttributeIndex**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:31647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31647)
 
 ___
 
@@ -62,29 +50,17 @@ ___
 
 • **AttributeName**: `string`
 
-#### Defined in
-
-[ue/ue.d.ts:31646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31646)
-
 ___
 
 ### AttributeValue
 
 • **AttributeValue**: [`MeshElementAttributeValue`](ue_ue.MeshElementAttributeValue.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31648)
-
 ___
 
 ### \_\_tid\_MeshElementAttributeData\_\_
 
 • `Private` **\_\_tid\_MeshElementAttributeData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:31654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31654)
 
 ## Methods
 
@@ -100,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:31652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31652)
-
 ___
 
 ### StaticStruct
@@ -113,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:31653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31653)

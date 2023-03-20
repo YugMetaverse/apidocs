@@ -31,10 +31,6 @@
 
 • **new RepAttachment**()
 
-#### Defined in
-
-[ue/ue.d.ts:12965](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12965)
-
 • **new RepAttachment**(`AttachParent`, `LocationOffset`, `RelativeScale3D`, `RotationOffset`, `AttachSocket`, `AttachComponent`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `AttachSocket` | `string` |
 | `AttachComponent` | [`SceneComponent`](ue_ue.SceneComponent.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:12966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12966)
-
 ## Properties
 
 ### AttachComponent
 
 • **AttachComponent**: [`SceneComponent`](ue_ue.SceneComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:12972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12972)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **AttachParent**: [`Actor`](ue_ue.Actor.md)
 
-#### Defined in
-
-[ue/ue.d.ts:12967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12967)
-
 ___
 
 ### AttachSocket
 
 • **AttachSocket**: `string`
-
-#### Defined in
-
-[ue/ue.d.ts:12971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12971)
 
 ___
 
@@ -88,19 +68,11 @@ ___
 
 • **LocationOffset**: [`Vector_NetQuantize100`](ue_ue.Vector_NetQuantize100.md)
 
-#### Defined in
-
-[ue/ue.d.ts:12968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12968)
-
 ___
 
 ### RelativeScale3D
 
 • **RelativeScale3D**: [`Vector_NetQuantize100`](ue_ue.Vector_NetQuantize100.md)
-
-#### Defined in
-
-[ue/ue.d.ts:12969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12969)
 
 ___
 
@@ -108,19 +80,11 @@ ___
 
 • **RotationOffset**: [`Rotator`](ue_ue_s.Rotator.md)
 
-#### Defined in
-
-[ue/ue.d.ts:12970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12970)
-
 ___
 
 ### \_\_tid\_RepAttachment\_\_
 
 • `Private` **\_\_tid\_RepAttachment\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:12978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12978)
 
 ## Methods
 
@@ -136,10 +100,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:12976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12976)
-
 ___
 
 ### StaticStruct
@@ -149,7 +109,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:12977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12977)

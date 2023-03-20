@@ -20,19 +20,11 @@
 
 • **Blend** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34019)
-
 ___
 
 ### EMaterialAttributeBlend\_MAX
 
 • **EMaterialAttributeBlend\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34019)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **UseA** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34019)
-
 ___
 
 ### UseB
 
 • **UseB** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34019)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34019)

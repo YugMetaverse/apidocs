@@ -60,10 +60,6 @@
 
 [NavigationSystemConfig](ue_ue.NavigationSystemConfig.md).[constructor](ue_ue.NavigationSystemConfig.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:53046](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53046)
-
 ## Properties
 
 ### DefaultAgentName
@@ -73,10 +69,6 @@
 #### Inherited from
 
 [NavigationSystemConfig](ue_ue.NavigationSystemConfig.md).[DefaultAgentName](ue_ue.NavigationSystemConfig.md#defaultagentname)
-
-#### Defined in
-
-[ue/ue.d.ts:8701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8701)
 
 ___
 
@@ -88,10 +80,6 @@ ___
 
 [NavigationSystemConfig](ue_ue.NavigationSystemConfig.md).[NavigationSystemClass](ue_ue.NavigationSystemConfig.md#navigationsystemclass)
 
-#### Defined in
-
-[ue/ue.d.ts:8699](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8699)
-
 ___
 
 ### SupportedAgentsMask
@@ -101,10 +89,6 @@ ___
 #### Inherited from
 
 [NavigationSystemConfig](ue_ue.NavigationSystemConfig.md).[SupportedAgentsMask](ue_ue.NavigationSystemConfig.md#supportedagentsmask)
-
-#### Defined in
-
-[ue/ue.d.ts:8700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8700)
 
 ___
 
@@ -116,19 +100,11 @@ ___
 
 [NavigationSystemConfig](ue_ue.NavigationSystemConfig.md).[__tid_NavigationSystemConfig__](ue_ue.NavigationSystemConfig.md#__tid_navigationsystemconfig__)
 
-#### Defined in
-
-[ue/ue.d.ts:8707](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8707)
-
 ___
 
 ### \_\_tid\_NavigationSystemModuleConfig\_\_
 
 • **\_\_tid\_NavigationSystemModuleConfig\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:53055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53055)
 
 ___
 
@@ -140,29 +116,17 @@ ___
 
 [NavigationSystemConfig](ue_ue.NavigationSystemConfig.md).[__tid_Object__](ue_ue.NavigationSystemConfig.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bAutoSpawnMissingNavData
 
 • **bAutoSpawnMissingNavData**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:53049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53049)
-
 ___
 
 ### bCreateOnClient
 
 • **bCreateOnClient**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:53048](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53048)
 
 ___
 
@@ -174,29 +138,17 @@ ___
 
 [NavigationSystemConfig](ue_ue.NavigationSystemConfig.md).[bIsOverriden](ue_ue.NavigationSystemConfig.md#bisoverriden)
 
-#### Defined in
-
-[ue/ue.d.ts:8702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8702)
-
 ___
 
 ### bSpawnNavDataInNavBoundsLevel
 
 • **bSpawnNavDataInNavBoundsLevel**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:53050](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53050)
-
 ___
 
 ### bStrictlyStatic
 
 • **bStrictlyStatic**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:53047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53047)
 
 ## Methods
 
@@ -222,10 +174,6 @@ ___
 
 [NavigationSystemConfig](ue_ue.NavigationSystemConfig.md).[CreateDefaultSubobject](ue_ue.NavigationSystemConfig.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -246,10 +194,6 @@ ___
 
 [NavigationSystemConfig](ue_ue.NavigationSystemConfig.md).[ExecuteUbergraph](ue_ue.NavigationSystemConfig.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -263,10 +207,6 @@ ___
 #### Inherited from
 
 [NavigationSystemConfig](ue_ue.NavigationSystemConfig.md).[GetClass](ue_ue.NavigationSystemConfig.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -282,10 +222,6 @@ ___
 
 [NavigationSystemConfig](ue_ue.NavigationSystemConfig.md).[GetName](ue_ue.NavigationSystemConfig.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -300,10 +236,6 @@ ___
 
 [NavigationSystemConfig](ue_ue.NavigationSystemConfig.md).[GetOuter](ue_ue.NavigationSystemConfig.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -317,10 +249,6 @@ ___
 #### Inherited from
 
 [NavigationSystemConfig](ue_ue.NavigationSystemConfig.md).[GetWorld](ue_ue.NavigationSystemConfig.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -343,10 +271,6 @@ ___
 
 [NavigationSystemConfig](ue_ue.NavigationSystemConfig.md).[Find](ue_ue.NavigationSystemConfig.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:53052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53052)
-
 ___
 
 ### Load
@@ -367,10 +291,6 @@ ___
 
 [NavigationSystemConfig](ue_ue.NavigationSystemConfig.md).[Load](ue_ue.NavigationSystemConfig.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:53053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53053)
-
 ___
 
 ### StaticClass
@@ -384,7 +304,3 @@ ___
 #### Overrides
 
 [NavigationSystemConfig](ue_ue.NavigationSystemConfig.md).[StaticClass](ue_ue.NavigationSystemConfig.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:53051](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53051)

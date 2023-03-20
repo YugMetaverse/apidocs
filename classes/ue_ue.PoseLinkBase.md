@@ -35,10 +35,6 @@
 
 • **new PoseLinkBase**()
 
-#### Defined in
-
-[ue/ue.d.ts:16798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16798)
-
 • **new PoseLinkBase**(`LinkID`, `SourceLinkID`)
 
 #### Parameters
@@ -48,19 +44,11 @@
 | `LinkID` | `number` |
 | `SourceLinkID` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:16799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16799)
-
 ## Properties
 
 ### LinkID
 
 • **LinkID**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:16800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16800)
 
 ___
 
@@ -68,19 +56,11 @@ ___
 
 • **SourceLinkID**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:16801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16801)
-
 ___
 
 ### \_\_tid\_PoseLinkBase\_\_
 
 • `Private` **\_\_tid\_PoseLinkBase\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:16807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16807)
 
 ## Methods
 
@@ -96,10 +76,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:16805](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16805)
-
 ___
 
 ### StaticStruct
@@ -109,7 +85,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:16806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16806)

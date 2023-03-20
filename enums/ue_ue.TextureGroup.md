@@ -61,19 +61,11 @@
 
 • **TEXTUREGROUP\_16BitData** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
-
 ___
 
 ### TEXTUREGROUP\_8BitData
 
 • **TEXTUREGROUP\_8BitData** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
 
 ___
 
@@ -81,19 +73,11 @@ ___
 
 • **TEXTUREGROUP\_Bokeh** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
-
 ___
 
 ### TEXTUREGROUP\_Character
 
 • **TEXTUREGROUP\_Character** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
 
 ___
 
@@ -101,19 +85,11 @@ ___
 
 • **TEXTUREGROUP\_CharacterNormalMap** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
-
 ___
 
 ### TEXTUREGROUP\_CharacterSpecular
 
 • **TEXTUREGROUP\_CharacterSpecular** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
 
 ___
 
@@ -121,19 +97,11 @@ ___
 
 • **TEXTUREGROUP\_Cinematic** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
-
 ___
 
 ### TEXTUREGROUP\_ColorLookupTable
 
 • **TEXTUREGROUP\_ColorLookupTable** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
 
 ___
 
@@ -141,19 +109,11 @@ ___
 
 • **TEXTUREGROUP\_Effects** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
-
 ___
 
 ### TEXTUREGROUP\_EffectsNotFiltered
 
 • **TEXTUREGROUP\_EffectsNotFiltered** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
 
 ___
 
@@ -161,19 +121,11 @@ ___
 
 • **TEXTUREGROUP\_HierarchicalLOD** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
-
 ___
 
 ### TEXTUREGROUP\_IESLightProfile
 
 • **TEXTUREGROUP\_IESLightProfile** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
 
 ___
 
@@ -181,19 +133,11 @@ ___
 
 • **TEXTUREGROUP\_Impostor** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
-
 ___
 
 ### TEXTUREGROUP\_ImpostorNormalDepth
 
 • **TEXTUREGROUP\_ImpostorNormalDepth** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
 
 ___
 
@@ -201,19 +145,11 @@ ___
 
 • **TEXTUREGROUP\_Lightmap** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
-
 ___
 
 ### TEXTUREGROUP\_MAX
 
 • **TEXTUREGROUP\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
 
 ___
 
@@ -221,19 +157,11 @@ ___
 
 • **TEXTUREGROUP\_MobileFlattened** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
-
 ___
 
 ### TEXTUREGROUP\_Pixels2D
 
 • **TEXTUREGROUP\_Pixels2D** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
 
 ___
 
@@ -241,19 +169,11 @@ ___
 
 • **TEXTUREGROUP\_ProcBuilding\_Face** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
-
 ___
 
 ### TEXTUREGROUP\_ProcBuilding\_LightMap
 
 • **TEXTUREGROUP\_ProcBuilding\_LightMap** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
 
 ___
 
@@ -261,19 +181,11 @@ ___
 
 • **TEXTUREGROUP\_Project01** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
-
 ___
 
 ### TEXTUREGROUP\_Project02
 
 • **TEXTUREGROUP\_Project02** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
 
 ___
 
@@ -281,19 +193,11 @@ ___
 
 • **TEXTUREGROUP\_Project03** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
-
 ___
 
 ### TEXTUREGROUP\_Project04
 
 • **TEXTUREGROUP\_Project04** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
 
 ___
 
@@ -301,19 +205,11 @@ ___
 
 • **TEXTUREGROUP\_Project05** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
-
 ___
 
 ### TEXTUREGROUP\_Project06
 
 • **TEXTUREGROUP\_Project06** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
 
 ___
 
@@ -321,19 +217,11 @@ ___
 
 • **TEXTUREGROUP\_Project07** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
-
 ___
 
 ### TEXTUREGROUP\_Project08
 
 • **TEXTUREGROUP\_Project08** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
 
 ___
 
@@ -341,19 +229,11 @@ ___
 
 • **TEXTUREGROUP\_Project09** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
-
 ___
 
 ### TEXTUREGROUP\_Project10
 
 • **TEXTUREGROUP\_Project10** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
 
 ___
 
@@ -361,19 +241,11 @@ ___
 
 • **TEXTUREGROUP\_RenderTarget** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
-
 ___
 
 ### TEXTUREGROUP\_Shadowmap
 
 • **TEXTUREGROUP\_Shadowmap** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
 
 ___
 
@@ -381,19 +253,11 @@ ___
 
 • **TEXTUREGROUP\_Skybox** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
-
 ___
 
 ### TEXTUREGROUP\_Terrain\_Heightmap
 
 • **TEXTUREGROUP\_Terrain\_Heightmap** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
 
 ___
 
@@ -401,19 +265,11 @@ ___
 
 • **TEXTUREGROUP\_Terrain\_Weightmap** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
-
 ___
 
 ### TEXTUREGROUP\_UI
 
 • **TEXTUREGROUP\_UI** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
 
 ___
 
@@ -421,19 +277,11 @@ ___
 
 • **TEXTUREGROUP\_Vehicle** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
-
 ___
 
 ### TEXTUREGROUP\_VehicleNormalMap
 
 • **TEXTUREGROUP\_VehicleNormalMap** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
 
 ___
 
@@ -441,19 +289,11 @@ ___
 
 • **TEXTUREGROUP\_VehicleSpecular** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
-
 ___
 
 ### TEXTUREGROUP\_Weapon
 
 • **TEXTUREGROUP\_Weapon** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
 
 ___
 
@@ -461,19 +301,11 @@ ___
 
 • **TEXTUREGROUP\_WeaponNormalMap** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
-
 ___
 
 ### TEXTUREGROUP\_WeaponSpecular
 
 • **TEXTUREGROUP\_WeaponSpecular** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
 
 ___
 
@@ -481,19 +313,11 @@ ___
 
 • **TEXTUREGROUP\_World** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
-
 ___
 
 ### TEXTUREGROUP\_WorldNormalMap
 
 • **TEXTUREGROUP\_WorldNormalMap** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
 
 ___
 
@@ -501,16 +325,8 @@ ___
 
 • **TEXTUREGROUP\_WorldSpecular** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L470)

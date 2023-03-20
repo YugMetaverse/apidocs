@@ -63,19 +63,11 @@
 
 [Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:13002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13002)
-
 ## Properties
 
 ### AllEventNames
 
 • **AllEventNames**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:13014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13014)
 
 ___
 
@@ -83,19 +75,11 @@ ___
 
 • **CachedDirectorGroup**: [`InterpGroupDirector`](ue_ue.InterpGroupDirector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:13013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13013)
-
 ___
 
 ### CurveEdSetup
 
 • **CurveEdSetup**: [`InterpCurveEdSetup`](ue_ue.InterpCurveEdSetup.md)
-
-#### Defined in
-
-[ue/ue.d.ts:13006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13006)
 
 ___
 
@@ -103,19 +87,11 @@ ___
 
 • **DefaultFilters**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`InterpFilter`](ue_ue.InterpFilter.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:13009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13009)
-
 ___
 
 ### EdSectionEnd
 
 • **EdSectionEnd**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:13011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13011)
 
 ___
 
@@ -123,19 +99,11 @@ ___
 
 • **EdSectionStart**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:13010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13010)
-
 ___
 
 ### InterpFilters
 
 • **InterpFilters**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`InterpFilter`](ue_ue.InterpFilter.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:13007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13007)
 
 ___
 
@@ -143,19 +111,11 @@ ___
 
 • **InterpGroups**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`InterpGroup`](ue_ue.InterpGroup.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:13005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13005)
-
 ___
 
 ### InterpLength
 
 • **InterpLength**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:13003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13003)
 
 ___
 
@@ -163,29 +123,17 @@ ___
 
 • **PathBuildTime**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:13004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13004)
-
 ___
 
 ### SelectedFilter
 
 • **SelectedFilter**: [`InterpFilter`](ue_ue.InterpFilter.md)
 
-#### Defined in
-
-[ue/ue.d.ts:13008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13008)
-
 ___
 
 ### \_\_tid\_InterpData\_\_
 
 • **\_\_tid\_InterpData\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:13019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13019)
 
 ___
 
@@ -197,19 +145,11 @@ ___
 
 [Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### bShouldBakeAndPrune
 
 • **bShouldBakeAndPrune**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:13012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13012)
 
 ## Methods
 
@@ -235,10 +175,6 @@ ___
 
 [Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -259,10 +195,6 @@ ___
 
 [Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -276,10 +208,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -295,10 +223,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -313,10 +237,6 @@ ___
 
 [Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -330,10 +250,6 @@ ___
 #### Inherited from
 
 [Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -356,10 +272,6 @@ ___
 
 [Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:13016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13016)
-
 ___
 
 ### Load
@@ -380,10 +292,6 @@ ___
 
 [Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:13017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13017)
-
 ___
 
 ### StaticClass
@@ -397,7 +305,3 @@ ___
 #### Overrides
 
 [Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13015)

@@ -117,10 +117,6 @@
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[constructor](ue_ue.VREditorInteractor.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:65995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65995)
-
 ## Properties
 
 ### ControllerMotionSource
@@ -130,10 +126,6 @@
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[ControllerMotionSource](ue_ue.VREditorInteractor.md#controllermotionsource)
-
-#### Defined in
-
-[ue/ue.d.ts:65820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65820)
 
 ___
 
@@ -145,19 +137,11 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[ControllerType](ue_ue.VREditorInteractor.md#controllertype)
 
-#### Defined in
-
-[ue/ue.d.ts:65818](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65818)
-
 ___
 
 ### FlyingIndicatorComponent
 
 • **FlyingIndicatorComponent**: [`StaticMeshComponent`](ue_ue.StaticMeshComponent.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65996)
 
 ___
 
@@ -169,10 +153,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[HandMeshComponent](ue_ue.VREditorInteractor.md#handmeshcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:65809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65809)
-
 ___
 
 ### HandMeshMID
@@ -182,10 +162,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[HandMeshMID](ue_ue.VREditorInteractor.md#handmeshmid)
-
-#### Defined in
-
-[ue/ue.d.ts:65816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65816)
 
 ___
 
@@ -197,10 +173,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[HoverMeshComponent](ue_ue.VREditorInteractor.md#hovermeshcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:65814](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65814)
-
 ___
 
 ### HoverPointLightComponent
@@ -210,10 +182,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[HoverPointLightComponent](ue_ue.VREditorInteractor.md#hoverpointlightcomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:65815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65815)
 
 ___
 
@@ -225,10 +193,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[KeyToActionMap](ue_ue.VREditorInteractor.md#keytoactionmap)
 
-#### Defined in
-
-[ue/ue.d.ts:14350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14350)
-
 ___
 
 ### LaserPointerMID
@@ -238,10 +202,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[LaserPointerMID](ue_ue.VREditorInteractor.md#laserpointermid)
-
-#### Defined in
-
-[ue/ue.d.ts:65812](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65812)
 
 ___
 
@@ -253,10 +213,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[LaserSplineComponent](ue_ue.VREditorInteractor.md#lasersplinecomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:65810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65810)
-
 ___
 
 ### LaserSplineMeshComponents
@@ -266,10 +222,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[LaserSplineMeshComponents](ue_ue.VREditorInteractor.md#lasersplinemeshcomponents)
-
-#### Defined in
-
-[ue/ue.d.ts:65811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65811)
 
 ___
 
@@ -281,10 +233,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[MotionControllerComponent](ue_ue.VREditorInteractor.md#motioncontrollercomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:65808](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65808)
-
 ___
 
 ### OtherInteractor
@@ -294,10 +242,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[OtherInteractor](ue_ue.VREditorInteractor.md#otherinteractor)
-
-#### Defined in
-
-[ue/ue.d.ts:14352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14352)
 
 ___
 
@@ -309,10 +253,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[OverrideControllerType](ue_ue.VREditorInteractor.md#overridecontrollertype)
 
-#### Defined in
-
-[ue/ue.d.ts:65819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65819)
-
 ___
 
 ### OwningAvatar
@@ -322,10 +262,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[OwningAvatar](ue_ue.VREditorInteractor.md#owningavatar)
-
-#### Defined in
-
-[ue/ue.d.ts:65817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65817)
 
 ___
 
@@ -337,10 +273,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[TranslucentLaserPointerMID](ue_ue.VREditorInteractor.md#translucentlaserpointermid)
 
-#### Defined in
-
-[ue/ue.d.ts:65813](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65813)
-
 ___
 
 ### VRMode
@@ -350,10 +282,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[VRMode](ue_ue.VREditorInteractor.md#vrmode)
-
-#### Defined in
-
-[ue/ue.d.ts:65821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65821)
 
 ___
 
@@ -365,10 +293,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[WorldInteraction](ue_ue.VREditorInteractor.md#worldinteraction)
 
-#### Defined in
-
-[ue/ue.d.ts:14351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14351)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -378,10 +302,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[__tid_Object__](ue_ue.VREditorInteractor.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -393,19 +313,11 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[__tid_VREditorInteractor__](ue_ue.VREditorInteractor.md#__tid_vreditorinteractor__)
 
-#### Defined in
-
-[ue/ue.d.ts:65848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65848)
-
 ___
 
 ### \_\_tid\_VRScoutingInteractor\_\_
 
 • **\_\_tid\_VRScoutingInteractor\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:66004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66004)
 
 ___
 
@@ -417,10 +329,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[__tid_ViewportInteractor__](ue_ue.VREditorInteractor.md#__tid_viewportinteractor__)
 
-#### Defined in
-
-[ue/ue.d.ts:14377](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14377)
-
 ___
 
 ### bIsUndoRedoSwipeEnabled
@@ -430,10 +338,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[bIsUndoRedoSwipeEnabled](ue_ue.VREditorInteractor.md#bisundoredoswipeenabled)
-
-#### Defined in
-
-[ue/ue.d.ts:65807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65807)
 
 ## Methods
 
@@ -448,10 +352,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[CanCarry](ue_ue.VREditorInteractor.md#cancarry)
-
-#### Defined in
-
-[ue/ue.d.ts:14353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14353)
 
 ___
 
@@ -477,10 +377,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[CreateDefaultSubobject](ue_ue.VREditorInteractor.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -501,10 +397,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[ExecuteUbergraph](ue_ue.VREditorInteractor.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -518,10 +410,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[GetClass](ue_ue.VREditorInteractor.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -537,10 +425,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[GetControllerSide](ue_ue.VREditorInteractor.md#getcontrollerside)
 
-#### Defined in
-
-[ue/ue.d.ts:65822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65822)
-
 ___
 
 ### GetControllerType
@@ -554,10 +438,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[GetControllerType](ue_ue.VREditorInteractor.md#getcontrollertype)
-
-#### Defined in
-
-[ue/ue.d.ts:65823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65823)
 
 ___
 
@@ -573,10 +453,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[GetDraggingMode](ue_ue.VREditorInteractor.md#getdraggingmode)
 
-#### Defined in
-
-[ue/ue.d.ts:14354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14354)
-
 ___
 
 ### GetGizmoMode
@@ -586,10 +462,6 @@ ___
 #### Returns
 
 [`EGizmoHandleTypes`](../enums/ue_ue.EGizmoHandleTypes.md)
-
-#### Defined in
-
-[ue/ue.d.ts:65997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65997)
 
 ___
 
@@ -605,10 +477,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[GetHMDDeviceType](ue_ue.VREditorInteractor.md#gethmddevicetype)
 
-#### Defined in
-
-[ue/ue.d.ts:65824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65824)
-
 ___
 
 ### GetHitResultGizmoFilterMode
@@ -622,10 +490,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[GetHitResultGizmoFilterMode](ue_ue.VREditorInteractor.md#gethitresultgizmofiltermode)
-
-#### Defined in
-
-[ue/ue.d.ts:14355](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14355)
 
 ___
 
@@ -641,10 +505,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[GetHoverLocation](ue_ue.VREditorInteractor.md#gethoverlocation)
 
-#### Defined in
-
-[ue/ue.d.ts:14356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14356)
-
 ___
 
 ### GetLaserEnd
@@ -658,10 +518,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[GetLaserEnd](ue_ue.VREditorInteractor.md#getlaserend)
-
-#### Defined in
-
-[ue/ue.d.ts:65825](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65825)
 
 ___
 
@@ -686,10 +542,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[GetLaserPointer](ue_ue.VREditorInteractor.md#getlaserpointer)
 
-#### Defined in
-
-[ue/ue.d.ts:14357](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14357)
-
 ___
 
 ### GetLaserStart
@@ -703,10 +555,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[GetLaserStart](ue_ue.VREditorInteractor.md#getlaserstart)
-
-#### Defined in
-
-[ue/ue.d.ts:65826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65826)
 
 ___
 
@@ -722,10 +570,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[GetLastRoomSpaceTransform](ue_ue.VREditorInteractor.md#getlastroomspacetransform)
 
-#### Defined in
-
-[ue/ue.d.ts:14358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14358)
-
 ___
 
 ### GetLastTrackpadPosition
@@ -739,10 +583,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[GetLastTrackpadPosition](ue_ue.VREditorInteractor.md#getlasttrackpadposition)
-
-#### Defined in
-
-[ue/ue.d.ts:65827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65827)
 
 ___
 
@@ -758,10 +598,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[GetLastTransform](ue_ue.VREditorInteractor.md#getlasttransform)
 
-#### Defined in
-
-[ue/ue.d.ts:14359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14359)
-
 ___
 
 ### GetMotionControllerComponent
@@ -775,10 +611,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[GetMotionControllerComponent](ue_ue.VREditorInteractor.md#getmotioncontrollercomponent)
-
-#### Defined in
-
-[ue/ue.d.ts:65828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65828)
 
 ___
 
@@ -794,10 +626,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[GetName](ue_ue.VREditorInteractor.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOtherInteractor
@@ -811,10 +639,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[GetOtherInteractor](ue_ue.VREditorInteractor.md#getotherinteractor)
-
-#### Defined in
-
-[ue/ue.d.ts:14360](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14360)
 
 ___
 
@@ -830,10 +654,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[GetOuter](ue_ue.VREditorInteractor.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetRoomSpaceTransform
@@ -847,10 +667,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[GetRoomSpaceTransform](ue_ue.VREditorInteractor.md#getroomspacetransform)
-
-#### Defined in
-
-[ue/ue.d.ts:14361](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14361)
 
 ___
 
@@ -866,10 +682,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[GetSelectAndMoveTriggerValue](ue_ue.VREditorInteractor.md#getselectandmovetriggervalue)
 
-#### Defined in
-
-[ue/ue.d.ts:65829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65829)
-
 ___
 
 ### GetSlideDelta
@@ -883,10 +695,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[GetSlideDelta](ue_ue.VREditorInteractor.md#getslidedelta)
-
-#### Defined in
-
-[ue/ue.d.ts:65830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65830)
 
 ___
 
@@ -902,10 +710,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[GetTeleportActor](ue_ue.VREditorInteractor.md#getteleportactor)
 
-#### Defined in
-
-[ue/ue.d.ts:65831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65831)
-
 ___
 
 ### GetTrackpadPosition
@@ -920,10 +724,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[GetTrackpadPosition](ue_ue.VREditorInteractor.md#gettrackpadposition)
 
-#### Defined in
-
-[ue/ue.d.ts:65832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65832)
-
 ___
 
 ### GetTransform
@@ -937,10 +737,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[GetTransform](ue_ue.VREditorInteractor.md#gettransform)
-
-#### Defined in
-
-[ue/ue.d.ts:14362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14362)
 
 ___
 
@@ -963,10 +759,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[GetTransformAndForwardVector](ue_ue.VREditorInteractor.md#gettransformandforwardvector)
 
-#### Defined in
-
-[ue/ue.d.ts:14363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14363)
-
 ___
 
 ### GetWorld
@@ -981,10 +773,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[GetWorld](ue_ue.VREditorInteractor.md#getworld)
 
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
-
 ___
 
 ### GetWorldInteraction
@@ -998,10 +786,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[GetWorldInteraction](ue_ue.VREditorInteractor.md#getworldinteraction)
-
-#### Defined in
-
-[ue/ue.d.ts:14364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14364)
 
 ___
 
@@ -1027,10 +811,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[HandleInputAxis_BP](ue_ue.VREditorInteractor.md#handleinputaxis_bp)
 
-#### Defined in
-
-[ue/ue.d.ts:14365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14365)
-
 ___
 
 ### HandleInputKey\_BP
@@ -1054,10 +834,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[HandleInputKey_BP](ue_ue.VREditorInteractor.md#handleinputkey_bp)
 
-#### Defined in
-
-[ue/ue.d.ts:14366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14366)
-
 ___
 
 ### Init
@@ -1078,10 +854,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[Init](ue_ue.VREditorInteractor.md#init)
 
-#### Defined in
-
-[ue/ue.d.ts:65833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65833)
-
 ___
 
 ### IsClickingOnUI
@@ -1095,10 +867,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[IsClickingOnUI](ue_ue.VREditorInteractor.md#isclickingonui)
-
-#### Defined in
-
-[ue/ue.d.ts:65834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65834)
 
 ___
 
@@ -1114,10 +882,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[IsHoveringOverGizmo](ue_ue.VREditorInteractor.md#ishoveringovergizmo)
 
-#### Defined in
-
-[ue/ue.d.ts:14367](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14367)
-
 ___
 
 ### IsHoveringOverUI
@@ -1132,10 +896,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[IsHoveringOverUI](ue_ue.VREditorInteractor.md#ishoveringoverui)
 
-#### Defined in
-
-[ue/ue.d.ts:65835](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65835)
-
 ___
 
 ### IsTouchingTrackpad
@@ -1149,10 +909,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[IsTouchingTrackpad](ue_ue.VREditorInteractor.md#istouchingtrackpad)
-
-#### Defined in
-
-[ue/ue.d.ts:65836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65836)
 
 ___
 
@@ -1174,10 +930,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[ReplaceHandMeshComponent](ue_ue.VREditorInteractor.md#replacehandmeshcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:65837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65837)
-
 ___
 
 ### SetCanCarry
@@ -1197,10 +949,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[SetCanCarry](ue_ue.VREditorInteractor.md#setcancarry)
-
-#### Defined in
-
-[ue/ue.d.ts:14368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14368)
 
 ___
 
@@ -1222,10 +970,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[SetControllerHandSide](ue_ue.VREditorInteractor.md#setcontrollerhandside)
 
-#### Defined in
-
-[ue/ue.d.ts:65838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65838)
-
 ___
 
 ### SetControllerType
@@ -1245,10 +989,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[SetControllerType](ue_ue.VREditorInteractor.md#setcontrollertype)
-
-#### Defined in
-
-[ue/ue.d.ts:65839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65839)
 
 ___
 
@@ -1270,10 +1010,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[SetDraggingMode](ue_ue.VREditorInteractor.md#setdraggingmode)
 
-#### Defined in
-
-[ue/ue.d.ts:14369](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14369)
-
 ___
 
 ### SetForceLaserColor
@@ -1293,10 +1029,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[SetForceLaserColor](ue_ue.VREditorInteractor.md#setforcelasercolor)
-
-#### Defined in
-
-[ue/ue.d.ts:65840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65840)
 
 ___
 
@@ -1318,10 +1050,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[SetForceShowLaser](ue_ue.VREditorInteractor.md#setforceshowlaser)
 
-#### Defined in
-
-[ue/ue.d.ts:65841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65841)
-
 ___
 
 ### SetGizmoMode
@@ -1337,10 +1065,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue.d.ts:65998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65998)
 
 ___
 
@@ -1362,10 +1086,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[SetHitResultGizmoFilterMode](ue_ue.VREditorInteractor.md#sethitresultgizmofiltermode)
 
-#### Defined in
-
-[ue/ue.d.ts:14370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14370)
-
 ___
 
 ### SetupComponent
@@ -1386,10 +1106,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[SetupComponent](ue_ue.VREditorInteractor.md#setupcomponent)
 
-#### Defined in
-
-[ue/ue.d.ts:65842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65842)
-
 ___
 
 ### Shutdown
@@ -1403,10 +1119,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[Shutdown](ue_ue.VREditorInteractor.md#shutdown)
-
-#### Defined in
-
-[ue/ue.d.ts:14371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14371)
 
 ___
 
@@ -1428,10 +1140,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[Tick](ue_ue.VREditorInteractor.md#tick)
 
-#### Defined in
-
-[ue/ue.d.ts:14372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14372)
-
 ___
 
 ### TryOverrideControllerType
@@ -1451,10 +1159,6 @@ ___
 #### Inherited from
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[TryOverrideControllerType](ue_ue.VREditorInteractor.md#tryoverridecontrollertype)
-
-#### Defined in
-
-[ue/ue.d.ts:65843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65843)
 
 ___
 
@@ -1477,10 +1181,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[Find](ue_ue.VREditorInteractor.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:66001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66001)
-
 ___
 
 ### GetSelectedActors
@@ -1490,10 +1190,6 @@ ___
 #### Returns
 
 [`TArray`](../interfaces/ue_puerts.TArray.md)<[`Actor`](ue_ue.Actor.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:65999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65999)
 
 ___
 
@@ -1515,10 +1211,6 @@ ___
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[Load](ue_ue.VREditorInteractor.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:66002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66002)
-
 ___
 
 ### StaticClass
@@ -1532,7 +1224,3 @@ ___
 #### Overrides
 
 [VREditorInteractor](ue_ue.VREditorInteractor.md).[StaticClass](ue_ue.VREditorInteractor.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:66000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66000)

@@ -117,19 +117,11 @@
 
 • **AbuDhabi\_Muscat** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Adelaide
 
 • **Adelaide** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -137,19 +129,11 @@ ___
 
 • **Alaska** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Amman
 
 • **Amman** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -157,19 +141,11 @@ ___
 
 • **Amsterdam\_Berlin\_Bern\_Rome\_Stockholm\_Vienna** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Arizona
 
 • **Arizona** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -177,19 +153,11 @@ ___
 
 • **Astana** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Asuncion
 
 • **Asuncion** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -197,19 +165,11 @@ ___
 
 • **Athens\_Bucharest** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### AtlanticTime\_Canada
 
 • **AtlanticTime\_Canada** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -217,19 +177,11 @@ ___
 
 • **Auckland\_Wellington** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Azores
 
 • **Azores** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -237,19 +189,11 @@ ___
 
 • **Baghdad** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### BajaCalifornia
 
 • **BajaCalifornia** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -257,19 +201,11 @@ ___
 
 • **Baku** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Bangkok\_Hanoi\_Jakarta
 
 • **Bangkok\_Hanoi\_Jakarta** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -277,19 +213,11 @@ ___
 
 • **Beijing\_Chongqing\_HongKong\_Urumqi** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Beirut
 
 • **Beirut** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -297,19 +225,11 @@ ___
 
 • **Belgrade\_Bratislava\_Budapest\_Ljubljana\_Prague** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Bogota\_Lima\_Quito
 
 • **Bogota\_Lima\_Quito** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -317,19 +237,11 @@ ___
 
 • **Brasilia** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Brisbane
 
 • **Brisbane** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -337,19 +249,11 @@ ___
 
 • **Brussels\_Copenhagen\_Madrid\_Paris** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### BuenosAires
 
 • **BuenosAires** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -357,19 +261,11 @@ ___
 
 • **CaboVerdeIs** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Cairo
 
 • **Cairo** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -377,19 +273,11 @@ ___
 
 • **Canberra\_Melbourne\_Sydney** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Caracas
 
 • **Caracas** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -397,19 +285,11 @@ ___
 
 • **Casablanca** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Cayenne\_Fortaleza
 
 • **Cayenne\_Fortaleza** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -417,19 +297,11 @@ ___
 
 • **CentralAmerica** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### CentralTime\_USCAN
 
 • **CentralTime\_USCAN** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -437,19 +309,11 @@ ___
 
 • **Chennai\_Kolkata\_Mumbai\_NewDelhi** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Chihuahua\_LaPaz\_Mazatlan
 
 • **Chihuahua\_LaPaz\_Mazatlan** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -457,19 +321,11 @@ ___
 
 • **CoordinatedUniversalTime12** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### CoordinatedUniversalTimeNeg02
 
 • **CoordinatedUniversalTimeNeg02** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -477,19 +333,11 @@ ___
 
 • **CoordinatedUniversalTimeNeg11** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Cuiaba
 
 • **Cuiaba** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -497,19 +345,11 @@ ___
 
 • **Damascus** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Darwin
 
 • **Darwin** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -517,19 +357,11 @@ ___
 
 • **Dhaka** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Dublin\_Edinburgh\_Lisbon\_London
 
 • **Dublin\_Edinburgh\_Lisbon\_London** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -537,19 +369,11 @@ ___
 
 • **ETimezoneSetting\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### EasternTime\_USCAN
 
 • **EasternTime\_USCAN** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -557,19 +381,11 @@ ___
 
 • **Ekaterinburg** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Fiji
 
 • **Fiji** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -577,19 +393,11 @@ ___
 
 • **Georgetown\_LaPaz\_Manaus\_SanJuan** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Greenland
 
 • **Greenland** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -597,19 +405,11 @@ ___
 
 • **Guadalajara\_MexicoCity\_Monterrey** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Guam\_PortMoresby
 
 • **Guam\_PortMoresby** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -617,19 +417,11 @@ ___
 
 • **Harare\_Pretoria** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Hawaii
 
 • **Hawaii** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -637,19 +429,11 @@ ___
 
 • **Helsinki\_Kyiv\_Riga\_Sofia\_Tallinn\_Vilnius** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Hobart
 
 • **Hobart** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -657,19 +441,11 @@ ___
 
 • **Indiana\_US** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### InternationalDateLineWest
 
 • **InternationalDateLineWest** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -677,19 +453,11 @@ ___
 
 • **Irkutsk** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Islamabad\_Karachi
 
 • **Islamabad\_Karachi** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -697,19 +465,11 @@ ___
 
 • **Istanbul** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Jerusalem
 
 • **Jerusalem** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -717,19 +477,11 @@ ___
 
 • **Kabul** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Kaliningrad
 
 • **Kaliningrad** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -737,19 +489,11 @@ ___
 
 • **Kathmandu** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Krasnoyarsk
 
 • **Krasnoyarsk** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -757,19 +501,11 @@ ___
 
 • **KualaLumpur\_Singapore** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Kuwait\_Riyadh
 
 • **Kuwait\_Riyadh** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -777,19 +513,11 @@ ___
 
 • **LocalTime** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Magadan
 
 • **Magadan** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -797,19 +525,11 @@ ___
 
 • **MidAtlantic** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Minsk
 
 • **Minsk** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -817,19 +537,11 @@ ___
 
 • **Monrovia\_Reykjavik** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Montevideo
 
 • **Montevideo** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -837,19 +549,11 @@ ___
 
 • **Moscow\_StPetersburg\_Volgograd** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### MountainTime\_USCAN
 
 • **MountainTime\_USCAN** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -857,19 +561,11 @@ ___
 
 • **Nairobi** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Newfoundland
 
 • **Newfoundland** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -877,19 +573,11 @@ ___
 
 • **Novosibirsk** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Nukualofa
 
 • **Nukualofa** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -897,19 +585,11 @@ ___
 
 • **Osaka\_Sapporo\_Tokyo** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### PacificTime\_USCAN
 
 • **PacificTime\_USCAN** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -917,19 +597,11 @@ ___
 
 • **Perth** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### PortLouis
 
 • **PortLouis** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -937,19 +609,11 @@ ___
 
 • **Samoa** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Santiago
 
 • **Santiago** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -957,19 +621,11 @@ ___
 
 • **Sarajevo\_Skopje\_Warsaw\_Zagreb** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Saskatchewan
 
 • **Saskatchewan** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -977,19 +633,11 @@ ___
 
 • **Seoul** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### SolomonIs\_NewCaledonia
 
 • **SolomonIs\_NewCaledonia** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -997,19 +645,11 @@ ___
 
 • **SriJayawardenepura** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Taipei
 
 • **Taipei** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -1017,19 +657,11 @@ ___
 
 • **Tashkent** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Tbilisi
 
 • **Tbilisi** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -1037,19 +669,11 @@ ___
 
 • **Tehran** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### UTC
 
 • **UTC** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -1057,19 +681,11 @@ ___
 
 • **Ulaanbaatar** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Vladivostok
 
 • **Vladivostok** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -1077,19 +693,11 @@ ___
 
 • **WestCentralAfrica** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Windhoek
 
 • **Windhoek** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -1097,19 +705,11 @@ ___
 
 • **Yakutsk** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### Yangon\_Rangoon
 
 • **Yangon\_Rangoon** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
 
 ___
 
@@ -1117,16 +717,8 @@ ___
 
 • **Yerevan** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34834)

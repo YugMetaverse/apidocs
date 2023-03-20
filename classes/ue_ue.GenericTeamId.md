@@ -26,10 +26,6 @@
 
 • **new GenericTeamId**()
 
-#### Defined in
-
-[ue/ue.d.ts:36396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36396)
-
 • **new GenericTeamId**(`TeamID`)
 
 #### Parameters
@@ -38,29 +34,17 @@
 | :------ | :------ |
 | `TeamID` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:36397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36397)
-
 ## Properties
 
 ### TeamID
 
 • **TeamID**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:36398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36398)
-
 ___
 
 ### \_\_tid\_GenericTeamId\_\_
 
 • `Private` **\_\_tid\_GenericTeamId\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36404)
 
 ## Methods
 
@@ -76,10 +60,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:36402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36402)
-
 ___
 
 ### StaticStruct
@@ -89,7 +69,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36403)

@@ -20,19 +20,11 @@
 
 • **Bounce** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34661)
-
 ___
 
 ### EParticleCollisionResponse\_MAX
 
 • **EParticleCollisionResponse\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34661)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Kill** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34661)
-
 ___
 
 ### Stop
 
 • **Stop** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:34661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34661)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:34661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34661)

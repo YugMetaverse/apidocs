@@ -27,10 +27,6 @@
 
 • **new FloatInterval**()
 
-#### Defined in
-
-[ue/ue.d.ts:35876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35876)
-
 • **new FloatInterval**(`Min`, `Max`)
 
 #### Parameters
@@ -40,19 +36,11 @@
 | `Min` | `number` |
 | `Max` | `number` |
 
-#### Defined in
-
-[ue/ue.d.ts:35877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35877)
-
 ## Properties
 
 ### Max
 
 • **Max**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:35879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35879)
 
 ___
 
@@ -60,19 +48,11 @@ ___
 
 • **Min**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:35878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35878)
-
 ___
 
 ### \_\_tid\_FloatInterval\_\_
 
 • `Private` **\_\_tid\_FloatInterval\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:35885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35885)
 
 ## Methods
 
@@ -88,10 +68,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:35883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35883)
-
 ___
 
 ### StaticStruct
@@ -101,7 +77,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:35884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35884)

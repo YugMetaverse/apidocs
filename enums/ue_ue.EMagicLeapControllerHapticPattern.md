@@ -27,19 +27,11 @@
 
 • **Bump** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33989)
-
 ___
 
 ### Buzz
 
 • **Buzz** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33989)
 
 ___
 
@@ -47,19 +39,11 @@ ___
 
 • **Click** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33989)
-
 ___
 
 ### DoubleClick
 
 • **DoubleClick** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33989)
 
 ___
 
@@ -67,19 +51,11 @@ ___
 
 • **EMagicLeapControllerHapticPattern\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33989)
-
 ___
 
 ### ForceDown
 
 • **ForceDown** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33989)
 
 ___
 
@@ -87,19 +63,11 @@ ___
 
 • **ForceDwell** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33989)
-
 ___
 
 ### ForceUp
 
 • **ForceUp** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33989)
 
 ___
 
@@ -107,19 +75,11 @@ ___
 
 • **None** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33989)
-
 ___
 
 ### SecondForceDown
 
 • **SecondForceDown** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33989)
 
 ___
 
@@ -127,16 +87,8 @@ ___
 
 • **Tick** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33989)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33989)

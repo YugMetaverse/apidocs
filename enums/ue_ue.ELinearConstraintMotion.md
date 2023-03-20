@@ -20,19 +20,11 @@
 
 • **LCM\_Free** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3594)
-
 ___
 
 ### LCM\_Limited
 
 • **LCM\_Limited** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3594)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **LCM\_Locked** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3594)
-
 ___
 
 ### LCM\_MAX
 
 • **LCM\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:3594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3594)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:3594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3594)

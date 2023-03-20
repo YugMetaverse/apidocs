@@ -163,10 +163,6 @@
 
 [FoliageType](ue_ue.FoliageType.md).[constructor](ue_ue.FoliageType.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:36050](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36050)
-
 ## Properties
 
 ### AlignMaxAngle
@@ -176,10 +172,6 @@
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[AlignMaxAngle](ue_ue.FoliageType.md#alignmaxangle)
-
-#### Defined in
-
-[ue/ue.d.ts:35921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35921)
 
 ___
 
@@ -191,10 +183,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[AlignToNormal](ue_ue.FoliageType.md#aligntonormal)
 
-#### Defined in
-
-[ue/ue.d.ts:35920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35920)
-
 ___
 
 ### AverageSpreadDistance
@@ -204,10 +192,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[AverageSpreadDistance](ue_ue.FoliageType.md#averagespreaddistance)
-
-#### Defined in
-
-[ue/ue.d.ts:35961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35961)
 
 ___
 
@@ -219,10 +203,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[BodyInstance](ue_ue.FoliageType.md#bodyinstance)
 
-#### Defined in
-
-[ue/ue.d.ts:35949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35949)
-
 ___
 
 ### CastShadow
@@ -232,10 +212,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[CastShadow](ue_ue.FoliageType.md#castshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:35938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35938)
 
 ___
 
@@ -247,10 +223,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[ChangeCount](ue_ue.FoliageType.md#changecount)
 
-#### Defined in
-
-[ue/ue.d.ts:35973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35973)
-
 ___
 
 ### CollisionRadius
@@ -260,10 +232,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[CollisionRadius](ue_ue.FoliageType.md#collisionradius)
-
-#### Defined in
-
-[ue/ue.d.ts:35957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35957)
 
 ___
 
@@ -275,10 +243,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[CollisionScale](ue_ue.FoliageType.md#collisionscale)
 
-#### Defined in
-
-[ue/ue.d.ts:35932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35932)
-
 ___
 
 ### CollisionWithWorld
@@ -289,19 +253,11 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[CollisionWithWorld](ue_ue.FoliageType.md#collisionwithworld)
 
-#### Defined in
-
-[ue/ue.d.ts:35931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35931)
-
 ___
 
 ### ComponentClass
 
 • **ComponentClass**: [`Class`](ue_ue.Class.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36053)
 
 ___
 
@@ -313,10 +269,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[CullDistance](ue_ue.FoliageType.md#culldistance)
 
-#### Defined in
-
-[ue/ue.d.ts:35936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35936)
-
 ___
 
 ### CustomDepthStencilValue
@@ -326,10 +278,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[CustomDepthStencilValue](ue_ue.FoliageType.md#customdepthstencilvalue)
-
-#### Defined in
-
-[ue/ue.d.ts:35953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35953)
 
 ___
 
@@ -341,10 +289,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[CustomNavigableGeometry](ue_ue.FoliageType.md#customnavigablegeometry)
 
-#### Defined in
-
-[ue/ue.d.ts:35950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35950)
-
 ___
 
 ### Density
@@ -354,10 +298,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[Density](ue_ue.FoliageType.md#density)
-
-#### Defined in
-
-[ue/ue.d.ts:35906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35906)
 
 ___
 
@@ -369,10 +309,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[DensityAdjustmentFactor](ue_ue.FoliageType.md#densityadjustmentfactor)
 
-#### Defined in
-
-[ue/ue.d.ts:35907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35907)
-
 ___
 
 ### DistributionSeed
@@ -382,10 +318,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[DistributionSeed](ue_ue.FoliageType.md#distributionseed)
-
-#### Defined in
-
-[ue/ue.d.ts:35964](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35964)
 
 ___
 
@@ -397,10 +329,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[EndCullDistance](ue_ue.FoliageType.md#endculldistance)
 
-#### Defined in
-
-[ue/ue.d.ts:36004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36004)
-
 ___
 
 ### ExclusionLandscapeLayers
@@ -410,10 +338,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[ExclusionLandscapeLayers](ue_ue.FoliageType.md#exclusionlandscapelayers)
-
-#### Defined in
-
-[ue/ue.d.ts:35928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35928)
 
 ___
 
@@ -425,10 +349,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[GroundSlope](ue_ue.FoliageType.md#groundslope)
 
-#### Defined in
-
-[ue/ue.d.ts:36009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36009)
-
 ___
 
 ### GroundSlopeAngle
@@ -438,10 +358,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[GroundSlopeAngle](ue_ue.FoliageType.md#groundslopeangle)
-
-#### Defined in
-
-[ue/ue.d.ts:35924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35924)
 
 ___
 
@@ -453,10 +369,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[Height](ue_ue.FoliageType.md#height)
 
-#### Defined in
-
-[ue/ue.d.ts:35925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35925)
-
 ___
 
 ### HeightMax
@@ -466,10 +378,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[HeightMax](ue_ue.FoliageType.md#heightmax)
-
-#### Defined in
-
-[ue/ue.d.ts:36000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36000)
 
 ___
 
@@ -481,10 +389,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[HeightMin](ue_ue.FoliageType.md#heightmin)
 
-#### Defined in
-
-[ue/ue.d.ts:35999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35999)
-
 ___
 
 ### HiddenEditorViews
@@ -494,10 +398,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[HiddenEditorViews](ue_ue.FoliageType.md#hiddeneditorviews)
-
-#### Defined in
-
-[ue/ue.d.ts:35955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35955)
 
 ___
 
@@ -509,10 +409,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[InitialSeedDensity](ue_ue.FoliageType.md#initialseeddensity)
 
-#### Defined in
-
-[ue/ue.d.ts:35960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35960)
-
 ___
 
 ### IsSelected
@@ -522,10 +418,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[IsSelected](ue_ue.FoliageType.md#isselected)
-
-#### Defined in
-
-[ue/ue.d.ts:35956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35956)
 
 ___
 
@@ -537,10 +429,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[LandscapeLayer](ue_ue.FoliageType.md#landscapelayer)
 
-#### Defined in
-
-[ue/ue.d.ts:35930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35930)
-
 ___
 
 ### LandscapeLayers
@@ -550,10 +438,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[LandscapeLayers](ue_ue.FoliageType.md#landscapelayers)
-
-#### Defined in
-
-[ue/ue.d.ts:35926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35926)
 
 ___
 
@@ -565,10 +449,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[LightingChannels](ue_ue.FoliageType.md#lightingchannels)
 
-#### Defined in
-
-[ue/ue.d.ts:35951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35951)
-
 ___
 
 ### LightmapType
@@ -578,10 +458,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[LightmapType](ue_ue.FoliageType.md#lightmaptype)
-
-#### Defined in
-
-[ue/ue.d.ts:35947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35947)
 
 ___
 
@@ -593,10 +469,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[LockScaleX](ue_ue.FoliageType.md#lockscalex)
 
-#### Defined in
-
-[ue/ue.d.ts:36006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36006)
-
 ___
 
 ### LockScaleY
@@ -606,10 +478,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[LockScaleY](ue_ue.FoliageType.md#lockscaley)
-
-#### Defined in
-
-[ue/ue.d.ts:36007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36007)
 
 ___
 
@@ -621,10 +489,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[LockScaleZ](ue_ue.FoliageType.md#lockscalez)
 
-#### Defined in
-
-[ue/ue.d.ts:36008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36008)
-
 ___
 
 ### LowBoundOriginRadius
@@ -634,10 +498,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[LowBoundOriginRadius](ue_ue.FoliageType.md#lowboundoriginradius)
-
-#### Defined in
-
-[ue/ue.d.ts:35934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35934)
 
 ___
 
@@ -649,10 +509,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[MaxAge](ue_ue.FoliageType.md#maxage)
 
-#### Defined in
-
-[ue/ue.d.ts:35969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35969)
-
 ___
 
 ### MaxInitialAge
@@ -662,10 +518,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[MaxInitialAge](ue_ue.FoliageType.md#maxinitialage)
-
-#### Defined in
-
-[ue/ue.d.ts:35968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35968)
 
 ___
 
@@ -677,10 +529,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[MaxInitialSeedOffset](ue_ue.FoliageType.md#maxinitialseedoffset)
 
-#### Defined in
-
-[ue/ue.d.ts:35965](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35965)
-
 ___
 
 ### MaxScale
@@ -691,19 +539,11 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[MaxScale](ue_ue.FoliageType.md#maxscale)
 
-#### Defined in
-
-[ue/ue.d.ts:36012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36012)
-
 ___
 
 ### Mesh
 
 • **Mesh**: [`StaticMesh`](ue_ue.StaticMesh.md)
-
-#### Defined in
-
-[ue/ue.d.ts:36051](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36051)
 
 ___
 
@@ -715,10 +555,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[MeshBounds](ue_ue.FoliageType.md#meshbounds)
 
-#### Defined in
-
-[ue/ue.d.ts:35933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35933)
-
 ___
 
 ### MinGroundSlope
@@ -728,10 +564,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[MinGroundSlope](ue_ue.FoliageType.md#mingroundslope)
-
-#### Defined in
-
-[ue/ue.d.ts:36010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36010)
 
 ___
 
@@ -743,10 +575,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[MinScale](ue_ue.FoliageType.md#minscale)
 
-#### Defined in
-
-[ue/ue.d.ts:36011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36011)
-
 ___
 
 ### MinimumExclusionLayerWeight
@@ -756,10 +584,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[MinimumExclusionLayerWeight](ue_ue.FoliageType.md#minimumexclusionlayerweight)
-
-#### Defined in
-
-[ue/ue.d.ts:35929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35929)
 
 ___
 
@@ -771,10 +595,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[MinimumLayerWeight](ue_ue.FoliageType.md#minimumlayerweight)
 
-#### Defined in
-
-[ue/ue.d.ts:35927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35927)
-
 ___
 
 ### Mobility
@@ -784,10 +604,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[Mobility](ue_ue.FoliageType.md#mobility)
-
-#### Defined in
-
-[ue/ue.d.ts:35935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35935)
 
 ___
 
@@ -799,10 +615,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[NumSteps](ue_ue.FoliageType.md#numsteps)
 
-#### Defined in
-
-[ue/ue.d.ts:35959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35959)
-
 ___
 
 ### OverlapPriority
@@ -812,10 +624,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[OverlapPriority](ue_ue.FoliageType.md#overlappriority)
-
-#### Defined in
-
-[ue/ue.d.ts:35970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35970)
 
 ___
 
@@ -827,19 +635,11 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[OverriddenLightMapRes](ue_ue.FoliageType.md#overriddenlightmapres)
 
-#### Defined in
-
-[ue/ue.d.ts:35946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35946)
-
 ___
 
 ### OverrideMaterials
 
 • **OverrideMaterials**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MaterialInterface`](ue_ue.MaterialInterface.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:36052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36052)
 
 ___
 
@@ -851,10 +651,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[ProceduralScale](ue_ue.FoliageType.md#proceduralscale)
 
-#### Defined in
-
-[ue/ue.d.ts:35971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35971)
-
 ___
 
 ### Radius
@@ -864,10 +660,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[Radius](ue_ue.FoliageType.md#radius)
-
-#### Defined in
-
-[ue/ue.d.ts:35908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35908)
 
 ___
 
@@ -879,10 +671,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[RandomPitchAngle](ue_ue.FoliageType.md#randompitchangle)
 
-#### Defined in
-
-[ue/ue.d.ts:35923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35923)
-
 ___
 
 ### RandomYaw
@@ -892,10 +680,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[RandomYaw](ue_ue.FoliageType.md#randomyaw)
-
-#### Defined in
-
-[ue/ue.d.ts:35922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35922)
 
 ___
 
@@ -907,10 +691,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[ReapplyAlignToNormal](ue_ue.FoliageType.md#reapplyaligntonormal)
 
-#### Defined in
-
-[ue/ue.d.ts:35976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35976)
-
 ___
 
 ### ReapplyCollisionWithWorld
@@ -920,10 +700,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[ReapplyCollisionWithWorld](ue_ue.FoliageType.md#reapplycollisionwithworld)
-
-#### Defined in
-
-[ue/ue.d.ts:35987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35987)
 
 ___
 
@@ -935,10 +711,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[ReapplyDensity](ue_ue.FoliageType.md#reapplydensity)
 
-#### Defined in
-
-[ue/ue.d.ts:35974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35974)
-
 ___
 
 ### ReapplyGroundSlope
@@ -948,10 +720,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[ReapplyGroundSlope](ue_ue.FoliageType.md#reapplygroundslope)
-
-#### Defined in
-
-[ue/ue.d.ts:35983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35983)
 
 ___
 
@@ -963,10 +731,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[ReapplyHeight](ue_ue.FoliageType.md#reapplyheight)
 
-#### Defined in
-
-[ue/ue.d.ts:35984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35984)
-
 ___
 
 ### ReapplyLandscapeLayers
@@ -976,10 +740,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[ReapplyLandscapeLayers](ue_ue.FoliageType.md#reapplylandscapelayers)
-
-#### Defined in
-
-[ue/ue.d.ts:35985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35985)
 
 ___
 
@@ -991,10 +751,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[ReapplyRadius](ue_ue.FoliageType.md#reapplyradius)
 
-#### Defined in
-
-[ue/ue.d.ts:35975](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35975)
-
 ___
 
 ### ReapplyRandomPitchAngle
@@ -1004,10 +760,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[ReapplyRandomPitchAngle](ue_ue.FoliageType.md#reapplyrandompitchangle)
-
-#### Defined in
-
-[ue/ue.d.ts:35982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35982)
 
 ___
 
@@ -1019,10 +771,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[ReapplyRandomYaw](ue_ue.FoliageType.md#reapplyrandomyaw)
 
-#### Defined in
-
-[ue/ue.d.ts:35977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35977)
-
 ___
 
 ### ReapplyScaleX
@@ -1032,10 +780,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[ReapplyScaleX](ue_ue.FoliageType.md#reapplyscalex)
-
-#### Defined in
-
-[ue/ue.d.ts:35979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35979)
 
 ___
 
@@ -1047,10 +791,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[ReapplyScaleY](ue_ue.FoliageType.md#reapplyscaley)
 
-#### Defined in
-
-[ue/ue.d.ts:35980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35980)
-
 ___
 
 ### ReapplyScaleZ
@@ -1060,10 +800,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[ReapplyScaleZ](ue_ue.FoliageType.md#reapplyscalez)
-
-#### Defined in
-
-[ue/ue.d.ts:35981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35981)
 
 ___
 
@@ -1075,10 +811,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[ReapplyScaling](ue_ue.FoliageType.md#reapplyscaling)
 
-#### Defined in
-
-[ue/ue.d.ts:35978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35978)
-
 ___
 
 ### ReapplyVertexColorMask
@@ -1088,10 +820,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[ReapplyVertexColorMask](ue_ue.FoliageType.md#reapplyvertexcolormask)
-
-#### Defined in
-
-[ue/ue.d.ts:35988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35988)
 
 ___
 
@@ -1103,10 +831,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[ReapplyZOffset](ue_ue.FoliageType.md#reapplyzoffset)
 
-#### Defined in
-
-[ue/ue.d.ts:35986](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35986)
-
 ___
 
 ### RuntimeVirtualTextures
@@ -1116,10 +840,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[RuntimeVirtualTextures](ue_ue.FoliageType.md#runtimevirtualtextures)
-
-#### Defined in
-
-[ue/ue.d.ts:35990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35990)
 
 ___
 
@@ -1131,10 +851,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[ScaleCurve](ue_ue.FoliageType.md#scalecurve)
 
-#### Defined in
-
-[ue/ue.d.ts:35972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35972)
-
 ___
 
 ### ScaleMaxX
@@ -1144,10 +860,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[ScaleMaxX](ue_ue.FoliageType.md#scalemaxx)
-
-#### Defined in
-
-[ue/ue.d.ts:35996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35996)
 
 ___
 
@@ -1159,10 +871,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[ScaleMaxY](ue_ue.FoliageType.md#scalemaxy)
 
-#### Defined in
-
-[ue/ue.d.ts:35997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35997)
-
 ___
 
 ### ScaleMaxZ
@@ -1172,10 +880,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[ScaleMaxZ](ue_ue.FoliageType.md#scalemaxz)
-
-#### Defined in
-
-[ue/ue.d.ts:35998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35998)
 
 ___
 
@@ -1187,10 +891,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[ScaleMinX](ue_ue.FoliageType.md#scaleminx)
 
-#### Defined in
-
-[ue/ue.d.ts:35993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35993)
-
 ___
 
 ### ScaleMinY
@@ -1200,10 +900,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[ScaleMinY](ue_ue.FoliageType.md#scaleminy)
-
-#### Defined in
-
-[ue/ue.d.ts:35994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35994)
 
 ___
 
@@ -1215,10 +911,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[ScaleMinZ](ue_ue.FoliageType.md#scaleminz)
 
-#### Defined in
-
-[ue/ue.d.ts:35995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35995)
-
 ___
 
 ### ScaleX
@@ -1228,10 +920,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[ScaleX](ue_ue.FoliageType.md#scalex)
-
-#### Defined in
-
-[ue/ue.d.ts:35912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35912)
 
 ___
 
@@ -1243,10 +931,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[ScaleY](ue_ue.FoliageType.md#scaley)
 
-#### Defined in
-
-[ue/ue.d.ts:35913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35913)
-
 ___
 
 ### ScaleZ
@@ -1256,10 +940,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[ScaleZ](ue_ue.FoliageType.md#scalez)
-
-#### Defined in
-
-[ue/ue.d.ts:35914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35914)
 
 ___
 
@@ -1271,10 +951,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[Scaling](ue_ue.FoliageType.md#scaling)
 
-#### Defined in
-
-[ue/ue.d.ts:35911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35911)
-
 ___
 
 ### SeedsPerStep
@@ -1284,10 +960,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[SeedsPerStep](ue_ue.FoliageType.md#seedsperstep)
-
-#### Defined in
-
-[ue/ue.d.ts:35963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35963)
 
 ___
 
@@ -1299,10 +971,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[ShadeRadius](ue_ue.FoliageType.md#shaderadius)
 
-#### Defined in
-
-[ue/ue.d.ts:35958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35958)
-
 ___
 
 ### SingleInstanceModeRadius
@@ -1312,10 +980,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[SingleInstanceModeRadius](ue_ue.FoliageType.md#singleinstancemoderadius)
-
-#### Defined in
-
-[ue/ue.d.ts:35910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35910)
 
 ___
 
@@ -1327,10 +991,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[SpreadVariance](ue_ue.FoliageType.md#spreadvariance)
 
-#### Defined in
-
-[ue/ue.d.ts:35962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35962)
-
 ___
 
 ### StartCullDistance
@@ -1340,10 +1000,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[StartCullDistance](ue_ue.FoliageType.md#startculldistance)
-
-#### Defined in
-
-[ue/ue.d.ts:36003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36003)
 
 ___
 
@@ -1355,10 +1011,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[TranslucencySortPriority](ue_ue.FoliageType.md#translucencysortpriority)
 
-#### Defined in
-
-[ue/ue.d.ts:35954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35954)
-
 ___
 
 ### UniformScale
@@ -1368,10 +1020,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[UniformScale](ue_ue.FoliageType.md#uniformscale)
-
-#### Defined in
-
-[ue/ue.d.ts:36005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36005)
 
 ___
 
@@ -1383,10 +1031,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[UpdateGuid](ue_ue.FoliageType.md#updateguid)
 
-#### Defined in
-
-[ue/ue.d.ts:35905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35905)
-
 ___
 
 ### VertexColorMask
@@ -1396,10 +1040,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[VertexColorMask](ue_ue.FoliageType.md#vertexcolormask)
-
-#### Defined in
-
-[ue/ue.d.ts:35916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35916)
 
 ___
 
@@ -1411,10 +1051,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[VertexColorMaskByChannel](ue_ue.FoliageType.md#vertexcolormaskbychannel)
 
-#### Defined in
-
-[ue/ue.d.ts:35915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35915)
-
 ___
 
 ### VertexColorMaskInvert
@@ -1424,10 +1060,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[VertexColorMaskInvert](ue_ue.FoliageType.md#vertexcolormaskinvert)
-
-#### Defined in
-
-[ue/ue.d.ts:35918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35918)
 
 ___
 
@@ -1439,10 +1071,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[VertexColorMaskThreshold](ue_ue.FoliageType.md#vertexcolormaskthreshold)
 
-#### Defined in
-
-[ue/ue.d.ts:35917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35917)
-
 ___
 
 ### VirtualTextureCullMips
@@ -1452,10 +1080,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[VirtualTextureCullMips](ue_ue.FoliageType.md#virtualtexturecullmips)
-
-#### Defined in
-
-[ue/ue.d.ts:35991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35991)
 
 ___
 
@@ -1467,10 +1091,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[VirtualTextureRenderPassType](ue_ue.FoliageType.md#virtualtexturerenderpasstype)
 
-#### Defined in
-
-[ue/ue.d.ts:35992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35992)
-
 ___
 
 ### ZOffset
@@ -1480,10 +1100,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[ZOffset](ue_ue.FoliageType.md#zoffset)
-
-#### Defined in
-
-[ue/ue.d.ts:35919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35919)
 
 ___
 
@@ -1495,10 +1111,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[ZOffsetMax](ue_ue.FoliageType.md#zoffsetmax)
 
-#### Defined in
-
-[ue/ue.d.ts:36002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36002)
-
 ___
 
 ### ZOffsetMin
@@ -1509,19 +1121,11 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[ZOffsetMin](ue_ue.FoliageType.md#zoffsetmin)
 
-#### Defined in
-
-[ue/ue.d.ts:36001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36001)
-
 ___
 
 ### \_\_tid\_FoliageType\_InstancedStaticMesh\_\_
 
 • **\_\_tid\_FoliageType\_InstancedStaticMesh\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:36058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36058)
 
 ___
 
@@ -1533,10 +1137,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[__tid_FoliageType__](ue_ue.FoliageType.md#__tid_foliagetype__)
 
-#### Defined in
-
-[ue/ue.d.ts:36017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36017)
-
 ___
 
 ### \_\_tid\_Object\_\_
@@ -1546,10 +1146,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[__tid_Object__](ue_ue.FoliageType.md#__tid_object__)
-
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -1561,10 +1157,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[bAffectDistanceFieldLighting](ue_ue.FoliageType.md#baffectdistancefieldlighting)
 
-#### Defined in
-
-[ue/ue.d.ts:35940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35940)
-
 ___
 
 ### bAffectDynamicIndirectLighting
@@ -1574,10 +1166,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[bAffectDynamicIndirectLighting](ue_ue.FoliageType.md#baffectdynamicindirectlighting)
-
-#### Defined in
-
-[ue/ue.d.ts:35939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35939)
 
 ___
 
@@ -1589,10 +1177,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[bCanGrowInShade](ue_ue.FoliageType.md#bcangrowinshade)
 
-#### Defined in
-
-[ue/ue.d.ts:35966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35966)
-
 ___
 
 ### bCastDynamicShadow
@@ -1602,10 +1186,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[bCastDynamicShadow](ue_ue.FoliageType.md#bcastdynamicshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:35941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35941)
 
 ___
 
@@ -1617,10 +1197,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[bCastShadowAsTwoSided](ue_ue.FoliageType.md#bcastshadowastwosided)
 
-#### Defined in
-
-[ue/ue.d.ts:35943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35943)
-
 ___
 
 ### bCastStaticShadow
@@ -1630,10 +1206,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[bCastStaticShadow](ue_ue.FoliageType.md#bcaststaticshadow)
-
-#### Defined in
-
-[ue/ue.d.ts:35942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35942)
 
 ___
 
@@ -1645,10 +1217,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[bEnableDensityScaling](ue_ue.FoliageType.md#benabledensityscaling)
 
-#### Defined in
-
-[ue/ue.d.ts:35989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35989)
-
 ___
 
 ### bEnableStaticLighting
@@ -1658,10 +1226,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[bEnableStaticLighting](ue_ue.FoliageType.md#benablestaticlighting)
-
-#### Defined in
-
-[ue/ue.d.ts:35937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35937)
 
 ___
 
@@ -1673,10 +1237,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[bOverrideLightMapRes](ue_ue.FoliageType.md#boverridelightmapres)
 
-#### Defined in
-
-[ue/ue.d.ts:35945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35945)
-
 ___
 
 ### bReceivesDecals
@@ -1686,10 +1246,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[bReceivesDecals](ue_ue.FoliageType.md#breceivesdecals)
-
-#### Defined in
-
-[ue/ue.d.ts:35944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35944)
 
 ___
 
@@ -1701,10 +1257,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[bRenderCustomDepth](ue_ue.FoliageType.md#brendercustomdepth)
 
-#### Defined in
-
-[ue/ue.d.ts:35952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35952)
-
 ___
 
 ### bSingleInstanceModeOverrideRadius
@@ -1714,10 +1266,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[bSingleInstanceModeOverrideRadius](ue_ue.FoliageType.md#bsingleinstancemodeoverrideradius)
-
-#### Defined in
-
-[ue/ue.d.ts:35909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35909)
 
 ___
 
@@ -1729,10 +1277,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[bSpawnsInShade](ue_ue.FoliageType.md#bspawnsinshade)
 
-#### Defined in
-
-[ue/ue.d.ts:35967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35967)
-
 ___
 
 ### bUseAsOccluder
@@ -1742,10 +1286,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[bUseAsOccluder](ue_ue.FoliageType.md#buseasoccluder)
-
-#### Defined in
-
-[ue/ue.d.ts:35948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35948)
 
 ## Methods
 
@@ -1771,10 +1311,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[CreateDefaultSubobject](ue_ue.FoliageType.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -1795,10 +1331,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[ExecuteUbergraph](ue_ue.FoliageType.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -1812,10 +1344,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[GetClass](ue_ue.FoliageType.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -1831,10 +1359,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[GetName](ue_ue.FoliageType.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -1849,10 +1373,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[GetOuter](ue_ue.FoliageType.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -1866,10 +1386,6 @@ ___
 #### Inherited from
 
 [FoliageType](ue_ue.FoliageType.md).[GetWorld](ue_ue.FoliageType.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -1892,10 +1408,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[Find](ue_ue.FoliageType.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:36055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36055)
-
 ___
 
 ### Load
@@ -1916,10 +1428,6 @@ ___
 
 [FoliageType](ue_ue.FoliageType.md).[Load](ue_ue.FoliageType.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:36056](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36056)
-
 ___
 
 ### StaticClass
@@ -1933,7 +1441,3 @@ ___
 #### Overrides
 
 [FoliageType](ue_ue.FoliageType.md).[StaticClass](ue_ue.FoliageType.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:36054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36054)

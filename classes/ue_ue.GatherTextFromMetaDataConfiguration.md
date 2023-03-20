@@ -30,10 +30,6 @@
 
 • **new GatherTextFromMetaDataConfiguration**()
 
-#### Defined in
-
-[ue/ue.d.ts:46102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46102)
-
 • **new GatherTextFromMetaDataConfiguration**(`IsEnabled`, `IncludePathWildcards`, `ExcludePathWildcards`, `KeySpecifications`, `ShouldGatherFromEditorOnlyData`)
 
 #### Parameters
@@ -46,19 +42,11 @@
 | `KeySpecifications` | [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MetaDataKeyGatherSpecification`](ue_ue.MetaDataKeyGatherSpecification.md)\> |
 | `ShouldGatherFromEditorOnlyData` | `boolean` |
 
-#### Defined in
-
-[ue/ue.d.ts:46103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46103)
-
 ## Properties
 
 ### ExcludePathWildcards
 
 • **ExcludePathWildcards**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`GatherTextExcludePath`](ue_ue.GatherTextExcludePath.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:46106](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46106)
 
 ___
 
@@ -66,19 +54,11 @@ ___
 
 • **IncludePathWildcards**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`GatherTextIncludePath`](ue_ue.GatherTextIncludePath.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:46105](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46105)
-
 ___
 
 ### IsEnabled
 
 • **IsEnabled**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46104)
 
 ___
 
@@ -86,29 +66,17 @@ ___
 
 • **KeySpecifications**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`MetaDataKeyGatherSpecification`](ue_ue.MetaDataKeyGatherSpecification.md)\>
 
-#### Defined in
-
-[ue/ue.d.ts:46107](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46107)
-
 ___
 
 ### ShouldGatherFromEditorOnlyData
 
 • **ShouldGatherFromEditorOnlyData**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:46108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46108)
-
 ___
 
 ### \_\_tid\_GatherTextFromMetaDataConfiguration\_\_
 
 • `Private` **\_\_tid\_GatherTextFromMetaDataConfiguration\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:46114](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46114)
 
 ## Methods
 
@@ -124,10 +92,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:46112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46112)
-
 ___
 
 ### StaticStruct
@@ -137,7 +101,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:46113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46113)

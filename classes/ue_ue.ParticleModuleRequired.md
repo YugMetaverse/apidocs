@@ -111,19 +111,11 @@
 
 [ParticleModule](ue_ue.ParticleModule.md).[constructor](ue_ue.ParticleModule.md#constructor)
 
-#### Defined in
-
-[ue/ue.d.ts:6845](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6845)
-
 ## Properties
 
 ### AlphaThreshold
 
 • **AlphaThreshold**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6884)
 
 ___
 
@@ -131,19 +123,11 @@ ___
 
 • **BoundingMode**: [`ESubUVBoundingVertexCount`](../enums/ue_ue.ESubUVBoundingVertexCount.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6881)
-
 ___
 
 ### BurstList
 
 • **BurstList**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ParticleBurst`](ue_ue.ParticleBurst.md)\>
-
-#### Defined in
-
-[ue/ue.d.ts:6861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6861)
 
 ___
 
@@ -151,19 +135,11 @@ ___
 
 • **CutoutTexture**: [`Texture2D`](ue_ue.Texture2D.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6886)
-
 ___
 
 ### EmitterDelay
 
 • **EmitterDelay**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6862)
 
 ___
 
@@ -171,19 +147,11 @@ ___
 
 • **EmitterDelayLow**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6863)
-
 ___
 
 ### EmitterDuration
 
 • **EmitterDuration**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6859](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6859)
 
 ___
 
@@ -191,19 +159,11 @@ ___
 
 • **EmitterDurationLow**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6888)
-
 ___
 
 ### EmitterLoops
 
 • **EmitterLoops**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6885)
 
 ___
 
@@ -211,19 +171,11 @@ ___
 
 • **EmitterNormalsMode**: [`EEmitterNormalsMode`](../enums/ue_ue.EEmitterNormalsMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6872)
-
 ___
 
 ### EmitterOrigin
 
 • **EmitterOrigin**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6849)
 
 ___
 
@@ -231,19 +183,11 @@ ___
 
 • **EmitterRotation**: [`Rotator`](ue_ue_s.Rotator.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6850)
-
 ___
 
 ### InterpolationMethod
 
 • **InterpolationMethod**: [`EParticleSubUVInterpMethod`](../enums/ue_ue.EParticleSubUVInterpMethod.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6865)
 
 ___
 
@@ -255,10 +199,6 @@ ___
 
 [ParticleModule](ue_ue.ParticleModule.md).[LODDuplicate](ue_ue.ParticleModule.md#lodduplicate)
 
-#### Defined in
-
-[ue/ue.d.ts:6745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6745)
-
 ___
 
 ### LODValidity
@@ -269,19 +209,11 @@ ___
 
 [ParticleModule](ue_ue.ParticleModule.md).[LODValidity](ue_ue.ParticleModule.md#lodvalidity)
 
-#### Defined in
-
-[ue/ue.d.ts:6748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6748)
-
 ___
 
 ### MacroUVPosition
 
 • **MacroUVPosition**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6878)
 
 ___
 
@@ -289,19 +221,11 @@ ___
 
 • **MacroUVRadius**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6879)
-
 ___
 
 ### Material
 
 • **Material**: [`MaterialInterface`](ue_ue.MaterialInterface.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6846)
 
 ___
 
@@ -309,29 +233,17 @@ ___
 
 • **MaxDrawCount**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6887)
-
 ___
 
 ### MaxFacingCameraBlendDistance
 
 • **MaxFacingCameraBlendDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6848)
-
 ___
 
 ### MinFacingCameraBlendDistance
 
 • **MinFacingCameraBlendDistance**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6847)
 
 ___
 
@@ -343,19 +255,11 @@ ___
 
 [ParticleModule](ue_ue.ParticleModule.md).[ModuleEditorColor](ue_ue.ParticleModule.md#moduleeditorcolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6749)
-
 ___
 
 ### NamedMaterialOverrides
 
 • **NamedMaterialOverrides**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
-
-#### Defined in
-
-[ue/ue.d.ts:6890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6890)
 
 ___
 
@@ -363,19 +267,11 @@ ___
 
 • **NormalsCylinderDirection**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6889)
-
 ___
 
 ### NormalsSphereCenter
 
 • **NormalsSphereCenter**: [`Vector`](ue_ue_s.Vector.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6883)
 
 ___
 
@@ -383,19 +279,11 @@ ___
 
 • **OpacitySourceMode**: [`EOpacitySourceMode`](../enums/ue_ue.EOpacitySourceMode.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6871)
-
 ___
 
 ### ParticleBurstMethod
 
 • **ParticleBurstMethod**: [`EParticleBurstMethod`](../enums/ue_ue.EParticleBurstMethod.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6868)
 
 ___
 
@@ -403,19 +291,11 @@ ___
 
 • **RandomImageChanges**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6877)
-
 ___
 
 ### RandomImageTime
 
 • **RandomImageTime**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6876)
 
 ___
 
@@ -423,19 +303,11 @@ ___
 
 • **ScreenAlignment**: [`EParticleScreenAlignment`](../enums/ue_ue.EParticleScreenAlignment.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6851)
-
 ___
 
 ### SortMode
 
 • **SortMode**: [`EParticleSortMode`](../enums/ue_ue.EParticleSortMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6855](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6855)
 
 ___
 
@@ -443,19 +315,11 @@ ___
 
 • **SpawnRate**: [`RawDistributionFloat`](ue_ue.RawDistributionFloat.md)
 
-#### Defined in
-
-[ue/ue.d.ts:6860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6860)
-
 ___
 
 ### SubImages\_Horizontal
 
 • **SubImages\_Horizontal**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:6874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6874)
 
 ___
 
@@ -463,19 +327,11 @@ ___
 
 • **SubImages\_Vertical**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:6875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6875)
-
 ___
 
 ### UVFlippingMode
 
 • **UVFlippingMode**: [`EParticleUVFlipMode`](../enums/ue_ue.EParticleUVFlipMode.md)
-
-#### Defined in
-
-[ue/ue.d.ts:6880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6880)
 
 ___
 
@@ -487,19 +343,11 @@ ___
 
 [ParticleModule](ue_ue.ParticleModule.md).[__tid_Object__](ue_ue.ParticleModule.md#__tid_object__)
 
-#### Defined in
-
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
-
 ___
 
 ### \_\_tid\_ParticleModuleRequired\_\_
 
 • **\_\_tid\_ParticleModuleRequired\_\_**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6895)
 
 ___
 
@@ -511,10 +359,6 @@ ___
 
 [ParticleModule](ue_ue.ParticleModule.md).[__tid_ParticleModule__](ue_ue.ParticleModule.md#__tid_particlemodule__)
 
-#### Defined in
-
-[ue/ue.d.ts:6754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6754)
-
 ___
 
 ### b3DDrawMode
@@ -524,10 +368,6 @@ ___
 #### Inherited from
 
 [ParticleModule](ue_ue.ParticleModule.md).[b3DDrawMode](ue_ue.ParticleModule.md#b3ddrawmode)
-
-#### Defined in
-
-[ue/ue.d.ts:6741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6741)
 
 ___
 
@@ -539,29 +379,17 @@ ___
 
 [ParticleModule](ue_ue.ParticleModule.md).[bCurvesAsColor](ue_ue.ParticleModule.md#bcurvesascolor)
 
-#### Defined in
-
-[ue/ue.d.ts:6740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6740)
-
 ___
 
 ### bDelayFirstLoopOnly
 
 • **bDelayFirstLoopOnly**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6864)
-
 ___
 
 ### bDurationRecalcEachLoop
 
 • **bDurationRecalcEachLoop**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6882)
 
 ___
 
@@ -573,29 +401,17 @@ ___
 
 [ParticleModule](ue_ue.ParticleModule.md).[bEditable](ue_ue.ParticleModule.md#beditable)
 
-#### Defined in
-
-[ue/ue.d.ts:6744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6744)
-
 ___
 
 ### bEmitterDelayUseRange
 
 • **bEmitterDelayUseRange**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6867)
-
 ___
 
 ### bEmitterDurationUseRange
 
 • **bEmitterDurationUseRange**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6858)
 
 ___
 
@@ -607,10 +423,6 @@ ___
 
 [ParticleModule](ue_ue.ParticleModule.md).[bEnabled](ue_ue.ParticleModule.md#benabled)
 
-#### Defined in
-
-[ue/ue.d.ts:6743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6743)
-
 ___
 
 ### bFinalUpdateModule
@@ -621,19 +433,11 @@ ___
 
 [ParticleModule](ue_ue.ParticleModule.md).[bFinalUpdateModule](ue_ue.ParticleModule.md#bfinalupdatemodule)
 
-#### Defined in
-
-[ue/ue.d.ts:6738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6738)
-
 ___
 
 ### bKillOnCompleted
 
 • **bKillOnCompleted**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6854](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6854)
 
 ___
 
@@ -641,19 +445,11 @@ ___
 
 • **bKillOnDeactivate**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6853)
-
 ___
 
 ### bOrbitModuleAffectsVelocityAlignment
 
 • **bOrbitModuleAffectsVelocityAlignment**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6873)
 
 ___
 
@@ -661,19 +457,11 @@ ___
 
 • **bOverrideSystemMacroUV**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6869)
-
 ___
 
 ### bRemoveHMDRoll
 
 • **bRemoveHMDRoll**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6857)
 
 ___
 
@@ -685,19 +473,11 @@ ___
 
 [ParticleModule](ue_ue.ParticleModule.md).[bRequiresLoopingNotification](ue_ue.ParticleModule.md#brequiresloopingnotification)
 
-#### Defined in
-
-[ue/ue.d.ts:6747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6747)
-
 ___
 
 ### bScaleUV
 
 • **bScaleUV**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6866)
 
 ___
 
@@ -709,10 +489,6 @@ ___
 
 [ParticleModule](ue_ue.ParticleModule.md).[bSpawnModule](ue_ue.ParticleModule.md#bspawnmodule)
 
-#### Defined in
-
-[ue/ue.d.ts:6736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6736)
-
 ___
 
 ### bSupported3DDrawMode
@@ -722,10 +498,6 @@ ___
 #### Inherited from
 
 [ParticleModule](ue_ue.ParticleModule.md).[bSupported3DDrawMode](ue_ue.ParticleModule.md#bsupported3ddrawmode)
-
-#### Defined in
-
-[ue/ue.d.ts:6742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6742)
 
 ___
 
@@ -737,10 +509,6 @@ ___
 
 [ParticleModule](ue_ue.ParticleModule.md).[bSupportsRandomSeed](ue_ue.ParticleModule.md#bsupportsrandomseed)
 
-#### Defined in
-
-[ue/ue.d.ts:6746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6746)
-
 ___
 
 ### bUpdateForGPUEmitter
@@ -750,10 +518,6 @@ ___
 #### Inherited from
 
 [ParticleModule](ue_ue.ParticleModule.md).[bUpdateForGPUEmitter](ue_ue.ParticleModule.md#bupdateforgpuemitter)
-
-#### Defined in
-
-[ue/ue.d.ts:6739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6739)
 
 ___
 
@@ -765,19 +529,11 @@ ___
 
 [ParticleModule](ue_ue.ParticleModule.md).[bUpdateModule](ue_ue.ParticleModule.md#bupdatemodule)
 
-#### Defined in
-
-[ue/ue.d.ts:6737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6737)
-
 ___
 
 ### bUseLegacyEmitterTime
 
 • **bUseLegacyEmitterTime**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6856)
 
 ___
 
@@ -785,19 +541,11 @@ ___
 
 • **bUseLocalSpace**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:6852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6852)
-
 ___
 
 ### bUseMaxDrawCount
 
 • **bUseMaxDrawCount**: `boolean`
-
-#### Defined in
-
-[ue/ue.d.ts:6870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6870)
 
 ## Methods
 
@@ -823,10 +571,6 @@ ___
 
 [ParticleModule](ue_ue.ParticleModule.md).[CreateDefaultSubobject](ue_ue.ParticleModule.md#createdefaultsubobject)
 
-#### Defined in
-
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
-
 ___
 
 ### ExecuteUbergraph
@@ -847,10 +591,6 @@ ___
 
 [ParticleModule](ue_ue.ParticleModule.md).[ExecuteUbergraph](ue_ue.ParticleModule.md#executeubergraph)
 
-#### Defined in
-
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
-
 ___
 
 ### GetClass
@@ -864,10 +604,6 @@ ___
 #### Inherited from
 
 [ParticleModule](ue_ue.ParticleModule.md).[GetClass](ue_ue.ParticleModule.md#getclass)
-
-#### Defined in
-
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -883,10 +619,6 @@ ___
 
 [ParticleModule](ue_ue.ParticleModule.md).[GetName](ue_ue.ParticleModule.md#getname)
 
-#### Defined in
-
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
-
 ___
 
 ### GetOuter
@@ -901,10 +633,6 @@ ___
 
 [ParticleModule](ue_ue.ParticleModule.md).[GetOuter](ue_ue.ParticleModule.md#getouter)
 
-#### Defined in
-
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
-
 ___
 
 ### GetWorld
@@ -918,10 +646,6 @@ ___
 #### Inherited from
 
 [ParticleModule](ue_ue.ParticleModule.md).[GetWorld](ue_ue.ParticleModule.md#getworld)
-
-#### Defined in
-
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -944,10 +668,6 @@ ___
 
 [ParticleModule](ue_ue.ParticleModule.md).[Find](ue_ue.ParticleModule.md#find)
 
-#### Defined in
-
-[ue/ue.d.ts:6892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6892)
-
 ___
 
 ### Load
@@ -968,10 +688,6 @@ ___
 
 [ParticleModule](ue_ue.ParticleModule.md).[Load](ue_ue.ParticleModule.md#load)
 
-#### Defined in
-
-[ue/ue.d.ts:6893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6893)
-
 ___
 
 ### StaticClass
@@ -985,7 +701,3 @@ ___
 #### Overrides
 
 [ParticleModule](ue_ue.ParticleModule.md).[StaticClass](ue_ue.ParticleModule.md#staticclass)
-
-#### Defined in
-
-[ue/ue.d.ts:6891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6891)

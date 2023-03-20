@@ -19,19 +19,11 @@
 
 • **Absolute** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2417)
-
 ___
 
 ### EConstraintTransform\_MAX
 
 • **EConstraintTransform\_MAX** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2417)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **Relative** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:2417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2417)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:2417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2417)

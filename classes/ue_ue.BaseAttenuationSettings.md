@@ -40,10 +40,6 @@
 
 • **new BaseAttenuationSettings**()
 
-#### Defined in
-
-[ue/ue.d.ts:9341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9341)
-
 • **new BaseAttenuationSettings**(`DistanceAlgorithm`, `AttenuationShape`, `dBAttenuationAtMax`, `AttenuationShapeExtents`, `ConeOffset`, `FalloffDistance`, `CustomAttenuationCurve`)
 
 #### Parameters
@@ -58,19 +54,11 @@
 | `FalloffDistance` | `number` |
 | `CustomAttenuationCurve` | [`RuntimeFloatCurve`](ue_ue.RuntimeFloatCurve.md) |
 
-#### Defined in
-
-[ue/ue.d.ts:9342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9342)
-
 ## Properties
 
 ### AttenuationShape
 
 • **AttenuationShape**: [`EAttenuationShape`](../enums/ue_ue.EAttenuationShape.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9344](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9344)
 
 ___
 
@@ -78,19 +66,11 @@ ___
 
 • **AttenuationShapeExtents**: [`Vector`](ue_ue_s.Vector.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9346)
-
 ___
 
 ### ConeOffset
 
 • **ConeOffset**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9347)
 
 ___
 
@@ -98,19 +78,11 @@ ___
 
 • **CustomAttenuationCurve**: [`RuntimeFloatCurve`](ue_ue.RuntimeFloatCurve.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9349)
-
 ___
 
 ### DistanceAlgorithm
 
 • **DistanceAlgorithm**: [`EAttenuationDistanceModel`](../enums/ue_ue.EAttenuationDistanceModel.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9343)
 
 ___
 
@@ -118,29 +90,17 @@ ___
 
 • **FalloffDistance**: `number`
 
-#### Defined in
-
-[ue/ue.d.ts:9348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9348)
-
 ___
 
 ### \_\_tid\_BaseAttenuationSettings\_\_
 
 • `Private` **\_\_tid\_BaseAttenuationSettings\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue.d.ts:9355](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9355)
-
 ___
 
 ### dBAttenuationAtMax
 
 • **dBAttenuationAtMax**: `number`
-
-#### Defined in
-
-[ue/ue.d.ts:9345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9345)
 
 ## Methods
 
@@ -156,10 +116,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue.d.ts:9353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9353)
-
 ___
 
 ### StaticStruct
@@ -169,7 +125,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue.d.ts:9354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9354)

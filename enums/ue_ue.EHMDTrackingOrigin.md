@@ -20,19 +20,11 @@
 
 • **EHMDTrackingOrigin\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33896)
-
 ___
 
 ### Eye
 
 • **Eye** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33896)
 
 ___
 
@@ -40,26 +32,14 @@ ___
 
 • **Floor** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33896)
-
 ___
 
 ### Stage
 
 • **Stage** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33896)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33896)

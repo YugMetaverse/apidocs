@@ -45,10 +45,6 @@
 
 • **new Box2D**()
 
-#### Defined in
-
-[ue/ue_s.d.ts:31](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L31)
-
 • **new Box2D**(`Param1`)
 
 #### Parameters
@@ -56,10 +52,6 @@
 | Name | Type |
 | :------ | :------ |
 | `Param1` | `number` |
-
-#### Defined in
-
-[ue/ue_s.d.ts:32](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L32)
 
 • **new Box2D**(`InMin`, `InMax`)
 
@@ -70,10 +62,6 @@
 | `InMin` | [`Vector2D`](ue_ue_s.Vector2D.md) |
 | `InMax` | [`Vector2D`](ue_ue_s.Vector2D.md) |
 
-#### Defined in
-
-[ue/ue_s.d.ts:33](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L33)
-
 • **new Box2D**(`Points`, `Count`)
 
 #### Parameters
@@ -83,19 +71,11 @@
 | `Points` | [`Vector2D`](ue_ue_s.Vector2D.md) |
 | `Count` | `number` |
 
-#### Defined in
-
-[ue/ue_s.d.ts:34](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L34)
-
 ## Properties
 
 ### Max
 
 • **Max**: [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:36](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L36)
 
 ___
 
@@ -103,29 +83,17 @@ ___
 
 • **Min**: [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:35](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L35)
-
 ___
 
 ### \_\_tid\_Box2D\_\_
 
 • `Private` **\_\_tid\_Box2D\_\_**: `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:64](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L64)
-
 ___
 
 ### bIsValid
 
 • **bIsValid**: `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:37](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L37)
 
 ## Methods
 
@@ -143,10 +111,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:43](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L43)
-
 ___
 
 ### ExpandBy
@@ -163,10 +127,6 @@ ___
 
 [`Box2D`](ue_ue_s.Box2D.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:44](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L44)
-
 ___
 
 ### GetArea
@@ -177,10 +137,6 @@ ___
 
 `number`
 
-#### Defined in
-
-[ue/ue_s.d.ts:45](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L45)
-
 ___
 
 ### GetCenter
@@ -190,10 +146,6 @@ ___
 #### Returns
 
 [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:46](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L46)
 
 ___
 
@@ -212,10 +164,6 @@ ___
 
 `void`
 
-#### Defined in
-
-[ue/ue_s.d.ts:47](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L47)
-
 ___
 
 ### GetClosestPointTo
@@ -232,10 +180,6 @@ ___
 
 [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:48](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L48)
-
 ___
 
 ### GetExtent
@@ -245,10 +189,6 @@ ___
 #### Returns
 
 [`Vector2D`](ue_ue_s.Vector2D.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:49](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L49)
 
 ___
 
@@ -260,10 +200,6 @@ ___
 
 [`Vector2D`](ue_ue_s.Vector2D.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:50](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L50)
-
 ___
 
 ### Init
@@ -273,10 +209,6 @@ ___
 #### Returns
 
 `void`
-
-#### Defined in
-
-[ue/ue_s.d.ts:51](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L51)
 
 ___
 
@@ -294,10 +226,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:52](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L52)
-
 ___
 
 ### IsInside
@@ -314,10 +242,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:53](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L53)
-
 ▸ **IsInside**(`Other`): `boolean`
 
 #### Parameters
@@ -329,10 +253,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:54](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L54)
 
 ___
 
@@ -350,10 +270,6 @@ ___
 
 [`Box2D`](ue_ue_s.Box2D.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:55](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L55)
-
 ___
 
 ### ToString
@@ -363,10 +279,6 @@ ___
 #### Returns
 
 `string`
-
-#### Defined in
-
-[ue/ue_s.d.ts:56](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L56)
 
 ___
 
@@ -384,10 +296,6 @@ ___
 
 [`Box2D`](ue_ue_s.Box2D.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:40](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L40)
-
 ▸ **op_Addition**(`Other`): [`Box2D`](ue_ue_s.Box2D.md)
 
 #### Parameters
@@ -399,10 +307,6 @@ ___
 #### Returns
 
 [`Box2D`](ue_ue_s.Box2D.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:41](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L41)
 
 ___
 
@@ -420,10 +324,6 @@ ___
 
 `boolean`
 
-#### Defined in
-
-[ue/ue_s.d.ts:38](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L38)
-
 ___
 
 ### op\_Inequality
@@ -439,10 +339,6 @@ ___
 #### Returns
 
 `boolean`
-
-#### Defined in
-
-[ue/ue_s.d.ts:39](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L39)
 
 ___
 
@@ -460,10 +356,6 @@ ___
 
 [`$Ref`](../interfaces/puerts._Ref.md)<[`Vector2D`](ue_ue_s.Vector2D.md)\>
 
-#### Defined in
-
-[ue/ue_s.d.ts:42](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L42)
-
 ___
 
 ### StaticClass
@@ -478,10 +370,6 @@ use StaticStruct instead.
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
 
-#### Defined in
-
-[ue/ue_s.d.ts:61](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L61)
-
 ___
 
 ### StaticStruct
@@ -491,7 +379,3 @@ ___
 #### Returns
 
 [`ScriptStruct`](ue_ue.ScriptStruct.md)
-
-#### Defined in
-
-[ue/ue_s.d.ts:62](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L62)

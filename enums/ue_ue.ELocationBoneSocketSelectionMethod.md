@@ -19,19 +19,11 @@
 
 • **BONESOCKETSEL\_MAX** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33974)
-
 ___
 
 ### BONESOCKETSEL\_Random
 
 • **BONESOCKETSEL\_Random** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33974)
 
 ___
 
@@ -39,16 +31,8 @@ ___
 
 • **BONESOCKETSEL\_Sequential** = `number`
 
-#### Defined in
-
-[ue/ue.d.ts:33974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33974)
-
 ___
 
 ### \_\_typeKeyDoNoAccess
 
 • **\_\_typeKeyDoNoAccess** = `number`
-
-#### Defined in
-
-[ue/ue.d.ts:33974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33974)
